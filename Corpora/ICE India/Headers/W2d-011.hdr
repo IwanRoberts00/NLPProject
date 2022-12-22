@@ -1,0 +1,66 @@
+<text.info>
+     <file.description>
+              <textcode>ICE-IND-W2D-011</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>printed:instructional:
+                skills/hobbies</category>
+              <wordcount>2135</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2D-011>
+            <source.type=newspaper>
+            <source.title>The Hindustan Times</source.title>
+            <scope>national</scope>
+            <frequency>weekly</frequency>
+            <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>The Hindustan Times Ltd.</publisher>
+            <address>18-20 Kasturba Gandhi Marg, New Delhi-
+               110001</address>
+            <place>New Delhi</place>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of The
+            Hindustan Times Ltd.</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-011</it>>
+           <subtext.name>ICE-IND-Exhibitions</subtext.name>
+                 <main.title>Arts & Culture</main.title>
+                 <subtitle>For a world cleansed of cruelty and
+                   pain</subtitle>
+                 <page.nos>13</page.nos>
+                 <date>06-05-90</date>
+           <free.comments></free.comments>
+                <main.title>Arts & Culture</main.title>
+                 <subtitle>Excellent water colours at
+                   AIFACS</subtitle>
+                 <page.nos>13</page.nos>
+                 <date>11-02-90</date>
+           <free.comments></free.comments>
+                <main.title>Arts & Culture</main.title>
+                 <subtitle>Transformed vignettes of
+                   nature</subtitle>
+                 <page.nos>13</page.nos>
+                 <date>25-01-90</date>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-011</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Chaitanya</surname>
+                <forenames>Krishna</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

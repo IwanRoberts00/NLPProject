@@ -1,0 +1,71 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-092</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:distance
+                 conversation</category>
+            <wordcount>2341</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-092>
+     <source.type=Dialogue:private:distance conversation>
+     <recording.data>
+            <date>27-08-92</date>
+            <time>4pm</time>
+            <place>Residence, Kolhapur</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-092</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-092</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Padhye</surname>
+            <forenames>Nalini</forenames>
+            <age>34-41</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Sangli, Maharashtra</birthplace>
+            <education>G.K. Gokhale College & Shivaji
+                 University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Bank Employee</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-092</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>D'sa</surname>
+            <forenames>Veronica</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Bejai, Mangalore, Karnataka</birthplace>
+            <education>St. Agnes College, Mangalore</education>
+            <educational.level>Graduate</educational.level>
+            <occupation>Bank Official</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Konkani</mother.tongue>
+            <other.languages>Hindi, Kannada,
+                 Marathi</other.languages>
+            <free.comments>Moved to Bombay (1972-80), Kolhapur
+                 (1980 to date)</free.comments>
+     </biography>
+</text.info>

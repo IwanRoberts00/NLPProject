@@ -1,0 +1,78 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-016</textcode>
+             <number.of.subtexts>2</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>2145</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=a,b>
+     <source.type=newspaper>
+           <source.title>The Hitavada</source.title>
+           <scope>regional</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Rajendra Purohit & Co.</publisher>
+            <address>Pandit Jawaharlal Nehru Marg, Nagpur-     
+                    440012</address>
+            <place>Nagpur</place>
+            <date>28-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Rajendra
+                Purohit & Co.</copyright.statement>
+     <free.comments>text was obtained by Prof.                 
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-016a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>No Accidents Please</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>1 & 4</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-016b</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Tennis</main.title>
+                 <subtitle>Lendl to meet Edberg in             
+                          final</subtitle>
+                 <page.nos>8</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-016a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Vardi</surname>
+                <forenames>Surjit</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-016b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

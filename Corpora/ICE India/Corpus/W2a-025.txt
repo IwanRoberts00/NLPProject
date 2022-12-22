@@ -1,0 +1,466 @@
+<I> <O> Indian Journal of Pure & Applied Physics Vol.30, April 1992, pp.
+159-164. </O>
+
+<ICE-IND:W2A-025#1:1>
+<h> <bold> Ligand mediated pseudohypersensitivity of some 4f-4f
+transitions ( <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>2</sb>,
+<sp> 3</sp>P<sb>1</sb>, <sp> 3</sp>P<sb>0</sb> and <sp> 1</sp>D<sb>2</sb> )
+and coordination environment around praseodymium ( III ) </bold> </h> <&>
+authors centered </&>
+
+<ICE-IND:W2A-025#2:1>
+Sudhindra N Misra & Surendra B Mehta <&> centered </&> Chemical
+Laboratories, Bhavanagar University, Bhavnagar 364002 <&> centered </&>
+
+<ICE-IND:W2A-025#3:1>
+Received 22 August 1991; revised received 17 December 1991 <&>
+
+<p> 
+<ICE-IND:W2A-025#4:1>
+The absorption difference and comparative absorption
+spectrophotometry of praseodymium ( III ) complexes with ligands having
+varying binding sites ( <*> beta</*>-diketonates, haloacetates,
+fluorccarboxylates, fluorosulphate, trifluoromethane sulphonates, diols,
+bipyridine and ortho-phenanthroline ) , have clearly shown that the
+non-hypersensitive <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>2</sb>; <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>1</sb>; <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>0</sb> and <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+1</sp>D<sb>2</sb> transitions, exhibited substantial sensitivity towards even
+minor changes in the immediate coordination environment around praseodymium (
+III ) .
+
+<ICE-IND:W2A-025#5:1>
+We have given the name Ligand Mediated Pseudohypersensitivity to such
+an observation and referred these transitions as pseudohypersensitive
+transitions.
+
+<ICE-IND:W2A-025#6:1>
+The different structural and binding characteristics of these ligands
+in terms of the coordinating power of the donor sites, denticity, normalized
+bite, chelating ability, the nature and geometry of the complex species
+induce varying intensity to these pseudohypersensitive transitions. </p>
+</&> <&> in two columns </&> <&> column one </&>
+
+<ICE-IND:W2A-025#7:1>
+<h> <bold> 1 Introduction </bold> </h>
+
+<p> 
+<ICE-IND:W2A-025#8:1>
+The complexation of lanthanides brings enhancement of the
+intensity of hypersensitive transition up to 200 times greater than that of
+corresponding lanthanide aquo ion<sp>1</sp>; however, the intensities of
+other transitions have rarely been found to be larger than those of aquo ion
+and sometimes even less<sp>2.3</sp>.
+
+<ICE-IND:W2A-025#9:1>
+During the course of our work on several complexes of structurally
+different ligands, we have observed that the binding characteristics of
+different ligands apprehensive transitions of lanthanides.
+
+<ICE-IND:W2A-025#10:1>
+The transitions <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>2</sb>; <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>1</sb>; <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+1</sp>D<sb>0</sb> in Pr ( III ) and <sp> 4</sp>I<sb>9/2</sb> <*> arrow</*>
+<sp> 4</sp>G<sb>7/2</sb>; <sp> 4</sp>I<sb>9/2</sb> <*> arrow</*> <sp>
+4</sp>F<sb>7/2</sb>; <sp> 4</sp>I<sb>9/2</sb> <*> arrow</*> <sp>
+4</sp>F<sb>5/2</sb> and <sp> 4</sp>I<sb>9/2</sb> <*> arrow</*> <sp>
+4</sp>F<sb>3/2</sb> in Nd ( III ) are such that they do not follow selection
+rules for quadrupole transition; yet these showed substantial sensitivity
+towards even the minor changes in the immediate coordination environment
+around corresponding lanthanide ion.
+
+<ICE-IND:W2A-025#11:1>
+We have given the name ligand mediated pseudohypersensitivty
+for such observation and considered these transitions as
+pseudohypersensitive transitions<sb>4.5a</sb>.
+
+<ICE-IND:W2A-025#12:1>
+The present work reports the ligand mediated
+pseudohypersensitivity of <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>2</sb>; <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>1</sb> and <sp> 2</sp>H<sb>4</sb> <*> arrow</*> <sp>
+1</sp>D<sb>2</sb> transitions of Pr ( III ) and utilized the magnitude and
+variation of the oscillator strength ( P ) and Jodd Ofelt electric dipole
+intensity ( T<*>lambda</*> ) parameters in complexes of Pr ( III ) (
+haloacetates, fluorocarboxylates, <*> beta</*>-diketonates, diols and
+ortho phenanthroline derivatives ) .
+
+<ICE-IND:W2A-025#13:1>
+The variation of coulombic <O> unclear </O> spin-orbit ( <O> unclear
+</O> <sb> 4f</sb> ) , nephelauxetic ( <*> line over beta</*>, <*> delta</*>,
+<it> b</it> ) parameters<sb>4.6</sb> in these complexes have also been
+considered to support the intensity data. </p>
+
+<ICE-IND:W2A-025#14:1>
+<h> <bold> 2 Results and Discussion </bold> </h>
+
+<p> 
+<ICE-IND:W2A-025#15:1>
+Praseodymium ( III ) an f<sp>2</sp> ion, is the simplest lantha
+nide ion with f electron and with the stable oxidation state in aqueous and
+non-aqueous media; it is not widely studied as compared to Nd ( III ) and Eu
+( III ) with f<sp>3</sp> and f<sp>6</sp> configurations.
+
+<ICE-IND:W2A-025#16:1>
+Actually JuddOfelt theory works less satisfactorily for Pr ( III )
+as compared to other lanthanides<sp>6.7</sp>.
+
+<ICE-IND:W2A-025#17:1>
+The calculation of P of 4f-4f transitions gives substantially high
+root mean square values.
+
+<ICE-IND:W2A-025#18:1>
+The <sp> 3</sp>H<sb>4</sb> - > <sp> 3</sp>F<sb>2</sb> transition of
+Pr ( III ) , occurring around <*> aproximate-sign</*> 5200 cm<sp>-1</sp>,
+follow selection rules for quadrupole transition and hence behaves as
+hypersensitive transition, but it is not generally studied in solution
+spectral analysis.
+
+<ICE-IND:W2A-025#19:1>
+Peacock found <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>2</sb> and <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+1</sp>D<sb>2</sb> transitions showing substantial sensitivity in
+phosphomolybdates and phosphotungstate<sp>8</sp>.
+
+<ICE-IND:W2A-025#20:1>
+Significant variations of electric dipole intensity (
+T<sb><*>lambda</*></sb> ) where <*> lambda</*> = 2,4,6 specially T<sb>2</sb>
+parameter, have been shown for several solution spectral studies
+involving lanthanides in different coordination compounds<sp>9.10</sp>.
+
+<ICE-IND:W2A-025#21:1>
+Siddal and Stewart<sp>11</sp> on the other hand reported the <sp>
+3</sp>H<sb>4</sb> <*> arrow</*> <sp> 1</sp>I<sb>6</sb>, transiton to be
+hypersensitive which was strongly contested by Peacock<sp>8</sp>.
+
+<ICE-IND:W2A-025#22:1>
+In order to explain the anomalous behaviour of Pr ( III ) , Carnall
+<it> et al </it> , <sp> 6</sp> and Weber<sp>12</sp> put forward a theory
+which considered certain assumption made in Judd-Ofelt theory.
+
+<ICE-IND:W2A-025#23:1>
+The assumption considers the perturbation configurations degenerate
+and these lie <O> <&> page </&> 160 </O> at higher energies than 4f-4f
+transitions.
+
+<ICE-IND:W2A-025#24:1>
+The inclusion of odd part of intensity expression improves the
+interpretation of Pr ( III ) absorption spectra intensity slightly.
+
+<ICE-IND:W2A-025#25:1>
+In <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>2</sb>, <sp>
+3</sp>P<sb>1</sb>, <sp> 3</sp>P<sb>0</sb> multiplets, the <*> lambda</*> = 5
+reduced matrix elements are non zero.
+
+<ICE-IND:W2A-025#26:1>
+It may be possible then that T<sb>5</sb> may be contributing to the
+intensity at <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>2</sb> and
+<sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>1</sb>, because the <sp>
+3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>2</sb> and <sp>
+3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>1</sb> multiplets have <*>
+lambda</*> = 5 reduced matrix values <*> approximate- sign</*> 0.283 and
+0.502, while for <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>0</sb>
+multiplet <*> lambda</*> = 5 has zero value.
+
+<ICE-IND:W2A-025#27:1>
+But if this is the interpretation, the discrepancies in the values of
+P would then be more in <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>2</sb> transition observed by Peacock<sp>8</sp> and also by
+us<sp>5b.13.14</sp>, thus, cannot be explained on this argument.
+
+<ICE-IND:W2A-025#28:1>
+Peacock<sp>8</sp> considered the exceptional behabiour of Pr ( III )
+hypersensitivity, as one of the major problem in the lanthanide f-f
+intensity theory.
+
+<ICE-IND:W2A-025#29:1>
+This appears most probably to be the reason why very few absorption
+spectral studies have been made on Pr ( III ) complexes. </p>
+
+<p> 
+<ICE-IND:W2A-025#30:1>
+Peacock<sp>8</sp> experienced difficulty in getting a good fit
+between the observed and the calculated values of <w> P's </w> of various
+transitions.
+
+<ICE-IND:W2A-025#31:1>
+Our procedure using partial and multiple regression
+method<sp>13-17</sp> has yielded very good agreement between observed and
+calculated P of <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>2</sb>
+and <sp> 3</sp>H<sb>2</sb> <*> arrow</*> <sp> 1</sp>D<sb>2</sb> transitions,
+while marginally overestimated values were found for <sp> 3</sp>H<sb>4</sb>
+<*> arrow</*> <sp> 3</sp>P<sb>1</sb> and marginally underestimated
+values<sp>13.14.15.16.17</sp> were found for <sp> 3</sp>H<sb>4</sb> <*>
+arrow</*> <sp> 3</sp>P<sb>0</sb>.
+
+<ICE-IND:W2A-025#32:1>
+The RMS deviations in <w> P's </w> of <sp> 3</sp>H<sb>4</sb> <*>
+arrow</*> <sp> 3</sp>P<sb>1</sb> and <sp> 3</sp>H<sb>4</sb> <*> arrow</*>
+<sp> 3</sp>P<sb>0</sb> transitions computed by our method<sp>4.10.14</sp>
+were of much smaller magnitude than those observed by Peacock<sp>7.8</sp>
+and Tandon and Mehta<sp>9</sp>. </p>
+
+<p> 
+<ICE-IND:W2A-025#33:1>
+An examination of <w> Carnall's </w> coefficients for U<sp> ( 2 )
+</sp> shows, that these are nearly equal in case of <sp> 3</sp>H<sb>4</sb>
+<*> arrow</*> <sp> 3</sp>P<sb>0</sb> and <sp> 3</sp>H<sb>4</sb> <*> arrow</*>
+<sp> 3</sp>P<sb>1</sb> bands, hence these bands should have almost the same
+intensity.
+
+<ICE-IND:W2A-025#34:1>
+The intensity of <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>1</sb> band is always found to be larger than that of <sp>
+3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>0</sb>.
+
+<ICE-IND:W2A-025#35:1>
+One way of making <w> P's </w> of <sp> 3</sp>H<sb>4</sb> <*>
+arrow</*> <sp> 3</sp>P<sb>1</sb> and <sp> 3</sp>H<sb>4</sb> <*> arrow</*>
+<sp> 3</sp>P<sb>0</sb> transition equal, is to equal the net intensity
+difference ( <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>1</sb> )
+<*> arrow</*> ( <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>0</sb> )
+by giving a positive factor, a correction factor T-or we can use a negative
+correction factor T<sb>8</sb>( <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>0</sb> ) <*> arrow</*> ( <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>1</sb> ) .
+
+<ICE-IND:W2A-025#36:1>
+We feel it is too early to say, which one of these approaches is
+the correct one.
+
+<ICE-IND:W2A-025#37:1>
+However, as experced, the introduction of these correction factors,
+eliminated some of the discrepancy in the values of P of praseodymium( III )
+4f-4f transitions and tried to make T<sb>2</sb> positive, but we do not want
+to say with definiteness, till the natureof T<sb>7</sb> and T<sb>8</sb> is
+known with certainty.
+
+<ICE-IND:W2A-025#38:1>
+No doubt the introduction of T<sb>7</sb> and T<sb>8</sb> lowers the
+RMS deviation between observed and calculated values of oscillator strengths
+of different 4f-4f transitions.
+
+<ICE-IND:W2A-025#39:1>
+We are working in detail to find out the feasibility of these
+correction parameters by applying to a large number of spectra of Pr( III )
+complexes both in solid state as well as in solution<sp>4,5c</sp>. </p>
+
+<p> 
+<ICE-IND:W2A-025#40:1>
+The values of T<sb><*>lambda</*></sb> parameters have been found
+to consist of both vibronic and static part.
+
+<ICE-IND:W2A-025#41:1>
+The T<sb><*>ambda</*></sb> parameters, as phenomenologically
+obtained, are a combination of T<sb><*>lambda</*></sb> due to static and
+vibronic perturbation.
+
+<ICE-IND:W2A-025#42:1>
+The variation of T<sb><*>lambda</*></sb> with environmental changes,
+can be determined by crystal field parameter A<sb>t,p</sb>, which in turn
+depends upon the position ( angular disposition and distance ) and charges of
+the surrounding ligands.
+
+<ICE-IND:W2A-025#43:1>
+For lanthanides other than Pr ( III ) , the T<sb>2</sb> varies
+enormously with the environmental changes around metal ion, while
+T<sb>4</sb> and T<sb>6</sb> are almost insensitive to the environment, making
+thus the intensities of non-hypersensitive transitions of little use in
+solving structural problems.
+
+<ICE-IND:W2A-025#44:1>
+These 4f-4f transitions are weakly allowed, due to some mixing
+of the excited states of opposite parity into the ground state, as a result
+of configuration interacions.
+
+<ICE-IND:W2A-025#45:1>
+This small mixing may be increased on complexation, if the energy
+of the excited state is lowered.
+
+<ICE-IND:W2A-025#46:1>
+Additional intensity may be gained, by mixing of ligand and metal
+wave functions due to orbital overlap, with the result that the intensity of
+the hypersensitive transition increases substantially.
+
+<ICE-IND:W2A-025#47:1>
+The introduction of covalency in the metal-ligand bond improves the
+possibilty of mixing of the states of opposite parity, which is required for
+relaxing the rules for f-f transitions and thereby leading to the
+intensification.
+
+<ICE-IND:W2A-025#48:1>
+Iftikhar<sp>18</sp> has recently observed the high intensification of
+hypersensitive transition which he ascribed to eigen perturbation.
+
+<ICE-IND:W2A-025#49:1>
+He, however, could observe only marginal intensification in
+non-hypersensitive transitions<sp>18</sp>. </p>
+
+<p> 
+<ICE-IND:W2A-025#50:1>
+During the course of present work on Pr ( III ) complexes, it
+is observed, that though <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>2</sb>, <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp>
+3</sp>P<sb>0</sb> <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>0</sb>
+and <sp> 3</sp>H<sb>4</sb> <*> arrow</*> <sp> 1</sp>D<sb>2</sb> transitions
+are not hypersensitive in orthodox sense, yet these exhibit high
+intensification and wide variation of oscillation strength.
+
+<ICE-IND:W2A-025#51:1>
+These undergo changes under the inference of the structural
+features and bonding characteristics of the ligands.
+
+<ICE-IND:W2A-025#52:1>
+The complexes investigated belong to the ligands with widely
+differing binding features; fluorocarboxylates, fluorosulphates,
+trifluoromethane sulphonate, <*> beta</*>-diketonates, diol
+derivatives; phenanthroline and bipyridine.
+
+<ICE-IND:W2A-025#53:1>
+These complexes range between essentially outer sphere
+complexes to predominantly inner sphere complexes.
+
+<ICE-IND:W2A-025#54:1>
+The complexes belonging to similar ligands have been placed and the
+data on <w> P's </w> and electric dipole Judd-Ofelt T<sb><*>lambda</*></sb>
+parameters along with energy interaction <O> <&> page </&> 161 </O> (
+F<sb>k</sb>, E<sp>k</sp> ) , nephelauxetic ( <*> line over beta </*> )
+bonding ( b) and covalency ( <*> delta</*> ) have been considered, for
+interpreting the coordination environment around praseodymium ( III ) ,
+extent of involvement of metal 4f orbitals and degree of outer sphere-inner
+sphere coordination. </p>
+
+<p> 
+<ICE-IND:W2A-025#55:1>
+The fluorocarboxylates, fluorosulphates, trifluoromethane
+sulphonates, diol derivatives, and <*> beta </*> -  diketonates of
+praseodymium ( III ) all involve oxygen as coordinating sites.
+
+<ICE-IND:W2A-025#56:1>
+All involve either bidentate or dimeric bridging attachment of
+ligands in their crystalline derivatives.
+
+<ICE-IND:W2A-025#57:1>
+The ortho-phenanthroline and bipyridine complexes of praseodymium
+indicate the presence of nitrogen environment around praseodymium ( III ) .
+</p>
+
+<ICE-IND:W2A-025#58:1>
+<h> <bold> 2.1 Fluorocarboxylates of praseodymium ( III ) </bold>
+</h>
+
+<p> 
+<ICE-IND:W2A-025#59:1>
+The fluorocarboxylates of praseodymium ( III ) of the type Pr (
+OOCR ) <sb> 3</sb> where R = CH<sb>2</sb>F, CHF<sb>2</sb>, CF<sb>3</sb>,
+C<sb>2</sb>F<sb>5</sb>, C<sb>3</sb>F<sb>7</sb> and C<sb>6</sb>H<sb>4</sb>F
+and fluorosulphate Pr ( OSO<sb>2</sb>F ) <sb> 3</sb> and trifluoromethane
+sulphonate Pr ( CF<sb>3</sb>SO<sb>3</sb> ) <sb> 3</sb> provide immediate
+coordination environment comprising oxygen donor sites of these fluoro
+ligands.
+
+<ICE-IND:W2A-025#60:1>
+In case of fluorocarboxylates, the presence of three coordinated
+water molecules provides non-coordinated environment around
+praseodymium, while fluorosulphate and trifluoromethane sulphonate involve
+octacoordinated praseodymium as a result of polymeric nature of these
+compounds. </p>
+
+<p> 
+<ICE-IND:W2A-025#61:1>
+The energy interaction and the nephelauxetic ( <*> line over
+beta</*>, b<sb>1</sb> <*> delta</*> ) derived from the observed energies of
+the transitions, show that there are significant changes in coulombic (
+F<sb>k</sb>, E<sp>k</sp> ) parameters, computed from the spectra recorded at
+pH <*> aooroxinate-sign</*> 2.0 and pH <*> approximate-sign</*> 6.0,
+sugests that at pH <*> approxinate-sign</*> 6.0 these fluorocarboxylates,
+fluorosulphate and trifluoromethane sulphonate moleties become far
+better ligands.
+
+<ICE-IND:W2A-025#62:1>
+In fluorocarboxylaes themselves, as the number of fluorine in the
+alkyl group increases, the acid strength of acid increases.
+
+<ICE-IND:W2A-025#63:1>
+The increase in the acidic strength of the ligand contributes
+towards the decrease in the nephelauxetic effect and bonding parameter in
+their praseodymium ( III ) complexes. </p>
+
+<p> 
+<ICE-IND:W2A-025#64:1>
+Fluorosulphate and trifluoromethane sulphonate involve most
+probably tetrameric unit with oxygen bridges of the trifluoromethane
+sulphonate and fluorosulphate group most probably involving
+octacoordinated praseodymium( III ) .
+
+<ICE-IND:W2A-025#65:1>
+These dissolve in dimethyl sulphoxide and water.
+
+<ICE-IND:W2A-025#66:1>
+In water these give weaker 4f-4f bands with substantially lesser
+magnitude of nephelauxetic effect.
+
+<ICE-IND:W2A-025#67:1>
+Thus in these compounds both components A<sb>tp</sb> ( t, odd ) of
+the following equation appear to contribute towards the intensity of
+4f-4f transition and magnitude of T<sb><*>lambda</*></sb> parameters as
+shown below by equation of Judd<sp>19</sp>: </p> <O> equation </O>
+
+<p> 
+<ICE-IND:W2A-025#68:1>
+In fluorocarboxylate derivatives themselves the oscillator
+strength of 4f-4f transitions vary significantly specially for <sp>
+3</sp>H<sb>4</sb> <*> arrow</*> <sp> 3</sp>P<sb>2</sb> and <sp>
+3</sp>H<sb>4</sb> <*> arrow</*> <sp> 1</sp>D<sb>2</sb> transitions which are
+pseudo-hypersensitive in nature.
+
+<ICE-IND:W2A-025#69:1>
+The increased number of fluorine substituent appears to contribute
+towards decrease in the intensity of f-f transition as well as lowering of
+the nephelauxetic effect, bonding and covalency parameters.
+
+<ICE-IND:W2A-025#70:1>
+This is understandable in view of the increased electron withdrawing
+power of different fluoroalkyl groups CH<sb>2</sb>F <*> greater than</*>
+CHF<sb>2</sb> <*> greater than</*> CF<sb>3</sb> <*> greater than</*>
+C<sb>2</sb>F<sb>5</sb> <*> greater than</*> C<sb>3</sb>F<sb>7</sb> </p>
+
+<p> 
+<ICE-IND:W2A-025#71:1>
+Comparing the energy and intensity data of these
+fluorocarboxylates, fluorosulphate and trifluoromethane sulphonate
+complexes of Pr ( III ) in water and dimethyl formamide and dimethyl
+sulphoxide, we find substantial changes.
+
+<ICE-IND:W2A-025#72:1>
+The aqueous solution spectra yield weaker 4f-4f bands and smaller
+magnitudes for nephelauxetic and bonding parameters, but these values are
+substantial as compared to that observed for Pr ( III ) aquo ion.
+
+<ICE-IND:W2A-025#73:1>
+In dimethylformamide, however, the lowering of coulombic (
+F<sb>k</sb>, E<sp>k</sp> ) , nephelauxetic parameter ( <*> line over beta</*> )
+is substantially greater while values of bonding ( b) and covalency ( <*>
+<it> b</it></*> ) parameters increase significantly and thus pointing
+towards increased incidence of covalency as a result of different
+coordinating power of dimethylformamide and dimethylsulphoxide molecules.
+
+<ICE-IND:W2A-025#74:1>
+Borina<sp>20</sp> has very recently reported that even in the solvent
+composition 50 : 50 water-DMSO the inner coordination shell of
+praseodymium consisted of dimethyl sulphoxide and this resulted in the
+isolation of [ Pr ( DMSO ) <sb> 8</sb> ] <sp> 3+</sp>.
+
+<ICE-IND:W2A-025#75:1>
+However, we have found that even in the solvent composition 80 : 20
+DMSO : water, the octa solvated complexes do not exist; only mixed solvato
+complexes of the type [ Pr ( DMSO ) <sb> x</sb> ( ligand ) <sb>
+y</sb>]<sp>3+</sp> could be isolated.
+
+<ICE-IND:W2A-025#76:1>
+Even in pure dimethyl sulphoxide / dimethylformamide slowly the
+anionic ligands from inner coordination sphere move to the outer sphere
+coordination, finally yielding octacoordinated solvent comlex of
+praseodymium ( III ) . </p> </I>

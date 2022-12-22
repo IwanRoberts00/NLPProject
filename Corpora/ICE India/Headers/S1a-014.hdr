@@ -1,0 +1,68 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-014</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2188</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-014>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>30-10-96</date>
+            <time>12noon</time>
+            <place>Mysore:CIIL Office</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-014</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-014</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Ravanan</surname>
+            <forenames>Anita</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Language Assistant</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Telugu</mother.tongue>
+            <other.languages>Bengali</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-014</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Bhattacharya</surname>
+            <forenames>Malini</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>M.Phil</educational.level>
+            <occupation>Language Assistant</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Bengali</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

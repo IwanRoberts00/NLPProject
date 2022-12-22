@@ -1,0 +1,49 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-020</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:story</caregory>
+            <wordcount>3092</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2F-020>
+            <source.type=periodical>
+            <source.title>Femina</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Fortnightly</series>
+       <publication.statement>
+            <publisher>Bennett, Coleman & Co. Ltd.</publisher>
+            <address>Dr N. D. Road, Bombay-400001</address>
+            <place>Bombay</place>
+            <date>08-07-93</date>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of Bennett,
+            Coleman & Co. Ltd.</copyright.statement>
+       <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-020>
+       <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Shreya of Songarh</main.title>
+            <subtitle></subtitle>
+            <page.nos>77-79</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-020>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Vasudev</surname>
+            <forenames>Uma</forenames>
+            <age></age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+</text.info>

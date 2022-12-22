@@ -1,0 +1,56 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-017</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              social sciences</category>
+            <wordcount>2181</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-017>
+        <source.type=periodical>
+            <source.title>Chartered Secretary</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Monthly</series>
+        <publication.statement>
+            <publisher>Dr. S. P. Narang</publisher>
+            <address>The Institute of Company Secretaries of
+              India, ICSI House, 22, Institutional Area, Lodi
+              Road, New Delhi-110003</address>
+            <place>New Delhi</place>
+            <date>November 1990</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-017</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Participation of Workers in Management
+              Bill, 1990</main.title>
+            <subtitle></subtitle>
+            <page.nos>937-940</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-017</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>N</surname>
+                <forenames>Ramaswami</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation>Dy. Chief Personnel Officer, Southern
+                  Railway</occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

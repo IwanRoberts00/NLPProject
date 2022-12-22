@@ -1,0 +1,51 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-004</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:story</caregory>
+            <wordcount>2506</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2F-004>
+            <source.type=monograph>
+            <source.title>2001</source.title>
+            <source.subtitle>Incorpared by Science
+              Today</source.subtitle>
+            <series>Vol.25, No-7</series>
+       <publication.statement>
+            <publisher>Bennett Coleman & Co. Ltd.,</publisher>
+            <address>10, Daryaganj, New Delhi-110002</address>
+            <place>New Delhi</place>
+            <date>Aug-Sep 1991</date>
+            <ISBN></ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of the
+             publisher</copyright.statement>
+       <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-004>
+       <subtext.name>ICE-IND-</subtext.name>
+            <main.title>The Game Of God</main.title>
+            <subtitle></subtitle>
+            <page.nos>31-32 & 50</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-004>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Dawka</surname>
+            <forenames>Sushil</forenames>
+            <age></age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+</text.info>

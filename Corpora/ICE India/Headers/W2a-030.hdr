@@ -1,0 +1,90 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-030</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              natural sciences</category>
+            <wordcount>2297</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-030>
+        <source.type=periodical>
+            <source.title>The Indian Geographical
+              Journal</source.title>
+            <source.subtitle></source.subtitle>
+            <series>half yearly</series>
+        <publication.statement>
+            <publisher>The Indian Geographical Society Madras-
+              600005</publisher>
+            <address>Dattarams Reprographics(p) Ltd., II/22 VSI
+              Estate, Thiruvanmiyar, Madras-600041</address>
+            <place>Madras</place>
+            <date>1994</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-030</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Land Systems and Landforms of Chittoor
+              District Andhra Pradesh, India</main.title>
+            <subtitle></subtitle>
+            <page.nos>28-35</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-030</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname></surname>
+                <forenames>S.T. Jaya Raju</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-030</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Rao</surname>
+                <forenames>S.V. Lingeswara</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-030</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Rao</surname>
+                <forenames>K.L. Narasimha</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

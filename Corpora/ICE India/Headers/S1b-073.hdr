@@ -1,0 +1,146 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-073</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:business
+                 transactions</category>
+            <wordcount>2265</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-073>
+     <source.type=Dialogue:public:business transactions>
+     <recording.data>
+            <date>10-07-94</date>
+            <time>10am</time>
+            <place>V P M High School, Mulund(Bombay)</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments>Meeting of the Managing Committee in
+                 Principal's office</free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-073</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>6</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-073</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kamath</surname>
+            <forenames>Padmanabh</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Mhalky, South Kanara,
+                 Karnataka</birthplace>
+            <education>Bombay University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Teacher</occupation>
+            <affiliations>Indian Association for American
+                 Studies</affiliations>
+            <mother.tongue>Konkani</mother.tongue>
+            <other.languages>Kannada, Hindi,
+                 Marathi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-073</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kulkarni</surname>
+            <forenames>Narahari</forenames>
+            <age>65</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Handur, Belgaum, Karnataka</birthplace>
+            <education>Bombay University</education>
+            <educational.level>Graduate</educational.level>
+            <occupation>Business</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi,
+                 Gujrati</other.languages>
+            <free.comments>Stayed in Dharwad upto 1945, moved to
+                 Bombay 1946 to date</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-073</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Joshi</surname>
+            <forenames>Gurunath</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Bellatti, Gadag, Karnataka</birthplace>
+            <education>Bombay University, Karnataka
+                 University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>College Teacher</occupation>
+            <affiliations>Life member of Kannada Sahitya Parishak
+                 Bangalore</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Bombay (1947 to
+                 date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-073</it>>
+            <speaker.id>D</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Bhujang</surname>
+            <forenames>K.S.</forenames>
+            <age>78</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Retd. Director, Office of the Textile
+                 Commissioner</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-073</it>>
+            <speaker.id>E</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kamath</surname>
+            <forenames>Umesh</forenames>
+            <age>65</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Graduate</educational.level>
+            <occupation>Rtd. LIC Branch Manager</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Konkani</mother.tongue>
+            <other.languages>Kannada</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-073</it>>
+            <speaker.id>F</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Shetty</surname>
+            <forenames>Vittal</forenames>
+            <age>57</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>High School</educational.level>
+            <occupation>Caterers</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Tulu</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,1266 @@
+<I>
+
+<$A> 
+<ICE-IND:S1B-013#1:1:A>
+<mention> Area and volume of a regular solid </mention> <,>
+
+<ICE-IND:S1B-013#2:1:A>
+So what is a regular solid <,> ?
+
+<ICE-IND:S1B-013#3:1:A>
+A regular solid is one in which <,> all the sides <,> and angles are
+<{> <[> equal </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-013#4:1:C>
+<[> Equal </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#5:1:A>
+Can you observe here ?
+
+<$CH> 
+<ICE-IND:S1B-013#6:1:C>
+Yes sir
+
+<$A> 
+<ICE-IND:S1B-013#7:1:A>
+All sides and angles are equal
+
+<$CH> 
+<ICE-IND:S1B-013#8:1:C>
+Yes sir <,>
+
+<$A> 
+<ICE-IND:S1B-013#9:1:A>
+So what is the name of this figure <,,> ?
+
+<ICE-IND:S1B-013#10:1:A>
+What is the name of this solid ?
+
+<$CH> 
+<ICE-IND:S1B-013#11:1:C>
+Prism prism
+
+<$A> 
+<ICE-IND:S1B-013#12:1:A>
+Yes <,> this is called <,> prism
+
+<$CH> 
+<ICE-IND:S1B-013#13:1:C>
+Prism <,>
+
+<$A> 
+<ICE-IND:S1B-013#14:1:A>
+Now observe this <,,> face of this prism <,,>
+
+<ICE-IND:S1B-013#15:1:A>
+So here <,> this is what is <w> it's </w> <,> top
+
+<$S> 
+<ICE-IND:S1B-013#16:1:S>
+Top <,>
+
+<$A> 
+<ICE-IND:S1B-013#17:1:A>
+This is base <{1> <[1> base <,> and these are <{2> <[2> height
+<,> height <,>
+
+<$CH> 
+<ICE-IND:S1B-013#18:1:C>
+<[1> Base </[1> </{1>
+
+<$CH> 
+<ICE-IND:S1B-013#19:1:C>
+<[2> Height </[2> </{2>
+
+<$A> 
+<ICE-IND:S1B-013#20:1:A>
+The lateral faces
+
+<$CH> 
+<ICE-IND:S1B-013#21:1:C>
+Lateral faces
+
+<$A> 
+<ICE-IND:S1B-013#22:1:A>
+Now see this <,> shape of what is it is of base and its <{>
+<[> lateral faces </[>
+
+<$CH> 
+<ICE-IND:S1B-013#23:1:C>
+<[> Lateral faces </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#24:1:A>
+And now the shape of <,,> shape of what is it <,> base and
+lateral faces are different <,,>
+
+<ICE-IND:S1B-013#25:1:A>
+Shape of <,,> lateral faces and base are <{> <[> different </[>
+
+<$CH> 
+<ICE-IND:S1B-013#26:1:C>
+<[> Different </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#27:1:A>
+Now compare these <,> lateral faces only <,>
+
+<ICE-IND:S1B-013#28:1:A>
+What is the shape of the lateral faces ?
+
+<$CH> 
+<ICE-IND:S1B-013#29:1:C>
+Rectangular rectangular
+
+<$A> 
+<ICE-IND:S1B-013#30:1:A>
+Rectangular <{> <[> faces </[>
+
+<$CH> 
+<ICE-IND:S1B-013#31:1:C>
+<[> Faces </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#32:1:A>
+And compare to what is it ?
+
+<$CH> 
+<ICE-IND:S1B-013#33:1:C>
+Rectangular
+
+<$A> 
+<ICE-IND:S1B-013#34:1:A>
+Compare the <,> top and the base
+
+<$S> 
+<ICE-IND:S1B-013#35:1:S>
+Base <,>
+
+<$A> 
+<ICE-IND:S1B-013#36:1:A>
+What is the name of this one ?
+
+<$CH> 
+<ICE-IND:S1B-013#37:1:C>
+Square
+
+<$A> 
+<ICE-IND:S1B-013#38:1:A>
+Square base <,,> isn't it <,,> ?
+
+<ICE-IND:S1B-013#39:1:A>
+Now <,,> see the <,> top as well as what is it the lateral faces
+<,> how these two are there <,> ?
+
+<$S> 
+<ICE-IND:S1B-013#40:1:S>
+Which <,,> ?
+
+<$A> 
+<ICE-IND:S1B-013#41:1:A>
+Top as well as <,> <{> <[> lateral <,> lateral face <,>
+
+<ICE-IND:S1B-013#42:1:A>
+Are these perpendicular to one another ?
+
+<$S> 
+<ICE-IND:S1B-013#43:1:S>
+<[> Lateral </[> </{>
+
+<$CH> 
+<ICE-IND:S1B-013#44:1:C>
+Yes sir
+
+<$CH> 
+<ICE-IND:S1B-013#45:1:C>
+No sir <,> yes sir <,>
+
+<$A> 
+<ICE-IND:S1B-013#46:1:A>
+Lateral faces and <,> the coordinator <,,> the base <,> are
+<{> <[> perpendicular to each other </[>
+
+<$CH> 
+<ICE-IND:S1B-013#47:1:C>
+<[> Perpendicular to each other </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#48:1:A>
+Understood <,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#49:1:C>
+Yes sir
+
+<$A> 
+<ICE-IND:S1B-013#50:1:A>
+So such a <,,> figure or such a solid is known as what does it
+is ?
+
+<$CH> 
+<ICE-IND:S1B-013#51:1:C>
+Prism <,,>
+
+<$A> 
+<ICE-IND:S1B-013#52:1:A>
+And here this figure that is prism <,> has how many faces <,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#53:1:C>
+Six faces
+
+<$A> 
+<ICE-IND:S1B-013#54:1:A>
+Six faces
+
+<$S> 
+<ICE-IND:S1B-013#55:1:S>
+Sir Shailaja patil <,,>
+
+<$A> 
+<ICE-IND:S1B-013#56:1:A>
+Here this <,> prism is having what is it is square shaped <,>
+face
+
+<ICE-IND:S1B-013#57:1:A>
+Therefore this is called <,,> square based <,> prism <,>
+
+<ICE-IND:S1B-013#58:1:A>
+And <w> let's </w> take another prism <,> which has <,> three
+lateral faces <,,>
+
+<ICE-IND:S1B-013#59:1:A>
+Understood <,> ?
+
+<ICE-IND:S1B-013#60:1:A>
+So here what is the shape of the lateral face <,> ?
+
+<$S> 
+<ICE-IND:S1B-013#61:1:S>
+Rectangle
+
+<$A> 
+<ICE-IND:S1B-013#62:1:A>
+Rectangle <,> or rectangular <,> face
+
+<ICE-IND:S1B-013#63:1:A>
+And shape of the top of the <{> <[> top and the bases </[>
+
+<$CH> 
+<ICE-IND:S1B-013#64:1:C>
+<[> Triangular shape </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#65:1:A>
+Triangle bases
+
+<ICE-IND:S1B-013#66:1:A>
+So this <,> prism is called <,,> ?
+
+<$S> 
+<ICE-IND:S1B-013#67:1:S>
+<.> Triang </.>
+
+<$CH> 
+<ICE-IND:S1B-013#68:1:C>
+<{> <[> Triangular based prism </[>
+
+<$A> 
+<ICE-IND:S1B-013#69:1:A>
+<[> Triangular based prism </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#70:1:A>
+Now <,> we want to find what is it is <,> surface area <,,>
+
+<ICE-IND:S1B-013#71:1:A>
+Do you know how to find the surface area <,,> ?
+
+<ICE-IND:S1B-013#72:1:A>
+Or do you know how to find the <,,> area of a rectangle <,> ?
+
+<$S> 
+<ICE-IND:S1B-013#73:1:S>
+Yes
+
+<$A> 
+<ICE-IND:S1B-013#74:1:A>
+How do you find the area of a rectangle <,,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#75:1:C>
+Half base into height
+
+<$A> 
+<ICE-IND:S1B-013#76:1:A>
+Area of a rectangle
+
+<$S> 
+<ICE-IND:S1B-013#77:1:S>
+Length into breadth
+
+<$CH> 
+<ICE-IND:S1B-013#78:1:C>
+<{> <[> Length into breadth </[>
+
+<$A> 
+<ICE-IND:S1B-013#79:1:A>
+<[> Length into breadth </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#80:1:A>
+And how do you find the area of a square <,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#81:1:C>
+Side into side side into side
+
+<$A> 
+<ICE-IND:S1B-013#82:1:A>
+Side into <,> side because all the sides are equal <{> <[> in
+</[> <,,> square <,,>
+
+<$S> 
+<ICE-IND:S1B-013#83:1:S>
+<[> Square </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#84:1:A>
+Now see here
+
+<ICE-IND:S1B-013#85:1:A>
+How to find <,> the surface area of what is it is <,> prism ?
+
+<ICE-IND:S1B-013#86:1:A>
+In order to find what is its total surface area <,,> what we should
+do <,> ?
+
+<ICE-IND:S1B-013#87:1:A>
+Total surface area <,> here we can find what is it is <,> the area
+of <,> <{> <[> rectangle <,> rectangle
+
+<$S> 
+<ICE-IND:S1B-013#88:1:S>
+<[> Rectangle </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#89:1:A>
+That is of one shape <,>
+
+<ICE-IND:S1B-013#90:1:A>
+Similarly you can find the area of this shape
+
+<ICE-IND:S1B-013#91:1:A>
+Similarly you can find <,> the area of this shape
+
+<ICE-IND:S1B-013#92:1:A>
+Means we can find the areas of quadrilateral lateral faces <,>
+
+<ICE-IND:S1B-013#93:1:A>
+And we can also find what is it is <,> areas of top as well as <{>
+<[> base </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-013#94:1:C>
+<[> Base </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#95:1:A>
+So total surface area means what <,> ?
+
+<ICE-IND:S1B-013#96:1:A>
+Total surface area ?
+
+<ICE-IND:S1B-013#97:1:A>
+Now we can calculate the <,,> what is it surface area <,> of what
+is it each face <,>
+
+<ICE-IND:S1B-013#98:1:A>
+But to uhm find the what is total surface area <,,> ?
+
+<ICE-IND:S1B-013#99:1:A>
+It means what we have to do <,,> ?
+
+<ICE-IND:S1B-013#100:1:A>
+We have to find the we have to <,> find the sum of the what is it
+is <,> areas of all these faces <,,>
+
+<ICE-IND:S1B-013#101:1:A>
+So total surface area include <,,> the area of what is it is the
+lateral faces <,> as well as the area of what is it top and <{> <[> base </[>
+<,,>
+
+<$CH> 
+<ICE-IND:S1B-013#102:1:C>
+<[> Base </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#103:1:A>
+Now here we have the what is it is model <,>
+
+<ICE-IND:S1B-013#104:1:A>
+Model of the <,,> prism <,>
+
+<ICE-IND:S1B-013#105:1:A>
+Understood <,,> ?
+
+<ICE-IND:S1B-013#106:1:A>
+Can you prepare <,> a model of this type ?
+
+<$CH> 
+<ICE-IND:S1B-013#107:1:C>
+Yes sir
+
+<$A> 
+<ICE-IND:S1B-013#108:1:A>
+So you can cut out the shape of a prism <,> in cardboard <,,>
+
+<ICE-IND:S1B-013#109:1:A>
+Now here <,,> see you have what is it is <,> prism
+
+<ICE-IND:S1B-013#110:1:A>
+And <,,> you have prepared what is it model <,> and open it up <,>
+
+<ICE-IND:S1B-013#111:1:A>
+When you open it up what happens <,> ?
+
+<ICE-IND:S1B-013#112:1:A>
+You will get what is it is <,> figure of this prism <,>
+
+<$S> 
+<ICE-IND:S1B-013#113:1:S>
+Yes sir <,>
+
+<$A> 
+<ICE-IND:S1B-013#114:1:A>
+Do you get the figure of this kind or not ?
+
+<$CH> 
+<ICE-IND:S1B-013#115:1:C>
+Yes sir <,,>
+
+<$A> 
+<ICE-IND:S1B-013#116:1:A>
+Suppose here the length of the what is it is <,,>
+
+<$S> 
+<ICE-IND:S1B-013#117:1:S>
+Prism
+
+<$A> 
+<ICE-IND:S1B-013#118:1:A>
+The length of the what is it is
+
+<$S> 
+<ICE-IND:S1B-013#119:1:S>
+Prism <,,>
+
+<$A> 
+<ICE-IND:S1B-013#120:1:A>
+Rectangle
+
+<$CH> 
+<ICE-IND:S1B-013#121:1:C>
+Rectangle
+
+<$A> 
+<ICE-IND:S1B-013#122:1:A>
+Taking the rectangle <,>
+
+<ICE-IND:S1B-013#123:1:A>
+Length of the rectangle is <,> eight centimetres <,> and its
+breadth is <,> <{> <[> A centimetres </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-013#124:1:C>
+<[> A centimetres </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#125:1:A>
+Now here do you see that part <,> ?
+
+<ICE-IND:S1B-013#126:1:A>
+Do you find that it is a <,,> big rectangle ?
+
+<$CH> 
+<ICE-IND:S1B-013#127:1:C>
+They are not the same <,,>
+
+<$A> 
+<ICE-IND:S1B-013#128:1:A>
+And here what are these ?
+
+<$CH> 
+<ICE-IND:S1B-013#129:1:C>
+Square <,>
+
+<$A> 
+<ICE-IND:S1B-013#130:1:A>
+Yes what are these actually ?
+
+<$CH> 
+<ICE-IND:S1B-013#131:1:C>
+<{1> <[1> Top </[1> and the <{2> <[2> base </[2>
+
+<$A> 
+<ICE-IND:S1B-013#132:1:A>
+<[1> Top </[1> </{1>
+
+<$A> 
+<ICE-IND:S1B-013#133:1:A>
+<[2> Base </[2> </{2>
+
+<ICE-IND:S1B-013#134:1:A>
+Right <,>
+
+<ICE-IND:S1B-013#135:1:A>
+So it means we want to find what is the total surface area of the
+prism <,>
+
+<ICE-IND:S1B-013#136:1:A>
+To find the total surface area of the prism what we have to do <,> ?
+
+<ICE-IND:S1B-013#137:1:A>
+We have to find and we have to add <,> the surface areas of these
+lateral <.> fa </.> faces <,> plus what is it <,> ?
+
+<$S> 
+<ICE-IND:S1B-013#138:1:S>
+The base is
+
+<$A> 
+<ICE-IND:S1B-013#139:1:A>
+The area of the top and the <{> <[> base </[>
+
+<$CH> 
+<ICE-IND:S1B-013#140:1:C>
+<[> Base </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#141:1:A>
+Right <,,>
+
+<ICE-IND:S1B-013#142:1:A>
+So <,,> total <&> BB Writing </&> surface area <,,> area <,> of
+prism <,,> is equal to what is it is <,,> area of <,,> top <,> <{> <[> and
+base </[> <,> plus area of
+
+<$CH> 
+<ICE-IND:S1B-013#143:1:C>
+<[> And base </[> </{>
+
+<$CH> 
+<ICE-IND:S1B-013#144:1:C>
+Rectangle <,>
+
+<$A> 
+<ICE-IND:S1B-013#145:1:A>
+Area of
+
+<$S> 
+<ICE-IND:S1B-013#146:1:S>
+Lateral faces <,>
+
+<$CH> 
+<ICE-IND:S1B-013#147:1:C>
+Four rectangles
+
+<$A> 
+<ICE-IND:S1B-013#148:1:A>
+Four rectangles <,,> four rectangle
+
+<$CH> 
+<ICE-IND:S1B-013#149:1:C>
+Yes sir <,>
+
+<$A> 
+<ICE-IND:S1B-013#150:1:A>
+So area of top and bases
+
+<ICE-IND:S1B-013#151:1:A>
+These two have the shape of a <,> square <,,>
+
+<ICE-IND:S1B-013#152:1:A>
+Therefore what you can write here ?
+
+<ICE-IND:S1B-013#153:1:A>
+Area of base <,,> into <,> two <,> because these two have what is
+it is <,> same area <,>
+
+<ICE-IND:S1B-013#154:1:A>
+These two squares have same area <,,>
+
+<ICE-IND:S1B-013#155:1:A>
+Plus what is it is area of four rectangle <,>
+
+<ICE-IND:S1B-013#156:1:A>
+Now compare here <,,> all the rectangles have <,> same height <,>
+
+<$CH> 
+<ICE-IND:S1B-013#157:1:C>
+Yes sir <,,>
+
+<$A> 
+<ICE-IND:S1B-013#158:1:A>
+That is same length <,> and they have same breadth that is A
+centimetre <,,>
+
+<ICE-IND:S1B-013#159:1:A>
+Understood <,,> ?
+
+<ICE-IND:S1B-013#160:1:A>
+So area of four rectangles <,,> what you can write four into <,,>
+area of <,,> a rectangle <,,>
+
+<ICE-IND:S1B-013#161:1:A>
+Area of a <{> <[> rectangle </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-013#162:1:C>
+<[> Rectangle </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#163:1:A>
+Now how do you find the area of a rectangle here <,,> ?
+
+<ICE-IND:S1B-013#164:1:A>
+And how do you find the area of a square ?
+
+<ICE-IND:S1B-013#165:1:A>
+Just find out this one <,>
+
+<ICE-IND:S1B-013#166:1:A>
+So what is the <,,> formula to find the area of a square <,,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#167:1:C>
+Side into side
+
+<$A> 
+<ICE-IND:S1B-013#168:1:A>
+Side into <{> <[> side </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-013#169:1:C>
+<[> side </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#170:1:A>
+So here area of <,> base <,> these are base <,> but the bases
+have the what is it shape of <,,> what is it square <,> therefore what is the
+formula here <,,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#171:1:C>
+Side into side
+
+<$A> 
+<ICE-IND:S1B-013#172:1:A>
+What is the side of the square ?
+
+<$CH> 
+<ICE-IND:S1B-013#173:1:C>
+A
+
+<$A> 
+<ICE-IND:S1B-013#174:1:A>
+A
+
+<$CH> 
+<ICE-IND:S1B-013#175:1:C>
+A
+
+<$A> 
+<ICE-IND:S1B-013#176:1:A>
+A square <,>
+
+<$CH> 
+<ICE-IND:S1B-013#177:1:C>
+A
+
+<$A> 
+<ICE-IND:S1B-013#178:1:A>
+Therefore <,> area of <,,> base <,> into two is equal to what
+you can write <{> <[> two into A square </[>
+
+<$CH> 
+<ICE-IND:S1B-013#179:1:C>
+<[> Two into A square </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#180:1:A>
+Plus <{> <[> four </[>
+
+<$S> 
+<ICE-IND:S1B-013#181:1:S>
+<[> Two </[> </{>
+
+<$CH> 
+<ICE-IND:S1B-013#182:1:C>
+Sir four
+
+<$A> 
+<ICE-IND:S1B-013#183:1:A>
+Four <,>
+
+<ICE-IND:S1B-013#184:1:A>
+Now find the area of a rectangle
+
+<ICE-IND:S1B-013#185:1:A>
+How do you find the area of a rectangle <,,> ?
+
+<ICE-IND:S1B-013#186:1:A>
+We require length and <,> <{> <[> breadth </[>
+
+<$CH> 
+<ICE-IND:S1B-013#187:1:C>
+<[> breadth </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#188:1:A>
+So what is the length of the rectangle here ?
+
+<$CH> 
+<ICE-IND:S1B-013#189:1:C>
+H
+
+<$A> 
+<ICE-IND:S1B-013#190:1:A>
+H centimetres <,> and breadth of the
+
+<$CH> 
+<ICE-IND:S1B-013#191:1:C>
+A <,,>
+
+<$A> 
+<ICE-IND:S1B-013#192:1:A>
+So it is <,> length into what is it is <,> breadth
+
+<$CH> 
+<ICE-IND:S1B-013#193:1:C>
+Breadth <,,>
+
+<$A> 
+<ICE-IND:S1B-013#194:1:A>
+Understood <,,> ?
+
+<ICE-IND:S1B-013#195:1:A>
+Now here <,> two into A square <,> plus <,> four into A <,,>
+
+<ICE-IND:S1B-013#196:1:A>
+Four into <{> <[> A </[>
+
+<$CH> 
+<ICE-IND:S1B-013#197:1:C>
+<[> A </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#198:1:A>
+Four into A means what it gives us <,,> ?
+
+<$S> 
+<ICE-IND:S1B-013#199:1:S>
+Four A square <,>
+
+<$A> 
+<ICE-IND:S1B-013#200:1:A>
+Four into A <,,> four <w> A's </w> are here <,> A plus A <,>
+plus A <,> plus A <,> means what is it ?
+
+<$CH> 
+<ICE-IND:S1B-013#201:1:C>
+Four A square
+
+<$A> 
+<ICE-IND:S1B-013#202:1:A>
+What is it <,,> ?
+
+<$S> 
+<ICE-IND:S1B-013#203:1:S>
+A length
+
+<$A> 
+<ICE-IND:S1B-013#204:1:A>
+Yes <,> what is the length of this side <,> A
+
+<$CH> 
+<ICE-IND:S1B-013#205:1:C>
+A
+
+<$A> 
+<ICE-IND:S1B-013#206:1:A>
+This is <{1> <[1> A </[1> this is <{2> <[2> A </[2> this is A
+
+<$CH> 
+<ICE-IND:S1B-013#207:1:C>
+<[1> A </[1> </[1>
+
+<$CH> 
+<ICE-IND:S1B-013#208:1:C>
+<[2> A </[2> </{2>
+
+<$A> 
+<ICE-IND:S1B-013#209:1:A>
+You are adding A <,> <{> <[> four times </[>
+
+<$CH> 
+<ICE-IND:S1B-013#210:1:C>
+<[> Four times </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#211:1:A>
+It means what it gives you <,> ?
+
+<$S> 
+<ICE-IND:S1B-013#212:1:S>
+Four A <,,> four uh <,,> four A <,>
+
+<$S> 
+<ICE-IND:S1B-013#213:1:S>
+Breadth of four triangles <,,>
+
+<$A> 
+<ICE-IND:S1B-013#214:1:A>
+Length of <,>
+
+<$S> 
+<ICE-IND:S1B-013#215:1:S>
+Breadth of four triangles <,>
+
+<$A> 
+<ICE-IND:S1B-013#216:1:A>
+Not breadth man
+
+<ICE-IND:S1B-013#217:1:A>
+Sit down <,>
+
+<ICE-IND:S1B-013#218:1:A>
+That is called as perimetre <,,>
+
+<ICE-IND:S1B-013#219:1:A>
+This is the perimetre uhm <,>
+
+<ICE-IND:S1B-013#220:1:A>
+Perimetre means what <,> ?
+
+<ICE-IND:S1B-013#221:1:A>
+Sum of the sides <,,>
+
+<ICE-IND:S1B-013#222:1:A>
+Sum of the sides
+
+<ICE-IND:S1B-013#223:1:A>
+Do you know that ?
+
+<$S> 
+<ICE-IND:S1B-013#224:1:S>
+Yes sir
+
+<$A> 
+<ICE-IND:S1B-013#225:1:A>
+So here we can do what is it sum of the sides of this <,>
+base
+
+<$CH> 
+<ICE-IND:S1B-013#226:1:C>
+Base
+
+<$A> 
+<ICE-IND:S1B-013#227:1:A>
+So four A means what is it is <,,> two A square plus four A
+<,> into what is it base
+
+<$CH> 
+<ICE-IND:S1B-013#228:1:C>
+Base <,,>
+
+<$A> 
+<ICE-IND:S1B-013#229:1:A>
+So two A square means what is it <,> two into <,> area of the
+base <,,> <&> BB Writing </&> base plus <,> <{> <[> plus four <,> perimetre
+<,,>
+
+<$S> 
+<ICE-IND:S1B-013#230:1:S>
+<[> Plus four </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#231:1:A>
+Perimetre <,,> of the base <,,> into height <&> BB close </&>
+
+<$S> 
+<ICE-IND:S1B-013#232:1:S>
+Height <,,>
+
+<$A> 
+<ICE-IND:S1B-013#233:1:A>
+Height of what is it <,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#234:1:C>
+Prism
+
+<$A> 
+<ICE-IND:S1B-013#235:1:A>
+Height of the <,> prism <,,>
+
+<ICE-IND:S1B-013#236:1:A>
+It is as well as height of the <,> <{> <[> rectangle </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-013#237:1:C>
+<[> Rectangle </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#238:1:A>
+Height of the prism <,,>
+
+<ICE-IND:S1B-013#239:1:A>
+So will you solve an example now <,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#240:1:C>
+Yes sir <,,>
+
+<$A> 
+<ICE-IND:S1B-013#241:1:A>
+So <w> let's </w> see the <,> model example that is given
+here <,,>
+
+<ICE-IND:S1B-013#242:1:A>
+Find the total surface area of a prism with <,,> square base <,>
+in which the side of <,,> the square base is <,> four centimetres and height
+<,> six centimetres <,>
+
+<ICE-IND:S1B-013#243:1:A>
+So what is given in this problem I shall write here <,> just here
+<,,>
+
+<ICE-IND:S1B-013#244:1:A>
+<&> Blackboard work </&>
+
+<ICE-IND:S1B-013#245:1:A>
+Find the total surface area <,,> surface area <,,> of a prism <,,>
+prism <,> with a square base <,,> with a <,,> square base <,> in which the
+side of the square is <,,> four centimetres <,> and height <,,> six
+centimetres <,> <&> BB work end </&>
+
+<ICE-IND:S1B-013#246:1:A>
+Yes what is given in the problem <,,> ?
+
+<$S> 
+<ICE-IND:S1B-013#247:1:S>
+Side and height
+
+<$A> 
+<ICE-IND:S1B-013#248:1:A>
+Side of the what is it is <,> square base and height of the
+<,> prism is given <,>
+
+<ICE-IND:S1B-013#249:1:A>
+Then what we have to find here <,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#250:1:C>
+Total surface
+
+<$A> 
+<ICE-IND:S1B-013#251:1:A>
+Total surface area <,>
+
+<ICE-IND:S1B-013#252:1:A>
+Now here <w> we've </w> <,,> derived what is formula <,> to
+calculate what is it is <,,> total surface area of the <,> <{> <[> prism </[>
+
+<$CH> 
+<ICE-IND:S1B-013#253:1:C>
+<[> Prism </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#254:1:A>
+So what is the formula to <,> calculate the total surface
+area of the prism <,> ?
+
+<ICE-IND:S1B-013#255:1:A>
+Two <{> <[> into <,> area of the base plus perimetre of the base
+</[>
+
+<ICE-IND:S1B-013#256:1:A>
+Simple
+
+<$CH> 
+<ICE-IND:S1B-013#257:1:C>
+<[> Into area of the base plus perimetre of the base </[>
+</{>
+
+<ICE-IND:S1B-013#258:1:C>
+Height into height plus base <,>
+
+<$A> 
+<ICE-IND:S1B-013#259:1:A>
+So substitute these values in your what does it is <,>
+formula <,>
+
+<ICE-IND:S1B-013#260:1:A>
+So total surface area <,,> <&> BB work begin </&> total surface
+area is equal to <,> <&> BB work end </&> what is given <,,> ?
+
+<$S> 
+<ICE-IND:S1B-013#261:1:S>
+Two <,> area of square
+
+<$A> 
+<ICE-IND:S1B-013#262:1:A>
+Area of the <{> <[> base </[>
+
+<$CH> 
+<ICE-IND:S1B-013#263:1:C>
+<[> Base </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#264:1:A>
+How do you calculate area of the base <,,> ?
+
+<$S> 
+<ICE-IND:S1B-013#265:1:S>
+Four into four <,>
+
+<$A> 
+<ICE-IND:S1B-013#266:1:A>
+Has he given the <,> side of the base ?
+
+<$CH> 
+<ICE-IND:S1B-013#267:1:C>
+Yes sir yes
+
+<$A> 
+<ICE-IND:S1B-013#268:1:A>
+Here <,,>
+
+<ICE-IND:S1B-013#269:1:A>
+What is the length of this one ?
+
+<$CH> 
+<ICE-IND:S1B-013#270:1:C>
+Four centimetres
+
+<$A> 
+<ICE-IND:S1B-013#271:1:A>
+If this is four <,> can you calculate the area of this base ?
+
+<$CH> 
+<ICE-IND:S1B-013#272:1:C>
+Yes sir
+
+<$A> 
+<ICE-IND:S1B-013#273:1:A>
+How do you calculate it <,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#274:1:C>
+Side into side <,>
+
+<$A> 
+<ICE-IND:S1B-013#275:1:A>
+<&> BB work begin </&>
+
+<ICE-IND:S1B-013#276:1:A>
+Area of the <,,> <{1> <[1> base </[1> is equal to what is it is
+<,> <{2> <[2> four into four </[2> that is equal to <{3> <[3> sixteen </[3>
+what is it <,> <{> <[> square centimetres <,> square <,> <{4> <[4>
+centimetres </[4> <&> BB work end </&>
+
+<$CH> 
+<ICE-IND:S1B-013#277:1:C>
+<[1> Base </[1> </{1>
+
+<$CH> 
+<ICE-IND:S1B-013#278:1:C>
+<[2> Four into four </[2> </{2>
+
+<$CH> 
+<ICE-IND:S1B-013#279:1:C>
+<[3> Sixteen </[3> </{3>
+
+<$CH> 
+<ICE-IND:S1B-013#280:1:C>
+<[> Square centimetres </[> </{>
+
+<$CH> 
+<ICE-IND:S1B-013#281:1:C>
+<[4> Centimetres </[4> </{4>
+
+<$A> 
+<ICE-IND:S1B-013#282:1:A>
+So here two into area of the base
+
+<ICE-IND:S1B-013#283:1:A>
+What is the area of the base <,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#284:1:C>
+Sixteen square centimetres
+
+<$A> 
+<ICE-IND:S1B-013#285:1:A>
+<&> BB work begins </&>
+
+<ICE-IND:S1B-013#286:1:A>
+Square <,> <{> <[> centimetres </[> <&> BB work end </&> plus <,,>
+perimetre of the base <,>
+
+<ICE-IND:S1B-013#287:1:A>
+So how do you find <,> perimetre <,,> ?
+
+<$CH> 
+<ICE-IND:S1B-013#288:1:C>
+<[> Centimetres </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#289:1:A>
+That is nothing but what is it <,> sum of the sides <,,>
+
+<ICE-IND:S1B-013#290:1:A>
+So here how do you find <,> the perimetre <,> ?
+
+<ICE-IND:S1B-013#291:1:A>
+Sum of the sides of what is it is <,> base <,>
+
+<ICE-IND:S1B-013#292:1:A>
+So what is the <,,> length of this base <,> ?
+
+<ICE-IND:S1B-013#293:1:A>
+<{> <[> Four centimetres </[> <,>
+
+<$S> 
+<ICE-IND:S1B-013#294:1:S>
+<[> Four centimetres </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#295:1:A>
+Four plus four <{> <[> plus four plus four </[>
+
+<$CH> 
+<ICE-IND:S1B-013#296:1:C>
+<[> Plus four plus four </[> </{>
+
+<ICE-IND:S1B-013#297:1:C>
+Sixteen
+
+<$A> 
+<ICE-IND:S1B-013#298:1:A>
+So here we can calculate and what is it is all the sides or
+you can also multiply the side of the <,,> square by <,> four
+
+<ICE-IND:S1B-013#299:1:A>
+So what is the <,,> length of the side here <,> ?
+
+<$S> 
+<ICE-IND:S1B-013#300:1:S>
+Four A four <,>
+
+<$A> 
+<ICE-IND:S1B-013#301:1:A>
+What is the length of the ?
+
+<$S> 
+<ICE-IND:S1B-013#302:1:S>
+Four <,,> four
+
+<$A> 
+<ICE-IND:S1B-013#303:1:A>
+Four centimetres
+
+<ICE-IND:S1B-013#304:1:A>
+<&> BB work begins </&>
+
+<ICE-IND:S1B-013#305:1:A>
+So four into <,> <{> <[> four </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-013#306:1:C>
+<[> Four </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#307:1:A>
+And what is the <,> height of the prism <,> ?
+
+<$S> 
+<ICE-IND:S1B-013#308:1:S>
+Three
+
+<$S> 
+<ICE-IND:S1B-013#309:1:S>
+Three
+
+<$A> 
+<ICE-IND:S1B-013#310:1:A>
+Height of the prism is <,> <{> <[> three <,> six centimetres
+<,,>
+
+<$CH> 
+<ICE-IND:S1B-013#311:1:C>
+<[> Three </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#312:1:A>
+Now solve this one <,>
+
+<ICE-IND:S1B-013#313:1:A>
+Here two into <,> <{> <[> sixteen </[> centimetres
+
+<$CH> 
+<ICE-IND:S1B-013#314:1:C>
+<[> Sixteen </[> </{> <&> Noise </&>
+
+<$A> 
+<ICE-IND:S1B-013#315:1:A>
+Thirty-two <,> <{> <[> square centimetres </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-013#316:1:C>
+<[> Square centimetres </[> </{>
+
+<$A> 
+<ICE-IND:S1B-013#317:1:A>
+Square centimetres plus <,> <{1> <[1> sixty <,> here <,> <{2>
+<[2> twenty-two <,> four into four <,> <{> <[> sixteen </[> plus <,> six <,>
+<{3> <[3> twenty-two <,> thirty-two <,> plus what is it is ?
+
+<$S> 
+<ICE-IND:S1B-013#318:1:S>
+<[1> Sixty </[1> </{1>
+
+<$S> 
+<ICE-IND:S1B-013#319:1:S>
+<[2> Twenty-two </[2> </{2>
+
+<$CH> 
+<ICE-IND:S1B-013#320:1:C>
+<[> Sixteen </[> </{>
+
+<$CH> 
+<ICE-IND:S1B-013#321:1:C>
+<[3> twenty-two </[3> </{3>
+
+<$CH> 
+<ICE-IND:S1B-013#322:1:C>
+Twenty-two <,>
+
+<$A> 
+<ICE-IND:S1B-013#323:1:A>
+Twenty-two <,> so
+
+<$CH> 
+<ICE-IND:S1B-013#324:1:C>
+Fifty-four <,>
+
+<$A> 
+<ICE-IND:S1B-013#325:1:A>
+Fifty <,> <{> <[> four square <,> centimetres </[>
+
+<$CH> 
+<ICE-IND:S1B-013#326:1:C>
+<[> Four square centimetres </[> </{> </I>

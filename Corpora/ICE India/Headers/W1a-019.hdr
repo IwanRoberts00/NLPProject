@@ -1,0 +1,45 @@
+<text.info>
+       <file.description>
+               <textcode>ICE-IND-W1A-019</textcode>
+               <number.of.subtexts>1</number.of.subtexts>
+               <category>non-printed:non-professional
+                 writing:student examination essays</category>
+               <wordcount>2284</wordcount>
+               <version>lexical</version>
+               <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1A-019>
+           <source.type=examination paper>
+               <examination>M.Sc.-II</examination>
+               <subject>Zoology(Applied Entomology</subject>
+               <date></date>
+          <examining.body>Shivaji University</examining.body>
+           <copyright.statement>reproduced by permission of the
+                 Registrar</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-019</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+               <main.title></main.title>
+               <subtitle></subtitle>
+               <page.nos></page.nos>
+               <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-019</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+               <surname></surname>
+               <forenames></forenames>
+               <age></age>
+               <gender></gender>
+               <nationality>Indian</nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation>student</occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+       </biography>
+</text.info>

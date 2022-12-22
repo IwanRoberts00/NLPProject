@@ -1,0 +1,444 @@
+<I>
+
+<ICE-IND:W2A-040#1:1>
+<h> <bold> A Preliminary Study on Water Quality of River Tungabhadra
+at Kurnool Town </bold> </h> <&> authors </&>
+
+<ICE-IND:W2A-040#2:1>
+<bold> G.V. Ramana Murthy, S. Venkata Mohan, P. Harischandra and J.
+Karthikeyan </bold>
+
+<ICE-IND:W2A-040#3:1>
+</it> <indig> Sri </indig> Venkateswara University, Department of
+Civil Engineering, College of Engineering, Tirupati </it> - 417 502
+
+<p> 
+<ICE-IND:W2A-040#4:1>
+<bold> Physico-chemical characteristics of Tungabhadra river water
+over a stretch of 8 km near Kurnool town was studied for a period of 4 month
+to assess of the suitability of river water for public consumption.
+
+<ICE-IND:W2A-040#5:1>
+Water quality index ( WQI ) at different sampling station and overall
+<mention> WQI </mention> were calculated to assess the suitability of
+water for domestic purposes.
+
+<ICE-IND:W2A-040#6:1>
+Except at one sampling station, the water quality of the river
+examined were with in the permissible limit for human consumption.
+
+<ICE-IND:W2A-040#7:1>
+<mention> WQI </mention> calculated suggest treatment of river water
+before supplying to public. </bold> </p> <&> in two columns </&> <&> column
+one </&>
+
+<ICE-IND:W2A-040#8:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-040#9:1>
+The river Tungabhadra originates in the Western <indig> Ghats
+</indig> on the border of Karnataka State and after traversing a course of
+about 640 km joins the river Krishna at Sangameswar near Alampur in Andhra
+Pradesh.
+
+<ICE-IND:W2A-040#10:1>
+Right from its starting point till it merges in the Krishna river,
+several devotees take dip on different religious occasions along its
+entire stretch.
+
+<ICE-IND:W2A-040#11:1>
+Large percentage of the river water is intended for irrigation of
+<indig> lakhs </indig> of <indig> acres </indig> of land in Karnataka and
+Andhra Pradesh States.
+
+<ICE-IND:W2A-040#12:1>
+Upto Sunkesula village the water is unpolluted, however, its
+originality changes in the lower stretches due to tributories and storm
+water drains.
+
+<ICE-IND:W2A-040#13:1>
+Between Hospet ( Thungabhadra dam ) and Kurnool there is no major
+town / city on its stretch.
+
+<ICE-IND:W2A-040#14:1>
+At Kurnool, municipal sewage ( domestic ) and industrial effluents
+are discharged into the river thus bringing about considerable change in
+river water quality.
+
+<ICE-IND:W2A-040#15:1>
+Such a change is of significance not only for the residents of
+Kurnool town but also for the downstream rural population on either side of
+the banks of river who abstract the river water for domestic and agricultural
+purposes. </p>
+
+<p> 
+<ICE-IND:W2A-040#16:1>
+Water quality index ( <mention> WQI </mention> ) were calculated
+from the water quality parameters to assess the status of river water quality
+of the river for drinking purposes.
+
+<ICE-IND:W2A-040#17:1>
+The present study was conducted over a period of 4 months ( December,
+` 92 to March, ` 93 ) to examine the variations in physico-chemical
+characteristics of water during the mean flow periods of the river.
+
+<ICE-IND:W2A-040#18:1>
+The suitability of the river water for public ( human ) consumption
+was assessed by determining <mention> WQI </mention> at various sampling
+locations.
+
+<ICE-IND:W2A-040#19:1>
+The detailed work methodology is given in the proceeding
+paragraphs. </p>
+
+<ICE-IND:W2A-040#20:1>
+<h> <bold> MATERIAL AND METHOD </bold> </h>
+
+<p> 
+<ICE-IND:W2A-040#21:1>
+Extremely high peaks are registered in the month of November due
+to high floods.
+
+<ICE-IND:W2A-040#22:1>
+The flow rate is well below the average over long periods of time (
+during study period ) .
+
+<ICE-IND:W2A-040#23:1>
+In order to obtain a fairly comprehensive picture of the intensity
+of pollution, 8 sampling stations covering a total stretch of about 8 km (
+from Railway bridge to Gondepalli village ) were selected.
+
+<ICE-IND:W2A-040#24:1>
+<mention> Sampling station - 1 </mention> is located near
+Guntkal-Secunderabad railway bridge.
+
+<ICE-IND:W2A-040#25:1>
+<mention> Sampling station - 2 </mention> is 1 km away from
+<mention> sampling station - 1 </mention> on down stream side, whereas
+<mention> sampling station - 3 </mention> is located at Gopal Darwaja about 2
+km from sampling <mention> station - 1 </mention> .
+
+<ICE-IND:W2A-040#26:1>
+<mention> Sampling station - 4 </mention> is about 4 km down stream
+from the <mention> <+> Sampling </+> station - 1 </mention> and has a storm
+water drainage ( about 0 030 cusecs ) in its vicinity.
+
+<ICE-IND:W2A-040#27:1>
+<mention> Sampling station - 5 </mention> is located just down stream
+side of water intake tower near paper mill.
+
+<ICE-IND:W2A-040#28:1>
+<mention> Sampling station - 6 </mention> is located near <indig>
+Dhobi ghat </indig> where large number of washers used the river for
+washing the clothes.
+
+<ICE-IND:W2A-040#29:1>
+At <mention> sampling station - 8 </mention> the water is abstracted
+for public consumption ( for Gondipalle village ) .
+
+<ICE-IND:W2A-040#30:1>
+The location of various sampling stations selected for this are given
+in figure 1.
+
+<ICE-IND:W2A-040#31:1>
+To assess the extent of pollution during lean flows, winter months
+were selected.
+
+<ICE-IND:W2A-040#32:1>
+Grab samples were collected from all the 8 locations initially once
+in a week for a period of one month and then once in a fortnight for a period
+of about 3 month.
+
+<ICE-IND:W2A-040#33:1>
+Samples were collected from a depth of 0.15 to 0.45 m below the water
+surface.
+
+<ICE-IND:W2A-040#34:1>
+Temperature, pH and dissolved oxygen were determined directly at
+the station itself.
+
+<ICE-IND:W2A-040#35:1>
+The samples were transported to the laboratory immediately and <O>
+<&> page </&> 604 </O> <O> Table 1. </O> <O> caption </O> <O> Figure 1. </O>
+<O> caption </O> analysed in the laboratory for selected water quality
+parameters, like total alkalinity, <}> <-> acididity </-> <+> acidity </+>
+</}> , total hardness ( EDTA ) , sulphates, chemical oxygen demand ( COD )
+and biochemical oxygen demand ( B OD<sb>5</sb> ) as per the standard
+procedures ( APHA, 19 89 ) . </p>
+
+<ICE-IND:W2A-040#36:1>
+<h> <bold> RESULT AND DISCUSSION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-040#37:1>
+Over all, 44 samples were analysed for selected water quality
+parameters during the study period of 4 month.
+
+<ICE-IND:W2A-040#38:1>
+The values of water quality parameters at all the 8 sampling stations
+are given in table 1.
+
+<ICE-IND:W2A-040#39:1>
+The pH value at all sampling sites ranged between 7.0 to 7.5 and are
+close to the standard limits ( 6.8 to 7.3 ) .
+
+<ICE-IND:W2A-040#40:1>
+The temperature of water samples ranged between 25 to 29 <*>
+degrees</*>C which also within permissible limits.
+
+<ICE-IND:W2A-040#41:1>
+The temperature may not be more important for public supply, but
+in the polluted water it has profound effect on the dissolved oxygen,
+<mention> BOD </mention> and aquatic life.
+
+<ICE-IND:W2A-040#42:1>
+The chloride concentration was found to vary from a minimum of 80
+mg / l to a maximum of 369 mg / l.
+
+<ICE-IND:W2A-040#43:1>
+The presence of high levels of chlorides at site 4 is presumably an
+indication of pollution especially through domestic sewage.
+
+<ICE-IND:W2A-040#44:1>
+The values of chlorides at all sampling location except at site 4 are
+within acceptable limits of 250 mg / l where as at site 4 it was 369 mg / l.
+
+<ICE-IND:W2A-040#45:1>
+Total alkalinity values were in between 100 to 200 mg/l at
+sampling sites 4, 5 and 6 and between 130 to 275 <O> <&> page </&> 605
+</O> <O> Table 2. </O> <O> caption </O> mg / l at site 1.
+
+<ICE-IND:W2A-040#46:1>
+Sulphate concentration of the river water samples ranged from 25 to
+35 mg / l at all sites, which is well within the permissible limits.
+
+<ICE-IND:W2A-040#47:1>
+Total hardness ( EDTA ) of the water sample at sampling site 4
+was found to be 760 mg / l.
+
+<ICE-IND:W2A-040#48:1>
+Hardness ( EDTA ) values of all other samples were between 100 to 200
+mg / l.
+
+<ICE-IND:W2A-040#49:1>
+These observations clearly indicate that the river water at
+sampling site 4 is polluted especially from extraneous sources and which
+may also be corroborated by the fact that around 0.03 m<sp>2</sp>/s of drain
+water flows into the river near the sampling station - 4. </p>
+
+<p> 
+<ICE-IND:W2A-040#50:1>
+The dissolved oxygen content of the river water at all sites
+ranged between 7 and 8.1 mg / l which is more than the required value ( 5.0
+mg / l ) .
+
+<ICE-IND:W2A-040#51:1>
+Large number of fish population were also observed at all the
+sampling sites except at site 4.
+
+<ICE-IND:W2A-040#52:1>
+Five day BOD at 20 <*> degrees</*>C of river water varied from 5 mg /
+l to 32 mg / l.
+
+<ICE-IND:W2A-040#53:1>
+<mention> COD </mention> of the river water samples varied from 20 to
+280 mg / l, Moderate BOD and COd moderate to high values indicate possible
+pollution especially nonbiodegradable organics, perhaps from the treated
+discharge of the paper mill.
+
+<ICE-IND:W2A-040#54:1>
+However, the test for MPN has not yielded any positive result perhaps
+due to presence of some inhibitors. </p>
+
+<ICE-IND:W2A-040#55:1>
+<h> <bold> WATER QUALITY INDEX </bold> </h>
+
+<p> 
+<ICE-IND:W2A-040#56:1>
+Water quality and its suitability for public consumption can
+also be assessed by determining the <mention> WQI </mention> of river water
+under consideration.
+
+<ICE-IND:W2A-040#57:1>
+The <mention> WQI </mention> may be defined as a rating reflecting
+the composite influence on the overall quality of a number of quality,
+characteristics or water quality parameters ( Tiwari and Ali, 1988 ) .
+
+<ICE-IND:W2A-040#58:1>
+In the present study, out of 6 different methods suggested by Bottom
+<it> et al </it> . ( 1978 ) , weighted arithmetic index is adopted for
+calculation of WQI.
+
+<ICE-IND:W2A-040#59:1>
+According to Ott ( 1978 ) calculation of <mention> WQI </mention>
+consists of 2 fundamental steps, namely : ( a ) calculation of quality rating
+for each water quality parameter used in the index, and ( b ) Aggregating of
+these sub indicies into overall index.
+
+<ICE-IND:W2A-040#60:1>
+The quality rating ( or sub indices ) q<sb>1</sb> corresponding to
+the <mention> i<sp>th</sp> parameter P<sb>1</sb> </mention> is a number of
+reflecting the relative value of this parameter in the polluted water with
+respect to its standard or permissible value.
+
+<ICE-IND:W2A-040#61:1>
+Quality rating may be obtained from q<sb>1</sb> - - 100 [ (
+V<sb>1</sb> <*> approximate-sign</*> V<sb>10</sb> ) / ( S<sb>1</sb> -
+V<sb>10</sb> ) ] Where V<sb>1</sb> - - Measured value of <mention>
+i<sp>th</sp> parameter </mention> in the polluted water under consideration
+V<sb>10</sb> - - The ideal value of this parameter in pure water,
+S<sb>1</sb> - -
+
+<ICE-IND:W2A-040#62:1>
+Standard value for the <mention> i<sp>th</sp> parameter </mention> .
+</p>
+
+<p> 
+<ICE-IND:W2A-040#63:1>
+In the above equation the sign ( <*> approximate-sign</*> )
+indicates the numerical value of the difference, ignoring its algebraic
+sign.
+
+<ICE-IND:W2A-040#64:1>
+The overall arithmetic <mention> WQI </mention> is calculated by
+aggregating the quality rating q<sb>1</sb> linearly. </p> <&> equation </&>
+
+<p> 
+<ICE-IND:W2A-040#65:1>
+In the present study, 6 water quality parameters, namely pH, DO,
+BOD<sb>5</sb>, chlorides, total hardness ( E DTA) and total alkalinity were
+considered for computing WQI and unit weight ( W<sb>1</sb> ) of each
+parameter is obtained depending upon its weightage ( Table 2 ) .
+
+<ICE-IND:W2A-040#66:1>
+The standard permissible values of various parameters <O> <&> page
+</&> 606 </O> for drinking purposes is considered as recommended by Indian
+Council of Medical Research ( ICMR ) .
+
+<ICE-IND:W2A-040#67:1>
+The WQI of river water thus calculated is also given in table 2.
+
+<ICE-IND:W2A-040#68:1>
+In addition, WQI of all 8 sampling stations were calculated to
+assess the variation in river water quality.
+
+<ICE-IND:W2A-040#69:1>
+WQI of all 8 individual stations are given in table 3.
+
+<ICE-IND:W2A-040#70:1>
+The permissible limit of <mention> WQI </mention> for drinking water
+is 100 ( Tiwari and Mishra, 1985 ) .
+
+<ICE-IND:W2A-040#71:1>
+Tiwari and Ali ( 1988 ) made a preliminary survey of water quality
+index of 18 Indian rivers and found the <mention> WQI </mention> value
+ranging from 97 to 2051.
+
+<ICE-IND:W2A-040#72:1>
+The WQI obtained in present study for Tunghabadra river is 230.
+
+<ICE-IND:W2A-040#73:1>
+Kudesia ( 1980 ) reported a <mention> WQI </mention> of 174 for
+Tungabhadra river near Bellary.
+
+<ICE-IND:W2A-040#74:1>
+A WQI of 230 implies that there is a further deterioration in
+water quality of river Tungabhadra compared to that at Bellary which is on
+the upstream side ( approx 150 km ) .
+
+<ICE-IND:W2A-040#75:1>
+<mention> WQI </mention> at individual stations ranged from 202 to
+240, suggesting the possible pollution of the river water.
+
+<ICE-IND:W2A-040#76:1>
+High <mention> WQI </mention> suggest that the water requires to be
+treated before supplying for public consumption. </p>
+
+<ICE-IND:W2A-040#77:1>
+</h> <bold> CONCLUSION </bold> <h>
+
+<p> 
+<ICE-IND:W2A-040#78:1>
+Based on the water quality data obtained from this investigation.
+
+<ICE-IND:W2A-040#79:1>
+It becomes clear that the water requires treatment before
+supplying for public consumptiion.
+
+<ICE-IND:W2A-040#80:1>
+Computed WQI also implies possible pollution of river water.
+
+<ICE-IND:W2A-040#81:1>
+However, a comprehensive programme of monitoring the water quality
+for longer period may further improve the understanding of the river system
+and also the quality of river. </p>
+
+<ICE-IND:W2A-040#82:1>
+<bold> REFERENCE </bold>
+
+<ICE-IND:W2A-040#83:1>
+APHA. 1989.
+
+<ICE-IND:W2A-040#84:1>
+<mention> Standard methods for the examination of water and
+wastewater ( 18 edn ) </mention> .
+
+<ICE-IND:W2A-040#85:1>
+<mention> American Public Health Association </mention> , New
+York.
+
+<ICE-IND:W2A-040#86:1>
+Bottom, P.W., J.C. Currie and D.J. Tennet.
+
+<ICE-IND:W2A-040#87:1>
+1978.
+
+<ICE-IND:W2A-040#88:1>
+<mention> An index to improve water quality classification </mention> .
+
+<ICE-IND:W2A-040#89:1>
+<it> <mention> J. Water Poll. Cont. Fed., </mention> </it> 20 : 653 -
+659.
+
+<ICE-IND:W2A-040#90:1>
+Kudesia, V.P. 1980.
+
+<ICE-IND:W2A-040#91:1>
+<mention> Water pollution </mention> .
+
+<ICE-IND:W2A-040#92:1>
+Pragati Prakashan, Meerut.
+
+<ICE-IND:W2A-040#93:1>
+Ott, W.R. 1978.
+
+<ICE-IND:W2A-040#94:1>
+<mention> Environment indices : Theory and practice </mention> .
+
+<ICE-IND:W2A-040#95:1>
+Ann Arber Science Publisher, Michigan. </p>
+
+<ICE-IND:W2A-040#96:1>
+Tiwari, T.N. and Manorama Mishra. 1985.
+
+<ICE-IND:W2A-040#97:1>
+<mention> A preliminary assignment of water quality index to
+major Indian rivers </mention> .
+
+<ICE-IND:W2A-040#98:1>
+<it> <mention> Indian J. Env. Prot., </mention> </it> 12 ( 4 ) : 246
+- 250. </p>
+
+<ICE-IND:W2A-040#99:1>
+Tiwari, T.N. and Manzoor Ali.
+
+<ICE-IND:W2A-040#100:1>
+1988.
+
+<ICE-IND:W2A-040#101:1>
+<mention> In Ecology and pollution of Indian rivers </mention> .
+
+<ICE-IND:W2A-040#102:1>
+Ed R.K. Trivedy, Ashish Publishing House, New Delhi. pp 271 - 286.
+</p> </I>

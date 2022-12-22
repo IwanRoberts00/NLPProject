@@ -1,0 +1,95 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-029</textcode>
+            <number.of.subtexts>2</number.of.subtexts>
+            <category>printed:informational:popular:
+              natural sciences</category>
+            <wordcount>1929</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-029(1)>
+     <source.type=newspaper>
+           <source.title>Indian Express Sunday
+             Magazine</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Weekly</series>
+     <publication.statement>
+            <publisher>Indian Express Newspapers Ltd.</publisher>
+            <address>Express Towers, Nariman Point, Bombay-
+                    400021</address>
+            <place>Bombay</place>
+            <date>05-04-92</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of the Indian 
+                Express Newspapers Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-029(1)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>When The Sun Changes Its
+              Spots</main.title>
+            <subtitle>Science Update</subtitle>
+            <page.nos>10</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-029(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Dixit</surname>
+                <forenames>D.K.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <subtext.source=W2B-029(2)>
+        <source.type=newspaper>
+            <source.title>The Statesman</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Daily</series>
+        <publication.statement>
+            <publisher>The Statesman Ltd.</publisher>
+            <address>Statesman House, 4, Chowringhee Square,
+                    Calcutta</address>
+            <place>Calcutta</place>
+            <date>24-06-90</date>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of The
+                Statesman Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-029(2)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>100 Years From Now...</main.title>
+            <subtitle>Science</subtitle>
+            <page.nos>1</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-029(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Ghosh</surname>
+                <forenames>Anjan</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

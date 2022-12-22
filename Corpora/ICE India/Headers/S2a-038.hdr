@@ -1,0 +1,49 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-038</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2209</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-038>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>09-09-93</date>
+              <time></time>
+              <place>Nadaganda's residence, Dharwad</place>
+       </recording.data>
+              <organising.body></organising.body>
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-038</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size>None</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-038</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Purohit</surname>
+              <forenames>Madhu N.</forenames>
+              <age>26-33</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Post Graduate</education>
+              <occupation>Automobile Engineer</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Kannada</mother.tongue>
+              <other.languages>Hindi, Marathi</other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

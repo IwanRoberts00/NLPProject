@@ -1,0 +1,54 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-012</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:popular:
+              social sciences</category>
+            <wordcount>2344</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-012>
+        <source.type=monograph>
+            <source.title>SPAN</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Monthly</series>
+        <publication.statement>
+            <publisher>The United States of Information
+              Services</publisher>
+            <address>American Center, 24, Kasturba Gandhi
+              Marg, New Delhi-110001</address>
+            <place>New Delhi</place>
+            <date>July 1992</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-012</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Campus Debate</main.title>
+            <subtitle></subtitle>
+            <page.nos>40-42</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-012</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Patwardhan</surname>
+                <forenames>Dileep</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

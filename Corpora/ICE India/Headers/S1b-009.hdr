@@ -1,0 +1,53 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-009</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:class lessons</category>
+            <wordcount>2095</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-009>
+     <source.type=Dialogue:public:class lessons>
+     <recording.data>
+            <date>21-01-93</date>
+            <time>12.20pm</time>
+            <place>Dept: of English Shivaji University,
+                 Kolhapur</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-009</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants></no.of.participants>
+            <relationship>disparates</relationship>
+            <free.comments>The speaker is a lecturer hence it is
+                 a monologue</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-009</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Narkar nee Pandit</surname>
+            <forenames>Maya</forenames>
+            <age>34-41</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Ahemadabad</birthplace>
+            <education>Shivaji University, CIEFL</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>All India Janawadi Mahila
+                 Samiti</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Wai (1958-75), Hyderabad
+                 (1976-79), Kolhapur (1979 to
+                 date)</free.comments>
+     </biography>
+</text.info>

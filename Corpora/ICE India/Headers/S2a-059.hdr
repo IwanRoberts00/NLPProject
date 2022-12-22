@@ -1,0 +1,88 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-059</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:
+                   demonstrations</category>
+              <wordcount>2569</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-059>
+       <recording.data>
+              <channel>Doordarshan</channel>
+              <address></address>
+              <tv.or.radio>tv</tv.or.radio>
+              <source.title>CPR (Cardio Pulmonary
+                   Resuscitation)</source.title>
+              <source.subtitle>Save A Life</source.subtitle>  
+              <date>21-08-90</date>
+              <time>12.40pm</time>
+       </recording.data>
+              <copyright.statement>Blanket permission from
+                   Doordarshan under section 39 of Copyright Act,
+                   1957 and Copyright Rules, 1958
+                   respectively</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-059</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Demonstration
+                   </communicative.situation>
+              <no.of.participants>3</no.of.participants>
+              <relationship>equals</relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-059</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Chopra</surname>
+              <forenames>Dr. K.L.</forenames>
+              <age>65</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Doctorate</education>
+              <occupation>Surgeon, Chairman-Heartcare
+                   Foundation, India</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S2A-059</it>>
+              <speaker.id>B</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Chopra</surname>
+              <forenames>Dr. H.K.</forenames>
+              <age>45</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Doctorate</education>
+              <occupation>Surgeon, Director-Heartcare
+                   Foundation</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S2A-059</it>>
+              <speaker.id>C</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Agarwal</surname>
+              <forenames>Dr. K.K.</forenames>
+              <age>50</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Doctorate</education>
+              <occupation>Surgeon, Director HCF</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

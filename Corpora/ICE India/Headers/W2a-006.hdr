@@ -1,0 +1,55 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-006</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              humanities</category>
+            <wordcount>1779</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-006>
+        <source.type=periodicals>
+            <source.title>Journal of Shivaji
+              University</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol.25,26,27</series>
+        <publication.statement>
+            <publisher>P. P. Sable</publisher>
+            <address>Registrar, Shivaji University, Kolhapur-
+              416004</address>
+            <place>Kolhapur</place>
+            <date>1990-91</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-006</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Shri Shahu Chhatrapati, As A Grand-
+              father</main.title>
+            <subtitle></subtitle>
+            <page.nos>61-64</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-006</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Kadam</surname>
+                <forenames>V. S.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

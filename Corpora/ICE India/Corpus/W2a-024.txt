@@ -1,0 +1,538 @@
+<I> <O> Indian Journal of Pure & Applied Physics Vol.30, March 1992, pp.
+107-112 </O>
+
+<ICE-IND:W2A-024#1:1>
+Etching time and temperature relationship for some solid state nuclear
+track <&> centered </&> detectors <&> author centered </&>
+
+<ICE-IND:W2A-024#2:1>
+R N Mukherjee & B B Baliga <&> centered </&> Saha Institute of Nuclear
+Physics, Bidhan Nagar, Calcutta 700 064 <&> centered </&>
+
+<ICE-IND:W2A-024#3:1>
+Received 5 April 1991; revised received 5 December 1991 <&>
+
+<p> 
+<ICE-IND:W2A-024#4:1>
+The track diameter versus etching time ( <it> <mention> t
+</mention> </it> ) and diameter versus etch temperature ( <it> <mention> T
+</mention> </it> ) characteristics of several solid state nuclear track
+detectors have been studied separately after irradiation with an alpha source
+of energy around 5 MeV.
+
+<ICE-IND:W2A-024#5:1>
+From the results obtained, a relation between <it> <mention> t
+</mention> </it> and <it> <mention> T </mention> </it> for each detector has
+been derived and subjected to verification. </p> </&> <&> in two columns </&>
+<&> column one </&>
+
+<ICE-IND:W2A-024#6:1>
+<h> <bold> 1 Introduction </bold> </h>
+
+<p> 
+<ICE-IND:W2A-024#7:1>
+Since the advent of solid state nuclear track detectors (
+SSNTDs ) in the late 1950s, and the discovery in the next decade that
+plastics can record nuclear tracks <fnr> <sp> 1 </sp> </fnr> , there has been
+rapid progress in the application of these detectors in various
+disciplines.
+
+<ICE-IND:W2A-024#8:1>
+The tailored plastic CR-39 made its mark in the 1970s as an efficient
+detector even for low-energy light particles <fnr> <sp> 2 </sp> </fnr> .
+
+<ICE-IND:W2A-024#9:1>
+The remarkable discovery of Tarle <it> et al </it> . <fnr> <sp> 3
+</sp> </fnr> that the addition of about 1 % DOP ( dioctyl phthalate ) to
+CR-39 monomer greatly improves its optical quality and surface smoothness
+even after prolonged etching, made CR-39 ( DOP ) detectors widely used
+in different areas.
+
+<ICE-IND:W2A-024#10:1>
+Since then many new plastics and their variations have been tried
+for the suitability of recording nuclear tracks.
+
+<ICE-IND:W2A-024#11:1>
+Recently, a Japanese group <fnr> <sp> 4 </sp> </fnr> has
+discovered that a variation of CR-39 monomer with suitable additives is
+very sensitive to low energy nuclear particles and that the sensitivity is
+as large as three times that of CR-39 ( DOP ) .
+
+<ICE-IND:W2A-024#12:1>
+This latter variety, which is not yet commercially released, goes
+under the code names SR-86 ( 10 ) , SR-86 ( 20 ) , etc.
+
+<ICE-IND:W2A-024#13:1>
+There are also slight differences in the physical behaviour of CR-39
+( DOP ) detectors manufactured by different companies.
+
+<ICE-IND:W2A-024#14:1>
+Having studied these differences in some of these detectors, we
+decided to undertake a systematic study of etch track formation.
+
+<ICE-IND:W2A-024#15:1>
+We present our results on CR-39 ( DOP ) ( manufactured by Pershore
+Moulding Ltd., U.K. ) , MA-ND/a ( made by ATOMKI, De-brecen, Hungary ) ,
+SR-86 ( 20 ) , and cellulose nitrate plastic detector, CN-85 ( manufactured
+by Kodak Pathe ) . </p>
+
+<p> 
+<ICE-IND:W2A-024#16:1>
+The MA-ND/a is a new type of CR-39 track detector ( allyl
+diglycol carbonate ) .
+
+<ICE-IND:W2A-024#17:1>
+Etch track formation related calculations have revealed its high
+sensitivity to alpha particles <fnr> <sp> 5 </sp> </fnr> .
+
+<ICE-IND:W2A-024#18:1>
+And SR-86, which is another new type of polymeric track
+detector as reported by FUjii <it> et al</it>. <fnr> <sp> 4 </sp> </fnr> ,
+has been obtained by introducing sulphonate groups to thermosetting resins
+with three-dimensional network structure.
+
+<ICE-IND:W2A-024#19:1>
+We have used SR-86 ( 20 ) in this present piece of work, which is a
+test sample of copolymer of CR-39 with 20 % of diethylene glycol bis ( allyl
+sulphonate ) , i.e. DEAS.
+
+<ICE-IND:W2A-024#20:1>
+The details about this detector can be obtained from Ref. 4. </p>
+
+<p> 
+<ICE-IND:W2A-024#21:1>
+In order to have a comparative study, we have included CN-85 (
+KODAK ) cellulose nitrate plastic track detector, which has been in use since
+a long time.
+
+<ICE-IND:W2A-024#22:1>
+It is a clear and transparent film of cellulose nitrate containing a
+small amount of camphor, which serves as a plasticizer.
+
+<ICE-IND:W2A-024#23:1>
+This platicizer is neither attacked nor soluble in etchants (
+which in our case is 6.25 N NaOH ) <fnr> <sp> 6 </sp> </fnr> . </p>
+
+<ICE-IND:W2A-024#24:1>
+<h> <bold> 2 Experimental Details </bold> </h>
+
+<p> 
+<ICE-IND:W2A-024#25:1>
+In irradiating the detector foils and thereafter etching these
+samples chemically to make them ready for scanning under an optical
+microscope, there are so many factors affecting these processes.
+
+<ICE-IND:W2A-024#26:1>
+Parameters such as etching time, etch temperature, concentration of
+the etchant to name a few, are very important.
+
+<ICE-IND:W2A-024#27:1>
+We propose to establish and standardize relationships between these
+parameters which will be very useful in th etching laboratories.
+
+<ICE-IND:W2A-024#28:1>
+As a first step, two parameters, etching time ( <it> <mention> t
+</mention> </it> ) and etch temperature ( <it> <mention> T </mention>
+</it> ) have been chosen and attempts are made to establish a relationship
+for all the four types of detectors mentioned above, which are widely used as
+nuclear particle detectors.
+
+<ICE-IND:W2A-024#29:1>
+For this the effect of these two parameters on these detectors have
+been studied separately, and then the relationships have been established.
+</p>
+
+<p> 
+<ICE-IND:W2A-024#30:1>
+The work is divided into three parts; the first part <O> <&> page
+</&> 108 </O> being the study of track diameter versus etching time
+characteristics, the second one being the track diameter versus etch
+temperature studies, and the final part dealing with the results obtained
+and their verification.
+
+<ICE-IND:W2A-024#31:1>
+For irradiating the detector foils a mixed source of <w> a's </w> (
+Am, Cm, Pu ) of energy around 5 MeV ( 5.49, 5.80 and 5.16 MeV ) has been
+used. </p>
+
+<p> 
+<ICE-IND:W2A-024#32:1>
+In the histograms of frequency versus diameters of the etched
+tracks in CR-39 ( DOP ) [ Fig.1 ] one can clearly see the three peaks
+corresponding to the major energy groiups of the alpha particles in the
+mixed source.
+
+<ICE-IND:W2A-024#33:1>
+Thus it is advantageous to use the mixed source instead of a
+monoenergetic source. </p>
+
+<ICE-IND:W2A-024#34:1>
+<h> <bold> 3 Results and Discussion </bold> </h>
+
+<ICE-IND:W2A-024#35:1>
+<h> <bold> 3.1 Diameter ( <it> <mention> D </mention> </it> ) versus
+etching time ( <it> <mention> t </mention> </it> ) characteristics </bold>
+</h>
+
+<p> 
+<ICE-IND:W2A-024#36:1>
+Detector foils were irradiated with collimated alpha particles at
+normal incidence from the above source for 6 hr.
+
+<ICE-IND:W2A-024#37:1>
+The etchant used in etching these samples was 6.25 N NaOH aqueous
+solution, all other parameters affecting the etching ( except etch
+temperature which was different for different detectors being the same as
+reported earlier <fnr> <sp> 7 </sp> </fnr> .
+
+<ICE-IND:W2A-024#38:1>
+The irradiated samples of CR-39 ( DOP ) and MA-ND a were etched at
+70<*>degree</*>C for 3 hr. of SR-86 ( 20 ) at 70<*>degree</*>C for 20 min;
+and of CN-85 ( KODAK ) at 50<*>degree</*>C for 2 hr.
+
+<ICE-IND:W2A-024#39:1>
+After drying, the samples were scanned separately under a Leitz
+optical microscope fitted with a filar micrometer eyepiece of 450 x
+magnification.
+
+<ICE-IND:W2A-024#40:1>
+For finding out the most probable diameter, the surface diameters
+of about 300 tracks have been measured to study the diameter distribution.
+
+<ICE-IND:W2A-024#41:1>
+The class interval chosen for grouping the diameters measured to
+obtain histograms was 0.2 um. </p> <O> histogram </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W2A-024#42:1>
+Then the samples were successively etched for different times
+separately, i.e. the etching time varied in steps without changing the
+etch temperature; and at each step, after scanning most probable diameters
+were found out.
+
+<ICE-IND:W2A-024#43:1>
+Typical histograms for various etching times are shown in Fig. 1.
+
+<ICE-IND:W2A-024#44:1>
+The nature of variation of track diameters with etching time is shown
+in Figs 2 and 3 for all the detectors. </p>
+
+<p> 
+<ICE-IND:W2A-024#45:1>
+Bohus and Greaves <fnr> <sp> 8 </sp> </fnr> have shown that in
+the case of CR-39 ( DOP ) detectors, the variation of track diameter with
+etching time is non-linear for etching time below 40 min and above this
+critical etching time and up to 80 min a simple linear relation could fit the
+data.
+
+<ICE-IND:W2A-024#46:1>
+In our studies we have etched the CR-39 ( DOP ) and MA-ND/a
+detectors from 3 hr onwards and it is observed that the variation is
+linear in the whole range of etching time considered for CR-39 ( DOP )
+detectors.
+
+<ICE-IND:W2A-024#47:1>
+But the data for MA-ND/a could not be fitted with a single straight
+line.
+
+<ICE-IND:W2A-024#48:1>
+From t = 3 to 6 hr the variation is linear, and after 6 hr of etching
+this variation is still linear but with considerable increase in the
+slope.
+
+<ICE-IND:W2A-024#49:1>
+In case of CN-85 ( KODAK ) detectors, this variation deviates from
+linearity after 4.5 hr of etching.
+
+<ICE-IND:W2A-024#50:1>
+But we could not proceed further to see if it behaved in the same
+manner like MA-ND/a, because after prolonged etching, the surface
+smoothness and the optical qualities deteriorated to such an extent that the
+measurement of diameter of etchpits was not accurate enough to extract any
+information definitely.
+
+<ICE-IND:W2A-024#51:1>
+In case of SR-86 ( 20 ) the variation of track diameter with
+etching time is linear up to an etching time <it> <mention> t </mention>
+</it> = 60 min <O> graph </O> <O> caption </O> <O> <&> page </&> 109 </O> (
+slope = 0.16 <*> mu</*>m/min ) and it still possesses this behaviour up to
+100 min but with a fair increase in the slope.
+
+<ICE-IND:W2A-024#52:1>
+The nature of this variation is similar to that shown by Fujii <fnr>
+<sp> 9 </sp> </fnr> and is shown in Fig. 3.
+
+<ICE-IND:W2A-024#53:1>
+Etching conditions in Ref. [ 9 ] were 7N NaOH aqueous solution at
+70<*>degree</*>C. </p>
+
+<p> 
+<ICE-IND:W2A-024#54:1>
+The slopes of linear portions of the curves for all the detectors
+have been calculated which are listed in Table 1.
+
+<ICE-IND:W2A-024#55:1>
+The straight lines in each case are computer <O> graph </O> <O> caption
+</O>  best fits ( i.e. least square analysis has been done for each
+curve ) . </p>
+
+<ICE-IND:W2A-024#56:1>
+<h> <bold> 3.2 Diameter versus etch temperature characteristics
+</bold> </h>
+
+<p> 
+<ICE-IND:W2A-024#57:1>
+The existence of the effect of etch temperature on response of
+CR-39 detector has been definitely established <fnr> <sp> 10 </sp> </fnr> .
+
+<ICE-IND:W2A-024#58:1>
+Somogyi has carried out simulation experiments with electron
+irradiated CR-39 foils, choosing both the electron dose and etch
+temperature as the varying parameters.
+
+<ICE-IND:W2A-024#59:1>
+The results thereafter show the response to be much more sensitive
+to changes in high damage densities <fnr> <sp> 11 </sp> </fnr> . </p>
+
+<p> 
+<ICE-IND:W2A-024#60:1>
+Our attempt is to study the effect of change in etch temperature
+using all the four types of detectors mentioned earlier.
+
+<ICE-IND:W2A-024#61:1>
+Keeping the concentration of the etchant and all other parameters
+affecting etching constant, the temperature is varied in steps, etching a
+new, freshly irradiated sample of each detector every time separately for
+a fixed time, which is different for different detectors.
+
+<ICE-IND:W2A-024#62:1>
+The etching time for CR-39 ( DOP ) and MA-ND/a is 3 hr. for SR-86
+( 20 ) it is 30 min and for CN-85 KODAK it is 2 hr.
+
+<ICE-IND:W2A-024#63:1>
+After scanning the samples, the arithmetic mean value of track
+diameters ( <it> <mention> D </mention> </it> ) were plotted against etch
+temperature ( <it> <mention> T </mention> </it> ) as shown in Figs 4-6.
+</p>
+
+<p> 
+<ICE-IND:W2A-024#64:1>
+It is well-known that track diameters of charged particles grow
+non-linearly with the etch temperature.
+
+<ICE-IND:W2A-024#65:1>
+The bulk etch rate obeys the Arrhenius relation <mention>
+V<sb>B</sb> ( T ) = V<sb>o</sb>exp ( - - Q/kT </h> </mention> where <mention>
+V<sb>o</sb> </mention> and <mention> k </mention> are constants.
+
+<ICE-IND:W2A-024#66:1>
+<mention> Q </mention> is the activation energy for the bulk
+etching and <mention> T </mention> is the etch temperature in degree
+Kelvin.
+
+<ICE-IND:W2A-024#67:1>
+For a normally incident particle, <O> Table 1. </O> <O> caption </O> <O>
+<&> page </&> 110 </O> <O> graph </O> <O> caption </O>   the diameter
+<mention> D </mention> = <mention> 2V<sb>B</sb>t </mention> ( where <mention>
+t </mention> is a constant ) is not a linear function of the etch temperature
+<fnr> <sp> 12 </sp> </fnr> .
+
+<ICE-IND:W2A-024#68:1>
+Our data have been fitted with the above relation and the fits are
+shown in Fig. 3 for CR-39 ( DOP ) , MA-ND/a and CN-85 ( KODAK ) detectors.
+
+<ICE-IND:W2A-024#69:1>
+These exponential curves have been broken into two linear parts for
+all the detectors ( except SR-86 ( 20 ) ) and these are shown in Fig.4 ( our
+aim is to calculate the slopes in these two regions and relate them with
+their respective ( dD/dt ) <sb> T</sb> slopes ) . </p>
+
+<p> 
+<ICE-IND:W2A-024#70:1>
+In the case of CR-39 ( DOP ) , the slope ( dD/dT ) ? , increases
+remarkably after 75<*>degree</*>C ( from 0.468 <*> mu</*>m/<*>degree</*>C to
+1.6 <*> mu</*>m/<*>degree</*>C ) and this is also the trend in case of
+MA-ND/a, where the slopes below and above 75<*>degree</*>C are 0.372 and 1.44
+<*> mu</*>m/<*>degree</*>C, respectively.
+
+<ICE-IND:W2A-024#71:1>
+When the etch temperature is raised beyond 80<*>degree</*>C, the
+CR-39 ( DOP ) foils start losing their transparency and the surface
+becomes rough; but MA-ND/a foils are still beautifully smooth and
+transparent, which suggests that one can go above 80<*>degree</*>C without
+causing much damage to the detector.
+
+<ICE-IND:W2A-024#72:1>
+But we could not go beyond 82.5<*>degree</*>C, because of the
+limitations in our temperature bath. </p>
+
+<p> 
+<ICE-IND:W2A-024#73:1>
+However SR-86 ( 20 ) is a bit different from others in this
+respect.
+
+<ICE-IND:W2A-024#74:1>
+The <it> <mention> D </mention> </it> versus <it> <mention> T
+</mention> </it> variation in the range 60<*>degree</*>C <*> equal to or
+greater than</*> <it> <mention> T </mention> </mention> </it> <*> equal to or
+greater than</*> </*> 73<*>degree</*>C is linear with a slope of 0.36 <*>
+mu</*>m/ <*> degree</*>C.
+
+<ICE-IND:W2A-024#75:1>
+In an attempt to see if it behaves in a manner similar to the
+above two detectors, it was observed that as we went above
+77.5<*>degree</*>C, the detector foils started losing their optical
+properties and perceptible damage to the detector occurred.
+
+<ICE-IND:W2A-024#76:1>
+At 80<*>degree</*>C it was badly damaged and the surfaces became
+irregular and the diameter of tracks were no longer circular.
+
+<ICE-IND:W2A-024#77:1>
+At 82.5<*>degree</*>C this irregularity was the worst and the detector <O>
+graph </O> <O> caption </O> was totally damaged.
+
+<ICE-IND:W2A-024#78:1>
+However, in the region where it possesses linearity in D versus T
+variation, the detector foils exhibit remarkable optical clarity.
+
+<ICE-IND:W2A-024#79:1>
+It is observed that this detector can be successfully used below
+77.5<*>degree</*>C. </p>
+
+<p> 
+<ICE-IND:W2A-024#80:1>
+CN-85 ( KODAK ) behaved in a manner similar to CR-39 ( DOP ) and
+MA-ND/a in its response to changes in etch temperature.
+
+<ICE-IND:W2A-024#81:1>
+The D versus T variation <O> <&> page </&> 111 </O> is
+exponential in nature ( Fig.3 ) .
+
+<ICE-IND:W2A-024#82:1>
+As stated in the case of CR-39 ( DOP ) and MA-ND/a, its slopes in the
+two regions below and above 52.5<*>degree</*>C are 0.566 and 0.8 <*>
+mu</*>m/<*>degree</*>C, respectively.
+
+<ICE-IND:W2A-024#83:1>
+This could be studied up to 60<*>degree</*>C, because at higher
+temperatures the detector foils became rough and lost their optical
+properties. </p>
+
+<p> 
+<ICE-IND:W2A-024#84:1>
+Thus it is observed that each of these detectors exhibits a
+certain type of behaviour up to a critical etch temperature, say T<sb>e</sb>,
+which is a characteristic of the detector.
+
+<ICE-IND:W2A-024#85:1>
+And at temperatures above T<sb>e</sb>, certain changes may be
+occurring in the material that its behaviour changes.
+
+<ICE-IND:W2A-024#86:1>
+This temperature has been mentioned as critical, just to show that
+the behaviour of the detectors changes notably and the trend of variation
+of track diameter with etch temperature starts to change sharply above this
+temperature.
+
+<ICE-IND:W2A-024#87:1>
+This T<sb>e</sb> for all the detectors are listed in Table 1. </p>
+
+<p> 
+<ICE-IND:W2A-024#88:1>
+Thus it is clear that only Ma-ND a is the highest temperature
+resistant among the four types of detectors.
+
+<ICE-IND:W2A-024#89:1>
+However, SR-86 ( 20 ) is the best of all, as long as it does not get
+damaged.
+
+<ICE-IND:W2A-024#90:1>
+Its sensitivity to the variation of these two etch parameters is
+remarkable. </p>
+
+<ICE-IND:W2A-024#91:1>
+<h> <bold> 3.3 Relationships and their verification </bold> </h>
+
+<p> 
+<ICE-IND:W2A-024#92:1>
+The relationship between etching time <it> <mention> t </mention>
+</it> and etch temperature ( <it> <mention> T </mention> </it> ) has been
+obtained as follows: <O> equation </O>
+
+<ICE-IND:W2A-024#93:1>
+The negative sign indicates that <it> <mention> t </mention> </it>
+decreases with increasing <it> <mention> T </mention> </it> and vice versa
+for constant <it> <mention> D </mention> </it> .
+
+<ICE-IND:W2A-024#94:1>
+Hence to keep the diameter constant, if we increase the etch
+temperature the etching time should be proportionately decreased and vice
+versa, in accordance with the above relation while keeping all other factors
+affecting etching such as concentration of the etchant, etc., unchanged.
+</p>
+
+<p> 
+<ICE-IND:W2A-024#95:1>
+From the nature of variation of track diameter with etch
+temperature for all the four detectors, it is seen that the variation is
+exponential in the range of etch temperature considered for each detector (
+Fig. 4 ) .
+
+<ICE-IND:W2A-024#96:1>
+As can be done with any exponential curve for such nature, each curve
+has been broken into two linear parts.
+
+<ICE-IND:W2A-024#97:1>
+The slopes of these two linear regions have been related with their
+respective dD/dt ) <sb> T</sb> slopes and the relationship between etching
+time and etch temperature has been derived and attempted for verification.
+</p>
+
+<p> 
+<ICE-IND:W2A-024#98:1>
+Let us first consider CR-39 ( DOP ) .
+
+<ICE-IND:W2A-024#99:1>
+The <it> <mention> D </mention> </it> versus <it> <mention> t
+</mention> </it> variation is linear in the whole range of etching time
+considered.
+
+<ICE-IND:W2A-024#100:1>
+Its slope is 2.6 <*> mu</*>m/hr.
+
+<ICE-IND:W2A-024#101:1>
+The slope dD dT ) , up to 75<*>degree</*>C is 0.468 <*>
+mu</*>m/<*>degree</*>C.
+
+<ICE-IND:W2A-024#102:1>
+In accordance with the relation mentioned above, ( dt/dT ) <sb>
+D</sb>= - 10.8 min/<*>degree</*>C.
+
+<ICE-IND:W2A-024#103:1>
+The most probable diameter obtained after three hours of etching at
+70<*>degree</*>C is taken as the reference point ( D=5.8 <*> mu</*>m ) .
+
+<ICE-IND:W2A-024#104:1>
+After irradiating a fresh sample of the above detector for 6 hr, it
+was etched at 75<*>degree</*>C for [ 3 hr - - ( 5 x 10.8 ) min ] 2 hr 06 min
+( since ( dt/dT ) <sb> n</sb> for this detector is - 10.8 min/<*>degree</*>C
+in the temperature range 65<*>degree</*>C <*> left arrow</*> <it> <mention> T
+</mention> </it> <*> left arrow</*> 75<*>degree</*>C, see Table 1 ) .
+
+<ICE-IND:W2A-024#105:1>
+Scanning under the optical microscope yielded the most probable
+diameter to be 5.8 ( <*> plus or minus</*> 0.2 ) <*> mu</*>m.
+
+<ICE-IND:W2A-024#106:1>
+which is well within the experimental error.
+
+<ICE-IND:W2A-024#107:1>
+Another freshly irradiated sample was etched again at
+65<*>degree</*>C for 3 hr 54 min; and after scanning the most probable
+diameter was found to be 5.8 ( <*> plus or minus</*>0.2 ) <*> mu</*>m.
+
+<ICE-IND:W2A-024#108:1>
+In the same fashion the relations for SR-86 ( 20 ) and for CN-85
+( KODAK ) were verified in the temperature range mentioned against each of
+them in Table 1. </p> </I>

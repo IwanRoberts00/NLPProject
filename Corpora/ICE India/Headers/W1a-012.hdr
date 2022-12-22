@@ -1,0 +1,47 @@
+<text.info>
+       <file.description>
+               <textcode>ICE-IND-W1A-012</textcode>
+               <number.of.subtexts>1</number.of.subtexts>
+               <category>non-printed:non-professional
+                 writing:student examination essays</category>
+               <wordcount>2881</wordcount>
+               <version>lexical</version>
+               <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1A-012>
+           <source.type=examination paper>
+               <examination>F.Y.B.Com</examination>
+               <subject>EVS</subject>
+               <date>30-03-93</date>
+               <examining.body>P.T.V. Association's M.L.
+                 Dahanukar College of Commerce, Bombay-
+                 57</examining.body>
+           <copyright.statement>reproduced by permission of the
+                 examining body</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-012</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+               <main.title></main.title>
+               <subtitle></subtitle>
+               <page.nos></page.nos>
+               <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-012</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+               <surname></surname>
+               <forenames></forenames>
+               <age></age>
+               <gender></gender>
+               <nationality>Indian</nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation>student</occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+       </biography>
+</text.info>

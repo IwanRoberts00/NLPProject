@@ -1,0 +1,60 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-006</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:popular:
+              humanities</category>
+            <wordcount>1899</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-006>
+        <source.type=newspaper>
+            <source.title>The Sunday Times of
+              India</source.title>
+            <source.subtitle>Review</source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>Bennett, Coleman & Co. Ltd.</publisher>
+            <address>Dr. Dadabhoy Naoroji Rd. Bombay-          
+                    400001</address>
+            <place>Bombay</place>
+            <date>08-01-95</date>
+        </publication.statement>
+        <copyright.statement>reproduced by arrangement with the 
+        author and the Times of India and is the copyright of the 
+        the publishers, Bennett, Coleman & Co.
+        Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-006</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>In the kingdom of shadows</main.title>
+            <subtitle></subtitle>
+            <page.nos>1</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-006</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Khopkar</surname>
+                <forenames>Arun Vasant</forenames>
+                <age>50</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Bombay</birthplace>
+                <education>Bombay University, Film & Television
+                  Institute of India</education>
+                <educational.level>B.Sc(Hon), Diploma in
+                  Cinematography(Direction)</educational.level>
+                <occupation>Filmmaker</occupation>
+                <affiliations>India International Centre, Asiatic
+                  Society Bombay</affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages>Hindi, Bengali, Russian, German,
+                  French, Japanese, Italian</other.languages>
+                <free.comments>Moved to Pune (1971-
+                  74)</free.comments>
+        </biography>
+</text.info>

@@ -1,0 +1,1573 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-091#1:1:A>
+Hello <,>
+
+<$B> 
+<ICE-IND:S1A-091#2:1:B>
+Hello Shastri here <,,> one minute <,,> hello
+
+<$A> 
+<ICE-IND:S1A-091#3:1:A>
+Uh you are speaking <O> one word </O>
+
+<$B> 
+<ICE-IND:S1A-091#4:1:B>
+I just <,> I arrived <,> at uh twelve <w> O'clock </w>
+
+<$A> 
+<ICE-IND:S1A-091#5:1:A>
+I see <,>
+
+<$B> 
+<ICE-IND:S1A-091#6:1:B>
+By the time I came here it was almost two
+
+<$A> 
+<ICE-IND:S1A-091#7:1:A>
+I see
+
+<$B> 
+<ICE-IND:S1A-091#8:1:B>
+I have been ringing what <,> was there any problem or uh <,>
+
+<$A> 
+<ICE-IND:S1A-091#9:1:A>
+No the telephone misbehaves
+
+<$B> 
+<ICE-IND:S1A-091#10:1:B>
+Oh I see I thought so actually
+
+<$A> 
+<ICE-IND:S1A-091#11:1:A>
+Ah yes <,>
+
+<ICE-IND:S1A-091#12:1:A>
+It misbehaves
+
+<$B> 
+<ICE-IND:S1A-091#13:1:B>
+Ah ha <,> so uh <,> is Rajalaxmi
+
+<$A> 
+<ICE-IND:S1A-091#14:1:A>
+Yes she is there
+
+<$B> 
+<ICE-IND:S1A-091#15:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-091#16:1:A>
+One minute
+
+<$B> 
+<ICE-IND:S1A-091#17:1:B>
+See actually <,> <{1> <[1> ahn <,> I mean I brought some <,>
+pills and some <,,> see capsule <,> <{2> <[2> ah <,> which her gave me
+
+<$A> 
+<ICE-IND:S1A-091#18:1:A>
+<[1> Ahn </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-091#19:1:A>
+<[2> Ah </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-091#20:1:A>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#21:1:B>
+<w> That's </w> why I was calling from four <w> O'clock </w> I
+am actually going away by <,> eight <,> eight thirty train <,> <{> <[> okay
+<,> uh leaving <,> Dadar Mahalaxmi
+
+<$A> 
+<ICE-IND:S1A-091#22:1:A>
+<[> Okay </[> </{>
+
+<$A> 
+<ICE-IND:S1A-091#23:1:A>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#24:1:B>
+So I was wondering <,> <{> <[> ah <,> uh <,,> I mean <w> it's
+</w> already six thirty or past that isn't it ?
+
+<$A> 
+<ICE-IND:S1A-091#25:1:A>
+<[> Ah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#26:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-091#27:1:A>
+How we should <,,> try to reach that
+
+<$A> 
+<ICE-IND:S1A-091#28:1:A>
+Yeah yeah yeah <,> I will call her
+
+<$B> 
+<ICE-IND:S1A-091#29:1:B>
+Okay <,>
+
+<ICE-IND:S1A-091#30:1:B>
+So how are you <,> ?
+
+<$A> 
+<ICE-IND:S1A-091#31:1:A>
+I am fine <,> thank you
+
+<$B> 
+<ICE-IND:S1A-091#32:1:B>
+Okay <,,> <&> Taken over to
+
+<$C> </&>
+
+<$C> 
+<ICE-IND:S1A-091#33:1:C>
+Hello
+
+<$B> 
+<ICE-IND:S1A-091#34:1:B>
+Hello
+
+<$C> 
+<ICE-IND:S1A-091#35:1:C>
+Welcome home
+
+<$B> 
+<ICE-IND:S1A-091#36:1:B>
+Oh thank you
+
+<$C> 
+<ICE-IND:S1A-091#37:1:C>
+Ah then <,>
+
+<$B> 
+<ICE-IND:S1A-091#38:1:B>
+So your sister phoned you <,>
+
+<$C> 
+<ICE-IND:S1A-091#39:1:C>
+Yes she phoned me
+
+<ICE-IND:S1A-091#40:1:C>
+She must have called atleast three times you know after that <,>
+
+<$B> 
+<ICE-IND:S1A-091#41:1:B>
+<O> Laughs </O>
+
+<ICE-IND:S1A-091#42:1:B>
+As there was a lot of confusion about the name of the medicine you
+wanted or something <,>
+
+<ICE-IND:S1A-091#43:1:B>
+So anyway
+
+<$C> 
+<ICE-IND:S1A-091#44:1:C>
+No no <,> see <{> <[> here </[> <,> I didn't expect her to <,>
+come back and deliver it I thought she would give you a prescription and you
+would <,> buy it
+
+<$B> 
+<ICE-IND:S1A-091#45:1:B>
+<[> Any </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#46:1:B>
+No actually <,,> uh that was not uh <,> that was a non
+prescription thing it seems
+
+<ICE-IND:S1A-091#47:1:B>
+She sent it to me by post <,>
+
+<$C> 
+<ICE-IND:S1A-091#48:1:C>
+Oh your medicine <,> ?
+
+<$B> 
+<ICE-IND:S1A-091#49:1:B>
+No mine also <,> <{> <[> ahn <,> and some capsules for your
+mother
+
+<$C> 
+<ICE-IND:S1A-091#50:1:C>
+<[> Ahn </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#51:1:C>
+Same pack <,> uh she has given you
+
+<$B> 
+<ICE-IND:S1A-091#52:1:B>
+I see <,> and
+
+<$C> 
+<ICE-IND:S1A-091#53:1:C>
+<w> That's </w> for the arthritis <,>
+
+<$B> 
+<ICE-IND:S1A-091#54:1:B>
+Uh I see <,> and some uh <,> this benedol <,>
+
+<$C> 
+<ICE-IND:S1A-091#55:1:C>
+Yeah that which yeah
+
+<$B> 
+<ICE-IND:S1A-091#56:1:B>
+So she gave me four packets
+
+<$C> 
+<ICE-IND:S1A-091#57:1:C>
+Ahn <,>
+
+<$B> 
+<ICE-IND:S1A-091#58:1:B>
+And she said uh I may use one
+
+<$C> 
+<ICE-IND:S1A-091#59:1:C>
+Uh <,>
+
+<$B> 
+<ICE-IND:S1A-091#60:1:B>
+And give you the remaining three
+
+<$C> 
+<ICE-IND:S1A-091#61:1:C>
+No if you want you can two more <,>
+
+<$B> 
+<ICE-IND:S1A-091#62:1:B>
+Ah no no <,> actually I you see <,,> uh towards the end of my
+trip
+
+<$C> 
+<ICE-IND:S1A-091#63:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#64:1:B>
+In Germany
+
+<$C> 
+<ICE-IND:S1A-091#65:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#66:1:B>
+I started having trouble <,> with my knee
+
+<$C> 
+<ICE-IND:S1A-091#67:1:C>
+Oh
+
+<$B> 
+<ICE-IND:S1A-091#68:1:B>
+May be because of carrying a lot of luggage all round
+
+<$C> 
+<ICE-IND:S1A-091#69:1:C>
+Oh yes yes
+
+<$B> 
+<ICE-IND:S1A-091#70:1:B>
+But otherwise I was okay in Lancaster
+
+<$C> 
+<ICE-IND:S1A-091#71:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#72:1:B>
+And also in London <,>
+
+<$C> 
+<ICE-IND:S1A-091#73:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#74:1:B>
+And things went off all right
+
+<$C> 
+<ICE-IND:S1A-091#75:1:C>
+But the <,> medicine help to relieve <{> <[> some pain </[>
+
+<$B> 
+<ICE-IND:S1A-091#76:1:B>
+<[> Yeah yes </[> </{> it does help to <,> relieve the pain
+
+<ICE-IND:S1A-091#77:1:B>
+I <{> <[> I </[> didn't try that capsule
+
+<$C> 
+<ICE-IND:S1A-091#78:1:C>
+<[> <indig> Haan </indig> </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#79:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#80:1:B>
+Because I <,> I said anyway <,,> I had one or two left over
+some <,> what you had <{> <[> given me </[> <,>
+
+<$C> 
+<ICE-IND:S1A-091#81:1:C>
+<[> <indig> Haan accha </indig> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#82:1:B>
+And she also gave me some cremes you know
+
+<$C> 
+<ICE-IND:S1A-091#83:1:C>
+Oh
+
+<$B> 
+<ICE-IND:S1A-091#84:1:B>
+To apply <{> <[> externally </[>
+
+<$C> 
+<ICE-IND:S1A-091#85:1:C>
+<[> I see </[> </{> ahn
+
+<$B> 
+<ICE-IND:S1A-091#86:1:B>
+And some how now <,> now that I am back <O> laughs </O>
+
+<$C> 
+<ICE-IND:S1A-091#87:1:C>
+Ah <,> that is <O> one word </O> with you
+
+<$B> 
+<ICE-IND:S1A-091#88:1:B>
+In one piece <,> yes <O> laughs </O>
+
+<ICE-IND:S1A-091#89:1:B>
+Main problem is food <,,> you know that
+
+<$C> 
+<ICE-IND:S1A-091#90:1:C>
+Food yeah <,>
+
+<ICE-IND:S1A-091#91:1:C>
+She was telling me I felt very bad I will <{> <[> carry </[>
+something for him
+
+<$B> 
+<ICE-IND:S1A-091#92:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#93:1:B>
+Yeah she did bring something <,>
+
+<$C> 
+<ICE-IND:S1A-091#94:1:C>
+Ahn
+
+<$B> 
+<ICE-IND:S1A-091#95:1:B>
+I mean <.> ac </.> actually you know luckily <,> the Lancaster
+people made arrangement for me
+
+<$C> 
+<ICE-IND:S1A-091#96:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#97:1:B>
+In a <,,> uh see flat
+
+<$C> 
+<ICE-IND:S1A-091#98:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#99:1:B>
+With some three or four different rooms and one kitchen and
+hall <O> one word </O> and all that
+
+<$C> 
+<ICE-IND:S1A-091#100:1:C>
+I see
+
+<$B> 
+<ICE-IND:S1A-091#101:1:B>
+So <,> immedietly after two days <,> I was made comfortable
+<{> <[> for my </[>
+
+<$C> 
+<ICE-IND:S1A-091#102:1:C>
+<[> So you </[> </{> got to cook your own
+
+<$B> 
+<ICE-IND:S1A-091#103:1:B>
+Yeah I could cook my own food <,> actually even the
+kitchenware and everything was there
+
+<$C> 
+<ICE-IND:S1A-091#104:1:C>
+Very good <,>
+
+<$B> 
+<ICE-IND:S1A-091#105:1:B>
+So I didn't have any problem in Lancaster
+
+<$C> 
+<ICE-IND:S1A-091#106:1:C>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-091#107:1:B>
+So the whole of uh <,> May went off well <,>
+
+<$C> 
+<ICE-IND:S1A-091#108:1:C>
+Very good
+
+<$B> 
+<ICE-IND:S1A-091#109:1:B>
+But the moment I <,> went to Holland for a day and went <,>
+return to London
+
+<$C> 
+<ICE-IND:S1A-091#110:1:C>
+Oh <,>
+
+<$B> 
+<ICE-IND:S1A-091#111:1:B>
+In London you know they put me up in a <,,> uh international
+hall
+
+<$C> 
+<ICE-IND:S1A-091#112:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#113:1:B>
+And there they were <,> uh serving breakfast and <,> even the
+<,,> dinner
+
+<$C> 
+<ICE-IND:S1A-091#114:1:C>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-091#115:1:B>
+And was all included in the payment
+
+<$C> 
+<ICE-IND:S1A-091#116:1:C>
+<indig> Accha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-091#117:1:B>
+So if I didn't eat at night and went out outside <{> <[> and
+some how </[> but in anycase I couldn't eat much
+
+<$C> 
+<ICE-IND:S1A-091#118:1:C>
+<[> Oh you should <O> one word </O> and <O> one word </O>
+</[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#119:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#120:1:B>
+But some how it was all over
+
+<$C> 
+<ICE-IND:S1A-091#121:1:C>
+<indig> Haan haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#122:1:B>
+So then uh <,,>
+
+<ICE-IND:S1A-091#123:1:B>
+So how are you ?
+
+<ICE-IND:S1A-091#124:1:B>
+What what how are things <O> one word </O>
+
+<$C> 
+<ICE-IND:S1A-091#125:1:C>
+Well going on and so <}> <-> you </-> <+> your </+> </}> trip
+was very good it seems
+
+<$B> 
+<ICE-IND:S1A-091#126:1:B>
+Yes I <{> <[> think </[>
+
+<$C> 
+<ICE-IND:S1A-091#127:1:C>
+<[> And did </[> </{> Leech remember me <{> <[> very </[>
+
+<$B> 
+<ICE-IND:S1A-091#128:1:B>
+<[> Oh </[> </{> he did <,> <{> <[> yeah <,> he did actually
+many other people remembered your presence there
+
+<$C> 
+<ICE-IND:S1A-091#129:1:C>
+<[> Yeah </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#130:1:C>
+Who else did you meet <,> ?
+
+<$B> 
+<ICE-IND:S1A-091#131:1:B>
+Ah there was Dick Alright I don't know what <O> two words
+</O>
+
+<$C> 
+<ICE-IND:S1A-091#132:1:C>
+Yeah yeah <,> Dick Alright was <,,>
+
+<$B> 
+<ICE-IND:S1A-091#133:1:B>
+Around
+
+<$C> 
+<ICE-IND:S1A-091#134:1:C>
+Here in Bombay <,> <indig> haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#135:1:B>
+No
+
+<$C> 
+<ICE-IND:S1A-091#136:1:C>
+Does he remember me ?
+
+<ICE-IND:S1A-091#137:1:C>
+No I don't know <,>
+
+<$B> 
+<ICE-IND:S1A-091#138:1:B>
+May be <,> and then you know I contacted <,> uh Tomkin <,,>
+
+<$C> 
+<ICE-IND:S1A-091#139:1:C>
+Ah <{> <[> Allan </[>
+
+<$B> 
+<ICE-IND:S1A-091#140:1:B>
+<[> Allan </[> </{> Allan Tomkin I telephoned <,> <{> <[> ah
+<,> and I even <,> he even wrote to me
+
+<$C> 
+<ICE-IND:S1A-091#141:1:C>
+<[> Ah </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#142:1:C>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-091#143:1:B>
+Because I <,> I was to get some books for the <,> Maharashtra
+Board
+
+<$C> 
+<ICE-IND:S1A-091#144:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#145:1:B>
+S S C Board
+
+<$C> 
+<ICE-IND:S1A-091#146:1:C>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-091#147:1:B>
+Actually I have ordered books <,>
+
+<$C> 
+<ICE-IND:S1A-091#148:1:C>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-091#149:1:B>
+At the last moment <,> <{> <[> <indig> haan </indig> <,> I
+thought you know <,> actually <,> it was difficult to get all the books in
+one place
+
+<$C> 
+<ICE-IND:S1A-091#150:1:C>
+<[> <indig> Haan </indig> </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#151:1:C>
+Right <,>
+
+<$B> 
+<ICE-IND:S1A-091#152:1:B>
+And so there <,> there is a special <,,> E L T shop <,> <,>
+<{> <[> <indig> haan </indig> <,> called <?> Kelse </?> <,>
+
+<$C> 
+<ICE-IND:S1A-091#153:1:C>
+<[> <indig> Haan </indig> </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#154:1:C>
+Yes <?> Kelse </?> is very <{> <[> <O> one word </O>
+catalogue </[> <,> yes yes
+
+<$B> 
+<ICE-IND:S1A-091#155:1:B>
+<[> In London </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#156:1:B>
+Oh then actually you know that is the place from where you
+can even directly order things
+
+<$C> 
+<ICE-IND:S1A-091#157:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#158:1:B>
+He told me
+
+<$C> 
+<ICE-IND:S1A-091#159:1:C>
+Yeah yeah <,>
+
+<$B> 
+<ICE-IND:S1A-091#160:1:B>
+Ah even if you ask for a direct mail order <,> <{> <[> uhm
+<,> we will supply
+
+<$C> 
+<ICE-IND:S1A-091#161:1:C>
+<[> Uhm </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#162:1:C>
+<indig> Accha </indig>
+
+<$B> 
+<ICE-IND:S1A-091#163:1:B>
+Anyway I have paid and ordered books for <,> S S C Board
+
+<$C> 
+<ICE-IND:S1A-091#164:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#165:1:B>
+And he promised to send it at a cost of very marginal charge
+
+<$C> 
+<ICE-IND:S1A-091#166:1:C>
+I see
+
+<$B> 
+<ICE-IND:S1A-091#167:1:B>
+Yeah <,>
+
+<ICE-IND:S1A-091#168:1:B>
+So many jobs many assignment <,> <O> laughs </O>
+
+<$C> 
+<ICE-IND:S1A-091#169:1:C>
+Oh I know <,>
+
+<$B> 
+<ICE-IND:S1A-091#170:1:B>
+How was the S S C Board meeting ?
+
+<ICE-IND:S1A-091#171:1:B>
+Did you go to <,> this uh meeting on <{> <[> fifteen </[>
+
+<$C> 
+<ICE-IND:S1A-091#172:1:C>
+<[> Fifteen </[> </{> yes <,> <{> <[> ahn <,> ah Kadepurkar
+<,> see we were <,,> we carried work home and this glossary and all that
+
+<$B> 
+<ICE-IND:S1A-091#173:1:B>
+<[> Ahn </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#174:1:B>
+Uhm <,,>
+
+<$C> 
+<ICE-IND:S1A-091#175:1:C>
+Finally there were other changes some <,> rejection
+
+<$B> 
+<ICE-IND:S1A-091#176:1:B>
+Uhm uhm <,>
+
+<$C> 
+<ICE-IND:S1A-091#177:1:C>
+And uh <,> unfortunately there was no electricity nothing you
+know <,> <{> <[> uhm <,>
+
+<ICE-IND:S1A-091#178:1:C>
+There was a total breakdown
+
+<$B> 
+<ICE-IND:S1A-091#179:1:B>
+<[> Uhm </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#180:1:B>
+Oh I see
+
+<$C> 
+<ICE-IND:S1A-091#181:1:C>
+We were to continue the next day
+
+<$B> 
+<ICE-IND:S1A-091#182:1:B>
+<indig> Haan haan </indig> <,>
+
+<$C> 
+<ICE-IND:S1A-091#183:1:C>
+But then there was this holiday and <O> one word </O> strike
+<,>
+
+<$B> 
+<ICE-IND:S1A-091#184:1:B>
+Really
+
+<$C> 
+<ICE-IND:S1A-091#185:1:C>
+So even <{> <[> the </[> S S C Board people were going to be
+away
+
+<$B> 
+<ICE-IND:S1A-091#186:1:B>
+<[> Uh </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#187:1:B>
+Oh I see
+
+<$C> 
+<ICE-IND:S1A-091#188:1:C>
+So it was the meeting went on upto five <w> O'clock </w> in
+that <{> <[> sultry heat </[> <,>
+
+<ICE-IND:S1A-091#189:1:C>
+And then we <,> I returned home means in the evening <,>
+
+<$B> 
+<ICE-IND:S1A-091#190:1:B>
+<[> <indig> Haan haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#191:1:B>
+Was there any <,> any decision about another meeting <,> uh ?
+
+<$C> 
+<ICE-IND:S1A-091#192:1:C>
+Yes eighteenth July is the <,,> what you call the first
+language
+
+<$B> 
+<ICE-IND:S1A-091#193:1:B>
+<indig> Haan </indig>
+
+<$C> 
+<ICE-IND:S1A-091#194:1:C>
+Then third or fourth July the <,> third language
+
+<$B> 
+<ICE-IND:S1A-091#195:1:B>
+Third language <,> and uhm this did that uh <,> Apte lady
+come <,,>
+
+<$C> 
+<ICE-IND:S1A-091#196:1:C>
+Yes she came
+
+<$B> 
+<ICE-IND:S1A-091#197:1:B>
+<indig> Haan haan </indig> how <,> how did
+
+<$C> 
+<ICE-IND:S1A-091#198:1:C>
+She <,> of course she was very quiet <,> probably <,> she was
+just getting to know things
+
+<$B> 
+<ICE-IND:S1A-091#199:1:B>
+Yeah <indig> haan </indig>
+
+<$C> 
+<ICE-IND:S1A-091#200:1:C>
+And uh <,> she didn't look that <O> one word </O> type <,>
+<{> <[> yes <,> that uh <,>
+
+<$B> 
+<ICE-IND:S1A-091#201:1:B>
+<[> Yes </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#202:1:B>
+Yeah yeah <,>
+
+<$C> 
+<ICE-IND:S1A-091#203:1:C>
+I was <,> made to believe <{> <[> she would be </[>
+
+<$B> 
+<ICE-IND:S1A-091#204:1:B>
+<[> Worry <,> oh or </[> </{> worried <,> okay
+
+<$C> 
+<ICE-IND:S1A-091#205:1:C>
+Uhn <,> well uh <,> <{> <[> everything was fine </[>
+
+<$B> 
+<ICE-IND:S1A-091#206:1:B>
+<[> I think </[> </{> I think she is not bad <,,>
+
+<$C> 
+<ICE-IND:S1A-091#207:1:C>
+No <,> anyway I don't have to work with her
+
+<$B> 
+<ICE-IND:S1A-091#208:1:B>
+I know
+
+<$C> 
+<ICE-IND:S1A-091#209:1:C>
+I will be in other group
+
+<$B> 
+<ICE-IND:S1A-091#210:1:B>
+I know
+
+<$C> 
+<ICE-IND:S1A-091#211:1:C>
+But even then she didn't seem to be one of those <,> <O> one
+word </O> though she has lot of weight to throw around <,>
+
+<$B> 
+<ICE-IND:S1A-091#212:1:B>
+No doubt no doubt <,> I mean <{> <[> may be </[> she has
+
+<$C> 
+<ICE-IND:S1A-091#213:1:C>
+<[> She is </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#214:1:C>
+She is physically very fat <,,>
+
+<$B> 
+<ICE-IND:S1A-091#215:1:B>
+<O> Laughs </O>
+
+<ICE-IND:S1A-091#216:1:B>
+I see <,> is it
+
+<$C> 
+<ICE-IND:S1A-091#217:1:C>
+No you haven't seen her <,,>
+
+<$B> 
+<ICE-IND:S1A-091#218:1:B>
+I have seen her but <w> I've </w> <{> <[> normally may have
+<,> may have put on </[> some more weight in the meanwhile
+
+<$C> 
+<ICE-IND:S1A-091#219:1:C>
+<[> Oh she is quiet bulky yeah </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#220:1:C>
+No no no <,>
+
+<$B> 
+<ICE-IND:S1A-091#221:1:B>
+Because it is almost two years since I saw her <{> <[> three
+</[> or two or three years
+
+<$C> 
+<ICE-IND:S1A-091#222:1:C>
+<[> Three </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#223:1:C>
+Ahn <,>
+
+<$B> 
+<ICE-IND:S1A-091#224:1:B>
+Because I <,> I am one of those unfortunate people <,> <{>
+<[> <indig> haan </indig> <,> who have been responsible for uh awarding Ph D
+to <O> laughs </O> <{> <[> so many </[>
+
+<$C> 
+<ICE-IND:S1A-091#225:1:C>
+<[> <indig> Haan </indig> </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#226:1:C>
+<[> Ahn </[> </{> I see
+
+<$B> 
+<ICE-IND:S1A-091#227:1:B>
+Actually I looked into her thesis also
+
+<$C> 
+<ICE-IND:S1A-091#228:1:C>
+Oh I see
+
+<$B> 
+<ICE-IND:S1A-091#229:1:B>
+And that must have been three years ago
+
+<$C> 
+<ICE-IND:S1A-091#230:1:C>
+<indig> Haan </indig> because <{> <[> I see </[>
+
+<$B> 
+<ICE-IND:S1A-091#231:1:B>
+<[> And I had </[> </{> gone
+
+<$C> 
+<ICE-IND:S1A-091#232:1:C>
+I felt a lot of consolation <,> looking at her size
+
+<$B> 
+<ICE-IND:S1A-091#233:1:B>
+<O> laughs </O>
+
+<ICE-IND:S1A-091#234:1:B>
+Come on
+
+<$C> 
+<ICE-IND:S1A-091#235:1:C>
+And so she has a lot of weight to throw around and she did
+<,> <O> laughter </O>
+
+<ICE-IND:S1A-091#236:1:C>
+She was <,> good <,> <{> <[> ah <,> and then <,> uh I see some
+passages were rejected
+
+<$B> 
+<ICE-IND:S1A-091#237:1:B>
+<[> Ah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#238:1:B>
+Ahn <,>
+
+<$C> 
+<ICE-IND:S1A-091#239:1:C>
+And <{> <[> then </[>
+
+<$B> 
+<ICE-IND:S1A-091#240:1:B>
+<[> From </[> </{> the ones which we had already taken
+
+<$C> 
+<ICE-IND:S1A-091#241:1:C>
+Yes yes <,> and then <{> <[> some in some cases </[> <,>
+Kadepurkar you know see another thing is he is conducting the whole procedure
+in Marathi <,>
+
+<$B> 
+<ICE-IND:S1A-091#242:1:B>
+<[> Oh how unfortunate </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#243:1:B>
+Oh God <,>
+
+<$C> 
+<ICE-IND:S1A-091#244:1:C>
+Not being audible to half the audience <,> <{> <[> oh <,> it
+was not it was a messy affair
+
+<$B> 
+<ICE-IND:S1A-091#245:1:B>
+<[> Oh </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#246:1:B>
+Oh I see
+
+<$C> 
+<ICE-IND:S1A-091#247:1:C>
+So I was telling
+
+<$B> 
+<ICE-IND:S1A-091#248:1:B>
+And wasn't Gokhale there <,>
+
+<$C> 
+<ICE-IND:S1A-091#249:1:C>
+Oh he was there
+
+<$B> 
+<ICE-IND:S1A-091#250:1:B>
+Ah ha
+
+<$C> 
+<ICE-IND:S1A-091#251:1:C>
+But he did a good job <,> whatever you had <{> <[> assigned
+to him </[>
+
+<$B> 
+<ICE-IND:S1A-091#252:1:B>
+<[> I think <,> yeah </[> </{> I think he is
+
+<$C> 
+<ICE-IND:S1A-091#253:1:C>
+We had a session of passages <,> and he had look through
+
+<$B> 
+<ICE-IND:S1A-091#254:1:B>
+Ah ha
+
+<$C> 
+<ICE-IND:S1A-091#255:1:C>
+And uh <,,>
+
+<$B> 
+<ICE-IND:S1A-091#256:1:B>
+<.> Wa wa </.> was was there more material forthcoming <w>
+I'm I'm </w> just <,> <.> e e e </.>
+
+<$C> 
+<ICE-IND:S1A-091#257:1:C>
+Ahn <,> yes yes <,> of course material did come <,>
+
+<$B> 
+<ICE-IND:S1A-091#258:1:B>
+<indig> Haan haan </indig>
+
+<$C> 
+<ICE-IND:S1A-091#259:1:C>
+So we have made a fresh selection in the meantime <,> Michael
+West <,> dictionary has come
+
+<$B> 
+<ICE-IND:S1A-091#260:1:B>
+Very good very good
+
+<$C> 
+<ICE-IND:S1A-091#261:1:C>
+We all got a copy
+
+<$B> 
+<ICE-IND:S1A-091#262:1:B>
+Oh I am glad <,>
+
+<$C> 
+<ICE-IND:S1A-091#263:1:C>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-091#264:1:B>
+Ah
+
+<$C> 
+<ICE-IND:S1A-091#265:1:C>
+So the <,> now we are meeting on the evening itself <,> <{>
+<[> <indig> haan </indig> <,> with some more material
+
+<$B> 
+<ICE-IND:S1A-091#266:1:B>
+<[> <indig> Haan </indig> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#267:1:B>
+Alright
+
+<$C> 
+<ICE-IND:S1A-091#268:1:C>
+And then I told Kadepurkar look <,>
+
+<$B> 
+<ICE-IND:S1A-091#269:1:B>
+<indig> Haan </indig>
+
+<$C> 
+<ICE-IND:S1A-091#270:1:C>
+We are not going to look at the material <O> one word </O>
+endlessly
+
+<$B> 
+<ICE-IND:S1A-091#271:1:B>
+<indig> Haan </indig>
+
+<$C> 
+<ICE-IND:S1A-091#272:1:C>
+Now you make a final selection and we will start working
+
+<$B> 
+<ICE-IND:S1A-091#273:1:B>
+No no I think that snag is <,> somewhat there
+
+<$C> 
+<ICE-IND:S1A-091#274:1:C>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-091#275:1:B>
+That you know I have I have diagnosed the case but I have got
+to <,> <,> <{> <[> <indig> haan </indig> <,> do that unfortunately no <,> <{>
+<[> job of </[> <,> coordinating <,> in the sense that people pulling in
+different direction <,>
+
+<$C> 
+<ICE-IND:S1A-091#276:1:C>
+<[> <indig> Haan </indig> </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#277:1:C>
+<[> <indig> Haan <,> haan </indig> </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#278:1:C>
+It looks like <O> one word </O>
+
+<$B> 
+<ICE-IND:S1A-091#279:1:B>
+Like you know the Board people <,> <{> <[> ahn <,> want to
+assert their whatever <,,> you know
+
+<$C> 
+<ICE-IND:S1A-091#280:1:C>
+<[> Ahn </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#281:1:C>
+It looked like it and <{> <[> they </[> are not able to
+select
+
+<$B> 
+<ICE-IND:S1A-091#282:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#283:1:B>
+No no they want to assert there right alright <,> but then uh
+<,> I mean <,,> I not all not many of them were really academically <,,> uh
+capable of <,,> you know <,> isn't it ?
+
+<$C> 
+<ICE-IND:S1A-091#284:1:C>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-091#285:1:B>
+I don't know really
+
+<$C> 
+<ICE-IND:S1A-091#286:1:C>
+Yeah <w> it's </w> all the you see uh <,,> uh what you call
+<,> <O> one word </O> was not very wrong
+
+<$B> 
+<ICE-IND:S1A-091#287:1:B>
+Yeah <,>
+
+<$C> 
+<ICE-IND:S1A-091#288:1:C>
+But the way she went about was wrong <,>
+
+<$B> 
+<ICE-IND:S1A-091#289:1:B>
+<w> That's </w> right
+
+<$C> 
+<ICE-IND:S1A-091#290:1:C>
+Anyway <,> <{> <[> yeah <,> the <{> <[> point </[> yes uh <,>
+
+<$B> 
+<ICE-IND:S1A-091#291:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#292:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#293:1:B>
+But then we have to <,> somehow manage the show <,>
+
+<$C> 
+<ICE-IND:S1A-091#294:1:C>
+Exactly
+
+<$B> 
+<ICE-IND:S1A-091#295:1:B>
+So I I <,> maybe you know <,> atleast in my presence <,,>
+they somehow seem to <,> agree to many of the things that I <,>
+
+<$C> 
+<ICE-IND:S1A-091#296:1:C>
+You know <O> one word </O> it looks like that <,>
+
+<ICE-IND:S1A-091#297:1:C>
+This time people were opposing <,>
+
+<$B> 
+<ICE-IND:S1A-091#298:1:B>
+I know <,>
+
+<$C> 
+<ICE-IND:S1A-091#299:1:C>
+And uh <,> my <,> group is not so bad
+
+<$B> 
+<ICE-IND:S1A-091#300:1:B>
+Yeah <,>
+
+<$C> 
+<ICE-IND:S1A-091#301:1:C>
+Except that Lalita Ghatge everytime she brought a piece <,>
+<{> <[> uhn <,> it was <O> one word </O> down to L three <,>
+
+<$B> 
+<ICE-IND:S1A-091#302:1:B>
+<[> Uhn </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#303:1:B>
+Oh really
+
+<$C> 
+<ICE-IND:S1A-091#304:1:C>
+But she said why don't you all <O> one word </O> include me
+in L three istead of doing this <,>
+
+<$B> 
+<ICE-IND:S1A-091#305:1:B>
+<indig> Haan </indig>
+
+<$C> 
+<ICE-IND:S1A-091#306:1:C>
+I am doing other peoples work <,> <{> <[> ahn <,> she was
+annoyed
+
+<$B> 
+<ICE-IND:S1A-091#307:1:B>
+<[> Ahn </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#308:1:B>
+Actually <,> that may be a good really because the <,> small
+<O> one word </O> you know <,> <{> <[> ahn <,> and if she can really <,> be
+of use to L three <,>
+
+<$C> 
+<ICE-IND:S1A-091#309:1:C>
+<[> Ahn </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#310:1:C>
+But it doesn't <O> two words </O> material production I don't
+know <,>
+
+<$B> 
+<ICE-IND:S1A-091#311:1:B>
+Yeah what she is capable of
+
+<$C> 
+<ICE-IND:S1A-091#312:1:C>
+Ah yes <,> but you know the whole problem is <,> except
+Wakankar in that group <,> <{> <[> uhm <,> nobody else really knows the job
+
+<$B> 
+<ICE-IND:S1A-091#313:1:B>
+<[> Uhm </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#314:1:B>
+I know <,> I know <,>
+
+<$C> 
+<ICE-IND:S1A-091#315:1:C>
+Wakankar has been a school teacher
+
+<$B> 
+<ICE-IND:S1A-091#316:1:B>
+Yeah yeah
+
+<$C> 
+<ICE-IND:S1A-091#317:1:C>
+He has uh <,> actually been in the field
+
+<$B> 
+<ICE-IND:S1A-091#318:1:B>
+<indig> Ahn </indig> <,>
+
+<$C> 
+<ICE-IND:S1A-091#319:1:C>
+Uh <,> in our case <,> <{> <[> uhm <,> we have something
+called common sense
+
+<$B> 
+<ICE-IND:S1A-091#320:1:B>
+<[> Uhm </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#321:1:B>
+Uhm
+
+<$C> 
+<ICE-IND:S1A-091#322:1:C>
+In our group
+
+<$B> 
+<ICE-IND:S1A-091#323:1:B>
+Oh oh then
+
+<$C> 
+<ICE-IND:S1A-091#324:1:C>
+<O> A few words </O> <{> <[> yeah we </[> may not have the
+experience <,> <{> <[> uhn <,> but we have common sense
+
+<$B> 
+<ICE-IND:S1A-091#325:1:B>
+<[> Yeah yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#326:1:B>
+<[> Uhn </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#327:1:B>
+Uhn <,>
+
+<$C> 
+<ICE-IND:S1A-091#328:1:C>
+Now <,> your uh <,,> gentleman Kulkarni didn't turn up <,>
+
+<$B> 
+<ICE-IND:S1A-091#329:1:B>
+Oh I see <,>
+
+<$C> 
+<ICE-IND:S1A-091#330:1:C>
+Yes <{> <[> he didn't turn </[>
+
+<$B> 
+<ICE-IND:S1A-091#331:1:B>
+<[> He must </[> </{> have had some problem <,> <{> <[> yeah
+</[> yes I think somebody was <,> ill
+
+<$C> 
+<ICE-IND:S1A-091#332:1:C>
+<[> <O> One word </O> </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#333:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#334:1:B>
+He wrote to me in London
+
+<$C> 
+<ICE-IND:S1A-091#335:1:C>
+<O> Two words </O> he <,> I think <{> <[> his <O> one word
+</O> </[>
+
+<$B> 
+<ICE-IND:S1A-091#336:1:B>
+<[> He had </[> </{> gone to Bombay <,> yeah <,> somebody was
+ill and unfortunately she died also <{> <[> actually a </[> relative of his
+<,>
+
+<$C> 
+<ICE-IND:S1A-091#337:1:C>
+<[> Oh I see </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#338:1:C>
+I see
+
+<$B> 
+<ICE-IND:S1A-091#339:1:B>
+And there you know <,> a relative was in London and I was to
+go and see them <,>
+
+<$C> 
+<ICE-IND:S1A-091#340:1:C>
+I see <,>
+
+<$B> 
+<ICE-IND:S1A-091#341:1:B>
+May be anyway <{> <[> yeah </[>
+
+<$C> 
+<ICE-IND:S1A-091#342:1:C>
+<[> That may </[> </{> the reason
+
+<$B> 
+<ICE-IND:S1A-091#343:1:B>
+I mean in any case <,,> I I mean last meting atleast I
+thought he had got some material <,> and they were accepted
+
+<$C> 
+<ICE-IND:S1A-091#344:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#345:1:B>
+Ultimately you know <,> somebody has to do the job <,> anyway
+<w> let's </w> see
+
+<$C> 
+<ICE-IND:S1A-091#346:1:C>
+Right
+
+<$B> 
+<ICE-IND:S1A-091#347:1:B>
+Uh <,> what else how are you <,> ?
+
+<$C> 
+<ICE-IND:S1A-091#348:1:C>
+Oh otherwise <indig> theek hai </indig> then uh <,> uhm you
+know <O> two words </O>
+
+<$B> 
+<ICE-IND:S1A-091#349:1:B>
+How is that you <{> <[> take the whole thing </[>
+
+<$C> 
+<ICE-IND:S1A-091#350:1:C>
+<[> And she asked me </[> </{> <,> no no she is <,> waiting
+for a letter from the Board <,>
+
+<$B> 
+<ICE-IND:S1A-091#351:1:B>
+I I
+
+<$C> 
+<ICE-IND:S1A-091#352:1:C>
+She asked me did I read letter and <,> uh because <{> <[> <O>
+one word </O> </[> he came on the fourteenth no next day
+
+<$B> 
+<ICE-IND:S1A-091#353:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-091#354:1:B>
+Right
+
+<$C> 
+<ICE-IND:S1A-091#355:1:C>
+On thirteenth
+
+<$B> 
+<ICE-IND:S1A-091#356:1:B>
+Right <,>
+
+<$C> 
+<ICE-IND:S1A-091#357:1:C>
+So <.> Raj </.> <w> Rajni's </w> brother nothing was right
+
+<$B> 
+<ICE-IND:S1A-091#358:1:B>
+Ahn I know <,>
+
+<$C> 
+<ICE-IND:S1A-091#359:1:C>
+So <,> I said probably it was read at the Board level
+
+<$B> 
+<ICE-IND:S1A-091#360:1:B>
+Yeah
+
+<$C> 
+<ICE-IND:S1A-091#361:1:C>
+So <,,> I said anyway <w> I'll </w> find out
+
+<ICE-IND:S1A-091#362:1:C>
+I asked to Pradhan
+
+<$B> 
+<ICE-IND:S1A-091#363:1:B>
+Uhm <,>
+
+<$C> 
+<ICE-IND:S1A-091#364:1:C>
+So that he watch over there that letter was really <,>
+presented
+
+<$B> 
+<ICE-IND:S1A-091#365:1:B>
+Uhm
+
+<$C> 
+<ICE-IND:S1A-091#366:1:C>
+So he said whatever we want to tell her we will write over
+there atleast she must have received but she hasn't received anything from
+them
+
+<$B> 
+<ICE-IND:S1A-091#367:1:B>
+Oh <,>
+
+<$C> 
+<ICE-IND:S1A-091#368:1:C>
+Was the letter read <,> ?
+
+<$B> 
+<ICE-IND:S1A-091#369:1:B>
+Yeah letter was read and actually discussed every point was
+<,> uh actually mm sort of taken <,> <,> <{> <[> <indig> haan </indig> <,>
+and ultimately this uh <,> see people felt that there is no point in uh <,,>
+uh you know discussing everything
+
+<$C> 
+<ICE-IND:S1A-091#370:1:C>
+<[> <indig> Haan </indig> </[> </{>
+
+<$C> 
+<ICE-IND:S1A-091#371:1:C>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-091#372:1:B>
+We just <,> stick to the old decision that <,> she drops out
+and there is an end of it <,>
+
+<$C> 
+<ICE-IND:S1A-091#373:1:C>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-091#374:1:B>
+So you know
+
+<$C> 
+<ICE-IND:S1A-091#375:1:C>
+<indig> Haan </indig> <,> </I>

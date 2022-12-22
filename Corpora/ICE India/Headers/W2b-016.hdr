@@ -1,0 +1,52 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-016</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:popular:
+              social sciences</category>
+            <wordcount>1970</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-016>
+        <source.type=newspaper>
+            <source.title>The Statesman</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Daily</series>
+        <publication.statement>
+            <publisher>The Statesman Ltd.</publisher>
+            <address>Statesman House, 4, Chowringhee Square,
+                    Calcutta</address>
+            <place>Calcutta</place>
+            <date>09-01-90</date>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of The
+                Statesman Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-016</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>No Merit In Caste</main.title>
+            <subtitle>Importance of Motivation</subtitle>
+            <page.nos>6</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-016</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Roy</surname>
+                <forenames>A.K.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

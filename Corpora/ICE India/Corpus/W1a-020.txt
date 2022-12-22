@@ -1,0 +1,680 @@
+<I> <O> Q.6 a) </O>
+
+<ICE-IND:W1A-020#1:1>
+<h> <ul> Solar cell </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#2:1>
+In <}> <-> todyas </-> <+> <w> today's </w> </+> </}> world, when
+we are on the edge of 20th <&> ` 0' is overwritten in 20th </&> century, the
+main problem of fuel is arising.
+
+<ICE-IND:W1A-020#3:1>
+The conventional sources are rapidly decreasing & vanishing day by
+day.
+
+<ICE-IND:W1A-020#4:1>
+The wood, the natural oil, natural gas are vanishing.
+
+<ICE-IND:W1A-020#5:1>
+So the <}> <-> powerfull </-> <+> powerful </+> </}> item to get the
+energy is to utilise the <ul> sun energy </ul> .
+
+<ICE-IND:W1A-020#6:1>
+Sun is whole day shining & therefore we can use the sunlight for
+storing the energy in the form of heat. </p>
+
+<p> 
+<ICE-IND:W1A-020#7:1>
+The useful instrument to acquire the solar energy is <ul> Solar
+cell </ul> . </p>
+
+<p> 
+<ICE-IND:W1A-020#8:1>
+<mention> Solar cell </mention> absorbs the sun energy in the form
+of heat & stores it <}> <-> . So </-> <+> so </+> </}> that we can utilise
+this form of heat energy in the industrial purposes. </p>
+
+<p> 
+<ICE-IND:W1A-020#9:1>
+We have to discuss here, firstly the front view nature of solar
+cell. </p>
+
+<p> 
+<ICE-IND:W1A-020#10:1>
+In the one panel of solar cell, so many solar cells are
+constructed according to their purpose in the function. </p>
+
+<ICE-IND:W1A-020#11:1>
+<h> <ul> Diagram of solar cell </ul> : - </h> <O> figure </O> <O>
+caption </O>
+
+<ICE-IND:W1A-020#12:1>
+The solar cell consists of the main components as - - - > ( 1) An
+absorber of good quality ( 2) Coverage material ( 3) Insulating material ( 4)
+Storage section
+
+<ICE-IND:W1A-020#13:1>
+<h> <ul> Description </ul> : - 1) <ul> Absorber </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#14:1>
+In solar cell, the <*> right justification </*> <ul> black points
+</ul> of 2 - 50 cm in diameter <+> ( and it </+> absorbs light energy <+> )
+</+> are constructed.
+
+<ICE-IND:W1A-020#15:1>
+The <mention> absorber </mention> is of such type that the absorption
+coefficient of the material should be very high & it shows <ul> low emission
+coefficient in the infrared light </ul> .
+
+<ICE-IND:W1A-020#16:1>
+Absorbers are generally black in <}> <-> colours </-> <+> colour </+>
+</}> because absorptivity of black colour is <+> the </+> highest. </p>
+
+<ICE-IND:W1A-020#17:1>
+<h> 2) Covering material : - </h>
+
+<p> 
+<ICE-IND:W1A-020#18:1>
+The solar cells are constructed on the insulating material which
+is conducting because the heat absorbed by the black spots is transferred by
+using conducting surface.
+
+<ICE-IND:W1A-020#19:1>
+The whole solar cell panel is covered by the glass material, which is
+active for sunlight & low active for infrared light. </p>
+
+<ICE-IND:W1A-020#20:1>
+<h> 3) Insulating material : - </h>
+
+<p> 
+<ICE-IND:W1A-020#21:1>
+The stored energy in the form of heat should not be released, so
+the insulating material is used to keep the heat in storage section. </p>
+
+<ICE-IND:W1A-020#22:1>
+<h> 4) Storage section : - </h>
+
+<p> 
+<ICE-IND:W1A-020#23:1>
+Generally water or rocks are used for the purpose of storing.
+
+<ICE-IND:W1A-020#24:1>
+Silver salts can also store the solar energy 6 times larger to that
+of water. </p>
+
+<p> 
+<ICE-IND:W1A-020#25:1>
+Thus in working of solar cell, when the absorber absorbs the
+solar energy, then they are converted into electric energy by using photo
+voltaic cell.
+
+<ICE-IND:W1A-020#26:1>
+Thus the diameter or dimensions of photo cell are of 2 x 10
+cm<sp>2</sp> in area. </p>
+
+<p> 
+<ICE-IND:W1A-020#27:1>
+The flowing water is used as solar absorbing or conducting
+material. </p>
+
+<p> 
+<ICE-IND:W1A-020#28:1>
+So in <w> today's </w> world, it becomes an essential thing. </p>
+<O> figure </O> <O> caption </O>
+
+<ICE-IND:W1A-020#29:1>
+2) <h> <ul> Soft & hard magnets </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#30:1>
+According to the use & the hysterisis curve the magnets are
+divided into two types
+
+<ICE-IND:W1A-020#31:1>
+1) Soft magnets
+
+<ICE-IND:W1A-020#32:1>
+2) Hard magnets. </p>
+
+<ICE-IND:W1A-020#33:1>
+<h> <ul> SOFT MAGNETS </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#34:1>
+Soft magnets are very useful in the construction of transformer
+cores i.e. in the power sensitive devices, the soft magnets <}> <-> plays
+</-> <+> play </+> </}> an important role. </p>
+
+<p> 
+<ICE-IND:W1A-020#35:1>
+Soft magnets are the magnets whose domain walls are mobile or
+easy to move.
+
+<ICE-IND:W1A-020#36:1>
+Thus soft magnets are easy to move when an external field is applied.
+
+<ICE-IND:W1A-020#37:1>
+<}> <-> Genergy </-> <+> Energy </+> </}> for 50 to 60 Hz frequency
+of A.C. the soft magnet behaves as a very useful tool for transformer <}> <->
+core. </-> <+> cores. </+> </}>
+
+<ICE-IND:W1A-020#38:1>
+The hysterisis loop for the soft magnet is very small in area on
+B.H. curve. </p> <O> figure </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W1A-020#39:1>
+In the hystersis diagram, it is seen that the power consumption
+is very small because area covered by hysterisis is very small. </p>
+
+<p> 
+<ICE-IND:W1A-020#40:1>
+So in the electric components such as wires, transformers
+etc.<+>,</+> soft magnets are used. </p>
+
+<ICE-IND:W1A-020#41:1>
+2) <h> <ul> HARD MAGNETS </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#42:1>
+In hard magnets domain walls do not move easily when external
+field is applied.
+
+<ICE-IND:W1A-020#43:1>
+Thus for a.c. power purposes hard magnets are not useful.
+
+<ICE-IND:W1A-020#44:1>
+But still, they are the <}> <-> paramanent </-> <+> permanent </+>
+</}> magnets.
+
+<ICE-IND:W1A-020#45:1>
+Because hysterisis loss for the hard magnet is greater as compared to
+the soft magnets. </p> <O> figure </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W1A-020#46:1>
+Hard magnets have high initial permiability & maximum corecivity.
+
+<ICE-IND:W1A-020#47:1>
+Therefore in making the industrial mechanical parts or flywheels,
+aeroplanes, the hard magnets are used. </p>
+
+<p> 
+<ICE-IND:W1A-020#48:1>
+The usefulness of hard magnet is not in <w> it's </w> domainwall
+property, but it lies in the brittleness & high strength property. </p>
+
+<p> 
+<ICE-IND:W1A-020#49:1>
+This is all about the soft magnets & hard magnets. </p> </I>
+
+
+<I> <O> Q.7 a) </O> <&> This answer was scored out by the examiner </&> <O>
+b) </O>
+
+<ICE-IND:W1A-020#50:2>
+<h> <ul> Type - 1 super conductors </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#51:2>
+According to the degree of superconducting states, the
+classification of super conductors is done. ( 1) Type - 1 superconductor :
+- <O> figure </O>
+
+<p> 
+<ICE-IND:W1A-020#52:2>
+When the superconductors are placed in the magnetic field, then
+at a certain critical magnetic field, there is transition of the electrons
+from lower state to excited state.
+
+<ICE-IND:W1A-020#53:2>
+And the resistivity of metal becomes zero.
+
+<ICE-IND:W1A-020#54:2>
+This state of the superconductor is called as the type - 1
+superconductors. </p>
+
+<p> 
+<ICE-IND:W1A-020#55:2>
+Type - 1 superconductors are also called as soft superconductors.
+
+<ICE-IND:W1A-020#56:2>
+They are having the critical / transition <}> <-> temp. </-> <+>
+temperature </+> </}> same for same material.
+
+<ICE-IND:W1A-020#57:2>
+Therefore type - 1 superconductors are used in the wires ( electric )
+etc. </p>
+
+<ICE-IND:W1A-020#58:2>
+( 2) <h> Type - 2 superconductor : - </h>
+
+<p> 
+<ICE-IND:W1A-020#59:2>
+In type - 2 superconductors, there is the transition of the
+electrons, excluding flux at the certain point Hcl called as lower conducting
+field. </p>
+
+<p> 
+<ICE-IND:W1A-020#60:2>
+In this state <del> su </del> it acts as superconductor
+
+<ICE-IND:W1A-020#61:2>
+But still increasing the electric & magnetic field, it becomes normal
+metal at point HC2 called as upper conducting state. </p>
+
+<p> 
+<ICE-IND:W1A-020#62:2>
+Thus type - 2 superconductors have the two states HC1 & HC2 <O>
+Figure </O> <O> caption </O> <mention> type - 2 super conductors </mention>
+are also called hard superconductors which are useful in the large scale
+industrial purposes. </p>
+
+<p> 
+<ICE-IND:W1A-020#63:2>
+Thus in <mention> type - 1 <}> <-> su.cond. </-> <+>
+supercunductor </+> </}> </mention> flux is totally excluded at the Hcl
+point<->,</-><+>.</+>
+
+<ICE-IND:W1A-020#64:2>
+But in <mention> type - 2 <}> <-> su cond. </-> <+> superconductor
+</+> </}> </mention> the flux is not excluded totally at Hcl but it remains &
+at point Hc<sb>2</sb> it <+> is </+> totally excluded. </p> </I>
+
+
+<I> <O> c) </O>
+
+<ICE-IND:W1A-020#65:3>
+<h> <ul> Meissner effect </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#66:3>
+Meissner effect is very useful effect while considering the
+B.C.S. theory of superconductors.
+
+<ICE-IND:W1A-020#67:3>
+When thesuperconducter is cooled in the magnetic field B, then the
+flux inside the material is totally pushed outside it.
+
+<ICE-IND:W1A-020#68:3>
+This effect is <del> at </del> below transition temperature.
+
+<ICE-IND:W1A-020#69:3>
+This is called as <mention> <ul> Meissner effect </ul> </mention> .
+</p> <O> Figure </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W1A-020#70:3>
+In fig ( 1) normal state of superconductor is shown in which
+magnetic flux lines are passing through the material.
+
+<ICE-IND:W1A-020#71:3>
+But at HC, critical field, at cooling rate of the transition <}> <->
+temp, </-> <+> temperature, </+> </}> the magnetic flux lines are pushed
+outside so that there are no <}> <-> mag. </-> <+> magnetic </+> </}> flux
+inside the material & the resistivity of material is nearly equal to zero so
+that large amount of current can flow through it. </p>
+
+<p> 
+<ICE-IND:W1A-020#72:3>
+The Meissner effect is mathematically shown as - - <O> equations
+</O>
+
+<ICE-IND:W1A-020#73:3>
+Meissner effect is very useful while considering the B.C.S. ground
+state of superconductors. </p>
+
+<p> 
+<ICE-IND:W1A-020#74:3>
+Thus in words, lastly it is shown that,
+
+<ICE-IND:W1A-020#75:3>
+When the superconducting material is cooled below the transition <}>
+<-> temp </-> <+> temperature </+> </}> at HC, the magnetic flux lines are
+pushed outwards. </p> </I>
+
+
+<I> <O> Q.3 a) </O>
+
+<ICE-IND:W1A-020#76:4>
+<h> <ul> Point defects </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#77:4>
+Point <}> <-> defects </-> <+> defect </+> </}> is the main
+feature of the solid state crystals i.e. there are point defects in solids so
+that the useful applications are from point defects i.e. <}> <-> The </-> <+>
+the </+> </}> crystal with point defects are <}> <-> shows </-> <+> shown on
+</+> </}> <}> <-> color </-> <+> colour </+> </}> the growing property & the
+interstitial state of the crystal. </p>
+
+<p> 
+<ICE-IND:W1A-020#78:4>
+There are two types of defects according to their <ul> lattice
+vacancies </ul> : ( 1) Schottky defect. ( 2) Frenkel defect.
+
+<ICE-IND:W1A-020#79:4>
+The concept of lattice vacancies arises due to the point defects.
+
+<ICE-IND:W1A-020#80:4>
+In the crystal, if there is one place empty of the electron, then the
+lattice vacancy <+> is </+> created.
+
+<ICE-IND:W1A-020#81:4>
+Lattice vacancy is the empty state of crystal <-> in </-> where there
+is no +ve or -ve charge present according to their intial electronic
+periodic arrangement. </p> <O> Figure </O>
+
+<p> 
+<ICE-IND:W1A-020#82:4>
+Generally, lattice vacancy is showed in crystal structure by the
+square <*> the word ` square' is double underlined </*> <}> <-> In </-> <+>
+in the </+> </}> above fig, <}> <-> There </-> <+> there </+> </}> is lattice
+vacancy of the -ve ion
+
+<ICE-IND:W1A-020#83:4>
+Lattice vacancy is created due to the point defects. </p>
+
+<ICE-IND:W1A-020#84:4>
+<h> <ul> 1) Schottky defect </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#85:4>
+In schottky defect, the atom is taken from <w> it's </w>
+interstial planer or regular plane & it <+> is </+> taken out from it &
+placed at the surface of the crystal layer.
+
+<ICE-IND:W1A-020#86:4>
+This is called <mention> schottky defect </mention> .
+
+<ICE-IND:W1A-020#87:4>
+Generally in alkali halides, lattice vacancies are created due to
+schottky defect.
+
+<ICE-IND:W1A-020#88:4>
+Thus, when schottky defect arises, the density of the crystal reduces
+& it becomes less dense<->.</-> <}> <-> Because </-> <+> because </+> </}>
+vacancy is created. </p>
+
+<ICE-IND:W1A-020#89:4>
+<h> <ul> 2) Frenkel defect </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-020#90:4>
+In this type of defect the atom in the regular plane is taken out
+& placed in the interstitial position <}> <-> betn </-> <+> between </+> </}>
+two regular planes.
+
+<ICE-IND:W1A-020#91:4>
+This defect is called as Frenkel defect.
+
+<ICE-IND:W1A-020#92:4>
+Here also, the density of crystal reduces while performing frenkel
+defect.
+
+<ICE-IND:W1A-020#93:4>
+Generally, the silver halides shows Frenkel defect as lattice vacancy
+is created </p> <O> Diagram : - </O> <O> diagram </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W1A-020#94:4>
+To show that elastic strain energy of screw dislocation is 2 / 3
+of the edge dislocation of the same length in same material, we have to
+derive some mathematical <}> <-> expression </-> <+> expressions </+> </}> :
+- <O> figure on the left side </O> <O> captions and equations on right side
+</O> <O> equations continued </O>
+
+<ICE-IND:W1A-020#95:4>
+Therefore <O> abbreviation for ` Therefore' </O> <}> <-> Due </-> <+>
+due </+> </}> to the sharing stress, edge dislocation exists & due to
+longitudinal stress, screw dislocation exists. <O> equation </O> <O> caption
+</O>
+
+<ICE-IND:W1A-020#96:4>
+According to the the, Es = total elastic energy. <O> equation - - 1
+<*> circled </*> </O>
+
+<ICE-IND:W1A-020#97:4>
+According to the shearing stress, when elastic strain energy of screw
+dislocation is 2 / 3 to that of edge dislocation. </p>
+
+<p> 
+<ICE-IND:W1A-020#98:4>
+In edge dislocation, the energy for the dislocation arises <del>
+lono </del> due to the shearing stress & in screw dislocation whole pattern
+is slipped due to the longitudinal stess. </p>
+
+<ICE-IND:W1A-020#99:4>
+<*> mathematical notation for ` therefore' </*> <h> Therefore <ul> Gb
+is the <w> Gibb's </w> function for elastic energy </ul> . </h>
+
+<p> 
+<ICE-IND:W1A-020#100:4>
+From eq<sp>n</sp> 1 <*> 1 circled </*> it is seen that Es for
+screw dislocation is <del> dire </del> equal to the 2 / 3 energy of edge
+dislocation. </I>
+
+
+<I> <O> b) </O>
+
+<ICE-IND:W1A-020#101:5>
+<h> <ul> Colour Centres </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#102:5>
+<}> <-> Color </-> <+> colour </+> </}> centres are the point
+defects or they are formed due to the lattice vacancy.
+
+<ICE-IND:W1A-020#103:5>
+Colour centres are formed due to the lattice vacancy of the -ve ion
+or +ve ion. </p>
+
+<p> 
+<ICE-IND:W1A-020#104:5>
+Generally colour centres are helpful to show the colour nature
+of NaCl crystal <-> or </-> etc. </p>
+
+<p> 
+<ICE-IND:W1A-020#105:5>
+When the Alkali crystal is heated in contact with <w> it's </w>
+own vapours, then the Nacl crystal becomes blue in colour.
+
+<ICE-IND:W1A-020#106:5>
+This is why, colour centres are useful for the investigation of
+crystal defects. </p>
+
+<p> ( 1) Colour centres are called as the <mention> <ul> F-centre </ul>
+</mention> also. F - centre is <}> <-> name </-> <+> named </+> </}> because,
+it comes from Greek <}> <-> world </-> <+> word </+> </}> <foreign> <ul> Farb
+</ul> - </foreign> for colour <*> the word ` colour' is double underlined
+</*>
+
+<p> 
+<ICE-IND:W1A-020#107:5>
+So in general F - centre is an electron vacancy in the crystal.
+</p> <O> three figures, a, b & c </O> <O> three captions, a, b & c
+respectively </O>
+
+<p> 
+<ICE-IND:W1A-020#108:5>
+In fig. ( a) it is seen that there is -ve ion vacancy or
+electron vacancy.
+
+<ICE-IND:W1A-020#109:5>
+This electron vacancy in crystal <+> is </+> called as F - centre.
+
+<ICE-IND:W1A-020#110:5>
+The neighbouring F - <}> <-> centres </-> <+> centre </+> </}> forms
+the M centre as shown in fig. ( b)
+
+<ICE-IND:W1A-020#111:5>
+Three K - centres <}> <-> forms </-> <+> form </+> </}> the R -
+centre.
+
+<ICE-IND:W1A-020#112:5>
+It is also easy to form the F - centre having hole as vacancy.
+
+<ICE-IND:W1A-020#113:5>
+In the study of electron spin resonance technique the invention of F
+- centre is done.
+
+<ICE-IND:W1A-020#114:5>
+It was seen that, there is absence of electron in crystal & that
+excess electron <}> <-> shears </-> <+> <?> shares </?> </+> </}> or forms
+cloud around that lattice vacancy.
+
+<ICE-IND:W1A-020#115:5>
+The electron can share <w> it's </w> energy with nearest +ve ions /
+atoms.
+
+<ICE-IND:W1A-020#116:5>
+Thus colour centres are formed. </p> <O> figure to the left </O> <O>
+caption of the figure </O>
+
+<p> In general, colour centres <}> <-> absorbs </-> <+> absorb </+> </}> the
+light of certain wavelength, therefore some crystals are coloured in nature.
+</p>
+
+<p> 
+<ICE-IND:W1A-020#117:5>
+To investigate point defects, colour centres are helpful. </p>
+</I>
+
+
+<I> <O> Q.4. a) </O>
+
+<ICE-IND:W1A-020#118:6>
+<h> <ul> Nematic mesophase </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#119:6>
+The mesophase word is used to give the information about the
+liquid crystals. </p>
+
+<p> 
+<ICE-IND:W1A-020#120:6>
+The Greek word <foreign> Mesos </foreign> <-> - </-> means <->
+the </-> <mention> intermediate </mention> & <foreign> phase </foreign> means
+<mention> state </mention> .
+
+<ICE-IND:W1A-020#121:6>
+Thus the intermediate state between crystaline & isotopic state is
+called as the mesophase or liquid crystals. </p>
+
+<p> 
+<ICE-IND:W1A-020#122:6>
+There are three different mesophases. <*> serial unmber 1 to 3
+are circled </*> 1 Nematic mesophase 2 Cholesteric mesophase 3 Smectic
+mesophase.
+
+<ICE-IND:W1A-020#123:6>
+We discuss here in detail <mention> nematic mesophase </mention> .
+</p>
+
+<ICE-IND:W1A-020#124:6>
+<h> <ul> Nematic mesophase </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#125:6>
+Nematic mesophase is the first state in performing the liquid
+crystals. </p>
+
+<p> 
+<ICE-IND:W1A-020#126:6>
+The meaning of nematic mesophase is that in Greek, <ul> <quote>
+` <foreign> Nematos </foreign> means <mention> <}> <-> threat </-> <+> thread
+</+> </}> like </mention> ' </quote> </ul>
+
+<ICE-IND:W1A-020#127:6>
+The nematic mesophase is a <ul> turbid </ul> & <ul> mobile state
+</ul> i.e. it is muddy state & also it is mobile state.
+
+<ICE-IND:W1A-020#128:6>
+The nematic phase <-> is </-> looks likes as <+> shown </+> below -
+- <O> figure on the left </O> <O> text on right begin </O>
+
+<ICE-IND:W1A-020#129:6>
+The direction of the propogation of the phase is shown by the vector
+<mention> n </mention> called as director axis. </p>
+
+<p> 
+<ICE-IND:W1A-020#130:6>
+The Nmatic mesophase is a three-dimensional state of liquid in
+which the nematos are oriented in three dimension any where in the phase.
+
+<ICE-IND:W1A-020#131:6>
+They are not layered structures like the smectic mesophase. </p>
+
+<ICE-IND:W1A-020#132:6>
+<h> <ul> Properties of nematic mesophase </ul> : - </h> <*> serial
+number 1 to 3 are circled below </*>
+
+<ICE-IND:W1A-020#133:6>
+<h> 1 Order parameter : - </h>
+
+<ICE-IND:W1A-020#134:6>
+The nematic mesophase is the disorder state<->.</-> <}> <-> Because
+</-> <+> because </+> </}> they orient in three <}> <-> dimensional. </-> <+>
+dimensions </+> </}>
+
+<ICE-IND:W1A-020#135:6>
+2 The nematic mesophases <-> are </-> <del> the </del> have the
+direction of director in apposide directions anywhere. <O> figure </O> <O>
+caption </O>
+
+<ICE-IND:W1A-020#136:6>
+3 Nematic mesophase have the structure in the ring compound
+generally.
+
+<ICE-IND:W1A-020#137:6>
+This is the first state of liquid crystal so the state is very
+mobile & the main feature of it is in the muddy state. </p>
+
+<ICE-IND:W1A-020#138:6>
+<h> <ul> Applications </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#139:6>
+Nematics are used in the liquid crystal displays, in the
+microsurgery, in the magnetic disks, computers, also in the aeroplanes & the
+most important use is in the eye hospitals & in the signal control devices.
+
+<ICE-IND:W1A-020#140:6>
+Examples of nematic mesophase are - - </p> <O> chemical formulae
+</O> </I>
+
+
+<I> <O> b) </O>
+
+<ICE-IND:W1A-020#141:7>
+<h> <ul> Chemical constitution </ul> : - </h>
+
+<p> 
+<ICE-IND:W1A-020#142:7>
+The most chemical constitution of liquid crystal is in the study
+of the phase of liquid crystal i.e. in study of the structure of crystal.
+</p>
+
+<p> 
+<ICE-IND:W1A-020#143:7>
+As the state is viscous & mobile, the dilution state is defined
+using liquid crystal, nematics. </p>
+
+<p> 
+<ICE-IND:W1A-020#144:7>
+The conversion from the crystal state to liquid state & vice
+versa is studied by the enantiotropism & metatropism. <mention> C - SB - SC -
+SA - I </mention>
+
+<ICE-IND:W1A-020#145:7>
+The state of isotropic liquid & the crystal is defined in terms of
+liquid crystal.
+
+<ICE-IND:W1A-020#146:7>
+Therefore the nematic mesophases are used in investigating the
+chemical composition of crystals.
+
+<ICE-IND:W1A-020#147:7>
+Also, the state of purification & others </p> </I>

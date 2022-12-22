@@ -1,0 +1,53 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-011</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:novel</caregory>
+            <wordcount>1952</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2B-011>
+       <source.type=monograph>
+            <source.title>The Drunk Tantra</source.title>
+            <source.subtitle></source.subtitle>
+       <publication.statement>
+       <publisher>Penguin Books India Pvt Limited</publisher>
+            <address>11, Community Centre, Panchsheel Park,
+              New Dehli 110 017</address>
+            <place>New Delhi</place>
+            <date>1994</date>
+            <ISBN>0-14-024569-3</ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by the permission of
+            author (V.P.Rao)</copyright.statement>
+            <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-011>
+            <subtext.name>ICE-IND-Rao</subtext.name>
+            <main.title>The Drunk Tantra</main.title>
+            <subtitle></subtitle>
+            <page.nos>112-117</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-011>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Rao</surname>
+            <forenames>Ranga</forenames>  
+            <age>58</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>West Godavari (Andhra
+              Pradesh)</birthplace>
+            <education>Andhra University</education>
+            <educational.level>Ph.D</educational.level>
+            <occupation>writer</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Telugu</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Vizag (1959-64), Delhi (1964
+              to date)<free.comments>
+       </biography>
+</text.info>

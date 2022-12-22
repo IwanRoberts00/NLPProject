@@ -1,0 +1,53 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-002</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:class lessons</category>
+            <wordcount>2110</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-002>
+     <source.type=Dialogue:public:class lessons>
+     <recording.data>
+            <date>05-09-91</date>
+            <time>12.15pm</time>
+            <place>Regional College of Education-Bhopal</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-002</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>07 students</no.of.participants>
+            <relationship>disparates</relationship>
+            <free.comments>The students were minor hence extra
+                 corpus speakers</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-002</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Singh</surname>
+            <forenames>J.P</forenames>
+            <age>42-49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Patna, Bihar</birthplace>
+            <education>Patna University, Guwahati
+                 University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>Institute of Indian Geographers, Deccan
+                 Geographical Society</affiliations>
+            <mother.tongue>Hindi</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments>Moved to Patna (1943-66), Shillong
+                 (1966-78), Bhopal (1978-till
+                 date)</free.comments>
+     </biography>
+</text.info>

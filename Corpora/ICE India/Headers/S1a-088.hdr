@@ -1,0 +1,70 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-088</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2464</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-088>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>11-09-95</date>
+            <time>3.30pm</time>
+            <place>Dept: of History, Shivaji University</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-088</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-088</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Patil</surname>
+            <forenames>Padmaja</forenames>
+            <age>42-49</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Karad, Maharashtra</birthplace>
+            <education>Shivaji University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Lecturer</occupation>
+            <affiliations>Life member of India History Congress,
+                 New Delhi</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi, Kannada</other.languages>
+            <free.comments>Moved to Kolhapur in
+                 1974</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-088</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Parekar</surname>
+            <forenames>Nanda</forenames>
+            <age>42-49</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Jullundar, Punjab</birthplace>
+            <education>Shivaji University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Lecturer</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Sangli (1968 to 1983),
+                 Kolhapur (1984 to date)</free.comments>
+     </biography>
+</text.info>

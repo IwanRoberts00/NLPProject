@@ -1,0 +1,56 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-017</textcode>
+             <number.of.subtexts>1</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>2703</wordcount>
+             <version>leical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2C-017>
+           <source.type=periodical>
+           <source.title>The Week</source.title>
+           <source.subtitle></source.subtitle>
+           <volume></volume>
+           <no.></no.>
+           <series></series>
+           <frequency>Weekly</frequency>
+     <publication.statement>
+           <publisher>The Malayala Manorama Co. Ltd.</publisher>
+           <address>Manorama Building, P.B. No 2314, Cochin-
+                   682016</address>
+           <place>Cochin</place>
+           <date>25-02-90</date>
+           <ISSN></ISSN>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of The
+            Malayala Manorama Co. Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-017</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>COVER STORY</main.title>
+                 <subtitle>FLY BY WIRE, DIE BY FIRE</subtitle>
+                 <page.nos>34-35,38-40</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-017</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames>G.S. Radha Krishna</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

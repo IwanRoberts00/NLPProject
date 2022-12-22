@@ -1,0 +1,156 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-032</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              technology</category>
+            <wordcount>2382</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-032>
+        <source.type=periodical>
+            <source.title>Indian Journal of Environmental
+              Protection</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol.10,No.12</series>
+        <publication.statement>
+            <publisher>Kalpana Corporation</publisher>
+            <address>Post Box No. 5, Varanasi-221010</address>
+            <place>Varanasi</place>
+            <date>December 1990</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-032</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Trace Element Analysis in Air, Water and
+              Hair Samples</main.title>
+            <subtitle></subtitle>
+            <page.nos>935-939</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-032</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Murty</surname>
+                <forenames>G. Sree Krishna</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-032</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Rao</surname>
+                <forenames>M.V.S. Chandrasekhar</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-032</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>K</surname>
+                <forenames>Radha Krishna</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-032</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Reddy</surname>
+                <forenames>S. Bhuloka</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-032</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Rao</surname>
+                <forenames>P.V. Ramana</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-032</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Reddy</surname>
+                <forenames>K. Venkata</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-032</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Sastry</surname>
+                <forenames>D.L.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

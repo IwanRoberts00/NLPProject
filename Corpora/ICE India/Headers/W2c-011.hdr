@@ -1,0 +1,126 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-011</textcode>
+             <number.of.subtexts>3</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>2113</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=a>
+     <source.type=newspaper>
+           <source.title>The Sunday Statesman</source.title>
+           <scope>national</scope>
+           <frequency>weekly</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>The Statesman Ltd.</publisher>
+            <address>Statesman House, 4, Chowringhee Square,   
+                    Calcutta</address>
+            <place>Calcutta</place>
+            <date>07-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of The
+                Statesman Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.                 
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-011a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Big changes in Industrial policy:
+                Hegde</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>1</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-011a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=b,c>
+           <source.type=periodical>
+                <source.title>The Week</source.title>
+                <source.subtitle></source.subtitle>
+                <volume></volume>
+                <no.></no.>
+                <series></series>
+                <frequency>weekly</frequency>
+           <publication.statement>
+                <publisher>The Malayala Manorama Ltd.</publisher>
+                <address>Manorama Building, P.B. No 2314, Cochin-
+                        682016</address>
+                <place>Cochin</place>
+                <date>25-02-90</date>
+                <ISSN></ISSN>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of The 
+                  Malayala Manorama Ltd.</copyright.statement>
+           <free.comments>text was obtained by Prof.
+                         Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-011b</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Displaying Success</main.title>
+                 <subtitle>Leather fair may net Rs 200
+                          crores</subtitle>
+                 <page.nos>48,49</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-011c</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Music: L Subramaniam's east-west  
+                            fusion</main.title>
+                 <subtitle>Strings of success</subtitle>
+                 <page.nos>56</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-011b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Allapat</surname>
+                <forenames>Jos</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-011c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames>Devika Rani</forenames>
+                <age></age>
+                <gender>female</gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,95 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-017</textcode>
+            <number.of.subtexts>2</number.of.subtexts>
+            <category>printed:informational:popular:
+              social sciences</category>
+            <wordcount>1646</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-017(1)>
+        <source.type=newspaper>
+            <source.title>The Statesman</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>The Statesman Ltd.</publisher>
+            <address>Statesman House, 4, Chowringhee Square,
+                    Calcutta</address>
+            <place>Calcutta</place>
+            <date>10-02-90</date>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of The
+                Statesman Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-017(1)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>The Right To Work</main.title>
+            <subtitle>Making The Concept Feasible</subtitle>
+            <page.nos>6</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-017(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Tarkunde</surname>
+                <forenames>V.M.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <subtext.source=W2B-017(2)>
+        <source.type=newspaper>
+            <source.title>Saturday Times</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>Bennett, Coleman & Co. Ltd.</publisher>
+            <address>Dr. Dadabhoy Naoroji Rd. Bombay-          
+                    400001</address>
+            <place>Bombay</place>
+            <date>31-12-94</date>
+        </publication.statement>
+        <copyright.statement>reproduced by arrangement with the 
+        author and the Times of India and is the copyright of the 
+        the publishers, Bennett, Coleman & Co.
+        Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-017(2)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Tasting India</main.title>
+            <subtitle>A bargain at Chor Bizarre</subtitle>
+            <page.nos>6</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-017(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Kak</surname>
+                <forenames>Siddharth S.</forenames>
+                <age>47</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Srinagar(J&K)</birthplace>
+                <education>Delhi University</education>
+                <educational.level>M.A(Hons)</educational.level>
+                <occupation>Producer, Director</occupation>
+                <affiliations>IDPA, IIC, ITA</affiliations>
+                <mother.tongue>Kashmiri</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

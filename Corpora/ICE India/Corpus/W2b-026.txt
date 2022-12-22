@@ -1,0 +1,382 @@
+<I> <&> centered across two columns </&>
+
+<ICE-IND:W2B-026#1:1>
+<h> <bold> JUNK IN THE SKY </bold> </h> <&> centered </&> <bold>
+Danger For Space Missions </bold> <O>
+
+<ICE-IND:W2B-026#2:1>
+<bold> By SANAT BISWAS </bold> </O> <&> column one </&>
+
+<p> 
+<ICE-IND:W2B-026#3:1>
+<bold> <smallcaps> THERE </smallcaps> </bold> is growing worldwide
+concern over the proliferation of <quote> " junk" </quote> in space and
+the threat it may pose to people on earth as well as astronauts in orbit.
+
+<ICE-IND:W2B-026#4:1>
+There is a growing awareness too that man-made debris in orbit is
+also beginning to have an adverse effect on space operations.
+
+<ICE-IND:W2B-026#5:1>
+It is quite evident from recent observations that the rate of
+failure of spacecraft and satellites in orbit is escalating in such a manner
+that before long the earth will be showered with the debris of these inactive
+space probes. </p>
+
+<p> 
+<ICE-IND:W2B-026#6:1>
+Since 1957, when the Soviet <w> Union's </w> sputnik became the
+first satellite to be launched, thousands of items have been in orbit around
+the earth, including spent fuel tanks, rocket shells, non-functioning
+satellites, fragments from satellites and rocket explosions, pieces
+discarded during missions such as rocket clamps and shrouds, left-over food
+packages and even shrapnel from explosions in space. </p>
+
+<p> 
+<ICE-IND:W2B-026#7:1>
+The latest estimates are that between 12,000 and 16,000 large
+objects and pieces are not hurtling through space at speeds of thousands
+of miles per hour.
+
+<ICE-IND:W2B-026#8:1>
+Smaller particles, primarily from some 50 or 60 explosions in space,
+number in hundreds of millions.
+
+<ICE-IND:W2B-026#9:1>
+Moreover, the amount of debris is increasing at a rate of about 13 per
+cent each year as more nations launch more and bigger rockets and satellites.
+
+<ICE-IND:W2B-026#10:1>
+In accordance with the investigation made by Teledyne Brown
+Engineering, it seems there are 2,433 objects in orbit which had so far been
+detected and about half of the ones we know about are fragments of satellites
+that have broken apart, usually as the result of an explosion.
+
+<ICE-IND:W2B-026#11:1>
+Of the 83 explosions that have occurred, 590 involved Russian
+rockets. </p>
+
+<p> 
+<ICE-IND:W2B-026#12:1>
+In addition, Russian antisatellite tests have added at least
+500 pieces of junk to the near-earth environment.
+
+<ICE-IND:W2B-026#13:1>
+With roughly 100 objects launched into space in a year - - five times
+more than are launched by everyone else combined - - the Russians are
+responsible for much of the pollution problem in space.
+
+<ICE-IND:W2B-026#14:1>
+But the Soviet Union is not the only nation to blame.
+
+<ICE-IND:W2B-026#15:1>
+Between 1973 and 1981, seven American Delta second stages
+exploded, accounting for 1,176 pieces of debris. </p>
+
+<p> 
+<ICE-IND:W2B-026#16:1>
+The most dangerous objects are fragments of accidental
+explosions because they travel so fast.
+
+<ICE-IND:W2B-026#17:1>
+Even fragments as tiny as one sixteenth of an inch can penetrate most
+space vehicles.
+
+<ICE-IND:W2B-026#18:1>
+Space scientists fear that debris may hit and disable some of the
+more than 1,100 satellites now in orbit, or puncture the manned U.S. space
+shuttle, causing injury or death to astronauts. </p> <&> centred </&>
+
+<ICE-IND:W2B-026#19:1>
+<h> <bold> NO DAMAGE </bold> </h>
+
+<p> 
+<ICE-IND:W2B-026#20:1>
+When the nuclear-powered Soviet surveillance satellite, Cosmos
+954, re-entered the <w> earth's </w> atmosphere over Canada in 1978,
+following a sudden depressurization, many feared that it might spread
+radiation over that country.
+
+<ICE-IND:W2B-026#21:1>
+But fortunately no traces of radiation were found.
+
+<ICE-IND:W2B-026#22:1>
+Similarly, there was much consternation in the summer of 1979 when,
+despite <w> NASA's </w> effort to ensure that the unmanned Skylab fell
+either into the Indian or the Atlantic oceans, the spacecraft reentered
+the <w> earth's </w> atmosphere over Australia.
+
+<ICE-IND:W2B-026#23:1>
+Even though it created a brilliant display in the Australian night
+sky, there was no damage. </p>
+
+<p> 
+<ICE-IND:W2B-026#24:1>
+Another incident, of a similar nature occurred in 1981 when the
+Soviet navigation satellite, Cosmos 1275, suddenly disintegrated in
+space for no apparent reason at all.
+
+<ICE-IND:W2B-026#25:1>
+It is possible that because Soviet <foreign> navsats </foreign> do
+not carry either internal propellant supplies or destruct packages,
+disintegration of this military operational payload, a mere seven weeks
+after the launch, was caused by the impact of a piece of space debris.
+
+<ICE-IND:W2B-026#26:1>
+By October 1982, some 180 individual fragments of Cosmos 1275 had
+been located by the North American Air Defence Command.
+
+<ICE-IND:W2B-026#27:1>
+These will remain in this particular orbital slot for years to
+come and will become a hazard to spacecraft orbiting in the region. </p>
+
+<p> 
+<ICE-IND:W2B-026#28:1>
+But what of the geostationary orbit?
+
+<ICE-IND:W2B-026#29:1>
+What hazard lies in wait there for some unsuspecting spacecraft?
+
+<ICE-IND:W2B-026#30:1>
+Fortunately, at the present time, there is not as much debris at
+geostationary altitudes as nearer earth, but a potential hazard exists.
+</p>
+
+<p> 
+<ICE-IND:W2B-026#31:1>
+The USA, the Soviet Union, the European Space Agency, Japan
+and India can now place spacecraft in a geosynchronous orbit.
+
+<ICE-IND:W2B-026#32:1>
+They use a technique whereby the payload and attached rocket stages
+are placed <O> see below the editorial comment </O> in a low earth parking
+orbit where, during the first revolution after launch, the upper rocket
+stage ignites to put the payload into a geostationary transfer orbit. </p>
+<&> centred </&>
+
+<ICE-IND:W2B-026#33:1>
+<h> <bold> COMPONENTS </bold> </h>
+
+<p> 
+<ICE-IND:W2B-026#34:1>
+This procedure, especialy during the Soviet launches, leaves
+components in the low parking orbit.
+
+<ICE-IND:W2B-026#35:1>
+These components re-enter the atmosphere within a few days of the
+launch and do not normally pose a hazard to other space traffic.
+
+<ICE-IND:W2B-026#36:1>
+Once in the highly elliptical transfer orbit, with an orbital apogee
+near the geosynchronous altitudes but inclined between 10 and 47 degrees (
+for Soviet spacecrafts) to the equator, the launch vehicle stage is
+jettisoned.
+
+<ICE-IND:W2B-026#37:1>
+It remains in this orbit and poses little danger to geostationary
+spacecraft. </p>
+
+<p> 
+<ICE-IND:W2B-026#38:1>
+When the spacecraft is separated into a similar elliptical
+transfer orbit, ground commands initiate spacecrafts apogee injection
+rocket motor firing at an equator crossing-point near apogee.
+
+<ICE-IND:W2B-026#39:1>
+This pushes the payload into the geostationary orbit.
+
+<ICE-IND:W2B-026#40:1>
+It is here that one source of geosynchronous debris originates.
+
+<ICE-IND:W2B-026#41:1>
+The majority of U.S. communication satellites use an apogee injection
+motor which is integral to the payload structure.
+
+<ICE-IND:W2B-026#42:1>
+After firing, this remains a part of the spacecraft and does not
+become a separate object. </p>
+
+<p> 
+<ICE-IND:W2B-026#43:1>
+But the Soviet communication satellites behave differently.
+
+<ICE-IND:W2B-026#44:1>
+Their apogee motors are attached to the outside of the spacecrafts
+structure.
+
+<ICE-IND:W2B-026#45:1>
+After firing, these are separated by a spring mechanism.
+
+<ICE-IND:W2B-026#46:1>
+Although the spacecraft is controlled from the ground and commanded
+to move around the geostationary orbit until the desired location is reached,
+the spent apogee motor is left to dift.
+
+<ICE-IND:W2B-026#47:1>
+The Soviet apogee motors measure about two metres by two metres
+and are liquid fuelled.
+
+<ICE-IND:W2B-026#48:1>
+Any propellant remaining in the motor after firing is usually
+vented through the engine to provide further separation from the main
+spacecraft. </p>
+
+<p> 
+<ICE-IND:W2B-026#49:1>
+Most of these apogee motors, around 30 to date, are currently
+tracked by American sensors, so their orbits and positions are known.
+
+<ICE-IND:W2B-026#50:1>
+But there are about a dozen of these whch are not tracked.
+
+<ICE-IND:W2B-026#51:1>
+These are drifting aimlessly and intersect the geostationary altitude
+at widely varying longitudes.
+
+<ICE-IND:W2B-026#52:1>
+The potential for collision hazards from these apogee motors is quite
+high. </p>
+
+<p> 
+<ICE-IND:W2B-026#53:1>
+Placing a spacecraft in a geostationary orbit is a complex
+operation.
+
+<ICE-IND:W2B-026#54:1>
+Occasionally things go wrong and they are placed in incorrect
+orbits and may or may not be under control from the ground.
+
+<ICE-IND:W2B-026#55:1>
+The first and second Japanese experimental communication
+satellites, for example, were both placed in incorrect orbits and are
+now drifting around the earth, the first in a <quote> " sub-synchronous"
+</quote> orbit below the geostationary altitude, and the second in a <quote>
+" supersynchronous" </quote> orbit above the geostationary orbit in
+eastward and westward directions respectively. </p>
+
+<p> 
+<ICE-IND:W2B-026#56:1>
+Finally, one misconception about space is that what goes up
+must come down, or that space is self-cleaning.
+
+<ICE-IND:W2B-026#57:1>
+Many of the satellites in the upper reaches of the orbit will never
+return to the earth.
+
+<ICE-IND:W2B-026#58:1>
+But most of those placed in orbits below about 300 miles, where the
+atmosphere is relatively dense, either burn up or come down to the earth
+within a few years.
+
+<ICE-IND:W2B-026#59:1>
+Above 300 miles, orbital life increases rapidly.
+
+<ICE-IND:W2B-026#60:1>
+At 700 miles, most spacecraft will remain in orbit for hundreds of
+years.
+
+<ICE-IND:W2B-026#61:1>
+Smaller fragments are more sensitive to atmospheric drag and will
+re-enter earlier. </p>
+
+<p> 
+<ICE-IND:W2B-026#62:1>
+The removal of the sources of fragments in orbit is the most
+important means of controlling the proliferation of debris.
+
+<ICE-IND:W2B-026#63:1>
+<mention> NASA </mention> has already taken steps to minimize the
+possibility of accidental explosions in space.
+
+<ICE-IND:W2B-026#64:1>
+But an international treaty may be required to prevent intentional
+explosions or to restrict them to low altitudes from which the fragments
+would quickly re-enter the atmosphere and burn up. </p>
+
+<p> 
+<ICE-IND:W2B-026#65:1>
+<mention> NASA </mention> studies to determine the feasibility of
+using the space shuttle to retrieve non-functioning satellites show that
+about one-half of the orbiting satellites can be reached.
+
+<ICE-IND:W2B-026#66:1>
+But because they were not designed to be retrieved, there could be
+problems with harnessing them and storing them in the shuttle.
+
+<ICE-IND:W2B-026#67:1>
+In addition, only one satellite can be recovered on each launch
+since the shuttle does not usually have sufficient fuel to pursue and
+capture a second satellite.
+
+<ICE-IND:W2B-026#68:1>
+For these reasons, retrieval by the space shuttle may be too
+expensive. </p>
+
+<p> 
+<ICE-IND:W2B-026#69:1>
+On the other hand, disposal of a space satellite is more
+economical when it is planned before the satellite is launched.
+
+<ICE-IND:W2B-026#70:1>
+Only a small force will cause a satellite to re-enter the atmosphere,
+and that force can come from small rockets added to the spacecraft.
+
+<ICE-IND:W2B-026#71:1>
+Gravitational forces of the sun and the moon can also be used to
+alter the orbit of an object so that it re-enters the atmosphere. </p> <&>
+centred </&>
+
+<ICE-IND:W2B-026#72:1>
+<h> <bold> COLLISION </bold> </h>
+
+<p> 
+<ICE-IND:W2B-026#73:1>
+It is obviously necessary to remove debris for the safety of
+satellites.
+
+<ICE-IND:W2B-026#74:1>
+The probability of devastating impact on permanent facilities like
+the manned space station planned for the 1990s causes concern.
+
+<ICE-IND:W2B-026#75:1>
+Though the threat of space junk is now most serious in orbits between
+540 and 600 miles up in the sky - - above that of the space station - - much
+of this material will <quote> " rain down" </quote> to lower regions.
+
+<ICE-IND:W2B-026#76:1>
+As a result, the station may collide with an object large enough
+to penetrate it as often as once every 10 years and it will be pelted by
+smaller debris and micrometeoroids much more often. </p>
+
+<p> 
+<ICE-IND:W2B-026#77:1>
+In conclusion, it can be said that several procedures can
+reduce the risk of future space missions from orbital debris.
+
+<ICE-IND:W2B-026#78:1>
+Some of these are expensive; others are not.
+
+<ICE-IND:W2B-026#79:1>
+But the problem must be faced, Future space structures, designed for
+long missions, are likely to be larger and lighter with the use of composite
+material and, therefore, even more sensitive to penetration by small
+pieces of manmade objects.
+
+<ICE-IND:W2B-026#80:1>
+Adding the weight required to protect such structures from
+space debris may well increase the cost of space activities so much that
+future space missions may become too expensive to be undertaken. </p>
+<O> editorial comment in the second column </O> <&> <it>
+
+<p> 
+<ICE-IND:W2B-026#81:1>
+<bold> <smallcaps> POINTING </smallcaps> </bold> out that thousands
+of items discarded from space missions, as well as disabled satellites, are
+orbitting the earth Sanat Biswas, a nuclear engineer scientist, says that
+unless ways are found to remove them, such debris will pose a serious hazard
+to future space explorations.
+
+<ICE-IND:W2B-026#82:1>
+According to Professor Biswas, while satellites can be removed,
+the problem that smaller objects pose for permanent structures like a
+space station may prove difficult to solve. </p> </it> </&> </I>

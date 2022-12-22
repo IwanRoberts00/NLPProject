@@ -1,0 +1,75 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-029</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              natural sciences</category>
+            <wordcount>2213</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-029>
+        <source.type=periodical>
+            <source.title>Indian Journal of Plant
+              Physiology</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol.35,No-2</series>
+        <publication.statement>
+            <publisher>The Indian Society for Plant
+              Physiology</publisher>
+            <address>The Indian Society for Plant Physiology,
+              Division of Plant Physiology, Indian Agricultural
+              Institute, New Delhi-110012</address>
+            <place>New Delhi</place>
+            <date>June 1992</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-029</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Phenol Metabolism in Relation to IAA
+              Content, Nodulation and Nitrogen Fixation in Root
+              Nodules of Leguminous trees</main.title>
+            <subtitle></subtitle>
+            <page.nos>114-123</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-029</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Dangar</surname>
+                <forenames>T.K.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-029</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Basu</surname>
+                <forenames>P.S.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

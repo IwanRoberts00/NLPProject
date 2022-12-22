@@ -1,0 +1,498 @@
+<I> <&> feature: centered on top, each charater in boxes </&>
+
+<ICE-IND:W2B-038#1:1>
+BIOTECHNOLOGY <&> in the middle of the page </&> <box> <bold> <it>
+
+<ICE-IND:W2B-038#2:1>
+Mummy Daddy </it> </bold> </box> <O> <&> author's name </&> SUKANYA
+DATTA </O> <&> column one </&>
+
+<p> 
+<ICE-IND:W2B-038#3:1>
+<bold> In </bold> the 1970s, newspapers went ape over a series of
+extraordinary anthropological finds in East Africa.
+
+<ICE-IND:W2B-038#4:1>
+This was at a time when there was more or less a consensus that the
+group of non-ape primates - - hominids, to give them their name - - that
+had eventually evolved into humans had appeared about 15 million years ago.
+
+<ICE-IND:W2B-038#5:1>
+The media flashed each step in the dramatic discoveries that led to a
+better understanding of early human evolution.
+
+<ICE-IND:W2B-038#6:1>
+If the media was excited, scientists too were no less thrilled over
+the Kenyan fossils of <it> Homo habilis </it> and <it> <foreign> Homo erectus
+</foreign> </it> .
+
+<ICE-IND:W2B-038#7:1>
+Tanzania literally had the world on its knees studying the 3.7 million
+year old footprints left behind by some unknown human ancestor.
+
+<ICE-IND:W2B-038#8:1>
+The fossilized bones of Ethiopian <quote> ` Lucy' </quote> and her
+fellow australopithecenes stirred scientific speculation to fever pitch.
+
+<ICE-IND:W2B-038#9:1>
+Many scientists devoted their entire careers to drawing up updated,
+better resolved and more detailed evolutionary family trees of mankind. </p>
+
+<p> 
+<ICE-IND:W2B-038#10:1>
+It was this complacent scenario that was rudely shaken by its
+hitherto firm foundations by an academic atom bomb exploded, in 1987,
+by Allan Wilson and Vincent Sarich, of the University of California,
+Berkeley, U.S.A.
+
+<ICE-IND:W2B-038#11:1>
+If found to be correct, their theory promised to re-write the
+entire history of man. </p>
+
+<p> 
+<ICE-IND:W2B-038#12:1>
+The claims of the Berkeley biochemists can be summed up in
+just one sentence.
+
+<ICE-IND:W2B-038#13:1>
+Each person on earth today, they announced, could trace his or her
+ancestry back to a single woman who lived in Africa 200,000 years ago.
+
+<ICE-IND:W2B-038#14:1>
+The press, ever quick on the uptake, baptised her <quote> `
+Eve'</quote> - - the mother of mankind. </p>
+
+<p> 
+<ICE-IND:W2B-038#15:1>
+<quote> ` Eve' </quote> soon became the bone of contention
+between palaeontologists and biochemists with battle lines being drawn up and
+no quarters given.
+
+<ICE-IND:W2B-038#16:1>
+The story of Eve is also the story of the clash of the Titans,
+between those who dug up evidence of the past in the form of fossilized
+remains and those who looked into test tubes for clues to the past.
+
+<ICE-IND:W2B-038#17:1>
+But what exactly had Sarich and Wilson done that had sparked off such
+controversy ?
+
+<ICE-IND:W2B-038#18:1>
+Sarich and Wilson were not new to announcing provocative theories on
+human evolution.
+
+<ICE-IND:W2B-038#19:1>
+Their initial salvo in the field was fired in the 1960s itself with
+results similar to the reactions they were getting now. </p>
+
+<p> 
+<ICE-IND:W2B-038#20:1>
+The sixties was a time for <quote> ` hands-on' </quote>
+anthropology.
+
+<ICE-IND:W2B-038#21:1>
+Fossil remains were carefully excavated, carted with infinite care
+to the laboratories and studied in detail over years.
+
+<ICE-IND:W2B-038#22:1>
+Vincent Sarich and Allan Wilson decided to look for clues to the
+past, not in the African savanna but inside the body itself, among its
+proteins to be precise.
+
+<ICE-IND:W2B-038#23:1>
+The question to which they addressed themselves was one which
+contemporary anthropologists were also aiming at.
+
+<ICE-IND:W2B-038#24:1>
+<quote> ` When did the human line first branch off from the apes'
+</quote> ? </p>
+
+<p> 
+<ICE-IND:W2B-038#25:1>
+Wilson and Sarich decided to look at the proteins of the body and
+to compare them to - - evolutionarily speaking - - our closest relatives.
+
+<ICE-IND:W2B-038#26:1>
+They knew that even the same protein in related species is
+slightly different because of mutations that occur after the species split
+off from a common ancestor.
+
+<ICE-IND:W2B-038#27:1>
+This reasoning was fairly conservative and in keeping with facts and
+beliefs of the day.
+
+<ICE-IND:W2B-038#28:1>
+But the twist in the tale came when the two biochemists claimed that
+mutations occurred, through time, at a steady rate, much like a molecular
+clock ticking away at predictable intervals.
+
+<ICE-IND:W2B-038#29:1>
+They claimed that it was this molecular ticking of the proteins that
+could serve to date the separation of species from a common ancestor.
+
+<ICE-IND:W2B-038#30:1>
+Species that had the most diverse proteins must have separated early
+and the differences accumulated over the long time following separation.
+
+<ICE-IND:W2B-038#31:1>
+Those with kindred proteins obviously had split away more
+recently. </p>
+
+<p> 
+<ICE-IND:W2B-038#32:1>
+According to the biochemical evidence gleaned from a study of
+protein similarity they announced that humans were most distantly related
+to the lemurs ( among primates ) and most closely to gorillas and
+chimpanzees.
+
+<ICE-IND:W2B-038#33:1>
+In fact, the protein clock indicated that the proteins of
+chimpanzees, gorillas and humans had diverted a scant 5 million years ago,
+much to the chagrin of established anthropologists of the day who had
+favoured the 15 million year date as being the time of divergence.
+
+<ICE-IND:W2B-038#34:1>
+Ironically the 1970s discoveries that had so excited the
+anthropologists now ruled in favour of Wilson and Sarich.
+
+<ICE-IND:W2B-038#35:1>
+Paleonathropolgists had to bow before evidence they themselves had
+dug up.
+
+<ICE-IND:W2B-038#36:1>
+They were hoist with their own petard and grudgingly accepted that
+the road to humankind began about 5 to 7 million years ago.
+
+<ICE-IND:W2B-038#37:1>
+Some of the 15 million year old bones that they had dug up belonged
+to direct ancestors of the orangutan and not man as they had hoped.
+
+<ICE-IND:W2B-038#38:1>
+Wilson and his colleagues did not rest on their laurels.
+
+<ICE-IND:W2B-038#39:1>
+By the late 1970s they wre readying themselves for the big showdon.
+
+<ICE-IND:W2B-038#40:1>
+It was to be a battle between the bones and the genes. </p>
+
+<p> 
+<ICE-IND:W2B-038#41:1>
+The consensus at that time was that all modern human populations
+could trace their genesis back to one million years ago.
+
+<ICE-IND:W2B-038#42:1>
+This was when <it> Homo erectus </it> first came out of <O> <&> page
+</&> 26 </O> Africa to As1a, Europe and Indonesia.
+
+<ICE-IND:W2B-038#43:1>
+Conventional interpretation of subsequent fossil finds held that
+<it> Homo erectus </it> evolved into modern <it> H. sapiens </it> in each of
+these places.
+
+<ICE-IND:W2B-038#44:1>
+Regional differences that characterise the variety of our species
+came later. </p>
+
+<p> 
+<ICE-IND:W2B-038#45:1>
+Wilson and his colleagues decided to use another molecular
+clock to test the accuracy of the one million year divergence date.
+
+<ICE-IND:W2B-038#46:1>
+This time they chose the mitochondria to act as a molecular clock.
+
+<ICE-IND:W2B-038#47:1>
+Mitochondria are the extranuclear, cellular organelles that work
+as the powerhouse of a cell.
+
+<ICE-IND:W2B-038#48:1>
+They also contain a little deoxyribonucleic acid which is called mDNA
+to differentiate it from the nDNA or nuclear DNA. </p>
+
+<p> 
+<ICE-IND:W2B-038#49:1>
+Mitochondrial genes differ from chromosomal genes in fundamental
+ways.
+
+<ICE-IND:W2B-038#50:1>
+An offspring gets equal amounts of nuclear DNA from both his parents.
+
+<ICE-IND:W2B-038#51:1>
+The <w> father's </w> sperm is an actuality nothing more than the
+vehicle for nDNA.
+
+<ICE-IND:W2B-038#52:1>
+However, the <w> mother's </w> ovum contains cellular organelles as
+well as the nDNA.
+
+<ICE-IND:W2B-038#53:1>
+The <w> mother's </w> mitochondria are thus passed on to the child.
+
+<ICE-IND:W2B-038#54:1>
+This is an almost exclusively maternal line of inheritance.
+
+<ICE-IND:W2B-038#55:1>
+Mitochondrial genes also <O> sketch </O> have a higher rate of
+mutation as compared to nuclear genes. </p>
+
+<p> 
+<ICE-IND:W2B-038#56:1>
+Mitochondrial genes wre thus uniquely suited to act as molecular
+clocks especially since <w> Wilson's </w> studies had indicated that human
+mitochondrial DNA mutated at a steady rate of 2-4 per cent every million
+years.
+
+<ICE-IND:W2B-038#57:1>
+This would mean about 330-660 mutations per million years. </p>
+
+<p> 
+<ICE-IND:W2B-038#58:1>
+Like his earlier work which had pinpointed the time of divergence
+of the human stock, the mDNA clock focused on the diversity caused by
+accumulated mutations over the years.
+
+<ICE-IND:W2B-038#59:1>
+Only this time different species were not being studied.
+
+<ICE-IND:W2B-038#60:1>
+What was scrutinized was the difference between separate populations
+of the human species.
+
+<ICE-IND:W2B-038#61:1>
+Wilson and his colleagues wanted to use mDNA as a tool to analyse how
+mDNA in Asians differed from its counterparts in Africans or Europeans.
+</p>
+
+<p> 
+<ICE-IND:W2B-038#62:1>
+In the mid-1980s <w> Wilson's </w> students Rebecca Cann and Mark
+Stoneking took mitochondrial DNA from women living in Europe, Asia, Africa,
+New Guinea and Australia for detailed comparative analyses.
+
+<ICE-IND:W2B-038#63:1>
+In 1987, they announced their findings.
+
+<ICE-IND:W2B-038#64:1>
+Most of the mDNA from the five sources were strikingly similar.
+
+<ICE-IND:W2B-038#65:1>
+This meant that the groups had diverged recently and differences had
+not had time to build up.
+
+<ICE-IND:W2B-038#66:1>
+However, there was one extremely significant finding.
+
+<ICE-IND:W2B-038#67:1>
+The mDNA from the African lineages showed twice as much diversity
+as the rest.
+
+<ICE-IND:W2B-038#68:1>
+This indicated that the African mDNA was the oldest.
+
+<ICE-IND:W2B-038#69:1>
+It had been around for at least twice as long as the others. </p>
+
+<p> 
+<ICE-IND:W2B-038#70:1>
+Anthropologists agreed with the story till this point because,
+after all, the oldest fossils were African.
+
+<ICE-IND:W2B-038#71:1>
+But the harmony ended abruptly with the subsequent claims from <w>
+Cann's </w> laboratory. </p>
+
+<p> 
+<ICE-IND:W2B-038#72:1>
+The biochemists claimed that all living humans share as their
+earliest common ancestor, an African woman who lived a mere 200,000 years
+ago.
+
+<ICE-IND:W2B-038#73:1>
+There was a discrepancy of about 800,000 years between their
+calculations and that of the conventional <w> anthropologist's </w> .
+
+<ICE-IND:W2B-038#74:1>
+It was a difficult concept to accept and many traditional
+anthropologists dismissed Eve as a <quote> ` biochemical bauble' </quote> .
+
+<ICE-IND:W2B-038#75:1>
+However, it must be made clear that there is no evidence yet of a
+time on earth when only one single woman walked it.
+
+<ICE-IND:W2B-038#76:1>
+Many other women must have lived at the same time but their
+mitochondrial lineages have just not survived.
+
+<ICE-IND:W2B-038#77:1>
+Thus, in a way the label <quote> ` Eve' </quote> is a trifle
+misleading. </p>
+
+<p> 
+<ICE-IND:W2B-038#78:1>
+The <quote> ` Eve'</quote>-hypothesis holds that all current
+humans harbour no non-African genes predating Eve.
+
+<ICE-IND:W2B-038#79:1>
+This meant that <w> Eve's </w> people wiped out local populations and
+the results of inbreeding ( if any ) did not survive long enough to leave
+their stamp on human history.
+
+<ICE-IND:W2B-038#80:1>
+This drastic revision of conventionally held views was,
+predictably enough, not taken sitting down by older, established
+anthropologists.
+
+<ICE-IND:W2B-038#81:1>
+They questioned the accuracy of <O> <&> page </&> 27 </O> the
+molecular clock by which evolution was timed.
+
+<ICE-IND:W2B-038#82:1>
+For the clock to be precise and reliable a couple of assumptions must
+hold true.
+
+<ICE-IND:W2B-038#83:1>
+The genetic similarity of the species being studied must be a
+function of their relatedness and also directly proportional to the recency
+of their divergence from a common ancestor.
+
+<ICE-IND:W2B-038#84:1>
+This, in turn, requires that the genetic matter mutate at a constant
+rate.
+
+<ICE-IND:W2B-038#85:1>
+Then again, the mutations should not affect the survival of the
+individual.
+
+<ICE-IND:W2B-038#86:1>
+That is to say, the individual should neither be culled nor favoured
+by natural selection.
+
+<ICE-IND:W2B-038#87:1>
+Culling would tend to eliminate mutations and preserve the original
+gene such that the common ancestor seems more recent.
+
+<ICE-IND:W2B-038#88:1>
+Favoured selection for a particular mutation would, conversely, make
+the divergence seem more distant in time. </p>
+
+<p> 
+<ICE-IND:W2B-038#89:1>
+However, the biochemists are quick to point out that the mDNA
+that they chose to study are <quote> " neutral" </quote> for slection.
+
+<ICE-IND:W2B-038#90:1>
+This is basically because much of the DNA here is junk DNA or DNA
+that does not contain sequences that code for proteins.
+
+<ICE-IND:W2B-038#91:1>
+These also do not seem to affect the <O> <box> sketch </box> </O> <O>
+caption </O> phenotype at all.
+
+<ICE-IND:W2B-038#92:1>
+Thus there seems to be no reason why natural selection should
+favour or cull the individuals. </p>
+
+<p> 
+<ICE-IND:W2B-038#93:1>
+Other dissenters pointed out that at least one other factor would
+interfere with the molecular clock.
+
+<ICE-IND:W2B-038#94:1>
+This factor is what they call <quote> " random loss" </quote> .
+
+<ICE-IND:W2B-038#95:1>
+This refers to the genetic loss in each generation when some women
+die childless.
+
+<ICE-IND:W2B-038#96:1>
+Whenever this happens a mitochondrial type is irrevocably lost to
+history.
+
+<ICE-IND:W2B-038#97:1>
+Thus while mutations increase the amount of variation within a
+population, random loss constantly eats away at it.
+
+<ICE-IND:W2B-038#98:1>
+The refutation of this charge is that while random loss of lineages
+might influence the number of mitochondrial types around at any point in
+time, but the ones that survive will have the same degree of varition among
+them.
+
+<ICE-IND:W2B-038#99:1>
+And since this is what the clock runs on, it runs well despite random
+loss. </p>
+
+<p> 
+<ICE-IND:W2B-038#100:1>
+With the debate becoming acrimonious, both sides dug deep into
+their arsenal of academic weapons to consolidate their position.
+
+<ICE-IND:W2B-038#101:1>
+With the quantum leap in biotechnological methods now available
+<w> Wilson's </w> school now holds an ace up its sleeve. </p>
+
+<p> 
+<ICE-IND:W2B-038#102:1>
+Polymerase chain reaction ( PCR ) that allows researchers to
+isolate the gene of choice and to amplify it has been a boon.
+
+<ICE-IND:W2B-038#103:1>
+Instead of comparing patterns of DNA fragments cut by restriction
+enzymes as Cann did in her original study, PCR helps produce sample that can
+be compared base pair by base pair along any chosen length of DNA. </p>
+
+<p> 
+<ICE-IND:W2B-038#104:1>
+Linda Vigilant, another of <w> Wilson's </w> students made
+elegant use of PCR technique.
+
+<ICE-IND:W2B-038#105:1>
+She compared mitochondrial DNA obtained from a single hair taken
+from almost a hundred volunteers coming from different genetic stocks.
+
+<ICE-IND:W2B-038#106:1>
+She focussed on a section of the mDNA that is known to mutate at a
+faster rate than other regions.
+
+<ICE-IND:W2B-038#107:1>
+This is called the control region.
+
+<ICE-IND:W2B-038#108:1>
+<w> Vigilant's </w> study also validated <w> Cann's </w> finding
+that African lineages were the oldest.
+
+<ICE-IND:W2B-038#109:1>
+But <w> Vigilant's </w> research did not end there.
+
+<ICE-IND:W2B-038#110:1>
+She compared the amount of diversity among the different African
+mDNA with the diversity between African mDNA and the mDNA of a chimpanzee.
+
+<ICE-IND:W2B-038#111:1>
+The chimpanzee was chosen as an animal model for relatedness because
+there is now universal consensus that they split off the human line some 5
+million years ago.
+
+<ICE-IND:W2B-038#112:1>
+The time span is thus known.
+
+<ICE-IND:W2B-038#113:1>
+Analyses revealed that the chimp mDNA and human mDNA had diverged 42
+per cent during these 5 million years.
+
+<ICE-IND:W2B-038#114:1>
+This gives a divergence rate of about 8.4 per cent per million
+years.
+
+<ICE-IND:W2B-038#115:1>
+The most intriguing finding was that the divergence among the
+African types was just 2 per cent.
+
+<ICE-IND:W2B-038#116:1>
+On the scale of the molecular clock this would translate to 250,000
+years ago.
+
+<ICE-IND:W2B-038#117:1>
+The figure is undoubtedly very close to the magical 200,000 years
+that is <quote> ` <w> Even's </w> ' </quote> age. </p> </I>

@@ -1,0 +1,157 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-074</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:business
+                 transactions</category>
+            <wordcount>2580</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-074>
+     <source.type=Dialogue:public:business transactions>
+     <recording.data>
+            <date>27-08-94</date>
+            <time>12noon</time>
+            <place>Dept: of Political Science, Shivaji
+                 University, Kolhapur</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-074</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>6</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments>Meeting of the Research
+                 Committee</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-074</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kavlekar</surname>
+            <forenames>Kasinath</forenames>
+            <age>42-49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Hubli, Karnataka</birthplace>
+            <education>Karnataka University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Teacher</occupation>
+            <affiliations>All India Political Science
+                 Association</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi, Kannada</other.languages>
+            <free.comments>Moved to Kolhapur (1970 to
+                 date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-074</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Chousalkar</surname>
+            <forenames>Ashok</forenames>
+            <age>42-49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Ambajogai, Beed, Maharashtra</birthplace>
+            <education>Marathwada University, Bombay
+                 University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Teacher</occupation>
+            <affiliations>Maharashtra Political Science
+                 Association</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Ambajogai (1967-71), Bombay
+                 (1971-79), Kolhapur (1979 to
+                 date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-074</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Tarodi</surname>
+            <forenames>Lakshminarayana</forenames>
+            <age>42-49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Marahankul, Shimoga,
+                 Karnataka</birthplace>
+            <education>Mysore University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Teacher</occupation>
+            <affiliations>Life Member IIPA, New
+                 Delhi</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Bangalore (1976-82), Pune
+                 (1984-92), Kolhapur (1992 to
+                 date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-074</it>>
+            <speaker.id>D</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Rasam</surname>
+            <forenames>Vasanti</forenames>
+            <age>34-41</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Hubli, Karnataka</birthplace>
+            <education>Karnataka University, Shivaji
+                 University, Kolhapur</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Teacher</occupation>
+            <affiliations>Maharashtra Political Science
+                 Association, Maharashtra Women's Studies
+                 Association</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi, Kannada</other.languages>
+            <free.comments>Moved to Kolhapur (1983 to
+                 date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-074</it>>
+            <speaker.id>E</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Patil</surname>
+            <forenames>Bharati</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Bombay</birthplace>
+            <education>Shivaji University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Lecturer</occupation>
+            <affiliations>Indian Association of Women's Studies,
+                 Maharashtra Political Science
+                 Association</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Kolhapur (1982 to
+                 date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-074</it>>
+            <speaker.id>F</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Nanivadekar</surname>
+            <forenames>Medha</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Bombay</birthplace>
+            <education>Bombay University, Pune
+                 University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Kalyan (1963-83), Pune (1983-
+                 91), Kolhapur (1992 to date)</free.comments>
+     </biography>
+</text.info>

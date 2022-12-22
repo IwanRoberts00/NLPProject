@@ -1,0 +1,72 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-061</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2199</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-061>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>01-10-97</date>
+            <time>10am</time>
+            <place>Mr. Kurundwad's residence, New Delhi</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-061</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-061</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kurundwad</surname>
+            <forenames>Archana</forenames>
+            <age>23</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Mahboob Nagar, Andhra
+                 Pradesh</birthplace>
+            <education>P.D.A. College of Engineering,
+                 Gulbarga, Karnataka</education>
+            <educational.level>College</educational.level>
+            <occupation>Architect</occupation>
+            <affiliations>Delhi Karnatak Sangha</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Gulbarga, Karnataka (1994-
+                 99)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-0</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kurundwad</surname>
+            <forenames>Nagaraj</forenames>
+            <age>18</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>New Delhi</birthplace>
+            <education>P.D.A. College of Engineering,
+                 Gulbarga</education>
+            <educational.level>B.E. II year</educational.level>
+            <occupation>student</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Gulbarga, Karnataka (1999 to
+                 date)</free.comments>
+     </biography>
+</text.info>

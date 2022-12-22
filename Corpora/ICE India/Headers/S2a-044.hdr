@@ -1,0 +1,53 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-044</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2547</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-044>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>11-07-94</date>
+              <time>10.30am</time>
+              <place>VPM High School Hall, Mulund(Bombay)</place>
+       </recording.data>
+              <organising.body>Vidya Prasarak
+                   Mandal</organising.body>
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-044</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size>50-Members of VPM General Body
+                   Meeting</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+     <biography=<it>ICE-IND-S2A-044</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Handur-Kulkarni</surname>
+            <forenames>Narahari</forenames>
+            <age>65</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Handur, Belgaum, Karnataka</birthplace>
+            <education>Graduate</education>
+            <occupation>Business</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi,
+                 Gujrati</other.languages>
+            <free.comments>Stayed in Dharwad upto 1945, moved to
+                 Bombay 1946 to date</free.comments>
+     </biography>
+</text.info>

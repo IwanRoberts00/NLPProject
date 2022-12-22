@@ -1,0 +1,524 @@
+<I> <O> <&> centered </&>
+
+<ICE-IND:W2A-002#1:1>
+<it> Indian Philosophical Quarterly, Vol. <roman> 18 </roman> , No.2
+<&> centered </&> April, 1991 </it> </O> <&> centered </&> <O> <&> author
+</&>
+
+<ICE-IND:W2A-002#2:1>
+P.R. Bhat <&> centered </&>
+
+<ICE-IND:W2A-002#3:1>
+<h> <bold> PRAGMATIC PRINCIPLES AND LANGUAGE </bold> </h>
+
+<p> 
+<ICE-IND:W2A-002#4:1>
+All credit for showing the place of mind in the process of
+acquiring knowledge goes to Kant.
+
+<ICE-IND:W2A-002#5:1>
+After Kant, it is Wittgenstein who takes a revolutionary position in
+his approach to the theory of knowledge.
+
+<ICE-IND:W2A-002#6:1>
+It is he who deserves recognition for showing the place of language in
+acquiring and judging knowledge.
+
+<ICE-IND:W2A-002#7:1>
+It may be said that Wittgenstein has replaced <w> Kant's </w> concept
+of mind by language.
+
+<ICE-IND:W2A-002#8:1>
+The place of language in <w> Wittgenstein's </w> approach to
+philosophy is as fundamental as the notion of mind in Kantian philosophy.
+
+<ICE-IND:W2A-002#9:1>
+Moore is the first philosopher to give credibility to our intuitions
+stemming from common sense and ordinary language.
+
+<ICE-IND:W2A-002#10:1>
+Though, Moore could make his impact on the method of philosophy, it
+is Wittgenstein who is remembered most for showing the place of language in
+doing philosophy.
+
+<ICE-IND:W2A-002#11:1>
+Austin, Ryle, Strawson, Hare, Searle, Putnam, Donnellan, Kripke etc.,
+to mention only a few from a very long list, are known for their
+contributions to philosophy following the method of analyzing ordinary
+language. </p>
+
+<p> 
+<ICE-IND:W2A-002#12:1>
+There is no doubt that the ordinary language analysis coupled
+with <w> one's </w> linguistic intuitions about terms and their uses is well
+accepted as a valid method of doing philosophy today.
+
+<ICE-IND:W2A-002#13:1>
+Ryle, for example, by adopting this method ordinary language
+analysis, came to certain important conclusions about the human mind. <sp> 1
+</sp>
+
+<ICE-IND:W2A-002#14:1>
+Speech act analysis has credibility mainly because the insights about
+the working of ordinary language are used in developing this method. <sp> 2
+</sp>
+
+<ICE-IND:W2A-002#15:1>
+What is normally included under the title of <O> <&> page </&> 286
+</O> <it> meta-ethics </it> is basically the analysis of value in ordinary
+language.
+
+<ICE-IND:W2A-002#16:1>
+Hare, for example, extensively uses this method in developing theory
+about moral language. <sp> 3 </sp> </p>
+
+<p> 
+<ICE-IND:W2A-002#17:1>
+Individual philosophers, without making special efforts to
+organize the insights about the working of language have used the ordinary
+language analysis as a means to arrive at their own philosophical conclusions
+paying hardly any attention to their powerful method of doing philosophy.
+
+<ICE-IND:W2A-002#18:1>
+<quote> ` Pragmatics' </quote> is the name given to the study of
+language from the perspective of <quote> ` language as a means' </quote> as a
+part of semiology.
+
+<ICE-IND:W2A-002#19:1>
+It is a growing field drawing literature from the field of
+philosophy and linguistics. </p>
+
+<p> 
+<ICE-IND:W2A-002#20:1>
+The studies of linguists of the pragmatic aspect of language,
+often have been in the direction of understanding the mechanism of language.
+
+<ICE-IND:W2A-002#21:1>
+And some of them, perhaps, saw it as an alternative to Chomskian
+model of understanding language.
+
+<ICE-IND:W2A-002#22:1>
+Philosophers have found pragmatics to be quite close to what they
+have called <quote> ` ordinary language analysis' </quote> .
+
+<ICE-IND:W2A-002#23:1>
+They have often used isolated insights about the working of language
+in solving philosophical riddles without paying much attention to many of the
+underlying pragmatic principles of the language that they are using.
+
+<ICE-IND:W2A-002#24:1>
+As they have primarily concerned themselves with the theories of
+meaning, rules, and other related issues, they were forced to study
+pragmatics of language incidentally without which they would not have found
+it possible to explain, for example, what is <quote> ` meaning' </quote> .
+
+<ICE-IND:W2A-002#25:1>
+A fuller understanding of pragmatic aspects of the working of
+language is yet to be achieved despite numerous attempts by philosophers and
+linguists.
+
+<ICE-IND:W2A-002#26:1>
+This paper aims to put a step towards that by highlighting certain
+pragmetic principles, some of which may go otherwise unnoticed. </p>
+
+<p> 
+<ICE-IND:W2A-002#27:1>
+The speakers of any natural language have to adhere to, among
+other things, the pragmatic norms of the use of language, <O> <&> page </&>
+287 </O> is quite obvious.
+
+<ICE-IND:W2A-002#28:1>
+In any dynamic society, the activity of introducing new words,
+modifying the uses of the existing ones in order to express thoughts more
+rigourously or more precisely or in an unambiguous manner, introducing some
+change in the uses of the words, or creative deviation from the normal uses
+of words, etc., are inevitable.
+
+<ICE-IND:W2A-002#29:1>
+And all these activities are subsumed under the single heading
+<quote> ` pragmatics' </quote> in this essay. </p>
+
+<p> 
+<ICE-IND:W2A-002#30:1>
+Some of the pragmatic principles that we use to organise our
+language are not so obvious because we have internalised them.
+
+<ICE-IND:W2A-002#31:1>
+Some of these principles that we shall discuss in this paper are as
+follows : [ 1] the <it> Principle of Regularity in use </it> [ 2] the
+Principle of the <it> Economy of vocabulary, </it> [ 3] the <it>
+Elasticity or Rules, </it> [ 4] <it> Creative Users of Words, </it> and [ 5]
+the Concept of <it> Enabling Institution </it> .
+
+<ICE-IND:W2A-002#32:1>
+It is not the case that only one pragmatic principle would be at work
+at a given time; they may all work together to facilitate the use of
+language. </p>
+
+<ICE-IND:W2A-002#33:1>
+<h> 1. <it> Regularity in Use </it> </h>
+
+<p> 
+<ICE-IND:W2A-002#34:1>
+Every user of language knows this principle, though one might not
+be conscious of this.
+
+<ICE-IND:W2A-002#35:1>
+Frequent deviations from the normal use of words cannot be
+appreciated.
+
+<ICE-IND:W2A-002#36:1>
+Consider for the sake of argument the following example : a person
+uses a natural language always with one deviation from the normal use of one
+of the words that constitute his sentence.
+
+<ICE-IND:W2A-002#37:1>
+This deviation is such that he does not repeat is pattern of
+deviation every time he uses the same word in the same sentence; but would do
+it differently whenever he uses the same sentence again.
+
+<ICE-IND:W2A-002#38:1>
+Or he utters the same sentence second time, but this time he deviates
+in the use of some other word.
+
+<ICE-IND:W2A-002#39:1>
+Though the use of all the words except one, each time he utters a
+sentence, is in accordance with the accepted rules of the language, one would
+necessarily fail to understand his speech.
+
+<ICE-IND:W2A-002#40:1>
+This is because one cannot mark the <O> <&> page </&> 288 </O>
+deviation from the normal uses of words, as he deviates every time he utters
+a sentence.
+
+<ICE-IND:W2A-002#41:1>
+We do not make any beginning in understanding any of the sentences he
+utters.
+
+<ICE-IND:W2A-002#42:1>
+Not even one sentence one could be sure of understanding when he
+spoke.
+
+<ICE-IND:W2A-002#43:1>
+Such deviations cannot be noted and taken into consideration while
+interpreting his sentnece.
+
+<ICE-IND:W2A-002#44:1>
+Only in conjunction with the sentences that have been understood, the
+sentences that have not been understood can be put to certain
+interpretations.
+
+<ICE-IND:W2A-002#45:1>
+And marking a deviation from the normal use of a word requires
+certain new interpretation of rules for the use of the deviated word.
+
+<ICE-IND:W2A-002#46:1>
+And this could be done only on the basis of the sentences that have
+been understood.
+
+<ICE-IND:W2A-002#47:1>
+On the other hand, one can perfectly understand what a person intends
+to communicate even if he deviates from the normal uses of words provided
+that his deviation of the term is consistent and regular.
+
+<ICE-IND:W2A-002#48:1>
+Every time he uses the word, he should be using the word in the same
+manner in which he has used it earlier.
+
+<ICE-IND:W2A-002#49:1>
+This is how inquisitive parents understand their <w> child's </w>
+language even though a <w> child's </w> language does not conform to the
+rules of an adult language.
+
+<ICE-IND:W2A-002#50:1>
+Some children associate certain sounds with certain concepts in
+their own peculiar manners.
+
+<ICE-IND:W2A-002#51:1>
+This association is discovered by curious parents and communication
+is made possible.
+
+<ICE-IND:W2A-002#52:1>
+Deviation from the normal use of words is not an insurmountable
+problem; philosophical literature is full of such cases.
+
+<ICE-IND:W2A-002#53:1>
+The most notorious words which are known for their irregular
+behaviours in philosophy are <quote> ` knowledge', ` truth' </quote> and
+<quote> ` real' </quote> .
+
+<ICE-IND:W2A-002#54:1>
+Every landmark in philosophy is marked by the use of these words in
+certain deviant manners in the history of philosophy. </p>
+
+<p> 
+<ICE-IND:W2A-002#55:1>
+Formal languages take the regularity and consistency in uses of
+symbols or words for granted.
+
+<ICE-IND:W2A-002#56:1>
+It is not possible to define what is contradiction, for instance,
+without assuming that the uses of words are regular and consistent.
+
+<ICE-IND:W2A-002#57:1>
+The principle of <&> page no. </&> <O> 289 </O> regularity in use, is
+a bare minimum of rational and purposive use of language. </p>
+
+<p> 
+<ICE-IND:W2A-002#58:1>
+One cannot hope to get any concessions from observing the strict
+rule of regularity and consistency in the use of words.
+
+<ICE-IND:W2A-002#59:1>
+In order to evoke a certain type of response in a person, even the
+poets who are known for their breaking of the conventional rules of language,
+have to make a careful choice of words depending on the contexts.
+
+<ICE-IND:W2A-002#60:1>
+A <w> poet's </w> effort in hunting for the right word to invoke a
+certain type of emotion in the reader shows that regularity in the use of
+words is prior to <w> poet's </w> deviation in the use of those words.
+
+<ICE-IND:W2A-002#61:1>
+Poets make use of the fact that language is used in a systematic
+and regular manner in formulating their sentences.
+
+<ICE-IND:W2A-002#62:1>
+Without there being regularity and consistency in the use of words by
+the people, poets would not have succeeded in invoking certain images in
+their poetry using the method of deviation from the normal uses of words.
+</p>
+
+<ICE-IND:W2A-002#63:1>
+<h> 2. <it> Economy of Vocabulary </it> </h>
+
+<p> 
+<ICE-IND:W2A-002#64:1>
+If the principles of regularity and consistency in the use of
+words apply to every word of a language, the principle of economy of
+vocabulary applied only to a selective group of words or expressions.
+
+<ICE-IND:W2A-002#65:1>
+There are mainly two ways in which one practises the principle of
+economy of vocabulary: [ a] <it> Economy of Words, </it> [ b] <it>
+Formulations of Compound Words </it> .
+
+<ICE-IND:W2A-002#66:1>
+The philosophical position of Quine, namely, that there are no words
+which are redundant in language is the other side of the principle of economy
+of vocabulary.
+
+<ICE-IND:W2A-002#67:1>
+There are no two words with identical meanings in a language because
+language is an efficiently evolved system - this is another way of stating
+the same principle of economy of vocabulary.
+
+<ICE-IND:W2A-002#68:1>
+The main aim of the principle of economy of vocabulary is to avoid
+duplication of words and their functions. </p> <O> <&> page </&> 290 </O>
+
+<ICE-IND:W2A-002#69:1>
+<h> [ a] <it> Economy of Words </it> </h>
+
+<p> 
+<ICE-IND:W2A-002#70:1>
+Even if one values clarity, one does not simply undertake a
+project to introduce new words for each sense of the various terms which are
+ambiguous.
+
+<ICE-IND:W2A-002#71:1>
+Introducing a new word is the last option that one exercises when
+everything else has failed.
+
+<ICE-IND:W2A-002#72:1>
+Imagine the number of words and the efforts on the part of the users
+of language that is needed if one were to replace the word <quote> ` Mary'
+</quote> by unique words in order to represent each individual called by this
+name all over the world.
+
+<ICE-IND:W2A-002#73:1>
+If there is any confusion due to the multiplicity of reference of the
+name <quote> ` Mary' </quote> , we simply provide an identyfying description
+of the person along with the name in question in the context for the
+identification. </p>
+
+<p> 
+<ICE-IND:W2A-002#74:1>
+One copes with the situation by simply distinguishing two or more
+senses of term for a limited purpose, instead of introducing a new word
+for every sense of a term burdening the rest of the speakers of the language
+having to remember those words.
+
+<ICE-IND:W2A-002#75:1>
+Moreover, in the case of clear homonyms, one can use the terms
+without ever stating different senses of them.
+
+<ICE-IND:W2A-002#76:1>
+For instance one is not put to any difficulty even if one does not
+state explicitly the different senses of the term <quote> ` cricket'
+</quote> while using this word.
+
+<ICE-IND:W2A-002#77:1>
+A situation where one is likely to use this term as the name of an
+insect would be quite different from the one where this term is used to refer
+to a game.
+
+<ICE-IND:W2A-002#78:1>
+This type of ambiguity does not create any serious practical problem
+for the users of language.
+
+<ICE-IND:W2A-002#79:1>
+Similarly, it serves no purpose to replace the term <quote> ` wicket'
+</quote> by three distinct words to distinguish the three senses of the term,
+namely, the batsman, the pitch and the stumps.
+
+<ICE-IND:W2A-002#80:1>
+The term <quote> ` wicket' </quote> in the sentence <quote> `
+England has only two wickets in hand now' </quote> can never be confused with
+the pitch or stumps. </p>
+
+<p> 
+<ICE-IND:W2A-002#81:1>
+Homonyms are wrongly thought to be linguistic accidents by some
+philosophers. <sp> 4 </sp>
+
+<ICE-IND:W2A-002#82:1>
+There seems to be an optimum use of the <O> <&> page </&> 291 </O>
+principle of economy of vocabulary underlying such linguistic accident.
+
+<ICE-IND:W2A-002#83:1>
+For instance, one could clarify the two or more notions that are
+associated with a term, or preferably coin new terms to use them as separate
+words.
+
+<ICE-IND:W2A-002#84:1>
+For instance, the term <quote> ` kite' </quote> as the name of a bird
+could be easily distinguished from the plaything, and one could use two
+separate words if one wants.
+
+<ICE-IND:W2A-002#85:1>
+<quote> ` Kite' </quote> as the name of a natural kind which cannot
+be confused with <quote> ` kite' </quote> which is a plaything.
+
+<ICE-IND:W2A-002#86:1>
+One does not take the trouble to assign new and distinctive words to
+different homonyms distinguishing their different senses, because one does
+not encounter any practical difficulty because of homonyms. </p>
+
+<p> 
+<ICE-IND:W2A-002#87:1>
+Even a homonym which denotes two or more complex notions could be
+used without stating its different senses explicitly.
+
+<ICE-IND:W2A-002#88:1>
+For instance, the term <quote> ` house' </quote> when used in
+different contexts denotes different complex notions.
+
+<ICE-IND:W2A-002#89:1>
+When used to refer to the place where humans inhabit, it means one
+thing; and when used to refer to industrial complexes it means quite another.
+
+<ICE-IND:W2A-002#90:1>
+Besides when the term is used to refer to a body of elected
+representatives, as in the case of house of commons' it denotes yet
+another thing.
+
+<ICE-IND:W2A-002#91:1>
+But one does not find the necessity to coin separate words for these
+different senses of the term in question for all practical purposes. </p>
+
+<ICE-IND:W2A-002#92:1>
+<h> [ b] <it> Formulations of Compound Words </it> </h>
+
+<p> 
+<ICE-IND:W2A-002#93:1>
+If having two or more senses attached to one word is one way of
+economizing on the vocabulary, then forming compound words by using the words
+in currency is another.
+
+<ICE-IND:W2A-002#94:1>
+In general, when the situation becomes very complex due to the
+expansion of knowledge or for other compelling reason, one normally
+compounds the existing words or introduces new expressions to meet the
+situation effectively.
+
+<ICE-IND:W2A-002#95:1>
+The uses of the term <quote> ` bank' </quote> , for instance in a
+variety of contexts, posed the difficulty of obscurity of <O> <&> page </&>
+292 </O> meanings; and compound words were conveniently introduced like,
+<quote> ` blood bank', ` question bank' </quote> etc., demarcating the
+different uses of the term <quote> ` bank' </quote> to meet the situation
+effectively.
+
+<ICE-IND:W2A-002#96:1>
+This is what must have been the reason why the use of term <quote> `
+war' </quote> is extended beyond recognition.
+
+<ICE-IND:W2A-002#97:1>
+We have invented the ways of coping with situation of referring to
+different forms of wars using certain combination of the words which are in
+currency.
+
+<ICE-IND:W2A-002#98:1>
+We have now, <quote> ` world war', ` economic war', ` star war', `
+civil war', ` cold war' </quote> etc.
+
+<ICE-IND:W2A-002#99:1>
+We can even anticipate the possible situations where the need would
+be felt to coin the compound words : <quote> ` communal war', ` sports war',
+` cultural war' </quote> etc.
+
+<ICE-IND:W2A-002#100:1>
+No doubt that man is an economic user of words in language. </p>
+
+<p> 
+<ICE-IND:W2A-002#101:1>
+It is possible to compound words without burdening the
+speakers of language, and such a method is preferred for the obvious
+reason that it would help the speakers to keep their vocabulary within the
+manageable number.
+
+<ICE-IND:W2A-002#102:1>
+Surely, economy of vocabulary favourably affects the economical use
+of human memory.
+
+<ICE-IND:W2A-002#103:1>
+There are yet other less consciously used methods used by the
+members of a society which seem to be based on economic use of memory.
+
+<ICE-IND:W2A-002#104:1>
+This is no other method than adding new ceiteria for the uses of
+words while modifying or completely discontinuing the existing ones. </p>
+
+<p> 
+<ICE-IND:W2A-002#105:1>
+Certain criteria would be shared between the parent term and the
+newly formed compound word when we follow such a method.
+
+<ICE-IND:W2A-002#106:1>
+To consider the example of <quote> ` war' </quote> again, it is with
+the war spirit that we approve of economic sanctions against a country.
+
+<ICE-IND:W2A-002#107:1>
+Nonetheless, one does not fight economic war with guns and bullets.
+
+<ICE-IND:W2A-002#108:1>
+The specific criterion for identifying an economic war is
+different from that of a military attack.
+
+<ICE-IND:W2A-002#109:1>
+Non-cooperation may be the main thing that is shared between
+<quote> ` economic war' </quote> and <quote> ` cold war' </quote> on the one
+side, and <quote> ` war' </quote> on the other.
+
+<ICE-IND:W2A-002#110:1>
+<quote> ` Civil wars' </quote> have non-cooperation as a common <O>
+<&> page </&> 293 </O> criterion with <quote> ` economic war' </quote> .
+
+<ICE-IND:W2A-002#111:1>
+<quote> ` Star wars' </quote> have certain other criteria common to
+military attacks.
+
+<ICE-IND:W2A-002#112:1>
+All wars share some resemblances; they belong to a family. <sp> 6
+</sp> </I>

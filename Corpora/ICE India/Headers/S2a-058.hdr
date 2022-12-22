@@ -1,0 +1,49 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-058</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:
+                   demonstrations</category>
+              <wordcount>2398</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-058>
+       <recording.data>
+              <source.title>Fabric Painting</source.title>
+              <source.subtitle></source.subtitle>  
+              <date>06-11-93</date>
+              <time></time>
+              <place>Residence of Bhide, Sankeshwar</place>
+       </recording.data>
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-058</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size>none</audience.size>
+              <free.comments>Live Demonstration</free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-058</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Bhide</surname>
+              <forenames>Natalie</forenames>
+              <age>22</age>
+              <gender>female</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Post Graduate</education>
+              <occupation>Project Assistant</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Marathi</mother.tongue>
+              <other.languages>Hindi</other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

@@ -1,0 +1,52 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-006</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:short story</caregory>
+            <wordcount>3579</wordcount>
+            <version>one</version>
+            <free.comments>Text collected by
+              Leitner</free.comments>
+       </file.description>
+       <subtext.source=W2F-006>
+       <source.type=monograph>
+            <source.title>The Illustrated Weekly of
+              India</source.title>
+            <source.subtitle></source.subtitle>
+       <publication.statement>
+            <publisher>Bennett Coleman & Co. Ltd.</publisher>
+            <address>Bennett Coleman & Co. Ltd., Dr. D. N. Road,
+              Bombay 400001</address>
+            <place>Bombay</place>
+            <date>10-06-90</date>
+            <ISBN></ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of the    
+         author and the Publisher</copyright.statement>
+       <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-006>
+       <subtext.name>ICE-IND-</subtext.name>
+            <main.title>A Day Like A Dream</main.title>
+            <subtitle></subtitle>
+            <page.nos>52-54</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-006>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Gangopadhyay</surname>
+            <forenames>Sunil</forenames>
+            <age></age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation>Writer</occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+</text.info>

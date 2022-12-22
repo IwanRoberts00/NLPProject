@@ -1,0 +1,84 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2B-045</textcode>
+              <number.of.subtexts>2</number.of.subtexts>
+              <category>Monologue:Scripted:non-broadcast
+                   speeches</category>
+              <wordcount>1877</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2B-045(1)>
+       <recording.data>
+              <date>19-10-93</date>
+              <time></time>
+              <place>Dharwad, Karnataka</place>
+       </recording.data>
+              <copyright.statement>reproduced by permission of
+                   the speaker</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-045(1)</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size>10</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-045(1)</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>V.</surname>
+              <forenames>Meenakshi</forenames>
+              <age>18-25</age>
+              <gender>female</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Graduate</education>
+              <occupation>Student</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Tamil</mother.tongue>
+              <other.languages>Hindi, Kannada,
+                   Telugu</other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <subtext.source=S2B-045(2)>
+       <recording.data>
+              <date>22-10-93</date>
+              <time></time>
+              <place>Dharwad, Karnataka</place>
+       </recording.data>
+              <copyright.statement>reproduced by permission of
+                   the speaker</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-045(2)</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size>10</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-045(2)</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Matti</surname>
+              <forenames>Shantala</forenames>
+              <age>18-25</age>
+              <gender>female</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Graduate</education>
+              <occupation>Professional Student</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Kannada</mother.tongue>
+              <other.languages>Hindi, Marathi</other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

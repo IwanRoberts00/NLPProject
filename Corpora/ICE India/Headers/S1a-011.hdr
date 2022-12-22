@@ -1,0 +1,162 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-011</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2406</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-011>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>04-01-91</date>
+            <time>3pm</time>
+            <place>Madras University</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>uused by permission of
+                 respective speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-011</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>7</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-011</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>V</surname>
+            <forenames>Saraswathi</forenames>
+            <age>50+</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Chennai, Tamilnadu</birthplace>
+            <education>University of Madras, University of
+                 Edinburgh (UK)</education>
+            <educational.level>Ph.D</educational.level>
+            <occupation>Professor of English</occupation>
+            <affiliations>ELTAI, IATEFC (UK), IRA
+                 (USA)</affiliations>
+            <mother.tongue>Tamil</mother.tongue>
+            <other.languages>Sanskrit, French,
+                 Hindi</other.languages>
+            <free.comments>Moved to Hyderabad (1978-81), Britain
+                 (1983-84), Chennai (1984 to
+                 date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-011</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>R</surname>
+            <forenames>Swarnalatha</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>college
+                 level</educational.level>
+            <occupation>student</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Tamil</mother.tongue>
+            <other.languages>Hindi,
+                 Malayalam</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-011</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>V</surname>
+            <forenames>Padma</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Research Scholar</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Tamil</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-011</it>>
+            <speaker.id>D</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>K</surname>
+            <forenames>Srilata</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Ph.D Research Scholar</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Telugu</mother.tongue>
+            <other.languages>Tamil, Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-011</it>>
+            <speaker.id>E</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>A.R</surname>
+            <forenames>Subalakshmi</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>graduate</educational.level>
+            <occupation>student</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Telugu</mother.tongue>
+            <other.languages>Tamil</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-011</it>>
+            <speaker.id>F</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>R</surname>
+            <forenames>Ramkumar</forenames>
+            <age>18-25</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>M.Phil Research Scholar</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Tamil</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-011</it>>
+            <speaker.id>G</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Selvadoray</surname>
+            <forenames>Louis</forenames>
+            <age>18-25</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>college</educational.level>
+            <occupation>student</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Tamil</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

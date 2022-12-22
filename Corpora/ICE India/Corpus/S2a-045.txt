@@ -1,0 +1,585 @@
+<I>
+
+<$A> 
+<ICE-IND:S2A-045#1:1:A>
+Friends <,,> today <w> I'm </w> going to talk to you about two
+dimensional stratagrowth by identical limited aggregation <,,> by
+electrolysts deposit process <,,>
+
+<ICE-IND:S2A-045#2:1:A>
+The passing century <,,> has witnessed <,> scientific investigation
+<,,> of order systems <,,> such as <,> crystalline systems <,,> and so on and
+so forth <,,>
+
+<ICE-IND:S2A-045#3:1:A>
+Order was even <,,> discovered in liquids like liquid systems <,,>
+
+<ICE-IND:S2A-045#4:1:A>
+But during the last part of this century <,,> scientists have
+realised <,,> that many recorded systems <,,> behave in perfectly orderly <,>
+manner <,,>
+
+<ICE-IND:S2A-045#5:1:A>
+For example <,,> biological systems are never crystalline <,,> and
+they contain more than seventy percent water <,,> and yet <,> they perform
+functions <,,> which are most orderly <,,>
+
+<ICE-IND:S2A-045#6:1:A>
+Many physical <,,> technological <,,> and biological systems <,,>
+have been shown to be related to <,> and described by <,,> non-integer
+dimension <,,> as called <}> <-> fractional <.> dim </.> </-> <=> fractional
+dimensions </=> </}> <,,>
+
+<ICE-IND:S2A-045#7:1:A>
+A concept which was originally <,,> uh discovered <,> and
+beautifully demonstrated by <,,> B B Mendel Broad <,,> in his classic book
+called <mention> <?> Fractal </?> </mention> <,,>
+
+<ICE-IND:S2A-045#8:1:A>
+Uh lot of information has been gathered about <,,> these systems
+<,,> such as <,,> technique such as experimental theoritical and computer
+assimilation <,,>
+
+<ICE-IND:S2A-045#9:1:A>
+In this lecture today <,,> <w> I'm </w> going to introduce you <,,>
+to a <,,> process of <,,> generating <?> fractal </?> aggregate <,,> that is
+developed in our <,> laboratory <,,>
+
+<ICE-IND:S2A-045#10:1:A>
+The plan of my lecture <,> will be as follows <,,>
+
+<ICE-IND:S2A-045#11:1:A>
+Although most of you must be <,,> familiar with the <}> <-> <.> fla
+fact </.> </-> <=> factual </=> </}> concepts <,,>
+
+<ICE-IND:S2A-045#12:1:A>
+For the benefit of those who are uninitiated in this field <,> and
+for the sake of completness <,,>
+
+<ICE-IND:S2A-045#13:1:A>
+<w> I'll </w> first give <,> an introduction to the concepts of <?>
+fractal </?> <,,> such as definition of <?> fractal </?> <,,> the concept of
+self similarity and <,> their invariance <,,> the physical significance of
+<?> fractal </?> dimension <,,> and so forth <,,>
+
+<ICE-IND:S2A-045#14:1:A>
+Before going over to the <,> method <,> of generating <?> fractal
+</?> that we have developed <,,>
+
+<ICE-IND:S2A-045#15:1:A>
+And since <,,> the aggregates that we obtain are <,> diffusion
+limited aggregate <,,> <w> I'll </w> introduce the diffusion limited
+aggregation of <,,> with an nth standard the module which is developed by
+with an nth standard <,,>
+
+<ICE-IND:S2A-045#16:1:A>
+The first experimental uh evidence of different type of aggregates
+<,> was given by electro deposition process <,,> by Sauda Atoll and Gregor
+Atoll <,,>
+
+<ICE-IND:S2A-045#17:1:A>
+Whereas the method which we have developed is <,> electroless
+deposition <,,>
+
+<ICE-IND:S2A-045#18:1:A>
+And using this technique <,,> we have generated aggregates of
+metals <,> like <,> copper <,> silver and zinc <,,> which will be compared
+and contrasted <,,>
+
+<ICE-IND:S2A-045#19:1:A>
+<w> I'll </w> also show <,> a method of how to measure the <?>
+fractal </?> dimension <,> experimentally <,> for the <.> agre </.> type of
+aggregates that we have generated <,,>
+
+<ICE-IND:S2A-045#20:1:A>
+The diffusion limited aggregation is <,,> aggregates are formed
+<,,> by <,> uh interspin which are very near to equilibrium <,>
+
+<ICE-IND:S2A-045#21:1:A>
+I mean very far from equilibrium <,,>
+
+<ICE-IND:S2A-045#22:1:A>
+Whereas when the crystals are very near to equilibrium <,,> the
+morphology of aggregates is entirely different <,,>
+
+<ICE-IND:S2A-045#23:1:A>
+<w> I'll </w> give some beautiful examples of <,,> diffusionless
+aggregates <,> which are generated in our laboratory <,> from crystals <,,>
+which are very near to the equilibrium <,,>
+
+<ICE-IND:S2A-045#24:1:A>
+<?> Fractal </?> geometry provides <,,> a natural framework for
+describing and understanding those form <,,> this according to Euclidian
+geometry are formulae <,,> that is to investigate the morphology of amorphous
+<,,>
+
+<ICE-IND:S2A-045#25:1:A>
+Now how to describe fractions <,,>
+
+<ICE-IND:S2A-045#26:1:A>
+<.> Frac </.> in general if you observe a particular object for
+example take a <,,> glass of water <,,> and a bucket of water <,,> where the
+mass per unit volume <,,> which tells you about the density of water <,> does
+not depend upon <,,> the volume of water gratitute <,> for measurements <,,>
+
+<ICE-IND:S2A-045#27:1:A>
+Whether you take a glass <,> or you take a bucket <,> the density
+of the water <,> will remain one <,,>
+
+<ICE-IND:S2A-045#28:1:A>
+So in Euclidian type of object <,,> the density remains constant
+<,> irrespective of <,> type of the measuring unit <,,>
+
+<ICE-IND:S2A-045#29:1:A>
+But <,,> if you consider some different object <,,> as <w> I'll
+</w> show here <,,> then the density no longer ramains constant <,,> as the
+size of the object <,,>
+
+<ICE-IND:S2A-045#30:1:A>
+This <,> object is generated in this particular case <,,> by well
+defined determinous to prove <,,>
+
+<ICE-IND:S2A-045#31:1:A>
+A cross is generated by putting <,,> four particle <,> around the
+central particle <,,> and this is used as a <,,> iterative unit <,,>
+
+<ICE-IND:S2A-045#32:1:A>
+At the four corners <,,> and at the centre <,> you replace every
+particle by the cross <,,> and <,> you will generate this figure <,,>
+
+<ICE-IND:S2A-045#33:1:A>
+And if this process <,,> is repeated <,,> several times <,,> then
+<,,> a figure <,> such as this <,> is obtained <,,>
+
+<ICE-IND:S2A-045#34:1:A>
+Now let us try to calculate the density of this object <,,>
+
+<ICE-IND:S2A-045#35:1:A>
+Or <,,> as <w> you've </w> seen here <,> since density can be
+written as <,,> density can be written as mass upon volume <,,>
+
+<ICE-IND:S2A-045#36:1:A>
+So we can write this equation as <,> mass is proportional to volume
+<,,> that is <,> mass is proportional to length <,,> cube <,,>
+
+<ICE-IND:S2A-045#37:1:A>
+And in two dimensions <,> mass will be proportional to <,> length
+square <,,>
+
+<ICE-IND:S2A-045#38:1:A>
+Now instead of mass we can use the number of particles as unit
+because <,,> number of particles will be proportional to the mass of the <,,>
+uh <O> one word </O> <,>
+
+<ICE-IND:S2A-045#39:1:A>
+So number of particles <,> in Euclidian system <,> is proportional
+to the <,,> linear dimension to the power of Euclidian dimension <,,>
+
+<ICE-IND:S2A-045#40:1:A>
+For the sake of simplicity we are considering a two dimensional
+system <,,>
+
+<ICE-IND:S2A-045#41:1:A>
+And as you can see here <,,> in this particular system <,,>
+
+<$B> 
+<ICE-IND:S2A-045#42:1:B>
+Here value is at K <,,>
+
+<$A> 
+<ICE-IND:S2A-045#43:1:A>
+K is any number <,> if this is <,,> K is equal to one
+
+<$B> 
+<ICE-IND:S2A-045#44:1:B>
+Ah
+
+<$A> 
+<ICE-IND:S2A-045#45:1:A>
+I have <,> okay <w> I'll </w> just put it up here <,,>
+
+<ICE-IND:S2A-045#46:1:A>
+So you have K is equal to zero K is equal to one <,,> K is equal to
+two <,,> and <,,> K is equal to some number K let us say <,,> <O> cough </O>
+
+<ICE-IND:S2A-045#47:1:A>
+And <w> I'll </w> show you how it is obtained <,,>
+
+<ICE-IND:S2A-045#48:1:A>
+So you will have <,> here for K is equal to one <,,> you have five
+particles <,> in this particular figure <,,>
+
+<ICE-IND:S2A-045#49:1:A>
+So your N is <,,> five <,,>
+
+<ICE-IND:S2A-045#50:1:A>
+For K is equal to two <,,> you have twenty-five particles <,> as
+you can see there <,,>
+
+<ICE-IND:S2A-045#51:1:A>
+So your N is <,,> five twelve <,,>
+
+<ICE-IND:S2A-045#52:1:A>
+And so <,> your K is equal to <,,> K <,,> and N is five to power of
+K <,,>
+
+<ICE-IND:S2A-045#53:1:A>
+Similarly <,> if you take the linear dimension that is if you
+measure this <,> distance <,,> then for K is equal to one <,> simply K into
+three <,> that is three times K <,> this and I have not drawn it properly <,>
+
+<ICE-IND:S2A-045#54:1:A>
+If you look at that figure you will see that this plus this plus
+this <,,> will give you this <,,> for <,> K is equal to one <,> two <,> and
+three <,,>
+
+<ICE-IND:S2A-045#55:1:A>
+So for K is equal to <,,> two <,> we have K into T to the power of
+two <,>
+
+<ICE-IND:S2A-045#56:1:A>
+You can count here <,>
+
+<ICE-IND:S2A-045#57:1:A>
+It will give about nine distance <,> three <,> plus three <,> plus
+three <,,>
+
+<ICE-IND:S2A-045#58:1:A>
+And for K is equal to K <,> <O> cough </O> we have K into three to
+the power of K <,,>
+
+<ICE-IND:S2A-045#59:1:A>
+So <,,> in this equation if you have <,,> log of N <,,> divided by
+log of <,,> N <,> to the limit A going to infinity <,,> then you find that
+this comes out to be <,,> log of five <,> divided by log of N <,> using one
+point <,,> four six five <,,>
+
+<ICE-IND:S2A-045#60:1:A>
+So you see that <,> the power of the <,> I mean if you <O> cough
+</O> can rewrite this equation it will become <,,> N into number of <O> one
+word </O> <,> S to the power of <,> some constant number <,,>
+
+<$B> 
+<ICE-IND:S2A-045#61:1:B>
+But A is unit here <,>
+
+<$A> 
+<ICE-IND:S2A-045#62:1:A>
+Right <,> A is uh <,> you can take it uniquely or you can know
+even if you write A <,> and solve the equation we get this in the limit A
+tending to infinity <,,>
+
+<ICE-IND:S2A-045#63:1:A>
+So we find that <,> this number <,,> comes out to be a <,,>
+fractional number <,,>
+
+<ICE-IND:S2A-045#64:1:A>
+So <,,> for Euclidian object <,,> you have a proportional to L to
+the power of Euclidian dimension <,,> and for a fractal object <,,> this is a
+fractional number <,,> and because it is a fractional number <,> it is called
+<,,> a fractal system <,,>
+
+<ICE-IND:S2A-045#65:1:A>
+This word fractal was coined by <,> B B Mendel Broad to represent
+those system <,,> which occurs the physical properties cannot be described
+<,> by using Euclidian dimension <,,>
+
+<ICE-IND:S2A-045#66:1:A>
+For example if you take a mountain <,,> you cannot call it a
+triangle <,,> you cannot call it a <,> sphere <,> and therefore its
+properties <,> will not be describable by Euclidian geometry <,>
+
+<ICE-IND:S2A-045#67:1:A>
+You need to take some other measure <,> to describe the properties
+of such systems <,> which are plenty in nature <,,>
+
+<ICE-IND:S2A-045#68:1:A>
+Uh blood circulation system or nervous system so many systems if
+you look at them <,> you cannot put them into orderly phenomenon <,,>
+
+<ICE-IND:S2A-045#69:1:A>
+And then you require some science to describe such systems because
+the aim of science is to bring predictibility to events <,,>
+
+<ICE-IND:S2A-045#70:1:A>
+If you cannot predict <,,> than naturally you can't <,,> have some
+<,> uh good sign you can't predict certain things then <w> it's </w> not
+science <,,>
+
+<ICE-IND:S2A-045#71:1:A>
+So in order to bring predictability you need a framework <,> which
+will describe the image <,,>
+
+<ICE-IND:S2A-045#72:1:A>
+So fractal framework <,> produce <-> a provides </-> <,,> something
+<-> which </-> with which you can describe these events with <,> certainity
+<,,>
+
+<ICE-IND:S2A-045#73:1:A>
+Now <,,> we should understand that there is this <,> dimension <,>
+which is used <,,> and if we call as one point four six five is the dimension
+of the system <,> but that is not the real dimension of the system
+
+<ICE-IND:S2A-045#74:1:A>
+Really it is a two dimensional system as you can see there <,,>
+
+<ICE-IND:S2A-045#75:1:A>
+This term <.> fra </.> dimension is borrowed because <,> that
+particular number replaces the dimension <,,> in the <.> Eucli </.> normal
+<,> uh equation <,,>
+
+<ICE-IND:S2A-045#76:1:A>
+So we call a fractal dimension <,,>
+
+<ICE-IND:S2A-045#77:1:A>
+It is not <,> a dimension <,,> in the actual sense of the word <,,>
+
+<ICE-IND:S2A-045#78:1:A>
+It is but because this fractional number replaces the dimension of
+the system <,,> to make the <.> mea </.> physical measurements meaningful
+<,,> we call it a dimension <,,>
+
+<ICE-IND:S2A-045#79:1:A>
+So when the notion of Euclid and dimension poses a conceptual
+problem <,,> in <}> <-> <.> underst </.> </-> <=> understanding </=> </}>
+certain system <,,> the concept of fractal dimensionality <,,> gives a
+manageable and convenient answer <,,> to such questions <,,>
+
+<ICE-IND:S2A-045#80:1:A>
+Just for the sake of <,,> completeness <,> <w> I'll </w> give some
+mathematical equation which should not put you off <,,>
+
+<ICE-IND:S2A-045#81:1:A>
+So in general <,> if <?> rover </?> is the density of the aggregate
+at a point R <,,> and N is the total number of particles in a cluster of
+radius I <,,> then the <}> <-> density </-> <=> density </=> </}> correlation
+function can be written as <,,> here <,,>
+
+<ICE-IND:S2A-045#82:1:A>
+So you have several forms <}> <-> of </-> <=> of </=> </}> this
+equation <,> which I have written there is simple form U is equal to M upon V
+<,,> C R can be written as R to the power of minus three minus three that E
+is the Euclidian dimension and <,> this D is the fractal dimension <,>
+
+<ICE-IND:S2A-045#83:1:A>
+If this number is written as alpha <,> then you have C R <,>
+varying as R to the power of <,,> minus alpha <,,> and fractal dimension can
+be measured <,,> experimentally <,> by using any one of these <O> cough </O>
+equations <,> when different techniques <,,> are required for <,> such
+measurements <,,>
+
+<ICE-IND:S2A-045#84:1:A>
+Now I will describe the <,,> concepts of self similarity and <,,>
+scale invariance <,,> of the fractal <,,>
+
+<ICE-IND:S2A-045#85:1:A>
+Self similarity and scale invariance are <,,> the fundamental
+properties of fractal
+
+<ICE-IND:S2A-045#86:1:A>
+I don't say that scale invariance is fundamental because there are
+fractal <,,> in which the scale invariance is not necessary in the sense <,>
+the power which we saw just now <,,> this <,,> D <,,> distance <,> need not
+be a constant number <,>
+
+<ICE-IND:S2A-045#87:1:A>
+It can be expressed as a power T <,,> and those fractal are called
+multifractal <,> okay the common fractal normally I mean <,> to be
+conceptually very <,> simple <,,> the scale invariance and <,,> scale
+similarity <,> are considered to be <,> two important characteristics <,> of
+the <,> fractal <,,>
+
+<ICE-IND:S2A-045#88:1:A>
+So in this figure which we have generated just sometime before <,,>
+
+<ICE-IND:S2A-045#89:1:A>
+If you take any part of this figure <,,> and enlarge it <,,> then
+you get <,> a figure which is identical to the <}> <-> <.> start </.> </->
+<=> starting </=> </}> figure <,,>
+
+<ICE-IND:S2A-045#90:1:A>
+And then again take any part of it <,,> so I have put it <,,>
+
+<ICE-IND:S2A-045#91:1:A>
+Then again enlarge a part of this figure <,>
+
+<ICE-IND:S2A-045#92:1:A>
+It will appear identical to the original figure <,,>
+
+<ICE-IND:S2A-045#93:1:A>
+And that is why <,> the fractal systems are called <,> self-similar
+<,> because <,,> the <,,> <.> a </.> any part of the system if it is elarged
+or contracted <,> looks like the original system <,,>
+
+<ICE-IND:S2A-045#94:1:A>
+But this self similarity ends <,,> when you start distinguishing
+between the particles <,,>
+
+<ICE-IND:S2A-045#95:1:A>
+When you start seeing the particle from this take a small part of
+it and enlarge it it is no longer going to look like the <-> like </-> <,>
+original figure <,,>
+
+<ICE-IND:S2A-045#96:1:A>
+And so this puts a blow to critical form <,,> below which the
+system will not behave as a fractal system
+
+<$B> 
+<ICE-IND:S2A-045#97:1:B>
+Figures might be same
+
+<$A> 
+<ICE-IND:S2A-045#98:1:A>
+No <,> it is it is no longer a fractal system then <,,>
+
+<ICE-IND:S2A-045#99:1:A>
+And similarly <,,> the size of the aggregate itself <,> puts a
+bound <,,> above which <,,> the system cannot be called as a fractal system
+<,>
+
+<ICE-IND:S2A-045#100:1:A>
+Because I may have a large system <,> with sub units like this
+<,,>
+
+<ICE-IND:S2A-045#101:1:A>
+Now each sub unit is a fractal <,,> but these sub units might be
+arranged in crystalline position <,,>
+
+<ICE-IND:S2A-045#102:1:A>
+So in that case <,,> I have fractal behaviour only between <,,>
+the size of the particle <,,> and the size of the aggregate which is fractal
+<,,>
+
+<ICE-IND:S2A-045#103:1:A>
+In between these two units <,> the aggregate behave like fractal
+<,> but above and below these limit <,> they do not behave like fractal <,,>
+
+<ICE-IND:S2A-045#104:1:A>
+And these are called the lower and upper critical bounds <,,> of
+the fractal system <,,>
+
+<ICE-IND:S2A-045#105:1:A>
+Now in this particular case the figure has been generated using a
+<,> precise deterministic mathematical rule <,,>
+
+<ICE-IND:S2A-045#106:1:A>
+But in general <,> we make a <,> fractal which exist <,,> are not
+created by mathematical rules <,,>
+
+<ICE-IND:S2A-045#107:1:A>
+So in that case <,,> the <,,> self similarity is not exact <,,>
+
+<ICE-IND:S2A-045#108:1:A>
+It is a statistical self similarity <,,>
+
+<ICE-IND:S2A-045#109:1:A>
+As we can see here <,,> the object which are created for example
+by some processes <,> like the smoke <,,> are self similar <,> and here again
+<,> if you enlarge a <,,> small part anywhere here <,> it will look similar
+to the starting object <,> it will not be exactly identical to the starting
+object <,> and yet it will be similar to the starting object <,>
+
+<ICE-IND:S2A-045#110:1:A>
+<w> It's </w> statistical properties will be <,,> similar to what
+you have from the original object <,,> until and unless you start resolving
+between the particles <,,> when again the self similarity breaks down <,,>
+
+<ICE-IND:S2A-045#111:1:A>
+So you have statistical <,,> or deterministic factors <,,> which
+are self similar <,,>
+
+<ICE-IND:S2A-045#112:1:A>
+So let us see what is scale invariance of statistic <,,>
+
+<ICE-IND:S2A-045#113:1:A>
+The equation M is proportional to L to the power of D <,,> sixth
+off the scale invariance because <,,> the <,> in this equation it all remains
+constant <,,>
+
+<ICE-IND:S2A-045#114:1:A>
+But the question <,> we comes at to in this equation <,> Euclidian
+<,,> where Euclidian is dimension is used also this power remain constant <,>
+
+<ICE-IND:S2A-045#115:1:A>
+So what is so great about the invariance of fraction <,,>
+
+<ICE-IND:S2A-045#116:1:A>
+In order system also you have scale invariance <,,>
+
+<ICE-IND:S2A-045#117:1:A>
+This <,> the importance of scale invariance becomes <,> clear <,,>
+when we look at it from the <,> other side <,,>
+
+<ICE-IND:S2A-045#118:1:A>
+What I mean by other side is <,,> that is if you have objects for
+which <,,> for the measurement of which <,,> mathematical equation cannot be
+written down
+
+<ICE-IND:S2A-045#119:1:A>
+You cannot define it <,,>
+
+<ICE-IND:S2A-045#120:1:A>
+Then <,,> you cannot define if that means they are not still
+invariant <,,> whereas for those objects for which <,> you can give some
+meaning to the <O> one word </O> <,> are only objects which are scale
+invariant <,>
+
+<ICE-IND:S2A-045#121:1:A>
+I will give a very specific example <,,> of a coastland <,,>
+
+<ICE-IND:S2A-045#122:1:A>
+We have all visited beaches <,,> that is sea beach I mean <,,>
+
+<ICE-IND:S2A-045#123:1:A>
+And if <w> you'll </w> see the morphology of the sea beach <,,>
+you will find it something like <,,> this <,> <w> it's </w> not going to be a
+straight line <,,>
+
+<ICE-IND:S2A-045#124:1:A>
+Now <w> I'll </w> take a one kilometre strip of <,> the coastline
+<,,>
+
+<ICE-IND:S2A-045#125:1:A>
+This is one kilometre <,,>
+
+<ICE-IND:S2A-045#126:1:A>
+And <,,> I measure this one kilometre length <,> by using a metre
+long scale <,>
+
+<ICE-IND:S2A-045#127:1:A>
+I keep my metre long scale here <,> and start measuring this by
+kilometre <,,> length <,,>
+
+<ICE-IND:S2A-045#128:1:A>
+I find that <,,> my coastline <,> length of my coastline is
+thirty-two kilometres <,,>
+
+<ICE-IND:S2A-045#129:1:A>
+Then I take a one metre <,,> uh sorry one centimetre uh <,> strip
+<,,> and again measure this coast length <,>
+
+<ICE-IND:S2A-045#130:1:A>
+Again here there will be something <,,>
+
+<ICE-IND:S2A-045#131:1:A>
+So I measure the length of the coastline as three into ten to the
+power of seven kilometres <,,>
+
+<ICE-IND:S2A-045#132:1:A>
+And if I take one millimetre it becomes <,> ten to the power of
+nine kilometres <,,>
+
+<ICE-IND:S2A-045#133:1:A>
+There it appears as if it is not possible to measure the length of
+the coastline because depending on what <,> unit I take for measurement it
+keeps on varying <,,>
+
+<ICE-IND:S2A-045#134:1:A>
+But that is not true <,> because the including coastline can be
+<,,> statistically defined
+
+<ICE-IND:S2A-045#135:1:A>
+It cannot be exactly defined <,> but length of the coastline can
+be statistically defined <,> by an equation <,,> saying <O> a few words </O>
+if we put <,> one metre one centimetre or one millimetre <,> you will get
+<,,> L <,,> exactly predictable <,,> </I>

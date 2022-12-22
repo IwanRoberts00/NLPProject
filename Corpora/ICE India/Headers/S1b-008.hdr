@@ -1,0 +1,49 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-008</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:class lessons</category>
+            <wordcount>2178</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-008>
+     <source.type=Dialogue:public:class lessons>
+     <recording.data>
+            <date>05-08-92</date>
+            <time>12.45pm</time>
+            <place>Oriental Academy Kolhapur</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-008</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>30 students</no.of.participants>
+            <relationship>disparates</relationship>
+            <free.comments>The students were minor (Class VIII)
+                 hence extra corpus speakers</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-008</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Yerdoor</surname>
+            <forenames>Smita</forenames>
+            <age>34-41</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Graduate</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Konkani</mother.tongue>
+            <other.languages>Kannada</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

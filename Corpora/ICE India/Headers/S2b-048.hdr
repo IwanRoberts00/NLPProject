@@ -1,0 +1,50 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2B-048</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Scripted:non-broadcast
+                   speeches</category>
+              <wordcount>2204</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2B-048>
+       <recording.data>
+              <date>15-07-94</date>
+              <time>11.00am</time>
+              <place>Dept: of English(classroom), Shivaji
+                   University</place>
+       </recording.data>
+              <organising.body>UGC Refresher
+                   Course</organising.body>
+              <copyright.statement>reproduced by permission of
+                   the speaker</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-048</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Lecture
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size>40</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-048</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Desai</surname>
+              <forenames>Shantinath Kuberappa</forenames>
+              <age>62</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Doctorate</education>
+              <occupation>University Professor</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Kannada</mother.tongue>
+              <other.languages>Hindi, Marathi</other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

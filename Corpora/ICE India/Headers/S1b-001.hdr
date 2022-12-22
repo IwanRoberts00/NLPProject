@@ -1,0 +1,52 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-001</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:class lessons</category>
+            <wordcount>2117</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-001>
+     <source.type=Dialogue:public:class lessons>
+     <recording.data>
+            <date>9-9-91</date>
+            <time>10.45am</time>
+            <place>Demonstrative School Regional College of
+                 Education-Bhopal</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-001</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>20 students</no.of.participants>
+            <relationship>disparates</relationship>
+            <audience.size></audience.size>
+            <free.comments>The students were minors (class XI)
+                 hence extra corpus speakers</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-001</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kurup</surname>
+            <forenames>Sukumaryamma</forenames>
+            <age>34-41</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Malayalam</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

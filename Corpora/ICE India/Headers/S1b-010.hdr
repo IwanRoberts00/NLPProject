@@ -1,0 +1,51 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-010</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:class lessons</category>
+            <wordcount>1841</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-010>
+     <source.type=Dialogue:public:class lessons>
+     <recording.data>
+            <date>06-03-93</date>
+            <time>9.45am</time>
+            <place>V.P.M's BR Tol's High School,
+                 Mulund(Bombay)</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-010</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>30 students</no.of.participants>
+            <relationship>disparates</relationship>
+            <free.comments>The students were minor hence extra
+                 corpus speakers</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-010</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname></surname>
+            <forenames>Lakshmi R.</forenames>
+            <age>24-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Bombay</birthplace>
+            <education>Bombay University, Annamalai
+                 University</education>
+            <educational.level>Graduate</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Tamil</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

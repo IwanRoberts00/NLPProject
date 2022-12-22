@@ -1,0 +1,83 @@
+<text.info>
+       <file.description>
+                <textcode>ICE-IND-W1B-010</textcode>
+                <number.of.subtexts>001</number.of.subtexts>
+                <category>non-printed:correspondence:social
+                  letters</category>
+                <wordcount>2007</wordcount>
+                <version>lexical</version>
+                <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1B-010a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>14-04-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-010a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>14-04-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-010a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>17-01-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-010a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>28-09-97</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-010a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>01-05-98</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1B-010</it>>
+            <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1B-010(All)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Shastri</surname>
+                <forenames>Krishnaraj S.</forenames>
+                <age>34-41</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Kalyan, Maharashtra</birthplace>
+                <education>Shivaji University</education>
+                <educational.level>B.E.</educational.level>
+                <occupation>Marine Engineer</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Kannada</mother.tongue>
+                <other.languages>Marathi,                      
+                 Hindi</other.languages>
+                <free.comments>Dombivli (1965-75), Kolhapur
+                  (1975-87), Pune (1987-90), at Sea (1990 to
+                  date)</free.comments>
+       </biography>
+</text.info>

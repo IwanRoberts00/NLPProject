@@ -1,0 +1,247 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-012</textcode>
+             <number.of.subtexts>8</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>2047</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description>
+     <subtext.source=a,b,c,d,e,f>
+             <source.type=periodical>
+             <source.title>New Delhi</source.title>
+             <source.subtitle></source.subtitle>
+             <volume></volume>
+             <no.></no.>
+             <series></series>
+             <frequency>Monthly</frequency>
+     <publication.statement>
+             <publisher>New India Publications</publisher>
+             <address>13-16 Krishna Market, Behind Rama Krishna 
+                    Mission, Off Punchkuian Road, New Delhi-
+                    110055</address>
+             <place>New Delhi</place>
+             <date>31-01-90</date>
+             <ISSN></ISSN>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of New India
+                Publications</copyright.statement>
+     <free.comments>text was obtained by Prof.                 
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-012a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Deshbandhu College in Ferment</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>7</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-012b</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Strike by AIIMS Doctors</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>7</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-012c</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Head Constable's Daughter burnt by In-        
+                 laws</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>7</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-012d</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>The Lamp of Delhi Gharana still
+                 Flickers</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>7</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-012e</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>A turn of the wheel of fortune</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>8</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-012f</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Lock-out in Indian Express's Delhi
+                 Chapter</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>8</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-012a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-012b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-012c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-012d</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-012e</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-012f</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=g,h>
+     <source.type=newspaper>
+           <source.title>Sunday Navhind Times</source.title>
+           <scope>regional</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Navhind Papers & Publications
+                      Ltd.</publisher>
+            <address>Rua Ismael Gracias, Panjim, Goa</address>
+            <place>Goa</place>
+            <date>25-02-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Navhind  
+              Papers & Publications Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.                 
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-012g</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Peoples's Carnival - a crowd puller</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>1 & 8</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-012h</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>7 die, 12 hurt in gas mishap</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>1</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-012g</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-012h</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,502 @@
+<I>
+
+<ICE-IND:W2A-038#1:1>
+<h> <bold> Methodologies for Environmental Monitoring </bold> </h> <&>
+authors </&>
+
+<ICE-IND:W2A-038#2:1>
+<bold> S. Hasan and P.K. Mathur </bold>
+
+<ICE-IND:W2A-038#3:1>
+<it> Lucknow University, Department of Chemistry, Lucknow - 226 001
+</it>
+
+<p> 
+<ICE-IND:W2A-038#4:1>
+<bold> The information currently available on the status of
+environmental pollution have been directly dependent on the advances made in
+analytical techniques.
+
+<ICE-IND:W2A-038#5:1>
+<mention> Organic and inorganic toxic pollutants </mention> are
+generally present in micro and submicro quantities in the environment and
+their determination at these level needs accurate, precise and sensitive
+analytical techniques.
+
+<ICE-IND:W2A-038#6:1>
+Some of the techniques used for environmental pollutants are based
+on spectrophotometry, chromatography, polorography, mass
+spectrophotometry, spectrofluorometry, ion selective electrodes and neutron
+activation.
+
+<ICE-IND:W2A-038#7:1>
+The selection of analytical technique depends on the expected level
+and characteristics of the environmental pollutants. </bold> </p> <&> in two
+columns </O> <&> column one </&>
+
+<ICE-IND:W2A-038#8:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-038#9:1>
+Environmental pollutants are discharged into air, water and soil
+from anthrapogenic activity and depending on their characteristics, they
+form an equlibrium between them.
+
+<ICE-IND:W2A-038#10:1>
+Monitoring of environmental pollutants needs effective sampling
+procedure and precise, sensitive and accurate analytical techniques.
+
+<ICE-IND:W2A-038#11:1>
+Proper selection of sampling locations, preservation of samples and
+analytical methodology are the important aspects of environmental
+monitoring.
+
+<ICE-IND:W2A-038#12:1>
+Sampling methods, and preservation of samples differ from one
+component of environment to another.
+
+<ICE-IND:W2A-038#13:1>
+Pretreatment of samples before using an appropriate technique also
+differs for <}> <-> varioue </-> <+> various </+> </}> components of
+environment. </p>
+
+<ICE-IND:W2A-038#14:1>
+<h> <bold> WATER QUALITY MONITORING </bold> </h>
+
+<p> 
+<ICE-IND:W2A-038#15:1>
+Monitoring of pollutants in water starts from its sampling and
+is based on the results of the analysis of the samples taken from a
+particular site.
+
+<ICE-IND:W2A-038#16:1>
+The monitoring results are actually indicative of the quality
+of water sample under investigation rather than the water body from where the
+sample is taken.
+
+<ICE-IND:W2A-038#17:1>
+If water is of relatively uniform composition in both time and space
+then any sample will suffice.
+
+<ICE-IND:W2A-038#18:1>
+However, if the sample is nonuniform at sampling site or its
+composition varies with time, then no single sample is truely representative.
+
+<ICE-IND:W2A-038#19:1>
+Monitoring requires that water samples are collected at intervals so
+that no change in quality could pass unnoticed.
+
+<ICE-IND:W2A-038#20:1>
+The observed value and true value always differs due to various
+reasons.
+
+<ICE-IND:W2A-038#21:1>
+The larger the number of samples from which the mean is derived, the
+narrower is the limit of the probable difference.
+
+<ICE-IND:W2A-038#22:1>
+However, the sampling schedule is a compromise between accuracy
+and facilities available for the work.
+
+<ICE-IND:W2A-038#23:1>
+It is always advantageous to measure the pollutants <it> <foreign> in
+situ </foreign> </it> by means of sensors which are lowered into the water
+bodies rather than withdrawing samples.
+
+<ICE-IND:W2A-038#24:1>
+This is not always possible and the samples are to be collected in
+suitable containers.
+
+<ICE-IND:W2A-038#25:1>
+Borosilicate glass or polyethylene bottles are suitable for sample
+collection. </p>
+
+<p> 
+<ICE-IND:W2A-038#26:1>
+Maintaining the integrity of the pollutants is an essential
+pre-requisite for any monitoring programme.
+
+<ICE-IND:W2A-038#27:1>
+Once the sample is taken the constituents of the sample must stay
+in the same condition as collected.
+
+<ICE-IND:W2A-038#28:1>
+Effective preservation method is, therefore, needed to find valid
+data from monitoring.
+
+<ICE-IND:W2A-038#29:1>
+Most of the chemical parameters can be preserved from one day to
+14 day by storing the sample under refrigeration at 4 <*> degrees</*>C.
+
+<ICE-IND:W2A-038#30:1>
+Trace metals may be preserved upto 6 month by adding 2 ml of
+concentrated nitric acid per litre of sample so that pH goes below 2.
+
+<ICE-IND:W2A-038#31:1>
+Only mercury requires 2 ml / l of 20 % potassium dichromate
+solution prepared in 50 % nitric acid.
+
+<ICE-IND:W2A-038#32:1>
+Phenol needs 6 ml of 6N sodium hydroxide solution per litre water so
+that pH is above 12 and refrigeration at 4 <*> degrees</*>C for 24 hr
+preservation.
+
+<ICE-IND:W2A-038#33:1>
+Organics are preserved by storing water samples under
+refrigeration at 4 <*> degrees</*>C for 7 to 14 day depending on their
+nature.
+
+<ICE-IND:W2A-038#34:1>
+However, it is advisable to extract the organics into suitable
+organic solvent within 24 hr and then preserve the organic extracts under
+refrigeration at 4 <*> degrees</*>C.
+
+<ICE-IND:W2A-038#35:1>
+Certain specific compounds need special preservation which depends
+on their chemical properties.
+
+<ICE-IND:W2A-038#36:1>
+Preservation of sample is a very important step in water quality
+monitoring and it should be strictly adhered to. </p> <O> <&> page </&>
+608 </O>
+
+<ICE-IND:W2A-038#37:1>
+<h> <bold> AIR QUALITY MONITORING </bold> </h>
+
+<p> 
+<ICE-IND:W2A-038#38:1>
+Monitoring of pollutants in ambient air needs proper choice of
+sampler.
+
+<ICE-IND:W2A-038#39:1>
+For monitoring of metals adsorbed on the suspended particulate
+matter, a high volume sampler is the most suitable choice.
+
+<ICE-IND:W2A-038#40:1>
+A portion of the filter paper used for the determination of SPM is
+cut and the metal is extracted in nitric acid which is used for metals
+determination.
+
+<ICE-IND:W2A-038#41:1>
+Gaseous pollutants are sampled in impingers with appropriate
+adsorption solution.
+
+<ICE-IND:W2A-038#42:1>
+The gaseous pollutants having acid nature need alkali solution as
+the ultimate choice and for gases with alkali characteristics, the choice
+is acid solution.
+
+<ICE-IND:W2A-038#43:1>
+Mercury need acidic dichromate solution while pesticides need n -
+hexane as trapping solution.
+
+<ICE-IND:W2A-038#44:1>
+Recording of meterological data, like wind direction, wind speed,
+temperature, relative humidity, etc., is essential.
+
+<ICE-IND:W2A-038#45:1>
+Accurate flow measurement of sampling is most important.
+
+<ICE-IND:W2A-038#46:1>
+Now-a-days automatic monitoring instruments based on infra-red
+spectrophotometry, chemuluminiscence, conductivity and other
+physico-chemical properties are also available for the monitoring of
+gaseous pollutants. </p>
+
+<ICE-IND:W2A-038#47:1>
+<h> <bold> ENVIRONMENTAL MONITORING TECHNIQUES </bold> </h>
+
+<p> 
+<ICE-IND:W2A-038#48:1>
+The requirement of the analytical technique selected for
+determination of a pollutant in the environment is its capability to detect
+and determine it at extremely low concentrations.
+
+<ICE-IND:W2A-038#49:1>
+The technique should prferably be applicable to the sample
+directly and be capable of yielding information on the nature of the species
+present.
+
+<ICE-IND:W2A-038#50:1>
+It is also desirable that the technique requires bare minimum
+sample treatment to avoid contamination and subsequent enhancement of
+blank values.
+
+<ICE-IND:W2A-038#51:1>
+Some of the techniques used in environmental monitoring are described
+here under. </p>
+
+<ICE-IND:W2A-038#52:1>
+<h> <bold> Atomic spectrometry </bold> </h>
+
+<p> 
+<ICE-IND:W2A-038#53:1>
+Atomic spectrometric methods have contributed significantly
+towards environmental pollution monitoring studies on heavy metals.
+
+<ICE-IND:W2A-038#54:1>
+Some of them have excellent detection limits and minimum
+interference effects.
+
+<ICE-IND:W2A-038#55:1>
+However, the technique is incapable of yielding information on the
+species of the metals.
+
+<ICE-IND:W2A-038#56:1>
+This technique determines the total concentration of the metals.
+
+<ICE-IND:W2A-038#57:1>
+More than 60 elements can be determined at solution concentrations
+between 0.1 and 100 <*> mu</*>g / l.
+
+<ICE-IND:W2A-038#58:1>
+Atomic adsorption spectrophotometry is still the method of choice
+for the analysis of environmental samples and both flame and non-flame
+methods have been used for environmental monitoring.
+
+<ICE-IND:W2A-038#59:1>
+The senstivity of the flame atomic adsorption spectrophotometry
+is, however, not high enough to detect most of the trace metals at levels
+they are normally present in the environment.
+
+<ICE-IND:W2A-038#60:1>
+The sensitivity of the method may be enhanced by using the method of
+complexation coupled with organic solvent extraction.
+
+<ICE-IND:W2A-038#61:1>
+These additional steps, however, make the techniques time
+consuming and sometimes increases blank values.
+
+<ICE-IND:W2A-038#62:1>
+The flame atomic absorption spectrophotometry is suitable for major
+elements, like <mention> irom </mention> , <mention> manganese </mention> ,
+<mention> copper </mention> , <mention> zinc </mention> , etc., which
+generally occur in the environment at concentrations which lie in the
+sensitivity range of flame <mention> AAS </mention> technique ( Hasan and
+Pande, 1978 ) . </p>
+
+<p> 
+<ICE-IND:W2A-038#63:1>
+Flameless atomic absorption methods are most suitable for the
+determination of trace metals, like <mention> arsenic </mention> , <mention>
+cedmium </mention> , <mention> chromium </mention> , <mention> cobalt
+</mention> , <mention> nickel </mention> , <mention> lead </mention> ,
+<mention> salenium </mention> , etc.
+
+<ICE-IND:W2A-038#64:1>
+The technique requires very small sample volume and has extremely
+low detection limit.
+
+<ICE-IND:W2A-038#65:1>
+This technique has, however, the problem of matrix interference which
+are quite severe and at the atomization stage non-specific absorption can
+be very significant ( Hasan and Pande, 1988a, 1983 b ) .
+
+<ICE-IND:W2A-038#66:1>
+The matrix interference can be removed either by platform technique
+or by matrix modification.
+
+<ICE-IND:W2A-038#67:1>
+In the former a small graphite platform is placed inside the tube
+and the sample is introduced on the platform.
+
+<ICE-IND:W2A-038#68:1>
+The platform is treated primarily by radiation from the furnace
+resulting in lower temperature in platform as compared to the temperature of
+the tube wall.
+
+<ICE-IND:W2A-038#69:1>
+This reduces the interference by lowering the rate of condensation of
+analyte and recombination of atomic species. </p>
+
+<p> 
+<ICE-IND:W2A-038#70:1>
+Matrix modification methods have been extensively used for the
+determination of trace metals in water and wastewater.
+
+<ICE-IND:W2A-038#71:1>
+It was observed that the addition of molybdenum minimizes several
+interferences ( Henn, 1977 ) while addition of nitric acid decereases
+non-specific absorption caused by sodium and potassium chloride ( Tanaka
+<it> et al </it> ., 1978 ) .
+
+<ICE-IND:W2A-038#72:1>
+Interference in the determination of lead and cadmium has been
+successfully removed by the addition of aluminium ( Panda and Pendarkar, 1980 ) .
+
+<ICE-IND:W2A-038#73:1>
+Addition of a mixture of ascorbic acid and ammonium nitrate
+removes the interferences due to alkali metals, alkaline earth metals and
+anions in the determination of manganese ( Kumar <it> et al </it> ., 1986 ) .
+
+<ICE-IND:W2A-038#74:1>
+Determination of trace metals of environmental significance <O> <&> page
+</&> 609 </O> has been reviewed ( Kumar <it> et al </it> .,
+1987 ) .
+
+<ICE-IND:W2A-038#75:1>
+Cold vapour atomic absorption spectrophotometry using the method
+described by Hatch and Ott ( 19 68 ) and modified by Uthe <it> et al </it> .
+( 1970 ) is most suitable for the determination of mercury.
+
+<ICE-IND:W2A-038#76:1>
+The method involves wet acid digestion of the sample, followed
+by reduction, aeration and measurement of mercury vapour absorption at 253.7
+nm. </p>
+
+<ICE-IND:W2A-038#77:1>
+<h> <bold> Plasma emission spectrometry </bold> </h>
+
+<p> 
+<ICE-IND:W2A-038#78:1>
+A plasma is a gas whose significant portion is ionized and
+thus large quantities of electrical energy can be transferred to it.
+
+<ICE-IND:W2A-038#79:1>
+This source is, therefore, capable of atomization and excitation of
+metals.
+
+<ICE-IND:W2A-038#80:1>
+Based on this principle an inductively coupled plasma ( ICP )
+source was developed.
+
+<ICE-IND:W2A-038#81:1>
+This source is an electrodeless argon plasma formed at atmospheric
+pressure and sustained by inductive coupling to high frequency magnetic
+fields ( Fassel, 1978 ) .
+
+<ICE-IND:W2A-038#82:1>
+Later on direct current plasma ( DCP ) which is an electrical
+discharge maintained by a core consisting of a continuous <mention> DC
+</mention> arc and stabilized by flowing gas, was also developed ( Andrew,
+1982 ) .
+
+<ICE-IND:W2A-038#83:1>
+Plasmas provide excellant <mention>
+vaporization-atomization-excitation-ionization </mention> sources
+for analytical atomic emission spectropcopy.
+
+<ICE-IND:W2A-038#84:1>
+Plasma emission spectrometry is rapidly taking the position of atomic
+absorption spectrophotometry.
+
+<ICE-IND:W2A-038#85:1>
+The inter-element interactions are small or insignificant for
+reasonable changes in the concentrations of concomitants under
+experimental conditions.
+
+<ICE-IND:W2A-038#86:1>
+It is possible to establish a single set of calibration curves for
+the detection of analytes in a variety of sample matrices.
+
+<ICE-IND:W2A-038#87:1>
+Spectral interferences are common in these techniques, however,
+these may be reduced by judicious selection of the line to be used.
+
+<ICE-IND:W2A-038#88:1>
+These techniques provide direct analysis of solid, liquid and
+gasseous pollutants with minimal sample preparation ( Walter <it> et al </it> .,
+1980 ) . </p>
+
+<ICE-IND:W2A-038#89:1>
+<h> <bold> Colorimetry </bold> </h>
+
+<p> 
+<ICE-IND:W2A-038#90:1>
+<mention> Colorimetric </mention> methods are very frequently
+used in environmental monitoring and these methods were the only official
+methods of determination three decades ago.
+
+<ICE-IND:W2A-038#91:1>
+These methods are based on the formation of colour complexes with
+the pollutants and then determining the absorbance of the colour which
+ultimately gives the concentration of the pollutante.
+
+<ICE-IND:W2A-038#92:1>
+Methods based on this technique have been described in standard
+methods for the examination of water and wastewater ( APHA, AWWA, WPCF,
+1992 ) .
+
+<ICE-IND:W2A-038#93:1>
+These are universal methods and can be used for inorganic as well as
+organic pollutants.
+
+<ICE-IND:W2A-038#94:1>
+These methods have, however, the problems of non-specificity and
+inferior sensitivity.
+
+<ICE-IND:W2A-038#95:1>
+Colorimetric methods have got several advantages also as they do
+not need sophisticated instruments or high skill and can be performed with
+some specific chemicals and a simple spectrocolorimeter.
+
+<ICE-IND:W2A-038#96:1>
+Extensive literature is available on these techniques and on
+certain occasions when no other methods are available, one has to depend
+on these methods only.
+
+<ICE-IND:W2A-038#97:1>
+The sensitivity may be poor but accuracy and precision are
+superior to other techniques. </p>
+
+<ICE-IND:W2A-038#98:1>
+<h> <bold> Polarography </bold> </h>
+
+<p> 
+<ICE-IND:W2A-038#99:1>
+It is an electroanalytical technique, in which the intensity of
+diffusion current measures the concenetration and half wave potential
+identifies the particular species.
+
+<ICE-IND:W2A-038#100:1>
+This technique, however, has higher detection limit and, therefore,
+it is not used much in environmental monitoring.
+
+<ICE-IND:W2A-038#101:1>
+The advancement in polarography is <quote> ` stripping voltammetry'
+</quote> , which has wide application. </p>
+
+<ICE-IND:W2A-038#102:1>
+<h> <bold> Stripping voltammetry </bold> </h>
+
+<p> 
+<ICE-IND:W2A-038#103:1>
+<mention> Stripping voltammetry </mention> is a 2 stage process.
+
+<ICE-IND:W2A-038#104:1>
+The first stage is a preconcentration process in which the
+analyte present in a liquid is concentrated at an electrode by
+electrolysis.
+
+<ICE-IND:W2A-038#105:1>
+The second stage consists of electrochemical removal of the
+deposited analyte back into solution.
+
+<ICE-IND:W2A-038#106:1>
+The second process is also called <mention> stripping process
+</mention> .
+
+<ICE-IND:W2A-038#107:1>
+The resulting current due to stripping is used to determine the
+concentration of analyte in the solution.
+
+<ICE-IND:W2A-038#108:1>
+The preconcentration step makes <mention> stripping voltammetry
+</mention> a technique capable of determining extremely low concentration
+of the analyte.
+
+<ICE-IND:W2A-038#109:1>
+The stripping current is proportional to the depolarizer
+concentration and is frequently related to the depolarizer half wave
+potential.
+
+<ICE-IND:W2A-038#110:1>
+The technique is useful in determining several species
+simultaneously, differentiating different oxidation states and labile
+and bound forms of metal in natural waters.
+
+<ICE-IND:W2A-038#111:1>
+Depending on the deposition / accumulation and stripping, the
+technique is referred as <mention> anodic or cathodic stripping voltammetry
+</mention> . </p> </I>

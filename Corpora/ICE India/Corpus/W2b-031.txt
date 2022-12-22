@@ -1,0 +1,382 @@
+<I> <&> centered </&>
+
+<ICE-IND:W2B-031#1:1>
+<h> <bold> <ul> SCIENCE & TECHNOLOGY </ul> </bold> </h> <&> spread
+over column 1 & 2 </&>
+
+<ICE-IND:W2B-031#2:1>
+<h> <bold> The many uses of a laser beam </bold> </h> <O> by GIRIJA
+TICKOO </O> <O> photograph </O> <O> caption </O> <&> column one </&>
+
+<p> 
+<ICE-IND:W2B-031#3:1>
+<bold>A</bold>bility to retrieve enormous amounts of information,
+shoot down hostile missiles and aircraft, propel satellites and spaceships,
+cut and heat-treat materials, or kill cancerous cells in the human body with
+pinpoint accuracy, is the magic of laser technology that was once regarded as
+<quote> " an invention in search of an application" </quote> .
+
+<ICE-IND:W2B-031#4:1>
+It has now become an indispensable tool for science, technology,
+medicine and defence. </p>
+
+<p> 
+<ICE-IND:W2B-031#5:1>
+In 1916, Albert Einstein predicted that electrons could be made to
+emit a special kind of light, but it was not until 1960 that Theodore Maiman,
+an engineer at Hughes Research Laboratories in the United States, made this
+vision come true.
+
+<ICE-IND:W2B-031#6:1>
+A flash tube was used to pump energy into a ruby rod to make it emit a
+brilliant beam of red light of a kind never seen before. </p>
+
+<p> 
+<ICE-IND:W2B-031#7:1>
+A conventional light bulb emits light consisting of a number of
+different wavelengths, which stream out randomly.
+
+<ICE-IND:W2B-031#8:1>
+In scientific terms it is incoherent.
+
+<ICE-IND:W2B-031#9:1>
+A laser emits coherent light of one wavelength, with the light waves
+surging out in a tightly ordered array.
+
+<ICE-IND:W2B-031#10:1>
+Laser light can pack immense power and can travel long distances.
+</p>
+
+<p> 
+<ICE-IND:W2B-031#11:1>
+The term <quote> " laser" </quote> is an acronym for light
+amplification by stimulated emission of radiation.
+
+<ICE-IND:W2B-031#12:1>
+The <w> laser's </w> first practical impact was in the realm of
+experimental scientific investigation, where it provided researchers a source
+of light that could not only identify types of atoms and molecules and
+initiate chemical reactions but, in general, probe, measure, and modify the
+fundamental properties of matter.
+
+<ICE-IND:W2B-031#13:1>
+Thereafter, the <w> laser's </w> remarkable properties were put to
+use in industrial applications.
+
+<ICE-IND:W2B-031#14:1>
+The first, and in some sense still the largest, application is
+cutting and heat-treating of materials whether the need is for large cuts
+in armour plate, using an extremely powerful carbon dioxide laser, or the
+precise trim of an expensive piece of synthetic fibre cloth using a small,
+hand-held laser.
+
+<ICE-IND:W2B-031#15:1>
+The cuts are made without damaging any nearby material. </p>
+
+<p> 
+<ICE-IND:W2B-031#16:1>
+What is that makes laser light so exceptional?
+
+<ICE-IND:W2B-031#17:1>
+Although most people believe that laser light is more powerful than
+light from other sources, this is decidedly not the case.
+
+<ICE-IND:W2B-031#18:1>
+With the exception of very specialised industrial or military lasers,
+the total light output power of virtually any laser is less than one-fifth
+that of a 60-watt bulb, and the lasers used in communication, computers, and
+the recording industry all emit less light energy than a small ornamental
+bulb. </p>
+
+<p> 
+<ICE-IND:W2B-031#19:1>
+If it is not total power of emission, what special properties of
+laser light make it different from the light emitted from incandescent or
+fluorescent lights, <w> welders' </w> arcs, the sun, or even from fire?
+
+<ICE-IND:W2B-031#20:1>
+There are a dozen or so highly technical differences, but most
+commercial and industrial applications rely on the four fundamentally unique
+properties of laser light: colour purity ( monochromaticity ) ,
+directionality, tightness of focus, and coherence. </p>
+
+<p> 
+<ICE-IND:W2B-031#21:1>
+<h> <it> Colour purity : </it> </h>
+
+<ICE-IND:W2B-031#22:1>
+White light, for example light from the sun, is really a mixture of
+light of different colours, each with a different wavelength.
+
+<ICE-IND:W2B-031#23:1>
+In the portion of the light spectrum that we can see, the shortest
+wave-lengths appear blue; somewhat longer wavelengths appear green; and
+those longer still yield yellow, orange, red, and deep red.
+
+<ICE-IND:W2B-031#24:1>
+Sir Issac Newton demonstrated over 300 years ago that white light is
+easily broken up into its constituents by passing it through some device that
+bends the light proportional to its wavelength.
+
+<ICE-IND:W2B-031#25:1>
+Mother Nature provides such a device in raindrops; sunlight passing
+through the drops is refracted into colours, yielding spectacular rainbows.
+
+<ICE-IND:W2B-031#26:1>
+Similarly, when light <O> <&> page </&> 36 </O> from a flashlight or
+light bulb passes through a prism, it will split into colours, even if a
+piece of red glass is placed over the light source. </p>
+
+<p> 
+<ICE-IND:W2B-031#27:1>
+In contrast, light from a laser operating in the red spectrum
+would pass through the prism without being split.
+
+<ICE-IND:W2B-031#28:1>
+This is because the range of red colours in the laser is extremely
+narrow; the output is highly colour pure.
+
+<ICE-IND:W2B-031#29:1>
+So even though the total light energy from the flashlight may be
+larger than from the laser, all of the <w> laser's </w> light power goes into
+one extremely pure colour, while the power from the other sources is spread
+over a vast number of colours.
+
+<ICE-IND:W2B-031#30:1>
+Many industrial and research laser applications depend on colour
+purity. </p>
+
+<p> 
+<ICE-IND:W2B-031#31:1>
+<h> <it> Directionality : </it> </h>
+
+<ICE-IND:W2B-031#32:1>
+When light is emitted from a light bulb, it has no preferred
+direction; the radiation goes uniformly in all directions unless something
+special is done to capture and steer it along a specific path.
+
+<ICE-IND:W2B-031#33:1>
+Steering devices such as mirrors and lenses are common and form an
+integral part of many of our everyday light sources.
+
+<ICE-IND:W2B-031#34:1>
+However, if the application calls for a beam of light going in one
+precise direction, with little or no spread in angle, something quite
+different is required. </p>
+
+<p> 
+<ICE-IND:W2B-031#35:1>
+<h> <it> Tightness of focus : </it> </h>
+
+<ICE-IND:W2B-031#36:1>
+When focused down to a small spot by a lens, <w> light's </w> spread
+increases.
+
+<ICE-IND:W2B-031#37:1>
+Since laser light possesses the smallest product of angular spread
+and spot size of all light ( diffraction limited), it will have the least
+possible angular spread when focused to a tiny spot.
+
+<ICE-IND:W2B-031#38:1>
+This property provides the laser with very precise focusing, allowing
+all of the laser power to be concentrated on only one spot on the material.
+
+<ICE-IND:W2B-031#39:1>
+In general, light from visible lasers can be routinely focused to
+spot sizes on the order of .000127 centimetre, far smaller than light from
+any other source. </p>
+
+<p> 
+<ICE-IND:W2B-031#40:1>
+<h> <it> Coherence : </it> </h>
+
+<ICE-IND:W2B-031#41:1>
+Light, regardless of its wavelength or colour, can be usefully
+imagined as a wave travelling through space, or any transparent medium like
+air or glass.
+
+<ICE-IND:W2B-031#42:1>
+This wave has crests and valleys, much like ocean waves; two such
+waves are said to be correlated if their respective crests and valleys bear
+some relationship to each other, either in space of time. </p>
+
+<p> 
+<ICE-IND:W2B-031#43:1>
+When a light source produces radiation that is not correlated in
+space or time, it is said to be <quote> " incoherent" </quote> .
+
+<ICE-IND:W2B-031#44:1>
+The best example of an incoherent radiator is the sun.
+
+<ICE-IND:W2B-031#45:1>
+This is because the light coming from the sun at one instant is
+uncorrelated with the light emitted later, and the light at the top of the
+sun is uncorrelated with the light from the bottom of the sun.
+
+<ICE-IND:W2B-031#46:1>
+In fact, unless great pains are taken, light from virtually all
+non-laser sources is nearly totally incoherent. </p>
+
+<p> 
+<ICE-IND:W2B-031#47:1>
+Laser light, however, can be easily made coherent in space and
+time.
+
+<ICE-IND:W2B-031#48:1>
+This property allows lasers to operate in a special mode in which the
+output is no longer a steady beam of light, but rather a precise string of
+extremely short-duration pulses. </p>
+
+<p> 
+<ICE-IND:W2B-031#49:1>
+Lasers have revolutionised communications, computers, and
+entertainment.
+
+<ICE-IND:W2B-031#50:1>
+The development of solid-state lasers capable of emitting light with
+long wavelengths far into the red end of the spectrum ( so-called infrared )
+has prompted parallel engineering efforts on glass fibre cables for
+transmitting this light. </p>
+
+<p> 
+<ICE-IND:W2B-031#51:1>
+The benefits of <w> laser's </w> ability to retrieve enormous
+amounts of information stored in a tiny silver platter called CD-ROM (
+Compact Disk - - Read Only Memory ) are many.
+
+<ICE-IND:W2B-031#52:1>
+What is more, the laser has the ability to record, with amazing speed
+and flawless accuracy, vast amounts of information onto discs within
+computers, or onto paper.
+
+<ICE-IND:W2B-031#53:1>
+Magazines and newspapers are now printed from computers using laser
+printers.
+
+<ICE-IND:W2B-031#54:1>
+Laser printers use plain paper, eliminating expensive photographic
+paper, processing machines, chemicals, maintenance and labour.
+
+<ICE-IND:W2B-031#55:1>
+They cost less than other technologies. </p>
+
+<p> 
+<ICE-IND:W2B-031#56:1>
+As important as they are, these applications pale in significance
+when compared to <w> laser's </w> potential medical uses.
+
+<ICE-IND:W2B-031#57:1>
+Lasers were first used in eye surgery, the <w> eye's </w>
+transparency making it a logical first subject.
+
+<ICE-IND:W2B-031#58:1>
+Even now, most innovations in the use of lasers occur in
+opthalmology.
+
+<ICE-IND:W2B-031#59:1>
+The blue light from an argon light is being used to seal a hole in
+the retina, to treat glaucoma - - potentially a blinding condition - - by
+cutting a hole to let excess fluid escape and to preserve sight in persons
+with diabetic retinopathy by destroying the abnormal blood vessels caused by
+the disease. </p>
+
+<p> 
+<ICE-IND:W2B-031#60:1>
+The eye laser developed in the US was first used in India where
+millions of people suffer from cataract.
+
+<ICE-IND:W2B-031#61:1>
+The instrument detects whether a <w> patient's </w> retina is
+obstructed by a cataract or is no longer functioning.
+
+<ICE-IND:W2B-031#62:1>
+Lasers also see through cataracts to a determine whether surgery can
+restore a <w> patient's </w> eyesight. </p>
+
+<p> 
+<ICE-IND:W2B-031#63:1>
+Lasers are also being used successfully to remove kidney stones
+from the lower ureter, the tube leading from the kidney to the bladder.
+
+<ICE-IND:W2B-031#64:1>
+Traditionally, this operation involves a large incision in the <w>
+patient's </w> side and hospitalisation of upto two weeks.
+
+<ICE-IND:W2B-031#65:1>
+Now with the use of a laser the stones are literally chipped to
+pieces and patients are benefiting from shorter hospital stays. </p>
+
+<p> 
+<ICE-IND:W2B-031#66:1>
+Similarly, gallstones are exposed to lasers through an optical
+fibre passed through one channel of rigid endoscope.
+
+<ICE-IND:W2B-031#67:1>
+A second channel contains a relay lens system for viewing and a third
+channel transports a saline <O> <&> page </&> 37 </O> <O> continued on page
+40 </O> <O>
+
+<ICE-IND:W2B-031#68:1>
+<h> Science : Lasers </h> </O> <O> continued from page 37 </O>
+solution purge that crushes the stones in the gall-bladder. </p>
+
+<p> 
+<ICE-IND:W2B-031#69:1>
+The high-energy beam of light can be used for cutting, sealing
+and closing blood vessels.
+
+<ICE-IND:W2B-031#70:1>
+Lasers can be used to replace stitches in many kinds of surgery.
+
+<ICE-IND:W2B-031#71:1>
+The beams can fuse the protein of the tissues and, when the wound
+heals, the body can absorb the coagulated tissue replacing a new protein and
+preventing scars on the body. </p>
+
+<p> 
+<ICE-IND:W2B-031#72:1>
+Laser techniques can work much faster than tranditional suturing,
+thereby reducing the risk of infection while healing.
+
+<ICE-IND:W2B-031#73:1>
+It achieves its cutting power by focusing light.
+
+<ICE-IND:W2B-031#74:1>
+A beam of only a new watts can be made to cut an enormous amount by
+focusing on a spot smaller than the diameter of a human hair. </p>
+
+<p> 
+<ICE-IND:W2B-031#75:1>
+Laser technology has not only made surgery a gentler process, it
+also costs less and saves time.
+
+<ICE-IND:W2B-031#76:1>
+It has succeeded in its goal of cutting down hospitalisation and has,
+in fact, entirely taken some procedures out of the hospital.
+
+<ICE-IND:W2B-031#77:1>
+Laser technology lessens the trauma of traditional surgery and is
+good because it is gentle, precise and can work into a deep hole without
+having to disrupt a lot of overlying tissues.
+
+<ICE-IND:W2B-031#78:1>
+Unlike in conventional surgery, the surgeon can sight along the beam
+of light at the target tissue and does not have to struggle to look around
+for the instrument. </p>
+
+<p> 
+<ICE-IND:W2B-031#79:1>
+The laser has also demonstrated itself as an awesomely potent
+weapon of destruction recently during the Gulf War.
+
+<ICE-IND:W2B-031#80:1>
+Missiles were tracked, identified and ultimately destroyed with the
+coherence of laser light.
+
+<ICE-IND:W2B-031#81:1>
+It is the source of a vast number of new technologies as well.
+
+<ICE-IND:W2B-031#82:1>
+This technology has been thoroughly integrated into everyday life and
+it has developed into a tool so ubiquitous it would be hard to imagine life
+in the high-tech world without it. </p> <*> filled square </*> </I>

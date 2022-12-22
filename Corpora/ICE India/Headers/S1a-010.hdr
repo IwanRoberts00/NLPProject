@@ -1,0 +1,72 @@
+<text.info>
+      <file.description>
+            <textcode>ICE-IND-S1A-010</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2055</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+      </file.description>
+      <subtext.source=S1A-010>
+      <source.type=Dialogue:private:direct conversation>
+      <recording.data>
+            <date>21-06-91</date>
+            <time>9.30pm</time>
+            <place>CIEFL contact programme, Patna</place>
+      </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+      </source.type>
+      </subtext.source>
+      <subtext.internals=<it>ICE-IND-S1A-010</it>>
+      <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+      </subtext.internals>
+      <biography=<it>ICE-IND-S1A-010</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Banerjee</surname>
+            <forenames>Mamta</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Bhubaneshwar, Orissa</birthplace>
+            <education>Utkal University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations>CBSE, New Delhi</affiliations>
+            <mother.tongue>Bengali</mother.tongue>
+            <other.languages>Oriya, Assamese,
+                 Hindi</other.languages>
+            <free.comments></free.comments>
+      </biography>
+      <biography=<it>ICE-IND-S1A-010</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Bhattacharya</surname>
+            <forenames>Sheila</forenames>
+            <age>34-41</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Mussorie, Uttaranchal</birthplace>
+            <education>Delhi University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations>English Studies Association, Burdwan
+                 University, West Bengal</affiliations>
+            <mother.tongue>Bengali</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Jharipari (1956-61), Delhi
+                 (67-70)</free.comments>
+      </biography>
+</text.info>

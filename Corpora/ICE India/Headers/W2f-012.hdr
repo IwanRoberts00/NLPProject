@@ -1,0 +1,54 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-012</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:novel</caregory>
+            <wordcount2399</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2F-012>
+       <source.type=monograph>
+            <source.title>In The Aftermath</source.title>
+            <source.subtitle></source.subtitle>
+       <publication.statement>
+            <publisher>Penguin Books India Pvt
+              Limited</publisher>
+            <address>11, Community Centre, Panchsheel Park,
+              New Delhi 110 017</address>
+            <place>New Delhi</place>
+            <date>1992</date>
+            <ISBN>0-14-010800-9</ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by the permission of the
+            author Meena Arora Nayak</copyright.statement>
+            <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-012>
+            <subtext.name>ICE-IND-Nayak</subtext.name>
+            <main.title>In The Aftermath</main.title>
+            <subtitle>A Novel</subtitle>
+            <page.nos>1-7</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-012>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Nayak</surname>
+            <forenames>Meena Arora</forenames>  
+            <age>30</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Shimla, Himachal Pradesh</birthplace>
+            <education>Punjab University, The American
+              University, Washington, DC</education>
+            <educational.level>MA, MFA</educational.level>
+            <occupation>Writer, English Instructor</occupation>
+            <affiliations>The Association to Reclaim the
+              Treasures of South Asia</affiliations>
+            <mother.tongue>Punjabi</mother.tongue>
+            <other.languages>Hindi, Bengali</other.languages>
+            <free.comments>Moved to USA in 1984<free.comments>
+       </biography>
+</text.info>

@@ -1,0 +1,50 @@
+<text.info>
+       <file.description>
+                 <textcode>ICE-IND-W1A-010</textcode>
+                 <number.of.subtexts></number.of.subtexts>
+                 <category>non-printed:non-professional
+                   writing:student untimed essays</category>
+                 <wordcount></wordcount>
+                 <version>lexical</version>
+                 <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1A-010>
+           <source.type=student essay>
+                <main.title>Concept & Strategy of Rural
+                  Development in India</main.title>
+                <course>Refresher Course(U.G.C.)</course>
+                <subject>Agro-Economics</subject>
+                <institution></institution>
+                <year>1995</year>
+                <date>15-02-95</date>
+           <copyright.statement>reproduced by permission of
+                respective student</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-010</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-010</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Bhosale</surname>
+                <forenames>Tanaji M.</forenames>
+                <age>42</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Daflapur, Sangli,
+                  Maharashtra</birthplace>
+                <education>Shivaji University</education>
+                <educational.level>M.A.Ph.D.</educational.level>
+                <occupation>College Teacher</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments>Moved to Ranjani (1972-75), Jat
+                  (1975-77), Sangli (1977-80)</free.comments>
+       </biography>
+</text.info>

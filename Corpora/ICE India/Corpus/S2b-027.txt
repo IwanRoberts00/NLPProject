@@ -1,0 +1,426 @@
+<I> 
+ 
+<$A>
+
+<ICE-IND:S2B-027#1:1:A>
+Photogrammetry <,,> means <,,> making measurements on  
+photographs <,,> 
+
+<ICE-IND:S2B-027#2:1:A>
+When direct measurements are not possible <,,> as in the case of  
+<,,> very intricate objects <,> or moving objects <,,> we make <,,>  
+photograph and from that photograph <,> we make measurements <,,> 
+
+<ICE-IND:S2B-027#3:1:A>
+Usually <,> we take photograph from the air <,,> to make map of the  
+topography <,,> 
+
+<ICE-IND:S2B-027#4:1:A>
+In this case <,,> the <,> branch is known as aerial photogrammetry  
+<,,> 
+
+<ICE-IND:S2B-027#5:1:A>
+If the photographs are taken from the ground <,> then the objects  
+are surfaces <,,> are at a distance less than three hundred metres <,,> we  
+call <,> the branch as close range photogrammetry 
+
+<ICE-IND:S2B-027#6:1:A>
+Where do we make use of <,> close range photogrammetry in <,,> ? 
+
+<ICE-IND:S2B-027#7:1:A>
+There are <,> a number of applications <,,> 
+
+<ICE-IND:S2B-027#8:1:A>
+We can broadly divide these applications <,> into two parts <,,> 
+
+<ICE-IND:S2B-027#9:1:A>
+The first part <,> the objects will be static <,,> 
+
+<ICE-IND:S2B-027#10:1:A>
+For example <,,> historic monuments <,,> temple <O> one word </O>  
+<,,> a train accident <,,> 
+
+<ICE-IND:S2B-027#11:1:A>
+In all these cases <,,> the objects <,> on the surfaces are not  
+moving <,> they are all static <,,> 
+
+<ICE-IND:S2B-027#12:1:A>
+In the other case <,> the object will be moving <,,> or the surface  
+will be dynamic <,,> 
+
+<ICE-IND:S2B-027#13:1:A>
+To cite some specific example <,,> we can take the case of <,> a  
+wave form <,,> 
+
+<ICE-IND:S2B-027#14:1:A>
+When the waves are moving <,,> if you want to make measurement  
+about the characterstics of the wave <,> it is not possible to record the  
+measurement <,> directly <,,> 
+
+<ICE-IND:S2B-027#15:1:A>
+We take the photograph of this wave <,> which are dynamic <,> and  
+later on we analyse the photograph <,> to derive that information we desire  
+<,,> 
+
+<ICE-IND:S2B-027#16:1:A>
+To cite another example <,,> we can consider <,> a <,> running  
+athlete <,,> 
+
+<ICE-IND:S2B-027#17:1:A>
+If you want to analyse the movement of the athlete <,> it is  
+difficult to make the measurement directly <,,> 
+
+<ICE-IND:S2B-027#18:1:A>
+We make use of close range photograph <,> to record the movement of  
+the athlete at various instance of time <,> and later on from the photograph  
+<,> we can analyse the movement of <,> the particular sportsmen <,> to find  
+out their deficiencies <,,> 
+
+<ICE-IND:S2B-027#19:1:A>
+There are a number of applications of <,> close range  
+photogrammetry in the medical field <,,> 
+
+<ICE-IND:S2B-027#20:1:A>
+One such application is plastic surgery <,,> 
+
+<ICE-IND:S2B-027#21:1:A>
+For example <,,> if we want to make <,> some alteration in any part  
+of the human body <,,> we should know the present position of the particular  
+part <,,> 
+
+<ICE-IND:S2B-027#22:1:A>
+We take <,> photograph of that particular part <,> by making use of  
+<,> a special camera <,,> 
+
+<ICE-IND:S2B-027#23:1:A>
+The doctor can then simulate <,> by making use of <,> computer <,,>  
+how the particular part would look like <,> after the surgery is made <,,> 
+
+<ICE-IND:S2B-027#24:1:A>
+The surgeon may decide <,,> how much of tissue should be taken <,,>  
+from another part of the body <,,> where the tissue should be placed <,> and  
+how it should be placed <,,> all these required measurement <,> can be  
+analysed <,> by means of <,> the photographs taken <,> of the particular  
+patient <,,> 
+
+<ICE-IND:S2B-027#25:1:A>
+Another interesting application <,,> is in recording <,,> crime  
+scene <,,> and traffic accidents <,,> 
+
+<ICE-IND:S2B-027#26:1:A>
+Imagine <,,> the nature of the traffic <,> in a very busy highway  
+<,,> when a traffic accident takes place <,,> 
+
+<ICE-IND:S2B-027#27:1:A>
+Immediately <,,> the vehicles <,> pile up one after another <,> for  
+kilometres together <,,> if it is a very busy highway <,,> 
+
+<ICE-IND:S2B-027#28:1:A>
+We will normally wait <,,> till the police people come <,> to make  
+the necessary measurement <,> and <,,> the signal from the police people <,,>  
+to <,> clear the traffic <,,> it takes about <,> half an hour or so <,> to  
+record all the measurements <,,> the police people need <,,> to present the  
+case before the magistrate <,,> 
+
+<ICE-IND:S2B-027#29:1:A>
+Consider the <,> delay in the movement of the traffic <,> in this  
+case <,> to all the people who are waiting in their vehicles <,> to clear the  
+traffic <,,> 
+
+<ICE-IND:S2B-027#30:1:A>
+If you have here close range photogrammetry camera <,> we can rush  
+the camera to the traffic accident site <,> record the scene by means of a  
+few photographs <,> taken from two or three vantage position <,,> 
+
+<ICE-IND:S2B-027#31:1:A>
+What all measurements we need <,> about the traffic accident <,> we  
+can later on derive the same <,> by analysing the photograph <,> taken from  
+the close range photogrammetry camera <,,> 
+
+<ICE-IND:S2B-027#32:1:A>
+Another area <,> where close range photogrammetry <,,> would be  
+more useful <,,> is in the recording of <,> structural movement <,> of  
+massive structures <,,> 
+
+<ICE-IND:S2B-027#33:1:A>
+To cite a specific example <,> we can consider <,> a massive dam  
+<,,> 
+
+<ICE-IND:S2B-027#34:1:A>
+If we would like to know <,,> how much the dam is <O> one word </O>  
+<,> over a period of time <,> or how much the dam is getting deflected over a  
+period of time <,> we can make use of this technique <,,> 
+
+<ICE-IND:S2B-027#35:1:A>
+We will make <,> special <,,> target <,> on the surface of the dam  
+<,> at various points <,,> 
+
+<ICE-IND:S2B-027#36:1:A>
+We can record the dam site alongwith the target mark <,> making use  
+of the photogrammetry camera <,> over a period of time <,,> 
+
+<ICE-IND:S2B-027#37:1:A>
+Normally <,> we may take pictures <,> at intervals of about a month  
+<,,> 
+
+<ICE-IND:S2B-027#38:1:A>
+If we analyse the photograph of the dam <,,> taken periodically  
+<,,> making use of special plotting machines <,> we will come to know <,,>  
+how much that targets are getting moved <,> either in the vertical direction  
+<,> or in the lateral direction <,> or in any direction of deformation <,,> 
+
+<ICE-IND:S2B-027#39:1:A>
+Because we will be taking measurement to a very high order of  
+accuracy <,> to about one by thousand of a milimetre <,> we will be knowing  
+how much the structure is getting deflected <,> over a period of time <,>  
+very very accurately <,,> 
+
+<ICE-IND:S2B-027#40:1:A>
+Same is the case when we want to record <,> structural failure <,,> 
+
+<ICE-IND:S2B-027#41:1:A>
+For example <,> if a beam is loaded <,> by external load <,>  
+gradually the beam will be deforming <,> until the beam fails <,,> 
+
+<ICE-IND:S2B-027#42:1:A>
+If a structural engineer would like to <,> record the behaviour of  
+the structure <,> due to various types of loading <,> he can make use of the  
+close range photogrammetry camera <,> to record <,> how the structure is  
+getting deformed <,> instant after instant <,,> 
+
+<ICE-IND:S2B-027#43:1:A>
+After the recording is done <,> he can analyse the photograph <,>  
+in the special photogrammetry plotting machine <,> to find out their nature  
+of deformation <,> and the extent of deformation <,> very very accurately  
+<,,> 
+
+<ICE-IND:S2B-027#44:1:A>
+Another field of application is <,> the field of anthropology <,,> 
+
+<ICE-IND:S2B-027#45:1:A>
+The anthropologists <,> are interested in classifying the <,> skull  
+<,> to find out <,> to which race a particular skull belongs <,,> 
+
+<ICE-IND:S2B-027#46:1:A>
+The anthropologist will be <,> recording the important dimensions  
+of various skulls <,> belonging to different races <,> 
+
+<ICE-IND:S2B-027#47:1:A>
+There will be some characteristic measurements <,> for a particular  
+skull <,> 
+
+<ICE-IND:S2B-027#48:1:A>
+If a skull is to be analysed we can take photograph of the skull  
+<,> find out the characteristic of the important measurements <,> and from  
+the measurements we can find out <,> whether the skull belongs <,> to a  
+Chinese <,> or a Nepali <,> or an Asian race <,,> 
+
+<ICE-IND:S2B-027#49:1:A>
+We need a number of <,> equipment to produce map <,> making use of  
+the close range photogrammetry technique <,,> 
+
+<ICE-IND:S2B-027#50:1:A>
+The first equipment needed <,> is an electronic distance measuring  
+equipment <,> 
+
+<ICE-IND:S2B-027#51:1:A>
+An electronic distance measuring equipment <,> is known as E D M  
+<,,> 
+
+<ICE-IND:S2B-027#52:1:A>
+This is a sophisticated equipment <,> to measure the distances <,>  
+and angles <,,> 
+
+<ICE-IND:S2B-027#53:1:A>
+An <?> infra range </?> beam is generated <,> in the E D M <,> and  
+it travels to the point <,> to which you want to make measurement <,> and it  
+gets reflected <,> back to the equipment <,,> 
+
+<ICE-IND:S2B-027#54:1:A>
+By analysing the face shift we can find out the distance between  
+any two points <,> to a high order of accuracy <,,> usually fractions of a  
+milimetre <,,> 
+
+<ICE-IND:S2B-027#55:1:A>
+In the case of <,> close range photogrammetry <,> we establish a  
+few control points <,> as target in the field of view of the photograph <,,> 
+
+<ICE-IND:S2B-027#56:1:A>
+The E D M is made use of in the field <,> to record <,> the  
+rectangular coordinate of the various control points <,,> 
+
+<ICE-IND:S2B-027#57:1:A>
+By analysing their distances and angles <,> we will come to know  
+<,> that X <,> Y and either coordinate <,> of the control point situated in  
+the field of view <,> 
+
+<ICE-IND:S2B-027#58:1:A>
+When we analyse this photograph in the plotting machine <,> the  
+control points are very essential <,,> 
+
+<ICE-IND:S2B-027#59:1:A>
+The coordinate of the control points <,> which were obtained from  
+the E D M <,> are fit into the plotting machine <,,> 
+
+<ICE-IND:S2B-027#60:1:A>
+The second equipment needed for <,> the close range photogrammetry  
+<,> is a special stereometric camera <,,> 
+
+<ICE-IND:S2B-027#61:1:A>
+This camera <,,> essentially consists of <,> two independent <,>  
+highly accurate camera <,,> separated by a known distance of <,> hundred and  
+twenty centimetres <,,> 
+
+<ICE-IND:S2B-027#62:1:A>
+The lenses are having a focal length of sixty milimetres <,,> 
+
+<ICE-IND:S2B-027#63:1:A>
+A speciality of these two cameras is <,> that the lenses have been  
+so refined <,> that practically no lense distortion occurs <,> in the  
+pictures taken from this camera <,,> 
+
+<ICE-IND:S2B-027#64:1:A>
+Since we will be making measurement on the photograph <,> to a very  
+high order of accuracy <,> we have to have the images of the objects <,>  
+positioned in the geometrically correct location <,,> 
+
+<ICE-IND:S2B-027#65:1:A>
+If there is need of <,> specially refined lenses <,> required for  
+this stereometric camera <,,> we we should have two cameras instead of one in  
+the case of close range photogrammetry <,,> 
+
+<ICE-IND:S2B-027#66:1:A>
+If we take twin pictures simultaneously <,> we will be able to see  
+their actual field in three dimensions <,,> in the plotting machine which we  
+will be using later <,,> 
+
+<ICE-IND:S2B-027#67:1:A>
+Because the two photographs are taken simultaneously <,> we are  
+freezing the movement of the objects <,> as well as <,> we are able to get a  
+three dimensional <,> true to scale model in the photogrammetric plotting  
+machine <,,> 
+
+<ICE-IND:S2B-027#68:1:A>
+This machine is so constructed <,> to have simultaneous pictures  
+<,,> 
+
+<ICE-IND:S2B-027#69:1:A>
+If we operate a single button <,,> both the pictures are taken  
+simultaneously <,,> 
+
+<ICE-IND:S2B-027#70:1:A>
+Because we will be taking measurement very very accurately <,> this  
+camera takes only glass plates <,,> 
+
+<ICE-IND:S2B-027#71:1:A>
+The glass plates are sensitized with the photogrammetric emulsion  
+<,> 
+
+<ICE-IND:S2B-027#72:1:A>
+The emulsion are sensitive to the light <,> and <,> the processing  
+which takes place after the exposure is made <,> 
+
+<ICE-IND:S2B-027#73:1:A>
+During the development stage <,> during the drive stage <,> no  
+distortion of the pictures occurs <,,> 
+
+<ICE-IND:S2B-027#74:1:A>
+Thats why we are making use of glass plates <,> to arrest all  
+distortions of the negative <,> 
+
+<ICE-IND:S2B-027#75:1:A>
+Another special feature of this camera <,> is the various  
+possibility of <,> orientation of the camera <,,> 
+
+<ICE-IND:S2B-027#76:1:A>
+If we need <,,> the shaft of the camera containing <,> both the  
+cameras can be rotated <,> in the longitudinal axis <,,> or <,> the camera  
+can be brought one over the other <,,> 
+
+<ICE-IND:S2B-027#77:1:A>
+The camera can also be swivelled about the vertical axis <,,> 
+
+<ICE-IND:S2B-027#78:1:A>
+Why should we need all these types of movement <,,> ? 
+
+<ICE-IND:S2B-027#79:1:A>
+We may need to take photograph from the high point such as <,> the  
+top of a mountain <,> but the object may be far below <,,> 
+
+<ICE-IND:S2B-027#80:1:A>
+Once the photographic processing <,> is over <,> the original glass  
+plates containing the emulsion <,> are converted into the dipositives <,,> 
+
+<ICE-IND:S2B-027#81:1:A>
+In the plotting machine <,> we keep the <?> dipositives </?> <,,>  
+one on the left side and one on the right side <,,> 
+
+<ICE-IND:S2B-027#82:1:A>
+We measure the coordinate of a particular point <,,> in the machine  
+<,> through the binocular <,,> kept in front of the observer <,,> 
+
+<ICE-IND:S2B-027#83:1:A>
+The observer <,> finds a <?> fourteen </?> mark in the field of  
+view <,,> 
+
+<ICE-IND:S2B-027#84:1:A>
+He keeps the <?> fourteen </?> mark <,> over a point of interest  
+<,,> 
+
+<ICE-IND:S2B-027#85:1:A>
+As he <,> measures the coordinate of the point making use of the  
+photogrammetric machine <,> the computer controlled <,,> part takes the X and  
+Y coordinate <,> from the left image and the right image <,> and they are  
+processed through the computer <,> to give the X <,> Y and either coordinates  
+<,> with respect to a given origin <,,> 
+
+<ICE-IND:S2B-027#86:1:A>
+The ground control points which are measured earlier <,> they are  
+also made use of <,> to calculate the actual position of <,> the point  
+measured <,,> 
+
+<ICE-IND:S2B-027#87:1:A>
+The computer <,> after recording all the photographic coordinates  
+<,> converts them into graphic details <,,> 
+
+<ICE-IND:S2B-027#88:1:A>
+The graphic details are then passed on <,> to a special plotting  
+table <,,> 
+
+<ICE-IND:S2B-027#89:1:A>
+In the plotting table <,> the plotting pencil <,> according to the  
+command of the observer <,> converts the details of the scene <,> into a  
+picture <,,> 
+
+<ICE-IND:S2B-027#90:1:A>
+That picture may contain all the details <,> appearing in the field  
+of view <,> in the form of <,> live feature <,,> 
+
+<ICE-IND:S2B-027#91:1:A>
+The operator may choose <,> special symbols <,> and special colours  
+<,> to codify <,> the different types of features <,> appearing in the field  
+of view <,,> 
+
+<ICE-IND:S2B-027#92:1:A>
+A user by studying the map coming out from the <,> plotting table  
+<,> will be able to get all the measurements he needs <,> without any  
+difficulty <,,> 
+
+<ICE-IND:S2B-027#93:1:A>
+If the observer needs only the coordinate and not the map <,> he  
+can take all the required coordinate <,> from the screen of the computer  
+itself <,,> or <,> if the operator would like to keep <,> all the  
+measurements in a magnetic tape <,> or a floppy <,> he can store all the  
+information of the field <,> and <,> keep them in a special plate <,,> 
+
+<ICE-IND:S2B-027#94:1:A>
+If you would like to record the changes in a particular field over  
+a period of time <,> the same type of measurement can be repeated <,> and  
+from the repeated measurement it is possible to find out <,> the changes  
+which have occured in a particular <,> field <,> or a particular object <,,> 
+
+<ICE-IND:S2B-027#95:1:A>
+Concluding I would like to <,> remark <,> that whenever you have a  
+situation <,> where <,> the direct measurements are not at all possible <,>  
+the stereophotogrammetric technique <,> will be coming handy to you <,,> </I> 
+

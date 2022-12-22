@@ -1,0 +1,49 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-054</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:
+                   demonstrations</category>
+              <wordcount>1820</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-054>
+       <recording.data>
+              <date>25-11-92</date>
+              <time>3.30pm</time>
+              <place>Residence of Mrs. Uberoi, Kolhapur</place>
+       </recording.data>
+              <organising.body>Friends</organising.body>
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-054</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size>3</audience.size>
+              <free.comments>Live Demonstration</free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-054</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Uberoi</surname>
+              <forenames>Yashodhara</forenames>
+              <age>42-49</age>
+              <gender>female</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Bombay</birthplace>
+              <education>Post Graduate</education>
+              <occupation>Lecturer</occupation>
+              <affiliations>IACIS, IAAS, SUETA</affiliations>
+              <mother.tongue>Punjabi</mother.tongue>
+              <other.languages>Hindi, Marathi</other.languages>
+              <free.comments>Moved to Kolhapur (1969 to
+                   date)</free.comments>
+       </biography>
+</text.info>

@@ -1,0 +1,75 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-078</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:business
+                 transactions</category>
+            <wordcount>2366</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-078>
+     <source.type=Dialogue:public:business transactions>
+     <recording.data>
+            <date>25-09-94</date>
+            <time>10am</time>
+            <place>Manjunath Vidyalaya, Dombivali(Bombay)</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-078</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments>Minutes of the Annual General Body
+                 Meeting</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-078</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Koparde</surname>
+            <forenames>Govindrao</forenames>
+            <age>47</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Banhatti, Bagalkot,
+                 Karnataka</birthplace>
+            <education>Bombay University, M.R.M College
+                 Gulbarga</education>
+            <educational.level>MBBS</educational.level>
+            <occupation>General Practitioner</occupation>
+            <affiliations>Karnataka Sangha,
+                 Dombivali(Bombay)</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-078</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kalkoti</surname>
+            <forenames>Vasant</forenames>
+            <age>42-49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Hubli, Karnataka</birthplace>
+            <education>Bombay University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Deputy Registrar of Bombay
+                 University</occupation>
+            <affiliations>Karnataka Sangha,
+                 Dombivali(Bombay)</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Belgaum (1955-58), Bombay
+                 (1958 to date)</free.comments>
+     </biography>
+</text.info>

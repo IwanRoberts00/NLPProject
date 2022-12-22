@@ -1,0 +1,79 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-091</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:distance
+                 conversation</category>
+            <wordcount>2175</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-091>
+     <source.type=Dialogue:private:distance conversation>
+     <recording.data>
+            <date>23-06-92</date>
+            <time>6.30pm</time>
+            <place>Jhunjhunwalla College Principal's Staff
+                 Quarter, Bombay</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of
+             respective speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-091</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-091</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Shastri</surname>
+            <forenames>Sudhama</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Mysore, Karnataka</birthplace>
+            <education>Bombay University, Lancaster University
+                 (UK)</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Teacher &
+                 Researcher</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi,
+                 Tamil</other.languages>
+            <free.comments>Moved to several places mainly in
+            UP (1934-47), Bombay (1947-74), Kolhapur (1974-
+            96), Lancaster (1977-78), Pune (1996-97), Kolhapur
+            (1997 to date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-091</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Hebsur</surname>
+            <forenames>Rajalakshmi</forenames>
+            <age>50+</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>C.N.Puram, Palghat, Kerala</birthplace>
+            <education>University of Poona, University of
+                 Bombay</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>College Teacher</occupation>
+            <affiliations>Indian Association of English Studies,
+                 British Association Returned Study
+                 Scholars</affiliations>
+            <mother.tongue>Tamil</mother.tongue>
+            <other.languages>Malayalam, Hindi, Kannada,
+                 Marathi</other.languages>
+            <free.comments>UK (1973-74), Bahrain (1995 to
+                 date)</free.comments>
+     </biography>
+</text.info>

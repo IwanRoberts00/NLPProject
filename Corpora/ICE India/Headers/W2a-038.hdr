@@ -1,0 +1,71 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-038</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              technology</category>
+            <wordcount>2062</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-038>
+        <source.type=periodical>
+            <source.title>Indian Journal of Environmental
+              Protection</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol.14,no.8</series>
+        <publication.statement>
+            <publisher>Kalpana Corporation</publisher>
+            <address>Post Box No. 5, Varanasi-221010</address>
+            <place>Varanasi</place>
+            <date>August 1994</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-038</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Methodologies for Environmental
+              Monitoring</main.title>
+            <subtitle></subtitle>
+            <page.nos>608-610</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-038</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname></surname>
+                <forenames>S. Hasan</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-038</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Mathur</surname>
+                <forenames>P.K.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

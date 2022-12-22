@@ -1,0 +1,87 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-033</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2237</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-033>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>23-06-93</date>
+            <time>10.30pm</time>
+            <place>Mysore: CIEFL contact programme</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-033</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>3</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-033</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Mohammed</surname>
+            <forenames>Y. Sayed</forenames>
+            <age>34-41</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>teaching</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Tamil</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-033</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>N</surname>
+            <forenames>V. Raveendran</forenames>
+            <age>34-41</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Veenachil(Kottayam), Kerala</birthplace>
+            <education>Poona University, CIEFL
+                 Hyderabad</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations>AKPCTA</affiliations>
+            <mother.tongue>Malayalam</mother.tongue>
+            <other.languages>Tamil, Hindi</other.languages>
+            <free.comments>Poona (1978-80), Hyderabad (1984-
+                 87)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-033</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Walwadkar</surname>
+            <forenames>R.B</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

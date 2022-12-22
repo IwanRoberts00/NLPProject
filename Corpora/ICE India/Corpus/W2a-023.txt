@@ -1,0 +1,489 @@
+<I> <O> Indian Journal of Genetics & Plant breeding natural sciences. Indian
+J. Genet., 53(2): 138-146 ( 1993) </O>
+
+<ICE-IND:W2A-023#1:1>
+<bold> <h> HETEROSIS, INBREEDING DEPRESSION AND COMBINING ABILITY IN
+SORGHUM ( SORGHUM BICOLOR ( L. ) MOENCH ) </bold> </h> <&> author centered
+</&>
+
+<ICE-IND:W2A-023#2:1>
+J. N. REDDY <fnr> <sp> * </sp> </fnr> AND P. JOSHI <O>
+
+<ICE-IND:W2A-023#3:1>
+Department of Genetics and Plant Breeding, Rajasthan College of
+Agriculture <&> centered </&> Udaipur 313001 </O> <&> centered </&> <O> (
+Received: May 5, 1990; accepted: August 14, 1992 ) </O> <&> centered </&>
+
+<ICE-IND:W2A-023#4:1>
+ABSTRACT <&> second margin begin </&>
+
+<p> 
+<ICE-IND:W2A-023#5:1>
+Heterosis, inbreeding depression and combining ability were
+studied in a 6 x 6 diallel ( excluding reciprocals ) from F<sb>1</sb> to
+F<sb>4</sb> generations for grain yield and its five components in sorghum (
+<it> sorghum</it> bicolor ( L. ) Moench ) .
+
+<ICE-IND:W2A-023#6:1>
+Among the different characters studied, highest heterosis in
+F<sb>1</sb> over better parent ( 87. 5% ) was recorded for grain yield /
+plant followed by number of grains / panicle ( 50.1 % ) and number of
+primaries / panicle ( 40.5 % ) .
+
+<ICE-IND:W2A-023#7:1>
+All the hybrids which showed higher estimates of heterosis in
+F<sb>1</sb> in general also exhibited high inbreeding depression in
+F<sb>2</sb> and other segregating generations studied.
+
+<ICE-IND:W2A-023#8:1>
+The general ( gca ) as well as specific combining ability ( sca )
+variances were found significant in all the four ( F<sb>1</sb>-F<sb>4</sb>)
+generations for grain yield and its components studied except for number of
+primaries / panicle in F<sb>3</sb> and F<sb>4</sb> and for number of
+whorls/panicle in F<sb>2</sb> and F<sb>3</sb> generations.
+
+<ICE-IND:W2A-023#9:1>
+The magnitude of sca variance declined in F<sb>2</sb> and latter
+generations.
+
+<ICE-IND:W2A-023#10:1>
+The predictability ratio showed preponderance of nonadditive genetic
+variance for grain yield and additive genetic variance for 1000-grain weight
+in sorghum.
+
+<ICE-IND:W2A-023#11:1>
+The study of F<sb>1</sb> and F<sb>2</sb> would be sufficient to
+assess repeatability of gca effects in advance generations.
+
+<ICE-IND:W2A-023#12:1>
+Four cross combinations, viz SPV 451 x SPV 474, SPV 474 x IS 508, CSV
+10 x SPV 451 and CSV 10 x SPV 474 were identified as promising, which can be
+exploited to improve grain yield in sorghum. </p>
+
+<p> 
+<ICE-IND:W2A-023#13:1>
+<h> Key words : </h> <it> <mention> Sorghum bicolor </mention>
+</it> , <mention> heterosis </mention> , <mention> inbreeding depression
+</mention> , <mention> combining ability </mention> . </p> <&> second margin
+end </&>
+
+<p> 
+<ICE-IND:W2A-023#14:1>
+Most of the studies on heterosis [ 1, 2 ] , inbreeding depression
+[ 3 ] and combining ability analysis [ 4, 5 ] in sorghum are based on
+F<sb>1</sb> and/or F<sb>2</sb> materials.
+
+<ICE-IND:W2A-023#15:1>
+Few studies have been done simultaneously on F<sb>1</sb> and
+F<sb>2</sb> generations [ 6, 7 ] highlighting the importance of obtaining
+combining ability estimates over generations.
+
+<ICE-IND:W2A-023#16:1>
+There is only one report on sorghum, where F<sb>1</sb>, F<sb>2</sb>
+and F<sb>3</sb> in a 10 x 10 diallel mating system were studied
+simultaneously [ 8].
+
+<ICE-IND:W2A-023#17:1>
+Studies on other autogamous crops have provided conflicting evidence
+on repeatability of combining ability estimates over generations.
+
+<ICE-IND:W2A-023#18:1>
+The present investigation has been, therefore, undertaken to study
+heterosis in F<sb>1</sb> over the better parent ( BP ) , inbreeding depressin
+over three ( F<sb>2</sb>,F<sb>3</sb> <O> <*> line from left to right</*>
+
+<ICE-IND:W2A-023#19:1>
+<footnote> * Present address: Central Rice Research Institute,
+Cuttack 753006. </footnote> </O> <O> <&> page </&> 139 </O> and F<sb>4</sb>)
+segregating generations and to estimate general and specific combining
+ability ( gca, sca ) from F<sb>1</sb> to F<sb>4</sb> generations for grain
+yield and its component characters in sorghum. </p> <&> centered </&>
+
+<ICE-IND:W2A-023#20:1>
+<h> MATERIALS AND METHODS </h>
+
+<p> 
+<ICE-IND:W2A-023#21:1>
+The parental material involved five exotic x Indian derivatives (
+SU 104, CSV 10, CSV 11, SPV 451 and SPV 474 ) and a collection from World
+Germplasm ( IS 508 ) , Diallel crosses ( excluding reciprocals ) were
+effected with these six varieties.
+
+<ICE-IND:W2A-023#22:1>
+The parents and F<sb>1</sb>-F<sb>4</sb> generations of the crosses
+were sown in a randomized block design with three replications at the
+research farm of the Rajasthan College of Agriculture, Udaipur.
+
+<ICE-IND:W2A-023#23:1>
+The plant-to-plant and row-to-row distances were 15 cm and 45 cm,
+respectively.
+
+<ICE-IND:W2A-023#24:1>
+Individual plots of parents and F<sb>1</sb>s consisting of single 3 m
+long row, while F<sb>2</sb>, F<sb>3</sb> and F4 bulks of each cross in 3-row
+plots were planted.
+
+<ICE-IND:W2A-023#25:1>
+Data on ten random plants in parents and F<sb>1</sb>s, and 30 plants
+in F<sb>2</sb>, F<sb>3</sb> and F<sb>4</sb> bulks were recorded for grain
+yield/plant and its five component characters, viz. 1000-grain weight,
+grains/panicle, primaries/panicle, whorls/panicle, and panicle length.
+
+<ICE-IND:W2A-023#26:1>
+Plot means were used for statistical analysis.
+
+<ICE-IND:W2A-023#27:1>
+Heterosis over better parent ( BP) and inbreeding depression in
+F<sb>2</sb>, F<sb>3</sb> and F<sb>4</sb> generations over their preceding
+generations were calculated.
+
+<ICE-IND:W2A-023#28:1>
+The combining ability effects and variances were estimated separately
+for four ( F<sb>1</sb>-F<sb>4</sb>) generations according to Model 1 and
+Method 2 of Griffing [ 9 ] .
+
+<ICE-IND:W2A-023#29:1>
+The general predictability ratio was calculated as suggested by Baker
+[ 10 ] . </p> <&> centered </&>
+
+<ICE-IND:W2A-023#30:1>
+<h> RESULTS AND DISCUSSION </h>
+
+<ICE-IND:W2A-023#31:1>
+<h> HETEROSIS AND INBREEDING DEPRESSION </h>
+
+<p> 
+<ICE-IND:W2A-023#32:1>
+Among the different characters studied, the extent of positive
+heterosis over the better parent was highest for grain yield / plant.
+
+<ICE-IND:W2A-023#33:1>
+Heterosis for grain yield ranged from 7.7 to 87.5 %, the mean being
+43.9 %.
+
+<ICE-IND:W2A-023#34:1>
+Maximum heterosis was recorded in the cross SPV 451 x SPV 474 ( 87.5
+% ) closely followed by SPV 474 x IS 508 ( 66.2 % ) and CSV 10 x IS 508 (
+64.5 % ) .
+
+<ICE-IND:W2A-023#35:1>
+These hybrids were also superior in per se performance.
+
+<ICE-IND:W2A-023#36:1>
+The findings of the present investigation on the magnitude of
+heterosis for grain yield are consistent with the earlier reports [ 11-13 ]
+in sorghum. </p>
+
+<p> 
+<ICE-IND:W2A-023#37:1>
+Grain yield is the final product, its expression depends on the
+contribution of component characters and the extent of their mutual
+cancellation.
+
+<ICE-IND:W2A-023#38:1>
+The present study revealed that hybrids which exhibited heterosis for
+grain yield were not heterotic for all the characters studied.
+
+<ICE-IND:W2A-023#39:1>
+Among the direct components, number of grains / panicle was
+important.
+
+<ICE-IND:W2A-023#40:1>
+The range of heterosis for this trait was from - 5.7 to 50.1 %, the
+mean being 25.8 %.
+
+<ICE-IND:W2A-023#41:1>
+Second, twelve of the thirteen heterotic hybrids for grain yield also
+depicted heterosis for this trait.
+
+<ICE-IND:W2A-023#42:1>
+Nandanwankar et al. [ 2] and Vashi et al. [ 14 ] also reported that
+number of grains / panicle was the major contributor to heterosis for grain
+yield in sorghum.
+
+<ICE-IND:W2A-023#43:1>
+Among <O> <&> page </&> 140 </O> the remaining components,
+primaries/panicle exhibited maximum heterosis ( 40.5 % ) , followed by whorls
+/ panicle ( 30.4 % ) , panicle length ( 25.4 % ) and 1000-grain weight ( 18.6
+% ) .
+
+<ICE-IND:W2A-023#44:1>
+Patel et al. [ 1 ] also observed significant heterosis for these
+attributes in sorghum. </p>
+
+<p> 
+<ICE-IND:W2A-023#45:1>
+One of the characteristics of heterosis is that the increased
+vigour is confined to F<sb>1</sb> generation.
+
+<ICE-IND:W2A-023#46:1>
+There is a considerable depression from F<sb>1</sb> to F<sb>2</sb>
+and later generations.
+
+<ICE-IND:W2A-023#47:1>
+It may be seen from the present results that hybrid combinations
+which showed higher estimates of heterosis, in general, also exhibited high
+inbreeding depression in one or other segregating generations studied.
+
+<ICE-IND:W2A-023#48:1>
+In the present study, nine out of thirteen heterotic hybrids for
+grain yield exhibited significant inbreeding depression in F<sb>2</sb> as
+well as in F<sb>3</sb> generations.
+
+<ICE-IND:W2A-023#49:1>
+The magnitude of inbreeding depression varied from 3.5 to 36.3 % in
+F<sb>2</sb> and from 12.0 to 28.1 % in F<sb>3</sb> generation.
+
+<ICE-IND:W2A-023#50:1>
+Similar variations in the magnitude of inbreeding depression for
+grain yield of sorghum has also been recorded by Kulkarni et al. [ 3 ] and
+Goyal and Joshi [ 4 ] in F<sb>1</sb> to F<sb>2</sb> and F<sb>3</sb>
+generations. </p>
+
+<p> 
+<ICE-IND:W2A-023#51:1>
+Variations in inbreeding depression in component characters from
+F<sb>1</sb> to F<sb>2</sb> and onwards revealed complexities in the
+inheritance of grain yield in sorghum.
+
+<ICE-IND:W2A-023#52:1>
+Among the different component traits, number of grains / panicle
+showed maximum inbreeding depression in F<sb>2</sb> ( 31.0 % ) as well as in
+F<sb>3</sb> ( 26.1 % ) generation.
+
+<ICE-IND:W2A-023#53:1>
+As regards 1000- grain weight, not only all the heterotic crosses
+showed significant depression, the test weight of the five nonheterotic
+crosses also declined significantly in F<sb>2</sb> or F<sb>3</sb>
+generations.
+
+<ICE-IND:W2A-023#54:1>
+Almost all the heterotic crosses for number of whorls / panicle and
+panicle length depicted significant inbreeding depression in F<sb>2</sb> or
+in one of the later segregating generations. </p>
+
+<ICE-IND:W2A-023#55:1>
+<h> COMBINING ABILITY ANALYSIS </h>
+
+<p> 
+<ICE-IND:W2A-023#56:1>
+The general as well as specific combining ability ( gca, sca )
+variances ( Table 1 ) were significant in all the four (
+F<sb>1</sb>-F<sb>4</sb> ) generations for grain yield and its component
+characters, except for number of primaries / panicle in F<sb>3</sb> and
+F<sb>4</sb> and for number of whorls / panicle in F<sb>2</sb> and F<sb>3</sb>
+generations.
+
+<ICE-IND:W2A-023#57:1>
+In self-fertilizing crops, heterozygosity is expected to decline in
+the advanced generations and ultimately specific combining ability variance
+should be nonsignificant.
+
+<ICE-IND:W2A-023#58:1>
+In the present study, though the magnitude of sca variance declined
+in F<sb>2</sb> and later generations for grain yield as well as other
+attributes, it still remained significant for most of the characters in all
+the generations.
+
+<ICE-IND:W2A-023#59:1>
+Significant contribution of sca variance in advance generations could
+be due to additive x additive interaction component.
+
+<ICE-IND:W2A-023#60:1>
+Another reason could be dissipation of linkages inflating the
+estimates and their likelihood of being in a more balanced phase.
+
+<ICE-IND:W2A-023#61:1>
+Bhullar et al. [ 15] explained significant contribution of sca
+variance in the advanced generations in wheat on the basis of evolutionary
+divergence among the progenies of the same parental arrey, each progeny bulk
+having different interaction system and on the presumption of high additive x
+additive interaction. </p> <O> <&> page </&> 141 </O> <O> Table 1. </O> <O>
+
+<ICE-IND:W2A-023#62:1>
+Analysis of variance ( mean squares) for combining ability in sorghum
+</O> <O> caption </O>
+
+<p> 
+<ICE-IND:W2A-023#63:1>
+The predictability ratio indicated the importance of nonadditive
+genetic variance for grain yield and additive genetic variance for 1000-grain
+weight over generations.
+
+<ICE-IND:W2A-023#64:1>
+However, for the remaining characters preponderance of nonadditive
+genetic variance in F<sb>1</sb> and additive genetic variance in the
+segregating generations was observed.
+
+<ICE-IND:W2A-023#65:1>
+Similar results were reported by Goud et al. [ 16 ] and Singhania [
+17 ] for grain yield and Desai et al. [ 5 ] for 1000-grain weight from
+F<sb>1</sb> material.
+
+<ICE-IND:W2A-023#66:1>
+On the other hand, Niehaus and Pickett [ 6 ] and Govil and Murty [ 7 ]
+from F<sb>1</sb> and F<sb>2</sb> and Govil et al. [ 8 ] from simultaneous
+study of F<sb>1</sb>, F<sb>2</sb> and F<sb>3</sb> generation material
+reported importance of both additive and nonadditive components of genetic
+variance in the inheritance of grain yield. </p>
+
+<p> 
+<ICE-IND:W2A-023#67:1>
+The magnitude and direction of combining ability effects provide
+guidelines for discriminating parents and their utilization.
+
+<ICE-IND:W2A-023#68:1>
+In the present study, significant gca effects have been recorded for
+all the characters studied ( Table 2 ) .
+
+<ICE-IND:W2A-023#69:1>
+However, none of the parents studied was a good combiner for all the
+attributes.
+
+<ICE-IND:W2A-023#70:1>
+In other words, the optimum level of different <O> <&> page </&> 142
+</O> <O> Table 2. </O> <O> caption </O> attributes was not present in any of
+the parents used.
+
+<ICE-IND:W2A-023#71:1>
+The best parent identified was CSV 10, which was a good combiner for
+grain yield and 1000- grain weight.
+
+<ICE-IND:W2A-023#72:1>
+Nandanwankar et al. [ 12 ] also found CSV 10 ( SPV 346 ) as a god
+combiner for grain yield. </p>
+
+<p> 
+<ICE-IND:W2A-023#73:1>
+Another parent, SPV 474, combined well for grain yield, number of
+grains and number of primaries, but it was a poor combiner for 1000-grain
+weight.
+
+<ICE-IND:W2A-023#74:1>
+Among the other parents, IS 508 was a good combiner for 1000-grain
+weight, number of primaries and panicle length, and CSV 11 for number of
+grains, number of whorls and panicle length.
+
+<ICE-IND:W2A-023#75:1>
+While parents, SU 104 and SPV 451 were poor combiners for most of the
+attributes.
+
+<ICE-IND:W2A-023#76:1>
+Looking to generally similar magnitude and direction of gca effects
+over generations, it could be concluded that the estimates from F<sb>1</sb>
+and F<sb>2</sb> generations would be sufficient to assess their repeatability
+in <O> <&> page </&> 143 </O> advance generations, reliability of F<sb>2</sb>
+estimates being marginally better.
+
+<ICE-IND:W2A-023#77:1>
+Similar observations were also made by Bhullar et al. [ 15 ] in
+wheat. </p>
+
+<p> 
+<ICE-IND:W2A-023#78:1>
+The magnitude of sca effects is of vital importance in selecting
+cross combinations with higher probability of generating desired
+transgressive segregates, particularly when the estimates are available over
+generations.
+
+<ICE-IND:W2A-023#79:1>
+The repeatability of sca effects of grain yield over generations was
+much less than for gca effects.
+
+<ICE-IND:W2A-023#80:1>
+This may be due to gradual reduction in the heterotic effects for
+grain yield from F<sb>2</sb> onwards.
+
+<ICE-IND:W2A-023#81:1>
+Out of the nine crosses, which exhibited significant and positive sca
+effects in F<sb>1</sb>, only in three crosses ( SU 104 x CSV 11, SU 104 x SPV
+451 and SPV 451 x SPV 474 ) the effects were found to be significantly
+positive in all the generations studied.
+
+<ICE-IND:W2A-023#82:1>
+The dissipation of sca effects in the other crosses was variable.
+
+<ICE-IND:W2A-023#83:1>
+The inheritance of grain yield thus appears more complex in
+comparison to its direct components.
+
+<ICE-IND:W2A-023#84:1>
+The estimates of gca and sca effects in different crosses over
+generations indicated importance of additive, dominance as well as
+interaction effects in the inheritance of grain yield in sorghum. </p>
+
+<p> 
+<ICE-IND:W2A-023#85:1>
+Out of the eleven crosses with significantly positive sca effects
+for number of grains/panicle in the F<sb>1</sb>, only two crosses ( SU 104 x
+CSV 10 and SU 104 x SPV 451 ) exhibited similar magnitude of sca effects in
+all the segregating generations studied.
+
+<ICE-IND:W2A-023#86:1>
+Interestingly, in a good number of crosses, the sca effects were of
+similar magnitude over generations for test weight.
+
+<ICE-IND:W2A-023#87:1>
+Among the eight crosses, which depicted significant and positive sca
+effects in F<sb>1</sb> set, the crosses SU 104 x CSV 10, SU 104 x CSV 11, CSV
+10 x IS 508, SPV 451 x SPV 474 and SPV 474 x IS 508 exhibited similar values
+over generations and in the cross SPV 451 x IS 508 in all generations except
+in F<sb>1</sb>.
+
+<ICE-IND:W2A-023#88:1>
+Higher values of gca variance in comparison to sca variance and
+similar magnitude to sca effects over generations revealed the important role
+of additive and additive x additive type of interaction in the inheritance of
+test weight.
+
+<ICE-IND:W2A-023#89:1>
+As regards number of primaries/panicle, of the four crosses, viz SU
+104 x IS 508, CSV 10 x SPV 451, CSV 10 x IS 508 and SPV 474 x IS 508 which
+depicted significant and positive sca effects in F<sb>1</sb>, the same
+effects were also present in F<sb>2</sb> set in the first two crosses. </p>
+
+<p> 
+<ICE-IND:W2A-023#90:1>
+The ANOVA for combining ability ( Table 1 ) revealed
+nonsignificant sca variance for number of whorls / panicle in the F<sb>2</sb>
+and F<sb>3</sb> diallel set.
+
+<ICE-IND:W2A-023#91:1>
+Out of the fifteen crosses studied, five crosses depicted significant
+and positive sca effects for number of whorls in F<sb>1</sb> diallel set and
+only one cross ( CSV 10 x CSV 11 ) in F<sb>4</sb> generation.
+
+<ICE-IND:W2A-023#92:1>
+The nonsignificant estimates of sca effects in the segregating
+generations revealed preponderance of additive gene effects in the
+inheritance of this trait.
+
+<ICE-IND:W2A-023#93:1>
+As regards panicle length, out of the six crosses showing positive
+sca effects in F<sb>1</sb>, significant positive sca effects in all other
+generations were recorded in only one cross, CSV 11 x SPV 474.
+
+<ICE-IND:W2A-023#94:1>
+The estimates of sca effects in the segregating generations revealed
+complexities in the inheritance of panicle length.
+
+<ICE-IND:W2A-023#95:1>
+In majority of crosses, for which sca effects were nonsignificant in
+the F<sb>1</sb> diallel set, the effects were significant in the segregating
+generations. </p> <O> <&> page </&> 144 </O> <O> Table 3.
+
+<ICE-IND:W2A-023#96:1>
+Best specific combiners along with gca, per se performance and
+heterobeltiosis in sorghum </O> <O> captions </O>
+
+<p> 
+<ICE-IND:W2A-023#97:1>
+On the basis of present findings ( Table 3 ) , four cross
+combinations, viz. SPV 451 x SPV 474, SPV 474 x IS 508, CSV 10 x SPV 451 and
+CSV 10 x SPV 474, showed high BP heterosis, significant sca effects over
+generations, and also involved parents in the high gca for grain yield and
+some of its components.
+
+<ICE-IND:W2A-023#98:1>
+Such crosses should be exploited to develop strains with good grain
+yield in sorghum. </p> </I>

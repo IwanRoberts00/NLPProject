@@ -1,0 +1,93 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-024</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2137</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-024>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>13-06-93</date>
+            <time>8.30pm</time>
+            <place>Mysore: CIEFL contact programme</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-024</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>3</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-024</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Sairaj</surname>
+            <forenames>P.Vaithilingam</forenames>
+            <age>26-33</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Chennai</birthplace>
+            <education>Madras University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Lecturer</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Telugu</mother.tongue>
+            <other.languages>Tamil</other.languages>
+            <free.comments>Chennai (1985-95), Bombay (1995-97),
+                 Chennai (1997 to date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-024</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>R</surname>
+            <forenames>Meganathan</forenames>
+            <age>26-33</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>K.K.Vanitham(Thiruvar),
+                 Tamilnadu</birthplace>
+            <education>Bharathidasan University, CIEFL
+                 Hyderabad</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teaching & Research</occupation>
+            <affiliations>Association of English Language
+                 Teachers</affiliations>
+            <mother.tongue>Tamil</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Chennai (1991-95), Narora (U.P) (1995-
+                 2000), New Delhi (2000 onwards)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-024</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>David</surname>
+            <forenames>Jeevan</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Vivudhunagar, Tamilnadu</birthplace>
+            <education>Madurai Kamraj University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Tamil</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments>Moved to Peraiyur (1990-2000),
+            Tirumangalam(Madurai) (2000 to date)</free.comments>
+     </biography>
+</text.info>

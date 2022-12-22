@@ -1,0 +1,518 @@
+<I> <&> feature, <mention> ATICLES </mention> </&> <*> line up to right
+margin</*> <&> centered </&>
+
+<ICE-IND:W2A-016#1:1>
+<h> <bold> Public Financial Institutions and Control </bold> </h> <*>
+line from left to right</*> <&> author centered </&>
+
+<ICE-IND:W2A-016#2:1>
+RAHUL CHITNIS, Advocate, Bombay. </O> <&> in two columns </&> <&>
+column one </&>
+
+<p> 
+<ICE-IND:W2A-016#3:1>
+<bold> <smallcaps> IN </smallcaps> </bold> the nineteenth century,
+entrepreneurs owned and managed the business of companies.
+
+<ICE-IND:W2A-016#4:1>
+But, with the growth of modern companies, there has come about a
+separation of ownership and control.
+
+<ICE-IND:W2A-016#5:1>
+There has been a shift of power, from those who own, to those who
+control and manage the modern companies.
+
+<ICE-IND:W2A-016#6:1>
+This divergence of ownership and control has led to a divergence of
+interest.
+
+<ICE-IND:W2A-016#7:1>
+Now-a-days, a shareholder is more interested in the income and capital
+appreciation of his investment, rather than the company as an enterprise.
+<sp> <fnr> 1 </fnr> </sp>
+
+<ICE-IND:W2A-016#8:1>
+These observations have been made in the English context, but are true
+even in the Indian context. </p>
+
+<p> 
+<ICE-IND:W2A-016#9:1>
+The growth of institutional investment is a major factor in this
+process of separation.
+
+<ICE-IND:W2A-016#10:1>
+The financial institutions are not usually skilled in the management
+nor even necessarily interested in the detailed operations of the companies
+in which they have invested.
+
+<ICE-IND:W2A-016#11:1>
+This has, in turn, led to a shift of power, from those who own, to
+those who control the companies.<sp> <fnr> 2 </fnr> </sp> </p>
+
+<p> 
+<ICE-IND:W2A-016#12:1>
+The term <quote> ` financial institutions' </quote> has not been
+defined in the Companies Act, 1956.
+
+<ICE-IND:W2A-016#13:1>
+Here, it may be relevant to look at the definition of financial
+institutions in the United States of America.
+
+<ICE-IND:W2A-016#14:1>
+The Uniform Probate Code, paragraph 6-101(3) defines financial
+institutions as: <quote> " any organisation authorised to do business under
+state or federal laws relating to financial institutions, including, without
+limitation, banks and trust companies, savings banks, building and loan
+associations, savings and loan companies or associations, and credit
+unions.<+>"</+> </quote> <sp> <fnr> 3 </fnr> </sp> </p>
+
+<p> 
+<ICE-IND:W2A-016#15:1>
+The Companies ( Amendment ) Act, 1974 has introduced the concept
+of <quote> ` public financial institutions' </quote> into the Companies Act,
+1956, vide section 4 A.
+
+<ICE-IND:W2A-016#16:1>
+Section 4A ( I ) names the various financial institutions that were
+to be regarded as public financial institutions and section 4A ( 2 ) states
+that the Central Government may notify any other institution to be a public
+financial institution, but such an institution must have been established or
+constituted by or under any Act of Parliament or that not less than 51 per
+cent of the paid-up share capital of such an institution should be held or
+controlled by the Central Government.
+
+<ICE-IND:W2A-016#17:1>
+The Central Government has, from time to time, notified various
+institutions that are public financial institutions. </p>
+
+<ICE-IND:W2A-016#18:1>
+<h> <bold> WHAT IS CONTROL ? </bold> </h>
+
+<p> 
+<ICE-IND:W2A-016#19:1>
+The control of a company is a difficult concept to define as a
+matter of law, but essentially, it denotes the relationship which exists when
+an individual or a group of individuals who are clearly identifiable in some
+respect or respects and who may themselves be incorporated exercise powers of
+direction and dominance over the affairs of a company.
+
+<ICE-IND:W2A-016#20:1>
+It is not easy to locate control in a corporation as there is no set
+rule for determining control.
+
+<ICE-IND:W2A-016#21:1>
+An individual Corporation may be related to other corporations,
+banks, financial institutions, etc. <it> via </it> complex patterns of
+shareholdings, interlocking directorships, etc. and so a case-by-case
+approach is necessary. <sp> <fnr> 4 </fnr> </sp> </p> <*> line through
+column</*>
+
+<p> 
+<ICE-IND:W2A-016#22:1>
+Control is defined in the draft United States Federal Securities
+Code, section 202, as follows: <quote> " control means power, directly or
+indirectly to exercise controlling influence over management or policies of a
+company or the activities of a natural person, either alone or pursuant to an
+arrangement or understanding with one or more other persons whether through
+the ownership of voting securities, through one or more intermediary persons,
+by contract or otherwise." </quote> </p>
+
+<p> 
+<ICE-IND:W2A-016#23:1>
+<mention> Berle and Means </mention> were the first to trace the
+development of the concept of control.
+
+<ICE-IND:W2A-016#24:1>
+In their book <it> <mention> The Modern Corporation </mention> </it>
+and <it> <mention> Private Property, </mention> </it> they identified
+different species of control in the modern company, which were: </p>
+
+<ICE-IND:W2A-016#25:1>
+<h> <bold> 1. Control through complete ownership </bold> </h>
+
+<p> 
+<ICE-IND:W2A-016#26:1>
+This was a straightforward category which resembled the position
+in private companies in which a single individual or small group of
+associates own all or practically all the shares in the company.
+
+<ICE-IND:W2A-016#27:1>
+In such case, the ownership and control are in the same hands. </p>
+
+<ICE-IND:W2A-016#28:1>
+<h> <bold> 2. Majority control </bold> </h>
+
+<p> 
+<ICE-IND:W2A-016#29:1>
+This is the first step in separation oF ownership and control.
+
+<ICE-IND:W2A-016#30:1>
+It consists of ownership of majority of the <w> company's </w> issued
+shares.
+
+<ICE-IND:W2A-016#31:1>
+This brings in virtually all the legal powers of control. </p>
+
+<ICE-IND:W2A-016#32:1>
+<h> <bold> 3. Control through legal devices </bold> </h>
+
+<p> 
+<ICE-IND:W2A-016#33:1>
+This category is more common in the United States than to the
+Common wealth.
+
+<ICE-IND:W2A-016#34:1>
+It was the practice of voting trusts and shareholder agreements and
+pyramiding.
+
+<ICE-IND:W2A-016#35:1>
+Pyramiding involves the owning of stock of one company which in turn,
+holds stock in another. </p>
+
+<ICE-IND:W2A-016#36:1>
+<h> <bold> 4 ( a). Minority control </bold> </h>
+
+<p> 
+<ICE-IND:W2A-016#37:1>
+This category of control exists when individual small groups hold
+sufficient interest to be in a position to dominate a company through share
+interest.
+
+<ICE-IND:W2A-016#38:1>
+The large the company, the easier it is to have minority control, but
+everything depends on the situation in a particular company. </p>
+
+<ICE-IND:W2A-016#39:1>
+<h> <bold> 4 ( b). Management control </bold> </h>
+
+<p> 
+<ICE-IND:W2A-016#40:1>
+This category is characterised by shares initially being so
+widely distributed that no individual or small group has even a minority
+interest to dominate the affairs of the company. </p>
+
+<p> 
+<ICE-IND:W2A-016#41:1>
+Today, in India, the largest shareholders in the public limited
+companies tend to be the public financial institutions.
+
+<ICE-IND:W2A-016#42:1>
+It is then difficult to determine whether there is management control
+or minority control or negative control vested in the hands of these
+financial institutions. </p>
+
+<p> 
+<ICE-IND:W2A-016#43:1>
+Do the public financial institutions have control?
+
+<ICE-IND:W2A-016#44:1>
+In a sense, the rise of the investor reproduces something with which
+the law has had to deal ever since the advent of the modern company: the
+concentration of power in the hands of one or more shareholders.
+
+<ICE-IND:W2A-016#45:1>
+This affords to the controlling shareholder the <O> <&> page </&> 932
+</O> power to influence the dividend policy and in many cases, the management
+of the whole company.
+
+<ICE-IND:W2A-016#46:1>
+There is also a power to influence management through threats to sell
+shareholdings or to work against management can be made to tow the line of
+the public financial institutions.
+
+<ICE-IND:W2A-016#47:1>
+The financial institutions can be said to be just another example of
+a power bloc within a company. <sp> <fnr> 5 </fnr> </sp> </p>
+
+<p> 
+<ICE-IND:W2A-016#48:1>
+In India, the public financial institutions are major
+shareholders in public limited companies, but do they have <quote> ` control'
+</quote> over these companies ?
+
+<ICE-IND:W2A-016#49:1>
+This question can be answered by looking at two major acts, which a
+public financial institution could perform, by virtue of its majority
+shareholding. </p>
+
+<ICE-IND:W2A-016#50:1>
+<h> <bold> ACTS OPPRESSIVE TO THE MINORITY </bold> </h>
+
+<p> 
+<ICE-IND:W2A-016#51:1>
+In <it> <mention> Nagappa Chettiar v. Madras Race Club,
+</mention> </it> <sp> <fnr> 6 </fnr> </sp> the court ruled that the rule laid
+down in <it> <mention> Foss v. Harbottle </mention> <sp> <fnr> 7 </fnr> </sp>
+</it> , along with its exceptions, held good in India courts.
+
+<ICE-IND:W2A-016#52:1>
+The rule is that the company is the right person to sue and that it
+is not open to the individual members to assume to themselves the right of
+suing in the name of the company, except where the transaction is illegal;
+where the transaction requires the sanction of a special majority; where the
+transaction infringes the personal rights of the shareholders; and where the
+transaction amounts to a fraud on the minority.
+
+<ICE-IND:W2A-016#53:1>
+But, the company can only act through the board of directors and they
+may well be the wrong-doers.
+
+<ICE-IND:W2A-016#54:1>
+They may, therefore, decide not to sue a decision approved by the
+company in the general meeting, where the wrong-doers control the majority of
+votes.
+
+<ICE-IND:W2A-016#55:1>
+The outcome would be that the wrong doers would go unpunished and
+minority shareholders would be at the mercy of the majority who could loot
+the company.
+
+<ICE-IND:W2A-016#56:1>
+In such a case, control exists because the wrong-doers have a
+majority of votes and have actually approved the fraud.
+
+<ICE-IND:W2A-016#57:1>
+Further, if in this case, the minority shareholders brought an action
+and were able to show that the defendants, by any means of manipulation of
+their position in the company, were able to ensure that no action was
+brought, it would clearly go to show that the defendants were in control.
+</p>
+
+<p> 
+<ICE-IND:W2A-016#58:1>
+In <it> <mention> Prudential Assurance Company Limited v. Newman
+Industries Limited </mention> ( No. 2) <sp> <fnr> 8 </fnr> </sp> </it> , it
+was held that while the plaintiff in an action for wrong done to the company
+is normally the company itself, in exceptional circumstances a minority
+shareholder may bring a derivative action on behalf of the company where the
+wrong done to the company is a fraud and the wrong-doers are in majority,
+thereby preventing the company from suing. </p>
+
+<p> 
+<ICE-IND:W2A-016#59:1>
+Even if an exception can be successfully invoked, a number of
+difficulties beset the path of the shareholder who decides to pursue an
+action against the alleged wrong doers. </p>
+
+<p> 
+<ICE-IND:W2A-016#60:1>
+The transactions are often of a complicated nature and so it is
+difficult to establish what the transaction involves and who the
+beneficiaries are.
+
+<ICE-IND:W2A-016#61:1>
+A large amount of money is also required to pursue an action of such
+a nature. <sp> <fnr> 9 </fnr> </sp> </p>
+
+<p> 
+<ICE-IND:W2A-016#62:1>
+The better non-statutory option open to an aggrieved shareholder
+in such a case is to withdraw his investment from the company by selling his
+shares.
+
+<ICE-IND:W2A-016#63:1>
+The statutory alternatives open to an aggrieved shareholder include
+petitioning the Company Law Board under section 397 or 398. </p>
+
+<ICE-IND:W2A-016#64:1>
+Section 397 provides, <quote> " any members of a company who
+complains that the affairs of the company are being conducted in a manner
+prejudicial to public interest or in a manner oppressive to any member or
+members ( including any one or more of themselves) may apply to the Company
+Law Board for an order under this section <*> dotted line</*>" </quote>
+
+<p> 
+<ICE-IND:W2A-016#65:1>
+Section 397 ( 2) lays down that in order grant relief under this
+section, there should be facts to justify the making of a winding up order.
+</p>
+
+<p> 
+<ICE-IND:W2A-016#66:1>
+The aggrieved shareholder can also proceed under section 398.
+
+<ICE-IND:W2A-016#67:1>
+In order to grant relief under this section, it is not necessary to
+show that there are facts which justify the making of a winding up order.
+
+<ICE-IND:W2A-016#68:1>
+It is enough if the affairs of the company are being conducted in a
+manner prejudicial to the interests of the company or to public interest.
+</p>
+
+<p> 
+<ICE-IND:W2A-016#69:1>
+The <quote> ` words in a manner prejudicial to public interest'
+</quote> were inserted in sections 397, 398 and 408 by the Companies (
+Amendment ) Act, 1963.
+
+<ICE-IND:W2A-016#70:1>
+This enables the Central Government to move the Company Law Board
+under these sections, <it> <mention> <foreign> suo motu </foreign> </mention>
+, </it> on grounds of public interest. </p>
+
+<p> 
+<ICE-IND:W2A-016#71:1>
+In <it> <mention> State of Bihar v. Kameshwar Singh </mention>
+<sp> <fnr> 10 </fnr> </sp> </it> Mahajan CJ, opined: <quote> " the expression
+[ public interest] is not capable of precise definition and has not a rigid
+meaning, and is elastic and takes its colours from the statute in which it
+occurs, the concept varying with the time and state of society and its needs.
+
+<ICE-IND:W2A-016#72:1>
+Thus, what is <quote> ` public interest' </quote> today may not be so
+considered a decade later.
+
+<ICE-IND:W2A-016#73:1>
+In any case, the expression cannot be considered in vacuo but must be
+decided on the facts and circumstances." </quote> </p>
+
+<p> 
+<ICE-IND:W2A-016#74:1>
+The concept of <quote> ` public interest' </quote> takes the
+company outside the conventional sphere of being a concern in which the
+shareholders alone are interested.
+
+<ICE-IND:W2A-016#75:1>
+It emphasizes the idea that the company functions for the general
+welfare of the community <sp> <fnr> 11 </fnr> </sp> . </p>
+
+<p> 
+<ICE-IND:W2A-016#76:1>
+In practice, it is difficult to sustain an application on the
+ground that the affairs of a company are conducted in a manner prejudicial to
+public interest because, conducting the affairs in such a manner cannot be a
+just an equitable ground for winding up of the company unless the affairs of
+the company should be considered illegal or opposed to public policy <sp>
+<fnr> 12 </fnr> </sp> . </p>
+
+<ICE-IND:W2A-016#77:1>
+<h> <bold> DISMISSAL OF DIRECTORS </bold> </h>
+
+<p> 
+<ICE-IND:W2A-016#78:1>
+The day-to-day control of the business of a company is in the
+hands of directors.
+
+<ICE-IND:W2A-016#79:1>
+As a matter of company law, shareholders cannot intervene in the
+management of the <w> company's </w> affairs. </p>
+
+<p> 
+<ICE-IND:W2A-016#80:1>
+Section 284 ( 1), however, provides that the shareholders may, by
+ordinary resolution, remove a director ( not being a director appointed by
+the Central Government in pursuance of section 408 ) from office.
+
+<ICE-IND:W2A-016#81:1>
+Under section 284 ( 2), special notice has to be given of any such
+resolution.
+
+<ICE-IND:W2A-016#82:1>
+Section 284(3) provides that the company must supply a copy of the
+resolution to the concerned <O> <&> page </&> 933 </O> director, who is
+entitled to be heard at the meeting.
+
+<ICE-IND:W2A-016#83:1>
+Further section 284 ( 4) provides that he may require the company to
+circulate, to shareholders, any representation he makes.
+
+<ICE-IND:W2A-016#84:1>
+This elaborate procedure is laid down to prevent a director from
+being deprived of an office of profit without having had an opportunity of
+being heard. </p>
+
+<p> 
+<ICE-IND:W2A-016#85:1>
+Therefore, even if the shareholders act malafide or out of spite
+against a particular director, there is no basis in Indian Company Law for an
+injunction restraining the company from giving effect to the resolution,
+provided only, that requirements of the aforesaid section have been met. </p>
+
+<p> 
+<ICE-IND:W2A-016#86:1>
+A dismissed director could petition under section 433 ( f), for
+winding up of the company on just and equitable ground.
+
+<ICE-IND:W2A-016#87:1>
+But, the Supreme Court has shown in <it> Hind Overseas ( P) Ltd v.
+Raghunat Prasad Junjhunwala <sp> <fnr> 13 </fnr> </sp> </it> , that it is not
+in favour of such a remedy.
+
+<ICE-IND:W2A-016#88:1>
+Here, a private company was formed, in which an employee <mention> "
+A" </mention> , who had gained the confidence of the employer <mention> " B"
+</mention> , was taken in as managing director.
+
+<ICE-IND:W2A-016#89:1>
+<mention> " A" </mention> and his family members held about one-third
+of the shares while <mention> " B" </mention> and his family members held
+about two-thirds of the shares and the direction, control and financial
+responsibility were also in <w> <quote> " B's" </quote> </w> hands.
+
+<ICE-IND:W2A-016#90:1>
+The Supreme Court held that it was not a case in which the
+dissolution of partnership principle could be invoked in favour of <quote> "
+A" </quote> ( and his group of shareholders ) on the <quote> ` just and
+equitable ground' </quote> , as several remedies such as those under sections
+397 and 398 were open to the minority shareholders under the Companies Act,
+1956, and an application for winding up the company would be unreasonable.
+</p>
+
+<p> 
+<ICE-IND:W2A-016#91:1>
+Thus, a financial institution can effectively exercise control by
+removing the directors of the company, in which it is a major shareholder.
+
+<ICE-IND:W2A-016#92:1>
+The financial institution has to ensure that an ordinary resolution
+is passed authorising the removal of a director, and that the relevant
+provisions of the Companies Act, 1956, are complied with.
+
+<ICE-IND:W2A-016#93:1>
+This threat of removal could be effectively used to influence the
+decisions of the management. </p>
+
+<ICE-IND:W2A-016#94:1>
+<footnote> 1. ( 1984) 5 Co. law 107. </footnote>
+
+<ICE-IND:W2A-016#95:1>
+<footnote> 2. <it> Company Law in Change </it> , 1987, Editor B.
+Petter, page 40. </footnote>
+
+<ICE-IND:W2A-016#96:1>
+<footnote> 3. <it> <mention> Blacks Law Dictionary </mention> </it> ,
+10th Edition, page 568. </footnote>
+
+<ICE-IND:W2A-016#97:1>
+<footnote> 4. ( 1978) 30 <it> <mention> Oxford Economic Papers
+</mention> </it> 74. </footnote>
+
+<ICE-IND:W2A-016#98:1>
+<footnote> 5. <it> <mention> <w> Farrar's </w> Company Law </mention>
+</it> , 2nd Edition, page 431. </footnote>
+
+<ICE-IND:W2A-016#99:1>
+<footnote> 6. ( 1949) 1 Mad. L. J. 662. </footnote>
+
+<ICE-IND:W2A-016#100:1>
+<footnote> 7. ( 1843) 2 Hare 461. </footnote>
+
+<ICE-IND:W2A-016#101:1>
+<footnote> 8. ( 1982) I All E.R. 354 ( CA). </footnote>
+
+<ICE-IND:W2A-016#102:1>
+<footnote> 9. Supra 5, page 381. </footnote>
+
+<ICE-IND:W2A-016#103:1>
+<footnote> 10. ( 1952) AIR ( SC) 252. </footnote>
+
+<ICE-IND:W2A-016#104:1>
+<footnote> 11. <it> <mention> Guide to the Companies Act </mention>
+</it> , A. Ramaiya, 11th Edition, page 1093. </footnote>
+
+<ICE-IND:W2A-016#105:1>
+<footnote> 12. <it> Ibid </it> . </footnote>
+
+<ICE-IND:W2A-016#106:1>
+<footnote> 13. ( 1976) 46 Comp. Cas. ( SC), 91. </footnote> </I>

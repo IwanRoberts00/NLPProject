@@ -1,0 +1,497 @@
+<I>
+
+<ICE-IND:W2A-028#1:1>
+<h> <bold> Growth and characterization of lead telluride crystals
+</bold> </h> <&> second margin begin </&> <&> author </&>
+
+<ICE-IND:W2A-028#2:1>
+Ashok Kumar Department of physics and Astrophysics, University of
+Delhi, Delhi - 110 007, India <O>
+
+<ICE-IND:W2A-028#3:1>
+<it> Received 30 January 1992, accepted 20 April 1992 </it> </O>
+
+<p> 
+<ICE-IND:W2A-028#4:1>
+<h> <bold> Abstract </bold> : </h>
+
+<ICE-IND:W2A-028#5:1>
+Ferroelectric semiconducting crystals of lead telluride were grown by
+fusing lead and tellurium in vacuum.
+
+<ICE-IND:W2A-028#6:1>
+Optical as well as electrical properties were studied to characterize
+the grown polycrystalline samples.
+
+<ICE-IND:W2A-028#7:1>
+For the purpose of comparison experiments were also performed with the
+single crystal of the material also.
+
+<ICE-IND:W2A-028#8:1>
+The typical C.V characteristics obtained from the fabricated
+Al-BaTiO<sb>3</sb>- PbTe( MIS ) structures were also investigated.
+
+<ICE-IND:W2A-028#9:1>
+From XRD data, the lattice constant comes out to be 3.34A.
+
+<ICE-IND:W2A-028#10:1>
+An overall decrease in mobility and resistivity with increasing
+temperature ( from 77K to 300K ) is observed while the carrier concentration
+shows a reverse behaviour.
+
+<ICE-IND:W2A-028#11:1>
+Results with MOS capacitor are found to be in good agreement with the
+earlier reported works. </p>
+
+<p> 
+<ICE-IND:W2A-028#12:1>
+<bold> Keywords </bold> :
+
+<ICE-IND:W2A-028#13:1>
+<mention> Ferroelectric </mention> <mention> semiconductors
+</mention> , <mention> electrical transport properties </mention> , <mention>
+MIS capacitor </mention> , <mention> lead telluride crystals </mention> .
+</p>
+
+<p> 
+<ICE-IND:W2A-028#14:1>
+<h> <bold> PACS Nos. </bold> : </h>
+
+<ICE-IND:W2A-028#15:1>
+72.20, Fr. 73.40. Qv, 77.80. - e </p>
+
+<ICE-IND:W2A-028#16:1>
+<h> <bold> 1. Introduction </bold> </h>
+
+<p> 
+<ICE-IND:W2A-028#17:1>
+The existence of a series of IV-VI compounds is one of the most
+exciting recent discoveries in the field of ferroelectric semiconductors.
+
+<ICE-IND:W2A-028#18:1>
+PbTe, a polar semiconductor of this class with cubic NaCl structure
+is a non-stoichiometric solid.
+
+<ICE-IND:W2A-028#19:1>
+Several studies are reported relating various aspects of PbTe [ 1-4 ] .
+
+<ICE-IND:W2A-028#20:1>
+Hall effect measurements were studied by many workers [ 5-7 ] .
+
+<ICE-IND:W2A-028#21:1>
+Rogers [ 8 ] and others have reported the results of mobility and
+carrier concentration between room temperature and liquid nitrogen
+temperature.
+
+<ICE-IND:W2A-028#22:1>
+But sufficient data have not been reported regarding the growth and
+electrical properties of PbTe bulk samples. </p>
+
+<p> 
+<ICE-IND:W2A-028#23:1>
+The metal-insulator-semiconductor ( MIS ) diodes, which are the
+most useful devices in the study of semiconductor surfaces, have been studied
+by several workers [ 9, 10 ] .
+
+<ICE-IND:W2A-028#24:1>
+Lily <it> et al </it> [ 11 ] reported some experimental results on
+MIS structures fabricated from ( 100 ) PbTe bulk single crystals at 77K.
+
+<ICE-IND:W2A-028#25:1>
+However, studies on MIS diodes made of PbTe bulk sample at room
+temperature were not given much attention so far. </p>
+
+<p> 
+<ICE-IND:W2A-028#26:1>
+In the present investigation, an attempt has been made to study
+the carrier transport properties in p-PbTe single crystal and laboratory
+grown polycrystalline samples of n-type PbTe by the experimental measurements
+and theoretical analysis.
+
+<ICE-IND:W2A-028#27:1>
+Technical details for fabricating Al-BaTiO<sb>3</sb>-PbTe( MIS )
+structures and the first results of C-V characteristics at a fixed high
+frequency of 1 MHz at room temperature are also reported. </p> <O> <&> page
+</&> 22 </O>
+
+<ICE-IND:W2A-028#28:1>
+<h> <bold> 2. Experimental </bold> </h>
+
+<ICE-IND:W2A-028#29:1>
+<h> <it> 2.1 Charge growth and sample preparation : </it> </h>
+
+<p> 
+<ICE-IND:W2A-028#30:1>
+For charge growth, according to molecular weight composition of
+PbTe, the required quantities of elemental Pb and Te ( each of 5N purity )
+were taken in a specially shaped clean quartz tube and the tube was vacum
+sealed.
+
+<ICE-IND:W2A-028#31:1>
+Vacuum of the order of 10<sp><*>minus</*>6</sp> torr was produced by
+a vacuum pumping system ( Hindhivac, model V.S.- 65 ) .
+
+<ICE-IND:W2A-028#32:1>
+The ampoule containing the materials was heated in an electric
+furnace at a temperature of 1000 <*> degrees</*>C for about 28 hours
+continuously.
+
+<ICE-IND:W2A-028#33:1>
+The furnace temperature could be determined using a pt-pt / Rb
+thermocouple and a digital milivoltmeter ( AGRONIC 34A-4 model ) .
+
+<ICE-IND:W2A-028#34:1>
+The furnace was cooled slowly.
+
+<ICE-IND:W2A-028#35:1>
+The formed material was then cut into almost rectangular shape of
+dimensions 4.5 x 2.2 x 1.0 mm<sp>3</sp> from the bowl with a microslicer - 2
+using a very fine blade.
+
+<ICE-IND:W2A-028#36:1>
+The samples were then ground with coarse and fine carborundum powder
+of grades 600, 800 and 1200 consecutively to obtain flat and parallel slides.
+
+<ICE-IND:W2A-028#37:1>
+These were then first roughly polished on a polishing paper and then
+using diamond compound ( Hifin fluid <quote> ` OS' </quote> ) on a smooth
+polishing cloth fixed to a rotating disc.
+
+<ICE-IND:W2A-028#38:1>
+The <}> <- > smples </-> <+> samples </+> </}> were cleaned first
+with 4 % hydrofluoric acid and then with acetone. </p>
+
+<ICE-IND:W2A-028#39:1>
+2.2. <h> <it> Optical and electrical properties : </it> </h>
+
+<p> 
+<ICE-IND:W2A-028#40:1>
+Philips diffractometer ( PW 1130 / 00 model ) with Bragg-Brentano
+arrangement was used for XRD studies.
+
+<ICE-IND:W2A-028#41:1>
+For conductivity and mobility measurements, Vander Pauw technique [
+12 ] was employed.
+
+<ICE-IND:W2A-028#42:1>
+Pure Indium was used to make ohmic contacts on the samples.
+
+<ICE-IND:W2A-028#43:1>
+The cryostat was of conventional design.
+
+<ICE-IND:W2A-028#44:1>
+A liquid nitrogen tall dewar was used to provide the desired
+temperature to the specimen chamber.
+
+<ICE-IND:W2A-028#45:1>
+The specimen temperature was varied from 77K to 300K by means of an
+electronic temperature controller.
+
+<ICE-IND:W2A-028#46:1>
+The thermometer used was a chromel-constantan thermocouple.
+
+<ICE-IND:W2A-028#47:1>
+A magnetic field of 5K Gauss was applied by a varian electromagnet (
+Varian, Fieldial Mark-II model ) .
+
+<ICE-IND:W2A-028#48:1>
+The <mention> d.c. </mention> conductivity and Hall mobility were
+measured for both single crystal and polycrstalline samples at different
+temperatures. </p>
+
+<ICE-IND:W2A-028#49:1>
+2.3. <h> <it> MOS capacitor : </it> </h>
+
+<ICE-IND:W2A-028#50:1>
+2.3.1. <h> <it> Fabrication : </it> </h>
+
+<p> 
+<ICE-IND:W2A-028#51:1>
+A well polished slice of PbTe was cleaned by treating it first
+with a solution of KOH, ethylene glycol and H<sb>2</sb>O<sb>2</sb> ( 10 : 10
+: 1 ) and then by methanol.
+
+<ICE-IND:W2A-028#52:1>
+A layer of pure Indium provided the back ohmic contact.
+
+<ICE-IND:W2A-028#53:1>
+The thin insulating oxide layer of BaTiO<sb>3</sb> was deposited on
+the semiconducting surface by RF sputtering using NM Nordiko 1500 RF
+sputtering system.
+
+<ICE-IND:W2A-028#54:1>
+The top contact electrodes over the oxide layer were made by
+evaporating 99.99 % pure aluminium in circular shapes ( diameter <*>
+approximate- sign</*> 400 <*> mu</*><it>m</it> ) using a copper mesh.
+
+<ICE-IND:W2A-028#55:1>
+A Hindhivac vacuum coating unit model No. 12A4 was employed for this
+purpose.
+
+<ICE-IND:W2A-028#56:1>
+About 8 electrodes were formed on the oxide layer. </p> <O> <&> page
+</&> 23 </O>
+
+<ICE-IND:W2A-028#57:1>
+2.3.2. <h> <it> C-V measurements : </it> </h>
+
+<p> 
+<ICE-IND:W2A-028#58:1>
+A three terminal measuring cell and an automatic C-V plotter (
+princeton Applied Research model - 410 were used for measuring the
+capacitance-voltage characteristics of Al-BaTiO<sb>3<*>minus</*><&></sb> PbTe
+MOS device at room temperature.
+
+<ICE-IND:W2A-028#59:1>
+The MOS behaviour was investigated by taking the retrace; of the
+steady state high frequency C-V characteristics at a fixed frequency of 1
+MHz. </p>
+
+<ICE-IND:W2A-028#60:1>
+<h> <bold> 3. Results and discussions </bold> </h>
+
+<p> 
+<ICE-IND:W2A-028#61:1>
+The XRD patterns of laboratory grown pellets are shown in Figure
+1.
+
+<ICE-IND:W2A-028#62:1>
+The XRD pattern of a typical ( 002)- cut single crystal is also shown
+in the figure.
+
+<ICE-IND:W2A-028#63:1>
+In figures, it can be noted that <O> figure 1. </O> <O> caption </O>
+the peak at 2<*>theta</*> = 27.5<*>degrees</*> for single crystal is almost
+reproduced in the present grown sample at 2<*>theta</*> = 27<*>degrees</*>.
+
+<ICE-IND:W2A-028#64:1>
+The slight difference in the value of 2<*>theta</*> reflactions for (
+002 ) may be attributed to the difference of stoichiometry in the two
+materials and the method of preparation.
+
+<ICE-IND:W2A-028#65:1>
+The lattice constant calculated from the XRD data using the relations
+for cubic crystals comes out to be <*> approximate-sign</*> 3.34A. </p> <O>
+figure 2. </O> <O> caption </O> <O> <&> page </&> 24 </O>
+
+<p> 
+<ICE-IND:W2A-028#66:1>
+The variation of mobility with temperature for PbTe single
+crystal and laboratory grown crystal are shown in Figure 2.
+
+<ICE-IND:W2A-028#67:1>
+The mobility decreases with increasing temperature for both the
+samples.
+
+<ICE-IND:W2A-028#68:1>
+However, it can be noted that the curves in the figure exhibit two
+distinct regions of low ( 77K-150K ) and high ( 150K-300K ) temperatures.
+
+<ICE-IND:W2A-028#69:1>
+The rate of decrease of mobility is slower in lower temperature
+region than that in higher temperature region.
+
+<ICE-IND:W2A-028#70:1>
+In the low temperature region, the observed lincarity of curves
+clearly suggest that only one type of carriers contribute to the conduction
+process and the mobility corresponds to the light holes.
+
+<ICE-IND:W2A-028#71:1>
+The steep fall of the mobility in the high temperature region in
+general is attributed <O> table 1. </O> to an increased contribution of heavy
+holes.
+
+<ICE-IND:W2A-028#72:1>
+Also the overall nature of the curves for both the samples is similar
+except in the magnitude thereby, supporting the XRD data.
+
+<ICE-IND:W2A-028#73:1>
+The calculated values of a are given in Table 1.
+
+<ICE-IND:W2A-028#74:1>
+The results of single crystal sample is in close agreement with the
+reported values for the p-PbTe single crystal [ 13 ] , the observed
+variations of resistivity with temperature are shown in Figure 3.
+
+<ICE-IND:W2A-028#75:1>
+The values of carrier concentration <quote> <it> ` n' </it> </quote>
+using the mobility and resistivity data are depicted in Figure 4.
+
+<ICE-IND:W2A-028#76:1>
+The variation in <quote> <it> ` n' </it> </quote> clearly indicates a
+monotonous decrease with decreasing temperature.
+
+<ICE-IND:W2A-028#77:1>
+The corresponding calculated conductivities have been shown in Figure
+5. </p> <O> figure 3. </O>
+
+<p> 
+<ICE-IND:W2A-028#78:1>
+In order to investigate the temperature dependence of the
+depletion capacitance in the inversion region for verifying whether it
+follows any Curie law dependence, a series of MIS were fabricated.
+
+<ICE-IND:W2A-028#79:1>
+However, except for BaTiO<sb>3</sb> which was RF sputtered on PbTe
+substrate at <O> <&> page </&> 25 </O> room temperature, all other insulators
+investigated revealed very poor surface conductivity modulation property of
+the base PbTe semiconductor due to their low resistivity and <O> figure 4.
+</O> <O> caption </O> probably presence of pin-holes.
+
+<ICE-IND:W2A-028#80:1>
+One other major factor affecting these devices was the poor surface
+finish of the PbTe sample.
+
+<ICE-IND:W2A-028#81:1>
+Efforts to decrease roughness of the sample have been <O> figure 5.
+</O> <O> caption </O> seriously limited by the technical limitation of our
+lab.
+
+<ICE-IND:W2A-028#82:1>
+The conventional high frequency C-V behaviour for a capacitor with
+BaTiO<sb>3</sb> layer is shown in Figure 6.
+
+<ICE-IND:W2A-028#83:1>
+The measured <O> figure 6. </O> <O> caption </O> <O> <&> page </&> 26
+</O> accumulation capacitance of 48.8 pF corresponds to the insulator
+BaTiO<sb>3</sb> according to the conventional MOS theories [ 14 ] .
+
+<ICE-IND:W2A-028#84:1>
+The calculated value of the dielectric constant for BaTiO<sb>3</sb>
+film <*> approximate-sign</*> 15 is in good agreement with reported values
+for amorphous BaTiO<sb>3</sb> films [ 11 ] . </p>
+
+<p> 
+<ICE-IND:W2A-028#85:1>
+The observed shift in the flat band voltage towards the negative
+voltage region is commonly attributed towards a high percentage of interface
+state density at the BaTiO<sb>3-</sb> PbTe junction and the increase of
+capacitance beyond <*> plus</*>4 volts is probably due to sudden increase in
+the conductance value of the film.
+
+<ICE-IND:W2A-028#86:1>
+The results thus suggest that although the capacitance varies with
+applied voltage, the dielectric strength of BaTiO<sb>3</sb> film is not
+enough to induce inversion in the underlying PbTe layer. </p>
+
+<p> 
+<ICE-IND:W2A-028#87:1>
+Reports of Lilly <it> et al </it> [ 11 ] and Moulin <it> et al
+</it> [ 15 ] also reveal that MIS properties are strongly determined by
+preparation and fabrication techniques.
+
+<ICE-IND:W2A-028#88:1>
+They also report that small capacitance changes are to be expected
+experimentally and that insulator dielectric strength in excess of
+10<sp>6</sp> V cm<sp>-1</sp> are required in order to obtain surface
+potential control.
+
+<ICE-IND:W2A-028#89:1>
+The observed small change of capacitance is thus well supported and
+in agreement with the theoretical prediction. </p>
+
+<ICE-IND:W2A-028#90:1>
+<h> <bold> 4. Conclusion </bold> </h>
+
+<p> 
+<ICE-IND:W2A-028#91:1>
+PbTe polycrystalline samples were prepared by fusing Pb and Te in
+vacuum at 1000<*>degrees</*>C.
+
+<ICE-IND:W2A-028#92:1>
+The XRD patterns of these samples though indicate a preferred
+orientation along the ( 002 ) axis, these samples cannot be strictly
+categorised as single crystals due to the obvious nature of the simple
+techniques employed in growing them.
+
+<ICE-IND:W2A-028#93:1>
+However, the relative slow cooling ( <*> approximate-sign</*>
+10<*>degrees</*>C / hr ) employed in this case may have resulted in large
+degree of reduction of its polycrystalline nature.
+
+<ICE-IND:W2A-028#94:1>
+Almost similar behaviour of mobility and resistivity curves for both
+the samples also suggests a near single crystal nature of the laboratory
+growth crystals. </p>
+
+<p> 
+<ICE-IND:W2A-028#95:1>
+For MIS studies, the present work reveals that probably higher
+thickness of the insulating film and better surface finish of PbTe may help
+in realizing these MOS capacitors and efforts are now being made in these
+lines to achieve better device quality. </p>
+
+<ICE-IND:W2A-028#96:1>
+<h> <bold> Acknowledgments </bold> </h>
+
+<p> 
+<ICE-IND:W2A-028#97:1>
+Author is thankful to Prof A Mansingh and Dr T B S Rao for their
+help during the course of investigation. </p>
+
+<ICE-IND:W2A-028#98:1>
+<h> <bold> References </bold> </h>
+
+<ICE-IND:W2A-028#99:1>
+<footnote> [ 1] R S Allgaier 1961 <it> <mention> J. Appl. Phys.
+Suppl. </mention> </it> 32 2185 </footnote>
+
+<ICE-IND:W2A-028#100:1>
+<footnote> [ 2] I A Chemik, V I Kaidanov, M I Vinogradova and N M
+Kalomets 1966 <it> <mention> Sov. Phys. Semicond. </mention> </it> 2645
+</footnote>
+
+<ICE-IND:W2A-028#101:1>
+<footnote> [ 3] J J Harris and B K Ridley 1972 <it> <mention>
+J.Phys. Chem. Solids </mention> </it> 33 1455 </footnote>
+
+<ICE-IND:W2A-028#102:1>
+<footnote> [ 4] H A Lyden 1964 <it> <mention> Phys. Rev. </mention>
+</it> 135A 514 </footnote>
+
+<ICE-IND:W2A-028#103:1>
+<footnote> [ 5] K F Cuff, M R Elett and C O Kuglin 1967 <it>
+<mention> Bull Am. Phys. Soc. </mention> </it> 6 343G2 </footnote>
+
+<ICE-IND:W2A-028#104:1>
+<footnote> [ 6] G T Alekseeva, L V Prokofeva and T S Staviksaya 1967
+<it> <mention> Sov. Phys. Solid State </mention> </it> 8 2258 </footnote>
+
+<ICE-IND:W2A-028#105:1>
+<footnote> [ 7] B F Gruzinov, I A Drabkin and Y I Ravich 1979 <it>
+<mention> Sov. Phys. Semicond. </mention> </it> 13 315 </footnote>
+
+<ICE-IND:W2A-028#106:1>
+<footnote> [ 8] L M Rogers 1967 <it> <mention> Brit. J. Appl. Phys.
+</mention> </it> 18 1227 </footnote> <O> <&> page </&> 27 </O>
+
+<ICE-IND:W2A-028#107:1>
+<footnote> [ 9] A J Steckl, R D Nelson, B T French, R A Gudmunsen
+and D Schechter 1975 <it> <mention> Proc. IEEE </mention> </it> 63 67
+</footnote>
+
+<ICE-IND:W2A-028#108:1>
+<footnote> [ 10] J T Longo, D T Cheung, A M Andrews, C C Wang and J
+M Tracy 1978 <it> <mention> IEEE Trnas. Elec. Device </mention> </it> ED-25
+213 </footnote>
+
+<ICE-IND:W2A-028#109:1>
+<footnote> [ 11] D A Lilly, D E Joslin and H K A Kan 1978 <it>
+<mention> Infrared Phys. </mention> </it> 18 51 </footnote>
+
+<ICE-IND:W2A-028#110:1>
+<footnote> [ 12] L J Vander Pauw 1958 <it> <mention> Philips Res.
+Rep. </mention> </it> 13 1 </footnote>
+
+<ICE-IND:W2A-028#111:1>
+<footnote> [ 13] A J Crocker and L M Rogers 1967 <it> <mention>
+Brit. J Appl. Phys. </mention> </it> 18 563 </footnote>
+
+<ICE-IND:W2A-028#112:1>
+<footnote> [ 14] S M Sze 1979 <it> <mention> Physics of
+Semiconductor Devices </mention> </it> ( New Delhi; Wily Eastem ) </footnote>
+
+<ICE-IND:W2A-028#113:1>
+<footnote> [ 15] M Moulin, P Felix, B Munier, J P Reboul and N T
+Unhn 1977 <it> <mention> Proc. Int. Electron Device Meeting, IEEE Tech.
+Digest </mention> </it> p 555 ( Washington DC ) </footnote> </I>

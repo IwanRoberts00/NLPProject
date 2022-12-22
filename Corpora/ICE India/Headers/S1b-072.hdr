@@ -1,0 +1,91 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-072</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:business
+                 transactions</category>
+            <wordcount>2452</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-072>
+     <source.type=Dialogue:public:business transactions>
+     <recording.data>
+            <date>09-04-94</date>
+            <time>2.00pm</time>
+            <place>SSC/HSC Board Office (Saraswati Hall),
+                 Pune</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-072</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>3</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-072</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kaned</surname>
+            <forenames>M.H</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Lecturer(Rtd.)</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-072</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>PatilKulkarni</surname>
+            <forenames>Chandrahas</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Navalli, Dharwad, Karnataka</birthplace>
+            <education>Karnataka University, Shivaji University,
+                 Kolhapur</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>College Principal</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Belgaum (1962-64), Sangli
+                 (1964-65), Islampur (1965-72), Nipani (1972-92),
+                 Kanadewadi (1992 to date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-07</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Krishnamurthy</surname>
+            <forenames>Y.</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Telugu</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

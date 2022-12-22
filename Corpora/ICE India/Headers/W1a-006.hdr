@@ -1,0 +1,86 @@
+<text.info>
+       <file.description>
+                 <textcode>ICE-IND-W1A-006</textcode>
+                 <number.of.subtexts>002</number.of.subtexts>
+                 <category>non-printed:non-professional
+                   writing:student untimed essays</category>
+                 <wordcount>2081</wordcount>
+                 <version>lexical</version>
+                 <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1A-006(1)>
+           <source.type=Dissertatiom>
+                <main.title>Colposcopic Evaluation of Corvix in
+                  Women above 35 yrs of age</main.title>
+                <course>M.D.(OBST & GYN)</course>
+                <subject>Obstetrics & Gynaecology</subject>
+                <institution></institution>
+                <year>1994</year>
+                <date></date>
+           <copyright.statement>reproduced by permission of
+                respective student</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-006(1)</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-006(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Patil</surname>
+                <forenames>Dr. Baban D.</forenames>
+                <age>26-33</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level>University</educational.level>
+                <occupation>student</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+       </biography>
+       <subtext.source=W1A-006(2)>
+           <source.type=Thesis>
+                <main.title>Pulmonary Pathology in still births
+                  and neonatal death</main.title>
+                <course>M.D.(Pathology)</course>
+                <subject>Pathology</subject>
+                <institution></institution>
+                <year>1994</year>
+                <date>May 1994</date>
+           <copyright.statement>reproduced by permission of
+                respective student</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-006(2)</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-006(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Nerlekar</surname>
+                <forenames>Dr. Sanjivini Dinkar</forenames>
+                <age>26-33</age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Solapur</birthplace>
+                <education>V.M. medical College
+                  Solapur</education>
+                <educational.level>University</educational.level>
+                <occupation>student</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments></free.comments>
+       </biography>
+</text.info>

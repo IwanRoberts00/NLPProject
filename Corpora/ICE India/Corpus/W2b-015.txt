@@ -1,0 +1,345 @@
+<I> <&> centered above four columns </&>
+
+<ICE-IND:W2B-015#1:1>
+<h> <bold> <ul> Anti-poverty programmes </ul> Who should benefit
+</bold> </h>
+
+<ICE-IND:W2B-015#2:1>
+<bold> By Prof. Amartya Sen </bold> <&> column one </&>
+
+<p> 
+<ICE-IND:W2B-015#3:1>
+<bold> T<smallcaps>HE</smallcaps> topic relates to the conflicting
+demands of targeting and universallism in poverty alleviation.
+
+<ICE-IND:W2B-015#4:1>
+The basic argument in favour of strict targeting is clear enough.
+
+<ICE-IND:W2B-015#5:1>
+Efficient selection of beneficiaries reduces the cost of the support
+programmes.
+
+<ICE-IND:W2B-015#6:1>
+Transfers of income, support of subsidised food, free availability of
+health services and education, and other such programmes, all cost
+resources.
+
+<ICE-IND:W2B-015#7:1>
+The costs of such programmes can be reduced if the beneficiaries are
+selected on some strict criterion of needs and the non-poor are excluded
+from having the benefit of such programmes.
+
+<ICE-IND:W2B-015#8:1>
+That, in nutshell, is the main argument in favour of strict
+targeting. </p>
+
+<p> 
+<ICE-IND:W2B-015#9:1>
+However, targeting also involves some losses and costs, and the
+picture is far less simple than it might first appear.
+
+<ICE-IND:W2B-015#10:1>
+The losses can be of various types.
+
+<ICE-IND:W2B-015#11:1>
+First there is the cost of administration and the expenses of
+bureaucracies in executing selection on the basis of a strict criterion of
+needs.
+
+<ICE-IND:W2B-015#12:1>
+Second, it is very hard to maintain the quality of services that are
+reserved only for the politically weak groups of the society, since they lack
+the social power to monitor quality and ensure the soundness of the
+services offered.
+
+<ICE-IND:W2B-015#13:1>
+For example, health services reserved for the poor can rapidly
+deteriorate.
+
+<ICE-IND:W2B-015#14:1>
+Third, there is some stigma associated with making use of
+transfers that are meant only for the helpless indigent, and targeting can be
+a rather demeaning process. </p>
+
+<p> 
+<ICE-IND:W2B-015#15:1>
+There are also some social costs of targeting with which
+economists in particular have been much concerned.
+
+<ICE-IND:W2B-015#16:1>
+To continue the list, the fourth argument to consider on the other
+side is the possibility of <quote> " informational distortion" </quote> .
+
+<ICE-IND:W2B-015#17:1>
+Any system of targeting the needy tends to produce attempts by
+some to distort the relevant information to qualify to get the support.
+
+<ICE-IND:W2B-015#18:1>
+In order to exclude such <quote> " non-genuine" </quote>
+applicants, the scrutiny that is produced can quite easily lead to the
+denial of support in genuine cases as well, since some of the relevant
+information about needs is hard to obtain and verify.
+
+<ICE-IND:W2B-015#19:1>
+In trying to prevent what the statisticians would call the <quote>
+" type 1" </quote> error of including some non-needy people in the category
+of the needy, some <quote> " type 2" </quote> errors are typically committed
+of excluding some really needy people from the actual beneficiaries. </p>
+
+<p> 
+<ICE-IND:W2B-015#20:1>
+Fifth, targeting also tends to produce <quote> " incentive
+distortions" </quote> .
+
+<ICE-IND:W2B-015#21:1>
+Potential beneficiaries may adjust their work and other activities to
+qualify to get support, and the result of this can be a significant loss
+of social output and activity. </p>
+
+<p> 
+<ICE-IND:W2B-015#22:1>
+Finally, an economy based on targeting can be a very <quote> "
+invasive" </quote> one, involving constant policing and probing investigation
+into the lives of the poorer sections of the community to make sure that they
+are genuinely poor enough.
+
+<ICE-IND:W2B-015#23:1>
+The political consequences of such invasiveness can be quite
+damaging, especially when the targets of investigation lack the political
+or economic power to stand up against it.
+
+<ICE-IND:W2B-015#24:1>
+No matter how specific the criterion is, any need-based selection
+tends to give a good deal of power to the government officials over the
+lives of potential recipients.
+
+<ICE-IND:W2B-015#25:1>
+The authority to select can make a minor official into a major
+potentate.
+
+<ICE-IND:W2B-015#26:1>
+These social costs can be no less important than the financial
+expenses of running a targeted programme. </p>
+
+<p> 
+<ICE-IND:W2B-015#27:1>
+The case for targeting is, thus, not so clear at all.
+
+<ICE-IND:W2B-015#28:1>
+All these difficulties indicate that there is more to the
+principle of universalism than the simple theoretical argument for
+targeting might suggest.
+
+<ICE-IND:W2B-015#29:1>
+Certainly, the case for universal coverage of elementary health
+services and basic education is quite strong, both because these
+facilities relate to what might be seen as basic rights to citizens, but
+also because the losses and costs of selection can be quite enormous,
+outweighing the benefits to be derived from it. </p>
+
+<p> 
+<ICE-IND:W2B-015#30:1>
+Obviously, some types of selection are essential for the
+cogency of public policy.
+
+<ICE-IND:W2B-015#31:1>
+If the aim is to vaccinate the children or to increase female
+literacy, then surely policies must somehow concentrate on the
+unvaccinated kids and illiterate women.
+
+<ICE-IND:W2B-015#32:1>
+To call that <quote> " targeting" </quote> may appeal to our love of
+jargon, but the issue here is no more than making particular policies
+specific and purposeful.
+
+<ICE-IND:W2B-015#33:1>
+Like Monsieur Jourdain in <w> Moliere's </w> play <mention> <bold> Le
+Bourgeois Gentilhomme </bold> </mention> , who spoke prose without knowing
+it, we are, in some sense, <quote> " targeting" </quote> all the time if
+any selection of beneficiaries counts as that.
+
+<ICE-IND:W2B-015#34:1>
+Giving your daughter a book on her birthday can be seen as a case
+of targeting with extreme precision. </p>
+
+<p> 
+<ICE-IND:W2B-015#35:1>
+The real issue in the economics of targeting does not lie in the
+acceptance of the necessity to do some selection for purposeful and practical
+economic and social policies.
+
+<ICE-IND:W2B-015#36:1>
+The important questions lie elsewhere, to wit, how far to push the
+process of selection - - where to stop. </p>
+
+<p> 
+<ICE-IND:W2B-015#37:1>
+Despite the case for universalism in dealing with basic health
+services and elementary education, there are other areas in which the
+appropriate policies must depend on balancing the advantages of selection
+against the various costs and losses that I have tried to identify earlier.
+
+<ICE-IND:W2B-015#38:1>
+For example, in evaluating programmes of nutritional support (
+such as mid-day meals for schoolchildren ) , note must be taken of the costs
+of covering all the school children of particular age groups.
+
+<ICE-IND:W2B-015#39:1>
+But at the same time, the economic and social losses that would be
+involved in trying to select on some criterion of needs has also to be given
+adequate attention and importance.
+
+<ICE-IND:W2B-015#40:1>
+The choice of where to draw the line must depend on taking an
+appropriately broad view of social and economic effects of alternative
+policies. </p>
+
+<p> 
+<ICE-IND:W2B-015#41:1>
+There is also the possibility of making use of self-selection in
+some cases.
+
+<ICE-IND:W2B-015#42:1>
+For example, in providing relief from drought or flood, or dealing
+with seasonal rural unemployment, a system of open unemployment policy at
+a fixed wage rate attracts only those who are ready to put in the necessary
+work to earn the corresponding income.
+
+<ICE-IND:W2B-015#43:1>
+Self-selection becomes a part of the process in such cases, even
+though the choice of where to offer such employment opportunities, for
+what work, at what wage, and so on, remain the subject of intelligent and
+sensitive public discussion. </p>
+
+<p> 
+<ICE-IND:W2B-015#44:1>
+Self-selection can be an important vehicle for providing
+services in kind as well.
+
+<ICE-IND:W2B-015#45:1>
+For example, medical services that are offered free can be used by
+those who need it, but canot be resold to others or capitalised into
+financial gains in general.
+
+<ICE-IND:W2B-015#46:1>
+The important issue here is the ability of the underdogs of the
+society to make use of these services as freely as the more fortunate
+members of the society tend to do.
+
+<ICE-IND:W2B-015#47:1>
+This is partly a matter of social courage, of political
+universalism, and also of basic education.
+
+<ICE-IND:W2B-015#48:1>
+By expanding elementary education from the deplorably low level at
+which it is in India today, use of public services by the poorer sections
+of the public can also be enhanced ( as <w> Kerala's </w> example in
+particular brings out). </p>
+
+<p> 
+<ICE-IND:W2B-015#49:1>
+I conclude with two final observations.
+
+<ICE-IND:W2B-015#50:1>
+First, it is important to see the beneficiaries of the poverty
+removal programmes as active agents, and not merely as passive recipients of
+hand-outs.
+
+<ICE-IND:W2B-015#51:1>
+The jargon of targeting suggests that the objects that are aimed at
+have no volition, no will, no ability to respond.
+
+<ICE-IND:W2B-015#52:1>
+That is the wrong way to pose the problem.
+
+<ICE-IND:W2B-015#53:1>
+The first necessity is to see the potential beneficiaries as
+<quote> " agents" </quote> rather than simply as <quote> " patients" </quote> .
+
+<ICE-IND:W2B-015#54:1>
+The detailed arguments about social and economic losses and
+benefits, discussed earlier in this talk, all relate to the importance of the
+activist perspective. </p>
+
+<p> 
+<ICE-IND:W2B-015#55:1>
+Second, the design of public services depends, in any country,
+on what the powerful groups of that society see as important and
+imperative.
+
+<ICE-IND:W2B-015#56:1>
+For example, generally infectious diseases tend to receive much more
+attention than other maladies - - such as undernourishment - - do.
+
+<ICE-IND:W2B-015#57:1>
+The battle against infectious diseases has been a success story
+in the world - - eliminating small-pox, vastly reducing malaria, cutting
+down cholera, and so on ( and presumably once the medical riddles are solved,
+the same will happen to AIDS as well ) .
+
+<ICE-IND:W2B-015#58:1>
+Even the poor get a lot of attention and support when they have
+infectious diseases - - partly for good humanitarian reasons but also because
+the possibility of the diseases spreading to others wor<l.ries the more
+privileged members of the society. </p>
+
+<p> 
+<ICE-IND:W2B-015#59:1>
+<quote> " I sometimes wonder whether there is any way of making
+poverty terribly infectious.
+
+<ICE-IND:W2B-015#60:1>
+If the privileged could catch poverty from the poor they meet in
+the street.
+
+<ICE-IND:W2B-015#61:1>
+I don't doubt at all that poverty would be eliminated with
+remarkable speed." </quote>
+
+<ICE-IND:W2B-015#62:1>
+This, alas, won't hap-pen, but the cost of poverty can spread to
+others both through political agitation and through informed social
+analysis and understanding.
+
+<ICE-IND:W2B-015#63:1>
+Even violent events can sometimes help to make a society face
+problems that it would not have otherwise taken up.
+
+<ICE-IND:W2B-015#64:1>
+A good example is the impact of the recent violence in Los Angeles in
+bringing the problems of the inner cities in the USA into stronger
+political focus. </p>
+
+<p> 
+<ICE-IND:W2B-015#65:1>
+In thinking coolly and rationally about the costs and benefits of
+targeting, we must not lose sight of the fundamental relevance of social
+divisiveness and the power of the immunity of the more privileged sections
+of the society from the problems of the social underdogs.
+
+<ICE-IND:W2B-015#66:1>
+The imperatives on the design of targeting cannot but reflect the
+reality of political divisions and the comparative vulnerabilities of the
+different groups.
+
+<ICE-IND:W2B-015#67:1>
+The political economy of targeting involves the divisive politics as
+well as the rationalist economics of alternative public policies.
+
+<ICE-IND:W2B-015#68:1>
+Both aspects demand attention. </p> <*> line above editorial comment
+in the middle of columns 2 & 3 </*> <&>
+
+<p> 
+<ICE-IND:W2B-015#69:1>
+<bold> <it> <quote> " I sometimes wonder whether there is any way
+of making poverty terribly infectious.
+
+<ICE-IND:W2B-015#70:1>
+If the privileged could catch poverty from the poor they meet in the
+street, I don't doubt at all that poverty would be eliminated with
+remarkable speed" </quote> - says economist Amartya Sen, Lamont University
+Professor at the Harvard University." </it> </bold> </p> </&> <*> line below
+editorial comment in the middle of columns 2 & 3 </*> <&> <ul> ( Based on a
+talk delivered at the Management Development Institute, New Delhi,
+recently. ) </ul> </&> </I>

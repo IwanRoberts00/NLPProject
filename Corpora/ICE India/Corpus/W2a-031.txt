@@ -1,0 +1,473 @@
+<I>
+
+<ICE-IND:W2A-031#1:1>
+<h> <bold> Solid Wastes and Their Disposal in Rourkela - - A
+Preliminary Survey </bold> </h> <&> authors </&> <bold> T. N. Tiwari and M.
+K. Patel <fnr> <sp> * </sp> </fnr> </bold> <it> Regional Engineering College,
+Environmental Engineering Laboratory, Department of Physics, Rourkela </it> -
+769 008 </O>
+
+<p> 
+<ICE-IND:W2A-031#2:1>
+<bold> Rourkela, with an estimated population of 350,000, is the
+most important industrial city in the mineral rich state of Orissa.
+
+<ICE-IND:W2A-031#3:1>
+In addition to two large industries, namely steel and fertilisers, the
+Rourkela Industrial Complex also contains many medium industries and
+nearly three hundred small-scale units.
+
+<ICE-IND:W2A-031#4:1>
+Thus Rourkela offers an excellent opportunity for the study of
+environmental pollution and its management, and the experience gained here
+may be useful in the planning of future industrial towns.
+
+<ICE-IND:W2A-031#5:1>
+Keeping this in view, we have undertaken an on - - going study of the
+environmental pollution in this steel city.
+
+<ICE-IND:W2A-031#6:1>
+We report in this paper the results of our preliminary survey of solid
+wastes and their disposal in Rourkela.
+
+<ICE-IND:W2A-031#7:1>
+This survey, conducted over a period of two years ( 1987-1989 ) ,
+covers domestic wastes, refuse from hospitals, markets, community centres,
+etc., and industrial wastes.
+
+<ICE-IND:W2A-031#8:1>
+We discuss here the estimated quantity of solid wastes from these
+sources, methods currently used for the collection and disposal of wastes,
+the potential for land pollution, and future trends in the generation and
+disposal of solid wastes in Rourkela. </p> </bold> <&> in two columns </&>
+<&> column one </&>
+
+<ICE-IND:W2A-031#9:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-031#10:1>
+Waste has been a part of human activity since time immemorial.
+
+<ICE-IND:W2A-031#11:1>
+Baking of bricks for the Great Wall of China, for example, saw the
+end of forests all around, thus damaging the environment and
+impoverishing that country.
+
+<ICE-IND:W2A-031#12:1>
+In the earlier times, however, the population was small, needs were
+few, resources were abundant and the generation of waste was less.
+
+<ICE-IND:W2A-031#13:1>
+Moreover, these wastes got naturally recycled, since they were mostly
+biodegradable.
+
+<ICE-IND:W2A-031#14:1>
+During this century, however, the resources have been recklessly
+used and this has given rise to the generation of very diverse types of
+wastes which are often hazardous as well as non-biodegradable.
+
+<ICE-IND:W2A-031#15:1>
+Since the ecosystem cannot absorb them in the natural course, the
+piling of such wastes poses a serious environmental problem and it may
+even affect the stability of the biosphere. </p>
+
+<p> 
+<ICE-IND:W2A-031#16:1>
+During the last two decades or so, it has become clear that the
+resources of the world are limited.
+
+<ICE-IND:W2A-031#17:1>
+In order to maintain a stable economic growth and a reasonably high
+standard of living, therefore, it is very necessary that we use the available
+resources very carefully and evolve suitable technologies for the recycling
+of wastes to save both resources and energy.
+
+<ICE-IND:W2A-031#18:1>
+For a resourceful society, nothing is really waste.
+
+<ICE-IND:W2A-031#19:1>
+In fact, <w> today's </w> waste may be regarded as <w> tomorrow's
+</w> raw material.
+
+<ICE-IND:W2A-031#20:1>
+In some situations, however, waste can be a big health hazard and
+must be disposed off properly, for example by sanitary land fill.
+
+<ICE-IND:W2A-031#21:1>
+In the following sections, we examine the problem of wastes in India
+and then discuss the generation and disposal of solid wastes - - both
+municipal and industrial - - in Rourkela. </p>
+
+<ICE-IND:W2A-031#22:1>
+<h> <bold> WASTE IN INDIA </bold> </h>
+
+<p> 
+<ICE-IND:W2A-031#23:1>
+Solid wastes may be defined as <quote > ` useless, unwanted or
+discarded materials that arise from <w> man's </w> activities and are not
+free-flowing' </quote> ( WHO expert Committee,1971 ) .
+
+<ICE-IND:W2A-031#24:1>
+The extraction and processing of industrial raw materials produces
+far greater quantities of solid waste than come from homes.
+
+<ICE-IND:W2A-031#25:1>
+However, of all the materials with which an engineer has to deal,
+perhaps least is known about solid wastes, even in developed countries.
+
+<ICE-IND:W2A-031#26:1>
+In India, a comprehensive Staatus Report on Utilisation and
+Recycling of Wastes was prepared in 1975 by the National Committee on Science
+and Technology of the Government of India.
+
+<ICE-IND:W2A-031#27:1>
+Although much effort had gone in the preparation of this report, not
+much follow-up action has been taken so far on its recommendations.
+
+<ICE-IND:W2A-031#28:1>
+A survey of <O> <*> line from left to right</*> <O>
+
+<ICE-IND:W2A-031#29:1>
+* <footnote> <it> IDL Chemicals Limited, Quality Control Laboratory,
+Rourkela </it> - 769016 </footnote> </O> <O> <&> page </&> 926 </O>
+literature revealed, moreover, that very little information is available
+on the extent and nature of wastes in India ( Anon, 1970; Bhide <it> et
+al., </it> 1972; Vimal, 1977; Vimal and Talashilkar, 1984; Vimal and
+Tyagi, 1982; Mall and Upadhyay, 1988; Jain and Sharma, 1988; Moitra and
+Pandey, 1989 ) . </p>
+
+<p> 
+<ICE-IND:W2A-031#30:1>
+By proper recycling and utilisation of waste materials, it is
+possible to conserve the national resources, reduce the cost of production in
+many cases, solve the problem of environmental pollution to some extent
+and generate some employment.
+
+<ICE-IND:W2A-031#31:1>
+During the last decades, waste recycling and reuse has been one of
+the major activities in most of the developed countries and considerable
+progress has been achieved.
+
+<ICE-IND:W2A-031#32:1>
+In India and other developing nations too, there is an urgent need
+now for an intensive research and development effort in this area.
+
+<ICE-IND:W2A-031#33:1>
+Having the vast <mention> R and D </mention> infrastructure and the
+third <del> - </del> largest scientific and technical manpower in the world,
+India has the potential to become a world leader in this relatively new field
+of waste recycling. </p>
+
+<p> 
+<ICE-IND:W2A-031#34:1>
+Depending on their origin, the wastes may be grouped into the
+following 7 categories ( Khoshoo, 1986 ) : <mention> Agricultural wastes
+</mention> , <mention> Fruit and vegetable wastes </mention> , <mention>
+Animal wastes</mention>, <mention> Aquatic weeds </mention> , <mention>
+Community wastes </mention> , <mention> lndustrial wastes </mention> , and
+<mention> Construction materials </mention> from wastes.
+
+<ICE-IND:W2A-031#35:1>
+Some typical examples of various types of wastes are given in table
+1.
+
+<ICE-IND:W2A-031#36:1>
+While waste utilisation is a high technology area in developed
+countries, in many cities of developing countries ( including India ) garbage
+is sorted out by hand for materials such as tin, glass, paper, plastics, rags
+and bones.
+
+<ICE-IND:W2A-031#37:1>
+These generate new materials and also some employment.
+
+<ICE-IND:W2A-031#38:1>
+In fact, there has been a regular market in India for a long time for
+waste paper, rags and empty glass bottles.
+
+<ICE-IND:W2A-031#39:1>
+Thus the basic idea of recycling is already present in our
+society; but by and large waste utilisation on a wider scale has not taken
+root in our country. </p> <O> Table 1. </O> <O> caption </O>
+
+<ICE-IND:W2A-031#40:1>
+<h> <bold> ROURKELA lNDUSTRIAL COMPEX </bold> </h>
+
+<p> 
+<ICE-IND:W2A-031#41:1>
+Rourkela is a one of the important industrial towns in India.
+
+<ICE-IND:W2A-031#42:1>
+It is situated approximately 415 km south-west of Calcutta on the
+Calcutta - - Bombay railway line.
+
+<ICE-IND:W2A-031#43:1>
+Tha current population of Rourkela, estimated by extrapolating the
+data of 1981 census, is roughly 350,000 and its area is 121.7 km<sp>2</sp>.
+
+<ICE-IND:W2A-031#44:1>
+It is situated in close proximity to iron ore, dolomite and coal
+belts.
+
+<ICE-IND:W2A-031#45:1>
+The integrated steel plant at Rourkela ( with a rated capacity of
+1.8 MT ) was constructed in the late 1950s with the assistance from the
+Federal Republic of Germany.
+
+<ICE-IND:W2A-031#46:1>
+In addition two heavy industries, namely steel and fertilisers,
+the Rourkela Industrial Complex also contains almost 300 small-scale
+units.
+
+<ICE-IND:W2A-031#47:1>
+Some other large and medium industries in and around Rourkela are :
+<mention> Orissa Cement Ltd., </mention> Rajgangpur; <mention> Orissa
+Industries Ltd., </mention> Lathikata; <mention> Bisra Stone Ltd., </mention>
+Birmitrapur; <mention> Utkal Machinery Ltd., </mention> Kansbahal; <mention>
+IDL Chemicals Ltd., </mention> Rourkela; <mention> Orissa Fertilisers
+</mention> and <mention> Chemicals Ltd., </mention> Kalunga; and <mention>
+Blast Furnace Slag Cement Plants </mention> at Kalunga and Rajgangpur.
+
+<ICE-IND:W2A-031#48:1>
+Rourkela is, in fact, the most important growth centre for
+ancillary industries in Orissa. </p>
+
+<p> 
+<ICE-IND:W2A-031#49:1>
+Due to the presence of a large number of heavy, medium and
+small-scale industrial units, Rourkela presents a unique opportunity for the
+study of environmental pollution.
+
+<ICE-IND:W2A-031#50:1>
+However, the experience gained at Rourkela regarding the
+management of environmental pollution may be useful in the planning of
+future industrial towns in India.
+
+<ICE-IND:W2A-031#51:1>
+In spite of such crucial importance of Rourkela from the point of
+view of environmental studies, a survey of literature revealed that hardly
+any work had been done to assess the extent of environmental pollution in
+this idustrial city.
+
+<ICE-IND:W2A-031#52:1>
+In order to remedy this situation, one <O> <&> page </&> 927 </O> of
+the present authors ( Tiwari ) and his coworkers embarked on an ambitious
+programme to make an exhaustive and on-going study of environmental pollution
+in Rourkela ( Tiwari <it> et al., </it> 1987; Patel and Tiwari, 1989; Ali and
+Tiwari, 1988; Tiwari and Ali, 1988; Tiwari and Patel, 1989; Tiwari, 1989 ) .
+
+<ICE-IND:W2A-031#53:1>
+As a part of this project, we report here the results of our
+preliminary survey of the generation and disposal of solid wates in Rourkela.
+</p>
+
+<ICE-IND:W2A-031#54:1>
+<h> <bold> MUNICIPAL WASTES </bold> </h>
+
+<p> 
+<ICE-IND:W2A-031#55:1>
+The preliminary survey of municipal wastes in Rourkela
+reported in this paper was conducted over a period of 2 year ( Jan., 1988 to
+Dec., 1989 ) .
+
+<ICE-IND:W2A-031#56:1>
+The main results of this survey are summarised in table 2.
+
+<ICE-IND:W2A-031#57:1>
+The total quantity of solid wastes collected during the period of
+survey was estimated from the number of trips made by the garbage
+collecting trucks and the approximate amount of garbage taken in each trip.
+
+<ICE-IND:W2A-031#58:1>
+It was found that the municipal refuse collected during the year 1988
+was roughly 33,000 tonne, while that during 1989 was approximately 29,OOO
+tonne.
+
+<ICE-IND:W2A-031#59:1>
+lt was observed during our survey that ragpickers are quite active in
+Rourkela.
+
+<ICE-IND:W2A-031#60:1>
+Even before the garbage is collected by the trucks for disposal,
+the rag-pickers go through the piles of garbage and collect <mention>
+empty glass bottles </mention> , <mention> broken pieces of glass </mention>
+, <mention> rags </mention> , <mention> plastics </mention> , <mention>
+polyethylene bags </mention> , and <mention> metallic objects </mention> .
+
+<ICE-IND:W2A-031#61:1>
+<mention> The vegetable and fruit peels </mention> and <mention>
+other edible wastes </mention> are eaten by roaming cows, pigs and dogs
+before the garbage is collected for disposal.
+
+<ICE-IND:W2A-031#62:1>
+Another interesting phenomenon observed during this survey was that
+the roaming cows of Rourkela eat with great relish the pieces of paper found
+in the garbage or anywhere else.
+
+<ICE-IND:W2A-031#63:1>
+So the quantity of collected garbage mentioned earlier does not
+include the items collected by rag-pickers or eaten by roaming animals. </p>
+<O> Table 2. </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W2A-031#64:1>
+The garbage collected by the municipal authorities may be roughly
+classified into two groups, namely ( 1) <mention> infectious refuse
+</mention> , and ( 2) <mention> non-infectious refuse </mention> .
+
+<ICE-IND:W2A-031#65:1>
+<mention> Infectious refuse </mention> comes from hospitals,
+dispensaries and markets.
+
+<ICE-IND:W2A-031#66:1>
+<mention> Non-infectious refuse </mention> , on the other hand,
+consists of the refuse coming from homes, streets and gardens.
+
+<ICE-IND:W2A-031#67:1>
+The refuse is collected from all the sectors of Rourkela ( including
+labour colonies ) and Fertiliser Township, hospitals, markets, community
+centres, bus garage and Trainee Hostels.
+
+<ICE-IND:W2A-031#68:1>
+The methods of disposal of the two types of wastes are different.
+
+<ICE-IND:W2A-031#69:1>
+<mention> The infectious refuse </mention> is dumped in an old and
+discarded brick kiln beyond Koel Nagar on the outskirts of Rourkela and
+covered with soil.
+
+<ICE-IND:W2A-031#70:1>
+Dry, <mention> non-infectious refuse </mention> , on the other hand,
+is dumped in the low-lying areas of the Town, with proper co-ordination
+between the Land Section and Town Engineering Section of the Rourkela
+Steel Plant.
+
+<ICE-IND:W2A-031#71:1>
+Such garbage is dumped at present behind the <mention> Ispat Stadium
+</mention> and adjacent areas.
+
+<ICE-IND:W2A-031#72:1>
+In dry seasons, some of the garbage is burnt on roadside instead
+of being collected.
+
+<ICE-IND:W2A-031#73:1>
+It was found that the quantity of refuse collected from July to
+December is almost double the amount collected from January to June in
+each year.
+
+<ICE-IND:W2A-031#74:1>
+This extra <mention> refuse </mention> mostly consists of garden
+wastes, such as bushes and tree cuttings, during the rainy seasons and the
+months following it. </p>
+
+<ICE-IND:W2A-031#75:1>
+<h> <bold> BLAST FURNACE SLAG </bold> </h>
+
+<p> 
+<ICE-IND:W2A-031#76:1>
+Rourkela Steel Plant was the first integrated steel plant in
+India in the public sector.
+
+<ICE-IND:W2A-031#77:1>
+This plant caters to a varied and wide spectrum of consumers,
+starting from <mention> household wares </mention> and <mention>
+agricultural implements </mention> to heavy and core industries, ship
+building, boilers, defence, railways, automobiles, electrical equipments, oil
+transportation and chemical industries.
+
+<ICE-IND:W2A-031#78:1>
+The rated capacity of <mention> Rourkela Steel Plant </mention> is
+1.8 MT.
+
+<ICE-IND:W2A-031#79:1>
+If the plant runs at full capacity, the annual productction of blast
+furnace slag would be about <O> <&> page </&> 928 </O> 700,000 tonne per
+year.
+
+<ICE-IND:W2A-031#80:1>
+The approximate chemical composition of blast furnace slag is shown
+in table 3.
+
+<ICE-IND:W2A-031#81:1>
+Prior to 1977, this huge amount of blast furnace slag was dumped
+as waste material.
+
+<ICE-IND:W2A-031#82:1>
+It was decided, however, to install a Slag Granulation Plant to make
+use of practically the entire amount of slag produced by the blast furnaces.
+
+<ICE-IND:W2A-031#83:1>
+Such a plant, with an annual capacity of 600,000 tonne, was set up in
+1977 at an estimated cost of Rs 3.86 <indig> crore. </indig> </p> <O> Table
+3. </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W2A-031#84:1>
+Cement is one of the core raw materials for a developing
+country like India and it plays a vital role in the economic growth of the
+country.
+
+<ICE-IND:W2A-031#85:1>
+Granulated blast furnance slag is an excellent input material for
+cement production and can replace the main ingredient - - the clinker - -
+up to 50-60%.
+
+<ICE-IND:W2A-031#86:1>
+The use of granulated slag for cement production results in
+significant cost reduction in cement industry as well as steel industry.
+
+<ICE-IND:W2A-031#87:1>
+It also results in marked conservation of limestone - - a basic
+raw material for both of these industries.
+
+<ICE-IND:W2A-031#88:1>
+A small amount of granulated slag, moreover, can also be a substitute
+for lime in fertiliser industry. </p>
+
+<p> 
+<ICE-IND:W2A-031#89:1>
+Some of the important cement factories which have successfully
+used the granulated slag from Rourkela on commerical scale are <mention>
+Andhra Cement Ltd., </mention> Vijayawada; <mention> Rohtas Industries
+</mention> , Dalmianagar and <mention> Orissa Cement Ltd., </mention>
+Rajgangpur.
+
+<ICE-IND:W2A-031#90:1>
+Several other cement companies have also shown interest in the
+granulated blast furnace slag from Rourkela.
+
+<ICE-IND:W2A-031#91:1>
+Thus, instead of being a <mention> solid waste </mention>
+contributing to environmental pollution, the <mention> blast furnace slag
+</mention> from the <mention> Rourkela Steel Plant </mention> will result in
+additional availability of over 1.2 MT of <mention> Portland Blast Furnace
+Slag </mention> cement to the country every year.
+
+<ICE-IND:W2A-031#92:1>
+We note here that only the <mention> blast furnace slag </mention> is
+utilised for granulation and subsequent cement production.
+
+<ICE-IND:W2A-031#93:1>
+The slag produced in the steel melting shop ( SMS ) contains a higher
+percentage of iron and is, therefore, not useful as a raw material for
+<mention> Portland cement industry </mention> .
+
+<ICE-IND:W2A-031#94:1>
+The <mention> SMS slag </mention> is taken at present to the dumping
+yard and collected later by private parties for use in mini steel plants.
+</p>
+
+<ICE-IND:W2A-031#95:1>
+<h> <bold> ACKNOWLEDGEMENT </bold> </h>
+
+<p> 
+<ICE-IND:W2A-031#96:1>
+The authors are grateful to Prof. S. Misra, Principal, Regional
+Engineering College, Rourkela and the Mr. B.C. Pati. Vice-President,
+<mention> IDL Chemicals Ltd., </mention> Rourkela, for research
+facilities, full co-operation and constant encouragement.
+
+<ICE-IND:W2A-031#97:1>
+A generous grant from <mention> the Ministry of Human Resource
+Development, Government of India </mention> , is thankfully acknowledged.
+</p> </I>

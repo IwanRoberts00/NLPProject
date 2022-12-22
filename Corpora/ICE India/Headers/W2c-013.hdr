@@ -1,0 +1,147 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-013</textcode>
+             <number.of.subtexts>4</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>1999</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=a,b,c>
+           <source.type=periodical>
+           <source.title>Business India</source.title>
+           <source.subtitle></source.subtitle>
+           <volume></volume>
+           <no.></no.>
+           <series></series>
+           <frequency>Monthly</frequency>
+     <publication.statement>
+           <publisher>Business India</publisher>
+           <address>Wadia Building, 17/19 Dalal Street, Bombay-
+                   400001</address>
+           <place>Bombay</place>
+           <date>19-02-90</date>
+           <ISSN></ISSN>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of          
+                         Business India</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-013a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Bombay Municipal Corporation</main.title>
+                 <subtitle>Another surplus budget</subtitle>
+                 <page.nos>26-28</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-013b</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>MRF LTD</main.title>
+                 <subtitle>Uneasy calm at Tiruvottiyar</subtitle>
+                 <page.nos>31</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-013c</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>BONUS ISSUE</main.title>
+                 <subtitle>Inducing smaller dividends</subtitle>
+                 <page.nos>164</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-013a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Fernandez</surname>
+                <forenames>Aloysius</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-013b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Pani</surname>
+                <forenames>Dharani</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-013c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Parikh</surname>
+                <forenames>Daksesh</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=d>
+     <source.type=newspaper>
+           <source.title>Hitavada</source.title>
+           <scope>regional</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Rajendra Purohit & Co.</publisher>
+            <address>Pt. Jawaharlal Nehru Marg, Nagpur-
+                    440012</address>
+            <place>Nagpur</place>
+            <date>29-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Rajendra
+                    Purohit & Co.</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-013d</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>6 Sanghatana workers killed in road
+                 mishap</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>1,4</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-013d</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

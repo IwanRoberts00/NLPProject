@@ -1,0 +1,53 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-010</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:short story</caregory>
+            <wordcount>2551</wordcount>
+            <version>one</version>
+            <free.comments>Text collected by
+              Leitner</free.comments>
+       </file.description>
+       <subtext.source=W2F-010>
+       <source.type=periodical>
+            <source.title>2001</source.title>
+            <source.subtitle></source.subtitle>
+       <publication.statement>
+            <publisher>Pritish Nandy for the proprietors,
+              Bennett, Coleman & Co., Ltd</publisher>
+            <address>Bennett, Coleman & Co Ltd, Dr. D N Road,
+              Bombay 400001</address>
+            <place>Bombay</place>
+            <date>January 1990</date>
+            <ISBN>not known</ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of the    
+         author and the Publisher</copyright.statement>
+       <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-010>
+       <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Takeover</main.title>
+            <subtitle>It Was Time For The Sea's
+              Revenge</subtitle>
+            <page.nos>41-43</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-010>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Sharma</surname>
+            <forenames>R.N.</forenames>
+            <age></age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+</text.info>

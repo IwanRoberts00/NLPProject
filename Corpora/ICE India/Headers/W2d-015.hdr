@@ -1,0 +1,51 @@
+<text.info>
+     <file.description>
+              <textcode>ICE-IND-W2D-015</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>printed:instructional:
+                skills/hobbies</category>
+              <wordcount>2370</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2D-015>
+            <source.type=periodical>
+            <source.title>Femina</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Fortnightly</series>
+     <publication.statement>
+           <publisher>Bennett, Coleman & Co. Ltd.</publisher>
+           <address>Dr N. D. Road, Bombay-400001</address>
+           <place>Bombay</place>
+           <date>01-06-97</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Bennett,
+           Coleman & Co. Ltd.</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-015</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Gourmet</main.title>
+                 <subtitle>An Eastern Promise</subtitle>
+                 <page.nos>79-84</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-015</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Baljekar</surname>
+                <forenames>Mridula</forenames>
+                <age></age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,87 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-041</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2128</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-041>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>13-07-93</date>
+            <time>4.30pm</time>
+            <place>Dharwad</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-041</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>3</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-040</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Varghese</surname>
+            <forenames>Vijay</forenames>
+            <age>34-41</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>graduate</educational.level>
+            <occupation>Business</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Malayalam</mother.tongue>
+            <other.languages>Marathi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-040</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Jain</surname>
+            <forenames>Harish</forenames>
+            <age>26-33</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Business, Flour Mill
+                 owner</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Hindi</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-040</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>G</surname>
+            <forenames>Madhu</forenames>
+            <age>26-33</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>graduate</educational.level>
+            <occupation>Professional Work</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Malayalam</mother.tongue>
+            <other.languages>Tamil, Hindi,
+                 Marathi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,144 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-008</textcode>
+             <number.of.subtexts>4</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>2104</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=a,b>
+     <source.type=newspaper>
+           <source.title>Herald</source.title>
+           <scope>regional</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Fernandes Publications</publisher>
+            <address>Behind General Post Office, Panjim, Goa-
+                    403001</address>
+            <place>Goa</place>
+            <date>24-02-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Fernandes
+                Publications</copyright.statement>
+     <free.comments>text was obtained by Prof.                 
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-008a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+           <main.title>Carnival jamboree</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>1</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-008b</it>>
+           <subtext.name>ICE-IND</subtext.name>
+           <main.title>It's Here Once Again</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>1</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-008a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Fernandes</surname>
+                <forenames>Anthony</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-008b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Narayan</surname>
+                <forenames>Rajan</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=c,d>
+     <source.type=newspaper>
+           <source.title>Indian Express</source.title>
+           <scope>national</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Indian Express Newspapers Ltd.</publisher>
+            <address>Express Towers, Nariman Point, Bombay-    
+                    400021</address>
+            <place>Bombay</place>
+            <date>06-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Indian
+                Express Newspapers Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.                 
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-008c</it>>
+           <subtext.name>ICE-IND</subtext.name>
+           <main.title>Smoke signals</main.title>
+                 <subtitle>facts on fogs</subtitle>
+                 <page.nos>4</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-008d</it>>
+           <subtext.name>ICE-IND</subtext.name>
+           <main.title>A Lonavala Chikki</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>5</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-008c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-008d</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Jain</surname>
+                <forenames>Chakresh</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

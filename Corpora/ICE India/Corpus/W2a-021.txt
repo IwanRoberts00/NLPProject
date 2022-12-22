@@ -1,0 +1,506 @@
+<I> <O> Proc. Indian Acad. Sci. ( Chem. Sci. ) , Vol. 103, No. 2, February
+1991, pp. 83-93. Printed in India. </O>
+
+<ICE-IND:W2A-021#1:1>
+<bold> Oxidation of dyes by manganese tetraphenyl porphyrin activated
+peroxy bleach </bold> <&> second margin begin </&> <&> authors </&>
+
+<ICE-IND:W2A-021#2:1>
+<bold> R G BHIRUD, E V SRISANKAR </bold> and <bold> K S NARAYAN <fnr>
+<sp> * </sp> </fnr> </bold> <O>
+
+<ICE-IND:W2A-021#3:1>
+Hindustan Lever Research Centre, ICT Link Road, Sahar P.O., Andheri (
+East), Bombay 400099, India </O> <O>
+
+<ICE-IND:W2A-021#4:1>
+MS received 16 May 1990; revised 1 October 1990 </O>
+
+<p> 
+<ICE-IND:W2A-021#5:1>
+<h> <bold> Abstract. </bold> </h>
+
+<ICE-IND:W2A-021#6:1>
+The oxidation of a number of dyes in predominantly aqueous systems by
+tetraphenylporphyrinato manganese ( III ) imidazole, MnTPP ( Im ) , activated
+peroxy bleach has been studied in the context of application in detergent
+systems.
+
+<ICE-IND:W2A-021#7:1>
+Dyes with an olefinic linkage in the chromophoric group are readily
+oxidized by perborate even in the absence of the activator.
+
+<ICE-IND:W2A-021#8:1>
+On the other hand, dyes with an azo linkage are resistant to oxidation
+and are bleached only to a limited extent ( 25 % ) even by MnTPP ( Im )
+activated perborate.
+
+<ICE-IND:W2A-021#9:1>
+In the presence of a surfactant, alkylbenzene sulphonate, bleaching is
+further inhibited by micellar solubilization of the dyes.
+
+<ICE-IND:W2A-021#10:1>
+Sulphonation of MnTPP(Im) only marginally improves the bleaching
+efficiency in presence of the surfactant.
+
+<ICE-IND:W2A-021#11:1>
+MnTPP ( Im ) is also destroyed by perborate in the absence of the
+substrate.
+
+<ICE-IND:W2A-021#12:1>
+In view of these limitations, the metalloporphyrin activated peroxy
+bleach system is not promising for application in detergent systems.
+
+<ICE-IND:W2A-021#13:1>
+Attempts have also been made to explain the difference in the
+behaviour of different substrates on structural consideration. </p>
+
+<p> 
+<ICE-IND:W2A-021#14:1>
+<h> <bold> Keywords. </bold> </h> <mention> Bleaching; </mention>
+<mention> oxidation; </mention> <mention> dyes; </mention> <mention>
+perborate; </mention> <mention> Mn-porphyrin; </mention> <mention>
+alkylbenzene sulphonate; </mention> micellar effects. <&> second margin end
+</&>
+
+<ICE-IND:W2A-021#15:1>
+<h> <bold> 1. Introduction </bold> </h>
+
+<p> 
+<ICE-IND:W2A-021#16:1>
+Transition metal complex mediated oxidation processcs are
+receiving attention in recent times.
+
+<ICE-IND:W2A-021#17:1>
+This concept is based on the analogy with cytochrome P-450 whose key
+feature is the involvement of a metalloprophyrin complex ( Coon and White
+1980; Guengerich and MacDonald 1985 ) .
+
+<ICE-IND:W2A-021#18:1>
+The oxidation of olefins to epoxides ( White and Coon 1980; Collman
+<it> et al </it> 1985 ) , alkanes to alcohols ( Guengerich and MacDonald 1984 )
+, dialkylamines to amine oxides ( Poulos <it> et al </it> 1985 ) with oxygen
+supply from an exogenous source has given a lot of impetus to work on model
+systems using metalloporphyrins.
+
+<ICE-IND:W2A-021#19:1>
+High valent metallophorphyrin oxidizing species have been obtained
+with iron ( Groves <it> et al </it> 1981 ) , manganese ( Hill and Schardt
+1980 ) and chromium ( Groves and Haushalter 1981 ) .
+
+<ICE-IND:W2A-021#20:1>
+Most of the studies rcported employ oxygen donors such as
+alkylhydroperoxide, peracids, iodosylbenzene, amine oxide, persulphate (
+Collman <it> et al </it> 1985; Depoorter and Meunier 1985; Groves and Quinn
+1985; Renaud <it> et al </it> 1985 ) .
+
+<ICE-IND:W2A-021#21:1>
+Invariably two-phase systems have been employed with the oxidant in
+the <O> <*> a short line</*> </O> <O>
+
+<ICE-IND:W2A-021#22:1>
+<footnote> <sp> *</sp> For correspondence </footnote> </O> <O> <&>
+page </&> 83 </O> aqueous phase while the non-aqueous phase contains
+metalloporphyrin and the substrate along with a phase transfer catalyst. </p>
+
+<p> 
+<ICE-IND:W2A-021#23:1>
+We thought it would be worthwhile examining the versatility of
+the metalloporphyrin mediated peroxy bleach system by studying the bleaching
+of dyes in predominantly aqueous systems by manganese porphyrins.
+
+<ICE-IND:W2A-021#24:1>
+A range of dyes with different reactive groups such as azo, olefinic
+and different structural features have been selected.
+
+<ICE-IND:W2A-021#25:1>
+Bleaching experiments have been carried out in two solvent systems
+and also in a micellar system to delineate the behaviour in these systems.
+
+<ICE-IND:W2A-021#26:1>
+We also wanted to examine the applicability of this bleaching
+principle to detergent systems and have, therefore, used sodium perborate, a
+common bleaching agent in detergent systems as the oxygen donor and linear
+alkylbenzene sulphonate ( LAS), a versatile surfactant used in detergents.
+
+<ICE-IND:W2A-021#27:1>
+We also felt that it would be of interest to study the effect of
+solubilizing the metalloporphyrin through sulphonation. </p>
+
+<ICE-IND:W2A-021#28:1>
+<h> <bold> 2. Experimental </bold> </h>
+
+<ICE-IND:W2A-021#29:1>
+<h> 2.1 <it> Chemicals </it> </h>
+
+<p> 
+<ICE-IND:W2A-021#30:1>
+Imidazole, direct yellow-9, rhodamine 6G,
+4-nitrophenyl-azoresorcinol, <it> p</it>-dimethly-amino
+benzylidenerhodanine, carmine AS, carmine MS were obtained from BDH, England.
+
+<ICE-IND:W2A-021#31:1>
+Direct red-23, direct red-81, quinaldine blue, quinaldine red, <it>
+m</it>-chloroper-benzoic acid were obtained from Sigma or Aldrich.
+
+<ICE-IND:W2A-021#32:1>
+Eriochrome blue black, eriochrome black T, methyl orange, methyl red
+and fuchsin basic were from Merck.
+
+<ICE-IND:W2A-021#33:1>
+Sunset yellow and tartrazine were cosmetic grade dyestuffs ( ex
+Devarsons Limited ) .
+
+<ICE-IND:W2A-021#34:1>
+Structures of the various dyes are given in figure 1. 5, 10, 15,
+20-tetraphenylporphyrin ( TPP ) and tetraammonium tetra ( <it>
+p</it>-sulphophenyl ) porphyrin ( TPPS ) were obtained from Organic Chemistry
+Section, HLRC.
+
+<ICE-IND:W2A-021#35:1>
+Linear alkylbenzene sulphonate ( LAS ) , sodium tripoly-phosphate
+( STP) and sodium carbonate were commercial samples.
+
+<ICE-IND:W2A-021#36:1>
+Dimethyl-formamide ( DMF ) and methanol were of reagent grade ex
+E. Merck.
+
+<ICE-IND:W2A-021#37:1>
+Distilled water was used for preparation of solutions. </p>
+
+<ICE-IND:W2A-021#38:1>
+<h> 2.2 <it> Preparation </it> </h>
+
+<p> 
+<ICE-IND:W2A-021#39:1>
+2.2a ( 5, 10, 15, 20 <it> Tetraphenylporphyrinato ) manganese (
+III ) acetate </it> ( MnTPP ) ( OAC ) : Manganese ( II ) acetate tetrahydrate
+( 2 gms ) and tetraphenyl porphyrin ( 0.5 gms ) were dissolved in 100ml of
+DMF and the solution was refluxed for 5-6 hours.
+
+<ICE-IND:W2A-021#40:1>
+DMF was <O> chemical formula </O> <O> caption </O> <O> <&> page </&>
+85 </O> <O> chemical formulas </O> <O> caption </O> <&> page no. </&> <O> 86
+</O> removed using a high vacuum rotary evaporator.
+
+<ICE-IND:W2A-021#41:1>
+The dried reaction mixture was then slurried in sodium acetate
+solution and extracted with chloroform.
+
+<ICE-IND:W2A-021#42:1>
+After shaking for several minutes, the aqueous phase was separated.
+
+<ICE-IND:W2A-021#43:1>
+Chloroform layer was taken in a rotary evaporator to remove the
+solvent.
+
+<ICE-IND:W2A-021#44:1>
+The final product was again extracted with chloroform in a Soxhlet
+thimble and recrystallised.
+
+<ICE-IND:W2A-021#45:1>
+The preparation was as per Adler <it> et al </it> ( 1970 ) . </p>
+
+<p> 
+<ICE-IND:W2A-021#46:1>
+2.2b <it> Tetra ( p-sulphophenylporphyrinato ) manganese ( III )
+acetate </it> ( Mn TPPS ) : 50 mg tetra ( <it> p</it>-sulphophenyl )
+porphyrin and 200 mg manganous acetate tetrahydrate were stirred in 100 ml
+methanol at 40-50 <*> degree </*> C for three hours.
+
+<ICE-IND:W2A-021#47:1>
+The solution was then kept overnight in the dark.
+
+<ICE-IND:W2A-021#48:1>
+The solution after ageing was filtered and concentrated on a water
+bath.
+
+<ICE-IND:W2A-021#49:1>
+The product was extracted in a Soxhlet thimble with methanol and
+further recrystallised. </p>
+
+<p> 
+<ICE-IND:W2A-021#50:1>
+In the bleaching experiments imidazole was used as an axial
+ligand to stabilize the higher valency manganese complex.
+
+<ICE-IND:W2A-021#51:1>
+The stock solution of MnTPP ( OAC ) ( 5 x 10<sp>-4</sp> M ) was
+prepared in methanol containing 10-fold excess of imidazole, while the
+solution of MnTPPS ( OAC ) ( 5 x 10<sp>-4</sp> M ) was prepared in distilled
+water containing excess imidazole.
+
+<ICE-IND:W2A-021#52:1>
+Under these conditions it has been estabilished that OAC is
+substituted by imidazole in the complex ( Renaud <it> et al </it> 1985 ) .
+
+<ICE-IND:W2A-021#53:1>
+The activator species are therefore ( 5, 10, 15, 20 tetraphenyl
+porphyrinato ) manganese ( III ) imidazole and 5, 10, 15, 20 tetra ( <it>
+p</it>-sulphophenyl porphyrinato ) manganese ( III ) imidazole and these will
+be referred to in the rest of the text as MnTPP ( Im) and MnTPPS ( Im)
+respectively. </p>
+
+<ICE-IND:W2A-021#54:1>
+<h> 2.3 <it> Solutions </it> </h>
+
+<p> 
+<ICE-IND:W2A-021#55:1>
+Methanolic solutions of quinaldine blue and methyl red were used
+for bleaching experiments.
+
+<ICE-IND:W2A-021#56:1>
+Stock solutions of direct red-81, direct red-23, rhodamine B,
+rhodamine 6G, eriochrome black T, eriochrome blue black, sunset yellow,
+tartrazine, methyl orange, carrmine MS and carmine AS were prepared in water,
+while DMF solutions of direct yellow 9, 4-dimethylaminobenzylidene rhodanine
+and quinaldine red were used.
+
+<ICE-IND:W2A-021#57:1>
+Solutions of sodium perborate ( 2 % ) , LAS ( 59 % ) ,
+Na<sb>2</sb>C0<sb>3</sb> ( 05 % ) and STP ( 0.25 % ) were prepared in water.
+
+<ICE-IND:W2A-021#58:1>
+The reaction was initiated with 2 % sodium perborate. </p>
+
+<ICE-IND:W2A-021#59:1>
+2.4 <h> <it> Measurements </it> </h>
+
+<p> 
+<ICE-IND:W2A-021#60:1>
+The decay of the substrate concentration was followed by
+measuring the decrease in optical density at the appropriate absorption
+maximum of substrates with time on Hewlett-Packard HP 8451 diode array
+spectrophotometer ( figure 2 ) .
+
+<ICE-IND:W2A-021#61:1>
+The reaction mixture contained 0 22 % LAS, 0.1 % STP, 0.2 %
+Na<sb>2</sb>C0<sb>3</sb>, 1.89 x 10<sp>-5</sp> M MnTPP ( Im ) or 2.5 x
+10<sp>-5</sp> M MnTPPS ( Im ) and 0.38 % sodium perborate.
+
+<ICE-IND:W2A-021#62:1>
+LAS was not present in the experiments carried out in aqueous
+methanol or DMF.
+
+<ICE-IND:W2A-021#63:1>
+The reaction was initiated by adding 0.05 ml of 2 % sodium perborate
+solution.
+
+<ICE-IND:W2A-021#64:1>
+The same experiment was repeated in the absence of MnTPP ( Im ) .
+
+<ICE-IND:W2A-021#65:1>
+The chromophore concentration was suitably adjusted for measurement
+of optical density.
+
+<ICE-IND:W2A-021#66:1>
+In aqueous methanolic or aqueous DMF medium the same ingredients have
+been used with water to solvent ratio 1: 0.6 ( figure 3 ) . </p> <O> <&> page
+</&> 87 </O> <O> graph </O> <O>
+
+<ICE-IND:W2A-021#67:1>
+<caption> Figure 2. Absorption spectra of reaction mixture containing
+direct red-81, MnTPP ( Im ) and perborate at various time intervals in
+aqueous methanolic medium. </caption> </O> <O> graph </O> <O>
+
+<ICE-IND:W2A-021#68:1>
+<caption> Figure 3. Absorption spectra of reaction mixture at ` O'
+time ( a) and after 30 minutes ( b) for system containing quinaldine blue,
+MnTPP ( Im ) and sodium perborate. </caption> </O>
+
+<ICE-IND:W2A-021#69:1>
+<h> <bold> 3. Results and discussion </bold> </h>
+
+<p> 
+<ICE-IND:W2A-021#70:1>
+The Soret band of MnTPP ( OAC ) was observed at 466 nm in
+methanol and this value is in good agreement with the literature value.
+
+<ICE-IND:W2A-021#71:1>
+The absorption spectrum of MnTPPS ( Im ) is given in figure 4.
+
+<ICE-IND:W2A-021#72:1>
+The Soret band is at 470nm and in addition there is a doublet at 380
+and 400nm.
+
+<ICE-IND:W2A-021#73:1>
+The results on the bleaching of 17 substrates with MnTPP ( Im ) in
+aqueous methanol, aqueous DMF and aqueous LAS solutions have been presented
+in table 1.
+
+<ICE-IND:W2A-021#74:1>
+The results on the oxidation of substrates with MnTPPS ( Im ) are
+given in table 2.
+
+<ICE-IND:W2A-021#75:1>
+Typical curves giving thc absorption spectrum as a function of time
+for direct red-81 as an example are given in figure 2.
+
+<ICE-IND:W2A-021#76:1>
+Figures 3a and 3b give the absorption spectrum before after oxidation
+in the case of quinaldine blue by MnTPP ( Im ) <O> <&> page </&> 88 </O> <O>
+graph </O> <O> <caption> Figure 4. Change in spectral characteristics of
+MnTPP ( Im ) : curve ` a' without perborate curve ` b' 30 seconds after
+addition of sodium perborate and curve ` c' 5 minutes after addition of
+perborate. </caption> </O> in aqueous LAS medium.
+
+<ICE-IND:W2A-021#77:1>
+Figure 4 gives the data on the change in spectral characteristics of
+MnTPPS ( Im ) mixed with sodium perborate in the absence of substrate.
+
+<ICE-IND:W2A-021#78:1>
+The change in absorbance in the presence and absence of MnTPP ( Im )
+as a function of time at the <*> i</*> max of the substrate are given in
+figure 5 in the case of quinaldine blue as an illustrative example of the
+kinetic course of the reaction. </p>
+
+<ICE-IND:W2A-021#79:1>
+<h> 3.1 <it> Bleaching in aqueous-solvent systems </it> </h>
+
+<p> 
+<ICE-IND:W2A-021#80:1>
+The absorption spectra as a function of time presented in figure
+2 in the case of direct red-81 is indicative of the typical course of
+reaction.
+
+<ICE-IND:W2A-021#81:1>
+Decrease in absorption at 514 nm, the strong absorption maximum of
+the dye, and simultaneous increase in absorption at 400nm, which is
+suggestive of the formation of a less conjugated product, are clearly seen.
+</p>
+
+<p> 
+<ICE-IND:W2A-021#82:1>
+The absorption spectra of the reaction mixture in the case of
+quinaldine blue before addition of perborate and after the reaction is
+complete are presented in figure 3 and the results again show the
+disappearance of the strong maximum and increase in absorption / appearance
+of new peaks at lower wave lengths again indicating the formation of species
+with reduced conjugation.
+
+<ICE-IND:W2A-021#83:1>
+There is a decrease in the intensity of the Soret band showing that
+some of the MnTPP ( Im ) is also oxidized. </p>
+
+<p> 
+<ICE-IND:W2A-021#84:1>
+In the absence of the substrate MnTPPS ( Im ) appears to react
+readily with perborate ( figure 4 ) .
+
+<ICE-IND:W2A-021#85:1>
+At first there is a shift in the absorption maximum from 470 nm to
+436 nm and the doublet at 380 and 400 nm disappears ( the peak at 400 nm
+might have merged with the primary maximum ) .
+
+<ICE-IND:W2A-021#86:1>
+These spectral changes may perhaps be due to the formation of the
+higher valent manganese complex ( as shown in the scheme in figure ( 6 ) (
+Hill and Schardt 1980 ) .
+
+<ICE-IND:W2A-021#87:1>
+However, within 5 minutes MnTPPS ( Im ) is totally destroyed as
+perceived by the drastic reduction in intensity of the absorption bands. </p>
+
+<p> 
+<ICE-IND:W2A-021#88:1>
+It is seen from the results on the oxidation of the substrates by
+perborate in the absence of MnTPP ( Im ) in aqueous methanolic solution that
+as expected quinaldine blue and quinaldine red with olefinic linkage between
+the aromatic moieties are the <O> <&> page </&> 89 </O> <O> Table 1. </O> <O>
+<&> page </&> 90 </O> <O> Table 2. & graph </O> <O> <caption> Figure 5. The
+change in optical density with time at 606 nm of quinaldine blue, Curve ` a'
+in the absence of MnTPP ( Im ) and curve ` b' in the presence of MnTPP ( Im ) .
+</caption> </O> most susceptible species for bleaching.
+
+<ICE-IND:W2A-021#89:1>
+Rhodamine 6G with quaternary group is also susceptible to bleaching
+although not to the same extent as the dyes with the olefinic linkage.
+
+<ICE-IND:W2A-021#90:1>
+However, rhodamine <it> B </it> is very resistant to bleaching.
+
+<ICE-IND:W2A-021#91:1>
+This resistance is perhaps due to the additional electron donating
+alkyl substitution on the quaternary nitrogen thus imparting a stabilizing
+effect. </p>
+
+<p> 
+<ICE-IND:W2A-021#92:1>
+The azo dyes appear to be resistant to oxidation by perborate and
+less than 10 % bleaching has been noticed in the case of all the azo dyes
+examined.
+
+<ICE-IND:W2A-021#93:1>
+Even in the presence of the activator, MnTPP ( Im ) the azo dyes are
+bleached only to a limited extent of 25 %.
+
+<ICE-IND:W2A-021#94:1>
+The only exception is eriochrome blue black which is bleached in the
+presence of the catalyst in aqueous methanolic/DMF medium to the extent of 90
+%.
+
+<ICE-IND:W2A-021#95:1>
+Azo dyes as a class are known for their stability.
+
+<ICE-IND:W2A-021#96:1>
+However, the reasons for the susceptibility of eriochrome blue black
+to bleaching are not clear.
+
+<ICE-IND:W2A-021#97:1>
+The reactions in <O> <&> page </&> 91 </O> <O> formula </O> <O>
+<caption> Figure 6. Suggested mechanism for oxidation of substrates by
+manganese prophyrin complexes. </caption> </O> the case of this dye also
+appear to be somewhat complex.
+
+<ICE-IND:W2A-021#98:1>
+The dye is bleached within a few seconds, but with time the colour is
+partially regained. </p>
+
+<p> 
+<ICE-IND:W2A-021#99:1>
+In the case of oxidation in aqueous methanol it is seen from
+results presented in table 1 that quinaldine blue, quinaldine red and
+rhodamine 6G are oxidized by perborate even in the absence of MnTPP ( Im ) .
+
+<ICE-IND:W2A-021#100:1>
+In aqueous DMF quinaldine blue is not oxidized.
+
+<ICE-IND:W2A-021#101:1>
+The reasons for this solvent effect are not very clear.
+
+<ICE-IND:W2A-021#102:1>
+In general, it has been found in the case of most of the dyes
+studied that the extent of oxidation increases in presence of MnTPP ( Im ) ,
+the only exception being rhodamine B.
+
+<ICE-IND:W2A-021#103:1>
+In the presence of the activator also isolated cases of solvent
+effect are perceived.
+
+<ICE-IND:W2A-021#104:1>
+Eriochrome black T appears to be more resistant to oxidation in
+methanolic medium.
+
+<ICE-IND:W2A-021#105:1>
+It has been reported that olefins show higher rates of oxidation in
+methanolic medium because the high valent oxomanganese species ( oxygen
+transferring ) rapidly reacts with substrate ( Razenberg <it> et al </it>
+1986 ) .
+
+<ICE-IND:W2A-021#106:1>
+However, no such general trend was observed in the case of the dyes
+examined. </p>
+
+<p> 
+<ICE-IND:W2A-021#107:1>
+On substitution of manganese by cobalt it was found that the
+catalyzing effect was completely lost.
+
+<ICE-IND:W2A-021#108:1>
+Quinaldine blue, quinaldine red, direct red 81, eriochrome blue
+black which are bleached in aqueous DMF by MnTPP ( Im ) were not at all
+bleached by CoTPP ( Im ) .
+
+<ICE-IND:W2A-021#109:1>
+The reasons for the ineffectivity of CoTPP ( Im ) may be due to the
+lack of formation of high valent oxygen donating species. </p> </I>

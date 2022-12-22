@@ -1,0 +1,363 @@
+<I>
+
+<ICE-IND:W2A-034#1:1>
+<h> <bold> Impact of Ca and SO<sb>4</sb> on pH of Rain Water in Rural
+Environments in India </bold> </h> <&> authors </&>
+
+<ICE-IND:W2A-034#2:1>
+<bold> P. S. Prakasa Rao, G.A. Momin, P.D. Safai, A.G. Pillai, M.S.
+Naik and L.T. Khemani </bold> <it> Indian Institute of Tropical Meteorology,
+Pune </it> - 411 008 <&> in two columns </&> <&> column one </&>
+
+<ICE-IND:W2A-034#3:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-034#4:1>
+It is believed that there is no single natural pH of precipitation
+applicable to the whole globe, but rather several natural values, each unique
+to a region the size of a continent or an ocean.
+
+<ICE-IND:W2A-034#5:1>
+Hence, the natural pH of rain water in rural areas in India will
+also depend upon the geographical location of the observational site.
+
+<ICE-IND:W2A-034#6:1>
+The dust load in the atmosphere over the northwest parts of India is
+significantly higher than that over the eastern parts.
+
+<ICE-IND:W2A-034#7:1>
+It is reported that the dust particles are potentially basic in nature
+which can neutralize the H ion concentration and maintain the pH in the
+alkaline range.
+
+<ICE-IND:W2A-034#8:1>
+However, the extent to which the air-borne dust influences the
+chemistry of rain water in certain geographical regions varies with its
+composition and abundance.
+
+<ICE-IND:W2A-034#9:1>
+In view of the above, the rain water samples were collected at two
+rural locations namely, <mention> Muktsar </mention> in Punjab ( NW India )
+and <mention> Goraur </mention> in Bihar ( NE India ) where there is a
+significant difference in the concentrations ot total suspended
+particulates.
+
+<ICE-IND:W2A-034#10:1>
+The rain water samples, collected simultaneously during the monsoon
+season of 1988, were analysed for major cations and anions.
+
+<ICE-IND:W2A-034#11:1>
+The influence of individual ions on pH of rain water has been
+identified and the reasons for the variations in pH at the two locations
+are discussed. </p>
+
+<ICE-IND:W2A-034#12:1>
+<h> <bold> SAMPLING AND ANALYSIS </bold> </h>
+
+<p> 
+<ICE-IND:W2A-034#13:1>
+Rain water samples were collected at two locations namely,
+Muktsar and Goraur during the monsoon season of 1988.
+
+<ICE-IND:W2A-034#14:1>
+Samples were collected by using stainless steel funnels of 30 cm
+diameter fitted on 10 lit capacity polyethylene bottles previously rinsed
+with double distilled water.
+
+<ICE-IND:W2A-034#15:1>
+The duration of each sample was 24 h.
+
+<ICE-IND:W2A-034#16:1>
+The funnels were washed twice daily in the morning and evening to
+avoid dry deposition.
+
+<ICE-IND:W2A-034#17:1>
+However, contamination due to dry deposition cannot be completely
+ruled out.
+
+<ICE-IND:W2A-034#18:1>
+The two sampling locations are representative of rural
+environments since there are no local pollution sources.
+
+<ICE-IND:W2A-034#19:1>
+All rain water samples were filtered through Whatman - - 41 filter
+paper and refrigerated at 4<*>degrees</*>C in laboratory until all the ionic
+components were analysed.
+
+<ICE-IND:W2A-034#20:1>
+The samples were analysed for major anions ( CI, SO<sb>4</sb> and
+NO<sb>3</sb> ) and cation ( NH<sb>4</sb>, Na, K, Ca and Mg ) .
+
+<ICE-IND:W2A-034#21:1>
+The concentrations of CI, SO<sb>4</sb>, NO<sb>4</sb>, and
+NH<sb>4</sb> were determined by using standard colorimetric methods (
+Khemani <it> et al., </it> 1985 ) , and those of metallic components by using
+atomic absorption spectrophotometer ( Perkin-Elmer, model 373 ) .
+
+<ICE-IND:W2A-034#22:1>
+Also, the pH was measured with a digital pH meter.
+
+<ICE-IND:W2A-034#23:1>
+The pH data in the present study are interpreted in the light of
+CO<sb>2</sb> - - equilibrated value ( pH = 6.65 ) , though it may not be a
+real atmospheric background value. </p>
+
+<ICE-IND:W2A-034#24:1>
+<h> <bold> RESULT AND DlSCUSSION </bold> </h>
+
+<ICE-IND:W2A-034#25:1>
+<h> <bold> Chemical composition of rain water </bold> </h>
+
+<p> 
+<ICE-IND:W2A-034#26:1>
+The average seasonal concentrations in mg / l of major anions
+and cations along with pH values in the rain water collected at the two
+locations are given in table 1.
+
+<ICE-IND:W2A-034#27:1>
+As the measurements include the major anions and cations, their ratio
+value should be 1.0.
+
+<ICE-IND:W2A-034#28:1>
+But it varied from 0.84 to 1.20 at <mention> Muktsar </mention> and
+from 0.80 to 1.4 at <mention> Goraur </mention> .
+
+<ICE-IND:W2A-034#29:1>
+The possible reasons for such deviations have been mentioned by
+Munger ( 1982 ) .
+
+<ICE-IND:W2A-034#30:1>
+The total mineralization in rain water at <mention> Muktsar
+</mention> was 18.52 mg / l, whereas at Goraur it was only 5.67 mg / l.
+
+<ICE-IND:W2A-034#31:1>
+The high mineralization at <mention> Muktsar </mention> was mainly
+due to high concentration of cations, especially Ca, which is mostly
+originated from oil.
+
+<ICE-IND:W2A-034#32:1>
+The high concentration of sea salt ( Na and Cl ) at <mention> Muktsar
+</mention> is puzzling and requires explanation.
+
+<ICE-IND:W2A-034#33:1>
+It is suggested that the excess sea salt at <mention> Muktsar
+</mention> might be transported from the <mention> Loni salt basin </mention>
+, situated upwind in Rajasthan, by the prevailing south westerly winds
+during the monsoon season.
+
+<ICE-IND:W2A-034#34:1>
+Ca and NO<sb>3</sb> the dominant ions in the rain water at <mention>
+Muktsar </mention> .
+
+<ICE-IND:W2A-034#35:1>
+But <mention> Goraur </mention> , the dominant ions were Ca and
+SO<sb>4</sb>.
+
+<ICE-IND:W2A-034#36:1>
+SO<sb>4</sb> and NO<sb>3</sb> in atmosphere are mostly released from
+the <O> <&> page </&> 941 </O> anthropogenic sources and are responsible for
+reducing the pH of rain water.
+
+<ICE-IND:W2A-034#37:1>
+Whereas, the alkaline components ( Ca, K and Mg ) neutralise the H
+ions and increase the pH of rain water.
+
+<ICE-IND:W2A-034#38:1>
+The high concentration of NO<sb>3</sb> at <mention> Muktsar
+</mention> has not decreased the pH.
+
+<ICE-IND:W2A-034#39:1>
+Hence, most of the nitrates are in the form of salts rather than
+acids.
+
+<ICE-IND:W2A-034#40:1>
+Also, most of the nitrates seem to be released from the soil since it
+has shown good correlation with oriented elements ( Ca, K and mg ) . </p>
+
+<p> 
+<ICE-IND:W2A-034#41:1>
+The average concentration of SO<sb>4</sb> at <mention> Muktsar
+</mention> is slightly higher than the world background value ( 1.1 mg / l ) .
+
+<ICE-IND:W2A-034#42:1>
+The concentration of Ca is about 3 times higher than that of
+SO<sb>4</sb> at <mention> Muktsar </mention> .
+
+<ICE-IND:W2A-034#43:1>
+The acidic effects, caused due to SO<sb>4</sb> are neutralised by the
+high concentrations of ca and other alkaline ionic components.
+
+<ICE-IND:W2A-034#44:1>
+Therefore, the excess cations which are of alkaline nature are
+mainly responsible for the observed high alkaline pH in rain water at
+<mention> Muktsar </mention> .
+
+<ICE-IND:W2A-034#45:1>
+The influence of sea salt on rain water at <mention> Goraur
+</mention> was minimum, since the location is far away from the nearby
+coast.
+
+<ICE-IND:W2A-034#46:1>
+It is known that the concentration of sea salt in rain water
+decreases with increase of distance from the sea.
+
+<ICE-IND:W2A-034#47:1>
+The low concentrations of the soil oriented components ( Ca, K and Mg )
+at <mention> Goraur </mention> indicates the minimum influence of dust
+particles in the atmosphere on rain water chemistry.
+
+<ICE-IND:W2A-034#48:1>
+Although the concentration of SO<sb>4</sb> is not so high at
+<mention> Goraur </mention> , <}> <-> yer </-> <+> yet </+> </}> the pH is
+slightly acidic ( 5.30 ) which is nearer to the CO<sb>2</sb> - -
+equilibrated value.
+
+<ICE-IND:W2A-034#49:1>
+Hence, the main cause for the observed acidic pH of rain water at
+Goraur is the low concentrations of soil oriented elements.
+
+<ICE-IND:W2A-034#50:1>
+similar results have been reported for the five world background
+stations which are having no influence of soil and authropogenic sources (
+Galloway <it> et al., </it> 1982 ) . </p>
+
+<ICE-IND:W2A-034#51:1>
+<h> <bold> Ca / SO<sb>4</sb> ratio </bold> </h>
+
+<p> Khemani <it> et al. </it> ( 1987 ) have suggested that the ratio of Ca to
+SO<sb>4</sb> can serve as a significant parameter for identifying the
+acidity and alkalinity in precipitation.
+
+<ICE-IND:W2A-034#52:1>
+If the ratio value is more than unity, the precipitation will be
+alkaline and if the ratio value is less than unity, the precipitation will be
+acidic.
+
+<ICE-IND:W2A-034#53:1>
+To verify this hypothesis, the ratio values ( Ca / SO<sb>4</sb> )
+were calculated for rain water collected at the two locations.
+
+<ICE-IND:W2A-034#54:1>
+The average ratio value of Ca / SO<sb>4</sb> at <mention> Muktsar
+</mention> was more than unity ( 3.5 ) showing alkalinity in rain water,
+whereas at <mention> Goraur </mention> , it was less than unity ( 0.83 )
+showing acidity in rain water. </p>
+
+<ICE-IND:W2A-034#55:1>
+<h> <bold> Influence of ionic components on pH </bold> </h>
+
+<p> 
+<ICE-IND:W2A-034#56:1>
+To verify the influence of individual ions on the pH of rain
+water, the rainy days at <mention> Goraur </mention> have been classified
+into three categories, namely, ( 1) pH<*>smaller than</*>5, ( 2) 5<*>equal to
+or less than<*></*>pH<*>equal to or less than</*>6, ( 3) pH<*>greater
+than</*>6.
+
+<ICE-IND:W2A-034#57:1>
+The number of samples in the three categories were 8, 5 and 21
+respectively<->,</-><+>.</+>
+
+<ICE-IND:W2A-034#58:1>
+However such categorisation could not be made in the case of
+<mention> Muktsar </mention> since all the pH values are greater than 6.0.
+
+<ICE-IND:W2A-034#59:1>
+The mean concentrations in <*> mu</*>eq / 1 of major anions and
+cations are presented in figure 1 for each of the three categories mentioned
+above.
+
+<ICE-IND:W2A-034#60:1>
+The SO<sb>4</sb> concentration was the highest in the acidic category
+and the lowest in the alkaline category, whereas, the Ca concentration was
+the lowest in the acidic category and the highest in the alkaline category.
+
+<ICE-IND:W2A-034#61:1>
+Similar pattern was also observed in case of K, Mg and NH<sb>4</sb>.
+
+<ICE-IND:W2A-034#62:1>
+However, Cl and Na did not show any variation among the three
+categories.
+
+<ICE-IND:W2A-034#63:1>
+The concentration of NO<sb>3</sb> in first category was lower than
+that in the other two categories.
+
+<ICE-IND:W2A-034#64:1>
+Hence, SO<sb>4</sb> and Ca ions seem to be important among all
+measured ions to influence the pH of rain water.
+
+<ICE-IND:W2A-034#65:1>
+The concentration of SO<sb>4</sb> in the first category is
+important for the acidity of precipitation, while the SO<sb>4</sb>
+concentration in the remaining categories is more important for the
+alkalinity of precipitation.
+
+<ICE-IND:W2A-034#66:1>
+This indicates the contribution of mixed sources containing
+sulphur compounds associated with acidic or basic compounds.
+
+<ICE-IND:W2A-034#67:1>
+However, Ca concentration in all the categories is important for the
+alkalinity of precipitation.
+
+<ICE-IND:W2A-034#68:1>
+Since, the buffering capacity of Ca is very <O> Table 1. </O> <O>
+caption </O> <O> <&> page </&> 942 </O> much limited, it may not be able to
+neutralize the high concentration of H ions produced by acidic components (
+SO<sb>4</sb> and NO<sb>3</sb> ) . </p> <O> histogram </O> <O> caption </O>
+
+<ICE-IND:W2A-034#69:1>
+<h> <bold> CONCLUSION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-034#70:1>
+In view of this study, it is concluded that there will be many
+natural background pH values, each depending on the geographical location
+and soil condition of the region.
+
+<ICE-IND:W2A-034#71:1>
+Hence, the interpretation of the acid rain in a region should be made
+with respect to its background pH value. </p>
+
+<ICE-IND:W2A-034#72:1>
+<h> <bold> REFERENCE </bold> </h>
+
+<ICE-IND:W2A-034#73:1>
+Galloway, J.N., G.E. Likens, W.C. Keene and J.M. Miller. 1982.
+
+<ICE-IND:W2A-034#74:1>
+<mention> The composition of precipitation in remote areas of the
+world </mention> . <it> <mention> J. Geophys. Res., </mention> </it> 87 :
+8771.
+
+<ICE-IND:W2A-034#75:1>
+Khemani, L.T., G.A. Momin, M.S. Naik, P.S. Prakasa Rao, R. Kumar and
+Bh.V. Ramana Murty. 1985.
+
+<ICE-IND:W2A-034#76:1>
+<mention> Impact of alkaline particulates on pH of rain water in
+India </mention> . <it> <mention> Wat. Air Soil PoIlut., </mention> </it> 24
+: 365.
+
+<ICE-IND:W2A-034#77:1>
+Khemani, L.T., G.A. Momin, P.S. Prakasa Rao P.D. Safai and Prem
+Prakash. 1987.
+
+<ICE-IND:W2A-034#78:1>
+<mention> Influence of alkaline particulates on the chemistry of
+fog water at Delhi, North India </mention> . <it> <mention> Wat. Air Soil
+Pollut., </mention> </it> 34 : 183.
+
+<ICE-IND:W2A-034#79:1>
+Munger, J.W. 1982.
+
+<ICE-IND:W2A-034#80:1>
+<mention> Chemistry of atmospheric precipitation in the
+north-central United States : influence of sulphate, nitrate, ammonia and
+calcareous soil particulates </mention> . <it> <mention> Atmos. Env.,
+</mention> </it> 16 : 1633.
+
+<ICE-IND:W2A-034#81:1>
+( Received on October 25, 1990 ) </I>

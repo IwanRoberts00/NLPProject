@@ -1,0 +1,1212 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-061#1:1:A>
+Archana <indig> akka </indig> how are you <,> ?
+
+<$B> 
+<ICE-IND:S1A-061#2:1:B>
+I am fine how about you <,> ?
+
+<$A> 
+<ICE-IND:S1A-061#3:1:A>
+I am also fine <,>
+
+<$B> 
+<ICE-IND:S1A-061#4:1:B>
+So how did you perform in your exams <,,> ?
+
+<$A> 
+<ICE-IND:S1A-061#5:1:A>
+Quiet well <,>
+
+<ICE-IND:S1A-061#6:1:A>
+This time <w> let's </w> see what happens
+
+<$B> 
+<ICE-IND:S1A-061#7:1:B>
+Okay I am <{> <[> expecting </[> that you will be getting good
+result <,,>
+
+<ICE-IND:S1A-061#8:1:B>
+So how are you enjoying your hostel life <,,> ?
+
+<$A> 
+<ICE-IND:S1A-061#9:1:A>
+<[> Ahn </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#10:1:A>
+Its good <,> very good in hostel
+
+<ICE-IND:S1A-061#11:1:A>
+Everybody <,,> uh <,,> every student belong to different part of
+this country <,> <{> <[> uhm <,> and I think its a miniature India there <,,>
+
+<ICE-IND:S1A-061#12:1:A>
+And uh <,,> we we <,> we get together and uh <,,> we <,,> we enjoy
+the life there <,> anyway <,>
+
+<$B> 
+<ICE-IND:S1A-061#13:1:B>
+<[> Uhm </[> </{>
+
+<$B> 
+<ICE-IND:S1A-061#14:1:B>
+I know hostel is a very freaky kind of place
+
+<ICE-IND:S1A-061#15:1:B>
+You can enjoy your life like anything <,,>
+
+<$A> 
+<ICE-IND:S1A-061#16:1:A>
+Yeah <{> <[> thats </[> there <,,>
+
+<$B> 
+<ICE-IND:S1A-061#17:1:B>
+<[> So </[> </{>
+
+<$B> 
+<ICE-IND:S1A-061#18:1:B>
+So how many room mates do you have <.> wi </.> with you <,,> ?
+
+<$A> 
+<ICE-IND:S1A-061#19:1:A>
+I am having two room mates <,,>
+
+<$B> 
+<ICE-IND:S1A-061#20:1:B>
+And they are belonging to <,> ?
+
+<$A> 
+<ICE-IND:S1A-061#21:1:A>
+One belongs to Raichur and the other belongs to Mumbai <,,>
+
+<$B> 
+<ICE-IND:S1A-061#22:1:B>
+Mumbai ?
+
+<$A> 
+<ICE-IND:S1A-061#23:1:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-061#24:1:B>
+He must be a very freaky kind of fellow and <O> laughs </O>
+
+<$A> 
+<ICE-IND:S1A-061#25:1:A>
+Yes certainly <,>
+
+<$B> 
+<ICE-IND:S1A-061#26:1:B>
+How about the Raichur guy <,> ?
+
+<$A> 
+<ICE-IND:S1A-061#27:1:A>
+Raichur guy is quite nice <,,>
+
+<$B> 
+<ICE-IND:S1A-061#28:1:B>
+So they are <,> both are Kannadigas <,>
+
+<$A> 
+<ICE-IND:S1A-061#29:1:A>
+Yeah both are Kannadigas <,,>
+
+<$B> 
+<ICE-IND:S1A-061#30:1:B>
+They know Kannada <,>
+
+<$A> 
+<ICE-IND:S1A-061#31:1:A>
+They know Kannada <,,>
+
+<ICE-IND:S1A-061#32:1:A>
+<{> <[> Mumbai </[> Mumbai <.> b </.> boy is <,> born and brought
+up in Mumbai <,> and so he is a Mumbaii <,,>
+
+<$B> 
+<ICE-IND:S1A-061#33:1:B>
+<[> So </[> </{>
+
+<$B> 
+<ICE-IND:S1A-061#34:1:B>
+<indig> Accha </indig> he speaks in Marathi also
+
+<$A> 
+<ICE-IND:S1A-061#35:1:A>
+Yeah yeah <,> very well
+
+<$B> 
+<ICE-IND:S1A-061#36:1:B>
+<indig> Accha </indig> how about the other batchmates <,,> ?
+
+<$A> 
+<ICE-IND:S1A-061#37:1:A>
+Other batchmates <,,> uh two two guys belong to Calcutta <,,>
+and <,> two Rajasthan <,> and some belong to <,> Bihar
+
+<ICE-IND:S1A-061#38:1:A>
+Though all that <,> we have <,,> every every places <,> from every
+places we are having each and <,,> many of the boys they are <,,> some are
+some are from Jammu and Kashmir <,> that means <,> it means <,> uh <w> it's
+</w> a miniature India I said before <,,>
+
+<$B> 
+<ICE-IND:S1A-061#39:1:B>
+So who is your hostel warden <,> ?
+
+<$A> 
+<ICE-IND:S1A-061#40:1:A>
+Hostel warden is Rajshekar Patil sir
+
+<$B> 
+<ICE-IND:S1A-061#41:1:B>
+Oh he used to teach me Mechanics in first year <,>
+
+<ICE-IND:S1A-061#42:1:B>
+He is <{> <[> a very </[> good teacher <,>
+
+<$A> 
+<ICE-IND:S1A-061#43:1:A>
+<[> In fact </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#44:1:A>
+Yeah <,,>
+
+<$B> 
+<ICE-IND:S1A-061#45:1:B>
+So even his wife I think he <,> Mrs. Paranjyoti <}> <-> is
+</-> <=> was </=> </}> my lecturer in college
+
+<$A> 
+<ICE-IND:S1A-061#46:1:A>
+Uhm architecture
+
+<$B> 
+<ICE-IND:S1A-061#47:1:B>
+She is a very strict lady <,>
+
+<$A> 
+<ICE-IND:S1A-061#48:1:A>
+Yeah <,,>
+
+<$B> 
+<ICE-IND:S1A-061#49:1:B>
+So <,> how about your hostel food <,> ?
+
+<$A> 
+<ICE-IND:S1A-061#50:1:A>
+Hostel food is good <,> quite manageable <,,>
+
+<$B> 
+<ICE-IND:S1A-061#51:1:B>
+Do you like the food <,,> ?
+
+<$A> 
+<ICE-IND:S1A-061#52:1:A>
+Uhm I have to <O> laughter </O> <,>
+
+<$B> 
+<ICE-IND:S1A-061#53:1:B>
+No other alternative <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-061#54:1:A>
+No other <,,>
+
+<$B> 
+<ICE-IND:S1A-061#55:1:B>
+<indig> Accha </indig> and uh how <,> what functions do you
+organise in your hostel ?
+
+<ICE-IND:S1A-061#56:1:B>
+I have heard that <,> even there is some hostel day in the <,> <{>
+<[> yeah yeah <,> hostel <,>
+
+<ICE-IND:S1A-061#57:1:B>
+So did you have this ?
+
+<$A> 
+<ICE-IND:S1A-061#58:1:A>
+<[> Yeah yeah </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#59:1:A>
+Yeah yeah <,>
+
+<ICE-IND:S1A-061#60:1:A>
+Uh it happened in <,,> uhm the last <,> last or <,> two months back
+I think <,,>
+
+<$B> 
+<ICE-IND:S1A-061#61:1:B>
+You also participated
+
+<$A> 
+<ICE-IND:S1A-061#62:1:A>
+Yeah yeah <,> I sung a song the <,> the invocation song only
+
+<$B> 
+<ICE-IND:S1A-061#63:1:B>
+Oh oh
+
+<$A> 
+<ICE-IND:S1A-061#64:1:A>
+Invocation <{> <[> song on </[>
+
+<$B> 
+<ICE-IND:S1A-061#65:1:B>
+<[> Everyone </[> </{> thought you have a nice voice
+
+<$A> 
+<ICE-IND:S1A-061#66:1:A>
+<indig> Vande <,> vande </indig> whatever they insisted <,>
+and so I had to <,,> I <,,> it was <indig> Vande Mataram </indig> that Lata
+Mangeshkar the remix <,> the remix one <,,>
+
+<$B> 
+<ICE-IND:S1A-061#67:1:B>
+Okay <,,>
+
+<$A> 
+<ICE-IND:S1A-061#68:1:A>
+Everybody applauded and uh <,> I was <,> very happy
+
+<$B> 
+<ICE-IND:S1A-061#69:1:B>
+<indig> Accha </indig> can you sing it now once <,,>
+
+<$A> 
+<ICE-IND:S1A-061#70:1:A>
+That song <,,> <O> laughter </O> <indig> Vande maa </indig>
+
+<$B> 
+<ICE-IND:S1A-061#71:1:B>
+Quite <?> dizzy </?>
+
+<$A> 
+<ICE-IND:S1A-061#72:1:A>
+Don't laugh uh <,> <O> laughter </O> don't laugh <,>
+
+<$B> 
+<ICE-IND:S1A-061#73:1:B>
+And I think you <,> you people have even sports facilities
+also
+
+<$A> 
+<ICE-IND:S1A-061#74:1:A>
+Yeah yeah yeah
+
+<$B> 
+<ICE-IND:S1A-061#75:1:B>
+Like cricket <{> <[> and gym rooms </[> and all
+
+<$A> 
+<ICE-IND:S1A-061#76:1:A>
+<[> We had we had </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#77:1:A>
+Ahn we have one gym <,> uh gymnasium room and <,> one reading
+room <,,> each and every facility mm our hostel <,> warden is still planning
+to have <,> internet <,> internet facility <,>
+
+<$B> 
+<ICE-IND:S1A-061#78:1:B>
+Oh ho do you have a library also ?
+
+<$A> 
+<ICE-IND:S1A-061#79:1:A>
+Library <,,> uhn <{> <[> not like that </[>
+
+<$B> 
+<ICE-IND:S1A-061#80:1:B>
+<[> I mean a </[> </{> small kind of a library
+
+<$A> 
+<ICE-IND:S1A-061#81:1:A>
+<w> It's </w> a reading room just <,> <{> <[> newspaper </[>
+and all that uh are being provided there <,>
+
+<$B> 
+<ICE-IND:S1A-061#82:1:B>
+<[> Okay </[> </{>
+
+<$B> 
+<ICE-IND:S1A-061#83:1:B>
+<{> <[> Okay </[> <,,>
+
+<$A> 
+<ICE-IND:S1A-061#84:1:A>
+<[> And </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#85:1:A>
+Magazines and all that <,,>
+
+<$B> 
+<ICE-IND:S1A-061#86:1:B>
+I think you <{> <[> should start </[> going to the gym from
+now itself
+
+<ICE-IND:S1A-061#87:1:B>
+You will have a <,> body building <,,> part also in the hostel <O>
+laughter </O>
+
+<$A> 
+<ICE-IND:S1A-061#88:1:A>
+<[> It is correct </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#89:1:A>
+I will try <,,>
+
+<$B> 
+<ICE-IND:S1A-061#90:1:B>
+Because <{> <[> <.> wh wh </.> </[>
+
+<$A> 
+<ICE-IND:S1A-061#91:1:A>
+<[> I too would </[> </{> have definitely
+
+<$B> 
+<ICE-IND:S1A-061#92:1:B>
+A guy should always have a personality you know <,>
+
+<$A> 
+<ICE-IND:S1A-061#93:1:A>
+Yeah <O> laughter </O> <,> that is there <,>
+
+<$B> 
+<ICE-IND:S1A-061#94:1:B>
+So how about college now <,>
+
+<$A> 
+<ICE-IND:S1A-061#95:1:A>
+College is <{> <[> uhm <,> smooth working
+
+<$B> 
+<ICE-IND:S1A-061#96:1:B>
+<[> Uhm </[> </{>
+
+<$B> 
+<ICE-IND:S1A-061#97:1:B>
+Which lecturers are it <,> uh are teaching you I mean for
+different kinds of subjects <,>
+
+<$A> 
+<ICE-IND:S1A-061#98:1:A>
+We had <,,> common subjects in the first year <,,> and so
+lecturers from <,> each <,> each department used to teach us <,,>
+
+<ICE-IND:S1A-061#99:1:A>
+Uhm I like the most is <,,> uhn <,> the person I like the most is
+<,,> from mechanical department <,> and he teaches graphics <,>
+
+<$B> 
+<ICE-IND:S1A-061#100:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-061#101:1:A>
+His name is <,,> Navindgi sir something
+
+<$B> 
+<ICE-IND:S1A-061#102:1:B>
+Okay <,>
+
+<$A> 
+<ICE-IND:S1A-061#103:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-061#104:1:B>
+Graphics is basically a subject belonging to architecture
+
+<$A> 
+<ICE-IND:S1A-061#105:1:A>
+My my favourite subject drawing <,>
+
+<$B> 
+<ICE-IND:S1A-061#106:1:B>
+Okay ahn <,> then why did you offer automobile then ?
+
+<$A> 
+<ICE-IND:S1A-061#107:1:A>
+Automobile <O> one word </O> is from the next <,> next
+semester <,> or the <,,> yeah next to next semester we are having machine
+drawings and all that three-D <,> three-D <,> three-D geometry like that all
+that <,> so <,> I thought <w> it's </w> the interesting part <,>
+
+<ICE-IND:S1A-061#108:1:A>
+And I <,> I like that also <,,>
+
+<$B> 
+<ICE-IND:S1A-061#109:1:B>
+Okay how about the prospects of computers in your profession
+<,,> ?
+
+<$A> 
+<ICE-IND:S1A-061#110:1:A>
+Computer it <,> it plays a great role <,,> because <,,> we
+are having computers in each field now-a-days
+
+<ICE-IND:S1A-061#111:1:A>
+And so <,> if I <,> like uh <,> if I connect the computers and the
+automobile <,,> or <,> person uh handling the computer <,> in the automobile
+field <,> they are getting <,> good <.> jo </.> good jobs and they are
+getting good <,> handsome salaries also <,,>
+
+<$B> 
+<ICE-IND:S1A-061#112:1:B>
+Okay <,>
+
+<$A> 
+<ICE-IND:S1A-061#113:1:A>
+So I think <,,> uhm I have to learn computers also <,>
+
+<$B> 
+<ICE-IND:S1A-061#114:1:B>
+Okay
+
+<ICE-IND:S1A-061#115:1:B>
+Do you have this <{> <[> structure subjects </[> with it
+
+<$A> 
+<ICE-IND:S1A-061#116:1:A>
+<[> I have to go for </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#117:1:A>
+Structures <,>
+
+<$B> 
+<ICE-IND:S1A-061#118:1:B>
+<{> <[> I mean the strength </[> of material
+
+<$A> 
+<ICE-IND:S1A-061#119:1:A>
+<[> Yeah it was there </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#120:1:A>
+Strength of material it was there <,,> in the second semester
+
+<$B> 
+<ICE-IND:S1A-061#121:1:B>
+Okay
+
+<ICE-IND:S1A-061#122:1:B>
+How do you find it ?
+
+<ICE-IND:S1A-061#123:1:B>
+Easy subject or a hard subject ?
+
+<$A> 
+<ICE-IND:S1A-061#124:1:A>
+Aa <.> i i </.> initial periods I <,> did very <,> difficult
+but I <,>
+
+<$B> 
+<ICE-IND:S1A-061#125:1:B>
+Now you <{> <[> have followed </[> it
+
+<$A> 
+<ICE-IND:S1A-061#126:1:A>
+<[> I did it </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#127:1:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-061#128:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-061#129:1:A>
+I <{> <[> somehow did it </[>
+
+<$B> 
+<ICE-IND:S1A-061#130:1:B>
+<[> I forgot the </[> </{> chemistry part <,> the <{> <[>
+most </[> hatred part for you
+
+<$A> 
+<ICE-IND:S1A-061#131:1:A>
+<[> Chemistry </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#132:1:A>
+Chemistry was <,,> uh was like uh nightmare to me <O>
+laughter </O>
+
+<$B> 
+<ICE-IND:S1A-061#133:1:B>
+Okay <,>
+
+<$A> 
+<ICE-IND:S1A-061#134:1:A>
+I somehow <,> cleared it up <,>
+
+<ICE-IND:S1A-061#135:1:A>
+Amd now there is nothing much <,> to <.> fe </.> <,,> to fear of I
+think <,>
+
+<$B> 
+<ICE-IND:S1A-061#136:1:B>
+Okay and <,> I think you people have even computers as one
+subject
+
+<$A> 
+<ICE-IND:S1A-061#137:1:A>
+Yeah <,,>
+
+<ICE-IND:S1A-061#138:1:A>
+Computer it was in the first semester
+
+<$B> 
+<ICE-IND:S1A-061#139:1:B>
+Okay <,,> now <{> <[> from third </[> term I think you will
+be having specialization in automobiles only <,>
+
+<$A> 
+<ICE-IND:S1A-061#140:1:A>
+<[> C programming </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#141:1:A>
+Uhm <,> trade subjecty only trade subjects <,>
+
+<$B> 
+<ICE-IND:S1A-061#142:1:B>
+Belonging <{> <[> to automobiles </[>
+
+<$A> 
+<ICE-IND:S1A-061#143:1:A>
+<[> <w> I'll </w> be having </[> </{> <,> <w> I'll </w> be
+having uh <,> basics of thermo dynamics and <,> automobiles and <,> machine
+drawing all that <,,>
+
+<$B> 
+<ICE-IND:S1A-061#144:1:B>
+Even the <,> you will have to wear that blue colour coat and
+<,,> work like a mechanic <,>
+
+<$A> 
+<ICE-IND:S1A-061#145:1:A>
+Definitely <O> laughter </O>
+
+<ICE-IND:S1A-061#146:1:A>
+Automobile <,> engineer is a mechanic <,> basic mechanic <,>
+
+<$B> 
+<ICE-IND:S1A-061#147:1:B>
+Okay
+
+<ICE-IND:S1A-061#148:1:B>
+So <,> uhm I think you have uh <,> the south Indian and north
+Indian <,,> uh food provision in your hostel
+
+<$A> 
+<ICE-IND:S1A-061#149:1:A>
+Yeah <,>
+
+<ICE-IND:S1A-061#150:1:A>
+There is <,> the north Indian mess <,> and it is being handled by
+<,> uh some <indig> sardarji <,> sardarji </indig>
+
+<ICE-IND:S1A-061#151:1:A>
+And the other is south Indian <,,> know anyone can join any of the
+mess <,> but <,> I I go to south Indian mess <,>
+
+<ICE-IND:S1A-061#152:1:A>
+he he prepares well <,>
+
+<$B> 
+<ICE-IND:S1A-061#153:1:B>
+So how far have you come to know about Gulbarga <,,> ?
+
+<$A> 
+<ICE-IND:S1A-061#154:1:A>
+Gulbarga
+
+<$B> 
+<ICE-IND:S1A-061#155:1:B>
+And how did you find Gulbarga <{> <[> basically you are a guy
+</[> belonging to Delhi <,,>
+
+<$A> 
+<ICE-IND:S1A-061#156:1:A>
+<[> The very own Gulbarga </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#157:1:A>
+The very own Gulbarga <{> <[> <w> I've </w> to </[> I have to
+be there for four years <,,>
+
+<$B> 
+<ICE-IND:S1A-061#158:1:B>
+<[> Okay </[> </{>
+
+<$B> 
+<ICE-IND:S1A-061#159:1:B>
+So it is uh <,> what you call <,> must for you to learn to
+live in it
+
+<$A> 
+<ICE-IND:S1A-061#160:1:A>
+Yes definitely
+
+<$B> 
+<ICE-IND:S1A-061#161:1:B>
+But I never found Gulbarga like <,,> very appealing to me <O>
+laughter </O>
+
+<ICE-IND:S1A-061#162:1:B>
+You know for guys it is always good they can stay in any place
+because <,> they are not <,> not supposed to worry about anyone
+
+<$A> 
+<ICE-IND:S1A-061#163:1:A>
+Uhn
+
+<$B> 
+<ICE-IND:S1A-061#164:1:B>
+But for girls you know they have a <,,> bound to do or
+confine kind of life <{> <[> especially </[> if you are with your relatives
+you have to be very specific about it <,,>
+
+<$A> 
+<ICE-IND:S1A-061#165:1:A>
+<[> Yes </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#166:1:A>
+And uh <,,>
+
+<$B> 
+<ICE-IND:S1A-061#167:1:B>
+So Gulbarga have you been to uh <,> different theatres in
+Gulbarga ?
+
+<$A> 
+<ICE-IND:S1A-061#168:1:A>
+Theatres they are <,> <indig> shi </indig> there are <.> si
+</.> simply terrific <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-061#169:1:B>
+All
+
+<$A> 
+<ICE-IND:S1A-061#170:1:A>
+No sound <{> <[> proof system nothing nothing doing </[>
+
+<$B> 
+<ICE-IND:S1A-061#171:1:B>
+<[> On all walls you <}> <-> found </-> </[> </{> find that
+red coloured <,>
+
+<$A> 
+<ICE-IND:S1A-061#172:1:A>
+Red colour <{> <[> what red colour </[>
+
+<$B> 
+<ICE-IND:S1A-061#173:1:B>
+<[> Red colour <.> dhab </.> </[> </{> <indig> dhabba paan
+dhabba </indig> also
+
+<$A> 
+<ICE-IND:S1A-061#174:1:A>
+<indig> Paan dhabba </indig> definitely <O> laughter </O>
+
+<ICE-IND:S1A-061#175:1:A>
+They are in the hall <,> college also <,>
+
+<$B> 
+<ICE-IND:S1A-061#176:1:B>
+And to purchase a ticket you have to <{1> <[1> like fight
+with </[1> persons <{2> <[2> just </[2> to get a ticket
+
+<$A> 
+<ICE-IND:S1A-061#177:1:A>
+<[1> To take a ticket </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-061#178:1:A>
+<[2> Yeah </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-061#179:1:A>
+<indig> Haan </indig> for each uh <,> new Hindi movie
+released <,,> uhn we we hardly get any any <,> any ticket from the counter
+
+<$B> 
+<ICE-IND:S1A-061#180:1:B>
+Oh
+
+<$A> 
+<ICE-IND:S1A-061#181:1:A>
+We have to go for black <+> market </+> <,,>
+
+<$B> 
+<ICE-IND:S1A-061#182:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-061#183:1:A>
+We have to go <,> we have to go for black <+> market </+>
+tickets
+
+<$B> 
+<ICE-IND:S1A-061#184:1:B>
+Okay <,>
+
+<$A> 
+<ICE-IND:S1A-061#185:1:A>
+Uhn it cost about thirty <indig> rupees </indig> ten <indig>
+rupees </indig> extra <,>
+
+<ICE-IND:S1A-061#186:1:A>
+I don't know what they do <,,>
+
+<ICE-IND:S1A-061#187:1:A>
+And <,> I had been to that <,> uh <indig> Bande Nawaz <,> <{> <[>
+Bande Nawaz </[> </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-061#188:1:B>
+<[> Bande </[> </{> <indig> darga </indig>
+
+<$A> 
+<ICE-IND:S1A-061#189:1:A>
+<indig> Darga </indig>
+
+<$B> 
+<ICE-IND:S1A-061#190:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-061#191:1:A>
+<indig> Darga </indig> and K B L <,> K B N college also
+
+<$B> 
+<ICE-IND:S1A-061#192:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-061#193:1:A>
+Uhn I had been to different places
+
+<ICE-IND:S1A-061#194:1:A>
+Now I am well versed with this <,> with that place <,>
+
+<$B> 
+<ICE-IND:S1A-061#195:1:B>
+Okay <,>
+
+<ICE-IND:S1A-061#196:1:B>
+And how about the climate ?
+
+<$A> 
+<ICE-IND:S1A-061#197:1:A>
+Climate <,>
+
+<$B> 
+<ICE-IND:S1A-061#198:1:B>
+Climate is really boring kind of climate
+
+<$A> 
+<ICE-IND:S1A-061#199:1:A>
+No <w> it's </w> good in the outskirt side only <,> because
+<.> whe </.> where our <.> hos </.> hostel is situated in the outskirts <,>
+and so <,> always <,> windy windy windy kind of place <,> uhm cool <w> it's
+</w> <w> it's </w> okay <,>
+
+<$B> 
+<ICE-IND:S1A-061#200:1:B>
+And you have a temple also I believe <{> <[> inside that your
+</[>
+
+<$A> 
+<ICE-IND:S1A-061#201:1:A>
+<[> A temple </[> </{> called <indig> Hanuman gudi </indig>
+
+<$B> 
+<ICE-IND:S1A-061#202:1:B>
+Okay
+
+<ICE-IND:S1A-061#203:1:B>
+Do you go to the temple daily
+
+<$A> 
+<ICE-IND:S1A-061#204:1:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-061#205:1:B>
+Daily
+
+<$A> 
+<ICE-IND:S1A-061#206:1:A>
+Not daily Tuesday Thursday and Saturday definitely and if I
+find <,> time I go <,,>
+
+<$B> 
+<ICE-IND:S1A-061#207:1:B>
+Okay it means that you are a staunch believer in gods <,,>
+
+<$A> 
+<ICE-IND:S1A-061#208:1:A>
+Not a staunch believer I I just like Hanuman and Saibaba <,,>
+
+<$B> 
+<ICE-IND:S1A-061#209:1:B>
+Okay <O> laughs </O>
+
+<$A> 
+<ICE-IND:S1A-061#210:1:A>
+Those the <,> uh those who are still alive
+
+<$B> 
+<ICE-IND:S1A-061#211:1:B>
+And you have a <indig> chaipatti </indig> also <{> <[> I
+think near that </[> tracks <indig> chaibandi </indig>
+
+<$A> 
+<ICE-IND:S1A-061#212:1:A>
+<[> <indig> Chaipatti bandi </indig> </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#213:1:A>
+<indig> Bandi </indig>
+
+<$B> 
+<ICE-IND:S1A-061#214:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-061#215:1:A>
+<{> <[> <w> It's </w> a good </[> time-pass we have
+
+<$B> 
+<ICE-IND:S1A-061#216:1:B>
+<[> Do you have </[> </{>
+
+<$B> 
+<ICE-IND:S1A-061#217:1:B>
+Do you have tea from there <,,> ?
+
+<$A> 
+<ICE-IND:S1A-061#218:1:A>
+Yes sometimes <{> <[> <w> it's </w> a good </[> time- pass
+
+<$B> 
+<ICE-IND:S1A-061#219:1:B>
+<[> Don't have it </[> </{>
+
+<$B> 
+<ICE-IND:S1A-061#220:1:B>
+It is a very bad kind of tea
+
+<ICE-IND:S1A-061#221:1:B>
+I have
+
+<$A> 
+<ICE-IND:S1A-061#222:1:A>
+Hey hey
+
+<$B> 
+<ICE-IND:S1A-061#223:1:B>
+I have once <{1> <[1> tried to taste it </[1> but I just <{2>
+<[2> couldn't drink it </[2> <,,>
+
+<ICE-IND:S1A-061#224:1:B>
+I don't know people say that they take water from the railway
+track side and it is very <{3> <[3> bad kind of tea </[3>
+
+<$A> 
+<ICE-IND:S1A-061#225:1:A>
+<[1> Its good its a good one </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-061#226:1:A>
+<[2> its a good one </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-061#227:1:A>
+<[3> Ah ha </[3> </{3> <indig> nai nai </indig> <,> not like
+that <,,>
+
+<ICE-IND:S1A-061#228:1:A>
+Uhm I had been to Bidar once
+
+<$B> 
+<ICE-IND:S1A-061#229:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-061#230:1:A>
+During my <,> one day holiday that Saturday and Sunday these
+uh weekend I think
+
+<$B> 
+<ICE-IND:S1A-061#231:1:B>
+Okay <,>
+
+<$A> 
+<ICE-IND:S1A-061#232:1:A>
+Uhm I stayed in my <w> friend's </w> <,,> uh <w> aunty's </w>
+house
+
+<$B> 
+<ICE-IND:S1A-061#233:1:B>
+Okay <,,>
+
+<$A> 
+<ICE-IND:S1A-061#234:1:A>
+And <,> we enjoyed that
+
+<ICE-IND:S1A-061#235:1:A>
+Bidar is a good place <,,>
+
+<ICE-IND:S1A-061#236:1:A>
+<w> It's </w> better than Gulbarga I believe <,,> uh
+
+<$B> 
+<ICE-IND:S1A-061#237:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-061#238:1:A>
+It has <,,> Bidar has good roads broad roads and <,> uhm and
+the theatres are good <,> and the <,> but <w> it's </w> <w> it's </w> mere a
+time-pass area
+
+<$B> 
+<ICE-IND:S1A-061#239:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-061#240:1:A>
+People hardly <,> hardly concentrate on studies there I mean
+
+<$B> 
+<ICE-IND:S1A-061#241:1:B>
+Okay all <indig> goondas </indig> in Bidar
+
+<$A> 
+<ICE-IND:S1A-061#242:1:A>
+All <indig> goonda </indig> yeah these <,,> because forty
+forty to fifty percent is population belongs to Punjab Punjabis
+
+<$B> 
+<ICE-IND:S1A-061#243:1:B>
+<{> <[> Oh I </[>
+
+<$A> 
+<ICE-IND:S1A-061#244:1:A>
+<[> That </[> </{> Punjab
+
+<$B> 
+<ICE-IND:S1A-061#245:1:B>
+That Guru <w> Nanak's </w> impact
+
+<$A> 
+<ICE-IND:S1A-061#246:1:A>
+Yeah Guru <w> Nanak's </w> impact <,>
+
+<ICE-IND:S1A-061#247:1:A>
+And uh I think <,,> <w> it's a </w> good place <,> cool climate
+everything <,>
+
+<$B> 
+<ICE-IND:S1A-061#248:1:B>
+Okay and in Gulbarga I think <,> have you seen the L D
+theatre <,> ?
+
+<$A> 
+<ICE-IND:S1A-061#249:1:A>
+L D theatre yeah laser disc <,>
+
+<$B> 
+<ICE-IND:S1A-061#250:1:B>
+<{1> <[1> L D theatre is designed </[1> by the H O D of our
+department Mr Muley <,> <{2> <[2> do you know </[2>
+
+<$A> 
+<ICE-IND:S1A-061#251:1:A>
+<[1> This is <O> two words </O> </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-061#252:1:A>
+<[2> Mr Muley </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-061#253:1:A>
+Yeah I know that
+
+<$B> 
+<ICE-IND:S1A-061#254:1:B>
+But people say that it is a very <,> not a good theatre I
+don't know I haven't seen it once <O> laughter </O>
+
+<ICE-IND:S1A-061#255:1:B>
+And I think I <,> before I left Gulbarga You had already got the
+admission in Gulbarga
+
+<$A> 
+<ICE-IND:S1A-061#256:1:A>
+Uhm
+
+<$B> 
+<ICE-IND:S1A-061#257:1:B>
+And I had taken you to some different shops also <,,> for
+which I was a regular customer <,> the computer <{> <[> uh <,> typing shop
+
+<$A> 
+<ICE-IND:S1A-061#258:1:A>
+<[> Uh </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#259:1:A>
+Typing shop
+
+<$B> 
+<ICE-IND:S1A-061#260:1:B>
+The book shop <,> the juice <indig> wallah </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-061#261:1:A>
+Juice juice <indig> wallah </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-061#262:1:B>
+And <,> Simla juice centre
+
+<$A> 
+<ICE-IND:S1A-061#263:1:A>
+Simla juice centre okay <,>
+
+<$B> 
+<ICE-IND:S1A-061#264:1:B>
+And <,> the <indig> Imampuri Chowk </indig> the main
+attraction of the city <O> laughter </O> <,> there guys keep coming
+
+<$A> 
+<ICE-IND:S1A-061#265:1:A>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-061#266:1:B>
+Just moving around during the <{> <[> evening time </[>
+
+<$A> 
+<ICE-IND:S1A-061#267:1:A>
+<[> Kamat Khamat </[> </{>
+
+<$B> 
+<ICE-IND:S1A-061#268:1:B>
+Kamat hotel <,> <w> it's </w> really a world
+
+<$A> 
+<ICE-IND:S1A-061#269:1:A>
+Our mechanical <{> <[> H O D </[> our mechanical H O D says
+<,> uh Kamat means <indig> khamat </indig> <,,> don't uh
+
+<$B> 
+<ICE-IND:S1A-061#270:1:B>
+<[> Crowded area </[> </{>
+
+<$B> 
+<ICE-IND:S1A-061#271:1:B>
+<indig> Khamat </indig> don't eat
+
+<$A> 
+<ICE-IND:S1A-061#272:1:A>
+Don't eat
+
+<$B> 
+<ICE-IND:S1A-061#273:1:B>
+<indig> Accha </indig> <O> laughter </O> <,>
+
+<$A> 
+<ICE-IND:S1A-061#274:1:A>
+Yeah you have to study and <,> concentrate on studies he says
+<,,> uhm <w> that's </w> <,,> <w> that's </w> the every <,> we enjoy life
+there I don't <,> I don't think I am <,> having any difficulty there <,>
+
+<$B> 
+<ICE-IND:S1A-061#275:1:B>
+And how is the principal of the college Mr. Patil <,> ?
+
+<$A> 
+<ICE-IND:S1A-061#276:1:A>
+He is a nice person <,> very strict <,>
+
+<ICE-IND:S1A-061#277:1:A>
+And uh <,> cool going <,>
+
+<$B> 
+<ICE-IND:S1A-061#278:1:B>
+Okay <,> and
+
+<$A> 
+<ICE-IND:S1A-061#279:1:A>
+He looks after the college very well I think <,>
+
+<$B> 
+<ICE-IND:S1A-061#280:1:B>
+And <.> ho </.> how <,> and I think <,> who is the uhn H O D
+of the chemistry department Mr. <,>
+
+<$A> 
+<ICE-IND:S1A-061#281:1:A>
+Varadh <,>
+
+<$B> 
+<ICE-IND:S1A-061#282:1:B>
+Uh he is a very strict <,,> <{> <[> teacher </[> I think
+
+<$A> 
+<ICE-IND:S1A-061#283:1:A>
+<[> Yeah </[> </{>
+
+<$A> 
+<ICE-IND:S1A-061#284:1:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-061#285:1:B>
+He used to scold even the architecture <,> guys and girls
+also because chemistry department <{1> <[1> <w> it's on </w> the first </[1>
+floor of uh <,> of the <{2> <[2> architecture </[2> department <,> so we
+people were always scared about <O> laughs </O> because he used to come and
+scold everyone who used to <.> sp </.> <,> <{3> <[3> speak loudly </[3>
+
+<$A> 
+<ICE-IND:S1A-061#286:1:A>
+<[1> <indig> Haan </indig> they did </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-061#287:1:A>
+<[2> <indig> Haan haan </indig> </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-061#288:1:A>
+<[3> Yeah arti arti </[3> </{3> students they loiter about in
+the corridor
+
+<$B> 
+<ICE-IND:S1A-061#289:1:B>
+<indig> Accha </indig>
+
+<$A> 
+<ICE-IND:S1A-061#290:1:A>
+They always they miss Varadh sir always find them loitering
+about in the corridor and says <,> hey what are you doing here <,> just go
+and sit in the class <O> laughs </O> he says like that always <,> </I>

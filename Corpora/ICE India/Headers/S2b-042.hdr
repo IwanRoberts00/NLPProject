@@ -1,0 +1,50 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2B-042</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Scripted:non-broadcast
+                   speeches</category>
+              <wordcount>1985</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2B-042>
+       <recording.data>
+              <date>06-02-99</date>
+              <time>3.00pm</time>
+              <place>Shivaji University Convocation
+                   Pandal</place>
+       </recording.data>
+              <organising.body>Shivaji
+                   University</organising.body>
+              <copyright.statement>reproduced by permission of
+                   the speaker</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-042</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size>2000</audience.size>
+              <free.comments>Convocation Address</free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-042</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Soli</surname>
+              <forenames>Sohrabjee</forenames>
+              <age>60+</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Graduate</education>
+              <occupation>Lawyer</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Gujrati</mother.tongue>
+              <other.languages>Hindi, Marathi</other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

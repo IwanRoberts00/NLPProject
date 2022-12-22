@@ -1,0 +1,332 @@
+<I> <&> heading spread over two columns </&>
+
+<ICE-IND:W2B-023#1:1>
+<h> <bold> Gamma-ray Astronomy : A Cosmic Quest </bold> </h> <O> <&>
+authors' name </&>
+
+<ICE-IND:W2B-023#2:1>
+R.K. KAUL PHOOLA KAUL </O> <&> third column </&> <&>
+
+<ICE-IND:W2B-023#3:1>
+<bold> Gamma-ray astronomy has a strong bearing on the origin of
+cosmic radiation, a problem that is not solved as yet despite intensive
+research for the past seven decades </bold> </&> <&> column one </&>
+
+<p> 
+<ICE-IND:W2B-023#4:1>
+<bold> <smallcaps>COSMIC</smallcaps> </bold> rays are tiny visitors
+from outer space that constantly keep impinging on the <w> earth's </w>
+atmosphere from all directions.
+
+<ICE-IND:W2B-023#5:1>
+They comprise a host of highly energetic particles including protons,
+nuclei of heavier atoms, electrons, positrons and also gamma ray photons.
+
+<ICE-IND:W2B-023#6:1>
+Neutrions, which are supposed to be chargeless and massless
+particles, predominate over all other particles by several orders of
+magnitude but their energies are mainly low and it is extremely difficult to
+detect them experimentally.
+
+<ICE-IND:W2B-023#7:1>
+The study of cosmic rays is important because it has a strong
+influence on the terrestrial atmosphere, especially in the production
+of very high intensity radiation belts around the earth and ionisation in the
+lower atmosphere.
+
+<ICE-IND:W2B-023#8:1>
+It also plays an important role in genetic mutations which may have
+influenced the course of organic evolution on the earth. </p>
+
+<p> 
+<ICE-IND:W2B-023#9:1>
+Although cosmic rays were discovered in 1912, through the <O>
+photograph in the middle of page </O> <O> caption </O> pioneering balloon
+experiments of the German scientist Victor F. Hess, all attempts to date
+aimed at locating the sources of these particles have failed.
+
+<ICE-IND:W2B-023#10:1>
+It was initially thought that the study of the directions from which
+cosmic rays arrive would enable us to localize the sources of these energetic
+particles.
+
+<ICE-IND:W2B-023#11:1>
+But it was later discovered that the matter was not so simple.
+
+<ICE-IND:W2B-023#12:1>
+It was found that cosmic ray particles are affected by galactic
+magnetic field which changes their direction of arrival on earth.
+
+<ICE-IND:W2B-023#13:1>
+So the arrival direction at earth does not bear any relation with the
+actual source direction.
+
+<ICE-IND:W2B-023#14:1>
+Very low-energy cosmic ray particles are not greatly affected by
+galactic magnetic field, but their level is so low that the available
+statistics does not allow a meaningful search for localized regions of
+emission.
+
+<ICE-IND:W2B-023#15:1>
+It is precisely because of these reasons that even major cosmic ray
+experiments involving detectors with effective sizes of several square
+kilometres have failed to pinpoint any source of cosmic rays either within
+our galaxy or outside in the extragalactic space. </p>
+
+<p> 
+<ICE-IND:W2B-023#16:1>
+The first problem one encounters in <O> <&> page </&> 21 </O> the
+search for the origin of cosmic rays involves deciding whether this
+radiation arises within our Milky Way galaxy ( also called the Galaxy,
+of which our solar system is a part) or has its sources outside.
+
+<ICE-IND:W2B-023#17:1>
+The detection of radio synchrotron radiation, produced by the
+interaction of cosmic ray electrons with the galactic magnetic field,
+supernova remnants, pulsars, etc., indicates that cosmic ray electrons are
+mainly of Galactic origin.
+
+<ICE-IND:W2B-023#18:1>
+The same argument, however, does not apply in the case of cosmic
+ray nuclei as no definite Galactic source of protons and nuclei has been
+discovered so far.
+
+<ICE-IND:W2B-023#19:1>
+This situation appears to have changed to some extent with the recent
+results obtained from gamma-ray astronomy which suggest that several
+Galactic sources of high-energy protons and nuclei may have been discovered.
+
+<ICE-IND:W2B-023#20:1>
+Probably the best method of distinguishing between a Galactic and
+an extra-Galactic origin for cosmic rays is to search for what is called a
+<quote> " radical cosmic ray density gradient" </quote> , which is
+expected to be significant if cosmic rays originate within the Galaxy.
+</p>
+
+<p> 
+<ICE-IND:W2B-023#21:1>
+<bold> <smallcaps>GAMMA</smallcaps> </bold> ray astronomy provides
+a reasonable accurate method of deriving the radial cosmic ray density
+gradient.
+
+<ICE-IND:W2B-023#22:1>
+High-energy gamma rays, with energy in the MeV ( Million electron
+volt ) - GeV ( Giga electron volt ) range, are believed to result from the
+decay of ( pi)mesons produced in the interactions of cosmic ray protons with
+interstellar matter which essentially comprises atomic and molecular
+hydrogen.
+
+<ICE-IND:W2B-023#23:1>
+Cosmic gamma-ray data obtained with satellite-borne detectors,
+like those flown on the SAS - - II ( Small Astronomy Satellite ) and the
+COS-B ( Cosmic Ray Satellite ) satellites can be used to give a radial
+distribution from which the cosmic ray distribution within the galaxy can be
+computed.
+
+<ICE-IND:W2B-023#24:1>
+Inspite of some limitations inherent in this procedure, a detailed
+<O> sketch in middle of page </O> <O> caption </O> analysis of satellite
+gamma-ray data has shown the presence of a significant cosmic ray radial
+density gradient.
+
+<ICE-IND:W2B-023#25:1>
+This indicates that the bulk of cosmic rays, or at least those which
+are responsible for the generation of gamma-ray in the MeV-GeV energy range,
+are galactic in origin.
+
+<ICE-IND:W2B-023#26:1>
+However, this procedure does not provide any indication of specific
+cosmic ray sources, a subject on which information is again sought through
+gamma-ray observations, though, at higher energies. </p>
+
+<p> 
+<ICE-IND:W2B-023#27:1>
+There is an intimate connection between cosmic gamma-ray
+studies and the problem of cosmic ray origin.
+
+<ICE-IND:W2B-023#28:1>
+It is generally believed that high-energy gamma-rays result from the
+interactions of energetic charged particles with the electromagnetic
+fields and matter pervading the inter-stellar medium, the dominant
+processes being <*> pie </*> decay, synchrotron process and inverse
+compton effect, etc.
+
+<ICE-IND:W2B-023#29:1>
+Due to their high penetrating power and charge neutrality, cosmic
+gamma-rays can arrive at the earth from almost any part of the Galaxy without
+any appreciable absorption and without any deflection in the galactic
+magnetic field.
+
+<ICE-IND:W2B-023#30:1>
+This opens up the possibility of the detection of discrete sources
+of gamma-rays by employing suitable experimental techniques.
+
+<ICE-IND:W2B-023#31:1>
+As gamma-ray sources must also produce copious amounts of
+energetic charged particles, the detection of such sources provides the
+only method to identify discrete sources of cosmic rays.
+
+<ICE-IND:W2B-023#32:1>
+It is mainly because of this promise that a <}> <->
+lost</-><+>lot</+> </}> of attention has been paid to very high-energy cosmic
+gamma-ray astronomy during the last two decades or <O> <&> page </&> 22
+</O> so and some very important results have been obtained. </p>
+
+<p> 
+<ICE-IND:W2B-023#33:1>
+<bold> <smallcaps>APART</smallcaps> </bold> from satellite-borne
+detectors, which detect energetic gamma-rays directly, two ground-based
+techniques have also been developed for gamma-ray astronomy.
+
+<ICE-IND:W2B-023#34:1>
+These are the atmospheric Cerenkov technique and the air shower array
+technique, which can detect gamma-rays of energy ranging from 10<sp>11</sp>
+to 10<sp>14</sp> eV and above.
+
+<ICE-IND:W2B-023#35:1>
+In both the methods, the <w> earth's </w> atmosphere is used as an
+energy transducer <O> photograph spread over 2 1/2 columns </O> <O> caption
+</O> wherein the primary photon or nucleon energy is converted into a cascade
+of electrons, positrons, muons, hadrons and photons, etc, through a series of
+interactions ( Fig.2).
+
+<ICE-IND:W2B-023#36:1>
+At primary energies greater than 10<sp>14</sp> eV, most of the
+secondary particles survive absorpotion in the atmosphere and can be detected
+at high altitudes by employing a widely disposed array of particle detectors.
+
+<ICE-IND:W2B-023#37:1>
+The difference in the relative arrival times of the particles at the
+various detectors can be used to derive the direction of the primary cosmic
+ray particles with reasonable accuracy.
+
+<ICE-IND:W2B-023#38:1>
+Identification of potential cosmic ray sources is then sought by
+looking for anisotropies in the arrival directions and by conducting
+detailed investigations of the source regions at other wavelength bands
+of the magnetic spectrum.
+
+<ICE-IND:W2B-023#39:1>
+As they move through the atmosphere the primary particles produce
+secondary particles in a process called <quote> ` air shower' </quote> .
+
+<ICE-IND:W2B-023#40:1>
+These particles lose a part of their energy through the Cerenkov
+process.
+
+<ICE-IND:W2B-023#41:1>
+The visible photons thus produced mainly in the wavelength band
+300-5000 A can be detected at the ground level as narrow pulses with suitable
+mirror-photomulti-plier tube systems.
+
+<ICE-IND:W2B-023#42:1>
+This provides an efficient method of detecting 10<sp>11</sp> -
+10<sp>14</sp> eV cosmic ray primaries at ground.
+
+<ICE-IND:W2B-023#43:1>
+This so-called atmospheric Cerenkov technique has been used
+extensively for cosmic gamma-ray studies.
+
+<ICE-IND:W2B-023#44:1>
+The Bhabha Atomic Research Centre has been operating such a system
+at Gulmarg ( Kashmir).
+
+<ICE-IND:W2B-023#45:1>
+A similar though larger system has been operated by the Tata
+Institute of Fundamental Research at Ooty for several years and has now been
+shifted to Pachmarhi in Madhya Pradesh.
+
+<ICE-IND:W2B-023#46:1>
+However, these techniques are unable to distinguish between
+extensive air shower events initiated by primary cosmic ray particles and
+those produced by gamma-rays.
+
+<ICE-IND:W2B-023#47:1>
+The principal characteristics of the two types of showers are
+essentially identical and it poses a real challenge to separate the extremely
+small gamma ray signal from the rather overwhelming background of the
+charged particle initiated events.
+
+<ICE-IND:W2B-023#48:1>
+Several techniques, based on the subtle though experimentally
+distinguishable differences between the two types of showers have been tried
+with moderate success. </p>
+
+<p> 
+<ICE-IND:W2B-023#49:1>
+<bold> <smallcaps> DURING </smallcaps> </bold> the last twenty years
+or so, gamma-ray astronomy studies in the Very High Energy ( VHE =
+10<sp>11</sp> - 10<sp>13</sp> eV ) and the Ultra High Energy ( UHE =
+10<sp>14</sp> - 10<sp>17</sp> eV) bands using ground-based techniques have
+identified a number of potential, discrete cosmic ray sources in the
+Galaxy.
+
+<ICE-IND:W2B-023#50:1>
+These <quote> ` sources' </quote> represent two distinct types of
+stellar populations, namely isolated fast pulsars and binary x-ray sources
+involving compact primaries ( like black holes, neutron stars, and white
+dwarfs ) .
+
+<ICE-IND:W2B-023#51:1>
+A distinguishing feature of the observed gamma-ray emission from
+these <quote> ` sources' </quote> is the variability of the emission and
+the modulation of the gamma-ray signal with a period characteristic of the
+system, viz., the rotation period in the case of pulsars and the orbital
+period in the case of binary x-ray source.
+
+<ICE-IND:W2B-023#52:1>
+While <O> ( Continued on page 38) </O> <O> <&> page </&> 23 </O> <O>
+continued from page 23 </O> <O>
+
+<ICE-IND:W2B-023#53:1>
+<h> <bold> GAMMA-RAY ASTRONOMY </bold> </h> </O> the Crab pulsar (
+PSR0531 + 21) and the Vela pulsar ( PSR 0833 - 45) represent typical examples
+of the first type, the binary x-ray sources Cygnus X-3, Her X - 1 and Vela X
+- 1 represent typical examples of the second type of the galactic gamma-ray
+emitting objects.
+
+<ICE-IND:W2B-023#54:1>
+In addition to these five sources, a number of pulsars, x-ray
+binary systems and extragalactic objects ( like the radio galaxy Cen-A)
+have also been reported by at least one observatory to emit VHE and UHE
+gamma-ray signals. </p>
+
+<p> 
+<ICE-IND:W2B-023#55:1>
+It would be in order to sound a note of caution at this stage.
+
+<ICE-IND:W2B-023#56:1>
+The high-energy cosmic rays that are presently observed at the earth
+are probably unrelated to any of the VHE and UHE gamma-ray sources discussed
+so far.
+
+<ICE-IND:W2B-023#57:1>
+The magnetic field of the Galaxy prevents their direct journey from
+the source to the observer.
+
+<ICE-IND:W2B-023#58:1>
+The propagation of UHE / VHE cosmic rays through the Galaxy is a
+diffusive process which takes much longer than the life-time of any of the
+sources discovered so far.
+
+<ICE-IND:W2B-023#59:1>
+Cosmic ray production in this scenario is a dynamic process with many
+sources contributing at any time for comparatively brief epochs during their
+evolution.
+
+<ICE-IND:W2B-023#60:1>
+It may be kept in mind, though, that the nature of the primary
+particle detected in UHE / VHE gamma-ray astronomy is uncertain at present
+and only follows from a process of elimination of all other possibilities.
+
+<ICE-IND:W2B-023#61:1>
+Better and bigger experiments in future, incorporating systems for an
+unambiguous identification of the primary particle, will go a long way in
+pinpointing the exact sources of cosmic rays and thus help in the
+understanding of the fundamental problems of cosmic ray acceleration and
+propagation. </p> <*> line below </*> <&> Note on Authors </&>
+
+<ICE-IND:W2B-023#62:1>
+R. K. Kaul is with the Nuclear Research Laboratory, Bhabha Atomic
+Research Centre, 63/9 Trikuta Nagar, Jammu; Phoola Kaul, is with the
+Education Department, Jammu and Kashmir Government, Jammu. </I>

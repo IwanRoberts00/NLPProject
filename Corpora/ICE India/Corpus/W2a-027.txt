@@ -1,0 +1,755 @@
+<I>
+
+<ICE-IND:W2A-027#1:1>
+Androgenic regulation of glycolytic and HMP pathway in epididymis and
+vas <O> centered </O> deferens of rhesus monkey <sp> * </sp> <&> authors
+centered </&>
+
+<ICE-IND:W2A-027#2:1>
+G Gupta, A Srivastava & B S Setty <*> dagger</*> </O> <&> centered
+</&> <O> Division of Endocrinology, Central Drug Research Institute, Lucknow
+226 001, India <&> centered </&> <O>
+
+<ICE-IND:W2A-027#3:1>
+Received 30 September 1992 </O> <&> all lines centered </&> <&>
+
+<p> 
+<ICE-IND:W2A-027#4:1>
+The androgenic regulation of the eleven enzymes of glycolytic
+pathway and two key enzymes of HMP pathway was studied in the initial
+segment, caput, corpus and cauda regions of the epididymis and in the vas
+deferens of rhesus monkey.
+
+<ICE-IND:W2A-027#5:1>
+The specific activities of enzymes were expressed as units of activity
+per mg DNA.
+
+<ICE-IND:W2A-027#6:1>
+Results in control animals indicate a marked difference in energy
+metabolism of epididymis and vas deferens.
+
+<ICE-IND:W2A-027#7:1>
+However, the epididymal duct itself did not show much regional
+variation in enzyme activities along its length.
+
+<ICE-IND:W2A-027#8:1>
+All the enzymes of the two pathways studied showed significant
+reduction after castration, the regulatory enzymes being affected more
+severely.
+
+<ICE-IND:W2A-027#9:1>
+On treatment with exogenous dihydrotestosterone, most of these
+enzymes showed stimulation in castrated monkeys, but non of them could be
+restored to normal level.
+
+<ICE-IND:W2A-027#10:1>
+The stimulation of these enzymes on treatment with exogenous
+dihydrotestosterone varied along the epididymal duct itself being maximum
+in the initial segment and minimum in the cauda region.
+
+<ICE-IND:W2A-027#11:1>
+The changes in the vas deferens were less marked as compared to the
+epididymis following castration and androgen replacement. </p> </&> <&> in
+two columns </&> <&> column one </&>
+
+<p> 
+<ICE-IND:W2A-027#12:1>
+The mammalian epididymis is a dynamic organ, and is dependent
+upon testicular androgens for the maintenance of its structure as well as for
+its secretory, resorptive, biosynthetic and other metabolic activities
+<sp> <fnr> 1 </fnr> </sp> .
+
+<ICE-IND:W2A-027#13:1>
+All these functions are adversely affected following androgen
+withdrawal ( e.g. castration or hypophysectomy ) .
+
+<ICE-IND:W2A-027#14:1>
+In most laboratory animals, castration or hypophysectomy results
+in a rapid decline in the development of sperm fertilizing ability within 4-7
+days and the loss of sperm viability after 1-2 weeks <sp> <fnr> 2-4 </fnr>
+</sp> .
+
+<ICE-IND:W2A-027#15:1>
+However, the nature of the androgen dependent processes of the
+epididymis that are essential for sperm maturation and storage remain
+elusive.
+
+<ICE-IND:W2A-027#16:1>
+It is probable that nourishment of epididymal duct may directly or
+indirectly affect sperm maturation and storage.
+
+<ICE-IND:W2A-027#17:1>
+Carbohydrates ( e.g. glucose ) form a ready source of nourishment for
+most type of cells in the body.
+
+<ICE-IND:W2A-027#18:1>
+A detailed study of the glycolytic pathway, the primary pathway
+for intermediary metabolism of carbohydrates, and its androgenic
+regulation in mammalian epididymis, is therefore necessary. Brooks <sp> <fnr>
+5 </fnr> </sp> carried out detailed study of the glycolytic pathway in rat
+epididymis and found it to be testicular dependent.
+
+<ICE-IND:W2A-027#19:1>
+We carried out similar studies in rhesus monkey epididymis for two
+main reasons.
+
+<ICE-IND:W2A-027#20:1>
+Firstly, although rat has served as a useful model in many basic
+studies on epididymal function and sperm <O> <*> a short line in column</*>
+
+<ICE-IND:W2A-027#21:1>
+* <footnote> Communication No. 4452.
+
+<ICE-IND:W2A-027#22:1>
+<*> dagger</*> Correspondent author. </footnote> </O> maturation it
+is not certain that this animal can serve as a suitable model for
+understanding epididymal function in human male.
+
+<ICE-IND:W2A-027#23:1>
+In recent years non-human primates are being considered at better
+models for studies on reproductive biology and contraception.
+
+<ICE-IND:W2A-027#24:1>
+Besides, the preclinical studies on the development of a
+contraceptive requires evaluation in a primate model, therefore, it is
+necessary to have baseline data in commonly used primate model such as the
+rhesus monkey.
+
+<ICE-IND:W2A-027#25:1>
+Secondly, Brooks has expressed all the enzyme specific activities as
+units per gram wet weight of issue.
+
+<ICE-IND:W2A-027#26:1>
+However, according to his own findings <sp> <fnr> 6 </fnr> </sp>
+castration results in a loss in epididymal weight, which is mainly due to
+cytoplasmic shrinkage rather than due to a change in cell population.
+
+<ICE-IND:W2A-027#27:1>
+Thus a unit weight of epididymal tissue in normal and castrated rat
+is likely to have a large difference in the number of cells and therefore,
+the actual change in enzyme activities within these cells is likely to be
+obscured by a change in their size and weight.
+
+<ICE-IND:W2A-027#28:1>
+On the other hand DNA, which is the genetic material, is present
+in the same amount in every somatic cell of the body, irrespective of its
+physiological and metabolic activity and it also remains unchanged
+under altered physiological conditions.
+
+<ICE-IND:W2A-027#29:1>
+Thus a unit weight of DNA represents almost a fixed number of cells.
+
+<ICE-IND:W2A-027#30:1>
+We have, therefore, expressed all the enzyme activities as units per
+mg DNA. </p>
+
+<p> 
+<ICE-IND:W2A-027#31:1>
+Functionally the epididymis can be distinguished into a proximal
+part consisting of caput and corpus <O> <&> page </&> 306 </O> where the
+spermatozoa undergo a process of maturation <sp> <fnr> 7-9 </fnr> </sp>
+and a distal portion called the cauda which serves mainly as a storehouse of
+mature spermatozoa <sp> <fnr> 10 </fnr> </sp> .
+
+<ICE-IND:W2A-027#32:1>
+In the present study the monkey epididymis was divided into four
+major segments <sp> <fnr> 11 </fnr> </sp> to see if the segments performing
+different functions also differed in their metabolism. </p>
+
+<p> 
+<ICE-IND:W2A-027#33:1>
+Vas deferens has not been assigned any function in relation to
+sperm maturation.
+
+<ICE-IND:W2A-027#34:1>
+It serves as a conduit and conveys epididymal sperm to the
+ejaculatory duct.
+
+<ICE-IND:W2A-027#35:1>
+It may also form a part of the sperm reservoir <sp> <fnr> 12,13
+</fnr> </sp> .
+
+<ICE-IND:W2A-027#36:1>
+Vas deferens was also included in the present studies for
+comparison of its metabolism with that of the cauda epididymis. </p>
+
+<ICE-IND:W2A-027#37:1>
+<h> <bold> Materials and Methods </bold> </h>
+
+<p> 
+<ICE-IND:W2A-027#38:1>
+<h> <it> Animals </it> </h> - -
+
+<ICE-IND:W2A-027#39:1>
+Adult male rhesus monkeys ( <it> Macaca mulatta </it> ) , weighing 8
+to 12 kg, were from the <w> Institute's </w> primate colony.
+
+<ICE-IND:W2A-027#40:1>
+The animals were fed with fresh fruits and vegetables and commercial
+pellet diet ( Lipton ( India) Ltd., Bombay ) .
+
+<ICE-IND:W2A-027#41:1>
+The animals were maintained in air conditioned quarters (
+24<*>degrees</*> <*> plus or minus</*> 1<*>degree</*>C ) under uniform
+husbandry conditions. </p>
+
+<p> 
+<ICE-IND:W2A-027#42:1>
+<h> <it> Castration and replacement therapy </it> - - </h>
+
+<ICE-IND:W2A-027#43:1>
+The monkeys were anaesthesised by intravenous administration of
+interval sodium <sp> <fnr> <*> Registered mark</*> </fnr> </sp> ( May &
+Baker, Bombay, India) at a dose of 30 mg / kg body weight.
+
+<ICE-IND:W2A-027#44:1>
+Castration was performed in a sterile operation theatre and the
+animals were given a post-operative treatment of 0.5 g dicrysticin <sp> <*>
+Registered mark</*> </sp> ( Strepto-penicillin injection, Sarabhai
+Chemicals, Baroda, India ) daily for 5 days.
+
+<ICE-IND:W2A-027#45:1>
+The wound was simultaneously dressed daily with mercurochrome ( 2 %
+aqueous solution) and rebasulf <sp> <*> Registered mark</*> </sp> powder (
+Pfizer, India ) . </p>
+
+<p> 
+<ICE-IND:W2A-027#46:1>
+The castrated animals were divided into 2 groups of 6 animals
+each.
+
+<ICE-IND:W2A-027#47:1>
+One group of castrated animals was maintained for 90 days, while the
+other group after 60 days received 2 mg 5a-dihydrotestosterone daily for 30
+days.
+
+<ICE-IND:W2A-027#48:1>
+A group of 6 normal intact animals served as controls. </p>
+
+<p> 
+<ICE-IND:W2A-027#49:1>
+<h> Dose rationale : </h>
+
+<ICE-IND:W2A-027#50:1>
+The daily dose of 2 mg DHT was chosen from the findings of Ewing <it>
+et al </it> . <sp> <fnr> 14 </fnr> </sp> , who showed that testosterone
+production rate in adult rhesus monkeys is about 1.06 mg / day.
+
+<ICE-IND:W2A-027#51:1>
+It has already been shown that release of DHT by silastic implants in
+castrated monkeys is more effective than that of testosterone in restoring
+the weights of accessory sex organs <sp> <fnr> 15,16 </fnr> </sp> .
+
+<ICE-IND:W2A-027#52:1>
+Since DHT was administered by injection procedure rather than by
+sustained release through silastic implant, we used DHT at twice the
+estimated production rate i.e. 2 mg / day. </p>
+
+<p> 
+<ICE-IND:W2A-027#53:1>
+<h> <it> Collection and storage of tissues </it> - - </h>
+
+<ICE-IND:W2A-027#54:1>
+At the time of autopsy, the epididymis along with the vas deferens of
+the two sides, were carefully dissected out and immediately immersed in
+ice-cold normal saline.
+
+<ICE-IND:W2A-027#55:1>
+The epididymis was cleared free of fat and adhering tissues, and
+divided into four major regions, viz. initial segment, caput, corpus and
+cauda on the basis of previous studies <sp> <fnr> 11 </fnr> </sp> and stored
+at - - 20 <*> degrees</*>C in a deep freezer after wrapping the tissues in
+parafilm <quote> ` M' </quote> ( American Can Co., USA ) and aluminium foil
+to prevent moisture loss.
+
+<ICE-IND:W2A-027#56:1>
+The enzyme estimations were completed within 2 weeks of animal
+autopsy. </p>
+
+<p> 
+<ICE-IND:W2A-027#57:1>
+<h> <it> Assays </it> - - </h>
+
+<ICE-IND:W2A-027#58:1>
+Tissue samples were homogenised using Ultra Turrax ( Janke and
+Kunkel, FRG ) .
+
+<ICE-IND:W2A-027#59:1>
+The homogenising medium and the enzyme assays used were those
+described earlier by Brooks <sp> <fnr> 5 </fnr> </sp> .
+
+<ICE-IND:W2A-027#60:1>
+The assays were performed at 25 <*> degrees</*>C against blanks in
+which substrate was omitted in quartz cuvettes of 10 mm light path in a total
+volume of 3 ml.
+
+<ICE-IND:W2A-027#61:1>
+Assays conditions were chosen to maximise enzyme activities and to
+ensure zero order kinetics.
+
+<ICE-IND:W2A-027#62:1>
+Reaction rates were always linear during the recording period and
+directly proportional to the amount of homogenate added.
+
+<ICE-IND:W2A-027#63:1>
+The assays were run in a Pye Unicam PU 8610 recording
+spectrophotometer with thermocell attachment to ensure 25 <*> degrees</*>C
+cell temperature ( Pye Unicam Ltd., UK ) .
+
+<ICE-IND:W2A-027#64:1>
+Results have been expressed as units of activity per mg DNA, where
+a unit is defined as 1 nanomole of substrate converted per minute at 25
+<*> degrees</*>C.
+
+<ICE-IND:W2A-027#65:1>
+Data were analysed by <w> Student's </w> test. </p>
+
+<ICE-IND:W2A-027#66:1>
+<h> <bold> Results </bold> </h>
+
+<p> 
+<ICE-IND:W2A-027#67:1>
+<h> <it> Regional variations in epididymis </it> - - </h>
+
+<ICE-IND:W2A-027#68:1>
+Total protein and DNA levels showed little regional variation along
+the epididymal duct.
+
+<ICE-IND:W2A-027#69:1>
+The vas deferens also showed similar levels of protein but the
+concentration of DNA was lower ( P<*>smaller than</*>0.001 ) as compared
+to that in epididymis ( Table 1 ) . </p>
+
+<p> 
+<ICE-IND:W2A-027#70:1>
+As we move from the proximal to the distal region of the
+epididymis, we do not find a sharp change in the activities of the glycolytic
+and HMP pathway enzymes.
+
+<ICE-IND:W2A-027#71:1>
+Most of the enzyme activities did not show significant differences
+between adjacenet segments ( Table 2 ) .
+
+<ICE-IND:W2A-027#72:1>
+In general the glycolytic enzymes showed higher activity and HMP
+pathway enzymes showed lower activity in the initial segment as compared to
+the other segments of epididymis.
+
+<ICE-IND:W2A-027#73:1>
+However, as we move from cauda epididymis to vas deferens we find a
+sharp increase in the activities of all the glycolytic enzymes and a
+significant fall in the activities of HMP pathway enzymes.
+
+<ICE-IND:W2A-027#74:1>
+The difference was statistically significant in case of most of
+the enzymes. </p>
+
+<p> 
+<ICE-IND:W2A-027#75:1>
+The enzymes hexokinase, phosphofructokinase and aldolase of
+glycolytic pathway exhibit low maximum activities in the epididymal
+segments as well as in the vas deferens indicating the possibility of these
+enzymes in regulating the flux through the glycolytic pathway in both
+epididymis as well as in the vas deferent. <O> <&> page </&> 307 </O>
+
+<ICE-IND:W2A-027#76:1>
+Both these organs exhibit a similarity in the trend of activities of
+glycolytic enzymes.
+
+<ICE-IND:W2A-027#77:1>
+Triose phosphate isomerase was the most active enzyme and aldolase
+was the least active enzyme of the pathway in the two organs. </p>
+
+<p> 
+<ICE-IND:W2A-027#78:1>
+<h> <it> Testicular dependence of epididymis </it> - - </h>
+
+<ICE-IND:W2A-027#79:1>
+Three months after castration there was a marked reduction in the
+wet weights of all the epididymal segments ( control vs castrated for all
+segments P<*>smaller than</*>0.01 ) .
+
+<ICE-IND:W2A-027#80:1>
+The involution of vas deferens was however less marked ( P<0.05).
+
+<ICE-IND:W2A-027#81:1>
+Total protein concentration did not show change after castration (
+Table 1 ) but its content per segment decreased significantly.
+
+<ICE-IND:W2A-027#82:1>
+On the other hand DNA concentration increased significantly while its
+content per segment did not change markedly.
+
+<ICE-IND:W2A-027#83:1>
+Vas deferens registered a small increase in DNA concentration after
+castration. </p>
+
+<p> 
+<ICE-IND:W2A-027#84:1>
+The activities of all the eleven enzymes of glycolytic pathway
+and the two key enzymes of HMP pathway were reduced significantly in all the
+segments of the epididymis after castration ( Figs 1-4 ) .
+
+<ICE-IND:W2A-027#85:1>
+Although the reduction was highly significant in case of all the
+enzymes ( <*> greater than</*>>50 % ) , the enzymes hexokinase,
+phosphofructokinase, aldolase, glucose 6-phosphate dehydrogenase and
+6-phosphogluconate dehydrogenase showed a massive reduction of more than
+70 % in all the epididymal segments after castration. </p> <O> Table 1 &
+Table 2 </O> <O> <&> page </&> 308 </O> <O> figers 1 & 4 </O> <O> captions
+</O> <O> <&> page </&> 309 </O> <O> figure 5 </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W2A-027#86:1>
+However, in the vas deferns, the reduction of enzymes after
+castration was moderate and restricted to a few enzymes only as compared to
+epididymis ( Fig.5 ) .
+
+<ICE-IND:W2A-027#87:1>
+The enzymes phosphoglycerate mutase and glucose 6-phosphate
+dehydrogenase were however reduced significantly ( P<*>smaller than</*>0.001 )
+after castration. </p>
+
+<p> 
+<ICE-IND:W2A-027#88:1>
+<h> <it> Androgenic stimulation of epididymis </it> - -
+
+<ICE-IND:W2A-027#89:1>
+Replacement therapy by exogenous DHT in castrated monkeys
+resulted in an approximately 50 % increase in the wet weight of epididymis.
+
+<ICE-IND:W2A-027#90:1>
+The increase in wet weight of individual segments was statistically
+significant in initial segment ( P<*>smaller than</*>0.05 ) , caput (
+P<*>smaller than</*>0.001 ) and corpus ( P<*>smaller than</*>0.01 ) .
+
+<ICE-IND:W2A-027#91:1>
+Vas deferens registered a 23 % increase in its wet weight which was
+statistically nonsignificant.
+
+<ICE-IND:W2A-027#92:1>
+Total protein concentration did not change significantly after DHT
+replacement in either the epididymal segments or the vas deferens.
+
+<ICE-IND:W2A-027#93:1>
+However, DNA concentration decreased significantly in the
+epididymal segments and moderately in vas deferens.
+
+<ICE-IND:W2A-027#94:1>
+The enzyme activities were stimulated significantly after androgen
+treatment in the epididymal segments, but the response of the four sements
+was not similar.
+
+<ICE-IND:W2A-027#95:1>
+Initial segment showed maximum stimulation of most of the enzyme
+activities.
+
+<ICE-IND:W2A-027#96:1>
+The response of caput and corpus region was more or less similar.
+
+<ICE-IND:W2A-027#97:1>
+However, in the cauda region the stimulation of enzyme activities
+after DHT replacement was less marked as compared to the three proximal
+segments.
+
+<ICE-IND:W2A-027#98:1>
+In the vas deferens the ensymes hexokinase, phosphoglycerate
+kinase, phosphoglycerate mutase of glycolytic pathway and glucose
+6-phosphate dehydrogenase of HMP pathway were the only enzymes which showed
+some significant stimulation. </p>
+
+<ICE-IND:W2A-027#99:1>
+</h> <bold> Discussion </bold> <h>
+
+<p> 
+<ICE-IND:W2A-027#100:1>
+The results obtained in the present study indicate that the
+different segments of the epididymis which have been assigned distinct
+functions do not differ significantly from each other in their energy
+metabolism.
+
+<ICE-IND:W2A-027#101:1>
+However, vas deferens differs markedly from the epididymis in the
+activities of glycolytic and HMP pathway enzymes.
+
+<ICE-IND:W2A-027#102:1>
+In general vas deferens showed a much larger glycolytic potential
+but relatively lower pentose phosphate cycle activity as compared to the
+epididymis.
+
+<ICE-IND:W2A-027#103:1>
+This may indicate a higher dependence of vas deferens on
+carbohydrates for its energy requirements and a lower synthetic
+activity in this part of the excurrent duct as compared to epididymis. </p>
+
+<p> 
+<ICE-IND:W2A-027#104:1>
+The results suggest that a decrease in wet weight of the
+epididymis in the androgen deficient state is <O> <&> page </&> 310 </O>
+always accompanied by a simultaneous increase in DNA concentration and the
+opposite effect is seen on replacement with exogenous androgen.
+
+<ICE-IND:W2A-027#105:1>
+On the other hand, total protein concentration of epididymis
+remains fairly constant in the different androgenic states of the animal.
+
+<ICE-IND:W2A-027#106:1>
+This indicates that changes in epididymal wet weight are not
+accompanied by marked alterations in cell population of the epididymis.
+
+<ICE-IND:W2A-027#107:1>
+Previous studies in rat have shown that androgens have little
+influence on either mitotic activity or DNA synthesis in the epididymis of
+adult castrated <sp> <fnr> 17 </fnr> </sp> and intact <sp> <fnr> 18,19
+</fnr> </sp> animals.
+
+<ICE-IND:W2A-027#108:1>
+However, total protein in epididymis appears to be a function of wet
+weight and is changed in proportion to the changes in wet weight of the
+tissue, and therefore, maintains its concentration constant. </p>
+
+<p> 
+<ICE-IND:W2A-027#109:1>
+A significant decrease in the specific activities of all the
+glycolytic and the two key enzymes of HMP pathway after castration indicate
+that the synthesis and/or turnover of all these enyzmes is testicular
+dependent in the epididymal cells.
+
+<ICE-IND:W2A-027#110:1>
+However, it appears that the regulatory enzymes of glycolytic
+path way ( hexokinase, phosphofructokinase and aldolase) and HMP pathway (
+glucose 6-phosphate dehydrogenase and 6-phosphogluconate dehydrogenase)
+are affected more severely after castration as compared to the non-regulatory
+enzymes. </p>
+
+<p> 
+<ICE-IND:W2A-027#111:1>
+The exocrine secretions of the testis ( which includes
+spermatozoa, androgen, proteins and other products ) reach the epididymis via
+its efferent ducts whereas the endocrine secretions of testis reach
+epididymis essentially via the systemic circulation.
+
+<ICE-IND:W2A-027#112:1>
+The replacement of the endocrine secretions of the testis in
+castrated monkeys by exogenous DHT stimulated the activities of most of
+the enzymes in the epididymal segments.
+
+<ICE-IND:W2A-027#113:1>
+However, none of the enzymes could reach its control level
+indicating that either the peripheral androgens alone cannot restore the
+normal functioning of the epididymis or it is due to any of the other reasons
+( see below).
+
+<ICE-IND:W2A-027#114:1>
+The regulatory enzymes showed greater stimulation indicating their
+greater dependence on testicular endocrine secretion. </p>
+
+<p> 
+<ICE-IND:W2A-027#115:1>
+Functionally, epdidymis has been distinguished into two major
+regions, a proximal region ( consist ing of initial segment, caput and
+corpus) where spermatozoa undergo maturation and a distal region or cauda
+where mature sperms are stored in a metabolically quiescent state <sp>
+<fnr> 20 </fnr> </sp> .
+
+<ICE-IND:W2A-027#116:1>
+Post-testicular maturation of sperm begins in the initial segment
+and is completed by the time the spermatozoa reach the distal corpus region
+<sp> <fnr> 9 </fnr> </sp> .
+
+<ICE-IND:W2A-027#117:1>
+On the other hand sperm storage is a distinct physiological
+entity and the sperm store ( cauda ) might be functionally quite separate
+from other parts of the epidiymal duct <sp> <fnr> 20 </fnr> </sp> .
+
+<ICE-IND:W2A-027#118:1>
+The results of the present study indicate that cauda does not differ
+greatly from the proximal segments in the acivities of the enzymes of energy
+metabolism but it is quite distinct from other segments in the androgenic
+regulation of these enzymes.
+
+<ICE-IND:W2A-027#119:1>
+While initial segment, caput and corpus showed good response to
+exogenous androgen treatment in castrated animals the cauda showed only a
+moderate response to such treatment. </p>
+
+<p> 
+<ICE-IND:W2A-027#120:1>
+Poor response of cauda to androgen supplementation in
+castrated animals may be due to a higher androgen threshold of this region as
+compared to other regions of epididymis <sp> <fnr> 15 </fnr> </sp> .
+
+<ICE-IND:W2A-027#121:1>
+In a study carried out in rat epididymis, it has been shown that the
+time taken for the specific activity of cytosolic enzymes to reach a new
+steady state after removal or supplementation of androgens was variable,
+depending on the enzyme and the region of epidiymis <sp> <fnr> 21 </fnr>
+</sp> .
+
+<ICE-IND:W2A-027#122:1>
+It is probable that in monkey epididymis the carbohydrate
+metabolising enzymes require a longer time to reach new steady state in the
+cauda after androgen supplementation and perhaps longer periods of treatment
+or commencement of replacement therapy immediately after castration might
+have stimulated the enzyme activities in this region better as seen in
+other segments, or a higher dose of DHT could have induced a better response.
+
+<ICE-IND:W2A-027#123:1>
+It is also pertinent to note that microquantites of estrogen
+synergise with androgens in stimulating the acivites of the enzymes of
+energy metabolism in rhesus monkey epididymis <sp> <fnr> 22 </fnr> </sp> .
+
+<ICE-IND:W2A-027#124:1>
+Thus, replacement with DHT alone may not be physiological enough to
+restore epididymal metabolism. </p>
+
+<p> 
+<ICE-IND:W2A-027#125:1>
+A comparison androgenic regulation of energy metabolism in the
+vas deferens with that in the epididymis indicates that castration and
+androgen supplementation in castrated animals affected glycolysis and
+HMP pathway moderately in the vas defer<l.ens.
+
+<ICE-IND:W2A-027#126:1>
+This may indicate that the vas deferens is quite distinct from the
+epididymis in the regulation of its energy metabolism by endocrine secretions
+of testis. </p>
+
+<p> 
+<ICE-IND:W2A-027#127:1>
+It is, therefore, reasonable to conclude that the four segments
+of the epididymis differ significantly from the vas deferens in the acivities
+and endocrine regulation of glycolytic and HMP pathway enzymes.
+
+<ICE-IND:W2A-027#128:1>
+However, the four segments do not differ significantly from each
+other in the activities of these enzymes either in normal ( control) or in
+castrated animals.
+
+<ICE-IND:W2A-027#129:1>
+But the stimulation of these enzymes by treatment with exogenous
+androgens in castrated animals was maximum in the initial segment and
+gradually decreased from caput to cauda region of epididymis. </p>
+
+<p> 
+<ICE-IND:W2A-027#130:1>
+This study indicates a strict dependence of epididymal energy
+metabolism on testicular androgens. <O> <&> page </&> 311 </O>
+
+<ICE-IND:W2A-027#131:1>
+Many epididymal functions which require energy ( e.g. absorption and
+secretion ) are important for sperm maturation in this organ.
+
+<ICE-IND:W2A-027#132:1>
+The androgen dependence of sperm maturation may partly be due to
+the androgen dependence of epididymal energy metabolism. </p>
+
+<ICE-IND:W2A-027#133:1>
+<h> <bold> Acknoledgement </bold> </h>
+
+<p> 
+<ICE-IND:W2A-027#134:1>
+The authors are thankful to Dr. B.N. Dhawan, Director and Dr.
+V.P. Kamphoj, Head, Division of Endocrinology, for their interest in these
+studies.
+
+<ICE-IND:W2A-027#135:1>
+The work was supported by a grant from the Ministry of Health and
+Family Welfare, Government of India.
+
+<ICE-IND:W2A-027#136:1>
+Thanks are due to Mr. J. P. Maikhuri for valuable help. </p>
+
+<ICE-IND:W2A-027#137:1>
+<h> <bold> REFERENCES </bold> </h>
+
+<ICE-IND:W2A-027#138:1>
+<footnote> 1 Mann T & Lutwak Mann C, <it> <mention> Male
+reproductive function and semen </mention> </it> ( Springer Verlag, Berlin,
+Heidelberg, New York ) 1981, 139. </footnote>
+
+<ICE-IND:W2A-027#139:1>
+<footnote> 2 Jehan Q, Setty B S & Kar A B, <it> <mention> Indian J
+Exp Biol </mention> </it> , 11 ( 1973 ) 270, </footnote>
+
+<ICE-IND:W2A-027#140:1>
+<footnote> 3 Orgebin-Crist M C & Trichenor P L, <it> <mention>
+Nature </mention> </it> , 245 ( 1973 ) 328, </footnote>
+
+<ICE-IND:W2A-027#141:1>
+<footnote> 4 Lubicz-Nawrocki C & Glower T D, <it> <mention> J
+Endocrinol </mention> </it> , 58 ( 1973 ) 177. </footnote> <E> <footnote> 5
+Brooks D E, <it> <mention> Biochem J </mention> </it> , 156 ( 1976 ) 527.
+</footnote>
+
+<ICE-IND:W2A-027#142:1>
+<footnote> 6 Brooks D E, <it> <mention> J Reprod Fertil; </mention>
+</it> 49 ( 1977 ) 383. </footnote>
+
+<ICE-IND:W2A-027#143:1>
+<footnote> 7 Dyson A L M & Orgebin-Crist M C, <it> <mention>
+Endocrinology </mention> </it> , 93 ( 1973 ) 391. </footnote>
+
+<ICE-IND:W2A-027#144:1>
+<footnote> 8 Horan A H & Bedford J M, <it> <mention> J Reprod Fertil
+</mention> </it> , 30 ( 1972 ) 417. </footnote>
+
+<ICE-IND:W2A-027#145:1>
+<footnote> 9 Bedford J M, <it> <mention> J Exp Zool </mention> </it>
+, 163 ( 1966 ) 319. </footnote>
+
+<ICE-IND:W2A-027#146:1>
+<footnote> 10 Hammond J & Asdell S A, <it> <mention> Br J Exp Biol
+</mention> </it> , 4 ( 1926 ) 155. </footnote>
+
+<ICE-IND:W2A-027#147:1>
+<footnote> 11 Ramos A S Jr. & Dym M, <it> <mention> Am J Anat
+</mention> </it> , 149 ( 1977 ) 501. </footnote>
+
+<ICE-IND:W2A-027#148:1>
+<footnote> 12 Mroueh A & Hajjar J J. <it> <mention> Invest Urol
+</mention> </it> , 8 ( 1970 ) 210. </footnote>
+
+<ICE-IND:W2A-027#149:1>
+<footnote> 13 Neaves W B, in <it> <mention> Handbook of physiology
+</mention> </it> , Sect 7, Endocrinology Vol. 5, edited by R.O. Greep &
+E.B. Astwood ( American Physiological Society, Washington ) 1975, 383.
+</footnote>
+
+<ICE-IND:W2A-027#150:1>
+<footnote> 14 Ewing L L, Cochran R C, Adams R J, Darney K J Berry S
+J, Bordy M J & Desjardins C, <it> <mention> Contraception </mention> </it> ,
+27 ( 1983) 347. </footnote>
+
+<ICE-IND:W2A-027#151:1>
+<footnote> 15 Dinkar N, Arora R & Prasad M R N, <it> <mention> J
+Endocrinol </mention> </it> , 60 ( 1974 ) 399. </footnote>
+
+<ICE-IND:W2A-027#152:1>
+<footnote> 16 Dinkar N, Arora R & Prasad M R N, <it> <mention> Int J
+Fertil </mention> </it> , 19 ( 1974 ) 133. </footnote>
+
+<ICE-IND:W2A-027#153:1>
+<footnote> 17 Niemi M & Tuohimaa P. in <it> <mention> Basic action
+of sex steroids on target organs </mention> </it> , edited by P.O. Hubinot
+and F. Leroy ( Karger, Basel ) 1971, 258. </footnote>
+
+<ICE-IND:W2A-027#154:1>
+<footnote> 18 Clermont Y & Flannery J, <it> <mention> Biol Reprod
+</mention> </it> , 3 ( 1970 ) 283. </footnote>
+
+<ICE-IND:W2A-027#155:1>
+<footnote> 19 Majumdar G C & Turkington R W, <it> <mention> J
+Endocrinol </mention> </it> , 70 ( 1976 ) 105. </footnote>
+
+<ICE-IND:W2A-027#156:1>
+<footnote> 20 Glover T D & Nicander L, <it> <mention> J Reprod
+Fertil </mention> </it> , Suppl 13 ( 1971 ) 39. </footnote>
+
+<ICE-IND:W2A-027#157:1>
+<footnote> 21 Brooke D E, <it> <mention> Biol Reprod </mention>
+</it> , 21 ( 1979 ) 19. </footnote>
+
+<ICE-IND:W2A-027#158:1>
+<footnote> 22 Gupta G, Srivastava A & Setty B S, <it> <mention>
+Endocr Res </mention> </it> , 17 ( 1991 ) 383. </footnote> </I>

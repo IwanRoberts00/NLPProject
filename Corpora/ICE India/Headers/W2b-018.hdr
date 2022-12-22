@@ -1,0 +1,96 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-018</textcode>
+            <number.of.subtexts>2</number.of.subtexts>
+            <category>printed:informational:popular:
+              social sciences</category>
+            <wordcount>1749</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-018(1)>
+        <source.type=newspaper>
+            <source.title>The Statesman</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>The Statesman Ltd.</publisher>
+            <address>Statesman House, 4, Chowringhee Square,
+                    Calcutta</address>
+            <place>Calcutta</place>
+            <date>17-02-90</date>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of The
+                Statesman Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-018(1)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Education Policy</main.title>
+            <subtitle>No Serious Priorities</subtitle>
+            <page.nos>8</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-018(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Sethi</surname>
+                <forenames>J.D.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <subtext.source=W2B-018(2)>
+        <source.type=newspaper>
+            <source.title>The Sunday Times of
+              India</source.title>
+            <source.subtitle>Review</source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>Bennett, Coleman & Co. Ltd.</publisher>
+            <address>Dr. Dadabhoy Naoroji Rd. Bombay-          
+                    400001</address>
+            <place>Bombay</place>
+            <date>25-12-94</date>
+        </publication.statement>
+        <copyright.statement>reproduced by arrangement with the 
+        author and the Times of India and is the copyright of the 
+        the publishers, Bennett, Coleman & Co.
+        Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-018(2)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Insight</main.title>
+            <subtitle>I know a child who begs</subtitle>
+            <page.nos>5</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-018(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Uchil</surname>
+                <forenames>Nilufer</forenames>
+                <age></age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

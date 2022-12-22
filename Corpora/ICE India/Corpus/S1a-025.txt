@@ -1,0 +1,830 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-025#1:1:A>
+Yes <,,> I am from <,> Kerala <,>
+
+<ICE-IND:S1A-025#2:1:A>
+<w> I'm </w> Kuriachan <,>
+
+<ICE-IND:S1A-025#3:1:A>
+I am working as a teacher <,,> in a school <,,>
+
+<$B> 
+<ICE-IND:S1A-025#4:1:B>
+Yes sir <,> <w> I'm </w> Anthony <,,>
+
+<$C> 
+<ICE-IND:S1A-025#5:1:C>
+I am Joy <,> Joseph from <,> uh Kottayam Kerala a central part
+of Kerala <,> and uh <,> I am here on a special <,> uh session <,,>
+
+<$A> 
+<ICE-IND:S1A-025#6:1:A>
+And uh you <O> one word </O> <,> last week when uh you came
+from your own place <,> from the
+
+<$B> 
+<ICE-IND:S1A-025#7:1:B>
+Yes yes I came from <,> uh Nelambur
+
+<$A> 
+<ICE-IND:S1A-025#8:1:A>
+Nelambur
+
+<$B> 
+<ICE-IND:S1A-025#9:1:B>
+Uh
+
+<$A> 
+<ICE-IND:S1A-025#10:1:A>
+Oh then Nelambur comes somewhere in the northern part
+
+<$B> 
+<ICE-IND:S1A-025#11:1:B>
+Ah northern part of Kerala
+
+<$A> 
+<ICE-IND:S1A-025#12:1:A>
+Northern <,>
+
+<$C> 
+<ICE-IND:S1A-025#13:1:C>
+But it is a border district I believe
+
+<$B> 
+<ICE-IND:S1A-025#14:1:B>
+<w> It's </w> border district
+
+<$A> 
+<ICE-IND:S1A-025#15:1:A>
+Between Karnataka <{> <[> and uh </[>
+
+<$B> 
+<ICE-IND:S1A-025#16:1:B>
+<[> Between Karnataka </[> </{> and Tamil Nadu
+
+<$A> 
+<ICE-IND:S1A-025#17:1:A>
+Oh I see <,>
+
+<$B> 
+<ICE-IND:S1A-025#18:1:B>
+So <w> I'm </w> teaching there <,> uh in one of the <,> uh
+private college
+
+<$C> 
+<ICE-IND:S1A-025#19:1:C>
+Uh ha you teach in some uh higher secondary school
+
+<$A> 
+<ICE-IND:S1A-025#20:1:A>
+Yes I teach in <,> in some higher secondary <,>
+
+<ICE-IND:S1A-025#21:1:A>
+But basically I am a mathematics teacher but <,> uh in my school I
+teach uh English
+
+<$C> 
+<ICE-IND:S1A-025#22:1:C>
+Oh ho ho <w> it's </w> fantastic job you are doing no <,,>
+
+<$A> 
+<ICE-IND:S1A-025#23:1:A>
+<w> It's </w> <,> <w> it's </w> a rainy season <,> in our
+place <,> and we have plenty of rain this year <,,> so our <,> crops uh
+agricultural crops are <,,> very good <,,>
+
+<ICE-IND:S1A-025#24:1:A>
+Then what about you <,> sir uh in your village <,> is it a village
+or town ?
+
+<$B> 
+<ICE-IND:S1A-025#25:1:B>
+Yes <w> it's </w> a village <,>
+
+<$A> 
+<ICE-IND:S1A-025#26:1:A>
+<w> It's </w> village
+
+<$B> 
+<ICE-IND:S1A-025#27:1:B>
+Not uh big town a small town <,>
+
+<$A> 
+<ICE-IND:S1A-025#28:1:A>
+<w> What's </w> the main cultivation there <,> ?
+
+<$B> 
+<ICE-IND:S1A-025#29:1:B>
+<w> It's </w> paddy <,> <{1> <[1> and <,> then uh <,> rubber
+<,> <{2> <[2> rubber <,> and uh <,> maize <,> <w> that's </w> all
+
+<$A> 
+<ICE-IND:S1A-025#30:1:A>
+<[1> And </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-025#31:1:A>
+<[2> Rubber </[2> </{2>
+
+<$C> 
+<ICE-IND:S1A-025#32:1:C>
+Uh in our place no uh the main cultivation is rubber <,>
+
+<ICE-IND:S1A-025#33:1:C>
+Usually in <.> Ke </.> Kottayam is supposed to be the <,> I mean uh
+<,,> a place where you have we have maintained that uh uh
+
+<$A> 
+<ICE-IND:S1A-025#34:1:A>
+So you get uh <,,> more income
+
+<$C> 
+<ICE-IND:S1A-025#35:1:C>
+But you know the <.> pro </.> uh recent uh trends <,,> because
+now-a-days more over though the labour charges have gone up <,> now the good
+prices are <{> <[> not </[> coming
+
+<$A> 
+<ICE-IND:S1A-025#36:1:A>
+<[> Oh <w> that's </w> </[> </{> everywhere in Kerala <,> we
+can't uh
+
+<$C> 
+<ICE-IND:S1A-025#37:1:C>
+<w> That's </w> it
+
+<ICE-IND:S1A-025#38:1:C>
+But the only advantage
+
+<$A> 
+<ICE-IND:S1A-025#39:1:A>
+We can't help it because the population
+
+<$C> 
+<ICE-IND:S1A-025#40:1:C>
+Only advantage is that uh <,> rubber is now enjoying a basic
+price or something like that in a fixed price <,> which is uh almost good
+
+<$B> 
+<ICE-IND:S1A-025#41:1:B>
+Not that bad
+
+<$C> 
+<ICE-IND:S1A-025#42:1:C>
+So but actually we still remember the day <O> one word </O>
+years till a few years back <,> Kottayam was one of the most affluent the uh
+places even in the whole of India <,>
+
+<$A> 
+<ICE-IND:S1A-025#43:1:A>
+Yeah <w> that's </w> right
+
+<$C> 
+<ICE-IND:S1A-025#44:1:C>
+And you know educationally <,> culturally <,> by all means and
+you know <,> uh or uh our area <,> I mean the <.> who </.> the whole place
+<w> it's </w> almost cultivable cultivated and uh <,> we have access by roads
+<,> trains and <O> one word </O> <,>
+
+<ICE-IND:S1A-025#45:1:C>
+So we cannot say that it is in a <O> one word </O>
+
+<ICE-IND:S1A-025#46:1:C>
+We have a stationary ways etcetra etcetra
+
+<$A> 
+<ICE-IND:S1A-025#47:1:A>
+Uh ours is a remote area and our <{> <[> people </[> <,> uh
+yes hilly area
+
+<ICE-IND:S1A-025#48:1:A>
+Our people they are mostly depend on this agricultural products <,>
+uh like uh pepper <,> paddy <,> uh then coffee <,> coffee seeds <,> uh tea
+plantations <,>
+
+<ICE-IND:S1A-025#49:1:A>
+These are the main crops we <,> we <,,>
+
+<$C> 
+<ICE-IND:S1A-025#50:1:C>
+<[> Hilly region </[> </{>
+
+<$C> 
+<ICE-IND:S1A-025#51:1:C>
+You have
+
+<$A> 
+<ICE-IND:S1A-025#52:1:A>
+Yeah we have <,,>
+
+<ICE-IND:S1A-025#53:1:A>
+And uh <,> educationally our area is very <,> backward
+
+<$C> 
+<ICE-IND:S1A-025#54:1:C>
+Ah uh <,,>
+
+<$A> 
+<ICE-IND:S1A-025#55:1:A>
+Because most of the people <,,> uh migrate to from southern
+part of Kerala <,>
+
+<$B> 
+<ICE-IND:S1A-025#56:1:B>
+But they must be <,> uh be belonging to some <,> I mean uh
+good I mean families no <,>
+
+<$A> 
+<ICE-IND:S1A-025#57:1:A>
+They <O> a few words </O> we don't have enough uh facilities
+<{> <[> for education and or plant rotation </[>
+
+<$C> 
+<ICE-IND:S1A-025#58:1:C>
+<[> Facilities that should be arranged </[> </{>
+
+<$A> 
+<ICE-IND:S1A-025#59:1:A>
+<O> One word </O> is there <,>
+
+<ICE-IND:S1A-025#60:1:A>
+And uh <,,> a very good percentage of our <,> population <,,> is uh
+<,> uh tribe <,,>
+
+<ICE-IND:S1A-025#61:1:A>
+So <,> they are backwardly you know they are <,> educationally and
+socially they are backward <,,>
+
+<ICE-IND:S1A-025#62:1:A>
+Actually they don't <,> want to <,> live with us <,>
+
+<ICE-IND:S1A-025#63:1:A>
+They want uh their own lives as it is
+
+<$C> 
+<ICE-IND:S1A-025#64:1:C>
+Ah I still remember <,> I was told by some social workers <,>
+that whenever <,> the people uh responsible people go to the uhm tribal
+people <,> they are show their uh uhm what to say <,> uh unwillingness to
+come forward to mingle with the main stream etcetra is there
+
+<$B> 
+<ICE-IND:S1A-025#65:1:B>
+Yes yes
+
+<$C> 
+<ICE-IND:S1A-025#66:1:C>
+Now there are various projects I think <,> to give them for
+<{> <[> a main stream </[> even then you know I personally don't uh uh agree
+with many of the policy because you know <,> one way we are destroying their
+natural habitat
+
+<$A> 
+<ICE-IND:S1A-025#67:1:A>
+<[> Yes uh there are uh yes </[> </{>
+
+<$A> 
+<ICE-IND:S1A-025#68:1:A>
+Uh where they are used to
+
+<$C> 
+<ICE-IND:S1A-025#69:1:C>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-025#70:1:A>
+Yes <w> that's </w> true <w> that's </w> true
+
+<$C> 
+<ICE-IND:S1A-025#71:1:C>
+And you know the days are gone when we could see we could
+think of <,> uh people bringing honey etcetra from the <,> forest and
+
+<$A> 
+<ICE-IND:S1A-025#72:1:A>
+Forest and uh they had a very good <,,> life
+
+<$C> 
+<ICE-IND:S1A-025#73:1:C>
+Ah yeah <,> they have their own cultural I mean we destroyed
+everything anyway whatever it is
+
+<ICE-IND:S1A-025#74:1:C>
+So one way <w> it's </w> a good <,> I mean when we think about uh
+this one of government policies are concerned <,> government have to bring
+all the people to the <,,> main stream or whatever it is <,> and uh uh what
+time you have come ?
+
+<$B> 
+<ICE-IND:S1A-025#75:1:B>
+Uh today
+
+<$C> 
+<ICE-IND:S1A-025#76:1:C>
+What about your job and uh <,,> family in Nelambur sir ?
+
+<$B> 
+<ICE-IND:S1A-025#77:1:B>
+Yes uh <,> as I told you everyting
+
+<$C> 
+<ICE-IND:S1A-025#78:1:C>
+You belong to that particular district
+
+<$B> 
+<ICE-IND:S1A-025#79:1:B>
+No no I belong actually to <,> uh Yernala district
+
+<$C> 
+<ICE-IND:S1A-025#80:1:C>
+Oh ho from Yernala
+
+<$B> 
+<ICE-IND:S1A-025#81:1:B>
+You see <w> I'm </w> settled in Nelambur
+
+<$A> 
+<ICE-IND:S1A-025#82:1:A>
+Uh then how do you <O> a few words </O> work <,>
+
+<$B> 
+<ICE-IND:S1A-025#83:1:B>
+Yeah my field of work is uh <,> I teach I told you know I was
+I am teaching in one of the private colleges <,>
+
+<ICE-IND:S1A-025#84:1:B>
+You see we don't have uh <,> <{> <[> <w> it's </w> run by you <,,>
+<w> it's </w> run by me
+
+<$C> 
+<ICE-IND:S1A-025#85:1:C>
+<[> <w> It's </w> run by you </[> </{>
+
+<$C> 
+<ICE-IND:S1A-025#86:1:C>
+Ah ha ha
+
+<$B> 
+<ICE-IND:S1A-025#87:1:B>
+We don't have uh many <,> regular colleges or <,> any <,> high
+schools run by the government or <,,> recognised by the government and
+nominated <,>
+
+<ICE-IND:S1A-025#88:1:B>
+<w> It's </w> a migrated area
+
+<$A> 
+<ICE-IND:S1A-025#89:1:A>
+Yes <,> so this a boon <,> your step <w> it's </w> a boon to
+your <,> uh progress and your people
+
+<$B> 
+<ICE-IND:S1A-025#90:1:B>
+In a way you can say
+
+<$A> 
+<ICE-IND:S1A-025#91:1:A>
+You provide certain education facilities for them <,>
+
+<$B> 
+<ICE-IND:S1A-025#92:1:B>
+Yeah uh <,> see I am actually running a parallel college <,>
+
+<$A> 
+<ICE-IND:S1A-025#93:1:A>
+A parallel college
+
+<$B> 
+<ICE-IND:S1A-025#94:1:B>
+Yes ah a parallel college
+
+<$C> 
+<ICE-IND:S1A-025#95:1:C>
+And uh who else is there to assist <,> you some other teachers
+or employees
+
+<$B> 
+<ICE-IND:S1A-025#96:1:B>
+Ah to assist there some teachers are there <,> and uh together
+we conduct the classes <,>
+
+<ICE-IND:S1A-025#97:1:B>
+And there are many people <,> <{> <[> uhm <,> many people <,>
+because since there are no recognised uh aided uh colleges and schools uh
+many in our area <,>
+
+<ICE-IND:S1A-025#98:1:B>
+You see this parallel colleges they run a group
+
+<$A> 
+<ICE-IND:S1A-025#99:1:A>
+<[> Uhm </[> </{>
+
+<$A> 
+<ICE-IND:S1A-025#100:1:A>
+Yes of course
+
+<ICE-IND:S1A-025#101:1:A>
+But still I have a doubt uh <,>
+
+<ICE-IND:S1A-025#102:1:A>
+Actually these parallel colleges uh <,,> are the main reasons for
+the <,> uh melting of so many <,,> graduates in India <,>
+
+<ICE-IND:S1A-025#103:1:A>
+And uh actually they create a lot of problems uh in unemployment
+uh
+
+<$B> 
+<ICE-IND:S1A-025#104:1:B>
+And uh after getting education they don't want actually to do
+other work <,> <{> <[> other work <,,> uh like uh <,> what uhm you call <.>
+aga </.> agriculture
+
+<$A> 
+<ICE-IND:S1A-025#105:1:A>
+<[> Other work </[> </{>
+
+<$A> 
+<ICE-IND:S1A-025#106:1:A>
+Yes especially the Indians have the <{> <[> uh </[> <,> uh
+tendency to keep away from <,> parrallel work and uh
+
+<$B> 
+<ICE-IND:S1A-025#107:1:B>
+<[> Tendency </[> </{>
+
+<$B> 
+<ICE-IND:S1A-025#108:1:B>
+Ah parallel work yeah <,>
+
+<$A> 
+<ICE-IND:S1A-025#109:1:A>
+Everybody wants a white collar job
+
+<$B> 
+<ICE-IND:S1A-025#110:1:B>
+White collar job
+
+<$A> 
+<ICE-IND:S1A-025#111:1:A>
+Yes this uh
+
+<$B> 
+<ICE-IND:S1A-025#112:1:B>
+<w> It's </w> a big problem <,>
+
+<ICE-IND:S1A-025#113:1:B>
+So we have uh what you call this uh <,> unemployment problem <,,>
+uh in our uh place <,> in plenty
+
+<ICE-IND:S1A-025#114:1:B>
+So people <,> wanted to go abroad in search of jobs <,,>
+
+<$A> 
+<ICE-IND:S1A-025#115:1:A>
+Not only in your place everywhere in India <{> <[> these
+these </[> unemployment problem
+
+<$C> 
+<ICE-IND:S1A-025#116:1:C>
+<[> Ah yes uh </[> </{>
+
+<$C> 
+<ICE-IND:S1A-025#117:1:C>
+The tendency to
+
+<$A> 
+<ICE-IND:S1A-025#118:1:A>
+So they seek <,,> job in other countries <,>
+
+<ICE-IND:S1A-025#119:1:A>
+But uh <,> to go abroad uh it is very difficult <O> one or two
+words </O> because uh <,> the problem of language <,> the financial
+background everything comes in the way <,,>
+
+<ICE-IND:S1A-025#120:1:A>
+Uh uh when we talk about these things <,,> uh what do you feel
+about the <,> standard <,,> of English <,>
+
+<ICE-IND:S1A-025#121:1:A>
+Is it necessary <,> these English education is <.> necess </.> is
+it necessary in our country ?
+
+<$B> 
+<ICE-IND:S1A-025#122:1:B>
+So <w> that's </w> a <O> one word </O> <w> I'm </w> a strong
+uhm <,> arguer <,> for the <.> main </.> maintenance of good standard of
+English throughout <,> uh across this life
+
+<$A> 
+<ICE-IND:S1A-025#123:1:A>
+Yes yes
+
+<$B> 
+<ICE-IND:S1A-025#124:1:B>
+<}> <-> Because </-> </=> because </=> </}> the reason is
+that <w> it's </w> a world language you know <,> and
+
+<$C> 
+<ICE-IND:S1A-025#125:1:C>
+And uh and uh language see in India in particular <,> if a
+country like ours <,> we need uh what you call a link language
+
+<$A> 
+<ICE-IND:S1A-025#126:1:A>
+Because uh <,> our country has a <,> multi uh <,> <{> <[>
+lingual background <,,> lingual background
+
+<$C> 
+<ICE-IND:S1A-025#127:1:C>
+<[> Lingual background </[> </{>
+
+<$A> 
+<ICE-IND:S1A-025#128:1:A>
+Every state has uh <,> their own languages <,> so in order to
+communicate with them <,> uh I think
+
+<$B> 
+<ICE-IND:S1A-025#129:1:B>
+We must have uh a
+
+<$A> 
+<ICE-IND:S1A-025#130:1:A>
+Link languages <,> and we usually depend on <,> this English
+
+<$B> 
+<ICE-IND:S1A-025#131:1:B>
+Or in other words <,> uh if you don't know English <,> if you
+want to communicate with people from other cities you need to know around uh
+ten fifteen languages <,>
+
+<ICE-IND:S1A-025#132:1:B>
+Whereas if you know English you could serve <,> I mean it could
+serve your <,> purpose throughout India and even outside the world
+
+<$C> 
+<ICE-IND:S1A-025#133:1:C>
+But actually the politicians spoil the <O> one or two words
+</O> <,> I think so <,>
+
+<$B> 
+<ICE-IND:S1A-025#134:1:B>
+Yes they actually spread the regionalism <,> communalism and
+all
+
+<$C> 
+<ICE-IND:S1A-025#135:1:C>
+Because they have uh their own uh motives you know <,>
+
+<ICE-IND:S1A-025#136:1:C>
+They have their own personal motives <,,> uhm they have to <,,>
+stand <,,> for I mean their survival
+
+<$A> 
+<ICE-IND:S1A-025#137:1:A>
+Uh their survival <,,>
+
+<$C> 
+<ICE-IND:S1A-025#138:1:C>
+And uh once such issues are out of the scene uh they cannot
+<,,> have any thing to <,,> to go to the people <,,> uhm I mean again for
+something else or so <,,>
+
+<$B> 
+<ICE-IND:S1A-025#139:1:B>
+So I think there are two sets of people I think <,>
+
+<ICE-IND:S1A-025#140:1:B>
+One is favouring <,> uh this uh <,> English language and there are
+other people who are
+
+<$A> 
+<ICE-IND:S1A-025#141:1:A>
+Those <w> who're </w> against them
+
+<$B> 
+<ICE-IND:S1A-025#142:1:B>
+Against <,> them
+
+<$A> 
+<ICE-IND:S1A-025#143:1:A>
+Yes <w> that's </w> true <,>
+
+<ICE-IND:S1A-025#144:1:A>
+But when we consider the facts <,,> uh we are supposed to follow
+<,> this English language as long as <,> uh we have another link language
+
+<$C> 
+<ICE-IND:S1A-025#145:1:C>
+Link language yes <,,>
+
+<$A> 
+<ICE-IND:S1A-025#146:1:A>
+<w> That's </w> very <,> important
+
+<$C> 
+<ICE-IND:S1A-025#147:1:C>
+Important <,>
+
+<ICE-IND:S1A-025#148:1:C>
+But not only that <,> for our higher studies uh purposes <,>
+
+<$A> 
+<ICE-IND:S1A-025#149:1:A>
+<O> One word </O>
+
+<$C> 
+<ICE-IND:S1A-025#150:1:C>
+If you want to <,> go through any <,> material <,,> this is
+the only uh <,> language by which we can communicate
+
+<ICE-IND:S1A-025#151:1:C>
+Uh I mean <,,> uh <w> we'll </w> get the only material in English
+<,>
+
+<ICE-IND:S1A-025#152:1:C>
+In especially higher <,> <{> <[> upper higher school <,,> higher
+level <,,>
+
+<$A> 
+<ICE-IND:S1A-025#153:1:A>
+<[> Upper higher school </[> </{>
+
+<$B> 
+<ICE-IND:S1A-025#154:1:B>
+What about the cultural uh uh <,> background in your place do
+your people still <,> uh maintain that uh traditional cultural programmes <,>
+like Kathakali Turgal etcetra in your place ?
+
+<$C> 
+<ICE-IND:S1A-025#155:1:C>
+Yes they do <,>
+
+<ICE-IND:S1A-025#156:1:C>
+But even they are on the decline no
+
+<$B> 
+<ICE-IND:S1A-025#157:1:B>
+It is very you know in our place you know many of the items
+are not uh there <,>
+
+<$A> 
+<ICE-IND:S1A-025#158:1:A>
+But it is because of the influence of this uh city culture
+you know <,>
+
+<ICE-IND:S1A-025#159:1:A>
+They are always after these <,> uh so called modernism <,,>
+
+<$B> 
+<ICE-IND:S1A-025#160:1:B>
+Yeah that is the inevitable reality for example in our
+childhood you know <,> even uh my own <,> I mean the school where I studied
+our <,> I mean usual <,> uh uniform was the very much traditional Kerala
+<indig> mundu </indig> and uh shirt <,>
+
+<$C> 
+<ICE-IND:S1A-025#161:1:C>
+Now most of the schools in have changed to <,> uh uh <O> one
+word </O>
+
+<ICE-IND:S1A-025#162:1:C>
+But I I feel it has become an inevitable uh <,>
+
+<$A> 
+<ICE-IND:S1A-025#163:1:A>
+That truth uh <,> and we blindly follow <,> the tradition of
+uh European people uh <,>
+
+<$B> 
+<ICE-IND:S1A-025#164:1:B>
+But does this mean that you know
+
+<$C> 
+<ICE-IND:S1A-025#165:1:C>
+My sir I mean my guess is that you know people must have uh
+<,> chosen a convenient way <,> rather than uh <,>
+
+<$A> 
+<ICE-IND:S1A-025#166:1:A>
+No I don't think how can it be a convenient way because <,>
+uh wearing these uh boots shoes ties
+
+<$B> 
+<ICE-IND:S1A-025#167:1:B>
+<w> It's </w> a <O> one word </O> you mean uh <,> that <w>
+it's </w> not at all suited for <w> Kerala's </w> climate uh <,>
+
+<ICE-IND:S1A-025#168:1:B>
+One way <w> it's </w> true
+
+<ICE-IND:S1A-025#169:1:B>
+<w> It's </w> not hygenic especially during the month of June July
+
+<ICE-IND:S1A-025#170:1:B>
+But you know still <,> more than that uh <,> <O> cough </O> sorry
+there is an element of uh <,> imitation or uh going after the <,> uh foreign
+traditions in every country <,>
+
+<$A> 
+<ICE-IND:S1A-025#171:1:A>
+Yes of course we can follow the language <,> European
+languages <,> I mean this English
+
+<ICE-IND:S1A-025#172:1:A>
+But <{> <[> the practice being </[>
+
+<$C> 
+<ICE-IND:S1A-025#173:1:C>
+<[> But the practice </[> </{> if we follow their culture uh
+tradition <,,>
+
+<$B> 
+<ICE-IND:S1A-025#174:1:B>
+But you know <,> see anyway English study is that has brought
+a <,> number of good things to India and <,> whatever it is
+
+<$A> 
+<ICE-IND:S1A-025#175:1:A>
+Yes <,,> then
+
+<$B> 
+<ICE-IND:S1A-025#176:1:B>
+I see what about the cultural no <,> see the cultural uh <,>
+programmes and other items <,> uh Mr Joy you said that uh the <,> <w> there's
+</w> a decline in your part
+
+<$C> 
+<ICE-IND:S1A-025#177:1:C>
+Yeah sure
+
+<$B> 
+<ICE-IND:S1A-025#178:1:B>
+And uh what is the reason behind it
+
+<$C> 
+<ICE-IND:S1A-025#179:1:C>
+Actually there the thing is that you know for example
+Kathakali art I mean this <,> uh uhm cultural items like Kathakali Turgal <,>
+it needs a life time <,> I mean uh mean practice <,>
+
+<ICE-IND:S1A-025#180:1:C>
+For example six or seven years to master
+
+<$A> 
+<ICE-IND:S1A-025#181:1:A>
+Ha true
+
+<$C> 
+<ICE-IND:S1A-025#182:1:C>
+And you know <}> <-> nobody is </-> <=> nobody is </=> </}>
+that patient enough to practice it <,>
+
+<$B> 
+<ICE-IND:S1A-025#183:1:B>
+Even from our area know <,> <w> it's </w> entirely different
+know <,> that people they like <,> they wanted to study all these uh old uh
+things <,> older things you know
+
+<$A> 
+<ICE-IND:S1A-025#184:1:A>
+Uh not only that uh <,> usually these days the people have a
+tendency to look down upon such a traditional <,> <{> <[> yeah yeah <,,> uh
+programme you know traditional <,,> uh cultural programmes of
+
+<$C> 
+<ICE-IND:S1A-025#185:1:C>
+<[> Yeah yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-025#186:1:B>
+I see
+
+<$A> 
+<ICE-IND:S1A-025#187:1:A>
+That is the one of the main reason <,,>
+
+<$C> 
+<ICE-IND:S1A-025#188:1:C>
+Uh people always go after pop music <,> uh dance cabarait
+dance <,> uh and all <}> <-> those </-> <=> those </=> </}> things <,,>
+
+<$A> 
+<ICE-IND:S1A-025#189:1:A>
+Of course this is well and good but should we <,,> <{> <[>
+yeah <,> <w> that's </w> not uh our own <,>
+
+<$C> 
+<ICE-IND:S1A-025#190:1:C>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-025#191:1:B>
+But in our area it is totally different
+
+<ICE-IND:S1A-025#192:1:B>
+I think uh now people have <,> uh more liking or you can say <,>
+they love to learn <,> uh Kathakali Bharatnatyam and uh see people do </I>

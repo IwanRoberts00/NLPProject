@@ -1,0 +1,54 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2B-046</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Scripted:non-broadcast
+                   speeches</category>
+              <wordcount>2118</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2B-046>
+       <recording.data>
+              <date>26-08-97</date>
+              <time>12.00noon</time>
+              <place>VPM , Mulund(Bombay)</place>
+       </recording.data>
+              <organising.body>Maker Endowment Lecture,
+                   VPM</organising.body>
+              <copyright.statement>reproduced by permission of
+                   the speaker</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-046</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size>100</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+     <biography=<it>ICE-IND-S2B-046</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Shastri</surname>
+            <forenames>Sudhama</forenames>
+            <age>64</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Mysore, Karnataka</birthplace>
+            <education>Doctorate</education>
+            <occupation>University Teacher &
+                 Researcher</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi,
+                 Tamil</other.languages>
+            <free.comments>Moved to several places mainly in
+            UP (1934-47), Bombay (1947-74), Kolhapur (1974-
+            96), Lancaster (1977-78), Pune (1996-97), Kolhapur
+            (1997 to date)</free.comments>
+     </biography>
+</text.info>

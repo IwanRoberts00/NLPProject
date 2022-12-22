@@ -1,0 +1,52 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-019</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:story</caregory>
+            <wordcount>2192</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2F-019>
+       <source.type=periodical>
+            <source.title>Namaste</source.title>
+            <source.subtitle>A Welcomegroup
+              Publication</source.subtitle>
+       <publication.statement>
+            <publisher>Dileep Rao</publisher>
+            <address>The Hotels Division of ITC Ltd.,
+              Welcomegroup Maurya Sheraton Diplomatic Enclave,
+              New Delhi-110021</address>
+            <place>New Delhi</place>
+            <date>1990</date>
+            <ISBN>not known</ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of the
+            author and the Publisher</copyright.statement>
+       <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-019>
+       <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Dust on the Mountain</main.title>
+            <subtitle></subtitle>
+            <page.nos>4-12</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-019>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Bond</surname>
+            <forenames>Ruskin</forenames>
+            <age></age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+</text.info>

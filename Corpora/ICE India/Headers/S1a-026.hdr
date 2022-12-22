@@ -1,0 +1,72 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-026</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2190</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-026>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>13-06-93</date>
+            <time>10.30pm</time>
+            <place>Mysore: CIEFL contact programme</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-026</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>disparates</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-026</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Joseph</surname>
+            <forenames>Joseph</forenames>
+            <age>34-41</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Clerk</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Malayalam</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-026</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Sajjan</surname>
+            <forenames>Ganapati</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Bijapur, Karnataka</birthplace>
+            <education>Karnataka University, Dharwad</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teaching, Principal of
+                 College</occupation>
+            <affiliations>Chairman FOCET(Forum Of College English
+                 Teachers), Bijapur</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Kolhapur (1955-58), Bijapur (1958-67),
+                 Gulbarga (1967-73)</free.comments>
+     </biography>
+</text.info>

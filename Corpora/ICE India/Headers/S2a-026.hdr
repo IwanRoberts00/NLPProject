@@ -1,0 +1,51 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-026</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2108</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-026>
+              <source.title> </source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>  </date>
+              <time>  </time>
+              <place> </place>
+       </recording.data>
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-026</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-026</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Powar</surname>
+              <forenames>Krishnapratap</forenames>
+              <age>50+</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Jabalpur(M.P.)</birthplace>
+              <education>Doctorate</education>
+              <occupation>Teacher\Administrator</occupation>
+              <affiliations>Geological Society of
+                   India</affiliations>
+              <mother.tongue>Marathi</mother.tongue>
+              <other.languages>Hindi</other.languages>
+              <free.comments>Moved to Varanasi (1960-69), Pune
+                   (1969-86), Kolhapur (1986-to
+                   date)</free.comments>
+       </biography>
+</text.info>

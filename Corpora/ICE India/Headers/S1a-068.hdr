@@ -1,0 +1,70 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-068</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2283</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-068>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>21-07-94</date>
+            <time>2.30pm</time>
+            <place>Delhi, UPSC Guest House</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-068</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-068</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Gupta</surname>
+            <forenames>Saroj</forenames>
+            <age>50+</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree(Medicine)</educational.level>
+            <occupation>Medical Doctor</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Hindi</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-068</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Singh</surname>
+            <forenames>Vidyadhar</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Azamgarh, UP</birthplace>
+            <education>Allahabad University, Leeds
+                 University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Professor</occupation>
+            <affiliations>TESOL (USA)</affiliations>
+            <mother.tongue>Hindi</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments>Moved to Shillong (1975-82), Hyderabad
+                 (1988 to date)</free.comments>
+     </biography>
+</text.info>

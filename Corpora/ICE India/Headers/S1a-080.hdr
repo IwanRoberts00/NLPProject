@@ -1,0 +1,68 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-080</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2111</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-080>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>02-08-95</date>
+            <time>12.30pm</time>
+            <place>Punjab University, Chandigarh</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-080</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-080</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Syal</surname>
+            <forenames>Pushpinder</forenames>
+            <age>42-49</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Qadian, Gurudaspur, Punjab</birthplace>
+            <education>Punjab University, Lancaster
+                 University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Teacher</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Punjabi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-080</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Oberoi</surname>
+            <forenames>N.K</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Teacher</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Punjabi</mother.tongue>
+            <other.languages>Hindi, Urdu</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

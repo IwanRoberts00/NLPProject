@@ -1,0 +1,113 @@
+<text.info>
+       <file.description>
+                <textcode>ICE-IND-W1B-014</textcode>
+                <number.of.subtexts>003</number.of.subtexts>
+                <category>non-printed:correspondence:social
+                  letters</category>
+                <wordcount>1985</wordcount>
+                <version>lexical</version>
+                <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1B-014a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>30-08-98</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-014a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>20-11-97</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-014a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>29-08-98</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-014a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>14-10-98</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1B-014</it>>
+            <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1B-014a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Yajurvedi</surname>
+                <forenames>V.K.</forenames>
+                <age>42-49</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level>M.A.</educational.level>
+                <occupation>Air Force Officer</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Kannada</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-W1B-014b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Shastri</surname>
+                <forenames>Krishnaraj S.</forenames>
+                <age>34-41</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Kalyan, Maharashtra</birthplace>
+                <education>Shivaji University</education>
+                <educational.level>B.E.</educational.level>
+                <occupation>Marine Engineer</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Kannada</mother.tongue>
+                <other.languages>Marathi,
+Hindi</other.languages>
+                <free.comments>Dombivli (1965-75), Kolhapur
+                  (1975-87), Pune (1987-90), at Sea (1990 to
+                  date)</free.comments>
+       </biography>
+       <biography=<it>ICE-IND-W1B-014c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Shastri</surname>
+                <forenames>Rajashree K.</forenames>
+                <age>26-33</age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Bombay</birthplace>
+                <education>Kabhur Institute of Tech:
+                  Belgaum</education>
+                <educational.level>DCSE-Diploma in Computer
+                  Science & Engineering</educational.level>
+                <occupation>Housewife</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages>Kannada,                      
+                 Hindi</other.languages>
+                <free.comments>Nipani (1968-93), Kolhapur      
+                  (1993-96), Pune (1996 to                     
+                  date)</free.comments>
+       </biography>
+</text.info>

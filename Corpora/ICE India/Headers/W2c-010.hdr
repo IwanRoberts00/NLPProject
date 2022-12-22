@@ -1,0 +1,101 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-010</textcode>
+             <number.of.subtexts>2</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>1973</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=a>
+           <source.type=periodical>
+           <source.title>India Today</source.title>
+           <source.subtitle></source.subtitle>
+           <volume></volume>
+           <no.></no.>
+           <series></series>
+           <frequency>fortnightly</frequency>
+     <publication.statement>
+           <publisher>Living Media India Ltd.</publisher>
+           <address>K-9, Cannaught Circus, New Delhi, New
+                   Delhi-110001</address>
+           <place>New Delhi</place>
+           <date>15-01-90</date>
+           <ISSN></ISSN>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of
+        Living Media India Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.                 
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-010a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>SPECIAL ISSUE : THE 80's</main.title>
+                 <subtitle>Stop Press</subtitle>
+                 <page.nos>19</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-010a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Pachauri</surname>
+                <forenames>Pankaj</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=b>
+           <source.type=periodical>
+           <source.title>The Week</source.title>
+           <source.subtitle></source.subtitle>
+           <volume></volume>
+           <no.></no.>
+           <series></series>
+           <frequency>weekly</frequency>
+     <publication.statement>
+           <publisher>The Malyala Manorama Co. Ltd.</publisher>
+           <address>Manorama Building, P.B. No 2314, Cochin-
+                   682016</address>
+           <place>Cochin</place>
+           <date>25-02-90</date>
+           <ISSN></ISSN>
+     </publication.statement>
+           <copyright.statement>reproduced by permission of The
+                               Week</copyright.statement>
+           <free.comments>text was obtained by Prof.
+                         Leitner</free.comments>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-010b</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>SPECIAL REPORT</main.title>
+                 <subtitle>Comrades at war</subtitle>
+                 <page.nos>8</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-010b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Ganguly</surname>
+                <forenames>Tapash</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

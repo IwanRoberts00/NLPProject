@@ -1,0 +1,124 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-071</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:business
+                 transactions</category>
+            <wordcount>2662</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-071>
+     <source.type=Dialogue:public:business transactions>
+     <recording.data>
+            <date>07-03-94</date>
+            <time>12.30pm</time>
+            <place>SSS/HSC Board Office, Pune</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-071</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>5</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments>Meeting of the English
+                 Board</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-071</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kadepurkar</surname>
+            <forenames>Harshavardhan</forenames>
+            <age>42-49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Nasik, Maharashtra</birthplace>
+            <education>Marathwada University, CIEFL
+                 Hyderabad</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Lecturer</occupation>
+            <affiliations>Member Maharashtra State Board of
+                 Secondary & Higher Secondary
+                 Education</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-071</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Patil</surname>
+            <forenames>Vasant</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Graduate</educational.level>
+            <occupation>Educational Administration</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-071</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Badlani</surname>
+            <forenames>Rajani</forenames>
+            <age>42-49</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>English Studies Officer, British Council,
+                 Bombay</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Sindhi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-071</it>>
+            <speaker.id>D</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Udgirkar</surname>
+            <forenames>Rajabhau</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Graduate</educational.level>
+            <occupation>Politician</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi, Urdu</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-071</it>>
+            <speaker.id>E</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Rajput</surname>
+            <forenames>Bhagwan Singh</forenames>
+            <age>49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Graduate</educational.level>
+            <occupation>High School Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

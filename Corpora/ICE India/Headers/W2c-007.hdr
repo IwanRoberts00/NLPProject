@@ -1,0 +1,304 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-007</textcode>
+             <number.of.subtexts>8</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>2125</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=a>
+     <source.type=newspaper>
+           <source.title>Delhi Midday</source.title>
+           <scope>regional</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Special Protection Services (Pvt)
+                      Ltd.</publisher>
+            <address>World Trade Tower, Barakhamba Lane,
+                    New Delhi -110001</address>
+            <place>New Delhi</place>
+            <date>07-03-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Special
+Protection Services (Pvt) Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-007a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Teenage runaways ask parents to keep
+                 off</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>1</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-007a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>reporter</communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=b,c>
+     <source.type=newspaper>
+           <source.title>Herald</source.title>
+           <scope>regional</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Fernandes Publications</publisher>
+            <address>Behind General Post Office, Panjim,
+                    Goa-403001</address>
+            <place>Goa</place>
+            <date>27-02-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Fernandes
+                Publications</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-007b</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Heroin worth Rs 19 crore seized</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>9</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-007c</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Bride burning case hearing</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>9</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-007b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-007c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=d>
+     <source.type=newspaper>
+           <source.title>The Hitavada</source.title>
+           <scope>regional</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Rajendra Purohit & Co.</publisher>
+            <address>Pandit Jawaharlal Nehru Marg, Nagpur-     
+                    440012</address>
+            <place>Nagpur</place>
+            <date>28-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Rajendra
+                Purohit & Co.</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-007d</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Novel programme for tax-payers in             
+                 city</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>9</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-007d</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=e,f>
+     <source.type=newspaper>
+           <source.title>The Hitavada</source.title>
+           <scope>regional</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Rajendra Purohit & Co.</publisher>
+            <address>Pandit Jawaharlal Nehru Marg, Nagpur-     
+                    440012</address>
+            <place>Nagpur</place>
+            <date>29-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Rajendra 
+                Purohit & Co.</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-007e</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Karjmukti scheme in budget session:
+                 V P</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>1</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-007f</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Tigers slay Tamil provincial
+                 minister</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>4</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-007e</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>reporter</communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+
+     </biography>
+     <biography=<it>ICE-IND-W2C-007f</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=g,h>
+     <source.type=newspaper>
+           <source.title>Midday</source.title>
+           <scope>local</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Midday Publications Ltd.</publisher>
+            <address>Midday Publication Ltd., Andheri, Bombay- 
+                    400059</address>
+            <place>Bombay</place>
+            <date>27-02-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Midday
+                Publications Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-007g</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Batliboi's new power package</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>11</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-007h</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Six awards for Trikaya Grey</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>11</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-007g</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-007h</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>commerce
+                               reporter</communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

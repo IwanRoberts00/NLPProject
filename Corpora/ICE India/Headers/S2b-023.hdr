@@ -1,0 +1,54 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2B-023</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Scripted:broadcast
+                   talks</category>
+              <wordcount>1661</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2B-023>
+       <recording.data>
+              <channel>Doordarshan</channel>
+              <address></address>
+              <tv.or.radio>tv</tv.or.radio>
+              <source.title>Social Surveys</source.title>
+              <source.subtitle></source.subtitle>  
+              <date>13-07-90</date>
+              <time>6.20an</time>
+       </recording.data>
+              <copyright.statement>Blanket permission from
+                   Doordarshan under section 39 of Copyright Act,
+                   1957 and Copyright Rules, 1958
+                   respectively</copyright.statement>
+              <free.comments>Produced by AVRC: Maduraj Kamraj
+                   University</free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-023</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Broadcast Talk
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-023</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Singh</surname>
+              <forenames>Dr. Jaspal</forenames>
+              <age>50</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Doctorate</education>
+              <occupation>Professor of Sociology</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

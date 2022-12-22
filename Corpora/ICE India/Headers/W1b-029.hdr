@@ -1,0 +1,170 @@
+<text.info>
+       <file.description>
+                <textcode>ICE-IND-W1B-029</textcode>
+                <number.of.subtexts>002</number.of.subtexts>
+                <category>non-printed:correspondence:business
+                  letters</category>
+                <wordcount>1950</wordcount>
+                <version>lexical</version>
+                <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1B-029a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>21-01-92</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>23-05-95</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>24-07-95</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>01-08-96</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>30-03-98</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>18-02-92</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>13-02-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>19-03-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029b>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>28-03-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>31-03-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>03-09-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-029b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>03-09-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1B-029</it>>
+            <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1B-029a(1 to 5)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Patil</surname>
+                <forenames>Dadasaheb K.</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Hunnargi, Belgaum,
+                  Karnataka</birthplace>
+                <education>Shivaji University</education>
+           <educational.level>Doctorate</educational.level>
+                <occupation>Teaching</occupation>
+                <affiliations>Principals' Association,
+                  Maharashtra State Management
+                  Association</affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages>Hindi,                        
+                       Kannada</other.languages>
+                <free.comments>Moved to Nipani (1955-59),      
+                  Belgaum (1959-62), Kolhapur (1962-83),       
+                   Ichalkaranji
+                  (1983 to date)</free.comments>
+       </biography>
+       <biography=<it>ICE-IND-W1B-029b(6 to 12)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Babu</surname>
+                <forenames>Ramesh B.</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Palakol, Andhra                    
+                  Pradesh</birthplace>
+                <education>Andhra University, Delhi
+                  University</education>
+             <educational.level>Doctorate</educational.level>
+                <occupation>University Professor</occupation>
+                <affiliations>American Studies Research
+                  Centre</affiliations>
+                <mother.tongue>Telugu</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments></free.comments>
+       </biography>
+</text.info>

@@ -1,0 +1,68 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-053</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:
+                   demonstrations</category>
+              <wordcount>2419</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-053>
+       <recording.data>
+              <source.title>Spectograph Machine</source.title>
+              <source.subtitle></source.subtitle>  
+              <date>04-08-92</date>
+              <time>3.00pm</time>
+              <place>Poona University:CDAC Laboratory</place>
+       </recording.data>
+              <copyright.statement>used by permission of
+                   respective speakers</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-053</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Lecture
+                   </communicative.situation>
+              <no.of.participants>2</no.of.participants>
+              <relationship>disparate</relationship>
+              <audience.size></audience.size>
+              <free.comments>Live Demonstration</free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-053</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Rao</surname>
+              <forenames>Prof. Bhaskar</forenames>
+              <age>50+</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Doctorate</education>
+              <occupation>Professor of Linguistics</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Telugu</mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S2A-053</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Karande</surname>
+            <forenames>Ashok</forenames>
+            <age>26-33</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Merwewadi, Satara,
+                 Maharashtra</birthplace>
+            <education>Post Graduate</education>
+            <occupation>Teaching</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments>Moved to Umbraj (1960-71), Srirampur
+                 (1971-75), Pune (1975-77), Kolhapur (1977 to
+                 date)</free.comments>
+      </biography>
+</text.info>

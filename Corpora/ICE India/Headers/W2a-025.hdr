@@ -1,0 +1,74 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-025</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              natural sciences</category>
+            <wordcount>2710</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-025>
+        <source.type=periodical>
+            <source.title>Indian Journal of Pure & Applied
+              Physics</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol.30</series>
+        <publication.statement>
+            <publisher>Publication & Information Directorate in
+              Association with Indian National
+              Academy</publisher>
+            <address>Publication & Information Directorate, CSIR,
+              New Delhi</address>
+            <place>New Delhi</place>
+            <date>April 1992</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-025</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Ligand Mediated Pseudohypersensitivity
+              of Transitions</main.title>
+            <subtitle></subtitle>
+            <page.nos>159-162</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-025</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Misra</surname>
+                <forenames>Sudhindra N.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-025</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Mehta</surname>
+                <forenames>Surendra B.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

@@ -1,0 +1,53 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-036</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:popular:
+              technology</category>
+            <wordcount>1991</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-036>
+        <source.type=monograph>
+            <source.title>2001</source.title>
+            <source.subtitle>Incorpared by Science
+              Today</source.subtitle>
+            <series>Vol.24, No-3</series>
+        <publication.statement>
+            <publisher>Bennett Coleman & Co. Ltd.,</publisher>
+            <address>10, Daryaganj, New Delhi-110002</address>
+            <place>New Delhi</place>
+            <date>April 1990</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+             publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-036</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Computers & Electronics</main.title>
+            <subtitle>What's Next?</subtitle>
+            <page.nos>72-77</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-036</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Krishnan</surname>
+                <forenames>Venkat</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

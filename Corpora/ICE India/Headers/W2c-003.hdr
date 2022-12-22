@@ -1,0 +1,143 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-003</textcode>
+             <number.of.subtexts>3</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>1978</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description>
+     <subtext.source=a>
+     <source.type=newspaper>
+           <source.title>The Independent</source.title>
+           <scope>national</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Samrat Properties Ltd.</publisher>
+            <address>121, D. N.Road Bombay 400001</address>
+            <place>Bombay</place>
+            <date>08-03-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Samrat
+                Properties Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-003a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Police File</main.title>
+                 <subtitle>Murder accused arrested</subtitle>
+                 <page.nos>2</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-003a</it>>
+            <speaker.id>A</speaker.id>
+     <communicative.role>staff reporter</communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=b>
+     <source.type=newspaper>
+           <source.title>The Times of India</source.title>
+           <scope>national</scope>
+           <frequency>daily</frequency>
+           <circulation>705000</circulation>
+     <publication.statement>
+            <publisher>Bennett, Coleman & Co., Ltd.</publisher>
+            <address>Dr Dadabhoy Naoroji Road, Bombay-
+                    400001</address>
+            <place>Bombay</place>
+            <date>07-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by arrangement with the   
+      author and the Times of India and is the copyright of the 
+      the publishers, Bennett, Coleman & Co.
+      Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-003b</it>>
+        <subtext.name>ICE-IND-Aviation</subtext.name>
+        <main.title>Only way to cut Gulf air fares</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>6</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-003b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames>V.R.Mani</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=c>
+     <source.type=newspaper>
+           <source.title>The Times of India</source.title>
+           <scope>national</scope>
+           <frequency>daily</frequency>
+           <circulation>705000</circulation>
+     <publication.statement>
+            <publisher>Bennett, Coleman & Co., Ltd.</publisher>
+            <address>Dr. Dadabhoy Naoroji Road, Bombay-
+                    400001</address>
+            <place>Bombay</place>
+            <date>13-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by arrangement with the   
+      author and the Times of India and is the copyright of the 
+      the publishers, Bennett, Coleman & Co.
+      Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-003c</it>>
+           <subtext.name>ICE-IND-Finance</subtext.name>
+     <main.title>Commerz bank plans to enlarge Indian
+                 operations</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>13</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-003c</it>>
+            <speaker.id>A</speaker.id>
+     <communicative.role>Financial Editor</communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

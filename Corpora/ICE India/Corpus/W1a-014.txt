@@ -1,0 +1,665 @@
+<I> <O> Left of margin Que 1. </O>
+
+<ICE-IND:W1A-014#1:1>
+<h> <ul> Salt tolerance in Halophytes - - </ul> </h>
+
+<p> 
+<ICE-IND:W1A-014#2:1>
+Halophytes are the salt plants which can grow in salt rich soil
+and complete their life cycle is salinity. </p>
+
+<p> 
+<ICE-IND:W1A-014#3:1>
+The halophytes can grow in saline soil because they have some
+adaptations to grow in saline soil & these are as follows: <&> serial number
+1 to 8 below are circled </&>
+
+<ICE-IND:W1A-014#4:1>
+1 Extrusion
+
+<ICE-IND:W1A-014#5:1>
+2 Accumulation of salts in special hairs
+
+<ICE-IND:W1A-014#6:1>
+3 Salt secretion
+
+<ICE-IND:W1A-014#7:1>
+4 Exclusion
+
+<ICE-IND:W1A-014#8:1>
+5 Dilution
+
+<ICE-IND:W1A-014#9:1>
+6 Retransport of salt in soil / root medium
+
+<ICE-IND:W1A-014#10:1>
+7 Removal of salt saturated organs
+
+<ICE-IND:W1A-014#11:1>
+8 Salt leaching
+
+<ICE-IND:W1A-014#12:1>
+<h> <ul> 1 Extrusion </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#13:1>
+Some <}> <-> plausm </-> <+> plasma </+> </}> having extrusion
+pumps in the salt glands which can actively <}> <-> removed </-> <+> remove
+</+> </}> the salts as ions from the mesophyll cells
+
+<ICE-IND:W1A-014#14:1>
+eg. <h> <ul> Rhizophora mucronata </ul> </h> </p>
+
+<p> 
+<ICE-IND:W1A-014#15:1>
+The extrusion pumps are generally located in the salt glands.
+</p>
+
+<ICE-IND:W1A-014#16:1>
+<h> 2 Accumulation of salts in special hairs. </h>
+
+<p> 
+<ICE-IND:W1A-014#17:1>
+In many halophytes salts are accumulated in various epidermal
+outgrowth there may be salt hairs of bladders.
+
+<ICE-IND:W1A-014#18:1>
+The salt bladders having <del> so </del> neek or stalk cell and
+bladder cell.
+
+<ICE-IND:W1A-014#19:1>
+The neck cell collects salts from mesophyll as epidermal cells and
+transported into bladder cell. </p> <O> Figure </O> <O> caption </O>
+
+<ICE-IND:W1A-014#20:1>
+<h> 3 <ul> Salt Secretion </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#21:1>
+Generally salt <}> <-> secreated </-> <+> secreted </+> </}>
+through the glands which are located on the epidermis or in the grove. </p>
+<O> Figure </O> <O> caption </O>
+
+<ICE-IND:W1A-014#22:1>
+eg. <h> <ul> Avicennia </ul> , <ul> Lolium </ul> , <ul> Tamarix </ul>
+</h>
+
+<p> 
+<ICE-IND:W1A-014#23:1>
+These salt <}> <-> secreating </-> <+> secreting </+> </}> cells
+<}> <-> secreated </-> <+> secreted </+> </}> salts outside which can be
+leached by rain drops. </p>
+
+<p> 
+<ICE-IND:W1A-014#24:1>
+The salts are also <}> <-> secreated </-> <+> secreted </+> </}>
+through Gycathode by the process of guttation. </p>
+
+<ICE-IND:W1A-014#25:1>
+<h> 4 <ul> Exclusion </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#26:1>
+This is very common phenomenon <-> occure </-> in halophytes; the
+salts asorbed <+> are </+> not transported to direct sites like leaf &
+excluded for long times. </p>
+
+<ICE-IND:W1A-014#27:1>
+<h> 5 <ul> Dilution </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#28:1>
+<}> <-> The some </-> <+> Some </+> </}> halophytes absorb more
+water & the salts get diluted at the same time the volume of plant also
+increased. </p>
+
+<ICE-IND:W1A-014#29:1>
+<h> 6 <ul> Retransport of salt in soil medium </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#30:1>
+There is no <-> any </-> way to remove salts, so the plants are
+having capacity to load the salts in phloem & transported to root<del>ing med
+& </del> where they get released. </p>
+
+<ICE-IND:W1A-014#31:1>
+<h> 7 <ul> Removal of salt saturated organs </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#32:1>
+This is very common <}> <-> occure </-> <+> occurrence </+> </}>
+in very adaptive halophytes where salts are loaded in a <}> <-> perticular
+</-> <+> particular </+> </}> organ & then this organ <+> is </+> removed
+<del> generally </del> ie leaves.
+
+<ICE-IND:W1A-014#33:1>
+In salicornia along with leaves some amount of cortex is also removed
+which causes large amount of release of salts. </p>
+
+<ICE-IND:W1A-014#34:1>
+<h> 8 <ul> Salt leaching </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#35:1>
+Salts come in epidermal cells along with water evaporation &
+during rain or water drops the salts are leached out from the epidermal
+cracks or non-continuous epiderms. </p> <del> The classification of
+halophgted </del> <O> tree diagram of Salinity </O> </I>
+
+
+<I> <O> <&> left of margin </&> Que 3 - - a) </O>
+
+<ICE-IND:W1A-014#36:2>
+<h> <ul> Role of proline in drought resistance </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#37:2>
+Proline is <}> <-> a </-> <+> an </+> </}> amino acid<del>e</del>
+( false amino acid because <+> of the </+> presence of imino group ie - NH - ) .
+
+<ICE-IND:W1A-014#38:2>
+During drought the proline content generally increases & in many
+investigated plants the proline accumulation <}> <-> was occure. </-> <+>
+occurs. </+> </}> </p> <O> chemical formula </O>
+
+<p> 
+<ICE-IND:W1A-014#39:2>
+The accumulation proline is due to following <del> reg </del>
+reasons. </p> <O> chemical formula </O>
+
+<p> 
+<ICE-IND:W1A-014#40:2>
+These are the reasons of proline accumulation during drought.
+
+<ICE-IND:W1A-014#41:2>
+The role of proline in drought resistance is very well known.
+
+<ICE-IND:W1A-014#42:2>
+These are as follows : </p> <&> serial number 1 to 6 below are
+circled </&>
+
+<p> 
+<ICE-IND:W1A-014#43:2>
+<h> 1 Recovery after stress - - </h>
+
+<ICE-IND:W1A-014#44:2>
+After completion of stress & getting suitable conditions then it
+provides some energy for recovery. </p>
+
+<ICE-IND:W1A-014#45:2>
+<h> 2 <ul> Osmoregulation </ul> - - </h>
+
+<ICE-IND:W1A-014#46:2>
+
+
+<p> It is one of the most important role of proline:
+
+<ICE-IND:W1A-014#47:2>
+Due to proline the osmotic potential get deceased, consequently the
+<}> <-> transpirabal </-> <+> <?> transferable </?> </+> </}> rate also
+decreased, during drought. </p>
+
+<ICE-IND:W1A-014#48:2>
+<h> 3 Retention of bound water - - </h>
+
+<p> 
+<ICE-IND:W1A-014#49:2>
+Proline keep some amount <+> of </+> water along with it<+>,</+>
+hence can be useful at the time of drought.
+
+<ICE-IND:W1A-014#50:2>
+eg 4 g proline can retain 10 ml water. </p>
+
+<ICE-IND:W1A-014#51:2>
+<h> 4 Source of energy and energy conservation - - </h>
+
+<p> 
+<ICE-IND:W1A-014#52:2>
+The energy which is given off during drought can be utilized for
+proline synthesis. </p>
+
+<ICE-IND:W1A-014#53:2>
+<h> 5 Sink for Nitrogen and carbon - - </h>
+
+<p> 
+<ICE-IND:W1A-014#54:2>
+During drought the proline biosynthesis can act as nitrogen &
+carbon sink which can <+> be </+> used in suitable conditions. </p>
+
+<ICE-IND:W1A-014#55:2>
+<h> 6 <ul> Protection of enzyme </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#56:2>
+Some enzymes can be protected during drought by proline. </p>
+
+<p> 
+<ICE-IND:W1A-014#57:2>
+Even though proline <+> is </+> very useful in drought
+resistance, it is not universal phenomenon shown by plants.
+
+<ICE-IND:W1A-014#58:2>
+Succulents do not accumulate proline.
+
+<ICE-IND:W1A-014#59:2>
+96 species which <}> <-> was </-> <+> were </+> </}> investigated for
+study accumulate proline. </p> </I>
+
+
+<I> <O> ( c) </O>
+
+<ICE-IND:W1A-014#60:3>
+<h> <ul> Effects of DV-radiations on plants </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#61:3>
+The ultra-violet radiations are the electromagnetic radiations
+having small wavelength <}> <-> than </-> <+> as compared to </+> </}> the
+visible light radiations.
+
+<ICE-IND:W1A-014#62:3>
+It induces many effects in plant, when <}> <-> plant </-> <+> it is
+</+> </}> exposed to uv-radiations.
+
+<ICE-IND:W1A-014#63:3>
+The range of D.V. radiation is follows - - </p>
+
+<ICE-IND:W1A-014#64:3>
+100-200 - For DV radiations
+
+<ICE-IND:W1A-014#65:3>
+200-300 - For DV radiations
+
+<ICE-IND:W1A-014#66:3>
+300-400 - Near DV radiations <O> Figure </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W1A-014#67:3>
+Above <}> <-> diagrame show </-> <+> diagram shows </+> </}> some
+effective sites of DV radiation. </p>
+
+<p> 
+<ICE-IND:W1A-014#68:3>
+The enzyme activities get decreased eg RuBP case, PEP case. </p>
+
+<p> 
+<ICE-IND:W1A-014#69:3>
+The DV radiations promote the anthocyanine pigment formation eg.
+<}> <-> The </-> <+> the </+> </}> plants growing on top of the hill produce
+dark coloured flowers as <}> <-> compair </-> <+> compared </+> </}> to
+plants which <+> are </+> present at the base of hill. </p>
+
+<p> 
+<ICE-IND:W1A-014#70:3>
+In some cases flowering promoted or in some cases flowering
+inhibited.
+
+<ICE-IND:W1A-014#71:3>
+Generally during flowering it acts on phytochrome. </p> <O> formula
+</O>
+
+<p> 
+<ICE-IND:W1A-014#72:3>
+Generally the rate of photosynthesis get decreased due to
+inhibition of photosynthetic enzymes. </p>
+
+<p> 
+<ICE-IND:W1A-014#73:3>
+The rate of respiration by DV - gets increased. </p>
+
+<p> 
+<ICE-IND:W1A-014#74:3>
+One more important effect by DV-radiation is mutation or
+chromosomal abnormality.
+
+<ICE-IND:W1A-014#75:3>
+Due to DV rays the formation thymin dimer or uracil dimer takes
+place. </p>
+
+<p> 
+<ICE-IND:W1A-014#76:3>
+The rate of cell division get decreased by DV radiations. </p>
+<*> seven blank lines</*> </I>
+
+
+<I> <O> ( d) </O>
+
+<ICE-IND:W1A-014#77:4>
+<h> <ul> Iron deficiency <-> - </-> and toxicity </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#78:4>
+Generally iron is important nutrient for synthesis of
+chlorophyll.
+
+<ICE-IND:W1A-014#79:4>
+It is one of the essential micronutrient but <}> <-> require </-> <+>
+requires </+> </}> in very <}> <-> few </-> <+> little </+> </}> amount.
+
+<ICE-IND:W1A-014#80:4>
+Generally the iron toxicity <}> <-> occures </-> <+> occurs </+> </}>
+in acidic soil.
+
+<ICE-IND:W1A-014#81:4>
+Iron deficiency generally <}> <-> occure </-> <+> occurs </+> </}> in
+alkaline soil.
+
+<ICE-IND:W1A-014#82:4>
+The iron deficiency <-> is </-> generally <}> <-> occure </-> <+>
+occurs </+> </}> because it forms various carbonates with soil <}> <->
+colloids </-> <+> collides </+> </}> & gets precipitated and these
+precipitated forms are very less soluble or <}> <-> no </-> <+> not </+> </}>
+soluble in water.
+
+<ICE-IND:W1A-014#83:4>
+Generally the acceptable & soluble form of iron is Fe<sp>3+</sp> but
+is highly acidic soil it gets reduced & remains in the form of Fe<sp>2+</sp>
+which is stronger reducing agent & toxic to plant.
+
+<ICE-IND:W1A-014#84:4>
+Some species of iron present in soil <+> are </+>
+
+<ICE-IND:W1A-014#85:4>
+Fe(OH)<sp>+</sp><sb>2</sb>, Fe(OH)<sp>++</sp>
+
+<ICE-IND:W1A-014#86:4>
+<h> <ul> Deficiency symptoms </ul> - - </h> <&> serial numbers 1 to 3
+are circled & on second margin </&>
+
+<p> 
+<ICE-IND:W1A-014#87:4>
+1 It is useful in chlorophyll synthesis so yellowing or chlorosis
+is one of the important <}> <-> symptom. </-> <+> symptoms. </+> </}> </p>
+
+<p> 
+<ICE-IND:W1A-014#88:4>
+2 Stunting of the plant. </p>
+
+<p> 
+<ICE-IND:W1A-014#89:4>
+3 Less nitrogen ( soluble ) content due to Fe deficiency. </p>
+
+<ICE-IND:W1A-014#90:4>
+<h> <ul> Toxicity </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#91:4>
+It is very toxic when present at 10 <del> pp</del>ppm level.
+
+<ICE-IND:W1A-014#92:4>
+Due to Fe toxicity some nutritional or ionic imbalance <}> <-> occure
+</-> <+> occurs </+> </}> because it <}> <-> act </-> <+> acts </+> </}> as
+competative for <}> <-> no. </- > <+> a number </+> </}> of ions like
+K<sp>+</sp>, Ca<sp>+</sp> & so on. </p>
+
+<p> 
+<ICE-IND:W1A-014#93:4>
+Due to Fe toxicity there is precipitation of phosphorus (
+phosphate ) & ultimatly causes phosphorus deficiency. </p>
+
+<p> 
+<ICE-IND:W1A-014#94:4>
+Some necrotic patches can show due to high iron level in soil
+medium, in severe <}> <-> condn </-> <+> conditions </+> </}>
+leaf<+>-</+>fall may <}> <-> occure. </-> <+> occur. </+> </}> </p> </I>
+
+
+<I> <O> Que 2- </O>
+
+<ICE-IND:W1A-014#95:5>
+<h> <ul> Waterlogging </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#96:5>
+It is one of the most serious <}> <-> problem </-> <+> problems
+</+> </}> among the agricultural practices.
+
+<ICE-IND:W1A-014#97:5>
+Waterlogging causes many hazardous effects <}> <-> as </-> <+> to
+</+> </}> plants as well as soil property. </p> <O> two pie charts, one to
+left & one to right across the page </O> <O> captions </O>
+
+<p> 
+<ICE-IND:W1A-014#98:5>
+During water logging the air phase is <}> <-> completly </-> <+>
+completely </+> </}> removed by water and due to this the microflora of soil
+gets <}> <-> completly </-> <+> completely </+> </}> changed & due to oxygen
+deficiency <quote> ` anoxia' </quote> <}> <-> occures. </-> <+> occurs. </+>
+</}> </p>
+
+<ICE-IND:W1A-014#99:5>
+<h> * <ul> Effect on soil properties </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#100:5>
+Anaerobic condition formed & no exchange of air <}> <-> occure
+</-> <+> occurs </+> </}> in waterlogged condition.
+
+<ICE-IND:W1A-014#101:5>
+In normal soil there is exchange of air is 1000 times greater than
+waterlogged soil. </p>
+
+<ICE-IND:W1A-014#102:5>
+<h> Alteration of soil temperature <}> <-> , </-> <+> : </+> </}>
+</h>
+
+<p> 
+<ICE-IND:W1A-014#103:5>
+<}> <-> because </-> <+> Because </+> </}> of the water warm <->
+lately </-> as <}> <-> compair </-> <+> compared </+> </}> to soil and also
+cool <-> lately </-> as <}> <-> compair </-> <+> compared </+> </}> to soil
+so the day temperature get decreased & night <}> <-> temp. </-> <+>
+temperature </+> </}> increased. </p>
+
+<ICE-IND:W1A-014#104:5>
+<h> * <ul> <}> <-> Toxines </-> <+> Toxins </+> </}> </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#105:5>
+During waterlogging condition whatever amount of oxygen present
+in <+> the form of </+> dissolved condition is used by aerobic microorganisms
+& soil <}> <-> completly </-> <+> completely </+> </}> deficit for <-> for
+</-> O<sb>2</sb> at that time aerobic microflora is removed and the place of
+aerobic microflora taken by anaerobic microflora.
+
+<ICE-IND:W1A-014#106:5>
+These anaerobic microorganisms <}> <-> + </-> <+> plus </+> </}>
+used different forms line No<sb>3</sb><sp>-</sp>, So<sb>4</sb><sp>- - </sp>
+for their final electron acceptance & gets changed into NH<sb>3</sb>.
+
+<ICE-IND:W1A-014#107:5>
+In this way the accumulation of marsh gas ( methan ) , ammonia,
+ethylene in toxic level takes place.
+
+<ICE-IND:W1A-014#108:5>
+Some times Fe<sp>3+</sp> also act as final electron acceptor & gets
+changed as Fe<sp>2+</sp> which is toxic. </p>
+
+<ICE-IND:W1A-014#109:5>
+<h> * <ul> Effects of waterlogging on plants </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#110:5>
+The waterlogging causes negative effects on plant development,
+growth & metabolism also.
+
+<ICE-IND:W1A-014#111:5>
+Some of the important effects are as follows. </p> <&> serial number
+1 to 7 are circled </&>
+
+<ICE-IND:W1A-014#112:5>
+<h> 1 <ul> Effect on nutriton </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#113:5>
+Whatever amount of oxygen present in dissolved <}> <-> condn
+</-> <+> condition </+> </}> is removed by microflora & root cells <+> which
+</+> require oxygen for aerobic respiration, so the anaerobic respiration is
+followed by the plants.
+
+<ICE-IND:W1A-014#114:5>
+Only glycolysis call takes place in anaerobic condition so on <del>
+st </del> sufficient amount of nutrients absorbed by plants because generally
+salt uptake is active process. </p>
+
+<ICE-IND:W1A-014#115:5>
+<h> 2 <ul> Growth and development </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#116:5>
+Growth & development greatly affected by waterlogging because it
+causes yellowing of leaves which are the main source & the photosynthetic
+efficiency get reduced which is directly proportional to dry matter
+production. </p>
+
+<ICE-IND:W1A-014#117:5>
+<h> 3 <ul> Damage to roots </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#118:5>
+As roots facing directly to waterlogging condition it damages
+<}> <-> largly. The </-> <+> largely the </+> </}> formation of aercuchyma in
+root cells <}> <-> occure </-> <+> occur </+> </}> because of increasing
+<del> et </del> cellulose activity. </p> <O> Figure </O>
+
+<ICE-IND:W1A-014#119:5>
+<h> 4 <ul> Ultrastructural changes </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#120:5>
+The activity of chlorophyllase enzyme is stimulated by
+waterlogging due to which the breakdown of chlorophyll takes place.
+
+<ICE-IND:W1A-014#121:5>
+Some toxic substances accumulated in the root top <}> <-> cap </->
+<+> capillary </+> </}> cells due to which damage root system of plants.
+
+<ICE-IND:W1A-014#122:5>
+<h> 5 <ul> Water deficiency </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#123:5>
+Due to waterlogging condition there is water deficiency <}> <->
+occure, </-> <+> occurs </+> </}> means literally the plant is in water but
+unable to take water because the water uptake is <}> <-> completly </-> <+>
+completely </+> </}> checked due to damaging root system & less energy
+formation for water uptake. </p>
+
+<ICE-IND:W1A-014#124:5>
+<h> 6 <ul> Effect on metabolism </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#125:5>
+During waterlogging the photosynthetic rate gets decreased
+because the stomata get closed.
+
+<ICE-IND:W1A-014#126:5>
+One more reason for photosynthesis decreasing is the check of the
+transport of photosynthates due to which <-> the assimilates </-> accumulate
+in leaf ultimately <+> and </+> the rate of photosynthes is inhibited. </p>
+
+<p> 
+<ICE-IND:W1A-014#127:5>
+The normal EMP pathway is changed & dominated by ppp. </p>
+
+<ICE-IND:W1A-014#128:5>
+<h> 7 <ul> Hormonal balance </ul> </h>
+
+<p> 
+<ICE-IND:W1A-014#129:5>
+The hormonal changes occur<del>e</del> during waterlogging. <&>
+serial numbers a to e below are circled </&>
+
+<ICE-IND:W1A-014#130:5>
+<h> a <ul> Auxin </ul> - - G </h>
+
+<p> 
+<ICE-IND:W1A-014#131:5>
+Generally the level of auxin increased in shoot because no
+transport of auxin <+> occurs </+> to roots.
+
+<ICE-IND:W1A-014#132:5>
+eg sunflower seedling shows <}> <-> markdly </-> <+> markedly </+>
+</}> increased in auxin level during waterlogging.
+
+<ICE-IND:W1A-014#133:5>
+The shoot tips are only the site of auxin synthesis & the transport
+of auxin is checked. </p>
+
+<ICE-IND:W1A-014#134:5>
+<h> b <ul> Gibberellins </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#135:5>
+Generally the level of gibberllins get decreased because the
+site of gibberlins synthesis <mention> D </mention> root tips & during water
+logging the root tips get damaged. </p>
+
+<ICE-IND:W1A-014#136:5>
+<h> c <ul> Cytokinins </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#137:5>
+The level of cytokinin also decreased during waterlogging. </p>
+<O> graph </O> <O> caption </O>
+
+<ICE-IND:W1A-014#138:5>
+<h> d <ul> Ethylene </ul> - - </h>
+
+<p> 
+<ICE-IND:W1A-014#139:5>
+During water logging the marked increase in ethylene <}> <->
+occures </-> <+> occurs </+> </}> this is because the auxin promotes the
+ethylene biosynthesis. </p> <O> graph </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W1A-014#140:5>
+The <}> <-> precurssur </-> <+> precursor </+> </}> of <mention>
+ethylene </mention> ie SAM and ACC are transported from roots to shoot for
+formation of ethylene because ethylene biosynthesis requries O<sb>2</sb>.
+
+<ICE-IND:W1A-014#141:5>
+In rooting medium also ethylene content increase by the
+micro-organisms. </p>
+
+<p> 
+<ICE-IND:W1A-014#142:5>
+The anaerobic respiration also causes formation of ethenol &
+toxic intermediate. </p> <O> figure </O>
+
+<p> 
+<ICE-IND:W1A-014#143:5>
+Due to ethylene biosynthesis the many changes <}> <-> occure
+</-> <+> occur </+> </}> in plants, ie yellowing or <?> sevensences </?> of
+leaves.
+
+<ICE-IND:W1A-014#144:5>
+Ethylene also causes decrease the other growth hormone levels like
+decrease GF & cytokinine content. </p>
+
+<ICE-IND:W1A-014#145:5>
+<h> e <ul> Abscisic acid </ul> ( ABA ) </h>
+
+<p> 
+<ICE-IND:W1A-014#146:5>
+The Abscisic acid level also increases during water logging.
+
+<ICE-IND:W1A-014#147:5>
+The ABA is stronger agent of stomata closing phenomenon.
+
+<ICE-IND:W1A-014#148:5>
+Due to closing of stomata the rate of phytosynthesis checked and
+ultimatly all the activities of plants get checked. </p> <O> graph </O> <O>
+caption </O> <&> number 8 is circled </&>
+
+<p> 
+<ICE-IND:W1A-014#149:5>
+*8 Formation of adventitions root.
+
+<ICE-IND:W1A-014#150:5>
+It is adaptation for water logging.
+
+<ICE-IND:W1A-014#151:5>
+In sunflower the adventition rooting takes place during water
+logging. </p>
+<I>

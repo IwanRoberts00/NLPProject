@@ -1,0 +1,534 @@
+<I>
+
+<ICE-IND:W2A-037#1:1>
+<h> <bold> Solid Wastes : Sources, Implications and Management </bold>
+</h> <&> author </&>
+
+<ICE-IND:W2A-037#2:1>
+Gopal Dayal
+
+<ICE-IND:W2A-037#3:1>
+<it> Tata Chemicals Ltd., ( Fertilizer Division ) , Post Bag No. </it>
+1, <it> Indira Dham, Babrala </it> - 202 521, <it> Badaun </it>
+
+<p> 
+<ICE-IND:W2A-037#4:1>
+<bold> With the influx of industrial revolution coupled with ever
+escalating urbanisation, increasing consumerism and population exodus, the
+problem of solid wastes has inflated significantly.
+
+<ICE-IND:W2A-037#5:1>
+The paper throws light on various sources of solid wastes and their
+implications on health, environment and economy.
+
+<ICE-IND:W2A-037#6:1>
+Besides it also envisages merits and demerits of various solid waste
+disposal techniques in the light of the recent literature.
+
+<ICE-IND:W2A-037#7:1>
+The paper concludes with the recommendations and suggestions for a
+better menagement of solid wastes. </bold> </p> <&> in two columns </&> <&>
+column one </&>
+
+<p> 
+<ICE-IND:W2A-037#8:1>
+Environment is the sum total of all conditions and influences that
+affect development and life of organisms ( odum, 1977 ) .
+
+<ICE-IND:W2A-037#9:1>
+The environment consists of 4 major components : <mention> Lithosphere
+</mention> ( the outer mantle of solid earth, that is <w> earth's </w> crust
+including soil ) , <mention> atmosphere </mention> ( the protective blanket
+of gases surrounding the earth ) , <mention> hydrosphere </mention> ( all
+types of water sources, such as oceans, lakes, ponds, rivers, etc. ) and
+<mention> biosphere </mention> ( the realm of living organisms and their
+interactions with environment ) .
+
+<ICE-IND:W2A-037#10:1>
+All living species of plants and animals influence their
+environment and vice versa.
+
+<ICE-IND:W2A-037#11:1>
+The extent of such impact is not high in these species.
+
+<ICE-IND:W2A-037#12:1>
+The reason are many; may it be their balanced population due to
+normal checks or their inability to modify the environment.
+
+<ICE-IND:W2A-037#13:1>
+However, man interacts exceptionally with nature and can modify the
+environment in a variety of ways according to his requirements, knowledge
+and values.
+
+<ICE-IND:W2A-037#14:1>
+Ever increasing urbanization, surging population, ramifying
+industries, the green revolution and their aftermath have culminated into an
+altogether different type of problem termed as the environmental
+pollution.
+
+<ICE-IND:W2A-037#15:1>
+Pollution may be described in several ways, for example <mention>
+water pollution </mention> , <mention> air pollution </mention> , <mention>
+heat or thermal pollution </mention> , <mention> agricultural pollution
+</mention> , <mention> noise pollution </mention> , <mention> solid waste
+pollution </mention> , etc., which may be natural or man-made, local,
+national, international or even planetary engulfing the entire
+biosphere.
+
+<ICE-IND:W2A-037#16:1>
+In the present article pollution from solid waste alongwith the
+different aspects of its management are discussed. </p>
+
+<ICE-IND:W2A-037#17:1>
+<h> <bold> SOLID WASTE POLLUTION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-037#18:1>
+Man has been producing the solid wastes during the course of his
+normal activities since the beginning of life.
+
+<ICE-IND:W2A-037#19:1>
+At the very minimum these comprise <mention> food wastes </mention> ,
+<mention> ashes </mention> , <mention> broken utensils </mention> , <mention>
+rags </mention> , etc.
+
+<ICE-IND:W2A-037#20:1>
+In a small agricultural community nature who has nested and nurtured
+us since the time immemorial, readily accepts these wastes into her
+natural cycle : animals consume food remains, vegetables, etc., and other
+materials are rapidly incorporated into the soil.
+
+<ICE-IND:W2A-037#21:1>
+During early periods, solid wastes were conveniently and
+unobtrusively disposed off as the density of population was low with large
+open land space.
+
+<ICE-IND:W2A-037#22:1>
+With the advent of industrialization and urbanization, the problems
+of waste disposal increased.
+
+<ICE-IND:W2A-037#23:1>
+The term <mention> waste </mention> implies that it is of no
+concern and is of no use to anyone.
+
+<ICE-IND:W2A-037#24:1>
+It is a problem precisely because it is a material that is not wanted
+by the producers or consumers who, of course, seek to dispose off it at the
+lowest possible cost.
+
+<ICE-IND:W2A-037#25:1>
+<mention> Solid waste </mention> can be defined as any unwanted
+material, that is not discharged to the atmosphere or via a pipe.
+
+<ICE-IND:W2A-037#26:1>
+It is a term now used internationally to describe <mention>
+non-liquid wastes from domestic, trade, commercial, industrial,
+agricultural </mention> , and from the <mention> public services
+</mention> . </p>
+
+<ICE-IND:W2A-037#27:1>
+<h> <bold> SOURCES, CHARACTERISTICS AND CLASSIFICATION OF
+<mention> SOLID WASTES </mention> </bold> </h>
+
+<p> 
+<ICE-IND:W2A-037#28:1>
+<mention> Solid wastes </mention> come from a wide variety of
+sources and different types are the responsibilities of different
+agencies.
+
+<ICE-IND:W2A-037#29:1>
+These comprise countless different materials : <mention> Dust
+</mention> , <mention> food wastes </mention> , <mention> packing in the form
+of paper </mention> , <mention> metals </mention> , <mention> glass
+</mention> , <mention> wornout clothings </mention> and <mention>
+furnitures </mention> , <mention> garden wastes </mention> formed due to
+<mention> construction </mention> and <mention> demolition processes
+</mention> , <mention> dead bodies of animals and plants </mention> ,
+<mention> pathological wastes </mention> , <mention> hazardous wastes
+</mention> , <mention> radioactive wastes </mention> ( also known as royal
+wastes ) and <mention> agricultural wastes </mention> .
+
+<ICE-IND:W2A-037#30:1>
+A flow diagram of the materials and solid waste generation in our
+technological society is presented in figure 1 ( Tchobanoglous <O> <&>
+page </&> 669 </O> <O> Table 1 & 2 </O> <O> captions </O> <it> et al., </it>
+1977 ) .
+
+<ICE-IND:W2A-037#31:1>
+Refuse characteristics have been known to vary depending upon the
+degree of industrialization, standary of living and <}> <-> dietry </->
+<+> dietary </+> </}> habits of the community.
+
+<ICE-IND:W2A-037#32:1>
+International variations are caused by a variety of factors,
+including wealth, literacy and work habits.
+
+<ICE-IND:W2A-037#33:1>
+The differences are often very great.
+
+<ICE-IND:W2A-037#34:1>
+Residents of large towns seem to throw away more than people in small
+towns.
+
+<ICE-IND:W2A-037#35:1>
+The general rule is that as one goes from a small, poor, traditional
+and illiterate community to a large, rich, moderate and literate one,
+the refuse weight increases the density decreases ( and, therefore, the
+volume increases ) , the <mention> food preparation waste </mention> also
+reduces, the <mention> paper and packing fraction </mention> increases and
+average particle <O> figure 1. </O> <O> caption </O> size increases.
+
+<ICE-IND:W2A-037#36:1>
+However, these trends do not always hold true ( Coad, 1973 ) .
+
+<ICE-IND:W2A-037#37:1>
+A knowledge of physicochemical characteristics in imperative for
+the selection of proper disposal methods.
+
+<ICE-IND:W2A-037#38:1>
+Some important characteristics of the <mention> solid wastes
+</mention> are given in table </p>
+
+<ICE-IND:W2A-037#39:1>
+1. A typical classification of solid wastes has been given by Rogus (
+1964) :
+
+<ICE-IND:W2A-037#40:1>
+Garbage - - <mention> Putrescible ( decomposable ) wastes </mention>
+from <mention> food </mention> , <mention> slaughterhouse </mention> ,
+<mention> canning and freezing industries </mention> , and other sources.
+
+<ICE-IND:W2A-037#41:1>
+2. <mention> Rubbish - - Nonputrescible wastes </mention> , either
+combustible or noncombustible.
+
+<ICE-IND:W2A-037#42:1>
+<mention> Combustible wastes </mention> include <mention> paper
+</mention> , <mention> wood </mention> , <mention> cloth </mention> ,
+<mention> rubber </mention> , <mention> leather </mention> , and <mention>
+garden wastes </mention> .
+
+<ICE-IND:W2A-037#43:1>
+<mention> Noncombustibles </mention> include <mention> metals
+</mention> , <mention> glass </mention> , <mention> ceramics </mention> ,
+<mention> stones </mention> , <mention> dirt </mention> , <mention> masonry
+</mention> , and <mention> some chemicals </mention> .
+
+<ICE-IND:W2A-037#44:1>
+3. Ashes - - <mention> Residues </mention> ( such as cinders and
+flyash ) of the combustion of solid fuels for heating and cooking or the
+incineration of solid wastes by municipal, industrial, and apartment hosue
+incinerators.
+
+<ICE-IND:W2A-037#45:1>
+4. Large wastes - - <mention> Demolition and construction rubble
+</mention> ( pipes, lumber, masonry, brick, plastic, roofing and insulating
+materials ) , <mention> automobiles </mention> , <mention> furniture
+</mention> , <mention> refrigerators </mention> and other home appliances,
+<mention> trees </mention> , <mention> tires </mention> , and other iterms.
+
+<ICE-IND:W2A-037#46:1>
+5. Dead animals - - <mention> Household pets </mention> , <mention>
+birds </mention> , <mention> rodents </mention> , <mention> zoo animals
+</mention> and others.
+
+<ICE-IND:W2A-037#47:1>
+There are also <mention> anatomical and pathological wastes
+</mention> from hospitals. <O> <&> page </&> 670 </O> <O> figure 2 & 3 </O>
+<O> captions </O>
+
+<ICE-IND:W2A-037#48:1>
+6. <mention> Sewage treatment process solids </mention> - - <mention>
+Screenings </mention> , <mention> settled solids </mention> , <mention>
+sludge </mention> .
+
+<ICE-IND:W2A-037#49:1>
+7. <mention> Industrial solid wastes </mention> - - <mention>
+Chemicals </mention> , <mention> paints </mention> , <mention> sand
+</mention> , <mention> explosives </mention> .
+
+<ICE-IND:W2A-037#50:1>
+8. <mention> Mining wastes </mention> - - <mention> <quote> `
+Tailings' </quote> </mention> , <mention> slag heaps </mention> , <mention>
+culm piles </mention> at coal mines.
+
+<ICE-IND:W2A-037#51:1>
+9. <mention> Agricultural wastes </mention> - - <mention> Farm animal
+manure </mention> , <mention> crop residues </mention> , and others.
+
+<ICE-IND:W2A-037#52:1>
+<h> <bold> ENVIRONMENTAL IMPLICATIONS OF SOLID WASTES </bold> </h>
+
+<p> 
+<ICE-IND:W2A-037#53:1>
+The most obvious environmental damage caused by <mention> solid
+wastes </mention> is aesthetics :
+
+<ICE-IND:W2A-037#54:1>
+The ugliness of street litter and the destruction of the beauty of
+countryside by improper dumping of city wastes.
+
+<ICE-IND:W2A-037#55:1>
+However, the crux of solid waste problem which often goes unheeded
+lines in the leachates.
+
+<ICE-IND:W2A-037#56:1>
+The <mention> leachate </mention> is the liquid that has travelled
+solid wastes or other medium and has extracted, dissolved or suspended
+material from it ( ISI, 1981 ) .
+
+<ICE-IND:W2A-037#57:1>
+The <mention> leachates </mention> are known to infiltrate through
+the layers of soil beneath and contaminate the groundwater sources deep
+down to infiltrate through the layers of soil beneath and contaminate the
+groundwater sources deep down ( Heghes <it> et al., </it> 1971; Dayal <it>
+et al., </it> 1991 ) as depicted in figure 2.
+
+<ICE-IND:W2A-037#58:1>
+The leachates from dumping sites or disposal tanks of sewage mixed
+industrial effluents and wastes are more harmful as they contain organic
+compounds, like carcinogenic hydrocarbons, benzene, toluene, etc., and
+chlorinated hydrocarbons all of which are highly poisoneous.
+
+<ICE-IND:W2A-037#59:1>
+Run off from dump-site may deteriorate surface water quality as
+illustrated in figure 3 ( Horvath, 1984; Borden and Yanoschak, 1990 ) .
+
+<ICE-IND:W2A-037#60:1>
+Air pollution may also be caused from the inefficient burning of
+wastes, either in the open air or in plants that lack effective
+treatment facilities for the gaseous effluents ( Berlincioni and Di Domenico,
+1986 ) . </p>
+
+<ICE-IND:W2A-037#61:1>
+<h> <bold> HEALTH IMPLICATIONS OF SOLID WASTES </bold> </h>
+
+<p> 
+<ICE-IND:W2A-037#62:1>
+There are potential risks to health from wastes.
+
+<ICE-IND:W2A-037#63:1>
+They <O> <&> page </&> 671 </O> <O> figure 4. </O> <O> caption </O>
+can cause public health problems indirectly by encouraging the growth of
+population of flies ( which can transmit fever, cholera, dysentry,
+tuberculosis, anthrax, etc. ) , rats ( which can spread plague, murine
+typhus fever, leptospirosis, rabies, rickettsiaplox, etc. ) , cockroaches,
+mosquitoes ( which can cause malaria, yellow fever, dengue, mosquito - -
+borne encephalitis, filariasis, etc. ) , and other pests.
+
+<ICE-IND:W2A-037#64:1>
+Workers involved in collection and disposal of solid wastes are
+directly subjected to health hazards.
+
+<ICE-IND:W2A-037#65:1>
+A study in India found a higher incidences of intestinal parasites
+in collectars of domestic wastes than in the population as a whole (
+Arceivala, 1971 ) , glass, jagged metal and razor blades cause cuts
+which may become infected or lead to tetanus.
+
+<ICE-IND:W2A-037#66:1>
+They are also prone to sprains and back disorders because of heavy
+lifting their job requires.
+
+<ICE-IND:W2A-037#67:1>
+Traffic accidents are another hazard because of the frequent need
+to cross the road ( NSC, 1971 ) .
+
+<ICE-IND:W2A-037#68:1>
+Respiratory disease is a possible consequence of inhaling dust
+from refuse and street sweeping, especially where spitting is common. </p>
+
+<ICE-IND:W2A-037#69:1>
+<h> <bold> GENERATION OF SOLID WASTES </bold> </h>
+
+<p> 
+<ICE-IND:W2A-037#70:1>
+As everyday passed the garbage in the street corner bin spilled
+over sooner that it could be emptied.
+
+<ICE-IND:W2A-037#71:1>
+For instance, in USA each sun sets sees a new mountain to be
+precise 4,10,000 tonne of solid wastes.
+
+<ICE-IND:W2A-037#72:1>
+New York itself throws out 25,000 tonne of solid stink when none of
+the <w> city's </w> 14 landfills in use for more than 25 year, can take any
+more.
+
+<ICE-IND:W2A-037#73:1>
+The amount of solid wastes produced in Canada during 1970 would be
+sufficient to build a 4 lane highway raised three feet above ground level
+stretching from Toranto to Vancouver.
+
+<ICE-IND:W2A-037#74:1>
+In our town backyard, Delhi city collects about 3,000 tonne of
+garbage from its streets everyday, to be thrown into its 5 landfills.
+
+<ICE-IND:W2A-037#75:1>
+The people of Kanpur city everyday discharge 1800 m<sp>3</sp> ( 900
+tonne) of solid wastes and 1700 m<sp>3</sp> of night soil.
+
+<ICE-IND:W2A-037#76:1>
+In India, the per capita production of solid wastes is about 0.35
+kg / day in urban settlements and about 0.20 kg / day in rural areas.
+
+<ICE-IND:W2A-037#77:1>
+On the contrary, U.S. population discards 2.50 kg / day / head of
+solid wastes, Canada 1.64 day / head and U.K. 1.0 kg / day / head.
+
+<ICE-IND:W2A-037#78:1>
+In some other countries the solid waste production rates are given in
+table 2.
+
+<ICE-IND:W2A-037#79:1>
+Increased commercial and industrial activities have, however,
+resulted into an increased release of wastes are known to increase per capita
+waste generation as well.
+
+<ICE-IND:W2A-037#80:1>
+It is repoted that an increase of 1.5 % per <O> <&> page </&> 672
+</O> annum occurs in U.S.A.
+
+<ICE-IND:W2A-037#81:1>
+( Tchobanoglous <it> et al., </it> 1977) .
+
+<ICE-IND:W2A-037#82:1>
+Nagur based CPHERI ( now known as NEE RI ) observations during
+1969-70 in Calcutta showed a per capita increase of 1.33 % per year ( N
+EERI, 1973 ) .
+
+<ICE-IND:W2A-037#83:1>
+In developing countries, like Hongkong, the per capita generation
+rate was 0.73 kg / day which was expercted to go upto 1.33 kg / head / day in
+1986 indicating an increase of 6.08 % / per year. </p>
+
+<ICE-IND:W2A-037#84:1>
+<h> <bold> ECONOMIC IMPLICATIONS OF SOLID WASTES </bold> </h>
+
+<p> 
+<ICE-IND:W2A-037#85:1>
+Municipal agencies spend 20 to 40 % of their annual budget on
+solid waste management in the developing countries ( Cointreau, 1982 ) and
+on average 10 % in India ( NEERI, 1973 ) .
+
+<ICE-IND:W2A-037#86:1>
+Labour and transport absorb 65 % of the operating costs of solid
+waste management programmes.
+
+<ICE-IND:W2A-037#87:1>
+It is common for a city to employ between 2 and 5 workers for each
+1000 population.
+
+<ICE-IND:W2A-037#88:1>
+Three workers 1000 population may represent 1 % of the total
+national work force.
+
+<ICE-IND:W2A-037#89:1>
+Transport is required on a scale of about 1 heavy vehicle / 15,000
+population.
+
+<ICE-IND:W2A-037#90:1>
+Thus solid waste management schemes can absorb upto 1 % of the gross
+national product ( GNP ) . </p>
+
+<ICE-IND:W2A-037#91:1>
+<h> <bold> SOLID WASTE MANAGEMENT </bold> </h>
+
+<p> 
+<ICE-IND:W2A-037#92:1>
+Solid waste management may be defined as that discipline
+associated with the control of generation, storage, collection, transfer and
+transport, process ing, and disposal of solid waste in the proper manner,
+that is in accordance with the suitable measures for general sanitation,
+economics, engineering, conservation, aesthetics, and other environmental
+considerations, as well as responsible to public attitude.
+
+<ICE-IND:W2A-037#93:1>
+In the management, the collection and transport are the important
+factors.
+
+<ICE-IND:W2A-037#94:1>
+The collection work should be carried out under the supervision of
+properly trained staff to obtain the desired results.
+
+<ICE-IND:W2A-037#95:1>
+The success of any collection system depends mainly on the proper
+selection of the collecting equipments.
+
+<ICE-IND:W2A-037#96:1>
+To develop the proper collection system the following factors must
+be considered : ( 1)
+
+<ICE-IND:W2A-037#97:1>
+Population and area of the solid waste collection, ( 2)
+
+<ICE-IND:W2A-037#98:1>
+Topography or configuration of collection area, ( 3)
+
+<ICE-IND:W2A-037#99:1>
+Climatic factors, such as rain fall, wind speed, temperature;
+and height from the sea level, etc., ( 4)
+
+<ICE-IND:W2A-037#100:1>
+Characteristics and qualities of waste product of collecting
+area, ( 5)
+
+<ICE-IND:W2A-037#101:1>
+Types of collecting equipments and availability of modern
+equipments, ( 6)
+
+<ICE-IND:W2A-037#102:1>
+Rate of collection by the staff members and ( 7)
+
+<ICE-IND:W2A-037#103:1>
+Implementation of rules and regulations. </p>
+
+<ICE-IND:W2A-037#104:1>
+<h> <bold> CURRENT PRACTICES OF SOLID WASTE DISPOSAL </bold> </h>
+
+<p> 
+<ICE-IND:W2A-037#105:1>
+One of the easiest ways to get rid of <mention> solid wastes
+</mention> is to dump them simply in a land untitled and inhabitated.
+
+<ICE-IND:W2A-037#106:1>
+However, dwindling land resources have checked this tendency.
+
+<ICE-IND:W2A-037#107:1>
+For proper disposal of these wastes, scientists have evolved various
+methods, like incineration, composting, etc.
+
+<ICE-IND:W2A-037#108:1>
+However, no single menagement option can serve as a panacea for
+our waste problems.
+
+<ICE-IND:W2A-037#109:1>
+Hence, U.S. Environmental Protection Agency encourages
+municipalities to use a mix of solutions to handle solid wastes.
+
+<ICE-IND:W2A-037#110:1>
+( EPA, 19 89a, 1989b ) .
+
+<ICE-IND:W2A-037#111:1>
+Within the range of management options, <mention> EPA </mention>
+suggests a hierarchy for decision makers to consider when planning and
+implementing integrated solid waste management.
+
+<ICE-IND:W2A-037#112:1>
+The first level of hierarchy is source reduction.
+
+<ICE-IND:W2A-037#113:1>
+Recycling, including the composting, is the second level of
+hierarchy.
+
+<ICE-IND:W2A-037#114:1>
+Finally in <w> <mention> EPA's </mention> </w> hierarchy comes waste
+combustion ( incineration ) and landfilling.
+
+<ICE-IND:W2A-037#115:1>
+Landfilling is the only true disposal method.
+
+<ICE-IND:W2A-037#116:1>
+It is a necessary component of waste management since all
+management options produce some residue that must be disposed off
+through landfilling. </p> </I>

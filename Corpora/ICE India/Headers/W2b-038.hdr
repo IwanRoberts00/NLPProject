@@ -1,0 +1,52 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-038</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:popular:
+              technology</category>
+            <wordcount>2117</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-038>
+        <source.type=monograph>
+            <source.title>Science Reporter</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol.31,No-2</series>
+        <publication.statement>
+            <publisher></publisher>
+            <address></address>
+            <place></place>
+            <date>February 1994</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-038</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Biotechnology</main.title>
+            <subtitle>Mummy Daddy</subtitle>
+            <page.nos>26-29</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-038</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Datta</surname>
+                <forenames>Sukanya</forenames>
+                <age></age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

@@ -1,0 +1,1721 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-051#1:1:A>
+Hello Preetam how are you <,,>
+
+<$B> 
+<ICE-IND:S1A-051#2:1:B>
+Fine <,>
+
+<$A> 
+<ICE-IND:S1A-051#3:1:A>
+Hello Preetam how are you <,>
+
+<$B> 
+<ICE-IND:S1A-051#4:1:B>
+Fine <,,>
+
+<$A> 
+<ICE-IND:S1A-051#5:1:A>
+When did you come <,>
+
+<$B> 
+<ICE-IND:S1A-051#6:1:B>
+Yesterday <,>
+
+<$A> 
+<ICE-IND:S1A-051#7:1:A>
+How are your studies going on <,,>
+
+<$B> 
+<ICE-IND:S1A-051#8:1:B>
+Okay <,>
+
+<$A> 
+<ICE-IND:S1A-051#9:1:A>
+How is staff in your college <,,>
+
+<$B> 
+<ICE-IND:S1A-051#10:1:B>
+<w> It's </w> fine <,> fine <w> they'll </w> teach fine
+
+<$A> 
+<ICE-IND:S1A-051#11:1:A>
+What has been <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-051#12:1:B>
+Fine
+
+<$A> 
+<ICE-IND:S1A-051#13:1:A>
+What are you doing Pranam <,>
+
+<$B> 
+<ICE-IND:S1A-051#14:1:B>
+Yes <,,>
+
+<$A> 
+<ICE-IND:S1A-051#15:1:A>
+Studying <,> what you are studying <,>
+
+<$C> 
+<ICE-IND:S1A-051#16:1:C>
+Commerce <,,>
+
+<$A> 
+<ICE-IND:S1A-051#17:1:A>
+In which college <,,>
+
+<$C> 
+<ICE-IND:S1A-051#18:1:C>
+<w> I'm </w> from Junior <,>
+
+<$A> 
+<ICE-IND:S1A-051#19:1:A>
+Junior college <,> how is staff there <,>
+
+<$C> 
+<ICE-IND:S1A-051#20:1:C>
+Fine <,,>
+
+<$A> 
+<ICE-IND:S1A-051#21:1:A>
+Oh Hulibot sir is there <,,>
+
+<ICE-IND:S1A-051#22:1:A>
+Uh who teaches uh <}> <-> your </-> <+> you </+> </}> statistics
+<,>
+
+<$C> 
+<ICE-IND:S1A-051#23:1:C>
+Ha yeah yeah <,,>
+
+<$A> 
+<ICE-IND:S1A-051#24:1:A>
+Ha ha he teaches nice no <,>
+
+<$C> 
+<ICE-IND:S1A-051#25:1:C>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-051#26:1:A>
+He teach he teaches maths also <,,>
+
+<ICE-IND:S1A-051#27:1:A>
+You are coming second year <,,> uh in Dharwar only <,,> Preetam
+<,,>
+
+<$B> 
+<ICE-IND:S1A-051#28:1:B>
+I must see <,>
+
+<$A> 
+<ICE-IND:S1A-051#29:1:A>
+Ha <,>
+
+<$B> 
+<ICE-IND:S1A-051#30:1:B>
+I must see <,,>
+
+<$A> 
+<ICE-IND:S1A-051#31:1:A>
+Come man <,,>
+
+<$B> 
+<ICE-IND:S1A-051#32:1:B>
+Okay <{> <[> I don't know </[>
+
+<$A> 
+<ICE-IND:S1A-051#33:1:A>
+<[> Uh your present </[> </{> friend uh will be alone <,> in
+uh this college
+
+<$B> 
+<ICE-IND:S1A-051#34:1:B>
+Uhm uhm
+
+<$A> 
+<ICE-IND:S1A-051#35:1:A>
+You come and join him <,,>
+
+<$B> 
+<ICE-IND:S1A-051#36:1:B>
+What <,>
+
+<$A> 
+<ICE-IND:S1A-051#37:1:A>
+Please <,,> for my sake you come that second year <,,> then
+
+<$B> 
+<ICE-IND:S1A-051#38:1:B>
+You see man <,> I should get admission no somewhere else <,>
+
+<$A> 
+<ICE-IND:S1A-051#39:1:A>
+You do percentage <,,>
+
+<$B> 
+<ICE-IND:S1A-051#40:1:B>
+What percentage I want ten percentage now now <,,> the last
+ten percentage and <,>
+
+<$A> 
+<ICE-IND:S1A-051#41:1:A>
+Oh if you get admission <,> uh for which college <,,>
+
+<ICE-IND:S1A-051#42:1:A>
+Which college you will apply <,,>
+
+<$B> 
+<ICE-IND:S1A-051#43:1:B>
+Kittel <,,>
+
+<$A> 
+<ICE-IND:S1A-051#44:1:A>
+Want to apply J S F <,,>
+
+<$B> 
+<ICE-IND:S1A-051#45:1:B>
+I will <{> <[> see </[> if I can <w> I'll </w> apply for both
+<{> <[> N T T F <,> J S S kittel and K C O <,>
+
+<$A> 
+<ICE-IND:S1A-051#46:1:A>
+<[> N T T F </[> </{>
+
+<$A> 
+<ICE-IND:S1A-051#47:1:A>
+<[> N T T F </[> </{>
+
+<$A> 
+<ICE-IND:S1A-051#48:1:A>
+N T T F <,,> you will try N T T F <,>
+
+<$B> 
+<ICE-IND:S1A-051#49:1:B>
+No <,,>
+
+<$A> 
+<ICE-IND:S1A-051#50:1:A>
+You Pranam <,,>
+
+<$C> 
+<ICE-IND:S1A-051#51:1:C>
+<w> I'll </w> just study in <,> <w> I'll </w> finish in junior
+college only <,,>
+
+<$A> 
+<ICE-IND:S1A-051#52:1:A>
+Eh what you do next <,> after second year <,>
+
+<$C> 
+<ICE-IND:S1A-051#53:1:C>
+B Com <,,>
+
+<$A> 
+<ICE-IND:S1A-051#54:1:A>
+Now I think uh your <{> <[> <O> one word </O> <,> terminal
+exams are over
+
+<$B> 
+<ICE-IND:S1A-051#55:1:B>
+<[> <O> One word </O> </[> </{>
+
+<$C> 
+<ICE-IND:S1A-051#56:1:C>
+In that case <,,>
+
+<$A> 
+<ICE-IND:S1A-051#57:1:A>
+How were your <,> exams <,,>
+
+<$C> 
+<ICE-IND:S1A-051#58:1:C>
+Fine <,>
+
+<$B> 
+<ICE-IND:S1A-051#59:1:B>
+Mandar what is the <,,>
+
+<$A> 
+<ICE-IND:S1A-051#60:1:A>
+Science <,>
+
+<$B> 
+<ICE-IND:S1A-051#61:1:B>
+Uh <{> <[> second year </[>
+
+<$A> 
+<ICE-IND:S1A-051#62:1:A>
+<[> Science </[> </{> <indig> haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-051#63:1:B>
+You have studied in Basel Mission
+
+<$A> 
+<ICE-IND:S1A-051#64:1:A>
+Uhm <,>
+
+<$B> 
+<ICE-IND:S1A-051#65:1:B>
+Oh oh <,>
+
+<$A> 
+<ICE-IND:S1A-051#66:1:A>
+Morning college ours <,,> yours <,,> afternoon or morning
+
+<$B> 
+<ICE-IND:S1A-051#67:1:B>
+Morning <,> morning
+
+<$A> 
+<ICE-IND:S1A-051#68:1:A>
+Morning <,>
+
+<$B> 
+<ICE-IND:S1A-051#69:1:B>
+Nine to <,> twelve
+
+<$A> 
+<ICE-IND:S1A-051#70:1:A>
+Uhm <,>
+
+<$C> 
+<ICE-IND:S1A-051#71:1:C>
+Means twelve hours time to eleven
+
+<$B> 
+<ICE-IND:S1A-051#72:1:B>
+After eleven practicals <,> I have got practicals <,>
+
+<$C> 
+<ICE-IND:S1A-051#73:1:C>
+Where do you <,>
+
+<$A> 
+<ICE-IND:S1A-051#74:1:A>
+Means you have seven to eleven <,>
+
+<$C> 
+<ICE-IND:S1A-051#75:1:C>
+What are the sports there <,>
+
+<$B> 
+<ICE-IND:S1A-051#76:1:B>
+Sports <,> morning six to <,> eight
+
+<ICE-IND:S1A-051#77:1:B>
+After eight thirty <w> we'll </w> have our tiffin <,> then night
+
+<$A> 
+<ICE-IND:S1A-051#78:1:A>
+What what they will give in tiffin <,,> <O> laughter </O>
+
+<ICE-IND:S1A-051#79:1:A>
+Tell what what what they will give <,> tiffin you didn't didn't
+what they will give <,>
+
+<$B> 
+<ICE-IND:S1A-051#80:1:B>
+For me <,> <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-051#81:1:A>
+Bread or something <,,>
+
+<$B> 
+<ICE-IND:S1A-051#82:1:B>
+<O> One word </O>
+
+<$A> 
+<ICE-IND:S1A-051#83:1:A>
+What they will give in breakfast in your college <,,>
+
+<$B> 
+<ICE-IND:S1A-051#84:1:B>
+Bread <,> toast <,>
+
+<$A> 
+<ICE-IND:S1A-051#85:1:A>
+And tea <,,> or milk
+
+<$B> 
+<ICE-IND:S1A-051#86:1:B>
+Milk we get milk
+
+<$A> 
+<ICE-IND:S1A-051#87:1:A>
+<w> You'll </w> get milk <,>
+
+<ICE-IND:S1A-051#88:1:A>
+How is the <,> food there <,>
+
+<$B> 
+<ICE-IND:S1A-051#89:1:B>
+Not so good <,,>
+
+<$A> 
+<ICE-IND:S1A-051#90:1:A>
+<{> <[> <w> Your're </w> bored </[> I think <,> alone
+
+<$C> 
+<ICE-IND:S1A-051#91:1:C>
+<[> <O> One word </O> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-051#92:1:B>
+What <,>
+
+<$C> 
+<ICE-IND:S1A-051#93:1:C>
+We will go Hubli <,> tomorrow <,,>
+
+<$B> 
+<ICE-IND:S1A-051#94:1:B>
+<w> We'll </w> go to Hubli then <,,> which movie <w> we'll
+</w> go <,,>
+
+<$A> 
+<ICE-IND:S1A-051#95:1:A>
+Oh is <{> <[> it having </[>
+
+<$C> 
+<ICE-IND:S1A-051#96:1:C>
+<[> <mention> Gentleman </mention> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-051#97:1:B>
+<mention> Gentleman </mention> <,,>
+
+<$C> 
+<ICE-IND:S1A-051#98:1:C>
+Or <w> we'll </w> go to <indig> dhaba </indig> <,,>
+
+<$A> 
+<ICE-IND:S1A-051#99:1:A>
+<{> <[> You have foodtime </[> <w> we'll </w> not go to
+<indig> dhaba </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-051#100:1:B>
+<[> You have <O> one word </O> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-051#101:1:B>
+Why <,>
+
+<$A> 
+<ICE-IND:S1A-051#102:1:A>
+<w> We'll </w> go to see movie <,> in Hubli
+
+<$B> 
+<ICE-IND:S1A-051#103:1:B>
+Hubli <,>
+
+<$C> 
+<ICE-IND:S1A-051#104:1:C>
+No <w> we'll </w> not go <,> <.> no </.> now now-a-days <,>
+see we don't get food uh correctly
+
+<$A> 
+<ICE-IND:S1A-051#105:1:A>
+Then <{> <[> then what will do </[>
+
+<$C> 
+<ICE-IND:S1A-051#106:1:C>
+<[> <w> I'm </w> sure <w> we'll </w> </[> </{> not get ticket
+<,,>
+
+<$A> 
+<ICE-IND:S1A-051#107:1:A>
+<w> We'll </w> get <indig> na </indig>
+
+<$B> 
+<ICE-IND:S1A-051#108:1:B>
+Its problem man his house
+
+<$A> 
+<ICE-IND:S1A-051#109:1:A>
+<w> We'll </w> go from <,,>
+
+<$B> 
+<ICE-IND:S1A-051#110:1:B>
+Home <,,>
+
+<$A> 
+<ICE-IND:S1A-051#111:1:A>
+<w> We'll </w> go soon <,>
+
+<$B> 
+<ICE-IND:S1A-051#112:1:B>
+At time <w> we'll </w> go then <,,>
+
+<$A> 
+<ICE-IND:S1A-051#113:1:A>
+<w> We'll </w> go <,> <w> we'll </w> leave Dharwar at uh one
+<w> O'clock </w> <,> <w> we'll </w> reach there at one forty-five two <w>
+O'clock </w> <,>
+
+<ICE-IND:S1A-051#114:1:A>
+Then uh <,>
+
+<$B> 
+<ICE-IND:S1A-051#115:1:B>
+Ah <w> we'll </w> get in two <w> O'clock </w> seat <,,>
+
+<$A> 
+<ICE-IND:S1A-051#116:1:A>
+<w> We'll </w> stand in a queue <,,> and will get ticket <,,>
+
+<ICE-IND:S1A-051#117:1:A>
+Okay <,> tomorrow afternoon
+
+<$B> 
+<ICE-IND:S1A-051#118:1:B>
+<w> We'll </w> also ask our friends also no <,> other friends
+<{> <[> who <,> Girish
+
+<$A> 
+<ICE-IND:S1A-051#119:1:A>
+<[> Who </[> </{>
+
+<$A> 
+<ICE-IND:S1A-051#120:1:A>
+Who <,,>
+
+<$B> 
+<ICE-IND:S1A-051#121:1:B>
+Girish and Nitin <,,>
+
+<$C> 
+<ICE-IND:S1A-051#122:1:C>
+<O> One word </O> is not there <indig> yaar </indig>
+
+<$B> 
+<ICE-IND:S1A-051#123:1:B>
+And then Chatta what about Chatta <,,>
+
+<$A> 
+<ICE-IND:S1A-051#124:1:A>
+I don't know man <,> he not <,> <w> I'm </w> not meeting him
+now-a- days <,,> not seen him <,>
+
+<$B> 
+<ICE-IND:S1A-051#125:1:B>
+He is in house only no <,>
+
+<$A> 
+<ICE-IND:S1A-051#126:1:A>
+His house <,> he is <,> uh going to college <,,> K K <{> <[>
+diploma electronics </[>
+
+<$B> 
+<ICE-IND:S1A-051#127:1:B>
+<[> Where are the <O> one word </O> </[> </{> <,>
+
+<$A> 
+<ICE-IND:S1A-051#128:1:A>
+Exams are going on <,>
+
+<$B> 
+<ICE-IND:S1A-051#129:1:B>
+Uhn <,>
+
+<$A> 
+<ICE-IND:S1A-051#130:1:A>
+<indig> Haan </indig> his exams are going on <,,>
+
+<$B> 
+<ICE-IND:S1A-051#131:1:B>
+Then <,> uh <w> we'll </w> go by bus no <,>
+
+<$A> 
+<ICE-IND:S1A-051#132:1:A>
+Okay <,> tomorrow afternoon <,>
+
+<$B> 
+<ICE-IND:S1A-051#133:1:B>
+<w> We'll </w> go in <,> uh what is that uh Ramnagar <,> in
+Hubli <,,>
+
+<$A> 
+<ICE-IND:S1A-051#134:1:A>
+It will be late <,> uh it will go round
+
+<$B> 
+<ICE-IND:S1A-051#135:1:B>
+No why it will be <{> <[> late at </[> eleven thirty <,,>
+
+<$A> 
+<ICE-IND:S1A-051#136:1:A>
+<[> It will go </[> </{>
+
+<$A> 
+<ICE-IND:S1A-051#137:1:A>
+It will be allowed then what about <,> Pranam <w> you'll </w>
+come <,>
+
+<$C> 
+<ICE-IND:S1A-051#138:1:C>
+<indig> Haan </indig> <,,>
+
+<$A> 
+<ICE-IND:S1A-051#139:1:A>
+Sure <,>
+
+<$C> 
+<ICE-IND:S1A-051#140:1:C>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-051#141:1:B>
+In uh <,> we have with <,> <w> we'll </w> have our food there
+only and come no
+
+<$A> 
+<ICE-IND:S1A-051#142:1:A>
+There only <,>
+
+<ICE-IND:S1A-051#143:1:A>
+What time <w> we'll </w> come back <,>
+
+<ICE-IND:S1A-051#144:1:A>
+Uhn what time <w> we'll </w> come back <,>
+
+<$B> 
+<ICE-IND:S1A-051#145:1:B>
+Eight <w> O'clock </w> <,,>
+
+<$A> 
+<ICE-IND:S1A-051#146:1:A>
+No it will be too late <,>
+
+<$B> 
+<ICE-IND:S1A-051#147:1:B>
+Uh what <,,> <w> we'll </w> have our <indig> aram se aram se
+</indig> <w> we'll </w> have our food and come <,,>
+
+<$A> 
+<ICE-IND:S1A-051#148:1:A>
+Okay <,> we will go tomorrow <,>
+
+<$B> 
+<ICE-IND:S1A-051#149:1:B>
+Hubli <,>
+
+<$A> 
+<ICE-IND:S1A-051#150:1:A>
+<indig> Pakka </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-051#151:1:B>
+<indig> Haan pakka </indig> <,> you ask uh <,> this friend of
+you uh this <,>
+
+<$A> 
+<ICE-IND:S1A-051#152:1:A>
+I will bring my two friends <,>
+
+<$B> 
+<ICE-IND:S1A-051#153:1:B>
+Okay <,>
+
+<$A> 
+<ICE-IND:S1A-051#154:1:A>
+Vilas and Ramesh <,,> they uh <,> they make noise man <,>
+
+<$B> 
+<ICE-IND:S1A-051#155:1:B>
+Let it be man <,> all <O> one or two words in Kannada </O>
+what to do <,> <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-051#156:1:A>
+Yeah that is there <,>
+
+<$B> 
+<ICE-IND:S1A-051#157:1:B>
+Get them get them <,>
+
+<$A> 
+<ICE-IND:S1A-051#158:1:A>
+<{> <[> Uh uh yesterday </[> you saw film in <indig>
+Doordarshan </indig> <{> <[> which one <,,> at night eleven thirty <,>
+
+<$B> 
+<ICE-IND:S1A-051#159:1:B>
+<[> <w> Let's </w> have fun </[> </{>
+
+<$B> 
+<ICE-IND:S1A-051#160:1:B>
+<[> Which one </[> </{>
+
+<$B> 
+<ICE-IND:S1A-051#161:1:B>
+Which one <,,>
+
+<$A> 
+<ICE-IND:S1A-051#162:1:A>
+Uh it was horror <,>
+
+<$B> 
+<ICE-IND:S1A-051#163:1:B>
+Horror movie <,>
+
+<$A> 
+<ICE-IND:S1A-051#164:1:A>
+Yeah horror movie <,>
+
+<$B> 
+<ICE-IND:S1A-051#165:1:B>
+I didn't know man <,>
+
+<ICE-IND:S1A-051#166:1:B>
+Did you watch Pranam
+
+<$A> 
+<ICE-IND:S1A-051#167:1:A>
+You have to see
+
+<$C> 
+<ICE-IND:S1A-051#168:1:C>
+No <,>
+
+<$A> 
+<ICE-IND:S1A-051#169:1:A>
+Nice movie <,>
+
+<$C> 
+<ICE-IND:S1A-051#170:1:C>
+Did you get it recorded <,>
+
+<$A> 
+<ICE-IND:S1A-051#171:1:A>
+No man <,,>
+
+<$B> 
+<ICE-IND:S1A-051#172:1:B>
+Pranam when is your birthday
+
+<$A> 
+<ICE-IND:S1A-051#173:1:A>
+How to get it recorded
+
+<$C> 
+<ICE-IND:S1A-051#174:1:C>
+Uhn
+
+<$B> 
+<ICE-IND:S1A-051#175:1:B>
+When is your birthday Pranam <,>
+
+<$C> 
+<ICE-IND:S1A-051#176:1:C>
+My birthday <,>
+
+<$B> 
+<ICE-IND:S1A-051#177:1:B>
+Fifth uh <,> then it is coming <,> soon no <,>
+
+<$C> 
+<ICE-IND:S1A-051#178:1:C>
+Yes <,> <w> I'll </w> go to Hubli <,> by next week <,> to buy
+clothes <,>
+
+<$B> 
+<ICE-IND:S1A-051#179:1:B>
+Then what about <,>
+
+<$A> 
+<ICE-IND:S1A-051#180:1:A>
+What you will buy <,>
+
+<$C> 
+<ICE-IND:S1A-051#181:1:C>
+Clothes and shoes <,>
+
+<$A> 
+<ICE-IND:S1A-051#182:1:A>
+<.> Wha wha </.> what clothes what type of clothes <,>
+
+<$C> 
+<ICE-IND:S1A-051#183:1:C>
+Jeans <,,>
+
+<$A> 
+<ICE-IND:S1A-051#184:1:A>
+Jeans then <,,>
+
+<$C> 
+<ICE-IND:S1A-051#185:1:C>
+Cotton shirt <,>
+
+<$B> 
+<ICE-IND:S1A-051#186:1:B>
+Then you are not going to stitch for Diwali <,>
+
+<$A> 
+<ICE-IND:S1A-051#187:1:A>
+<indig> Haan </indig> yes <,>
+
+<$B> 
+<ICE-IND:S1A-051#188:1:B>
+Separate one <,,>
+
+<$A> 
+<ICE-IND:S1A-051#189:1:A>
+Ha nice <.> ba </.> <w> I'll </w> I won't have
+
+<$B> 
+<ICE-IND:S1A-051#190:1:B>
+<w> I'm </w> taking full pants and bushirts for Diwali <,>
+
+<ICE-IND:S1A-051#191:1:B>
+What about you Mandar <,>
+
+<$A> 
+<ICE-IND:S1A-051#192:1:A>
+Uh nice yours <,> in my home <w> they'll </w> not stitch <,>
+what to do <,,>
+
+<ICE-IND:S1A-051#193:1:A>
+<w> They'll </w> give it my birthday <,,>
+
+<ICE-IND:S1A-051#194:1:A>
+All <w> they'll </w> make <,> and give it on my birthday <,,> gift
+<,,>
+
+<ICE-IND:S1A-051#195:1:A>
+Now <w> you're </w> celebrate <,> <w> you're </w> celebrating your
+birthday <,>
+
+<$C> 
+<ICE-IND:S1A-051#196:1:C>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-051#197:1:B>
+That time we will also go to Hubli no
+
+<$A> 
+<ICE-IND:S1A-051#198:1:A>
+If <,> you are you are <.> goi </.> going to give a party <,>
+
+<$C> 
+<ICE-IND:S1A-051#199:1:C>
+Not so grand but light <,>
+
+<$A> 
+<ICE-IND:S1A-051#200:1:A>
+Uh <,>
+
+<$C> 
+<ICE-IND:S1A-051#201:1:C>
+Not so grand but light one <,>
+
+<$A> 
+<ICE-IND:S1A-051#202:1:A>
+Light one <,>
+
+<$B> 
+<ICE-IND:S1A-051#203:1:B>
+Light party <,>
+
+<$A> 
+<ICE-IND:S1A-051#204:1:A>
+Whom you are calling
+
+<$B> 
+<ICE-IND:S1A-051#205:1:B>
+In uh at house only or in hotel
+
+<$C> 
+<ICE-IND:S1A-051#206:1:C>
+All friends <,>
+
+<$B> 
+<ICE-IND:S1A-051#207:1:B>
+At house only or at hotel <,>
+
+<$C> 
+<ICE-IND:S1A-051#208:1:C>
+At house only <,>
+
+<$A> 
+<ICE-IND:S1A-051#209:1:A>
+Call friends who <,,>
+
+<$C> 
+<ICE-IND:S1A-051#210:1:C>
+Call some friends <,>
+
+<$B> 
+<ICE-IND:S1A-051#211:1:B>
+This man <,> Girish also said <O> two words </O> <,> birthday
+no
+
+<$C> 
+<ICE-IND:S1A-051#212:1:C>
+I know <,>
+
+<$A> 
+<ICE-IND:S1A-051#213:1:A>
+Uh I forgot his birthday date <,>
+
+<ICE-IND:S1A-051#214:1:A>
+What is his date <,>
+
+<$B> 
+<ICE-IND:S1A-051#215:1:B>
+Which uh <,> uh October first I think
+
+<$C> 
+<ICE-IND:S1A-051#216:1:C>
+Ha <,>
+
+<$A> 
+<ICE-IND:S1A-051#217:1:A>
+October first still back <,,>
+
+<$B> 
+<ICE-IND:S1A-051#218:1:B>
+Uhn <,>
+
+<$A> 
+<ICE-IND:S1A-051#219:1:A>
+He <O> two words </O> he did not call me <,,>
+
+<$C> 
+<ICE-IND:S1A-051#220:1:C>
+Yeah you were not there I and Girish went to your house <,>
+
+<$B> 
+<ICE-IND:S1A-051#221:1:B>
+And remember we were invited <O> one word </O>
+
+<$A> 
+<ICE-IND:S1A-051#222:1:A>
+Uh I had <O> one word </O> house <,>
+
+<$B> 
+<ICE-IND:S1A-051#223:1:B>
+And when are they going to start your college <,>
+
+<$A> 
+<ICE-IND:S1A-051#224:1:A>
+Start college uh <,> twenty sixth <,>
+
+<$B> 
+<ICE-IND:S1A-051#225:1:B>
+Yours Pranam
+
+<$C> 
+<ICE-IND:S1A-051#226:1:C>
+Same twenty sixth <,>
+
+<$B> 
+<ICE-IND:S1A-051#227:1:B>
+And uh I am going for <,> I am going to <O> one word </O>
+return <,>
+
+<$A> 
+<ICE-IND:S1A-051#228:1:A>
+Twenty seventh <,>
+
+<$B> 
+<ICE-IND:S1A-051#229:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-051#230:1:A>
+When you will come back <,>
+
+<ICE-IND:S1A-051#231:1:A>
+When you will come back <,,>
+
+<$B> 
+<ICE-IND:S1A-051#232:1:B>
+I have to see <,>
+
+<$A> 
+<ICE-IND:S1A-051#233:1:A>
+Ha <,>
+
+<$C> 
+<ICE-IND:S1A-051#234:1:C>
+Advait is also going <,>
+
+<$B> 
+<ICE-IND:S1A-051#235:1:B>
+Yes but he has got uh
+
+<$C> 
+<ICE-IND:S1A-051#236:1:C>
+For sports
+
+<$B> 
+<ICE-IND:S1A-051#237:1:B>
+No but he has his uh appointment in Dental college <,> about
+teeth about
+
+<$C> 
+<ICE-IND:S1A-051#238:1:C>
+About sports
+
+<$B> 
+<ICE-IND:S1A-051#239:1:B>
+Yeah rurals <,,>
+
+<$A> 
+<ICE-IND:S1A-051#240:1:A>
+Rurals
+
+<$B> 
+<ICE-IND:S1A-051#241:1:B>
+Uhm otherwise <w> we'll </w> have
+
+<$A> 
+<ICE-IND:S1A-051#242:1:A>
+Which <?> topics </?> <,>
+
+<ICE-IND:S1A-051#243:1:A>
+Which topics
+
+<$B> 
+<ICE-IND:S1A-051#244:1:B>
+Rural selection national selection
+
+<$A> 
+<ICE-IND:S1A-051#245:1:A>
+Rurals
+
+<$B> 
+<ICE-IND:S1A-051#246:1:B>
+Rural <,> national selection
+
+<$A> 
+<ICE-IND:S1A-051#247:1:A>
+National selection <,> <indig> wah </indig> nice man <,>
+
+<ICE-IND:S1A-051#248:1:A>
+In our college no sports nothing <,,>
+
+<$B> 
+<ICE-IND:S1A-051#249:1:B>
+Now what is there in sports for a
+
+<$A> 
+<ICE-IND:S1A-051#250:1:A>
+Even Badminton is also not there <,> in our college <,> only
+uh volley ball and football
+
+<$C> 
+<ICE-IND:S1A-051#251:1:C>
+Hockey <,,>
+
+<$A> 
+<ICE-IND:S1A-051#252:1:A>
+Yesterday I had gone to market <,> to see the fair <,>
+
+<$B> 
+<ICE-IND:S1A-051#253:1:B>
+Which one <,,>
+
+<$A> 
+<ICE-IND:S1A-051#254:1:A>
+That fair man
+
+<$B> 
+<ICE-IND:S1A-051#255:1:B>
+Aa ha <,>
+
+<$C> 
+<ICE-IND:S1A-051#256:1:C>
+Today it was <O> one word </O>
+
+<$A> 
+<ICE-IND:S1A-051#257:1:A>
+Ah ha <,,> that uh which what is that <,> uhm Nagareshwar
+fair <,> fair <,,> whether you had gone to see <,,>
+
+<$C> 
+<ICE-IND:S1A-051#258:1:C>
+No <,,>
+
+<$A> 
+<ICE-IND:S1A-051#259:1:A>
+Why <,,>
+
+<ICE-IND:S1A-051#260:1:A>
+You are watching movie
+
+<$B> 
+<ICE-IND:S1A-051#261:1:B>
+Its far away from my house <,>
+
+<$A> 
+<ICE-IND:S1A-051#262:1:A>
+You are watching moving in your house <,>
+
+<$B> 
+<ICE-IND:S1A-051#263:1:B>
+Ha <,>
+
+<$A> 
+<ICE-IND:S1A-051#264:1:A>
+Ha <,,>
+
+<$B> 
+<ICE-IND:S1A-051#265:1:B>
+<O> A few words </O>
+
+<$A> 
+<ICE-IND:S1A-051#266:1:A>
+Hey you have <}> <-> took </-> <+> taken </+> </}> cable <,>
+
+<$B> 
+<ICE-IND:S1A-051#267:1:B>
+Yeah <,,>
+
+<$A> 
+<ICE-IND:S1A-051#268:1:A>
+Yesterday you saw movie in it <,>
+
+<$B> 
+<ICE-IND:S1A-051#269:1:B>
+Which one <,>
+
+<$A> 
+<ICE-IND:S1A-051#270:1:A>
+Afternoon <,> <mention> <indig> Junoon </indig> </mention>
+<,>
+
+<$B> 
+<ICE-IND:S1A-051#271:1:B>
+No we have our <,> we have our different line connection <,>
+
+<$A> 
+<ICE-IND:S1A-051#272:1:A>
+Different dish antenna <,> yours Pranam <,>
+
+<$C> 
+<ICE-IND:S1A-051#273:1:C>
+Ours is also different <,,>
+
+<$B> 
+<ICE-IND:S1A-051#274:1:B>
+We yesterday we had got uh this
+
+<$A> 
+<ICE-IND:S1A-051#275:1:A>
+Uh who <,> what is your <w> owner's </w> name <,>
+
+<$B> 
+<ICE-IND:S1A-051#276:1:B>
+Mr <{> <[> Lankadish </[>
+
+<$C> 
+<ICE-IND:S1A-051#277:1:C>
+<[> Nettle </[> </{>
+
+<$A> 
+<ICE-IND:S1A-051#278:1:A>
+Uh <,>
+
+<$C> 
+<ICE-IND:S1A-051#279:1:C>
+Nettle <,>
+
+<$A> 
+<ICE-IND:S1A-051#280:1:A>
+Nettle yours <,,>
+
+<$B> 
+<ICE-IND:S1A-051#281:1:B>
+What is that uh <,> periwinkle what is that <,> that is
+
+<$A> 
+<ICE-IND:S1A-051#282:1:A>
+Pawan <,>
+
+<$B> 
+<ICE-IND:S1A-051#283:1:B>
+Pawan <,,>
+
+<$A> 
+<ICE-IND:S1A-051#284:1:A>
+Uh which film he had put yesterday <,>
+
+<$B> 
+<ICE-IND:S1A-051#285:1:B>
+<mention> <indig> Gardish </indig> </mention> <,> okay <{>
+<[> nice film </[>
+
+<$C> 
+<ICE-IND:S1A-051#286:1:C>
+<[> Ours </[> uh there was uh <mention> <indig> Maine Pyar
+Kiya </indig> </mention> <,>
+
+<$A> 
+<ICE-IND:S1A-051#287:1:A>
+In yours <,>
+
+<$C> 
+<ICE-IND:S1A-051#288:1:C>
+Ha <,>
+
+<$A> 
+<ICE-IND:S1A-051#289:1:A>
+<mention> <indig> Gardish </indig> </mention> how it is <,>
+
+<$B> 
+<ICE-IND:S1A-051#290:1:B>
+Yeah nice movie <,> horrible movie <,,> you just watch it
+once <,>
+
+<$A> 
+<ICE-IND:S1A-051#291:1:A>
+Who is the hero <,>
+
+<$B> 
+<ICE-IND:S1A-051#292:1:B>
+Jackie Shroff <,>
+
+<$A> 
+<ICE-IND:S1A-051#293:1:A>
+Then <,,> heroine <,>
+
+<$B> 
+<ICE-IND:S1A-051#294:1:B>
+Some new actress I don't know <,> don't know her name
+
+<$A> 
+<ICE-IND:S1A-051#295:1:A>
+Okay <,>
+
+<$B> 
+<ICE-IND:S1A-051#296:1:B>
+You saw that Khalnayak <,> <O> cough </O>
+
+<$A> 
+<ICE-IND:S1A-051#297:1:A>
+Khalnayak I saw it <,,>
+
+<ICE-IND:S1A-051#298:1:A>
+Such a boring movie
+
+<$B> 
+<ICE-IND:S1A-051#299:1:B>
+Yeah no man <,> good movie I have watched <,> I had watched
+it in Bangalore <,,>
+
+<$A> 
+<ICE-IND:S1A-051#300:1:A>
+When <,>
+
+<$B> 
+<ICE-IND:S1A-051#301:1:B>
+Uh <,> some two months back <,>
+
+<$A> 
+<ICE-IND:S1A-051#302:1:A>
+You had gone to Bangalore <,>
+
+<$B> 
+<ICE-IND:S1A-051#303:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-051#304:1:A>
+Why <,> what reason
+
+<$B> 
+<ICE-IND:S1A-051#305:1:B>
+Sports <,>
+
+<$A> 
+<ICE-IND:S1A-051#306:1:A>
+Sports <,>
+
+<$B> 
+<ICE-IND:S1A-051#307:1:B>
+Uhm <,,>
+
+<$A> 
+<ICE-IND:S1A-051#308:1:A>
+Okay <,,> uh <,,> for what reason uh you went to Bangalore
+<,>
+
+<$B> 
+<ICE-IND:S1A-051#309:1:B>
+Sports man <,>
+
+<$A> 
+<ICE-IND:S1A-051#310:1:A>
+Uh which trophy <,,>
+
+<$B> 
+<ICE-IND:S1A-051#311:1:B>
+Uhm Association trophy <,>
+
+<$A> 
+<ICE-IND:S1A-051#312:1:A>
+You won or <,> you won uh <,>
+
+<$B> 
+<ICE-IND:S1A-051#313:1:B>
+We won three matches and we lost one match <,> then our
+points were <,> uh like <O> one word </O>
+
+<$A> 
+<ICE-IND:S1A-051#314:1:A>
+You lost semifinal or final <,,>
+
+<$B> 
+<ICE-IND:S1A-051#315:1:B>
+Semifinal <,,> we got a third place there <,,>
+
+<$A> 
+<ICE-IND:S1A-051#316:1:A>
+What about your match Pranam <,> cricket match <,,>
+
+<ICE-IND:S1A-051#317:1:A>
+What happen <,,> uhn
+
+<$C> 
+<ICE-IND:S1A-051#318:1:C>
+No I did not go there <,>
+
+<$A> 
+<ICE-IND:S1A-051#319:1:A>
+Why <,,>
+
+<$C> 
+<ICE-IND:S1A-051#320:1:C>
+I have got my leg pain <,,>
+
+<$A> 
+<ICE-IND:S1A-051#321:1:A>
+Hey you <?> sur be </?> like that only <,>
+
+<ICE-IND:S1A-051#322:1:A>
+Whenever I ask <,> I have got leg pain I have got stomach pain you
+will say <,> what man you must play
+
+<$B> 
+<ICE-IND:S1A-051#323:1:B>
+What are you doing during <mention> Dassera </mention> <,>
+
+<$A> 
+<ICE-IND:S1A-051#324:1:A>
+<mention> Dassera </mention> means
+
+<$C> 
+<ICE-IND:S1A-051#325:1:C>
+I do not know <,>
+
+<$B> 
+<ICE-IND:S1A-051#326:1:B>
+Twenty-fourth no <,>
+
+<$A> 
+<ICE-IND:S1A-051#327:1:A>
+Ha I think <,> I can manage <,,> okay
+
+<$B> 
+<ICE-IND:S1A-051#328:1:B>
+Hey where <O> two words </O>
+
+<$C> 
+<ICE-IND:S1A-051#329:1:C>
+<O> One or two words </O> don't know <w> what's </w> there
+
+<$A> 
+<ICE-IND:S1A-051#330:1:A>
+Ah <,>
+
+<$B> 
+<ICE-IND:S1A-051#331:1:B>
+In Bangalore <,,> I had <}> <-> saw </-> <+> seen </+> </}>
+in one Jordan poster man but I did not get <,> because <O> two words </O> it
+was very terrible
+
+<$A> 
+<ICE-IND:S1A-051#332:1:A>
+Today in cable television he is going to put our <,> our uh
+<,,> dish antenna <,> cable he is going to put <,,> uh <mention> <indig>
+Khalnayak </indig> </mention>
+
+<$B> 
+<ICE-IND:S1A-051#333:1:B>
+<mention> <indig> Khalnayak </indig> </mention> <,,> <w>
+let's </w> see what <{> <[> he puts today </[>
+
+<$C> 
+<ICE-IND:S1A-051#334:1:C>
+<[> Ours will be </[> </{> that <,,>
+
+<ICE-IND:S1A-051#335:1:C>
+We told him yesterday <,> to show <mention> <indig> Gardish
+</indig> </mention> <,,>
+
+<$B> 
+<ICE-IND:S1A-051#336:1:B>
+Uh its very fine you know <mention> <indig> Gardish </indig>
+</mention> <,,> cable movie <,> its
+
+<$A> 
+<ICE-IND:S1A-051#337:1:A>
+Today <w> you'll </w> see or <,> Pranam <,>
+
+<$C> 
+<ICE-IND:S1A-051#338:1:C>
+Yeah <,,>
+
+<$A> 
+<ICE-IND:S1A-051#339:1:A>
+Uh where have you kept your account <,,>
+
+<$B> 
+<ICE-IND:S1A-051#340:1:B>
+Which account
+
+<$A> 
+<ICE-IND:S1A-051#341:1:A>
+Money account <,>
+
+<$B> 
+<ICE-IND:S1A-051#342:1:B>
+Bank <,>
+
+<$A> 
+<ICE-IND:S1A-051#343:1:A>
+Uh you have opened it <,,>
+
+<$B> 
+<ICE-IND:S1A-051#344:1:B>
+Oh yeah <,,> in Chandargi I put <,>
+
+<$A> 
+<ICE-IND:S1A-051#345:1:A>
+Which bank
+
+<ICE-IND:S1A-051#346:1:A>
+Which bank
+
+<$B> 
+<ICE-IND:S1A-051#347:1:B>
+<mention> Syndicate Bank </mention> <,> Chandargi only
+
+<$A> 
+<ICE-IND:S1A-051#348:1:A>
+You Pranam <,,>
+
+<$C> 
+<ICE-IND:S1A-051#349:1:C>
+In <mention> Karnataka Bank </mention> <,>
+
+<$A> 
+<ICE-IND:S1A-051#350:1:A>
+Uh I have put in bank Tokyo <,,> here only there is a new
+bank man <,> and that he has uh kept it a nick name <,>
+
+<ICE-IND:S1A-051#351:1:A>
+But its bank <mention> State Bank of India </mention> <,> also <,>
+
+<ICE-IND:S1A-051#352:1:A>
+There interest how it is there interest <,> what percent
+
+<$C> 
+<ICE-IND:S1A-051#353:1:C>
+Six percent <,,>
+
+<$A> 
+<ICE-IND:S1A-051#354:1:A>
+Our bank is <,> two percent man
+
+<$B> 
+<ICE-IND:S1A-051#355:1:B>
+Don't know what type of <,> three percent I think <,>
+<mention> Syndicate Bank </mention>
+
+<$C> 
+<ICE-IND:S1A-051#356:1:C>
+But I have put it fixed only <,,>
+
+<$B> 
+<ICE-IND:S1A-051#357:1:B>
+How much your deposit <,>
+
+<$C> 
+<ICE-IND:S1A-051#358:1:C>
+Uh ha
+
+<$B> 
+<ICE-IND:S1A-051#359:1:B>
+How much you have deposit <,>
+
+<$A> 
+<ICE-IND:S1A-051#360:1:A>
+Oh God <,>
+
+<$B> 
+<ICE-IND:S1A-051#361:1:B>
+Deposited money you no <,>
+
+<$A> 
+<ICE-IND:S1A-051#362:1:A>
+Uh I <,>
+
+<$C> 
+<ICE-IND:S1A-051#363:1:C>
+I have fixed it
+
+<$A> 
+<ICE-IND:S1A-051#364:1:A>
+Ah you know <,> <w> I've </w> got in taking lottery <,,>
+
+<$C> 
+<ICE-IND:S1A-051#365:1:C>
+I think <,> once you have got in <,> you no <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-051#366:1:A>
+Haveri teacher <,>
+
+<$B> 
+<ICE-IND:S1A-051#367:1:B>
+And we have <,> you know our school discipline <,> <w> it's
+</w> fun
+
+<$A> 
+<ICE-IND:S1A-051#368:1:A>
+Funny <,>
+
+<$C> 
+<ICE-IND:S1A-051#369:1:C>
+Like that we <O> one or two words </O> <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-051#370:1:A>
+Sitting on we come for <,>
+
+<$B> 
+<ICE-IND:S1A-051#371:1:B>
+We had very much fun </O> laughter </O> that taken beating
+from that <,>
+
+<$C> 
+<ICE-IND:S1A-051#372:1:C>
+Lamani <,>
+
+<$B> 
+<ICE-IND:S1A-051#373:1:B>
+Lamani <O> a few words </O> that trained teacher <O> laughter
+</O>
+
+<$A> 
+<ICE-IND:S1A-051#374:1:A>
+Uh that George man <,> classmate he is the boy <O> one word
+</O> but she caught
+
+<$B> 
+<ICE-IND:S1A-051#375:1:B>
+What man <,> George <,> did he trouble <,>
+
+<$A> 
+<ICE-IND:S1A-051#376:1:A>
+A very tall boy <,,> <{> <[> what you know </[>
+
+<$C> 
+<ICE-IND:S1A-051#377:1:C>
+<[> He is in our </[> </{> college only <,,>
+
+<$A> 
+<ICE-IND:S1A-051#378:1:A>
+Your classmate <,,>
+
+<$C> 
+<ICE-IND:S1A-051#379:1:C>
+Uhm
+
+<$B> 
+<ICE-IND:S1A-051#380:1:B>
+He has taken commerce <,,>
+
+<$C> 
+<ICE-IND:S1A-051#381:1:C>
+Yes <,>
+
+<$A> 
+<ICE-IND:S1A-051#382:1:A>
+Commerce uh <,,> commerce I think very tough for
+
+<$B> 
+<ICE-IND:S1A-051#383:1:B>
+Did you take your library card
+
+<$C> 
+<ICE-IND:S1A-051#384:1:C>
+Yes taken <,>
+
+<$B> 
+<ICE-IND:S1A-051#385:1:B>
+How much you paid for it <,>
+
+<$C> 
+<ICE-IND:S1A-051#386:1:C>
+Five <,,>
+
+<$B> 
+<ICE-IND:S1A-051#387:1:B>
+Five <indig> rupees </indig> <,> you have got that identity
+card <,>
+
+<$C> 
+<ICE-IND:S1A-051#388:1:C>
+<w> I've </w> got <,,>
+
+<$A> 
+<ICE-IND:S1A-051#389:1:A>
+Mine is lost man <,,>
+
+<ICE-IND:S1A-051#390:1:A>
+Somebody picked it up <,,>
+
+<ICE-IND:S1A-051#391:1:A>
+Hey <w> you've </w> got library in your college
+
+<$B> 
+<ICE-IND:S1A-051#392:1:B>
+Yeah <,,> we people have a <,,>
+
+<$A> 
+<ICE-IND:S1A-051#393:1:A>
+Card <,,> card how much amount
+
+<$B> 
+<ICE-IND:S1A-051#394:1:B>
+You must have I D <,,>
+
+<$A> 
+<ICE-IND:S1A-051#395:1:A>
+They will give
+
+<$B> 
+<ICE-IND:S1A-051#396:1:B>
+Just go and bring <,,>
+
+<$A> 
+<ICE-IND:S1A-051#397:1:A>
+So they will give free <,>
+
+<$B> 
+<ICE-IND:S1A-051#398:1:B>
+Just go and bring it <,,>
+
+<$C> 
+<ICE-IND:S1A-051#399:1:C>
+How many students are there in your class
+
+<$B> 
+<ICE-IND:S1A-051#400:1:B>
+Eighty <,>
+
+<$C> 
+<ICE-IND:S1A-051#401:1:C>
+Less
+
+<$B> 
+<ICE-IND:S1A-051#402:1:B>
+Rest of them ran off <,>
+
+<$A> 
+<ICE-IND:S1A-051#403:1:A>
+They ran <,,> why <,>
+
+<ICE-IND:S1A-051#404:1:A>
+They got fed up I think <,,>
+
+<$C> 
+<ICE-IND:S1A-051#405:1:C>
+In the school <,,> <.> ou ou </.> our school
+
+<$B> 
+<ICE-IND:S1A-051#406:1:B>
+<w> I'm </w> so fed up man <,,>
+
+<$A> 
+<ICE-IND:S1A-051#407:1:A>
+So you are coming second year <,> here
+
+<$B> 
+<ICE-IND:S1A-051#408:1:B>
+Then <,,>
+
+<$C> 
+<ICE-IND:S1A-051#409:1:C>
+You come <indig> yaar </indig> <w> let's </w> have fun <,,>
+
+<$A> 
+<ICE-IND:S1A-051#410:1:A>
+I remember my school days <,,>
+
+<$B> 
+<ICE-IND:S1A-051#411:1:B>
+Then what about commerce man if I had join now commerce then
+<,> <w> I'll </w> <,> will I get seat <,,> for second year
+
+<$A> 
+<ICE-IND:S1A-051#412:1:A>
+Yeah you will <{> <[> get seat but you </[> <,> one year one
+year will be wasted yours <,>
+
+<$C> 
+<ICE-IND:S1A-051#413:1:C>
+<[> But one year will be wasted </[> </{>
+
+<$B> 
+<ICE-IND:S1A-051#414:1:B>
+Then directly <,> will not get second year
+
+<$C> 
+<ICE-IND:S1A-051#415:1:C>
+No
+
+<$A> 
+<ICE-IND:S1A-051#416:1:A>
+No <,> you must put apply science only <,>
+
+<$B> 
+<ICE-IND:S1A-051#417:1:B>
+No man <,> uh <w> we'll </w> sit for second year <,> classes
+and then <w> I'll </w> apply for first years exam
+
+<$A> 
+<ICE-IND:S1A-051#418:1:A>
+After science uh what is your ambition <,,>
+
+<$C> 
+<ICE-IND:S1A-051#419:1:C>
+Uh <w> you'll </w> not get <,> seat like that <,,>
+
+<$A> 
+<ICE-IND:S1A-051#420:1:A>
+Uhm <{> <[> after </[> science uh <,> B E
+
+<$B> 
+<ICE-IND:S1A-051#421:1:B>
+<[> B E </[> </{>
+
+<$B> 
+<ICE-IND:S1A-051#422:1:B>
+Ah
+
+<$A> 
+<ICE-IND:S1A-051#423:1:A>
+Which <,> branch </I>

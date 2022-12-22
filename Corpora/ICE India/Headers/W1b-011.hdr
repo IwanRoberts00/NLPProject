@@ -1,0 +1,90 @@
+<text.info>
+       <file.description>
+                <textcode>ICE-IND-W1B-011</textcode>
+                <number.of.subtexts>001</number.of.subtexts>
+                <category>non-printed:correspondence:social
+                  letters</category>
+                <wordcount>2186</wordcount>
+                <version>lexical</version>
+                <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1B-011a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>17-12-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-011a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>07-01-97</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-011a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>03-02-95</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-011a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>17-12-98</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-011a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>28-01-99</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-011a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>16-02-99</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1B-011</it>>
+            <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1B-011(All)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Cheruvil</surname>
+                <forenames>Dr. Joseph</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+               
+<educational.level>Doctorate</educational.level>
+                <occupation>Priest</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Malayalam</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments></free.comments>
+       </biography>
+</text.info>

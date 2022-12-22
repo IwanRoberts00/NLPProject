@@ -1,0 +1,72 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-082</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2723</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-082>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>04-08-95</date>
+            <time>12.30pm</time>
+            <place>Dept: of Linguistics, Delhi University</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-082</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-082</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Sinha</surname>
+            <forenames>Anjanikumar</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Kubauliram, Darbhanga, Bihar</birthplace>
+            <education>Patna University, University of
+                 Chicago</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations>Linguistics Society of India,
+                 Linguistics Society of America</affiliations>
+            <mother.tongue>Hindi</mother.tongue>
+            <other.languages>Bangla</other.languages>
+            <free.comments>Moved to Chicago (1969-79), Delhi
+                 (1981 to date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-082</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Agnihotri</surname>
+            <forenames>Ramakant</forenames>
+            <age>42-49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Ludhiana, Punjab</birthplace>
+            <education>Punjab University, University of Delhi,
+                 University of York (UK)</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Punjabi</mother.tongue>
+            <other.languages>Hindi, Mandyali</other.languages>
+            <free.comments>Moved to Himachal (1950-64), Punjab
+                 (1965-68), Delhi (1969 onward)</free.comments>
+     </biography>
+</text.info>

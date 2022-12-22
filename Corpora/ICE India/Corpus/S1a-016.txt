@@ -1,0 +1,972 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-016#1:1:A>
+Okay I am Umarani from Central Institute of Indian Languages
+<,,> hi <,,>
+
+<$B> 
+<ICE-IND:S1A-016#2:1:B>
+I am Manimekalai from Central Institute of Indian Languages
+<,,>
+
+<$A> 
+<ICE-IND:S1A-016#3:1:A>
+Okay now what happened to <,,>
+
+<$B> 
+<ICE-IND:S1A-016#4:1:B>
+You are <O> one word </O> in English <,>
+
+<$A> 
+<ICE-IND:S1A-016#5:1:A>
+Okay now when are you <,> are you going for home for <mention>
+<indig> Dipavali </indig> </mention> or something
+
+<$B> 
+<ICE-IND:S1A-016#6:1:B>
+Yes I am going to <,> my home <,> for <mention> <indig>
+Dipavali </indig> </mention>
+
+<$A> 
+<ICE-IND:S1A-016#7:1:A>
+When are you leaving <,>
+
+<$B> 
+<ICE-IND:S1A-016#8:1:B>
+I am leaving on <,> eighth <,,>
+
+<$A> 
+<ICE-IND:S1A-016#9:1:A>
+Eighth of <,> uh <{> <[> November </[>
+
+<$B> 
+<ICE-IND:S1A-016#10:1:B>
+<[> Eight of </[> </{> no no <,> yeah eighth of November
+
+<$A> 
+<ICE-IND:S1A-016#11:1:A>
+For how much <,> how long are you planning to stay at home <,>
+
+<$B> 
+<ICE-IND:S1A-016#12:1:B>
+I have planned to stay there atleast one week <,> yeah <,>
+
+<$A> 
+<ICE-IND:S1A-016#13:1:A>
+And from <,> uh which is your place by birth <,>
+
+<$B> 
+<ICE-IND:S1A-016#14:1:B>
+My <,> place is nearby Vellore <,>
+
+<ICE-IND:S1A-016#15:1:B>
+Do you know that place <,>
+
+<$A> 
+<ICE-IND:S1A-016#16:1:A>
+No exactly can you give me the <,> uh route like from this to
+
+<$B> 
+<ICE-IND:S1A-016#17:1:B>
+Okay from here to <,> Vellore <w> we'll </w> have to go by <,>
+
+<$A> 
+<ICE-IND:S1A-016#18:1:A>
+Bangalore <,>
+
+<$B> 
+<ICE-IND:S1A-016#19:1:B>
+From there <w> we'll </w> have to catch bus <,> from Bangalore
+to <,> Vellore <,>
+
+<$A> 
+<ICE-IND:S1A-016#20:1:A>
+So its <,> how many hours of journey is it from Mysore <{> <[>
+to Vellore </[>
+
+<$B> 
+<ICE-IND:S1A-016#21:1:B>
+<[> Yeah from </[> </{> from Mysore to Vellore <,> take two
+twelve hours <,,>
+
+<$A> 
+<ICE-IND:S1A-016#22:1:A>
+Say if you go <,> by some other route say from <,,> Mysore to
+<,> Satyamangalam <,> somewhere <,> from there how long it is there <,,>
+
+<$B> 
+<ICE-IND:S1A-016#23:1:B>
+If we went to <,> uhm more than <,> one day <,,>
+
+<$A> 
+<ICE-IND:S1A-016#24:1:A>
+Okay <,>
+
+<ICE-IND:S1A-016#25:1:A>
+So now what are you planning to go at home for this holiday <,>
+
+<ICE-IND:S1A-016#26:1:A>
+Are you only interested in going and spending some days with your
+mom
+
+<ICE-IND:S1A-016#27:1:A>
+Or are you going to <,>
+
+<$B> 
+<ICE-IND:S1A-016#28:1:B>
+Of course then <O> laughs </O> I wanted to spend with my
+parents only <w> that's </w> why I am going <,>
+
+<ICE-IND:S1A-016#29:1:B>
+I am not going outside
+
+<$A> 
+<ICE-IND:S1A-016#30:1:A>
+So how many <{> <[> of you </[>
+
+<$B> 
+<ICE-IND:S1A-016#31:1:B>
+<[> There <w> I'll </w> be </[> </{> spending my time in house
+only <,>
+
+<$A> 
+<ICE-IND:S1A-016#32:1:A>
+What will you do <,> right from morning to evening for <,,>
+
+<$B> 
+<ICE-IND:S1A-016#33:1:B>
+What I will do is usual thing eating and chitchating with my
+<,> sister <,,>
+
+<$A> 
+<ICE-IND:S1A-016#34:1:A>
+So you are not going to do anything of academic at home <,>
+you are just going to relax <{> <[> from morning to evening </[>
+
+<$B> 
+<ICE-IND:S1A-016#35:1:B>
+<[> Yeah <w> I'm </w> going to relax </[> </{>
+
+<$B> 
+<ICE-IND:S1A-016#36:1:B>
+I have been staying <,> for thirteen years only in hostel no
+<w> that's </w> why I wanted to <,> enjoy with my parents
+
+<$A> 
+<ICE-IND:S1A-016#37:1:A>
+So who are all staying in your house
+
+<$B> 
+<ICE-IND:S1A-016#38:1:B>
+In my house <,> I my mother <,> father <,> sister <,>
+
+<$A> 
+<ICE-IND:S1A-016#39:1:A>
+What are what is your sister doing <,>
+
+<$B> 
+<ICE-IND:S1A-016#40:1:B>
+My sister has completed her <,> B G D C A <,> she is working
+in <?> government </?> research
+
+<$A> 
+<ICE-IND:S1A-016#41:1:A>
+She is <,> she is elder to you or younger to you
+
+<$B> 
+<ICE-IND:S1A-016#42:1:B>
+No she is younger than me <,,>
+
+<$A> 
+<ICE-IND:S1A-016#43:1:A>
+How about your father <,> what is he doing <,>
+
+<$B> 
+<ICE-IND:S1A-016#44:1:B>
+Yeah he is homeopathy doctor <,,> there in my house only doing
+<,>
+
+<$A> 
+<ICE-IND:S1A-016#45:1:A>
+So how do you find Mysore compare to your place with <{> <[>
+uh </[>
+
+<$B> 
+<ICE-IND:S1A-016#46:1:B>
+<[> Yeah </[> </{> <w> it's </w> very nice very pleasant I
+like very much <,>
+
+<ICE-IND:S1A-016#47:1:B>
+I would like to stay here only <,>
+
+<$A> 
+<ICE-IND:S1A-016#48:1:A>
+Oh you mean for the whole of life time
+
+<$B> 
+<ICE-IND:S1A-016#49:1:B>
+Not like that I will search some job <,> here only
+
+<$A> 
+<ICE-IND:S1A-016#50:1:A>
+So <w> you'll </w> be staying here only <,,>
+
+<ICE-IND:S1A-016#51:1:A>
+Have you <,> been to other places other than <,> uh <,> okay I can
+say out of Tamil Nadu <,> other than Mysore other than Karnataka <,> have you
+been to any other places in India <,>
+
+<$B> 
+<ICE-IND:S1A-016#52:1:B>
+Yeah <,,> I like very much uh Kodaikanal and Ooty <,>
+
+<$A> 
+<ICE-IND:S1A-016#53:1:A>
+<w> That's </w> again <w> it's </w> a part of Tamil Nadu <{>
+<[> out out </[> of out of
+
+<$B> 
+<ICE-IND:S1A-016#54:1:B>
+<[> Tamil Nad </[> </{>
+
+<$B> 
+<ICE-IND:S1A-016#55:1:B>
+Out of Tamil Nadu I will like to go to Goa <,,>
+
+<$A> 
+<ICE-IND:S1A-016#56:1:A>
+You would love to go <{> <[> to Goa </[>
+
+<$B> 
+<ICE-IND:S1A-016#57:1:B>
+<[> Yeah </[> </{> but uh <,>
+
+<$A> 
+<ICE-IND:S1A-016#58:1:A>
+<indig> Haan </indig> <,,>
+
+<$B> 
+<ICE-IND:S1A-016#59:1:B>
+But I have seen <,,>
+
+<$A> 
+<ICE-IND:S1A-016#60:1:A>
+Okay now <,> what do you think of our <,> customs and other
+things <,,>
+
+<ICE-IND:S1A-016#61:1:A>
+<.> Whi </.> which is <,> <?> labelled </?> as the <,> Tamil custom
+or the Tamil culture <,,> what do you think of that <,,>
+
+<$B> 
+<ICE-IND:S1A-016#62:1:B>
+I like very much our Tamil customs <,> then this uh
+
+<$A> 
+<ICE-IND:S1A-016#63:1:A>
+Oh is it so <,> why don't you think that it will be only an
+individuals uh habit <,,>
+
+<ICE-IND:S1A-016#64:1:A>
+Do you want to impose something called Tamil culture <,,> or Tamil
+custom as such <,,>
+
+<$B> 
+<ICE-IND:S1A-016#65:1:B>
+It is <,,>
+
+<$A> 
+<ICE-IND:S1A-016#66:1:A>
+So <,> I mean
+
+<$B> 
+<ICE-IND:S1A-016#67:1:B>
+Ah again <,>
+
+<$A> 
+<ICE-IND:S1A-016#68:1:A>
+So you just wanted to <,> be <,> a typical Tamilian
+
+<$B> 
+<ICE-IND:S1A-016#69:1:B>
+Yeah Tamilian
+
+<$A> 
+<ICE-IND:S1A-016#70:1:A>
+Typical in the sense what do you mean <,> <w> it's </w>
+traditional <,> or orthodox <,>
+
+<$B> 
+<ICE-IND:S1A-016#71:1:B>
+Not orthodox <,>
+
+<$A> 
+<ICE-IND:S1A-016#72:1:A>
+But you want an identity <{> <[> as a Tamilian </[>
+
+<$A> 
+<ICE-IND:S1A-016#73:1:A>
+<[> Identity yeah </[> </{> identity as a Tamilian <,> not
+orthodox and
+
+<$A> 
+<ICE-IND:S1A-016#74:1:A>
+Okay in that case are you interested in accepting any other
+language as third language <,> of interlink
+
+<$B> 
+<ICE-IND:S1A-016#75:1:B>
+Yeah <,,> of course I like very much that language
+
+<$A> 
+<ICE-IND:S1A-016#76:1:A>
+So what kind of movies you see then <,>
+
+<$B> 
+<ICE-IND:S1A-016#77:1:B>
+Uh
+
+<$A> 
+<ICE-IND:S1A-016#78:1:A>
+Tamil movies <,>
+
+<$B> 
+<ICE-IND:S1A-016#79:1:B>
+Yeah I would like to see Tamil movies <,> <{> <[> like <,> I
+like very much Tamil movies than others <,>
+
+<$A> 
+<ICE-IND:S1A-016#80:1:A>
+<[> Like </[> </{>
+
+<$A> 
+<ICE-IND:S1A-016#81:1:A>
+So whom do you like this <O> one word </O> male actor
+
+<$B> 
+<ICE-IND:S1A-016#82:1:B>
+Yeah I like very Kamal Hasan <,>
+
+<$A> 
+<ICE-IND:S1A-016#83:1:A>
+Why is it so <,,>
+
+<$B> 
+<ICE-IND:S1A-016#84:1:B>
+So his acts very nice <,,>
+
+<$A> 
+<ICE-IND:S1A-016#85:1:A>
+Any specific reason for liking only Kamal Hasan or uh <,,>
+
+<$B> 
+<ICE-IND:S1A-016#86:1:B>
+Not only he acts very nicely <,> than others <,,>
+
+<ICE-IND:S1A-016#87:1:B>
+Okay that means I <,,>
+
+<$A> 
+<ICE-IND:S1A-016#88:1:A>
+So who was uh <,,> I mean <,> song do you like <,,>
+
+<$B> 
+<ICE-IND:S1A-016#89:1:B>
+Vani Jayram <,,> yes I like it very moving
+
+<$A> 
+<ICE-IND:S1A-016#90:1:A>
+S P B <,>
+
+<$B> 
+<ICE-IND:S1A-016#91:1:B>
+Yeah I like very much <,,>
+
+<ICE-IND:S1A-016#92:1:B>
+Yeah <,,> well I <,,> would you like to <.> se </.> see some <,>
+some Hindi movies <,>
+
+<$A> 
+<ICE-IND:S1A-016#93:1:A>
+I don't mind as long as the story is good but I don't like
+movies which are full of violence
+
+<$B> 
+<ICE-IND:S1A-016#94:1:B>
+<indig> Accha </indig>
+
+<$A> 
+<ICE-IND:S1A-016#95:1:A>
+I want I love to watch movies which are very very melodious
+<,,>
+
+<$B> 
+<ICE-IND:S1A-016#96:1:B>
+Well <,>
+
+<$A> 
+<ICE-IND:S1A-016#97:1:A>
+There should it must me noise free
+
+<$B> 
+<ICE-IND:S1A-016#98:1:B>
+Yeah <,,>
+
+<$A> 
+<ICE-IND:S1A-016#99:1:A>
+And I <,,> prefer <,,> Kamal Hasan pictures <,> than <,,> of
+course because <,,> he is highly talented <,> and in each and every movie
+<,,> his performence is different <,>
+
+<ICE-IND:S1A-016#100:1:A>
+So I would love to watch his movies <,>
+
+<ICE-IND:S1A-016#101:1:A>
+And Hindi okay I like Sharukh <w> Khan's </w> pictures <,,> Amir
+Khan
+
+<$B> 
+<ICE-IND:S1A-016#102:1:B>
+How long you have been staying in Mysore <,,>
+
+<$A> 
+<ICE-IND:S1A-016#103:1:A>
+Now I think <w> it's </w> more than three years since I left
+Coimbatore <,>
+
+<$B> 
+<ICE-IND:S1A-016#104:1:B>
+Have you seen any <,> Kannada movies <,>
+
+<$A> 
+<ICE-IND:S1A-016#105:1:A>
+Yeah I <,,> saw a couple of movies
+
+<$B> 
+<ICE-IND:S1A-016#106:1:B>
+<indig> Haan </indig> <,,>
+
+<ICE-IND:S1A-016#107:1:B>
+Do you like it very much <,>
+
+<$A> 
+<ICE-IND:S1A-016#108:1:A>
+Not much
+
+<$B> 
+<ICE-IND:S1A-016#109:1:B>
+Uhm yeah <,,> where you are staying in Mysore <,>
+
+<$A> 
+<ICE-IND:S1A-016#110:1:A>
+I am staying at the university hostel <w> it's </w> uh <,>
+close to the institute <,,>
+
+<$B> 
+<ICE-IND:S1A-016#111:1:B>
+How is your <O> one word </O> hostel <,>
+
+<$A> 
+<ICE-IND:S1A-016#112:1:A>
+I love my hostel because we are a <,,> very we have a very
+nice set of friends there <,>
+
+<ICE-IND:S1A-016#113:1:A>
+And the hostel is very good <,,>
+
+<ICE-IND:S1A-016#114:1:A>
+I enjoy staying there <,,>
+
+<$B> 
+<ICE-IND:S1A-016#115:1:B>
+What type of food there you get <,>
+
+<$A> 
+<ICE-IND:S1A-016#116:1:A>
+Vegetarian food
+
+<$B> 
+<ICE-IND:S1A-016#117:1:B>
+Vegetarian food <,,>
+
+<ICE-IND:S1A-016#118:1:B>
+When you are going to your home <,>
+
+<$A> 
+<ICE-IND:S1A-016#119:1:A>
+I may go for <mention> <indig> Dipavali </indig> </mention>
+<w> I'm </w> not sure of my programme
+
+<ICE-IND:S1A-016#120:1:A>
+I am just planning to go for <mention> <indig> Dipavali </indig>
+</mention> <,>
+
+<$B> 
+<ICE-IND:S1A-016#121:1:B>
+I know that day you got some <,,> news <,> what is it <,,>
+
+<$A> 
+<ICE-IND:S1A-016#122:1:A>
+What I couldn't get <,,> what in the sense
+
+<$B> 
+<ICE-IND:S1A-016#123:1:B>
+Uh you know <w> I've </w> got news uh <,> you got some news
+<,> you got job from <,> Bombay like
+
+<$A> 
+<ICE-IND:S1A-016#124:1:A>
+Okay I got <,> I got the intimation <,,> unofficially that I
+have been selected <,> but I am not sure
+
+<ICE-IND:S1A-016#125:1:A>
+And I am just waiting <,> even if it is true <,> till now there is
+no intimation
+
+<$B> 
+<ICE-IND:S1A-016#126:1:B>
+Do you like to go to see <,> <O> two words </O> in Bombay to
+stay there <,>
+
+<$A> 
+<ICE-IND:S1A-016#127:1:A>
+Okay I <,> I don't know I can't say <.> whe </.> that I like
+to go to Bombay <,> but <,> I wanted to be economically independent <,> in
+that way I would prefer any place <,>
+
+<ICE-IND:S1A-016#128:1:A>
+And <,> I am career minded <,,> in that way again I can say <,,> I
+would go to <,> a very nice city <,> that way <w> it's </w> a metropolitan
+city I would love to stay in Bombay except for the crowd and pollution <,,>
+
+<$B> 
+<ICE-IND:S1A-016#129:1:B>
+You didn't try <,> so far <w> that's </w> <,> mean abroad
+<,,>
+
+<$A> 
+<ICE-IND:S1A-016#130:1:A>
+No I I would love to go abroad but the <,> problem is who is
+going to finance <,,>
+
+<ICE-IND:S1A-016#131:1:A>
+In fact I am trying to do my post doc somewhere <,,> I applied
+here and there
+
+<$B> 
+<ICE-IND:S1A-016#132:1:B>
+When did you register for Ph D <,,>
+
+<$A> 
+<ICE-IND:S1A-016#133:1:A>
+Okay can <,> say that I <,> came to Mysore only to do my Ph D
+<,> <{> <[> ah ha <,> and this is how say for three years <w> I've </w>
+submitted my Ph D <O> one word </O> very recently
+
+<$B> 
+<ICE-IND:S1A-016#134:1:B>
+<[> Ah ha </[> </{>
+
+<$B> 
+<ICE-IND:S1A-016#135:1:B>
+Ah ha <,> then next plan <,,>
+
+<ICE-IND:S1A-016#136:1:B>
+<w> What's </w> your next plan <,,>
+
+<$A> 
+<ICE-IND:S1A-016#137:1:A>
+I am waiting for my appointment order <,,>
+
+<ICE-IND:S1A-016#138:1:A>
+If I <,> may be <w> I'll </w> be in Mysore for another three
+months <,,> I may get <O> one word </O> some paper works <,,>
+
+<$B> 
+<ICE-IND:S1A-016#139:1:B>
+How many languages do you know <,,> ?
+
+<ICE-IND:S1A-016#140:1:B>
+Languages <,,>
+
+<$A> 
+<ICE-IND:S1A-016#141:1:A>
+Languages <,> uh you mean <,> uh natural languages or <,>
+computer languages
+
+<$B> 
+<ICE-IND:S1A-016#142:1:B>
+Oh natural languages <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-016#143:1:A>
+Okay <,,> I know Tamil Telugu <,> <{> <[> uhn <,> Hindi <,>
+very little of <O> one word </O> <,,> English of course <,,>
+
+<$B> 
+<ICE-IND:S1A-016#144:1:B>
+<[> Uhn </[> </{>
+
+<$B> 
+<ICE-IND:S1A-016#145:1:B>
+<w> What's </w> your mother tongue <,,>
+
+<$A> 
+<ICE-IND:S1A-016#146:1:A>
+Oh mother tongue is <,> Telugu
+
+<$B> 
+<ICE-IND:S1A-016#147:1:B>
+Telugu <,>
+
+<$A> 
+<ICE-IND:S1A-016#148:1:A>
+But my regional tongue is Tamil <,,>
+
+<ICE-IND:S1A-016#149:1:A>
+So now you tell me something about your future plans <,>
+
+<$B> 
+<ICE-IND:S1A-016#150:1:B>
+My future plans I have completed my Ph D <,> now I am working
+<,> as a language assistant in C I I L <,,>
+
+<ICE-IND:S1A-016#151:1:B>
+Now <,> yesterday uh <,> like I applied for some posts <,>
+linguistic post I may have attend to <,> I waited for that one <,>
+
+<ICE-IND:S1A-016#152:1:B>
+I will <,> I hope that I will get it that one <,,>
+
+<$A> 
+<ICE-IND:S1A-016#153:1:A>
+If not are you planning to stay in Mysore and still look for
+a job <,,>
+
+<$B> 
+<ICE-IND:S1A-016#154:1:B>
+Even before I worked for here for three years no <,> so I
+will be staying here <,,>
+
+<$A> 
+<ICE-IND:S1A-016#155:1:A>
+So you are getting <,>
+
+<$B> 
+<ICE-IND:S1A-016#156:1:B>
+Permanent job <,>
+
+<$A> 
+<ICE-IND:S1A-016#157:1:A>
+Okay <,,> but uh <.> wh </.> what are your parents going to
+say if you just go on staying here and uh <,> not thinking of your marriage
+<{> <[> and </[>
+
+<$B> 
+<ICE-IND:S1A-016#158:1:B>
+<[> Yeah </[> </{> they don't like at all <,,> actually they
+are not allowing me to stay in hostel and outside as <,> I <,> my interest
+only I came out and staying here <,,>
+
+<$A> 
+<ICE-IND:S1A-016#159:1:A>
+Okay <,,>
+
+<ICE-IND:S1A-016#160:1:A>
+<w> What's </w> your hobby <,,>
+
+<$B> 
+<ICE-IND:S1A-016#161:1:B>
+Reading books <,>
+
+<$A> 
+<ICE-IND:S1A-016#162:1:A>
+What kind of books <,>
+
+<ICE-IND:S1A-016#163:1:A>
+Apart from Linguistics
+
+<$B> 
+<ICE-IND:S1A-016#164:1:B>
+Yeah <,> linguistic that is <O> a few words </O> like that
+then <,> historical novels I don't like to read <,,>
+
+<$A> 
+<ICE-IND:S1A-016#165:1:A>
+How do spend your time in the hostel in the evening <,>
+
+<$B> 
+<ICE-IND:S1A-016#166:1:B>
+My friends is there no <,> we used to go out <,,>
+
+<ICE-IND:S1A-016#167:1:B>
+How you are spending <,,>
+
+<$A> 
+<ICE-IND:S1A-016#168:1:A>
+I go to my hostel by <,> six <w> O'clock </w> <,,> and <,>
+meet some of my friends <,> chat with them for a few minutes <,,> have a wash
+<,> and then go for a walk <,,> come back <,,> take something <,,> just enter
+the room <,,>
+
+<ICE-IND:S1A-016#169:1:A>
+If nobody is around <,> may be I will see <,> write some poem <,>
+but I haven't started yet <,> <O> two words </O> <,,>
+
+<$B> 
+<ICE-IND:S1A-016#170:1:B>
+What kind of <,,>
+
+<$A> 
+<ICE-IND:S1A-016#171:1:A>
+What you mean poems
+
+<$B> 
+<ICE-IND:S1A-016#172:1:B>
+Poems yeah <,>
+
+<$A> 
+<ICE-IND:S1A-016#173:1:A>
+I write I love to write about nature <,> and sometimes my
+feelings will be depicted in poems <,> my personal experience as I put into
+poems <,,> I generally love reading and writing
+
+<$B> 
+<ICE-IND:S1A-016#174:1:B>
+You are the only person staying in your room or uh <,>
+
+<$A> 
+<ICE-IND:S1A-016#175:1:A>
+Yeah I stay alone <,>
+
+<$B> 
+<ICE-IND:S1A-016#176:1:B>
+To be alone <,> <w> it's </w> more comfortable you know <,>
+staying alone how you <O> one word </O>
+
+<$A> 
+<ICE-IND:S1A-016#177:1:A>
+Okay I don't say as long as you are <,,> uh comfortable you
+can be comfortable in any part of the <O> one word </O> <,>
+
+<ICE-IND:S1A-016#178:1:A>
+And even if you have two or three people uh <,> staying together
+even if I happened to stay with three people in a room <,> I think I will be
+comfortable <,,>
+
+<ICE-IND:S1A-016#179:1:A>
+It all depends on the degree of <,> what you are thinking as
+comfortable <,> comfortness
+
+<$B> 
+<ICE-IND:S1A-016#180:1:B>
+So what I feel <w> it's </w> very far away from <,> C I I L
+no <,>
+
+<$A> 
+<ICE-IND:S1A-016#181:1:A>
+<w> It's </w> close by <,> just <,> it hardly takes five
+minutes <,> to reach my hostel <w> it's </w> walking distance
+
+<$B> 
+<ICE-IND:S1A-016#182:1:B>
+Walking distance <,,>
+
+<$A> 
+<ICE-IND:S1A-016#183:1:A>
+How do you find your hostel uh I mean uh <,,> your food
+accomodation
+
+<$B> 
+<ICE-IND:S1A-016#184:1:B>
+I don't like at all that food because see I fed up with that
+food no <,> and I take outside <?> mostly </?> <,> from that B M <?> Hospital
+</?> <,,>
+
+<$A> 
+<ICE-IND:S1A-016#185:1:A>
+Where is B M <?> Hospital </?> situated
+
+<$B> 
+<ICE-IND:S1A-016#186:1:B>
+<w> It's </w> opposite to that C I I L only no <,,>
+
+<ICE-IND:S1A-016#187:1:B>
+You never seen that place
+
+<$A> 
+<ICE-IND:S1A-016#188:1:A>
+Yeah yeah I forgot the name of the hostel <,> <{> <[> oh <,>
+I only remember there is a <?> hospital </?> which is very costly and uh
+
+<$B> 
+<ICE-IND:S1A-016#189:1:B>
+<[> Oh </[> </{>
+
+<$B> 
+<ICE-IND:S1A-016#190:1:B>
+Yeah <O> a few words </O> <,,>
+
+<$A> 
+<ICE-IND:S1A-016#191:1:A>
+Who is your room mate <,>
+
+<$B> 
+<ICE-IND:S1A-016#192:1:B>
+Yeah my room mate is <,> Anita <,>
+
+<$A> 
+<ICE-IND:S1A-016#193:1:A>
+Where is she from
+
+<$B> 
+<ICE-IND:S1A-016#194:1:B>
+Uh from Calcutta <,,>
+
+<$A> 
+<ICE-IND:S1A-016#195:1:A>
+What is she
+
+<$B> 
+<ICE-IND:S1A-016#196:1:B>
+Yeah she is also working in same post as language assistant
+for Bangla <,>
+
+<$A> 
+<ICE-IND:S1A-016#197:1:A>
+So how do you find staying with her
+
+<$B> 
+<ICE-IND:S1A-016#198:1:B>
+Yeah I like very much <,,>
+
+<$A> 
+<ICE-IND:S1A-016#199:1:A>
+You like her very much or you like staying with her very much
+
+<$B> 
+<ICE-IND:S1A-016#200:1:B>
+I like her and staying with her <,> both
+
+<$A> 
+<ICE-IND:S1A-016#201:1:A>
+Okay so you have got only like <,> when it comes to Anita no
+dislike
+
+<$B> 
+<ICE-IND:S1A-016#202:1:B>
+No dislike at all <,,> <{> <[> she is a nice girl </[>
+
+<$A> 
+<ICE-IND:S1A-016#203:1:A>
+<[> But what language do you </[> </{> speak <,> how do you
+communicate <,>
+
+<$B> 
+<ICE-IND:S1A-016#204:1:B>
+Yeah <,> through English
+
+<$A> 
+<ICE-IND:S1A-016#205:1:A>
+English <,,>
+
+<ICE-IND:S1A-016#206:1:A>
+Do you <,> sing <,>
+
+<$B> 
+<ICE-IND:S1A-016#207:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-016#208:1:A>
+Oh very nice
+
+<$B> 
+<ICE-IND:S1A-016#209:1:B>
+Yeah <,> sometime <,,>
+
+<$A> 
+<ICE-IND:S1A-016#210:1:A>
+Then I would love to know more about your uh <,> family <,>
+because <,> you said you are coming from Vellore
+
+<$B> 
+<ICE-IND:S1A-016#211:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-016#212:1:A>
+So the <,> is that place is famous for some <}> <-> kidney
+</-> <=> kidney </=> </}> transplantation or something that it is famous for
+
+<$B> 
+<ICE-IND:S1A-016#213:1:B>
+Not that uh yeah <,> there is one <,,> uh what you see
+medical college is there <,>
+
+<ICE-IND:S1A-016#214:1:B>
+<w> It's </w> very nice hospital <,>
+
+<$A> 
+<ICE-IND:S1A-016#215:1:A>
+Okay because so I have heard so many people going to Vellore
+for uh <,,> diagnosis and other thing <,,>
+
+<ICE-IND:S1A-016#216:1:A>
+And what are the other important <,,> I mean uh <,> noteworthy
+places in your place <,> city
+
+<$B> 
+<ICE-IND:S1A-016#217:1:B>
+There <,> you have that one <,> uhm Rajadevi hill that fort
+<O> one word </O> are there <,>
+
+<$A> 
+<ICE-IND:S1A-016#218:1:A>
+Pardon <,>
+
+<$B> 
+<ICE-IND:S1A-016#219:1:B>
+Fort fort <,>
+
+<$A> 
+<ICE-IND:S1A-016#220:1:A>
+Okay <,>
+
+<$B> 
+<ICE-IND:S1A-016#221:1:B>
+Rajadevi fort <,> that actually our place is historical place
+<,>
+
+<$A> 
+<ICE-IND:S1A-016#222:1:A>
+Okay so you must be lucky to stay in that nice place yeah
+
+<$B> 
+<ICE-IND:S1A-016#223:1:B>
+<O> A few words </O>
+
+<$A> 
+<ICE-IND:S1A-016#224:1:A>
+Hill hill yeah
+
+<$B> 
+<ICE-IND:S1A-016#225:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-016#226:1:A>
+Oh surrounded by
+
+<$B> 
+<ICE-IND:S1A-016#227:1:B>
+Surrounded by hill <,>
+
+<$A> 
+<ICE-IND:S1A-016#228:1:A>
+That is beautiful
+
+<$B> 
+<ICE-IND:S1A-016#229:1:B>
+Yeah <,,> </I>

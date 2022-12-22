@@ -1,0 +1,55 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-005</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:popular:
+              humanities</category>
+            <wordcount>2303</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-005>
+        <source.type=monograph>
+            <source.title>Triveni: Literary & Cultural
+              Quaterly</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol:62,No-1</series>
+        <publication.statement>
+            <publisher>The Triveni Foundation (Regd)</publisher>
+            <address>401, Sivasakti Apartments, Barkatpura,
+              Hyderabad-500027</address>
+            <place>Hyderabad</place>
+            <date>1993-94</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-005</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>The Pursuit of Human
+              Excellence</main.title>
+            <subtitle></subtitle>
+            <page.nos>5-8</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-005</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname></surname>
+                <forenames>Sri Swami Ranganathananda</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

@@ -1,0 +1,53 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2B-041</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Scripted:non-broadcast
+                   speeches</category>
+              <wordcount>2259</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2B-041>
+       <recording.data>
+              <date>21-11-92</date>
+              <time>12.00noon</time>
+              <place>Dept: of English, Humanity Hall, Shivaji
+                   University</place>
+       </recording.data>
+              <organising.body>Shivaji
+                   University</organising.body>
+              <copyright.statement>reproduced by permission of
+                   the speaker</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-041</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Lecture
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size>50</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-041</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Marathe</surname>
+              <forenames>Sudhakar</forenames>
+              <age>52</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Poona, Maharashtra</birthplace>
+              <education.level>Doctorate</education.level>
+              <education>Poona University, North Wales U.K.,
+                   Western Ontario Canada</education>
+              <occupation>Teaching</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Marathi</mother.tongue>
+              <other.languages>Hindi</other.languages>
+              <free.comments>Moved to London, Canada (1977-82),
+                   Hyderabad (1983 to date)</free.comments>
+       </biography>
+</text.info>

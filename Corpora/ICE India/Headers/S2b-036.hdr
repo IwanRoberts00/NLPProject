@@ -1,0 +1,53 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2B-036</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Scripted:broadcast
+                   talks</category>
+              <wordcount>2305</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2B-036>
+       <recording.data>
+              <channel>AIR (Dharwad)</channel>
+              <address></address>
+              <tv.or.radio>radio</tv.or.radio>
+              <source.title>Travelogue</source.title>
+              <source.subtitle></source.subtitle>  
+              <date>03-05-91</date>
+              <time>8.15pm</time>
+       </recording.data>
+              <copyright.statement>Blanket permission from
+                   Doordarshan under section 39 of Copyright Act,
+                   1957 and Copyright Rules, 1958
+                   respectively</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-036</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Broadcast Talk
+                  </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-036</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Kankanwadi</surname>
+              <forenames>Sujit</forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation></occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

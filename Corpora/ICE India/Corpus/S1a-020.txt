@@ -1,0 +1,1161 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-020#1:1:A>
+Hello <,>
+
+<$B> 
+<ICE-IND:S1A-020#2:1:B>
+Hello <,> Lokesh <,,> how do you do
+
+<$A> 
+<ICE-IND:S1A-020#3:1:A>
+Well <w> I'm </w> fine
+
+<ICE-IND:S1A-020#4:1:A>
+How do you do <,,>
+
+<$B> 
+<ICE-IND:S1A-020#5:1:B>
+Fine <,> okay thank you <,>
+
+<$A> 
+<ICE-IND:S1A-020#6:1:A>
+Hello
+
+<$C> 
+<ICE-IND:S1A-020#7:1:C>
+Hello <,>
+
+<$B> 
+<ICE-IND:S1A-020#8:1:B>
+Hello you <,>
+
+<$C> 
+<ICE-IND:S1A-020#9:1:C>
+<w> I'm </w> from Tamil Nad <,>
+
+<$B> 
+<ICE-IND:S1A-020#10:1:B>
+I see
+
+<$C> 
+<ICE-IND:S1A-020#11:1:C>
+And I am a post graduate teacher <,,>
+
+<ICE-IND:S1A-020#12:1:C>
+Trained teacher though <w> I'm </w> still <,,> uh unemployed <,,>
+uh <,,> uhm what is the <,,> actual situation PG situation <,> PG unemployed
+graduates are <,,> are really a lot of <,> person
+
+<ICE-IND:S1A-020#13:1:C>
+PG graduates <,> in the Karnataka <,> unemployed
+
+<$A> 
+<ICE-IND:S1A-020#14:1:A>
+You mean uh unemployed
+
+<$C> 
+<ICE-IND:S1A-020#15:1:C>
+Yeah <,,>
+
+<$B> 
+<ICE-IND:S1A-020#16:1:B>
+Ah yes of course <w> that's </w> a <,,> uh national problem in
+India you know <,> growing unemployment <,>
+
+<ICE-IND:S1A-020#17:1:B>
+There are <,> uh so many unemployed graduates <,,>
+
+<ICE-IND:S1A-020#18:1:B>
+That is true of uh Karnataka also <,>
+
+<ICE-IND:S1A-020#19:1:B>
+What do you say Mr Mohan
+
+<$A> 
+<ICE-IND:S1A-020#20:1:A>
+Yes I agree with him <,,>
+
+<ICE-IND:S1A-020#21:1:A>
+Uh but <,> with a <,,> some difference you know <,,>
+
+<ICE-IND:S1A-020#22:1:A>
+Uh those who have done their MA in English uhm <,> in India find
+jobs easily
+
+<$B> 
+<ICE-IND:S1A-020#23:1:B>
+<indig> Haan </indig>
+
+<$A> 
+<ICE-IND:S1A-020#24:1:A>
+Though the government uhm <,> there is trying to uhm <O>
+sneeze </O> they give less importance to <,,> teaching of English in <{> <[>
+schools </[> and colleges
+
+<$B> 
+<ICE-IND:S1A-020#25:1:B>
+<[> Yes </[> </{>
+
+<$B> 
+<ICE-IND:S1A-020#26:1:B>
+Yes <,>
+
+<ICE-IND:S1A-020#27:1:B>
+So another major problem
+
+<ICE-IND:S1A-020#28:1:B>
+Had you had we studied uh in my case I opted for science subjects
+<,> <w> you'd </w> have got easily the job <,,>
+
+<ICE-IND:S1A-020#29:1:B>
+But uh any <,> major self-employment project is <,> uh launched
+here in your state <,,>
+
+<$A> 
+<ICE-IND:S1A-020#30:1:A>
+Oh yes there are many self-employments schemes
+
+<$C> 
+<ICE-IND:S1A-020#31:1:C>
+Right
+
+<$A> 
+<ICE-IND:S1A-020#32:1:A>
+Like uh District Industries Corporation <,> <{> <[> industries
+<,> there is uh one corporation called uh Karnataka State Financial
+Corporation
+
+<$C> 
+<ICE-IND:S1A-020#33:1:C>
+<[> Industries </[> </{>
+
+<$A> 
+<ICE-IND:S1A-020#34:1:A>
+In the district industrial corporation which we call <,> D I C
+<,,> uh you can get <,> a loan to a tune of thirty-five thousand <,> and
+start any small scale industries
+
+<$C> 
+<ICE-IND:S1A-020#35:1:C>
+Home industries also
+
+<$A> 
+<ICE-IND:S1A-020#36:1:A>
+Yes <w> that's </w> right
+
+<$B> 
+<ICE-IND:S1A-020#37:1:B>
+We too have the same organisation <,>
+
+<ICE-IND:S1A-020#38:1:B>
+We also have that thing
+
+<ICE-IND:S1A-020#39:1:B>
+But when we approach <,,> since uh <,,> it seems they <,> they uh
+put lot of conditions <,> <{> <[> yes <,> that you fed up with those people
+and uh
+
+<$A> 
+<ICE-IND:S1A-020#40:1:A>
+<[> Yes </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#41:1:C>
+<indig> Haan haan </indig> that is one <,> of the <,> <{> <[>
+puts a lot of strain <,,> <w> that's </w> one of the reasons why these <,> uh
+you know schemes have failed
+
+<$B> 
+<ICE-IND:S1A-020#42:1:B>
+<[> Puts a lot of strain </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#43:1:C>
+Uh they there are so many legalities <,> uh to perform <,> and
+all kinds of official disturbances <,> well <w> that's </w> true
+
+<$A> 
+<ICE-IND:S1A-020#44:1:A>
+Yes I <,> I should say that <,> the Government should take
+steps to liberalise those things <,,>
+
+<ICE-IND:S1A-020#45:1:A>
+<w> There're </w> so many things which you cannot <,,> say bring
+<,> all at a time <,,>
+
+<ICE-IND:S1A-020#46:1:A>
+Uhm uhm advancing loan <,> uhm but you keep a track of <,> how it
+is utilizing it you know <,,>
+
+<$B> 
+<ICE-IND:S1A-020#47:1:B>
+But lot of <,> uh in fact on the government part also <,>
+sometimes it seems right <,> because in our state <,> more than thirty <,> uh
+three hundred <indig> crore rupees </indig> <,> have been <,> uh given as
+loan <,> and not a single money <,,> has been recovered from the <,,> uh <,>
+people who got it as loan
+
+<$A> 
+<ICE-IND:S1A-020#48:1:A>
+Loanees
+
+<$B> 
+<ICE-IND:S1A-020#49:1:B>
+Uhm <w> they're </w> not willing to <,> <}> <-> when </-> <=>
+when </=> </}> they get <,,> the money as loans <,> they have the feeling <}>
+<-> <w> it's </w> </-> <=> <w> it's </w> </=> </}> donation for them
+
+<$C> 
+<ICE-IND:S1A-020#50:1:C>
+Right
+
+<$B> 
+<ICE-IND:S1A-020#51:1:B>
+With the result <,> they do not <,,> allowance any further
+<,,> uh programmes
+
+<$C> 
+<ICE-IND:S1A-020#52:1:C>
+<}> <-> You </-> <=> you </=> </}> mean to say that they do
+not <,,> utilize uh uh
+
+<$B> 
+<ICE-IND:S1A-020#53:1:B>
+The funds
+
+<$C> 
+<ICE-IND:S1A-020#54:1:C>
+Yes the funds properly <,>
+
+<$B> 
+<ICE-IND:S1A-020#55:1:B>
+Properly <,> <{1> <[1> uhm <,> because it does not reach the
+man <w> there're </w> lot of brokers <,> <{2> <[2> ha right <,> there in
+interim <,> period
+
+<ICE-IND:S1A-020#56:1:B>
+It <,> uh the half of the amount goes <,,> supposing if they give
+loans for <,> cattles doctors will get some amount <,> or the man who
+recommends <,,> and above all there is a fixed limit for <,> uh every village
+<,>
+
+<ICE-IND:S1A-020#57:1:B>
+So two or three members will be getting <,> <{3> <[3> right <,>
+
+<ICE-IND:S1A-020#58:1:B>
+Those who have the influence <,,> uh and <w> they'll </w> have to
+<,,> approach back-door way to the local <,> uh ruling party <,> uh members
+
+<$A> 
+<ICE-IND:S1A-020#59:1:A>
+<[1> Uhm </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-020#60:1:A>
+<[2> Ha right </[2> </{2>
+
+<$C> 
+<ICE-IND:S1A-020#61:1:C>
+<[3> Right </[3> </{3>
+
+<$C> 
+<ICE-IND:S1A-020#62:1:C>
+Right <,,>
+
+<$A> 
+<ICE-IND:S1A-020#63:1:A>
+Hey even in our state <,> people say it is <,> same <,,>
+
+<ICE-IND:S1A-020#64:1:A>
+But what I feel is <,,> as you said the funds <,,> are misused <,>
+
+<$B> 
+<ICE-IND:S1A-020#65:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-020#66:1:A>
+You know
+
+<$B> 
+<ICE-IND:S1A-020#67:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-020#68:1:A>
+You cannot put all the blame on one party <,>
+
+<$B> 
+<ICE-IND:S1A-020#69:1:B>
+No I
+
+<$A> 
+<ICE-IND:S1A-020#70:1:A>
+That is the receiver
+
+<$B> 
+<ICE-IND:S1A-020#71:1:B>
+Yeah yeah
+
+<$A> 
+<ICE-IND:S1A-020#72:1:A>
+You know
+
+<$B> 
+<ICE-IND:S1A-020#73:1:B>
+Of course but uh <,> I don't blame one party
+
+<$A> 
+<ICE-IND:S1A-020#74:1:A>
+Then the banks <,> the institutions which have advanced loan
+<,,> have to keep <,,> a proper track <,>
+
+<$C> 
+<ICE-IND:S1A-020#75:1:C>
+Right
+
+<$A> 
+<ICE-IND:S1A-020#76:1:A>
+Of <,> <{> <[> for instance <,,> and see whether the loan is
+being utilised properly
+
+<$B> 
+<ICE-IND:S1A-020#77:1:B>
+<[> For instance </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#78:1:C>
+Properly
+
+<$A> 
+<ICE-IND:S1A-020#79:1:A>
+Uhm <,> and there are considerations also uhm <,> suppose as
+you said in the case of the cattle <,> most of the Indian cattle <,,> this
+they die <,> <{> <[> uhm uhm <,> as soon as they are bought <O> laughter </O>
+you know
+
+<ICE-IND:S1A-020#80:1:A>
+Uhm <,> something should be done <,> means <,> <}> <-> the </-> <=>
+the </=> </}> basic thing is that we should educate our people <,,>
+
+<$B> 
+<ICE-IND:S1A-020#81:1:B>
+<[> Uhm uhm </[> </{>
+
+<$A> 
+<ICE-IND:S1A-020#82:1:A>
+We should <{> <[> tell them </[> why <,> the government
+
+<$C> 
+<ICE-IND:S1A-020#83:1:C>
+<[> We yes </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#84:1:C>
+Not only that <,> awareness is created among the people
+
+<$A> 
+<ICE-IND:S1A-020#85:1:A>
+Yes <w> that's </w> right <,> awareness is <}> <-> an </->
+<+> as </+> </}> important
+
+<$C> 
+<ICE-IND:S1A-020#86:1:C>
+And as you can see <,,> uh unemployed graduates <,,> have
+become <,> or becoming rather are becoming terrorists <,> anti-social
+elements etcetra etcetra why
+
+<ICE-IND:S1A-020#87:1:C>
+Because of frustrations <,> you know <,>
+
+<ICE-IND:S1A-020#88:1:C>
+They are frustrated <,> disappointed <,,>
+
+<ICE-IND:S1A-020#89:1:C>
+And proper awareness is <,> not created <,> among them
+
+<ICE-IND:S1A-020#90:1:C>
+Naturally <,> they go astray <,>
+
+<ICE-IND:S1A-020#91:1:C>
+Right
+
+<$B> 
+<ICE-IND:S1A-020#92:1:B>
+Yeah <,> my feeling is <,> but to some extent <,> the
+unemployed unemployment problem could be solved <,> by this kind of uh
+projects <,> though <,> if uh it has proved to be a failure <,>
+
+<$C> 
+<ICE-IND:S1A-020#93:1:C>
+Right
+
+<$B> 
+<ICE-IND:S1A-020#94:1:B>
+<O> A few words </O>
+
+<$A> 
+<ICE-IND:S1A-020#95:1:A>
+What we have got to do is <,> a kind of introspections <,>
+
+<ICE-IND:S1A-020#96:1:A>
+We should see uhm how <,> how many people uhm have really been
+benefitted uhm
+
+<ICE-IND:S1A-020#97:1:A>
+Why uhm <,> the scheme has been a failure
+
+<ICE-IND:S1A-020#98:1:A>
+So after that <,> say you can revamp your programmes <,,> <{> <[>
+and </[> there is every scope you know <,> uh for say <,,> improvement in the
+<,> <{> <[> yeah <,> scope
+
+<$C> 
+<ICE-IND:S1A-020#99:1:C>
+<[> Right </[> </{>
+
+<$B> 
+<ICE-IND:S1A-020#100:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-020#101:1:B>
+But the government does not
+
+<$A> 
+<ICE-IND:S1A-020#102:1:A>
+But as far as I think <,,> the government should take <,>
+some hard steps <,> towards those <,> who misuse the funds <,,>
+
+<ICE-IND:S1A-020#103:1:A>
+But <,,> you know there are too many <,,> uh people interfering in
+it
+
+<$B> 
+<ICE-IND:S1A-020#104:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-020#105:1:A>
+Uhm and <,> uh even our few politicians <,> they simply <,>
+they announce <,> uhn
+
+<$C> 
+<ICE-IND:S1A-020#106:1:C>
+And they never keep up <,> their words
+
+<$A> 
+<ICE-IND:S1A-020#107:1:A>
+Subsidies uh
+
+<$C> 
+<ICE-IND:S1A-020#108:1:C>
+Right
+
+<$A> 
+<ICE-IND:S1A-020#109:1:A>
+Yes you don't have to pay ten thousand <indig> rupees
+</indig> loan <,> you don't have to pay five thousand <indig> rupees </indig>
+loan <,,>
+
+<ICE-IND:S1A-020#110:1:A>
+<{> <[> And uh </[>
+
+<$C> 
+<ICE-IND:S1A-020#111:1:C>
+<[> Just for the </[> </{> political game
+
+<$B> 
+<ICE-IND:S1A-020#112:1:B>
+Yeah yeah
+
+<$A> 
+<ICE-IND:S1A-020#113:1:A>
+We become allured
+
+<$B> 
+<ICE-IND:S1A-020#114:1:B>
+Ha right
+
+<$A> 
+<ICE-IND:S1A-020#115:1:A>
+That is the <w> unemployed's </w> plight
+
+<$B> 
+<ICE-IND:S1A-020#116:1:B>
+Yeah yeah
+
+<$A> 
+<ICE-IND:S1A-020#117:1:A>
+And <,>
+
+<$B> 
+<ICE-IND:S1A-020#118:1:B>
+And the government does not
+
+<$A> 
+<ICE-IND:S1A-020#119:1:A>
+And once given <,,> that should become a <.> tri </.>
+tradition <w> that's </w> what we think
+
+<$B> 
+<ICE-IND:S1A-020#120:1:B>
+Yes yes <,,>
+
+<$A> 
+<ICE-IND:S1A-020#121:1:A>
+And that has been happening
+
+<$B> 
+<ICE-IND:S1A-020#122:1:B>
+Yeah
+
+<$C> 
+<ICE-IND:S1A-020#123:1:C>
+Uh alright uh now <w> what's </w> your plan <,> since you are
+an unemployed <,>
+
+<$B> 
+<ICE-IND:S1A-020#124:1:B>
+Every city <O> two words </O> <,> but the thing is <,> for
+the <,> past years I I did not uh <,> uh concentrate on uh <,,> making the
+best <,> use of the modern techniques of agriculture
+
+<$C> 
+<ICE-IND:S1A-020#125:1:C>
+Uhm uhm
+
+<$B> 
+<ICE-IND:S1A-020#126:1:B>
+The same traditional methods followed <,>
+
+<ICE-IND:S1A-020#127:1:B>
+And it proved <,> proved to be futile attempt <,>
+
+<ICE-IND:S1A-020#128:1:B>
+Every year some natural calamities <,> and this and that it
+happens and <,> uh you just <,> you are surviving <,,> and we don't seem to
+<,> have gained any <,,>
+
+<$C> 
+<ICE-IND:S1A-020#129:1:C>
+Well uh fortunately for you <,> here is <,> Mr Mohan he is an
+agriculturist <,> a BSc Agriculturist graduate <,> you can take suggestions
+from him
+
+<$A> 
+<ICE-IND:S1A-020#130:1:A>
+Yes you are welcome
+
+<$B> 
+<ICE-IND:S1A-020#131:1:B>
+I no no
+
+<$A> 
+<ICE-IND:S1A-020#132:1:A>
+You can adopt
+
+<$B> 
+<ICE-IND:S1A-020#133:1:B>
+I see
+
+<$A> 
+<ICE-IND:S1A-020#134:1:A>
+The modern ways of agriculture <,> <{> <[> uhm <,> uhm <,>
+
+<ICE-IND:S1A-020#135:1:A>
+And <,> if you want <,> say financial help <,> without any <,> say
+<,,> uh mediators and all <,> uhn Mr Lokesh is here to guide you how you
+could <,,> get loan uhm
+
+<ICE-IND:S1A-020#136:1:A>
+He only will tell you <,> uh the proper way to approach the bank
+
+<$B> 
+<ICE-IND:S1A-020#137:1:B>
+<[> Uhm </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#138:1:C>
+I I think we have <,> uh degressed from our <,> uh uh subject
+
+<ICE-IND:S1A-020#139:1:C>
+Infact our subject was unemployment
+
+<ICE-IND:S1A-020#140:1:C>
+And I think this could be one of the solutions you know <,>
+
+<ICE-IND:S1A-020#141:1:C>
+If uh these graduate people <,> who own lands <,> can go back to
+their lands and <,> <{> <[> right <,> uh adopt new techniques
+
+<$A> 
+<ICE-IND:S1A-020#142:1:A>
+<[> Right </[> </{>
+
+<$A> 
+<ICE-IND:S1A-020#143:1:A>
+Right
+
+<$C> 
+<ICE-IND:S1A-020#144:1:C>
+And try to contribute <,> uh to <,> our country in terms of
+you know food <,> food grains <,>
+
+<ICE-IND:S1A-020#145:1:C>
+Well I think <w> it'll </w> help a lot <,> and uh
+
+<$B> 
+<ICE-IND:S1A-020#146:1:B>
+In fact it is a social service also
+
+<$C> 
+<ICE-IND:S1A-020#147:1:C>
+Right
+
+<$B> 
+<ICE-IND:S1A-020#148:1:B>
+And <,> uh so far <,> people are under impression that white
+collar jobs <,,> are the only aims and ambitions in life <,>
+
+<$C> 
+<ICE-IND:S1A-020#149:1:C>
+<w> That's </w> true <,>
+
+<$A> 
+<ICE-IND:S1A-020#150:1:A>
+So shall we have a cup of tea <,>
+
+<ICE-IND:S1A-020#151:1:A>
+I think <w> it's </w> better <,>
+
+<$C> 
+<ICE-IND:S1A-020#152:1:C>
+Oh yes yes
+
+<$A> 
+<ICE-IND:S1A-020#153:1:A>
+Fine
+
+<$C> 
+<ICE-IND:S1A-020#154:1:C>
+<O> One or two words </O>
+
+<$B> 
+<ICE-IND:S1A-020#155:1:B>
+No not yet <,> <w> it's </w> very hot that
+
+<$A> 
+<ICE-IND:S1A-020#156:1:A>
+I see
+
+<$B> 
+<ICE-IND:S1A-020#157:1:B>
+In fact when I was <,,> uh from my native <,> I could notice
+the difference in climate when <,> we are on the way
+
+<$A> 
+<ICE-IND:S1A-020#158:1:A>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-020#159:1:B>
+More than uh two hundred miles <,> across the Salem <,>
+
+<$A> 
+<ICE-IND:S1A-020#160:1:A>
+Uhm I know
+
+<$B> 
+<ICE-IND:S1A-020#161:1:B>
+I I was able to notice <,> <{> <[> Salem <,> the difference
+
+<$A> 
+<ICE-IND:S1A-020#162:1:A>
+<[> Salem </[> </{>
+
+<$A> 
+<ICE-IND:S1A-020#163:1:A>
+Is Salem an industrial city
+
+<ICE-IND:S1A-020#164:1:A>
+I think <w> I'm </w> told <,> <{> <[> yeah <,> <w> it's </w> an
+industrial city
+
+<$B> 
+<ICE-IND:S1A-020#165:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-020#166:1:B>
+Yeah
+
+<$C> 
+<ICE-IND:S1A-020#167:1:C>
+<w> It's </w> an industrial city
+
+<$A> 
+<ICE-IND:S1A-020#168:1:A>
+<{> <[> Salem Salem </[>
+
+<$B> 
+<ICE-IND:S1A-020#169:1:B>
+<[> Industrial city </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#170:1:C>
+Today I received a letter from my wife <,>
+
+<ICE-IND:S1A-020#171:1:C>
+She has written <w> it's </w> cloudy there in my place Dharwar <,>
+but no rains at all <,>
+
+<$A> 
+<ICE-IND:S1A-020#172:1:A>
+No rains
+
+<$B> 
+<ICE-IND:S1A-020#173:1:B>
+In Dharwar
+
+<$B> 
+<ICE-IND:S1A-020#174:1:B>
+<{> <[> Yeah </[>
+
+<$A> 
+<ICE-IND:S1A-020#175:1:A>
+<[> Dharwar </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#176:1:C>
+<w> It's </w> in Karnataka you know
+
+<$B> 
+<ICE-IND:S1A-020#177:1:B>
+Karnataka
+
+<$A> 
+<ICE-IND:S1A-020#178:1:A>
+Yes
+
+<$B> 
+<ICE-IND:S1A-020#179:1:B>
+Is it on the border of uh Tamil Nad
+
+<$A> 
+<ICE-IND:S1A-020#180:1:A>
+No no no
+
+<$C> 
+<ICE-IND:S1A-020#181:1:C>
+Oh
+
+<$A> 
+<ICE-IND:S1A-020#182:1:A>
+Exactly it is <,> in the north of Karnataka
+
+<$C> 
+<ICE-IND:S1A-020#183:1:C>
+North of Karnataka
+
+<$B> 
+<ICE-IND:S1A-020#184:1:B>
+North Karnataka
+
+<$A> 
+<ICE-IND:S1A-020#185:1:A>
+Uhm
+
+<$B> 
+<ICE-IND:S1A-020#186:1:B>
+What is the adjacent
+
+<$A> 
+<ICE-IND:S1A-020#187:1:A>
+It is known for its University its Karnataka University
+Dharwar
+
+<$C> 
+<ICE-IND:S1A-020#188:1:C>
+Ah
+
+<$A> 
+<ICE-IND:S1A-020#189:1:A>
+Perhaps you might <{> <[> have heard the name </[> right
+
+<$B> 
+<ICE-IND:S1A-020#190:1:B>
+<[> Yeah I had </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#191:1:C>
+<w> It's </w> a place where there are two Universities <,> as
+Lokesh mentioned Karnataka University <,> there is another University called
+<,,> uh Agricultural University
+
+<$B> 
+<ICE-IND:S1A-020#192:1:B>
+Agricultural University
+
+<$A> 
+<ICE-IND:S1A-020#193:1:A>
+So if you <,> uh want <,> uh any information <,> well you can
+just <,> uhm <,> come to Dharwad and <,> uh go with Mohan to Agricultural
+University and see
+
+<$C> 
+<ICE-IND:S1A-020#194:1:C>
+Oh yeah you are welcome
+
+<$A> 
+<ICE-IND:S1A-020#195:1:A>
+Since you are an agriculturist and since you are <,> uh
+willing to or wishing to implement new techniques <{> <[> and all those
+things </[> all right
+
+<$B> 
+<ICE-IND:S1A-020#196:1:B>
+<[> Okay okay okay </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#197:1:C>
+Ha by the by we were talking of <,> sight-seeing in Mysore
+okay
+
+<$A> 
+<ICE-IND:S1A-020#198:1:A>
+Ha yes yes <,,>
+
+<ICE-IND:S1A-020#199:1:A>
+Well I have seen uh <,> from all important places in Mysore <,>
+because <w> I'm </w> not a stranger to this place
+
+<ICE-IND:S1A-020#200:1:A>
+You ask this <,> uh gentleman from Tamil Nadu perhaps <}> <-> him
+</-> <+> he </+> </}> <,> has not seen any of the important places
+
+<$C> 
+<ICE-IND:S1A-020#201:1:C>
+Have you not seen
+
+<$B> 
+<ICE-IND:S1A-020#202:1:B>
+Yeah I visited this Palace <,>
+
+<$A> 
+<ICE-IND:S1A-020#203:1:A>
+I see
+
+<$B> 
+<ICE-IND:S1A-020#204:1:B>
+That is in Chamundi hills
+
+<$A> 
+<ICE-IND:S1A-020#205:1:A>
+Uhm
+
+<$B> 
+<ICE-IND:S1A-020#206:1:B>
+But uh that <,> uh KSR dam and uh <,>
+
+<$A> 
+<ICE-IND:S1A-020#207:1:A>
+KRS Dam <,> you should visit it
+
+<$C> 
+<ICE-IND:S1A-020#208:1:C>
+You should visit it
+
+<$A> 
+<ICE-IND:S1A-020#209:1:A>
+It was built by <,> Sir M Vishveshariah
+
+<$C> 
+<ICE-IND:S1A-020#210:1:C>
+Vishveshariah <,>
+
+<$B> 
+<ICE-IND:S1A-020#211:1:B>
+I see
+
+<$A> 
+<ICE-IND:S1A-020#212:1:A>
+He got <{> <[> <w> India's </w> </[> <,> highest civilian
+award <indig> Bharatratna </indig>
+
+<$C> 
+<ICE-IND:S1A-020#213:1:C>
+<[> Brindavana </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#214:1:C>
+<indig> Bharatratna </indig>
+
+<$B> 
+<ICE-IND:S1A-020#215:1:B>
+I see
+
+<$A> 
+<ICE-IND:S1A-020#216:1:A>
+<{> <[> Great engineer </[> great son of <,,> India
+
+<$B> 
+<ICE-IND:S1A-020#217:1:B>
+<[> But he deserved it yes yes </[> </{>
+
+<$C> 
+<ICE-IND:S1A-020#218:1:C>
+India we are very proud of him <,> aren't we
+
+<$A> 
+<ICE-IND:S1A-020#219:1:A>
+<indig> Haan </indig> yes surely
+
+<$B> 
+<ICE-IND:S1A-020#220:1:B>
+Sravanabelgola <,> belongs to your state
+
+<$C> 
+<ICE-IND:S1A-020#221:1:C>
+<indig> Haan </indig> Sravanabelgola is just fifty kilometres
+from here
+
+<$A> 
+<ICE-IND:S1A-020#222:1:A>
+Uhm uh fifty or sixty kilometres from here
+
+<$B> 
+<ICE-IND:S1A-020#223:1:B>
+Have you seen that
+
+<$C> 
+<ICE-IND:S1A-020#224:1:C>
+Oh yes <,,> <w> it's </w>
+
+<$A> 
+<ICE-IND:S1A-020#225:1:A>
+<w> It's </w> known for Gomateshwara
+
+<$C> 
+<ICE-IND:S1A-020#226:1:C>
+Gomateshwara
+
+<$A> 
+<ICE-IND:S1A-020#227:1:A>
+<w> It's </w> tall statue <,,>
+
+<$B> 
+<ICE-IND:S1A-020#228:1:B>
+And then another one place <,> which I wanted to see that <,>
+uh some
+
+<$A> 
+<ICE-IND:S1A-020#229:1:A>
+Jog falls
+
+<$B> 
+<ICE-IND:S1A-020#230:1:B>
+No its uh its maintained by <,,> that uh head of <,>
+
+<$A> 
+<ICE-IND:S1A-020#231:1:A>
+Uhm
+
+<$C> 
+<ICE-IND:S1A-020#232:1:C>
+Dharmasthala
+
+<$B> 
+<ICE-IND:S1A-020#233:1:B>
+Dharmasthala
+
+<$A> 
+<ICE-IND:S1A-020#234:1:A>
+Dharmasthala
+
+<$B> 
+<ICE-IND:S1A-020#235:1:B>
+Where is it
+
+<$C> 
+<ICE-IND:S1A-020#236:1:C>
+Dharmasthala
+
+<$B> 
+<ICE-IND:S1A-020#237:1:B>
+Is it nearby that <,,> uh Sravanabelgola
+
+<$A> 
+<ICE-IND:S1A-020#238:1:A>
+Uh I think <w> it's </w> uh three hundred and fifty
+kilometres away from here
+
+<$C> 
+<ICE-IND:S1A-020#239:1:C>
+From here <,> three hundred and fifty kilometres
+
+<$A> 
+<ICE-IND:S1A-020#240:1:A>
+Fifty kilometres
+
+<$C> 
+<ICE-IND:S1A-020#241:1:C>
+Dharmasthala
+
+<$A> 
+<ICE-IND:S1A-020#242:1:A>
+Dharmasthala
+
+<$C> 
+<ICE-IND:S1A-020#243:1:C>
+Yes <,,>
+
+<ICE-IND:S1A-020#244:1:C>
+And if you go to Dharmasthala don't forget to visit Lokesh
+
+<$A> 
+<ICE-IND:S1A-020#245:1:A>
+<{> <[> Yes </[> exactly
+
+<$B> 
+<ICE-IND:S1A-020#246:1:B>
+<[> Oh </[> </{>
+
+<$B> 
+<ICE-IND:S1A-020#247:1:B>
+That is your native place
+
+<$C> 
+<ICE-IND:S1A-020#248:1:C>
+<O> One or two words </O>
+
+<$A> 
+<ICE-IND:S1A-020#249:1:A>
+By the by I wanted to know about uh <,> this politics in your
+state because <,> uh your Chief Minister is very much in news <,>
+
+<ICE-IND:S1A-020#250:1:A>
+Uhm she was a <,> film actress formerly <,> <{> <[> yeah yeah <,,>
+isn't she
+
+<ICE-IND:S1A-020#251:1:A>
+So what do you feel about her administration in your state <,>
+
+<$B> 
+<ICE-IND:S1A-020#252:1:B>
+<[> Yeah yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-020#253:1:B>
+Her administration <O> one or two words </O> she still enjoys
+the public <,,> uh
+
+<$A> 
+<ICE-IND:S1A-020#254:1:A>
+Support
+
+<$B> 
+<ICE-IND:S1A-020#255:1:B>
+Support <,> but as as an <.> administra </.> administrator
+<,> I don't find she is really
+
+<$A> 
+<ICE-IND:S1A-020#256:1:A>
+<w> She's </w> losing her popularities
+
+<$B> 
+<ICE-IND:S1A-020#257:1:B>
+No not yet <,> still she enjoys it
+
+<$A> 
+<ICE-IND:S1A-020#258:1:A>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-020#259:1:B>
+But in the course of time <,,> once uh I I I that could be
+<,> told only
+
+<$A> 
+<ICE-IND:S1A-020#260:1:A>
+I see <,>
+
+<$B> 
+<ICE-IND:S1A-020#261:1:B>
+During the course of time <,>
+
+<$A> 
+<ICE-IND:S1A-020#262:1:A>
+Uh as we read
+
+<$B> 
+<ICE-IND:S1A-020#263:1:B>
+Because there is no <,,> uh yeah equal an opponent to <,>
+oppose her <,>
+
+<$A> 
+<ICE-IND:S1A-020#264:1:A>
+Right <,> there is <{> <[> no good opposition </[> she has
+almost become a dictator
+
+<$B> 
+<ICE-IND:S1A-020#265:1:B>
+<[> Right no opponents </[> </{>
+
+<$B> 
+<ICE-IND:S1A-020#266:1:B>
+In fact she <,> enjoys the popularity just because there is
+no <,> opposition leader
+
+<$A> 
+<ICE-IND:S1A-020#267:1:A>
+Right
+
+<$B> 
+<ICE-IND:S1A-020#268:1:B>
+Who merits attention of the public
+
+<$A> 
+<ICE-IND:S1A-020#269:1:A>
+Exactly <,,>
+
+<$C> 
+<ICE-IND:S1A-020#270:1:C>
+Oh
+
+<$A> 
+<ICE-IND:S1A-020#271:1:A>
+Exactly <{> <[> and what about </[> Karunanidhi the former
+Chief Minister
+
+<$B> 
+<ICE-IND:S1A-020#272:1:B>
+<[> That is </[> </{>
+
+<$B> 
+<ICE-IND:S1A-020#273:1:B>
+Yes yes <,> he is not
+
+<$A> 
+<ICE-IND:S1A-020#274:1:A>
+Is he completely silenced now
+
+<$B> 
+<ICE-IND:S1A-020#275:1:B>
+Yeah <,,> at present but <,> <{1> <[1> ah <,> now he has
+gained slightly upper hand <,> even though <O> one word </O>
+
+<ICE-IND:S1A-020#276:1:B>
+And totally <,> uh among the <,> number of the voters concerned
+<w> he's </w> still enjoying the sizeable <,> uh <,> <{2> <[2> support <,>
+support
+
+<$A> 
+<ICE-IND:S1A-020#277:1:A>
+<[1> Ah </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-020#278:1:A>
+<[2> Support </[2> </{2> </I>

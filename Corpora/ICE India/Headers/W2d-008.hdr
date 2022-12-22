@@ -1,0 +1,94 @@
+<text.info>
+     <file.description>
+              <textcode>ICE-IND-W2D-008</textcode>
+              <number.of.subtexts>2</number.of.subtexts>
+              <category>printed:instructional:
+                administrative/regulatory</category>
+              <wordcount>1856</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2D-008(1)>
+            <source.type=monograph>
+            <source.title>Shivaji University,
+              Kolhapur</source.title>
+            <source.subtitle></source.subtitle>
+            <series></series>
+     <publication.statement>
+            <publisher>Shivaji University</publisher>
+            <address>Shivaji University Press</address>
+            <place>Kolhapur</place>
+            <date></date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of author &
+            publisher</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-008(1)</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Shivaji University
+                   Library</main.title>
+                 <subtitle>Library Rules</subtitle>
+                 <page.nos>01-08</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-008(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=W2D-008(2)>
+            <source.type=monograph>
+            <source.title>Chh. Shahu Central Institute of
+              Business Education and Research</source.title>
+            <source.subtitle></source.subtitle>
+            <series></series>
+     <publication.statement>
+            <publisher>SIBER</publisher>
+            <address>University Road Kolhapur-416004</address>
+            <place>Kolhapur</place>
+            <date>18-07-94</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of author &
+            publisher</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-008(2)</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Library Notice</main.title>
+                 <subtitle></subtitle>
+                 <page.nos></page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-008(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Pawar</surname>
+                <forenames>S.P.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation>Librarian</occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

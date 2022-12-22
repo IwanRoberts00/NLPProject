@@ -1,0 +1,75 @@
+<text.info>
+       <file.description>
+                <textcode>ICE-IND-W1B-001</textcode>
+                <number.of.subtexts>001</number.of.subtexts>
+                <category>non-printed:correspondence:social
+                  letters</category>
+                <wordcount>2115</wordcount>
+                <version>lexical</version>
+                <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1B-001a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>28-12-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-001a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>12-04-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-001a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>15-11-98</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-001a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>24-07-98</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1B-001</it>>
+            <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1B-001(All)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Kulkarni</surname>
+                <forenames>Dheerendra S.</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Hosritti, Karnataka</birthplace>
+                <education>Willingdon College,
+Sangli</education>
+               
+<educational.level>B.A.(Hons)</educational.level>
+                <occupation>Teacher(Rtd.)</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Kannada</mother.tongue>
+                <other.languages>Marathi</other.languages>
+                <free.comments>Born & early education in
+                  Karnataka, moved to maharashtra in 1941 &
+                  settled</free.comments>
+       </biography>
+</text.info>

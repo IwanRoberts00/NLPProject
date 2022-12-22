@@ -1,0 +1,51 @@
+<text.info>
+       <file.description>
+                 <textcode>ICE-IND-W1A-008</textcode>
+                 <number.of.subtexts>001</number.of.subtexts>
+                 <category>non-printed:non-professional
+                   writing:student untimed essays</category>
+                 <wordcount></wordcount>
+                 <version>lexical</version>
+                 <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1A-008>
+           <source.type=student essay>
+                <main.title>Government's Legal Efforts &
+                  Programme for Environment
+                  Protection</main.title>
+                <course>Refresher Course</course>
+                <subject>Agro-Economics</subject>
+                <institution></institution>
+                <year>1995</year>
+                <date>15-02-95</date>
+           <copyright.statement>reproduced by permission of
+                respective student</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-008</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-008</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Koli</surname>
+                <forenames>Payagonda A.</forenames>
+                <age>54</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Kognoli, Belgaum</birthplace>
+                <education>Shivaji University</education>
+                <educational.level>M.A.Ph.D.</educational.level>
+                <occupation>University Teacher</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>marathi</mother.tongue>
+                <other.languages>Hindi, Kannada</other.languages>
+                <free.comments>moved to Kagal (1960-65), Gargoti
+                  (1965-69), Ratnagiri (1970-73), Barsi (1973-
+                  79)</free.comments>
+       </biography>
+</text.info>

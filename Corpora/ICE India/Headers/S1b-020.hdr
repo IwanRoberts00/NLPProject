@@ -1,0 +1,50 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-020</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:class lessons</category>
+            <wordcount>2353</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-020>
+     <source.type=Dialogue:public:class lessons>
+     <recording.data>
+            <date>23-07-94</date>
+            <time>11.35am</time>
+            <place>Delhi Kannada School, Delhi</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-020</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>10 students</no.of.participants>
+            <relationship>disparates</relationship>
+            <free.comments>The students were minor (Class XI)
+                 hence extra corpus speakers</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-020</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Batra</surname>
+            <forenames>Krishna</forenames>
+            <age>42-49</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Hindi</mother.tongue>
+            <other.languages>Punjabi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

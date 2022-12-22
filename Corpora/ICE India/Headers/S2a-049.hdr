@@ -1,0 +1,50 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-049</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2069</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-049>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>08-12-94</date>
+              <time>12.00noon</time>
+              <place>CIEFL Hyderabad</place>
+       </recording.data>
+              <organising.body></organising.body>
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-049</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-049</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Lam</surname>
+              <forenames>Seetha Ramaiah</forenames>
+              <age>57</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Panchalavaram, Guntur, AP</birthplace>
+              <education>Post Graduate</education>
+              <occupation>University Librarian</occupation>
+              <affiliations>ILA, IASLIC</affiliations>
+              <mother.tongue>Telugu</mother.tongue>
+              <other.languages>Hindi</other.languages>
+              <free.comments>Moved to New Delhi (1958-62),
+                   Hyderabad (1962 to date)</free.comments>
+       </biography>
+</text.info>

@@ -1,0 +1,695 @@
+<I>
+
+<$A> 
+<ICE-IND:S2A-053#1:1:A>
+<X> <w> It's </w> moving </X>
+
+<$B> 
+<ICE-IND:S2A-053#2:1:B>
+<X> <w> It's </w> moving okay </X>
+
+<$A> 
+<ICE-IND:S2A-053#3:1:A>
+Okay now <O> cough </O> <,,> this is the D S P Sonograph <,,>
+and this has a lot of hardware inside and also <,> in <w> it's </w> ROM there
+is software <,,>
+
+<ICE-IND:S2A-053#4:1:A>
+So the several commands we feed in it takes in and processes or do
+<- > done </-> through this software which is built-in in it <,,>
+
+<ICE-IND:S2A-053#5:1:A>
+And <w> it's </w> a special <,> special purpose <,> you can say <w>
+it's </w> a special purpose computer <,,>
+
+<ICE-IND:S2A-053#6:1:A>
+Then this is the monitor <,> <w> it's </w> of two fifty-six colour
+shade monitor <,,>
+
+<ICE-IND:S2A-053#7:1:A>
+You can see the <,,> I have to get the <,,> uh mike on
+
+<$B> 
+<ICE-IND:S2A-053#8:1:B>
+Mike
+
+<$C> 
+<ICE-IND:S2A-053#9:1:C>
+Microphone is on uh <,,> <w> what's </w> his name ?
+
+<$B> 
+<ICE-IND:S2A-053#10:1:B>
+Last man
+
+<$A> 
+<ICE-IND:S2A-053#11:1:A>
+Now who is the last man <,> ?
+
+<$C> 
+<ICE-IND:S2A-053#12:1:C>
+Uh Anupam <,>
+
+<$A> 
+<ICE-IND:S2A-053#13:1:A>
+<w> Anupam's </w> table is there <}> <-> in a in a </-> <=> in
+a </=> </}> package <,> you can pick it up <,,>
+
+<ICE-IND:S2A-053#14:1:A>
+Uh uh <,,> hello <,,>
+
+<ICE-IND:S2A-053#15:1:A>
+Uhm this is a very sensitive <,> uhm uh <,> monitor <,> it can give
+you two hundred and fifty-six grades of colour <,,>
+
+<ICE-IND:S2A-053#16:1:A>
+Compared with a V G E monitor which you see usually a good monitor
+which gives you four shades <,,>
+
+<ICE-IND:S2A-053#17:1:A>
+We get uh nice uh this thing and <w> it's </w> a flat screen too
+<,>
+
+<ICE-IND:S2A-053#18:1:A>
+<w> It's </w> not protruding this way <w> it's </w> a flat screen
+<,> monitor <,,>
+
+<ICE-IND:S2A-053#19:1:A>
+And this also could also be connected to a computer
+
+<ICE-IND:S2A-053#20:1:A>
+Right now <O> laughs </O> these guys are trying and not able to
+succeed <w> that's </w> another problem they have <,,>
+
+<ICE-IND:S2A-053#21:1:A>
+You can operate certain things from the computer <,>
+
+<$C> 
+<ICE-IND:S2A-053#22:1:C>
+Yeah <,,>
+
+<$A> 
+<ICE-IND:S2A-053#23:1:A>
+Uhm <,,> there are <,,> we should look at this <,,> all the
+controls are at the front panel <,,>
+
+<ICE-IND:S2A-053#24:1:A>
+There are some controls at the back panel but they have to be <,>
+used <,,> very rarely <,> for a initial setting sense on <,>
+
+<ICE-IND:S2A-053#25:1:A>
+Output <,> there are certain outputs that could be taken from the
+back panel <,,>
+
+<ICE-IND:S2A-053#26:1:A>
+Here <,,> you have this this is the input <,> section <,,> and this
+is the output <,> section <,>
+
+<ICE-IND:S2A-053#27:1:A>
+You input speech <,> or any sound <,> you can also get the output
+of the sound <,>
+
+<ICE-IND:S2A-053#28:1:A>
+Usually <,> it is <,> if you don't mute it <,> the output comes
+through the speakers which are connected at the back <,,>
+
+<ICE-IND:S2A-053#29:1:A>
+You can also listen through a headphone here <,,>
+
+<ICE-IND:S2A-053#30:1:A>
+The inputting is done <,> you have two channels <,> you can choose
+two channels <,> channel one and channel two <,>
+
+<$C> 
+<ICE-IND:S2A-053#31:1:C>
+Yeah <,,>
+
+<$A> 
+<ICE-IND:S2A-053#32:1:A>
+And then <,> first do the recording <,,>
+
+<ICE-IND:S2A-053#33:1:A>
+When you are recording through a microphone <,> you have to insert
+this into the microphone here <,,>
+
+<ICE-IND:S2A-053#34:1:A>
+This this is channel one <,> this is channel two <,>
+
+<ICE-IND:S2A-053#35:1:A>
+This is for microphone and this is for auxilary that is tape
+recorder and such purpose <,>
+
+<$C> 
+<ICE-IND:S2A-053#36:1:C>
+It will be higher voltage input <,,>
+
+<$A> 
+<ICE-IND:S2A-053#37:1:A>
+And similarly the other two <,,> <O> cough </O>
+
+<ICE-IND:S2A-053#38:1:A>
+You also select your input level <,,> it is at thirty degree which
+is a comfortable <,> input level <,>
+
+<ICE-IND:S2A-053#39:1:A>
+You can also increase it <,,> to seventy seventy is the maximum <,>
+and it becomes <,> you can see that it is getting over loaded <,>
+
+<ICE-IND:S2A-053#40:1:A>
+See <,> even <w> it's </w> picking up from here <,,> <mention>
+hello <,> hello <,> hello </mention>
+
+<ICE-IND:S2A-053#41:1:A>
+<w> That's </w> too much actually <,>
+
+<ICE-IND:S2A-053#42:1:A>
+So we go down to thirty <,,>
+
+<ICE-IND:S2A-053#43:1:A>
+Now <w> it's </w> not <,,> so <,,> sensitive <,,>
+
+<ICE-IND:S2A-053#44:1:A>
+Let me get out of that <,> actually that <,> takes time to display
+<,,>
+
+<ICE-IND:S2A-053#45:1:A>
+Yeah <,> <mention> hello </mention> <,,>
+
+<ICE-IND:S2A-053#46:1:A>
+This is the convention spectrogram <,> that has bottom of the layer
+<,,> and the top one is a <,> <w> it's </w> in a wave form <,,>
+
+<ICE-IND:S2A-053#47:1:A>
+So <,> you can input it here <,> from here <,> either through
+microphone or through the auxiliary input <,,>
+
+<ICE-IND:S2A-053#48:1:A>
+And then <,> okay for inputting <,> you have to do record <,> you
+have to be in record mode <,>
+
+<ICE-IND:S2A-053#49:1:A>
+Once you press this one this is a very sacred button <,,>
+
+<ICE-IND:S2A-053#50:1:A>
+If you press anything here whatever is recored gets erased <,,> as
+there is this <,> <w> it's </w> a circular buffer is there <,> continously
+records and erases <,>
+
+<ICE-IND:S2A-053#51:1:A>
+As it proceeds it goes in a circle <,,>
+
+<ICE-IND:S2A-053#52:1:A>
+So <,> once I press this <,> <w> it's </w> now recording <,>
+recording is going on <,,> recording is going on right now <,> whatever <w>
+I'm </w> saying is going inside <,> and it is being kept inside <,>
+
+<ICE-IND:S2A-053#53:1:A>
+Now to stop it <,> and to preserve that signal I have to press this
+knob <,,>
+
+<ICE-IND:S2A-053#54:1:A>
+And then always that enhance is necessary comes you just press this
+button E <,> it will do the enhancement on its own <,,>
+
+<ICE-IND:S2A-053#55:1:A>
+Now the settings have been changed let me <}> <-> come back </->
+<+> go back </+> </}> to my settings <,,> <O> cough </O> <,,>
+
+<ICE-IND:S2A-053#56:1:A>
+<mention> Hello </mention> yeah
+
+<ICE-IND:S2A-053#57:1:A>
+I have increased the input level here <,,> to forty degree <,> you
+can see the difference in the <,,> the way <,> the amplitude is getting
+displayed there <,>
+
+<ICE-IND:S2A-053#58:1:A>
+Now when I decrease it to thirty you will see that it becomes less
+<,> and twenty still less <,,>
+
+<ICE-IND:S2A-053#59:1:A>
+Okay <,> forty forty is quite comfortable in fact <,> uh sometimes
+it becomes a bit loud <,,>
+
+<ICE-IND:S2A-053#60:1:A>
+What we can get here <,,> is a continous spect <,,>
+
+<ICE-IND:S2A-053#61:1:A>
+Right now what we have chosen a spectrogram at the bottom <,,>
+screen and the <,> wave form at the top screen <,>
+
+<ICE-IND:S2A-053#62:1:A>
+So <w> let's </w> say <,> something like <mention> <indig> akka
+</indig> </mention> <,,>
+
+<ICE-IND:S2A-053#63:1:A>
+In fact there is a clipping here <,> this kind of straight line
+means <,> there is too much space means too loud <,,> that clipping is going
+on <,,>
+
+<ICE-IND:S2A-053#64:1:A>
+That clipping is going on <,> which should be avoided <,>
+
+<ICE-IND:S2A-053#65:1:A>
+Clipping means <w> it's it's <,> it's </w> called overloading <,,>
+overloading <,>
+
+<ICE-IND:S2A-053#66:1:A>
+You can see that <w> it's it's </w> clipping here too <,,>
+
+<ICE-IND:S2A-053#67:1:A>
+So we should not be too close there <,>
+
+<ICE-IND:S2A-053#68:1:A>
+So <mention> <indig> akka akka </indig> </mention> <,> this is
+quite <,> comfortable <,,> <O> cough </O>
+
+<ICE-IND:S2A-053#69:1:A>
+Uh <,,> just if you take this signal <,> <mention> <indig> akka
+</indig> </mention> here <,,> you can <,> you can get a few points in this
+
+<ICE-IND:S2A-053#70:1:A>
+I mean the interesting points you can see there <,,>
+
+<ICE-IND:S2A-053#71:1:A>
+One thing is you can see <,> it is something like I produce
+something like a sentence <,> a declarative sentence <,> with a pitch falling
+<,,> you see the pulses are going down <,> becoming separated here <,> and
+here too <,> the distance between pulse to pulse is becoming more and more
+<,> that means <,> your pulses in in a <,> in a given period of time so the
+pitch is less <,,>
+
+<ICE-IND:S2A-053#72:1:A>
+And we can do many many things with this signal here <,>
+
+<ICE-IND:S2A-053#73:1:A>
+<w> Let's </w> put some cursors now this this brings cursors in and
+out <,,> okay <,>
+
+<ICE-IND:S2A-053#74:1:A>
+So the cursors give you the facility to measure
+
+<ICE-IND:S2A-053#75:1:A>
+Let me shift them <,> now they are on the lower screen <,> the red
+cursor <,> <w> I'll </w> shift them to a <,> shift it to the upper screen
+<,,>
+
+<ICE-IND:S2A-053#76:1:A>
+Now there <,,> you see a red cursor but <w> that's </w> not one
+cursor there is a green cursor behind it <,,>
+
+<ICE-IND:S2A-053#77:1:A>
+Just we are moving this moves the cursors <,,>
+
+<ICE-IND:S2A-053#78:1:A>
+By moving it <,,> okay <,> you get <-> the </-> both the cursors
+separated <,,> the reading at the red cursor <,> is three point six five
+something <,> reading of the green one is three point five <,> <}> <-> the
+<.> dif </.> </-> <=> the difference </=> </}> is <,> point one three <,,>
+
+<ICE-IND:S2A-053#79:1:A>
+Yeah <,,> okay <,> point one three
+
+<ICE-IND:S2A-053#80:1:A>
+So this <,> duration <,> between these two cursors <,> has come out
+as point one three four one three <,> four four seconds <,,>
+
+<ICE-IND:S2A-053#81:1:A>
+We can use this <,> kind of <,> information <,>
+
+<ICE-IND:S2A-053#82:1:A>
+Let me expand this very form but as <w> it's </w> in two contract
+form
+
+<ICE-IND:S2A-053#83:1:A>
+So I can go back to time access <,,> okay <,,> and select the time
+access <,,> and the upper screen <,,> this is my upper screen <,,> I activate
+that <,> small knob there <,> and make it expanded <,> and <w> it's </w>
+enhanced now <,>
+
+<ICE-IND:S2A-053#84:1:A>
+Yeah it will rewrite <,>
+
+<ICE-IND:S2A-053#85:1:A>
+Redraw that <,> I unselect <,,> I unselect <,> still this we have
+to enhance <,,>
+
+<ICE-IND:S2A-053#86:1:A>
+So I say enhanced <,> it has enhanced <,> it has redrawn in an
+expanded way <,,> okay <,>
+
+<ICE-IND:S2A-053#87:1:A>
+What I can do is I can precisely measure <,,> the length <,> of the
+closure <,,> the length of the closure of K <,,> in <mention> <indig> akka
+</indig> </mention> <,,>
+
+<ICE-IND:S2A-053#88:1:A>
+Okay now this store business is that it makes the cursors <,,>
+where it converts the red and green to green and red <,,>
+
+<ICE-IND:S2A-053#89:1:A>
+It has the only the red cursor moves the green cursor does not move
+<,>
+
+<ICE-IND:S2A-053#90:1:A>
+So if I want <+> to </+> move this cursor I have to have it in red
+colour <,>
+
+<ICE-IND:S2A-053#91:1:A>
+If I want to move this first I have to <,> make it red <,> then I
+can move it <,,>
+
+<ICE-IND:S2A-053#92:1:A>
+Or if I want to move back <,> convert into red and then move it
+<,,>
+
+<ICE-IND:S2A-053#93:1:A>
+Okay now <,> roughly that is the time taken for the K to <,,> that
+is the maintaining <w> that's </w> it due <w> that's </w> the closure period
+of the K in <mention> <indig> akka </indig> </mention> <,,>
+
+<ICE-IND:S2A-053#94:1:A>
+That is point one nine second <,,> roughly point two <,,> seconds
+<,,> okay <,>
+
+<ICE-IND:S2A-053#95:1:A>
+Point two seconds <,> <O> cough </O>
+
+<ICE-IND:S2A-053#96:1:A>
+So <,> immediately you can get the measurement of the durations
+<,,>
+
+<ICE-IND:S2A-053#97:1:A>
+I want to measure the duration of this <mention> aa </mention> <,>
+as opposed this <mention> aa </mention> <,>
+
+<ICE-IND:S2A-053#98:1:A>
+<w> That's </w> very easy <,,> point one <,,> point one seconds
+<,,>
+
+<ICE-IND:S2A-053#99:1:A>
+And then <,,> somewhere roughly there <,,> and somewhere roughly
+there <,,> <w> it's </w> point point one four seconds <,> that was hundred
+milli-seconds <,> and <,> this is hundred and forty-seven milli-seconds <,,>
+okay <,,>
+
+<ICE-IND:S2A-053#100:1:A>
+<w> Let's </w> take a word <,,> two words in Marathi <,>
+
+<ICE-IND:S2A-053#101:1:A>
+See what is the difference between the <,> so called <mention>
+shwa </mention> vowel there <,,> <mention> <indig> kara <,,> kar <,> karto
+<,> kar <,> karto </indig> </mention> <,,>
+
+<ICE-IND:S2A-053#102:1:A>
+This is a <mention> <indig> kar <,> tu kar </indig> </mention>
+means you do the work <,,> imperative form of <mention> <indig> kar </indig>
+</mention> <,>
+
+<ICE-IND:S2A-053#103:1:A>
+And it is phonetically <mention> shwa </mention> <,,>
+
+<ICE-IND:S2A-053#104:1:A>
+<w> It's </w> not a long <mention> shwaa </mention> <w> it's </w>
+a <mention> shwa </mention> <,>
+
+<ICE-IND:S2A-053#105:1:A>
+Uhn <w> let's </w> look at <w> it's </w> <,,> length <,,> point
+one eight <,> point one eight four six <,,>
+
+<ICE-IND:S2A-053#106:1:A>
+This is <mention> <indig> aa </indig> </mention> of <mention>
+<indig> kar </indig> </mention> <,,>
+
+<ICE-IND:S2A-053#107:1:A>
+This is <mention> <indig> a </indig> </mention> <,> this is K is
+here <,> you can't see K <,> this <mention> <indig> a </indig> </mention>
+simply <mention> <indig> a </indig> </mention> okay <,,>
+
+<ICE-IND:S2A-053#108:1:A>
+In fact you can hear that <,> you can choose a particular portion
+here how it sounds <,,> or indeed the head phones otherwise it will disturb
+everybody and you know if you go on playing that <,,>
+
+<ICE-IND:S2A-053#109:1:A>
+And then this is <mention> <indig> karto <,> me kaam karto
+</indig> </mention> <w> let's </w> say <,,>
+
+<ICE-IND:S2A-053#110:1:A>
+Now this is the <,,> now this is the K closure <,> <mention>
+<indig> a a ki </indig> </mention> closure <mention> O </mention> fading away
+<,,>
+
+<ICE-IND:S2A-053#111:1:A>
+Fading out <,,>
+
+<ICE-IND:S2A-053#112:1:A>
+Now here <,> remember that was point one eight four seconds <,,>
+okay <mention> <indig> kar a </indig> </mention> <,> this guy <,,> is point
+zero seven <,,> okay <,,> almost half <,,>
+
+<ICE-IND:S2A-053#113:1:A>
+So this way immediate measurement you can get <,> and if you have
+let us say hundred or <,> hundred two hundred samples <,,> just transfer them
+one by one <,,>
+
+<ICE-IND:S2A-053#114:1:A>
+There is a <,> you can have a large uh <,> buffer also
+
+<ICE-IND:S2A-053#115:1:A>
+And you can choose the buffer size <,> and measure them <,,>
+
+<ICE-IND:S2A-053#116:1:A>
+Now sometimes you have a doubt <,,> about <,,> where a particular
+segment started and where a <}> <-> <.> seg </.> </-> <=> segment </=> </}>
+stopped <,> <w> let's </w> say ended <,,>
+
+<ICE-IND:S2A-053#117:1:A>
+We have both systems <,,>
+
+<ICE-IND:S2A-053#118:1:A>
+Let me realign them <,,>
+
+<ICE-IND:S2A-053#119:1:A>
+Okay <,> this is the <mention> <indig> kar </indig> </mention>
+<,,> you can see this this is spectogram of the same thing I gave the same
+signal in both the screens <,,> this is the wave form <,> and this is the
+sound spectogram <,> <O> cough </O>
+
+<ICE-IND:S2A-053#120:1:A>
+Sound spectogram <}> <-> is a </-> <+> is a </+> </}> two
+dimensional <,,> thing <,>
+
+<ICE-IND:S2A-053#121:1:A>
+And here <,> you can see the formants <,> that means change in
+colour <,,>
+
+<ICE-IND:S2A-053#122:1:A>
+You see the F one <,,> F two F three F four <,> and each vertical
+slash let me explain this <,> you will see this <,,>
+
+<ICE-IND:S2A-053#123:1:A>
+Okay now <w> it's </w> clear <,,> you can see the slash <,> one
+after another corresponding to this pulses <,> each slashes is one lot of
+pulse <,,>
+
+<ICE-IND:S2A-053#124:1:A>
+You can make it even even uh <,,> more a <,,>
+
+<ICE-IND:S2A-053#125:1:A>
+Now <w> let's </w> watch how the <,,> how the pulses look like
+<,,>
+
+<ICE-IND:S2A-053#126:1:A>
+Look at each pulse <,> each pulse <,,>
+
+<$C> 
+<ICE-IND:S2A-053#127:1:C>
+Yeah <,,>
+
+<$A> 
+<ICE-IND:S2A-053#128:1:A>
+Each pulse <,,>
+
+<ICE-IND:S2A-053#129:1:A>
+So it is like that <,,>
+
+<ICE-IND:S2A-053#130:1:A>
+Then <,> uh we <}> <-> come back </-> <=> go back </=> <+> to </+>
+</}> the original earlier one <,,>
+
+<ICE-IND:S2A-053#131:1:A>
+You can see the formant transition <,> this is the <mention>
+<indig> aa </indig> </mention> <,> and going higher <,> going into <mention>
+<indig> ra </mention> </indig> <,,>
+
+<ICE-IND:S2A-053#132:1:A>
+This is falling down to <mention> <indig> ra </mention> </indig>
+<,> as <mention> <indig> ra </mention> </indig> has that S two rise S two
+fall <,> kind of thing <,,>
+
+<ICE-IND:S2A-053#133:1:A>
+Uhn so those make you about what is a formant <w> I'll </w> just
+immediately show you what it is
+
+<ICE-IND:S2A-053#134:1:A>
+Let me <,,> invoke another module <,,>
+
+<ICE-IND:S2A-053#135:1:A>
+<w> It's </w> a rerecorded <,> the signal is a bit loud here <,,>
+
+<ICE-IND:S2A-053#136:1:A>
+Now <O> cough </O> because of this <,,>
+
+<ICE-IND:S2A-053#137:1:A>
+Yeah <,,>
+
+<ICE-IND:S2A-053#138:1:A>
+<w> I'll </w> rerecord this signal <,,>
+
+<ICE-IND:S2A-053#139:1:A>
+Take the <w> let's </w> take the vowel <mention> e </mention> <,,>
+
+<ICE-IND:S2A-053#140:1:A>
+Vowel <mention> e </mention> <,> has the first spectral peak <,>
+at around <,,> two hundred fifty hertz <,>
+
+<ICE-IND:S2A-053#141:1:A>
+Second spectral peek <,> should be around two thousands hertz <,,>
+
+<ICE-IND:S2A-053#142:1:A>
+So this is the usual configuration <,>
+
+<ICE-IND:S2A-053#143:1:A>
+<w> Let's </w> see how it looks like <,,>
+
+<ICE-IND:S2A-053#144:1:A>
+<mention> ee <,> ee </mention> <,,> okay <,,>
+
+<ICE-IND:S2A-053#145:1:A>
+Oh <w> that's </w> just a minute <,,>
+
+<ICE-IND:S2A-053#146:1:A>
+<mention> ee <,> ee </mention> <,,>
+
+<ICE-IND:S2A-053#147:1:A>
+<w> That's </w> good <,,>
+
+<ICE-IND:S2A-053#148:1:A>
+This is an expanded we can see each <,> uh <,,> each pitch pulse
+<,,> each has a pulse here <,,>
+
+<ICE-IND:S2A-053#149:1:A>
+And then the information <,> uh of that <,> you can pick up one
+glottal pulse <,,>
+
+<ICE-IND:S2A-053#150:1:A>
+Okay <,,> <w> it's </w> a bit loud here <,,> and see <,,> <w> it's
+</w> <,,> you can actually get the measurements <,,> of the <,> what we call
+F one <,> conventionally call F one <,> that is the first spectral peak <,>
+and the second spectral peak you know here it may be difficult for you to
+follow let me change the colour <,,>
+
+<ICE-IND:S2A-053#151:1:A>
+Okay <,> okay this the spectral peak <,> first spectral peak <,>
+and you can see the central point there <,> and it is two forty hertz <,> <w>
+that's </w> the standard text book you saw <,> two fifty hertz is the first
+spectral peak of the <mention> e </mention> <,>
+
+<ICE-IND:S2A-053#152:1:A>
+First form of the F one is at two fifty hertz <,,>
+
+<ICE-IND:S2A-053#153:1:A>
+This is spectrum <,,> spectrum <,> after you know you do this
+enhance for your analyses you get the spectrum <,>
+
+<ICE-IND:S2A-053#154:1:A>
+Then the second spectral peak <,> is <,,> is here you can see it
+visually <,,>
+
+<ICE-IND:S2A-053#155:1:A>
+This guy that is the second formant <,> which will correspond this
+peak you know both of them are moving in the similar <,,> they are moving
+together <,> both the cursors <,,> this two three six zero <,>
+
+<ICE-IND:S2A-053#156:1:A>
+This is again <,> a text book case <,,> okay <,>
+
+<ICE-IND:S2A-053#157:1:A>
+If you look at ledger if you remember ledger of this chart of F
+one F two F three <,,>
+
+<ICE-IND:S2A-053#158:1:A>
+And this third one has got a split there actually third and fourth
+are <,> bit <,,>
+
+<ICE-IND:S2A-053#159:1:A>
+Oh <,,>
+
+<ICE-IND:S2A-053#160:1:A>
+Third and fourth is a <-> are </-> bit merged <,>
+
+<ICE-IND:S2A-053#161:1:A>
+I don't know I I think it shift aside <,> yeah <,,>
+
+<ICE-IND:S2A-053#162:1:A>
+Ah this is a better one yeah <,,>
+
+<ICE-IND:S2A-053#163:1:A>
+Let me clear this <,,> uh let me clear <,,> this guy yeah <,>
+
+<ICE-IND:S2A-053#164:1:A>
+Now here <,,> see that <,> the fourth spectral peak is here <,,>
+
+<ICE-IND:S2A-053#165:1:A>
+Now there is the fourth formant <,>
+
+<ICE-IND:S2A-053#166:1:A>
+So first form and second third fourth <,> first second third
+fourth <,,> okay <,,>
+
+<ICE-IND:S2A-053#167:1:A>
+Now <w> let's </w> go back to the second spectral peak here <,,>
+
+<ICE-IND:S2A-053#168:1:A>
+Remember <w> it's </w> two three two zero <,,>
+
+<ICE-IND:S2A-053#169:1:A>
+Let me produce a <,> an <mention> aa </mention> <,> and see what
+happens to that <,,> <mention> aa <,> aa <,> aa </mention> <,,>
+
+<ICE-IND:S2A-053#170:1:A>
+Yeah <,,> the F F three F two has come so low <,,> compared to <->
+the </-> this one <,> it has come down to eight forty <,,>
+
+<ICE-IND:S2A-053#171:1:A>
+So that F one F two F three F four <,,> the movement of these <,>
+you can see the each formant <,> you can precisely measure <,> not only by
+looking at this if you want much precise measurement you can do it by this
+spectrum <,,>
+
+<ICE-IND:S2A-053#172:1:A>
+This is the spectrum of the signal at that red cursor <,,>
+
+<ICE-IND:S2A-053#173:1:A>
+If you want spectrum <,> of this signal <,> over a period of time
+<,> you have another choice <,,> power between cursors <,>
+
+<ICE-IND:S2A-053#174:1:A>
+<w> It's </w> a power actually <,> okay <,,>
+
+<ICE-IND:S2A-053#175:1:A>
+Now you need two cursors now <,,> power suppose I want to have an
+averaged <,> spectrum of this <,> I put the cursors there <,> I simply press
+D <,> <w> it'll </w> come there <,,>
+
+<ICE-IND:S2A-053#176:1:A>
+So <w> it's </w> over a larger period <,,>
+
+<ICE-IND:S2A-053#177:1:A>
+But you can even analyse pitch pulse by pulse here <,,> pulse by
+pulse you can analyse here <,,>
+
+<ICE-IND:S2A-053#178:1:A>
+So <mention> ao </mention> <,> characteristics of different vowels
+<,> could be analysed <,> by looking at their formant characteristics <,,>
+</I>

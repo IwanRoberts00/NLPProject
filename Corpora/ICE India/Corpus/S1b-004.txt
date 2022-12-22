@@ -1,0 +1,1138 @@
+<I>
+
+<$A> 
+<ICE-IND:S1B-004#1:1:A>
+Now in this <,,> what happens we have to take <,,> ammonium
+chloride and <,> clay lime <,,> in the ratio of <,> three <-> is </-> to <,>
+two <,>
+
+<ICE-IND:S1B-004#2:1:A>
+What is the ratio ?
+
+<$CH> 
+<ICE-IND:S1B-004#3:1:C>
+Three <}> <-> into </-> <+> to </+> </}> two
+
+<$A> 
+<ICE-IND:S1B-004#4:1:A>
+Now this <,> I will arrange as <-> in </-> shown in the
+
+<$CH> 
+<ICE-IND:S1B-004#5:1:C>
+Figure
+
+<$A> 
+<ICE-IND:S1B-004#6:1:A>
+See in your figure <,,>
+
+<ICE-IND:S1B-004#7:1:A>
+Now we heat the test tube <,> and we pass it the gas is allowed to
+pass over <,,> this line tower
+
+<ICE-IND:S1B-004#8:1:A>
+Why <,> ?
+
+<ICE-IND:S1B-004#9:1:A>
+Because when it pass through line tower the <,,> ammonia becomes dry
+
+<ICE-IND:S1B-004#10:1:A>
+It helps in drying <,> <{> <[> ammonia </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#11:1:C>
+<[> Ammonia </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#12:1:A>
+Now as this gas is lighter than air <,> it is collected by <,>
+the gas jar is kept inverted over the <,,> <{> <[> line tower </[> <,> and
+the gas is collected
+
+<$CH> 
+<ICE-IND:S1B-004#13:1:C>
+<[> Line tower </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#14:1:A>
+Have you understood ?
+
+<$CH> 
+<ICE-IND:S1B-004#15:1:C>
+Yes
+
+<$A> 
+<ICE-IND:S1B-004#16:1:A>
+Now we take <,> this is <-> by </-> we collect by the downward
+displacement of
+
+<$CH> 
+<ICE-IND:S1B-004#17:1:C>
+Air
+
+<$A> 
+<ICE-IND:S1B-004#18:1:A>
+Now we check some of the <,> physical and chemical properties
+of the <,> gas <,,>
+
+<ICE-IND:S1B-004#19:1:A>
+Now first physical property
+
+<ICE-IND:S1B-004#20:1:A>
+We see that <,> it <}> <-> is </-> <,> <=> has </=> </}> no colour
+<,,>
+
+<ICE-IND:S1B-004#21:1:A>
+Inside is colourless <{> <[> gas </[>
+
+<$CH> 
+<ICE-IND:S1B-004#22:1:C>
+<[> Gas </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#23:1:A>
+Then the smell is strong <,,>
+
+<ICE-IND:S1B-004#24:1:A>
+It has a <{> <[> high strong smell </[>
+
+<$CH> 
+<ICE-IND:S1B-004#25:1:C>
+<[> High strong smell </[> </{>
+
+<$S> 
+<ICE-IND:S1B-004#26:1:S>
+Teacher <&> noise </&>
+
+<$A> 
+<ICE-IND:S1B-004#27:1:A>
+Then <,,>
+
+<ICE-IND:S1B-004#28:1:A>
+So we can say <,>
+
+<ICE-IND:S1B-004#29:1:A>
+What can we say about the smell that it is the pungent <{> <[>
+smell </[>
+
+<$CH> 
+<ICE-IND:S1B-004#30:1:C>
+<[> Smell </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#31:1:A>
+<}> <-> What </-> <=> how </=> </}> it <-> is </-> smell ?
+
+<$CH> 
+<ICE-IND:S1B-004#32:1:C>
+Pungent smell <,,>
+
+<$A> 
+<ICE-IND:S1B-004#33:1:A>
+Then the next property is <,,> it is lighter than air
+
+<ICE-IND:S1B-004#34:1:A>
+We have seen in collection of <,> when we are collecting the gas
+<,> we are collecting by the downward displacement of <,> <{> <[> air </[>
+
+<$CH> 
+<ICE-IND:S1B-004#35:1:C>
+<[> Air </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#36:1:A>
+So it is naturally <{> <[> lighter than air </[>
+
+<$CH> 
+<ICE-IND:S1B-004#37:1:C>
+<[> Lighter than air </[> </{> <&> noise </&>
+
+<$A> 
+<ICE-IND:S1B-004#38:1:A>
+Now this gas <,> is also soluble in water
+
+<ICE-IND:S1B-004#39:1:A>
+How <+> can </+> we check <,> ?
+
+<ICE-IND:S1B-004#40:1:A>
+Take <,,> water <,> and drift the gas <,> which is coming out <,>
+
+<ICE-IND:S1B-004#41:1:A>
+We see that <,> the gas easily dissolves in water and <,,> hence we
+say that <,> the gas is <{> <[> soluble in water </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#42:1:C>
+<[> Soluble in water </[> </{> <&> noise </&>
+
+<$A> 
+<ICE-IND:S1B-004#43:1:A>
+Now this gas <,,> will neither support <,> <{1> <[1>
+cumbustion </[1> nor <,> it will <{2> <[2> burn </[2> itself
+
+<$CH> 
+<ICE-IND:S1B-004#44:1:C>
+<[1> Combustion </[1> </{1>
+
+<$CH> 
+<ICE-IND:S1B-004#45:1:C>
+<[2> Burn </[2> </{2>
+
+<$A> 
+<ICE-IND:S1B-004#46:1:A>
+So it is not a combustible substance <,> nor it is supporting
+<,> <{> <[> combustion </[>
+
+<$CH> 
+<ICE-IND:S1B-004#47:1:C>
+<[> Combustion </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#48:1:A>
+Means the candle will go <,> <{> <[> off </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#49:1:C>
+<[> Off </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#50:1:A>
+Now this gas can be easily liquidified
+
+<ICE-IND:S1B-004#51:1:A>
+On cooling you can liquidify <,>
+
+<ICE-IND:S1B-004#52:1:A>
+This make into or turn into <,> liquid <,> and it can be compressed
+<,>
+
+<ICE-IND:S1B-004#53:1:A>
+Now have you understood the physical properties ?
+
+<$CH> 
+<ICE-IND:S1B-004#54:1:C>
+Yes
+
+<$A> 
+<ICE-IND:S1B-004#55:1:A>
+Or no ?
+
+<$CH> 
+<ICE-IND:S1B-004#56:1:C>
+Yes <,,>
+
+<$A> 
+<ICE-IND:S1B-004#57:1:A>
+Now this <,,> we see the chemical properties of the <,> gas
+<,>
+
+<ICE-IND:S1B-004#58:1:A>
+Ammonia when combined <,> with water <,> you get ammonium hydroxide
+<,>
+
+<ICE-IND:S1B-004#59:1:A>
+What <+> do </+> you get ?
+
+<ICE-IND:S1B-004#60:1:A>
+<{> <[> Ammonium hydroxide </[>
+
+<$CH> 
+<ICE-IND:S1B-004#61:1:C>
+<[> Ammonium hydroxide </[> </{> <,>
+
+<$A> 
+<ICE-IND:S1B-004#62:1:A>
+The formula for ammoniun hydroxide is Na <sb> four</sb> <,>
+<{> <[> O H </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-004#63:1:C>
+<[> O H </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#64:1:A>
+N H <sb> four</sb> <{> <[> O H </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#65:1:C>
+<[> O H </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#66:1:A>
+What is the formula for ammonium hydroxide ?
+
+<$CH> 
+<ICE-IND:S1B-004#67:1:C>
+N H <sb> four</sb> O H <,,>
+
+<$A> 
+<ICE-IND:S1B-004#68:1:A>
+Now this <,> when a <O> one or two words </O> <,> takes in <,>
+hydrochloric acid <,> is taken here <,> the jar we see that <,> white fumes
+<,> of ammonium chloride <,> are <,> seen <,,>
+
+<ICE-IND:S1B-004#69:1:A>
+Means what ?
+
+<ICE-IND:S1B-004#70:1:A>
+Ammonia react with <{1> <[1> hydrochloric gas </[1> <,> to form <,>
+<{2> <[2> ammonium chloride </[2> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#71:1:C>
+<[1> Hydrochloric gas </[1> </{1>
+
+<$CH> 
+<ICE-IND:S1B-004#72:1:C>
+<[2> Ammonium chloride </[2> </{2>
+
+<$A> 
+<ICE-IND:S1B-004#73:1:A>
+Now once again we repeat the <,> physical <,> <{> <[>
+properties </[>
+
+<$CH> 
+<ICE-IND:S1B-004#74:1:C>
+<[> Properties </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#75:1:A>
+Can anyone tell all the physical properties <,,> ?
+
+<$S> 
+<ICE-IND:S1B-004#76:1:S>
+Ammonia is a <,> uh colourless gas <,>
+
+<ICE-IND:S1B-004#77:1:S>
+It is lighter than air
+
+<ICE-IND:S1B-004#78:1:S>
+It is <,> it is highly soluble in water <,,> <&> noise </&>
+
+<$A> 
+<ICE-IND:S1B-004#79:1:A>
+Come on next property Bhushan ?
+
+<$S> 
+<ICE-IND:S1B-004#80:1:S>
+Ammonia is colourless gas
+
+<ICE-IND:S1B-004#81:1:S>
+Uh <,> it has <,> uh sharp pungent uh <,> irritating odour <,>
+
+<ICE-IND:S1B-004#82:1:S>
+It is lighter than air
+
+<ICE-IND:S1B-004#83:1:S>
+It is soluble in water <,>
+
+<ICE-IND:S1B-004#84:1:S>
+Uh it can be liquidified by cooling in low pressure <,,>
+
+<ICE-IND:S1B-004#85:1:S>
+It is combustible in air and uh it is not <,>
+
+<$A> 
+<ICE-IND:S1B-004#86:1:A>
+It is combustible in air <,,> ?
+
+<ICE-IND:S1B-004#87:1:A>
+It is
+
+<$CH> 
+<ICE-IND:S1B-004#88:1:C>
+It is not combustible in air
+
+<$A> 
+<ICE-IND:S1B-004#89:1:A>
+Neither it supports <,>
+
+<$CH> 
+<ICE-IND:S1B-004#90:1:C>
+Combustion
+
+<$A> 
+<ICE-IND:S1B-004#91:1:A>
+Sit down <,,>
+
+<ICE-IND:S1B-004#92:1:A>
+Now the chemical first chemical property <,>
+
+<ICE-IND:S1B-004#93:1:A>
+Yes Priyadarshan <,> ?
+
+<$S> 
+<ICE-IND:S1B-004#94:1:S>
+Ammonia gas is basic <,,>
+
+<$A> 
+<ICE-IND:S1B-004#95:1:A>
+Okay and how will you can you say that ammonia gas is basic
+<,,> ?
+
+<ICE-IND:S1B-004#96:1:A>
+It turns <,> <{> <[> red litmus to blue </[>
+
+<$CH> 
+<ICE-IND:S1B-004#97:1:C>
+<[> Red litmus to blue </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#98:1:A>
+Okay next property <,> ?
+
+<ICE-IND:S1B-004#99:1:A>
+Asha <,,> ?
+
+<$S> 
+<ICE-IND:S1B-004#100:1:S>
+It reacts with water and forms ammonium hydroxide
+
+<$A> 
+<ICE-IND:S1B-004#101:1:A>
+It reacts with water and forms <{> <[> ammonium hydroxide
+</[>
+
+<$CH> 
+<ICE-IND:S1B-004#102:1:C>
+<[> Ammonium hydroxide </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#103:1:A>
+What is the formula for ammonium hydroxide ?
+
+<ICE-IND:S1B-004#104:1:A>
+You <,> Kapil <,,> ?
+
+<$S> 
+<ICE-IND:S1B-004#105:1:S>
+N H <sb> three</sb> plus uh <,>
+
+<$S1> 
+<ICE-IND:S1B-004#106:1:S>
+No teacher <,>
+
+<$A> 
+<ICE-IND:S1B-004#107:1:A>
+No ?
+
+<$S2> 
+<ICE-IND:S1B-004#108:1:S>
+N H <sb> four</sb>
+
+<$CH> 
+<ICE-IND:S1B-004#109:1:C>
+Four A <,>
+
+<$A> 
+<ICE-IND:S1B-004#110:1:A>
+What is the formula for uh ammonium hydroxide ?
+
+<$CH> 
+<ICE-IND:S1B-004#111:1:C>
+N H <sb> four</sb> O H <,,>
+
+<$A> 
+<ICE-IND:S1B-004#112:1:A>
+Now the gas when kept with turmeric paper <,,> the turmeric
+paper turns
+
+<$S> 
+<ICE-IND:S1B-004#113:1:S>
+Yellow
+
+<$S1> 
+<ICE-IND:S1B-004#114:1:S>
+Brown
+
+<$S2> 
+<ICE-IND:S1B-004#115:1:S>
+Brown <,>
+
+<$A> 
+<ICE-IND:S1B-004#116:1:A>
+The yellow colour <,> <{> <[> change to brown </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#117:1:C>
+<[> Change to brown </[> </{> <&> noise </&>
+
+<$A> 
+<ICE-IND:S1B-004#118:1:A>
+Now we see the next property <,>
+
+<ICE-IND:S1B-004#119:1:A>
+You take the mixture of ammonium chloride <,> and make lines <,>
+and put it in a dry <,> test tube <,>
+
+<ICE-IND:S1B-004#120:1:A>
+Now just insert a hot platinium <,> <{> <[> wire </[> <,> into it
+<,>
+
+<ICE-IND:S1B-004#121:1:A>
+Now the hot wire will supply <,> heat to the <,> mixture <,>
+
+<ICE-IND:S1B-004#122:1:A>
+Yes <,,>
+
+<ICE-IND:S1B-004#123:1:A>
+And it reacts
+
+<ICE-IND:S1B-004#124:1:A>
+Platinium is acting as a catalyst
+
+<ICE-IND:S1B-004#125:1:A>
+Now what do you mean by the word catalyst ?
+
+<$CH> 
+<ICE-IND:S1B-004#126:1:C>
+<[> Wire </[> </{>
+
+<$CH> 
+<ICE-IND:S1B-004#127:1:C>
+A substance which helps in chemical reaction <,>
+
+<$A> 
+<ICE-IND:S1B-004#128:1:A>
+One at a time <,,>
+
+<ICE-IND:S1B-004#129:1:A>
+The substance which helps in <{> <[> increasing the rate of
+reaction but does not take part in the chemical reaction </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#130:1:C>
+<[> Increasing the rate of reaction but does not take part
+in the chemical reaction </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#131:1:A>
+So what happens <,> this gas oxidised to <,,> colourless
+nitric oxide <,> gas <,>
+
+<ICE-IND:S1B-004#132:1:A>
+Ammonia gas oxidised <,> to colourless nitric oxide gas <,>
+
+<ICE-IND:S1B-004#133:1:A>
+The nitric oxide further combines with <,> <{> <[> oxygen <,>
+oxygen and from air and it becomes <,> firm <,,> reddish <{> <[> brown <,>
+coloured <,> nitrogen dioxide </[> <,,>
+
+<$S> 
+<ICE-IND:S1B-004#134:1:S>
+<[> Oxygen </[> </{>
+
+<$S> 
+<ICE-IND:S1B-004#135:1:S>
+<[> Brown coloured nitrogen dioxide </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#136:1:A>
+This nitrogen dioxide fumes <,> are seen in the <{> <[> test
+tube </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-004#137:1:C>
+<[> Test tube </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#138:1:A>
+So yes what happens when clay lime and ammonium chloride <}>
+<-> mixed in a </-> <,> <=> taken in a </=> </}> dry test tube <,> ?
+
+<ICE-IND:S1B-004#139:1:A>
+When a hard platinium <,> wire is <,,> inserted <,,> when a hard
+platinum wire is inserted ammonia gets oxidised <,> to form nitric oxide <,,>
+
+<ICE-IND:S1B-004#140:1:A>
+This nitric oxide <,> further takes oxygen from air <,> and you
+get brown fumes of nitrogen <{> <[> dioxide </[>
+
+<$CH> 
+<ICE-IND:S1B-004#141:1:C>
+<[> Dioxide </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#142:1:A>
+Here platinium wire is acting as a <,> <{> <[> catalyst </[>
+<,>
+
+<$CH> 
+<ICE-IND:S1B-004#143:1:C>
+<[> Catalyst </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#144:1:A>
+So can anyone repeat the point <,,>
+
+<ICE-IND:S1B-004#145:1:A>
+Yes Uma <,> ?
+
+<$S> 
+<ICE-IND:S1B-004#146:1:S>
+Hot platinium wire is inserted in the mixture <,> of <,,>
+ammonium chloride and clay lime
+
+<ICE-IND:S1B-004#147:1:S>
+Then hot uh <,> then ammonia gas is oxidised <,> into nitric <.>
+ox </.> <,> nitric oxide
+
+<ICE-IND:S1B-004#148:1:S>
+Nitric oxide takes oxygen from the air <,> and <,> that <,,> and
+red brown fumes of nitrogen oxide we get <,>
+
+<$A> 
+<ICE-IND:S1B-004#149:1:A>
+Okay <,>
+
+<ICE-IND:S1B-004#150:1:A>
+Now you please sit down <,,>
+
+<ICE-IND:S1B-004#151:1:A>
+Now we see the third property <,> that <&> BB-Work </&> cold
+concentrated hydrochloric acid <,,> is taken <,> in a test tube and the
+ammonia gas <,> is passed over it <,>
+
+<ICE-IND:S1B-004#152:1:A>
+It combines uh <,> reacts with the acid <,> and forms crystals of
+<,> ammonium <{> <[> chloride </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-004#153:1:C>
+<[> Chloride </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#154:1:A>
+It <,,> forms crystals of <{> <[> ammonium chloride </[>
+
+<$CH> 
+<ICE-IND:S1B-004#155:1:C>
+<[> Ammonium chloride </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#156:1:A>
+So N H <sb> three</sb> <,,> plus H Cl gives you <,> <{> <[> N
+H <sb> four</sb> Cl </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-004#157:1:C>
+<[> N H <sb> four</sb> Cl </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#158:1:A>
+Have you understood ?
+
+<$CH> 
+<ICE-IND:S1B-004#159:1:C>
+Yes <,>
+
+<$A> 
+<ICE-IND:S1B-004#160:1:A>
+Means it readily combines with H Cl <,> forming crystals of
+<,> <{> <[> ammonium chloride </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#161:1:C>
+<[> Ammonium chloride </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#162:1:A>
+Can anyone repeat the properties <,,> ?
+
+<$S> 
+<ICE-IND:S1B-004#163:1:S>
+Ammonium uh uh <,> reacts with
+
+<$A> 
+<ICE-IND:S1B-004#164:1:A>
+Ammonia reacts with <,> ?
+
+<$S> 
+<ICE-IND:S1B-004#165:1:S>
+Ammonium uh uh <,>
+
+<$S1> 
+<ICE-IND:S1B-004#166:1:S>
+Ammonium reacts with the oxygen two times only this much
+
+<$S> 
+<ICE-IND:S1B-004#167:1:S>
+Ammonium reacts with the H Cl forming crystals of ammonium
+chloride <,,>
+
+<$A> 
+<ICE-IND:S1B-004#168:1:A>
+And tell the equation <{> <[> N H <sb> three</sb> </[>
+
+<$S> 
+<ICE-IND:S1B-004#169:1:S>
+<[> N H <sb> three</sb> </[> </{> plus H Cl <,> gives you N H
+<sb> four</sb> Cl
+
+<$A> 
+<ICE-IND:S1B-004#170:1:A>
+Sit down <,,> <&> noise </&>
+
+<ICE-IND:S1B-004#171:1:A>
+Now we see that <,> this ammonia reacts with <,,> cold
+concentrated sulphuric acid <,> and <,,> nitric acid <,>
+
+<ICE-IND:S1B-004#172:1:A>
+So take <,,> sulphuric acid in one test tube and nitric acid in
+<,> <{> <[> another test tube </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-004#173:1:C>
+<[> Another test tube </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#174:1:A>
+Pass ammonia gas through <,> this test tube <,>
+
+<ICE-IND:S1B-004#175:1:A>
+We see that it reacts with sulphuric acid giving you ammonium
+sulphate <,> crystals of ammonium sulphate <,> and it reacts with <,,> nitric
+acid giving you ammonium <,> <{> <[> nitrate <,> nitrate <,>
+
+<$CH> 
+<ICE-IND:S1B-004#176:1:C>
+<[> Nitrate </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#177:1:A>
+So which should which <,> can you <}> <-> tell me the </->
+<=> summarize </=> </}> <-> of </-> the property <,> that it gives salt it
+forms salt with when it reacts with its <,> acid the <,,> respective salts
+are formed
+
+<ICE-IND:S1B-004#178:1:A>
+Have you understood ?
+
+<$S> 
+<ICE-IND:S1B-004#179:1:S>
+Yes <,,>
+
+<$A> 
+<ICE-IND:S1B-004#180:1:A>
+Now see this <.> chlo </.> hydrochloric acid it is forming
+<,> chloride <,> ammonium chloride
+
+<ICE-IND:S1B-004#181:1:A>
+With sulphuric acid it is forming sulphate ammonium <{> <[>
+sulphate </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#182:1:C>
+<[> Sulphate </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#183:1:A>
+With <,> <{1> <[1> nitric </[1> acid it is forming <{2> <[2>
+ammonium nitrate </[2> <,>
+
+<$CH> 
+<ICE-IND:S1B-004#184:1:C>
+<[1> Nitric </[1> </{1>
+
+<$CH> 
+<ICE-IND:S1B-004#185:1:C>
+<[2> Ammonium nitrate </[2> </{2>
+
+<$A> 
+<ICE-IND:S1B-004#186:1:A>
+Can anyone repeat these three properties <,,> <&> noise </&>
+
+<ICE-IND:S1B-004#187:1:A>
+Yes Samir <,,> ?
+
+<$S> 
+<ICE-IND:S1B-004#188:1:S>
+The <,,> the ammonium reacts with <,> hydrochloric acid to
+form <,> and <,,> to form ammonium chloride <,> and it reacts with <,,>
+sulphuric acid to form ammonium sulphate and it <.> re </.> reacts with <,>
+uh <.> nit </.> nitric acid to form ammonium nitrate <,,>
+
+<$A> 
+<ICE-IND:S1B-004#189:1:A>
+So any difficulty to you <,> ?
+
+<$CH> 
+<ICE-IND:S1B-004#190:1:C>
+No <,>
+
+<$A> 
+<ICE-IND:S1B-004#191:1:A>
+Or you have not understood ?
+
+<$CH> 
+<ICE-IND:S1B-004#192:1:C>
+Yes we have understood <,>
+
+<$A> 
+<ICE-IND:S1B-004#193:1:A>
+So then <,,> we see the next property <,>
+
+<ICE-IND:S1B-004#194:1:A>
+When ammonia gas <,,> is slowly passed <,> through copper sulphate
+solution <,,> what happens ?
+
+<ICE-IND:S1B-004#195:1:A>
+A bluish white precipitate <,,> is formed <,,>
+
+<ICE-IND:S1B-004#196:1:A>
+A bluish white precipitate of <,> copper hydroxide <,> is formed
+<,>
+
+<ICE-IND:S1B-004#197:1:A>
+And when more <,> ammonia gas is passed <,> this precipitate
+dissolves in <,> the excess of ammonia and a solution <,> of deep colour <,>
+blue colour is formed <,,>
+
+<ICE-IND:S1B-004#198:1:A>
+Precipitate means <,>
+
+<ICE-IND:S1B-004#199:1:A>
+What do you mean by precipitate ?
+
+<ICE-IND:S1B-004#200:1:A>
+The residue which is remaining at the <,> bottom <,>
+
+<ICE-IND:S1B-004#201:1:A>
+The residue or the <,> substance which remains at the <{> <[>
+bottom </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-004#202:1:C>
+<[> Bottom </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#203:1:A>
+Now see here <,> when <,> ammonia is passed through copper
+sulphate <,> you get a bluish white precipitate <,>
+
+<ICE-IND:S1B-004#204:1:A>
+But when more ammonia is added <,> this precipitate dissolves with
+<,> and you get uh <.> da </.> deep blue colour solution <,>
+
+<ICE-IND:S1B-004#205:1:A>
+Have you understood ?
+
+<$CH> 
+<ICE-IND:S1B-004#206:1:C>
+Yes <,>
+
+<$A> 
+<ICE-IND:S1B-004#207:1:A>
+So when you pass more <,,> ammonia the precipitate <.> divo
+</.> dissolves and you get deep blue colour <,> solution <,,>
+
+<ICE-IND:S1B-004#208:1:A>
+Can anyone <,,> summarize <,> the properties <,,> ?
+
+<ICE-IND:S1B-004#209:1:A>
+Summarize means tell in short <,,>
+
+<ICE-IND:S1B-004#210:1:A>
+All the properties <,> or one property uh one student <,>
+
+<$S> 
+<ICE-IND:S1B-004#211:1:S>
+The <.> che </.> <,> the chemical properties of ammonia are
+<,> ammonia gas is basic <,> which reacts with water and form <,> ammonium
+hydroxide <,>
+
+<ICE-IND:S1B-004#212:1:S>
+It burns in atmosphere oxygen with <,> yellow flame <,,>
+
+<ICE-IND:S1B-004#213:1:S>
+It combines with hydrogen chloride to form ammonium chloride <,,>
+
+<ICE-IND:S1B-004#214:1:S>
+It combines with oxygen in the presence of a catalyst to form
+nitric oxide <,>
+
+<ICE-IND:S1B-004#215:1:S>
+It gives phosphate acid <,,>
+
+<ICE-IND:S1B-004#216:1:S>
+Ammonia reacts with the solution of salts of nitric to form
+precipitate of that oxide <,>
+
+<$A> 
+<ICE-IND:S1B-004#217:1:A>
+So have you understood the chemical properties <,> of ammonia ?
+
+<$CH> 
+<ICE-IND:S1B-004#218:1:C>
+Uh yes <,,>
+
+<$A> 
+<ICE-IND:S1B-004#219:1:A>
+Now we see <,,> the uses of <,> ammonia <,,>
+
+<ICE-IND:S1B-004#220:1:A>
+Now first it is used in manufacturing
+
+<ICE-IND:S1B-004#221:1:A>
+Manufaturing means <,> making of washing soda <,> and <{> <[>
+sodium bi-carbonate </[>
+
+<$CH> 
+<ICE-IND:S1B-004#222:1:C>
+<[> Sodium bi-carbonate </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#223:1:A>
+And also in nitric <,> <{> <[> acid </[>
+
+<$CH> 
+<ICE-IND:S1B-004#224:1:C>
+<[> Acid </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#225:1:A>
+Now last year we had seen how ammonia is used in preparing
+nitric acid when we were studying <,> acid <,>
+
+<ICE-IND:S1B-004#226:1:A>
+Now washing soda and sodium bicarbonate are different <,>
+
+<ICE-IND:S1B-004#227:1:A>
+The formula for washing soda is sodium carbonate Na <sb> two</sb>
+C O <{> <[> <sb> three</sb> </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-004#228:1:C>
+<[> Three </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#229:1:A>
+And for sodium bicarbonate it is <{> <[> Na H C O <sb>
+three</sb> </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-004#230:1:C>
+<[> Na H C O <sb> three</sb> </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#231:1:A>
+Now this sodium bicarbonate is used in <,> preparing food or
+<,> making the substance porous <,>
+
+<ICE-IND:S1B-004#232:1:A>
+While washing soda is used in <,> <.> ma </.> washing clothes <,,>
+
+<ICE-IND:S1B-004#233:1:A>
+Big clothes <,> or blankets
+
+<ICE-IND:S1B-004#234:1:A>
+This washing soda is <,> <{> <[> used </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#235:1:C>
+<[> Used </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#236:1:A>
+Now it is used in <,> uh manufacturing of fertilisers like
+ammonium phosphate <,> ammonium sulphate <,> and urea <,>
+
+<ICE-IND:S1B-004#237:1:A>
+Now these fertilisers <,> help <,> in increasing the food crop of
+<,,> uh by adding fertiliser what happens the quality and the quantity of the
+food crop or the grains <,> increases <,>
+
+<ICE-IND:S1B-004#238:1:A>
+So these are used ammonium is used in <,> as a fertiliser <,> so
+that we can get more yield of <,> crop <,,> <&> noise </&>
+
+<ICE-IND:S1B-004#239:1:A>
+Now ammonia is also used in <,> medicine <,,>
+
+<ICE-IND:S1B-004#240:1:A>
+Now solution of ammonia <,,> is used in laboratory as a reagent
+<,>
+
+<ICE-IND:S1B-004#241:1:A>
+Now what do you mean by the word reagent <,,> ?
+
+<ICE-IND:S1B-004#242:1:A>
+What do you mean by the word reagent ?
+
+<$S> 
+<ICE-IND:S1B-004#243:1:S>
+Fooding agent <,,> which <,,>
+
+<$S1> 
+<ICE-IND:S1B-004#244:1:S>
+A substance which helps in chemical reaction <,>
+
+<$A> 
+<ICE-IND:S1B-004#245:1:A>
+A substance which is helping in <{1> <[1> chemical reaction
+</[1> is called as a <{2> <[2> reagent </[2> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#246:1:C>
+<[1> Chemical reaction </[1>
+
+<$CH> 
+<ICE-IND:S1B-004#247:1:C>
+<[2> Reagent </[2> </{2>
+
+<$A> 
+<ICE-IND:S1B-004#248:1:A>
+Now this <,> liquid ammonia is also used as solvent
+
+<ICE-IND:S1B-004#249:1:A>
+We have seen what do you mean by solvent is <,,> in which the
+substance gets <{> <[> dissolved </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-004#250:1:C>
+<[> Dissolved </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#251:1:A>
+So that <,> solution in which the substance is getting
+dissolved is called as a <,> <{> <[> solvent </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#252:1:C>
+<[> Solvent </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#253:1:A>
+Now ammonia is also used as a <,> solvent <,>
+
+<ICE-IND:S1B-004#254:1:A>
+Some substance get dissolved in <,> ammonia <,,>
+
+<ICE-IND:S1B-004#255:1:A>
+Now any difficulty in chemical properties <,> and uses of ammonia ?
+
+<$CH> 
+<ICE-IND:S1B-004#256:1:C>
+No <,,> <&> noise </&>
+
+<$A> 
+<ICE-IND:S1B-004#257:1:A>
+Now just <,,> answer the questions orally <,,> <&> noise </&>
+
+<ICE-IND:S1B-004#258:1:A>
+Describe the laboratory of <,> ?
+
+<ICE-IND:S1B-004#259:1:A>
+What are the chemicals <,> used in <,> preparing ammonia <,,> by
+laboratory method <,> ?
+
+<ICE-IND:S1B-004#260:1:A>
+Yes <,> ?
+
+<$S> 
+<ICE-IND:S1B-004#261:1:S>
+Uh <,> in laboratry methods <,> uh ammonia ammonium chloride
+and clay lime is used <,,>
+
+<$A> 
+<ICE-IND:S1B-004#262:1:A>
+Ammonium chloride and <{> <[> clay lime is used </[>
+
+<$CH> 
+<ICE-IND:S1B-004#263:1:C>
+<[> Clay lime is used </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#264:1:A>
+What is the ratio of <,,> the <,> mixture <,,> ?
+
+<$S> 
+<ICE-IND:S1B-004#265:1:S>
+The ratio of uh the mixture is three is to two <,>
+
+<$S1> 
+<ICE-IND:S1B-004#266:1:S>
+Three is to two <,,>
+
+<$A> 
+<ICE-IND:S1B-004#267:1:A>
+What is done to the mixture <,> ?
+
+<$S> 
+<ICE-IND:S1B-004#268:1:S>
+The mixture is heated <,>
+
+<$A> 
+<ICE-IND:S1B-004#269:1:A>
+The mixture is <{> <[> heated </[>
+
+<$CH> 
+<ICE-IND:S1B-004#270:1:C>
+<[> Heated </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#271:1:A>
+What comes <,> out <,> of the tube <,,> ?
+
+<$S> 
+<ICE-IND:S1B-004#272:1:S>
+The ammonia gas comes out <,,>
+
+<$A> 
+<ICE-IND:S1B-004#273:1:A>
+Through which it is passed <,,> ?
+
+<ICE-IND:S1B-004#274:1:A>
+Yes <,> ?
+
+<$S> 
+<ICE-IND:S1B-004#275:1:S>
+It is passed through delivery tube <,,>
+
+<$A> 
+<ICE-IND:S1B-004#276:1:A>
+To the line tower through the line tower
+
+<ICE-IND:S1B-004#277:1:A>
+It is passed through the <,> <{> <[> line tower </[>
+
+<$CH> 
+<ICE-IND:S1B-004#278:1:C>
+<[> Line tower </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#279:1:A>
+Why is it passed through the line tower <,,> ?
+
+<ICE-IND:S1B-004#280:1:A>
+Yes Ranjeet <,,> ?
+
+<$S> 
+<ICE-IND:S1B-004#281:1:S>
+To dry <,,>
+
+<$A> 
+<ICE-IND:S1B-004#282:1:A>
+To <,> <{> <[> dry the gas </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-004#283:1:C>
+<[> Dry the gas </[> </{>
+
+<$A> 
+<ICE-IND:S1B-004#284:1:A>
+How is the gas collected <,,> ?
+
+<ICE-IND:S1B-004#285:1:A>
+Yes ?
+
+<$S> 
+<ICE-IND:S1B-004#286:1:S>
+By the downward <,> uh downward displacement of jar <,>
+
+<$A> 
+<ICE-IND:S1B-004#287:1:A>
+So any difficulty in this
+
+<$CH> 
+<ICE-IND:S1B-004#288:1:C>
+No <,> </I>

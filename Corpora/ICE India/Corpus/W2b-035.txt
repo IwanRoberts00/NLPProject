@@ -1,0 +1,483 @@
+<I> <&> heading spread over page </&>
+
+<ICE-IND:W2B-035#1:1>
+<h> <bold> IRRADIATED FOODS </bold> </h> <&> centered on column two
+</&> <O> <&> writer </&> ANU SHETH </O> <&> centered on column two </&>
+
+<p> 
+<ICE-IND:W2B-035#2:1>
+<bold> Irradiated foods are <&> centered </&> safe for human <&>
+centered </&> consumption.
+
+<ICE-IND:W2B-035#3:1>
+But how <&> centered </&> viable they are for <&> centered </&>
+commercial <&> centered </&> exploitation in a <&> centered </&> developing
+country like <&> centered </&> Indiac ? </bold> </p> <&> column one </&>
+
+<p> 
+<ICE-IND:W2B-035#4:1>
+<bold> <smallcaps> ANY </smallcaps> </bold> method of food preservation,
+be it sterilizing, drying, freezing, canning or irradiation, aims at
+killing or rending sterile insect pests, reducing the level of bacterial
+contamination or in case of fruits and vegetables to prevent or delay their
+ripening, with the sole purpose of giving them a longer shelf-life. </p>
+
+<p> 
+<ICE-IND:W2B-035#5:1>
+Irradiation as a method of food preservation has been studied
+more extensively than any other method over the last three decades.
+
+<ICE-IND:W2B-035#6:1>
+However, despite the fact that it is a simple and safe technology, its
+acceptance and commercialization has been slow.
+
+<ICE-IND:W2B-035#7:1>
+One of the reasons is that a food irradiation facility entails
+considerable financial investment which the industry would <O> two
+photographs spread over column one to three, side by side </O> <O> caption
+</O> be reluctant to make when alternate chemical and physical preservation
+techniques are already in use.
+
+<ICE-IND:W2B-035#8:1>
+Other reasons are: the technology is still not fully accepted or even
+understood by many food technologists; it requires strict regulatory
+procedures; and the fear the public has of anything to do with <quote> `
+irradiation' </quote> .
+
+<ICE-IND:W2B-035#9:1>
+The main fears voiced are that irradiation will make the food
+radioactive, induce chemical changes in it, and the irradiation facility
+itself will pose a risk to workers and members of the public in case of an
+accident or even under normal conditions, although most of these fears are
+unfounded.
+
+<ICE-IND:W2B-035#10:1>
+Food irradiation, on the other hand, is a commercially viable and
+pollution-free technique of extending the shelf-life of many foods.
+
+<ICE-IND:W2B-035#11:1>
+But it does not imply that irradiation is the ideal solution.
+
+<ICE-IND:W2B-035#12:1>
+The biggest drawback in the marketing of irradiated food today is
+that foodstuffs after and before irradiation look identical and there is no
+simple or commercially viable test to determine if the food with a higher
+price tag claiming to be irradiated is actually so. </p>
+
+<p> 
+<ICE-IND:W2B-035#13:1>
+Although research in the area of food irradiation began in the US
+in the <w> 1940's </w> , it was only after the blanket clearance given by the
+joint FAO / IAEA / WHO ( Food and Agriculture Organization, International
+Atomic Energy Agency, World Health Organization) expert committee in
+1981 recommending that all foodstuffs irradiated up to 10 kGy ( Gy stands
+for gray, which is a measure of the absorbed energy ) could be used without
+any further toxicological or nutritional testing, that food irradiation
+programmes really opened up the world over. </p>
+
+<p> 
+<ICE-IND:W2B-035#14:1>
+The USSR was the first country to go into full-scale
+commercialization of irradiated food products.
+
+<ICE-IND:W2B-035#15:1>
+Others soon followed suit; Belgium, France, Netherlands and Canada
+have been irradiating fish and meat products; Japan, Hungary and Mexico,
+potatoes and onions; Argentina, Brazil, Denmark, France, Finland,
+Hungary, Norway, USA and Yugoslavia use irradiation to preserve species.
+
+<ICE-IND:W2B-035#16:1>
+To date 36 countries have cleared one or more irradiated food
+products for consumption and around 150 commercial food irradiating
+facilities are operating in 19 countries, including those used for
+sterilizing medical products. </p>
+
+<ICE-IND:W2B-035#17:1>
+<h> <bold> How irradiation is done </bold> </h>
+
+<p> 
+<ICE-IND:W2B-035#18:1>
+Food irradiation means exposing food to high-energy
+electromagnetic radiations such as X-rays and gamma rays or accelerated
+electron beams having energies up to 10 million electron volts ( Mev).
+
+<ICE-IND:W2B-035#19:1>
+By penetrating into the cells of micro-organisms, the radiations
+cause structural and functional changes in biomolecules leading to cell
+death.
+
+<ICE-IND:W2B-035#20:1>
+The effect is either direct, that is, the molecules absorb radiation
+energy causing self-destruction, or indirect, that is, the radiation is
+absorbed by other molecules which react with the cell constituents.
+
+<ICE-IND:W2B-035#21:1>
+Investigations suggest that the DNA of the cell is the prime target
+of these radiations but the precise mechanism by which DNA damage occurs is
+still not clear. </p>
+
+<p> 
+<ICE-IND:W2B-035#22:1>
+Bothe X-ray/gamma ray and electron beam methods have their
+advantages and disadvantages.
+
+<ICE-IND:W2B-035#23:1>
+Electron beams are safer since they do not involve transport of
+radioactive material.
+
+<ICE-IND:W2B-035#24:1>
+They can be directed to the target and turned off for repair or
+maintenance work.
+
+<ICE-IND:W2B-035#25:1>
+However, the method is expensive and the electrons have a low
+penetrating <O> <&> page </&> 49 </O> <O> two tables side by side, across
+page 50 </O> <O> captions </O> power.
+
+<ICE-IND:W2B-035#26:1>
+So they can be used for irradiating a thin layer of food, for
+example, grain on a conveyor belt. </p>
+
+<p> 
+<ICE-IND:W2B-035#27:1>
+On the other hand, X-rays and gamma rays have a high-penetrating
+power, but the former are again expensive and not used in food
+irradiation.
+
+<ICE-IND:W2B-035#28:1>
+Although many experts feel that the future of food irradiation lies
+with electron beams, the choice today seems to be gamma rays, which
+require strict precautions since they are emitted in all directions from a
+radioactive source.
+
+<ICE-IND:W2B-035#29:1>
+The radioactive nuclides, cobalt-60 and caesium-137 have been
+selected internationally as gamma ray sources, taking into account their
+economics, availability and safety.
+
+<ICE-IND:W2B-035#30:1>
+Neither of the nuclides gives rise to any gaseous intermediates as
+they decay, which is important since the radioactive source is encapsulated
+in a stainless steel rod and welded. </p> <O> photograph </O> <O> caption
+</O>
+
+<ICE-IND:W2B-035#31:1>
+<h> <bold> Where irradiation is required </bold> </h>
+
+<p> 
+<ICE-IND:W2B-035#32:1>
+All foods are not amenable to irradiation processing.
+
+<ICE-IND:W2B-035#33:1>
+For instance, milk, eggs and high-fat-foods are not to be treated
+with gamma radiation.
+
+<ICE-IND:W2B-035#34:1>
+Being a need-based technology, it is used only when economically
+advantageous. </p>
+
+<p> 
+<ICE-IND:W2B-035#35:1>
+Irradiation is used to delay the sprouting of onions and potatoes
+and the ripening of fruits and vegetables, kill or render sterile insect
+pests and reduce bacterial contamination.
+
+<ICE-IND:W2B-035#36:1>
+Irradiation followed by storage at 15 <sp> o</sp> C enables
+long-term storage of potatoes and is a cheaper alternative to storing
+under-refrigerated conditions.
+
+<ICE-IND:W2B-035#37:1>
+Onions also have to be stored under wellventilated conditions to
+prevent rotting.
+
+<ICE-IND:W2B-035#38:1>
+While the actual dosage used depends on the function to be carried
+out ( see Table. 1 ) , the energy of the gamma radiation is much below the
+level which can induce radioactivity, the main fear of the public.
+
+<ICE-IND:W2B-035#39:1>
+( Radiation sources, however, are widely used today in industrial
+radiographic cameras, nuclear medicine and X-ray units and nuclear power
+and research reac. tors.
+
+<ICE-IND:W2B-035#40:1>
+In fact, 65 per cent of the total radiation an average person is
+exposed to, is due to natural cosmic radiations, 33 per cent to medical
+radiations, 1 to 2 per cent from nuclear explosions and the remaining from
+the running of nuclear reactors. )
+
+<ICE-IND:W2B-035#41:1>
+In case of food irradiation there is no direct contact with the
+radioactive source and the food does not get contaminated just as a bag
+passing through an X-ray machine does not become radioactive. </p>
+
+<p> 
+<ICE-IND:W2B-035#42:1>
+Irradiation offers an alternative to the use of chemicals which
+leave behind toxic residues.
+
+<ICE-IND:W2B-035#43:1>
+Present measures taken to prevent losses in stored grains due to
+insect infestation include fumigation with chemical pesticides.
+
+<ICE-IND:W2B-035#44:1>
+It has been shown that irradiation of wheat is effective against all
+stages of insect life.
+
+<ICE-IND:W2B-035#45:1>
+It must be emphasized, however, that irradiation alone will not be
+not sufficient.
+
+<ICE-IND:W2B-035#46:1>
+In the absence of proper storage facilities and handling practices,
+reinfestation can occur.
+
+<ICE-IND:W2B-035#47:1>
+Evidence as to whether fungal infestations are affected by
+irradiation are confusing and conflicting.
+
+<ICE-IND:W2B-035#48:1>
+One study by the National Institute of Nutrition ( NIN ) ,
+Hyderabad, shows that irradiation of wheat leads to the production of
+aflatoxins, whereas many other studies indicate that at dosages required
+for insect disinfectations, there is a restricted growth of toxin producing
+fungi. </p>
+
+<p> 
+<ICE-IND:W2B-035#49:1>
+In another study, again by NIN, severely undernourished
+children who were fed freshly irradiated wheat developed a condition known
+as polyploidy, in which extra chromosomes are developed in the cells.
+
+<ICE-IND:W2B-035#50:1>
+A subsequent Chinese study did not find this problem and even in
+NIN, children who were fed irradiated wheat which had been stored for 12
+weeks did not show this condition. </p>
+
+<ICE-IND:W2B-035#51:1>
+<h> <bold> Cold process </bold> </h>
+
+<p> 
+<ICE-IND:W2B-035#52:1>
+An advantage of irradiation is that it is a cold process and does
+not increase the temperature of the food.
+
+<ICE-IND:W2B-035#53:1>
+This allows the processing of frozen foods such as fish and shrimps.
+
+<ICE-IND:W2B-035#54:1>
+Due to the highly penetrating nature of radiations, the food can
+be irradiated in pre-packed conditiions, thus avoiding recontamination.
+
+<ICE-IND:W2B-035#55:1>
+India today exports sea foods worth <indig> Rs. </indig> 4,000
+million annually.
+
+<ICE-IND:W2B-035#56:1>
+Many of these consignments get rejected due to contamination with
+salmonella from frozen sea food.
+
+<ICE-IND:W2B-035#57:1>
+It has been shown that irradiation at four to five kGy eliminates
+salmonella in frozen sea food.
+
+<ICE-IND:W2B-035#58:1>
+It is perhaps to combat these endemic levels of salmonella in sea
+food and chicken that irradiation can be used.
+
+<ICE-IND:W2B-035#59:1>
+One can very well argue that salmonella can however can be controlled
+by increased levels of hygiene and irradiation should not be used as a
+cover for <O> <&> page </&> 50 </O> this.
+
+<ICE-IND:W2B-035#60:1>
+But after realizing the efficiency of irradiation, the US and UK
+governments have cleared irradiation of poultry and seafoods recently.
+</p>
+
+<p> 
+<ICE-IND:W2B-035#61:1>
+Spices often get contaminated with bacteria, moulds and insects.
+
+<ICE-IND:W2B-035#62:1>
+They can be treated with fumigants like methyl bromide, ethylene
+oxide and propylene oxide.
+
+<ICE-IND:W2B-035#63:1>
+A single irradiation treatment at a dose of up to 10 kGy can also
+be used to decontaminate them under pre-packed conditions.
+
+<ICE-IND:W2B-035#64:1>
+Spices, especially black pepper, cardamom, ginger and turmeric,
+form a substantial part of <w> India's </w> exports to the USA, Europe and
+the Middle East.
+
+<ICE-IND:W2B-035#65:1>
+These countries have been processing the spices at the point of
+import by fumigation and in some cases with the emerging irradiation
+technique.
+
+<ICE-IND:W2B-035#66:1>
+With the banning of ethylene oxide the world over because <O>
+photograph across column one and two </O> <O> caption </O> it leaves toxic
+residues, and irradiation at a maximum of 10kGy having been cleared as being
+safe, the latter method is gaining popularity.
+
+<ICE-IND:W2B-035#67:1>
+The National Monitoring Agency ( NMA ) constituted by the
+Government of India to oversee all aspects of food irradiation has accorded
+clearance for the irradiation of onions, frozen seafoods and spices for
+export.
+
+<ICE-IND:W2B-035#68:1>
+It is proposing to build the first commercial irradiator in India for
+the processing of spices at Cochin.
+
+<ICE-IND:W2B-035#69:1>
+The facility is expected to take about two years for completion at a
+cost of approximately <indig> Rs. </indig> 12 million.
+
+<ICE-IND:W2B-035#70:1>
+The target market for the irradiated foods is the USA, UK and Europe.
+
+<ICE-IND:W2B-035#71:1>
+Although there is a market in Japan they will not accept food
+irradiated in any other country than their own. </p>
+
+<p> 
+<ICE-IND:W2B-035#72:1>
+As yet clearance has not been given for domestic consumption,
+since the standards such as labelling etc have not been finalized by the
+health ministry.
+
+<ICE-IND:W2B-035#73:1>
+Initially clearance will be given for onions, potatoes and spices.
+
+<ICE-IND:W2B-035#74:1>
+It is expected that the former two will cost about 10-15 <indig>
+paise </indig> per kg extra.
+
+<ICE-IND:W2B-035#75:1>
+For spices it will be more but these are expensive commodities
+anyway. </p>
+
+<p> 
+<ICE-IND:W2B-035#76:1>
+Fruits such as avocados, bananas, guavas, mangoes and pears
+irradiated in the mature but unripe state show a delay in ripening.
+
+<ICE-IND:W2B-035#77:1>
+This is attributed to the reduced sensitivity of the fruits to the
+action of the ripening harmones as well as the slowing down of the
+metabolic pathways.
+
+<ICE-IND:W2B-035#78:1>
+Although this would give them an extended shelf-life, how desirable
+this would be is debatable.
+
+<ICE-IND:W2B-035#79:1>
+( Since fresh-looking fruits and vegetables would not really be
+so. )
+
+<ICE-IND:W2B-035#80:1>
+Irradiation can and is being used as a quarantine treatment
+for papayas in the US and is known to kill the mango seed weevil, which at
+present inhibits us from exporting mangoes to the US and Japan. </p>
+
+<ICE-IND:W2B-035#81:1>
+<h> <bold> Capital intensive technology </bold> </h>
+
+<p> 
+<ICE-IND:W2B-035#82:1>
+Food irradiation is a capital intensive technology and the
+installation and running costs are extremely high.
+
+<ICE-IND:W2B-035#83:1>
+Furthermore, the facility must be utilized round the clock so as to
+make full use of an expensive, constantly decaying source.
+
+<ICE-IND:W2B-035#84:1>
+The capital and service costs for food irradiation processing, based
+on 1988 data evaluated by technical studies at BARC are shown in Table.2.
+</p>
+
+<p> 
+<ICE-IND:W2B-035#85:1>
+Costs abroad have been estimated as high as
+
+$ 2 to 4 million as an on site extension to a food processing plant.
+
+<ICE-IND:W2B-035#86:1>
+The food processing companies would therefore need to find a bulk
+market to justify the high capital costs.
+
+<ICE-IND:W2B-035#87:1>
+Whether or not a developing country like India should go in for such
+a capital intensive technology in the absence of proper storage
+facilities such as insect-proof bags and silos, refrigeration and an
+efficient transport system is arguable.
+
+<ICE-IND:W2B-035#88:1>
+The actual quantification of savings in food losses is a rather grey
+area, since true figures are often not available and even if known, not
+readily accepted by concerned agencies.
+
+<ICE-IND:W2B-035#89:1>
+The temptation to cheat and irradiate a badly contaminated product
+also exists and strict monitoring and control is necessary. </p>
+
+<p> 
+<ICE-IND:W2B-035#90:1>
+Since food is often irradiated in the pre-packed condition to
+avoid reinfestation, the packaging material should not be adversely
+affected by radiation leading to the contamination of food.
+
+<ICE-IND:W2B-035#91:1>
+An approved list of packaging materials suitable for radiation
+processing has been arrived at as a result of an extensive research in USA
+and Canada. </p>
+
+<p> 
+<ICE-IND:W2B-035#92:1>
+Another area where research is necessary is in monitoring the
+chemical effects of irradiation and comparing them with other changes that
+may take place in food.
+
+<ICE-IND:W2B-035#93:1>
+Although the radiation doses are well below the levels which produce
+radioactivity, knowledge of radioactivity produced at higher energies is
+still unsatisfactory.
+
+<ICE-IND:W2B-035#94:1>
+A fear expressed by some sections is that the process may not kill
+all the microorganisms.
+
+<ICE-IND:W2B-035#95:1>
+It is known that ionizing radiations are mutagenic and lethal for
+most bacteria.
+
+<ICE-IND:W2B-035#96:1>
+However, the proportion of a bacterial population surviving a dose
+of radiation depends on the species, the stage in its life-cycle, the amount
+of radiation damage and the ability of the damaged species to revive.
+
+<ICE-IND:W2B-035#97:1>
+It is feared that the surviving bacteria or their spores would grow
+and multiply without competition when other organisms have been killed and
+could produce toxins in food that appears edible due to the absence of
+spoilage organisms.
+
+<ICE-IND:W2B-035#98:1>
+The fact that some bacteria can mutate to form more resistant strains
+has been demonstrated under laboratory conditions. </p>
+
+<p> 
+<ICE-IND:W2B-035#99:1>
+Irradiation as a method of food preservation may not be the
+perfect solution for our country, but we may have to accept the fact that
+just as we cannot avoid the use of pesticides despite all the proven hazards,
+it may be impossible for us to avoid food irradiation in the near future,
+given the fact that when applied appropriately, it does not pose
+toxicological hazards, is clean and less energy consuming than other
+preservation methods. </p> <logos> </I>

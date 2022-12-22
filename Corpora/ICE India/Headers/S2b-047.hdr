@@ -1,0 +1,54 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2B-047</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Scripted:non-broadcast
+                   speeches</category>
+              <wordcount>2317</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2B-047>
+       <recording.data>
+              <date>15-01-95</date>
+              <time>11.00am</time>
+              <place>Dept: of Mathematics, Shivaji
+                   University</place>
+       </recording.data>
+              <organising.body>Shivaji
+                   University</organising.body>
+              <copyright.statement>reproduced by permission of
+                   the speaker</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-047</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Lecture
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size>40</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-047</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Kumbhojkar</surname>
+              <forenames>Harihar</forenames>
+              <age>54</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Ichalkaranji, Maharashtra</birthplace>
+              <education>Doctorate</education>
+              <occupation>University Teacher</occupation>
+              <affiliations>Indian Mathematical Society, New York
+                   Academy of Science, Maharashtra Academy of
+                   Science</affiliations>
+              <mother.tongue>Marathi</mother.tongue>
+              <other.languages>Hindi</other.languages>
+              <free.comments>Moved to Kanpur (1966-72), Pilani
+                   (1972-74), Kolhapur (1974 to
+                   date)</free.comments>
+       </biography>
+</text.info>

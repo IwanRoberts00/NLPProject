@@ -1,0 +1,51 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-015</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:story</caregory>
+            <wordcount>2334</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2F-015>
+       <source.type=periodical>
+            <source.title>Woman's era</source.title>
+            <source.subtitle></source.subtitle>
+       <publication.statement>
+            <publisher>Delhi Press Patra Prakashan
+              Ltd.</publisher>
+            <address>Delhi Press Samachar Patra (P) Ltd,
+              Sahibabad/Ghaziabad</address>
+            <place>New Delhi</place>
+            <date>October 1997</date>
+            <series>Fortnightly</series>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of the    
+         author and the Publisher</copyright.statement>
+       <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-015>
+       <subtext.name>ICE-IND-</subtext.name>
+            <main.title>A Change Of Heart</main.title>
+            <subtitle></subtitle>
+            <page.nos>60/62-65</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-015>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Podder</surname>
+            <forenames>Tanushree</forenames>
+            <age></age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+</text.info>

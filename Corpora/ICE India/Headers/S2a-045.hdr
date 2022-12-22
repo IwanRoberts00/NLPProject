@@ -1,0 +1,52 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-045</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2583</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-045>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>11-12-95</date>
+              <time>11.00am</time>
+              <place>Dept: of Mathematics, Shivaji
+                   University</place>
+       </recording.data>
+              <organising.body>UGC Refresher
+                   Course</organising.body>  
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-045</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Lecture
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size>30</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-045</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Paranjape</surname>
+              <forenames>Dr. Akalpita</forenames>
+              <age>42-49</age>
+              <gender>female</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Doctorate</education>
+              <occupation>Scientific Officer</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Marathi</mother.tongue>
+              <other.languages>Hindi</other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>
+

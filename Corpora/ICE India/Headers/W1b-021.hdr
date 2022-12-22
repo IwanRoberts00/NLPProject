@@ -1,0 +1,152 @@
+<text.info>
+       <file.description>
+                <textcode>ICE-IND-W1B-021</textcode>
+                <number.of.subtexts>002</number.of.subtexts>
+                <category>non-printed:correspondence:business
+                  letters</category>
+                <wordcount>1836</wordcount>
+                <version>lexical</version>
+                <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1B-021a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>04-07-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-021a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>29-06-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-021a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>01-06-95</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-021b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>04/06-02-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-021b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>24-05-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-021a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>18-10-96</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-021b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>21-10-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-021b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>11-12-92</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-021b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>04-08-92</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-021b>
+       <source.type=letter>
+                <format>typed</format>
+                <date>15-07-92</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1B-021</it>>
+            <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1B-021a(1-3 & 6)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Patil</surname>
+                <forenames>Jaykumar F.</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Samdoli, Sangli,
+                  Maharashtra</birthplace>
+                <education>Shivaji University</education>
+               
+<educational.level>Doctorate</educational.level>
+                <occupation>University Teacher</occupation>
+                <affiliations>Indian Society of Agricultural
+                  Economics</affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages>Hindi,
+Kannada</other.languages>
+                <free.comments>Moved to Kolhapur (1980 to
+                  date)</free.comments>
+       </biography>
+       <biography=<it>ICE-IND-W1B-021b(4, 5 & 7 to 10)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Doshi</surname>
+                <forenames>Ravindra R.</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Sangli, Maharashtra</birthplace>
+                <education>University of Pune</education>
+               
+<educational.level>Doctorate</educational.level>
+                <occupation>University Teacher</occupation>
+                <affiliations>Indian Society of Agricultural
+                  Economics, Mumbai</affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages>Hindi,                        
+                  Gujrati</other.languages>
+                <free.comments>Moved to Pune (1954-60), Sangli
+                  (1960-61), Nipani (1961-79), Kolhapur (1979  
+                  to date</free.comments>
+       </biography>
+</text.info>

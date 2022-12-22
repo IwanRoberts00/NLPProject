@@ -1,0 +1,555 @@
+<I> <&> Heading in the middle of column number four and five </&>
+
+<ICE-IND:W2B-027#1:1>
+<h> <bold> <ul> Think small </ul> , think big </bold> </h> <&> broad
+red line under <mention> Think small </mention> </&> <&>
+
+<p> 
+<ICE-IND:W2B-027#2:1>
+Genetic engineering, zapping cancer cells, space stations,
+microwave communication <*> dotted line</*> <bold> INDIRA MURTHY </bold>
+presents some of the last <w> year's </w> significant scientific achievements
+</p> </&> <&> column one </&>
+
+<ICE-IND:W2B-027#3:1>
+<bold> TOP OF THE WORLD, MICROSCOPICALLY SPEAKING </bold>
+
+<p> 
+<ICE-IND:W2B-027#4:1>
+<bold> <smallcaps> ON </smallcaps> </bold> April 22, scientists of
+the Fermilab in the USA created, for the first time, a subatomic particle
+called Top, fulfilling a 30-year-old dream. </p>
+
+<p> 
+<ICE-IND:W2B-027#5:1>
+According to the currently accepted theory of matter, quarks are
+the basic building blocks of matter, making up certain subatomic particles,
+like protons, neutrons and mesons.
+
+<ICE-IND:W2B-027#6:1>
+Most subatomic particles are built of five types of quarks - - Up,
+Down, Charm, Strange and Bottom.
+
+<ICE-IND:W2B-027#7:1>
+But the prevalent theory requires the existence of the sixth quark,
+namely <mention> Top </mention> . </p>
+
+<p> 
+<ICE-IND:W2B-027#8:1>
+One thing about <mention> Top </mention> is that it is heavy, much
+heavier than any other elementary particle, though scientist don't know why
+this is so.
+
+<ICE-IND:W2B-027#9:1>
+For this reason, Top could only be created by high energy collisions
+where energy gets converted into mass. </p>
+
+<p> 
+<ICE-IND:W2B-027#10:1>
+In April, <mention> Top </mention> was sighted in a collision of
+high energy beams of protons and electrons.
+
+<ICE-IND:W2B-027#11:1>
+Its measured mass - - 174 giga electron volts - - is 300,000 times
+heavier than an electron, and verifies the standard theory of matter. </p>
+
+<ICE-IND:W2B-027#12:1>
+<h> <bold> NO MESSAGE IN BOTTLE </bold> </h>
+
+<p> 
+<ICE-IND:W2B-027#13:1>
+<bold> <smallcaps> THE </smallcaps> </bold> landscape of
+communications technology has been reworked in the last few years,
+particularly in this country.
+
+<ICE-IND:W2B-027#14:1>
+On October 15, with the successful launch of a remote sensing
+satellite IRS-P2, India became the sixth nation in the world capable of
+launching payloads upto 1,000 kg.
+
+<ICE-IND:W2B-027#15:1>
+It is also a potential contender in the multi-billion dollar launch
+services market, dominated today by a select few. </p>
+
+<p> 
+<ICE-IND:W2B-027#16:1>
+This year also saw the establishment of an underwater
+information highway in the Indian ocean.
+
+<ICE-IND:W2B-027#17:1>
+SEA-ME--WE-2 ( South East Asia-Middle East-Western Europe-2 ) ,
+the <w> world's </w> hongest optical fibre submarine cable ( 18.190 km long )
+, links India with 12 other countries, serving as much as one-third of the
+<w> world's </w> population.
+
+<ICE-IND:W2B-027#18:1>
+By carrying international telephone calis, SEA-ME-WE-2 will
+ease the burden of communication satellites <O> photograph above column
+two and three </O> <O> caption </O> - - it can carry 60,000 simultaneous
+conversations ( without echoes or other disturbances), at transmission
+times of 20 milliseconds, compared to <w> satellites' </w> 500 milliseconds.
+</p>
+
+<p> 
+<ICE-IND:W2B-027#19:1>
+Then, Motorola <w> Inc's </w> Iridium project - - a global
+network of 66 satellites to provide pocket-telephone service from
+anywhere to anywhere in the world - - is expected to start from 1998.
+
+<ICE-IND:W2B-027#20:1>
+The satellites will be placed in low earth orbits ( 463 miles above
+the surface of the earth, compared to the 22,300 miles at which a
+geostationary satellite is found ) . </p>
+
+<p> 
+<ICE-IND:W2B-027#21:1>
+The Iridium project uses miscrowaves ( higher in frequency and
+shorter in wavelength than radio waves, microwaves can be concentrated into
+directed beams more easily, making them more effective to locate objects )
+and an electronic component called the moriolithic microwave integrated
+circuit ( MMIC), earlier developed for radar systems in missiles.
+
+<ICE-IND:W2B-027#22:1>
+MMICs installed in telephone handsets will receive the micro-wave
+signals. </p>
+
+<ICE-IND:W2B-027#23:1>
+<h> <bold> THINK SMALL - - AND DO BIG THINGS. </bold> </h>
+
+<p> 
+<ICE-IND:W2B-027#24:1>
+<bold> <smallcaps> SCIENTISTS </smallcaps> </bold> were thinking
+small as never before this year, all with an idea of doing big things.
+
+<ICE-IND:W2B-027#25:1>
+Nanotechnology means making things in dimensions comparable to
+those of atoms and molecules ( <w> that's </w> less than a billionth of a
+metre ) to harvest the properties of such small atomic clusters. </p>
+
+<p> 
+<ICE-IND:W2B-027#26:1>
+Metallurgists find that making alloys with metal powders
+having nano-sized particles will make the alloy extremely strong.
+
+<ICE-IND:W2B-027#27:1>
+Vanes of turbojet generators, walls of the containers housing
+fuel rods in a nuclear reactor, material for bullet-proof vests - - all
+these need to have extremely high mechanical strength.
+
+<ICE-IND:W2B-027#28:1>
+In the field of electronics, nanotechnology promises to further
+shrink computers. </p>
+
+<p> 
+<ICE-IND:W2B-027#29:1>
+Nanomachine builders ultimately aim to make the machines
+make themselves - - growing piece by piece, starting from their molecular
+components, <O> photograph below column three, four and five </O> <O> caption
+</O> into mammoth machines like earth movers, drawing component parts from
+a molecular soup.
+
+<ICE-IND:W2B-027#30:1>
+No, <w> it's </w> not just fiction.
+
+<ICE-IND:W2B-027#31:1>
+A chemist from the Massachusetts Institute of Technology in the US
+has been able to design a molecule which can reproduce itself in this way.
+</p>
+
+<p> 
+<ICE-IND:W2B-027#32:1>
+Nanomachines can help save lives.
+
+<ICE-IND:W2B-027#33:1>
+Surgeons will soon be able to insert tiny machines into the body for
+diagnostic purposes - - like inserting tiny cameras inside the chest
+without making large incisions - - reducing, for example, standard operation
+incision sizes from 25 cm to just three cm. </p>
+
+<p> 
+<ICE-IND:W2B-027#34:1>
+Of course, for such precision work the surgeon will need a robot.
+
+<ICE-IND:W2B-027#35:1>
+Robodoc awaits approval for general distribution by the US Food and
+Drug Administration.
+
+<ICE-IND:W2B-027#36:1>
+Its very first assignment will be at a hip transplant operation,
+where it will carve out a hole int he thigh bone, aided by a computer and do
+the job 10 times more accurately than a regular human would. </p>
+
+<ICE-IND:W2B-027#37:1>
+<h> <bold> PLAYING WITH GENES </bold> </h>
+
+<p> 
+<ICE-IND:W2B-027#38:1>
+<bold> <smallcaps> AMONG </smallcaps> </bold> the new
+applications of biotechnology reported this year, the most important for
+us is perhaps the one which explains how malaria parasites actually get into
+blood cells. </p>
+
+<p> 
+<ICE-IND:W2B-027#39:1>
+Researches from The National Institute of Allergy and
+Infectious Diseases in the UK used genetic engineering to identify the
+modus operandi of the parasite - - how and to what part of the cells
+surface it binds.
+
+<ICE-IND:W2B-027#40:1>
+This opens up the possibility of synthesising or genetically
+engineering an antibody ( antibodies protect against harmful viruses and
+bacterial ) in such a size and shape to keep the parasites out of the cell.
+</p>
+
+<p> 
+<ICE-IND:W2B-027#41:1>
+Another attractive fallout of genetic engineering is the
+possibility of using genetically engineered plants, instead of
+animals, to make antibodies.
+
+<ICE-IND:W2B-027#42:1>
+This would make available inexpen,l>sive antibodies, in large
+quantities, for use in medicine, pollution control and industrial
+processing ( aquatic plants could be engineered to produce antibodies
+that extract pollutants such as heavy metals from industrial effluents ) .
+</p>
+
+<ICE-IND:W2B-027#43:1>
+<h> <bold> <quote> " MADE IN SPACE" </quote> </bold> </h>
+
+<p> 
+<ICE-IND:W2B-027#44:1>
+<bold> <smallcaps> MARCH </smallcaps> </bold> saw the release of a
+final design for a Space Station jointly run by the European Space Agency,
+the USA, Japan, Canada and Russia.
+
+<ICE-IND:W2B-027#45:1>
+The largest international research and development project ever
+undertaken will cost about 30 billion dollars. </p>
+
+<p> 
+<ICE-IND:W2B-027#46:1>
+The Space Station, whose construction is meant to start in
+1997, will accommodate six crew members when completed, in 2002.
+
+<ICE-IND:W2B-027#47:1>
+The 376 metric tonnes include six laboratory modules.
+
+<ICE-IND:W2B-027#48:1>
+The abundance of solar energy will meet all energy requirements.
+</p>
+
+<p> 
+<ICE-IND:W2B-027#49:1>
+Space is known to be ideal for processing materials - - high
+quality crystals can be grown there, as gravity-induced effects are neglible.
+
+<ICE-IND:W2B-027#50:1>
+Metals and alloys can be processed without the use of a container,
+through magnetic suspension - - by floating them inside
+current-carrying coils - - and doing away with contamination.
+
+<ICE-IND:W2B-027#51:1>
+Without gravity pulling them down, molten substances can be held
+in place by weak magnetic fileds.
+
+<ICE-IND:W2B-027#52:1>
+Biological samples can be separated into their components using
+electric fields to yield pure samples. </p>
+
+<p> 
+<ICE-IND:W2B-027#53:1>
+The Space Station is the first step to the setting up of space
+factories.
+
+<ICE-IND:W2B-027#54:1>
+In the near future, <quote> " Made in Space" </quote> may become
+common labels on products we use on terra firma. </p> <O> photograph above
+column seven and eight </O> <O> caption </O>
+
+<ICE-IND:W2B-027#55:1>
+<h> <bold> ZAPPING CANCER WITH A CURRENT </bold> </h>
+
+<p> 
+<ICE-IND:W2B-027#56:1>
+<bold> <smallcaps> IN </smallcaps> </bold> cancer treatment, new
+techniques are emerging, to selectively destroy cancerous cells without
+damaging healthy cells, a significant hazard in conventional chemotherapy
+and radiation treatments.
+
+<ICE-IND:W2B-027#57:1>
+In the forefront of such methods is electrochemotherapy, or ECT,
+which is especially convenient for tumours in the brain and neck regions.
+
+<ICE-IND:W2B-027#58:1>
+ECT combines an electric field and chemotherapeutic agents, to
+increase the uptake of drugs by tumour cells. </p>
+
+<p> 
+<ICE-IND:W2B-027#59:1>
+The plasma membrane of a cell which forms its outer wall does not
+normally allow external molecules to enter into the cell.
+
+<ICE-IND:W2B-027#60:1>
+ECT works by sending a short-lived, high-intensity electric pulse to
+the tumour site.
+
+<ICE-IND:W2B-027#61:1>
+The plasma membranes of the target cells temporarily collapses,
+pores form on its surface, allowing the drug to pass through.
+
+<ICE-IND:W2B-027#62:1>
+When the current is stopped, the pores reseal and regain their
+original form.
+
+<ICE-IND:W2B-027#63:1>
+ECT ensures that the drug enters only tumorous cells, reducing the
+unwanted effects of chemotherapy. </p>
+
+<ICE-IND:W2B-027#64:1>
+<h> <bold> TINY CHEMICAL PLANTS </bold> </h>
+
+<p> 
+<ICE-IND:W2B-027#65:1>
+<foreign> <bold> <smallcaps> ZEOLITE </smallcaps> </bold> </foreign>
+means <quote> ` a boiling stone' </quote> in Greek.
+
+<ICE-IND:W2B-027#66:1>
+It was named so by a Swedish mineralogist who found that this curious
+compound bubbled and appeared to boil when heated.
+
+<ICE-IND:W2B-027#67:1>
+Actually, it was nothing but water escaping from the
+innumerable pores present in its tiny crystals.
+
+<ICE-IND:W2B-027#68:1>
+These solids can hold an enormous amount of water in the millions of
+molecularsized channels they contain.
+
+<ICE-IND:W2B-027#69:1>
+If all the channels in a teaspoon of <foreign> zeolite </foreign>
+crystal were opened up, and laid side by side, they would cover a football
+field! </p>
+
+<p> 
+<ICE-IND:W2B-027#70:1>
+Because of their porosity and other unusual properties,
+zeolites are finding many uses.
+
+<ICE-IND:W2B-027#71:1>
+They have the twin ability to work as molecular sieves and then
+trigger chemical reactions.
+
+<ICE-IND:W2B-027#72:1>
+The large surface area on their hollow surfaces allows many chemical
+reactions to occur at least 50 times more efficiently than otherwise. </p>
+
+<p> 
+<ICE-IND:W2B-027#73:1>
+Synthesised zeolites are being used extensively by chemists as
+chemical plants.
+
+<ICE-IND:W2B-027#74:1>
+For example, cadmium sulphide superclusters, made by first
+injecting cadmium ions and then hydrogen sulphide gas into zeolite pores,
+have potential applications as optical switches ( they are opaque or
+transparent depending on how much light shines on them ) and are found to
+work much faster than cadmium sulphide made from conventional routes.
+</p>
+
+<p> 
+<ICE-IND:W2B-027#75:1>
+Some other things being made by these tiny chemical plants;
+optical memories based on tiny crystals of a light-sensitive material
+created within a zeolite; chemical sensors consisting of a thin layer of
+zeolite crystals; molecular sized filaments of conducting polymers <*>
+dotted line</*> </p> <*> overlapping diamonds red & black </*> </I>
+
+
+<I> <&> headline centered on page 2 adjecent to advertisement </&>
+
+<ICE-IND:W2B-027#76:2>
+<h> <bold> Sands of destruction </bold> </h> <&> broad red line under
+<mention> of destruct </mention> </&> <&>
+
+<ICE-IND:W2B-027#77:2>
+Nearly forty percent of Asia faces the threat of desertification,
+writes <bold> SUNJOY MONGA </bold> </&> <&> column one </&>
+
+<p> 
+<ICE-IND:W2B-027#78:2>
+<bold> MY </bold> textbook perception of deserts as barren,
+lifeless worlds was shattered some years ago, while on a filming project in
+the Thar-Deserts.
+
+<ICE-IND:W2B-027#79:2>
+I discovered, abounded with life, especially around oases.
+
+<ICE-IND:W2B-027#80:2>
+There were plants, birds and other wildlife.
+
+<ICE-IND:W2B-027#81:2>
+In a single day, I sighted 40 kinds of birds, including vast
+congregations of cranes. </p>
+
+<p> 
+<ICE-IND:W2B-027#82:2>
+Now, that was a real, natural desert.
+
+<ICE-IND:W2B-027#83:2>
+The term <quote> " desert" </quote> implies a dry, barren, treeless,
+usually sandy, water-starved region.
+
+<ICE-IND:W2B-027#84:2>
+But the desert is just one more type of habitat on earth, with its
+own wildlife, beautifully adapted for the rigors of desert life. </p>
+
+<p> 
+<ICE-IND:W2B-027#85:2>
+Nearly one-third of the <w> earth's </w> surface is desert or
+semi-desert.
+
+<ICE-IND:W2B-027#86:2>
+This arid and semi-arid part of the world is home for more than 750
+million people. </p>
+
+<p> 
+<ICE-IND:W2B-027#87:2>
+Natural deserts, spread over five of the seven continents, are no
+cause for concern.
+
+<ICE-IND:W2B-027#88:2>
+It is true that some present-day desert regions were once fertile
+lands.
+
+<ICE-IND:W2B-027#89:2>
+Centuries of over-use turned regions like Mesopotamia, often
+described as the cradle of civilisation into desert.
+
+<ICE-IND:W2B-027#90:2>
+But what is more disturbing right now is the 12 to 20 million
+hectares <w> that's </w> being desertified. </p>
+
+<p> 
+<ICE-IND:W2B-027#91:2>
+Though desertification is evident all over the world, it is
+most conspicuous in Africa.
+
+<ICE-IND:W2B-027#92:2>
+In Asia, nearly 40 per cent of the land is at a high risk of being
+desertified.
+
+<ICE-IND:W2B-027#93:2>
+Likewise, considerable stretches of land in Australia and the eastern
+US are also fast deteriorating. </p> <O> photograph on column two and three
+above </O>
+
+<p> 
+<ICE-IND:W2B-027#94:2>
+Desertisation is not the same as desertification.
+
+<ICE-IND:W2B-027#95:2>
+While the latter is the result of human activity, desertisation is
+the natural spread of desert and desert-like habitats - - a very slow
+process.
+
+<ICE-IND:W2B-027#96:2>
+The threat we face today is of desertification. </p>
+
+<p> 
+<ICE-IND:W2B-027#97:2>
+The issue of desertification was brought into international focus
+by the Sahel disaster of the early 1970s.
+
+<ICE-IND:W2B-027#98:2>
+But the dimension of the problem was not fully realised at the
+time.
+
+<ICE-IND:W2B-027#99:2>
+Recent estimates indicate that nearly 70 million hectares of Africa,
+south of the Sahara, have been desertified. </p>
+
+<p> 
+<ICE-IND:W2B-027#100:2>
+The Indian scenario is not much better.
+
+<ICE-IND:W2B-027#101:2>
+Nearly 12 per cent of the <w> country's </w> geographical area is
+desert, mostly in Rajasthan, Gujarat, Haryana and parts of Punjab.
+
+<ICE-IND:W2B-027#102:2>
+Then there are the cold high-altitude deserts of Ladakh and northern
+Himachal Pradesh.
+
+<ICE-IND:W2B-027#103:2>
+Indian deserts are biologically rich though they lie in the zone of
+lowest pressure in the monsoons.
+
+<ICE-IND:W2B-027#104:2>
+Some 600 species of plants, 50 species of mammals and over 100
+species of birds are to be found here.
+
+<ICE-IND:W2B-027#105:2>
+Indian deserts are also zones of immense economic value.
+
+<ICE-IND:W2B-027#106:2>
+They are the most populated deserts in the world. </p>
+
+<p> 
+<ICE-IND:W2B-027#107:2>
+<w> India's </w> desert regions are home to nearly 20 million
+people with a population densi,l>ty of 61 people/sq km: most other desert
+regions have a density of about 4-5 people/sq km.
+
+<ICE-IND:W2B-027#108:2>
+Worse still, there are 22 million cattle, sheep and goats grazing
+and browsing in Indian deserts.
+
+<ICE-IND:W2B-027#109:2>
+Thus, man and beast are gnawing away into a fragile world,
+degrading the miles of land surrounding these regions.
+
+<ICE-IND:W2B-027#110:2>
+It is officially estimated that over 50 per cent of the <w>
+country's </w> total area is in some state of degradation. </p>
+
+<p> 
+<ICE-IND:W2B-027#111:2>
+The reasons for desertification are directly connected to
+human activities.
+
+<ICE-IND:W2B-027#112:2>
+We have over-cultivated traditionally poor soil and have let
+livestock run havoc on land that was not geared to face this onslaught; we
+have robbed our planet of nearly half its forests, including those in
+critical upland watershed regions.
+
+<ICE-IND:W2B-027#113:2>
+Our improper irrigation practices have caused excessive
+salinisation and alkalisation of soil, making it useless for
+agricultural use and leading to desertification.
+
+<ICE-IND:W2B-027#114:2>
+Developmental schemes devised to bring in more water are beginning
+to backfire - - the desert ecology is not geared to absorb a flood of water.
+</p>
+
+<p> 
+<ICE-IND:W2B-027#115:2>
+The objectives of desert-related projects have been soil and
+water management, management of pastoral communities and raising livestock
+productivity levels. </p>
+
+<p> 
+<ICE-IND:W2B-027#116:2>
+It has to be acknowledged that a judicious management of water (
+and soil ) will be the key to <quote> " prosperity" </quote> in the <w>
+world's </w> deserts.
+
+<ICE-IND:W2B-027#117:2>
+This does not mean the creation of water-choked labyrinths of canals
+but the preservation of the origional, natural habitats, with their own
+plant and animal communities, and a rational use of the surrounding lands,
+which are most susceptible to becoming the lifeless, desolate places we
+all think deserts are. </p> <*> overlapping diamonds, red & black</*> </I>

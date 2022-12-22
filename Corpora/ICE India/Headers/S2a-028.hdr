@@ -1,0 +1,52 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-028</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2200</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-028>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>04-09-91</date>
+              <time>3.30pm</time>
+              <place>Regional College of Education,
+                   Bhopal</place>
+       </recording.data>
+              <organising.body>Seminar on textbooks in
+                   Bhopal</organising.body>   
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-028</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size>50-from different places in
+                   India</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-028</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Khanna</surname>
+              <forenames>Dr. Prem Krishna</forenames>
+              <age>50+</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>Doctorate</education>
+              <occupation>Teaching</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Hindi</mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

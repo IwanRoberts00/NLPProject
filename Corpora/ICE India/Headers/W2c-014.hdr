@@ -1,0 +1,105 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-014</textcode>
+             <number.of.subtexts>3</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>2019</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=a,b,c>
+           <source.type=periodical>
+           <source.title>Business India</source.title>
+           <source.subtitle></source.subtitle>
+           <volume></volume>
+           <no.></no.>
+           <series></series>
+           <frequency>Monthly</frequency>
+     <publication.statement>
+           <publisher>Business India</publisher>
+           <address>Wadia Building, 17/19 Dalal Street, Bombay-
+                   400001</address>
+           <place>Bombay</place>
+           <date>19-02-90</date>
+           <ISSN></ISSN>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Business
+                         India</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-014a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>BOMBAY STOCK EXCHANGE</main.title>
+                 <subtitle>Restructive role</subtitle>
+                 <page.nos>164</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-014b</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Stabilising falling market</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>163</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <subtext.internals=<it>ICE-IND-W2C-014c</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>AMUSEMENT PARKS</main.title>
+                 <subtitle>First off, after some               
+                          hiccups</subtitle>
+                 <page.nos>31</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-014a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-014b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2C-014c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

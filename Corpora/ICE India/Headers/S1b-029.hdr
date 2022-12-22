@@ -1,0 +1,104 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S1B-029</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Dialogue:Public:broadcast
+                   discussions</category>
+              <wordcount>2356</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S1B-029>
+       <recording.data>
+              <channel>Doordarshan</channel>
+              <address></address>
+              <tv.or.radio>tv</tv.or.radio>
+              <source.title>Plague: Causes & Care</source.title>
+              <source.subtitle></source.subtitle>  
+              <date>29-09-94</date>
+              <time>8.45am</time>
+       </recording.data>
+              <copyright.statement>Blanket permission from
+                   Doordarshan under section 39 of Copyright Act,
+                   1957 and Copyright Rules, 1958
+                   respectively</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S1B-029</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>discussions
+                   </communicative.situation>
+              <no.of.participants>4</no.of.participants>
+              <relationship>equals</relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S1B-029</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role>Moderator</communicative.role>
+              <surname>Shekhar</surname>
+              <forenames>Dr. Shilesh</forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>Journalist</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S1B-029</it>>
+              <speaker.id>B</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Dutta</surname>
+              <forenames>Dr. K.K.</forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>Director of National Institute of
+                   Communicable Diseases</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S1B-029</it>>
+              <speaker.id>C</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Chakravarty</surname>
+              <forenames>Dr. B</forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>Medical Suptd: Safdar Jung
+                   Hospital</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S1B-029</it>>
+              <speaker.id>D</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Rattan</surname>
+              <forenames>Dr. Ashok</forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>All India Institute of Medical
+                   Sciences</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

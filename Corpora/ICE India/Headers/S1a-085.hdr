@@ -1,0 +1,68 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-085</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2243</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-085>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>06-09-95</date>
+            <time>2.30pm</time>
+            <place>Oriental English Academy, Kolhapur</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-085</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-085</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Sheikh</surname>
+            <forenames>Shahzadi</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Bombay, Maharashtra</birthplace>
+            <education>Bombay University</education>
+            <educational.level>Graduate</educational.level>
+            <occupation>High School Teacher</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Urdu</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Kolhapur in
+                 1994</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-085</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Joshi</surname>
+            <forenames>Manjusha</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>graduate</educational.level>
+            <occupation>School Teacher</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

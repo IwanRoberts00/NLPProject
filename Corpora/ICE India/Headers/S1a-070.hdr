@@ -1,0 +1,84 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-070</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2092</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-070>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>19-07-94</date>
+            <time>12 noon</time>
+            <place>Kurundawad's Residence, Delhi</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-070</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>3</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-070</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kurundawad</surname>
+            <forenames>Seema</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Koppal, Dharwad, Karnataka</birthplace>
+            <education>Bhartiya Vidya Bhavan</education>
+            <educational.level>Under graduate</educational.level>
+            <occupation>student</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-070</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kurundawad</surname>
+            <forenames>Madhuri</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>New Delhi</birthplace>
+            <education>Delhi University</education>
+            <educational.level>Under graduate</educational.level>
+            <occupation>student</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Punjabi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-070</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Tadas</surname>
+            <forenames>Jyotsana</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Under graduate</educational.level>
+            <occupation>stuudent</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,140 @@
+<text.info>
+       <file.description>
+               <textcode>ICE-IND-W2E-010</textcode>
+               <number.of.subtexts>6</number.of.subtexts>
+               <category>printed:press editorials</category>
+               <wordcount>2080</wordcount>
+               <version>lexical</version>
+               <free.comments></free.comments>
+       </file.description>
+     <subtext.source=a,b>
+           <source.type=newspaper>
+                <source.title>Deccan Herald</source.title>
+                <scope>regional</scope>
+                <frequency>daily</frequency>
+                <circulation></circulation>
+           <publication.statement>
+           <publisher>The Printers (Mysore) Ltd.</publisher>
+           <address>Deccan Herald Press, 66, M. G. Rd. Bangalore- 
+                 560001</address>
+                <place>Bangalore</place>
+                <date>15-03-90</date>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of The 
+                   Printers (Mysore) Ltd.</copyright.statement>
+           <free.comments></free.comments>
+     </subtext.source>
+      <subtext.internals=<it>ICE-IND-W2E-010a</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Cost-plus Railways</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+      <subtext.internals=<it>ICE-IND-W2E-010b</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Soviet presidency</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+     <biography=<it>ICE-IND-W2E-010a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2E-010b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <subtext.source=c,d>
+           <source.type=newspaper>
+                <source.title>Deccan Herald</source.title>
+                <scope>regional</scope>
+                <frequency>daily</frequency>
+                <circulation></circulation>
+           <publication.statement>
+           <publisher>The Printers (Mysore) Ltd.</publisher>
+           <address>Deccan Herald Press, 66, M. G. Rd. Bangalore- 
+                 560001</address>
+                <place>Bangalore</place>
+                <date>30-03-90</date>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of The 
+                   Printers (Mysore) Ltd.</copyright.statement>
+           <free.comments></free.comments>
+     </subtext.source>
+      <subtext.internals=<it>ICE-IND-W2E-010c</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Gold always shines</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+      <subtext.internals=<it>ICE-IND-W2E-010d</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Bold move</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+     <biography=<it>ICE-IND-W2E-010c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2E-010d</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

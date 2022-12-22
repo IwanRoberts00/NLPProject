@@ -1,0 +1,627 @@
+<I> 
+
+<ICE-IND:W2A-013#1:1>
+<h> <bold> Revenue Audit Programme <&> centered </&> and procedure
+</bold> </h> <&> author centered </&>
+
+<ICE-IND:W2A-013#2:1>
+SANJAY CHHABAN ADHAV <sp> * </sp> <*> line from left to right</*> <&>
+
+<ICE-IND:W2A-013#3:1>
+<bold> <it> The focus of the article is on the auditof the revenue and
+expenditure of financial institutions, particularly commercial banks </it>
+</bold> </&> <*> line from left to tight</*> <&> in three columns </&> <&>
+column one </&>
+
+<p> 
+<ICE-IND:W2A-013#4:1>
+<bold> <smallcaps> REVENUE </smallcaps> </bold> Audit is a recent
+development in the field of audit of financial institutions, especially
+banks.
+
+<ICE-IND:W2A-013#5:1>
+Itis a special type of audit undertaken by banks to detect the leakage
+( if any ) in income.
+
+<ICE-IND:W2A-013#6:1>
+All items of revenue and expenditure are scanned, leakages and
+abnormalities, if any, are detected and corrective measures taken.
+
+<ICE-IND:W2A-013#7:1>
+Further, it is ensured that only legitimate charges are passed on to
+clients and they are not unnecessarily penalised.
+
+<ICE-IND:W2A-013#8:1>
+Thus, the entire audit focus is on revenue.
+
+<ICE-IND:W2A-013#9:1>
+Being a specialised type of audit it casts certain responsibilities
+which auditors are supposed to fulfil.
+
+<ICE-IND:W2A-013#10:1>
+The aspects which are to be looked into while conducting the audit
+are briefly touched upon in this paper.
+
+<ICE-IND:W2A-013#11:1>
+Also a detailed procedure to be followed while conducting the audit
+is given. </p>
+
+<p> 
+<ICE-IND:W2A-013#12:1>
+The items which come on the expenditure side and revenue side
+include the following, but not necessarily limited to them. </p>
+
+<ICE-IND:W2A-013#13:1>
+<h> <bold> Expenditure </bold> </h>
+
+<ICE-IND:W2A-013#14:1>
+<h> <it> Interest Paid / Payable on Deposits </it> </h> - - Savings
+deposits - - Current deposits - - Fixed deposits - - Recurring deposits - -
+Various investment schemes
+
+<ICE-IND:W2A-013#15:1>
+<h> <it> Other Expenditure </it> ( Major ones ) </h> - - Salary and
+bonus - - Rent and taxes - - Depreciation - - Repairs and Maintenance - -
+Electricity, water and other amenities - - Other administrative expenses.
+
+<ICE-IND:W2A-013#16:1>
+<h> <bold> Revenue </bold> </h>
+
+<ICE-IND:W2A-013#17:1>
+<it> Interest on Loans and Advances </it>
+
+<ICE-IND:W2A-013#18:1>
+Normally loans and advances are of following types: - - Cash credit -
+- Bank overdraft - - Hypothecation loan - - Hire purchase loan - - Property
+loan - - Gold loan - - Personal loan - - Others, if any
+
+<ICE-IND:W2A-013#19:1>
+<h> <bold> Bank Commission Charges </bold> </h>
+
+<ICE-IND:W2A-013#20:1>
+Usually bank charges Commission on following items: - - Bills for
+collection - - Inland bills purchase - - Bank Guarantee - - Letter of Credit
+- - Demand draft/Payslip/Payorder - - Locker rent.
+
+<ICE-IND:W2A-013#21:1>
+<h> <bold> Miscellaneous </bold> </h>
+
+<p> 
+<ICE-IND:W2A-013#22:1>
+Banks provide certain services for its clients / customers for
+which it charges certain fees / commission / service charges.
+
+<ICE-IND:W2A-013#23:1>
+A few of such items are given below: - - Accepting income-tax
+cha1lans - - Water, electricity, and telephone bills - - Purchasing and
+selling securities and properties - - Paying LIC premium directly - - Any
+other service as prevalent and directed by customer. </p>
+
+<p> 
+<ICE-IND:W2A-013#24:1>
+The names given to various books / registers and the contents
+therein may change according to the needs, circumstances and policy of the
+bank. </p>
+
+<p> 
+<ICE-IND:W2A-013#25:1>
+A brief summary of the procedure to be followed in conducting
+the revenue audit is enumerated below.
+
+<ICE-IND:W2A-013#26:1>
+Firstly, the items of expenditure are dealt with. </p>
+
+<ICE-IND:W2A-013#27:1>
+<h> <bold> Savings Deposit </bold> </h>
+
+<p> 
+<ICE-IND:W2A-013#28:1>
+It is maintained by small earners.
+
+<ICE-IND:W2A-013#29:1>
+There are certain restrictions on the number of withdrawals.
+
+<ICE-IND:W2A-013#30:1>
+Presently two withdrawals per week, i.e. maximum eight in a month are
+allowed.
+
+<ICE-IND:W2A-013#31:1>
+Care should be taken while conducting the audit that this norm is
+adhered to.
+
+<ICE-IND:W2A-013#32:1>
+If not, the policy of the bank on this matter is to be seen.
+
+<ICE-IND:W2A-013#33:1>
+As per RBI notification presently 5 % interest is paid on the minimum
+balance between the 1Oth and 30th ( or 31st ) day.
+
+<ICE-IND:W2A-013#34:1>
+Cooperative banks usually pay 1 % more than the rate prescribed by
+RBI.
+
+<ICE-IND:W2A-013#35:1>
+lnterest is paid half-yearly during December and June, i.e. for the
+period June to November in the month of December and for the period
+December to May in the month of June. </p>
+
+<p> 
+<ICE-IND:W2A-013#36:1>
+The minimum balance between the 1Oth and 30th day of each month
+is noted and the product for half yearly period is calculated.
+
+<ICE-IND:W2A-013#37:1>
+To this product the applicable rate is applied.
+
+<ICE-IND:W2A-013#38:1>
+It is easier to calculate the interest, if, first the interest on one
+rupee for one month is calculated.
+
+<ICE-IND:W2A-013#39:1>
+Half-yearly interest can be easily calculated by multiplying the
+product with the amount of interest so calculated.
+
+<ICE-IND:W2A-013#40:1>
+If the cheques, if any, are returned without clearance it should be
+noted that cheque return charges is applied. </p>
+
+<ICE-IND:W2A-013#41:1>
+<h> <bold> Fixed Deposits </bold> </h>
+
+<ICE-IND:W2A-013#42:1>
+Usually the following books are kept: a) Balancing book ( Cut-book )
+<O> <&> page </&> 729 </O> b) Fixed deposit ledger c) Savings account
+register d) Payables register e) Supplementary register ( Interest on
+deposit supplementary ) .
+
+<p> 
+<ICE-IND:W2A-013#43:1>
+a) <bold> Balancing book </bold> gives the balances on a
+particular day usually in January and June.
+
+<ICE-IND:W2A-013#44:1>
+Herein is mentioned only the principal value of FDR.
+
+<ICE-IND:W2A-013#45:1>
+Details such as ledger number, FDR receipt number and principal
+amount is mentioned in this book. </p>
+
+<p> 
+<ICE-IND:W2A-013#46:1>
+b) <bold> Fixed deposit ledger </bold> gives the full details,
+viz, FDR Nos., Name of the holder, issue date, maturity date, period for
+which FDR is taken, rate of interest, whether interest is payable monthly
+or quarterly or on maturity.
+
+<ICE-IND:W2A-013#47:1>
+If payable on maturity, whether with simple or compound interest.
+
+<ICE-IND:W2A-013#48:1>
+Whether interest is payable in cash or transferred to savings account
+or loan account in case under lien is also mentioned in the ledger. </p>
+
+<p> 
+<ICE-IND:W2A-013#49:1>
+c) <bold> Savings account register </bold> gives details such as
+FDR No., name of the party, account No. of the party, interest paid
+quarterly / half-yearly. </p>
+
+<p> 
+<ICE-IND:W2A-013#50:1>
+d) <bold> Payable Register </bold> gives the amount of interest
+payable to the party upto a particular day, usually on quarterly or
+half-yearly or at the close of the accounting year.
+
+<ICE-IND:W2A-013#51:1>
+Care is to be taken to ensure that correct provision is made taking
+into consideration the period and rate of interest ( simple or
+compound) as applicable. </p>
+
+<p> 
+<ICE-IND:W2A-013#52:1>
+e) <h> <bold> Supplementary book ( Interest on deposit
+supplementary ) </bold> </h>
+
+<ICE-IND:W2A-013#53:1>
+Amount payables upto a particular quarter is recorded in payable
+register.
+
+<ICE-IND:W2A-013#54:1>
+However, if the FDR matures between the two quarters, then the amount
+paid for this period is recorded in this book.
+
+<ICE-IND:W2A-013#55:1>
+The amount payable is the difference between the quarterly interest
+payable and the interest paid earlier for the broken period.
+
+<ICE-IND:W2A-013#56:1>
+( Broken period means the number of days from the date of deposit
+till the end of the quarter ) .
+
+<ICE-IND:W2A-013#57:1>
+It may be noted that separate record is kept for interest paid in
+cash, payable on maturity, transferred to current a/c, transferred to cash
+credit a/c, etc.
+
+<ICE-IND:W2A-013#58:1>
+Also, a separate record for inter-branch transfer or transfer to
+separate bank is maintained. </p>
+
+<ICE-IND:W2A-013#59:1>
+<h> <bold> Audit Procedure </bold> </h>
+
+<p> 
+<ICE-IND:W2A-013#60:1>
+From the balancing book ( cut-book ) a random FDR number is
+selected.
+
+<ICE-IND:W2A-013#61:1>
+This number is to be seen in a particular fixed deposit ledger
+wherein are given all the necessary details.
+
+<ICE-IND:W2A-013#62:1>
+According to the mode of payment, a particular book / register is to
+be seen.
+
+<ICE-IND:W2A-013#63:1>
+If the amount of interest is credited to savings account then it is
+to be seen whether the correct amount of interest is credited / recorded in
+savings register.
+
+<ICE-IND:W2A-013#64:1>
+If the amount is credited to current account or cash credit account,
+then the entry in that particular register is to be seen.
+
+<ICE-IND:W2A-013#65:1>
+If it is paid in cash or is transferred to account of the client in
+another branch of the same bank or in account in another bank, entry in
+respective registers is to be seen.
+
+<ICE-IND:W2A-013#66:1>
+If the FDR matures between the quarters, then it is to be seen that
+the interest paid for the remaining period is recorded in the supplementary
+register. </p>
+
+<p> 
+<ICE-IND:W2A-013#67:1>
+Care should be taken to note that correct rate of interest is
+applied taking into consideration the period for which the deposit is kept.
+
+<ICE-IND:W2A-013#68:1>
+Further, it is to be seen that the calculated interest is correct and
+there are no leakages. </p>
+
+<ICE-IND:W2A-013#69:1>
+<h> <bold> Current Deposits </bold> </h>
+
+<p> 
+<ICE-IND:W2A-013#70:1>
+Normally no interest is paid on balances in current account
+though RBI has prescribed O.5 %.
+
+<ICE-IND:W2A-013#71:1>
+There are no restrictions on the number of withdrawals.
+
+<ICE-IND:W2A-013#72:1>
+While auditing current account it is to be seen whether bank
+commission / charges and cheque return charges are correctly charged. </p>
+
+<ICE-IND:W2A-013#73:1>
+<h> <bold> Recurring Deposit </bold> </h>
+
+<p> 
+<ICE-IND:W2A-013#74:1>
+This is a special type of deposit wherein the depositor pays a
+certain sum over a stipulated period.
+
+<ICE-IND:W2A-013#75:1>
+If there are any late instalments penalty at the prescribed rate is
+to be levied.
+
+<ICE-IND:W2A-013#76:1>
+After maturity principal amount plus interest is paid.
+
+<ICE-IND:W2A-013#77:1>
+While applying the rate of interest, the period should be referred
+to.
+
+<ICE-IND:W2A-013#78:1>
+The accounts which have matured during the year should be checked to
+ensure that correct interest is paid.
+
+<ICE-IND:W2A-013#79:1>
+<w> Bank's </w> policy regarding closure of account before
+maturity should be seen.
+
+<ICE-IND:W2A-013#80:1>
+Provision is required to be made for those accounts which have not
+matured.
+
+<ICE-IND:W2A-013#81:1>
+lt is to be ensured that correct provision is made. </p>
+
+<ICE-IND:W2A-013#82:1>
+<h> <bold> Investment Schemes </bold> </h>
+
+<p> 
+<ICE-IND:W2A-013#83:1>
+Before conducting the audit, the specialities of such schemes
+should be studied.
+
+<ICE-IND:W2A-013#84:1>
+It is to be seen whether the provisions mentioned in various schemes
+are strictly adhered.
+
+<ICE-IND:W2A-013#85:1>
+Audit procedure of one scheme is explained below. </p>
+
+<ICE-IND:W2A-013#86:1>
+<h> <bold> Reinvestment Cash Certificate / Cash Certificate
+</bold> </h>
+
+<p> 
+<ICE-IND:W2A-013#87:1>
+Under this scheme interest is paid along with the principal on
+maturity.
+
+<ICE-IND:W2A-013#88:1>
+Usually interest is compounded - - monthly, quarterly or half-yearly.
+
+<ICE-IND:W2A-013#89:1>
+Normally following books are kept. </p>
+
+<p> 
+<ICE-IND:W2A-013#90:1>
+a) <it> Balancing Book </it> gives the balances on a
+particular day, usually in January and June.
+
+<ICE-IND:W2A-013#91:1>
+The accumulated value is specified in this. </p>
+
+<p> b)
+
+<ICE-IND:W2A-013#92:1>
+<it> Accumulated Interest Register </it>
+
+<ICE-IND:W2A-013#93:1>
+The following details are given in this book: 1) Ledger Folio No. 2)
+Cash Certificate Number 3) Name of the party 4) Issue and maturity date (
+i.e. period for which it is kept) 5) Percentage of interest 6) Principal
+amount 7) Accumulated interest at the beginning of the year ( if any). 8)
+Interest required and provided during the year 9) Accumulated balance as at
+the end of the year. </p>
+
+<p> c) <h> <it> Ledger: </it> ( i.e. Reinvestment cash certificate / cash
+certificate ledger ) . </h>
+
+<ICE-IND:W2A-013#94:1>
+The following details are given in the ledger: 1)
+
+<ICE-IND:W2A-013#95:1>
+Name of the party along with the address 2)
+
+<ICE-IND:W2A-013#96:1>
+Cash Certificate No. 3)
+
+<ICE-IND:W2A-013#97:1>
+Period for which certificate is kept 4)
+
+<ICE-IND:W2A-013#98:1>
+Rate of interest payable 5)
+
+<ICE-IND:W2A-013#99:1>
+Principal amount 6)
+
+<ICE-IND:W2A-013#100:1>
+Interest payable, if any, credited to the account during the
+year.
+
+<p> 
+<ICE-IND:W2A-013#101:1>
+d) <h> <it> Interest on Deposit Supplementary: </it> </h>
+
+<ICE-IND:W2A-013#102:1>
+If a particular cash certificate matures during the year and if
+the same is claimed by the holder, then, the amount of interest paid is
+recorded in this register, while the principal amount paid is recorded in a
+separate supplementary maintained specifically for such schemes. </p>
+
+<ICE-IND:W2A-013#103:1>
+<h> <bold> Audit Procedure </bold> </h>
+
+<p> 
+<ICE-IND:W2A-013#104:1>
+First select a random number in the <&> page no. </&> <O> 730
+</O> balancing book ( cut-book ) which you desire to check.
+
+<ICE-IND:W2A-013#105:1>
+Locate that particular number in the accumulated interest
+register.
+
+<ICE-IND:W2A-013#106:1>
+On the basis of the information given in the register
+calculate the interest payable.
+
+<ICE-IND:W2A-013#107:1>
+While doing so care should be taken to see that correct rate of
+interest is applied taking into consideration the period for which the amount
+has been invested.
+
+<ICE-IND:W2A-013#108:1>
+See that the calculated interest is correct and discrepancies, if
+any, should be noted and get rectified.
+
+<ICE-IND:W2A-013#109:1>
+On the basis of the folio number given see that account in the
+ledger.
+
+<ICE-IND:W2A-013#110:1>
+Cross verify the principal amount, period and rate of interest.
+
+<ICE-IND:W2A-013#111:1>
+Verify that correct interest is credited to the account in the
+ledger.
+
+<ICE-IND:W2A-013#112:1>
+Also verify that the amount of interest payable mentioned in the
+accumulated interest register is debited to the profit and loss account (
+debit ) supplementary. </p>
+
+<ICE-IND:W2A-013#113:1>
+<h> <bold> Other Expenditure </bold> </h>
+
+<p> 
+<ICE-IND:W2A-013#114:1>
+Interest on deposits has been described above.
+
+<ICE-IND:W2A-013#115:1>
+It constitutes one of the important items of expenditure.
+
+<ICE-IND:W2A-013#116:1>
+Strict vigilance on this item should be maintained.
+
+<ICE-IND:W2A-013#117:1>
+Along with this item certain other items of major expenditure
+should be checked.
+
+<ICE-IND:W2A-013#118:1>
+Some of the important items of expenditure are:
+
+<ICE-IND:W2A-013#119:1>
+<h> <bold> Salary </bold> </h>
+
+<ICE-IND:W2A-013#120:1>
+First obtain the details pertaining to salaries.
+
+<ICE-IND:W2A-013#121:1>
+Method of calculating fixed DA and variable DA should be noted.
+
+<ICE-IND:W2A-013#122:1>
+Various allowances are payable to the employees, such as cash
+allowance, teller allowance, key allowance, post allowance, medical
+allowance, attendance bonus, cycle allowance, washing allowance.
+
+<ICE-IND:W2A-013#123:1>
+HRA and travelling allowance.
+
+<ICE-IND:W2A-013#124:1>
+Allowances payable differ according to the category of the
+employee.
+
+<ICE-IND:W2A-013#125:1>
+The rates of all these allowances should be obtained.
+
+<ICE-IND:W2A-013#126:1>
+Annual increment if any given should also be seen.
+
+<ICE-IND:W2A-013#127:1>
+In case of promotions, promotion letter and the resultant
+increase in salary should be seen.
+
+<ICE-IND:W2A-013#128:1>
+Any individual variation in salary from that of earlier month should
+be noted.
+
+<ICE-IND:W2A-013#129:1>
+The salary for the entire year should be compared with that of the
+earlier year and the reason(s) behind the variation should be seen. </p>
+
+<p> 
+<ICE-IND:W2A-013#130:1>
+<h> <bold> Audit Procedure </bold> </h>
+
+<ICE-IND:W2A-013#131:1>
+<h> <bold> Steps </bold> </h>
+
+<ICE-IND:W2A-013#132:1>
+1) See the muster, test-check in the case of few employees the
+number of days he was present.
+
+<ICE-IND:W2A-013#133:1>
+If the employee is absent see whether the leave is with pay or
+without pay.
+
+<ICE-IND:W2A-013#134:1>
+If it is with pay, then salary will be paid even for the leave
+period and vice-versa. </p>
+
+<p> 
+<ICE-IND:W2A-013#135:1>
+2) Check the amount of basic pay, compare it with earlier
+period, notice variation(s) if any and obtain the reasons justifying the
+variation.
+
+<ICE-IND:W2A-013#136:1>
+Calculate DA ( fixed and variable ) as per the formula given.
+
+<ICE-IND:W2A-013#137:1>
+Calculate the various allowances that are payable to the employee.
+</p>
+
+<p> 
+<ICE-IND:W2A-013#138:1>
+3) Verify whether the total gross salary payable to all
+employees is debited to profit and loss account, and deductions, if any,
+therefrom, are properly recorded in the respective account. </p>
+
+<p> 
+<ICE-IND:W2A-013#139:1>
+4) See whether signature of the employees is obtained on the
+salary sheets on revenue stamp. </p>
+
+<p> 
+<ICE-IND:W2A-013#140:1>
+5) Verify whether the salary and allowances payable is duly
+sanctioned by the competent authority. </p>
+
+<p> 
+<ICE-IND:W2A-013#141:1>
+6) Any major variation in the salary bill should by dealt in
+depth and reasons justifying the same should be sought. </p>
+
+<p> 
+<ICE-IND:W2A-013#142:1>
+<bold> <h> Repairs and Maintenance </bold> </h>
+
+<ICE-IND:W2A-013#143:1>
+Verify the major items of expenditure.
+
+<ICE-IND:W2A-013#144:1>
+See that no item of expenditure of capital nature is charged to
+profit and loss account.
+
+<ICE-IND:W2A-013#145:1>
+If any capital expenditure is shown as revenue then the same
+should be rectified. </p>
+
+<p> 
+<ICE-IND:W2A-013#146:1>
+<h> <bold> Rent and Taxes </bold> </h>
+
+<ICE-IND:W2A-013#147:1>
+If the premises of bank are on leave and licence basis verify the
+amount of rent paid by the bank.
+
+<ICE-IND:W2A-013#148:1>
+See that the stamped receipts of rent paid are obtained.
+
+<ICE-IND:W2A-013#149:1>
+If there is any variation with the rent paid for earlier years, the
+reasons justifying the same should be seen.
+
+<ICE-IND:W2A-013#150:1>
+If it is the first year of procuring the charge of premises then the
+agreement copy fixing the rate of rent should be seen.
+
+<ICE-IND:W2A-013#151:1>
+Where premises are owned by the bank, receipt of tax paid to
+municipal authorities be seen. </p>
+
+<p> 
+<ICE-IND:W2A-013#152:1>
+<h> <bold> Miscellaneous items </bold> </h>
+
+<ICE-IND:W2A-013#153:1>
+In the case of telephone, postage, travelling and conveyance etc.
+care should be taken to note that proper supporting record is maintained.
+</p> </I>

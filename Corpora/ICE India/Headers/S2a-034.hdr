@@ -1,0 +1,54 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-034</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2235</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-034>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>14-04-93</date>
+              <time>12.00noon</time>
+              <place>SSC/HSC Board, Saraswati Hall, Pune</place>
+       </recording.data>
+              <organising.body>SSC/HSC Board's Office "New
+                   Textbooks' Editors &
+                   Compilers"</organising.body>
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-034</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Lecture
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size>20-Members of Board</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-034</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Verma</surname>
+              <forenames>Shivendra Kishore</forenames>
+              <age>50+</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Patna, Bihar</birthplace>
+              <education>Doctorate</education>
+              <occupation>Teaching</occupation>
+              <affiliations>All India Linguists Association &
+                   Dravadian Linguistics
+                   Association</affiliations>
+              <mother.tongue>Hindi</mother.tongue>
+              <other.languages></other.languages>
+              <free.comments>Moved to Hyderabad in 1966-to
+                   date</free.comments>
+       </biography>
+</text.info>

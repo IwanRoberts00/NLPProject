@@ -1,0 +1,1214 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-031#1:1:A>
+<w> I'm </w> Mrs Gayatri Murthy <,>
+
+<ICE-IND:S1A-031#2:1:A>
+<w> I'm </w> from Banglore <,,>
+
+<$B> 
+<ICE-IND:S1A-031#3:1:B>
+<w> I'm </w> Miss Vidya Shetty
+
+<ICE-IND:S1A-031#4:1:B>
+<w> I'm </w> from Manglore <,>
+
+<ICE-IND:S1A-031#5:1:B>
+I teach in St Andrews College <,,>
+
+<ICE-IND:S1A-031#6:1:B>
+<w> I'm </w> a lecturer in English <,,>
+
+<$A> 
+<ICE-IND:S1A-031#7:1:A>
+Why don't you tell your figure also
+
+<$B> 
+<ICE-IND:S1A-031#8:1:B>
+<O> Laughter </O> <{> <[> I didn't have </[>
+
+<$A> 
+<ICE-IND:S1A-031#9:1:A>
+<[> You seem to </[> </{> have the whole biography
+
+<$B> 
+<ICE-IND:S1A-031#10:1:B>
+Nobody is going to see me so I don't reply
+
+<$A> 
+<ICE-IND:S1A-031#11:1:A>
+Doesn't matter impress them by your voice atleast
+
+<ICE-IND:S1A-031#12:1:A>
+Let them imagine <,,> that <w> you've </w> that <,> <{> <[> that
+<,> that
+
+<$B> 
+<ICE-IND:S1A-031#13:1:B>
+<[> That </[> </{>
+
+<$B> 
+<ICE-IND:S1A-031#14:1:B>
+That will do for the impression <,,>
+
+<$C> 
+<ICE-IND:S1A-031#15:1:C>
+<w> I'm </w> Miss Lalitha <,> lecturer in English <,> teaching
+in Government B F College <,> Tumkur which is in Karnataka State <,>
+
+<$A> 
+<ICE-IND:S1A-031#16:1:A>
+What is it <,> Vidya why didn't you marry tell me <,,> ?
+
+<$B> 
+<ICE-IND:S1A-031#17:1:B>
+I didn't find a suitable person
+
+<$A> 
+<ICE-IND:S1A-031#18:1:A>
+The right man you mean
+
+<$B> 
+<ICE-IND:S1A-031#19:1:B>
+Yes of course <,,>
+
+<$A> 
+<ICE-IND:S1A-031#20:1:A>
+Anyway whoever man who is <,> I really pity him <,>
+
+<$B> 
+<ICE-IND:S1A-031#21:1:B>
+What for <,,> ?
+
+<$C> 
+<ICE-IND:S1A-031#22:1:C>
+I think that applies to you <,>
+
+<ICE-IND:S1A-031#23:1:C>
+Now <{> <[> why didn't pity pity you </[>
+
+<$A> 
+<ICE-IND:S1A-031#24:1:A>
+<[> <O> A few words </O> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-031#25:1:B>
+We pity you because you are married and you have two sons <{>
+<[> who </[>
+
+<$C> 
+<ICE-IND:S1A-031#26:1:C>
+<[> And </[> </{> at the same time you are not quite young <,>
+
+<$B> 
+<ICE-IND:S1A-031#27:1:B>
+We have freedom <,> but you don't have that
+
+<$C> 
+<ICE-IND:S1A-031#28:1:C>
+We we should have to pity you
+
+<$A> 
+<ICE-IND:S1A-031#29:1:A>
+No you don't know the fact married woman <}> <-> were </-> <+>
+are </+> </}> most free and safe you know that
+
+<$B> 
+<ICE-IND:S1A-031#30:1:B>
+No <w> we'll </w> come <{> <[> to know later </[> on
+
+<$C> 
+<ICE-IND:S1A-031#31:1:C>
+<[> <w> That's </w> why </[> </{> that is why <w> I'm </w>
+planning to get married <,> this October or next March <,,>
+
+<$B> 
+<ICE-IND:S1A-031#32:1:B>
+So I don't have to plan to get married because <,> I must wait
+for the suitable person <,> who is for me
+
+<$A> 
+<ICE-IND:S1A-031#33:1:A>
+What do you mean by suitable person ?
+
+<ICE-IND:S1A-031#34:1:A>
+<{> <[> <O> One or two words </O> </[>
+
+<$B> 
+<ICE-IND:S1A-031#35:1:B>
+<[> Anyway </[> </{> who is waiting for <,> for a suitable
+woman
+
+<$A> 
+<ICE-IND:S1A-031#36:1:A>
+That mean if you don't fit his <,> uh uh dimension
+
+<$B> 
+<ICE-IND:S1A-031#37:1:B>
+Yes he is waiting <,>
+
+<ICE-IND:S1A-031#38:1:B>
+And so also <w> I'm </w> also waiting
+
+<$A> 
+<ICE-IND:S1A-031#39:1:A>
+I hope <O> one or two words </O>
+
+<$B> 
+<ICE-IND:S1A-031#40:1:B>
+Which means which means <,> he is waiting
+
+<ICE-IND:S1A-031#41:1:B>
+Which means somebody is waiting
+
+<$A> 
+<ICE-IND:S1A-031#42:1:A>
+Oh you mean these <,> uh men who marry <,> girls like you <,>
+I really pity them
+
+<$B> 
+<ICE-IND:S1A-031#43:1:B>
+Girls <{> <[> like us </[> <,> then what about you ?
+
+<$A> 
+<ICE-IND:S1A-031#44:1:A>
+<[> Like you </[>
+
+<$A> 
+<ICE-IND:S1A-031#45:1:A>
+<w> I'm </w> married and well settled <{> <[> with a loving
+husband </[>
+
+<$B> 
+<ICE-IND:S1A-031#46:1:B>
+<[> Hey <w> that's </w> what we pity </[> </{> we pity <O>
+laughter </O> <w> that's </w> your Mr whatever <,,>
+
+<$A> 
+<ICE-IND:S1A-031#47:1:A>
+Don't you think <w> I'm </w> a very good housewife very good
+wife <,> very good mother <,> and what not
+
+<$B> 
+<ICE-IND:S1A-031#48:1:B>
+How does your husband manage with you <,> because you are so
+talkative and so <{> <[> <O> one word </O> </[>
+
+<$C> 
+<ICE-IND:S1A-031#49:1:C>
+<[> <w> We'll </w> <w> we'll </w> </[> </{> be better judges
+after we meet your husband <,,>
+
+<$A> 
+<ICE-IND:S1A-031#50:1:A>
+You <{> <[> must come to </[>
+
+<$B> 
+<ICE-IND:S1A-031#51:1:B>
+<[> You must take us </[> </{> to Banglore someday introduce
+us to your husband <{> <[> as well as </[> your sons
+
+<$A> 
+<ICE-IND:S1A-031#52:1:A>
+<[> Oh </[> </{>
+
+<$A> 
+<ICE-IND:S1A-031#53:1:A>
+<w> He's </w> all yours <,>
+
+<$B> 
+<ICE-IND:S1A-031#54:1:B>
+<w> We'll </w> tell him what all you were doing in Mysore
+
+<$C> 
+<ICE-IND:S1A-031#55:1:C>
+<O> Laughter </O>
+
+<$B> 
+<ICE-IND:S1A-031#56:1:B>
+No we don't want him for us <,>
+
+<$A> 
+<ICE-IND:S1A-031#57:1:A>
+He is least bothered <,>
+
+<$C> 
+<ICE-IND:S1A-031#58:1:C>
+We don't want him for us but whatever it is <,,> we don't mind
+meeting him <,>
+
+<$B> 
+<ICE-IND:S1A-031#59:1:B>
+Let her meet him
+
+<$A> 
+<ICE-IND:S1A-031#60:1:A>
+No I will
+
+<$B> 
+<ICE-IND:S1A-031#61:1:B>
+Tell us tell us something about your family <,,> ?
+
+<$A> 
+<ICE-IND:S1A-031#62:1:A>
+Oh <,> you tell young girls you tell about your boyfriends <,>
+
+<$B> 
+<ICE-IND:S1A-031#63:1:B>
+My I don't have a boyfriend <,> <{> <[> nobody falls for me
+</[>
+
+<$A> 
+<ICE-IND:S1A-031#64:1:A>
+<[> What is there to what </[> </{> is there to tell about
+family
+
+<$C> 
+<ICE-IND:S1A-031#65:1:C>
+I don't have any boyfriends
+
+<$B> 
+<ICE-IND:S1A-031#66:1:B>
+Same here <,>
+
+<ICE-IND:S1A-031#67:1:B>
+Nobody falls for us unlike you
+
+<$A> 
+<ICE-IND:S1A-031#68:1:A>
+You are so backward <,>
+
+<$B> 
+<ICE-IND:S1A-031#69:1:B>
+Of course <,> in every possible way <,>
+
+<$C> 
+<ICE-IND:S1A-031#70:1:C>
+We are backward <,,> in that way we are backward
+
+<$A> 
+<ICE-IND:S1A-031#71:1:A>
+Uh then your then you must be abnormal
+
+<ICE-IND:S1A-031#72:1:A>
+See <,> young girls like you must have a boyfriend <,>
+
+<$C> 
+<ICE-IND:S1A-031#73:1:C>
+We do have boyfriends <,> <{> <[> uhm <,> but <,> not the sort
+<,> that you have in your mind
+
+<$A> 
+<ICE-IND:S1A-031#74:1:A>
+<[> Uhm </[> </{>
+
+<$A> 
+<ICE-IND:S1A-031#75:1:A>
+No I didn't had anything in my mind
+
+<$B> 
+<ICE-IND:S1A-031#76:1:B>
+I too have
+
+<$A> 
+<ICE-IND:S1A-031#77:1:A>
+Now why you are this so guilty
+
+<$B> 
+<ICE-IND:S1A-031#78:1:B>
+Yes I talk to <{> <[> them I talk to them </[>
+
+<$A> 
+<ICE-IND:S1A-031#79:1:A>
+<[> Why are you guilty </[> </{> Lalita ?
+
+<$B> 
+<ICE-IND:S1A-031#80:1:B>
+I meet them <,> I go to restuarant with them <,> and all
+
+<$A> 
+<ICE-IND:S1A-031#81:1:A>
+<w> That's </w> what I meant <,>
+
+<ICE-IND:S1A-031#82:1:A>
+You have a dirty mind
+
+<ICE-IND:S1A-031#83:1:A>
+I said boyfriend is a boyfriend he is <,> just like a girl friend
+
+<$B> 
+<ICE-IND:S1A-031#84:1:B>
+I don't <,> deny that
+
+<$A> 
+<ICE-IND:S1A-031#85:1:A>
+Uhm <,> then why did you say we don't have boyfriends <,> why ?
+
+<$C> 
+<ICE-IND:S1A-031#86:1:C>
+Because we don't have boyfriend <,>
+
+<$A> 
+<ICE-IND:S1A-031#87:1:A>
+You don't have anybody <,>
+
+<$B> 
+<ICE-IND:S1A-031#88:1:B>
+No not yet
+
+<$A> 
+<ICE-IND:S1A-031#89:1:A>
+Then what about your college <,,> ?
+
+<$B> 
+<ICE-IND:S1A-031#90:1:B>
+All of them are women <,,>
+
+<$A> 
+<ICE-IND:S1A-031#91:1:A>
+My god
+
+<$B> 
+<ICE-IND:S1A-031#92:1:B>
+<{> <[> <w> It's </w> a womens college and therefore </[>
+
+<$A> 
+<ICE-IND:S1A-031#93:1:A>
+<[> Such an unromantic situation </[> </{> <w> you're </w>
+working in <,>
+
+<$B> 
+<ICE-IND:S1A-031#94:1:B>
+Irony of sort <,> I believe <,> I believe myself
+
+<$C> 
+<ICE-IND:S1A-031#95:1:C>
+You mean to say that when the <,> when <,> the place where men
+are <,> is a romantic place <,> and we can romance <{> <[> with them </[>
+
+<$A> 
+<ICE-IND:S1A-031#96:1:A>
+<[> Of course </[> </{> of course <,> men <{> <[> are so
+romantic </[>
+
+<$B> 
+<ICE-IND:S1A-031#97:1:B>
+<[> I don't like </[> </{> to romance with boy boyfriend
+
+<$A> 
+<ICE-IND:S1A-031#98:1:A>
+<{> <[> They are so helping </[> I I <w> I'm </w> <w> I'm </w>
+so
+
+<$B> 
+<ICE-IND:S1A-031#99:1:B>
+<[> They are friends </[> </{>
+
+<$C> 
+<ICE-IND:S1A-031#100:1:C>
+Come on come on <w> let's </w> change the topic <w> it's </w>
+too boring
+
+<$A> 
+<ICE-IND:S1A-031#101:1:A>
+Why are you blushing so much ?
+
+<$C> 
+<ICE-IND:S1A-031#102:1:C>
+<w> I'm </w> not blushing
+
+<$A> 
+<ICE-IND:S1A-031#103:1:A>
+Uhn
+
+<$C> 
+<ICE-IND:S1A-031#104:1:C>
+Just <,,>
+
+<$A> 
+<ICE-IND:S1A-031#105:1:A>
+There is something cooking <,> look at that <,> the way she
+wants to <,,>
+
+<$C> 
+<ICE-IND:S1A-031#106:1:C>
+No but <w> it's </w> so embarassing your topic <w> that's
+</w> why I said
+
+<$A> 
+<ICE-IND:S1A-031#107:1:A>
+Why should it embarass you <,> <{> <[> unless there is
+something </[>
+
+<$C> 
+<ICE-IND:S1A-031#108:1:C>
+<[> Those things you know </[> </{> no no no
+
+<$A> 
+<ICE-IND:S1A-031#109:1:A>
+Something very
+
+<$C> 
+<ICE-IND:S1A-031#110:1:C>
+Change the topic
+
+<$B> 
+<ICE-IND:S1A-031#111:1:B>
+Now <w> let's </w> change the topic please <,> <w> it's </w>
+just boring
+
+<$A> 
+<ICE-IND:S1A-031#112:1:A>
+Then you you <O> one word </O> start
+
+<$C> 
+<ICE-IND:S1A-031#113:1:C>
+Then you suggest something else
+
+<$B> 
+<ICE-IND:S1A-031#114:1:B>
+Did you buy
+
+<$A> 
+<ICE-IND:S1A-031#115:1:A>
+<{> <[> No I won't suggest </[> I suggested boyfriend and you
+people are so offended <,> then why should I suggest
+
+<$B> 
+<ICE-IND:S1A-031#116:1:B>
+<[> Did you buy sarees </[> </{> ?
+
+<$C> 
+<ICE-IND:S1A-031#117:1:C>
+We are not offended <,> but we don't have anything to <{> <[>
+say </[>
+
+<$B> 
+<ICE-IND:S1A-031#118:1:B>
+<[> Did </[> </{> you buy something new <,,> recently ?
+
+<$A> 
+<ICE-IND:S1A-031#119:1:A>
+I want to buy <,> what new <,> <w> I've </w> <{> <[> been
+</[> buying all this
+
+<$C> 
+<ICE-IND:S1A-031#120:1:C>
+<[> No no </[> </{>
+
+<$C> 
+<ICE-IND:S1A-031#121:1:C>
+You tell us something about your fifty pairs of ear studs and
+all that <,,>
+
+<$A> 
+<ICE-IND:S1A-031#122:1:A>
+Uh I have a collecton of <,> uh jewel
+
+<$B> 
+<ICE-IND:S1A-031#123:1:B>
+Uhm
+
+<$A> 
+<ICE-IND:S1A-031#124:1:A>
+Uh
+
+<$C> 
+<ICE-IND:S1A-031#125:1:C>
+What kind of jewels you have ?
+
+<$B> 
+<ICE-IND:S1A-031#126:1:B>
+Diamonds of course <,>
+
+<$A> 
+<ICE-IND:S1A-031#127:1:A>
+Of course <,> gold also
+
+<ICE-IND:S1A-031#128:1:A>
+I wore <,> I don't wear imitation jewel <,>
+
+<ICE-IND:S1A-031#129:1:A>
+I have a good collection of <indig> sarees </indig> <,>
+
+<ICE-IND:S1A-031#130:1:A>
+I can't resist them specially cotton <,,>
+
+<ICE-IND:S1A-031#131:1:A>
+I like dressing up <,,> whether it suits me or not <,> that is <,>
+<{> <[> definetly <w> it's </w> <,,> difference side of
+
+<$C> 
+<ICE-IND:S1A-031#132:1:C>
+<[> Definitely <w> it's </w> </[> </{> <O> laughter </O>
+
+<$C> 
+<ICE-IND:S1A-031#133:1:C>
+Do you like to impress others also
+
+<$B> 
+<ICE-IND:S1A-031#134:1:B>
+<{> <[> Of course she is trying the very best </[>
+
+<$A> 
+<ICE-IND:S1A-031#135:1:A>
+<[> Of course I want to impress everyone </[> </{>
+
+<$B> 
+<ICE-IND:S1A-031#136:1:B>
+She is trying her very best to do that
+
+<$A> 
+<ICE-IND:S1A-031#137:1:A>
+Why not <,> everyone wants to impress somebody isn't it ?
+
+<$C> 
+<ICE-IND:S1A-031#138:1:C>
+No don't generalise <,>
+
+<$A> 
+<ICE-IND:S1A-031#139:1:A>
+Oh of course
+
+<$C> 
+<ICE-IND:S1A-031#140:1:C>
+We are not sort of <,>
+
+<$B> 
+<ICE-IND:S1A-031#141:1:B>
+You know something is
+
+<$C> 
+<ICE-IND:S1A-031#142:1:C>
+We are not for it <,,>
+
+<$A> 
+<ICE-IND:S1A-031#143:1:A>
+Then what do you what is your <,> hobbies and talent <,,> not
+that you have any as I see
+
+<$B> 
+<ICE-IND:S1A-031#144:1:B>
+Shut up <,> <O> laughter </O>
+
+<ICE-IND:S1A-031#145:1:B>
+I paint <,,> I sketch <,,>
+
+<ICE-IND:S1A-031#146:1:B>
+Then I do embossing I do <O> one word </O> work <,,> uh what else
+<,,> ?
+
+<$A> 
+<ICE-IND:S1A-031#147:1:A>
+I don't know <,>
+
+<ICE-IND:S1A-031#148:1:A>
+You must be knowing yourself <,>
+
+<$C> 
+<ICE-IND:S1A-031#149:1:C>
+Jack of all master of none <,>
+
+<$B> 
+<ICE-IND:S1A-031#150:1:B>
+Of course <,,> so what is much better than doing nothing <,>
+
+<$A> 
+<ICE-IND:S1A-031#151:1:A>
+And what do you do Lali ?
+
+<$C> 
+<ICE-IND:S1A-031#152:1:C>
+I teach <,> I sing
+
+<$A> 
+<ICE-IND:S1A-031#153:1:A>
+Uhn
+
+<$C> 
+<ICE-IND:S1A-031#154:1:C>
+I sing sometimes badly <,,> then I draw picture <,>
+
+<ICE-IND:S1A-031#155:1:C>
+I dance I am a dancer as well <,>
+
+<$A> 
+<ICE-IND:S1A-031#156:1:A>
+Uhm what kind of dance ?
+
+<$C> 
+<ICE-IND:S1A-031#157:1:C>
+Bharatnatyam <,,>
+
+<$A> 
+<ICE-IND:S1A-031#158:1:A>
+Oh come on <,> don't tell me
+
+<$B> 
+<ICE-IND:S1A-031#159:1:B>
+Bharatnatyam is very
+
+<$C> 
+<ICE-IND:S1A-031#160:1:C>
+Of course seven years I did it <,,>
+
+<ICE-IND:S1A-031#161:1:C>
+<{> <[> Haven't completed my <O> one word </O> </[> anyway <,,>
+
+<$A> 
+<ICE-IND:S1A-031#162:1:A>
+<[> <O> A few words </O> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-031#163:1:B>
+You should get that
+
+<$C> 
+<ICE-IND:S1A-031#164:1:C>
+No not yet
+
+<$B> 
+<ICE-IND:S1A-031#165:1:B>
+Why ?
+
+<$A> 
+<ICE-IND:S1A-031#166:1:A>
+So you can give one show on the ninteenth
+
+<$C> 
+<ICE-IND:S1A-031#167:1:C>
+Because that was in the tenth standard when my parents stop
+me <,,>
+
+<$A> 
+<ICE-IND:S1A-031#168:1:A>
+Don't take up <,> don't talk about these things <,,>
+
+<$B> 
+<ICE-IND:S1A-031#169:1:B>
+Then ?
+
+<$A> 
+<ICE-IND:S1A-031#170:1:A>
+<O> A few words </O> <,,>
+
+<$C> 
+<ICE-IND:S1A-031#171:1:C>
+Then what else you want to talk about <,,> ?
+
+<$B> 
+<ICE-IND:S1A-031#172:1:B>
+You suggest something you are supposed to be <{> <[> so busy
+</[> and so wise
+
+<$A> 
+<ICE-IND:S1A-031#173:1:A>
+<[> I have been </[> </{>
+
+<$A> 
+<ICE-IND:S1A-031#174:1:A>
+Who said that that you are telling it I don't know why you
+are telling all these things to me <,>
+
+<ICE-IND:S1A-031#175:1:A>
+Anyway I accept it very decent <,,>
+
+<$B> 
+<ICE-IND:S1A-031#176:1:B>
+You sure
+
+<$A> 
+<ICE-IND:S1A-031#177:1:A>
+Anyway there is one person who has realised my potential <O>
+laughter </O> <,,>
+
+<$C> 
+<ICE-IND:S1A-031#178:1:C>
+But we don't think she has such a potential know
+
+<$B> 
+<ICE-IND:S1A-031#179:1:B>
+She is witty no doubt <,> but at times over witty <,,>
+
+<$A> 
+<ICE-IND:S1A-031#180:1:A>
+So and what it is got to do with you <,,> ?
+
+<ICE-IND:S1A-031#181:1:A>
+You must be thanked
+
+<$C> 
+<ICE-IND:S1A-031#182:1:C>
+<w> I'm </w> <O> one word </O> <,>
+
+<$A> 
+<ICE-IND:S1A-031#183:1:A>
+Uh that <,> come on that is the point
+
+<$C> 
+<ICE-IND:S1A-031#184:1:C>
+And <,> then we are talkative <,>
+
+<$B> 
+<ICE-IND:S1A-031#185:1:B>
+Of me or Gayatri
+
+<$C> 
+<ICE-IND:S1A-031#186:1:C>
+Gayatri <,> because I like her <,>
+
+<ICE-IND:S1A-031#187:1:C>
+She is so <,> frankly she speaks to
+
+<$B> 
+<ICE-IND:S1A-031#188:1:B>
+She is very candid
+
+<$C> 
+<ICE-IND:S1A-031#189:1:C>
+She does not keep anything in her mind
+
+<$B> 
+<ICE-IND:S1A-031#190:1:B>
+Ah ah yes <,> she comes out with ideas
+
+<$A> 
+<ICE-IND:S1A-031#191:1:A>
+What ideas ?
+
+<$B> 
+<ICE-IND:S1A-031#192:1:B>
+You say ideas like what
+
+<$C> 
+<ICE-IND:S1A-031#193:1:C>
+You support life <,> this is but life <indig> na </indig> <,>
+
+<ICE-IND:S1A-031#194:1:C>
+She told <,> <{> <[> yeah <,> I have taught <,> even at that age
+she has got
+
+<$B> 
+<ICE-IND:S1A-031#195:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-031#196:1:B>
+She is not very old <,>
+
+<ICE-IND:S1A-031#197:1:B>
+Please don't make her so old
+
+<$A> 
+<ICE-IND:S1A-031#198:1:A>
+I know why she keeps telling me old
+
+<$C> 
+<ICE-IND:S1A-031#199:1:C>
+She is old <,>
+
+<$A> 
+<ICE-IND:S1A-031#200:1:A>
+Come on <,>
+
+<$B> 
+<ICE-IND:S1A-031#201:1:B>
+Can't make out that <,,>
+
+<$C> 
+<ICE-IND:S1A-031#202:1:C>
+How <,> ?
+
+<$B> 
+<ICE-IND:S1A-031#203:1:B>
+But she <,> <{> <[> how <,> tries to be <,> look young <,,>
+
+<$C> 
+<ICE-IND:S1A-031#204:1:C>
+<[> How </[> </{>
+
+<$C> 
+<ICE-IND:S1A-031#205:1:C>
+She is young at heart <w> that's </w> what
+
+<$A> 
+<ICE-IND:S1A-031#206:1:A>
+No I don't try to look <,> younger than my age
+
+<$C> 
+<ICE-IND:S1A-031#207:1:C>
+Then ?
+
+<$A> 
+<ICE-IND:S1A-031#208:1:A>
+Do I Vidya <,> ?
+
+<$B> 
+<ICE-IND:S1A-031#209:1:B>
+No way
+
+<$A> 
+<ICE-IND:S1A-031#210:1:A>
+Uhm <,> why I should look
+
+<$B> 
+<ICE-IND:S1A-031#211:1:B>
+Uhm <,>
+
+<$A> 
+<ICE-IND:S1A-031#212:1:A>
+I don't have to <,,>
+
+<ICE-IND:S1A-031#213:1:A>
+Then what <,> what do you mean that I tried to look young <,,>
+
+<$C> 
+<ICE-IND:S1A-031#214:1:C>
+Putting on all these <indig> bindis </indig> <{> <[> matching
+it </[>
+
+<$A> 
+<ICE-IND:S1A-031#215:1:A>
+<[> That is </[> </{> I like dressing up I told you at the
+beginning only
+
+<ICE-IND:S1A-031#216:1:A>
+I like dressing nicely neatly and <,> uh
+
+<$C> 
+<ICE-IND:S1A-031#217:1:C>
+Heel <indig> chappals </indig> and all that you wear <,>
+
+<$B> 
+<ICE-IND:S1A-031#218:1:B>
+<{> <[> No wait </[> don't you wear heel <indig> chappals
+</indig>
+
+<$A> 
+<ICE-IND:S1A-031#219:1:A>
+<[> Why not </[> </{>
+
+<$C> 
+<ICE-IND:S1A-031#220:1:C>
+<w> I'm </w> not
+
+<$B> 
+<ICE-IND:S1A-031#221:1:B>
+How sad <,> don't say that <,>
+
+<$A> 
+<ICE-IND:S1A-031#222:1:A>
+Do you mean to say that when you get old <w> you'll </w>
+change all <,> your dresses <,> <{> <[> yes definitely <,> and dressing so
+smartly like this <,,>
+
+<$C> 
+<ICE-IND:S1A-031#223:1:C>
+<[> Yes definetly </[> </{>
+
+<$A> 
+<ICE-IND:S1A-031#224:1:A>
+Never <,> if you have a good face for everything <,> I don't
+<{> <[> think </[>
+
+<$B> 
+<ICE-IND:S1A-031#225:1:B>
+<[> Of course you have </[> </{>
+
+<$A> 
+<ICE-IND:S1A-031#226:1:A>
+Even if you are eighty years old <,> you will <{> <[> be
+smart </[>
+
+<ICE-IND:S1A-031#227:1:A>
+Haven't you seen <,> even eighty years old woman <,> how smart
+they will be
+
+<$B> 
+<ICE-IND:S1A-031#228:1:B>
+<[> <O> One or two words </O> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-031#229:1:B>
+Right <,,>
+
+<$A> 
+<ICE-IND:S1A-031#230:1:A>
+Then what else <,,> ?
+
+<$B> 
+<ICE-IND:S1A-031#231:1:B>
+Where did you do your schooling you said <,> ?
+
+<$A> 
+<ICE-IND:S1A-031#232:1:A>
+Banglore <,>
+
+<ICE-IND:S1A-031#233:1:A>
+Everything Banglore only <,,>
+
+<$B> 
+<ICE-IND:S1A-031#234:1:B>
+K G to <,,>
+
+<$A> 
+<ICE-IND:S1A-031#235:1:A>
+Of course <,,> born and
+
+<$B> 
+<ICE-IND:S1A-031#236:1:B>
+And your husband <,,> ?
+
+<$A> 
+<ICE-IND:S1A-031#237:1:A>
+Banglore <,> he is basically from Banglore <,>
+
+<$B> 
+<ICE-IND:S1A-031#238:1:B>
+You speak Telugu <,>
+
+<$A> 
+<ICE-IND:S1A-031#239:1:A>
+So what <,> ?
+
+<$B> 
+<ICE-IND:S1A-031#240:1:B>
+How could you <,> ?
+
+<$C> 
+<ICE-IND:S1A-031#241:1:C>
+Speak Telugu and being in Banglore <,>
+
+<$A> 
+<ICE-IND:S1A-031#242:1:A>
+We speak Telugu <,>
+
+<$B> 
+<ICE-IND:S1A-031#243:1:B>
+Your parents were also in Banglore <,,>
+
+<$A> 
+<ICE-IND:S1A-031#244:1:A>
+My mother is <-> been </-> from Banglore <,> <{> <[> uhm <,>
+my father is from <,> uh nearby Banglore
+
+<$B> 
+<ICE-IND:S1A-031#245:1:B>
+<[> Uhn </[> </{>
+
+<$B> 
+<ICE-IND:S1A-031#246:1:B>
+You have had a <O> one word </O> Chintamani
+
+<$A> 
+<ICE-IND:S1A-031#247:1:A>
+Chintamani <,> no that I have been to that place many times
+<,>
+
+<ICE-IND:S1A-031#248:1:A>
+My sister was working there for sometime in Canara Bank <,,>
+
+<ICE-IND:S1A-031#249:1:A>
+She was there for one and a half year <,,>
+
+<ICE-IND:S1A-031#250:1:A>
+Stayed there for some month <,,>
+
+<ICE-IND:S1A-031#251:1:A>
+And you said you were <,> you were in Bombay no <,> ?
+
+<ICE-IND:S1A-031#252:1:A>
+How was Bombay ?
+
+<$B> 
+<ICE-IND:S1A-031#253:1:B>
+I did my schooling in Bombay <,,>
+
+<$A> 
+<ICE-IND:S1A-031#254:1:A>
+You like Bombay or Manglore ?
+
+<$B> 
+<ICE-IND:S1A-031#255:1:B>
+<O> One or two words </O> my college <,,> <O> one or two
+words </O> in Bombay <,>
+
+<ICE-IND:S1A-031#256:1:B>
+Now I have got used to this life <,>
+
+<ICE-IND:S1A-031#257:1:B>
+This slow life <,>
+
+<$A> 
+<ICE-IND:S1A-031#258:1:A>
+Uhn that way I think <,> many place is better than Bombay
+
+<$B> 
+<ICE-IND:S1A-031#259:1:B>
+And I did my college here <,>
+
+<ICE-IND:S1A-031#260:1:B>
+And my post graduation here <,>
+
+<ICE-IND:S1A-031#261:1:B>
+And now <w> I'm </w> working in <O> one word </O> <,>
+
+<ICE-IND:S1A-031#262:1:B>
+Know I keep going to Bombay every now and then
+
+<$C> 
+<ICE-IND:S1A-031#263:1:C>
+Uhn ah
+
+<$A> 
+<ICE-IND:S1A-031#264:1:A>
+You have friends there <,> ?
+
+<$B> 
+<ICE-IND:S1A-031#265:1:B>
+No my dads is there <,> he has got business <,> our business
+is there <,,>
+
+<$A> 
+<ICE-IND:S1A-031#266:1:A>
+How about your friends <,,> ?
+
+<$B> 
+<ICE-IND:S1A-031#267:1:B>
+<{> <[> I have many friends </[> in Manglore as well as in
+Bombay
+
+<$A> 
+<ICE-IND:S1A-031#268:1:A>
+<[> You have many friends in Manglore </[> </{>
+
+<$A> 
+<ICE-IND:S1A-031#269:1:A>
+Girlfriend <,>
+
+<$B> 
+<ICE-IND:S1A-031#270:1:B>
+Girlfriend <,> let me specify that <,,>
+
+<$A> 
+<ICE-IND:S1A-031#271:1:A>
+How uninteresting <,,> ?
+
+<$B> 
+<ICE-IND:S1A-031#272:1:B>
+What is uninteresting in that <,>
+
+<$A> 
+<ICE-IND:S1A-031#273:1:A>
+Then what <,> ?
+
+<ICE-IND:S1A-031#274:1:A>
+A young girl like your age having only <{> <[> girlfriend I just
+</[> can't imagine
+
+<$B> 
+<ICE-IND:S1A-031#275:1:B>
+<[> May be may be </[> </{>
+
+<$B> 
+<ICE-IND:S1A-031#276:1:B>
+May be I should have been your daughter <,,>
+
+<ICE-IND:S1A-031#277:1:B>
+My parents won't accept that <,>
+
+<$A> 
+<ICE-IND:S1A-031#278:1:A>
+Then I should allow having offer you even to study college
+<,>
+
+<ICE-IND:S1A-031#279:1:A>
+A girl like you with uh <,>
+
+<$B> 
+<ICE-IND:S1A-031#280:1:B>
+Without boyfriend <,>
+
+<$A> 
+<ICE-IND:S1A-031#281:1:A>
+With uh
+
+<$B> 
+<ICE-IND:S1A-031#282:1:B>
+Contrast <,>
+
+<$A> 
+<ICE-IND:S1A-031#283:1:A>
+Why anyway I told you you can be my daughter-in-law no <,>
+
+<$B> 
+<ICE-IND:S1A-031#284:1:B>
+I refuse that offer <O> laughter </O> <,> this is the second
+time <{> <[> you have offered </[>
+
+<$A> 
+<ICE-IND:S1A-031#285:1:A>
+<[> You don't you don't know </[> </{> what you are missing
+
+<$B> 
+<ICE-IND:S1A-031#286:1:B>
+And this is the second time I have refused <,>
+
+<$C> 
+<ICE-IND:S1A-031#287:1:C>
+Declined the offer <,>
+
+<$A> 
+<ICE-IND:S1A-031#288:1:A>
+You don't know what you are missing
+
+<$B> 
+<ICE-IND:S1A-031#289:1:B>
+Tell me did you go anywhere in this summer <,> ?
+
+<$C> 
+<ICE-IND:S1A-031#290:1:C>
+How did you spent your summer time ?
+
+<$A> 
+<ICE-IND:S1A-031#291:1:A>
+Summer I don't know how it passed <,,>
+
+<ICE-IND:S1A-031#292:1:A>
+I just went to Madras for a short visit <,,>
+
+<ICE-IND:S1A-031#293:1:A>
+I told you know we had our <w> Lion's </w> <,> Conference <,>
+
+<$C> 
+<ICE-IND:S1A-031#294:1:C>
+What for <,> ?
+
+<$A> 
+<ICE-IND:S1A-031#295:1:A>
+And by well <,> where is the time
+
+<ICE-IND:S1A-031#296:1:A>
+As soon as the exams were over <,> evaluation <,,> and then <,> uh
+I just finished evaluation and came here <,>
+
+<$C> 
+<ICE-IND:S1A-031#297:1:C>
+I didn't go anywhere no <,,>
+
+<ICE-IND:S1A-031#298:1:C>
+Just I <,> kill the time in summer <,> reading <,> doing nothing
+
+<$B> 
+<ICE-IND:S1A-031#299:1:B>
+Evaluation you have done <,> ?
+
+<$A> 
+<ICE-IND:S1A-031#300:1:A>
+Usually you got
+
+<$C> 
+<ICE-IND:S1A-031#301:1:C>
+I went for vacation <,> and I stayed in Banglore for sixteen
+days <,> and I came back home <,,> </I>

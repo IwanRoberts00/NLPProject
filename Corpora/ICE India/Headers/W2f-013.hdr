@@ -1,0 +1,75 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-013</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:story</caregory>
+            <wordcount>2667</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2F-013(1)>
+       <source.type=periodical>
+            <source.title>Indian Express-Citizen</source.title>
+            <source.subtitle></source.subtitle>
+       <publication.statement>
+            <publisher></publisher>
+            <address></address>
+            <place></place>
+            <date>20-07-95</date>
+            <ISBN>not known</ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of the
+            author</copyright.statement>
+       <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-011(1)>
+       <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Don't Worry, Be Happy</main.title>
+            <subtitle></subtitle>
+            <page.nos>29</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <subtext.source=W2F-013(2)>
+       <source.type=periodical>
+            <source.title>Indian Express-Citizen</source.title>
+            <source.subtitle></source.subtitle>
+       <publication.statement>
+            <publisher></publisher>
+            <address></address>
+            <place></place>
+            <date>18-01-96</date>
+            <ISBN>not known</ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of the
+            author</copyright.statement>
+       <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-011(2)>
+       <subtext.name>ICE-IND-</subtext.name>
+            <main.title>The Godmother</main.title>
+            <subtitle></subtitle>
+            <page.nos>38-39</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-011>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Shastri</surname>
+            <forenames>Girish S.</forenames>
+            <age>26</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Dombivali, Thana,
+              Maharashtra</birthplace>
+            <education>Shivaji University</education>
+            <educational.level>B.E.</educational.level>
+            <occupation>service</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Kolhapur (1975-87), Karad
+              (1987-91), Pune(1991 to date)</free.comments>
+       </biography>
+</text.info>

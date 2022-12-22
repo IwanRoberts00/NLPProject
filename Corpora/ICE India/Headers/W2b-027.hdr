@@ -1,0 +1,104 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-027</textcode>
+            <number.of.subtexts>2</number.of.subtexts>
+            <category>printed:informational:popular:
+              natural sciences</category>
+            <wordcount>2472</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-027(1)>
+        <source.type=newspaper>
+            <source.title>The Sunday Times of
+              India</source.title>
+            <source.subtitle>Review</source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>Bennett, Coleman & Co. Ltd.</publisher>
+            <address>Dr. Dadabhoy Naoroji Rd. Bombay-          
+                    400001</address>
+            <place>Bombay</place>
+            <date>01-01-95</date>
+        </publication.statement>
+        <copyright.statement>reproduced by arrangement with the 
+        author and the Times of India and is the copyright of the 
+        the publishers, Bennett, Coleman & Co.
+        Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-027(1)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Scitech</main.title>
+            <subtitle>Think small, think big</subtitle>
+            <page.nos>3</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-027(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Murthy</surname>
+                <forenames>Dr. Indira</forenames>
+                <age>50+</age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Mysore</birthplace>
+                <education>Mysore University, Karnataka
+                  University, University of Kansa Lawrence-
+                  USA</education>
+                <educational.level>M.Sc. Ph.D.(Physics)
+                  </educational.level>
+                <occupation>freelance Science
+                  Journalist</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Kannada</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments>Moved to Bombay (1962-67), USA
+                  (1967-71), Sweden 91979-80)</free.comments>
+        </biography>
+        <subtext.source=W2B-027(2)>
+        <source.type=newspaper>
+            <source.title>The Sunday Times of
+              India</source.title>
+            <source.subtitle>Review</source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>Bennett, Coleman & Co. Ltd.</publisher>
+            <address>Dr. Dadabhoy Naoroji Rd. Bombay-          
+                    400001</address>
+            <place>Bombay</place>
+            <date>04-12-94</date>
+        </publication.statement>
+        <copyright.statement>reproduced by arrangement with the 
+        author and the Times of India and is the copyright of the 
+        the publishers, Bennett, Coleman & Co.
+        Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-027(2)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Scitech</main.title>
+            <subtitle>Sands of destruction</subtitle>
+            <page.nos>2</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-027(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Monga</surname>
+                <forenames>Sunjoy</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

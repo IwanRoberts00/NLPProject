@@ -1,0 +1,406 @@
+<I> <&> centered on the page </&>
+
+<ICE-IND:W2B-033#1:1>
+<h> <ul> <bold> <smallcaps> TAKING SIDES </smallcaps> </bold>
+</ul> </h> <&> left margin, heading spread over column one and two </&>
+
+<ICE-IND:W2B-033#2:1>
+<h> <bold> Is the Greek word relevant today ? </bold> </h> <&>
+
+<p> 
+<ICE-IND:W2B-033#3:1>
+<it> Hippocratis, the ancient Greek physician, was well known for
+his primary concern for <w> man's </w> health and welfare.
+
+<ICE-IND:W2B-033#4:1>
+All medical graduates, about to receive their degree, even today take
+the famous Hippocratic oath to serve mankind selflessly.
+
+<ICE-IND:W2B-033#5:1>
+But in practice the priorities of doctors, medical students and even
+those who would be medical students are far removed from those of this Greek
+physician.
+
+<ICE-IND:W2B-033#6:1>
+The pull of high-tech medicine and treatment and its money-spinning
+potentials is too strong to resist.
+
+<ICE-IND:W2B-033#7:1>
+Are they even aware, asks VIMAL BALASUBRAHMANYAN, that health care can
+minimise the need for medical treatment and check the spread of diseases ?
+
+<ICE-IND:W2B-033#8:1>
+And that they, as doctors, can play a leading role in this direction?
+</it> </p> </&>
+
+<p> 
+<ICE-IND:W2B-033#9:1>
+<bold> It </bold> could well be a sobering truth for a young
+<mention> MBBS </mention> aspirant to learn that cholera in England was
+controlled long before the cholera vibrio was identified under the microscope
+and much before anything like an anti-cholera vaccine was thought about.
+
+<ICE-IND:W2B-033#10:1>
+The incidence of tuberculosis in UK had started declining much before
+streptomycin was discoverd or the BCG vaccination invented.
+
+<ICE-IND:W2B-033#11:1>
+And the killer diseases, which continue to ravage <mention> Third
+World </mention> countries, were brought under control in the West not
+because of advances in medical science but as a result of environmental
+hygiene, better food and housing, which came as a result of a rise in living
+standards. </p>
+
+<p> 
+<ICE-IND:W2B-033#12:1>
+Just as the diseases of poverty can be controlled by prevention,
+so too can the diseases of affluence, now prevalent in the developed world -
+- through changes in lifestyle and by the control of environmental factors.
+
+<ICE-IND:W2B-033#13:1>
+This is not to deny the relevance and importance of the curative role
+of medicine.
+
+<ICE-IND:W2B-033#14:1>
+But the fact is that this role is only of marginal importance in the
+promotion and maintenance of good health conditions in a country. </p>
+
+<p> 
+<ICE-IND:W2B-033#15:1>
+In 1976, Dr Thomas McKeown, professor of Social Medicine at the
+University of Birmingham, published a rather controversial paper in a medical
+journal.
+
+<ICE-IND:W2B-033#16:1>
+In it he demonstrated, with irrefutable statistics, that health
+conditions in 18th century England had improved not because of the
+contributions of the medical profession but because of improved nutrition and
+hygiene and the availability of contraception.
+
+<ICE-IND:W2B-033#17:1>
+Later enlarged and published as a book in 1979, Dr <w> McKeown's </w>
+<it> The Role of Medicine </it> is even today regarded as a pioneering
+contribution to the area of medical sociology.
+
+<ICE-IND:W2B-033#18:1>
+It is considered all the more significant because it comes from a
+member of the medical profession itself. </p>
+
+<p> 
+<ICE-IND:W2B-033#19:1>
+<it> Who cares for medical sociology </it> ?
+
+<ICE-IND:W2B-033#20:1>
+Unfortunately, a typical class twelfth student, <}> <-> swotting </->
+<+> swetting </+> </}> for the joint entrance exam and hoping to make it to a
+medical college, is unlikely to be advised by anyone to thumb through a book
+like <it> <mention> The Role of Medicine </it> </mention> .
+
+<ICE-IND:W2B-033#21:1>
+Nor is he / she likely to have heard of Ivan <w> Illich's </w> even
+more forthright and devastating critique, <it> <mention> The Limits of
+Medicine </mention> </it> , whose opening sentence reads : <quote> " The
+medical establishment has become a major threat to health." </quote>
+
+<ICE-IND:W2B-033#22:1>
+( The word <foreign> <quote> ` iatrogenesis' </quote> </foreign> ,
+meaning diseases caused by medical intervention, has entered the common
+vocabulary mainly because of Illich.) </p>
+
+<p> 
+<ICE-IND:W2B-033#23:1>
+And it is perfectly possible that after completing
+five-and-a-half gruelling years of medical education, the young intern not
+only may not have read either of these books, but could be blissfully unaware
+that there even exists such a field of study and research called medical
+sociology.
+
+<ICE-IND:W2B-033#24:1>
+This is a real pity because health and disease are very much rooted
+in social, economic and political factors, and are not merely a question of
+disease-causing organisms being attacked by a formidable combination of
+drugs, doctors and hospitals.
+
+<ICE-IND:W2B-033#25:1>
+When medicine is taught and studied in isolation as a ` science'
+unconnected with the humanities, the inevitable result is the flawed and
+often unethical practice it has become today.
+
+<ICE-IND:W2B-033#26:1>
+Now health-care is a pricy commodity to be sold by health <quote > `
+technologists' </quote> to those who can afford its exorbitant costs. </p>
+
+<p> 
+<ICE-IND:W2B-033#27:1>
+<h> <it> Two ends of a stick : </it> </h>
+
+<ICE-IND:W2B-033#28:1>
+This is not a difficult issue for taking sides if one happens to be
+at the receiving end of the health-care system.
+
+<ICE-IND:W2B-033#29:1>
+However, the same critique to which a ` consumer' would be receptive
+may be quite unpalatable to one who is at the dispensing end.
+
+<ICE-IND:W2B-033#30:1>
+As a patient you may be very keen to understand all about the
+politics of health.
+
+<ICE-IND:W2B-033#31:1>
+As a doctor ( or an aspiring medico ) would you be equally
+responsive?
+
+<ICE-IND:W2B-033#32:1>
+This is the crucial question.
+
+<ICE-IND:W2B-033#33:1>
+If you are the sort who would like to be aware of what exactly are
+the faults of the system you plan to join, and what you as a doctor could do
+towards setting it right, then taking sides would present no dilemma, at
+least at the theoretical level. </p>
+
+<p> 
+<ICE-IND:W2B-033#34:1>
+Where the problem really lies is in deciding how to go about
+changing the system.
+
+<ICE-IND:W2B-033#35:1>
+The solution is a complex one, and I personally have no complete
+answers to it.
+
+<ICE-IND:W2B-033#36:1>
+But, as I see it, understanding the system, and looking at it from an
+alternative viewpoint, is the first step towards changing it, and even daring
+to take this first step could be regarded as a major advance.
+
+<ICE-IND:W2B-033#37:1>
+Let us begin by recognising the issue. </p>
+
+<p> 
+<ICE-IND:W2B-033#38:1>
+<h> <it> What they don't teach at the medical college: </it> </h>
+
+<ICE-IND:W2B-033#39:1>
+Today, some of us because of our exposure to various writings by
+social scientists, have become conscious of the socio-political dimensions of
+health.
+
+<ICE-IND:W2B-033#40:1>
+Some of us have <O> <&> page </&> 60 </O> had the opportunity to
+interact with doctors in the <quote> ` rational health' </quote> movement who
+are trying to raise awareness among the public and influence the government
+to make its health policy more relevant to the needs of the people.
+
+<ICE-IND:W2B-033#41:1>
+The experience of the socialist countries has proved to us that the
+health standards of a country, even when it has limited resources, can be
+dramatically raised by simple public health measures and social reforms.
+
+<ICE-IND:W2B-033#42:1>
+And both these need political will and not sophisticated medical
+technology.
+
+<ICE-IND:W2B-033#43:1>
+Doctors in activist health groups point out that none of this is
+taught in medical colleges.
+
+<ICE-IND:W2B-033#44:1>
+They also add that in their efforts to transform the health-care
+system, the most powerful obstacles they encounter come from the medical
+profession itself.
+
+<ICE-IND:W2B-033#45:1>
+And one of the several reasons for this is the faulty orientation of
+medical education. </p>
+
+<p> 
+<ICE-IND:W2B-033#46:1>
+Last year, in a detailed critique of medical education, Dr N.H.
+Antia of the Foundation for Research in Community Health had commented that
+it is the <quote> " glamorous, high-tech and lucrative" </quote> specialities
+which medical students aspire to take up, even though preventive and social
+medicine are the real determinants of health.
+
+<ICE-IND:W2B-033#47:1>
+This is a built-in distortion fostered by the curriculum, and it has
+resulted in the commercialisation of health into what he calls an <quote> "
+illness-business" </quote> .
+
+<ICE-IND:W2B-033#48:1>
+It is a distortion caused by a narrow emphasis on medicine as a
+science and a technology with absolutely no components in a <w> doctor's </w>
+training from the field of social sciences. </p>
+
+<p> 
+<ICE-IND:W2B-033#49:1>
+However, even an idealistic medical aspirant is bound to protest
+that reforming the curriculum is beyond the scope of a student, and such an
+argument would certainly be justified.
+
+<ICE-IND:W2B-033#50:1>
+But only up to a point. </p>
+
+<p> 
+<ICE-IND:W2B-033#51:1>
+<h> <it> Educating ourselves : </it> </h>
+
+<ICE-IND:W2B-033#52:1>
+There are many things we can do on our own to become better informed
+and more sensitive and do not have to rest content with blaming everything on
+the syllabus.
+
+<ICE-IND:W2B-033#53:1>
+For example, Dr Antia, in his recommendations for reorienting medical
+education, has suggested the inclusion of health-related humanities which are
+conspicuous by their absence in the medical curriculum.
+
+<ICE-IND:W2B-033#54:1>
+But syllabus reform takes time and it is open to young medical
+students to read up on their own and arrive at a more <O> box : see below
+</O> perceptive and enlightened understanding of the role of their profession
+in relation to the society in which they live.
+
+<ICE-IND:W2B-033#55:1>
+Such a broad approach to their subject can only make them better
+doctors, so they really have nothing to lose. </p>
+
+<p> 
+<ICE-IND:W2B-033#56:1>
+One could emphasise here that some of the shortcomings in medical
+education are common to all specialised science courses.
+
+<ICE-IND:W2B-033#57:1>
+In all the high-status professions to which science education leads,
+the truly sensitive and socially responsible practitioners are the ones who
+have a thorough understanding of the socio-political milieu in which they are
+rooted.
+
+<ICE-IND:W2B-033#58:1>
+They derive this perception not from the prescribed textbooks, but by
+staying alive to the realities around and by reading up on their own. </p>
+
+<p> 
+<ICE-IND:W2B-033#59:1>
+Unfortunately, right from the middle-school level, the ` high
+achieving' student is encouraged to regard the humanities as infra dig and
+unless the typical science student is <O> see box below </O> willing and able
+to overcome this prejudice, he/she is more likely to end up perpetuating
+rather than trans-forming the ills of the health-care system. </p>
+
+<p> 
+<ICE-IND:W2B-033#60:1>
+<h> <it> Seek and find : </it> </h>
+
+<ICE-IND:W2B-033#61:1>
+For a science student who acknowledges the need to have a better
+understanding of social phenomena, and is genuinely seeking
+information, fortunately there is plenty of material available.
+
+<ICE-IND:W2B-033#62:1>
+The two classics by McKeown and Illich are fine for starters.
+
+<ICE-IND:W2B-033#63:1>
+Another is the ICMR-ICSSR joint document entitled <it> Healthy for
+all: an alternative strategy </it> ( 1980), which could be a real eye-opener
+for an Indian student.
+
+<ICE-IND:W2B-033#64:1>
+Besides, there are a number of health-action and <w> people's </w>
+science groups in this country which could prove to be rewarding sources of
+information as well as inspiration since many of their members are themselves
+practitioners of medicine.
+
+<ICE-IND:W2B-033#65:1>
+To name three, there is the <mention> <indig> Kerala Sastra Sahitya
+Parishad </indig> , the Medico-Friend Circle and the Voluntary Health
+Association of India. </mention> </p>
+
+<p> 
+<ICE-IND:W2B-033#66:1>
+Of course, all this is only part of the first step of
+understanding that there are issues related to health which are not merely
+medical.
+
+<ICE-IND:W2B-033#67:1>
+This article has confined itself to the limited objective of drawing
+attention to an area which simply does not figure during the cut-throat race
+of trying to get admission into a medical college. </p>
+
+<p> 
+<ICE-IND:W2B-033#68:1>
+<h> <it> Health for all or wealth for some ? </it> </h>
+
+<ICE-IND:W2B-033#69:1>
+To sum up, the distorted priorities in health policy are a direct
+result of the over-riding importance given to high-tech medicine and its
+money-spinning potential.
+
+<ICE-IND:W2B-033#70:1>
+The status quo is maintained largely because of the medical <w>
+profession's </w> own vested interests.
+
+<ICE-IND:W2B-033#71:1>
+It may be an uncomfortable truth to face but truth it undoubtedly is.
+
+<ICE-IND:W2B-033#72:1>
+When the WHO adopted <quote> ` Health for All' </quote> as its slogan
+in the early 80s, it was very emphatic that what the world and especially the
+developing countries need is not costly, five-star medical facilities, but
+universally available primary health care. </p>
+
+<p> 
+<ICE-IND:W2B-033#73:1>
+This is hardly an exciting bit of information for the aspirant
+doctor with high hopes of a glorious and financially rewarding medical
+career.
+
+<ICE-IND:W2B-033#74:1>
+In this, as in so many other issues, the question inevitably boils
+down to; self-interest or public interest ? </p>
+
+<p> 
+<ICE-IND:W2B-033#75:1>
+A choice does exist even if it is a difficult one to make. </p>
+<*> filled square </*> <&> at page 61 top of column two </&> <box> <&>
+centered </&>
+
+<ICE-IND:W2B-033#76:1>
+<bold> Progress in health </bold>
+
+<p> 
+<ICE-IND:W2B-033#77:1>
+THERE IS ample evidence that by providing education and
+health-care, preventive more than curative, improvement in the health
+of our people can be achieved.
+
+<ICE-IND:W2B-033#78:1>
+<w> China's </w> performance in this direction is an eye-opener
+for instance, over the past three decades infant mortality rate has dropped
+from 90 to 32 per thousand live births; and life expectancy has increased
+from 52.7 to 69.5.
+
+<ICE-IND:W2B-033#79:1>
+Sri Lanka too has reduced its under-five mortality rate from 101 per
+thousand in 1960 to 35 in 1985.
+
+<ICE-IND:W2B-033#80:1>
+<w> India's </w> figures for the same period read: underfive
+mortality rate - - 152; infant mortality rate - - 96.
+
+<ICE-IND:W2B-033#81:1>
+while Sri Lanka spends 4.0 per cent on the basis of its per capita
+GNP on health, <w> India's </w> expenditure is a mere 2.1 per cent. </p>
+</box> <&> content in the box at the end of column two page 61 </&> <&> <box>
+<bold>
+
+<ICE-IND:W2B-033#82:1>
+WHICH SIDE of the proposition do you agree with?
+
+<ICE-IND:W2B-033#83:1>
+And why ?
+
+<ICE-IND:W2B-033#84:1>
+Mark your arguments <quote> ` My side' </quote> and mail to The
+Editor, Career & Competition Times, 10 Daryaganj, New Delhi-110 002 latest by
+<it> March 25, </it> 1991 for publication in our May issue. </bold> </box>
+</&> </I>

@@ -1,0 +1,91 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-027</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              natural sciences</category>
+            <wordcount>3501</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-027>
+        <source.type=periodical>
+            <source.title>Indian Journal of Experimental
+              Biology</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol.31</series>
+        <publication.statement>
+            <publisher>The Publications & Informations
+              Directorate</publisher>
+            <address>CSIR, Dr. K. S. Krishna Marg, New Delhi-
+              110012</address>
+            <place>New Delhi</place>
+            <date>April 1993</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-027</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Androgenic regulation of glycolytic and
+              HMP pathway in epidiymis and vas deferens of rhesus
+              monkey</main.title>
+            <subtitle></subtitle>
+            <page.nos>305-311</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-027</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Gupta</surname>
+                <forenames>G.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-027</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Srivastava</surname>
+                <forenames>A.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2A-027</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Setty</surname>
+                <forenames>B.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

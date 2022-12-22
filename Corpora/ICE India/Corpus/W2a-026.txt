@@ -1,0 +1,621 @@
+<I>
+
+<ICE-IND:W2A-026#1:1>
+<h> <bold> PHYTOTOXIC EFFECTS OF PESTICIDES ON POLLEN </bold> </h> <&>
+authors </&>
+
+<ICE-IND:W2A-026#2:1>
+R.C. GUPTA and M.U. BEG
+
+<ICE-IND:W2A-026#3:1>
+<it> Industrial Toxicology Research Centre, Post Box No.80, Mahatma
+Gandhi Marg, Lucknow-226 001, India
+
+<ICE-IND:W2A-026#4:1>
+( Received October 9, 1989; Revised December 31, 1990 ) </it>
+
+<ICE-IND:W2A-026#5:1>
+<it> Key words : </it> <mention> Pesticides </mention> , <mention>
+phytoxitcity </mention> , <mention> pollen </mention> <&> all lines centered
+</&>
+
+<ICE-IND:W2A-026#6:1>
+ABSTRACT
+
+<p> 
+<ICE-IND:W2A-026#7:1>
+This report provides an account on phytotoxic effects of
+pesticides on pollen viability, germination and growth.
+
+<ICE-IND:W2A-026#8:1>
+Pollen were damaged and had reduced viability, germination and growth
+on exposure to pesticides.
+
+<ICE-IND:W2A-026#9:1>
+The mechanism of inhibition of pollen germination and tube growth are
+discussed. </p> <&> in two columns </&> <&> column one </&> <&> centered </&>
+
+<ICE-IND:W2A-026#10:1>
+<h> INTRODUCTION </h>
+
+<p> 
+<ICE-IND:W2A-026#11:1>
+Development and activity of pollen are among the more sensitive
+indicators of adverse factors in environment.
+
+<ICE-IND:W2A-026#12:1>
+This led to the idea that the inhibited development and growth
+potential of pollen grains can provide a convenient test system of monitoring
+atmospheric pollutants ( Masaru et al., 1976; Pfahler, 1981; Mascarenhas,
+1981; Varshney & Varshney, 1981 ) .
+
+<ICE-IND:W2A-026#13:1>
+However, scattered studies are available on the effects of
+pesticides on pollen ( Shawa et al., 1966; Eaton & Chen, 1969; Gentile et
+al., 1971, 1973; Dubey & Mall, 1972; Dubey, 1977; Dubey et al., 1984;
+Soundarajan, 1984; Gupta & Khanna, 1981; Gupta & Beg, 1988; Bhardwaj et al.,
+1989 ) , therefore, the present work was designated to provide an account of
+pollen production and germination under the stress of pestcides. </p> <&>
+centered </&>
+
+<ICE-IND:W2A-026#14:1>
+<h> MATERIAL AND METHODS </h>
+
+<p> 
+<ICE-IND:W2A-026#15:1>
+Seeds of green gram PS-7 procured from Chandra Shekhar Azad
+Agricultural University, Kanpur, were sown about 2 cm deep in the
+experimental plots.
+
+<ICE-IND:W2A-026#16:1>
+The plot size for each spray was 1.5 m<sp>2</sp> and randomized block
+design was used.
+
+<ICE-IND:W2A-026#17:1>
+Endosulfan, a broad spectrum organochlorine insecticide of the
+cyclodiene group manufactured by Excel Industries Ltd., Bombay under the
+trade name Endocel-EC 35 was diluted so as to give a water suspension of 100,
+500, 1000, 10,000 ppm concentrations.
+
+<ICE-IND:W2A-026#18:1>
+Two foliar spray were done with the help of Aspee hand operating
+sprayer at 3rd leaf stage and flowering stage of the crop. </p>
+
+<p> 
+<ICE-IND:W2A-026#19:1>
+Kapoor & Nair ( 1974 ) method was followed for studying the
+pollen production capacity and staining with 1 % acetocarmine was used to
+determine pollen viability.
+
+<ICE-IND:W2A-026#20:1>
+Pollen germination and tube growth was recorded by sowing pollen
+grains on sterilized cavity slide in a drop of basal culture media.
+
+<ICE-IND:W2A-026#21:1>
+Prepared slides were later incubated in petri plates lined with moist
+filter paper for 4 h at room temperature of 22-23 <*> degree</*> C and
+relative <O> <&> page </&> 56 </O> humidity of 49-70 % under diffuse light.
+
+<ICE-IND:W2A-026#22:1>
+After incubation, the pollen cultures were scanned under light
+microscopes in ten fields ( 15 x 10 magnification ) to determine the
+percentage of pollen germination and to measure the tube length by calibrated
+ocular micrometer. </p> <&> centered </&>
+
+<ICE-IND:W2A-026#23:1>
+<h> RESULTS AND DISCUSSION </h>
+
+<p> 
+<ICE-IND:W2A-026#24:1>
+<h> ( a) <it> Pollen production </it> : </h>
+
+<ICE-IND:W2A-026#25:1>
+Pollens are much more abundantly produced in anemophilous species
+than in entomophilous species while hydrophilous species produced very scanty
+pollen grains per plant.
+
+<ICE-IND:W2A-026#26:1>
+Studies on pollen production capacity in pesticides treated plants
+were not reported in the literature.
+
+<ICE-IND:W2A-026#27:1>
+However, our studies of both long and short stamens of <it> Vigna
+radiata </it> on exposure to endosulfan have shown reduction in the pollen
+production.
+
+<ICE-IND:W2A-026#28:1>
+The pollen produced by long and short stamens were reduced to an
+extent of 23 and 19 percent at 500 ppm, 43 and 50 % at 1000 ppm and 82 and 66
+percent at 10,000 ppm dose levels of endosulfan ( Table 1 ) .
+
+<ICE-IND:W2A-026#29:1>
+These results provide an examples of adverse effect of pesticides on
+pollen production in the field crops and so it is important to evaluate the
+effect of pesticidal chemicals on different crops to single out the
+susceptible species. </p>
+
+<p> 
+<ICE-IND:W2A-026#30:1>
+<h> ( b) <it> Pollen viability </it> : </h>
+
+<ICE-IND:W2A-026#31:1>
+The pollen viability from control and endosulfan treated mungbean
+plants was observed and it was found that the viability of pollen was
+markedly reduced in long stamens. </p>
+
+<p> 
+<ICE-IND:W2A-026#32:1>
+<h> ( c) <it> Pollen germination and tube elongation </it> : </h>
+
+<ICE-IND:W2A-026#33:1>
+Studies on the effects of commercial formulation of pesticides in
+general, showed that the pollen were damaged by vapour of pesticides.
+
+<ICE-IND:W2A-026#34:1>
+Dubey & Mall ( 1972 ) <O> Table 1 </O> <O> caption </O> <O> <&> page
+</&> 57 </O> reported that the percentage of germination of viable pollen in
+brinjal was reduced to 56 % on treatment with 1000 ppm of 2, 4-D, Soundarajan
+( 1984 ) studied the effect of dimenthoate, fenevelorate, phosalone, methyl
+demeton and endosulfan on pollen germination in okra and egg plant and
+observed that the maximum drop in percentage germination was with endosulfan
+and minimum with dimethoate.
+
+<ICE-IND:W2A-026#35:1>
+In strawberry, captan inhibited pollen germination <it> in vitro
+</it> or when sprayed on anthers after dehiscence ( Daton & Chen, 1969 ) .
+
+<ICE-IND:W2A-026#36:1>
+Gentil et al. ( 1971, 1973, 1978 ) tested <it> in vitro </it> 32
+commercial formulations of fungicides and insecticides for pollen
+germination and tube growth to various degrees while topical application
+of naled 58 % EC, formulated at 1000 ppm actual material, totally inhibited
+the germination.
+
+<ICE-IND:W2A-026#37:1>
+Further, seven applications of carbaryl or gardona to the silk of
+sweet corn at 24 h interval cause a high incidence of malformed or missing
+kernels.
+
+<ICE-IND:W2A-026#38:1>
+However, abnormalities of lesser degree were observed with fewer
+application.
+
+<ICE-IND:W2A-026#39:1>
+We also observed that there was a drop in percentage germination and
+tube growth of pollen with increase in concentration of endosulfan in <it>
+<foreign> Catharanthus roseus, Vigna radiata, Trigonella foenum-graecum and
+Brassica campestris <foreign> . </it> </p>
+
+<p> 
+<ICE-IND:W2A-026#40:1>
+The degree of inhibition was more severe in pollen tube growth
+than in germination ( Gupta & Beg, 1988 ) .
+
+<ICE-IND:W2A-026#41:1>
+This observation supports the view that pollen germination and
+tube growth are independent processes governed by separate set of conditions
+and of the two, activation phase of pollen germination was less sensitive
+to endosulfan.
+
+<ICE-IND:W2A-026#42:1>
+However, the mechanism of inhibition of pollen germination and tube
+elongation is not clear at the moment but by equating with some of the known
+phytotoxic effect of endosulfan on seed germination and seedling growth, a
+plausible explanation may be offered.
+
+<ICE-IND:W2A-026#43:1>
+Pesticide endosulfan is known to alter membrane permeability, cell
+elongation and biosynthesis of protein and polysaccharide and so they may
+be responsible for the inhibition in pollen germination and tube elongation
+due to pesticides. </p>
+
+<p> 
+<ICE-IND:W2A-026#44:1>
+<h> ( d) <it> Effect on yield </it> : </h>
+
+<ICE-IND:W2A-026#45:1>
+Shawa et al. ( 1966 ) studied the effect of commercial preparation of
+four fungicides - - Captan, ferbam, maneb and phaltan on crnaberry pollen
+germination, fruit set and yield and reported maximum reduction of yield in
+case of phaltan followed by captan, maneb and ferbam. </p>
+
+<p> 
+<ICE-IND:W2A-026#46:1>
+<h> ( e) <it> Surfactants and pollen </it> : </h>
+
+<ICE-IND:W2A-026#47:1>
+Surfactants are in variably incorporated in preparations of
+pesticides to enhance penetration, retention time and effectiveness.
+
+<ICE-IND:W2A-026#48:1>
+Shivanna ( 1972 ) studied the effect of two non-ionic surfactants,
+Tween-80 and Triton-100 on pollen grains of <it> Trigonella foenum-graecum
+</it> .
+
+<ICE-IND:W2A-026#49:1>
+The former did not effect <it> in vitro </it> germination and tube
+growth, while the later drastically reduced both of these processes.
+
+<ICE-IND:W2A-026#50:1>
+Gentile et al. ( 1973 ) also observed strong inhibition in pollen
+germination and tube growth in sweet corn treated with Trichlorfon-Dupont and
+Trichlorfon multifilm-77 combination.
+
+<ICE-IND:W2A-026#51:1>
+Pfahler et al. ( 1979 ) studied the effect of commercial
+sticker-spreader Tween 80 and 114 individually in various concentrations on
+<it> in vitro </it> pollen germination and tube elongation in three
+genotypes of maize.
+
+<ICE-IND:W2A-026#52:1>
+Increasing concentrations of Tween-80 had the least <O> <&> page </&>
+58 </O> effect on pollen germination and tube growth while 114 had the
+maximum effect.
+
+<ICE-IND:W2A-026#53:1>
+There was no germination when 114 was used above 10 mgl<sp>-1</sp>.
+</p> <&> centered </&>
+
+<ICE-IND:W2A-026#54:1>
+<h> ACKNOWLEDGEMENTS </h>
+
+<p> 
+<ICE-IND:W2A-026#55:1>
+The authors thank Dr. P.K. Ray, Director, Industrial Toxicology
+Research Centre, Lucknow for keen interest, Prof. B.S. Trivedi, Lucknow
+University, for perusal of manuscript, Mr. Feroz Ahmad for technical
+assistance and Mr. Surendra Singh for typing of manuscript. </p> </I>
+
+
+<I>
+
+<ICE-IND:W2A-026#56:2>
+<h> <bold> EFFECT OF DIMETHOATE ON ACID AND ALKALINE PHOSPHATASE
+ACTIVITY IN SOME METABOLICALLY ACTIVE TISSUES OF MALE TOAD, </bold> </h> <it>
+BUFO MELANOSTICTUS </it> <&> authors </&>
+
+<ICE-IND:W2A-026#57:2>
+P.K. PRADHAN and S. DASGUPTA
+
+<ICE-IND:W2A-026#58:2>
+<it> Department of Physiology, University College of Science,
+University of Calcutta, 92, Acharya Prafullachandra Road, Calcutta-700 009,
+India </it>
+
+<ICE-IND:W2A-026#59:2>
+( Received June 20, 1990; Revised January 2, 1991 ) .
+
+<ICE-IND:W2A-026#60:2>
+<it> Key words : </it> <mention> Acid phosphatase ( ACP ) </mention>
+, <mention> alkaline phosphatase ( ALP ) </mention> , <mention> male toad
+</mention> <&> all lines centered </&>
+
+<ICE-IND:W2A-026#61:2>
+ABSTRACT
+
+<p> 
+<ICE-IND:W2A-026#62:2>
+Acid and alkaline phosphatase activities were estimated in
+plasma, liver, kidney and testis after installation of Dimethoate for a
+period of seven days on male toad.
+
+<ICE-IND:W2A-026#63:2>
+ACP activity increased in plasma and kidney but decreased in liver
+and testis.
+
+<ICE-IND:W2A-026#64:2>
+On the other hand ALP activity increased in liver and testis but
+decreased in plasma and kidney.
+
+<ICE-IND:W2A-026#65:2>
+Alteration of enzyme activities indicates that long exposure of this
+systematic pesticide affects function of liver, kidney and testis. </p> <&>
+in two columns </&> <&> column one </&> <&> centered </&>
+
+<ICE-IND:W2A-026#66:2>
+<h> INTRODUCTION </h>
+
+<p> 
+<ICE-IND:W2A-026#67:2>
+Pesticides are widely used for control of pests.
+
+<ICE-IND:W2A-026#68:2>
+This technique definitely helps to save crops against pest
+infestation but a formidable possibility of biosphere pollution develops
+leading to calamitous effects on non-target flora and fauna of various
+ecosystems ( Warren, 1981 ) . </p> <O> <&> page </&> 60 </O>
+
+<p> 
+<ICE-IND:W2A-026#69:2>
+Toad ( <it> <foreign> Bufo melanostictus </foreign> </it> ) , an
+anuran amphibia is a common animal in pond, lake, fields, etc. that plays a
+very important role in biocontrol of pests in natural environment.
+
+<ICE-IND:W2A-026#70:2>
+Tadpoles and toads destroy a large number of mosquito larvae and
+other harmful aquatic insects.
+
+<ICE-IND:W2A-026#71:2>
+On land, also, toads are active all day eating insects, many of which
+are crop pest ( Atwal, 1986 ) .
+
+<ICE-IND:W2A-026#72:2>
+But such an important natural scavenger is continuously exposed to
+different toxic chemicals sprayed in the field. </p>
+
+<p> 
+<ICE-IND:W2A-026#73:2>
+Dimethoate ( C<sb>5</sb>H<sb>12</sb>NO<sb>3</sb>PS ) , an
+organophosphorus compound introduced in 1956 by the American Cyanamid
+Company, is a systemic and contact phosphorothilothionate insecticide and
+acaricide.
+
+<ICE-IND:W2A-026#74:2>
+It is sold in India under the trade names Rogor, Dimethoate, Roxicon,
+etc. as emulsifiable concentrate and the pesticide is extensively used by the
+farmers ( Atwal, 1986 ) .
+
+<ICE-IND:W2A-026#75:2>
+The present work is aimed to estimate the range of tolerance and
+alteration of metabolic profile in male toad by the effect of Dimethoate.
+
+<ICE-IND:W2A-026#76:2>
+Since most of the intermediary metabolites are phosphorylated
+compounds, the phosphatases are important enzymes that play a key role in the
+metabolism of the organism.
+
+<ICE-IND:W2A-026#77:2>
+Among the various phosphatases present, <mention> ACP </mention> and
+<mention> ALP </mention> have attained much significance ( Brown, 1964 )
+although their exact physiological role has not yet been fully elucidated in
+amphibian tissues. </p> <&> centered </&>
+
+<ICE-IND:W2A-026#78:2>
+<h> MATERIALS AND METHODS </h>
+
+<p> 
+<ICE-IND:W2A-026#79:2>
+Adult male non-hibernating toads, weighing 70 <*> plus or
+minus</*> 10 g. were acclimatized in the laboratory conditions for one week
+and maintained by force feeding with red <w> ants' </w> eggs on each day.
+
+<ICE-IND:W2A-026#80:2>
+pure dimethoate ( 90 % <it> a.i. </it> ) dissolved in propylene
+glycol ( Schaffer, 1972 ) was orally instilled in the experimental group
+whereas the control animals were fed with propylene glycol only.
+
+<ICE-IND:W2A-026#81:2>
+As there was no reference on the LD<sb>50</sb> value of this
+pesticides on toad, it was estimated according to the method of Litchfield &
+Wilcoxon ( 1949 ) which is 90 mg / 100 g body wt ( Pradhan & Dasgupta, 1989 ) .
+
+<ICE-IND:W2A-026#82:2>
+Afterwards, the experimenal animals were orally instilled with
+pesticide at effective dose of 45 mg / 100 g body wt. whereas the controls
+were fed with vehicle only.
+
+<ICE-IND:W2A-026#83:2>
+After 7 days of treatment, animals were sacrificed, blood was
+collected in heparinised syringe, plasma separated by centrifugation and
+stored immediately in 20 <*> degrees</*> C.
+
+<ICE-IND:W2A-026#84:2>
+Three important metabolically active organs-liver, kidney and testis
+were dissected out, wiped dry and stored immediately at 20 <*> degrees</*>C
+for biochemical analysis. Tissue pieces were weighed and homogenised in 0.25
+M sucrose solution with a glass homogeniser maintained at 0-4 <*>
+degrees</*>C for estimation of <mention> ACP </mention> & <mention> ALP
+</mention> activities. </p>
+
+<p> 
+<ICE-IND:W2A-026#85:2>
+Activities of <mention> ACP </mention> & <mention> ALP </mention>
+were estimated from plasma, liver, kidney and testis according to the
+standard method ( Bergmeyer, 1963 ) using P-nitrophenyl phosphate as the
+substrate. </p>
+
+<p> 
+<ICE-IND:W2A-026#86:2>
+Cumulative data from the two groups was statistically analysed,
+and standard error, <mention> t-test </mention> and calculation of <mention>
+P-value </mention> were done to observe any significant variation of the
+enzymes in ciontrol and treated groups. </p> <&> centered </&>
+
+<ICE-IND:W2A-026#87:2>
+<h> RESULTS AND DISCUSSION </h>
+
+<p> 
+<ICE-IND:W2A-026#88:2>
+More reports on the occurrence of normal values of these enzymes
+have appeared <O> <&> page </&> 61 </O> <O> Table 1.
+
+<ICE-IND:W2A-026#89:2>
+Effect of dimethoate on acid and alkaline phosphatase activity in
+plasma, liver, kidney and testis of male non-hibernating toad. </O> <O>
+captions </O> than for any other single amphibian enzyme ( Brown, 1954 ) .
+<mention> ACP </mention> & <mention> ALP </mention> activity has been
+reported in adult Rana pipiens kidney, liver, heart, spleen and muscle ( Kind
+& Macchi, 1952 ) . Longley ( 1955 ) in Ambystoma, Burgos ( 1955 ) in Rana
+pipiens have histochemically demonstrated ACP & ALP activities in
+different tissues. Alkaline phosphatase has also been measured in
+H<sb>2</sb>O extracts of Ambystoma maxicanum and Xenopus laevis ( Krugelis,
+1949-1951 ) . </p>
+
+<p> 
+<ICE-IND:W2A-026#90:2>
+There is, however, very few records on the effect of pesticides
+on the enzymatic pattern in amphibians.
+
+<ICE-IND:W2A-026#91:2>
+So, most of the references in this regard have been considered fron
+non-amphibians especially from the toxicological data on rats.
+
+<ICE-IND:W2A-026#92:2>
+Because of the location of ACP & ALP in the plasma membrane of
+cells of intestinal mucosa and kidney tubules, a possible role in active
+transport mechanism has been suggested ( Danielli, 1952 ) .
+
+<ICE-IND:W2A-026#93:2>
+In mammals, osteoblast secretes large quantities of <mention> ALP
+</mention> when they are actively depositing bone matrix, some of which
+diffuses into blood ( Guyton, 1986 ) .
+
+<ICE-IND:W2A-026#94:2>
+Phosphatases also play important role in gluconeogenesis, glycogen
+metabolism, synthesis of triacylglycerols and RNA sequencing ( Stryr, 1975 ) .
+Phosphatases, in general, after being synthesized in the liver act in the
+spleen, kidneys and other organs through the blood stream; although Kind &
+Macchi ( 1952 ) showed that in Rana pipiens <mention> ACP </mention> &
+<mention> ALP </mention> level in kidney is higher than any other organ of
+the body. </p>
+
+<p> 
+<ICE-IND:W2A-026#95:2>
+Table 1 shows that after the exposure to the pesticides, there is
+significant increase of <mention> ACP </mention> in plasma and kidney with a
+concomittant significant decrease in liver and testis.
+
+<ICE-IND:W2A-026#96:2>
+Decrease of <mention> ACP </mention> level in liver may be due to
+hepatic cytolysis causing release of lysosomal enzymes in blood resulting in
+an increase in plasma <mention> ACP </mention> which is probably transported
+to kidney for increased excretory <O> <&> page </&> 62 </O> activity.
+
+<ICE-IND:W2A-026#97:2>
+Decrease of ACP level in testis reflects that metabolism of
+phosphorylated compounds is interfered by the effect of pesticide which may
+render ultimate effect on anomalies of reproductive physiology as in rats, (
+Dasgupta et al., 1989 ) . </p>
+
+<p> 
+<ICE-IND:W2A-026#98:2>
+Table 1 also shows that there was a significant decrease of ALP
+in plasma and kidney but significant increase in liver and testis.
+
+<ICE-IND:W2A-026#99:2>
+Increase of <mention> ALP </mention> activity in liver may be due to
+obstruction in the release of the enzyme from the liver or may be due to
+increase in enzyme protein synthesis as a response to toxic effect of the
+pesticide.
+
+<ICE-IND:W2A-026#100:2>
+However, decrease of ALP level in blood reflects that less release
+of enzyme from the liver may be a more plausible explanation.
+
+<ICE-IND:W2A-026#101:2>
+Consequently kidney <mention> ALP </mention> activity also decreased
+as the enzyme is transported from liver to kidney through the blood stream.
+
+<ICE-IND:W2A-026#102:2>
+In rat, testicular <mention> ALP </mention> plays an important role
+in spermatogenesis, testicular harmone synthesis and intermediate
+carbohydrate metabolism of fructose ( Davis & Longford, 1970 ) .
+
+<ICE-IND:W2A-026#103:2>
+In toad, of course, this has not been elucidated. </p>
+
+<p> 
+<ICE-IND:W2A-026#104:2>
+Damethoate, being a systemic pesticide possesses greater
+stabiliy in the organ systems of animals and plants ( Atwal, 1986 ) .
+
+<ICE-IND:W2A-026#105:2>
+The liver is highly affected by the oral instillation of
+pesticide and as it is the primary source of <mention> ACP </mention> and
+<mention> ALP </mention> , it may be supposed that metabolic disorder in
+liver results in altered enzymatic activity in plasma, kidney and testis
+causing a possible impairment of intermediary metabolism of phosphorylated
+compounds. </p> <&> centered </&>
+
+<ICE-IND:W2A-026#106:2>
+<h> REFERENCES </h>
+
+<ICE-IND:W2A-026#107:2>
+Atwat, A.S. <it> <mention> Agricultural Pests of India and South
+East Asia </mention> </it> .
+
+<ICE-IND:W2A-026#108:2>
+2nd ed. Kalyani Publishers, 1986, pp. 79-113.
+
+<ICE-IND:W2A-026#109:2>
+Bergmeyer, H.U. <it> <mention> Methods of Enzymatic Analysis
+</mention> </it> .
+
+<ICE-IND:W2A-026#110:2>
+Academic Press, New York, 1983, pp. 783-785.
+
+<ICE-IND:W2A-026#111:2>
+Brown, ( Jr.) G.W. <it> <mention> The Metabolism of Amphibia in
+Physiology of Amphibia </mention> </it> ( ed.) J.A. Moore, Academic Press,
+New York, 1964, pp. 1-83.
+
+<ICE-IND:W2A-026#112:2>
+Burgos, M.H. Histochemistry of the testis in normal and
+experimentally treated frogs ( <it> <mention> Rana pipiens </mention> </it> ) .
+<it> <mention> J. Morphol </mention> </it> ., 1955, 96, 283-299.
+
+<ICE-IND:W2A-026#113:2>
+Danielli, J.F. Structural factors in cell permeability and
+secretion. <it> <mention> Symp. Soc. Exp. Biol </mention> </it> ., 1952, 16,
+1-15.
+
+<ICE-IND:W2A-026#114:2>
+Dasgupta, S., Biswas, S.K. and Das, K.K. Effect of nickel on acid
+and alkaline phosphatase activities in the reproductive system of male
+rats during protein restriction. <it> <mention> Med. Sci. Res </mention>
+</it> ., 1989, 17, 95-96.
+
+<ICE-IND:W2A-026#115:2>
+Davis, J.R. and Langford, G.A. <it> <mention> The Testis </mention>
+</it> ( eds.) A.D. Johnson, W.R. Games & N.L. Vandemark, Academic Press, New
+York, 1970, pp. 359-360.
+
+<ICE-IND:W2A-026#116:2>
+Guyton, A.C. <it> <mention> Textbook of Medical Physiology
+</mention> </it> , 7th ed W.B. Saunders Company, Philadelphia, 1986.
+
+<ICE-IND:W2A-026#117:2>
+Kind, C.A. and Macchi, M.E. Phosphatase activity in the tissues of
+the frog, <it> <mention> Rana pipiens. J. Cellular Comp. Physiol </mention>
+</it> ., 1952, 39, 153-159.
+
+<ICE-IND:W2A-026#118:2>
+Krugelis, E. Properties and changes of alkaline phosphatase
+activity during amphibian <O> <&> page </&> 63 </O> development. <it>
+<mention> Compt. Rend. Trav. Lab. Carlsberg. Ser. Chin </mention> </it> .,
+1949-1951, 27, 273-290.
+
+<ICE-IND:W2A-026#119:2>
+Litchfield, J.R. and Wilcoxon, F.J. A simplified method of
+evaluating dose-effect experiments. <it> <mention> J. Pharmacol. Expt. Therap
+</mention> </it> ., 1949, 96, 99-113.
+
+<ICE-IND:W2A-026#120:2>
+Longley, J.B. Alkaline phosphatase in the kidneys of aglomerular
+fish. <it> <mention> Science </mention> </it> 1955, 122, 594-595.
+
+<ICE-IND:W2A-026#121:2>
+Pradhan, P.K. and Dasgupta, S. Effect of dimethoate on plasma acid
+phosphatase and alkaline phosphatase on <it> <mention> Bufo melanostictus
+</mention> </it> , common Indian Toad. <it> <mention> Indian J. Physiology
+</mention> </it> 1989, 43, Supplement 32.
+
+<ICE-IND:W2A-026#122:2>
+Schaffer, E.W. The acute toxicity of 369 pesticidal, pharmaceutical
+and other compounds to wild birds. <it> <mention> Toxicol. Appl. Pharmacol
+</mention> </it> ., 1972, 21, 315-330.
+
+<ICE-IND:W2A-026#123:2>
+Stryr, L. <it> <mention> Biochemistry </mention> </it> . Freeman
+International ( ed.) W.H.
+
+<ICE-IND:W2A-026#124:2>
+Freeman & Company, San Francisco, 1975.
+
+<ICE-IND:W2A-026#125:2>
+Warren, J.M.
+
+<ICE-IND:W2A-026#126:2>
+An <w> environmentalist's </w> view of toxicology and pesticide
+regulation. <mention> ACS </mention> Symposium Series, American Chemical
+Society, Washington, D.C. 1981, pp. 473-478. </I>

@@ -1,0 +1,55 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-035</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2590</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-035>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>16-12-92</date>
+              <time>10.00am</time>
+              <place>Ryath Sansthan's College of Arts, Science
+                   & Commerce, Panvel(Bombay)</place>
+       </recording.data>
+              <organising.body>Seminar of English Teachers of
+                   Std.XII</organising.body>
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-035</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size>100-teachers of
+                   English</audience.size>
+              <free.comments>Chief Guest's
+                   Address</free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-035</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Patil</surname>
+              <forenames>Pandurang</forenames>
+              <age>71</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Kavlapur, Sangli,
+                   Maharashtra</birthplace>
+              <education>B.A(London) Bar-at-Law</education>
+              <occupation>Professor</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Marathi</mother.tongue>
+              <other.languages>Hindi</other.languages>
+              <free.comments>Moved to London (1946-
+                   51)</free.comments>
+       </biography>
+</text.info>

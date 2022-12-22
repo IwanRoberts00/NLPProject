@@ -1,0 +1,97 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-008</textcode>
+            <number.of.subtexts>2</number.of.subtexts>
+            <category>printed:informational:popular:
+              humanities</category>
+            <wordcount>1677</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-008(1)>
+        <source.type=newspaper>
+            <source.title>Deccan Herald</source.title>
+            <source.subtitle>Sunday Herald</source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>The Printers (Mysore) Ltd.</publisher>
+            <address>Deccan Herald Press, 66, M. G. Rd.
+              Bangalore-560001</address>
+            <place>Bangalore</place>
+            <date>04-11-90</date>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of The
+             Printers (Mysore) Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-008(1)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Shakespeare and politics</main.title>
+            <subtitle></subtitle>
+            <page.nos>6</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-008(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Gowda</surname>
+                <forenames>H.H.Anniah</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <subtext.source=W2B-008(2)>
+        <source.type=newspaper>
+            <source.title>The Times of India</source.title>
+            <source.subtitle>Japan</source.subtitle>
+            <series>Daily</series>
+        <publication.statement>
+            <publisher>Bennett, Coleman & Co. Ltd.</publisher>
+            <address>Dr. Dadabhoy Naoroji Rd. Bombay-          
+                    400001</address>
+            <place>Bombay</place>
+            <date>25-11-94</date>
+        </publication.statement>
+        <copyright.statement>reproduced by arrangement with the 
+        author and the Times of India and is the copyright of the 
+        the publishers, Bennett, Coleman & Co.
+        Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-008(2)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Eternal friends, natural
+              partners</main.title>
+            <subtitle></subtitle>
+            <page.nos>1</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-008(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>palkhivala</surname>
+                <forenames>Nani Ardeshir</forenames>
+                <age>70+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Bombay</birthplace>
+                <education>Bombay University</education>
+                <educational.level>M.A.L.L.B</educational.level>
+                <occupation>Advocate</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Gujrati</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments>Ambassador of India to the U.S.A
+                  from Sep. 1977 to July 1979</free.comments>
+        </biography>
+</text.info>

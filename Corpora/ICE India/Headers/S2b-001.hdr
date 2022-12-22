@@ -1,0 +1,97 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2B-001</textcode>
+              <number.of.subtexts>2</number.of.subtexts>
+              <category>Monologue:Scripted:broadcast
+                   news</category>
+              <wordcount>3358</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2B-001(1)>
+       <recording.data>
+              <channel>Doordarshan</channel>
+              <address></address>
+              <tv.or.radio>tv</tv.or.radio>
+              <source.title>National Network</source.title>
+              <source.subtitle></source.subtitle>  
+              <date>06-05-90</date>
+              <time>7.50am</time>
+       </recording.data>
+              <copyright.statement>Blanket permission from
+                   Doordarshan under section 39 of Copyright Act,
+                   1957 and Copyright Rules, 1958
+                   respectively</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-001</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>News report
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-001(1)</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role>News
+                   Reader</communicative.role>
+              <surname>Mukherjee</surname>
+              <forenames>Kaveri</forenames>
+              <age>26-33</age>
+              <gender>female</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>casual news reader</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <subtext.source=S2B-001(2)>
+       <recording.data>
+              <channel>Doordarshan</channel>
+              <address></address>
+              <tv.or.radio>tv</tv.or.radio>
+              <source.title>National Network</source.title>
+              <source.subtitle></source.subtitle>  
+              <date>07-05-90</date>
+              <time>7.50am</time>
+       </recording.data>
+              <copyright.statement>Blanket permission from
+                   Doordarshan under section 39 of Copyright Act,
+                   1957 and Copyright Rules, 1958
+                   respectively</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-001<2)</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>News report
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-001(2)</it>>
+              <speaker.id>B</speaker.id>
+              <communicative.role>News
+                   Reader</communicative.role>
+              <surname>Singh</surname>
+              <forenames>Mrinalini J.</forenames>
+              <age>26-33</age>
+              <gender>female</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>casual news reader</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

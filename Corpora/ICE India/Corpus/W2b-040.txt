@@ -1,0 +1,452 @@
+<I> <&> special feature: each character in boxes </&>
+
+<ICE-IND:W2B-040#1:1>
+<h> <bold> FICKLE GENOME AND CANCER </bold> </h> <&> column 1 & 2 in
+box, in gray background the editorial comment </&> <&> <&> centered </&>
+
+<ICE-IND:W2B-040#2:1>
+<bold> Why do the normally disciplined lives of cells <&> centered
+</&> go awry and cause cancers ? <&> centered </&> PRABIR K. CHAKRAVARTY and
+TIRTHANKAR GUHA ROY <&> centered </&> find the reason in the fickleness of
+genes. </bold> </&>
+
+<p> 
+<ICE-IND:W2B-040#3:1>
+<bold> All </bold> forms of life on earth are exposed to agents
+that cause damage to the genetic material contained within the cells.
+
+<ICE-IND:W2B-040#4:1>
+These agents are called <quote> 'mutagens' </quote> .
+
+<ICE-IND:W2B-040#5:1>
+However, the aberrations of the genome may also arise from mutagens
+produced within the cell itself.
+
+<ICE-IND:W2B-040#6:1>
+Fortunately the genetic material is a very stable structure and
+various mechanisms are present within the cell to maintain the stability of
+the genome.
+
+<ICE-IND:W2B-040#7:1>
+But in spite of the existence of such mechanisms, damages do occur in
+the genome sometimes with harmful consequences such as cancers. </p>
+
+<p> 
+<ICE-IND:W2B-040#8:1>
+Sometimes there are gross damages and the repair mechanism cannot
+cope.
+
+<ICE-IND:W2B-040#9:1>
+Or else the repair mechanism is not good enough.
+
+<ICE-IND:W2B-040#10:1>
+In both cases genomic stability is disrupted.
+
+<ICE-IND:W2B-040#11:1>
+Genome instability is the root cause of many pathological conditions
+including cancer.
+
+<ICE-IND:W2B-040#12:1>
+A study of genomic instabilities in cancer provides clues to
+understanding the molecular basis of the dreaded disorder.
+
+<ICE-IND:W2B-040#13:1>
+In DNA replication, the enzyme DNA polymerase plays a vital role.
+
+<ICE-IND:W2B-040#14:1>
+It strings together the free nucleotides into a chain, by matching
+each with its complementary nucleotide on the parent strand.
+
+<ICE-IND:W2B-040#15:1>
+This enzyme functions at a number of essential sites.
+
+<ICE-IND:W2B-040#16:1>
+If the match between DNA nucleotides is <O> drawing </O> <O> caption
+</O> <O> <&> page </&> 28 </O> successful; that is if the pairing is A-T (
+Adenine-thymine ) or C-G ( Cytosine-Guanine ) ; then the incoming nucleotide
+is added to the chain through a bridging phosphate group, but if a mismatched
+nucleotide occurs the polymerase enzyme can remove the mismatched nucleotide
+and replace it with a correct nucleotide.
+
+<ICE-IND:W2B-040#17:1>
+This mechanism is known as <quote> 'proof-reading' </quote> . </p>
+
+<p> 
+<ICE-IND:W2B-040#18:1>
+In spite of such proof-reading activity, errors do occur (
+frequency of such errors is about one in every 10 billion base pairs copied )
+during the DNA replication.
+
+<ICE-IND:W2B-040#19:1>
+Rare errors such as these during proof-reading activity change
+genetic fine structure.
+
+<ICE-IND:W2B-040#20:1>
+This in turn changes the gene product as well and in most cases lead
+to the production of non-functional proteins.
+
+<ICE-IND:W2B-040#21:1>
+But, sometimes, a variant or mutant functional protein may also be
+formed due to the errors in DNA metabolism.
+
+<ICE-IND:W2B-040#22:1>
+Many of such proteins have the ability to turn a cell cancerous.
+
+<ICE-IND:W2B-040#23:1>
+One such protein is the <it> <quote> ` mutant ras' </quote> </it> .
+
+<ICE-IND:W2B-040#24:1>
+It is <O> sketch on column 1 & 2 </O> <O> caption </O> <O> sketch on
+column 2 </O> <O> caption </O> the most frequently observed cancer-causing
+protein in human malignant disease, being present in 30 % of all cancers.
+
+<ICE-IND:W2B-040#25:1>
+The function of <it> <quote> 'ras' </quote> </it> in normal cells is
+not clear although it is thought to have a role in the control of cell growth
+and in the maintenance of cell differentiation. </p>
+
+<p> 
+<ICE-IND:W2B-040#26:1>
+Mutations may also arise spontaneously within the cell.
+
+<ICE-IND:W2B-040#27:1>
+It has been found that most cancers arise from spontaneous errors in
+normal cellular processes.
+
+<ICE-IND:W2B-040#28:1>
+These errors cause structural and functional instability of DNA.
+
+<ICE-IND:W2B-040#29:1>
+Spontaneous mutations in cancer generally arise from failure in the
+DNA polymerase proof-reading activity and oxygen damage.
+
+<ICE-IND:W2B-040#30:1>
+Oxygen damage results when DNA reacts with free radicals ( very
+highly reactive free atoms or ions) generated during normal oxidative
+metabolism.
+
+<ICE-IND:W2B-040#31:1>
+In cells subjected to ionizing radiation such as x-rays the water
+molecules break to produce hydrogen and hydroxyl radicals.
+
+<ICE-IND:W2B-040#32:1>
+In presence of oxygen, the hydrogen radical produces hydrogen
+peroxide radical.
+
+<ICE-IND:W2B-040#33:1>
+It is the highly reactive hydrogen peroxide molecule that induces
+mutation.
+
+<ICE-IND:W2B-040#34:1>
+This <}> <-> is </-> <+> in </+> </}> turn could lead to cancerous
+changes in the cell. </p>
+
+<p> 
+<ICE-IND:W2B-040#35:1>
+Another cellular error that could lead to cancer is gene
+amplification.
+
+<ICE-IND:W2B-040#36:1>
+Gene amplification or the production of multiple copies of a gene
+leads to over-production of a specific protein.
+
+<ICE-IND:W2B-040#37:1>
+This at times results in cancer.
+
+<ICE-IND:W2B-040#38:1>
+In some developmental programmes, gene amplification is a normal
+event.
+
+<ICE-IND:W2B-040#39:1>
+The amplification of chorion genes in the ovaries of fruitfly is one
+such example.
+
+<ICE-IND:W2B-040#40:1>
+But, in mammals, <O> <&> page </&> 29 </O> <O> sketch on column 1 & 2
+in box </O> <O> caption </O> amplification is an unscheduled berration and
+occurs mostly during the formation of a tumour.
+
+<ICE-IND:W2B-040#41:1>
+Twenty to thirty per cent of certain solid tumours carry amplified
+cellular oncogenes - - a group of 30-50 genes present in normal cells and
+which resemble the cancer causing genes found in cancer viruses.
+
+<ICE-IND:W2B-040#42:1>
+These genes normally remain quiescent but can get transformed and
+trigger cancerous growth.
+
+<ICE-IND:W2B-040#43:1>
+Amplification does not affect cellular oncogenes at random.
+
+<ICE-IND:W2B-040#44:1>
+It seems that some genes are preferentially amplified but the reason
+for such preferential amplification of genes is not clear. </p>
+
+<p> 
+<ICE-IND:W2B-040#45:1>
+The exact cause and mechanism of amplification is also yet to be
+established.
+
+<ICE-IND:W2B-040#46:1>
+Several rival theories seek to explain the mechanism.
+
+<ICE-IND:W2B-040#47:1>
+It is now established clearly that, amplification occurs rarely in
+normal cells, but appears to become more common as cells progress towards
+malignancy.
+
+<ICE-IND:W2B-040#48:1>
+The rate of amplification can be increased several fold by various
+drugs, carcinogens ( cancer causing chemicals), and ultraviolet radiation.
+
+<ICE-IND:W2B-040#49:1>
+These observations have led to the hypothesis that, a variety of
+agents may induce <quote> " misfiring" </quote> of replication, resulting in
+the generation of amplified DNA.
+
+<ICE-IND:W2B-040#50:1>
+When a stretch of DNA with an oncogene on it spontaneously amplifies,
+certain cellular security checks are breached.
+
+<ICE-IND:W2B-040#51:1>
+This amplification allows the host cell to escape growth control.
+
+<ICE-IND:W2B-040#52:1>
+It becomes mobile and invasive and may escape immune surveillance.
+
+<ICE-IND:W2B-040#53:1>
+Most frighteningly, these features may pass on to the daughter cells,
+establishing malignant cancers. </p>
+
+<p> 
+<ICE-IND:W2B-040#54:1>
+Since amplification of cellular oncogenes is often a recurrent
+genetic abnormality in cancer cells, it looks as if amplification is the
+cause and malingnant growth the consequence.
+
+<ICE-IND:W2B-040#55:1>
+Different levels of gene amplification have been associated with
+different types of cancers depending on which gene has been amplified and to
+what extent. </p>
+
+<p> 
+<ICE-IND:W2B-040#56:1>
+The genetic material is the most conserved cellular molecule.
+
+<ICE-IND:W2B-040#57:1>
+At the same time, it is the most susceptible to environmental damage.
+
+<ICE-IND:W2B-040#58:1>
+For example, when struck by ionizing radiation, the backbone of a DNA
+molecule is often broken and when exposed to avariety of chemicals produced
+either inside or outside the cell, the bases of the DNA molecule are altered
+structurally or even split away from the backbone.
+
+<ICE-IND:W2B-040#59:1>
+When exposed the ultraviolet ( UV ) adjacent pyrimidines on a DNA
+strand interact with one another to form a covalent complex known as a dimer.
+</p>
+
+<p> 
+<ICE-IND:W2B-040#60:1>
+It is estimated that several thousand bases are lost from a cell
+everyday because of these damages.
+
+<ICE-IND:W2B-040#61:1>
+If such large damages occur each day, it is reasonable to assume that
+a cell would be damaged.
+
+<ICE-IND:W2B-040#62:1>
+However, in order to maintain stability of the DNA molecule, various
+in-built cellular mechanisms repair such damages.
+
+<ICE-IND:W2B-040#63:1>
+There are a variety of enzymes which appear to patrol the DNA,
+searching for aberrations, alterations and distortions that they can
+recognize and repair.
+
+<ICE-IND:W2B-040#64:1>
+Most of the repair systems selectively remove or excise away the
+damaged section of the DNA.
+
+<ICE-IND:W2B-040#65:1>
+The best studied excision repair system is one which is responsible
+for removing pyrimidine dimers.
+
+<ICE-IND:W2B-040#66:1>
+In this process an <O> <&> page </&> 30 </O> enzyme makes an incision
+in the backbone of the altered strand.
+
+<ICE-IND:W2B-040#67:1>
+Such enzymes are called endonucleases because they cut within the DNA
+strand.
+
+<ICE-IND:W2B-040#68:1>
+This nick in the backbone is then recognized by an exonuclease enzyme
+( enzymes which cut nucleotide from the ends ) that proceeds to remove the
+section of the strand containing the dimer.
+
+<ICE-IND:W2B-040#69:1>
+The gap is then occupied by a polymerase enzyme that incorporates
+complementary nucleotides in the gap and a DNA ligase enzyme seals the break.
+
+<ICE-IND:W2B-040#70:1>
+And hey presto !
+
+<ICE-IND:W2B-040#71:1>
+The error has been corrected. </p>
+
+<p> 
+<ICE-IND:W2B-040#72:1>
+Insufficient or faulty ( error-prone ) <O> figure across the
+entire page </O> <O> caption </O> repair of DNA may cause some types of
+cancers.
+
+<ICE-IND:W2B-040#73:1>
+A classic example is the skin cancer, xeroderma pigmentosum ( XP ) .
+
+<ICE-IND:W2B-040#74:1>
+In normal individuals only prolonged and excessive exposure to
+sunlight leads to skin cancer.
+
+<ICE-IND:W2B-040#75:1>
+Patients with xeroderma pigmentosum are unusually sensitive to
+sunlight and run a high risk of developing skin cancers.
+
+<ICE-IND:W2B-040#76:1>
+In this disease, the pyrimidine dimer removal system is highly
+deficient.
+
+<ICE-IND:W2B-040#77:1>
+Some reports suggest that skin cancers in XP patients have a higher
+incidence of RAS gene mutations also. </p>
+
+<p> 
+<ICE-IND:W2B-040#78:1>
+There are also other conditions that make one prone to cancer.
+
+<ICE-IND:W2B-040#79:1>
+These are also thought to involve defects in NA repair mechanism.
+
+<ICE-IND:W2B-040#80:1>
+For example, ataxia telangiectasia ( AT ) , is thought of as a
+chromosome breakage syndrome.
+
+<ICE-IND:W2B-040#81:1>
+AT cells are sensitive to agents such as X-rays which cause gross
+chromosome breakage.
+
+<ICE-IND:W2B-040#82:1>
+Due to inefficient repair of this type of damage, AT patients become
+susceptible to cancers of the lymphatic tissues and leukaemias.
+
+<ICE-IND:W2B-040#83:1>
+But the relationship between such susceptibility, DNA damage and
+faulty mDNA repair is still unclear. </p>
+
+<p> 
+<ICE-IND:W2B-040#84:1>
+Apart from malfunctioning enzymes, other factors too contribute
+to genomic instability.
+
+<ICE-IND:W2B-040#85:1>
+These factors are recombination and chromosomal translocation.
+
+<ICE-IND:W2B-040#86:1>
+Translocation is the transfer of a section of a chromosome of one
+pair to a chromosome of a different pair.
+
+<ICE-IND:W2B-040#87:1>
+Chromosomal recombination contributes a lot to the disruption of
+genomic stability.
+
+<ICE-IND:W2B-040#88:1>
+It is now clear that sites of consistent chromosomal rearrangement
+pinpoint genes that are involved in transforming normal cells to cancerous
+ones.
+
+<ICE-IND:W2B-040#89:1>
+Our understanding of the molecular basis of chromosomal
+rearrangements in cancer has been greatly facilitated by advances in gene
+mapping. </p>
+
+<p> 
+<ICE-IND:W2B-040#90:1>
+Leukaemias and lymphomas usually have chromosomal rearrangements
+that can easily be detected by special microscopy techniques.
+
+<ICE-IND:W2B-040#91:1>
+Translocation seems to be the most common structural aberration
+chromosomes.
+
+<ICE-IND:W2B-040#92:1>
+Such type of chromosomal rearrangement was first observed in a human
+tumour as early as in 1960.
+
+<ICE-IND:W2B-040#93:1>
+An unusually small chromosome was found in the leukaemia cells of
+patients with chronic granulocytic leukaemia ( CGL ) .
+
+<ICE-IND:W2B-040#94:1>
+It was named Philadelphia chromosome.
+
+<ICE-IND:W2B-040#95:1>
+Later it was found that Philadelphia chromosome is derived from a
+reciprocal translocation between chromosome 9 and 22.
+
+<ICE-IND:W2B-040#96:1>
+The oncogene C-able on chromosome 9 becomes transferred to the
+Philadelphia chromosome as a result of the translocation.
+
+<ICE-IND:W2B-040#97:1>
+C-sis gene is transferred from chromosome 22 to chromosome 9 as a
+result of translocation. </p>
+
+<p> 
+<ICE-IND:W2B-040#98:1>
+Tumour metastasis is a complex process in which cells migrate
+from a primary tumor and colonize other organs.
+
+<ICE-IND:W2B-040#99:1>
+Tumor metastasis is difficult to treat and is the major cause of
+death due to cancer.
+
+<ICE-IND:W2B-040#100:1>
+The most potent question in this regard is whether metastasis is a
+genetically controlled phenomenon.
+
+<ICE-IND:W2B-040#101:1>
+To date 10 oncogenes have been identified which can induce
+metastasis when introduced into a tumour cell line.
+
+<ICE-IND:W2B-040#102:1>
+But oncogenes thatinduce metastasis in one cell line do not
+necessarily do so in another.
+
+<ICE-IND:W2B-040#103:1>
+The most recent genetical aspect of tumor metastasis is the
+identification of the metastasis suppressor gene.
+
+<ICE-IND:W2B-040#104:1>
+This gene, known as nm 23 ( nm stands for non-metastatic) is
+normally involved in non-metastatic activity of the cell but any mutation in
+this gene causes loss of function and induces cells to undergo metastasis.
+</p>
+
+<p> 
+<ICE-IND:W2B-040#105:1>
+As more and more evidence of genetic damages asociated with
+cancer cells come to light and their association with biochemical functions
+become known, cancer may become more manageable.
+
+<ICE-IND:W2B-040#106:1>
+Hope that the day is not too far away when this disorder will join
+the ranks of those for which successful cure exists. </p> <*> line above the
+editorial comment </*> <&>
+
+<p> 
+<ICE-IND:W2B-040#107:1>
+Dr Chakravarty is a researcher at Chittaranjan National Cancer
+Institute, Tumour Biology Department, Address : 37, S.P. Mukherjee Road,
+Calcutta-700 026, and Dr. Guha Roy teaches at Darjeeling Government College,
+Darjeeling-734 101 </&> </I>

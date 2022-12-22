@@ -1,0 +1,1260 @@
+<I>
+
+<$A> 
+<ICE-IND:S1B-016#1:1:A>
+What is <,> the difference between H and H <sb> two</sb> <,,> ?
+
+<ICE-IND:S1B-016#2:1:A>
+Difference between H and H <sb> two</sb> <,,> ?
+
+<ICE-IND:S1B-016#3:1:A>
+Raise your hands if you know <,,>
+
+<ICE-IND:S1B-016#4:1:A>
+<&> name of student </&>
+
+<$S> 
+<ICE-IND:S1B-016#5:1:S>
+No he was sitting in the ninth standard <,,> <X>
+
+<ICE-IND:S1B-016#X6:1:S>
+Okay </X> <,,>
+
+<$A> 
+<ICE-IND:S1B-016#7:1:A>
+What is the difference between H and H <sb> two</sb> <,,> ?
+
+<ICE-IND:S1B-016#8:1:A>
+Nobody <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#9:1:S>
+One is uh <,>
+
+<$A> 
+<ICE-IND:S1B-016#10:1:A>
+Yes yes
+
+<$S> 
+<ICE-IND:S1B-016#11:1:S>
+H is the one atom of hydrogen and H <sb> two</sb> is the one
+molecule of hydrogen
+
+<$A> 
+<ICE-IND:S1B-016#12:1:A>
+Yes
+
+<ICE-IND:S1B-016#13:1:A>
+That is this particular H stands for the <,> atomic symbol <,> of
+hydrogen <,> while H <sb> two</sb> is the <,> formula or molecular formula of
+<,> hygrogen <,,> <&> noise </&>
+
+<ICE-IND:S1B-016#14:1:A>
+What is it <,> H stands for ?
+
+<$A> 
+<ICE-IND:S1B-016#15:1:A>
+<{1> <[1> Atomic symbol </[1> while H <sb> two</sb> stands for
+<{2> <[2> the molecular formula </[2>
+
+<$CH> 
+<ICE-IND:S1B-016#16:1:C>
+<[1> Atomic symbol </[1> </{1>
+
+<$CH> 
+<ICE-IND:S1B-016#17:1:C>
+<[2> The molecular formula </[2> </{2>
+
+<$A> 
+<ICE-IND:S1B-016#18:1:A>
+Okay what is <,> the relative atomic mass of hydrogen <,,> ?
+
+<ICE-IND:S1B-016#19:1:A>
+Relative atomic mass raise your hand
+
+<$S> 
+<ICE-IND:S1B-016#20:1:S>
+One point zero zero eight
+
+<$A> 
+<ICE-IND:S1B-016#21:1:A>
+One point zero zero <{> <[> eight </[>
+
+<$CH> 
+<ICE-IND:S1B-016#22:1:C>
+<[> Eight </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#23:1:A>
+Okay
+
+<ICE-IND:S1B-016#24:1:A>
+Isotopes of hydrogen <,,> ?
+
+<ICE-IND:S1B-016#25:1:A>
+Isotopes of hydrogen <,,> ?
+
+<ICE-IND:S1B-016#26:1:A>
+No <,,> ?
+
+<ICE-IND:S1B-016#27:1:A>
+Rahul <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#28:1:S>
+Molecules of hydrogen
+
+<$A> 
+<ICE-IND:S1B-016#29:1:A>
+Stand up and say <,,>
+
+<$S> 
+<ICE-IND:S1B-016#30:1:S>
+Molecules <&> noise of horn </&> <,,>
+
+<$A> 
+<ICE-IND:S1B-016#31:1:A>
+Kiran <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#32:1:S>
+<O> A few words </O>
+
+<$A> 
+<ICE-IND:S1B-016#33:1:A>
+<O> A few words </O>
+
+<ICE-IND:S1B-016#34:1:A>
+Now when you put that <O> one word </O> <,,> one and one what does
+this means <,,> ?
+
+<ICE-IND:S1B-016#35:1:A>
+Which isotope is this indicate <,,> ?
+
+<$CH> 
+<ICE-IND:S1B-016#36:1:C>
+<&> Noise </&>
+
+<$A> 
+<ICE-IND:S1B-016#37:1:A>
+What does this particular symbol indicate or this
+representation indicate <,> ?
+
+<ICE-IND:S1B-016#38:1:A>
+Yes Savita ?
+
+<$S> 
+<ICE-IND:S1B-016#39:1:S>
+It is uh
+
+<$A> 
+<ICE-IND:S1B-016#40:1:A>
+It is <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#41:1:S>
+The <O> one word </O>
+
+<$CH> 
+<ICE-IND:S1B-016#42:1:C>
+<&> Noise </&> <,,>
+
+<$A> 
+<ICE-IND:S1B-016#43:1:A>
+So what will one H one stand for <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#44:1:S>
+<?> Procium </?>
+
+<$A> 
+<ICE-IND:S1B-016#45:1:A>
+<?> Procium </?> okay
+
+<ICE-IND:S1B-016#46:1:A>
+Now tell why do you guess or first tell me <,> what is this
+subscript stand for and the superscript stand for <,,> ? <&> Noise </&>
+
+<ICE-IND:S1B-016#47:1:A>
+Subscript stands for <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#48:1:S>
+Atomic number
+
+<$A> 
+<ICE-IND:S1B-016#49:1:A>
+Atomic <,> number <,,>
+
+<ICE-IND:S1B-016#50:1:A>
+Nupur <,,> subscript stand for what ?
+
+<$S> 
+<ICE-IND:S1B-016#51:1:S>
+Mass number
+
+<$S> 
+<ICE-IND:S1B-016#52:1:S>
+Mass number
+
+<$A> 
+<ICE-IND:S1B-016#53:1:A>
+Mass number
+
+<$S> 
+<ICE-IND:S1B-016#54:1:S>
+Atomic number
+
+<$A> 
+<ICE-IND:S1B-016#55:1:A>
+Atomic number
+
+<ICE-IND:S1B-016#56:1:A>
+So <,> okay what does this particular subscript stand for ?
+
+<$S> 
+<ICE-IND:S1B-016#57:1:S>
+Mass number
+
+<$A> 
+<ICE-IND:S1B-016#58:1:A>
+Mass number <,>
+
+<ICE-IND:S1B-016#59:1:A>
+Why are they written mass numbers here <,> ?
+
+<ICE-IND:S1B-016#60:1:A>
+Or what will show <{> <[> the formula <O> one or two words </O>
+</[>
+
+<$S> 
+<ICE-IND:S1B-016#61:1:S>
+<[> Because there is a difference there are different numbers
+of neutrons </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#62:1:A>
+Because there is difference in the number of <,> <{> <[>
+neutrons </[>
+
+<$CH> 
+<ICE-IND:S1B-016#63:1:C>
+<[> Neutrons </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#64:1:A>
+And neutrons or mass number means <,,> ? <&> Noise </&>
+
+<ICE-IND:S1B-016#65:1:A>
+Mass number means <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#66:1:S>
+Number of protons
+
+<$A> 
+<ICE-IND:S1B-016#67:1:A>
+Number of <,>
+
+<$CH> 
+<ICE-IND:S1B-016#68:1:C>
+Protons <,>
+
+<$A> 
+<ICE-IND:S1B-016#69:1:A>
+Number of protons plus number of <,> <{> <[> neutrons </[>
+
+<$CH> 
+<ICE-IND:S1B-016#70:1:C>
+<[> Neutrons </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#71:1:A>
+Present in the
+
+<$S> 
+<ICE-IND:S1B-016#72:1:S>
+The nucleus of an atom
+
+<$A> 
+<ICE-IND:S1B-016#73:1:A>
+<{> <[> The nucleus of an <,> atom </[>
+
+<$CH> 
+<ICE-IND:S1B-016#74:1:C>
+<[> The nucleus of an atom </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#75:1:A>
+All right <,> okay
+
+<ICE-IND:S1B-016#76:1:A>
+Then next we go to about the occurance of hydrogen <,,>
+
+<ICE-IND:S1B-016#77:1:A>
+Hydrogen can occur in <,,> in <,,> which two states <,,> ?
+
+<ICE-IND:S1B-016#78:1:A>
+Hydrogen can occur in which two states <,,> ?
+
+<ICE-IND:S1B-016#79:1:A>
+Jivan ?
+
+<$S> 
+<ICE-IND:S1B-016#80:1:S>
+We get the atom in the free state
+
+<$A> 
+<ICE-IND:S1B-016#81:1:A>
+Give the example where <,> where it is occuring in the free
+state
+
+<$S> 
+<ICE-IND:S1B-016#82:1:S>
+In sun
+
+<$A> 
+<ICE-IND:S1B-016#83:1:A>
+In <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#84:1:S>
+Sun <,>
+
+<$A> 
+<ICE-IND:S1B-016#85:1:A>
+Sun and <,,> ? <&> noise </&> and <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#86:1:S>
+Atmosphere
+
+<$A> 
+<ICE-IND:S1B-016#87:1:A>
+Atmosphere of <,,>
+
+<$S> 
+<ICE-IND:S1B-016#88:1:S>
+Earth
+
+<$A> 
+<ICE-IND:S1B-016#89:1:A>
+Earth and <,>
+
+<$S> 
+<ICE-IND:S1B-016#90:1:S>
+Sun <,,>
+
+<$A> 
+<ICE-IND:S1B-016#91:1:A>
+Sun okay
+
+<ICE-IND:S1B-016#92:1:A>
+Rakesh <,,> in the other state give me the examples ?
+
+<$S> 
+<ICE-IND:S1B-016#93:1:S>
+Rocks and minerals <,>
+
+<$A> 
+<ICE-IND:S1B-016#94:1:A>
+In the rocks and <,,> minerals
+
+<ICE-IND:S1B-016#95:1:A>
+See <-> so </-> hydrogen occurs in <,> two different states in the
+free state and in the <,> combined state
+
+<ICE-IND:S1B-016#96:1:A>
+In the <,> free state it is specially present in the atomsphere of
+the <,> sun and in the other stars of the <,> universe
+
+<ICE-IND:S1B-016#97:1:A>
+And in the combined state it can be present in the <,> rocks and
+minerals and what else ?
+
+<$S> 
+<ICE-IND:S1B-016#98:1:S>
+Tissues <,>
+
+<$A> 
+<ICE-IND:S1B-016#99:1:A>
+Tissues of ?
+
+<$CH> 
+<ICE-IND:S1B-016#100:1:C>
+Animals and plants
+
+<$A> 
+<ICE-IND:S1B-016#101:1:A>
+Okay next is <,> about the preparation of hydrogen <,,>
+
+<ICE-IND:S1B-016#102:1:A>
+Now you can prepare hydrogen <,,> by <O> two words </O> <,,> <&>
+noise </&>
+
+<ICE-IND:S1B-016#103:1:A>
+There are some general methods of preparation of hydrogen isn't it
+<,,> ?
+
+<ICE-IND:S1B-016#104:1:A>
+Give me some <,> names you can <}> <-> <.> prepar </.> </-> <=>
+prepare </=> </}> hydrogen from <,> ?
+
+<ICE-IND:S1B-016#105:1:A>
+Sejal
+
+<$S> 
+<ICE-IND:S1B-016#106:1:S>
+Cold water
+
+<$A> 
+<ICE-IND:S1B-016#107:1:A>
+From cold water okay <,,>
+
+<ICE-IND:S1B-016#108:1:A>
+Then ?
+
+<$S> 
+<ICE-IND:S1B-016#109:1:S>
+Boiling water
+
+<$A> 
+<ICE-IND:S1B-016#110:1:A>
+Boiling water <,,> and ?
+
+<$S> 
+<ICE-IND:S1B-016#111:1:S>
+Alkali <,> <&> noise </&>
+
+<$S> 
+<ICE-IND:S1B-016#112:1:S>
+Alkali <,,>
+
+<$A> 
+<ICE-IND:S1B-016#113:1:A>
+Alkali <,,> any more <,,> ?
+
+<ICE-IND:S1B-016#114:1:A>
+Any more <,,> ?
+
+<ICE-IND:S1B-016#115:1:A>
+<w> That's </w> all <,>
+
+<$S> 
+<ICE-IND:S1B-016#116:1:S>
+Teacher <,,> in water gas
+
+<$A> 
+<ICE-IND:S1B-016#117:1:A>
+From <,,> that is found after the <,,> <{> <[> industrial or
+the commercial production </[> <,,>
+
+<$CH> 
+<ICE-IND:S1B-016#118:1:C>
+<[> Industrial or the commercial production </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#119:1:A>
+These all are mentioned here are the general methods of <,>
+preparation
+
+<ICE-IND:S1B-016#120:1:A>
+While these what you mention now were for gas <,,>
+
+<ICE-IND:S1B-016#121:1:A>
+This industrial process of preparation of hydrogen <,> okay sit
+down
+
+<ICE-IND:S1B-016#122:1:A>
+Now give me one example <,,> for preparation of hydrogen from cold
+water <,,> ?
+
+<ICE-IND:S1B-016#123:1:A>
+Yes Sachin ?
+
+<$S> 
+<ICE-IND:S1B-016#124:1:S>
+Potassium calcium <,,>
+
+<$A> 
+<ICE-IND:S1B-016#125:1:A>
+What are they <,,> ?
+
+<ICE-IND:S1B-016#126:1:A>
+What are they ?
+
+<ICE-IND:S1B-016#127:1:A>
+<{> <[> Potassium calcium </[>
+
+<$S> 
+<ICE-IND:S1B-016#128:1:S>
+<[> Active metals </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#129:1:A>
+They are ?
+
+<$S> 
+<ICE-IND:S1B-016#130:1:S>
+Active metals
+
+<$A> 
+<ICE-IND:S1B-016#131:1:A>
+Active metals how do you know they are active metals <,,> ?
+
+<ICE-IND:S1B-016#132:1:A>
+Sameer ?
+
+<$S> 
+<ICE-IND:S1B-016#133:1:S>
+They react violently <,>
+
+<$A> 
+<ICE-IND:S1B-016#134:1:A>
+They react violently so <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#135:1:S>
+They are active metals
+
+<$S> 
+<ICE-IND:S1B-016#136:1:S>
+They react with <,,> uh cold water and produce uh <,,>
+
+<$A> 
+<ICE-IND:S1B-016#137:1:A>
+Okay they react I know but how do you come to know they are
+<,> active metals <,,> ?
+
+<ICE-IND:S1B-016#138:1:A>
+Yes Sheetal ?
+
+<$S> 
+<ICE-IND:S1B-016#139:1:S>
+From the activity series of metals
+
+<$A> 
+<ICE-IND:S1B-016#140:1:A>
+From the activity series of <,> metals <,>
+
+<ICE-IND:S1B-016#141:1:A>
+They are present at the <,> sit down <,> they are present at the
+<,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#142:1:S>
+Top <,>
+
+<$A> 
+<ICE-IND:S1B-016#143:1:A>
+Top of the ?
+
+<$S> 
+<ICE-IND:S1B-016#144:1:S>
+Series
+
+<$A> 
+<ICE-IND:S1B-016#145:1:A>
+So those metals which are at the top of series <,,> in the
+active series are called as the active metals
+
+<ICE-IND:S1B-016#146:1:A>
+So <,> active metals like potassium sodium and calcium react with
+<,> cold water to produce <,> <{> <[> hydrogen </[>
+
+<$CH> 
+<ICE-IND:S1B-016#147:1:C>
+<[> Hydrogen </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#148:1:A>
+Okay <,> now explain the process of reaction of potassium
+with cold water <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#149:1:S>
+Replacement <O> one word </O> <,>
+
+<$A> 
+<ICE-IND:S1B-016#150:1:A>
+How does potassium react with <,> cold water <,,> ?
+
+<ICE-IND:S1B-016#151:1:A>
+<&> Noise </&>
+
+<ICE-IND:S1B-016#152:1:A>
+How does potassium react <,,> ? <&> student name </&> <,,>
+
+<ICE-IND:S1B-016#153:1:A>
+How does potassium react with cold water <,,> ?
+
+<ICE-IND:S1B-016#154:1:A>
+When potassium ash is added to cold water what happens <,,> ?
+
+<ICE-IND:S1B-016#155:1:A>
+Ajit <,,> ?
+
+<ICE-IND:S1B-016#156:1:A>
+No <,,> do not know how they react ?
+
+<ICE-IND:S1B-016#157:1:A>
+Do you know the equation <,,> ?
+
+<ICE-IND:S1B-016#158:1:A>
+Do you know the equation or no <,> ?
+
+<ICE-IND:S1B-016#159:1:A>
+The reactions <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#160:1:S>
+No
+
+<$A> 
+<ICE-IND:S1B-016#161:1:A>
+Potassium <,,> with water will give you what <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#162:1:S>
+<O> One word </O>
+
+<$A> 
+<ICE-IND:S1B-016#163:1:A>
+You are preparing what is that <,,> ?
+
+<ICE-IND:S1B-016#164:1:A>
+What are you preparing <,> ?
+
+<ICE-IND:S1B-016#165:1:A>
+Hydrogen
+
+<ICE-IND:S1B-016#166:1:A>
+So one product is going to be <,,> ?
+
+<ICE-IND:S1B-016#167:1:A>
+Hydrogen <,,>
+
+<ICE-IND:S1B-016#168:1:A>
+K O <,,>
+
+<$S> 
+<ICE-IND:S1B-016#169:1:S>
+Teacher <,,>
+
+<$S1> 
+<ICE-IND:S1B-016#170:1:S>
+Three uh
+
+<$A> 
+<ICE-IND:S1B-016#171:1:A>
+Okay so <,> we were <,> discussing about <{> <[> potassium
+</[> reacting with water
+
+<$S> 
+<ICE-IND:S1B-016#172:1:S>
+<[> Potassium </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#173:1:A>
+One product isotope will be <,> <{> <[> hydrogen <,> hydrogen
+
+<$S> 
+<ICE-IND:S1B-016#174:1:S>
+<[> Hydrogen </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#175:1:A>
+So what will be the other product ?
+
+<$S> 
+<ICE-IND:S1B-016#176:1:S>
+K O H
+
+<$A> 
+<ICE-IND:S1B-016#177:1:A>
+K O H that is what <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#178:1:S>
+Potassium
+
+<$CH> 
+<ICE-IND:S1B-016#179:1:C>
+Potassium hydroxide
+
+<$A> 
+<ICE-IND:S1B-016#180:1:A>
+Potassium <,> <{> <[> hydroxide </[>
+
+<$CH> 
+<ICE-IND:S1B-016#181:1:C>
+<[> Hydroxide </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#182:1:A>
+Now tell me the process completely <,> in detail <,,>
+
+<ICE-IND:S1B-016#183:1:A>
+That is the whole process which you wrote in an <}> <-> <.> eq
+</.> </-> <,> <=> equation </=> </}> <,,> involved in it <,>
+
+<ICE-IND:S1B-016#184:1:A>
+Yes Hemant ?
+
+<$S> 
+<ICE-IND:S1B-016#185:1:S>
+It is not used
+
+<$A> 
+<ICE-IND:S1B-016#186:1:A>
+I want the process <,> it is not used I know <,,>
+
+<ICE-IND:S1B-016#187:1:A>
+But if you add it to water it will show some reaction
+
+<$S> 
+<ICE-IND:S1B-016#188:1:S>
+The the reaction will be violent and and <,> and <}> <-> <.>
+endo </.> </-> <,> <=> endothermic </=> </}>
+
+<$A> 
+<ICE-IND:S1B-016#189:1:A>
+Endothermic <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#190:1:S>
+It is an endothermic <&> Noise </&>
+
+<$A> 
+<ICE-IND:S1B-016#191:1:A>
+What is the difference between endothermic and exothermic
+<,,> ?
+
+<ICE-IND:S1B-016#192:1:A>
+What is the difference between endothermic and exothermic <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#193:1:S>
+Teacher
+
+<$S1> 
+<ICE-IND:S1B-016#194:1:S>
+Teacher teacher <,>
+
+<$A> 
+<ICE-IND:S1B-016#195:1:A>
+Come on come on hurry up <,,>
+
+<$S> 
+<ICE-IND:S1B-016#196:1:S>
+In the endothermic it is revolved and in exothermic it is
+evolved
+
+<$A> 
+<ICE-IND:S1B-016#197:1:A>
+No <,,> <&> noise </&>
+
+<ICE-IND:S1B-016#198:1:A>
+Anybody else <,,> ?
+
+<ICE-IND:S1B-016#199:1:A>
+Exothermic <,> is <,,> reactions in which heat is evolved <,>
+
+<$S> 
+<ICE-IND:S1B-016#200:1:S>
+Exothermic
+
+<$A> 
+<ICE-IND:S1B-016#201:1:A>
+Alright that was right
+
+<ICE-IND:S1B-016#202:1:A>
+What about endothermic <,> ?
+
+<ICE-IND:S1B-016#203:1:A>
+No heat is evolved <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#204:1:S>
+Heat is
+
+<$A> 
+<ICE-IND:S1B-016#205:1:A>
+Heat is absorbed <,,>
+
+<ICE-IND:S1B-016#206:1:A>
+Do you follow or no <,> ?
+
+<ICE-IND:S1B-016#207:1:A>
+So when potassium reacts with water what happens <,> ?
+
+<ICE-IND:S1B-016#208:1:A>
+It <,,> reacts violently <,,> and it is an exothermic <,> reaction
+<,>
+
+<ICE-IND:S1B-016#209:1:A>
+What else any other point left <,,> ?
+
+<ICE-IND:S1B-016#210:1:A>
+Any other point <,> left <,,> ?
+
+<ICE-IND:S1B-016#211:1:A>
+What happens to the heat that is evolved ?
+
+<$S> 
+<ICE-IND:S1B-016#212:1:S>
+Ignites <,>
+
+<$A> 
+<ICE-IND:S1B-016#213:1:A>
+It
+
+<$CH> 
+<ICE-IND:S1B-016#214:1:C>
+Ignites the hydrogen gas
+
+<$A> 
+<ICE-IND:S1B-016#215:1:A>
+Yes it ignites the hydrogen gas that is <,> formed <,>
+
+<ICE-IND:S1B-016#216:1:A>
+Next is what happens with sodium <,,> ?
+
+<ICE-IND:S1B-016#217:1:A>
+How does cold water react with sodium metal <,,> ?
+
+<ICE-IND:S1B-016#218:1:A>
+Tanuja <,,> ? <&> Noise </&>
+
+<ICE-IND:S1B-016#219:1:A>
+Hurry up <,>
+
+<$S> 
+<ICE-IND:S1B-016#220:1:S>
+Reaction with sodium is evolved uh with
+
+<$A> 
+<ICE-IND:S1B-016#221:1:A>
+More thing is <,>
+
+<$S> 
+<ICE-IND:S1B-016#222:1:S>
+And it reacts with <O> one word </O> and <}> <-> <.> sod </.>
+</-> <=> <?> sodiumness </?> </=> </}> forming slowly reacts with the <?>
+probably </?> <,> revolved above the water
+
+<$A> 
+<ICE-IND:S1B-016#223:1:A>
+Ah and when it revolves in water <,,> what happens <,,> ?
+
+<ICE-IND:S1B-016#224:1:A>
+It <,,> <&> noise </&>
+
+<$S> 
+<ICE-IND:S1B-016#225:1:S>
+To obtain the <,> <&> noise </&>
+
+<$A> 
+<ICE-IND:S1B-016#226:1:A>
+I am not asking that <,> when it is revolving in water what
+happens <,,> ?
+
+<ICE-IND:S1B-016#227:1:A>
+Why is it revolving in water <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#228:1:S>
+Because its <,,>
+
+<$A> 
+<ICE-IND:S1B-016#229:1:A>
+Reacting with water <,,> to give you <,,> <{> <[> hydrogen
+<,> hydrogen gas and <,,>
+
+<$S> 
+<ICE-IND:S1B-016#230:1:S>
+<[> Hydrogen </[> </{>
+
+<$S> 
+<ICE-IND:S1B-016#231:1:S>
+<O> A few words </O>
+
+<$A> 
+<ICE-IND:S1B-016#232:1:A>
+In sodium hydroxide <,,> <&> noise </&>
+
+<ICE-IND:S1B-016#233:1:A>
+The active metals like potassium sodium calcium react <,,>
+
+<ICE-IND:S1B-016#234:1:A>
+One product is hydrogen because you are using it to prepare
+hydrogen only <,> and the other is always the product found in hydroxide <,>
+
+<ICE-IND:S1B-016#235:1:A>
+If it is potassium it will be potassium hydroxide <,> if it is
+sodium it will be <,> sodium hydroxide if it is <,> uh calcium it will be <,>
+calcium hydroxide <,>
+
+<ICE-IND:S1B-016#236:1:A>
+Alright sit down
+
+<ICE-IND:S1B-016#237:1:A>
+Now <,,> if you want to obtain a steady flow of <,> hydrogen gas
+<,> from while preparing it from sodium metal what do you have to do <,> to
+obtain a steady flow from the gas <,,> ?
+
+<ICE-IND:S1B-016#238:1:A>
+Of the gas <,,> ?
+
+<ICE-IND:S1B-016#239:1:A>
+Kiran <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#240:1:S>
+Sodium metal is amalgamated <,>
+
+<$A> 
+<ICE-IND:S1B-016#241:1:A>
+Is amalgamated means what is it done <,,> ?
+
+<ICE-IND:S1B-016#242:1:A>
+Amalgamated <,> what is the meaning of the term amalgamated ?
+
+<$S> 
+<ICE-IND:S1B-016#243:1:S>
+Thats <O> one word </O>
+
+<$A> 
+<ICE-IND:S1B-016#244:1:A>
+No <,,> that is the different term totally <,,> <&> noise
+</&>
+
+<ICE-IND:S1B-016#245:1:A>
+What does it do or what do you understand by amalgam or
+amalgamated <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#246:1:S>
+Its an alloy
+
+<$S1> 
+<ICE-IND:S1B-016#247:1:S>
+Miss an alloy of metal with mercury
+
+<$A> 
+<ICE-IND:S1B-016#248:1:A>
+Yes it is an alloy of a metal with <,> mercury
+
+<ICE-IND:S1B-016#249:1:A>
+So you have to <,,> amalgamate <,> sodium with <,> mercury
+
+<ICE-IND:S1B-016#250:1:A>
+And <}> <-> what else do </-> <=> what else do </=> </}> you have
+to do <,> ?
+
+<ICE-IND:S1B-016#251:1:A>
+That is the only thing you have to do <,> <{> <[> teacher <,> to
+obtain the steady flow of the gas <,,>
+
+<ICE-IND:S1B-016#252:1:A>
+Savita <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#253:1:S>
+<[> Teacher </[> </{>
+
+<$S> 
+<ICE-IND:S1B-016#254:1:S>
+Wrap it in a <?> wire box </?>
+
+<$A> 
+<ICE-IND:S1B-016#255:1:A>
+Wrap it in a <,> <?> wire box </?> <,> okay
+
+<ICE-IND:S1B-016#256:1:A>
+So <-> you </-> what will happen then you will get a steady flow
+of the <,> hydrogen gas that is evolved <,>
+
+<ICE-IND:S1B-016#257:1:A>
+Then next we go to <,,> calcium <,,>
+
+<ICE-IND:S1B-016#258:1:A>
+How does <,,> water reacts with calcium ?
+
+<ICE-IND:S1B-016#259:1:A>
+I already gave you the answer before itself <,,>
+
+<ICE-IND:S1B-016#260:1:A>
+How does calcium react with water <,,> ?
+
+<ICE-IND:S1B-016#261:1:A>
+If you have listened to me carefully you will know what it is <,,>
+
+<$S> 
+<ICE-IND:S1B-016#262:1:S>
+<O> One word </O>
+
+<$A> 
+<ICE-IND:S1B-016#263:1:A>
+The first thing we said about potassium <,>
+
+<ICE-IND:S1B-016#264:1:A>
+We said what <,,> ?
+
+<ICE-IND:S1B-016#265:1:A>
+The reaction is <,> <{> <[> <O> one word </O> <,> violent <,>
+rigorous and <,> exotherm <,>
+
+<$S> 
+<ICE-IND:S1B-016#266:1:S>
+<[> <O> One word </O> </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#267:1:A>
+After that we place sodium because it is less vigorous than
+<,> potassium <,> okay
+
+<ICE-IND:S1B-016#268:1:A>
+And thirdly now we have to come at calcium <,,>
+
+<ICE-IND:S1B-016#269:1:A>
+So now it will be ?
+
+<$CH> 
+<ICE-IND:S1B-016#270:1:C>
+Hydrogen potassium and sodium
+
+<$A> 
+<ICE-IND:S1B-016#271:1:A>
+Draw back to both sodium and <{> <[> potassium </[>
+
+<$CH> 
+<ICE-IND:S1B-016#272:1:C>
+<[> Potassium </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#273:1:A>
+Alright <,> now <,> what is it left <,,> ?
+
+<ICE-IND:S1B-016#274:1:A>
+Or why cannot we use calcium <,,> in ?
+
+<$CH> 
+<ICE-IND:S1B-016#275:1:C>
+<&> Noise </&>
+
+<$S> 
+<ICE-IND:S1B-016#276:1:S>
+Why cannot we use <,,> calcium <,,>
+
+<$A> 
+<ICE-IND:S1B-016#277:1:A>
+Why can't we use calcium in the production of hydrogen <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#278:1:S>
+Hydrogen <,,>
+
+<$A> 
+<ICE-IND:S1B-016#279:1:A>
+Why cannot we use calcium in the production of hydrogen <,> ?
+Minaz <,,>
+
+<$S> 
+<ICE-IND:S1B-016#280:1:S>
+Because it is an expensive method
+
+<$A> 
+<ICE-IND:S1B-016#281:1:A>
+Because it is an expensive <{> <[> method </[>
+
+<$CH> 
+<ICE-IND:S1B-016#282:1:C>
+<[> Method </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#283:1:A>
+Okay <,> now how do we collect the hydrogen that is formed in
+all these above cases ?
+
+<$S> 
+<ICE-IND:S1B-016#284:1:S>
+By downward method
+
+<$A> 
+<ICE-IND:S1B-016#285:1:A>
+How do we collect the hydrogen gas that is formed <,,> ?
+
+<ICE-IND:S1B-016#286:1:A>
+Rakesh <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#287:1:S>
+By <}> <-> downward </-> <=> downward </=> </}> displacement
+of
+
+<$A> 
+<ICE-IND:S1B-016#288:1:A>
+By downward displacement of <,> water <,,>
+
+<ICE-IND:S1B-016#289:1:A>
+Aftab tell me why do you have to <,,> collect it by downward
+displacement of water only <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#290:1:S>
+<O> A few words </O>
+
+<$A> 
+<ICE-IND:S1B-016#291:1:A>
+Why do we collect with by downward displacement of water <,>
+what is the reason <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#292:1:S>
+Because it is slightly <,,> soluble in water
+
+<$A> 
+<ICE-IND:S1B-016#293:1:A>
+Slightly <,> soluble in <,> slightly soluble in a
+
+<$S> 
+<ICE-IND:S1B-016#294:1:S>
+Slightly soluble in water
+
+<$A> 
+<ICE-IND:S1B-016#295:1:A>
+Slightly <,> soluble in water and what else <,> ?
+
+<ICE-IND:S1B-016#296:1:A>
+What is the other reasons <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#297:1:S>
+And lighter than air <,>
+
+<$A> 
+<ICE-IND:S1B-016#298:1:A>
+And lighter than <{> <[> air </[>
+
+<$CH> 
+<ICE-IND:S1B-016#299:1:C>
+<[> Air </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#300:1:A>
+So you collect it by the downward displacement of <{> <[>
+water </[> <,>
+
+<$CH> 
+<ICE-IND:S1B-016#301:1:C>
+<[> Water </[> </{>
+
+<$A> 
+<ICE-IND:S1B-016#302:1:A>
+Then next is about <,,> preparation of hydrogen from boiling
+water
+
+<ICE-IND:S1B-016#303:1:A>
+Which metals react with boiling water to give you hydrogen <,,> ?
+<&> noise </&>
+
+<ICE-IND:S1B-016#304:1:A>
+Amit <,,> which metals react with boiling water to give you
+hydrogen <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#305:1:S>
+<O> A few words </O> <,>
+
+<$A> 
+<ICE-IND:S1B-016#306:1:A>
+No <,> <w> it's </w> not so
+
+<$S> 
+<ICE-IND:S1B-016#307:1:S>
+Magnesium
+
+<$A> 
+<ICE-IND:S1B-016#308:1:A>
+Magnesium <,> only magnesium <,,> zinc <,,>
+
+<$S> 
+<ICE-IND:S1B-016#309:1:S>
+Iron iron <,>
+
+<$A> 
+<ICE-IND:S1B-016#310:1:A>
+Zinc and <,,> there is one more metal <,>
+
+<$S> 
+<ICE-IND:S1B-016#311:1:S>
+Iron <,>
+
+<$S> 
+<ICE-IND:S1B-016#312:1:S>
+Iron <,>
+
+<$A> 
+<ICE-IND:S1B-016#313:1:A>
+Iron <,,> okay <,,>
+
+<ICE-IND:S1B-016#314:1:A>
+So magnesium reacts with <,> ?
+
+<$S> 
+<ICE-IND:S1B-016#315:1:S>
+<O> One word </O> <,>
+
+<$A> 
+<ICE-IND:S1B-016#316:1:A>
+So these magnesium <,> zinc and iron are <,,> ?
+
+<$S> 
+<ICE-IND:S1B-016#317:1:S>
+Less active metals
+
+<$A> 
+<ICE-IND:S1B-016#318:1:A>
+Less active metals than potassium sodium and calcium <,>
+
+<ICE-IND:S1B-016#319:1:A>
+They react with water now <,,> a bit <,,> differently <}> <-> than
+<,> what uh </-> <=> than how </=> </}> the sodium potossium and calcium were
+reacting
+
+<ICE-IND:S1B-016#320:1:A>
+What is the difference <,,> ?
+
+<ICE-IND:S1B-016#321:1:A>
+None <,,> ?
+
+<ICE-IND:S1B-016#322:1:A>
+The intention is to prepare hydrogen only <,> or to be burnt
+hydrogen when the reactor is boiling water <,>
+
+<ICE-IND:S1B-016#323:1:A>
+But what is the difference between the other two process <,> the
+other <O> one word </O> <,,>
+
+<ICE-IND:S1B-016#324:1:A>
+Are you following the question or no <,,> ?
+
+<$CH> 
+<ICE-IND:S1B-016#325:1:C>
+No
+
+<$A> 
+<ICE-IND:S1B-016#326:1:A>
+Both these metal or all these metals <,> these three metals
+<,> the active metals potassium calcium <,> and <,,> sodium are reacting with
+water to give you hydrogen and something else what is that <,,> ?
+
+<ICE-IND:S1B-016#327:1:A>
+The hydroxide of those metals <,> right
+
+<ICE-IND:S1B-016#328:1:A>
+Here <,> these metals <,> magnesium zinc and iron which are less
+active than <,> potassiun sodium and calcium are reacting with water to give
+you hydrogen but <,> they are giving you some other product what is that <,,> ?
+</I>

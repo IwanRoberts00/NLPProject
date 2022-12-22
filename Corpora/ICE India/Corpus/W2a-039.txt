@@ -1,0 +1,576 @@
+<I>
+
+<ICE-IND:W2A-039#1:1>
+<h> <bold> Impacts of Dust Pollution </bold> </h> <&> authors </&>
+
+<ICE-IND:W2A-039#2:1>
+S.P. Agarwal and M.K. Agarwal<sp>*</sp>
+
+<ICE-IND:W2A-039#3:1>
+<it> Central Building Research Institute, Roorkee </it> - 247667 <&>
+in two columns </&> <&> column one </&>
+
+<ICE-IND:W2A-039#4:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#5:1>
+The industrial revolution brought the comforts to the mankind in
+abundance but at the same time this brought with it miseries and discomforts
+to mankind as well.
+
+<ICE-IND:W2A-039#6:1>
+The alarming increase in the population in India, increased the
+need of various commodities in large quantities.
+
+<ICE-IND:W2A-039#7:1>
+Man is a nonseparable and dependent part of nature.
+
+<ICE-IND:W2A-039#8:1>
+Man has substantial influence over nature too and, therefore, he
+derives all his food, clothing, shelter and other needs from nature. </p>
+
+<p> 
+<ICE-IND:W2A-039#9:1>
+The <mention> air </mention> , <mention> water </mention> ,
+<mention> soil </mention> , <mention> plants </mention> and <mention> trees
+</mention> , <mention> animals </mention> , etc., all constitute the
+environment.
+
+<ICE-IND:W2A-039#10:1>
+These constituents keep on interacting with each other to maintain a
+mutual balance.
+
+<ICE-IND:W2A-039#11:1>
+This mutual balance is called the <quote> <mention> ` ecological
+balance' </mention> </quote> .
+
+<ICE-IND:W2A-039#12:1>
+The use of nature, for fulfilling the requirements of man, by man
+causes certain changes in the environment and thus the ecological
+imbalances.
+
+<ICE-IND:W2A-039#13:1>
+If population is small, the effect on the environment is also
+proportionally small provided the other conditions remain unchanged.
+
+<ICE-IND:W2A-039#14:1>
+In developing countries, like ours, where the process of development
+puts a severe strain on the environment, the increase of population also
+adds a lot to the environmental strain.
+
+<ICE-IND:W2A-039#15:1>
+The emphasis of all the dedeveloping countries is on the economic
+development and normally this leads to generation of wastes in solid, liquid,
+and gaseous forms and the deterioration of the living environment.
+
+<ICE-IND:W2A-039#16:1>
+During the early stages of industrialisation, the environmental
+impacts of indstrial effluents did not pose any problems because the
+limited pace of development.
+
+<ICE-IND:W2A-039#17:1>
+With the increasing rate of industrial development and the
+populaation explosion, the environmental damage became a growing concern
+to people in general and to environmental lists in particular or rather it
+has become a global problem.
+
+<ICE-IND:W2A-039#18:1>
+More it has beome a mandatory requirement of every mankind to help in
+controlling it.
+
+<ICE-IND:W2A-039#19:1>
+It is essential to understand the magnitude of the task confronting
+the developing world to maintain the cleanliness of the environment, while
+keeping up the pace of industrialisation. </p>
+
+<ICE-IND:W2A-039#20:1>
+<h> <bold> MAGNITUDE OF DUST POLLUTION OF AIR </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#21:1>
+<quote> <mention> ` Good quality of life' </mention> </quote>
+essentially indicate minimum supply or availability of food, cloth and
+shelter to all of us as per old concept.
+
+<ICE-IND:W2A-039#22:1>
+Now <quote> <mention> ` good quality of life' </mention> </quote>
+literally means availability of clean air, fresh water, noise free
+environment, better communication and transportation system, better
+medical facilities, etc., besides other needs of life.
+
+<ICE-IND:W2A-039#23:1>
+The amount of air breathed and the oxygen consumed vary with the task
+performed and with the <w> individual's </w> size.
+
+<ICE-IND:W2A-039#24:1>
+Normal frequency of breathing in adults at rest ranges from 10 to
+24 breaths / min and the volume of air moved in or out of lungs with each
+breath is about 500 cc.
+
+<ICE-IND:W2A-039#25:1>
+The minute ventilation which is the volume of air moved in or out of
+lungs in 1 min ranges from 6 to 10 lit / min for normal resting subjects at
+sea level.
+
+<ICE-IND:W2A-039#26:1>
+The inspiratory and expiratory phases are not exactly same, but
+practically it may be considered each as taking half the time required for a
+complete respiratory cycle.
+
+<ICE-IND:W2A-039#27:1>
+Thus with a minute volume ( insipiratory) of 6 - 10 lit of air and
+this 6 - 10 lit of air will be inspirated in half time only which implies
+that the actual inspiration is at the rate of 12 - 20 lit / min, that is the
+inhalation rate of air is quite high.
+
+<ICE-IND:W2A-039#28:1>
+If a little volume, that is 1 lit / min of oxygen is required for
+some work than about 20.25 lit / min voume of air ( volume at 15 <*>
+degrees</*>C and 760 mm pressure of mercury ) would be required to breath
+in.
+
+<ICE-IND:W2A-039#29:1>
+Normally an average human breathes about 11,500 lit of air ( volume
+at 15 <*> degrees</*>C and 760 mm pressure of mercury) every day.
+
+<ICE-IND:W2A-039#30:1>
+This clearly indicates how large amount of pollutants are being
+inhaled by our body daily.
+
+<ICE-IND:W2A-039#31:1>
+As reported ambient air of Delhi city contains about 300 - 500 <*>
+mu</*>g / m<sp>3</sp> of air of particulate matter and one inhales more
+than 3 - 5 mg of particulates per day. </p>
+
+<ICE-IND:W2A-039#32:1>
+<h> <bold> TYPES OF DUST </bold> </h> <O> <*> line from left to
+right</*>
+
+<ICE-IND:W2A-039#33:1>
+<footnote> *111 E - 93, Rakesh Marg, Ghaziabad </footnote> </O> <O>
+<&> page </&> 486 </O>
+
+<p> 
+<ICE-IND:W2A-039#34:1>
+Before discussing the impacts of dust pollution on human beings,
+it is essential to know briefly about various types of dusts, reaction of
+body and lungs to inhaled dusts.
+
+<ICE-IND:W2A-039#35:1>
+First we will discuss the types of dust from health point of view.
+
+<ICE-IND:W2A-039#36:1>
+Dust ( aerosols composed of solid inanimate particles ) can be
+classified in the following ways. </p>
+
+<ICE-IND:W2A-039#37:1>
+<h> <bold> Inorganic dust and organic dust </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#38:1>
+Inorganic dust is responsible for pneumoconiosis.
+
+<ICE-IND:W2A-039#39:1>
+Various examples of inorganic dust are <mention> silica dust
+</mention> , <mention> coal dust </mention> , <mention> asbestos dust
+</mention> , etc.
+
+<ICE-IND:W2A-039#40:1>
+Organic dust usually results in bronchial asthma or hypersensitivity
+pneumonitis.
+
+<ICE-IND:W2A-039#41:1>
+Examples of organic dust are <mention> thermophilic actinomycetes
+</mention> , <mention> micropolyspora faeni </mention> , <mention>
+micromonospora vulgaris </mention> , <mention> aspergillus clavatus
+</mention> , <mention> aspergillus fumigatus </mention> , etc. </p>
+
+<ICE-IND:W2A-039#42:1>
+<h> <bold> Active and inert dust </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#43:1>
+Few dusts are inert and does not do structurally any harm to the
+lungs ( however, can cause some functional impairment if inhaled in
+sufficient quantity for a longer period ) .
+
+<ICE-IND:W2A-039#44:1>
+Examples are <mention> tin </mention> , <mention> iron </mention> ,
+<mention> barium </mention> , etc.
+
+<ICE-IND:W2A-039#45:1>
+Contrary to the inert dust, few dust are active and potential to
+cause pulmonary fibrosis ( fibrogenic dust ) .
+
+<ICE-IND:W2A-039#46:1>
+These dusts ( for example coal dust, silica dust, etc. ) , do
+structurally harm to the lungs. </p>
+
+<ICE-IND:W2A-039#47:1>
+<h> <bold> Industrial and environmental dust </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#48:1>
+Examples of industrial dust are <mention> coal dust </mention> ,
+<mention> silica </mention> , <mention> beryllium </mention> , <mention>
+abestos </mention> , etc.
+
+<ICE-IND:W2A-039#49:1>
+Examples of environmental dust are dust caused by storms, forest
+fires, etc. </p>
+
+<ICE-IND:W2A-039#50:1>
+<h> <bold> Outdoor and indoor dust </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#51:1>
+Dust in the outdoor environment is called outdoor dust while in
+indoor environment ( for example room air ) is called indoor dust.
+
+<ICE-IND:W2A-039#52:1>
+Other examples of indoor air dust are smoke dust as a part of
+cooking or smoking, dust due to air conditioner units ( defective units /
+improper maintenance ) , shoe dust, dust due to moisture on walls, etc. </p>
+
+<ICE-IND:W2A-039#53:1>
+<h> <bold> Respirable and inspirable dust </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#54:1>
+Dust containing particles less than 7 micron size is called
+<mention> respirably </mention> ( enters into lungs ) while dust containing
+particles more than 7 micron size is called <mention> inspirable dust
+</mention> ( can not enter into lungs ) . </p>
+
+<ICE-IND:W2A-039#55:1>
+<h> <bold> ACTION OF BODY AND LUNGS TO INHALED DUST </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#56:1>
+Nature has provided a very efficient filter mechanism of dust
+particles in our body.
+
+<ICE-IND:W2A-039#57:1>
+All particles greater than 7 micron <}> <-> zise </-> <+> size </+>
+</}> ( inspirable dust ) are likely to be trapped either in the nose or high
+in the throat.
+
+<ICE-IND:W2A-039#58:1>
+For example a dust particle of the size of a common pollen grain (
+15 to 25 <*> mu</*> ) is likely to be caught in the nasal passages or at the
+back of the throat.
+
+<ICE-IND:W2A-039#59:1>
+The particles smaller than 7 micron size ( respirable dust ) will
+enter into trachea ( wind <}> <-> ppipe </-> <+> pipe </+> </}> ) and lungs.
+
+<ICE-IND:W2A-039#60:1>
+The bigger particle of respirable dust are able to reach the
+proximal airways while the smaller particles are able to reach the more
+distal airways and alveoli.
+
+<ICE-IND:W2A-039#61:1>
+Particles reaching the proximal airways ( bronchi ) may by
+eliminated by ciliary blanket while particles reaching alveoli are eliminated
+by other mechanisms. </p>
+
+<p> 
+<ICE-IND:W2A-039#62:1>
+Within the alveoli there are other cells called phagocytes
+which are brought out is vast horders by the stimulus of foreign bodies, such
+as dust particles, which they engulf.
+
+<ICE-IND:W2A-039#63:1>
+These dust laden cells, which have the power of independent motion,
+may pass through the walls of the lung tissues into the lymph.
+
+<ICE-IND:W2A-039#64:1>
+Most of the dust laden cells, however, migrate into the lymphatic
+system.
+
+<ICE-IND:W2A-039#65:1>
+Various bifurcations of trachea and bronchi, the considerable
+amounts of dust is deposited by the phagocytic cells at tracheobronchial
+lymph nodes and from here the healthy lung tissue starts damaging.
+
+<ICE-IND:W2A-039#66:1>
+In general, once the dust is inhaled, the reaction of lung depends on
+7 factors each of which is important in itself but all of which must be
+considered in combination, since they are to a certain extent interdependent.
+
+<ICE-IND:W2A-039#67:1>
+These factors are: </p>
+
+<ICE-IND:W2A-039#68:1>
+<h> <bold> Chemical nature of dust </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#69:1>
+Some dusts are harmful to the lungs while the others are
+chemically inert. </p>
+
+<ICE-IND:W2A-039#70:1>
+<h> <bold> Size of dust particles </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#71:1>
+Three main physical processes determine particle deposition in
+lungs - - <mention> inertial impaction </mention> , <mention> sedimentation
+</mention> and <mention> diffusion </mention> .
+
+<ICE-IND:W2A-039#72:1>
+Nearly all particles more than 3 micron but less than 7 mscrons
+are deposited in walls of tranchea and bronchi by inertial impaction.
+
+<ICE-IND:W2A-039#73:1>
+The majority of particles less than 3 microns in diameter are
+deposited in respiratory bronchioles or alveoli, chiefly by mechanism of
+diffusion but partly by sedimenation. </p>
+
+<ICE-IND:W2A-039#74:1>
+<h> <bold> Distribution of inhaled dust </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#75:1>
+As also mentioned above some particles have the <O> <&> page </&>
+487 </O> tendency to be deposited in upper part of the lungs, while some in
+lower parts of lungs.
+
+<ICE-IND:W2A-039#76:1>
+Obviously these particles will exert their harmful effects at the
+site of distribution. </p>
+
+<ICE-IND:W2A-039#77:1>
+<h> <bold> Concentration of dust particles </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#78:1>
+Ability of healthy lung to cope with introduction of dust
+particles is related roughly to the concentration of airborne dust
+inhaled.
+
+<ICE-IND:W2A-039#79:1>
+Less than 10 particles of 5 micron / ml can be completely eliminated,
+whereas only about 90 % of a concentration of approximately 1000 such
+particles / ml will be eliminated and the retained 10 % can produce a slowly
+developing pneumoconiosis.
+
+<ICE-IND:W2A-039#80:1>
+With concentrations as high as 1,000,000 particles / ml, a very higy
+proportion is retained and lung disease can develop rapidly. </p>
+
+<ICE-IND:W2A-039#81:1>
+<h> <bold> Duration of exposure </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#82:1>
+The great majority of cases of pneumoconiosis develop only
+after many years of dust exposure.
+
+<ICE-IND:W2A-039#83:1>
+However, individual susceptibility also plays a role and
+pneumoconiosis is also possible after brief exposure provided the individual
+is highly susceptible. </p>
+
+<ICE-IND:W2A-039#84:1>
+<h> <bold> Individual susceptibility </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#85:1>
+Different individuals with identical dust exposure may have
+different reactions : one may be free of disease while another may show
+advanced progressive stage. </p>
+
+<ICE-IND:W2A-039#86:1>
+<h> <bold> Clearance of dust particles </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#87:1>
+This is accomplished by one or both of 2 mechanism - 
+transport up by the mucociliary escalator and lymphalic drainage. </p>
+
+<ICE-IND:W2A-039#88:1>
+<h> <bold> IMPACTS OF DUST POLLUTION ON HUMAN BEINGS </bold> </h>
+
+<p> 
+<ICE-IND:W2A-039#89:1>
+Now it is the appropriate time to discuss impacts of dust
+pollution on human beings.
+
+<ICE-IND:W2A-039#90:1>
+Basically there are 4 major areas of pollution, namely <mention> air
+</mention> , <mention> water </mention> , <mention> noise </mention> and
+<mention> soil </mention> which are mainly concerned with human beings.
+
+<ICE-IND:W2A-039#91:1>
+Among these here the impacts due to particulate pollutants of air
+will be discussed.
+
+<ICE-IND:W2A-039#92:1>
+Suspensions of finely divided particles in air in the form of
+fogs and mists are common natural phenomena.
+
+<ICE-IND:W2A-039#93:1>
+Such type of suspensions are generally caused by storms, forest
+fires, etc.
+
+<ICE-IND:W2A-039#94:1>
+On the other hand, within certain industries contamination of the
+atmosphere with dust has long presented a problem.
+
+<ICE-IND:W2A-039#95:1>
+Dust constitutes a nuisance and creates poor working conditions.
+
+<ICE-IND:W2A-039#96:1>
+The control of these industrial and other dusts continues as a
+never ending battle.
+
+<ICE-IND:W2A-039#97:1>
+The severity of air pollution caused by particulate matter can be
+understood further by knowing the diseases for which dust pollution is
+responsible.
+
+<ICE-IND:W2A-039#98:1>
+Exposure to dust can produce several distinct types of diseases in
+the body : </p>
+
+<p> 
+<ICE-IND:W2A-039#99:1>
+1. Pneumoconioses are caused by various dusts, for example coal
+<w> worker's </w> pneumoconiosis, silicosis, etc. </p>
+
+<p> 
+<ICE-IND:W2A-039#100:1>
+2. Lung cancer may be caused by various occupational dusts,
+like <mention> asbestos </mention> , <mention> nickel </mention> , <mention>
+chromium salts </mention> , <mention> arsenic </mention> , <mention>
+chloroether </mention> , <mention> mustard gas </mention> , etc. </p>
+
+<p> 
+<ICE-IND:W2A-039#101:1>
+3. <mention> Cryptogenic fibrosing alveolitis </mention> - - a
+disease of lung characterised by restriction in lung inflation leading to
+progressive dyspnoea and death, may be caused by : ( a) Occupational and
+environmental dust, like <mention> silica </mention> , <mention> asbestos
+</mention> , <mention> talc </mention> , <mention> kaolin </mention> ,
+<mention> coal </mention> , <mention> cobalt </mention> , <mention> graphite
+</mention> , etc., ( b) Organic dust, like <mention> actinomycetes </mention>
+, <mention> penicillium spp </mention> ., <mention> aspergillus spp
+</mention> ., etc., ( c) Toxic fumes and vapours, for example <mention>
+chlorine </mention> , <mention> nitrogen oxide </mention> , <mention>
+sulphuric acid </mention> , <mention> heavy metals </mention> , etc. </p>
+
+<p> 
+<ICE-IND:W2A-039#102:1>
+4. <mention> Chronic bronchitis and emphysema </mention> a
+disease of marked morbidity and mortality is more prevalent in heavily
+polluted areas than in less polluted areas. </p>
+
+<p> 
+<ICE-IND:W2A-039#103:1>
+5. <mention> Pulmonary oedema </mention> - - a condition of lung
+characterised by exudlation of fluid in the alveoli and marked dyspnoea
+may be caused when air polluted with toxic inhalants is inhaled suddenly.
+</p>
+
+<p> 
+<ICE-IND:W2A-039#104:1>
+6. <mention> Bronchiectasis-even bronchiectasis </mention> may
+be caused by inhalation of polluted air.
+
+<ICE-IND:W2A-039#105:1>
+Association of aspergillar species and proximal bronchiectasis is
+well known. </p>
+
+<p> 
+<ICE-IND:W2A-039#106:1>
+7. <mention> Bronchial asthma </mention> - - a disease of lungs
+characterised by episodic attacks of breathlessness, may be caused by
+house dust and fungal spores apart from pollens.
+
+<ICE-IND:W2A-039#107:1>
+Exacerbations of bronchial asthma are more common in areas where air
+is polluted.
+
+<ICE-IND:W2A-039#108:1>
+One variety of bronchial asthma is occupational asthma in which the
+symptoms appear at work place and the patient is free from symptoms at
+weekend aad holidays. </p>
+
+<p> 
+<ICE-IND:W2A-039#109:1>
+8. <mention> Hypersensitivity pneumonitis </mention> - - a
+disease of lungs affecting alveoli and mainefesting as breathlessness may be
+caused by a variety of organic dusts. </p>
+
+<p> 
+<ICE-IND:W2A-039#110:1>
+<mention> Mycoses-pulmonary mycoses </mention> may be caused by
+inhalation of polluted air with fungal spores.
+
+<ICE-IND:W2A-039#111:1>
+When fungal spores are inhaled they can lead to asthma, alergic
+alveolitis or colonisation in lung and tissue damage leading to frank
+pulmonary mycoses.
+
+<ICE-IND:W2A-039#112:1>
+Examples <O> <&> page </&> 488 </O> of mycoses is allergic
+bronchopulmonary aspergillosis due to inhalation of aspergillus spores.
+</p>
+
+<p> 
+<ICE-IND:W2A-039#113:1>
+10. <mention> Rhinitis </mention> , <mention> sinusitis
+</mention> , <mention> ottitis </mention> , <mention> conjunctivitis-allergy
+</mention> to pollens, fungi and air pollutants may lead to development of
+rhinitis ( a nasal problem characterised by itching, sneezing, running and
+blocking of nose ) , sinusitis ( causes pain in face and headache ) ,
+ottitis ( inflamation of ear ) , conjuntivities ( it causes itching, watering
+and discharge from eyes ) . </p>
+
+<p> 
+<ICE-IND:W2A-039#114:1>
+11. <mention> Contact dermatitis </mention> mostly caused by
+physical contact but aerosols suspended in environment may be the cause ( air
+borne contact dermatitis ) . </p>
+
+<p> 
+<ICE-IND:W2A-039#115:1>
+12. <mention> Atopic eczema </mention> and <mention> contact
+urticarias </mention> are allergic disorders of skin, sometimes aggravated
+by biologically derived aerosols. </p>
+
+<p> 
+<ICE-IND:W2A-039#116:1>
+13. <mention> Metal fume fever </mention> is caused by inhaling
+certain metalic oxide fumes. </p>
+
+<p> 
+<ICE-IND:W2A-039#117:1>
+14. Systemic toxic effects are produced as the result of
+either breathing or swallowing of certain dusts, for example lead and
+manganese. </p>
+
+<p> 
+<ICE-IND:W2A-039#118:1>
+15. <mention> Mycotoxicosis </mention> is a rare toxic response
+to products from certain moulds, producing fatigue, irritability and
+inflamation of the heart. </p>
+
+<p> 
+<ICE-IND:W2A-039#119:1>
+16. <mention> The sick building syndrome </mention> consists of
+a number of symptoms, namely : ( a) eye, nose and throat irritation, ( b)
+sensation of dry mucous membranes, skin erythama, ( c) mental fatigue,
+headache, nausea, dizziness, ( d) high frequency of airway infection and
+cough, and ( e) hoarseness, wheezing, unspecified hypersensitivity.
+
+<ICE-IND:W2A-039#120:1>
+Causes of syndrame are many, namely ( <roman = lower.case> 1
+</roman = lower.case> ) sealed buidings, <roman = lower.case> 2
+</roman = lower.case> non-openable windows, <roman = lower.case> 3
+</roman = lower.case> tight enclosure dwellings, <roman = lower.case> 4
+</roman = lower.case> increased temperature and dust levels, and
+<roman = lower.case> 5 </roman = lower.case> passive cigrette smoking.
+</p> </I>

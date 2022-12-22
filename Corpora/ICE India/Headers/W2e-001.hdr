@@ -1,0 +1,133 @@
+<text.info>
+       <file.description>
+               <textcode>ICE-IND-W2E-001</textcode>
+               <number.of.subtexts>3</number.of.subtexts>
+               <category>printed:press editorials</category>
+               <wordcount>1849</wordcount>
+               <version>lexical</version>
+               <free.comments></free.comments>
+       </file.description>
+       <subtext.source=a>
+           <source.type=newspaper>
+                <source.title>Deccan Chronicle</source.title>
+                <scope>regional</scope>
+                <frequency>daily</frequency>
+                <circulation></circulation>
+           <publication.statement>
+                <publisher>Deccan Chronicle</publisher>
+                <address>36, Sarojini Devi Road,
+                        Secunderabad-500003</address>
+                <place>Secunderabad</place>
+                <date>28-08-90</date>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of    
+                     Deccan Chronicle</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W2E-001a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                  <main.title>A political expedient</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+           <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W2E-001a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+       </biography>
+     <subtext.source=b>
+           <source.type=newspaper>
+                <source.title>Deccan Chronicle</source.title>
+                <scope>regional</scope>
+                <frequency>daily</frequency>
+                <circulation></circulation>
+           <publication.statement>
+                <publisher>Deccan Chronicle</publisher>
+                <address>36, Sarojini Devi Road,
+                        Secunderabad-500003</address>
+                <place>Secunderabad</place>
+                <date>07-09-90</date>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of
+                     Deccan Chronicle</copyright.statement>
+           <free.comments></free.comments>
+     </subtext.source>
+      <subtext.internals=<it>ICE-IND-W2E-001b</it>>
+            <subtext.name>ICE-IND</subtext.name>
+                  <main.title>Violence in the valley</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+     <biography=<it>ICE-IND=W2E-001b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <subtext.source=c>
+           <source.type=newspaper>
+                <source.title>Deccan Chronicle</source.title>
+                <scope>regional</scope>
+                <frequency>daily</frequency>
+                <circulation></circulation>
+           <publication.statement>
+                <publisher>Deccan Chronicle</publisher>
+                <address>36, Sarojini Devi Road,
+                        Secunderabad-500003</address>
+                <place>Secunderabad</place>
+                <date>22-06-90</date>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of
+                     Deccan Chronicle</copyright.statement>
+           <free.comments></free.comments>
+     </subtext.source>
+      <subtext.internals=<it>ICE-IND-W2E-001c</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Plan accent on small units</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>6</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+     <biography=<it>ICE-IND-W2E-001c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

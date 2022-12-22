@@ -1,0 +1,48 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2B-044</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Scripted:non-broadcast
+                   speeches</category>
+              <wordcount>2271</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2B-044>
+       <recording.data>
+              <date>30-03-93</date>
+              <time>12.00noon</time>
+              <place>Goa University, Panaji</place>
+       </recording.data>
+              <organising.body>IAAS</organising.body>
+              <copyright.statement>reproduced by permission of
+                   the speaker</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2B-044</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Lecture
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship></relationship>
+              <audience.size>20</audience.size>
+              <free.comments>Research Paper</free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2B-044</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Nair</surname>
+              <forenames>Ramachandran</forenames>
+              <age>50+</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Trivandrum, Kerala</birthplace>
+              <education>Doctorate</education>
+              <occupation>Professor</occupation>
+              <affiliations>IAES, IAAS, IACS, ASRC</affiliations>
+              <mother.tongue>Malayalam</mother.tongue>
+              <other.languages>Hindi, Tamil</other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

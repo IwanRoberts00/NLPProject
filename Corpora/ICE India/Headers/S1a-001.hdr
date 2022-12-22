@@ -1,0 +1,70 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-001</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>1632</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-001>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>11-05-92</date>
+            <time>8.30 to 9.00pm</time>
+            <place>Women's Hostel, near S T Stand,
+                 Kolhapur</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-001</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-001</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>K</surname>
+            <forenames>Lalitha</forenames>
+            <age>50+</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Tamil, Telugu</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-001</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Fernandes</surname>
+            <forenames>Adeline</forenames>
+            <age>34-41</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Konkani</mother.tongue>
+            <other.languages>English</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

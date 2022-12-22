@@ -1,0 +1,54 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-077</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:business
+                 transactions</category>
+            <wordcount>2241</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-077>
+     <source.type=Dialogue:public:business transactions>
+     <recording.data>
+            <date>03-09-94</date>
+            <time>12noon</time>
+            <place>Dept: of Physics, Shivaji University</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments>The minutes of the meeting of
+                 SUPTA</free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-077</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>NA</no.of.participants>
+            <relationship>NA</relationship>
+            <audience.size></audience.size>
+            <free.comments>Monologue-audience members of the
+                 SUPTA</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-077</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Patil</surname>
+            <forenames>Jaykumar</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Samdoli, Sangli, Maharashtra</birthplace>
+            <education>Shivaji University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Professor</occupation>
+            <affiliations>Life Member of Indian Society of
+                 Agricultural Economies</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi, Kannada</other.languages>
+            <free.comments>Moved to Kolhapur (1980 to
+                 date)</free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,72 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-072</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2451</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-072>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>15-07-95</date>
+            <time>5pm</time>
+            <place>Dept: of English, Shivaji University</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-072</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-072</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Lakhani</surname>
+            <forenames>Chandrakala</forenames>
+            <age>50+</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Amravati, Maharashtra</birthplace>
+            <education>Nagpur University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Lecturer</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marwari</mother.tongue>
+            <other.languages>Hindi, Marathi,
+                 Bengali</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-072</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Bele</surname>
+            <forenames>Savitri</forenames>
+            <age>34-41</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Shamanewadi, Belgaum,
+                 Karnataka</birthplace>
+            <education>Karnataka University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Lecturer</occupation>
+            <affiliations>English Teacher's Forum, Karnataka
+                 University</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Chikkodi (Karnataka) in
+                 1980</free.comments>
+     </biography>
+</text.info>

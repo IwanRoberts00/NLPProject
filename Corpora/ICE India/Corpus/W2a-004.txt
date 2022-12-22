@@ -1,0 +1,487 @@
+<I> <&> centered </&>
+
+<ICE-IND:W2A-004#1:1>
+<h> <bold> SPATIOTEMPORAL PATTERNS OF GLOTTAL DYNAMICS AND <&>
+centered </&> CONTROL OF VOICING AND ASPIRATION IN HINDI STOPS </bold> </h>
+<&> centered, author </&> <O> R. PRAKASH DIXIT <&> centered </&>
+
+<ICE-IND:W2A-004#2:1>
+<it> Department of Communication Disorders Louisiana State University,
+Baton Rouge, LA 70803-2606, U.S.A. </it> </O> <&> centered </&>
+
+<ICE-IND:W2A-004#3:1>
+<bold> ABSTRACT </bold>
+
+<p> 
+<ICE-IND:W2A-004#4:1>
+Using transillumination technique, spatiotemporal patterns of
+glottal dynamics were investigated during voiced/unvoiced and
+aspirated/unaspirated Hindi stops which were produced in isolated nonsense
+words of the form <mention> CVCVC </mention> .
+
+<ICE-IND:W2A-004#5:1>
+Results show that spatial extent as well as timing of glottal gesture
+in relation to certain supraglottal articulatory events, such as the
+articulatory contact and articulatory release, differ in different types of
+stops.
+
+<ICE-IND:W2A-004#6:1>
+The present paper discusses the role of these differences along with
+certain glottal and extraglottal mechanisms in control of voicing and
+aspiration in Hindi stops. </p> <&> centered </&>
+
+<ICE-IND:W2A-004#7:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-004#8:1>
+How voicing and aspiration associated with certain speech sounds
+are controlled has been a subject of considerable interest for over two and a
+half millennia.
+
+<ICE-IND:W2A-004#9:1>
+It appears from the phonetic observations of ancient Indian
+phoneticians and grammarians that they recognized the larynx, to be specific
+the glottis, as the source of phonation, i.e., voice, breathy voice,
+aspiration, etc.
+
+<ICE-IND:W2A-004#10:1>
+They observed that when the glottis was open, breath was produced;
+when it was closed, voice was produced; and when it was half-open, both
+breath and voice were produced.
+
+<ICE-IND:W2A-004#11:1>
+Further, breath was discharged for unvoiced consonants; voice was
+discharged for voiced consonants and vowels; and both breath and voice were
+discharged for voiced aspirates and voiced glottal fricative.
+
+<ICE-IND:W2A-004#12:1>
+Also, more breath was discharged for aspirates than inaspirates. (
+See Allen 1953 for further details.) </p>
+
+<p> 
+<ICE-IND:W2A-004#13:1>
+These above observations clearly indicate that voicing and
+aspiration are essentially glottoaerodynamic phenomena in that they are
+generated at the glottis if the glottis is suitably adjusted and adequate
+transglottal airflow is present.
+
+<ICE-IND:W2A-004#14:1>
+Transglottal airflow during speech sounds is jointly controlled by
+the dynamic adjustments of the glottis and the supraglottal articulatory
+structures, such as, the lips, the tongue, the soft palate, etc.
+
+<ICE-IND:W2A-004#15:1>
+For generating adequate transglottal airflow to produce voicing
+and/or aspiration associated with various categories of stop consonants, the
+adjustments of the glottis and the articulators must be spatiotemporally
+coordinated.
+
+<ICE-IND:W2A-004#16:1>
+That is, when and how far the glottis should be allowed to open and
+when should it <O> <&> right justification </&>
+
+<ICE-IND:W2A-004#17:1>
+IL. ( 1993 </)> </O> <O> <&> page </&> 2 </O> close and achieve an
+adducted position in relation to certain articulatory events, such as,
+articulatory contact and articulatory release. </p>
+
+<p> 
+<ICE-IND:W2A-004#18:1>
+Until recently, observation of glottal adjustments has, however,
+been mostly speculative and inferential, based primarily on kinesthetic
+introspection of the observers.
+
+<ICE-IND:W2A-004#19:1>
+Only in the last two and a half decades or so, attention has been
+directed toward collection of instrumental data on speech related glottal
+adjustments.
+
+<ICE-IND:W2A-004#20:1>
+This came about with the introduction of cinefluorographic,
+photo-electric glottographic, fiberscopic, and transillumination techniques
+in speech research.
+
+<ICE-IND:W2A-004#21:1>
+Using these techniques considerable instrumental data have been
+acquired and reported on glottal adjustments associated particularly with the
+production of different categories of homorganic stop consonants from a
+number of two-category ( Cantonese, Danish, Dutch, English, French,
+Icelandic, Japanese, Mandarin, and Swedish ) , three-category ( Fukienese,
+Korean, and Tibetan ) , and four-category ( Hindi and Maithili ) languages.
+</p>
+
+<p> 
+<ICE-IND:W2A-004#22:1>
+Previously, we had reported glottographic data only on bilabial
+stops and glottal fricative of Hindi ( Dixit and MacNeilage 1974; Dixit
+1989).
+
+<ICE-IND:W2A-004#23:1>
+This study provides glottographic data, obtained by transillumination
+technique, on all stops of Hindi.
+
+<ICE-IND:W2A-004#24:1>
+One purpose of this study is to examine spatiotemporal relationship
+between dynamic adjustments of the glottis and certain articulatory events,
+such as articulatory contact and articulatory release, in stop consonant
+production in light of the data reported in this study and the studies on the
+cited languages.
+
+<ICE-IND:W2A-004#25:1>
+Another purpose is to discuss general mechanisms used in the control
+of voicing/devoicing and aspiration associated with various homorganic stop
+consonants. </p> <&> centered </&>
+
+<ICE-IND:W2A-004#26:1>
+<bold> METHOD </bold>
+
+<p> 
+<ICE-IND:W2A-004#27:1>
+A normal native speaker of standard Hindi from Nagla Bariar in
+Mainpuri district of Uttar Pradesh served as subject.
+
+<ICE-IND:W2A-004#28:1>
+He produced disyllabic nonsense test words of the form <mention>
+CVCVC </mention> in isolation.
+
+<ICE-IND:W2A-004#29:1>
+In these words V was the high front unrounded vowel / i/ and
+<mention> C </mention> was one of the following stop consonants: </p> <O>
+Table </O>
+
+<p> 
+<ICE-IND:W2A-004#30:1>
+All <mention> C </mention> positions in an individual word were
+occupied by the same stop.
+
+<ICE-IND:W2A-004#31:1>
+The vowel in the second syllable was stressed.
+
+<ICE-IND:W2A-004#32:1>
+All unvoiced stops were produced without glottal pulsing ( except for
+a few initial glottal pulses in postvocalic stops), all voiced stops were
+produced with glottal pulsing throughout their entire duration, <O> <&> page,
+right justification </&> 3 </O> and all word-final stops were released. </p>
+
+<p> 
+<ICE-IND:W2A-004#33:1>
+During the production of the test words, the glottis of the
+subject was filmed at a film speed of 60 frames per second using a 16 mm
+cinecamera ( Olympus MC-R58 ) and a flexible fiberscope ( Olympus VF-0 ) .
+
+<ICE-IND:W2A-004#34:1>
+The fiberscope was inserted through the nose and held in position by
+a headband just behind the tip of the epiglottis.
+
+<ICE-IND:W2A-004#35:1>
+The light from the fiberscope passing through the glottis was also
+sensed by a phototransistor attached to the skin of the neck just below the
+arch of the cricoid cartilage.
+
+<ICE-IND:W2A-004#36:1>
+It was held in that position by a neckband.
+
+<ICE-IND:W2A-004#37:1>
+The audio signal was picked up by an oral microphone.
+
+<ICE-IND:W2A-004#38:1>
+Simultaneously with fiberscopic filming of the glottis, the
+transillumination and audio signals together with synchronization time marks
+were recorded on a magnetic tape.
+
+<ICE-IND:W2A-004#39:1>
+The transillumination and audio signals and synchronization time
+marks were later reproduced on paper for visual inspection using a visicorder
+oscillograph ( Honeywell 1508 A ) . </p>
+
+<p> 
+<ICE-IND:W2A-004#40:1>
+A caveat seems in order here: None of the above two methods of
+glottal observation, i.e., fiberscopic filming and transillumination, can be
+calibrated at present, hence it would be imprudent to suppose that there is
+one-to-one correspondence between the size ( extent) of the glottograms and
+the actual size of glottal opening.
+
+<ICE-IND:W2A-004#41:1>
+The size of the glottograms may be enhanced or diminished by the
+movement of the tongue, the epiglottis and the larynx.
+
+<ICE-IND:W2A-004#42:1>
+For example, if the tongue and/or the epiglottis move backward, or
+the larynx moves downward, then the size of the glottograms would be
+diminished.
+
+<ICE-IND:W2A-004#43:1>
+Thus, the glottograms, generally, do not represent the actual size of
+glottal opening; nevertheless, they are quite useful in comparing the
+relative size of glottal opening for different categories of stops and other
+consonants. </p>
+
+<p> 
+<ICE-IND:W2A-004#44:1>
+However, the glottograms reveal the temporal course of glottal
+dynamics ( i.e., opening-closing gesture of the glottis) with respect to
+certain articulatory events, such as articulatory contact and articulatory
+release, quite realistically.
+
+<ICE-IND:W2A-004#45:1>
+Since the temporal patterns of glottal opening and closing gestures
+obtained by fiberscopic filming and transillumination technique were
+virtually identical, therefore, only transillumination data are presented and
+discussed in this paper. </p> <&> centered </&>
+
+<ICE-IND:W2A-004#46:1>
+<h> <bold> RESULTS AND DISCUSSION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-004#47:1>
+The transillumination data on Hindi stops are presented in Figure
+1 through 4.
+
+<ICE-IND:W2A-004#48:1>
+Each of the four figures consists of four graphs, each of which
+contains two oscillographic traces.
+
+<ICE-IND:W2A-004#49:1>
+The top trace ( GA ) represents the area of glottal opening, the
+bottom trace ( AE ) the audio envelope.
+
+<ICE-IND:W2A-004#50:1>
+The GA trace at its lowest level indicates no light passing through
+the glottis ( i.e., an adducted or closed glottis ) .
+
+<ICE-IND:W2A-004#51:1>
+Upward deviation from its lowest level indicates light passing
+through the glottis ( that is, an abducted or open glottis ) .
+
+<ICE-IND:W2A-004#52:1>
+Solid and broken vertical lines in the graphs mark the instants of
+articulatory contact and articulatory release, respectively.
+
+<ICE-IND:W2A-004#53:1>
+Since the test words were produced in isolation, the instants of
+articulatory contact for various <O> <&> page </&> 4 </O> word-initial stops
+cannot be determined by the GA and AE curves; hence, they have been left
+unmarked in the graphs.
+
+<ICE-IND:W2A-004#54:1>
+A few instants of articulatory release were undisernible; they have
+been left unmarked in the graphs, too.
+
+<ICE-IND:W2A-004#55:1>
+The zero under the first solid line marks the line-up point. </p>
+
+<ICE-IND:W2A-004#56:1>
+<h> <bold> Spatiotemporal Patterns of Glottal Dynamics </bold> </h>
+
+<p> 
+<ICE-IND:W2A-004#57:1>
+<h> <it> Unvoiced Unaspirated Stops </it> </h> .
+
+<ICE-IND:W2A-004#58:1>
+Figure 1 presents the spatiotemporal patterns of glottal dynamics for
+the unvoiced unaspirtated stops. </p> <&> spectrographs </&> <O> captions
+</O> <O> <&> page right justification </&> 5 </O>
+
+<p> 
+<ICE-IND:W2A-004#59:1>
+In this figure, in the words / pipip/, / titit/ and / titit/ <*>
+dot blow the three <mention> ts </mention> </*> , the glottis begins to close
+rapidly from a respiratory open position and reaches a closed position
+immediately after the articulatory release of the initial stops.
+
+<ICE-IND:W2A-004#60:1>
+However, in the word / kikik/, the glottis shows an opening-closing
+gesture for the initial stop, which is similar to that generally observed for
+the medial ( intervocalic ) stops.
+
+<ICE-IND:W2A-004#61:1>
+Clearly, all the initial stops in these words were produced with an
+open glottis, through the degree of glottal opening varied from one stop to
+another.
+
+<ICE-IND:W2A-004#62:1>
+These results are similar to those reported in the other Hindi
+studies ( Dixit and MacNeilage 1974; Dixit 1975; Kagaya and Hirose 1975;
+Benguerel and Bhatia 1980; Dixit 1989 ) and the studies on Dutch ( Yoshioka
+et al. 1982 ) , French ( Benguerel et al. 1978 ) , Japanese ( Sawashima 1968
+a, b; Sawashima and Miyazaki 1973; Sawashima and Niimi 1974; Niimi and
+Sawashima 1974; Sawashima et al. 1975 ) , Korean ( Kim 1967, 1970; Kagaya
+1971, 1974; Hirose et al. 1974) and Maithili ( Yadav 1984 ) .
+
+<ICE-IND:W2A-004#63:1>
+The initial unvoiced unaspirated stops in all the above studies, like
+the present study, were produced with an open and non-vibrating glottis.
+
+<ICE-IND:W2A-004#64:1>
+However, the spatiotemporal patterns of glottal dynamics differed in
+these studies depending on whether the unvoiced unaspirated stops occurred in
+the absolute or non-absolute initial position in the test words and/or test
+sentences.
+
+<ICE-IND:W2A-004#65:1>
+On the other hand, in Cantonese ( Iwata et al. 1981 ) , Fukienese (
+Iwata et al. 1979 ) , Mandarin ( Iwata and Hirose 1976 ) and Tibetan (
+Kjellin 1977 ) , the syllable- or word-initial unvoiced unaspirated stops
+were produced with a virtually closed glottis, but without glottal pulsing.
+</p>
+
+<p> 
+<ICE-IND:W2A-004#66:1>
+For the medial ( intervocalic ) unvoiced unaspirated stop in the
+word / pipip/, the glottis is completely closed; in the word / titit/, it is
+virtually closed; and in the word / titit/ <*> dots below the three ts in the
+word </*> , it is only slightly open.
+
+<ICE-IND:W2A-004#67:1>
+Only in the word / kikik/, the glottis shows a clear opening-closing
+gesture for the medial stop, which begins at the articulatory contact and
+terminates somewhat after the articulatory release, but the size of glottal
+opening is very small.
+
+<ICE-IND:W2A-004#68:1>
+Except for the datum on medial / k/, the data on other medial
+unvoiced unaspirated stops, examined in this study, are inconsistent with
+those reported by Kagaya and Hirose ( 1975 ) and Benguerel and Bhatia ( 1980 )
+<O> <&> page </&> 6 </O> from Hindi.
+
+<ICE-IND:W2A-004#69:1>
+They are also inconsistent with the data reported from Dutch ( Slis
+and Damste 1967 ) , English ( Lisker et al. 1969, 1970; Sawashima et al. 1970 )
+, French ( Benguerel et.al. 1978 ) .
+
+<ICE-IND:W2A-004#70:1>
+Japanese ( Sawashima 1968 a, b; Sawashima and Miyazaki 1973;
+Sawashima and Niimi 1974; Niimi and Sawashima 1974 ) , Maithili ( Yadav 1984 )
+and Swedish ( Lindqvist 1972 ) .
+
+<ICE-IND:W2A-004#71:1>
+The medial unvoiced unaspirated stops in the above studies were
+generally produced with an open and silent glottis.
+
+<ICE-IND:W2A-004#72:1>
+The size of glottal opening varied from language to language.
+
+<ICE-IND:W2A-004#73:1>
+However, there were a number of occurrences of these stops in Dutch (
+Slis and Damste 1967 ) , English ( Lisker et al. 1969, 1970; Sawashima 1970 )
+, and Japanese ( Sawashima 1968 a, b; Sawashima and Miyazaki 1973 ) where the
+glottis was found to be closed.
+
+<ICE-IND:W2A-004#74:1>
+Moreover, a few occurrences of these stops in English showed no
+cessation of glottal pulsing ( Lisker et al. 1969, 1970; Sawashima 1970 ) .
+</p>
+
+<p> 
+<ICE-IND:W2A-004#75:1>
+The spatiotemporal patterns of glottal dynamics for the final
+unvoiced unaspirated stops in the words / pipip/, / titit/ <*> three dots
+below each of the ts </*> and / kikik/ show some semblance to the
+opening-closing gesture of the glottis with only a slight glottal opening.
+
+<ICE-IND:W2A-004#76:1>
+On the other hand, for the final stop in the word / titit/, the
+glottis starts opening at the articlatory contact and continues to open
+towards a respiratory open position.
+
+<ICE-IND:W2A-004#77:1>
+Apart from the datum on the final / t/ in the word / titit/, the data
+on the other final unvoiced unaspirated stops of this study do not compare
+well with the data reported on similar stops from another Hindi study (
+Benguerel and Bhatia 1980 ) , and from English ( Lisker et al. 1969, 1970;
+Sawashima 1970; Sawashima et al. 1970 ) , Korean ( Sawashima and Park 1979;
+Sawashima et al. 1980 ) , Maithili ( Yadav 1984), and Swedish ( Lindqvist
+1972 ) studies.
+
+<ICE-IND:W2A-004#78:1>
+As compared to the negligible glottal opening observed for the
+unvoiced unaspirated word-final stops in the present study, in the cited
+studies a relatively larger glottal opening was observed during these stops.
+
+<ICE-IND:W2A-004#79:1>
+The data of this study also do not compare well with those reported
+from Cantonese ( Iwata et al. 1981 ) and Fukienese ( Iwata et al. 1979 )
+where unvoiced unaspirated syllable- or word-final stops were produced in
+addition to the closed glottis with a cetain degree of glottalization. </p>
+<O> <&> page right justification </&> 7 </O>
+
+<p> 
+<ICE-IND:W2A-004#80:1>
+<h> <it> Voiced Unaspirated Stops </it> </h> .
+
+<ICE-IND:W2A-004#81:1>
+The spatiotemporal patterns of glottal dynamics for the voiced
+unaspirated stops are shown in Figure 2. </p> <O> spectrographs </O> <O>
+captions </O>
+
+<p> 
+<ICE-IND:W2A-004#82:1>
+For all four words in this figure, the glottis begins to close
+rapidly from a respiratory open position and reaches a closed position
+considerably prior to the articulatory release of the initial stops and
+thereafter remains closed throughout <O> <&> page </&> 8 </O> the rest of the
+duration of these words.
+
+<ICE-IND:W2A-004#83:1>
+At or somewhat after the articulatory release of the final stops in
+the words / bibib/, / didid/ and / didid/ <*> dots below the three ds </*> ,
+the glottis starts opening and then moves rapidly toward a respiratory open
+position; the word / gigig/ is an exception, where the glottis continues to
+remain closed after the articulatory release of the final stop.
+
+<ICE-IND:W2A-004#84:1>
+These results are generally in agreement with those reported on the
+voiced unaspirated stops in the other Hindi studies ( Dixit and MacNeilage
+1974; Dixit 1975; Kagaya and Hirose 1975; Benguerel and Bhatia 1980; Dixit
+1989 ) , and in the studies on Dutch ( Slis and Damste 1967 ) , French (
+Benguerel et al. 1978 ) , Fukienese ( Iwata et al. 1979 ) , Japanese (
+Sawashima 1968 a, b; Sawashima et al. 1975 ) , Maithili ( Yadav 1984 ) , and
+Tibetan ( Kjellin 1977 ) .
+
+<ICE-IND:W2A-004#85:1>
+In these studies, like the present study, the voiced unaspirated
+stops were produced with an adducted and vibrating glottis.
+
+<ICE-IND:W2A-004#86:1>
+In spite of the fact that in English ( Lisker and Abramson 1964;
+Ladefoged 1975 ) and Swedish ( Lindqvist 1972; Fant 1973 ) , the so-called
+voiced stops are truly voiced only in word-medial intervocalic position, in
+other positions they may or may not be voiced, most of these stops in all
+word positions in these languages were produced with an adducted glottis (
+Abramson et al. 1965; Lisker et al. 1969, 1970; Sawashima 1970; Sawashima et
+al. 1970; Cooper et al. 1971; Lindqvist 1972 ) .
+
+<ICE-IND:W2A-004#87:1>
+In some cases of these stops in both English and Swedish, however,
+some glottal opening was observed.
+
+<ICE-IND:W2A-004#88:1>
+Some glottal opening was also observed in a few cases of these stops
+in Dutch and French.
+
+<ICE-IND:W2A-004#89:1>
+In contrast, all of the so-called voiced stops of Danish (
+Frojaer-Jensen et al. 1971; Fukui and Hirose 1983; Hutters 1985 ) and
+Icelandic ( Petursson 1976; Lofqvist and Yoshioka 1981 ) were produced with
+an open glottis an cessation of glottal vibration, thus they were
+phonetically realized as unvoiced unaspirated stops in both languages.
+
+<ICE-IND:W2A-004#90:1>
+Occasional glottal openings observed in the production of the
+so-called voiced stops have been attributed to active adjustment of the
+arytenoids in English ( Lisker et al. 1970; Sawashima 1970) and to the
+increase in oral air pressure in Swedish ( Lindqvst 1972 ) .
+
+<ICE-IND:W2A-004#91:1>
+Since the so-called voiced stops of Danish were produced with
+activation of the abductor and suppression of the adductor laryngeal muscles
+( Fischer-Jorgensen and Hirose 1974; Hutters 1985 ) , the glottal opening
+observed during their production can be ascribed to active arytenoid
+adjustment.
+
+<ICE-IND:W2A-004#92:1>
+Lofqvist has suggested that glottal opening observed in the so-called
+voiced stops of Icelandic also results from active adjustment of the
+arytenoids ( see Dixit 1989 ) </I>

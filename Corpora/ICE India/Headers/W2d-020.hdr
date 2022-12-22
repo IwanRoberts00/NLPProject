@@ -1,0 +1,53 @@
+<text.info>
+     <file.description>
+              <textcode>ICE-IND-W2D-020</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>printed:instructional:
+                skills/hobbies</category>
+              <wordcount>2082</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2D-020>
+            <source.type=periodical>
+            <source.title></source.title>
+            <source.subtitle></source.subtitle>
+            <series></series>
+     <publication.statement>
+            <publisher></publisher>
+            <address></address>
+            <place></place>
+            <date></date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of author &
+            publisher</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-020</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Bandha And Other Decorative
+                   Designs</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>27-34</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-020</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Meher</surname>
+                <forenames>Keshab Chandra</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Jhar, Orissa</birthplace>
+                <education>Utkal University</education>
+                <educational.level>M.A.</educational.level>
+                <occupation></occupation>
+                <affiliations>Orissa Sahitya
+                  Academy</affiliations>
+                <mother.tongue>Oriya</mother.tongue>
+                <other.languages>Hindi, Bengali</other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

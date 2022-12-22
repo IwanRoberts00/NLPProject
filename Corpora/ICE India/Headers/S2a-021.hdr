@@ -1,0 +1,50 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-021</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2403</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-021>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>02-03-90</date>
+              <time>10.30am</time>
+              <place>CIEFL Shillong Centre(Meghalaya)</place>
+       </recording.data>
+              <organising.body>Seminar</organising.body> 
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-021</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Speech
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size>Participants in Conference: mostly
+                   university teachers</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-021</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Sadanand</surname>
+              <forenames>Kamlesh</forenames>
+              <age>50+</age>
+              <gender>female</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Quetta(Pakistan)</birthplace>
+              <education>Doctorate</education>
+              <occupation>University teacher</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Punjabi</mother.tongue>
+              <other.languages>Hindi, German</other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

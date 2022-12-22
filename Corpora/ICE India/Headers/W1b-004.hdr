@@ -1,0 +1,114 @@
+<text.info>
+       <file.description>
+                <textcode>ICE-IND-W1B-004</textcode>
+                <number.of.subtexts>006</number.of.subtexts>
+                <category>non-printed:correspondence:social
+                  letters</category>
+                <wordcount>1836</wordcount>
+                <version>lexical</version>
+                <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1B-004a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>28-01-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-004a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>24-03-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-004a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>19-11-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-004a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>25-11-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-004a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>08-02-95</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-004a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>15-03-95</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1B-004</it>>
+       <subtext.name>ICE-IND-</subtext.name>
+                <main.title></main.title>
+                <subtitle></subtitle>
+                <page.nos></page.nos>
+                <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1B-004a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Apte</surname>
+                <forenames>Madhavi</forenames>
+                <age>42-49</age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Khamgaon, Buldana,
+                  Maharashtra</birthplace>
+                <education>Marathwada University</education>
+               
+<educational.level>Doctorate</educational.level>
+                <occupation>Teacher</occupation>
+                <affiliations>Linguistic Society of
+                  India</affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages>Hindi,
+Gujrati</other.languages>
+                <free.comments>Moved to Aurangabad (1971-85),
+                  Thailand (1994-95)</free.comments>
+       </biography>
+       <biography=<it>ICE-IND-W1B-004b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Paranjape</surname>
+                <forenames>Prabhakar</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Ichalkaranji, Kolhapur
+                  Maharashtra</birthplace>
+                <education>Pune University</education>
+                <educational.level>M.Litt.</educational.level>
+                <occupation>Teaching</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments>Moved to Bombay (1963-76),
+                  Hyderabad ((1976-78), Pune (1978 to
+                  date)</free.comments>
+       </biography>
+</text.info>

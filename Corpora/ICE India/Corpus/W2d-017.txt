@@ -1,0 +1,632 @@
+<I> <*> line from left to right <*>
+
+<ICE-IND:W2D-017#1:1>
+<h> <bold> REVIVING SALT CROSSED SOILS </bold> </h> <*> double line
+from left to right <*> <*> right justification </*> <O>
+
+<ICE-IND:W2D-017#2:1>
+<bold> Dr. SURAJ BHAN <sp> *</sp> </bold> </O>
+
+<p> 
+<ICE-IND:W2D-017#3:1>
+NEARLY seven million hectares of land is salt-affected and lying
+uncultivated, although the soils are potentially productive.
+
+<ICE-IND:W2D-017#4:1>
+The saline soils are found mainly in Madhya Pradesh, Rajasthan,
+Maharashtra, Karnataka, Andhra Pradesh, Gujarat.
+
+<ICE-IND:W2D-017#5:1>
+The alkali soils are predominent in the Indo-Gangetic plains,
+encompassing the States of Punjab, Haryana, Uttar Pradesh, parts of Bihar and
+Rajasthan.
+
+<ICE-IND:W2D-017#6:1>
+Isolated patches of alkali soils also occur in some parts.
+
+<ICE-IND:W2D-017#7:1>
+With the advent of canal irrigation, salinity and alkalinity are
+extending to large areas of fertile cultivable lands. </p>
+
+<ICE-IND:W2D-017#8:1>
+<h> <bold> HOW SALT-AFFECTED SOILS ARE FORMED? </bold> </h>
+
+<p> 
+<ICE-IND:W2D-017#9:1>
+Salt-affected soils are formed whenever soil and hydrological
+conditions favour the accumulation of soluble salts in the root zone of
+soils, even though temporarily.
+
+<ICE-IND:W2D-017#10:1>
+Salt-affected soils generally do not occur extensively in the humid
+areas.
+
+<ICE-IND:W2D-017#11:1>
+This is because the salts get continuously leached out of the soil
+root zone by the leaching action of rain water.
+
+<ICE-IND:W2D-017#12:1>
+Leached salts are transported to other areas through surface and
+subsurface flows, the areas of discharge depending on the geohydrological,
+soil and climatic features.
+
+<ICE-IND:W2D-017#13:1>
+Salt-affected soils are of common occurence in the semi-arid and arid
+regions which receive an inadequate rainfall to accomplish leaching of salts
+originally present in the soil profile. </p>
+
+<p> 
+<ICE-IND:W2D-017#14:1>
+The saline / alkaline soils are developed by any one or more of
+several means, as follows: </p> <*> small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#15:1>
+In arid regions, where there is low rainfall and high
+temperature, there is always a tendency for the accumulation of soluble salts
+near the surface due to intense evaporation and less percolation. </p> <*>
+small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#16:1>
+The ground water of arid regions usually contains considerable
+quantities of soluble salts.
+
+<ICE-IND:W2D-017#17:1>
+If it is used for irrigaiton it spoils the good soils.
+
+<ICE-IND:W2D-017#18:1>
+The extent of damage depends not only upon the salt content of
+irrigation water but also on the nature of salts and type of soils on which
+the water is to be used.
+
+<ICE-IND:W2D-017#19:1>
+The sodium salts are more harmful than Ca and Mg and amongst them,
+NaCl is the worst culprit. </p> <*> small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#20:1>
+Sometimes the salts may have originated directly from chemical
+weathering of rocks and deposited on good soils. </p> <*> small circle to
+left </*>
+
+<p> 
+<ICE-IND:W2D-017#21:1>
+When excessive applications of irrigation water have raised the
+ground water level sufficiently to permit concentration of salts from saline
+ground water at the surface by capillary action through intense evaporation,
+it leaves ever-increasing salts at the surface. </p> <*> small circle to left
+</*>
+
+<p> 
+<ICE-IND:W2D-017#22:1>
+When seepage from leaky canals and lateral channels, which run at
+a higher level, has resulted in a high water table, formation of
+saline/alkali soils takes places. </p> <*> small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#23:1>
+Poor drainage keeps the salts in the surface soil and prevents
+the leaching of salts down below the root zone. </p> <*> small circle to left
+</*>
+
+<p> 
+<ICE-IND:W2D-017#24:1>
+When the use of irrigation water is erratic, that is flooding at
+one time followed by intense drying and long breaks.
+
+<ICE-IND:W2D-017#25:1>
+When the total supply of water is limited and irregular this would
+also leave the salts in the root zone. </p>
+
+<p> 
+<ICE-IND:W2D-017#26:1>
+Salt-affected soils occur in all continents, but they are very
+unevenly distributed.
+
+<ICE-IND:W2D-017#27:1>
+They occur most extensively in the arid and semi-arid, and in
+subhumid regions.
+
+<ICE-IND:W2D-017#28:1>
+They may also occur in the humid regions.
+
+<ICE-IND:W2D-017#29:1>
+According to FAO study, salt-affected soils occupy nearly seven
+per cent of the <w> World's </w> land area. </p>
+
+<p> 
+<ICE-IND:W2D-017#30:1>
+The latest survey indicates that salt affected area has increased
+to about 10 million ha.
+
+<ICE-IND:W2D-017#31:1>
+It is also feared that several <O> <&> page </&> 6 </O> million ha.
+of productive land in the newly irrigated areas will soon deteriorate if
+preventive steps are not taken. </p>
+
+<ICE-IND:W2D-017#32:1>
+<h> <bold> CHARACTERISTICS OF SALT-AFFECTED SOILS </bold> </h>
+
+<p> 
+<ICE-IND:W2D-017#33:1>
+<h> <bold> Saline soils: </bold> </h>
+
+<ICE-IND:W2D-017#34:1>
+The saline soils have excessive concentration of natural soluble
+salts mainly of chlorides, sulphates and carbonates of calcium, magnesium and
+sodium.
+
+<ICE-IND:W2D-017#35:1>
+The electric conductivity of saturated soil extract at 25<sp>o</sp>C
+is more than 4 mm hos/cm, exchangeable sodium percentage less than 15 per
+cent and pH less than 8.5.
+
+<ICE-IND:W2D-017#36:1>
+Saline soils are in flocculated condition and consequently have
+satisfactory physical characterists.
+
+<ICE-IND:W2D-017#37:1>
+They are also called <quote> " white alkali" </quote> or <quote> "
+solonchak" </quote> soils. </p>
+
+<p> 
+<ICE-IND:W2D-017#38:1>
+The best way of diagnosis is to collect ( 0.15 cm) composite soil
+sample and get it analysed in the soil testing <O> photograph </O> <O>
+caption </O> <O> <&> photo by author </&> </O> <O> <&> next column </&> </O>
+<O> photograph </O> <O> caption </O> <O> <&> photo by author </&> </O>
+laboratory.
+
+<ICE-IND:W2D-017#39:1>
+However, some of the visual characteristics, by which one can
+diagnose the affected soils in the field itself, are given below: </p> <*>
+small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#40:1>
+Prominently white fluffy salt encrustation on the surface during
+dry period, when the net movement of soil moisture is upward.
+
+<ICE-IND:W2D-017#41:1>
+The salts dissolved in the soil water move to the surface, where they
+are left as a crust when the water evaporates. </p> <*> small circle to left
+</*>
+
+<p> 
+<ICE-IND:W2D-017#42:1>
+The rate of water permeability is relatively high. </p> <*> small
+circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#43:1>
+In severely affected areas complete failure of crop, while
+stunted and patchy poor growth in less severely affected areas is observed.
+</p> <*> small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#44:1>
+In areas having relatively more moist conditions the prominent
+growth of plants like Sueda species is observed. </p>
+
+<p> 
+<ICE-IND:W2D-017#45:1>
+<h> <bold> Alkali soils: </bold> </h>
+
+<ICE-IND:W2D-017#46:1>
+In these soils the percentage of exchangeable sodium content is
+greater than 15 per cent as a result the pH is between 8.5 and 10.0.
+
+<ICE-IND:W2D-017#47:1>
+The electric conductivity is below 4 mm hos/cm at 25<sp>o</sp>C.
+
+<ICE-IND:W2D-017#48:1>
+Because of the high sodium content, both the clay and organic matter
+are dispersed, and the result is close packing of the soil particles and
+reduced pore space and aeration.
+
+<ICE-IND:W2D-017#49:1>
+The poor aeration and high sodium content, which is often toxic, make
+alkali soils difficult and expensive to reclaim.
+
+<ICE-IND:W2D-017#50:1>
+Under field conditions the following symptoms will be seen: </p> <O>
+<&> page </&> 7 </O> <*> small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#51:1>
+White salt encrustation on the surface during summer, which often
+shows dark black colour on wetting.
+
+<ICE-IND:W2D-017#52:1>
+Due to this special character they are usually called <quote> " black
+alkali soils" </quote> . </p> <*> small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#53:1>
+When the soil is ploughed slightly wet, it turns over in slick
+and gives out rubbery furrow slices. </p> <*> small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#54:1>
+On drying shallow cracks are developed at the surface and soil
+becomes very hard and compact. </p> <*> small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#55:1>
+Due to low hydraulic conductivity the water does not move down
+quickly and remains standing on the surface in a muddy condition for a long
+period. </p> <*> small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#56:1>
+The grasses mainly of Sporobolous species thrive, but they also
+die subsequently during summer. </p> <*> small circle to left </*>
+
+<p> 
+<ICE-IND:W2D-017#57:1>
+Practically no crops can stand satisfactorily and land gives a
+desolate barren look. </p>
+
+<p> 
+<ICE-IND:W2D-017#58:1>
+<h> <bold> Saline alkali soil: </bold> </h>
+
+<ICE-IND:W2D-017#59:1>
+These are both saline and alkali in various stages of transition
+having electrical conductivity of saturated soil extract more than 5 mmhos/cm
+at 25<sp>o</sp>C, exchangeable sodium in excess of 15 per cent and pH above
+8.5 depending upon the relative amounts of exchangeable sodium and soluble
+salts.
+
+<ICE-IND:W2D-017#60:1>
+When soluble salts are leached downward, the pH will rise above 8.5,
+but when the soluble salts again accumulate the pH may again fall to 8.5.
+
+<ICE-IND:W2D-017#61:1>
+There may not be salt deposits on the surface.
+
+<ICE-IND:W2D-017#62:1>
+However, the hard clay pan in the lower layer obstructs the drainage.
+
+<ICE-IND:W2D-017#63:1>
+There may be a lime pan at lower depths.
+
+<ICE-IND:W2D-017#64:1>
+They usually suffer from water-logging. </p>
+
+<ICE-IND:W2D-017#65:1>
+<h> <bold> HARMFUL EFFECTS ON GROWING PLANTS </bold> </h>
+
+<p> 
+<ICE-IND:W2D-017#66:1>
+The saline soils do not support plant growth primarily because of
+excessive salts in the soil solution which, due to high osmotic pressure,
+prevents absorption of moisture and nutrients in adequate amounts.
+
+<ICE-IND:W2D-017#67:1>
+Thus, in saline soils the wilting co-efficient is high and the amount
+of available moisture is low.
+
+<ICE-IND:W2D-017#68:1>
+An excess of sodium ions also exert antagonistic effect on the
+absorption of calcium and magnesium.
+
+<ICE-IND:W2D-017#69:1>
+Under alkali soil conditions, the damage is not due to salt
+concentration, since the conductivity of the soil solution is low.
+
+<ICE-IND:W2D-017#70:1>
+The sodium absorbed by soil clay and organic colloids causes
+dispersion of clay which results in a loss of desirable structure and the
+development of puddied effect.
+
+<ICE-IND:W2D-017#71:1>
+Such effect on physical properties reduce drainage, aeration and
+microbial activity.
+
+<ICE-IND:W2D-017#72:1>
+Under saline-alkali conditions, the crop may suffer due to high
+salinity as well as due to unfavourable effects of alkalinity on the nutrient
+availability </p>
+
+<ICE-IND:W2D-017#73:1>
+<h> <bold> RECLAMATION OF SALT-AFFECTED SOILS </bold> </h>
+
+<p> 
+<ICE-IND:W2D-017#74:1>
+<h> <bold> Alkali soils </bold> : </h>
+
+<ICE-IND:W2D-017#75:1>
+Basically reclamation or improvement of alkali soils requires the
+removal of a part or most of the exchangeable sodium and its replacement by
+the more favourable calcium ions in the root zone.
+
+<ICE-IND:W2D-017#76:1>
+This can be accomplished in many ways, the best dictated by local
+conditions available, rotation of the crops to be grown and reclamation of
+the soil.
+
+<ICE-IND:W2D-017#77:1>
+Levelling and bunding of salt-affected fields are major components of
+their reclamation. </p>
+
+<p> 
+<ICE-IND:W2D-017#78:1>
+<h> <bold> Amendments </bold> : </h>
+
+<ICE-IND:W2D-017#79:1>
+The alkali soils in the Indo-Gangetic plains are mostly calcarious.
+
+<ICE-IND:W2D-017#80:1>
+Therefore, there is a wider choice of amendments like calcium sources
+or acid.
+
+<ICE-IND:W2D-017#81:1>
+Calcium carrying amendments include gypsum and phosphogypsum which
+are very commonly used as direct source of calcium to replace exchangeable
+sodium. </p>
+
+<p> 
+<ICE-IND:W2D-017#82:1>
+In India, as in many countries, gypsum/pyrite is the most widely
+used amendment for alkali soil reclamation. </p>
+
+<ICE-IND:W2D-017#83:1>
+Soil Na+ + CaSo4 - Soil Ca++ + Na2 So4 Na+ ( Leached)
+
+<p> 
+<ICE-IND:W2D-017#84:1>
+Many other amendments, e.g., sulphuric acid, calcium chloride can
+also be used and are as much or even slightly more effective than gypsum, but
+these materials are generally expensive. </p>
+
+<p> 
+<ICE-IND:W2D-017#85:1>
+Quantity of an amendment needed for alkali soil reclamation
+depends upon the amount of exchangeable sodium that has to <O> <&> page </&>
+8 </O> be replaced.
+
+<ICE-IND:W2D-017#86:1>
+These depends both on the amount of sodium absorbed into the soil and
+the alkali tolerants, including the rooting depth of the crops to be grown.
+</p>
+
+<ICE-IND:W2D-017#87:1>
+<h> <bold>
+
+<ICE-IND:W2D-017#88:1>
+HOW THE AMENDMENTS REACT AND BRING THE SOIL TO NORMAL CONDITIONS?
+</bold> </h>
+
+<p> 
+<ICE-IND:W2D-017#89:1>
+<h> <bold> Gypsum </bold> : </h>
+
+<ICE-IND:W2D-017#90:1>
+The gypsum converts sodium soil into calcium soil by cationic
+exchange, with a desirable lowering of pH and an improvement in soil physical
+conditions.
+
+<ICE-IND:W2D-017#91:1>
+The gypsum powder to be applied should be of 30 mesh fineness and be
+mixed in top 10 cm soil with the help of a disc or M.B. plough.
+
+<ICE-IND:W2D-017#92:1>
+The reactions involved in the soil are: 2Na - clay+CaSo4 = Ca - clay
++ Na2 So4 ( Leached out) </p>
+
+<p> 
+<ICE-IND:W2D-017#93:1>
+<h> <bold> Sulphur </bold> : </h>
+
+<ICE-IND:W2D-017#94:1>
+In extreme cases of high alkalinity, the reduction in pH can be
+brought about by the use of sulphuric acid.
+
+<ICE-IND:W2D-017#95:1>
+However, it requires expert handling and is quite expensive.
+
+<ICE-IND:W2D-017#96:1>
+The sulphur added to the soil is oxidized to sulphuric acid with the
+help of microbiological oxidation which converts calcium carbonate to calcium
+sulphate and Ca<sp>++</sp> replaces Na<sp>+</sp> in the clay complex. </p> 2S
++ 30<sb>2</sb> = 2 So3 So3 + H2o = H2So4 H2So4 + Caco3 = CaSo4 + Co2 + H2O 2
+Na - clay + CaSo4 + Ca - clay + Na2So4 ( Leached out)
+
+<p> <bold> Organic matter </bold> :
+
+<ICE-IND:W2D-017#97:1>
+The addition of organic matter ( FYM / green manure ) helps in
+lowering the pH, improving the soil structure and availability of nitrogen to
+the crops.
+
+<ICE-IND:W2D-017#98:1>
+The organic matter is especially helpful where sulphur is added to
+correct the alkalinity.
+
+<ICE-IND:W2D-017#99:1>
+Since the organic matter supplies food for the sulphur oxidising
+bacteria and enhances the oxidation of sulphur to sulphuric acid, the
+combination fo sulphur, organic manure and gypsum can also be used with
+success. </p>
+
+<p> 
+<ICE-IND:W2D-017#100:1>
+<h> <bold> Iron sulphate </bold> : </h>
+
+<ICE-IND:W2D-017#101:1>
+Iron sulphate is sometimes used as a chemical amendment, which forms
+sulphuric acid on additon to soil.
+
+<ICE-IND:W2D-017#102:1>
+The sulphuric acid reacts with native and / or added calcium
+carbonate and form CaSO<sb>4</sb> which replaces Na in the clay complex: </p>
+FeSo4 + H2O = H2So4 + Feo H2So4 + Caco3 = Caso4 + H2o + Co2 2 Na-Clay + CaSo4
+= Ca-clay + Na2So4 ( Leached out)
+
+<p> 
+<ICE-IND:W2D-017#103:1>
+<h> <bold> Molasses, pressmud and basic slag : </bold> </h>
+
+<ICE-IND:W2D-017#104:1>
+The use of molasses alongwith pressmud and basic slag is also found
+good.
+
+<ICE-IND:W2D-017#105:1>
+The molasses provide the source of energy for micro-organisms which
+on fermentation produce organic acids.
+
+<ICE-IND:W2D-017#106:1>
+The organic acids reduce alkalinity and increase the availability of
+phosphate.
+
+<ICE-IND:W2D-017#107:1>
+The addition of pressmud, which contains calcium, produces soluble
+calcium salts that help in reducing exchangeable sodium.
+
+<ICE-IND:W2D-017#108:1>
+Under conditions of a good supply of available phosphate in the form
+of basic slag, the nitrogen fixation is also benefited. </p>
+
+<p> 
+<ICE-IND:W2D-017#109:1>
+<h> <bold> Choice of crops </bold> : </h>
+
+<ICE-IND:W2D-017#110:1>
+Growing crops tolerant to excess exchangeable sodium can ensure
+reasonable returns during initial phases of reclamation.
+
+<ICE-IND:W2D-017#111:1>
+Rice is favoured as the first crop, because it can tolerate standing
+water and medium levels of ESP and exerts reclamative effect on the soil
+through root respiration.
+
+<ICE-IND:W2D-017#112:1>
+With the judicious management, properly amended alkali soils can
+produce three to four tonnes of paddy per hectare in the very first year,
+besides, introducing favourable changes in the physico-chemical soil
+properties. </p>
+
+<p> 
+<ICE-IND:W2D-017#113:1>
+Crop production in salt-affected soils demands managerial skills
+of a higher order turned to the physico-chemical status of the soil.
+
+<ICE-IND:W2D-017#114:1>
+Apart from judicious fertilisation, other agronomic practices that
+demand specific treatment include seed-bed preparation,
+seeding/transplanting, weeding, irrigation, etc. </p>
+
+<p> 
+<ICE-IND:W2D-017#115:1>
+The organic matter content of the alkali soils is often very
+low.
+
+<ICE-IND:W2D-017#116:1>
+Organic manures including farmyard manures, <O> <&> page </&> 9 </O>
+compost and green manures have an important place in reclamation of alkali
+soils. </p>
+
+<p> 
+<ICE-IND:W2D-017#117:1>
+Grasses are, in general, more tolerant of alkali conditions than
+most field crops.
+
+<ICE-IND:W2D-017#118:1>
+All these can be grown successfully in strongly alkali soils.
+
+<ICE-IND:W2D-017#119:1>
+Grasses also improve the soils so that after a few years other field
+crops could be taken. </p>
+
+<p> 
+<ICE-IND:W2D-017#120:1>
+<h> <bold> Saline Soils </bold> : </h>
+
+<ICE-IND:W2D-017#121:1>
+Reclamation of saline soils involves leaching of excess soluble
+soils from the root zone, lowering of water table below the critical depth,
+selection of suitable crops and their varieties and adoption of agronomic
+practices conforming to the need for keeping root environment safe. </p>
+
+<p> 
+<ICE-IND:W2D-017#122:1>
+Removing the salts that have accumulated on the soil surface by
+the mechanical means has had a limited success although many farmers resort
+to this procedure.
+
+<ICE-IND:W2D-017#123:1>
+Although scraping of salts might temporarily improve crop growth,
+the ultimate disposal of salts still poses a major problem. </p>
+
+<p> 
+<ICE-IND:W2D-017#124:1>
+Washing away the surface accumulation of salts by flushing water
+over the surface is sometimes to desalinize soils having surface salt crust.
+
+<ICE-IND:W2D-017#125:1>
+This method is not very sound from a practical standpoint because
+the amount of salt that can be flushed off the soil is rather small. </p>
+
+<p> 
+<ICE-IND:W2D-017#126:1>
+Leaching involves removing excess salts to reduce root zone
+salinity to a desired level.
+
+<ICE-IND:W2D-017#127:1>
+The efficiency with which salts can be leached per unit of applied
+water depends upon factors like soil type, characteristics of soil profile,
+depth of applied water, method of application, absorption and exchange
+reactions during leaching and the initial wetness of the soil.
+
+<ICE-IND:W2D-017#128:1>
+The amount of salts removed depends entirely on the quantity of
+water that passes through the soil and depends upon the quality of water used
+for leaching.
+
+<ICE-IND:W2D-017#129:1>
+Leaching is effective only if the drainage facilities are adequate.
+</p>
+
+<p> 
+<ICE-IND:W2D-017#130:1>
+Surface drainage provides an efficient means for lowering water
+table and to prevent secondary salinization.
+
+<ICE-IND:W2D-017#131:1>
+In addition to the initial cost of installing a drainage system,
+problems of disposal of drainage waters could assume serious proportions in
+areas where no natural outlet like sea is available.
+
+<ICE-IND:W2D-017#132:1>
+This problem can be solved to some extent by ( i) minimising
+leaching of this volume of drainage water, ( ii) disposal of saline drainage
+water by evaporation in salt pans, collecting drain water in selected areas,
+( iii) using stored drainage waters for brackish water fishculture, and ( iv)
+reuse of such waters with good quality waters for irrigation. </p>
+
+<p> 
+<ICE-IND:W2D-017#133:1>
+Salt-affected soils may also contain those salts which are very
+toxic to plants even at low concentrations.
+
+<ICE-IND:W2D-017#134:1>
+Some salts are not as readily leached out or eliminated as others.
+
+<ICE-IND:W2D-017#135:1>
+Such peculiar situation must be dealt with after diagnosing the
+problem.
+
+<ICE-IND:W2D-017#136:1>
+Good post-reclamation management of once salt-affected soils leached
+extremely is important because soil degradation process can again start under
+poor soil and crop management.
+
+<ICE-IND:W2D-017#137:1>
+A close monitoring of soil health to sustain productivity level of
+reclaimed land is necessary. </p> <footnote> <sp> * </sp>
+
+<ICE-IND:W2D-017#138:1>
+Joint Commissioner, Department of Agriculture & Cooperation,
+Ministry of Agriculture, New Delhi. </footnote> </I>

@@ -1,0 +1,352 @@
+<I>
+
+<ICE-IND:W2A-032#1:1>
+<h> <bold> Trace Element Analysis in Air, Water and Hair Samples
+</bold> </h> <&> authors </&> <bold> G. Sree Krishna Murty, M.V.S.
+Chandrasekhar Rao, K. Radha Krishna, S. Bhuloka Reddy, P.V. Ramana Rao, K.
+Venkata Reddy and D.L. Sastry </bold>
+
+<ICE-IND:W2A-032#2:1>
+<it> Andhra University, Swami Jnanananda Laboratories for Nuclear
+Research, Visakhapatnam </it> - 530 003
+
+<p> 
+<ICE-IND:W2A-032#3:1>
+<bold> Trace element analysis in about 200 air samples collected
+over a period of 2 year and belonging to the industrial and control zones of
+the city of Visakhapatnam was performed using an Energy Dispersive X-Ray
+Fluorescence ( EDXRF ) system.
+
+<ICE-IND:W2A-032#4:1>
+Similarly water and hair samples was studied.
+
+<ICE-IND:W2A-032#5:1>
+The results of these investigations are reported and discussed in this
+paper. </bold> </p> <&> in two columns </&> <&> column one </&>
+
+<ICE-IND:W2A-032#6:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-032#7:1>
+Our earlier studies ( Sankara Rao <it> et al., </it> 1985 a and b;
+Sree Krishna Murty <it> et al., </it> 1987 ) on trace element analysis in
+aerosol samples of the industrial region of Visakhapatnam using a high
+resolution EDXRF spectrometer have shown high levels of Pb and Zn which are
+of toxic nature.
+
+<ICE-IND:W2A-032#8:1>
+In these studies aerosol samples were collected during particular
+hours of the day and a continuous sampling was not made to look for diurnal
+and seasonal variations.
+
+<ICE-IND:W2A-032#9:1>
+In the present an attempt was made to look for diurnal and seasonal
+variations in the trace element distribution in air particulate matter for
+the years 1987 and 1988 by collecting aerosols continuously over a period of
+20 hr in a day at different sites.
+
+<ICE-IND:W2A-032#10:1>
+The preliminary results were reported in Sree Krishna Murty <it>
+et al. </it> ( 1987 ) .
+
+<ICE-IND:W2A-032#11:1>
+We have also analysed trace elements in open well water samples
+located in the industrial and non-industrial zones using energy
+dispersive X-ray fluorescenee ( EDXRF ) method.
+
+<ICE-IND:W2A-032#12:1>
+The results of this study were reported in Sree Krishna Murty <it> et
+al. </it> ( 1988 ) .
+
+<ICE-IND:W2A-032#13:1>
+The human head hair samples collected from polluted and non pollured
+areas were qualitatively analysed using the present technique.
+
+<ICE-IND:W2A-032#14:1>
+The results of the analysis of different types of environmental
+samples concerning the city of Visakhapatnam are correlated and discussed
+in this paper. </p>
+
+<ICE-IND:W2A-032#15:1>
+<h> <bold> ANALYSIS OF AEROSOL SAMPLES </bold> </h>
+
+<ICE-IND:W2A-032#16:1>
+<h> <bold> Sampling </bold> </h>
+
+<p> 
+<ICE-IND:W2A-032#17:1>
+The aerosol samples were collected on TFA 41 and Whatman 541
+glass fibre filter papers using a high volume air sampler at a height of 5 -
+10 m from the ground level.
+
+<ICE-IND:W2A-032#18:1>
+The sites where the air sampling was conducted are shown in the map
+of city of Visakhapatnam ( Figure 1 ) .
+
+<ICE-IND:W2A-032#19:1>
+To study the diurnal variations in the aerosol composition, the
+samples were collected continuously at time intervals of 4 hr and the same
+was done in different seasons to look for seasonal variations.
+
+<ICE-IND:W2A-032#20:1>
+The volume of air collected at each place was of the order of 120
+m<sp>3</sp>. </p>
+
+<ICE-IND:W2A-032#21:1>
+<h> <bold> EXPERIMENTATION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-032#22:1>
+The EDXRF system used for the trace element analysis of
+environmental samples was described in Sastry <it> et al. </it> ( 1984 ) and
+Sankara Rao <it> et al. </it> ( 1985 a and b ) .
+
+<ICE-IND:W2A-032#23:1>
+It is an integrated system comprising of a low power X-ray generator
+( 25 W ) to excite the samples and a high resolution ( 160 eV at 5.9 keV )
+detector system coupled to a microprocessor controlled multichannel
+analyser.
+
+<ICE-IND:W2A-032#24:1>
+The system was operated at a tube voltage of 25 KV and a tube
+current of 100 <*> mu<*/>A.
+
+<ICE-IND:W2A-032#25:1>
+The procedure followed for data collection, determination of net
+characteristic X-ray intensities emitted by different trace elements in a
+sample and the quantification of the characteristic X-ray intensities were
+described in Sastry <it> et al. </it> ( 1984 ) and Sankara Rao <it> et al.
+</it> ( 1985 a and b ) .
+
+<ICE-IND:W2A-032#26:1>
+Typical characteristic X-ray spectra at a place called Mindi
+Village surrounded by the industrial belt corresponding to winter and
+summer months are shown in figures 2 and 3 respectively.
+
+<ICE-IND:W2A-032#27:1>
+These spectra are also due to a particular time interval in a day.
+
+<ICE-IND:W2A-032#28:1>
+The same for the Andhra University region which was taken as control
+are given in figures 4 and 5 respectively. </p>
+
+<ICE-IND:W2A-032#29:1>
+<h> <bold> RESULT AND DISCUSSION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-032#30:1>
+Ten aerosol samples were standardised at Air Monitoring
+Section, BARC, Bombay using a <sp> 55</sp>Fe source which emits 5.9 keV K -
+X-rays and X-ray tube fitted with a secondary target ( Mo ) which emits 17.44
+keV X-rays as primary source of excitation for low Z and high Z elements,
+respectively ( Sadasivan <O> <&> page </&> 935 </O> <O> figure 1. </O>
+<O> caption </O> <O> two graphs ( figures 1 & 2 side by side </O> <O>
+captions </O> <it> et al., </it> 1982 ) .
+
+<ICE-IND:W2A-032#31:1>
+Thin film standards namely, Ca, Fe and Pb were used as targets to
+determine the product <mention> I<sb>0</sb>G </mention> , where <mention>
+I<sb>0</sb> </mention> is the primary flux and <mention> G </mention> is the
+geometrical factor in different regions of Z.
+
+<ICE-IND:W2A-032#32:1>
+Necessary corrections for absorption in the sample and in the
+filter paper were applied to get the net final intensities.
+
+<ICE-IND:W2A-032#33:1>
+Then, the elemental concentrations in different aerosol samples were
+determined using the net characteristic X-ray intensities.
+
+<ICE-IND:W2A-032#34:1>
+They are summarized in tables 1 and 2 for the Mindi village and 3
+and 4 for Andhra University.
+
+<ICE-IND:W2A-032#35:1>
+These tables also include the meteorological parameters recorded
+while sampling.
+
+<ICE-IND:W2A-032#36:1>
+The uncertainity in the elemental concentrations <O> <&> page </&>
+936 </O> <O> figure 4 ( graph) </O> <O> caption </O> <O> figure 5 ( graph)
+</O> <O> caption </O> is of the order of 15 % which arrises out of counting
+statistics, background subtraction, instrumental instability, absorption
+correction and errors in the values of standards. </p> <O> Table 1. & 2. </O>
+<O> captions </O> <O> <&> page </&> 937 </O> <O> Table 3. & 4. </O> <O>
+captions </O>
+
+<p> 
+<ICE-IND:W2A-032#37:1>
+The presence of high levels of Zn and Pb in aerosol samples is
+attributed to the surrounding industries which are close to the site of
+sampling.
+
+<ICE-IND:W2A-032#38:1>
+The diurnal variations in the present case are due to the
+atmospheric conditions like wind velocity and favourable wind directions.
+
+<ICE-IND:W2A-032#39:1>
+Thus, Zn and Pb may be regarded as of an anthropogenic origin.
+
+<ICE-IND:W2A-032#40:1>
+The variations in the levels of Ca and Fe at different timings of the
+day are mainly due to earth crustal dust raised into the atmosphere by the
+vehicular traffic and winds.
+
+<ICE-IND:W2A-032#41:1>
+It is also to be noted that the levels of Zn and Pb are high during
+winter months when compared with those of summer.
+
+<ICE-IND:W2A-032#42:1>
+It is ascribed to increased fuel burning and local inversions which
+lead to poorer dispersion of pollutants during the winter season ( Padmanabha
+Murty <it> et al., </it> 1984; McDonald <it> et al., </it> 1979 ) .
+
+<ICE-IND:W2A-032#43:1>
+From tables 1 - 4 the high levels of Ca and Fe found in the aerosol
+samples collected during summer months which are of earth crustal origin are
+understood as due to heavy winds and vehicular traffic.
+
+<ICE-IND:W2A-032#44:1>
+From the tables 3 and 4 representing the control area it can be
+seen that the concentrations of different trace elements are less than
+those of industrial area.
+
+<ICE-IND:W2A-032#45:1>
+However, the trends in seasonal variations in the levels of Zn and
+Pb are the same as those for the Industrial area.
+
+<ICE-IND:W2A-032#46:1>
+The diurnal variations in control area are found to be not
+significant. </p>
+
+<p> 
+<ICE-IND:W2A-032#47:1>
+From the present studies extending over a period of 3 year it is
+found that the average of total suspended particulate matter of different
+sites in Visakhapatnam is 160 <*> mu<*/>g / m<sp>3</sp> while the same ranges
+from 140 to 540 <*> mu<*/>g / m<sp>3</sp> in India.
+
+<ICE-IND:W2A-032#48:1>
+It is fonnd that 35 % of the air particulate matter during the winter
+season accounts for the trace elemental composition.
+
+<ICE-IND:W2A-032#49:1>
+Thus, the unaccounted mass would consist of other major crustal
+elements Na, Mg, Si, Al, O<sp>2</sp>, N<sp>2</sp> and in particular C.
+</p>
+
+<ICE-IND:W2A-032#50:1>
+<h> <bold> WATER SAMPLES </bold> </h>
+
+<p> 
+<ICE-IND:W2A-032#51:1>
+The results on the trace element analysis of different ground
+water samples collected from open wells <O> <&> page </&> 938 </O> belonging
+to the city of Visakhapatnam were reported in Sree Krishna Murty <it> et al.
+</it> ( 1988 ) .
+
+<ICE-IND:W2A-032#52:1>
+They show that the Pb levels are not only high in the samples of the
+industrial zone but also in those at two remote sites free from
+industries.
+
+<ICE-IND:W2A-032#53:1>
+The high levels of Pb in the water samples belonging to the
+industrial region could be attributed to the Pb pollution in the aerosol
+samples of this region.
+
+<ICE-IND:W2A-032#54:1>
+The same at sites free from industries may be due to gasoline burning
+because of heavy vehicular traffic and also may be in the well site itself.
+</p>
+
+<ICE-IND:W2A-032#55:1>
+<h> <bold> ELEMENTAL ANALYSIS OF HAIR SAMPLES </bold> </h>
+
+<p> 
+<ICE-IND:W2A-032#56:1>
+16 head hair sarnples belong to the people of Mulagado village
+close to the city of Visakhapatnam and exposed to several industries were
+collected and 17 of normals were also collected for the purpose of trace
+element analysis using the present EDXRF technique.
+
+<ICE-IND:W2A-032#57:1>
+The hair was thoroughly washed with mixture of acetone and de-ionised
+water in the ratio of 3 : 1 and then dried.
+
+<ICE-IND:W2A-032#58:1>
+The same was ashed and a few mg of each sample was uniformly spread
+on a cello tape.
+
+<ICE-IND:W2A-032#59:1>
+The samples were exposed to the primary source of exciting radiation
+( X-ray generator ) and the data were collected as in the case of air and
+water samples.
+
+<ICE-IND:W2A-032#60:1>
+Two typical XRF spectra are shown in figures 6 and 7 belonging to the
+normal and the Mulagada village respectively.
+
+<ICE-IND:W2A-032#61:1>
+No quantification of the characteristic X-ray intensities emitted
+by each element in a hair sample could be done because of the
+non-availability of a suitable hair standard.
+
+<ICE-IND:W2A-032#62:1>
+However, the characteristic X-ray intensities were computed in the
+usual manner.
+
+<ICE-IND:W2A-032#63:1>
+From figures 6 and 7 it can be seen that the characteristic X-ray
+intensities of Pb from the industrial sample is higher than that from the
+normal.
+
+<ICE-IND:W2A-032#64:1>
+The average characteristic X-ray intensities for the hair samples
+from the polluted and non-polluted regions are given below :
+
+<ICE-IND:W2A-032#65:1>
+Average Pb X - ray intensity of belongs to normals people = 151 <*>
+plus or minus</*> 31
+
+<ICE-IND:W2A-032#66:1>
+Average Pb X-ray intensity of belongs to inhabitants exposed to
+pollution = 4565 <*> plus or minus</*> 97 </p>
+
+<ICE-IND:W2A-032#67:1>
+<h> <bold> CONCLUSION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-032#68:1>
+The present trace element analysis of environmental samples shows
+that the lead levels in general are high in the industrial region of the city
+of Visakhapatnam.
+
+<ICE-IND:W2A-032#69:1>
+Our earlier analysis ( Sankara Roo <it> et al., </it> 1986 ) of 200
+blood samples of the inhabitants <O> ( figures 6 & 7) graphs </O> <O>
+captions </O> of Mindi village have shown low Fe levels in 164 samples
+indicating anaemic condition.
+
+<ICE-IND:W2A-032#70:1>
+Pb pollution is likely to interfere with haemglobin synthesis
+process.
+
+<ICE-IND:W2A-032#71:1>
+However, malnutrition could also be one of the reasons.
+
+<ICE-IND:W2A-032#72:1>
+A social survey of this region will give an idea about the real
+situation. </p>
+
+<ICE-IND:W2A-032#73:1>
+<h> <bold> ACKNOWLEDGEMENT </bold> </h>
+
+<p> 
+<ICE-IND:W2A-032#74:1>
+The authors acknowledge the <mention> Defence Research and
+Development Organisation, Ministry of Defence, Govt of India </mention> for
+funding the research project entitled <quote> <mention> ` Pollution
+studies in and around Visakhapatnam' </mention> </quote> to under take the
+present studies. </p> </I>

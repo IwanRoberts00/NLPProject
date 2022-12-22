@@ -1,0 +1,465 @@
+<I> <&> Heading in center of page </&> <&> special feature </&>
+
+<ICE-IND:W2B-013#1:1>
+<h> <ul> <bold> <smallcaps> CURRENT ISSUES </smallcaps> </bold> </ul>
+</h> <&> main heading in column 1 & 2 </&>
+
+<ICE-IND:W2B-013#2:1>
+<h> <bold> Demographic status quo? </bold> </ul> </h>
+
+<ICE-IND:W2B-013#3:1>
+by ASHISH BOSE <&> columns </&>
+
+<p> 
+<ICE-IND:W2B-013#4:1>
+<bold> One </bold> cannot help being tentative while commenting on
+the provisional results of a census.
+
+<ICE-IND:W2B-013#5:1>
+One must await the results of the <it> final </it> count for any
+degree of confidence in making comments.
+
+<ICE-IND:W2B-013#6:1>
+Invariably, the final figures are <it> higher </it> though marginally,
+than the provisional figures. </p>
+
+<p> 
+<ICE-IND:W2B-013#7:1>
+While interpreting the results of a population census, one must
+observe certain ground rules.
+
+<ICE-IND:W2B-013#8:1>
+To my mind, the first such rule concerns <it> comparability </it> of
+data at two points of time.
+
+<ICE-IND:W2B-013#9:1>
+It may be recalled that there was no consensus enumeration in Assam in
+1981 because of disturbed conditions whereas the 1991 census enumeration has
+yet to take place in Jammu & Kashmir.
+
+<ICE-IND:W2B-013#10:1>
+The 1981 census figure for India includes the projected population of
+Assam while the 1991 census figure for India included the projected
+population of Jammu & Kashmir.
+
+<ICE-IND:W2B-013#11:1>
+The statistical implications of the exclusion of some states from
+census enumeration and the inclusion of the projected figure for some other
+states while comparing the results of two census ( say, 1981 and 1991) have
+to be worked out before one can comment with confidence on the decadal growth
+rate of population. </p>
+
+<p> 
+<ICE-IND:W2B-013#12:1>
+I believe that the 1991 census enumeration was, on the whole, a
+fairly good enumeration.
+
+<ICE-IND:W2B-013#13:1>
+Nevertheless, I would argue that the net undercount at the 1991
+census would have been at least double that of the 1981 rate.
+
+<ICE-IND:W2B-013#14:1>
+There are at least two reasons for this ( I) during 1981-91 there
+has been rapid urbanisation and this tends to increase the coverage error of
+the census ( i.e., the total count) and ( 2) the general boom in consumerism
+and the increasing dissatisfaction on the part of the vast army of 1.7
+million enumerators with the paltry honorarium given to them. </p>
+
+<p> 
+<ICE-IND:W2B-013#15:1>
+In other words, if in 1981, we missed roughly 20 out of 1000
+persons enumerated, in 1991, one would guess that we might have missed double
+the number per thousand persons ( i.e., under enumeration of roughly 4 per
+cent).
+
+<ICE-IND:W2B-013#16:1>
+This difference of 2 per cent itself means an addition of 17 million
+to the provisional figure of 1991 if the <it> higher </it> rate of
+under-enumeration is taken into account.
+
+<ICE-IND:W2B-013#17:1>
+In short, the <it> actual </it> population of India by this logic is
+861 million ( for comparing it with the 1981 figure of 685 million) and 878
+million if note is taken of the <it> total </it> under-enumeration. </p>
+
+<p> 
+<ICE-IND:W2B-013#18:1>
+But the Indian census never adjusts the data for
+under-enumeration because it is possible to give the characteristics of
+persons who have not been counted. </p>
+
+<ICE-IND:W2B-013#19:1>
+<h> <bold> Decadal Growth Rate </bold> </h>
+
+<p> 
+<ICE-IND:W2B-013#20:1>
+According to the provisional total population figure for India,
+the growth of population during 1981-91 was 23.5 per cent, compared to 24.7
+per cent in the 1971-81 decade.
+
+<ICE-IND:W2B-013#21:1>
+Thus, the growth rate during the last decade has only marginally
+declined.
+
+<ICE-IND:W2B-013#22:1>
+This is certainly a reflection on our family planning programme.
+
+<ICE-IND:W2B-013#23:1>
+While interpreting statewise figures, one has to estimate the net
+migration ( both legal and illegal before pronouncing the final) judgment.
+
+<ICE-IND:W2B-013#24:1>
+In Madhya Pradesh, Maharashtra and West Bengal, the decadal growth
+rate has gone up during 1981-91: migration must have played an important role
+in contributing to the higher growth rate.
+
+<ICE-IND:W2B-013#25:1>
+In West Bengal, the continuing migration from Bangladesh adds to
+the miseries of that state. </p>
+
+<ICE-IND:W2B-013#26:1>
+<h> <bold> Remarkable speed in publication of provisional tables
+</bold> </h>
+
+<p> 
+<ICE-IND:W2B-013#27:1>
+The Census Commissioner, Mr A.R. Nanda and his colleagues, in
+particular, Mr N. Rama Rao, Deputy RegistrarGeneral, deserve
+congratulations on the successful completion of the massive census operation
+in spite of the disturbed situation in Assam and Punjab and his colleagues
+also deserve the fullest credit for bringing out the provisional results with
+such remarkable speed ( they have kept up the census tradition) within
+three weeks of completion of the revisional rounds.
+
+<ICE-IND:W2B-013#28:1>
+There are not many countries in the world ( including the developed
+countries with their advanced computers ) which can match this
+achievement. </p>
+
+<p> 
+<ICE-IND:W2B-013#29:1>
+Paradoxically enough, this speed was attained only because the
+data were not fully computerised for arriving at the total population figure
+of India: hand tabulation by millions of census enumerators made this
+possible.
+
+<ICE-IND:W2B-013#30:1>
+As they say in New York, often the fastest way to get to a place is
+to walk and not go in your car.
+
+<ICE-IND:W2B-013#31:1>
+This is true of the Indian census also: hand tabulation is faster
+then the electronic computers!
+
+<ICE-IND:W2B-013#32:1>
+But one must hasten to add that there are limits to hand tabulation
+and it is tragic to note that, in spite of the increasing computerisation of
+Indian census table, it takes years for all tables to be published.
+
+<ICE-IND:W2B-013#33:1>
+It is very frustrating for the users of census data to wait for six
+to eight years to get the detailed tables and, by that time, the data get
+obsolete and preparations are on for the next census. </p>
+
+<ICE-IND:W2B-013#34:1>
+<h> <bold> Total population of India </bold> </h>
+
+<p> 
+<ICE-IND:W2B-013#35:1>
+According to the 1991 census headcount, the total population
+of India ( including the projected population of Jammu and Kashmir ) is
+843.93 million or 844 million.
+
+<ICE-IND:W2B-013#36:1>
+This is certainly lower than what was generally expected.
+
+<ICE-IND:W2B-013#37:1>
+The projections ranged from 844 million to 865 million.
+
+<ICE-IND:W2B-013#38:1>
+Interestingly enough, the Planning <w> Commission's </w> standing
+committee of experts on population projections had revised the earlier
+estimate of 837 million to 843.6 million or roughly 844 million in 1991.
+
+<ICE-IND:W2B-013#39:1>
+In short, the census count almost exactly tallies with that
+projected figure, namely 844 million. </p>
+
+<ICE-IND:W2B-013#40:1>
+<h> <bold> Declining sex ratio </bold> </h>
+
+<p> 
+<ICE-IND:W2B-013#41:1>
+Perhaps the most disquieting feature of the 1991 census is the
+unexpected decline in the sex ratio ( number of females per 1000 males).
+
+<ICE-IND:W2B-013#42:1>
+In 1981, the government quickly claimed that the increase in the sex
+ratio from 930 in 1971 to 934 in 1981 was because of the impact of the MCH (
+mother and child health) programme.
+
+<ICE-IND:W2B-013#43:1>
+Now we are confronted with a figure of 929, indicating <O> <&>
+page </&> 23 </O> a five point decline in the last decade, a figure which is
+even lower than the figure in 1971.
+
+<ICE-IND:W2B-013#44:1>
+Has our MCH programme failed along with the family planning
+programme?
+
+<ICE-IND:W2B-013#45:1>
+There is no doubt that <w> women's </w> organisations which have
+relentlessly campaigned for a better coverage of <w> women's </w> work in
+the 1991 census will be very disappointed by this dimension of census result.
+</p>
+
+<ICE-IND:W2B-013#46:1>
+<h> <bold> Literacy rate </bold> </h>
+
+<p> 
+<ICE-IND:W2B-013#47:1>
+In spite of the rapid increase of literates during the last
+decade, the literacy rate continues to be low in several major states of
+India.
+
+<ICE-IND:W2B-013#48:1>
+It is poor consolation that the number of female literates has
+increased rapidly during the last decade when one considers the end result;
+as of 1991, the female literacy rate in India as a whole is less than 40 per
+cent and in a state like Rajasthan it is less than 21 per cent.
+
+<ICE-IND:W2B-013#49:1>
+The rural/urban breakdown in not yet available but literacy rates
+would certainly be lower in the rural area. </p>
+
+<p> 
+<ICE-IND:W2B-013#50:1>
+The six states of Andhra Pradesh, Bihar, Madhya Pradesh, Orissa,
+Rajasthan and Uttar Pradesh, which comprise 51 per cent of <w> India's </w>
+population, account for 59 per cent of the illiterate population of India.
+</p>
+
+<p> 
+<ICE-IND:W2B-013#51:1>
+It is certainly encouraging to note the high rates of literacy (
+male and female) in Kerala which is on the way to attaining 100 per cent
+literacy.
+
+<ICE-IND:W2B-013#52:1>
+The overall literacy rate in India in 1991 is 52 per cent for the
+total population; it is 64 per cent for males and 39 per cent for females.
+
+<ICE-IND:W2B-013#53:1>
+While interpreting literacy data, it is important to remember that
+these rates do not necessarily imply that all the literate persons go to
+school or had some schooling.
+
+<ICE-IND:W2B-013#54:1>
+The 1991 census asked separate questions on school attendance and
+educational level but the results are not yet known.
+
+<ICE-IND:W2B-013#55:1>
+One can be literate without having any worthwhile educational level.
+
+<ICE-IND:W2B-013#56:1>
+Then there is the problem of relapse into illiteracy by persons who
+were once literate.
+
+<ICE-IND:W2B-013#57:1>
+Literacy figures should therefore be interpreted with caution.
+
+<ICE-IND:W2B-013#58:1>
+One cannot help observing that in spite of the literacy missions,
+etc. the overall situation is appalling in India.
+
+<ICE-IND:W2B-013#59:1>
+There is no doubt that the country must give highest priority to the
+eradication of illiteracy in the shortest possible time. </p>
+
+<p> An intriguing feature of the projection exercise concerns the state of
+Assam where no census could be conducted in 1981 because of disturbed
+conditions.
+
+<ICE-IND:W2B-013#60:1>
+The earlier projection for the population of Assam in 1991 was 25.0
+million while the revised projection ( as of 1991) put the figure as 24.8
+million.
+
+<ICE-IND:W2B-013#61:1>
+The actual census count in 1991 revealed a figure of 22.3 million.
+
+<ICE-IND:W2B-013#62:1>
+Compared to the 1981 projected figure of 19.9 million for Assam, the
+rate of growth of <w> Assam's </w> population would have been only 12.1 per
+cent.
+
+<ICE-IND:W2B-013#63:1>
+This would have implied a high degree of under-enumeration which
+would not have been surprising in view of the disturbed conditions there
+even in 1991.
+
+<ICE-IND:W2B-013#64:1>
+The <}> <-> Cenesus</-><+>Census</+> </}> Commission, however, chose
+to rewrite demographic history by adjusting the 1981 Figures. </p>
+
+<p> 
+<ICE-IND:W2B-013#65:1>
+By this process the growth rate of Assam was jacked up to 23.6
+per cent.
+
+<ICE-IND:W2B-013#66:1>
+It does appear to us that in view of the high level of
+underenumeration in Assam in 1991, the Census Commission reworked the
+total population of India in 1981 and the growth rate figure for the 1981-91
+decade of India just to show a more acceptable growth rate for Assam.
+
+<ICE-IND:W2B-013#67:1>
+To our mind this problem could be avoided by adding a footnote to the
+Assam figure.
+
+<ICE-IND:W2B-013#68:1>
+It may be recalled that the 1981 census did not make any adjustment
+for the longer duration of the inter-censal period ( between 1971 and 1981
+because of the delay inconducting the census of 1971 by one month on
+account of general elections). </p>
+
+<p> 
+<ICE-IND:W2B-013#69:1>
+We believe that the projected population of Assam for 1991 was
+a more realistic figure than the actual count.
+
+<ICE-IND:W2B-013#70:1>
+It is also not necessary to adjust the 1981 figure of Assam.
+
+<ICE-IND:W2B-013#71:1>
+According to our estimate, the 1991 population of India is roughly
+846 million ( adjusted for the under-enumeration in Assam).
+
+<ICE-IND:W2B-013#72:1>
+Generally speaking, the difference between the provisional figures
+and the final figures is of the order of 2 million.
+
+<ICE-IND:W2B-013#73:1>
+This will push up the total figure to 848 million.
+
+<ICE-IND:W2B-013#74:1>
+It may be recalled that in 1981, the net under-enumeration was of the
+order of 1.8 per cent or roughly 2 per cent, if we assume the same degree of
+under-enumeration, we have to add another 17 million.
+
+<ICE-IND:W2B-013#75:1>
+This brings the total population to 865 million.
+
+<ICE-IND:W2B-013#76:1>
+As we have already pointed out, in view of the rapid urbanisation
+during the 1981-91 decade, the underenumeration would be higher than 2 per
+cent.
+
+<ICE-IND:W2B-013#77:1>
+An additional factor was the lack of motivation on the part of the
+enumerators who grudged the paltry honorarium given to them.
+
+<ICE-IND:W2B-013#78:1>
+We believe that the extent of underenumeration at the 1991 census
+would be around four per cent.
+
+<ICE-IND:W2B-013#79:1>
+My estimate of the " correct" population of India would be between
+870 to 880 million as of 1991. </p>
+
+<p> 
+<ICE-IND:W2B-013#80:1>
+As noted earlier, the Indian census data do not adjust for
+underenumeration for the simple reason that, even if the total count is
+adjusted, it would not be possible to present the characteristics of the
+under-enumerated population in regard to the table are prepared on the
+basis of the census.
+
+<ICE-IND:W2B-013#81:1>
+Interestingly enough, the post enumeration check ( PEC) data in the
+Indian census do not give the statewise figures but the zonewise figures (
+based on grouping of several states).
+
+<ICE-IND:W2B-013#82:1>
+This is done in order not to expose the Directors of Census in
+different states.
+
+<ICE-IND:W2B-013#83:1>
+But, on statistical grounds, there is a good case for presenting PEC
+data statewise.
+
+<ICE-IND:W2B-013#84:1>
+For example, we have reason to believe that, in Bihar, there must
+have been considerable under-enumeration and, in particular,
+under-enumeration of females.
+
+<ICE-IND:W2B-013#85:1>
+In Tamil Nadu and Bihar, the quality of the economic census
+conducted along with the houselisting operation in 1990 was so poor that
+the Director General of the Central Statistical Organisation ( CSO) did
+not include these states when the provisional results of the Economic Census
+were announced. </p>
+
+<ICE-IND:W2B-013#86:1>
+<h> <bold> Role of BIMARU states in population stabilisation </bold>
+</h>
+
+<p> 
+<ICE-IND:W2B-013#87:1>
+The 1991 census data fully confirm our prognosis that the crux of
+<w> India's </w> population problem lies in the four problem states of Bihar,
+Madhya Pradesh, Rajasthan and Uttar Pradesh ( in alphabetical order, the
+acronym is BIMARU ) which account for 39 per cent of <w> India's </w>
+population and 42 per cent of the net addition of the population of India
+during the 1981-91 decade.
+
+<ICE-IND:W2B-013#88:1>
+UP and Bihar are the most populous states of India and MP and
+Rajasthan are the two largest states in terms of area.
+
+<ICE-IND:W2B-013#89:1>
+In south India, Andhra Pradesh is demographically the most backward
+<O> continued on page 71 </O> <O> <&> page </&> 24 </O> <O> continued from
+page 24 </O> <O> <&> Current issues </&> </O> state.
+
+<ICE-IND:W2B-013#90:1>
+<w> Orissa's </w> population growth rate is low but this state is
+certainly not comparable to <}> <-> demographiclly </-> <+>
+demographically </+> </}> modernised states like Punjab.
+
+<ICE-IND:W2B-013#91:1>
+Orissa has high levels of mortality and infant mortality, the
+nutritional levels are appalling and the segment of population below the
+poverty line high.
+
+<ICE-IND:W2B-013#92:1>
+Orissa deserves special attention. </p>
+
+<p> 
+<ICE-IND:W2B-013#93:1>
+Kerala, demographically our most modern state ( if one leaves out
+the tiny state Goa ) had unfortunately a very high level of unemployment.
+
+<ICE-IND:W2B-013#94:1>
+One is reminded of George Bernard Shaw who said: <quote> " There are
+two tragedies in life: one is not to get your <w> heart's </w> desire, and
+the other is to get it." </quote>
+
+<ICE-IND:W2B-013#95:1>
+The demographic modernisation of Kerala has not been matched by
+economic growth which goes to show that harping on population growth alone
+is not enough.
+
+<ICE-IND:W2B-013#96:1>
+It was migration and Gulf money which came to the rescue of Kerala to
+some extent. </p>
+
+<p> 
+<ICE-IND:W2B-013#97:1>
+Finally, it should be crystal clear that unless the BIMARU states
+progress socially, economically and demographically, India can never be on
+the path of population stabilisation. </p> <&> a footnote at the end of the
+article </&> <footnote> <it> This article is an excerpt from the author's
+</it> <mention> P<smallcaps>PULATION of India : 1991 Census results and
+methodoligy </mention> <it> published by B.R. Publishing Corporation ( Price
+: Rs 40 ) . </it> </I>

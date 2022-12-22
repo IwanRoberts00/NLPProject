@@ -1,0 +1,57 @@
+<text.info>
+     <file.description>
+              <textcode>ICE-IND-W2D-003</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>printed:instructional:
+                administrative/regulatory</category>
+              <wordcount>3499</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2D-003>
+            <source.type=monograph>
+            <source.title>Indian Journal of Public
+              Administration</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol-40, No-3</series>
+     <publication.statement>
+            <publisher></publisher>
+            <address></address>
+            <place></place>
+            <date>1994</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of author &
+            publisher</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-003</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Indian Constitution And Public
+                   Administration: An Analysis of Their
+                   Reciprocal Relationship</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>270-278</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-003</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Chitturi</surname>
+                <forenames>Raghavulu</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Kulla (East Godavari),
+                  Andhra Pradesh</birthplace>
+                <education>Andhra University, University of
+                  Illinois, University of New Mexico</education>
+                <educational.level>Doctorate</educational.level>
+                <occupation>Rtd. Vice-Chancellor</occupation>
+                <affiliations>Indian Political Science
+                  Association</affiliations>
+                <mother.tongue>Telugu</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

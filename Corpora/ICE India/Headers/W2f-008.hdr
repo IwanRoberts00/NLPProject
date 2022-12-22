@@ -1,0 +1,51 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-008</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:story</caregory>
+            <wordcount>2916</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2F-008>
+       <source.type=newspaper>
+            <source.title>Sunday Herald</source.title>
+            <scope>regional</scope>
+            <frequency>weekly</frequency>
+            <circulation>not known</circulation>
+       <publication.statement>
+            <publisher>Fernandes Publications</publisher>
+            <address>Behind General Post Office, Panjim,
+            Goa-403001</address>
+            <place>Goa</place>
+            <date>24-06-90</date>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of Fernandes
+            Publications</copyright.statement>
+       <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-008>
+       <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Three Sisters</main.title>
+            <subtitle></subtitle>
+            <page.nos>5</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-008>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname></surname>
+            <forenames>Christine Krishnasami</forenames>
+            <age></age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+</text.info>

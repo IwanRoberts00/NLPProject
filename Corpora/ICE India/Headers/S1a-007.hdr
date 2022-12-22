@@ -1,0 +1,106 @@
+<text.info>
+      <file.description>
+            <textcode>ICE-IND-S1A-007</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>1694</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+      </file.description>
+      <subtext.source=S1A-007>
+      <source.type=Dialogue:private:direct conversation>
+      <recording.data>
+            <date>08-12-91</date>
+            <time>11.30am</time>
+            <place>CIEFL, Hyderabad Guest House</place>
+      </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement></copyright.statement>
+            <free.comments></free.comments>
+      </source.type>
+      </subtext.source>
+      <subtext.internals=<it>ICE-IND-S1A-007</it>>
+      <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>4</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+      </subtext.internals>
+      <biography=<it>ICE-IND-S1A-007</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Barbora</surname>
+            <forenames>Madhumati</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Shillong, Assam</birthplace>
+            <education>Gauhati University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Lecturer</occupation>
+            <affiliations>Alumni Association,
+                 CIEFL</affiliations>
+            <mother.tongue>Assamese</mother.tongue>
+            <other.languages>Bengali, Hindi</other.languages>
+            <free.comments></free.comments>
+      </biography>
+      <biography=<it>ICE-IND-S1A-007</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Babbar</surname>
+            <forenames>Savita</forenames>
+            <age>18-26</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Lecturer</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Punjabi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+      </biography>
+      <biography=<it>ICE-IND-S1A-007</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Aneja</surname>
+            <forenames>Poonam</forenames>
+            <age>30</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Lecturer</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Punjabi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+      </biography>
+      <biography=<it>ICE-IND-S1A-007</it>>
+            <speaker.id>D</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Bose</surname>
+            <forenames>Ketaki</forenames>
+            <age>34-41</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Editor of Publishing
+                 House</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Bengali</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+      </biography>
+</text.info>

@@ -1,0 +1,1140 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-029#1:1:A>
+Hello Vimala <,,> hello Asha <,>
+
+<$B> 
+<ICE-IND:S1A-029#2:1:B>
+Hello <,>
+
+<$C> 
+<ICE-IND:S1A-029#3:1:C>
+Hello <,>
+
+<$A> 
+<ICE-IND:S1A-029#4:1:A>
+Have you finished your dinner <,> ?
+
+<$B> 
+<ICE-IND:S1A-029#5:1:B>
+<{> <[> Oh yes </[>
+
+<$C> 
+<ICE-IND:S1A-029#6:1:C>
+<[> Oh yes </[> </{> <,,>
+
+<$A> 
+<ICE-IND:S1A-029#7:1:A>
+Ah <,> let me introduce myself <w> I'm </w> Jayanthi from
+Kerala <,>
+
+<ICE-IND:S1A-029#8:1:A>
+Where are you from <,> ?
+
+<$C> 
+<ICE-IND:S1A-029#9:1:C>
+<w> I'm </w> from Madras <,> <w> I'm </w> Asha <,,>
+
+<$B> 
+<ICE-IND:S1A-029#10:1:B>
+And <w> I'm </w> Vimala <,>
+
+<ICE-IND:S1A-029#11:1:B>
+<w> I'm </w> also from Kerala <,,>
+
+<ICE-IND:S1A-029#12:1:B>
+But I have been away from Kerala for a long time you know <,> <{>
+<[> do <,> so
+
+<$A> 
+<ICE-IND:S1A-029#13:1:A>
+<[> Do </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#14:1:A>
+Do you know Malyalam <,> ?
+
+<$B> 
+<ICE-IND:S1A-029#15:1:B>
+Oh yes I speak <,,>
+
+<$A> 
+<ICE-IND:S1A-029#16:1:A>
+What other languages do you know <,> ?
+
+<$B> 
+<ICE-IND:S1A-029#17:1:B>
+I speak uh Hindi <,>
+
+<ICE-IND:S1A-029#18:1:B>
+I speak a little bit of Tamil <,> and know a little bit of Oriya
+Bengali <,>
+
+<ICE-IND:S1A-029#19:1:B>
+You know <,> I have been to many places so I got a chance to pick
+up all the languages
+
+<$A> 
+<ICE-IND:S1A-029#20:1:A>
+What about you Asha <,,> ?
+
+<$C> 
+<ICE-IND:S1A-029#21:1:C>
+What are the <O> one words </O> you want
+
+<$B> 
+<ICE-IND:S1A-029#22:1:B>
+What all <,> what all languages <,> ?
+
+<$C> 
+<ICE-IND:S1A-029#23:1:C>
+I know Hindi <,,> and Tamil <,> apart from English <,>
+
+<$A> 
+<ICE-IND:S1A-029#24:1:A>
+Uhm so <w> you've </w> been <,> in Madras all the time ?
+
+<$C> 
+<ICE-IND:S1A-029#25:1:C>
+No <w> I've </w> been in Madras only for the past thirteen
+years <,> <{> <[> ah <,>
+
+<ICE-IND:S1A-029#26:1:C>
+Before that I was in north India
+
+<$A> 
+<ICE-IND:S1A-029#27:1:A>
+<[> Ah </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#28:1:A>
+I see <,,>
+
+<ICE-IND:S1A-029#29:1:A>
+So in which <,> from which place <,> ?
+
+<$C> 
+<ICE-IND:S1A-029#30:1:C>
+I was in Bombay for quite some time <,> <{> <[> uhm <,> and
+after that we moved over to Madras <,>
+
+<$A> 
+<ICE-IND:S1A-029#31:1:A>
+<[> Uhm </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#32:1:B>
+What about Jayanthi <,,> ?
+
+<$A> 
+<ICE-IND:S1A-029#33:1:A>
+<w> I've </w> been in Kerala for the past twenty years <,,>
+
+<ICE-IND:S1A-029#34:1:A>
+Uh before that I was <,> have have been to lot of places <,,>
+
+<ICE-IND:S1A-029#35:1:A>
+Now <w> I'm </w> settle in Palghat
+
+<$B> 
+<ICE-IND:S1A-029#36:1:B>
+What about your education and all ?
+
+<ICE-IND:S1A-029#37:1:B>
+Where did you do get your education ?
+
+<$A> 
+<ICE-IND:S1A-029#38:1:A>
+I had started my education in Calcutta <,> and uh <,> I did my
+college in Kerala <,,>
+
+<ICE-IND:S1A-029#39:1:A>
+So I too know a bit of Hindi <,> Bengali and <,,> Tamil <,> and
+Malyalam
+
+<$B> 
+<ICE-IND:S1A-029#40:1:B>
+<w> That's </w> quite interesting don't you think <}> <- > to
+</-> <=> to </=> </}> learn all the languages <,>
+
+<ICE-IND:S1A-029#41:1:B>
+To know more about all the languages <,>
+
+<ICE-IND:S1A-029#42:1:B>
+Don't you think so Asha ?
+
+<$C> 
+<ICE-IND:S1A-029#43:1:C>
+<w> That's </w> very interesting <,,> what do you think ?
+
+<$A> 
+<ICE-IND:S1A-029#44:1:A>
+I suppose we are all married <,,>
+
+<$C> 
+<ICE-IND:S1A-029#45:1:C>
+Oh yes <w> I'm </w> married and <w> I've </w> a son <,> he is
+twelve years old <,>
+
+<$A> 
+<ICE-IND:S1A-029#46:1:A>
+What about you Vimala <,> ?
+
+<$B> 
+<ICE-IND:S1A-029#47:1:B>
+<w> I'm </w> also married <,>
+
+<ICE-IND:S1A-029#48:1:B>
+And <w> I've </w> got two children one son and <,> a daughter <,,>
+and
+
+<$C> 
+<ICE-IND:S1A-029#49:1:C>
+And what about you <,> ?
+
+<$A> 
+<ICE-IND:S1A-029#50:1:A>
+<w> I'm </w> also married
+
+<ICE-IND:S1A-029#51:1:A>
+Uhm <w> I've </w> a son of <,> nine years and a daughter of six <,>
+three years <,,>
+
+<ICE-IND:S1A-029#52:1:A>
+And <,,> my husband is in Chartered Accountancy <,> employed and
+<,> he is having his own office in Palghat <,,>
+
+<$C> 
+<ICE-IND:S1A-029#53:1:C>
+Where <,> where are they studying <,> children <,,> ?
+
+<$A> 
+<ICE-IND:S1A-029#54:1:A>
+My son is studying in a <,,> local school <,,> in uh fourth
+standard <,>
+
+<ICE-IND:S1A-029#55:1:A>
+And my daughter is yet to go to school
+
+<$C> 
+<ICE-IND:S1A-029#56:1:C>
+I see
+
+<$B> 
+<ICE-IND:S1A-029#57:1:B>
+Where is your <,> son studying Asha ?
+
+<$C> 
+<ICE-IND:S1A-029#58:1:C>
+My son is studying in Padmasheshadri <,> the school in <,>
+Madras <,> <{> <[> I see <,>
+
+<ICE-IND:S1A-029#59:1:C>
+<w> It's </w> a well known school <,>
+
+<ICE-IND:S1A-029#60:1:C>
+A school of international repute
+
+<$A> 
+<ICE-IND:S1A-029#61:1:A>
+<[> I see </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#62:1:A>
+I see
+
+<$C> 
+<ICE-IND:S1A-029#63:1:C>
+Can you tell us something about Palghat <,> Jayant <,,> ?
+
+<$A> 
+<ICE-IND:S1A-029#64:1:A>
+Palghat is a small town <,,>
+
+<ICE-IND:S1A-029#65:1:A>
+Uh <w> it's </w> not a very big place <,>
+
+<ICE-IND:S1A-029#66:1:A>
+Uh it has got field
+
+<ICE-IND:S1A-029#67:1:A>
+You can call it a typical countryside <,> of uh kerala <,>
+
+<ICE-IND:S1A-029#68:1:A>
+Lot of paddy fields <,> lot of coconut trees <,> lot of rivers <,,>
+lot of small <,> it is made up of lot of small villages <,,>
+
+<ICE-IND:S1A-029#69:1:A>
+In and around Palghat you have a lot of small villages and <,>
+small towns
+
+<$B> 
+<ICE-IND:S1A-029#70:1:B>
+Yeah <,> you will find greenary everywhere you know
+
+<$A> 
+<ICE-IND:S1A-029#71:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-029#72:1:B>
+<w> That's </w> a <w> that's </w> a change you find when you
+go <,,> uh when you go from <,,> uh at you step into Kerala you can say <,>
+
+<ICE-IND:S1A-029#73:1:B>
+You find you feel the change
+
+<$A> 
+<ICE-IND:S1A-029#74:1:A>
+You feel the <{> <[> difference </[>
+
+<$B> 
+<ICE-IND:S1A-029#75:1:B>
+<[> You feel </[> </{> yeah <{> <[> you feel the difference
+</[>
+
+<$A> 
+<ICE-IND:S1A-029#76:1:A>
+<[> You feel the difference </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#77:1:B>
+The whole uh <,,> scenery <,> the greenary <,> mountain <.>
+eve </.> trees <,> seas <,> everything you see <,> the moment you enter
+Kerala <,>
+
+<$C> 
+<ICE-IND:S1A-029#78:1:C>
+It sound so nice
+
+<$B> 
+<ICE-IND:S1A-029#79:1:B>
+<w> It's </w> beautiful
+
+<$C> 
+<ICE-IND:S1A-029#80:1:C>
+I wish I could go to Kerala
+
+<$B> 
+<ICE-IND:S1A-029#81:1:B>
+Yeah you should <,>
+
+<ICE-IND:S1A-029#82:1:B>
+You should really come
+
+<$A> 
+<ICE-IND:S1A-029#83:1:A>
+<{> <[> And </[> I welcome you to Kerala
+
+<$C> 
+<ICE-IND:S1A-029#84:1:C>
+<[> Okay </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#85:1:B>
+Yeah <{> <[> really </[>
+
+<$A> 
+<ICE-IND:S1A-029#86:1:A>
+<[> Really </[> </{> <,> there is <{> <[> now </[> it is more
+
+<$B> 
+<ICE-IND:S1A-029#87:1:B>
+<[> And </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#88:1:B>
+You you have been never been you have never been to Kerala <,> ?
+
+<$C> 
+<ICE-IND:S1A-029#89:1:C>
+<w> I've </w> never been to Kerala
+
+<$A> 
+<ICE-IND:S1A-029#90:1:A>
+Surprising being so <,,> being in Madras and so close to
+Kerala you didn't get an oppurtunity <,> I think you didn't try it
+
+<$C> 
+<ICE-IND:S1A-029#91:1:C>
+But <w> I'm </w> sure I will go to Kerala sometime in the
+future <,>
+
+<$A> 
+<ICE-IND:S1A-029#92:1:A>
+Yeah you should try for it <,>
+
+<$B> 
+<ICE-IND:S1A-029#93:1:B>
+See it is monsoon time now <,> really it
+
+<$A> 
+<ICE-IND:S1A-029#94:1:A>
+Then it then it is <,> really monsoon time don't come to <w>
+that's </w> my advise <,>
+
+<ICE-IND:S1A-029#95:1:A>
+Don't come to Kerala ever if <w> it's </w> raining because <,>
+there it rains heavily no <,>
+
+<ICE-IND:S1A-029#96:1:A>
+And oh the whole place and <,> <w> it's </w> not water will go out
+<w> it's </w> alright <,> but the whole place you know , <{1> <[1> there it
+rains </[1> so heavily and it rains continously for three to <,> <{2> <[2>
+four four days </[2> sometime <,> sometimes the rain won't stop <,>
+
+<ICE-IND:S1A-029#97:1:A>
+I mean <,> it will not stop for one week
+
+<ICE-IND:S1A-029#98:1:A>
+The whole week <,> it will go on rain
+
+<$B> 
+<ICE-IND:S1A-029#99:1:B>
+<[1> <O> one or two words </O> </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-029#100:1:B>
+<[2> <O> A few words </O> </[2> </{2>
+
+<$B> 
+<ICE-IND:S1A-029#101:1:B>
+All the rivers will be full <indig> na </indig>
+
+<$A> 
+<ICE-IND:S1A-029#102:1:A>
+Swollen and
+
+<$B> 
+<ICE-IND:S1A-029#103:1:B>
+And our place is really near a <.> ma </.> dam <{> <[> called
+</[> <O> one word </O>
+
+<$A> 
+<ICE-IND:S1A-029#104:1:A>
+<[> Dam </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#105:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-029#106:1:B>
+And uhm <,> in <?> Malambur </?> river <,> <w> it's </w>
+difficult to cross <?> Melambura </?> river no <,>
+
+<ICE-IND:S1A-029#107:1:B>
+So the dam gets filled up this time
+
+<ICE-IND:S1A-029#108:1:B>
+And they open the shutter <,> top shutter
+
+<$A> 
+<ICE-IND:S1A-029#109:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-029#110:1:B>
+Then <w> it's </w> really beautiful to see
+
+<$A> 
+<ICE-IND:S1A-029#111:1:A>
+Beautiful <,>
+
+<$C> 
+<ICE-IND:S1A-029#112:1:C>
+That is it not dangerous when they open the shutter ?
+
+<$B> 
+<ICE-IND:S1A-029#113:1:B>
+No they will <,> intimate the <,>
+
+<$A> 
+<ICE-IND:S1A-029#114:1:A>
+Yeah <,> people who are staying nearby
+
+<$B> 
+<ICE-IND:S1A-029#115:1:B>
+Yeah on the day before <,> they will intimate it all
+
+<$A> 
+<ICE-IND:S1A-029#116:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-029#117:1:B>
+Put it in the papers they <?> told </?> the radio <,> <{1>
+<[1> yeah <,> that they are going to open the shutter <,> <{2> <[2> ahn <,>
+
+<ICE-IND:S1A-029#118:1:B>
+And the people will be evacuated
+
+<$A> 
+<ICE-IND:S1A-029#119:1:A>
+<[1> Yeah </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-029#120:1:A>
+<[2> Ahn </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-029#121:1:A>
+Will be alerted
+
+<$B> 
+<ICE-IND:S1A-029#122:1:B>
+So <{> <[> you </[> tell us something about Madras <,> ?
+
+<ICE-IND:S1A-029#123:1:B>
+Because <w> I've </w> been to Madras only <,,> the last one year
+
+<ICE-IND:S1A-029#124:1:B>
+I don't know much about it
+
+<$A> 
+<ICE-IND:S1A-029#125:1:A>
+<[> Are you </[> </{>
+
+<$C> 
+<ICE-IND:S1A-029#126:1:C>
+<{1> <[1> Well Madras </[1> is a city of temples <,,>
+
+<ICE-IND:S1A-029#127:1:C>
+There is a big lovely beach <,,> which tourist love to <{2> <[2>
+frequent </[2>
+
+<$A> 
+<ICE-IND:S1A-029#128:1:A>
+<[1> I have to see </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-029#129:1:B>
+<[2> Oh yes </[2> </{2> that we have all gone
+
+<ICE-IND:S1A-029#130:1:B>
+We all
+
+<$C> 
+<ICE-IND:S1A-029#131:1:C>
+That is the main attraction in Madras
+
+<$B> 
+<ICE-IND:S1A-029#132:1:B>
+Yes <,> we all visit and uh <O> one word </O> and all
+
+<$A> 
+<ICE-IND:S1A-029#133:1:A>
+Beaches
+
+<$B> 
+<ICE-IND:S1A-029#134:1:B>
+Yes <,>
+
+<$C> 
+<ICE-IND:S1A-029#135:1:C>
+Uh have you been to the temple which are on the beach <,> ?
+
+<$B> 
+<ICE-IND:S1A-029#136:1:B>
+Yes on the beach <,> uh I don't know <,>
+
+<ICE-IND:S1A-029#137:1:B>
+One <.> Maha </.>
+
+<$C> 
+<ICE-IND:S1A-029#138:1:C>
+Called Mahabalipuram
+
+<$B> 
+<ICE-IND:S1A-029#139:1:B>
+Yeah that <w> I've </w> seen <,>
+
+<ICE-IND:S1A-029#140:1:B>
+Lovely place really the <,> you should see the uh art what is
+called <,> the carving or <,> architecture of the temple
+
+<$C> 
+<ICE-IND:S1A-029#141:1:C>
+Really <w> it's </w> a lovely
+
+<ICE-IND:S1A-029#142:1:C>
+Have you been to there <,> ?
+
+<$A> 
+<ICE-IND:S1A-029#143:1:A>
+Yeah <w> I've </w> been <,> <{> <[> yes <,> long before <,>
+
+<ICE-IND:S1A-029#144:1:A>
+I don't remember much of it now
+
+<$C> 
+<ICE-IND:S1A-029#145:1:C>
+<[> Yes </[> </{>
+
+<$C> 
+<ICE-IND:S1A-029#146:1:C>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-029#147:1:A>
+I know I want to visit all <{> <[> those </[> places now
+
+<$C> 
+<ICE-IND:S1A-029#148:1:C>
+<[> Yeah </[> </{>
+
+<$C> 
+<ICE-IND:S1A-029#149:1:C>
+Yeah <,> we have a beautiful Mahabalipuram
+
+<$A> 
+<ICE-IND:S1A-029#150:1:A>
+So whenever I go to Madras I just visit my relatives place
+
+<$C> 
+<ICE-IND:S1A-029#151:1:C>
+And there is one more place near <.> Adv </.> <,> that
+Kanchipuram <,,>
+
+<ICE-IND:S1A-029#152:1:C>
+Kanchipuram temple is also very good <,>
+
+<ICE-IND:S1A-029#153:1:C>
+Very beautiful
+
+<$B> 
+<ICE-IND:S1A-029#154:1:B>
+Very beautiful temple <,,>
+
+<ICE-IND:S1A-029#155:1:B>
+And you get <,> one more attraction is you get lot of <indig>
+sarees </indig> <,> Kanchipuram <indig> sarees </indig> and all
+
+<$C> 
+<ICE-IND:S1A-029#156:1:C>
+Oh you are very fond of <indig> sarees </indig> <,> Vimala ?
+
+<$B> 
+<ICE-IND:S1A-029#157:1:B>
+Oh yes oh yes
+
+<$C> 
+<ICE-IND:S1A-029#158:1:C>
+Why don't you come over then ?
+
+<$B> 
+<ICE-IND:S1A-029#159:1:B>
+<O> laughs </O>
+
+<ICE-IND:S1A-029#160:1:B>
+Uhm where <,> ?
+
+<$C> 
+<ICE-IND:S1A-029#161:1:C>
+To Madras <,>
+
+<$B> 
+<ICE-IND:S1A-029#162:1:B>
+<w> I'm </w> in Madras <,>
+
+<ICE-IND:S1A-029#163:1:B>
+I stay in Madras <,> don't you know that <,>
+
+<$C> 
+<ICE-IND:S1A-029#164:1:C>
+Oh yes I forgot
+
+<$B> 
+<ICE-IND:S1A-029#165:1:B>
+<indig> Ayyah </indig> <,,>
+
+<$A> 
+<ICE-IND:S1A-029#166:1:A>
+Who doesn't loves <,> <indig> sarees </indig> <,> <{> <[>
+yeah <,> Kanchipuram <indig> sarees </indig> and <O> one word </O>
+
+<$B> 
+<ICE-IND:S1A-029#167:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#168:1:B>
+You don't love ?
+
+<$C> 
+<ICE-IND:S1A-029#169:1:C>
+Oh <w> I'm </w> not much interested in <,> <{> <[> dressing
+up </[>
+
+<$B> 
+<ICE-IND:S1A-029#170:1:B>
+<[> Of course </[> </{> you are not much <,> not much
+interested still I love
+
+<$A> 
+<ICE-IND:S1A-029#171:1:A>
+But you must be having some sort of an interest <,> ?
+
+<$B> 
+<ICE-IND:S1A-029#172:1:B>
+Yes <,> to dress beautifully <,,> so
+
+<$A> 
+<ICE-IND:S1A-029#173:1:A>
+Now that we have
+
+<$B> 
+<ICE-IND:S1A-029#174:1:B>
+What about the course that we are doing <,> ?
+
+<ICE-IND:S1A-029#175:1:B>
+You <,> tell me something <,> I am just scared of it
+
+<$A> 
+<ICE-IND:S1A-029#176:1:A>
+The course apart <,,> uh we are in Mysore I think <,,> uh
+apart from the course <,,> uhm about the place <w> I'm </w> very
+
+<$B> 
+<ICE-IND:S1A-029#177:1:B>
+You don't like <,> you are not interested in the course
+
+<$A> 
+<ICE-IND:S1A-029#178:1:A>
+Of course <w> I'm </w> interested in the course <,> <{> <[>
+yes <,> <w> that's </w> why we are here
+
+<$B> 
+<ICE-IND:S1A-029#179:1:B>
+<[> Yes </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#180:1:B>
+<O> A few words </O>
+
+<$C> 
+<ICE-IND:S1A-029#181:1:C>
+<w> I'm </w> also <,> <w> I'm </w> also very much interested
+but
+
+<$B> 
+<ICE-IND:S1A-029#182:1:B>
+But <w> I'm </w> scared of <,> as to <,> how we are going to
+perform <,,>
+
+<ICE-IND:S1A-029#183:1:B>
+How you are going to do the examination
+
+<$C> 
+<ICE-IND:S1A-029#184:1:C>
+I find the course very interesting
+
+<$B> 
+<ICE-IND:S1A-029#185:1:B>
+Very interesting <,> yeah
+
+<$C> 
+<ICE-IND:S1A-029#186:1:C>
+<w> It's </w> something that we have not experienced before
+
+<$B> 
+<ICE-IND:S1A-029#187:1:B>
+Yes <,> and also the life that we are <,,> uh we spent here
+<w> that's </w> also
+
+<$C> 
+<ICE-IND:S1A-029#188:1:C>
+We are all together <{> <[> that peaceful uh <O> one word
+</O> </[>
+
+<$B> 
+<ICE-IND:S1A-029#189:1:B>
+<[> Very memorable very memorable </[> </{> yeah
+
+<$A> 
+<ICE-IND:S1A-029#190:1:A>
+Apart from the course <w> I'm </w> <,> I like to be in a new
+place
+
+<ICE-IND:S1A-029#191:1:A>
+I like meeting people
+
+<$B> 
+<ICE-IND:S1A-029#192:1:B>
+Yes <w> that's </w> also <,> <{> <[> and <,> <w> that's </w>
+also there is an opportunity we get <{1> <[1> and we can uh meet </[1> <,> so
+many <,> <{2> <[2> experienced teachers </[2> and we can get the opinion <,>
+all those things are there
+
+<$A> 
+<ICE-IND:S1A-029#193:1:A>
+<[> And </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#194:1:A>
+<[1> Yes an opportunity </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-029#195:1:A>
+<[2> Experienced teachers </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-029#196:1:A>
+We can be among the people <,> <{> <[> yes <,> of <,> who
+matters <,> nice meeting lot of ladies <,>
+
+<$B> 
+<ICE-IND:S1A-029#197:1:B>
+<[> Yes </[> </{>
+
+<$C> 
+<ICE-IND:S1A-029#198:1:C>
+After coming here did you visit any place of Mysore ?
+
+<$A> 
+<ICE-IND:S1A-029#199:1:A>
+No <,> I want <,> I want to visit
+
+<ICE-IND:S1A-029#200:1:A>
+We should go one day
+
+<$C> 
+<ICE-IND:S1A-029#201:1:C>
+One day we should go
+
+<$B> 
+<ICE-IND:S1A-029#202:1:B>
+Why don't we go after the exam <,>
+
+<$C> 
+<ICE-IND:S1A-029#203:1:C>
+After the exam
+
+<$A> 
+<ICE-IND:S1A-029#204:1:A>
+But I
+
+<$C> 
+<ICE-IND:S1A-029#205:1:C>
+We won't be having time
+
+<$A> 
+<ICE-IND:S1A-029#206:1:A>
+I intent to leave on the same day <,> because I
+
+<$B> 
+<ICE-IND:S1A-029#207:1:B>
+I think before uh <{> <[> the </[> exam starts
+
+<$C> 
+<ICE-IND:S1A-029#208:1:C>
+<[> Yes </[> </{>
+
+<$C> 
+<ICE-IND:S1A-029#209:1:C>
+<{> <[> One <,> one Sunday </[> <,> one Sunday we can go
+
+<$B> 
+<ICE-IND:S1A-029#210:1:B>
+<[> We should <O> one word </O> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#211:1:B>
+On Sunday we can have an outing
+
+<$C> 
+<ICE-IND:S1A-029#212:1:C>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-029#213:1:A>
+Yes I
+
+<$C> 
+<ICE-IND:S1A-029#214:1:C>
+<{> <[> Not so far </[> away I think <,> this palace and all
+<,>
+
+<ICE-IND:S1A-029#215:1:C>
+You can just go
+
+<$B> 
+<ICE-IND:S1A-029#216:1:B>
+<[> What about uh </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#217:1:A>
+Have you been before to the palace <,> Asha ?
+
+<$C> 
+<ICE-IND:S1A-029#218:1:C>
+No <,> this is my first visit to Mysore <,> <{> <[> I see <,>
+
+<ICE-IND:S1A-029#219:1:C>
+I have not been to Mysore before
+
+<$A> 
+<ICE-IND:S1A-029#220:1:A>
+<[> I see </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#221:1:A>
+I have seen Brindavan Palace and all I have seen before <,>
+but still I want to go there <,>
+
+<ICE-IND:S1A-029#222:1:A>
+They are all lovely
+
+<$B> 
+<ICE-IND:S1A-029#223:1:B>
+When I was in college we had come to a tour
+
+<$A> 
+<ICE-IND:S1A-029#224:1:A>
+We even I <,>
+
+<ICE-IND:S1A-029#225:1:A>
+We were when we were studying <,> <{> <[> you had come <,,>
+Banglore and Mysore <,>
+
+<ICE-IND:S1A-029#226:1:A>
+And so we had been to all these Chamundi Hill and all that <,>
+
+<ICE-IND:S1A-029#227:1:A>
+So if I go there now <w> I'll </w> be reminded of my college days
+
+<$C> 
+<ICE-IND:S1A-029#228:1:C>
+<[> You had come </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#229:1:B>
+Oh yes
+
+<$A> 
+<ICE-IND:S1A-029#230:1:A>
+And <{> <[> yet </[>
+
+<$B> 
+<ICE-IND:S1A-029#231:1:B>
+<[> And </[> </{> I have taken photographs of that <indig>
+Nandi </indig> <,> Chamundi hills <indig> na </indig>
+
+<$A> 
+<ICE-IND:S1A-029#232:1:A>
+We too have <{> <[> one photo </[>
+
+<$B> 
+<ICE-IND:S1A-029#233:1:B>
+<[> Yeah </[> </{>
+
+<$C> 
+<ICE-IND:S1A-029#234:1:C>
+Can you tell me <{> <[> something more </[> about Chamundi
+hills ?
+
+<$B> 
+<ICE-IND:S1A-029#235:1:B>
+<[> And once once I </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#236:1:B>
+Yeah one statue <,> <w> that's </w> very famous <,> one
+statue <,> one statue of a man <,> who I don't know who his son <,> <{> <[>
+<O> one word </O> <,> ah yeah
+
+<$A> 
+<ICE-IND:S1A-029#237:1:A>
+<[> <O> One word </O> </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#238:1:A>
+Because he is <,> he is a sort of guard or something <,> <{>
+<[> ah <,> like that he is
+
+<$B> 
+<ICE-IND:S1A-029#239:1:B>
+<[> Ah </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#240:1:A>
+Yeah <{> <[> the temple is </[>
+
+<$B> 
+<ICE-IND:S1A-029#241:1:B>
+<[> And very big </[> </{> <,> big statue
+
+<ICE-IND:S1A-029#242:1:B>
+So that <,> statue is very interesting <,>
+
+<$C> 
+<ICE-IND:S1A-029#243:1:C>
+Tell me something about the palaces <,> I have not seen any
+palace <,>
+
+<$B> 
+<ICE-IND:S1A-029#244:1:B>
+<w> We'll </w> go one day
+
+<$A> 
+<ICE-IND:S1A-029#245:1:A>
+Yeah <w> we'll </w> go one day <,> and you will see for <{>
+<[> yourself </[>
+
+<$C> 
+<ICE-IND:S1A-029#246:1:C>
+<[> And </[> </{> what about this Maharani Arts college <,> ?
+
+<ICE-IND:S1A-029#247:1:C>
+Was it a palace before <,> ?
+
+<$B> 
+<ICE-IND:S1A-029#248:1:B>
+This one I don't know
+
+<$A> 
+<ICE-IND:S1A-029#249:1:A>
+<{> <[> I don't know </[>
+
+<$B> 
+<ICE-IND:S1A-029#250:1:B>
+<[> I don't know </[> </{> but <,,> may be <,,>
+
+<ICE-IND:S1A-029#251:1:B>
+Or I don't know may be it was a building <,,>
+
+<$A> 
+<ICE-IND:S1A-029#252:1:A>
+One of the building they look quite old <,> <{> <[> yeah <,>
+and it looked <{> <[> like </[> a
+
+<$B> 
+<ICE-IND:S1A-029#253:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#254:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#255:1:B>
+It is not a palace and even may be it was built <,> during
+the time of British <,> <{> <[> British <,> may be because these pillars and
+all no
+
+<$A> 
+<ICE-IND:S1A-029#256:1:A>
+<[> British </[> </{>
+
+<$C> 
+<ICE-IND:S1A-029#257:1:C>
+The sprawling grounds are lovely <,,>
+
+<$A> 
+<ICE-IND:S1A-029#258:1:A>
+Yes <,,>
+
+<$B> 
+<ICE-IND:S1A-029#259:1:B>
+Yeah there is lot of Mysore is a <.> lo </.> beautiful place
+<,,> lot of breeze <O> one word </O> garden
+
+<$C> 
+<ICE-IND:S1A-029#260:1:C>
+And the climate is also very pleasant
+
+<$A> 
+<ICE-IND:S1A-029#261:1:A>
+Very pleasant
+
+<$C> 
+<ICE-IND:S1A-029#262:1:C>
+Very pleasant climate <,,>
+
+<$B> 
+<ICE-IND:S1A-029#263:1:B>
+Especially to those who have been in Madras <,>
+
+<$C> 
+<ICE-IND:S1A-029#264:1:C>
+Uhm yes <,,> that is it
+
+<$A> 
+<ICE-IND:S1A-029#265:1:A>
+You have a <,,> dry weather in <,> Madras <,,>
+
+<$B> 
+<ICE-IND:S1A-029#266:1:B>
+Yes very dry and
+
+<$C> 
+<ICE-IND:S1A-029#267:1:C>
+<w> It's </w> very warm now <,>
+
+<ICE-IND:S1A-029#268:1:C>
+And we don't get so much rain you know as you get here in Mysore
+or in Kerala like that <,> <{> <[> we know <,> see <w> it's </w> very <,> <w>
+that's </w> why this scarcity of water is <,> a problem no
+
+<$B> 
+<ICE-IND:S1A-029#269:1:B>
+<[> We know </[> </{>
+
+<$B> 
+<ICE-IND:S1A-029#270:1:B>
+You sweat a lot <,> and that is <O> one word </O>
+
+<$A> 
+<ICE-IND:S1A-029#271:1:A>
+Do you have <.> wa wa </.> water scarcity problem also
+
+<$C> 
+<ICE-IND:S1A-029#272:1:C>
+Yes <,,> during summer the water scarcity
+
+<$B> 
+<ICE-IND:S1A-029#273:1:B>
+Yeah then it becomes very <{> <[> <O> one word </O> </[>
+
+<$C> 
+<ICE-IND:S1A-029#274:1:C>
+<[> Very acute </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#275:1:A>
+I have heard that the water comes in truckloads
+
+<$C> 
+<ICE-IND:S1A-029#276:1:C>
+Yes <,>
+
+<$B> 
+<ICE-IND:S1A-029#277:1:B>
+Yes <,>
+
+<$C> 
+<ICE-IND:S1A-029#278:1:C>
+Yes even now they are doing like that <,> <{> <[> <O> one
+word </O> <,> and you have to buy water <,>
+
+<$A> 
+<ICE-IND:S1A-029#279:1:A>
+<[> <O> One word </O> </[> </{>
+
+<$A> 
+<ICE-IND:S1A-029#280:1:A>
+Oh you <{> <[> have to pay </[>
+
+<$C> 
+<ICE-IND:S1A-029#281:1:C>
+<[> You have to buy </[> </{> yeah two hundred <indig> rupees
+</indig> and all one tanker <,> you get <,>
+
+<ICE-IND:S1A-029#282:1:C>
+And you have to fill it <,> <{> <[> you fill your tank </[> and
+you can use it for atleast <,> atleast one week no
+
+<$A> 
+<ICE-IND:S1A-029#283:1:A>
+<[> In your tank </[> </{> </I>

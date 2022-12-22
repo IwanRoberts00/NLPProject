@@ -1,0 +1,92 @@
+<text.info>
+       <file.description>
+                <textcode>ICE-IND-W1B-019</textcode>
+                <number.of.subtexts>001</number.of.subtexts>
+                <category>non-printed:correspondence:business
+                  letters</category>
+                <wordcount>2220</wordcount>
+                <version>lexical</version>
+                <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1B-019a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>09-01-91</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-019a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>23-03-90</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-019a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>19-02-91</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-019a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>17-08-95</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-019a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>18-10-97</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-019a>
+       <source.type=letter>
+                <format>typed</format>
+                <date>30-06-98</date>
+                <copyright.statement>reproduced by permission
+                  of respective person</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1B-019</it>>
+            <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1B-019(All)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Kadam</surname>
+                <forenames>Vasant S.</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Kolhapur, Maharashtra</birthplace>
+                <education>University of Pune</education>
+               
+<educational.level>Doctorate</educational.level>
+                <occupation>University Teacher</occupation>
+                <affiliations>Indian History
+                  Congress</affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments>Moved to Pune in (1960-62),
+                  Kolhapur (1962 to date)</free.comments>
+       </biography>
+</text.info>

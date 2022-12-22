@@ -1,0 +1,70 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-023</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:popular:
+              natural sciences</category>
+            <wordcount>1805</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-023>
+        <source.type=monograph>
+            <source.title>Science Reporter</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol.28,No-8</series>
+        <publication.statement>
+            <publisher></publisher>
+            <address></address>
+            <place></place>
+            <date>August 1991</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+             publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-023</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Gamma-ray Astronomy: A Cosmic
+              Quest</main.title>
+            <subtitle></subtitle>
+            <page.nos>21-23 & 38</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-023</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Kaul</surname>
+                <forenames>R.K.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <biography=<it>ICE-IND-W2B-023</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role>Co-Author</communicative.role>
+                <surname>Kaul</surname>
+                <forenames>Phoola</forenames>
+                <age></age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

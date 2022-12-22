@@ -1,0 +1,133 @@
+<text.info>
+       <file.description>
+               <textcode>ICE-IND-W2E-002</textcode>
+               <number.of.subtexts>3</number.of.subtexts>
+               <category>printed:press editorials</category>
+               <wordcount>1884</wordcount>
+               <version>lexical</version>
+               <free.comments></free.comments>
+       </file.description>
+     <subtext.source=a>
+           <source.type=newspaper>
+                <source.title>Deccan Chronicle</source.title>
+                <scope>regional</scope>
+                <frequency>daily</frequency>
+                <circulation></circulation>
+           <publication.statement>
+                <publisher>Deccan Chronicle</publisher>
+                <address>36, S. D. Road, Secunderabad-
+                        500003</address>
+                <place>Secunderabad</place>
+                <date>29-03-90</date>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of
+                     Deccan Chronicle</copyright.statement>
+           <free.comments></free.comments>
+     </subtext.source>
+      <subtext.internals=<it>ICE-IND-W2E-002a</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Turmoil in the valley</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+     <biography=<it>ICE-IND-W2E-002a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <subtext.source=b>
+           <source.type=newspaper>
+                <source.title>Deccan Chronicle</source.title>
+                <scope>regional</scope>
+                <frequency>daily</frequency>
+                <circulation></circulation>
+           <publication.statement>
+                <publisher>Deccan Chronicle</publisher>
+                <address>36, S. D. Road, Secunderabad-
+                        500003</address>
+                <place>Secunderabad</place>
+                <date>08-08-90</date>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of
+                     Deccan Chronicle</copyright.statement>
+           <free.comments></free.comments>
+     </subtext.source>
+      <subtext.internals=<it>ICE-IND-W2E-002b</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Whither Pakistan?</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+     <biography=<it>ICE-IND-W2E-002b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <subtext.source=c>
+           <source.type=newspaper>
+                <source.title>Deccan Chronicle</source.title>
+                <scope>regional</scope>
+                <frequency>daily</frequency>
+                <circulation></circulation>
+           <publication.statement>
+                <publisher>Deccan Chronicle</publisher>
+                <address>36, S. D. Road, Secunderabad-
+                        500003</address>
+                <place>Secunderabad</place>
+                <date>25-09-90</date>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of
+                     Deccan Chronicle</copyright.statement>
+           <free.comments></free.comments>
+     </subtext.source>
+      <subtext.internals=<it>ICE-IND-W2E-002c</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Saddam's belligerence</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+     <biography=<it>ICE-IND-W2E-002c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

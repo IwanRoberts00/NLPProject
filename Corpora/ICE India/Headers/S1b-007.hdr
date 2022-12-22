@@ -1,0 +1,50 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-007</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:class lessons</category>
+            <wordcount>2465</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-007>
+     <source.type=Dialogue:public:class lessons>
+     <recording.data>
+            <date>19-11-92</date>
+            <time>12.20pm</time>
+            <place>New English School, Poona</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-007</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>40 students</no.of.participants>
+            <relationship>disparates</relationship>
+            <free.comments>The students were minor hence extra
+                 corpus speakers</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-007</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Deshpande</surname>
+            <forenames>Medha</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

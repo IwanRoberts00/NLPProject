@@ -1,0 +1,478 @@
+<I>
+
+<ICE-IND:W2A-029#1:1>
+<h> PHENOL METABOLISM IN RELATION TO IAA CONTENT, NODULATION <&>
+centered </&> AND NITROGEN FIXATION IN ROOT NODULES OF LEGUMINOUS <&>
+centered </&> TREES </h> <&> authors centered </&>
+
+<ICE-IND:W2A-029#2:1>
+T.K. DANGAR AND P.S. BASU Department of Botany, University of Burdwan,
+Golapbag, Burdwan - 713104 <&> centered </&> <O> Received on 13 Dec, 1990
+</O> <&> centered </&>
+
+<ICE-IND:W2A-029#3:1>
+SUMMARY
+
+<p> 
+<ICE-IND:W2A-029#4:1>
+The levels of free phenols ( total and monohydroxy ) and their
+polymerization by peroxidase and polyphenol oxidase varied seasonally, and in
+between the nodules and roots of <it> <foreign> Butea monosperma and
+Pterocarpus marsupium </foreign> . </it>
+
+<ICE-IND:W2A-029#5:1>
+The nodules and roots contained more free phenols during rainy season
+and lesser in the winter.
+
+<ICE-IND:W2A-029#6:1>
+Polymerization of phenols was less in the rainy season and was
+increased gradually afterwards.
+
+<ICE-IND:W2A-029#7:1>
+Higher levels of total, monohydroxy and polymerized phenols were
+recorded in the nodules than the roots of <it> <foreign> P. marsupium
+</foreign> </it> and <it> vice versa </it> in those of <it> B. monosperma.
+</it>
+
+<ICE-IND:W2A-029#8:1>
+Phenol oxidase of some tissues did not show opposite relations with
+phenols throughout the year.
+
+<ICE-IND:W2A-029#9:1>
+The free phenol levels changed parallel to IAA levels and nitrogenase
+activity in the nodules.
+
+<ICE-IND:W2A-029#10:1>
+Leghaemoglobin content of nodules did not change significantly
+throughout the year. </p> <&> centered </&>
+
+<ICE-IND:W2A-029#11:1>
+INTRODUCTION
+
+<p> 
+<ICE-IND:W2A-029#12:1>
+The phenolic substances regulate some of the metabolic functions
+of plants ( Schneider and Wightman, 1974 ) including root nodules of
+leguminous herbs ( Pate, 1958; Vance, 1978 ) .
+
+<ICE-IND:W2A-029#13:1>
+The monohydroxy phenols ( 2, 4 dichlorophenol) promote, and dihydroxy
+and polyphenols ( gossypol, chlorogenic acid, kaempferol etc. ) inhibit IAA
+oxidase activity ( Stafford, 1974 ) .
+
+<ICE-IND:W2A-029#14:1>
+But regulation of phenol metabolism in root nodules and roots of
+leguminous trees, and its relation with nitrogenase activity in different
+seasons were not studied.
+
+<ICE-IND:W2A-029#15:1>
+Besides, most of the studies on phenol metabolism are based on
+colorimetric estimation of chromogenic groups which does not reflect the
+degree of polymerization of phenols i.e. the availability of free monomers.
+
+<ICE-IND:W2A-029#16:1>
+So, the conclusions drawn based only on colorimetric studies reflects
+incomplete idea <O> <&> page </&> 115 </O> on phenol ( Siegel and Enns, 1979 )
+and their relations with other metabolic processes. </p>
+
+<p> 
+<ICE-IND:W2A-029#17:1>
+Considering the above limitations, the availability of free
+functional groups and the degree of polymerization of phenols were studied
+simultaneously in the root nodules and roots of two hetherto unexplored
+leguminous trees viz. <it> <foreign> Pterocarpus marsupium </foreign> </it>
+<foreign> Roxb. </foreign> and <it> <foreign> Butea monosperma </foreign>
+</it> ( Lam. ) Taub. to enlighten the role of phenol metabolism on regulation
+of IAA metabolism, nodulation and nitrogen fixation in leguminous trees. </p>
+<&> centered </&>
+
+<ICE-IND:W2A-029#18:1>
+<h> MATERIALS AND METHODS </h>
+
+<p> 
+<ICE-IND:W2A-029#19:1>
+The nodules and roots of <it> <foreign> P. marsupium and B.
+monosperma </foreign> </it> were collected from the plants growing naturally
+within the campus of the Burdwan University, West Bengal.
+
+<ICE-IND:W2A-029#20:1>
+Except rainy seaon, the basins of the plants were watered @ 80 1 /
+sq.m. on every 4th day during the winter and summer seasons, and on every 6th
+day during the post-rainy sseason to maintain a 22 %<*>plus or minus</*>3
+moisture level in the soil.
+
+<ICE-IND:W2A-029#21:1>
+The basin soil was nurtured after 2d of watering and during the dry
+spells of the rainy season to loosen the soil.
+
+<ICE-IND:W2A-029#22:1>
+Under these cultural practices, the nodules of any specific stage
+develop into uniform shape and size throughout the year.
+
+<ICE-IND:W2A-029#23:1>
+The nodules of <it> <foreign> P. marsupium </foreign> </it> were
+always spherical and those of <it> <foreign> B. monosperma </foreign> </it>
+became elongated and branched, to a limited extent, at maturity.
+
+<ICE-IND:W2A-029#24:1>
+The nodules of both the plants do not senesce from the base but as a
+whole. </p>
+
+<p> 
+<ICE-IND:W2A-029#25:1>
+The mature nodules were studied for the present communication.
+
+<ICE-IND:W2A-029#26:1>
+The fresh and finest roots were collected from the nodulated plants,
+washed throughly and observed under a microscope ( X20 ) to ascertain
+initiation of nodulation.
+
+<ICE-IND:W2A-029#27:1>
+The tips ( 2 mm) of the roots without nodule initials were removed
+and next 4-5 cm portions were used for the experiments. </p>
+
+<p> 
+<ICE-IND:W2A-029#28:1>
+Total phenol was estimated spectrophotometrically ( Bray and
+Thrope, 1954 ) as ferulic acid equivalents and monohydroxy phenol content (
+Emerson, 1943 ) as hydroxybenzonic acid equivalents.
+
+<ICE-IND:W2A-029#29:1>
+The UV absorption spectra of phenols were determined ( Stafford, 1960 )
+from portions of total phenol extracts. </p>
+
+<p> 
+<ICE-IND:W2A-029#30:1>
+IAA was extracted ( Sinha and Basu, 1981 ) from fresh nodules and
+roots ( 50g ) , chromatographed ( thrice ) with authentic IAA on TLC plates
+coated with silicagel G and developed with isopropanol : ammonia : water ( 10
+: 1 : 1, by volume ) .
+
+<ICE-IND:W2A-029#31:1>
+Chromogenic reagent ( Hamilton <it> et al, </it> 1961 ) was
+sprayed along the marker and comparing the pink spot ( R<sb>f</sb> 0.85) of
+the marker, developed after spraying, a gel band of R<sb>f</sb> 0.8 - - 0.9
+was scrapped off, eluted ( thrice ) in diethyl ether and evaporated in
+vacuum. </p> <O> <&> page </&> 116 </O>
+
+<p> 
+<ICE-IND:W2A-029#32:1>
+Extracted samples were methylated with diazomethane ( Rose and
+Bradbeer, 1971 ) and chromatographed in a Pye Unicam GC column ( temp.
+190<*>degrees</*>C, 40 ml / min N<sb>2</sb> as carrier gas).
+
+<ICE-IND:W2A-029#33:1>
+Samples were quantified comparing the peaks ( retention time 10.6 min )
+areas of extracted samples with those of known amount of authentic IAA.
+
+<ICE-IND:W2A-029#34:1>
+Experimental loss of IAA was calculated by running known amount of
+IAA parallelly with extraction of IAA from tissues and final results were
+rectified accordingly.
+
+<ICE-IND:W2A-029#35:1>
+Biological activity of the extracted samples were checked ( Basu and
+Tuli, 1972 ) . </p>
+
+<p> 
+<ICE-IND:W2A-029#36:1>
+IAA oxidase was extracted from fresh nodules and roots ( 1g ) and
+assyed following the method of ( Sinha and Basu, 1981 ) .
+
+<ICE-IND:W2A-029#37:1>
+Peroxidase and polyphenol oxidase enxymes of roots and nodules ( 200
+mg ) were extracted and measured at 420 nm ( Kar and Mishra, 1976 ) in terms
+of purpurogallin formation in 2 min.
+
+<ICE-IND:W2A-029#38:1>
+Protein content of the enzyme extracts were estimated ( Lowry <it> et
+al., </it> 1951 ) as bovine serum albumin equivalents. </p>
+
+<p> 
+<ICE-IND:W2A-029#39:1>
+Leghaemoglobin of nodules was extracted ( Vance, 1978 ) from
+fresh nodules.
+
+<ICE-IND:W2A-029#40:1>
+About 200 mg fresh, mature nodules were incubated in a 10 ml vial
+capped with a serum septa and incubated for 1-2h with air-acetylene ( 9 : 1 :
+: V : V ) mixture and ethylene was estimated comparing the values with those
+of the standard curve of ethylene. </p> <&> centered </&>
+
+<ICE-IND:W2A-029#41:1>
+<h> RESULTS </h>
+
+<p> 
+<ICE-IND:W2A-029#42:1>
+The total and monohydroxy ( Fig. 1 ) phenol contents were higher
+in the nodules than roots of <it> <foreign> P. marsupium </foreign> </it> but
+changed almost parallelly in all the seasons.
+
+<ICE-IND:W2A-029#43:1>
+Levels of phenols ( Fig. 1A, B ) were optimum in august ( rainy
+season) and minimum in February ( Winter ) .
+
+<ICE-IND:W2A-029#44:1>
+The phenols of the nodules and roots of <it> <foreign> B. monosperma
+</foreign> </it> followed the trends of changes of those of <it> <foreign> P.
+marsupium </foreign> </it> ( Fig. 1A, B ) .
+
+<ICE-IND:W2A-029#45:1>
+Unlike <it> <foreign> P. marsupium </foreign> </it> , the phenol
+contents in the nodules of <it> <foreign> B. monosperma </foreign> </it> were
+always lower than those of the roots.
+
+<ICE-IND:W2A-029#46:1>
+Between the two plants, the nodules of <it> <foreign> P. marsupium
+</foreign> </it> possessed more phenols than those of <it> <foreign> B.
+monosperma </foreign> </it> ( Fig. 1A, B ) . </p>
+
+<p> 
+<ICE-IND:W2A-029#47:1>
+The peroxidase ( Fig. 1C ) and polyphenol oxidase ( Fig. 1D )
+enzymes were more active in the roots than the nodules of <it> <foreign> P.
+marsupium </foreign> </it> and showed maximum and minimum levels of
+activities in summer ( May ) and rainy seasons ( August ) , respectively.
+
+<ICE-IND:W2A-029#48:1>
+Unlike <it> <foreign> P. marsupium </foreign> , </it> the phenol
+oxidase of <it> <foreign> B. monosperma </foreign> </it> was more active in
+the nodules than the roots and did not follow any common trend of variation.
+
+<ICE-IND:W2A-029#49:1>
+The phenol oxidase of nodules of <it> <foreign> B. monosperma
+</foreign> </it> was more active ( Fig. 1C ) in winter ( December / February ) .
+
+<ICE-IND:W2A-029#50:1>
+However, peroxidase activity of the roots of <it> <foreign> B.
+monosperma </foreign> </it> was more active in post-rainy seasons ( September )
+and polyphenol oxidase activity of the roots did not change significantly.
+</p> <O> <&> page </&> 117 </O> <O> figure 1. </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W2A-029#51:1>
+The UV difference spectra of the phenols of nodules of <it>
+<foreign> P. marsupium </foreign> </it> and roots of <it> <foreign> B.
+monosperma </foreign> </it> were higher than those of the respective roots
+and nodules ( Fig. 2A, B, C, D ) .
+
+<ICE-IND:W2A-029#52:1>
+Absorptions at lower UV zone ( 250 nm ) , were higher in the rainy
+season ( Fig. 2A ) , and in the following seasons it declined gradually (
+Fig. 2B, C, D ) .
+
+<ICE-IND:W2A-029#53:1>
+Contrary to these results, the absorptions at higher wavelengths (
+300, 350 nm ) were lower in the rainy season and increased gradually
+afterwards.
+
+<ICE-IND:W2A-029#54:1>
+Highest degree of polymerization of phenols ( complex polymeric
+phenols ) were recorded in the winter ( Fig. 2C ) when absorptions above 350
+nm remained almost unchanged. </p>
+
+<p> 
+<ICE-IND:W2A-029#55:1>
+The IAA levels and IAA oxidase activities changed oppositely in
+the nodules of <it> <foreign> P. marsupium </foreign> </it> and <it>
+<foreign> B. Monosperma. </foreign> </it>
+
+<ICE-IND:W2A-029#56:1>
+The IAA levels were higher and IAA oxidase <O> <&> page </&> 118 </O>
+<O> figure 2. </O> <O> caption </O> activities were lower in winter but were
+reversed in the rainy season ( Fig. 3A, B ) .
+
+<ICE-IND:W2A-029#57:1>
+The roots of the plants had minimum levels of IAA and higher IAA
+oxidase activities and the former did not change seasonally.
+
+<ICE-IND:W2A-029#58:1>
+The nitrogenase activity ( Fig. 4 ) changed parallelly with IAA level
+( Fig. 3A ) throughout the year and was comparatively less active in the
+nodules of <it> <foreign> B monosperma </foreign> </it> than that of <it>
+<foreign> P. marsupium. </foreign> </it>
+
+<ICE-IND:W2A-029#59:1>
+Leghaemoglobin contents ( Fig.4) of the nodules did not vary
+significantly in different seasons. </p> <&> centered </&>
+
+<ICE-IND:W2A-029#60:1>
+DISCUSSION
+
+<p> 
+<ICE-IND:W2A-029#61:1>
+During the rainy season ( August ) , lower peroxidase and
+polyphenol oxidase ( Fig. 1C & D ) activities in the nodules of <it>
+<foreign> P. marsupium </foreign> </it> and <it> <foreign> B. monosperma
+</foreign> </it> would polymerize lesser phenol units ( Fig. 2A ) resulting
+in increase of free total and monohydroxy ( Fig. 1B ) phenols ( Stafford,
+1974 ) and more absorption at lower UV ( 250 nm ) zone ( Fig. 1A & B ) (
+Siegel and Enns, 1979 ) .
+
+<ICE-IND:W2A-029#62:1>
+Higher levels of free phenols would provide more di and polyphenols
+and inhibit IAA oxidase activity in the <O> <&> page </&> 119 </O> <O> figure
+3. </O> <O> caption </O> nodules.
+
+<ICE-IND:W2A-029#63:1>
+Enhanced levels of IAA, lower IAA oxidase activity ( Fig. 3A & 3B )
+in the rainy season and no activity of IAA oxidase of the nodules of the
+plants support the view Lower degree of polymerization i.e. more absorption
+at 250 nm in the rainy season than the other seasons ( Fig. 2A, B, C, D )
+would be due to lowest activities of the phenol oxidases ( Fig. 1C, D ) .
+
+<ICE-IND:W2A-029#64:1>
+Following the rainy season, free phenols declined gradually to a
+minimum level upto the winter ( December-January ) through the post-rainy
+season ( October ) and concomitantly polymerization was increased i.e.
+absorption at 250 nm was declined but increased gradually from 350 nm (
+Fig. 2B, C ) .
+
+<ICE-IND:W2A-029#65:1>
+Corresponding to free and polymerized phenols the phenol oxidases
+also increased upto the winter.
+
+<ICE-IND:W2A-029#66:1>
+Free phenols started increasing again from the summer ( March ) , and
+the phenol oxidases and polymerization also changed accordingly.
+
+<ICE-IND:W2A-029#67:1>
+Unlike the nodules, regulation of phenol metabolism in the roots is
+unclear because the free phenols were not properly related with the
+polyphenol oxidase of <it> <foreign> P. marsupium </foreign> </it> and <it>
+<foreign> B. monosperma </foreign> </it> .
+
+<ICE-IND:W2A-029#68:1>
+Such discripancies might be due to indifferent expression of phenol
+oxidases <it> in vitro </it> and <it> in vivo </it> conditions ( Stafford,
+1974 ) . <O> <&> page </&> 120 </O> <O> figure 4. </O> <O> caption </O>
+
+<ICE-IND:W2A-029#69:1>
+Higher phenol levels in the nodules than the roots of <it> <foreign>
+P. marsupium </foreign> </it> and <it> vice versa </it> in <it> <foreign> B.
+monosperma </foreign> </it> would result from lower polyphenol oxidase in the
+respective tissues.
+
+<ICE-IND:W2A-029#70:1>
+Higher absorptions at 250 nm by the phenols of the nodules of <it>
+<foreign> P. marsupium </foreign> </it> and roots of <it> <foreign> B.
+monosperma </foreign> </it> conform with the observations.
+
+<ICE-IND:W2A-029#71:1>
+Variation in the synthesis of phenols in different tissues by
+phenylalanine ammonia lyase ( PAL ) and tyrosine ammonia lyase ( TAL ) (
+Stafford, 1974; Vance, 1978 ) would also cause differences of phenol levels.
+
+<ICE-IND:W2A-029#72:1>
+Higher phenol levels and lower polyphenol oxidase activity in the
+nodules of <it> <foreign> P. marsupium </foreign> </it> than <it> <foreign>
+B. monosperma </foreign> </it> implies that polymerized phenols should be
+lesser in the former but was higher throughout the year.
+
+<ICE-IND:W2A-029#73:1>
+Probably the <it> <foreign> in situ </foreign> </it> activities of
+phenol oxidases have not been expressed exactly after extraction and created
+confusion.
+
+<ICE-IND:W2A-029#74:1>
+More synthesis of phenols by PAL and TAL over polymerization in the
+nodules of <it> <foreign> P. marsupium </foreign> </it> than <it> <foreign>
+B. monosperma </foreign> </it> would also increase free phenols in the
+former.
+
+<ICE-IND:W2A-029#75:1>
+So, the results reveal that phenol metabolism can not be conjectured
+<O> <&> page </&> 121 </O> without simultaneous estimation of the functional
+groups, phenol oxidases and polymerization.
+
+<ICE-IND:W2A-029#76:1>
+It is expected that free phenols should be more in the nodules of the
+plants because they possess more IAA, lower oxidase activity than the
+respective roots ( Vance, 1978 ) .
+
+<ICE-IND:W2A-029#77:1>
+But lesser phenol level in the nodules than the roots of <it>
+<foreign> B. monosperma </foreign> </it> contradicts the proposition. </p>
+
+<p> 
+<ICE-IND:W2A-029#78:1>
+No change in leghaemoglobin ( LH ) ( Fig. 4 ) along with the
+variations in IAA andphenol metabolism, suggest that IAA metabolism imparts
+no significant effect on LH content of the nodules.
+
+<ICE-IND:W2A-029#79:1>
+Proliferation and initiation of nodulation, regulation of primary
+growth by IAA ( Dart, 1974, 1977; Vance 1983 ) and monophenols ( Dart, 1974;
+Subba Rao, 1977; Garg <it> et al </it> ., 1989 <}> <-> ) </- > <+> ( </+>
+</}> and accumulation of IAA ) inhibition of nodulation ) in the mature
+nodules; ( Charbonneau and Newcomb, 1985 ) support the idea.
+
+<ICE-IND:W2A-029#80:1>
+However, the changes of phenols and IAA metabolism in the mature
+nodules could be attributed to regulation of their physiological functions
+but any such function is expeced to change simultaneously with the IAA
+metabolism ( Charbonneau and Newcomb, 1985 ) .
+
+<ICE-IND:W2A-029#81:1>
+So, parallel changes of nitrogenase activity ( Fig. 4 ) with IAA and
+phenols but opposite relations with IAA oxidase and phenol oxidases indicate
+that they are interrelated.
+
+<ICE-IND:W2A-029#82:1>
+Unlike nodule initiation, growth and development, more IAA oxidation
+and mono phenols reduce while di and polyphenols enhance nitrogenase
+activity.
+
+<ICE-IND:W2A-029#83:1>
+So, in the rainy season, nitrogenase activity would be higher ( Fig.
+4 ) in the nodules of <it> <foreign> P. marsupium </foreign> </it> and <it>
+<foreign> B. monosperma </foreign> </it> because of low IAA oxidase activity
+Concomitantly, lower phenol oxidases would result less polymerization and
+provide more total free phenols <it> i.e. </it> more di and polyphenols to
+limit IAA oxidase activity and facilitate the function of nitrogenase.
+
+<ICE-IND:W2A-029#84:1>
+Higher IAA also induces LH genes ( Verma and Nadler, 1984 ) and
+maintain the LH level and increase nitrogenase activity in the rainy season.
+
+<ICE-IND:W2A-029#85:1>
+Though monophenols ( inhibitors of nitrogenase ) were also higher in
+the nodules in the rainy season ( Fig. 1B ) but their inhibitory effects
+would have been superseded by <?> di </?> and polyphenols.
+
+<ICE-IND:W2A-029#86:1>
+However, both promotive ( Rice and Parenti, 1967; Rice, 1971 ) and
+inhibitory ( Blum and Rice, 1969 ) effects of the phenols on the nitrogenase
+activity have been reported.
+
+<ICE-IND:W2A-029#87:1>
+Like the rainy season, in other seasons also, IAA and phenols are
+correlated with the nitrogenase activity.
+
+<ICE-IND:W2A-029#88:1>
+IAA also enhances the nitrogenase activity of <it> Nostoc </it> upto
+50 <*> mu</*>g / ml but inhibits above 100 <*> mu</*>g / ml ( Chaporkar and
+Gangawane, 1984). </p>
+
+<p> 
+<ICE-IND:W2A-029#89:1>
+So, it is evident from the observations that nitrogenase activity
+in the mature nodules of <it> <foreign> P. marsupium </foreign> </it> and
+<it> <foreign> B. monosperma </foreign> </it> is regulated by IAA and phenol
+metabolism. <O> <&> page </&> 122 </O>
+
+<ICE-IND:W2A-029#90:1>
+Nitrogenase activity changed parallelly with IAA and inversely with
+IAA oxidase activity.
+
+<ICE-IND:W2A-029#91:1>
+Phenol oxidases regulate free phenol levels and alters nitrogenase
+activity through IAA metabolism. </p> <&> centered </&>
+
+<ICE-IND:W2A-029#92:1>
+<bold> ACKNOWLEDGEMENT </bold>
+
+<p> 
+<ICE-IND:W2A-029#93:1>
+Financial assistance from <mention> CSIR </mention> , India is
+acknoledged. </p> </I>

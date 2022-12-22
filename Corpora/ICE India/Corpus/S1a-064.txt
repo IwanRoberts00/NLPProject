@@ -1,0 +1,1105 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-064#1:1:A>
+Hello <,> I am Usha <,>
+
+<$B> 
+<ICE-IND:S1A-064#2:1:B>
+And I am Rukmini <,,>
+
+<$A> 
+<ICE-IND:S1A-064#3:1:A>
+Say <,> tell whatever you want <,,>
+
+<$B> 
+<ICE-IND:S1A-064#4:1:B>
+You <{> <[> studied </[>
+
+<$A> 
+<ICE-IND:S1A-064#5:1:A>
+<[> Studied have </[> </{> you studied for <w> tomorrow's </w>
+paper <,>
+
+<$B> 
+<ICE-IND:S1A-064#6:1:B>
+Oh no I have to <,,>
+
+<$A> 
+<ICE-IND:S1A-064#7:1:A>
+And don't talk anything about the teachers <,,> because
+professor Patil will be reading about it <,,> <O> laughs </O>
+
+<ICE-IND:S1A-064#8:1:A>
+I am scared about grammar <,> what about you <,>
+
+<$B> 
+<ICE-IND:S1A-064#9:1:B>
+I am scared about linguistics <,> because we have to be very
+specific while writing the <,> answers we have to study the definitions and
+all that <,>
+
+<$A> 
+<ICE-IND:S1A-064#10:1:A>
+And I think grammar is worst <,>
+
+<$B> 
+<ICE-IND:S1A-064#11:1:B>
+But grammar we can apply what we have studied to something
+
+<$A> 
+<ICE-IND:S1A-064#12:1:A>
+Yeah but suppose we mistake <,> in the class
+
+<$B> 
+<ICE-IND:S1A-064#13:1:B>
+I will oppose <,> we will make mistakes
+
+<$A> 
+<ICE-IND:S1A-064#14:1:A>
+We will make mistakes
+
+<$B> 
+<ICE-IND:S1A-064#15:1:B>
+However we try good shot
+
+<$A> 
+<ICE-IND:S1A-064#16:1:A>
+<w> That's </w> what I am scared of <,,>
+
+<ICE-IND:S1A-064#17:1:A>
+What are you planning to do after you go to Hyderabad <,,>
+
+<$B> 
+<ICE-IND:S1A-064#18:1:B>
+After going there <,> actually I didn't want to go <,>
+
+<ICE-IND:S1A-064#19:1:B>
+They will force me to go <,> and after going there I have to go to
+the <,,> <O> two words </O> school <,,> and attend that uh <,> youth
+parliament <,>
+
+<$A> 
+<ICE-IND:S1A-064#20:1:A>
+How many days is the <,> <{> <[> two days <,,> Parliament
+
+<$B> 
+<ICE-IND:S1A-064#21:1:B>
+<[> Two days </[> </{>
+
+<$A> 
+<ICE-IND:S1A-064#22:1:A>
+<{> <[> Two days </[>
+
+<$B> 
+<ICE-IND:S1A-064#23:1:B>
+<[> Two days </[> </{> <,> July first and second <,>
+
+<$A> 
+<ICE-IND:S1A-064#24:1:A>
+And you booked your uh <,,> ticket from uh Hyderabad to <O>
+two words </O>
+
+<$B> 
+<ICE-IND:S1A-064#25:1:B>
+Bangalore <,>
+
+<$A> 
+<ICE-IND:S1A-064#26:1:A>
+Bangalore <,,>
+
+<ICE-IND:S1A-064#27:1:A>
+So when will you be joining school <,>
+
+<$B> 
+<ICE-IND:S1A-064#28:1:B>
+On uh fifth <,>
+
+<$A> 
+<ICE-IND:S1A-064#29:1:A>
+Fifth of July <,>
+
+<$B> 
+<ICE-IND:S1A-064#30:1:B>
+Fifth of July <,>
+
+<$A> 
+<ICE-IND:S1A-064#31:1:A>
+And your girl <,> daughter <,>
+
+<$B> 
+<ICE-IND:S1A-064#32:1:B>
+My girl is there in Bangalore <,>
+
+<ICE-IND:S1A-064#33:1:B>
+My husband is there <{> <[> mother is there </[> <,,>
+
+<$A> 
+<ICE-IND:S1A-064#34:1:A>
+<[> She is in Bangalore </[> </{>
+
+<$B> 
+<ICE-IND:S1A-064#35:1:B>
+So other day all of us will leave from Bangalore on fourth <,>
+
+<$A> 
+<ICE-IND:S1A-064#36:1:A>
+Uhm <,>
+
+<$B> 
+<ICE-IND:S1A-064#37:1:B>
+Fourth evening <,,>
+
+<$A> 
+<ICE-IND:S1A-064#38:1:A>
+And uh <,> then you can't take leave <indig> na </indig> <,>
+once you join there
+
+<$B> 
+<ICE-IND:S1A-064#39:1:B>
+Yeah <,> I cannot <,,>
+
+<$A> 
+<ICE-IND:S1A-064#40:1:A>
+I must say <,> in one way I am quite happy to go back to
+school but then <,> everything will start all at once <,>
+
+<$B> 
+<ICE-IND:S1A-064#41:1:B>
+And uh <{> <[> we cannot </[>
+
+<$A> 
+<ICE-IND:S1A-064#42:1:A>
+<[> House activities </[> </{> and teaching <,,> tests <,> you
+can't even take leave <,> exact
+
+<$B> 
+<ICE-IND:S1A-064#43:1:B>
+And once we start we cannot uh <,> no question of stopping in
+<{> <[> between also </[>
+
+<$A> 
+<ICE-IND:S1A-064#44:1:A>
+<[> No question of stop </[> </{>
+
+<ICE-IND:S1A-064#45:1:A>
+I thought actually that I would take some days off and <,> take a
+holiday but <w> it's </w> just not possible you know with <,,>
+
+<$B> 
+<ICE-IND:S1A-064#46:1:B>
+And uh what about your <,,> uh that official order regarding
+the <,,> consideration of this
+
+<$A> 
+<ICE-IND:S1A-064#47:1:A>
+No I don't have any such letter as yet <,,> for the time being
+I am only given a letter saying these three days <,> you know twenty-seven
+twenty-eight twenty-nine <,> <w> I'll </w> be considered on duty <,>
+
+<ICE-IND:S1A-064#48:1:A>
+But it seems Neeta has <,> Nivedita has uh <,> <{> <[> letter </[>
+
+<$B> 
+<ICE-IND:S1A-064#49:1:B>
+<[> Yeah </[> </{> she has got a copy <,> <{> <[> yeah <,> of
+her letter
+
+<ICE-IND:S1A-064#50:1:B>
+Please pass it on <,> because I have got one copy <,> uh this Uma
+wanted it
+
+<$A> 
+<ICE-IND:S1A-064#51:1:A>
+<[> Yeah </[> </{>
+
+<$A> 
+<ICE-IND:S1A-064#52:1:A>
+Yeah I know <,> even <w> I'll </w> send
+
+<ICE-IND:S1A-064#53:1:A>
+It is the same letter we got at Hyderabad
+
+<$B> 
+<ICE-IND:S1A-064#54:1:B>
+Yeah Hyderabad <,>
+
+<$A> 
+<ICE-IND:S1A-064#55:1:A>
+Oh then I have given a copy of that
+
+<$B> 
+<ICE-IND:S1A-064#56:1:B>
+This Geeta had given it to me
+
+<$A> 
+<ICE-IND:S1A-064#57:1:A>
+Yeah yeah got it <,> I had given a copy of that to school <,>
+but uh they have to get clarification about that <,>
+
+<$B> 
+<ICE-IND:S1A-064#58:1:B>
+Who <,> who has to get
+
+<$A> 
+<ICE-IND:S1A-064#59:1:A>
+The school authorities <,>
+
+<$B> 
+<ICE-IND:S1A-064#60:1:B>
+Yeah actually what happened <{> <[> was that in my case </[>
+
+<$A> 
+<ICE-IND:S1A-064#61:1:A>
+<[> Because that letter to me </[> </{> <w> it's </w> <?> true
+</?> copy
+
+<$B> 
+<ICE-IND:S1A-064#62:1:B>
+Yeah in my case what happened know <,> they send this to the
+Assistant Commissioner <,>
+
+<ICE-IND:S1A-064#63:1:B>
+And then a letter come from that Assistant Commissioner saying that
+<,> uh so many days can be treated as <{> <[> on duty </[> <,>
+
+<$A> 
+<ICE-IND:S1A-064#64:1:A>
+<[> On duty </[> </{> <,,>
+
+<ICE-IND:S1A-064#65:1:A>
+So you will be given <,> earned leave <{> <[> accordingly </[>
+
+<$B> 
+<ICE-IND:S1A-064#66:1:B>
+<[> Earned leave </[> </{> yeah <,>
+
+<$A> 
+<ICE-IND:S1A-064#67:1:A>
+<w> That's </w> what uh <,> even our principal wants to find
+out <,> but I think they won't find out <w> we'll </w> have to go back and
+set out <,,> start the whole thing <,,>
+
+<$B> 
+<ICE-IND:S1A-064#68:1:B>
+So he is not uh <,> he will not <,>
+
+<$A> 
+<ICE-IND:S1A-064#69:1:A>
+No no <,> I mean she is not refusing
+
+<$B> 
+<ICE-IND:S1A-064#70:1:B>
+Uhm <,>
+
+<$A> 
+<ICE-IND:S1A-064#71:1:A>
+But uh <,> she won't write to the Assistant Commissioner <{1>
+<[1> you know </[1> I mean <{2> <[2> unless I remind </[2> her <,>
+
+<$B> 
+<ICE-IND:S1A-064#72:1:B>
+<[1> Why why </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-064#73:1:B>
+<[2> I think <w> she's </w> will do </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-064#74:1:A>
+She will do it unless <,> only if I remind her <,>
+
+<$B> 
+<ICE-IND:S1A-064#75:1:B>
+How is she <,>
+
+<$A> 
+<ICE-IND:S1A-064#76:1:A>
+She is okay <,,> I mean <,> <O> laughs </O>
+
+<ICE-IND:S1A-064#77:1:A>
+No I tell you she rang me I mean know she has sent a letter <,>
+
+<$B> 
+<ICE-IND:S1A-064#78:1:B>
+Uhm
+
+<$A> 
+<ICE-IND:S1A-064#79:1:A>
+<{> <[> To </[> my house <,> and I was supposed to go on the
+sixteenth <,,> and it was for eleventh standard admission <,>
+
+<ICE-IND:S1A-064#80:1:A>
+Oh god <,,> I tell you <,,>
+
+<$B> 
+<ICE-IND:S1A-064#81:1:B>
+<[> Uh ha </[> </{>
+
+<$B> 
+<ICE-IND:S1A-064#82:1:B>
+Now what about the twelfth standard results <,>
+
+<$A> 
+<ICE-IND:S1A-064#83:1:A>
+God knows I don't have any idea <,> about school result
+
+<ICE-IND:S1A-064#84:1:A>
+I haven't been to school <,,>
+
+<$B> 
+<ICE-IND:S1A-064#85:1:B>
+I heard that in our shool <,,> the highest was eighty-four
+percent <,> the highest rank <,,>
+
+<$A> 
+<ICE-IND:S1A-064#86:1:A>
+But uh <{> <[> how did you </[> get the news <,>
+
+<ICE-IND:S1A-064#87:1:A>
+Oh letter
+
+<$B> 
+<ICE-IND:S1A-064#88:1:B>
+<[> <O> Two words </O> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-064#89:1:B>
+Not letter <,> before I came here no I went to our <w>
+prinicpal's </w> place and we had got the information from somewhere else
+
+<$A> 
+<ICE-IND:S1A-064#90:1:A>
+Uhm <,>
+
+<$B> 
+<ICE-IND:S1A-064#91:1:B>
+Like that I came to know <,>
+
+<$A> 
+<ICE-IND:S1A-064#92:1:A>
+Because <,> I haven't botherd to ring up school <,> and uh <,>
+secondly there is nobody staying near my house <,>
+
+<ICE-IND:S1A-064#93:1:A>
+Still I had asked Savita <indig> na </indig> her son is in our
+school eleventh satandard <,>
+
+<ICE-IND:S1A-064#94:1:A>
+Now in twelfth <,> he he could find out from the neighbours and all
+<,> but our <O> one word </O> must have forgotten also <,,>
+
+<ICE-IND:S1A-064#95:1:A>
+Everybody so worried about the exams and studies <,,>
+
+<$B> 
+<ICE-IND:S1A-064#96:1:B>
+Now today <{> <[> Grace </[> madam has aksed us to write that
+uh <,>
+
+<$A> 
+<ICE-IND:S1A-064#97:1:A>
+<[> Go back </[> </{>
+
+<$A> 
+<ICE-IND:S1A-064#98:1:A>
+Oh yeah <,> oh god <,> that
+
+<$B> 
+<ICE-IND:S1A-064#99:1:B>
+In about uh the <,>
+
+<$A> 
+<ICE-IND:S1A-064#100:1:A>
+We had suggested actually about practice teaching <,> to <,>
+our teachers only we had suggested that <,> that they should have you know
+first of all <,> some sort of a syllabus even for that <,>
+
+<ICE-IND:S1A-064#101:1:A>
+And the two teachers who teach <,> should <,> preferably teach as
+a pair <,>
+
+<ICE-IND:S1A-064#102:1:A>
+That is you know you start off a topic I continue and complete it
+or something
+
+<$B> 
+<ICE-IND:S1A-064#103:1:B>
+Yes <,>
+
+<$A> 
+<ICE-IND:S1A-064#104:1:A>
+Instead of like one doing <,,> composition and other doing
+poetry and thing like that <,>
+
+<ICE-IND:S1A-064#105:1:A>
+Certainly you can write that again in hour <,,>
+
+<$B> 
+<ICE-IND:S1A-064#106:1:B>
+Uh what <{> <[> day </[> uh <,> told was we talked about this
+to Julka madam <,>
+
+<$A> 
+<ICE-IND:S1A-064#107:1:A>
+<[> Study </[> </{>
+
+<$A> 
+<ICE-IND:S1A-064#108:1:A>
+Uhm <,>
+
+<$B> 
+<ICE-IND:S1A-064#109:1:B>
+And then uh <,> she was telling that uh <,,> this kind of a
+thing <,> would actually limit the scope of a teacher <,>
+
+<ICE-IND:S1A-064#110:1:B>
+Like if we prescribe a syllabus <,> we will have to adhere to the
+syllabus and so we cannot uh <,>
+
+<$A> 
+<ICE-IND:S1A-064#111:1:A>
+True <,> but see they are not very happy when we do poetry
+<,> or prose
+
+<$B> 
+<ICE-IND:S1A-064#112:1:B>
+Yes
+
+<$A> 
+<ICE-IND:S1A-064#113:1:A>
+Isn't it <,>
+
+<ICE-IND:S1A-064#114:1:A>
+So why not <.> nea </.> completely eliminate that all together
+<,,> because <,> one side you also have to see the learners <,>
+
+<ICE-IND:S1A-064#115:1:A>
+They have come for some particular course <,>
+
+<$B> 
+<ICE-IND:S1A-064#116:1:B>
+Yeah <O> one word </O>
+
+<$A> 
+<ICE-IND:S1A-064#117:1:A>
+And you are sort of just throwing anything at them which you
+<,> find conveninent <,> and then <,> plus the tutors are going to turn
+around and say that <,> of what use was this <,> to the learner
+
+<$B> 
+<ICE-IND:S1A-064#118:1:B>
+And at the same <,> no <w> that's </w> what she told when uh
+<,> a question was raised like this last time <,>
+
+<ICE-IND:S1A-064#119:1:B>
+I think others uh <,> proficiency classes by the faculty members
+<,> uhm it was started just <,> uh two years back <,>
+
+<ICE-IND:S1A-064#120:1:B>
+<w> It's </w> because of this <,,> some other participant they
+complained about this <,> and uh then they started <,> <O> one word </O> they
+started this particular <,>
+
+<$A> 
+<ICE-IND:S1A-064#121:1:A>
+Method
+
+<$B> 
+<ICE-IND:S1A-064#122:1:B>
+Uhm <,,>
+
+<$A> 
+<ICE-IND:S1A-064#123:1:A>
+Because such a <O> one word </O>
+
+<$B> 
+<ICE-IND:S1A-064#124:1:B>
+So <w> they'll </w> benefit out of the faculty teaching
+
+<$A> 
+<ICE-IND:S1A-064#125:1:A>
+Uhm <,>
+
+<$B> 
+<ICE-IND:S1A-064#126:1:B>
+And notes
+
+<$A> 
+<ICE-IND:S1A-064#127:1:A>
+But even that is not fair no <w> it's </w> like we use them
+for one hour as guinea pigs
+
+<$B> 
+<ICE-IND:S1A-064#128:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-064#129:1:A>
+Only for one hour they are taught by <,,> the other
+professors <,>
+
+<$B> 
+<ICE-IND:S1A-064#130:1:B>
+No this way what will happen is we could try out new
+techniques <,>
+
+<ICE-IND:S1A-064#131:1:B>
+Otherwise poetry or prose we follow the old method <,>
+
+<ICE-IND:S1A-064#132:1:B>
+Say we would uh <,> get other variety <,> you know like <,>
+writing skills there are so many you can teach them <,>
+
+<ICE-IND:S1A-064#133:1:B>
+And you may take up speaking skills listening skills <,> I think
+that area is big enough <,> yeah no <,>
+
+<$A> 
+<ICE-IND:S1A-064#134:1:A>
+Areas <{> <[> which have not been touched upon till now </[>
+
+<$B> 
+<ICE-IND:S1A-064#135:1:B>
+<[> <w> It's </w> not really as for <O> two words </O> </[>
+</{> yeah
+
+<$A> 
+<ICE-IND:S1A-064#136:1:A>
+You could easily do it <,> and that one month would really
+help them <,>
+
+<$B> 
+<ICE-IND:S1A-064#137:1:B>
+<w> It's </w> not only one month <,> <w> it's </w> a three
+week course which they have <,,>
+
+<$A> 
+<ICE-IND:S1A-064#138:1:A>
+And it will also give us the chance to try out new methods
+<,>
+
+<$B> 
+<ICE-IND:S1A-064#139:1:B>
+Uh I am not very sure how many will go back <,>
+
+<ICE-IND:S1A-064#140:1:B>
+Even means like I try out some methods <,> but with the time
+problem <,> always over there <,> you can't always have <,> all kinds of new
+methods to do <O> cough </O> <,,>
+
+<ICE-IND:S1A-064#141:1:B>
+So may be <,,> then secondly again like we had talked abot having
+only one practice teaching instead of two <,>
+
+<$A> 
+<ICE-IND:S1A-064#142:1:A>
+It seems before they had three
+
+<$B> 
+<ICE-IND:S1A-064#143:1:B>
+Yeah I know that
+
+<$A> 
+<ICE-IND:S1A-064#144:1:A>
+And Julka <w> ma'am </w> was telling that they were lucky
+because they could take the best two <,>
+
+<$B> 
+<ICE-IND:S1A-064#145:1:B>
+Best two <,>
+
+<$A> 
+<ICE-IND:S1A-064#146:1:A>
+Now here <,> <.> bu </.> but when we told that here we have
+to take only one
+
+<$B> 
+<ICE-IND:S1A-064#147:1:B>
+They should take <,> but they are not doing that
+
+<$A> 
+<ICE-IND:S1A-064#148:1:A>
+They they are not doing that
+
+<$B> 
+<ICE-IND:S1A-064#149:1:B>
+They want to combine both <,> and keep on the average
+
+<$A> 
+<ICE-IND:S1A-064#150:1:A>
+And people like me who got the first chance do you know it is
+really difficult for us <,>
+
+<$B> 
+<ICE-IND:S1A-064#151:1:B>
+Uhn <,> <w> that's </w> true <,>
+
+<$A> 
+<ICE-IND:S1A-064#152:1:A>
+No no
+
+<$B> 
+<ICE-IND:S1A-064#153:1:B>
+No then I think they could you know <,> either start the
+course a little earlier <,> and give us say three four days to get used to
+the idea <,,> or because though they send you material saying you must get
+ready for your lesson <,> when you don't know the learners <,>
+
+<$A> 
+<ICE-IND:S1A-064#154:1:A>
+I know
+
+<$B> 
+<ICE-IND:S1A-064#155:1:B>
+How <{> <[> will they prepare </[>
+
+<$A> 
+<ICE-IND:S1A-064#156:1:A>
+<[> And not only that </[> </{> they have told that they will
+help us with the materials if we don't have any materials with us <,>
+
+<ICE-IND:S1A-064#157:1:A>
+But here after having come here I don't think uh <{> <[> there was
+</[>
+
+<$B> 
+<ICE-IND:S1A-064#158:1:B>
+<[> Nothing was available </[> </{>
+
+<ICE-IND:S1A-064#159:1:B>
+The <{> <[> library was not available </[>
+
+<$A> 
+<ICE-IND:S1A-064#160:1:A>
+<[> Uhn library uhn </[> </{> library facility was not there
+
+<$B> 
+<ICE-IND:S1A-064#161:1:B>
+<w> It's </w> a big draw back <,> and specially Jaikar is
+quite a good library <,>
+
+<ICE-IND:S1A-064#162:1:B>
+So I think we should have had the chance <,,>
+
+<ICE-IND:S1A-064#163:1:B>
+Though how much reading we would have done is <}> <-> anybody </->
+<+> <w> anybody's </w> </+> </}> guess
+
+<$A> 
+<ICE-IND:S1A-064#164:1:A>
+Yeah <w> that's </w> what uh <,>
+
+<$B> 
+<ICE-IND:S1A-064#165:1:B>
+Again classes <,> bit too long I feel <,> five <w> O'clock
+</w> is tiring <,>
+
+<$A> 
+<ICE-IND:S1A-064#166:1:A>
+And what happens when special classes are taken in between
+
+<$B> 
+<ICE-IND:S1A-064#167:1:B>
+Uhm
+
+<$A> 
+<ICE-IND:S1A-064#168:1:A>
+Some two to three
+
+<$B> 
+<ICE-IND:S1A-064#169:1:B>
+Three and all <O> one word </O> <,,> very sad thing <,>
+
+<$A> 
+<ICE-IND:S1A-064#170:1:A>
+You have to go quite a long way from here <,>
+
+<$B> 
+<ICE-IND:S1A-064#171:1:B>
+Yeah quite a way <,>
+
+<$A> 
+<ICE-IND:S1A-064#172:1:A>
+Uhn <,>
+
+<$B> 
+<ICE-IND:S1A-064#173:1:B>
+Uhm <w> it's </w> an hours journey no <,> almost <,>
+
+<$A> 
+<ICE-IND:S1A-064#174:1:A>
+<{> <[> You have </[> one bus or you have to change the bus
+<,>
+
+<$B> 
+<ICE-IND:S1A-064#175:1:B>
+<[> <O> Two words </O> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-064#176:1:B>
+No I have to change because there is no direct bus <,> and
+specially <O> two words </O>
+
+<$A> 
+<ICE-IND:S1A-064#177:1:A>
+But <,> at what time you start from home in the morning <,>
+
+<$B> 
+<ICE-IND:S1A-064#178:1:B>
+Today I started at about eight <,,> eight quarter past eight
+because the exam is at ten <,>
+
+<ICE-IND:S1A-064#179:1:B>
+The exam the classes were at nine then I left home by about
+quarter to eight
+
+<$A> 
+<ICE-IND:S1A-064#180:1:A>
+Eight <,>
+
+<$B> 
+<ICE-IND:S1A-064#181:1:B>
+Okay <,> because it will be now in the school <,> they
+haven't started <,>
+
+<ICE-IND:S1A-064#182:1:B>
+And Marathi medium school timings are different so <w> it's </w>
+okay <,,>
+
+<ICE-IND:S1A-064#183:1:B>
+Otherwise <w> it's </w> a problem <,>
+
+<ICE-IND:S1A-064#184:1:B>
+Like for my own shcool I leave my house at half past seven <,,>
+
+<$A> 
+<ICE-IND:S1A-064#185:1:A>
+What about your school is it near your house
+
+<$B> 
+<ICE-IND:S1A-064#186:1:B>
+No not at all <,>
+
+<ICE-IND:S1A-064#187:1:B>
+The same distance my house to the University <,> the same distance
+from my house to the school <,>
+
+<$A> 
+<ICE-IND:S1A-064#188:1:A>
+Another direction <,>
+
+<$B> 
+<ICE-IND:S1A-064#189:1:B>
+Completely <,>
+
+<ICE-IND:S1A-064#190:1:B>
+Did you go to main street <,>
+
+<$A> 
+<ICE-IND:S1A-064#191:1:A>
+No no I have never <,> <{> <[> gone anywhere </[>
+
+<$B> 
+<ICE-IND:S1A-064#192:1:B>
+<[> You didn't go </[> </{> shopping anywhere <,>
+
+<$A> 
+<ICE-IND:S1A-064#193:1:A>
+No <,>
+
+<ICE-IND:S1A-064#194:1:A>
+I will be going on twenty-ninth <,> twenty-ninth evening <,>
+
+<$B> 
+<ICE-IND:S1A-064#195:1:B>
+When when is your train <,,>
+
+<$A> 
+<ICE-IND:S1A-064#196:1:A>
+Thirtieth <,,>
+
+<$B> 
+<ICE-IND:S1A-064#197:1:B>
+Thirtieth evening <,>
+
+<$A> 
+<ICE-IND:S1A-064#198:1:A>
+Thirtieth evening <,>
+
+<$B> 
+<ICE-IND:S1A-064#199:1:B>
+Oh ho so you have to stay one day more <,>
+
+<$A> 
+<ICE-IND:S1A-064#200:1:A>
+I will be staying in my cousins place
+
+<$B> 
+<ICE-IND:S1A-064#201:1:B>
+Uhm <,,>
+
+<$A> 
+<ICE-IND:S1A-064#202:1:A>
+So <,> her mother is here <,> she told <w> she'll </w> take
+me for shopping
+
+<$B> 
+<ICE-IND:S1A-064#203:1:B>
+Uhm
+
+<$A> 
+<ICE-IND:S1A-064#204:1:A>
+And then after that next day we are going for sight seeing
+<,,>
+
+<$B> 
+<ICE-IND:S1A-064#205:1:B>
+What about this <,> C I E F L Rama <w> Matthew's </w>
+evaluation <,>
+
+<$A> 
+<ICE-IND:S1A-064#206:1:A>
+Uhm <,> I think they are starting that uh <,> workshop from
+<,> July fifth <,>
+
+<$B> 
+<ICE-IND:S1A-064#207:1:B>
+Something like <O> two words </O> <,> this <w> Uma's </w> got
+a letter <,> my letter stuck in
+
+<$A> 
+<ICE-IND:S1A-064#208:1:A>
+I met Rama Matthew from here <,> uh she had come here
+actually <,>
+
+<$B> 
+<ICE-IND:S1A-064#209:1:B>
+When <,>
+
+<$A> 
+<ICE-IND:S1A-064#210:1:A>
+Uhm <,> during the <,> first week of her <,>
+
+<$B> 
+<ICE-IND:S1A-064#211:1:B>
+Course <,>
+
+<$A> 
+<ICE-IND:S1A-064#212:1:A>
+Uh course <,>
+
+<$B> 
+<ICE-IND:S1A-064#213:1:B>
+Uhm uhm <,> no I didn't meet her <,> when Rajni Badlani had
+also come <,>
+
+<$A> 
+<ICE-IND:S1A-064#214:1:A>
+I don't know who visited that time <,> uh she had gone to one
+of the classes <,,>
+
+<$B> 
+<ICE-IND:S1A-064#215:1:B>
+Uhm uhm <,,>
+
+<$A> 
+<ICE-IND:S1A-064#216:1:A>
+Uh <,>
+
+<$B> 
+<ICE-IND:S1A-064#217:1:B>
+You mean
+
+<$A> 
+<ICE-IND:S1A-064#218:1:A>
+<O> One word </O> lady with bobbed hair
+
+<$B> 
+<ICE-IND:S1A-064#219:1:B>
+Yeah yeah <,> <{> <[> fair very fair </[>
+
+<$A> 
+<ICE-IND:S1A-064#220:1:A>
+<[> That women </[> </{> no <,,>
+
+<ICE-IND:S1A-064#221:1:A>
+And uh <,> she drapes her <indig> saree </indig> like that
+
+<$B> 
+<ICE-IND:S1A-064#222:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-064#223:1:A>
+She doesn't <O> one word </O>
+
+<$B> 
+<ICE-IND:S1A-064#224:1:B>
+Exactly <{> <[> <w> she's </w> Rama Mathews </[> <,> she is
+Rama Mathew
+
+<$A> 
+<ICE-IND:S1A-064#225:1:A>
+<[> She is not very fair </[> </{>
+
+<$A> 
+<ICE-IND:S1A-064#226:1:A>
+She is Rama Matthew
+
+<$B> 
+<ICE-IND:S1A-064#227:1:B>
+I met her <,> at Hyderabad in December when we went for this
+uh <,,> the <{> <[> R P training </[> she had come over
+
+<$A> 
+<ICE-IND:S1A-064#228:1:A>
+<[> <O> Two words </O> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-064#229:1:B>
+It seems there is a letter which says that this workshop is
+some <{> <[> something <O> one word </O> you </[>
+
+<$A> 
+<ICE-IND:S1A-064#230:1:A>
+<[> No but its not </[> </{> compulsory <,> only if you <{>
+<[> want you can come </[>
+
+<$B> 
+<ICE-IND:S1A-064#231:1:B>
+<[> No <w> it's </w> not compulsory </[> </{> but <,> I would
+like to go definitely <,> <{> <[> but then </[>
+
+<$A> 
+<ICE-IND:S1A-064#232:1:A>
+<[> I told </[> </{> her <,> I will be in Hydrebad till
+second then she told you stay back for five more days <,>
+
+<ICE-IND:S1A-064#233:1:A>
+I told <w> that's </w> very difficult from <,> seventh May I have
+been travelling
+
+<$B> 
+<ICE-IND:S1A-064#234:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-064#235:1:A>
+<w> It's </w> really very difficult <,> I am sorry <,>
+
+<ICE-IND:S1A-064#236:1:A>
+She told okay <,> <w> it's </w> okay uh any way you have done this
+much <,,>
+
+<$B> 
+<ICE-IND:S1A-064#237:1:B>
+I didn't do much you know <,> I only did two uh <.> ob </.>
+uh observations
+
+<$A> 
+<ICE-IND:S1A-064#238:1:A>
+You sent the second one <,>
+
+<$B> 
+<ICE-IND:S1A-064#239:1:B>
+I sent both <,> yeah both I sent <,>
+
+<ICE-IND:S1A-064#240:1:B>
+But I couldn't observe any uh <,> old class change <,>
+
+<$A> 
+<ICE-IND:S1A-064#241:1:A>
+Uh even I <O> one word </O>
+
+<$B> 
+<ICE-IND:S1A-064#242:1:B>
+It isn't possible only the new nine <,>
+
+<ICE-IND:S1A-064#243:1:B>
+And <,> our school is also not so near to any other school you
+know <,> and with <,> the main problem is that board exam is on my head <,>
+so what happens is I cannot take a half day off and go and observe in other
+schools <,>
+
+<ICE-IND:S1A-064#244:1:B>
+But like this year if <,> I have to do it <,> I will try to be a
+little bit more systematic <,>
+
+<ICE-IND:S1A-064#245:1:B>
+Secondly more time <,> that we came to know
+
+<$A> 
+<ICE-IND:S1A-064#246:1:A>
+So this year there will be tenth standard observation also
+<,,>
+
+<$B> 
+<ICE-IND:S1A-064#247:1:B>
+For the new tenth
+
+<$A> 
+<ICE-IND:S1A-064#248:1:A>
+For the new
+
+<$B> 
+<ICE-IND:S1A-064#249:1:B>
+And the new nineth
+
+<$A> 
+<ICE-IND:S1A-064#250:1:A>
+She told the materials will be sent by the <,> end of July
+
+<$B> 
+<ICE-IND:S1A-064#251:1:B>
+Uhm <,> no <w> that's </w> okay because you get August
+September that time it came very late <,> by <{> <[> the time I got that it
+was settled </[>
+
+<$A> 
+<ICE-IND:S1A-064#252:1:A>
+<[> I got that even got that <O> two words </O> </[> </{>
+
+<$A> 
+<ICE-IND:S1A-064#253:1:A>
+Even I got in the third week
+
+<$B> 
+<ICE-IND:S1A-064#254:1:B>
+Because no <.> pro </.> point in doing that
+
+<$A> 
+<ICE-IND:S1A-064#255:1:A>
+And by the time all the students had left for the study leave
+and all that
+
+<$B> 
+<ICE-IND:S1A-064#256:1:B>
+All sorts of things yeah
+
+<$A> 
+<ICE-IND:S1A-064#257:1:A>
+So I wrote a letter immediately saying that <,> I will not be
+there
+
+<$B> 
+<ICE-IND:S1A-064#258:1:B>
+And when I sent mine I also wrote a letter saying this
+problem is there <,> and the two observation that also the first observation
+I did in rough <,> thinking I wouldn't be able to manage but it was okay <,>
+
+<ICE-IND:S1A-064#259:1:B>
+So I sent it in rough with my report <,> set up and uh second one
+of course I did <,,>
+
+<ICE-IND:S1A-064#260:1:B>
+And you get the xerox uh done after <,> sheet observation sheet
+<,>
+
+<$A> 
+<ICE-IND:S1A-064#261:1:A>
+No no no
+
+<$B> 
+<ICE-IND:S1A-064#262:1:B>
+Then </I>

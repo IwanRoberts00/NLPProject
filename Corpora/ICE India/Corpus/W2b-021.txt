@@ -1,0 +1,500 @@
+<I>
+
+<ICE-IND:W2B-021#1:1>
+<h> <bold> MATHEMATICS </bold> </h> <&> column one </&> <&> Author's
+name </&> <O> K. ASHOK VARDHAN SHETTY </O> <&>
+
+<ICE-IND:W2B-021#2:1>
+<bold> The attempts to define infinity - - from Zeno to <&> centered
+</&> Cantor and after </bold> </&> <&>
+
+<p> <it>
+
+<ICE-IND:W2B-021#3:1>
+The infinite: No other question has ever moved so profoundly the
+spirit of man; no other idea has so fruitfully stimulated his intellect; yet
+no other concept stands in greater need of clarification than that of the
+infinite <*> dotted line</*> </it> </p> <&> right justification </&> - -
+DAVID HILBERT </&>
+
+<p> 
+<ICE-IND:W2B-021#4:1>
+<bold> <smallcaps> MANY </smallcaps> </bold> laymen regard infinity
+as a kind of number larger than all numbers, but infinity is not a number at
+all.
+
+<ICE-IND:W2B-021#5:1>
+It is a <it> concept, </it> the name of which is derived from the
+Latin word <it> <foreign> infinitus </foreign> </it> meaning without limit.
+
+<ICE-IND:W2B-021#6:1>
+It would not be an exaggeration to state that mathematics cannot
+exist without the notion of infinity, because one comes across the
+infinite in mathematics at almost every turn; there are infinite natural
+numbers 1, 2, 3, 4 <*> dotted line</*>, there is an infinity of fractions
+between any two integers such as 0 and 1; numbers like 1/3, <*> square-root
+</*> <&> under word </&> 2 and <*> pie </*> have an infinite decimal
+expansion; there is an infinity of geometrical points in any line,
+straight or curved, and so on.
+
+<ICE-IND:W2B-021#7:1>
+As the great German mathematician, David Hilbert ( 1862-1943)
+rightly put it, <quote> " Mathematics is the science of infinity."
+</quote> </p>
+
+<p> 
+<ICE-IND:W2B-021#8:1>
+The story of infinity begins with the ancient Greeks, who were
+among the first to recognize infinity as a central issue in mathematics and
+to study its mysteries.
+
+<ICE-IND:W2B-021#9:1>
+It is a story of many fascinating paradoxes and seemingly absurd
+situations which have baffled mathematicians for well over 2,000 years.
+
+<ICE-IND:W2B-021#10:1>
+With their penchant for logical rigour, the ancient Greeks naturally
+had a deep-rooted suspicion of the infinite and tried to avoid its use at
+any cost, thereby hindering the development of mathematics.
+
+<ICE-IND:W2B-021#11:1>
+Under the influence of Greek thought, infinity was for a long time
+regarded as the <it> <foreign> enfant terrible </foreign> </it> of
+mathematics.
+
+<ICE-IND:W2B-021#12:1>
+Even the great Galileo suggested banning its use in <O> column number
+two drawing </O> mathematical discourse. </p>
+
+<p> 
+<ICE-IND:W2B-021#13:1>
+The ancient <w> Greeks' </w> fear of infinity was prompted to a
+large extent by the famous paradoxes of Zeno, a Greek philosopher who lived
+in Elea in the fifth century BC and who is said to have been instructor to
+Socrates.
+
+<ICE-IND:W2B-021#14:1>
+Zeno was investigating the question as to whether finite magnitudes (
+of distance and time) are infinitely divisible.
+
+<ICE-IND:W2B-021#15:1>
+He attempted to show that they are not, as otherwise all motion would
+be impossible! </p>
+
+<p> 
+<ICE-IND:W2B-021#16:1>
+In his first paradox, known as the paradox of the runner, Zeno
+argued that in order for a runner to move from one place to another, say, 1
+km away, he must first cover half the distance between the two places, then
+half of the remaining distance, then half of what remains next, and so on (
+Fig.1).
+
+<ICE-IND:W2B-021#17:1>
+If we assume that distance could be infinitely subdivided, then
+this halving process continues <it> <foreign> ad infinitum </foreign> </it>
+because, regardless of how little distance remains to be crossed, it can
+still be halved.
+
+<ICE-IND:W2B-021#18:1>
+The distance in kilometres to be covered by the runner may be
+represented by the sum of an infinite series ( 1/2 + 1/4 + 1/8 + 1/16 +
+1/32 ) .
+
+<ICE-IND:W2B-021#19:1>
+Since this would require an infinite number of steps, Zeno argued
+that the winner would never reach his destination!
+
+<ICE-IND:W2B-021#20:1>
+He may get arbitrarily close but he would never really get there.
+</p>
+
+<p> 
+<ICE-IND:W2B-021#21:1>
+Worse, it would seem that the runner cannot even begin!
+
+<ICE-IND:W2B-021#22:1>
+Employing a similar argument, it is seen that to go from one place to
+another, the runner must first cover half the distance, to go half the
+distance, he must first go one-fourth; to go one-fourth he must first go
+one-eighth and so on.
+
+<ICE-IND:W2B-021#23:1>
+Again, the halves from an infinite sequence.
+
+<ICE-IND:W2B-021#24:1>
+So how does he get started? </p>
+
+<p> 
+<ICE-IND:W2B-021#25:1>
+In <w> Zeno's </w> second paradox, known as the paradox of
+Achilles and the tortoise, the swift-footed Achilles races the slow-moving
+tortoise, giving the latter a head start of 100 m.
+
+<ICE-IND:W2B-021#26:1>
+If we suppose that Achilles can run 10 times as fast as the
+tortoise, then by the time Achilles covers 100 m, the tortoise would have
+moved forward by 10 m.
+
+<ICE-IND:W2B-021#27:1>
+By the time Achilles covers 10 m, the tortoise is 1 m further on.
+
+<ICE-IND:W2B-021#28:1>
+By the time Achilles covers this 1 m, the tortoise is 1/10 m ahead,
+and so on ( Fig.2).
+
+<ICE-IND:W2B-021#29:1>
+( We are again assuming here that distance can be infinitely
+sub-divided.)
+
+<ICE-IND:W2B-021#30:1>
+The distance Achilles must travel to be level with the tortoise is
+given by the sum of the infinite series ( 100 + 10 + 1 + 1/10 <*> dotted
+line</*> ) .
+
+<ICE-IND:W2B-021#31:1>
+The <w> paradox's </w> conclusion is that Achilles will never be able
+to catch up with the tortoise; always during the time it takes Achilles <O>
+<&> page </&> 19 </O> to reach its last position, the tortoise would have
+edged a little forward. </p>
+
+<p> 
+<ICE-IND:W2B-021#32:1>
+Of course, Zeno knew fully well that both these conclusions were
+absurd, but if one followed his line of argument, the conclusions seemed
+inescapable.
+
+<ICE-IND:W2B-021#33:1>
+Should we therefore infer that space and time are not infinitely
+divisible and that an indivisible unit, an <quote> ` atom' </quote> of space
+or time, would ultimately be reached?
+
+<ICE-IND:W2B-021#34:1>
+<w> Zeno's </w> other two paradoxes, namely, the paradox of the arrow
+and the paradox of the stadium, also state that space and time can only be
+subdivided a definite amount.
+
+<ICE-IND:W2B-021#35:1>
+Thus the four paradoxes, taken together, seemed to show that space
+and time are neither continuous nor discrete.
+
+<ICE-IND:W2B-021#36:1>
+Obviously, something was wrong somewhere. </p>
+
+<p> 
+<ICE-IND:W2B-021#37:1>
+<w> Zeno's </w> paradoxes had to wait another 20 centuries
+before they could be resolved, which was possible only with the formulation
+of the concept of the <quote > ` limit' </quote> of a convergent infinite <O>
+Fig.1 </O> <O> caption </O> series.
+
+<ICE-IND:W2B-021#38:1>
+Simply because a series has an infinite number of terms, it does not
+mean that its sum must always be infinite.
+
+<ICE-IND:W2B-021#39:1>
+It is possible for certain types of infinite series to converge to a
+finite limit or sum - - a fact which the ancient Greeks did not accept.
+
+<ICE-IND:W2B-021#40:1>
+Once this fact is accepted, we can assume space and time to be
+infinitely divisible and the resulting paradoxes can be easily explained
+away. </p>
+
+<p> 
+<ICE-IND:W2B-021#41:1>
+For example, the infinite series ( 100 + 10 + 1 + 1/10 + <*>
+dotted line</*> ) which appeared in <w> Zeno's </w> paradox of Achilles and
+the tortoise, is known to converge to the limit 111.1111 <*> dotted line</*>
+or 111 1/9; that is, as the number of added terms increases to infinity, the
+sum of the series approaches 1/9 as its limit.
+
+<ICE-IND:W2B-021#42:1>
+The paradox is therefore resolved by observing that Achilles will
+overtake the tortoise after he has covered a distance of exactly 111 1/9 m
+from his starting point. </p>
+
+<p> 
+<ICE-IND:W2B-021#43:1>
+The resolution of <w> Zeno's </w> paradox of the runner is a
+little more subtle.
+
+<ICE-IND:W2B-021#44:1>
+Stating that the runner will never reach his destination amounts
+to saying that he will take <it> infinite </it> time to cover the
+distance.
+
+<ICE-IND:W2B-021#45:1>
+So, to resolve the paradox we have to simply show that the runner
+will reach the end-point after a <it> finite lapse of time </it> .
+
+<ICE-IND:W2B-021#46:1>
+Now, the series ( 1/2 + 1/4 + 1/8 + 1/16 + <*> dotted line</*> ) ,
+representing the distance to be covered by the runner, is known to converge
+to the limit 1.
+
+<ICE-IND:W2B-021#47:1>
+If we assume that the runner maintains a steady speed, the time
+intervals it takes him to cover these distances will also follow the
+same series and will converge to a finite limit.
+
+<ICE-IND:W2B-021#48:1>
+In other words, the runner will cover the entire distance in a finite
+span of time.
+
+<ICE-IND:W2B-021#49:1>
+( It must be borne in mind that many infinite series diverge, the
+simplest example being the sum of all natural numbers 1 + 2 + 3 + 4 + <*>
+dotted line</*> ) . </p> <O> Figure </O>
+
+<p> 
+<ICE-IND:W2B-021#50:1>
+If the concept of limit of infinite series helped resolve one set
+of paradoxes, it posed new ones - - paradoxes which puzzled mathematicians
+of the 17th and 18th centuries in much the same way as <w> Zeno's </w>
+paradoxes had puzzled Greek philosophers.
+
+<ICE-IND:W2B-021#51:1>
+Consider, for example, the Grandi series 1-1 + 1-1 + 1-1 + <*> dotted
+line</*> </p>
+
+<p> 
+<ICE-IND:W2B-021#52:1>
+Representing the series as S, we may write :
+
+<ICE-IND:W2B-021#53:1>
+S = ( 1-1) + ( 1-1) + ( 1-1) + <*> dotted line</*> = 0 + 0 + 0 + <*>
+dotted line</*> = 0
+
+<ICE-IND:W2B-021#54:1>
+But we can also represent S as, S = 1 + ( - 1+1) + ( - 1+1) + ( -
+1+1) + <*> dotted line</*> = 1 + 0 + 0 + 0 <*> dotted line</*> = 1 </p>
+
+<p> 
+<ICE-IND:W2B-021#55:1>
+Grandi discovered this series in 1703 and claimed that God must
+have used a technique based on this series in order to create something from
+nothing, and got the world going. </p>
+
+<p> 
+<ICE-IND:W2B-021#56:1>
+It is possible to manipulate the Grandi series yet another way :
+
+<ICE-IND:W2B-021#57:1>
+S = 1 - ( 1-1 + 1-1 + 1-1 + <*> dotted line</*> ) = 1-S
+
+<ICE-IND:W2B-021#58:1>
+Therefore, 2S = 1, or S = 1/2. </p>
+
+<p> 
+<ICE-IND:W2B-021#59:1>
+Which is the real limit of the Grandi series: 0, 1 or 1/2 ?
+
+<ICE-IND:W2B-021#60:1>
+Surprisingly, none of these is the answer, for the Grandi series does
+not converge at all; it is a divergent series. </p>
+
+<p> 
+<ICE-IND:W2B-021#61:1>
+Consider the infinite series of the reciprocals of natural
+numbers, with the signs alternating.
+
+<ICE-IND:W2B-021#62:1>
+It is known to converge to the natural logarithm of 2 ( written in
+2 ) . </p>
+
+<ICE-IND:W2B-021#63:1>
+1/1 - 1/2 + 1/3 - 1/4 + 1/5 - 1/6 + 1/7 - 1/8 + <*> dotted line</*> =
+In 2
+
+<ICE-IND:W2B-021#64:1>
+If we multiply both sides of this equation by 1/2, we get: 1/2 -
+1/4 + 1/6 - 1/8 + <*> dotted line</*> = 1/2 In 2 <O> fig.2 </O> <O> caption
+</O>
+
+<ICE-IND:W2B-021#65:1>
+We now add the two series, term by term vertically.
+
+<ICE-IND:W2B-021#66:1>
+1/1 + 1/3 - 1/2 + 1/5 + 1/7 - 1/4 + <*> dotted line</*> = 3/2 In 2
+
+<p> 
+<ICE-IND:W2B-021#67:1>
+The last series is simply a rearrangement of the first, yet
+its sum is 3/2 of the sum of the original series! </p>
+
+<p> 
+<ICE-IND:W2B-021#68:1>
+Now, in our ordinary finite calculations, rearrangement of the
+order of the terms does not affect the value of the sum.
+
+<ICE-IND:W2B-021#69:1>
+Thus 1+2+3 = 2+1+3 = 3+2+1.
+
+<ICE-IND:W2B-021#70:1>
+Shouldn't this rule apply to the sum of an infinite number of terms
+as well?
+
+<ICE-IND:W2B-021#71:1>
+Our intuition seems to say yes, but then it would lead to the absurd
+result 1= 3/2.
+
+<ICE-IND:W2B-021#72:1>
+We must, therefore, conclude that the two infinite sereis are not the
+same and that in respect of an infinite series, rearrangement of the terms
+may <O> <&> page </&> 20 </O> sometimes alter the sum. </p>
+
+<p> 
+<ICE-IND:W2B-021#73:1>
+We get the first hint here that the ordinary rules of
+arithmetic, always valid for finite calculations, may break down in the realm
+of the infinite.
+
+<ICE-IND:W2B-021#74:1>
+In an infinite series, rearrangement of the terms may, under certain
+conditions, not only affect the limit to which the series converges, it may
+even change a convergent series into a divergent one. </p>
+
+<p> 
+<ICE-IND:W2B-021#75:1>
+The man who succeeded in taming the mathematical monster of
+infinity and in placing it on a sound logical footing was the Russian-born
+German mathematician Georg Cantor ( 1845-1918 ) .
+
+<ICE-IND:W2B-021#76:1>
+In a series of highly original papers published between 1874 and
+1897, Cantor laid the foundations of a new <quote> ` arithmetic of infinity'
+</quote> .
+
+<ICE-IND:W2B-021#77:1>
+His results were based on two very simple concepts; that of a set
+and a one-to-one correspondence. </p>
+
+<p> 
+<ICE-IND:W2B-021#78:1>
+Until <w> Cantor's </w> time, mathematicians held the view that
+the infinite had only a potential existence and that there was no actual ( or
+completed) infinite.
+
+<ICE-IND:W2B-021#79:1>
+For example, mathematicians would say that the collection of natural
+numbers 1, 2, 3, 4, <*> dotted line</*> is potentially infinite because
+every number can be succeeded by an even larger number, but they would
+deny that the collection is actually infinite since it does not exist as one
+finished thing.
+
+<ICE-IND:W2B-021#80:1>
+Cantor made a departure from this well established view by accepting
+the actual infinite as a full-fledged mathematical entity and by insisting
+that infinite aggregates must be regarded as a <it> totality </it> , as an
+object which our mind should conceive of as a whole.
+
+<ICE-IND:W2B-021#81:1>
+His concept of a set, and of an infinite set in particular, came in
+handy in this regard. </p>
+
+<p> 
+<ICE-IND:W2B-021#82:1>
+What is a set?
+
+<ICE-IND:W2B-021#83:1>
+A set is any collection of objects, physical or mathematical.
+
+<ICE-IND:W2B-021#84:1>
+Cantor himself defined a set as <quote> " a many which allows itself
+to be regarded as a one." </quote>
+
+<ICE-IND:W2B-021#85:1>
+Sets may be either finite ( like the set of letters of the English
+alphabet ) or infinite ( like the set of all natural numbers, the set of all
+points on a given line etc. ) .
+
+<ICE-IND:W2B-021#86:1>
+A subset is any collection of elements taken from the original
+set and regarded as a new set.
+
+<ICE-IND:W2B-021#87:1>
+Thus the set ( a, b, c, d ) is a subset of the set of the letters of
+the English alphabet.
+
+<ICE-IND:W2B-021#88:1>
+Similarly, the set of all even numbers and the set of all prime
+numbers are subsets of the set of all natural numbers. </p>
+
+<p> 
+<ICE-IND:W2B-021#89:1>
+The cocnept of a cardinal number is basic to the theory of sets.
+
+<ICE-IND:W2B-021#90:1>
+It is a measure of the size of a set, that is, the number of elements
+a set contains.
+
+<ICE-IND:W2B-021#91:1>
+For example, the cardinal of the set S = ( a, b, c, d ) is 4.
+
+<ICE-IND:W2B-021#92:1>
+How do we specify the cardinal of an infinite set?
+
+<ICE-IND:W2B-021#93:1>
+For this, we would need an infinite number. </p>
+
+<p> 
+<ICE-IND:W2B-021#94:1>
+Cantor employed the concept of a one-to-one correspondence to
+find out whether two sets, finite or infinite, are of the same size or
+different.
+
+<ICE-IND:W2B-021#95:1>
+It is not necessary, he said, that we should be able to <it> count
+</it> the number of elements in two different sets in order to say which set
+is larger.
+
+<ICE-IND:W2B-021#96:1>
+( Of course, in case of infinite sets such counting is
+impossible.)
+
+<ICE-IND:W2B-021#97:1>
+We can simply match the elements of the two sets on a one-to-one
+basis; if there is an exact matching, we say that the two sets are equivalent
+or have the same cardinal; if, however, such an exact matching is not
+possible, and in one of the sets some unpaired elements are left, we
+say that this set is larger ( that is, it has a bigger cardinal) than the
+other. </p>
+
+<p> 
+<ICE-IND:W2B-021#98:1>
+Now, there was nothing new about the principle of 1:1 matching.
+
+<ICE-IND:W2B-021#99:1>
+Both Galileo and the 17th century German scholar Leibnitz had
+employed it about two centuries earlier and they had <O> table </O> <O> <it>
+Fig. 3 The hierarchy of infinities; <*> undesiphered figure </*> <C  <F  </O>
+arrived at the <quote> ` absurd' </quote> conclusion that the infinity of
+natural numbers is just as large as the infinity of perfect squares or the
+infinity of even numbers.
+
+<ICE-IND:W2B-021#100:1>
+Cantor first set about resolving these two paradoxes.
+
+<ICE-IND:W2B-021#101:1>
+He made the bold assertion that since an infinite set can be matched
+with its own subset on a 1:1 basis, the two are in fact equal, and if this
+result contradicts the maxim, <quote> ` the whole is greater than the part'
+</quote> , then the fault lies only with the maxim.
+
+<ICE-IND:W2B-021#102:1>
+This maxim, Cantor said, is true of finite sets only; in the world
+of the infinite <quote> ` a part is equal to the whole' </quote> .
+
+<ICE-IND:W2B-021#103:1>
+In fact, he seized upon this strange property as the definition of
+an infinite set: <quote> ` A set S is said to be infinite if it can be
+matched one to one with a subset of itself; in the contrary case, S is said
+to be finite.' </quote>
+
+<ICE-IND:W2B-021#104:1>
+Here the infinite is defined positively, and it is the finite set
+that is characterized negatively ( as one that is not infinite ) .
+
+<ICE-IND:W2B-021#105:1>
+Thus Cantor made a virtue out of what Galileo and Leibnitz regarded
+as a vice. </p> </I>

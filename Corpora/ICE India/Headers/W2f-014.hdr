@@ -1,0 +1,52 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-014</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:novel</caregory>
+            <wordcount>2137</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2F-014>
+       <source.type=monograph>
+            <source.title>The Club</source.title>
+            <source.subtitle></source.subtitle>
+       <publication.statement>
+            <publisher>Rupa & Co</publisher>
+            <address>7/12, Ansari Road, Daryaganj, New Delhi
+              110 002</address>
+            <place>New Delhi</place>
+            <date>1993</date>
+            <ISBN>none</ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of the    
+            author - Indira Mahindra</copyright.statement>
+            <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-014>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos>49-55</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+      <biography=ICE-IND-W2F-014>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Mahindra</surname>
+            <forenames>Indira</forenames>  
+            <age>not known</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>not known</birthplace>
+            <education>Lucknow University</education>
+            <educational.level>Masters
+              Degree</educational.level>
+            <occupation>writer</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>not known</mother.tongue>
+            <other.languages>not known</other.languages>
+            <free.comments><free.comments>
+      </biography>
+</text.info>

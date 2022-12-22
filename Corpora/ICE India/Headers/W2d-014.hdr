@@ -1,0 +1,88 @@
+<text.info>
+     <file.description>
+              <textcode>ICE-IND-W2D-014</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>printed:instructional:
+                skills/hobbies</category>
+              <wordcount>2285</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2D-014>
+            <source.type=newspaper>
+            <source.title>The Hindustan Times</source.title>
+            <scope>national</scope>
+            <frequency>weekly</frequency>
+            <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>The Hindustan Times Ltd.</publisher>
+            <address>18-20 Kasturba Gandhi Marg, New Delhi-
+               110001</address>
+            <place>New Delhi</place>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of The
+            Hindustan Times Ltd.</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-014</it>>
+           <subtext.name>ICE-IND-Concerts</subtext.name>
+                 <main.title>rare violin jugalbandi</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>13</page.nos>
+                 <date>11-02-90</date>
+                 <main.title>Ramanna on the piano</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>13</page.nos>
+                 <date>16-09-90</date>
+                 <main.title>Good solo violin</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>13</page.nos>
+                 <date>16-09-90</date>
+                 <main.title>Ravi Shankar's grandeur of Shuddha
+                   Kalyan</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>13</page.nos>
+                 <date>11-11-90</date>
+                 <main.title>A new status to Vadya
+                   Vrinda</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>13</page.nos>
+                 <date>02-12-90</date>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-014</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Menon</surname>
+                <forenames>Raghava R.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2D-014</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Varma</surname>
+                <forenames>R.N.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,88 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-042</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>1977</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-042>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>06-10-93</date>
+            <time>2.30pm</time>
+            <place>Oriental Academy(school), Kolhapur</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-042</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>3</no.of.participants>
+            <relationship>equals(A & B) Disparates
+                 (C)</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-042</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Dhelekar</surname>
+            <forenames>Priya</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Belgaum, Karnataka</birthplace>
+            <education>Shivaji University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>English</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Kolhapur (1970-84), Pune
+            (1985-86), Kolhapur (1986 to date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-042</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Lima</surname>
+            <forenames>Daisy Mathew</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Khanapur, Belgaum, Karnataka</birthplace>
+            <education>Shivaji University</education>
+            <educational.level>graduate</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Konkani</mother.tongue>
+            <other.languages>Marathi, Hindi</other.languages>
+            <free.comments>Moved to Kolhapur in
+                 1992</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-042</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Srivastav</surname>
+            <forenames>Pankaj</forenames>
+            <age>26-33</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>graduate</educational.level>
+            <occupation>computer instructor</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Hindi</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

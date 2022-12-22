@@ -1,0 +1,500 @@
+<I> <&> centered </&> <O>
+
+<ICE-IND:W2A-001#1:1>
+<it> Indian Philosophical Quarterly Vol. <roman> 18 </roman> , No. 1.
+<&> centered </&> January 1991 </it> </O> <&> centered </&> <O> <&> author
+</&>
+
+<ICE-IND:W2A-001#2:1>
+K. Srinivasan <&> centered </&>
+
+<ICE-IND:W2A-001#3:1>
+<h> <bold> ANALYSIS AS A METHOD IN PHILOSOPHY WITH <&> centered </&>
+SPECIAL REFERENCE TO A. J. AYER </bold> </h>
+
+<p> 
+<ICE-IND:W2A-001#4:1>
+The 20th century analysts are unanimous in their claim that the
+subject matter of philosophy is language and its legitimate method is
+analysis. <sp> 1 </sp>
+
+<ICE-IND:W2A-001#5:1>
+For, they conceive that philosophy, unlike other disciplines such as
+Botany, Zoology, Physics, Chemistry, Astronomy etc., does not have any
+subject matter of its own to deal with.
+
+<ICE-IND:W2A-001#6:1>
+In order to save philosophy from this rather awkward situation
+analysts claim that they have assigned a special function to philosophy which
+is a unique feature of philosophy.
+
+<ICE-IND:W2A-001#7:1>
+The assigned function of philosophy is the logical clarification of
+our everyday language and science.
+
+<ICE-IND:W2A-001#8:1>
+By analysing the concepts of everyday language and science, analysts
+felt that the so-called philosophical puzzles can be solved.
+
+<ICE-IND:W2A-001#9:1>
+A.J.Ayer, who was a chief patron of logical positivist movement in
+Britain, holds the view that a philosopher neither does indulge in
+experimentation nor does he patiently observe the behaviour of any natural
+objects, yet the statements of a philosopher purport to provide us <quote> `
+knowledge' </quote> which is different from the <quote> ` knowledge'
+</quote> of science.
+
+<ICE-IND:W2A-001#10:1>
+Then the question before Ayer was what kind of <quote> ` knowledge'
+</quote> does philosophical analysts provide us ?
+
+<ICE-IND:W2A-001#11:1>
+To put it simply-what then is philosophical analysis ?
+
+<ICE-IND:W2A-001#12:1>
+In an attempt to answer this question, Ayer maintains that
+philosophical analysis is concerned with the use and function of language.
+
+<ICE-IND:W2A-001#13:1>
+This analysis, according to Ayer, attempts to rewrite the sentences
+of everyday language and science in such a way that these sentences exhibit
+their proper <O> Received : 3 - 4 - 1990 </O> <&> page no. </&> <O> 112 </O>
+logical form; consequently their meaning becomes clear.
+
+<ICE-IND:W2A-001#14:1>
+As a result of this approach, believes Ayer, the traditional problems
+of philosophy are found to disappear.
+
+<ICE-IND:W2A-001#15:1>
+He opines that the problems of philosophy appear and reappear due to
+muddled thinking and this muddled thinking itself is largely the product of
+our improper use of language. </p>
+
+<p> 
+<ICE-IND:W2A-001#16:1>
+In what follow I have made a sincere attempt to show the futility
+of analysis as a method in the aquisition of knowledge of objective reality.
+
+<ICE-IND:W2A-001#17:1>
+In other words, <w> Ayer's </w> notion of philosophy deprives
+philosophy of its empirical content.
+
+<ICE-IND:W2A-001#18:1>
+In addition to that <w> Ayer's </w> supposition that the sole
+function of philosophy is mere analysis of language is not at all convincing
+as philosophy does not confine to one particular subject matter or the other.
+
+<ICE-IND:W2A-001#19:1>
+In order to accomplish our project, let us examine the views of Ayer
+with regard to nature and method of philosophy. </p> <&> centered </&> I
+
+<p> 
+<ICE-IND:W2A-001#20:1>
+Trying to vindicate his claim, namely, the sole function of
+philosophy is logical analysis of language, Ayer views that philosophy is not
+a search for <quote> ` first principles' </quote> .
+
+<ICE-IND:W2A-001#21:1>
+This is because <quote> ` the foundation of these first principles to
+provide certain basis for our knowledge, it is clear that they are not to be
+found among the so-called laws of nature.
+
+<ICE-IND:W2A-001#22:1>
+For, we shall see that the <quote> ` laws of nature' </quote> , if
+they are not mere definitions, they are simply hypotheses which may be
+confuted by experience' </quote> . <sp> 2 </sp>
+
+<ICE-IND:W2A-001#23:1>
+Ayer argues that the <quote> ` first principles' </quote> are not
+deduced from an intuitively preceived truth upon the basis of which a
+philosopher proceeds to construct a deductive system.
+
+<ICE-IND:W2A-001#24:1>
+They are, contends Ayer, no objects of speculative knowledge which
+lie beyond empirical investigation.
+
+<ICE-IND:W2A-001#25:1>
+If one wants to deduce all knowledge from the <quote> ` first
+principles' </quote> without trespassing into <quote> ` metaphysics' </quote>
+, then one must take a priori truths as his premises.
+
+<ICE-IND:W2A-001#26:1>
+And from one set <&> page no. </&> <O> 113 </O> of a priori truths (
+tautologies) one can deduce another set of a priori truths. <sp> 3 </sp>
+
+<ICE-IND:W2A-001#27:1>
+Thus, Ayer envisages that it is not possible to deduce all our
+knowledge from the <quote> ` first principles.' </quote>
+
+<ICE-IND:W2A-001#28:1>
+It implies that there is some amount of knowledge that can be derived
+from the <quote> ` first principles' </quote> ( a priori truths).
+
+<ICE-IND:W2A-001#29:1>
+Then it is none other than the knowledge of logic and mathematics.
+</p>
+
+<p> 
+<ICE-IND:W2A-001#30:1>
+In the first place, <w> Ayer's </w> attack on the view that
+philosophy is a search for <quote> ` first principles' </quote> can be
+understood as an attempt to disapprove Cartesian view-point.
+
+<ICE-IND:W2A-001#31:1>
+For, Descartes aimed at making philosophy as exact as mathematics.
+
+<ICE-IND:W2A-001#32:1>
+By virtue of his commitment to this view, Descartes had to look for
+the <quote> ` first and indubitable' </quote> foundations or principles of
+philosophy from which a consistent philosophical system can be constructed.
+
+<ICE-IND:W2A-001#33:1>
+In addition to that, Descartes relied on two important powers of
+human reason, namely, intuition and deduction as two main tools of his
+inquiry.
+
+<ICE-IND:W2A-001#34:1>
+According to Ayer, the knowledge deduced from such premises cannot
+have any informative content since one set of analytic truths leads us to
+another set of analytical truths.
+
+<ICE-IND:W2A-001#35:1>
+He also maintains that the <quote> ` first principles' </quote>
+cannot be found among the so-called <quote> ` laws of nature' </quote> for,
+the laws of nature can be confuted by experience.
+
+<ICE-IND:W2A-001#36:1>
+Consequently, it is not possible to derive the <quote> ` first
+principles' </quote> either from intution or from senseexperiance.
+
+<ICE-IND:W2A-001#37:1>
+What is spurious with <w> Ayer's </w> notion is that he could not
+distinguish between the <quote> ` laws of nature' </quote> and mere <quote> `
+statements of tendency' </quote> .
+
+<ICE-IND:W2A-001#38:1>
+A law is something which does not fail to occur in a given set of
+conditions.
+
+<ICE-IND:W2A-001#39:1>
+Laws of nature are well established scientific truths.
+
+<ICE-IND:W2A-001#40:1>
+They can neither be verified nor be falsified.
+
+<ICE-IND:W2A-001#41:1>
+<w> Ayer's </w> main contention is to show that the activity of
+philosophizing does not involve in the search for <quote> ` first principles'
+</quote> What then does this activity of philosophizing consist of? </p> <O>
+<&> page </&> 114 </O>
+
+<p> 
+<ICE-IND:W2A-001#42:1>
+Ayer asserts that the activity of philosophizing is essentially
+analytic.
+
+<ICE-IND:W2A-001#43:1>
+In support of his assertion Ayer holds that <quote> " those who are
+commonly called philosophers have actually been engaged in carrying out
+analyses." </quote> <sp> 4 </sp>
+
+<ICE-IND:W2A-001#44:1>
+Not only that, <quote> " it can be shown that the majority of those
+who are commonly supposed to have been great philosophers were primarily not
+mataphysicans but analysts" </quote> . <sp> 5 </sp>
+
+<ICE-IND:W2A-001#45:1>
+From this it follows that to be a philosopher one needs to be an
+analyst.
+
+<ICE-IND:W2A-001#46:1>
+Apart from that, the greatness of any philosopher lies in his being
+an analyst rather than a speculator.
+
+<ICE-IND:W2A-001#47:1>
+Accordingly, Ayer considers his empiricist predecessors ( Locke,
+Berkeley and Hume) as great.
+
+<ICE-IND:W2A-001#48:1>
+Of Locke and Berkeley, Ayer writes that Locke was not a common-sense
+philosopher in the sense in which G E. More is a common-sense philosopher.
+
+<ICE-IND:W2A-001#49:1>
+Neither he ( Locke) tried to prove common-sense beliefs on a priori
+grounds, nor he affirmed or denied the validity of any empirical matter but
+only analysed them in terms of sense-experience
+
+<ICE-IND:W2A-001#50:1>
+Similarly, Berkeley was not a metaphysician as he was commonly
+understood to be.
+
+<ICE-IND:W2A-001#51:1>
+Like Locke, he too was indulged in analysing the reality of material
+things. <sp> 6 </sp> </p>
+
+<p> 
+<ICE-IND:W2A-001#52:1>
+As a matter of fact, Ayer follows the footsteps of his empiricist
+predecessors Berkeley and Hume in reducing the statements about material
+objects to statements about sense-data.
+
+<ICE-IND:W2A-001#53:1>
+The phenomenalistic analysis of material objects of Berkeley and
+Hume has been converted into linguistic phenomenalism.
+
+<ICE-IND:W2A-001#54:1>
+The very purpose of this reductionist analysis is to show that the
+existence of material objects is somehow inferred from the sense-data.
+
+<ICE-IND:W2A-001#55:1>
+With regard to Hume, Ayer says that Hume is opposed to metaphysics (
+transcendental kind of metaphysics).
+
+<ICE-IND:W2A-001#56:1>
+It is only a belief that Hume has put forward the views concerning
+the nature of philosophical proposition.
+
+<ICE-IND:W2A-001#57:1>
+In fact, what is considered to be philosophical are his works of
+analysis.
+
+<ICE-IND:W2A-001#58:1>
+The whole misunderstanding about <w> Hume's </w> philosophical
+position is the outcome of his treat <O> <&> page </&> 115 </O> ment of
+causation that is often misunderstood. <sp> 7 </sp>
+
+<ICE-IND:W2A-001#59:1>
+Ayer himself advocates the same Humean conception.
+
+<ICE-IND:W2A-001#60:1>
+While dealing with the nature of causation Ayer writes that <quote> "
+our conception of causation is the same as his ( Hume's)." </quote> <sp> 8
+</sp>
+
+<ICE-IND:W2A-001#61:1>
+In this way Ayer illustrates that the activity of analysis is an
+unique feature of British Empiricists. </p>
+
+<p> 
+<ICE-IND:W2A-001#62:1>
+According to Ayer, philosopher as an analyst is not concerned
+with <quote> ` facts' </quote> or <quote> ` notions' </quote> or <quote> `
+things' </quote> .
+
+<ICE-IND:W2A-001#63:1>
+In other words, the propositions of philosophy are not factual but
+only linguistic in their nature.
+
+<ICE-IND:W2A-001#64:1>
+They express definitions or formal consequences of definitions. <sp>
+9 </sp>
+
+<ICE-IND:W2A-001#65:1>
+In this way, Ayer, a professed empiricist, dispences with all
+empirical facts as irrelevant to philosophy.
+
+<ICE-IND:W2A-001#66:1>
+For him a philosopher is only concerned with the stipulative
+definitions of his own inventions.
+
+<ICE-IND:W2A-001#67:1>
+It is clear from the following passage of Ayer. </p>
+
+<p> 
+<ICE-IND:W2A-001#68:1>
+I must say not that I see the cigarette case, if this is to carry
+the implication that there is a cigarette case there, but it only seems to me
+that I am seeing it... the next step, continuing our example, is to convert
+the sentence <quote> ` it now seems to me that I see a cigarette case'
+</quote> into <quote> ` I am now seeing a seeming cigarette case <+> ' </+>
+</quote> <-> ! </->
+
+<ICE-IND:W2A-001#69:1>
+And this seeming cigarette case, which lives only in my present
+experience, is an example of a sense-datum. <sp> 10 </sp> </p>
+
+<p> 
+<ICE-IND:W2A-001#70:1>
+Indeed, it is in a pickwickian sense, i.e., regardless of their
+actual or literal sense, that <quote> ` facts' </quote> or <quote> ` notions'
+</quote> or <quote> ` things' </quote> can be analysed. </p>
+
+<p> 
+<ICE-IND:W2A-001#71:1>
+Proceeding further, Ayer tries to distinguish philosophy from
+other sciences
+
+<ICE-IND:W2A-001#72:1>
+With regard to philosophy Ayer holds that philosophy is distinguished
+from other arts and sciences not because of its methods but because of its
+subject matter.
+
+<ICE-IND:W2A-001#73:1>
+Philosophers utter statements which are intended to be factual but in
+the final analysis it is realised that they are not the statements <O> <&>
+page </&> 116 </O> about matters of fact.
+
+<ICE-IND:W2A-001#74:1>
+The theories of philosophy are not tested by any observation. <sp> 11
+</sp>
+
+<ICE-IND:W2A-001#75:1>
+What follows from the above assertions of Ayer is that the questions
+such as whether the material objects are real, whether objects continue to
+exist at times when they are not perceived, cannot be decided on the basis of
+scientific information.
+
+<ICE-IND:W2A-001#76:1>
+According to Ayer, these are not the questions which could be settled
+by observation but can be resolved on the basis of analysis of language.
+
+<ICE-IND:W2A-001#77:1>
+To quote <w> Ayer's </w> remarks in this context, <quote> " What is
+in dispute in such cases is not whether, in a given set of circumstances,
+this or that event will happen, but rather how anything at all that happens
+is to be described." </quote> <sp> 12 </sp>
+
+<ICE-IND:W2A-001#78:1>
+In short, the activity of philosophical analysis consists in
+providing definitions. </p>
+
+<p> 
+<ICE-IND:W2A-001#79:1>
+Regarding the nature of philosophical analysis, Ayer holds the
+view that the definitions which philosophy provides are not <quote> `
+explicit definitions' </quote> but <quote> ` definitions in use' </quote> .
+
+<ICE-IND:W2A-001#80:1>
+In an attempt to illustrate this point, Ayer writes that <quote> " a
+lexicographer also seeks to give information about the usage of words, but
+the philosophers differ from him in being concerned... but with the use of
+particular expressions and whereas the propositions of the lexicographer are
+empirical, philosophical propositions, if they are true, are usually
+analytic." </quote> <sp> 13 </sp>
+
+<ICE-IND:W2A-001#81:1>
+Thus a lexicographer is considered to be an empirical scientist who
+glosses antecedent facts, whereas the true propositions of philosophy do not
+express anything new but only clarify what is already expressed by the
+propositions.
+
+<ICE-IND:W2A-001#82:1>
+In short <quote> ` the definitions in use' </quote> show <quote> "
+how the sentences in which it ( a symbol) significantly occurs can be
+translated into equivalent sentences, which contain neither the definition
+itself nor any of its synonyms" </quote> . <sp> 14 </sp>
+
+<ICE-IND:W2A-001#83:1>
+The very purpose of philosophical analysis, according to Ayer is to
+translate certain sentences into their equivalents.
+
+<ICE-IND:W2A-001#84:1>
+For example, the sentence <quote> ` The round square does not
+exist'</quote>, is equivalent to <quote> ` No one thing can be both square
+and round' </quote> , and the sentence <quote> ` The author of Waverley <O>
+<&> page </&> 117 </O> was Scotch <quote> ` is equivalent to' </quote> One
+person only, wrote Waverley, and that person was Scotch' </quote> . <sp> 15
+</sp>
+
+<ICE-IND:W2A-001#85:1>
+Susan Stebbing in her review article on <w> Ayer's </w> <it>
+Language, Truth and Logic </it> points out that the statement <quote> ` The
+author of Waverley was Scotch' </quote> is translated into an equivalent
+statement or sentence that <quote> ` One person, and one person only wrote
+Waverley and that person was Scotch' </quote> violates the rules of analysis
+provided by Ayer Stebbing argues that if the word <quote> " that" </quote> is
+used referentially, then <quote> " that person was Scotch" </quote> is
+equivalent to the whole of the original; and it it is used demonstratively,
+the defining expression <quote> " is not a translation of the original at
+all " </quote> . <sp> 16 </sp>
+
+<ICE-IND:W2A-001#86:1>
+In defence of his position against <w> Stebbing's </w> criticism,
+Ayer argues that <quote> " the object of analysing <quote> ` The author of
+waverley was Scotch' </quote> is not just to obtain an accurate translation
+of this particular sentence, but to elucidate the use of a whole class of
+expressions, of which <quote> ` the author of Waverley' </quote> serves
+merely a typical example" </quote> . <sp> 17 </sp>
+
+<ICE-IND:W2A-001#87:1>
+According to Ayer, the examples of this kind are only meant to show
+how certain class of expressions can be explained in our ordinary language.
+
+<ICE-IND:W2A-001#88:1>
+If a philosopher sticks to this kind of analysis, claims Ayer, he
+will avoid either interfering in the sphere of natural science or involve
+himself in metaphysics. </p>
+
+<p> 
+<ICE-IND:W2A-001#89:1>
+In an attempt to define an ambiguous symbol, Ayer states that
+<quote> " a symbol is constituted by signs which are identical with one
+another in their sensible form, and in their significance, and that a sign is
+a sense-content, or a series of sense-contents, which is used to convey
+literal meaning, is not to say that a symbol is a collection of system of
+sense-contents." </quote> <sp> 18 </sp>
+
+<ICE-IND:W2A-001#90:1>
+From the above statement of Ayer we can deduce that he is heading for
+reductive analysis' </quote> .
+
+<ICE-IND:W2A-001#91:1>
+Every symbol is reduced to signs which are identical in their
+sensible form.
+
+<ICE-IND:W2A-001#92:1>
+This kind of <quote> ` reductive analysis' </quote> as Ayer believes
+is equally applicable to material object state ments.
+
+<ICE-IND:W2A-001#93:1>
+This is to say that the statement about material objects <O> <&> page
+</&> 118 </O> can be translated, without residue, into the statements about
+sense-data.
+
+<ICE-IND:W2A-001#94:1>
+Ayer presupposes <quote> " the problem of giving an actual rule for
+translating sentences about material things into sentences about
+sense-contents, which may be called the problem of the <quote> ` reduction'
+</quote> of material things to sense-contents, is main philosophical part
+of the traditional problem of perception." </quote> <sp> 19 </sp>
+
+<ICE-IND:W2A-001#95:1>
+Ayer states that the reason for adopting this reductive analysis is
+to eliminate certain problematic entities and to replace them with relatively
+less problematic entities <sp> 20 </sp>
+
+<ICE-IND:W2A-001#96:1>
+It implies that the propositions that express the facts of
+ordinary perceptual knowledge are not simple, and so are not the ultimate
+constituents of reality.
+
+<ICE-IND:W2A-001#97:1>
+For example, the expressions such as <quote> ` table',`chair'
+</quote> etc, are problematic in the sense that they are philosophically
+disputable entities.
+
+<ICE-IND:W2A-001#98:1>
+And when the propositions containing such expressions are analysed,
+then they will be expressed in terms of ultimate constituents of knowledge (
+sense-data).
+
+<ICE-IND:W2A-001#99:1>
+In other words, the ordinary unanalysed knowledge seems to be about
+such things as <quote> ` table',`chairs' </quote> etc., but analysis will
+make clear the ultimate constituents of knowledge.
+
+<ICE-IND:W2A-001#100:1>
+In this way, Ayer identifies philosophy with analysis and claims
+that <quote> " the only positive contribution that philosophy can make to
+knowledge is in the field of analysis" </quote> . <sp> 21 </sp> </p>
+
+<p> 
+<ICE-IND:W2A-001#101:1>
+Thus Ayer who does not wish to break too finally the
+empiricist tradition could maintain that Berkeley in his analysis of
+<quote> ` physical objects' </quote> , Hume in his analysis of causation were
+doing philosophy as conceived by logical positivists.
+
+<ICE-IND:W2A-001#102:1>
+The business is still the old reductive analysis ( phenomenalism)
+even if it is under new management. </p> </I>

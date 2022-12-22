@@ -1,0 +1,585 @@
+<I> 
+ 
+<$A>
+
+<ICE-IND:S2A-032#1:1:A>
+Hello <,> uh recap <,,> we said that <,,> there are atleast  
+<,,> two schools of thought <,> when it comes to the scope of economics <,> 
+
+<ICE-IND:S2A-032#2:1:A>
+One is distribution <,> one emphasises allocation <,> 
+
+<ICE-IND:S2A-032#3:1:A>
+Depending on the school of thinking your tools of analysis also  
+differs <,,> 
+
+<ICE-IND:S2A-032#4:1:A>
+For example <,> when you have distribution as your aim <,> then your  
+thinking apparatus will be in this way <,> where surplus is distributed  
+between workers and entrepreneurs <,,> 
+
+<ICE-IND:S2A-032#5:1:A>
+Whereas when you have allocation as allocation as your aim then your  
+tools of analysis are calculus <,,> 
+
+<ICE-IND:S2A-032#6:1:A>
+One another distinction <,,> 
+
+<ICE-IND:S2A-032#7:1:A>
+When it comes to <,> the question of allocation <,,> substitution  
+between the two things becomes the central issue <,,> 
+
+<ICE-IND:S2A-032#8:1:A>
+Alfred Marshall <,> in his principles of economics <,> if you see  
+<,> the eighth edition which was the last one that is there <,> if he had  
+lived upto now he would have made further editions of the same thing <,> 
+
+<ICE-IND:S2A-032#9:1:A>
+It is a very nice book 
+
+<ICE-IND:S2A-032#10:1:A>
+People don't read these days that book <,> 
+
+<ICE-IND:S2A-032#11:1:A>
+It is very good <,,> 
+
+<ICE-IND:S2A-032#12:1:A>
+For the sheer English language atleast it is worth reading <,> 
+
+<ICE-IND:S2A-032#13:1:A>
+Apart from very perceptive ideas <,> 
+
+<ICE-IND:S2A-032#14:1:A>
+Marshall was a man of tremendous perception <,> 
+
+<ICE-IND:S2A-032#15:1:A>
+Joan Robinson once said that he has a <w> woman's </w> perception  
+like that because women are considered to be more perceptive than men <,> <O>  
+laughs </O> 
+
+<ICE-IND:S2A-032#16:1:A>
+Uh so <,> that that <w> that's </w> the way she described him <,,> 
+
+<ICE-IND:S2A-032#17:1:A>
+Well <,> if you see in the preface <,,> Alfred Marshall says <,>  
+that the chief merit of this book is the application of the principle of  
+substitution in every branch of economics <,> because if you don't have that  
+substitution <,> you can't have the maximisation thing <,> 
+
+<ICE-IND:S2A-032#18:1:A>
+It is an essential part of it <,> 
+
+<ICE-IND:S2A-032#19:1:A>
+For example if I have a curve like this <,> I can't take a tangent  
+<,,> 
+
+<ICE-IND:S2A-032#20:1:A>
+It requires that I have a <,> a relationship which has a curvature  
+<,> 
+
+<ICE-IND:S2A-032#21:1:A>
+Here here for example it is diminishing <,> this but it is  
+diminishing at a constant rate <,> 
+
+<ICE-IND:S2A-032#22:1:A>
+Whatever I give up in pie <,> I get in W U and vice versa <,> 
+
+<ICE-IND:S2A-032#23:1:A>
+Whereas here there is an assumption that there is diminishing  
+marginal rate of substitution <,,> 
+
+<ICE-IND:S2A-032#24:1:A>
+This is at the heart of micro economics <,,> 
+
+<ICE-IND:S2A-032#25:1:A>
+Take away this assumption <,,> micro tools are not there <,,> 
+
+<ICE-IND:S2A-032#26:1:A>
+But at this point one another <,> thing which is normally not refer  
+to in text books let me <,> present to you <,,> 
+
+<ICE-IND:S2A-032#27:1:A>
+This assumption of diminishing marginal rate of substitution <,>  
+you know it is an assumption <,> independent of mathematics <,,> independent  
+of mathematics <,,> 
+
+<ICE-IND:S2A-032#28:1:A>
+For example <,,> take the most important micro foundation that  
+first chapter the students learn <,> 
+
+<ICE-IND:S2A-032#29:1:A>
+That is about utility theory <,,> utility maximisation <,> 
+
+<ICE-IND:S2A-032#30:1:A>
+And when the students come to the classroom we tell them that uh  
+<,> that if there are two commodities <,> and if I <,,> let us say Q one <,>  
+and Q two are the two commodities <,> 
+
+<ICE-IND:S2A-032#31:1:A>
+And I tell the students <,,> you know that <,> utility is a  
+function of the consumption of these two <,> commodities <,,> 
+
+<ICE-IND:S2A-032#32:1:A>
+Right <,,> ? 
+
+<ICE-IND:S2A-032#33:1:A>
+And I make an assumption that the more he consume the more he is  
+satisfied <,,> 
+
+<ICE-IND:S2A-032#34:1:A>
+More is preferred than less <,> 
+
+<ICE-IND:S2A-032#35:1:A>
+And we make an assumption that preferences are <,,> transitive <,>  
+though you know that it is if A is bigger than B and B is bigger than C than  
+A is bigger than C and not the other way round 
+
+<ICE-IND:S2A-032#36:1:A>
+This kind of axioms of choice <,> we teach them <,> because on that  
+basis <,> this is the micro foundage you know micro economic is grounded in  
+individual behaviour <,,> 
+
+<ICE-IND:S2A-032#37:1:A>
+And those individual behaviour we give in the form of axioms of  
+choice <,,> 
+
+<ICE-IND:S2A-032#38:1:A>
+Right <,> ? 
+
+<ICE-IND:S2A-032#39:1:A>
+And on the basis of that we try to derive what is known as an  
+indifference curve or a utility function <,> 
+
+<ICE-IND:S2A-032#40:1:A>
+First we say <,> <quote> Utility is a function of Q one and Q two  
+</quote> 
+
+<ICE-IND:S2A-032#41:1:A>
+And in the next page or the next paragraph the text book draws a  
+picture like this <,,> <&> B B writing </&> 
+
+<ICE-IND:S2A-032#42:1:A>
+They won't explain how come this equation this picture came <,,> 
+
+<ICE-IND:S2A-032#43:1:A>
+That is why students find it very difficult to understand <,> 
+
+<ICE-IND:S2A-032#44:1:A>
+And you know sometimes teachers also find it difficult 
+
+<ICE-IND:S2A-032#45:1:A>
+And sometimes you know what happens is the students don't ask  
+questions luckily <,,> otherwise it will be very <,> <O> laughter </O> very  
+embarassing for the teacher <,> because from this to this you try your best  
+<,,> it is near impossible to get that equation 
+
+<ICE-IND:S2A-032#46:1:A>
+I will tell you why <,,> 
+
+<ICE-IND:S2A-032#47:1:A>
+That is what we have to learn in refresher programmes <,> 
+
+<ICE-IND:S2A-032#48:1:A>
+Something on the foundation <,,> because what happens is you know  
+for twenty years some book comes we teach to our students on the twenty-first  
+year they say <quote> We have changed this book because this is a wrong book  
+like that </quote> 
+
+<ICE-IND:S2A-032#49:1:A>
+We also start saying the same thing <,> <O> laughter </O> 
+
+<ICE-IND:S2A-032#50:1:A>
+You know in the beginning we didn't ask the question why are we  
+reading this book and teaching to our students <,,> 
+
+<ICE-IND:S2A-032#51:1:A>
+But before that we try to translate it because we want to have it  
+everything in <,> this one 
+
+<ICE-IND:S2A-032#52:1:A>
+And in second <.> bo </.> you know it is happening like that as if  
+knowledge comes <-> for </-> <,> from there <,> 
+
+<ICE-IND:S2A-032#53:1:A>
+It is true knowledge comes from everywhere <,> 
+
+<ICE-IND:S2A-032#54:1:A>
+But it can also start from here too <,> 
+
+<ICE-IND:S2A-032#55:1:A>
+And there can be an exchange <,> that is possible if we look at  
+these things critically <,,> 
+
+<ICE-IND:S2A-032#56:1:A>
+And therefore if we find that there is some problem <-> herer </->  
+error here <w> I'm </w> not suggesting throw this away <,,> 
+
+<ICE-IND:S2A-032#57:1:A>
+No no far from it <,,> 
+
+<ICE-IND:S2A-032#58:1:A>
+But <,> remembering that such a kind of a thing is there <,> it is  
+not something very perfect <,> 
+
+<ICE-IND:S2A-032#59:1:A>
+It is imperfect 
+
+<ICE-IND:S2A-032#60:1:A>
+But all knowledge is like that <,> whether it is physics <-> or  
+even mathematics </-> <,,> or even mathematics <,> uhm 
+
+<ICE-IND:S2A-032#61:1:A>
+I will not go <,> drag you into that controversy which is a very  
+interesting one 
+
+<ICE-IND:S2A-032#62:1:A>
+Let me come back to this <,,> 
+
+<ICE-IND:S2A-032#63:1:A>
+I am talking of micro theory now <,> foundations of micro theory  
+<,> 
+
+<ICE-IND:S2A-032#64:1:A>
+And in that <,> micro theory takes allocation as the scope of  
+economics 
+
+<ICE-IND:S2A-032#65:1:A>
+It takes calculus as the tool for analysis <,> 
+
+<ICE-IND:S2A-032#66:1:A>
+It assumes about individuals <,,> 
+
+<ICE-IND:S2A-032#67:1:A>
+The major assumption it makes is people are selfish <,> 
+
+<ICE-IND:S2A-032#68:1:A>
+They don't say <quote> It like this </quote> they say <quote> They  
+are rational </quote> <,> <O> laughs </O> 
+
+<ICE-IND:S2A-032#69:1:A>
+Because if I say <quote> People are selfish </quote> it looks very  
+bad <,> look he is blaming <,> uh being sales kind of people there we write  
+<,> uh people are rational 
+
+<ICE-IND:S2A-032#70:1:A>
+And rational means that I can order my preferences and choose the  
+best <,> 
+
+<ICE-IND:S2A-032#71:1:A>
+That capability I have like that <,,> 
+
+<ICE-IND:S2A-032#72:1:A>
+It presumes numeracy <,,> and order <,,> 
+
+<ICE-IND:S2A-032#73:1:A>
+That kind of a capability must be there then only I can <,,> okay  
+<,> 
+
+<ICE-IND:S2A-032#74:1:A>
+It assumes like that <,> and it it has certain a sect of axioms  
+about preferences <,> and then we say that utility is a function of  
+consumption <,> 
+
+<ICE-IND:S2A-032#75:1:A>
+And then we say <quote> Let U bar be the level of utility <,,>  
+because unless you have this U bar fixed you don't know where is the first  
+point to this graph <,> so you take the first point like that <,> and then  
+draw this curve </quote> <,,> 
+
+<ICE-IND:S2A-032#76:1:A>
+But there is a problem <,,> because suppose <,> U bar is equal to  
+hundred <,,> <&> B B writing </&> right <,,> ? 
+
+<ICE-IND:S2A-032#77:1:A>
+Then I get some utility by <}> <-> <.> consum </.> </-> <=>  
+consuming </=> </}> Q one <,> <w> let's </w> call it Alpha times Q one <,> so  
+much Alpha amount of <,> satisfaction I get by Q one <,> 
+
+<ICE-IND:S2A-032#78:1:A>
+And then that is the <,> Beta amount of satisfaction I get by  
+consuming Q two <,,> 
+
+<ICE-IND:S2A-032#79:1:A>
+If this total is hundred <,> then if this fifty that must be fifty  
+<,> 
+
+<ICE-IND:S2A-032#80:1:A>
+If this is seventy-five that must be twenty-five <,> 
+
+<ICE-IND:S2A-032#81:1:A>
+If this is forty-five that must be <,,> know like the it it can't  
+be <,,> more or less and this hundred can be retained <,> 
+
+<ICE-IND:S2A-032#82:1:A>
+And if you retain that <.> hun </.> don't have that hundred you  
+can't draw the curve <,> 
+
+<ICE-IND:S2A-032#83:1:A>
+If you have that hundred <,> then we find you can try it out any  
+number of times <,> 
+
+<ICE-IND:S2A-032#84:1:A>
+Then we find that it will be a line like this and not a curvature  
+like this <,,> 
+
+<ICE-IND:S2A-032#85:1:A>
+But if you don't have a curvature I can't have a tangent <,,> 
+
+<ICE-IND:S2A-032#86:1:A>
+If I don't have a tangent <,> I don't have a maxima <,,> 
+
+<ICE-IND:S2A-032#87:1:A>
+Therefore I need a tangent 
+
+<ICE-IND:S2A-032#88:1:A>
+And if I have to draw this tangent I need to make an assumption <,>  
+and economist at the micro level have assumed diminishing marginal rate of  
+substitution <,,> 
+
+<ICE-IND:S2A-032#89:1:A>
+It is a contradictory assumption to the givens <,,> 
+
+<ICE-IND:S2A-032#90:1:A>
+Naturally <,> the right assumption when you say <quote> U bar is  
+equal to this <,> and draw the curve it has to be this way </quote> <,> 
+
+<ICE-IND:S2A-032#91:1:A>
+But we are drawing it this way <,> for mathematical convenience  
+<,,> 
+
+<ICE-IND:S2A-032#92:1:A>
+If you take any journal any magazine and start let U be a function  
+of something twice differentiable 
+
+<ICE-IND:S2A-032#93:1:A>
+We make an assumption <,,> 
+
+<ICE-IND:S2A-032#94:1:A>
+Differentiable means drawing of tangent that is finding derivitives  
+we say in mathematics <,> but drawing a <}> <-> <.> capa </.> </-> <=>  
+capacity </=> </}> to draw a tangent <,,> 
+
+<ICE-IND:S2A-032#95:1:A>
+It is <,> tangent is drawable <,> such a curve is assumed <,> 
+
+<ICE-IND:S2A-032#96:1:A>
+If it was natural there was no need for an assumption <,,> 
+
+<ICE-IND:S2A-032#97:1:A>
+We are making an assumption because <,,> <-> this is </-> <,> there  
+is a contradict 
+
+<ICE-IND:S2A-032#98:1:A>
+Has anybody followed this ? 
+
+<ICE-IND:S2A-032#99:1:A>
+You can ask me questions about all these things <,> 
+
+<ICE-IND:S2A-032#100:1:A>
+Even in between the lecture also you can stop me and ask 
+
+<ICE-IND:S2A-032#101:1:A>
+I will explain any number of times <,> because this is not there  
+in books <,,> 
+
+<ICE-IND:S2A-032#102:1:A>
+Because striking this out is striking the root of neo-classical  
+economics <,> 
+
+<ICE-IND:S2A-032#103:1:A>
+Because if you can't draw this you can't draw an isoquant <,,> 
+
+<ICE-IND:S2A-032#104:1:A>
+Same principle is true <,> an isoquant is supposed to give iso  
+means equal quant means quantity <,> 
+
+<ICE-IND:S2A-032#105:1:A>
+Isoquant means equal quantity 
+
+<ICE-IND:S2A-032#106:1:A>
+If equal quantity is to be there <,> then substitution should have  
+been a straight line <,,> 
+
+<ICE-IND:S2A-032#107:1:A>
+Because what is happening is <,> here the X axis <,> the Y axis  
+<,> and here is the third axis <,,> this is the utility axis actually <,,> 
+
+<ICE-IND:S2A-032#108:1:A>
+And this length is fixed <,> <w> that's </w> why U bar <,,> 
+
+<ICE-IND:S2A-032#109:1:A>
+And what we have here is a projection of this third axis <,>  
+because it <w> it's </w> a three dimensional picture <,> drawn in a flat way  
+<,,> 
+
+<ICE-IND:S2A-032#110:1:A>
+It <,> it happens to all the artist <,,> when they are painting  
+<w> it's </w> usually three dimensional <,> but it is written on a flat  
+surface <,> 
+
+<ICE-IND:S2A-032#111:1:A>
+But your perception <,> your understanding is like that 
+
+<ICE-IND:S2A-032#112:1:A>
+So here is a third axis <,> not seen <,,> 
+
+<ICE-IND:S2A-032#113:1:A>
+<w> It's </w> projection <,> and as long as this is fixed and  
+straight it this can't be <}> <-> <.> ano </.> </-> <=> anything </=> </}>  
+other than a straight line <,,> 
+
+<ICE-IND:S2A-032#114:1:A>
+If this is it because scale has to be straight <,,> 
+
+<ICE-IND:S2A-032#115:1:A>
+Therefore and it is fixed <,,> and it will be a line like this and  
+marginal productivity become in fact that is why many people criticise  
+marginal productivity theory <,,> 
+
+<ICE-IND:S2A-032#116:1:A>
+On several grounds they <}> <-> <.> criti </.> </-> <=> criticised  
+</=> </}> that <,,> 
+
+<ICE-IND:S2A-032#117:1:A>
+The classical school of thinker don't believe in the marginal  
+productivity theory as you know <,> because for them the wage fund is given  
+<,,> and then the activity of production takes place <,> 
+
+<ICE-IND:S2A-032#118:1:A>
+Whereas for the neo-classical <}> <-> <.> ec </.> </-> <=>  
+economist </=> </}> the production activity takes place with using those  
+inputs <,> 
+
+<ICE-IND:S2A-032#119:1:A>
+And then those inputs are used again on the basis of supply and  
+demand thing <,> 
+
+<ICE-IND:S2A-032#120:1:A>
+And brings rational producers and consumers <,> 
+
+<ICE-IND:S2A-032#121:1:A>
+They will supply and demand in such a manner that the price they  
+offer <,> <}> <-> <.> ge </.> </-> <=> gets </=> </}> them some return <,,> 
+
+<ICE-IND:S2A-032#122:1:A>
+And that return is <,> as much as what they contribute to output  
+<,,> 
+
+<ICE-IND:S2A-032#123:1:A>
+<w> That's </w> how the marginal productivity theory comes <,> 
+
+<ICE-IND:S2A-032#124:1:A>
+With all its difficulty it has a grain of justice <,,> 
+
+<ICE-IND:S2A-032#125:1:A>
+In the sense that <,> give him what he has contributed <,,> 
+
+<ICE-IND:S2A-032#126:1:A>
+<w> It's </w> quite a nice concept <,> that is why if you give  
+each person what he has contributed than zero profit condition comes <,> 
+
+<ICE-IND:S2A-032#127:1:A>
+<w> That's </w> how the <O> one word </O> theorem comes into  
+picture <,,> 
+
+<ICE-IND:S2A-032#128:1:A>
+You see how this is micro economic foundation <,,> 
+
+<ICE-IND:S2A-032#129:1:A>
+Are you understanding me ? 
+
+<ICE-IND:S2A-032#130:1:A>
+Because you can't have your micro economics without this kind of a  
+thing <,,> 
+
+<ICE-IND:S2A-032#131:1:A>
+One another question <,,> 
+
+<ICE-IND:S2A-032#132:1:A>
+In actual life when you make a choice <,,> the choice is never  
+like this <,> because this assumes <,,> that always you buy a combination and  
+not any one of them <,,> 
+
+<ICE-IND:S2A-032#133:1:A>
+Otherwise it would have beeen somewhere in the intercepting <,,> 
+
+<ICE-IND:S2A-032#134:1:A>
+The indifference curve always start from head here <,> not here  
+<,> 
+
+<ICE-IND:S2A-032#135:1:A>
+There is a need that I must have all the time a combination <,>  
+that may not be so in actual life <,> except when women are buying their  
+<indig> sarees </indig> and they want a matching blouse piece <,,> 
+
+<ICE-IND:S2A-032#136:1:A>
+Then only a combination question comes <,> otherwise <,> and  
+moreover a <indig> saree </indig> and a blouse piece are not substitutes <,>  
+<O> laughs </O> they are compliment <,> they are compliment and not  
+substitutes and therefore you can't have law of substitution there 
+
+<ICE-IND:S2A-032#137:1:A>
+Yeah <,> so actual life what happens actual life is you go to a  
+shop <,> you ask the various prices and things like that 
+
+<ICE-IND:S2A-032#138:1:A>
+You see the colour this that etcetera and so on <,> 
+
+<ICE-IND:S2A-032#139:1:A>
+And you know how much you have the money and <,> and therefore <,>  
+then you can order them and take according to you the best <,> 
+
+<ICE-IND:S2A-032#140:1:A>
+So it will be a line like this <,> rather than a curve like this  
+<,,> 
+
+<ICE-IND:S2A-032#141:1:A>
+So but here we have got a choice model <,,> which is uh as if  
+thing 
+
+<ICE-IND:S2A-032#142:1:A>
+It is a world of its own <,> 
+
+<ICE-IND:S2A-032#143:1:A>
+We have created a world of choice making <,,> 
+
+<ICE-IND:S2A-032#144:1:A>
+And then we are making assumptions about substitution <,> and on  
+the basis of that we are deciding the best using the tools of calculus <,,> 
+
+<ICE-IND:S2A-032#145:1:A>
+This is so in the economics of consumption <,> economics of  
+production of international trade any area you go <,,> 
+
+<ICE-IND:S2A-032#146:1:A>
+That is why <,> Professor Samuel San when he wrote his book <,>  
+<mention> Foundations of Economic Analysis </mention> <,> if you see that  
+book <,,> <w> you'll </w> find from page one to the last page <,> it is  
+nothing but a systematic application of the theory of differential calculus  
+<,,> 
+
+<ICE-IND:S2A-032#147:1:A>
+The same tool <,> the same kind of graph but they are interpreted  
+<,> if instead of Q one and Q two I make it K and L it becomes an isoquant  
+<,,> 
+
+<ICE-IND:S2A-032#148:1:A>
+And instead of the budget constraint <,> this becomes a cost line  
+<,> isocostline and wherever they are tangential <,> there it is a question  
+of commodity substitution <,> here it will be a question of fact of  
+substitution <,,> 
+
+<ICE-IND:S2A-032#149:1:A>
+The terminology is different <,> the context is different but the  
+tool is the same <,> 
+
+<ICE-IND:S2A-032#150:1:A>
+At the foundation of economic analysis <,> you have dispariding of  
+thinking <,,> 
+
+<ICE-IND:S2A-032#151:1:A>
+That is the first point I wanted to present to you <,> because if  
+you say what is at the foundation of micro economic is <,> this behaviour is  
+disparidgm <,,> </I> 
+
+

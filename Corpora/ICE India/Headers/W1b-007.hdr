@@ -1,0 +1,149 @@
+<text.info>
+       <file.description>
+                <textcode>ICE-IND-W1B-007</textcode>
+                <number.of.subtexts>002</number.of.subtexts>
+                <category>non-printed:correspondence:social
+                  letters</category>
+                <wordcount>1671</wordcount>
+                <version>lexical</version>
+                <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1B-007a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>27-08-91</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-007a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>10-05-94</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-007a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>12-05-96</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-007a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>30-07-96</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-007a>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>01-12-98</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-007b)>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>03-12-97</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-007b>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>15-03-96</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-007b>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>23-10-91</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-007b>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>03-09-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.source=W1B-007b>
+       <source.type=letter>
+                <format>handwritten</format>
+                <date>10-12-93</date>
+                <copyright.statement>reproduced by permission
+                  of respective persons</copyright.statement>
+                <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1B-007</it>>
+            <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1B-007a)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Kamath</surname>
+                <forenames>Padmanabh</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Mulky, South Kanara,
+                  Karnataka</birthplace>
+                <education>University of Bombay</education>
+               
+<educational.level>Doctorate</educational.level>
+                <occupation>Professor of Politics</occupation>
+                <affiliations>Indian Association for American
+                  Studies, Indian Institute of Public
+                  Administration</affiliations>
+                <mother.tongue>Konkani</mother.tongue>
+                <other.languages>Kannada</other.languages>
+                <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-W1B-007b)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>writer</communicative.role>
+                <surname>Nihalani</surname>
+                <forenames>Narsu K.</forenames>
+                <age>50+</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Gambat, Sind, West
+                  Pakistan</birthplace>
+                <education>Poona University, Benaras Hindu
+                  University</education>
+                <educational.level>Master's
+                  Degree</educational.level>
+                <occupation>Freelance Teacher</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Sindhi</mother.tongue>
+                <other.languages>Hindi</other.languages>
+                <free.comments></free.comments>
+       </biography>
+</text.info>

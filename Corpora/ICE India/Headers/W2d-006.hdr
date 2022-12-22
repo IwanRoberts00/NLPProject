@@ -1,0 +1,54 @@
+<text.info>
+     <file.description>
+              <textcode>ICE-IND-W2D-006</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>printed:instructional:
+                administrative/regulatory</category>
+              <wordcount>2603</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2D-006>
+            <source.type=monograph>
+            <source.title>Shivaji University</source.title>
+            <source.subtitle>Syllabus for M.A.
+              English</source.subtitle>
+            <series>1154</series>
+     <publication.statement>
+            <publisher>Dr. P. B. Sabale</publisher>
+            <address>Registrar, Shivaji University, Kolhapur-
+              416004</address>
+            <place>Kolhapur</place>
+            <date>1993</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of author &
+            publisher</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-006</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Degree of Master of Arts
+                   (M.A.)</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>01-12</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-006</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

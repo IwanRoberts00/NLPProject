@@ -1,0 +1,50 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-018</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:novel</caregory>
+            <wordcount>2595</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2F-018>
+       <source.type=monograph>
+            <source.title>Bitter Harvest</source.title>
+            <source.subtitle>A Saga of the
+              Punjab</source.subtitle>
+       <publication.statement>
+            <publisher>Ajanta Publications</publisher>
+            <address>2192, Malka Ganj, New Delhi-110007</address>
+            <place>new Delhi</place>
+            <date>1996</date>
+            <ISBN>not known</ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by permission of the
+            author and the Publisher</copyright.statement>
+       <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-018>
+       <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Bitter Harvest</main.title>
+            <subtitle>A Saga of the Punjab</subtitle>
+            <page.nos>1-7</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-018>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Dhar</surname>
+            <forenames>Malay Krishna</forenames>
+            <age></age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+</text.info>

@@ -1,0 +1,95 @@
+<text.info>
+     <file.description>
+              <textcode>ICE-IND-W2D-019</textcode>
+              <number.of.subtexts>2</number.of.subtexts>
+              <category>printed:instructional:
+                skills/hobbies</category>
+              <wordcount>2231</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2D-019(1)>
+            <source.type=periodical>
+            <source.title>Amateur Photography</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol-1, No-3</series>
+     <publication.statement>
+            <publisher>Trilok Desai</publisher>
+            <address>Room No. 83, Mahendra Chambers, 134/136, Dr.
+              D. N. Road, Fort, Bombay-400001</address>
+            <place>Bombay</place>
+            <date>December 1989</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of author &
+            publisher</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-019(1)</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Zoom lenses</main.title>
+                 <subtitle>Some tips</subtitle>
+                 <page.nos>21-23</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-019(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname></surname>
+                <forenames>S. Thiagaranjan</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation>Director of Indian Institute of
+                  Photography</occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=W2D-019(2)>
+            <source.type=periodical>
+            <source.title>Amateur Photography</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol-1, No-3</series>
+     <publication.statement>
+            <publisher>Trilok Desai</publisher>
+            <address>Room No. 83, Mahendra Chambers, 134/136, Dr.
+              D. N. Road, Fort, Bombay-400001</address>
+            <place>Bombay</place>
+            <date>December 1989</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of author &
+            publisher</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-019(2)</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Passtime</main.title>
+                 <subtitle>Three Dimension Cards &
+                   Flickers</subtitle>
+                 <page.nos>08</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-019(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

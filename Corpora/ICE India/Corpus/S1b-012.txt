@@ -1,0 +1,705 @@
+<I>
+
+<$A> 
+<ICE-IND:S1B-012#1:1:A>
+The ant and the grasshopper <,,> Somerset <,> Maugham is the
+writer of this fable <,,>
+
+<ICE-IND:S1B-012#2:1:A>
+The fable <,> <mention> the ant and the grasshopper </mention> <,>
+is well known <,,>
+
+<ICE-IND:S1B-012#3:1:A>
+It teaches the moral that one must work hard and save for the future
+<,,>
+
+<ICE-IND:S1B-012#4:1:A>
+The famous British writer Somerset Maugham <,> deals <,> with a very
+<,> conscientious and prudent elder brother <,> and a happy go lucky younger
+brother <,> in this prose <,,>
+
+<ICE-IND:S1B-012#5:1:A>
+Why does he refer to the fable <,> ?
+
+<ICE-IND:S1B-012#6:1:A>
+What is his attitude <,> to <?> having </?> moralising <,> ?
+
+<ICE-IND:S1B-012#7:1:A>
+You will find the answer <,> in this prose <,,>
+
+<ICE-IND:S1B-012#8:1:A>
+When I was a very small boy <,> I was made to learn by heart <,,>
+certain of the fable of <,> La Fontaine <,>
+
+<ICE-IND:S1B-012#9:1:A>
+And the moral of this was carefully <,> explained to me <,>
+
+<ICE-IND:S1B-012#10:1:A>
+Among those <,> I learnt was the ant and the grasshopper <,> which
+is devised <,> to bring home <,> to the young <,> the usefulnesses <,> that
+<,> an <}> <-> <.> im </.> </-> <,,> <=> imperfect </=> </}> world <,,>
+industry is rewarded <,> and <?> greedyness </?> punished <,,>
+
+<ICE-IND:S1B-012#11:1:A>
+It is <,,> the meaning of fable <,>
+
+<ICE-IND:S1B-012#12:1:A>
+My apology <,> for telling something <,> when everyone in politely
+but inexactly <,> supposed to know <,> the ant <,> spends a laborious summer
+<,> gathering its winter store while <,> the grasshopper sings on a bale of
+grass <,> singing to the sun <,>
+
+<ICE-IND:S1B-012#13:1:A>
+Winter comes and the ant is comfortably <,> provided for <,> but
+the grasshopper has an empty larder <,>
+
+<ICE-IND:S1B-012#14:1:A>
+He goes to the ant <,> and begs for a little food <,,>
+
+<ICE-IND:S1B-012#15:1:A>
+Then the ant gives him <,> a classic answer <,,>
+
+<ICE-IND:S1B-012#16:1:A>
+What were you doing in the summer time <,> ?
+
+<ICE-IND:S1B-012#17:1:A>
+Saving your presence <,> I sang all day <,> all night <,,>
+
+<ICE-IND:S1B-012#18:1:A>
+You sang <,> why then go and dance <,>
+
+<ICE-IND:S1B-012#19:1:A>
+I don't ascribe it <,> to perversity on my part <,> but rather to
+the habit of childhood <,> which is deficient in moral sense <,> that I could
+never quite see those advantage to the lesson
+
+<ICE-IND:S1B-012#20:1:A>
+My sympathies were with the grasshopper <,> and for some time <,> I
+never saw an ant <,> without putting my foot on it <,>
+
+<ICE-IND:S1B-012#21:1:A>
+In this summary <,,> and as I have discovered since entirely human
+fashion <,> I sought to express my disapproval of prudence and common sense
+<,,>
+
+<ICE-IND:S1B-012#22:1:A>
+I could not help thinking of this fable when the other day I saw
+<,> George Ramsay <,> lunching by himself in a restaurant <,>
+
+<ICE-IND:S1B-012#23:1:A>
+I never saw anyone <,> wore an expression of such <,> deep gloom
+<,>
+
+<ICE-IND:S1B-012#24:1:A>
+He was staring into space <,>
+
+<ICE-IND:S1B-012#25:1:A>
+He looked as though the burden of the whole world fell on his
+shoulders <,> shoulders <,>
+
+<ICE-IND:S1B-012#26:1:A>
+I was sorry for him <,>
+
+<ICE-IND:S1B-012#27:1:A>
+I suspected at once <,> that his unfortunate brother <,> has been
+causing trouble again <,>
+
+<ICE-IND:S1B-012#28:1:A>
+I went up to him <,> and held out my hand <,>
+
+<ICE-IND:S1B-012#29:1:A>
+Take down the difficult words <,,>
+
+<ICE-IND:S1B-012#30:1:A>
+You read out the words <,>
+
+<$S> 
+<ICE-IND:S1B-012#31:1:S>
+<indig> Haan </indig> <,>
+
+<$A> 
+<ICE-IND:S1B-012#32:1:A>
+<&> BB-Writing begin </&> Prudent - careful <,,> happy go
+lucky - carefree <,,> larder <,,> - room where food is kept <,,> Martin <,,>
+- French man <,,> <?> greedyness </?> <,,> - lack of <,,> industry <,> -
+hardwork <,,> greedyness <,> - irresponsible <,> behaviour <,,> conscientious
+<,,> - honest <,,> <&> BB-Work ends </&> <&> Noise </&>
+
+<$S> 
+<ICE-IND:S1B-012#33:1:S>
+Prudent - careful <,> happy go lucky - carefree <,> larder - a
+room where food is kept <,> Martin - traditional <,> efficient <,> lack of
+industry <,> hardwork <,> greedyness - irresponsible behaviour <,>
+conscientious - honest <,,>
+
+<$A> 
+<ICE-IND:S1B-012#34:1:A>
+The ant and the grasshopper <-> it </-> is a fable <,>
+
+<ICE-IND:S1B-012#35:1:A>
+Fable means a short story which deals with the animal <,> and it
+gives us a moral <,,>
+
+<ICE-IND:S1B-012#36:1:A>
+So fable <,> the ant and the grasshopper it is based on and is
+famous <,,> and it also teaches the moral <,,> that one must work hard <,>
+and <,,> one <}> <-> will </-> <+> should </+> </}> save for the <,> future
+<,,>
+
+<ICE-IND:S1B-012#37:1:A>
+So this moral we will get from this lesson the ant and the
+grasshopper <,,>
+
+<ICE-IND:S1B-012#38:1:A>
+It is written by the famous British writer Somerset Maugham <,>
+
+<ICE-IND:S1B-012#39:1:A>
+The famous British writer Somerset Maugham <,> he deals with a very
+<,> conscientious and prudent <,> elder brother <,> and a happy go lucky
+younger brother in this story <,>
+
+<ICE-IND:S1B-012#40:1:A>
+So we have two brothers <,,> which is <,> one is very careful
+prudent <,> and conscientious very honest <,> and another is <,> very
+carefree <,> happy go lucky
+
+<ICE-IND:S1B-012#41:1:A>
+They are the two brothers in this story <,>
+
+<ICE-IND:S1B-012#42:1:A>
+Why does he refer to the fable <,,> ?
+
+<ICE-IND:S1B-012#43:1:A>
+What is his attitude <,> to <?> having </?> moralising <,> ?
+
+<ICE-IND:S1B-012#44:1:A>
+You will find the answers in it
+
+<ICE-IND:S1B-012#45:1:A>
+So <,,> first the writer has given <,> the fable <,> the story <,>
+about the ant and the grasshopper <,>
+
+<ICE-IND:S1B-012#46:1:A>
+When I was a very small boy I was made to learn <,> by heart <,>
+certain of the fables of <,,> La Fontaine <-> is </-> a French poet and the
+scholar <,>
+
+<ICE-IND:S1B-012#47:1:A>
+And the moral of this <,> was carefully explained to me <,>
+
+<ICE-IND:S1B-012#48:1:A>
+Among those I learnt was ant and the grasshopper <,> which is
+devised <,> to bring home to the young <,,> the usefulness <,> that in an <,>
+imperfect world industry is rewarding <,,>
+
+<ICE-IND:S1B-012#49:1:A>
+<w> It's </w> always hardwork industry means hardwork <,> it is
+rewarding
+
+<ICE-IND:S1B-012#50:1:A>
+If you do the hardwork you will get the prize which is a reward <,>
+
+<ICE-IND:S1B-012#51:1:A>
+And <?> greedyness </?> is punished <,>
+
+<ICE-IND:S1B-012#52:1:A>
+<?> Greedyness </?> <,> irresponsible behaviour in this parable <,>
+
+<ICE-IND:S1B-012#53:1:A>
+If you do you will be punished in this world <,>
+
+<ICE-IND:S1B-012#54:1:A>
+So this is the moral of this lesson <,>
+
+<ICE-IND:S1B-012#55:1:A>
+It is a reasonable fable <,,> the ant <,> spends the laborious
+summer <,> gathering its winter store <,>
+
+<ICE-IND:S1B-012#56:1:A>
+So throughout the summer season <,> the ant worked <,> very hard
+and gathered <,,> its food for the winter season <,>
+
+<ICE-IND:S1B-012#57:1:A>
+While the grasshopper <,> it <}> <-> sit </-> <+> sits </+> </}> on
+a bale of grass and <+> is </+> singing to the sun <,>
+
+<ICE-IND:S1B-012#58:1:A>
+So instead of doing the work <,> grasshopper <,,> in vain <,> waste
+the whole time in singing <,> instead of doing the work <,>
+
+<ICE-IND:S1B-012#59:1:A>
+While the grasshopper sits on a bale of grass singing to the sun
+<,> winter comes and the ant is comfortably provided for <,> but the
+grasshopper has an empty larder <,>
+
+<ICE-IND:S1B-012#60:1:A>
+Larder <,,> the room where the food is kept <,>
+
+<ICE-IND:S1B-012#61:1:A>
+So the ant <-> it </-> has full <-> of </-> larder <,> whereas the
+<w> grasshopper's </w> is empty <,,>
+
+<ICE-IND:S1B-012#62:1:A>
+He goes to the ant and begs for a little food <,>
+
+<ICE-IND:S1B-012#63:1:A>
+See what the ant says <,> the ant says
+
+<ICE-IND:S1B-012#64:1:A>
+Then the ant gives him <,> a classic answer
+
+<ICE-IND:S1B-012#65:1:A>
+There is a traditional answer <,>
+
+<ICE-IND:S1B-012#66:1:A>
+What were you doing in the summer time <,> ?
+
+<ICE-IND:S1B-012#67:1:A>
+She is not ready <,> to give food <}> <-> for </-> <+> to </+> </}>
+the grasshopper <,,>
+
+<ICE-IND:S1B-012#68:1:A>
+Then the grasshopper answers <quote> saving your presence <,> I
+sang all day all night </quote> <,>
+
+<ICE-IND:S1B-012#69:1:A>
+So throughout the day and night <,,> the grasshopper <,> <}> <->
+waste </-> <+> wastes </+> </}> his time <,> in singing <,>
+
+<ICE-IND:S1B-012#70:1:A>
+You sang <,> why <,> then go and dance <,>
+
+<ICE-IND:S1B-012#71:1:A>
+So like this the ant gave the answer <,>
+
+<ICE-IND:S1B-012#72:1:A>
+She is not ready to give the food <,> to the grasshopper <,,>
+
+<ICE-IND:S1B-012#73:1:A>
+I don't ascribe this <,>
+
+<ICE-IND:S1B-012#74:1:A>
+So here the writer refers to the story <,,> I don't ascribe this to
+perversity on my part <,> but rather to the habit of childhood <,> which is
+deficient in moral sense <,>
+
+<ICE-IND:S1B-012#75:1:A>
+So this story <,,> it is lack of moral sense <,> in his childhood
+<,> that I couldn't <,> never first reconcile myself to the lesson <,>
+
+<ICE-IND:S1B-012#76:1:A>
+So which is moral of the lesson <,> the author <,> is not agreeing
+<,>
+
+<ICE-IND:S1B-012#77:1:A>
+My sympathies were with the grasshopper <,> and for sometime <,> I
+never saw an ant without putting my foot on it <,>
+
+<ICE-IND:S1B-012#78:1:A>
+So here the <,> writer has a big sympathy for the grasshopper <,>
+not for the ant <,>
+
+<ICE-IND:S1B-012#79:1:A>
+So this reference <,> <w> we'll </w> get in the story <,> of this
+reference <,,>
+
+<ICE-IND:S1B-012#80:1:A>
+Why the author showed the sympathy to the grasshopper <,,> ?
+
+<ICE-IND:S1B-012#81:1:A>
+My sympathies were with the grasshopper and for sometime <,> I
+never saw an ant without putting my foot on it <,,>
+
+<ICE-IND:S1B-012#82:1:A>
+In this <O> a few words </O> <,,> I sought to express my
+disapproval of prudence and common sense <,>
+
+<ICE-IND:S1B-012#83:1:A>
+So he is not agreeing <,,> about the <,> prudence that he could not
+<,,>
+
+<ICE-IND:S1B-012#84:1:A>
+It was not being careful <,> that is a prudence <,>
+
+<ICE-IND:S1B-012#85:1:A>
+I could not help thinking for this fable when the other day <,> I
+saw George Ramsay <,> lunching by himself in a restaurant <,>
+
+<ICE-IND:S1B-012#86:1:A>
+So in this story there are two brothers <,> one is George Ramsay
+and another is <,> Tom Ramsay <,>
+
+<ICE-IND:S1B-012#87:1:A>
+So next day the writer <,> saw George Ramsay <,> in restaurant <,,>
+
+<ICE-IND:S1B-012#88:1:A>
+I never saw anyone wear an expression of such deep <,> gloom <,>
+
+<ICE-IND:S1B-012#89:1:A>
+So he was in very <,> sad mood <,>
+
+<ICE-IND:S1B-012#90:1:A>
+He was staring into space <,> or looking to the sky <,>
+
+<ICE-IND:S1B-012#91:1:A>
+He looked as if the <,> the burden of the whole world fell on his
+<,> shoulders <,>
+
+<ICE-IND:S1B-012#92:1:A>
+I was sorry for him <,> I suspected at once <,> that his
+unfortunate brother has been causing trouble again <,>
+
+<ICE-IND:S1B-012#93:1:A>
+So he was worried about his younger brother Tom Ramsay <,>
+
+<ICE-IND:S1B-012#94:1:A>
+I went upto him and held out <,> my hand <,,>
+
+<ICE-IND:S1B-012#95:1:A>
+So who are the two brothers <,,> ?
+
+<$S> 
+<ICE-IND:S1B-012#96:1:S>
+George Ramsay and
+
+<$A> 
+<ICE-IND:S1B-012#97:1:A>
+<{> <[> <O> One or two words </O> </[> <,,>
+
+<$S1> 
+<ICE-IND:S1B-012#98:1:S>
+<[> George Ramsay </[> </{>
+
+<$S2> 
+<ICE-IND:S1B-012#99:1:S>
+The two brothers were George Ramsay and Tom Ramsay <,,>
+
+<$A> 
+<ICE-IND:S1B-012#100:1:A>
+How is George Ramsay <,,> ?
+
+<$S> 
+<ICE-IND:S1B-012#101:1:S>
+He was prudent <,,>
+
+<$S1> 
+<ICE-IND:S1B-012#102:1:S>
+George Ramsay was prudent <,,>
+
+<$S2> 
+<ICE-IND:S1B-012#103:1:S>
+George Ramsay was prudent <,,>
+
+<$A> 
+<ICE-IND:S1B-012#104:1:A>
+Then how was <,,> Tom Ramsay <,,> ?
+
+<ICE-IND:S1B-012#105:1:A>
+Nishan <,,> ?
+
+<$S> 
+<ICE-IND:S1B-012#106:1:S>
+Tom Ramsay was a <,,> was carefree <,,>
+
+<$A> 
+<ICE-IND:S1B-012#107:1:A>
+Look <+> at </+> the page and say <,,>
+
+<$S> 
+<ICE-IND:S1B-012#108:1:S>
+He was a happy go lucky <,,>
+
+<$A> 
+<ICE-IND:S1B-012#109:1:A>
+Who is the author of this lesson <,,> ?
+
+<$S> 
+<ICE-IND:S1B-012#110:1:S>
+The author of the lesson is Somerset Maugham <,>
+
+<$A> 
+<ICE-IND:S1B-012#111:1:A>
+Yes ?
+
+<$S1> 
+<ICE-IND:S1B-012#112:1:S>
+The author of the lesson is Somerset Maugham <,,>
+
+<$A> 
+<ICE-IND:S1B-012#113:1:A>
+How the ant spent <,,> its time in summer season <,,> ?
+
+<$S> 
+<ICE-IND:S1B-012#114:1:S>
+The ant spent a laborious <,> summer <,> gathering its winter
+store <,,>
+
+<$S> 
+<ICE-IND:S1B-012#115:1:S>
+The <,> the ant spent laborious summer <,,> collecting <,,>
+collecting the winter food <,,>
+
+<$A> 
+<ICE-IND:S1B-012#116:1:A>
+How the grasshopper spent its time <,,> ?
+
+<ICE-IND:S1B-012#117:1:A>
+Arun <,,> ?
+
+<$S> 
+<ICE-IND:S1B-012#118:1:S>
+The grasshopper <,> sits on a bale of grass <,,> singing <,,>
+
+<$A> 
+<ICE-IND:S1B-012#119:1:A>
+Singing to the <,>
+
+<$S> 
+<ICE-IND:S1B-012#120:1:S>
+Singing to the in summer <,,>
+
+<$A> 
+<ICE-IND:S1B-012#121:1:A>
+Come on tell <,> ?
+
+<$S> 
+<ICE-IND:S1B-012#122:1:S>
+The grasshopper sits on grass and <,> that of grass singing
+the singing <,,>
+
+<$A> 
+<ICE-IND:S1B-012#123:1:A>
+Yes <,,>
+
+<$S> 
+<ICE-IND:S1B-012#124:1:S>
+In summer the grasshopper sits on a bale of grass singing to
+the sun <,,>
+
+<$A> 
+<ICE-IND:S1B-012#125:1:A>
+So who is labourous here <,,> ?
+
+<$S> 
+<ICE-IND:S1B-012#126:1:S>
+Ant
+
+<$CH> 
+<ICE-IND:S1B-012#127:1:C>
+Ant ant <,,>
+
+<$A> 
+<ICE-IND:S1B-012#128:1:A>
+What is the moral of the story <,,> ?
+
+<ICE-IND:S1B-012#129:1:A>
+Shweta <,,> ?
+
+<$S> 
+<ICE-IND:S1B-012#130:1:S>
+The moral of the story is that one must work hard and save
+for the future <,,>
+
+<$A> 
+<ICE-IND:S1B-012#131:1:A>
+Read <,> yes read it <,,> sit down <,> <&> cough </&>
+
+<ICE-IND:S1B-012#132:1:A>
+Come on <,> you are not <?> copying </?> <,>
+
+<$S> 
+<ICE-IND:S1B-012#133:1:S>
+The fable the ant and the grasshopper is well known <,>
+
+<ICE-IND:S1B-012#134:1:S>
+It teaches the moral that one must work hard and save for the
+future <,>
+
+<ICE-IND:S1B-012#135:1:S>
+The famous British writer Somerset Maugham deals with a very <.>
+conscien </.> <,> conscientious and prudent elder brother <,> and a happy go
+lucky younger brother in this story <,>
+
+<ICE-IND:S1B-012#136:1:S>
+Why does he refer to the fable <,> ?
+
+<ICE-IND:S1B-012#137:1:S>
+What is his attitude to have been moralising <,> ?
+
+<ICE-IND:S1B-012#138:1:S>
+You will find the answer in this story
+
+<$CH> 
+<ICE-IND:S1B-012#139:1:C>
+Teacher teacher <,>
+
+<$A> 
+<ICE-IND:S1B-012#140:1:A>
+Now <O> a few words </O> <&> cough </&>
+
+<$S> 
+<ICE-IND:S1B-012#141:1:S>
+When I was <,>
+
+<$S> 
+<ICE-IND:S1B-012#142:1:S>
+When I was <,>
+
+<$S> 
+<ICE-IND:S1B-012#143:1:S>
+When I was a very small boy I was made to learn by heart
+certain of the fables of <,> La Fontaine and the moral of these was carefully
+<,> explain to me <,,>
+
+<ICE-IND:S1B-012#144:1:S>
+Among those I <,> among those I learnt <,> was the ant and the
+grasshopper <,> which is devised to bring home <,> to the young <-> and </->
+<,> the useful lesson that is in an imperfect world industry <,> is rewarded
+and <,> greedyness punished <,>
+
+<ICE-IND:S1B-012#145:1:S>
+It is admirable fable <,> I apologise for telling something which
+everyone is politely but <,> inexactly suppose <,> supposed to know
+
+<ICE-IND:S1B-012#146:1:S>
+The ant spends a laborious summer gathering its <,> winter store
+while the grasshopper sits on a bale of grass <,> singing to the sun <,>
+
+<ICE-IND:S1B-012#147:1:S>
+Winter comes and the ant is comfortably <,> provided for but the
+grasshopper has an empty larder <,>
+
+<ICE-IND:S1B-012#148:1:S>
+He goes to the ant and begs for a little food
+
+<ICE-IND:S1B-012#149:1:S>
+Then the ant gives him a classic answer
+
+<$S> 
+<ICE-IND:S1B-012#150:1:S>
+Teacher
+
+<$S> 
+<ICE-IND:S1B-012#151:1:S>
+Teacher
+
+<$S> 
+<ICE-IND:S1B-012#152:1:S>
+What were you doing in the summer time <,> ?
+
+<ICE-IND:S1B-012#153:1:S>
+Saving <,> saving your presence I sang all day <,> all day <,>
+
+<ICE-IND:S1B-012#154:1:S>
+You sang why then go and dance <,>
+
+<ICE-IND:S1B-012#155:1:S>
+I don't <,> I do not <}> <-> <.> asc </.> </-> <=> ascribe </=>
+</}> it to <}> <-> <.> per </.> </-> <=> perversity </=> </}> on my part <,>
+but rather <,> to the habit of childhood which is defecient in moral sense
+that I could never <}> <-> <.> recon </.> </-> <=> reconcile </=> </}> <,,>
+myself to the lesson
+
+<ICE-IND:S1B-012#156:1:S>
+<{> <[> My sympathies </[>
+
+<$A> 
+<ICE-IND:S1B-012#157:1:A>
+<[> Sit down </[> </{> <,>
+
+<ICE-IND:S1B-012#158:1:A>
+Jaya <,> sit down <,,>
+
+<$S> 
+<ICE-IND:S1B-012#159:1:S>
+My sympathies were with the grasshopper <,> and for sometime
+I never saw an ant without putting my foot on it <,>
+
+<ICE-IND:S1B-012#160:1:S>
+In this summary and as <,> and as I have <}> <-> <.> dis </.>
+</- > <,> <=> discovered </=> </}> since entirely human fashion I sought to
+express my disapproval of prudence and common sense <&> Noise </&>
+
+<$A> 
+<ICE-IND:S1B-012#161:1:A>
+Now who you read it
+
+<$S> 
+<ICE-IND:S1B-012#162:1:S>
+I could not help <,> thinking <}> <-> of this </-> <=> of
+this </=> </}> <,> fable <,> when the other day I saw <,,> George <,> George
+Ramsay <,> lunching by himself in a restaurant <,>
+
+<ICE-IND:S1B-012#163:1:S>
+I never saw anyone <,,> wore an <.> express </.> <,> expression of
+<,> such deep <,> <{> <[> gloom </[>
+
+<$A> 
+<ICE-IND:S1B-012#164:1:A>
+<[> Gloom </[> </{>
+
+<$S> 
+<ICE-IND:S1B-012#165:1:S>
+He was <}> <-> <.> start </.> <,> starting </-> <+> staring
+</+> </}> into space <,>
+
+<$S> 
+<ICE-IND:S1B-012#166:1:S>
+Staring into space <&> Another student </&>
+
+<$S> 
+<ICE-IND:S1B-012#167:1:S>
+Staring into space
+
+<ICE-IND:S1B-012#168:1:S>
+He looked as though the burden of the whole world <,> sat on his
+shoulders <,>
+
+<$S> 
+<ICE-IND:S1B-012#169:1:S>
+<&> Noise another student </&> I was sorry for him
+
+<$S> 
+<ICE-IND:S1B-012#170:1:S>
+I was sorry for him <,>
+
+<ICE-IND:S1B-012#171:1:S>
+I <,>
+
+<$S> 
+<ICE-IND:S1B-012#172:1:S>
+I suspected
+
+<$A> 
+<ICE-IND:S1B-012#173:1:A>
+I suspected
+
+<$S> 
+<ICE-IND:S1B-012#174:1:S>
+Suspected at once that his <.> un </.> <,,>
+
+<$CH> 
+<ICE-IND:S1B-012#175:1:C>
+Unfortunate
+
+<$S> 
+<ICE-IND:S1B-012#176:1:S>
+Unfortunate brother has been causing trouble again
+
+<ICE-IND:S1B-012#177:1:S>
+I went
+
+<$S> 
+<ICE-IND:S1B-012#178:1:S>
+Teacher
+
+<$S> 
+<ICE-IND:S1B-012#179:1:S>
+Teacher
+
+<$A> 
+<ICE-IND:S1B-012#180:1:A>
+<&> Noise several students talk together </&>
+
+<ICE-IND:S1B-012#181:1:A>
+Thank you very much </I>

@@ -1,0 +1,499 @@
+<I>
+
+<ICE-IND:W2A-033#1:1>
+<h> <bold> Philosophy and Methodologies for Protection of Mankind and
+the Environment from Harmful Effects of Ionizing Radiation </bold> </h> <&>
+author </&>
+
+<ICE-IND:W2A-033#2:1>
+<bold> A. Nagaratnam </bold> <it> Defence Metallurgical Research
+Laboratory, Hyderabad </it> - 500 258
+
+<p> 
+<ICE-IND:W2A-033#3:1>
+<bold> In the nuclear energy field, the consciousness of safety,
+the planning of facilities and operations to ensure safety, the methods for
+monitoring to ensure compliance with safety standards, as well as the record
+of safety have been of a very high standard, in contrast to the situation
+with respect to control of hazards from chemical pollutants.
+
+<ICE-IND:W2A-033#4:1>
+The philosophy, methodologies and the data bases that the radiation
+protection community has evolved are of great relevance and applicability in
+the wider context of environmental protection, public health and industrial
+safety </bold> . </p> <&> in two columns </&> <&> column one </&>
+
+<ICE-IND:W2A-033#5:1>
+<h> <bold> Introduction </bold> </h>
+
+<p> 
+<ICE-IND:W2A-033#6:1>
+Mankind is reaping immense benefits from the application of
+nuclear energy in various fields - - power production, medicine, industry,
+agriculture and research.
+
+<ICE-IND:W2A-033#7:1>
+We know that any facet of human advance involves acceptance of some
+risk, and radiation is no exception.
+
+<ICE-IND:W2A-033#8:1>
+We have to balance risks vs benefits and arrive at an optimum
+solution.
+
+<ICE-IND:W2A-033#9:1>
+In the nuclear energy field, the consciousness of safety, the
+planning of facilities and operations to ensure safety, the constant
+review and updating of risk estimates in the light of newer knowledge, the
+methods for monitoring to ensure compliance with safety standards, as well
+as the record of safety are unparalled, Chernobyl notwithstanding.
+
+<ICE-IND:W2A-033#10:1>
+In contrast, the situation with respect to control of hazards from
+chemical pollutants is grim.
+
+<ICE-IND:W2A-033#11:1>
+Bhopal was the worst industrial disaster in history, but it is clear
+that we have learnt very little from <mention> Bhopal </mention> in terms of
+corrective measures that have been instituted by the chemical industry
+community anywhere in the world.
+
+<ICE-IND:W2A-033#12:1>
+The response of nuclear experts to Chernobyl stands in refreshing
+contrast. </p>
+
+<p> 
+<ICE-IND:W2A-033#13:1>
+The philosophy, methodologies, techniques and the data bases that
+the radiation protection community has evolved are of great relevance in the
+wider context of <mention> environmental protection </mention> , <mention>
+public health </mention> and <mention> industrial safety </mention> .
+
+<ICE-IND:W2A-033#14:1>
+Whereas we have extensive knowledge on the long-term effects of
+low level ionizing radiation, there is very little corresponding
+information for the thousands of chemicals in extensive use.
+
+<ICE-IND:W2A-033#15:1>
+Generally the immediate toxic effects are those that determine the
+setting of limits ( like TLV ) for chemicals.
+
+<ICE-IND:W2A-033#16:1>
+Because of this wide difference in our knowledge in the two cases,
+attempts have been made to equate the hazardous effects of chemicals in
+terms of a unit called <mention> REC </mention> , radiation equivalent
+chemical. </p>
+
+<ICE-IND:W2A-033#17:1>
+<h> <bold> INPUTS TOWARDS SAFETY IN NUCLEAR ENERGY APPLICATIONS
+</bold> </h>
+
+<p> 
+<ICE-IND:W2A-033#18:1>
+Around 10 - 15 % of the total capital costs of major systems like
+a nuclear power plant go towards safety features such as shields and
+stacks.
+
+<ICE-IND:W2A-033#19:1>
+Similarly around 5 - 10 % of running costs and manpower are devoted
+to safety maintenance, whether it is a major activity like operating a
+nuclear reactor or a much smaller activity like running a radiotherapy or
+nuclear medicine department.
+
+<ICE-IND:W2A-033#20:1>
+In this connection it is instructive to have a look at the figures
+for our nuclear energy activities.
+
+<ICE-IND:W2A-033#21:1>
+The data have been kindly supplied by Sri S.D. Soman, Director,
+Health and Safety Group, BARC ( Soman, 1988 ) .
+
+<ICE-IND:W2A-033#22:1>
+We have around 34,000 radiation workers ( 12,300 in the
+establishments of the Department of Atomic Energy and 21,500 in non-DAE
+establishments, mainly in diagnostic X-ray departments and other medical
+applications as well as some industrial and research application areas ) .
+
+<ICE-IND:W2A-033#23:1>
+There are around 820 scientific staff in DAE who are dedicated to
+looking after the safety of these workers, giving a figure of one safety
+person per 41 radiation workers.
+
+<ICE-IND:W2A-033#24:1>
+In fact, around 45 % of these workers do not get any radiation dose
+at all.
+
+<ICE-IND:W2A-033#25:1>
+If this is taken into account, there is one safety person per 23
+workers with non-zero dose.
+
+<ICE-IND:W2A-033#26:1>
+The annual per capita expenditure on the safety of each radiation
+worker getting non-zero dose is Rs. <O> <&> page </&> 883 </O> 2660/-. </p>
+
+<ICE-IND:W2A-033#27:1>
+<h> <bold> THE ROLE OF THE INTERNATIONAL ATOMIC ENERGY AGENCY ( IAEA )
+</bold> </h>
+
+<p> 
+<ICE-IND:W2A-033#28:1>
+<mention> IAEA </mention> has brought out so far around 1150
+publications.
+
+<ICE-IND:W2A-033#29:1>
+Out of these 28 % are listed directly under the heading <quote> `
+nuclear safety and environmental protection' </quote> .
+
+<ICE-IND:W2A-033#30:1>
+Another 3 % deals with <quote> ` radiation biology, dosimetry and
+pollution studies' </quote> , which are directly concerned with protection.
+
+<ICE-IND:W2A-033#31:1>
+In addition, another 8 % is concerned with <quote> ` reactor control
+instrumentation, reliability, inspection and quality assurance' </quote>
+which have a direct bearing on safety.
+
+<ICE-IND:W2A-033#32:1>
+Thus around 40 % of the total publications deal with safety.
+
+<ICE-IND:W2A-033#33:1>
+Is there a similar parallel in any of the other industries or
+occupations ?
+
+<ICE-IND:W2A-033#34:1>
+The International Nuclear Information System ( INIS ) is
+comprehensive, systematically organised and standardised.
+
+<ICE-IND:W2A-033#35:1>
+Information retrieval with respect to any aspect of nuclear energy is
+easy and quick.
+
+<ICE-IND:W2A-033#36:1>
+For example, full details of alI power and research reactors all over
+the world are available at one place.
+
+<ICE-IND:W2A-033#37:1>
+Can we hope to get information at short notice about any of the
+chemical plants that are potentially hazardous, say, those producing
+pesticides ?
+
+<ICE-IND:W2A-033#38:1>
+In 1974 <mention> IAEA </mention> initiated a programme on Nuclear
+Power Plant Safety Standards ( NUSS ) , which today consist of 5 Codes of
+Practice and 60 Guides giving procedures for implementing the Codes. </p>
+
+<p> 
+<ICE-IND:W2A-033#39:1>
+Ater the 3 mile Island accident in 1979 <w> <mention> IAEA's
+</mention> </w> safety programme was reviewed, and in 1981 a separate
+Division of Nuclear Safety was established.
+
+<ICE-IND:W2A-033#40:1>
+Several elements were added, including Operational Safety Review
+Teams ( OSART ) , the Incident Reporting System ( IRS ) , and an
+International Nuclear Safety Advisory Group ( INSAG ) .
+
+<ICE-IND:W2A-033#41:1>
+<mention> IAEA </mention> seeks to promote emergency planning and
+preparedness.
+
+<ICE-IND:W2A-033#42:1>
+Guidelines were developed in 1984 for mutual emergency assistance.
+
+<ICE-IND:W2A-033#43:1>
+In 1985 a Radiation Protection Advisory Team ( RAPAT ) was
+established to deal with non-power applications of nuclear energy.
+
+<ICE-IND:W2A-033#44:1>
+What about Chernobyl ?
+
+<ICE-IND:W2A-033#45:1>
+The international nuclear community was partially prepared even
+before the accident for managing an event like Chernobyl.
+
+<ICE-IND:W2A-033#46:1>
+Immediately after the accident <mention> IAEA </mention> received
+information on fallout levels from various countries and helped to a
+certain extent in the dissemination of information.
+
+<ICE-IND:W2A-033#47:1>
+But, in the overall context, as Hans Blix, the Director-General
+of <mention> IAEA </mention> handsomely admits, important elements
+were missing in a viable international safety regime ( Blix, 1987 ) .
+
+<ICE-IND:W2A-033#48:1>
+But <mention> IAEA </mention> has not spared any effort to learn from
+Chernobyl and has expeditiously taken all appropriate corrective measures.
+
+<ICE-IND:W2A-033#49:1>
+Within a month of the accident, texts of two conventions, namely
+early notification convention and convention on assistance in the event of a
+nuclear accident or radiological emergency, were adopted.
+
+<ICE-IND:W2A-033#50:1>
+The weak links in the chain were identified and action taken by
+the <mention> IAEA </mention> for better information exchange, man-machine
+interface, operator qualifications, international accreditation of
+training programmes, fire protection, medical judgement, and biological
+dosimetry. </p>
+
+<ICE-IND:W2A-033#51:1>
+<h> <bold> <mention> lCRP </mention> PHlLOSOPHY AND METHODOLOGIES
+</bold> </h>
+
+<p> 
+<ICE-IND:W2A-033#52:1>
+The International Commission on Radiological Protection ( ICRP )
+makes periodic recommendations on all aspects of radiological protection.
+
+<ICE-IND:W2A-033#53:1>
+Although it is only an Advisory Body, its recommendations have been
+unanimously accepted by each and every country in the world, as well as by
+international organisations like <mention> WHO </mention> , <mention> FAO
+</mention> , <mention> ILO </mention> and <mention> IAEA </mention> .
+
+<ICE-IND:W2A-033#54:1>
+<mention> lCRP </mention> has brought out so far 55 publications
+running into about 7000 pages.
+
+<ICE-IND:W2A-033#55:1>
+<w> <mention> ICRP's </mention> </w> policy is to consider the
+fundamental principles upon which radiation protection measures can be
+based.
+
+<ICE-IND:W2A-033#56:1>
+Because of the differing conditions that apply in various
+countries, detailed guidelines on the applications of its
+recommendations, either in regulations or codes of practice, are to be
+elaborated by the appropriate national or international bodies.
+
+<ICE-IND:W2A-033#57:1>
+For this reason, <w> <mention> ICRP's </mention> </w> recommendations
+provide a degree of flexibility.
+
+<ICE-IND:W2A-033#58:1>
+<mention> ICRP </mention> defines the objective of radiation
+protection as follows : <quote> ` Radiation protection is concerned with the
+protection of individuals, their progeny, and mankind as a whole, while still
+allowing necessary activities from which radiation exposure might result.'
+</quote>
+
+<ICE-IND:W2A-033#59:1>
+The level of safety required for the protection of humans is thought
+likely to be adequate to protect other species as well. </p>
+
+<ICE-IND:W2A-033#60:1>
+<h> <bold> Detrimental effects against which protection is required
+</bold> </h>
+
+<p> 
+<ICE-IND:W2A-033#61:1>
+The detrimental effects against which protection is required are
+Somatic and Hereditary.
+
+<ICE-IND:W2A-033#62:1>
+Somatic effects become manifest in the exposed individual himself and
+hereditary effects affect his descendents.
+
+<ICE-IND:W2A-033#63:1>
+<mention> ICRP </mention> makes a distinction between stochastic and
+non-stochastic effects.
+
+<ICE-IND:W2A-033#64:1>
+Non-stochastic effects are those for which the severity of the effect
+varies with the dose, and for which there is likely to be a threshold <O> <&>
+page </&> 884 </O> dose below which no detrimental effects are seen.
+
+<ICE-IND:W2A-033#65:1>
+Examples are cataract, damage to bone marrow leading to blood
+deficiencies ( like anaemia ) , impaired fertility, etc. </p>
+
+<p> 
+<ICE-IND:W2A-033#66:1>
+Stochastic effects are those for which the probability of an
+effect occurring, rather than its severity, is a function of the dose.
+
+<ICE-IND:W2A-033#67:1>
+To be on the safe side it is conservatively assumed that stochastic
+effects have no threshold; even the smallest dose does have a probability of
+producing the effect.
+
+<ICE-IND:W2A-033#68:1>
+Cancer induction and hereditary effects are the major causes of
+concern in stochastic effects.
+
+<ICE-IND:W2A-033#69:1>
+To illustrate the nature of the stochastic effect, we may notice
+that when a person gets leukaemia as a result of radiation exposure,
+whether he gets the disease from a dose of 100 rem or 200 rem is immaterial;
+the disease is going to run the same serious course.
+
+<ICE-IND:W2A-033#70:1>
+All that one can say is that the probability of getting leukaemia
+from an exposure of 100 rem is less than that from an exposure to 200 rem.
+
+<ICE-IND:W2A-033#71:1>
+It is worth noting that even in the case of chemicals we should
+legitimately make this distinction between stochastic and
+non-stochastic effects, but this is not explicitly done. </p>
+
+<ICE-IND:W2A-033#72:1>
+<h> <bold> Aim of radiation protection </bold> </h>
+
+<p> 
+<ICE-IND:W2A-033#73:1>
+The aim of radiation protection is to prevent non-stochastic
+effects and to limit the probability of stochastic effects to levels deemed
+to be acceptable.
+
+<ICE-IND:W2A-033#74:1>
+Non-stochastic effects can be prevented by setting the dose limits at
+sufficiently low values so that the threshold dose would not be reached, even
+following exposure for the whole of a lifetime ( for members of the
+public ) or for the total period of working life ( in the case of
+occupational exposure ) .
+
+<ICE-IND:W2A-033#75:1>
+The limitation of stochastic effects is dealt with later. ) ICRP
+publication 26, brought out in 1977, is an epoch-making document.
+
+<ICE-IND:W2A-033#76:1>
+( It is likely to undergo a major revision in 1990. )
+
+<ICE-IND:W2A-033#77:1>
+It recommends a system of protection whose philosophy and
+methodologies have profound implications in all areas of risk management (
+<mention> ICRP </mention> , 1977a ) . </p>
+
+<ICE-IND:W2A-033#78:1>
+<h> <bold> System of dose limitation </bold> </h>
+
+<ICE-IND:W2A-033#79:1>
+This has 3 components, namely <mention> Justification </mention> ,
+<mention> Optimisation </mention> , and <mention> Dose limitation
+</mention> .
+
+<p> 
+<ICE-IND:W2A-033#80:1>
+<h> Justification : </h>
+
+<ICE-IND:W2A-033#81:1>
+No practice shall be adopted unless its introduction produces a
+positive net benefit.
+
+<ICE-IND:W2A-033#82:1>
+( This implies a cost-benefit analysis. ) </p>
+
+<p> 
+<ICE-IND:W2A-033#83:1>
+<h> Optimisation ( ALARA ) : </h>
+
+<ICE-IND:W2A-033#84:1>
+All exposures shall be kept as low as reasonably achievable, economic
+and social factors being taken into account.
+
+<ICE-IND:W2A-033#85:1>
+This is the famous ALARA principle.
+
+<ICE-IND:W2A-033#86:1>
+( It implies a differential cost-benefit analysis. ) </p>
+
+<p> 
+<ICE-IND:W2A-033#87:1>
+<h> Dose limitation : </h>
+
+<ICE-IND:W2A-033#88:1>
+Doses to individuals shall not exceed the prescribed limits.
+
+<ICE-IND:W2A-033#89:1>
+( This is the overriding clause.
+
+<ICE-IND:W2A-033#90:1>
+It is intended to ensure that the risk to any individual does not
+exceed acceptable limits, even if the practice might have been justified.
+
+<ICE-IND:W2A-033#91:1>
+<mention> ALARA has </mention> to be applied subject to this
+limitation on individual dose ) . </p>
+
+<p> 
+<ICE-IND:W2A-033#92:1>
+The concepts of justification and Optimisation have been
+elaborately developed by </w> <mention> ICRP </mention> and guidelines have
+been provided for applying them in a variety of practical cases.
+
+<ICE-IND:W2A-033#93:1>
+A parameter used for optimisation is the collective dose, which is
+the product of the number of persons exposed in a group multiplied by the
+average dose to this group.
+
+<ICE-IND:W2A-033#94:1>
+It is a measure of the total health detriment to the population as a
+whole and of the burden on society that this detriment will impose ( say,
+in terms of hospitalisation facilities or economic expenditure ) .
+
+<ICE-IND:W2A-033#95:1>
+This parameter is of applicability to chemical pollutants as well.
+</p>
+
+<ICE-IND:W2A-033#96:1>
+<h> <bold> Categories of exposure </bold> </h>
+
+<p> 
+<ICE-IND:W2A-033#97:1>
+<mention> ICRP </mention> distinguishes between controllable and
+non-controllable exposures.
+
+<ICE-IND:W2A-033#98:1>
+In the former case, the occurrence of the exposure is foreseen and
+can be limited by control of the source and development of satisfactory
+operating procedures.
+
+<ICE-IND:W2A-033#99:1>
+ln the case of uncontrollable exposures ( as in the case of
+accidents ) , the exposure is not subject to control, so that subsequent
+exposure can be limited, if at all, only by remedial action.
+
+<ICE-IND:W2A-033#100:1>
+Since remedial action itself ( for example evacuation, denial of
+certain areas or contaminated foodstuffs for a time period ) may interfere
+severely with normal activities, impose a social or economic burden, and in
+certain cases pose its own hazards, the type of remedial action should be
+planned on the basis of a cost-benefit analysis. ( Paractical guidelines for
+specific situations are given by <mention> ICRP </mention> . ) </p>
+
+<p> 
+<ICE-IND:W2A-033#101:1>
+<mention> ICRP </mention> has developed to a high degree of
+sophistication probabilistic risk assessment methodologies.
+
+<ICE-IND:W2A-033#102:1>
+Other institutions in the nuclear field have also devoted
+considerable attention to risk assessment; as an important example may be
+mentioned the <mention> Event-Tree </mention> and <mention> Fault-Tree
+Analysis </mention> extensively developed for assessment of reactor safety in
+the monumental <O> <&> page </&> 885 </O> monograph brought out in 1976 in
+USA and usually referred to as the <mention> Rasmussen Report </mention> or
+<mention> WASH-1400 </mention> .
+
+<ICE-IND:W2A-033#103:1>
+<mention> ICRP </mention> also makes a distinction between
+occupational exposure and exposure of a member of the public.
+
+<ICE-IND:W2A-033#104:1>
+The former is characterised by involving a small number of persons,
+who will be adults above the age of 18, with a knowledge of radiation hazards
+and protective measures, taking up the occupation willingly, and under strict
+health physics and medical surveillance.
+
+<ICE-IND:W2A-033#105:1>
+On the other hand, the members of the public comprise a much larger
+population, including radiosensitive groups like children and pregnant
+women and women of reproductive capacity, not capable of strict supervision,
+and generally not benefiting from the radiation exposure.
+
+<ICE-IND:W2A-033#106:1>
+Hence different dose limits are prescribed in the two cases.
+
+<ICE-IND:W2A-033#107:1>
+It is obvious that such a distinction applies in the case of
+chemical pollutants as well. </p> </I>

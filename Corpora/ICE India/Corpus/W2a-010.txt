@@ -1,0 +1,534 @@
+<I>
+
+<ICE-IND:W2A-010#1:1>
+<&> N.B. In this text there are several Sanskrit items which contain
+diacritical ones.
+
+<ICE-IND:W2A-010#2:1>
+Since these are <mention> unusable characters </mention> we have
+transcribed them without the diacritical marks </&>
+
+<ICE-IND:W2A-010#3:1>
+<h> <bold> Musical Creativity : Its Affinity with Other Arts and its
+Uniqueness </bold> </h> <&> right justification </&>
+
+<ICE-IND:W2A-010#4:1>
+<bold> Premlata Sharma </bold>
+
+<p> 
+<ICE-IND:W2A-010#5:1>
+<quote> ` MUSIC' </quote> in this paper refers to Indian music in
+particular.
+
+<ICE-IND:W2A-010#6:1>
+This word is taken here in its current meaning, covering vocal and
+instrumental rendering, excluding dance. </p>
+
+<p> 
+<ICE-IND:W2A-010#7:1>
+The affinity of music with other arts is the most conspicuous in
+the case of literature, specially in the Indian tradition because of the
+prime place accorded to vocal music and because of the textual component of
+vocal music, which is often meaningful, though non-lexical text is not
+ruled out.
+
+<ICE-IND:W2A-010#8:1>
+<indig=sanskrit> <it> Nada </it> </indig=sanskrit> ( roughly tone )
+is the basic material of music and <indig=sanskrit> <it> varna </it>
+</indig=sanskrit> ( syllable) is that of literature and both are inseparable
+in a way.
+
+<ICE-IND:W2A-010#9:1>
+Hence we begin our enquiry with the affinity of music with literature.
+</p>
+
+<p> 
+<ICE-IND:W2A-010#10:1>
+Talking of training, it would be interesting to cite Mammata who
+mentions training as one of the three factors that cumulatively contribute
+to poetic creativity. </p>
+
+<p> 
+<ICE-IND:W2A-010#11:1>
+<quote> " Inborn ability <indig=sanskrit> <it> ( sakti ) </it>
+</indig=sanskrit> , proficiency <indig=sanskrit> <it> ( nipunata ) </it>
+</indig=sanskrit> that is attained through observation of <indig=sanskrit>
+<it> loka </it> </indig=sanskrit> or life and study of treatise of authority
+<indig=sanskrit> <it> ( sastra ) </it> </indig=sanskrit> and practice
+<indig=sanskrit> <it> ( abhyasa ) </it> </indig=sanskrit> according to
+instruction received from the knowledgeable ones in literature, these
+three cumulatively bring about the creation of literature." </quote> </p>
+
+<p> 
+<ICE-IND:W2A-010#12:1>
+All these three factors are equally applicable in musical
+creativity.
+
+<ICE-IND:W2A-010#13:1>
+Inborn talent is the first requisite.
+
+<ICE-IND:W2A-010#14:1>
+This is explained as <indig=sanskrit> <it> samskarn </it>
+</indig=sanskrit> ( lit.impression ) or <indig=sanskrit> <it> vasana </it>
+</indig=sanskrit> which could be explained as <quote> ` the present
+consciousnss of past perceptions' </quote> ( Monier Williams ) ; this word is
+derived from the root <indig=sanskrit> <it> vas </it> </indig=sanskrit>
+meaning <quote> ` to perfume or scent' </quote> .
+
+<ICE-IND:W2A-010#15:1>
+The idea is that an impression permeates the mind as a scent
+permeates an object like a piece of cloth.
+
+<ICE-IND:W2A-010#16:1>
+In Sanskrit idiom, <indig=sanskrit> <it> <quote> ` vasana' </quote>
+</it> </indig=sanskrit> is a more basic word that is explained as
+<indig=sanskrit> <it> samskara </it> </indig=sanskrit> . </p>
+
+<p> 
+<ICE-IND:W2A-010#17:1>
+While explaining the perception of musical intervals, Kumbha
+speaks of the <indig=sanskrit> <it> anadi vasana </it> </indig=sanskrit> or
+beginningless impression <O> <&> page </&> 12 </O> in the listener and
+performer.
+
+<ICE-IND:W2A-010#18:1>
+Thus, <it> inborn talent </it> that is nothing but a bundle of
+impressions accumulated in previous births, according to Indian thought, is
+accepted to play a vital role in musical creativity not only in performance,
+but also in listening.
+
+<ICE-IND:W2A-010#19:1>
+This could be said to be true of all the arts. </p>
+
+<p> 
+<ICE-IND:W2A-010#20:1>
+In the attainment of proficiency, the observation of
+<indig=sanskrit> <it> loka </it> </indig=sanskrit> i.e. the behaviour of
+static and dynamic beings <indig=sanskrit> <it> ( sthavarajangama ) </it>
+</indig=sanskrit> and the study of treatises of authority <indig=sanskrit>
+<it> ( sastra ) </it> </indig=sanskrit> is said to be essential.
+
+<ICE-IND:W2A-010#21:1>
+While <indig=sanskrit> <it> loka </it> </indig=sanskrit> , which in
+a wider view, could be said to include all aspects of life, inner and outer,
+is basic to any art, whether it is drama, music, literature, painting,
+sculpture or architecture, its presentation is direct in some arts and
+indirect in others.
+
+<ICE-IND:W2A-010#22:1>
+Music falls in the latter category.
+
+<ICE-IND:W2A-010#23:1>
+<indig=sanskrit> <it> Natyasastra </it> </indig=sanskrit> speaks of
+<indig=sanskrit> <it> loka-vrtta </it> </indig=sanskrit> , as the object of
+depiction and it has been said to be comprised of <indig=sanskrit> <it>
+karman </it> </indig=sanskrit> and <indig=sanskrit> <it> bhava </it>
+</indig=sanskrit> that could be roughly translated as action and mental state
+or the <quote> ` outer' </quote> and <quote> ` inner' </quote> of life. </p>
+
+<p> 
+<ICE-IND:W2A-010#24:1>
+Mammata has enumerated the following disciplines that are
+prescribed for study by an aspirant of creativity in literature - - <quote> "
+<indig=sanskrit> <it> chandas </it> </indig=sanskrit> ( prosody ) ,
+<indig=sanskrit> <it> vyakarana </it> </indig=sanskrit> ( grammar),
+<indig=sanskrit> <it> abhidhana </it> </indig=sanskrit> ( vocabulary ) ,
+<indig=sanskrit> <it> kosa </it> </indig=sanskrit> ( lexicon),
+<indig=sanskrit> <it> kala </it> </indig=sanskrit> ( arts ) , the four
+<indig=sanskrit> <it> purusarthas </it> </indig=sanskrit> ( viz.,
+<indig=sanskrit> <it> dharma, artha, kama, moksa </it> </indig=sanskrit> )
+and the characteristics of elephants horses and weapons like swords."
+</quote> </p>
+
+<p> 
+<ICE-IND:W2A-010#25:1>
+It is interesting to compare the requisites of a musical composer
+<indig=sanskrit> <it> ( vaggeyakara ) </it> </indig=sanskrit> outlined in
+<indig=sanskrit> <it> Sangita-Ratnakara </it> </indig=sanskrit> . </p>
+
+<p> 
+<ICE-IND:W2A-010#26:1>
+<quote> " <*> dotted line</*> a thorough knowledge of grammar,
+proficiency in lexicography, knowledge of prosody ( lit. differentiating
+among the various meters ) , proficiency in the use of ( different ) figures
+of speech, comprehension of aesthetic delight <indig=sanskrit> <it> ( rasa )
+</it> </indig=sanskrit> as related to ( different ) emotive states of being
+<indig=sanskrit> <it> ( bhava ) </it> </indig=sanskrit> , intelligent
+familiarity with local custom, knowledge of many languages, proficiency in
+the scientific theories of fine arts, expert knowledge of <indig=sanskrit>
+<it> laya </it> </indig=sanskrit> ( tempo ) , <indig=sanskrit> <it> tala
+</it> </indig=sanskrit> ( musical tine ) and <indig=sanskrit> <it> kala
+</it> </indig=sanskrit> , discrimination of different intonations, a
+versatile genius, a beautiful musical rendering, acquaintance with
+regional <indig=sanskrit> <it> ( desi ) ragas </it> </indig=sanskrit> ,
+cleverness in conversation for victory in debates, freedom from <mention>
+like </mention> and <mention> dislike </mention> , aesthetic sensitivity, a
+sense of propriety in expression and new melodic forms, knowledge of <w>
+another's </w> mind, maturity in the understanding of different (
+varieties of ) <indig=sanskrit> <it> prabandhas </it> </indig=sanskrit> the
+ability to compose songs at short notice, the expert <O> <&> page </&> 13
+</O> knowledge of composing different verbal structures for particular
+melodic forms, maturity in producing <indig=sanskrit> <it> gamaka-s </it>
+</indig=sanskrit> ( shakes and graces ) pervading the three registers,
+proficiency in ( the presentation of ) different ( forms of )
+<indig=sanskrit> <it> alapa </it> </indig=sanskrit> and attention." </quote>
+</p>
+
+<p> 
+<ICE-IND:W2A-010#27:1>
+An analysis of the aove requisites reveals that since the musical
+composer is required to compose the text of the song along with its melodic
+and rhythmic structure, his qualifications include those of the poet, the
+musician and general qualities of the mind like attention, freedom from like,
+dislike etc.
+
+<ICE-IND:W2A-010#28:1>
+We have to note here that prime position is given to vocal music in
+the Indian tradition, on account of which the concept of a composer happens
+to be what is described above. </p>
+
+<p> 
+<ICE-IND:W2A-010#29:1>
+The third factor contributing to poetic creativity enumerated by
+Mammata is <indig=sanskrit> <it> abhyasa </it> </indig=sanskrit> or practice
+based on training under knowledgeable ones in literature.
+
+<ICE-IND:W2A-010#30:1>
+In music, <indig=sanskrit> <it> abhyasa </it> </indig=sanskrit>
+plays an extremely vital role.
+
+<ICE-IND:W2A-010#31:1>
+Bhartrhari has expounded <indig=sanskrit> <it> abhyasa </it>
+</indig=sanskrit> as a <indig=sanskrit> <it> pramana </it> </indig=sanskrit>
+or means of valid knowledge in the perception of musical notes.
+
+<ICE-IND:W2A-010#32:1>
+It is by repetitive listening that proficiency in the perception of
+<indig=sanskrit> <it> svaras </it> </indig=sanskrit> is acquired.
+
+<ICE-IND:W2A-010#33:1>
+Similarly, <indig=sanskrit> <it> <quote> ` kriya' </quote> </it>
+</indig=sanskrit> , another name for <indig=sanskrit> <it> abhyasa </it>
+</indig=sanskrit> or practice is a basic requisite of a performer of music.
+
+<ICE-IND:W2A-010#34:1>
+All arts require practice, but for performing arts including music,
+it is indispensable.
+
+<ICE-IND:W2A-010#35:1>
+Today the element of training has almost vanished from literature.
+</p>
+
+<p> 
+<ICE-IND:W2A-010#36:1>
+Having dealt with the similarity between the reqisites of
+creativity in literature and music, we could turn attention to the special
+features that distinguish music as a performing art from other arts.
+
+<ICE-IND:W2A-010#37:1>
+In a performing art, there is no finished product as such, creativity
+is concurrent with performance.
+
+<ICE-IND:W2A-010#38:1>
+This is not the case with literature and visual arts.
+
+<ICE-IND:W2A-010#39:1>
+In Indian music, the three functions of creativity, viz.,
+imagination, execution and evaluation are discharged simultaneously.
+
+<ICE-IND:W2A-010#40:1>
+Since pre-composed or pre-determined material forms a very small
+percentage of the material presented in art-music, imagination is also
+brought into play by the performer.
+
+<ICE-IND:W2A-010#41:1>
+He makes the mental images of tonal formations, renders them with
+voice or on instruments and constantly evaluates whether or not his execution
+is upto the mark with reference to the image concerned.
+
+<ICE-IND:W2A-010#42:1>
+Of course, it should be noted that imagination in Indian music
+operates in the given framework of the <indig=sanskrit> <it> raga, tala
+</it> </indig=sanskrit> and type of composition taken up for performance.
+
+<ICE-IND:W2A-010#43:1>
+This framework <O> <&> page </&> 14 </O> is handed down by tradition
+and is transmitted through training.
+
+<ICE-IND:W2A-010#44:1>
+No other art has such a strong framework excepting, perhaps, temple
+architecture.
+
+<ICE-IND:W2A-010#45:1>
+Tradition here does not mean something static or rigid; it is a
+continuous flow of creativity that finds room within a given framework. </p>
+
+<p> 
+<ICE-IND:W2A-010#46:1>
+The above three functions are performed at three different stages
+by different persons in Western music, drama and architecture.
+
+<ICE-IND:W2A-010#47:1>
+In Western music, the composer is responsible for imagination, the
+performer for execution and the conductor for evaluation or interpretation.
+
+<ICE-IND:W2A-010#48:1>
+In drama, the poet imagines, the actor executes and the director
+evaluates or interprets.
+
+<ICE-IND:W2A-010#49:1>
+In architecture, the architect is the one who imagines, a team of
+workers and artisans execute and the engineer or overseer evaluates and
+interprets.
+
+<ICE-IND:W2A-010#50:1>
+The crux of creativity lies in imagination and hence the composer,
+poet and architect enjoy an exalted position. </p>
+
+<p> 
+<ICE-IND:W2A-010#51:1>
+With regard to the creative process again, Indian music is unique
+because the corpus of the framework handed down by tradition is built up
+constantly by unidentified musicians.
+
+<ICE-IND:W2A-010#52:1>
+Two streams in musical creativity have been recognised - - one is
+referential and the other is non-referential or autonomous.
+
+<ICE-IND:W2A-010#53:1>
+<mention> NS </mention> gives them the names <indig=sanskrit> <it>
+gana </it> </indig=sanskrit> and <indig=sanskrit> <it> gandharva </it>
+</indig=sanskrit> respectively.
+
+<ICE-IND:W2A-010#54:1>
+Abhinavagupta has elaborately elucidated the distinction between
+the two.
+
+<ICE-IND:W2A-010#55:1>
+In <mention> NS </mention> , the point of reference in the case of
+referential music is naturally drama.
+
+<ICE-IND:W2A-010#56:1>
+Even otherwise, the referential component of any music is nothing
+but a situation from life which includes both animate and inanimate beings.
+
+<ICE-IND:W2A-010#57:1>
+A situation itself is a drama in miniature form.
+
+<ICE-IND:W2A-010#58:1>
+When one creates music for drama or for a given situation, the
+creativity springs from the <w> composer's </w> identification with the
+given situation.
+
+<ICE-IND:W2A-010#59:1>
+This identification again as different from the common <w> man's
+</w> identification with a situation in actual life. </p>
+
+<p> 
+<ICE-IND:W2A-010#60:1>
+The above point has been beautifully explained by
+Abhinavagupta in his commentary on <indig=sanskrit> <it> Dhvanyaloka
+</it> </indig=sanskrit> , 1.5, where he discusses the identification of
+Valmiki with the pathetic situation of one <indig=sanskrit> <it> kraunca
+</it> </indig=sanskrit> bird out of the pair that was involved in
+lovemaking.
+
+<ICE-IND:W2A-010#61:1>
+He says that Valmiki was not afflicted with grief, because if that
+were so, the moment of poetic creativity would not have dawned upon him.
+
+<ICE-IND:W2A-010#62:1>
+Creativity is not possible in a moment of personal sorrow or joy, nor
+in a moment of identification <O> <&> page </&> 15 </O> with a
+situation from life that lands in affliction.
+
+<ICE-IND:W2A-010#63:1>
+The element of distance is very essential in addition to
+identification for reaching a state congenial to artistic creativity.
+
+<ICE-IND:W2A-010#64:1>
+This is a moment of <quote> ` release' </quote> from the <quote> `
+bondage' </quote> of day-to-day life which functions in the triangle of
+time-space, individual; here one comes face to face with the Universal.
+
+<ICE-IND:W2A-010#65:1>
+This is allright so far as it goes.
+
+<ICE-IND:W2A-010#66:1>
+But music has another dimension, also where a situation from life is
+not relevant.
+
+<ICE-IND:W2A-010#67:1>
+This dimension is referred to as the autonomy of music.
+
+<ICE-IND:W2A-010#68:1>
+In traditional Indian thought, Abhinavagupta has spoken of this
+autonomy in unequivocal terms.
+
+<ICE-IND:W2A-010#69:1>
+He say that <indig=sanskrit> <it> svara </it> </indig=sanskrit>
+<quote> ` heats' </quote> the mind on account of its beauty and makes the
+latter relinquish its normal state and then the <indig=sanskrit> <it> svara
+</it> </indig=sanskrit> <quote> ` throws' </quote> itself into the mind.
+
+<ICE-IND:W2A-010#70:1>
+It is notable that the <indig=sanskrit> <it> svara </it>
+</indig=sanskrit> is not said to transmit any meaning or reference in the
+mind; it transmits itself.
+
+<ICE-IND:W2A-010#71:1>
+This is the autonomy of music.
+
+<ICE-IND:W2A-010#72:1>
+Moreover, music is not representational, because it has no direct
+model in nature.
+
+<ICE-IND:W2A-010#73:1>
+The sounds are there in nature, their structuring is done only by the
+human being.
+
+<ICE-IND:W2A-010#74:1>
+This again explains the importance of training. </p>
+
+<p> 
+<ICE-IND:W2A-010#75:1>
+In Western thought, <quote> ` absolute music' </quote> and
+<quote> ` programme music' </quote> are used for <quote> ` music that is free
+from extra-musical implications' </quote> and <quote> ` music inspired by a
+non-musical idea' </quote> , respectively.
+
+<ICE-IND:W2A-010#76:1>
+In Indian thought, <indig=sanskrit> <it> gandharva </it>
+</indig=sanskrit> and <indig=sanskrit> <it> gana </it> </indig=sanskrit> are
+the two words that were used for non-referential and referential music
+respectively and drama was considered to be the source of referential music.
+
+<ICE-IND:W2A-010#77:1>
+Music, independent of drama, developed its own corpus of <quote> `
+reference' </quote> by way of association of <indig=sanskrit> <it> ragas
+</it> </indig=sanskrit> with the cycle of day and night, the six seasons and
+masculinity-femininity.
+
+<ICE-IND:W2A-010#78:1>
+Hangovers of this association are still surviving in art-music.
+
+<ICE-IND:W2A-010#79:1>
+The system of <indig=sanskrit> <it> raga-dhyana </it>
+</indig=sanskrit> that dominated the scene for more than five centuries is
+also surviving in very lean hangovers.
+
+<ICE-IND:W2A-010#80:1>
+<indig=sanskrit> <it> Raga-dhyanas </it> </indig=sanskrit> provided
+miniature situations for music independent of drama and also acted as a
+bridge between the performer and the listener so far as the emotive content
+of music was concerned.
+
+<ICE-IND:W2A-010#81:1>
+All this points to the fact that no water-tight compartment was
+conceived between referential and nonreferential music.
+
+<ICE-IND:W2A-010#82:1>
+Even <indig=sanskrit> <it> gandharva </it> </indig=sanskrit> uses
+texts eulogizing the gods and goddesses and in them also situations bearing
+analogy to life are not ruled out.
+
+<ICE-IND:W2A-010#83:1>
+This music is closely related to ritualistic contexts like the
+rituals forming part of the <indig=sanskrit> <it> purvaranga </it>
+</indig=sanskrit> of preliminaries <O> <&> page </&> 16 </O> of drama.
+
+<ICE-IND:W2A-010#84:1>
+We are not discussing Vedic music here.
+
+<ICE-IND:W2A-010#85:1>
+The basic idea seems to be that the source of creativity could be
+two-fold - - one that does not serve the purpose of heightening or
+underlining the depiction of a situation from life and the other that springs
+from the need of doing so. </p>
+
+<p> 
+<ICE-IND:W2A-010#86:1>
+<indig=sanskrit> <it> Raga </it> </indig=sanskrit> - - music is
+even now being used in these two streams.
+
+<ICE-IND:W2A-010#87:1>
+The <indig=sanskrit> <it> alapa </it> </indig=sanskrit> of a
+<indig=sanskrit> <it> raga </it> </indig=sanskrit> could be said to be
+non-referential, in spite of the associations of some <indig=sanskrit> <it>
+ragas </it> </indig=sanskrit> surviving through hangovers.
+
+<ICE-IND:W2A-010#88:1>
+A vocal composition with meaningful text could bring in some
+references, but they are soon transcended in a performance because the
+maximum attention is drawn towards <indig=sanskrit> <it> raga </it>
+</indig=sanskrit> and <indig=sanskrit> <it> tala </it> </indig=sanskrit> .
+
+<ICE-IND:W2A-010#89:1>
+This is the case in <indig=sanskrit> <it> dhrupad </it>
+</indig=sanskrit> and <indig=sanskrit> <it> khyal </it> </indig=sanskrit>
+but in <indig=sanskrit> <it> thumri </it> </indig=sanskrit> , the situation
+presented by the text receives the maximum attention and <indig=sanskrit>
+<it> raga </it> </indig=sanskrit> and <indig=sanskrit> <it> tala </it>
+</indig=sanskrit> are subservient to it.
+
+<ICE-IND:W2A-010#90:1>
+Hence, it is a question of predominance of one over the other and
+not one of absolute categories. </p>
+
+<p> 
+<ICE-IND:W2A-010#91:1>
+In view of the above discussion, it could be said that
+creatvity in Indian art-music is either <indig=sanskrit> <it>
+raga-centred </it> </indig=sanskrit> or situation-centred where
+<indig=sanskrit> <it> raga </it> </indig=sanskrit> is made subservient to a
+situation.
+
+<ICE-IND:W2A-010#92:1>
+We have discussed to some extent the proecss of situation-centred
+creativity.
+
+<ICE-IND:W2A-010#93:1>
+When this centre is not in operation, the whole corpus of
+<indig=sanskrit> <it> raga </it> </indig=sanskrit> handed down by tradition
+and nurtured in the <w> musician's </w> own consciousness becomes the spring
+of creativity.
+
+<ICE-IND:W2A-010#94:1>
+No other art has been endowed with such a rich corpus for creativity
+within a frame.
+
+<ICE-IND:W2A-010#95:1>
+Only temple architecture could be said to be an exception here.
+
+<ICE-IND:W2A-010#96:1>
+The freshness of creativity remains intact in spite of the
+indispensability of existing frame-work. </p>
+
+<p> 
+<ICE-IND:W2A-010#97:1>
+Although we have said above that the presence or absence of
+extra-musical references is not accepted as an absolute or exclusive
+category, it cannot but be affirmed that music does offer full scope for
+eliminating external references.
+
+<ICE-IND:W2A-010#98:1>
+Here again a note of caution is relevant.
+
+<ICE-IND:W2A-010#99:1>
+Elimination of external reference only means that such a reference is
+not projected or presented.
+
+<ICE-IND:W2A-010#100:1>
+All the same, it is to be remembered that the coming into being of a
+reference in the mind of the performer/composer or listener cannot be ruled
+out and is not an object of disdain.
+
+<ICE-IND:W2A-010#101:1>
+Music is not something isolated from life and in spite of its strong
+potential for non-referential use, it cannot be expected to be absolutely
+free of referential association.
+
+<ICE-IND:W2A-010#102:1>
+Indian thought. <O> <&> page </&> 17 </O> has, therefore, not
+formulated exclusive categories like absolute music and programme music. </p>
+</I>

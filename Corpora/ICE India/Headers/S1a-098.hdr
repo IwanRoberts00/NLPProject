@@ -1,0 +1,68 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-098</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:distance
+                 conversation</category>
+            <wordcount>2321</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-098>
+     <source.type=Dialogue:private:distance conversation>
+     <recording.data>
+            <date>01-12-93</date>
+            <time>11.30am</time>
+            <place>Dept: of English, Shivaji University</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-098</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-098</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>G</surname>
+            <forenames>Madhu</forenames>
+            <age>18-25</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>graduate</educational.level>
+            <occupation>Marketing</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Malayalam</mother.tongue>
+            <other.languages>Hindi, Tamil</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-098</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Nadgauda</surname>
+            <forenames>Savita</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Student/Project Assistant</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

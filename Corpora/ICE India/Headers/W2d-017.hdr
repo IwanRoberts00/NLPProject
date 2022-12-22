@@ -1,0 +1,55 @@
+<text.info>
+     <file.description>
+              <textcode>ICE-IND-W2D-017</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>printed:instructional:
+                skills/hobbies</category>
+              <wordcount></wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2D-017>
+            <source.type=periodical>
+            <source.title>Intensive Agriculture</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol-32, No.09-10</series>
+     <publication.statement>
+            <publisher>Farm Information Unit</publisher>
+            <address>Directorate of Extension or Ministry of
+              Agriculture, Govt. of India, Krishi vistar Bhawan,
+              Pusa, New Delhi-110012</address>
+            <place>New Delhi</place>
+            <date>Nov-Dec 1994</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of author &
+            publisher</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-017</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Reviving Salt Crossed
+                   Soils</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>06-10</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-017</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Bhan</surname>
+                <forenames>Dr. Suraj</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level>Doctorate</educational.level>
+                <occupation>Joint Commissioner, Dept. of
+                  Agriculture & Cooperation</occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

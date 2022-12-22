@@ -1,0 +1,92 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-076</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:business
+                 transactions</category>
+            <wordcount>2666</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-076>
+     <source.type=Dialogue:public:business transactions>
+     <recording.data>
+            <date>01-10-94</date>
+            <time>1pm</time>
+            <place>Dept: of English Shivaji University</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-076</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>3</no.of.participants>
+            <relationship>disparates</relationship>
+            <audience.size></audience.size>
+            <free.comments>Ph.D. Viva-Voce of Mr. Parkhi, the
+                 external examiner Dr. Yaravintelimath and the
+                 Chairman Mr. Jahagirdar </free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-076</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Jahagirdar</surname>
+            <forenames>Chandrashekhar</forenames>
+            <age>42-49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Hyderabad, A.P</birthplace>
+            <education>Marathwada University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Professor of English</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Aurangabad (1968-79),
+                 Kolhapur (1979 to date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-076</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Yaravintelimath</surname>
+            <forenames>C.R.</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Professor of English</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1B-076</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Parkhi</surname>
+            <forenames>Anil</forenames>
+            <age>42-49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Pune, Maharashtra</birthplace>
+            <education>Pune University, Marathwada University,
+                 Shivaji University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Lecturer</occupation>
+            <affiliations>Principal's Forum Pune
+                 University</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Palghar(Thana) (1971-74),
+                 Sangli (1974-94), Pune (1994 to
+                 date)</free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,51 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-039</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2368</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-039>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>04-12-96</date>
+              <time>11.00am</time>
+              <place>Dept: of English, Shivaji University</place>
+       </recording.data>
+              <organising.body>UGC Refresher
+                   Course</organising.body> 
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-039</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Lecture
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size>30</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-039</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Verma</surname>
+              <forenames>Suresh F.</forenames>
+              <age>55</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Moradabad, UP</birthplace>
+              <education>Doctorate</education>
+              <occupation>Teaching</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Hindi</mother.tongue>
+              <other.languages>Marathi</other.languages>
+              <free.comments>Moved to Agra (1961-65), Nagpur
+                   (1970 to date)</free.comments>
+       </biography>
+</text.info>

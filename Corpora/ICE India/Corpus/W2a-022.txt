@@ -1,0 +1,327 @@
+<I> <O> Indian J. genet., 53(1): 34-39 ( 1993) </O>
+
+<ICE-IND:W2A-022#1:1>
+<bold> COMBINING ABILITY FOR PHYSIOLOGICAL CHARACTERS <&> centered
+</&> AND OPIUM YIELD IN OPIUM POPPY ( PAPAVER <&> centered </&> SOMNIFERUM L. )
+</bold> <&> Author centered </&> <O>
+
+<ICE-IND:W2A-022#2:1>
+V. S. KANDALKAR AND K. B. NIGAM </O> <O> <it> Kailash Nath Katju
+College of Agriculture, Jawaharlal Nehru Krishi Vishwa Vidyalaya <&> centered
+</&> Campus, Mandsaur, Madhya Pradesh 458001 </it> </O> <&> centered </&> <O>
+( Received: January 31, 1992; accepted: March 23, 1992 ) </O> <&> centered
+</&>
+
+<ICE-IND:W2A-022#3:1>
+ABSTRACT <&> second margin begin </&>
+
+<p> 
+<ICE-IND:W2A-022#4:1>
+The combining ability analysis was worked out in F<sb>1</sb> and
+F<sb>2</sb> generations of 8 x 8 parents half diallel for physiological
+characters and opium yield in opium poppy.
+
+<ICE-IND:W2A-022#5:1>
+Results revealed that both additive and nonadditive genetic components
+of variance governed the expression of opium yield and physiological
+characters studied, former being predominant in both the generations.
+
+<ICE-IND:W2A-022#6:1>
+Among the varieties, MOP 539 for opium yield, harvest index, days to
+50 % flowering, leaf area and leaf area index and MOP 507 for opium yield,
+biological yield, NBPGR 1 for opium yield and early flowering and NOP 4 for
+harvest index appeared to be good general combiners.
+
+<ICE-IND:W2A-022#7:1>
+They can be used as donors in future breeding for high opium yield
+with efficient harvest index.
+
+<ICE-IND:W2A-022#8:1>
+In respect of specific combining ability, crosses MOP 539 x NOP 4,
+NBPGR 1 x NBRI 3, and NOP 4 x UO 185 showed best cross combininations for
+opium yield with harvest index. </p> <&> second margin end </&>
+
+<p> 
+<ICE-IND:W2A-022#9:1>
+Key words : <mention> Opium poppy </mention> , <mention> combining
+ability </mention> . </p>
+
+<p> 
+<ICE-IND:W2A-022#10:1>
+Improvement of plant type is basically a function of genetic
+manipulation to improve harvest index.
+
+<ICE-IND:W2A-022#11:1>
+The importance of favorable harvest index in terms of partitioning of
+photosynthate to the economically useful part of the plant has been well
+recognised.
+
+<ICE-IND:W2A-022#12:1>
+In improvement of plant type, harvest index appears to be more
+reliable selection criterion for high yield.
+
+<ICE-IND:W2A-022#13:1>
+No work on combining ability for harvest index in opium poppy by
+taking opium yield as a economic product, has yet been undertaken.
+
+<ICE-IND:W2A-022#14:1>
+Therefore, attempt has been made for identifying varieties with
+respect to their combining ability characteristics for physiological
+characters and opium yield in F<sb>1</sb> and F<sb>2</sb> generations of
+opium poppy to orient the breeding programme for developing efficient plant
+types for high yielding varieties or hybrids. </p> <O> <&> page </&> 35 </O>
+<&> centered </&>
+
+<ICE-IND:W2A-022#15:1>
+<h> MATERIALS AND METHODS </h>
+
+<p> 
+<ICE-IND:W2A-022#16:1>
+The material comprised eight promising diverse genotypes
+developed in all India Co-ordinated Research Project on Medicinal and
+Aromatic Plants at different centres ( MOP 539, MOP 507 and MOP 278 from
+Madhya Pradesh, IC 128 from National Germplasm, NBPGR 1 from National Bureau
+of Plant Genetic Resources, New Delhi, NBRI 3 and NOP 4 from Uttar Pradesh,
+and UO 185 from Rajasthan ) .
+
+<ICE-IND:W2A-022#17:1>
+The F<sb>1</sb> and F<sb>2</sb> progenies of 8 x 8 diallel set
+excluding reciprocals along with parents were raised in randomised block
+design with two replications during rabi 1989.
+
+<ICE-IND:W2A-022#18:1>
+Plants in two-row plots of the parents and F <sb> 1</sb>s and
+four-row plots of F <sb> 2</sb>s were spaced at 30 cm between rows and 8-10
+cm within rows.
+
+<ICE-IND:W2A-022#19:1>
+The observations were recorded on five random plants in parents and F
+<sb> 1</sb>s and 40 plants in F <sb> 2</sb>s for physiological traits ( leaf
+area, leaf area index, biological yield and harvest index ) and for number of
+effective lancing / plant, days to 50 % flowering and opium yield.
+
+<ICE-IND:W2A-022#20:1>
+Harvest index was calculated as the ratio of opium yield to
+biological yield.
+
+<ICE-IND:W2A-022#21:1>
+The combining ability analysis was done according to Griffing Method
+2 and Model 1 [ 1 ] . </p> <&> centered </&>
+
+<ICE-IND:W2A-022#22:1>
+<h> RESULTS AND DISCUSSION </h>
+
+<p> 
+<ICE-IND:W2A-022#23:1>
+The analysis of variance for combining ability ( Table 1 )
+revealed that general combining ability ( gca ) were significant for all the
+characters in both the generations except leaf area index in F<sb>1</sb>
+gneration, indicating the presence of additive gene effects for all the
+characters studied in the present material.
+
+<ICE-IND:W2A-022#24:1>
+Specific combining ability ( sca ) effects were highly significant
+for all the characters in F<sb>1</sb> generation except number of effective
+lancing / plant, whereas it was significant only for days to 50 % flowering,
+harvest index , and opium yield <O> Tabel 1. </O> <O> caption </O> <O> <&>
+page </&> 36 </O> in F<sb>2</sb> generations.
+
+<ICE-IND:W2A-022#25:1>
+Significant sca variance indicated the importance of nonadditive gene
+effects in F<sb>1</sb> generation for all the characters, except for
+effective lancing / plant and in both the generations for days to 50 %
+flowering, harvest index and opium yield.
+
+<ICE-IND:W2A-022#26:1>
+The data also revealed that gca estimates were relatively higher than
+sca for days to 50 % flowering, effective lancing / plant and harvest index
+in both generations, and for other characters in F<sb>2</sb> generation,
+which suggested predominance of additive gene action controlling all the
+characters.
+
+<ICE-IND:W2A-022#27:1>
+Further, it was observed that variance due to gca increased in
+F<sb>2</sb> generation, whereas sca variance decreased considerably for all
+the characters studied, indicating that the genetic variability in the
+present material may be associated with general combining ability variance in
+both the generations.
+
+<ICE-IND:W2A-022#28:1>
+Additive gene action for different characters was also reported
+earlier [ 2, 3 ] in opium poppy and for harvest index in sorghum [ 4 ] . </p>
+
+<p> 
+<ICE-IND:W2A-022#29:1>
+In the present study, the magnitude of additive variance for all
+the characters were relatively high and thus it suggest that per se
+performance of the parent may be a good indication of their general combining
+ability, although it is not always so.
+
+<ICE-IND:W2A-022#30:1>
+Significant gca effects revealed that MOP 539 in both the
+generations, IC 128 in F<sb>1</sb> and MOP 507, MOP 278 in F<sb>2</sb>
+generation were identified as good general combiners for early flowering (
+Table 2 ) .
+
+<ICE-IND:W2A-022#31:1>
+MOP 539 was identified as good general combiner for leaf area and
+leaf area index in F<sb>2</sb> generation.
+
+<ICE-IND:W2A-022#32:1>
+IC 128 in F<sb>1</sb> generation showed good general combiner for
+leaf area index and biological yield.
+
+<ICE-IND:W2A-022#33:1>
+MOP 507 recorded to be good general combiner for biological yield in
+both generations.
+
+<ICE-IND:W2A-022#34:1>
+UO 185 and MOP 507 showed good general combiners for number of
+effective lancing / plant in F<sb>1</sb> and F<sb>2</sb> generations,
+respectively.
+
+<ICE-IND:W2A-022#35:1>
+In respect of harvest index, MOP 539 <O> Table 2 </O> <O> caption
+</O> <O> <&> page </&> 37 </O> and NOP 4 showed good general combiners over
+both the generations.
+
+<ICE-IND:W2A-022#36:1>
+MOP 278 also recorded good general combiner for harvest index in
+F<sb>1</sb> generation.
+
+<ICE-IND:W2A-022#37:1>
+MOP 507 and NBPGR 1 in F<sb>1</sb> generation and MOP 539 in
+F<sb>2</sb> generation were identified as good general combiners for opium
+yield.
+
+<ICE-IND:W2A-022#38:1>
+In few parents like MOP 539 for opium yield, harvest index, leaf area
+index, leaf area and days to 50 % flowering, MOP 507 for opium yield,
+biological yield and days to 50 % flowering, high performance was associated
+with favourable gca effects for number of characters.
+
+<ICE-IND:W2A-022#39:1>
+But rest of the parents did not show such relationship, thus
+selection of the parents for their good general combining ability cannot be
+based on their performance alone.
+
+<ICE-IND:W2A-022#40:1>
+Both gca and per se performance criteria should be considered while
+selecting the parent for future breeding.
+
+<ICE-IND:W2A-022#41:1>
+MOP 539 and MOP 507 were good general combiners for opium yield and
+other physiological characters, which means that these parents transmitted
+additive genes for yield and components characters in their progeny.
+
+<ICE-IND:W2A-022#42:1>
+Inconsistent results of gca effects over generations could possibly
+be attributed to genotype x environment interaction effects and also due to
+the role of nonadditive gene effects.
+
+<ICE-IND:W2A-022#43:1>
+The intermating population involving parents showing good general
+combiners for these traits and simultaneously subjected to mass or biparental
+mating in early generation will offer maximum promise in breeding for high
+yield through building efficient plant type. </p>
+
+<p> 
+<ICE-IND:W2A-022#44:1>
+Specific combining ability effects ( sca ) presented in Table 3
+revealed that out of 28 crosses only eight crosses in F<sb>1</sb> generation
+and seven crosses in F<sb>2</sb> were significant for sca effects for high
+opium yield.
+
+<ICE-IND:W2A-022#45:1>
+Among these, the crosses MOP 539 x NOP 4, NBPGR 1 x NBRI 3, and NOP 4
+x UO 185 showed consistant sca performance in both generations, which could
+<O> Table 2 continues </O> <O> <&> page </&> 38 </O> <O> Table 3 </O> <O>
+caption </O> be considered as good specific cross combinations for opium
+yield.
+
+<ICE-IND:W2A-022#46:1>
+The inconsistency in sca effects observed over generations is
+attributed to dominance x dominance interaction and genotypes x environment
+interaction.
+
+<ICE-IND:W2A-022#47:1>
+In respect of harvest index, six crosses in each generation recorded
+significant sca effects in desirable direction.
+
+<ICE-IND:W2A-022#48:1>
+However, only the crosses MOP 539 x NOP 4 and NBPGR 1 x NBRI 3
+exhibited consistant desirable significant sca effect, indicating good
+specific cross combinations for harvest index.
+
+<ICE-IND:W2A-022#49:1>
+The crosses IC 128 x UO 185 for early flowering and NBPGR 1 x NBRI 3
+for leaf area showed desirable specific combiners in both the generations.
+
+<ICE-IND:W2A-022#50:1>
+The crosses MOP 539 x IC 128, MOP 539 x NBPGR 1, MOP 507 x UO 185,
+MOP 278 x NOP 4, MOP 278 x UO 185, IC 128 x NBPGR 1, NBPGR 1 x NBRI 3 for
+leaf area, MOP 507 x UO 185, MOP 278 x NOP 4, IC 128 x NBRI 3 and IC 128 x
+NOP 4 for biological yield were identified good specific cross combinations.
+
+<ICE-IND:W2A-022#51:1>
+The crosses MOP 539 x NOP 4 and NBPGR 1 x NBRI 3 were identified as
+good specific combinations for both opium yield and harvest index.
+
+<ICE-IND:W2A-022#52:1>
+The parents and crosses showing favourable gca and sca effects for
+opium yield also showed significant favourable gca and sca effects,
+respectively, for physiological and other component characters in one or both
+generations.
+
+<ICE-IND:W2A-022#53:1>
+This indicates that both combining ability effects for opium yield
+may be attributed to component characters. </p> <O> <&> page </&> 39 </O>
+
+<p> 
+<ICE-IND:W2A-022#54:1>
+In the present material, additive and nonadditive components of
+genetic variation considerably contributed for the expression of all the
+physiological characters and opium yield, the former being predominant.
+
+<ICE-IND:W2A-022#55:1>
+This suggests that choice of parents for developing high yielding
+varieties could be based on gca effects, while for exploitation of heterosis,
+breeding should be based on their sca test.
+
+<ICE-IND:W2A-022#56:1>
+Biparental intermating of the selected plants in early segregating
+generations of crosses involving high sca effects and high per se performance
+for opium yield and component characters would effectively exploit both
+additive and fixable epistasis effects and would be most desirable. </p> <&>
+centered </&>
+
+<ICE-IND:W2A-022#57:1>
+<h> REFERENCES </h>
+
+<ICE-IND:W2A-022#58:1>
+1. B. Griffing. 1956.
+
+<ICE-IND:W2A-022#59:1>
+Concept of general and specific combining ability in relation to
+diallel crossing systems. Aust. J. Biol. Sci., 9:436-493.
+
+<ICE-IND:W2A-022#60:1>
+2. H. C. Saini and U.S. Kaicker. 1982.
+
+<ICE-IND:W2A-022#61:1>
+Combining ability analysis for opium yield in opium poppy ( <it>
+Papaver somniferum L. </it> ) , South Indian Hort., 30 : 32-36.
+
+<ICE-IND:W2A-022#62:1>
+3. U.S. Kaicker and B. Choudhary. 1982.
+
+<ICE-IND:W2A-022#63:1>
+Heterosis and combining ability in opium poppy. Herba Hung., 21 :
+59-70.
+
+<ICE-IND:W2A-022#64:1>
+4. Swarnlata and B.S. Rana. 1988.
+
+<ICE-IND:W2A-022#65:1>
+Combining ability for biological yield and harvest index in sorghum.
+Indian J. Genet., 44 : 243-247. </I>

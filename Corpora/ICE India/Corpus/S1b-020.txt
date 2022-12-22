@@ -1,0 +1,623 @@
+<I>
+
+<$A> 
+<ICE-IND:S1B-020#1:1:A>
+Now today <,,> we are going to start the new topic <,>
+<mention> The laws of return <,,> laws of <,> return </mention> <,,>
+
+<ICE-IND:S1B-020#2:1:A>
+Now already you have studied regarding the consumption topic <,>
+
+<ICE-IND:S1B-020#3:1:A>
+There you have studied regarding the behaviour of a <,> consumer <,>
+
+<ICE-IND:S1B-020#4:1:A>
+How a consumer is reacting towards the prices in the law of demand
+<,>
+
+<ICE-IND:S1B-020#5:1:A>
+You have studied that <,> when the price increases <,> the quantity
+demanded <,,> decreases and when price fall the quantity demand is <,>
+increased <,>
+
+<ICE-IND:S1B-020#6:1:A>
+Now here <,,> you have studied the behaviour of a consumer <,> that
+how the consumer always tries to maximise his satis<,>faction <,>
+
+<ICE-IND:S1B-020#7:1:A>
+Now under the laws of return <,> we are going to study the behaviour
+of a <,> producer <,,>
+
+<ICE-IND:S1B-020#8:1:A>
+That how the producer <,> is trying to find out the relationship
+between the input and output <,> and how this input-output relationship is
+<,> useful <,,> for <,,> determining his cost of production <,>
+
+<ICE-IND:S1B-020#9:1:A>
+Because his returns depends upon <,> the cost of production <,>
+
+<ICE-IND:S1B-020#10:1:A>
+So under this now <mention> laws of return </mention> we have to
+study <,> three different types of laws <,> <mention> the law of increasing
+return diminishing return constant return </mention> <,> and we have also to
+study the returns to state <,>
+
+<ICE-IND:S1B-020#11:1:A>
+But before we start <,> with the <mention> law of increasing return
+</mention> or <mention> law of variable proportion </mention> <,> we have to
+be very clear regarding these certain <,> concepts <,>
+
+<ICE-IND:S1B-020#12:1:A>
+So the first concept regarding which <,,> we have to be clear that
+is the production function <,> production function <,,>
+
+<ICE-IND:S1B-020#13:1:A>
+Production function <,> now you can write on this production
+function <,> <&> Begins to dictate </&>
+
+<ICE-IND:S1B-020#14:1:A>
+According to Professor Lepski <,,> <quote> Production function is
+<,,> production function is <,,> a technological relation <,,> is <,,> a
+technological relation <,,> showing for given state of technology <,,>
+showing for given state of technology <,,> <&> cough </&> </quote>
+
+<ICE-IND:S1B-020#15:1:A>
+This explains <,> <&> cough </&> <,,> how much can be produced <,,>
+how much can be produced <,,> with <,,> given amount of input <,,> with <,,>
+given amount of <,> input <,,>
+
+<ICE-IND:S1B-020#16:1:A>
+<quote> The functional relationship <,,> the functional
+relationship <,,> with the <,,> physical input <,,> and physical output <,,>
+is known as production function <,,> is <,,> known as <,,> production
+function </quote> <,,> <&> ends to dictate </&>
+
+<ICE-IND:S1B-020#17:1:A>
+It can be written in the form of equation <,,> it can be written in
+the form of equation <,,> as <,,> <mention> Quantity <,,> is equal to F <,,>
+A B <,> C <,> D <,,> quantity equal to F <,> A B C D </mention> <,,>
+
+<ICE-IND:S1B-020#18:1:A>
+Here <,,> quantity <,> <&> B B work begin </&> Q means quantity
+<,,> F <,,> means factors of <,> production <,,> A B C D <&> B B work end
+</&> different factors of production <,,> A B C D different factors of <,>
+production <,,> <&> Begins to dictates </&>
+
+<ICE-IND:S1B-020#19:1:A>
+This equation shows <,,> <&> cough </&> this equation shows <,,>
+quantity produced <,,> depends on <,,> factors <,,> of production <,>
+respectively <,,>
+
+<ICE-IND:S1B-020#20:1:A>
+This <,> equation shows <,> quantity produced <,> depends on <,,>
+factors <,,> of production respectively <,,>
+
+<ICE-IND:S1B-020#21:1:A>
+Production function <,,> production function <,,> expresses the
+relationship <,,> production function expresses <,,> the relationship <,,>
+between <,,> quantity of output <,,> quantity of output <,,> and quantities
+of various inputs <,,> and quantities of various inputs <,,> <&> ends to
+dictate </&> written
+
+<ICE-IND:S1B-020#22:1:A>
+Now in this <,,> production function what do you come to know <,>
+that what is production function <,> ?
+
+<ICE-IND:S1B-020#23:1:A>
+It is a type of technological relationship <,> which is existing
+between the input and output
+
+<ICE-IND:S1B-020#24:1:A>
+Now do you know what is the meaning of input and what is the
+meaning of output <,,> ?
+
+<ICE-IND:S1B-020#25:1:A>
+What is the meaning of input <,,> ?
+
+<ICE-IND:S1B-020#26:1:A>
+Yes <,,> ?
+
+<ICE-IND:S1B-020#27:1:A>
+Yes answer me <,,>
+
+<ICE-IND:S1B-020#28:1:A>
+<w> It's </w> alright <w> it's </w> a new topic but you must come
+forward <,,>
+
+<ICE-IND:S1B-020#29:1:A>
+Now for the production of commodity what do you need <,,> ?
+
+<$S> 
+<ICE-IND:S1B-020#30:1:S>
+Raw materials
+
+<$A> 
+<ICE-IND:S1B-020#31:1:A>
+Raw materials so all these raw materials are input <,>
+
+<ICE-IND:S1B-020#32:1:A>
+This factors of production <,> as land labour capital raw materials
+all these are the input <,>
+
+<ICE-IND:S1B-020#33:1:A>
+Now there supposingly <,> there are two labourers and they are
+producing ten chairs <,>
+
+<ICE-IND:S1B-020#34:1:A>
+Now what is the relationship between this <,,> ?
+
+<ICE-IND:S1B-020#35:1:A>
+Raw material also they are using
+
+<ICE-IND:S1B-020#36:1:A>
+Along with that now what you will say <,> ?
+
+<ICE-IND:S1B-020#37:1:A>
+That making use of all these two labourers they are able to produce
+the ten chairs in a day
+
+<ICE-IND:S1B-020#38:1:A>
+So this is the production function that when we employ the two
+labourers <,> they are producing <,> ten chairs <,>
+
+<ICE-IND:S1B-020#39:1:A>
+When we employ the third labourer the production function will <,>
+change because they will be producing now <,> more number of chairs <,,>
+
+<ICE-IND:S1B-020#40:1:A>
+So what is production function ?
+
+<ICE-IND:S1B-020#41:1:A>
+It is simply <,> a relationship between <,> the inputs and outputs
+<,>
+
+<ICE-IND:S1B-020#42:1:A>
+Input is here the factors of production <,> or the amount of the
+goods which we are using for the production of other commodities <,> and
+output is the commodity which you are able to produce <,> after making use of
+the input <,>
+
+<ICE-IND:S1B-020#43:1:A>
+And production function is giving you the relationship between the
+input and output <,>
+
+<ICE-IND:S1B-020#44:1:A>
+Thereby having this much of factors of production how much
+commodity we can <,> produce
+
+<ICE-IND:S1B-020#45:1:A>
+So to that we are calling it as a <,> input and output relationship
+<,> <&> Begins to dictate </&>
+
+<ICE-IND:S1B-020#46:1:A>
+Then further <,,> two things must be noted <,,> two things must be
+noted <,,> in respect of <,,> in respect of <,,> production function <,,>
+
+<ICE-IND:S1B-020#47:1:A>
+First <,,> production <,,> must be <,,> considered <,,> with
+reference to a particular period of time <,,> production must be considered
+<,> with reference to <,,> particular period of time <,,>
+
+<ICE-IND:S1B-020#48:1:A>
+Written <,> ?
+
+<ICE-IND:S1B-020#49:1:A>
+Second <,,>
+
+<ICE-IND:S1B-020#50:1:A>
+Production technology should not <,> change <,,> production
+technology <,> should not change <,> during that period <,,>
+
+<ICE-IND:S1B-020#51:1:A>
+Production technology <,,> should not change <,,> during <,> that
+period <,,>
+
+<ICE-IND:S1B-020#52:1:A>
+Because <,> when technology changes <,,> because <,> when
+technology changes <,,> production function also gets <,,> changed <,,> when
+technology changes <,,> production function <,> also gets changed <,,> <&>
+ends to dictate </&>
+
+<ICE-IND:S1B-020#53:1:A>
+Now these are the two things which we have to keep in mind
+regarding the <,> production function <,> that it should be related to a
+particular period of time and during that period <,> our technology should
+not be changed <,>
+
+<ICE-IND:S1B-020#54:1:A>
+Because if the technology will change <,> then our same production
+function relationship will not <,> be there <,>
+
+<ICE-IND:S1B-020#55:1:A>
+Why ?
+
+<ICE-IND:S1B-020#56:1:A>
+Because with technology advancement when the technology changes <,>
+new input output relation come <,>
+
+<ICE-IND:S1B-020#57:1:A>
+So then our that production function cannot exist <,>
+
+<ICE-IND:S1B-020#58:1:A>
+So when we are studying it <,> for a particular period of time
+during that period it is essential <,> that the technology should not change
+
+<ICE-IND:S1B-020#59:1:A>
+As accordingly firstly the clothes are being produced with the help
+of handloom device <,>
+
+<ICE-IND:S1B-020#60:1:A>
+Now production was less <,,> and after <-> that </-> some period
+new technology has come <,> and now we may start producing the <,> cloth with
+the help of <,> powerloom you can say <,,>
+
+<ICE-IND:S1B-020#61:1:A>
+So naturally input output relation will <,> change <,> and
+production function will also change <,>
+
+<ICE-IND:S1B-020#62:1:A>
+Then <,,> <&> Begins to dictate </&> in economic theory <,,> two
+types of production function are there <,,>
+
+<ICE-IND:S1B-020#63:1:A>
+In economic theory <,,> two types of production function are there
+<,,>
+
+<ICE-IND:S1B-020#64:1:A>
+First <,,> when <,,> some input <,,> when <,> some input <,> are
+kept constant <,,> when some input are kept constant <,,> and other is
+changed <,,> and other are changed <,,> <&> ends to dictate </&>
+
+<ICE-IND:S1B-020#65:1:A>
+Written <,> now this type of <,> production function will be
+available in the short period <,>
+
+<ICE-IND:S1B-020#66:1:A>
+Now I had explained to you already the concept of short period <,>
+market period and long period <,,>
+
+<ICE-IND:S1B-020#67:1:A>
+From the adjustment of the supply point of view <,,>
+
+<ICE-IND:S1B-020#68:1:A>
+Now can you tell me now what is short period <,,> ?
+
+<ICE-IND:S1B-020#69:1:A>
+Now again you have to go back
+
+<ICE-IND:S1B-020#70:1:A>
+<w> It's </w> very bad <,,>
+
+<ICE-IND:S1B-020#71:1:A>
+What is short period <,,> ?
+
+<$S> 
+<ICE-IND:S1B-020#72:1:S>
+During the short period the supply can be <,> input to the
+
+<$A> 
+<ICE-IND:S1B-020#73:1:A>
+Yes <,,>
+
+<ICE-IND:S1B-020#74:1:A>
+Short periods are that period in which <,> we can <}> <-> <.> ad
+</.> </-> <=> adjust </=> </}> the supply to a limited absence <,> only by
+taking the variable factors of production <,>
+
+<ICE-IND:S1B-020#75:1:A>
+I told you there are two types of factors of production <,>
+
+<ICE-IND:S1B-020#76:1:A>
+Fixed factors of production and <,> variable factors of production
+
+<ICE-IND:S1B-020#77:1:A>
+So in the short period we are keeping the fixed factor as <-> a
+</-> <,> unchanged
+
+<ICE-IND:S1B-020#78:1:A>
+Because <-> now </-> just now you have written <,> that in this
+production function <,> some inputs are kept constant and others are changed
+<,>
+
+<ICE-IND:S1B-020#79:1:A>
+Here fixed factors are kept constant <,> and variable factors are
+changed during the short period <,> and supply is at the dip <,> at your
+limited extent
+
+<ICE-IND:S1B-020#80:1:A>
+And in the short period <,> then a little laws of returns are
+applicable as the law of increasing return <,> diminishing return and
+constant returns
+
+<ICE-IND:S1B-020#81:1:A>
+These laws will be applicable in the short period <,>
+
+<ICE-IND:S1B-020#82:1:A>
+Why ?
+
+<ICE-IND:S1B-020#83:1:A>
+Because in the short period <,> you are not taking the fixed factor
+we are simply taking the <,> variable factor
+
+<ICE-IND:S1B-020#84:1:A>
+And when you are taking the variable factor <,> in the beginning
+<,> then the returns starts increasing <,>
+
+<ICE-IND:S1B-020#85:1:A>
+Why they start increasing because <,> earlier you are not making
+proper utilisation of the fixed factors of <,> production
+
+<ICE-IND:S1B-020#86:1:A>
+Now you want to increase the production and by employing the
+variable factor you are able to have the better utilisation of the fixed
+factors of <,> production <,> because of this your return have started
+increasing <,>
+
+<ICE-IND:S1B-020#87:1:A>
+But after some time your result return will start <,> diminishing
+
+<ICE-IND:S1B-020#88:1:A>
+Now why they will start diminishing <,> ?
+
+<ICE-IND:S1B-020#89:1:A>
+Why ?
+
+<ICE-IND:S1B-020#90:1:A>
+Because now the variable factors as you are increasing the variable
+factors on that thing <,> your variable factors are becoming more in
+proportion to the fixed factors and <,> they are getting lesser and lesser
+shares from the fixed factors to work upon them and because of this <,> their
+return starts diminishing <,>
+
+<ICE-IND:S1B-020#91:1:A>
+So you have to keep this thing in mind that this first type of
+production function <,> is applicable in the short period <,>
+
+<ICE-IND:S1B-020#92:1:A>
+Now second is <,> there all the inputs can be changed <,,>
+
+<ICE-IND:S1B-020#93:1:A>
+All the factors are changed <,,> all the factors are changed <,,>
+
+<ICE-IND:S1B-020#94:1:A>
+So this is the <,> second production function and it is applicable
+in the <,> long run
+
+<ICE-IND:S1B-020#95:1:A>
+Because long period you know is that period <,> where all type of
+adjustments are possible <,>
+
+<ICE-IND:S1B-020#96:1:A>
+Supply and demand can be adjustable to any extent and all the
+factors of production becomes <,> variable <,,>
+
+<ICE-IND:S1B-020#97:1:A>
+And under this production function you will be selling the returns
+to state <,,>
+
+<ICE-IND:S1B-020#98:1:A>
+Uh became one of the <}> <-> <.> diff diff </.> </-> <=> difference
+</=> </}> coming between them <,>
+
+<ICE-IND:S1B-020#99:1:A>
+There in the short period <,> laws of return
+
+<ICE-IND:S1B-020#100:1:A>
+Here returns to <,> state because in the second production
+function <,> you are totaly changing the scale of the production <,> and
+because of the change in the scale of production
+
+<ICE-IND:S1B-020#101:1:A>
+What is the change in the return <,> ?
+
+<ICE-IND:S1B-020#102:1:A>
+That is studied under the returns to state <,>
+
+<ICE-IND:S1B-020#103:1:A>
+So this is regarding the <,> first concept of the production
+function <,>
+
+<ICE-IND:S1B-020#104:1:A>
+Then your next will be <,> besides this you must have a idea
+regarding the <}> <-> <.> tot </.> </-> <=> meaning of total </=> </}>
+product average product and marginal product <,>
+
+<ICE-IND:S1B-020#105:1:A>
+Because if you are not clear regarding that also <,> then also you
+cannot understand these laws of return <,>
+
+<ICE-IND:S1B-020#106:1:A>
+So first of all we will study the total product <,,>
+
+<ICE-IND:S1B-020#107:1:A>
+So what that is ?
+
+<$S> 
+<ICE-IND:S1B-020#108:1:S>
+Product <,,>
+
+<$A> 
+<ICE-IND:S1B-020#109:1:A>
+Now what is the meaning of <,,> total cost <,,> ?
+
+<ICE-IND:S1B-020#110:1:A>
+Although it is not related to you <,> this but still I want to
+connect this topic with that <,>
+
+<ICE-IND:S1B-020#111:1:A>
+Total what is the total cost <,,> ?
+
+<$S> 
+<ICE-IND:S1B-020#112:1:S>
+<O> A few words </O>
+
+<$A> 
+<ICE-IND:S1B-020#113:1:A>
+I am asking you what is the meaning of total cost <,,> ?
+
+<$S> 
+<ICE-IND:S1B-020#114:1:S>
+<O> A few words </O>
+
+<$A> 
+<ICE-IND:S1B-020#115:1:A>
+Don't study at home you <O> one word </O> <,,>
+
+<ICE-IND:S1B-020#116:1:A>
+Total cost is the cost of producing a commodity <,>
+
+<ICE-IND:S1B-020#117:1:A>
+Whatever total money if a pruducer is spending on the productional
+value providing <,> is known as the total cost <,,>
+
+<ICE-IND:S1B-020#118:1:A>
+Okay and it includes fixed and variable from both <,>
+
+<ICE-IND:S1B-020#119:1:A>
+Then you have studied the total value cocept also <,>
+
+<ICE-IND:S1B-020#120:1:A>
+What is total value <,> ?
+
+<ICE-IND:S1B-020#121:1:A>
+It is the money received which is being received by the producer
+<,> while selling up certain amount of commodity in the market <,>
+
+<ICE-IND:S1B-020#122:1:A>
+Whatever money he is getting to that we are calling it as the
+total <,> value <,>
+
+<ICE-IND:S1B-020#123:1:A>
+Now similarly <,> the total product is the amount of the goods <,>
+which are being produced <,> by a certain number of <,> producers labourers
+or input whatever we are using
+
+<ICE-IND:S1B-020#124:1:A>
+By making use of that whatever we are able to produce to that we
+are calling it as the total <,> product <,>
+
+<ICE-IND:S1B-020#125:1:A>
+You can write down the meaning of total product <,>
+
+<ICE-IND:S1B-020#126:1:A>
+Be regular otherwise it will be very difficult for you <,,> <&>
+Begins to dictate </&>
+
+<ICE-IND:S1B-020#127:1:A>
+Total product of a factor is <,,> total product of a factor <,,>
+is <,,> the amount of the total output <,,> is the amount of the total output
+<,,> produced by <,,> given amount of <,> factors <,> produced by <,,> given
+amount of factors <,,> given amount of <,> factors <,,>
+
+<ICE-IND:S1B-020#128:1:A>
+As the factors are increased <,,> total product also starts rising
+<,,>
+
+<$S> 
+<ICE-IND:S1B-020#129:1:S>
+Total product also <,>
+
+<$A> 
+<ICE-IND:S1B-020#130:1:A>
+Total product also start rising <,,> but the rate of
+increased <,,> value <,,> but the rate of increased value <,,> at different
+levels of output <,,> at different levels of output <,,>
+
+<ICE-IND:S1B-020#131:1:A>
+In the beginning <,,> in the beginning <,,> total product rises
+<,,> at a increasing rate <,,> after a point <,,> after a point <,> total
+product starts rising <,,> total product start rising <,,> at <,> diminishing
+rate <,,> as <,,> the employment of variable factors <,,> as <,,> the
+employment of variable factors <,> increases <,,> as the employment of
+variable factors <,,> increases <,,> <&> ends to dictate </&>
+
+<ICE-IND:S1B-020#132:1:A>
+Written
+
+<ICE-IND:S1B-020#133:1:A>
+Now you can take this how you can find out it is increasing <,>
+
+<ICE-IND:S1B-020#134:1:A>
+You you can take the number of <,> labourers <,,> and total <,>
+product <,,> and total product from which you can come to know <,> how it is
+<,> firstly increasing at an increasing rate <,> then it is increasing at a
+diminishing rate <,>
+
+<ICE-IND:S1B-020#135:1:A>
+Now accordingly then the <,> zero first labourer is here the total
+product is n unit <,>
+
+<ICE-IND:S1B-020#136:1:A>
+The second labourer is employed the total product is <,,> eighteen
+units <,>
+
+<ICE-IND:S1B-020#137:1:A>
+The third <,> labourer is employed <,> it is <,> twenty-five <,>
+the fourth <,> it is thirty <,> and fifth it is thirty-two <,,>
+
+<ICE-IND:S1B-020#138:1:A>
+And fifth labourer it is thirty-two <,>
+
+<ICE-IND:S1B-020#139:1:A>
+Now what did you come to know from this <,,> ?
+
+<ICE-IND:S1B-020#140:1:A>
+It is first of all it is increasing at a increasing rate or not
+<,,> ?
+
+<ICE-IND:S1B-020#141:1:A>
+Than it is increasing at a <,> diminishing rate <,>
+
+<ICE-IND:S1B-020#142:1:A>
+Than from the first labourer <,> you have employed the second
+labourer the total product has increased from ten to eighteen <,> there has
+been the increase of eight units <,>
+
+<ICE-IND:S1B-020#143:1:A>
+In the third case also it is not as if there is an increase of the
+<,> seven units
+
+<ICE-IND:S1B-020#144:1:A>
+Now in fourth case you see <,> there is the increase of only <,>
+five units
+
+<ICE-IND:S1B-020#145:1:A>
+So the rate of increase is <,> decreasing <,>
+
+<ICE-IND:S1B-020#146:1:A>
+Then in the fifth case you find there is increase of only the <,>
+two units <,,>
+
+<ICE-IND:S1B-020#147:1:A>
+Why it is happening this <,> ?
+
+<ICE-IND:S1B-020#148:1:A>
+Because now when the first labourer was there the fixed factors
+were more <,> and they were not being fully utilised <,>
+
+<ICE-IND:S1B-020#149:1:A>
+When we start with second labourer <,> there was a better
+utilisation of both factors of production and the production has increased
+<,>
+
+<ICE-IND:S1B-020#150:1:A>
+When we employ the third then also it has increased <,>
+
+<ICE-IND:S1B-020#151:1:A>
+But after the <,> fourth labourer we find <,> when we have
+employed the fifth labourer the rate of increase <,> in the total product is
+<,> diminishing
+
+<ICE-IND:S1B-020#152:1:A>
+It is diminishing because as the variable factors are increased
+<,> they are getting lesser and lesser shares <,>
+
+<ICE-IND:S1B-020#153:1:A>
+Now these fixed factors you work upon them and because of this <,>
+their total products starts <,> diminishing
+
+<ICE-IND:S1B-020#154:1:A>
+Okay <,>
+
+<ICE-IND:S1B-020#155:1:A>
+Is that okay <,,> </I>

@@ -1,0 +1,90 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-013</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:spontaneous
+                   commentaries</category>
+              <wordcount>2921</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-013>
+       <source.type=broadcast>
+       <recording.data>
+              <channel>Doordarshan</channel>
+              <address></address>
+              <tv.or.radio>tv</tv.or.radio>
+              <source.title>Poona International
+                   Inauguration</source.title>
+              <source.subtitle>International Athlete Permit
+                   Meet</source.subtitle>
+              <place>Shiv Chhatrapati Sport City Balewadi,
+                   Poona</place>        
+              <date>13-09-94</date>
+              <time></time>
+       </recording.data>
+              <copyright.statement>Blanket permission from
+              Doordarshan under section 39 of Copyright Act,
+                   1957 and Copyright Rules, 1958
+                   respectively</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-013</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>commentary
+                   </communicative.situation>
+              <no.of.participants>3</no.of.participants>
+              <relationship>equals</relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-013</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname></surname>
+              <forenames></forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>Commentator</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S2A-013</it>>
+              <speaker.id>B</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Kalmadi</surname>
+              <forenames>Suresh</forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>Politician</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S2A-013</it>>
+              <speaker.id>C</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Castro</surname>
+              <forenames>John</forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>Commentator</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

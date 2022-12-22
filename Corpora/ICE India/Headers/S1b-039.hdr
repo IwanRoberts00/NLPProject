@@ -1,0 +1,86 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S1B-039</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Dialogue:Public:broadcast
+                   discussions</category>
+              <wordcount>2301</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S1B-039>
+       <recording.data>
+              <channel>Doordarshan</channel>
+              <address></address>
+              <tv.or.radio>tv</tv.or.radio>
+              <source.title>Indo-Russia Relation</source.title>
+              <source.subtitle></source.subtitle>  
+              <date>03-02-93</date>
+              <time>10.30pm</time>
+       </recording.data>
+              <copyright.statement>Blanket permission from
+                   Doordarshan under section 39 of Copyright Act,
+                   1957 and Copyright Rules, 1958
+                   respectively</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S1B-039</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>discussions
+                   </communicative.situation>
+              <no.of.participants>3</no.of.participants>
+              <relationship>equals</relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S1B-039</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role>Moderator</communicative.role>
+              <surname>Swaminathan</surname>
+              <forenames></forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation></occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S1B-039</it>>
+              <speaker.id>B</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Singh</surname>
+              <forenames>Jagjit</forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>Director of Institute for Defence
+                   Studies</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S1B-039</it>>
+              <speaker.id>C</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Karan</surname>
+              <forenames>Vijay</forenames>
+              <age></age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation>former Director of CBI</occupation>
+              <affiliations></affiliations>
+              <mother.tongue></mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

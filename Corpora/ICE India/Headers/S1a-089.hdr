@@ -1,0 +1,71 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-089</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>1870</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-089>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>11-09-95</date>
+            <time>2pm</time>
+            <place>Dept: of History, Shivaji University</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-089</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-089</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Khane</surname>
+            <forenames>Bhausaheb</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Vhannuur, Kolhapur</birthplace>
+            <education>Shivaji University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University Teacher</occupation>
+            <affiliations>Member of Historical Record
+                 Commission</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi, Kannada</other.languages>
+            <free.comments>Moved to Kagal(1956-62), Kolhapur(1962
+                 to date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-089</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Patil</surname>
+            <forenames>Madhao</forenames>
+            <age>42-49</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Chikalgood, Belgaum</birthplace>
+            <education>Marathwada University, Shivaji
+                 University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University teacher</occupation>
+            <affiliations>ASRC</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Pune (1962-70), Jalna (1970-
+                 73), Aurangabad (1973-75)</free.comments>
+     </biography>
+</text.info>

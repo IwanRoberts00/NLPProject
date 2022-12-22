@@ -1,0 +1,71 @@
+<text.info>
+      <file.description>
+            <textcode>ICE-IND-S1A-004</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2336</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+      </file.description>
+      <subtext.source=S1A-004>
+      <source.type=Dialogue:private:direct conversation>
+      <recording.data>
+            <date>11-11-94</date>
+            <time>4.30pm</time>
+            <place>Language Laboratory, Shivaji
+                 University</place>
+      </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+      </source.type>
+      </subtext.source>
+      <subtext.internals=<it>ICE-IND-S1A-004</it>>
+      <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+      </subtext.internals>
+      <biography=<it>ICE-IND-S1A-004</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Tripathy</surname>
+            <forenames>Sabita</forenames>
+            <age>26-33</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Puri, Orissa</birthplace>
+            <education>Sambalpur University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Lecturer</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Oriya</mother.tongue>
+            <other.languages>Hindi, English</other.languages>
+            <free.comments></free.comments>
+      </biography>
+      <biography=<it>ICE-IND-S1A-004</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Karande</surname>
+            <forenames>Ashok</forenames>
+            <age>26-33</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Merwewadi, Satara,
+                 Maharashtra</birthplace>
+            <education>Shivaji University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments>Moved to Umbraj (1960-71), Srirampur
+                 (1971-75), Pune (1975-77), Kolhapur (1977 to
+                 date)</free.comments>
+      </biography>
+</text.info>

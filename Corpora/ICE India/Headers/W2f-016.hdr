@@ -1,0 +1,53 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-016</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:novel</caregory>
+            <wordcount>2106</wordcount>
+            <version>one</version>
+            <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W2F-016>
+       <source.type=monograph>
+            <source.title>The Mountain of Shiva</source.title>
+            <source.subtitle>A Novel</source.subtitle>
+       <publication.statement>
+            <publisher>Sterling Publishers Private
+              limited</publisher>
+            <address>L-10, Green Park, Extension, New Delhi-
+              110016</address>
+            <place>New Delhi</place>
+            <date>1994</date>
+            <ISBN>81 207 1589 6</ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by the permission of the
+            publisher</copyright.statement>
+            <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-016>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>The Mountain of
+              Shiva</main.title>
+            <subtitle>A Novel</subtitle>
+            <page.nos>78-84</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-016>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Singh</surname>
+            <forenames>Karan</forenames>  
+            <age>65+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments><free.comments>
+       </biography>
+</text.info>

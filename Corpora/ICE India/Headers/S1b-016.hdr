@@ -1,0 +1,51 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-016</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:class lessons</category>
+            <wordcount>2035</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-016>
+     <source.type=Dialogue:public:class lessons>
+     <recording.data>
+            <date>07-10-93</date>
+            <time>12.20pm</time>
+            <place>Seventh Day Adventists High School,
+                 Kolhapur</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-016</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>25 students</no.of.participants>
+            <relationship>disparates</relationship>
+            <free.comments>The students were minor (Class IX)
+                 hence extra corpus speakers</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-016</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Lima</surname>
+            <forenames>Daisy</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Khanapur, Belgaum, Karnataka</birthplace>
+            <education>Shivaji University, Kolhapur</education>
+            <educational.level>Graduate</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Konkani</mother.tongue>
+            <other.languages>Marathi</other.languages>
+            <free.comments>Moved to Kolhapur (1992-to
+                 date</free.comments>
+     </biography>
+</text.info>

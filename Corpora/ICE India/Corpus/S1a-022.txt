@@ -1,0 +1,1205 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-022#1:1:A>
+Yes <,> I am Pratima from Triveni Academy <,>
+
+<ICE-IND:S1A-022#2:1:A>
+What about you <,,> ?
+
+<$B> 
+<ICE-IND:S1A-022#3:1:B>
+I am Sampat from <,,> Tamil Nadu <,>
+
+<$A> 
+<ICE-IND:S1A-022#4:1:A>
+<w> What's </w> the name of the school <,> you work in <,> ?
+
+<$B> 
+<ICE-IND:S1A-022#5:1:B>
+Uh <w> it's </w> <O> one word </O> Higher Secondary School
+Ambur <,>
+
+<$A> 
+<ICE-IND:S1A-022#6:1:A>
+Which class do you teach <,,> ?
+
+<$B> 
+<ICE-IND:S1A-022#7:1:B>
+I am taking <,> eleventh and twelfth standard
+
+<ICE-IND:S1A-022#8:1:B>
+But I am dealing only with Chemistry not English <,>
+
+<ICE-IND:S1A-022#9:1:B>
+<w> I'm </w> <{> <[> not </[> English teacher <,>
+
+<$A> 
+<ICE-IND:S1A-022#10:1:A>
+<[> Chemistry </[> </{>
+
+<$A> 
+<ICE-IND:S1A-022#11:1:A>
+How do you find <,,> teaching English <,,> ?
+
+<$B> 
+<ICE-IND:S1A-022#12:1:B>
+Uh <,,> I like uh teaching English <,,> I like Chemistry also
+<,,>
+
+<$A> 
+<ICE-IND:S1A-022#13:1:A>
+Oh it is just <,,> residential school or aided school <,,>
+
+<$B> 
+<ICE-IND:S1A-022#14:1:B>
+It is an <,> aided Government School <,,>
+
+<$A> 
+<ICE-IND:S1A-022#15:1:A>
+Is there any hostel facilities <{> <[> there </[>
+
+<$B> 
+<ICE-IND:S1A-022#16:1:B>
+<[> No </[> </{> no <,> uh uh <w> it's </w> said to be the
+oldest school <,> the biggest school in north Arcot <,>
+
+<$A> 
+<ICE-IND:S1A-022#17:1:A>
+Oh it is in north Arcot
+
+<$B> 
+<ICE-IND:S1A-022#18:1:B>
+North Arcot
+
+<$A> 
+<ICE-IND:S1A-022#19:1:A>
+The name of the place is <{> <[> north Arcot </[>
+
+<$B> 
+<ICE-IND:S1A-022#20:1:B>
+<[> North Arcot </[> </{> Ambedkar district <,>
+
+<$A> 
+<ICE-IND:S1A-022#21:1:A>
+But name of the place where school is situated
+
+<$B> 
+<ICE-IND:S1A-022#22:1:B>
+Ambur <,> it is a town
+
+<$A> 
+<ICE-IND:S1A-022#23:1:A>
+It is a town <,>
+
+<ICE-IND:S1A-022#24:1:A>
+<w> You're </w> a native of that <,> city
+
+<$B> 
+<ICE-IND:S1A-022#25:1:B>
+Ha yes <,>
+
+<ICE-IND:S1A-022#26:1:B>
+It is not a city it is a town <,,>
+
+<ICE-IND:S1A-022#27:1:B>
+Ambur is run by a corporation <,,>
+
+<$A> 
+<ICE-IND:S1A-022#28:1:A>
+Which is your native place <,,> ?
+
+<$B> 
+<ICE-IND:S1A-022#29:1:B>
+Our <.> par </.> parents belong to <,> uh Andhra and <w> we've
+</w>
+
+<$A> 
+<ICE-IND:S1A-022#30:1:A>
+Andhra Telugu
+
+<$B> 
+<ICE-IND:S1A-022#31:1:B>
+Yes yes we came to <,> uh Tamil Nadu <,,> about uh <,> thirty
+years ago <,>
+
+<ICE-IND:S1A-022#32:1:B>
+We got settled in <,> Tamil Nadu <,> and we studied <,> we were
+born only in <,> Tamil Nadu
+
+<$A> 
+<ICE-IND:S1A-022#33:1:A>
+Then you are a Tamilian even Telugu
+
+<$B> 
+<ICE-IND:S1A-022#34:1:B>
+Yes Tamil Telugu <O> laughter </O>
+
+<ICE-IND:S1A-022#35:1:B>
+Telugu talking sorry Tamil talking in Telugu <,,>
+
+<$A> 
+<ICE-IND:S1A-022#36:1:A>
+Telugu is origin and <{> <[> Tamilian </[>
+
+<$B> 
+<ICE-IND:S1A-022#37:1:B>
+<[> yes </[> </{> yes
+
+<ICE-IND:S1A-022#38:1:B>
+But uh <,> we don't know <,> how to write Telugu <,,> but we know
+only to speak <,,>
+
+<$A> 
+<ICE-IND:S1A-022#39:1:A>
+But you have learnt <,> how to write read and <{> <[> speak
+every thing in Tamil </[>
+
+<$B> 
+<ICE-IND:S1A-022#40:1:B>
+<[> Oh that I have formal when </[> </{> when my mother was
+there I was writing <,>
+
+<ICE-IND:S1A-022#41:1:B>
+When she passed away I stopped it nobody <,> she was very good in
+<,,> Telugu <,> and my father also knows but uh I was not much interested in
+my father <,>
+
+<ICE-IND:S1A-022#42:1:B>
+Then uh what about you <,,> ?
+
+<$A> 
+<ICE-IND:S1A-022#43:1:A>
+I am from Orissa <,>
+
+<$B> 
+<ICE-IND:S1A-022#44:1:B>
+Orissa
+
+<$A> 
+<ICE-IND:S1A-022#45:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-022#46:1:B>
+Uh which School <,> ?
+
+<$A> 
+<ICE-IND:S1A-022#47:1:A>
+I <,> what about you <,> you want to know about my <,,>
+teaching experience <{> <[> or </[>
+
+<$B> 
+<ICE-IND:S1A-022#48:1:B>
+<[> Yes </[> </{> teaching experience where are you working
+<,,> ?
+
+<$A> 
+<ICE-IND:S1A-022#49:1:A>
+I am working in Triveni Academy
+
+<$B> 
+<ICE-IND:S1A-022#50:1:B>
+Triveni Academy
+
+<$A> 
+<ICE-IND:S1A-022#51:1:A>
+It is fifty kilometers away from <,> Madras
+
+<$B> 
+<ICE-IND:S1A-022#52:1:B>
+Madras <,>
+
+<ICE-IND:S1A-022#53:1:B>
+So <.> yo u </.> you got settled in Madras <,> ?
+
+<$A> 
+<ICE-IND:S1A-022#54:1:A>
+Yeah <,> <w> it's </w> a residential school and I have to stay
+throughout the year
+
+<$B> 
+<ICE-IND:S1A-022#55:1:B>
+Yes <w> what's </w> your husband <,,> ?
+
+<$A> 
+<ICE-IND:S1A-022#56:1:A>
+<w> He's </w> working <w> he's </w> <,> research scholar in
+Bombay
+
+<$B> 
+<ICE-IND:S1A-022#57:1:B>
+Ha ha
+
+<$A> 
+<ICE-IND:S1A-022#58:1:A>
+And <w> he's </w> working <,,>
+
+<ICE-IND:S1A-022#59:1:A>
+And what about yours <,> ?
+
+<$B> 
+<ICE-IND:S1A-022#60:1:B>
+Ah my husband is an Engineer
+
+<$A> 
+<ICE-IND:S1A-022#61:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-022#62:1:B>
+Uh he has this <,> uh he is a government valuer for <,> uh
+structural <,,> uh building <,> stability building
+
+<$A> 
+<ICE-IND:S1A-022#63:1:A>
+Oh <,,>
+
+<ICE-IND:S1A-022#64:1:A>
+He is working in the same place you work ?
+
+<$B> 
+<ICE-IND:S1A-022#65:1:B>
+Ha yes <,>
+
+<ICE-IND:S1A-022#66:1:B>
+<}> <-> He is </-> <=> he is </=> </}> doing his private
+
+<$A> 
+<ICE-IND:S1A-022#67:1:A>
+Oh
+
+<$B> 
+<ICE-IND:S1A-022#68:1:B>
+And as well as assessing the <,> the property of the buildings
+<,> schools <,> uh theatres <,> stability of the theatres
+
+<ICE-IND:S1A-022#69:1:B>
+Everyone who constructs building he has they have to get the
+certificate of him <,>
+
+<ICE-IND:S1A-022#70:1:B>
+Then only they will get the license to run the <,> things
+
+<$A> 
+<ICE-IND:S1A-022#71:1:A>
+He gives all the formal <{> <[> letters </[>
+
+<$B> 
+<ICE-IND:S1A-022#72:1:B>
+<[> Yes </[> </{> yes <,>
+
+<$A> 
+<ICE-IND:S1A-022#73:1:A>
+Construction all before
+
+<$B> 
+<ICE-IND:S1A-022#74:1:B>
+Construction yes <,,> certificate
+
+<$A> 
+<ICE-IND:S1A-022#75:1:A>
+How many children do you have <,> ?
+
+<$B> 
+<ICE-IND:S1A-022#76:1:B>
+I have one <,,>
+
+<$A> 
+<ICE-IND:S1A-022#77:1:A>
+Is it a boy or a <{> <[> girl </[> ?
+
+<$B> 
+<ICE-IND:S1A-022#78:1:B>
+<[> Boy </[> </{> boy <,>
+
+<$A> 
+<ICE-IND:S1A-022#79:1:A>
+What is he doing ?
+
+<$B> 
+<ICE-IND:S1A-022#80:1:B>
+Uh <w> he's </w> doing tenth standard <,>
+
+<$A> 
+<ICE-IND:S1A-022#81:1:A>
+Third standard
+
+<$B> 
+<ICE-IND:S1A-022#82:1:B>
+Tenth tenth
+
+<$A> 
+<ICE-IND:S1A-022#83:1:A>
+Tenth <{> <[> standard </[>
+
+<$B> 
+<ICE-IND:S1A-022#84:1:B>
+<[> Tenth </[> </{> standard <,>
+
+<ICE-IND:S1A-022#85:1:B>
+What about you ?
+
+<$A> 
+<ICE-IND:S1A-022#86:1:A>
+No <,> don't have any children
+
+<$B> 
+<ICE-IND:S1A-022#87:1:B>
+Ah <,,>
+
+<$A> 
+<ICE-IND:S1A-022#88:1:A>
+For that I can stay in a residential school <,>
+
+<$B> 
+<ICE-IND:S1A-022#89:1:B>
+How <,> it is very glad that we have met in this school
+
+<$A> 
+<ICE-IND:S1A-022#90:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-022#91:1:B>
+I see a number of people <,> I like them very much <,,>
+
+<ICE-IND:S1A-022#92:1:B>
+<w> It's </w> <{> <[> an opportunity </[>
+
+<$A> 
+<ICE-IND:S1A-022#93:1:A>
+<[> Good oppurtunity </[> </{> very good
+
+<$B> 
+<ICE-IND:S1A-022#94:1:B>
+Yeah <{> <[> we have uttered </[> the same words
+
+<$A> 
+<ICE-IND:S1A-022#95:1:A>
+<[> Yeah <w> it's </w> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#96:1:B>
+Opportunity to meet the people like you <,> <O> laughter </O>
+and <,> for a month <,> I think <,> <{> <[> yeah <,> we have passed <,> in a
+a very good way
+
+<$A> 
+<ICE-IND:S1A-022#97:1:A>
+<[> Yeah </[> </{>
+
+<$A> 
+<ICE-IND:S1A-022#98:1:A>
+We feel <,> we have come to know each <{> <[> other for a long
+</[> time
+
+<$B> 
+<ICE-IND:S1A-022#99:1:B>
+<[> Yes yes definitely </[> </{>
+
+<$A> 
+<ICE-IND:S1A-022#100:1:A>
+<w> It's </w> not for <{> <[> twenty </[> days or one month
+
+<$B> 
+<ICE-IND:S1A-022#101:1:B>
+<[> <w> That's </w> what </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#102:1:B>
+<w> That's </w> what I was talking to Rekha <,> that uh this
+course has <,> given us so many things that <{> <[> we have not </[>
+
+<$A> 
+<ICE-IND:S1A-022#103:1:A>
+<[> <w> It's </w> brought </[> </{> us very close to each <{>
+<[> other </[>
+
+<$B> 
+<ICE-IND:S1A-022#104:1:B>
+<[> Each other </[> </{> <,> and so many things we have
+learnt <,>
+
+<ICE-IND:S1A-022#105:1:B>
+While we are leaving this school <,> I think we leave <,> with
+some matter in our head
+
+<$A> 
+<ICE-IND:S1A-022#106:1:A>
+Not only English language but all <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-022#107:1:B>
+So many things about the Grammar and <{> <[> human </[>
+
+<$A> 
+<ICE-IND:S1A-022#108:1:A>
+<[> About </[> </{> human ways
+
+<$B> 
+<ICE-IND:S1A-022#109:1:B>
+Yes yes definitely <,,>
+
+<ICE-IND:S1A-022#110:1:B>
+<w> It's </w> nice to see the people here
+
+<ICE-IND:S1A-022#111:1:B>
+And more than this <,> the co-participants are very <,> uh what
+can I say <,> uh they are very sportive
+
+<$A> 
+<ICE-IND:S1A-022#112:1:A>
+Very co-operative
+
+<$B> 
+<ICE-IND:S1A-022#113:1:B>
+Co-operative very sportive <,,>
+
+<$A> 
+<ICE-IND:S1A-022#114:1:A>
+How do you find Mysore <,,> ?
+
+<$B> 
+<ICE-IND:S1A-022#115:1:B>
+Uh because we have not gone anywhere <,> <O> laughs </O> and
+we don't <{> <[> find time </[>
+
+<$A> 
+<ICE-IND:S1A-022#116:1:A>
+<[> You </[> </{> haven't been to any place <,>
+
+<$B> 
+<ICE-IND:S1A-022#117:1:B>
+No <,> so far I <,> we have not gone anywhere except <,> uh
+on one Saturday we had been to <,,> a market to buy our plastic <,> plastic
+material <,,>
+
+<$A> 
+<ICE-IND:S1A-022#118:1:A>
+You have not seen even <w> Mysore's </w> <,> marvellous
+palace <,>
+
+<$B> 
+<ICE-IND:S1A-022#119:1:B>
+Sometimes I come along with my <,> students
+
+<$A> 
+<ICE-IND:S1A-022#120:1:A>
+Previously you had visited
+
+<$B> 
+<ICE-IND:S1A-022#121:1:B>
+Yes yes once <,> I had been to Palace <,,>
+
+<ICE-IND:S1A-022#122:1:B>
+I visited the palace and some places
+
+<ICE-IND:S1A-022#123:1:B>
+It was one day tour <,>
+
+<$A> 
+<ICE-IND:S1A-022#124:1:A>
+Do you like the weather over here <,,> ?
+
+<$B> 
+<ICE-IND:S1A-022#125:1:B>
+I like it <,,> I like this place <,>
+
+<$A> 
+<ICE-IND:S1A-022#126:1:A>
+And what about the weather in your place <,,> ?
+
+<$B> 
+<ICE-IND:S1A-022#127:1:B>
+So hot <,> summer <,,>
+
+<ICE-IND:S1A-022#128:1:B>
+I live in Vellore <,> but not in Ambur
+
+<ICE-IND:S1A-022#129:1:B>
+I travel <,,> forty-five kilometers everyday <,>
+
+<$A> 
+<ICE-IND:S1A-022#130:1:A>
+Oh you <{> <[> are staying in Vellore </[>
+
+<$B> 
+<ICE-IND:S1A-022#131:1:B>
+<[> Forty-five to forty-five </[> </{>
+
+<ICE-IND:S1A-022#132:1:B>
+Yes <,> I come I travel hundred kilometres everyday <,,>
+
+<ICE-IND:S1A-022#133:1:B>
+So Vellore it seems to be <,> equal to Madras <,>
+
+<$A> 
+<ICE-IND:S1A-022#134:1:A>
+Equal to Triveni Academy <,> yeah where I stay <O> laughter
+</O>
+
+<$B> 
+<ICE-IND:S1A-022#135:1:B>
+Yes quite hot
+
+<$A> 
+<ICE-IND:S1A-022#136:1:A>
+We have many students from Vellore and I they have come to
+about <,> <{> <[> ah ha <,> city
+
+<$B> 
+<ICE-IND:S1A-022#137:1:B>
+<[> Aa ha </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#138:1:B>
+Ah yes
+
+<$A> 
+<ICE-IND:S1A-022#139:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-022#140:1:B>
+But what about your institution <,> I I heard that
+institution is very good <,>
+
+<$A> 
+<ICE-IND:S1A-022#141:1:A>
+Yeah <,> because students come all over India even from
+outside India they study there <,,>
+
+<ICE-IND:S1A-022#142:1:A>
+And <,> we have <,> it is a co-educational school and <,> students
+from standard one to twelfth are there <,>
+
+<$B> 
+<ICE-IND:S1A-022#143:1:B>
+Oh uh so uhm <,>
+
+<$A> 
+<ICE-IND:S1A-022#144:1:A>
+<w> It's </w> a large campus <,>
+
+<$B> 
+<ICE-IND:S1A-022#145:1:B>
+<{> <[> Large campus </[>
+
+<$A> 
+<ICE-IND:S1A-022#146:1:A>
+<[> Large campus </[> </{> yeah
+
+<$B> 
+<ICE-IND:S1A-022#147:1:B>
+Uh what is the education here matriculation or <,>
+
+<$A> 
+<ICE-IND:S1A-022#148:1:A>
+From standard one to standard twelfth
+
+<ICE-IND:S1A-022#149:1:A>
+And this year they have started other professional courses <,,>
+like uh <O> one word </O> technology <{1> <[1> ha <,> computer application
+<{2> <[2> ha <,> business management <,>
+
+<ICE-IND:S1A-022#150:1:A>
+Even they have started uh <,> higher secondary school <,> of Tamil
+Nadu Board also <,>
+
+<ICE-IND:S1A-022#151:1:A>
+And they are going to start a <w> women's </w> college
+
+<$B> 
+<ICE-IND:S1A-022#152:1:B>
+<[1> Ha </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-022#153:1:B>
+<[2> Ha </[2> </{2>
+
+<$B> 
+<ICE-IND:S1A-022#154:1:B>
+<w> Women's </w> college
+
+<$A> 
+<ICE-IND:S1A-022#155:1:A>
+Yeah <,>
+
+<ICE-IND:S1A-022#156:1:A>
+They have planned it and I think they will be starting next year
+
+<$B> 
+<ICE-IND:S1A-022#157:1:B>
+Is it a big campus <,> ?
+
+<$A> 
+<ICE-IND:S1A-022#158:1:A>
+Yeah <,> it is <,>
+
+<$B> 
+<ICE-IND:S1A-022#159:1:B>
+How many acres <,> ?
+
+<$A> 
+<ICE-IND:S1A-022#160:1:A>
+Around eight fifty <,> eight hundred fifty acres
+
+<$B> 
+<ICE-IND:S1A-022#161:1:B>
+Oh very big <,>
+
+<$A> 
+<ICE-IND:S1A-022#162:1:A>
+It is a big campus very big
+
+<$B> 
+<ICE-IND:S1A-022#163:1:B>
+So how about the performance of the students there <,,> ?
+
+<$A> 
+<ICE-IND:S1A-022#164:1:A>
+They just
+
+<$B> 
+<ICE-IND:S1A-022#165:1:B>
+They do well ?
+
+<$A> 
+<ICE-IND:S1A-022#166:1:A>
+Very well yeah
+
+<$B> 
+<ICE-IND:S1A-022#167:1:B>
+<w> What's </w> your strength <,,> ?
+
+<$A> 
+<ICE-IND:S1A-022#168:1:A>
+Last year it was around two thousand <,> and I think this
+year it will be <,,> going up
+
+<$B> 
+<ICE-IND:S1A-022#169:1:B>
+Going up <,,>
+
+<ICE-IND:S1A-022#170:1:B>
+So how many <,> teachers are working there <,,> ?
+
+<$A> 
+<ICE-IND:S1A-022#171:1:A>
+I think more than <,> two hundred
+
+<$B> 
+<ICE-IND:S1A-022#172:1:B>
+Two hundred
+
+<$A> 
+<ICE-IND:S1A-022#173:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-022#174:1:B>
+So they have hostel facilities also <,,>
+
+<$A> 
+<ICE-IND:S1A-022#175:1:A>
+Everyone has to stay on the <{> <[> campus </[> <,> on the
+campus not in the hostel <,> <{> <[> in the hostel <,,> and they have married
+accomodation complex <,> and they stay there
+
+<$B> 
+<ICE-IND:S1A-022#176:1:B>
+<[> In the hostel </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#177:1:B>
+<[> Ha </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#178:1:B>
+Oh complex is also there
+
+<$A> 
+<ICE-IND:S1A-022#179:1:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-022#180:1:B>
+Very nice <,,>
+
+<ICE-IND:S1A-022#181:1:B>
+Who is running that institituion <,,> ?
+
+<$A> 
+<ICE-IND:S1A-022#182:1:A>
+Managing Director <,,> uh from Madras <,> and that do you
+know the Madras Motor Finance corporation <,,> ?
+
+<ICE-IND:S1A-022#183:1:A>
+M M F C <,,> there is a <,> uh like finance company in Madras <,>
+
+<$B> 
+<ICE-IND:S1A-022#184:1:B>
+Ah
+
+<$A> 
+<ICE-IND:S1A-022#185:1:A>
+They run <,> that managing director of that company
+
+<$B> 
+<ICE-IND:S1A-022#186:1:B>
+What is his name Annamalik
+
+<$A> 
+<ICE-IND:S1A-022#187:1:A>
+Mrs no <,> Mr <,,> T V Shivannair <,>
+
+<$B> 
+<ICE-IND:S1A-022#188:1:B>
+P C P V C <,>
+
+<$A> 
+<ICE-IND:S1A-022#189:1:A>
+T V Shivannair <,>
+
+<$B> 
+<ICE-IND:S1A-022#190:1:B>
+Shivanniar
+
+<$A> 
+<ICE-IND:S1A-022#191:1:A>
+Yeah <,,>
+
+<ICE-IND:S1A-022#192:1:A>
+<w> He's </w> <}> <-> a </-> <+> the </+> </}> managing director
+
+<$B> 
+<ICE-IND:S1A-022#193:1:B>
+How do you find your school ?
+
+<ICE-IND:S1A-022#194:1:B>
+<w> It's </w> good <,>
+
+<$A> 
+<ICE-IND:S1A-022#195:1:A>
+Yeah <,> I enjoy staying on the campus that is the thing <O>
+laughter </O> <w> it's </w> very neat and clean and <,>
+
+<$B> 
+<ICE-IND:S1A-022#196:1:B>
+I enjoy my teaching in school <,> because I studied in the
+same school
+
+<$A> 
+<ICE-IND:S1A-022#197:1:A>
+You studied in the same <{1> <[1> school </[1> and you are
+teaching in the same school
+
+<ICE-IND:S1A-022#198:1:A>
+Ah <w> it's </w> <{2> <[2> very enjoyable then no </[2> <O> laughs
+</O>
+
+<$B> 
+<ICE-IND:S1A-022#199:1:B>
+<[1> Yes same school </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-022#200:1:B>
+<[2> Yes I am teaching in the same </[2> </{2> school under
+my teachers <,>
+
+<ICE-IND:S1A-022#201:1:B>
+Now the headmaster is my <,> <w> he's </w> was my teacher <,>
+
+<$A> 
+<ICE-IND:S1A-022#202:1:A>
+He was your teacher and <{> <[> now </[> he is your colleague
+and boss and all
+
+<$B> 
+<ICE-IND:S1A-022#203:1:B>
+<[> yes </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#204:1:B>
+Everything just like <,,>
+
+<$A> 
+<ICE-IND:S1A-022#205:1:A>
+<w> You're </w> going to settle down in Vellore itself ?
+
+<$B> 
+<ICE-IND:S1A-022#206:1:B>
+I hope so <,>
+
+<ICE-IND:S1A-022#207:1:B>
+It is only <,,> a tentative <,,> uh what can we say <,> <{> <[>
+decision <,> tentative decision
+
+<$A> 
+<ICE-IND:S1A-022#208:1:A>
+<[> Decision </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#209:1:B>
+We have not yet decided what to do next <,>
+
+<ICE-IND:S1A-022#210:1:B>
+But of course it is a little bit tough for me to go travel hundred
+miles every every hundred kilometres everyday <,> and do my work <,>
+
+<$A> 
+<ICE-IND:S1A-022#211:1:A>
+Are you going to teach English after this course <,,> ?
+
+<$B> 
+<ICE-IND:S1A-022#212:1:B>
+Uh sometimes they <,,> my school utilises me
+
+<$A> 
+<ICE-IND:S1A-022#213:1:A>
+Oh
+
+<$B> 
+<ICE-IND:S1A-022#214:1:B>
+In the absence of English teachers <,>
+
+<ICE-IND:S1A-022#215:1:B>
+Sometimes they give a kind of <,> uh what can you say <,> the
+training to the teachers <,> who are not good in grammar <,>
+
+<ICE-IND:S1A-022#216:1:B>
+At that time <w> they'll </w> call me <,> to give to deal with one
+chapter <,>
+
+<ICE-IND:S1A-022#217:1:B>
+Any chapter or any topic <{> <[> on grammar </[>
+
+<$A> 
+<ICE-IND:S1A-022#218:1:A>
+<[> Anyhow </[> </{> <w> it'll </w> be helpful to you
+
+<$B> 
+<ICE-IND:S1A-022#219:1:B>
+Yes yes they will do it <,,>
+
+<$A> 
+<ICE-IND:S1A-022#220:1:A>
+Had you been to any other state other than near Andhra
+pradesh and Tamil Nadu <,,> and even now Mysore I think
+
+<$B> 
+<ICE-IND:S1A-022#221:1:B>
+Uh <,> only to Madras
+
+<$A> 
+<ICE-IND:S1A-022#222:1:A>
+Only to Madras
+
+<$B> 
+<ICE-IND:S1A-022#223:1:B>
+Only to Madras
+
+<$A> 
+<ICE-IND:S1A-022#224:1:A>
+Not to any other state <,>
+
+<$B> 
+<ICE-IND:S1A-022#225:1:B>
+Uh no <,>
+
+<$A> 
+<ICE-IND:S1A-022#226:1:A>
+Do you stay in Andhra for sometimes <,>
+
+<$B> 
+<ICE-IND:S1A-022#227:1:B>
+Sometimes <,> when I was <,> a child I was taken to that
+place <,>
+
+<ICE-IND:S1A-022#228:1:B>
+After that my grandma was old
+
+<ICE-IND:S1A-022#229:1:B>
+My mother passed away
+
+<ICE-IND:S1A-022#230:1:B>
+So <,> we had no connection with those people <,>
+
+<ICE-IND:S1A-022#231:1:B>
+More than that almost all the people became very old <,> at that
+time <O> laughter </O> so we had no connection after that <,,>
+
+<$A> 
+<ICE-IND:S1A-022#232:1:A>
+Now you are the resident of <,,>
+
+<$B> 
+<ICE-IND:S1A-022#233:1:B>
+Vellore
+
+<$A> 
+<ICE-IND:S1A-022#234:1:A>
+Tamil Nadu <,> <{> <[> Tamil Nadu <,> that is Vellore
+
+<$B> 
+<ICE-IND:S1A-022#235:1:B>
+<[> Tamil Nadu </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#236:1:B>
+Yes <,,>
+
+<$A> 
+<ICE-IND:S1A-022#237:1:A>
+How do you do in the vacation <,,> ?
+
+<ICE-IND:S1A-022#238:1:A>
+Like summer vacation or winter vacation <,> ?
+
+<$B> 
+<ICE-IND:S1A-022#239:1:B>
+Uh
+
+<$A> 
+<ICE-IND:S1A-022#240:1:A>
+You may be getting more than three months I think <,>
+
+<$B> 
+<ICE-IND:S1A-022#241:1:B>
+Not three months <,>
+
+<ICE-IND:S1A-022#242:1:B>
+But <{> <[> used to coach the </[> children
+
+<$A> 
+<ICE-IND:S1A-022#243:1:A>
+<[> Use to improve them </[> </{>
+
+<$A> 
+<ICE-IND:S1A-022#244:1:A>
+Oh you know what the coaching facility is like
+
+<$B> 
+<ICE-IND:S1A-022#245:1:B>
+Yeah <,>
+
+<ICE-IND:S1A-022#246:1:B>
+In summer before I <,> before I came <,,> I was teaching the
+students <,>
+
+<ICE-IND:S1A-022#247:1:B>
+Sundays I <{> <[> took </[> intensive classes for the <,> entrance
+to <,> twelfth standard
+
+<$A> 
+<ICE-IND:S1A-022#248:1:A>
+<[> Intensive </[> </{>
+
+<$A> 
+<ICE-IND:S1A-022#249:1:A>
+For those who are going to write that <,> <{> <[> twelfth
+standard <,,> yeah <w> we've </w> to
+
+<$B> 
+<ICE-IND:S1A-022#250:1:B>
+<[> Twelfth standard </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#251:1:B>
+Uhm I don't feel so we are left free <,>
+
+<ICE-IND:S1A-022#252:1:B>
+Everytime we have <{> <[> some work to do </[>
+
+<$A> 
+<ICE-IND:S1A-022#253:1:A>
+<[> what do you do </[> </{> in <indig> pooja </indig>
+vacation <,> ?
+
+<$B> 
+<ICE-IND:S1A-022#254:1:B>
+<indig> Pooja </indig> vacation also we used to conduct some
+classes practical classes <,,>
+
+<ICE-IND:S1A-022#255:1:B>
+So they question us when these children fail <,>
+
+<ICE-IND:S1A-022#256:1:B>
+So many things are there
+
+<$A> 
+<ICE-IND:S1A-022#257:1:A>
+Oh all this schools are utilising the vacation to
+
+<$B> 
+<ICE-IND:S1A-022#258:1:B>
+Sometimes <,>
+
+<$A> 
+<ICE-IND:S1A-022#259:1:A>
+Even when they are teaching to the students or except <{> <[>
+teaching </[> to the students <,,>
+
+<$B> 
+<ICE-IND:S1A-022#260:1:B>
+<[> Yes yes </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#261:1:B>
+In <indig> pooja </indig> day some important days we stay
+back <,,>
+
+<ICE-IND:S1A-022#262:1:B>
+Some other days we have our own work <,,>
+
+<ICE-IND:S1A-022#263:1:B>
+So we will we want to finish our syllabus <,> so we run to school
+<,,> or do the work
+
+<$A> 
+<ICE-IND:S1A-022#264:1:A>
+Now how do you find your life as a teacher <,> ?
+
+<$B> 
+<ICE-IND:S1A-022#265:1:B>
+Yes <}> <-> I like </-> <=> I like </=> </}> it very much
+<,,>
+
+<ICE-IND:S1A-022#266:1:B>
+Formally I was not liking it <,>
+
+<ICE-IND:S1A-022#267:1:B>
+But uh <,> I I developed to <,,> a liking over it <,>
+
+<ICE-IND:S1A-022#268:1:B>
+Now I like it very much <,>
+
+<ICE-IND:S1A-022#269:1:B>
+I like this <,>
+
+<ICE-IND:S1A-022#270:1:B>
+I like to be with the children <,,>
+
+<$A> 
+<ICE-IND:S1A-022#271:1:A>
+Yeah really <,> then
+
+<$B> 
+<ICE-IND:S1A-022#272:1:B>
+So whenever I come to school
+
+<$A> 
+<ICE-IND:S1A-022#273:1:A>
+There <O> one or two words </O> even to provide fun to us <O>
+laughter </O>
+
+<$B> 
+<ICE-IND:S1A-022#274:1:B>
+Yes <,> when I am once when I am in the school <,> <w> I'll
+</w> not think about anything <,> any type of uh <,>
+
+<$A> 
+<ICE-IND:S1A-022#275:1:A>
+You forget all your <{> <[> worries </[> all your <O> laughs
+</O>
+
+<$B> 
+<ICE-IND:S1A-022#276:1:B>
+<[> Yes yes </[> </{>
+
+<$B> 
+<ICE-IND:S1A-022#277:1:B>
+Everything no worry there <,,>
+
+<$A> 
+<ICE-IND:S1A-022#278:1:A>
+When you look at the children
+
+<$B> 
+<ICE-IND:S1A-022#279:1:B>
+Yes <,,>
+
+<ICE-IND:S1A-022#280:1:B>
+Once we come out <w> we'll </w> come out with satisfaction <,>
+
+<ICE-IND:S1A-022#281:1:B>
+Otherwise if we don't if I don't teach means I will be feeling
+very sad
+
+<ICE-IND:S1A-022#282:1:B>
+Today I have not taught this <,> others have done this well <,,>
+uh so many things will be there
+
+<$A> 
+<ICE-IND:S1A-022#283:1:A>
+Anyhow you have to <}> <-> seen </-> <+> see </+> </}> your
+own
+
+<$B> 
+<ICE-IND:S1A-022#284:1:B>
+Yes definitely <,> definitely
+
+<$A> 
+<ICE-IND:S1A-022#285:1:A>
+Performence in the class <,>
+
+<$B> 
+<ICE-IND:S1A-022#286:1:B>
+Yes yes
+
+<$A> 
+<ICE-IND:S1A-022#287:1:A>
+<w> That's </w> good <,,>
+
+<$B> 
+<ICE-IND:S1A-022#288:1:B>
+So I like this teaching also <,> uh <w> it's </w> an I as I
+told in the class <,> in the <,> it is <}> <-> an </-> <+> a </+> </}> very
+good experience <,,> what we had in teaching practice
+
+<$A> 
+<ICE-IND:S1A-022#289:1:A>
+How do manage your home and your service at the same time ?
+
+<$B> 
+<ICE-IND:S1A-022#290:1:B>
+Ha it was bit it was difficult only <,,>
+
+<$A> 
+<ICE-IND:S1A-022#291:1:A>
+<w> It's </w> even though how do you find it ?
+
+<$B> 
+<ICE-IND:S1A-022#292:1:B>
+So I took it as a challenge
+
+<$A> 
+<ICE-IND:S1A-022#293:1:A>
+Yeah <,,>
+
+<$B> 
+<ICE-IND:S1A-022#294:1:B>
+Uh I know very well that life is uh not smooth <,> life is
+made up of a <,> uh troubles <,>
+
+<ICE-IND:S1A-022#295:1:B>
+So if you want <{> <[> to accept do adjustment </[>
+
+<$A> 
+<ICE-IND:S1A-022#296:1:A>
+<[> adjustments and uh </[> </{>
+
+<$A> 
+<ICE-IND:S1A-022#297:1:A>
+You have to do adjustment
+
+<$B> 
+<ICE-IND:S1A-022#298:1:B>
+Ah yes <,,> I I remember one <}> <-> quoting </-> <+> quote
+</+> </}> from Nehru <quote> if you want to accept uh <,> a full blown rose
+<,> we you have to accept the thorns behind it </quote>
+
+<$A> 
+<ICE-IND:S1A-022#299:1:A>
+Oh <O> laughter </O> </I>

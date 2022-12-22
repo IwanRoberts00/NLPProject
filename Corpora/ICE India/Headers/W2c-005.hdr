@@ -1,0 +1,372 @@
+<text.info>
+    <file.description>
+            <textcode>ICE-IND-W2C-005</textcode>
+            <number.of.subtexts>11</number.of.subtexts>
+            <category>printed:press news reports</category>
+            <wordcount>1890</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+    </file.description>
+    <subtext.source=a,b>
+    <source.type=newspaper>
+            <source.title>Delhi Midday</source.title>
+            <scope>local</scope>
+            <frequency>daily</frequency>
+            <circulation>not known</circulation>
+    <publication.statement>
+            <publisher>Special Protection Services (Pvt)
+            Ltd.</publisher>
+            <address>Special Protection Services (Pvt) Ltd. World 
+            Trade Tower, Barakhamba Lane, new Delhi-           
+            110001</address>
+            <place>New Delhi</place>
+            <date>07-03-90</date>
+    </publication.statement>
+    <copyright.statement>reproduced by permission of Special
+            Protections Services (Pvt) Ltd.</copyright.statement>
+    <free.comments>text was obtained by Prof.
+            Leitner</free.comments>
+    </source.type>
+    </subtext.source>
+    <subtext.internals=<it>ICE-IND-W2C-005a</it>>
+            <subtext.name>ICE-IND</subtext.name>
+    <main.title>Scribes scamper out of Kashmir</main.title>
+    <subtitle>Politically motivated violence</subtitle>
+            <page.nos>1</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <subtext.internals=<it>ICE-IND-W2C-005b</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Traffic chaos at Rajinder Ngr
+            crossing</main.title>
+            <subtitle></subtitle>
+            <page.nos>9</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <biography=<it>ICE-IND-W2C-005a</it>>
+            <speaker.id>A</speaker.id>
+    <communicative.role>correspondent</communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+    <biography=<it>ICE-IND-W2C-005b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+    <subtext.source=c,d,e,f>
+    <source.type=newspaper>
+            <source.title>Herald</source.title>
+            <scope>regional</scope>
+            <frequency>daily</frequency>
+            <circulation>not known</circulation>
+    <publication.statement>
+            <publisher>Fernandes Publications</publisher>
+            <address>Behind General Post Office, Panjim,
+            Goa-403001</address>
+            <place>Goa</place>
+            <date>27-02-90</date>
+    </publication.statement>
+    <copyright.statement>reproduced by permission of Fernandes
+            Publications</copyright.statement>
+    <free.comments>text was obtained by Prof.
+            Leitner</free.comments>
+    </source.type>
+    </subtext.source>
+    <subtext.internals=<it>ICE-IND-W2C-005c</it>>
+            <subtext.name>ICE-IND</subtext.name>
+    <main.title>Carnival float flops in Mapusa</main.title>
+            <subtitle></subtitle>
+            <page.nos>5</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <subtext.internals=<it>ICE-IND-W2C-005d</it>>
+            <subtext.name>ICE-IND</subtext.name>
+    <main.title>Urdu literary comp. results declared</main.title>
+            <subtitle></subtitle>
+            <page.nos>5</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <subtext.internals=<it>ICE-IND-W2C-005e</it>>
+            <subtext.name>ICE-IND</subtext.name>
+    <main.title>AIR to broadcast poll results</main.title>
+            <subtitle></subtitle>
+            <page.nos>9</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <subtext.internals=<it>ICE-IND-W2C-005f</it>>
+            <subtext.name>ICE-IND</subtext.name>
+    <main.title>CLAHRO condemns students arrest</main.title>
+            <subtitle></subtitle>
+            <page.nos>9</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <biography=<it>ICE-IND-W2C-005c</it>>
+            <speaker.id>A</speaker.id>
+    <communicative.role>correspondent</communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+    <biography=<it>ICE-IND-W2C-005d</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>reporter</communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+    <biography=<it>ICE-IND-W2C-005e</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+    <biography=<it>ICE-IND-W2C-005f</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+    <subtext.source=g>
+    <source.type=newspaper>
+            <source.title>The Hitavada</source.title>
+            <scope>regional</scope>
+            <frequency>daily</frequency>
+            <circulation>not known</circulation>
+    <publication.statement>
+            <publisher>Rajendra Purohit & Company</publisher>
+            <address>Pandit Jawaharlal Nehru Marg, Nagpur-     
+            440012</address>
+            <place>Nagpur</place>
+            <date>28-01-90</date>
+    </publication.statement>
+    <copyright.statement>reproduced by permission of Rajendra
+            Purohit & Company</copyright.statement>
+    <free.comments>text was obtained by Prof.
+            Leitner</free.comments>
+    </source.type>
+    </subtext.source>
+    <subtext.internals=<it>ICE-IND-W2C-005g</it>>
+            <subtext.name>ICE-IND</subtext.name>
+    <main.title>Bofors-linked Swiss account frozen</main.title>
+            <subtitle></subtitle>
+            <page.nos>1</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <biography=<it>ICE-IND-W2C-005g</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+    <subtext.source=h,i>
+    <source.type=newspaper>
+            <source.title>The Hitavada</source.title>
+            <scope>regional</scope>
+            <frequency>daily</frequency>
+            <circulation>not known</circulation>
+    <publication.statement>
+            <publisher>Rajendra Purohit & Co.</publisher>
+            <address>Pandit Jawaharlal Nehru Marg, Nagpur-     
+            440012</address>
+            <place>Nagpur</place>
+            <date>29-01-90</date>
+    </publication.statement>
+    <copyright.statement>reproduced by permission of Rajendra
+            Purohit & Co.</copyright.statement>
+    <free.comments>text was obtained by Prof.
+            Leitner</free.comments>
+    </source.type>
+    </subtext.source>
+    <subtext.internals=<it>ICE-IND-W2C-005h</it>>
+            <subtext.name>ICE-IND</subtext.name>
+    <main.title>J & K police call off stir</main.title>
+            <subtitle></subtitle>
+            <page.nos>4</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <subtext.internals=<it>ICE-IND-W2C-005i</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>CPM decries VHP move</main.title>
+            <subtitle></subtitle>
+            <page.nos>4</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <biography=<it>ICE-IND-W2C-005h</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+    <biography=<it>ICE-IND-W2C-005i</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+    <subtext.source=j,k>
+    <source.type=newspaper>
+            <source.title>Midday</source.title>
+            <scope>local</scope>
+            <frequency>daily</frequency>
+            <circulation>not known</circulation>
+    <publication.statement>
+            <publisher>Midday Publications Ltd.</publisher>
+            <address>Midday Publications Ltd., Andheri, Bombay- 
+            400059</address>
+            <place>Bombay</place>
+            <date>27-02-90</date>
+    </publication.statement>
+    <copyright.statement>reproduced by permission of Midday    
+            Publications Ltd. </copyright.statement>
+    <free.comments>text was obtained by Prof.
+            Leitner</free.comments>
+    </source.type>
+    </subtext.source>
+    <subtext.internals=<it>ICE-IND-W2C-005j</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Tel cables</main.title>
+            <subtitle></subtitle>
+            <page.nos>11</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <subtext.internals=<it>ICE-IND-W2C-005k</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Wilman II</main.title>
+            <subtitle></subtitle>
+            <page.nos>11</page.nos>
+            <free.comments></free.comments>
+    </subtext.internals>
+    <biography=<it>ICE-IND-W2C-005j</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+    <biography=<it>ICE-IND-W2C-005k</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname></surname>
+            <forenames></forenames>
+            <age></age>
+            <gender></gender>
+            <nationality></nationality>
+            <birthplace></birthplace>
+            <education></education>
+            <educational.level></educational.level>
+            <occupation></occupation>
+            <affiliations></affiliations>
+            <mother.tongue></mother.tongue>
+            <other.languages></other.languages>
+            <free.comments></free.comments>
+    </biography>
+</text.info>

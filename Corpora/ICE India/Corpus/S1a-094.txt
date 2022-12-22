@@ -1,0 +1,2004 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-094#1:1:A>
+Hello <,>
+
+<$B> 
+<ICE-IND:S1A-094#2:1:B>
+Hello <,>
+
+<$A> 
+<ICE-IND:S1A-094#3:1:A>
+Hello <,>
+
+<$B> 
+<ICE-IND:S1A-094#4:1:B>
+<indig> Haan </indig> good afternoon <,>
+
+<$A> 
+<ICE-IND:S1A-094#5:1:A>
+Good afternoon
+
+<$B> 
+<ICE-IND:S1A-094#6:1:B>
+How are you <,> ?
+
+<$A> 
+<ICE-IND:S1A-094#7:1:A>
+Yeah <w> I'm </w> alright <,>
+
+<$B> 
+<ICE-IND:S1A-094#8:1:B>
+<indig> Accha </indig> this <,> uh did you convey that message
+about <,> tin oxide ?
+
+<$A> 
+<ICE-IND:S1A-094#9:1:A>
+Yeah I have conveyed to them <,>
+
+<$B> 
+<ICE-IND:S1A-094#10:1:B>
+Ah
+
+<$A> 
+<ICE-IND:S1A-094#11:1:A>
+Now <,> the fifty k g might be a problem
+
+<ICE-IND:S1A-094#12:1:A>
+They are saying <,> uh take hundred because for <,> from the point
+of view of packing and <,> transporting <,> <{> <[> ah <,> they are saying
+take hundred <w> k g's </w> <,>
+
+<$B> 
+<ICE-IND:S1A-094#13:1:B>
+<[> Ah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#14:1:B>
+But hundred <,>
+
+<$A> 
+<ICE-IND:S1A-094#15:1:A>
+Can I ask them for airfreight hundred <w> k g's </w> <,> ?
+
+<$B> 
+<ICE-IND:S1A-094#16:1:B>
+Hundred k g is too big quantity you now <,>
+
+<$A> 
+<ICE-IND:S1A-094#17:1:A>
+Ah <,> <w> that's </w> what they are saying <,> <{> <[> ah <,>
+<w> I've </w> sent them a telex again
+
+<$B> 
+<ICE-IND:S1A-094#18:1:B>
+<[> Ah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#19:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#20:1:A>
+To see what they are <,> why they are saying that <,,>
+
+<$B> 
+<ICE-IND:S1A-094#21:1:B>
+No but then I can do one thing
+
+<$A> 
+<ICE-IND:S1A-094#22:1:A>
+Ahn <,>
+
+<$B> 
+<ICE-IND:S1A-094#23:1:B>
+If <,> you can ask them to <,> uh uh pay for the advance
+
+<$A> 
+<ICE-IND:S1A-094#24:1:A>
+Ahn <,>
+
+<$B> 
+<ICE-IND:S1A-094#25:1:B>
+I can also arrange the advance <,>
+
+<$A> 
+<ICE-IND:S1A-094#26:1:A>
+<indig> Nahi nahi </indig> they are not talking about money
+
+<$B> 
+<ICE-IND:S1A-094#27:1:B>
+Uhm <,>
+
+<$A> 
+<ICE-IND:S1A-094#28:1:A>
+They are not talking about money
+
+<$B> 
+<ICE-IND:S1A-094#29:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#30:1:A>
+They are only saying <,>
+
+<$B> 
+<ICE-IND:S1A-094#31:1:B>
+<indig> Haan </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#32:1:A>
+Fifty <w> k g's </w> will be <,> hundred <w> k g's </w> will
+be economical <,>
+
+<$B> 
+<ICE-IND:S1A-094#33:1:B>
+<indig> Haan </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#34:1:A>
+Fifty <w> k g's </w> will not be economical <,>
+
+<$B> 
+<ICE-IND:S1A-094#35:1:B>
+No for air freight <,> fifty k g is okay for us
+
+<$A> 
+<ICE-IND:S1A-094#36:1:A>
+<indig> Haan </indig> no <,> for you it is okay
+
+<$B> 
+<ICE-IND:S1A-094#37:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#38:1:A>
+But there is some other implication there <,> <{> <[> <indig>
+haan </indig> <,> which might increase the cost <,> that is what I am worried
+<,>
+
+<$B> 
+<ICE-IND:S1A-094#39:1:B>
+<[> <indig> Haan </indig> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#40:1:B>
+No but let them <,> specify that no ?
+
+<$A> 
+<ICE-IND:S1A-094#41:1:A>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-094#42:1:B>
+Why there should be increase <,> ?
+
+<$A> 
+<ICE-IND:S1A-094#43:1:A>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#44:1:B>
+Why there should be an increase
+
+<$A> 
+<ICE-IND:S1A-094#45:1:A>
+No <w> I've </w> asked them why <,> ?
+
+<$B> 
+<ICE-IND:S1A-094#46:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#47:1:A>
+So let them tell us <,> uh I mean I got the message
+
+<$B> 
+<ICE-IND:S1A-094#48:1:B>
+But I remember last time also they have airshipped fifty k g
+<,>
+
+<$A> 
+<ICE-IND:S1A-094#49:1:A>
+No no no that was the first time sometime back
+
+<$B> 
+<ICE-IND:S1A-094#50:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#51:1:A>
+When they first started <,>
+
+<$B> 
+<ICE-IND:S1A-094#52:1:B>
+But they can also help us <,> <{> <[> <indig> nahi nahi
+</indig> <,> second time
+
+<$A> 
+<ICE-IND:S1A-094#53:1:A>
+<[> <indig> Nahi nahi </indig> </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#54:1:A>
+<indig> Nahi nahi </indig> <w> it's </w> not the question of
+helping <,>
+
+<$B> 
+<ICE-IND:S1A-094#55:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#56:1:A>
+They should do it <,>
+
+<$B> 
+<ICE-IND:S1A-094#57:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#58:1:A>
+Unless they have specific problem
+
+<$B> 
+<ICE-IND:S1A-094#59:1:B>
+<indig> Haan haan </indig>
+
+<$A> 
+<ICE-IND:S1A-094#60:1:A>
+Which I have asked them to spell out
+
+<$B> 
+<ICE-IND:S1A-094#61:1:B>
+Uhm uhm <,>
+
+<$A> 
+<ICE-IND:S1A-094#62:1:A>
+<indig> Haan </indig>
+
+<$B> 
+<ICE-IND:S1A-094#63:1:B>
+Ah <,>
+
+<$A> 
+<ICE-IND:S1A-094#64:1:A>
+But in which case you know they what they say whether it is
+fifty k g or hundred k g <,> <{> <[> <indig> haan </indig> <,> it will be
+they will be able to air freight by the end of the next week
+
+<$B> 
+<ICE-IND:S1A-094#65:1:B>
+<[> <indig> Haan </indig> </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#66:1:B>
+Oh but then what is the use <,> ?
+
+<$A> 
+<ICE-IND:S1A-094#67:1:A>
+Ah <,>
+
+<$B> 
+<ICE-IND:S1A-094#68:1:B>
+You see by <,> by end of this month <,> <w> I'll I'll </w> get
+the consignmnet <,>
+
+<$A> 
+<ICE-IND:S1A-094#69:1:A>
+Yeah by the end of
+
+<$B> 
+<ICE-IND:S1A-094#70:1:B>
+See my worry is <,> <{1> <[1> Ahn <,> that between uh <,> end
+of this month and <,> uh second week of <,> uh uh what is that uh January <,>
+<{2> <[2> ahn <,> <w> I'll </w> have problems <,>
+
+<$A> 
+<ICE-IND:S1A-094#71:1:A>
+<[1> Ahn </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-094#72:1:A>
+<[2> Ahn </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-094#73:1:A>
+<indig> Nahi </indig> what <w> I'm </w> saying <,> <{> <[>
+yeah <,> if the air freight is end of next week
+
+<$B> 
+<ICE-IND:S1A-094#74:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#75:1:B>
+<indig> Haan </indig>
+
+<$A> 
+<ICE-IND:S1A-094#76:1:A>
+Air freight it takes about three days <indig> na </indig> <,> ?
+
+<$B> 
+<ICE-IND:S1A-094#77:1:B>
+But it takes about ten days for clearance <,>
+
+<$A> 
+<ICE-IND:S1A-094#78:1:A>
+Is that ?
+
+<$B> 
+<ICE-IND:S1A-094#79:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#80:1:A>
+<indig> Haan haan </indig>
+
+<$B> 
+<ICE-IND:S1A-094#81:1:B>
+So now you see <,> they have to immediately ship <,> fifty k g
+<,>
+
+<$A> 
+<ICE-IND:S1A-094#82:1:A>
+Immediately they say <w> it's </w> not possible
+
+<$B> 
+<ICE-IND:S1A-094#83:1:B>
+<indig> Haan </indig>
+
+<$A> 
+<ICE-IND:S1A-094#84:1:A>
+See they can <,> uh earliest they can dispatch before the <,>
+end of next week <,,>
+
+<$B> 
+<ICE-IND:S1A-094#85:1:B>
+End of next week is too long
+
+<$A> 
+<ICE-IND:S1A-094#86:1:A>
+<indig> Haan </indig> <,,>
+
+<$B> 
+<ICE-IND:S1A-094#87:1:B>
+So can you please ask them that <,> you can also represent our
+problem no ?
+
+<$A> 
+<ICE-IND:S1A-094#88:1:A>
+<indig> Nahi nahi </indig> <w> I've </w> already represented
+<w> I'm </w> saying it is an additional requirement
+
+<$B> 
+<ICE-IND:S1A-094#89:1:B>
+<indig> Haan </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#90:1:A>
+It is because <,> as as of the time <w> that'll </w> be taken
+for the two fifty <w> k g's </w> to be received by them
+
+<$B> 
+<ICE-IND:S1A-094#91:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#92:1:A>
+They want fifty k g urgently <,>
+
+<$B> 
+<ICE-IND:S1A-094#93:1:B>
+But why at all they have shipped so late <,> ?
+
+<$A> 
+<ICE-IND:S1A-094#94:1:A>
+Ahn <,>
+
+<$B> 
+<ICE-IND:S1A-094#95:1:B>
+Why at all <w> they've </w> shipped so late <,,> ?
+
+<ICE-IND:S1A-094#96:1:B>
+See when the L C was open <,> <{> <[> ahn <,> during uh first week
+of November
+
+<$A> 
+<ICE-IND:S1A-094#97:1:A>
+<[> Ahn </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#98:1:A>
+Ahn
+
+<$B> 
+<ICE-IND:S1A-094#99:1:B>
+They have shipped by end of <,> uh uh November
+
+<$A> 
+<ICE-IND:S1A-094#100:1:A>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#101:1:B>
+So that has caused the whole problem
+
+<$A> 
+<ICE-IND:S1A-094#102:1:A>
+Yeah yeah <,>
+
+<ICE-IND:S1A-094#103:1:A>
+But even L C must <,> was not the first week of November sir
+
+<$B> 
+<ICE-IND:S1A-094#104:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#105:1:A>
+Any way that there is no point in my arguing with you
+
+<$B> 
+<ICE-IND:S1A-094#106:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#107:1:A>
+But the thing is this now they say by end of next week <{>
+<[> is </[>
+
+<$B> 
+<ICE-IND:S1A-094#108:1:B>
+<[> But </[> </{> I <,> I firmly believe that if you convince
+them on phone <,> <{> <[> <indig> haan </indig> <,> they will definitely ship
+fifty k g
+
+<$A> 
+<ICE-IND:S1A-094#109:1:A>
+<[> <indig> Haan </indig> </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#110:1:A>
+<indig> Nahi nahi nahi </indig> you see the point is
+
+<$B> 
+<ICE-IND:S1A-094#111:1:B>
+<indig> Haan </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#112:1:A>
+Uh this the material may not be available readily
+
+<$B> 
+<ICE-IND:S1A-094#113:1:B>
+<indig> Haan </indig>
+
+<$A> 
+<ICE-IND:S1A-094#114:1:A>
+Fifty <w> k g's </w> or hundred <w> k g's </w> <,>
+
+<$B> 
+<ICE-IND:S1A-094#115:1:B>
+<indig> Haan </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#116:1:A>
+So they have to make it and then send it
+
+<$B> 
+<ICE-IND:S1A-094#117:1:B>
+<indig> Haan </indig>
+
+<$A> 
+<ICE-IND:S1A-094#118:1:A>
+So that is why <w> they've </w> said next week <,> <{> <[>
+but </[>
+
+<$B> 
+<ICE-IND:S1A-094#119:1:B>
+<[> Any </[> </{> way <w> they've </w> to manifacture it now
+<{> <[  <w> > we're </w> their regular customers </[>
+
+<$A> 
+<ICE-IND:S1A-094#120:1:A>
+<[> Any way <w> I've </w> </[> </{> <w> I've </w> no <,> I
+don't want to delay any further
+
+<$B> 
+<ICE-IND:S1A-094#121:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#122:1:A>
+Suppose they say next week should I ask them to go ahead ?
+
+<$B> 
+<ICE-IND:S1A-094#123:1:B>
+Yeah <,> you ask them to go ahead
+
+<$A> 
+<ICE-IND:S1A-094#124:1:A>
+<indig> Haan </indig> <,> but hundred <w> k g's </w> you
+don't want <,> ?
+
+<$B> 
+<ICE-IND:S1A-094#125:1:B>
+No hundred <w> k g's </w>
+
+<$A> 
+<ICE-IND:S1A-094#126:1:A>
+But fifty <w> k g's </w> there might be some price
+implications <w> I'm </w> trying to verify why <,>
+
+<$B> 
+<ICE-IND:S1A-094#127:1:B>
+See that is all negligible <,>
+
+<$A> 
+<ICE-IND:S1A-094#128:1:A>
+No any way <w> I'll </w> come back to you <,>
+
+<$B> 
+<ICE-IND:S1A-094#129:1:B>
+Ah
+
+<$A> 
+<ICE-IND:S1A-094#130:1:A>
+Ah
+
+<$B> 
+<ICE-IND:S1A-094#131:1:B>
+Ah <,>
+
+<$A> 
+<ICE-IND:S1A-094#132:1:A>
+Okay <,>
+
+<$B> 
+<ICE-IND:S1A-094#133:1:B>
+But it is <w> you've </w> to act very fast <,>
+
+<$A> 
+<ICE-IND:S1A-094#134:1:A>
+No no I can't act faster than what I am doing now
+
+<$B> 
+<ICE-IND:S1A-094#135:1:B>
+Ah <,>
+
+<$A> 
+<ICE-IND:S1A-094#136:1:A>
+But only thing is <,> you uh as soon as I get the <,>
+clarification for the price <,> <{> <[> yeah <,> <w> I'll </w> ring you up
+
+<$B> 
+<ICE-IND:S1A-094#137:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#138:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-094#139:1:A>
+Then you will have to comfirm to me yes or no <,>
+
+<$B> 
+<ICE-IND:S1A-094#140:1:B>
+Okay <,>
+
+<$A> 
+<ICE-IND:S1A-094#141:1:A>
+Okay <,>
+
+<$B> 
+<ICE-IND:S1A-094#142:1:B>
+Thank you very much
+
+<$A> 
+<ICE-IND:S1A-094#143:1:A>
+Right <,,> </I>
+
+
+<I>
+
+<$A> 
+<ICE-IND:S1A-094#144:2:A>
+I received that one indemnity bond <,> form
+
+<$B> 
+<ICE-IND:S1A-094#145:2:B>
+Here <,>
+
+<$A> 
+<ICE-IND:S1A-094#146:2:A>
+That uh <,> one cheque <,>
+
+<$B> 
+<ICE-IND:S1A-094#147:2:B>
+For B H E L Hyderabad
+
+<$A> 
+<ICE-IND:S1A-094#148:2:A>
+Yes B H E L Hyderabad
+
+<$B> 
+<ICE-IND:S1A-094#149:2:B>
+The June ninety-two cheque is bounce <,> uh uh had lost
+
+<$A> 
+<ICE-IND:S1A-094#150:2:A>
+Ah <,>
+
+<$B> 
+<ICE-IND:S1A-094#151:2:B>
+So now our agent <,> <{> <[> ahn <,> has asked for a
+indemnity bond and hundred <indig> rupees </indig> stamp paper
+
+<$A> 
+<ICE-IND:S1A-094#152:2:A>
+<[> Ahn </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#153:2:A>
+Ah ha
+
+<$B> 
+<ICE-IND:S1A-094#154:2:B>
+So that he can get a fresh cheque
+
+<$A> 
+<ICE-IND:S1A-094#155:2:A>
+Why not we do one thing
+
+<$B> 
+<ICE-IND:S1A-094#156:2:B>
+Yes
+
+<$A> 
+<ICE-IND:S1A-094#157:2:A>
+We should ask the B H E L <,> <{1> <[1> yeah <,> to issue
+instructions to their bankers <,> <{2> <[2> ahn <,> that this cheque has been
+lost by <,> in transit
+
+<$B> 
+<ICE-IND:S1A-094#158:2:B>
+<[1> Yeah </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-094#159:2:B>
+<[2> Ahn </[2> </{2>
+
+<$B> 
+<ICE-IND:S1A-094#160:2:B>
+They will never do sir
+
+<$A> 
+<ICE-IND:S1A-094#161:2:A>
+Ah <,>
+
+<$B> 
+<ICE-IND:S1A-094#162:2:B>
+This government organisation <,> <{> <[> ah ha <,> they will
+never
+
+<$A> 
+<ICE-IND:S1A-094#163:2:A>
+<[> Ah ha </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#164:2:A>
+They can issue a instructions to their bankers that <{> <[>
+the cheque has been lost </[> and stop the payment <,>
+
+<$B> 
+<ICE-IND:S1A-094#165:2:B>
+<[> Sir that <w> I've </w> asked </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#166:2:B>
+You know in my letter <,> <{1> <[1> ah ha <,> <w> I've </w>
+told them very clearly <,> <{2> <[2> ah ha <,> that this cheque which was
+issued in June ninety-two has already lapsed <,> <{3> <[3> ah ha <,> because
+we are in December <,>
+
+<$A> 
+<ICE-IND:S1A-094#167:2:A>
+<[1> Ah ha </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-094#168:2:A>
+<[2> Ah ha </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-094#169:2:A>
+<[3> Ah ha </[3> </{3>
+
+<$A> 
+<ICE-IND:S1A-094#170:2:A>
+Ah
+
+<$B> 
+<ICE-IND:S1A-094#171:2:B>
+But they insist always <,> <{> <[> ahn <,> for an indemnity
+bond to be kept in their file <,>
+
+<$A> 
+<ICE-IND:S1A-094#172:2:A>
+<[> Ahn </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#173:2:A>
+<indig> Accha </indig> <,> but then then why it is to <,>
+whomsoever it may concern why not in the directly in the favour of <,> <{>
+<[> B H E L </[>
+
+<$B> 
+<ICE-IND:S1A-094#174:2:B>
+<[> That comes in the </[> </{> <O> one word </O>
+
+<$B> 
+<ICE-IND:S1A-094#175:2:B>
+That comes in the <,> narration if you see
+
+<$A> 
+<ICE-IND:S1A-094#176:2:A>
+Uh I have <,> got that uh <,> <{> <[> yeah <,> there is uhm
+<,> <{> <[> issued by the </[> Bharat Electricals Limited
+
+<$B> 
+<ICE-IND:S1A-094#177:2:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#178:2:B>
+<[> This is the standard </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#179:2:B>
+Yeah this is the standard format
+
+<$A> 
+<ICE-IND:S1A-094#180:2:A>
+Instead of that we should address it <,> directly to the
+Bharat Electricals
+
+<$B> 
+<ICE-IND:S1A-094#181:2:B>
+No no this is the standrad format <,> <{> <[> ahn ahn <,> for
+any indemnity bonds for any government customers
+
+<$A> 
+<ICE-IND:S1A-094#182:2:A>
+<[> Ahn ahn </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#183:2:A>
+<indig> Accha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#184:2:B>
+<w> I've </w> been issuing it for municipal corporations and
+<{> <[> all government institutions </[>
+
+<$A> 
+<ICE-IND:S1A-094#185:2:A>
+<[> Ah ha ha ha </[> </{> <indig> accha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#186:2:B>
+This is how it is always <O> one word </O>
+
+<$A> 
+<ICE-IND:S1A-094#187:2:A>
+What happen to this cheque <,> ?
+
+<ICE-IND:S1A-094#188:2:A>
+Exactly but <,>
+
+<$B> 
+<ICE-IND:S1A-094#189:2:B>
+Yeah <{> <[> <O> two words </O> </[>
+
+<$A> 
+<ICE-IND:S1A-094#190:2:A>
+<[> We have received </[> </{> we have received <,> <O> one
+word </O> also <,>
+
+<$B> 
+<ICE-IND:S1A-094#191:2:B>
+Ah <,>
+
+<$A> 
+<ICE-IND:S1A-094#192:2:A>
+We have received <,> we have taken out the receipt also <,>
+
+<$B> 
+<ICE-IND:S1A-094#193:2:B>
+Which one <,> ?
+
+<ICE-IND:S1A-094#194:2:B>
+No no no
+
+<$A> 
+<ICE-IND:S1A-094#195:2:A>
+Then ?
+
+<$B> 
+<ICE-IND:S1A-094#196:2:B>
+This thing has never come to Bombay
+
+<$A> 
+<ICE-IND:S1A-094#197:2:A>
+Ah ha
+
+<$B> 
+<ICE-IND:S1A-094#198:2:B>
+It must have gone to our Kumta street office
+
+<$A> 
+<ICE-IND:S1A-094#199:2:A>
+Ah ha
+
+<$B> 
+<ICE-IND:S1A-094#200:2:B>
+And Kumata street you know that uh <,> <{1> <[1> yeah yeah
+<,> the airfreight has taken over <,> <{2> <[2> ah ha <,> they must have
+refused to <,,> take the envelop meant for ELPRO International <,> <{3> <[3>
+okay <,> and the postal people must have just <,,> dumped it in the <,>
+undelivered parcels
+
+<$A> 
+<ICE-IND:S1A-094#201:2:A>
+<[1> Yeah yeah </[1> </{1>
+
+<$A> 
+<ICE-IND:S1A-094#202:2:A>
+<[2> Ah ha </[2> </{2>
+
+<$A> 
+<ICE-IND:S1A-094#203:2:A>
+<[3> Okay </[3> </{3>
+
+<$A> 
+<ICE-IND:S1A-094#204:2:A>
+<indig> Accha theek hai </indig> then
+
+<$B> 
+<ICE-IND:S1A-094#205:2:B>
+Ah <,>
+
+<ICE-IND:S1A-094#206:2:B>
+<w> That's </w> the reason I asked for it
+
+<$A> 
+<ICE-IND:S1A-094#207:2:A>
+Okay then
+
+<$B> 
+<ICE-IND:S1A-094#208:2:B>
+Thank you
+
+<$A> 
+<ICE-IND:S1A-094#209:2:A>
+Ah <indig> accha </indig> <,,> </I>
+
+
+<I>
+
+<$A> 
+<ICE-IND:S1A-094#210:3:A>
+Hello <,>
+
+<$B> 
+<ICE-IND:S1A-094#211:3:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#212:3:A>
+Ah Rahul <,>
+
+<$B> 
+<ICE-IND:S1A-094#213:3:B>
+<indig> Haan bolo </indig>
+
+<$A> 
+<ICE-IND:S1A-094#214:3:A>
+Kali here <,>
+
+<$B> 
+<ICE-IND:S1A-094#215:3:B>
+<indig> Haan bol </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#216:3:A>
+Uh <,> you could talk to R K Mehta ?
+
+<$B> 
+<ICE-IND:S1A-094#217:3:B>
+<indig> Nahi yaar nahi lagata hai </indig> phone
+
+<ICE-IND:S1A-094#218:3:B>
+<w> I'm </w> one minute <w> I've </w> got it in front of me only
+
+<$A> 
+<ICE-IND:S1A-094#219:3:A>
+Ah ah ah
+
+<$B> 
+<ICE-IND:S1A-094#220:3:B>
+The number is <,> one second <,>
+
+<$A> 
+<ICE-IND:S1A-094#221:3:A>
+<indig> Accha accha accha </indig> <,>
+
+<ICE-IND:S1A-094#222:3:A>
+Should I hold on <,> ?
+
+<$B> 
+<ICE-IND:S1A-094#223:3:B>
+Ahn <,>
+
+<$A> 
+<ICE-IND:S1A-094#224:3:A>
+Should I hold on ?
+
+<$B> 
+<ICE-IND:S1A-094#225:3:B>
+<indig> Nahi </indig> one minute <w> I'll </w> just tell you
+<w> it's </w> in front of me
+
+<$A> 
+<ICE-IND:S1A-094#226:3:A>
+Ah ah ah
+
+<$B> 
+<ICE-IND:S1A-094#227:3:B>
+Two eight seven two one six four
+
+<$A> 
+<ICE-IND:S1A-094#228:3:A>
+Ah ah ah <,>
+
+<$B> 
+<ICE-IND:S1A-094#229:3:B>
+<indig> Baraber na </indig> ?
+
+<$A> 
+<ICE-IND:S1A-094#230:3:A>
+Correct correct <,,> correct
+
+<$B> 
+<ICE-IND:S1A-094#231:3:B>
+<indig> Nahi lagata hai </indig> number <indig> kya karen
+</indig>
+
+<$A> 
+<ICE-IND:S1A-094#232:3:A>
+<indig> Accha </indig> <,> today afternoon R K <w> Mehta's
+</w> call was there <,> <{> <[> ah <,> and he was again reminding on this uh
+<,>
+
+<$B> 
+<ICE-IND:S1A-094#233:3:B>
+<[> Ah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#234:3:B>
+You told him <indig> na </indig> but <,> problem <,> <{> <[>
+ahn <,> you told him the <{> <[> problem </[>
+
+<$A> 
+<ICE-IND:S1A-094#235:3:A>
+<[> Ahn </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#236:3:A>
+<[> Uh </[> </{> <,>
+
+<ICE-IND:S1A-094#237:3:A>
+Actually Sunday they could talk to him <,> <{1> <[1> ah ha <,> he
+has already updated <,> <{2> <[2> <indig> accha accha </indig> <,> so <,> now
+<,,> he is coming on Sunday
+
+<$B> 
+<ICE-IND:S1A-094#238:3:B>
+<[1> Ah ha </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-094#239:3:B>
+<[2> <indig> Accha accha </indig> </[2> </{2>
+
+<$B> 
+<ICE-IND:S1A-094#240:3:B>
+Yeah <,> <{> <[> <w> I'll I'll </w> </[>
+
+<$A> 
+<ICE-IND:S1A-094#241:3:A>
+<[> Any any </[> </{> news for him <,,> ?
+
+<$B> 
+<ICE-IND:S1A-094#242:3:B>
+Uh <indig> <O> one word </O> ne to bahut dara hai <,> <{> <[>
+ahn <,> bahut dara hai </indig>
+
+<$A> 
+<ICE-IND:S1A-094#243:3:A>
+<[> Ahn </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#244:3:A>
+<indig> Accha </indig> <,,>
+
+<ICE-IND:S1A-094#245:3:A>
+But uh <,,> even even at the higher rate <,> is that not <{> <[>
+possible </[>
+
+<$B> 
+<ICE-IND:S1A-094#246:3:B>
+<[> Yeah yeah </[> </{> even higher rate <,> nobody is
+lending just now <,> <O> laughter </O>
+
+<ICE-IND:S1A-094#247:3:B>
+Because <w> I'll </w> tell you what has happened you know <,>
+
+<$A> 
+<ICE-IND:S1A-094#248:3:A>
+<indig> Haan haan haan </indig>
+
+<$B> 
+<ICE-IND:S1A-094#249:3:B>
+<mention> TELCO </mention> is borrowing at twenty-four
+twenty-five
+
+<$A> 
+<ICE-IND:S1A-094#250:3:A>
+<indig> Haan haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#251:3:B>
+<indig> To sab paisa udhar chala ja raha hai </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#252:3:A>
+<indig> Accha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#253:3:B>
+You know people are <,> rather give to <mention> TELCO
+</mention> than give outside at twenty-six twenty-seven <,>
+
+<$A> 
+<ICE-IND:S1A-094#254:3:A>
+<indig> Accha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#255:3:B>
+See no all the money is going there <,>
+
+<$A> 
+<ICE-IND:S1A-094#256:3:A>
+But you can give this particular <,> total updation to
+anybody no <,>
+
+<$B> 
+<ICE-IND:S1A-094#257:3:B>
+Which one <,> ?
+
+<$A> 
+<ICE-IND:S1A-094#258:3:A>
+Uh that <,> <w> it's </w> a <mention> Zee <{> <[> Company
+</mention> and </[> all that
+
+<$B> 
+<ICE-IND:S1A-094#259:3:B>
+<[> Yeah yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#260:3:B>
+<indig> Nahi </indig> but <indig> logonko kya mentality hai
+</indig> <mention> TELCO </mention> <indig> deta hai to kuch </indig> problem
+<indig> nahi na </indig>
+
+<$A> 
+<ICE-IND:S1A-094#261:3:A>
+Ah ha ha <,>
+
+<$B> 
+<ICE-IND:S1A-094#262:3:B>
+<indig> Accha </indig> another thing is that if you can get a
+bill
+
+<$A> 
+<ICE-IND:S1A-094#263:3:A>
+<indig> Ye </indig> infact <,> <indig> jab ye </indig> auto
+recession <indig> hai </indig>
+
+<$B> 
+<ICE-IND:S1A-094#264:3:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#265:3:A>
+<indig> To </indig> <,> if the <mention> TELCO </mention> is
+<,> if <mention> TELCO </mention> name is there <,> <{> <[> yeah <,> that
+should get secondary importance actually <O> laughs </O>
+
+<$B> 
+<ICE-IND:S1A-094#266:3:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#267:3:B>
+<indig> Nahi lekin </indig> <mention> TELCO </mention>
+<indig> ka nam hai na </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#268:3:A>
+Yeah <,> now of course <,> that is a different thing <,>
+
+<$B> 
+<ICE-IND:S1A-094#269:3:B>
+No <w> I'll </w> tell you what is happening you know many of
+<{> <[> these </[> finance companies
+
+<$A> 
+<ICE-IND:S1A-094#270:3:A>
+<[> Ahn </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#271:3:A>
+<indig> Haan haan ha </indig>
+
+<$B> 
+<ICE-IND:S1A-094#272:3:B>
+They are collecting I C <w> D's </w> from all these people
+
+<$A> 
+<ICE-IND:S1A-094#273:3:A>
+<indig> Haan haan ha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#274:3:B>
+And lending to <mention> TELCO </mention> <,>
+
+<$A> 
+<ICE-IND:S1A-094#275:3:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-094#276:3:B>
+You know because <mention> TELCO </mention> doesn't take
+below one <indig> crore </indig>
+
+<$A> 
+<ICE-IND:S1A-094#277:3:A>
+<indig> Accha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#278:3:B>
+They are inter-related
+
+<$A> 
+<ICE-IND:S1A-094#279:3:A>
+So <w> they're </w> making a pool and lending <{> <[> to
+TELCO </[>
+
+<$B> 
+<ICE-IND:S1A-094#280:3:B>
+<[> Yeah <w> they're </w> </[> </{> making a pool
+
+<$A> 
+<ICE-IND:S1A-094#281:3:A>
+Is it like that
+
+<$B> 
+<ICE-IND:S1A-094#282:3:B>
+Yeah <,> <O> laughter </O>
+
+<ICE-IND:S1A-094#283:3:B>
+And <w> they're </w> doing pool cost to cost you know
+
+<$A> 
+<ICE-IND:S1A-094#284:3:A>
+<indig> Haan haan ha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#285:3:B>
+The point one percent you know <,>
+
+<$A> 
+<ICE-IND:S1A-094#286:3:A>
+Ah ha ha <,> <indig> accha </indig> <,> second thing <,>
+
+<$B> 
+<ICE-IND:S1A-094#287:3:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#288:3:A>
+This Nagendrarao of <,> Apple
+
+<$B> 
+<ICE-IND:S1A-094#289:3:B>
+<indig> Haan </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#290:3:A>
+Uh he contacted
+
+<$B> 
+<ICE-IND:S1A-094#291:3:B>
+<indig> Haan haan </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#292:3:A>
+For the same matter <,>
+
+<$B> 
+<ICE-IND:S1A-094#293:3:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#294:3:A>
+And I told him
+
+<$B> 
+<ICE-IND:S1A-094#295:3:B>
+You refuses <indig> na </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#296:3:A>
+I I told him point blankly
+
+<$B> 
+<ICE-IND:S1A-094#297:3:B>
+Very good
+
+<$A> 
+<ICE-IND:S1A-094#298:3:A>
+That <,> that will not be possible
+
+<$B> 
+<ICE-IND:S1A-094#299:3:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#300:3:A>
+This is something like a <indig> badla chahi ye </indig> <O>
+laughter </O> uhn <,> so <,> in that case <,> <{> <[> yeah <,> if at all <,>
+<w> he's </w> asking me the <,> exchange of some securities
+
+<$B> 
+<ICE-IND:S1A-094#301:3:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#302:3:B>
+Yeah yeah
+
+<$A> 
+<ICE-IND:S1A-094#303:3:A>
+I I I told him that better we <w> we'll </w> settle the
+account <,>
+
+<$B> 
+<ICE-IND:S1A-094#304:3:B>
+Correct correct
+
+<$A> 
+<ICE-IND:S1A-094#305:3:A>
+Uh <,>
+
+<$B> 
+<ICE-IND:S1A-094#306:3:B>
+So immature <indig> jaisa </indig> act <indig> kare na
+</indig>
+
+<$A> 
+<ICE-IND:S1A-094#307:3:A>
+Correct corect <,>
+
+<$B> 
+<ICE-IND:S1A-094#308:3:B>
+Even this phono office no <,> how much <w> I've </w> to call
+for this commission
+
+<$A> 
+<ICE-IND:S1A-094#309:3:A>
+Ah ha ha <,> yeah <,> uh <,> so
+
+<$B> 
+<ICE-IND:S1A-094#310:3:B>
+I told him very point blank that if you don't give the
+commission <{> <[> <indig> accha </indig> <w> I'm </w> going to tell
+<mention> ELPRO </mention> not to give you money again <,>
+
+<$A> 
+<ICE-IND:S1A-094#311:3:A>
+<[> <indig> Accha </indig> </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#312:3:A>
+Is it <,> uh Nagendrarao talked to you <,> ?
+
+<$B> 
+<ICE-IND:S1A-094#313:3:B>
+No <,>
+
+<$A> 
+<ICE-IND:S1A-094#314:3:A>
+<indig> Accha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#315:3:B>
+Why he told you like that <,> ?
+
+<$A> 
+<ICE-IND:S1A-094#316:3:A>
+Uh no nothing like that <,> <{> <[> but I thought that </[>
+whether he has contacted me directly or <,> through you <,> <{> <[> oh <,> or
+<,> he has at least kept you inform something like that
+
+<$B> 
+<ICE-IND:S1A-094#317:3:B>
+<[> He also lied </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#318:3:B>
+<[> Oh </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#319:3:B>
+<indig> Nahi nahi nahi </indig> in these cases street smart
+you know <,>
+
+<$A> 
+<ICE-IND:S1A-094#320:3:A>
+Ha ha ha <,>
+
+<$B> 
+<ICE-IND:S1A-094#321:3:B>
+That <,> you know about it
+
+<$A> 
+<ICE-IND:S1A-094#322:3:A>
+Ha ha ha <O> laughs </O>
+
+<$B> 
+<ICE-IND:S1A-094#323:3:B>
+These <,> Sindhi types <,>
+
+<$A> 
+<ICE-IND:S1A-094#324:3:A>
+<indig> Accha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#325:3:B>
+You know what he thinks <O> one word </O> <,>
+
+<$A> 
+<ICE-IND:S1A-094#326:3:A>
+Ha ha ha
+
+<$B> 
+<ICE-IND:S1A-094#327:3:B>
+I told him that you will not exchange securities
+
+<$A> 
+<ICE-IND:S1A-094#328:3:A>
+Ha ha
+
+<$B> 
+<ICE-IND:S1A-094#329:3:B>
+He thinks <w> I'm </w> lying <,>
+
+<$A> 
+<ICE-IND:S1A-094#330:3:A>
+<indig> Nahi nahi nahi </indig> infact he was totally under
+the impression that if he talks to me he can convinced and he can okay the
+deal <,>
+
+<ICE-IND:S1A-094#331:3:A>
+Something like that <,>
+
+<$B> 
+<ICE-IND:S1A-094#332:3:B>
+Okay <w> he's </w> a big shot <indig> kya </indig> <O>
+laughter </O>
+
+<$A> 
+<ICE-IND:S1A-094#333:3:A>
+No no last <,> last time also <,> <{> <[> uhn <,> uh there
+was a little bit resistance in the beginnig
+
+<$B> 
+<ICE-IND:S1A-094#334:3:B>
+<[> Uhn </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#335:3:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#336:3:A>
+And at least then we also thought that okay we will have also
+to keep the relations
+
+<$B> 
+<ICE-IND:S1A-094#337:3:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#338:3:A>
+And
+
+<$B> 
+<ICE-IND:S1A-094#339:3:B>
+Whom did you exchange last time
+
+<$A> 
+<ICE-IND:S1A-094#340:3:A>
+Uhn <,> ?
+
+<$B> 
+<ICE-IND:S1A-094#341:3:B>
+You really
+
+<$A> 
+<ICE-IND:S1A-094#342:3:A>
+No last time we exchanged <indig> na </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#343:3:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#344:3:A>
+Yeah yeah <,>
+
+<$B> 
+<ICE-IND:S1A-094#345:3:B>
+<indig> Accha </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#346:3:A>
+We exchanged last time <,> and last time then he reimbursed
+us <,> <mention> TISCO </mention> some <,> securities <,> <{> <[> uhm <,> in
+exchange of <,> <mention> Auto Light </mention> <,>
+
+<$B> 
+<ICE-IND:S1A-094#347:3:B>
+<[> Uhm </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#348:3:B>
+<indig> Arre </indig> you gave him <indig> Kya </indig> ?
+
+<$A> 
+<ICE-IND:S1A-094#349:3:A>
+<indig> Nahi ye to </indig> <,> that time we gave it
+
+<$B> 
+<ICE-IND:S1A-094#350:3:B>
+<indig> Accha </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#351:3:A>
+Uh but with the clearcut understanding <,> <{> <[> ahn ahn
+<,> that this type of deal will not be entertained in future
+
+<$B> 
+<ICE-IND:S1A-094#352:3:B>
+<[> Ahn ahn </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#353:3:B>
+<indig> Accha accha </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#354:3:A>
+So <,> whenever <w> you'll </w> be dealing in the securities
+please bear in mind <,> <{1> <[1> yeah <,> and how come your securities
+department is not aware that some securities are <,> uh pledged <,> <{2> <[2>
+<indig> wohi </indig> <,> <indig> wohi haan </indig> pledged with some other
+person <,> and will not be available for selling till this particular dates
+<,> <{3> <[3> correct <,> and they are freely <,> entering into any sort of
+deal <,> <{4> <[4> yeah <,> and then asking us <,> to exchange some
+securities <,>
+
+<$B> 
+<ICE-IND:S1A-094#355:3:B>
+<[1> Yeah </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-094#356:3:B>
+<[2> <indig> Wohi </indig> </[2> </{2>
+
+<$B> 
+<ICE-IND:S1A-094#357:3:B>
+<[3> Correct </[3> </{3>
+
+<$B> 
+<ICE-IND:S1A-094#358:3:B>
+<[4> Yeah </[4> </{4>
+
+<$B> 
+<ICE-IND:S1A-094#359:3:B>
+These guys <w> I'm </w> telling you <,,>
+
+<$A> 
+<ICE-IND:S1A-094#360:3:A>
+Ah
+
+<$B> 
+<ICE-IND:S1A-094#361:3:B>
+Very poorly managed
+
+<$A> 
+<ICE-IND:S1A-094#362:3:A>
+Ah ha ha <,,>
+
+<ICE-IND:S1A-094#363:3:A>
+Now now also he is telling me like that only <,> that if you
+insist on settling the account we can even settle the account
+
+<$B> 
+<ICE-IND:S1A-094#364:3:B>
+<indig> Haan </indig>
+
+<$A> 
+<ICE-IND:S1A-094#365:3:A>
+<indig> Lekin apko </indig> interest <indig> dena hai to
+muzhe kuch kamana bhi hai <,> to </indig> <,> with that one <w> I'm </w>
+requesting you that you please release this one <indig> karke </indig>
+
+<$B> 
+<ICE-IND:S1A-094#366:3:B>
+<indig> Nahi nahi </indig> I didn't follow <,> <O> one word
+</O> again <,>
+
+<$A> 
+<ICE-IND:S1A-094#367:3:A>
+Uh he says that <,> <quote> now when <,> <w> I'm </w>
+borrowing from you <,> <{1> <[1> yeah <,> <w> I've </w> to earn also
+something <,> <{2> <[2> uhm uhm <,> and with that one <,> uh this particular
+deal <,> is giving me some good amount of profit <,> <{3> <[3> ah <,>
+
+<ICE-IND:S1A-094#368:3:A>
+So <,,> if at all you are exchanging these securities <,> <w> I'll
+</w> be <,,> uh good in the market <,> otherwise I will have to <,> go back
+on my words </quote> <,>
+
+<$B> 
+<ICE-IND:S1A-094#369:3:B>
+<[1> Yeah </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-094#370:3:B>
+<[2> Uhm uhm </[2> </{2>
+
+<$B> 
+<ICE-IND:S1A-094#371:3:B>
+<[3> Ah </[3> </{3>
+
+<$B> 
+<ICE-IND:S1A-094#372:3:B>
+Tell him to go back <,> <O> laughter </O>
+
+<ICE-IND:S1A-094#373:3:B>
+These guys are all these all <,> <indig> natak haan </indig>
+
+<$A> 
+<ICE-IND:S1A-094#374:3:A>
+Ha ha ha <,>
+
+<$B> 
+<ICE-IND:S1A-094#375:3:B>
+<w> He's </w> used the money for bill discounting <,>
+
+<$A> 
+<ICE-IND:S1A-094#376:3:A>
+Ha ha ha <,>
+
+<$B> 
+<ICE-IND:S1A-094#377:3:B>
+Not for uh <,> this thing <,>
+
+<$A> 
+<ICE-IND:S1A-094#378:3:A>
+Correct correct <,>
+
+<$B> 
+<ICE-IND:S1A-094#379:3:B>
+So <,> you tell him not to give the money <,>
+
+<$A> 
+<ICE-IND:S1A-094#380:3:A>
+Correct
+
+<$B> 
+<ICE-IND:S1A-094#381:3:B>
+<O> Two words </O>
+
+<$A> 
+<ICE-IND:S1A-094#382:3:A>
+Let us see
+
+<$B> 
+<ICE-IND:S1A-094#383:3:B>
+Uhn <,>
+
+<$A> 
+<ICE-IND:S1A-094#384:3:A>
+Perhaps
+
+<$B> 
+<ICE-IND:S1A-094#385:3:B>
+Anyway now he is acting smart because it is already due
+<indig> na </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#386:3:A>
+<indig> Accha accha accha </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#387:3:B>
+<indig> Ekvees ko </indig> due <indig> hai na </indi>
+
+<$A> 
+<ICE-IND:S1A-094#388:3:A>
+Ha ha ha <,>
+
+<ICE-IND:S1A-094#389:3:A>
+Perhaps this Vivek Chaubal <,> <{1> <[1> <indig> haan </indig> <,>
+or <,> Nagendrarao <,> <{2> <[2> <indig> haan </indig> <,> some uh <,>
+somebody from these two <,> they will contact you <,> <{3> <[3> yeah <,>
+<indig> to </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#390:3:B>
+<[1> <indig> Haan </indig> </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-094#391:3:B>
+<[2> <indig> Haan </indig> </[2> </{2>
+
+<$B> 
+<ICE-IND:S1A-094#392:3:B>
+<[3> Yeah </[3> </{3>
+
+<$B> 
+<ICE-IND:S1A-094#393:3:B>
+<w> I'm </w> putting my foot down
+
+<$A> 
+<ICE-IND:S1A-094#394:3:A>
+Correct corect correct <,>
+
+<$B> 
+<ICE-IND:S1A-094#395:3:B>
+You know what they are thinking is that <,> <w> I'm </w>
+refusing without asking to <mention> ELPRO </mention> <,>
+
+<$A> 
+<ICE-IND:S1A-094#396:3:A>
+<indig> Haan haan haan </indig>
+
+<$B> 
+<ICE-IND:S1A-094#397:3:B>
+Because you know sort of I <,> they think that I don't want
+to <,> exert and go to <mention> ELPRO and Company </mention>
+
+<$A> 
+<ICE-IND:S1A-094#398:3:A>
+<indig> Haan haan haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-094#399:3:B>
+I told him this <,> see <{> <[> professional company nobody
+</[> will do
+
+<$A> 
+<ICE-IND:S1A-094#400:3:A>
+<[> This this this </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#401:3:A>
+This type of things are strictly business deal
+
+<$B> 
+<ICE-IND:S1A-094#402:3:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#403:3:A>
+How can they are even <,> I would have thought it twice even
+before to request
+
+<$B> 
+<ICE-IND:S1A-094#404:3:B>
+Yeah <,> <O> laughter </O>
+
+<ICE-IND:S1A-094#405:3:B>
+No another thing <w> I'll </w> tell you no some banks exchange
+securities
+
+<$A> 
+<ICE-IND:S1A-094#406:3:A>
+<indig> Haan haan </indig>
+
+<$B> 
+<ICE-IND:S1A-094#407:3:B>
+But if they exchange they charge them for it
+
+<$A> 
+<ICE-IND:S1A-094#408:3:A>
+Yeah yeah
+
+<$B> 
+<ICE-IND:S1A-094#409:3:B>
+You know like <,> supposing I take and overdraft from <,> <w>
+let's </w> say <mention> City Bank </mention> <,>
+
+<$A> 
+<ICE-IND:S1A-094#410:3:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-094#411:3:B>
+And uh <,,> for every certificate that I exchange they charge
+some five hundred <indig> rupees </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#412:3:A>
+Exactly <,>
+
+<$B> 
+<ICE-IND:S1A-094#413:3:B>
+Will they pay you <,> ?
+
+<$A> 
+<ICE-IND:S1A-094#414:3:A>
+Exactly <,>
+
+<$B> 
+<ICE-IND:S1A-094#415:3:B>
+Uh ha <,>
+
+<$A> 
+<ICE-IND:S1A-094#416:3:A>
+Uh <,>
+
+<$B> 
+<ICE-IND:S1A-094#417:3:B>
+Give this idea to R K M <,>
+
+<$A> 
+<ICE-IND:S1A-094#418:3:A>
+<O> Laughs </O>
+
+<ICE-IND:S1A-094#419:3:A>
+No any way <,> R K <w> M's </w> coming on Sunday
+
+<$B> 
+<ICE-IND:S1A-094#420:3:B>
+<indig> Accha </indig>
+
+<$A> 
+<ICE-IND:S1A-094#421:3:A>
+<indig> To </indig> <,> till that time <w> I've </w> not
+commented any thing but I have given my indication that this is virtually
+impossible
+
+<$B> 
+<ICE-IND:S1A-094#422:3:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#423:3:A>
+But I will open up <,> just a topic as a sort of formality
+with R K Mehta
+
+<$B> 
+<ICE-IND:S1A-094#424:3:B>
+<indig> Chalega </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-094#425:3:A>
+Okay if at all he thinks that okay <,> <w> we've </w> to keep
+the relations and <w> we've </w> to think otherwise <,>
+
+<$B> 
+<ICE-IND:S1A-094#426:3:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-094#427:3:A>
+Okay <,> then why why I should be <,> bad in their eyes <O>
+laughs </O>
+
+<$B> 
+<ICE-IND:S1A-094#428:3:B>
+Correct correct <,>
+
+<ICE-IND:S1A-094#429:3:B>
+But this is very unprofessional
+
+<$A> 
+<ICE-IND:S1A-094#430:3:A>
+Correct correct <,>
+
+<$B> 
+<ICE-IND:S1A-094#431:3:B>
+No it is not done normally
+
+<$A> 
+<ICE-IND:S1A-094#432:3:A>
+Yeah yeah
+
+<$B> 
+<ICE-IND:S1A-094#433:3:B>
+<indig> Abhi aap baki ka </indig> <O> one word </O> <indig>
+dekho na </indig> where we have had trouble
+
+<$A> 
+<ICE-IND:S1A-094#434:3:A>
+Yeah yeah <,>
+
+<ICE-IND:S1A-094#435:3:A>
+In fact but Konthal <,> got realized
+
+<$B> 
+<ICE-IND:S1A-094#436:3:B>
+He got realized <indig> na </indig>
+
+<$A> 
+<ICE-IND:S1A-094#437:3:A>
+Konthal got realized
+
+<$B> 
+<ICE-IND:S1A-094#438:3:B>
+<w> He's </w> a thorough gentleman <,>
+
+<$A> 
+<ICE-IND:S1A-094#439:3:A>
+Even <,> the Tata <O> two words </O> <,> that got realized
+
+<$B> 
+<ICE-IND:S1A-094#440:3:B>
+<indig> Accha </indig>
+
+<$A> 
+<ICE-IND:S1A-094#441:3:A>
+<w> I've </w> absolutely no problem
+
+<$B> 
+<ICE-IND:S1A-094#442:3:B>
+No problem
+
+<$A> 
+<ICE-IND:S1A-094#443:3:A>
+<w> I've </w> single transaction <,> clean deal
+
+<$B> 
+<ICE-IND:S1A-094#444:3:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-094#445:3:A>
+And got settled <,>
+
+<$B> 
+<ICE-IND:S1A-094#446:3:B>
+Correct correct <,>
+
+<$A> 
+<ICE-IND:S1A-094#447:3:A>
+Uh with a <,> word of thanks <,> <w> that's </w> all
+
+<$B> 
+<ICE-IND:S1A-094#448:3:B>
+<indig> Ek hi isme kitna gadbad </indig> <,> <{> <[> and <,>
+<indig> gadbad hai </indig>
+
+<$A> 
+<ICE-IND:S1A-094#449:3:A>
+<[> And </[> </{>
+
+<$A> 
+<ICE-IND:S1A-094#450:3:A>
+Yes yes uh <,>
+
+<ICE-IND:S1A-094#451:3:A>
+At one time they have to give the tedious certificate and other
+time they have to give the post- dated cheque <{1> <[1> for the interest
+</[1> <,> at other <{2> <[2> time they have to exchange the security </[2>
+
+<$B> 
+<ICE-IND:S1A-094#452:3:B>
+<[1> Yeah posing for the <O> one or two words </O> </[1>
+</{1>
+
+<$B> 
+<ICE-IND:S1A-094#453:3:B>
+<[2> <O> A few words </O> </[2> </{2>
+
+<$B> 
+<ICE-IND:S1A-094#454:3:B>
+Capital and not interest no <,>
+
+<$A> 
+<ICE-IND:S1A-094#455:3:A>
+Exactly <O> laughs </O> and so <,> so many things
+
+<$B> 
+<ICE-IND:S1A-094#456:3:B>
+Yeah that is true <,>
+
+<$A> 
+<ICE-IND:S1A-094#457:3:A>
+<indig> Chalo </indig> any way
+
+<$B> 
+<ICE-IND:S1A-094#458:3:B>
+Uhn <,>
+
+<$A> 
+<ICE-IND:S1A-094#459:3:A>
+See you <,>
+
+<$B> 
+<ICE-IND:S1A-094#460:3:B>
+<indig> Chalega </indig>
+
+<$A> 
+<ICE-IND:S1A-094#461:3:A>
+Uh <,> but uh <,> please <,> officially <{> <[> talk to R K
+Mehta </[> on Sunday
+
+<$B> 
+<ICE-IND:S1A-094#462:3:B>
+<[> Yeah <w> I've </w> got it in mind yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-094#463:3:B>
+Sure <,>
+
+<$A> 
+<ICE-IND:S1A-094#464:3:A>
+Ahn <,>
+
+<$B> 
+<ICE-IND:S1A-094#465:3:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-094#466:3:A>
+Okay <,>
+
+<$B> 
+<ICE-IND:S1A-094#467:3:B>
+<w> You'll </w> also kindly update him no
+
+<$A> 
+<ICE-IND:S1A-094#468:3:A>
+Yeah yeah <,>
+
+<$B> 
+<ICE-IND:S1A-094#469:3:B>
+Ahn
+
+<$A> 
+<ICE-IND:S1A-094#470:3:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-094#471:3:B>
+Thank you
+
+<$A> 
+<ICE-IND:S1A-094#472:3:A>
+Thank you <,,> </I>

@@ -1,0 +1,456 @@
+<I> <&> headline in the middle of
+column 2 & 3 </&>
+
+<ICE-IND:W2B-028#1:1>
+<h> <bold> Uncovering the mysteries of <ul> the atom </ul> </bold>
+</h> <*> broad red line on <mention> the atom </mention> </*> <&>
+
+<p> 
+<ICE-IND:W2B-028#2:1>
+<bold>T</bold><smallcaps>HIS</smallcaps> <w> year's </w> Nobel
+Prize for physics honours two physicists for their work in using neutron
+waves to study matter.
+
+<ICE-IND:W2B-028#3:1>
+<bold> INDIRA MURTHY </bold> reports </p> </&> <&> first column </&>
+
+<p> 
+<ICE-IND:W2B-028#4:1>
+<bold>T</bold><smallcaps>HIS</smallcaps> <w> year's </w> Nobel
+Prize for physics went to prof Clifford G Shull of the US and Prof
+Bertrand N Brock-house of Canada, for work they did four decades ago.
+
+<ICE-IND:W2B-028#5:1>
+Since then, neutron scattering, a technique developed by Professors
+Shull and Brockhouse to probe matter at the atomic level, has complemented
+other methods of unveiling the fascinatingly varied structure and
+behaviour of matter.
+
+<ICE-IND:W2B-028#6:1>
+Today, neutron techniques are considered invaluable tools for
+physicists, chemists and material scientists all over the world. </p>
+
+<p> 
+<ICE-IND:W2B-028#7:1>
+While the <w> Professors' </w> work <O> Photograph </O> <O>
+caption </O> was complementary, in actual fact they worked independently of
+each other, and were brought together by the Nobel.
+
+<ICE-IND:W2B-028#8:1>
+In simple terms, Prof Shull looked at the structure of atoms,
+Professor Brockhouse at their behaviour. </p>
+
+<p> 
+<ICE-IND:W2B-028#9:1>
+The building blocks of matter, atoms are made of three parts:
+protons ( which are positively charged ) and neutrons ( which are uncharged )
+, which are found in the atomic nucleus, and negatively charged electrons,
+which are outside the nucleus.
+
+<ICE-IND:W2B-028#10:1>
+The number of electrons in an atom equals the number of protons,
+making the atom electrically neutral. </p>
+
+<p> 
+<ICE-IND:W2B-028#11:1>
+The true nature of these subatomic particles is enigmatic.
+
+<ICE-IND:W2B-028#12:1>
+Sometimes, they behave like particles; other times <w> they're </w>
+more like waves.
+
+<ICE-IND:W2B-028#13:1>
+Take, for instance, electrons.
+
+<ICE-IND:W2B-028#14:1>
+When they create pictures on the television screen, they are behaving
+like particles.
+
+<ICE-IND:W2B-028#15:1>
+But when <w> they're </w> used in an electron microscope, they behave
+like waves. </p>
+
+<p> 
+<ICE-IND:W2B-028#16:1>
+Shull and Brockhouse were the first to use neutron waves to probe
+matter.
+
+<ICE-IND:W2B-028#17:1>
+They did so using the technique of neutron scattering. </p> <O>
+topmost photograph on column 2 and 3 </O> <O> caption </O>
+
+<p> 
+<ICE-IND:W2B-028#18:1>
+What exactly is neutron scattering?
+
+<ICE-IND:W2B-028#19:1>
+A beam of neutrons is sent in the direction of a sample to be
+studied.
+
+<ICE-IND:W2B-028#20:1>
+When the neutrons collide with the atomic nuclei in the sample, some
+of them change their direction and energy.
+
+<ICE-IND:W2B-028#21:1>
+Scientists can get a lot of information by looking at these changes.
+</p>
+
+<p> 
+<ICE-IND:W2B-028#22:1>
+Neutron scattering needs a vast supply of moving neutrons ( one
+million million, or 10 to the power of 12, passing through one square
+centimetre each second ) .
+
+<ICE-IND:W2B-028#23:1>
+The most common sources for such neutrons are nuclear reactors and
+particle accelerators. </p>
+
+<p> 
+<ICE-IND:W2B-028#24:1>
+By examining a beam of scattered neutrons, scientists can
+gather information about the arrangement of atoms in a given material, and
+their dynamics - - their atomic vibrations.
+
+<ICE-IND:W2B-028#25:1>
+Every material has unique atomic vibrations, something like a
+fingerprint.
+
+<ICE-IND:W2B-028#26:1>
+Many properties of a material, like its specific heat ( the thermal
+energy needed to increase the temperature of one kilogram by one degree
+Centigrade ) , depend on its atomic vibrations. </p>
+
+<p> 
+<ICE-IND:W2B-028#27:1>
+X-rays and electrons have been probing matter even before
+neutrons came on the scene.
+
+<ICE-IND:W2B-028#28:1>
+But neutrons sense atomic nuclei, they can differentiate between
+light and heavy atoms, which X-rays and electrons cannot.
+
+<ICE-IND:W2B-028#29:1>
+They can also be subjected to different conditions and studied.
+
+<ICE-IND:W2B-028#30:1>
+The major drawback is the high cost of neutron scattering. </p>
+
+<p> 
+<ICE-IND:W2B-028#31:1>
+Though the technique was devised four decades ago, the basic
+principles of neutron scattering techniques have remained the same.
+
+<ICE-IND:W2B-028#32:1>
+However, the adv,l>ent of position-sensitive detectors, computers
+and automation have combined to speed up data collection and analysis,
+which can be a tedious and timeconsuming process. </p>
+
+<p> 
+<ICE-IND:W2B-028#33:1>
+<bold> C</bold><smallcaps>LIFFORD</smallcaps> <w> Shull's </w>
+tryst with neutrons began in 1946, when, at the age of 31, he joined Emie
+Wollan at the Oak Ridge Graphite Reactor at Tennessee, USA.
+
+<ICE-IND:W2B-028#34:1>
+( Though Prof <w> Wollan's </w> work in netron scattering is equally
+important, he died before being recognised by the Nobel committee, and the
+Nobel Prize is not awarded posthumously. )
+
+<ICE-IND:W2B-028#35:1>
+Shull, who comes from a modest background - - his father had a
+hardware and home repair business - - started off studying aeronautical
+engineering before switching to physics.
+
+<ICE-IND:W2B-028#36:1>
+He obtained his doctorate from New York University in 1941. </p>
+
+<p> 
+<ICE-IND:W2B-028#37:1>
+Wollan and Shull began probing the world of atoms with neutron
+beams, to make a fascinating <O> photograph </O> <O> caption </O>
+discovery - - one which is the basis of most structural studies made on
+biological molecules today.
+
+<ICE-IND:W2B-028#38:1>
+They found that scattered neutrons could pinpoint the position of
+light atoms like hydrogen even when in the company of heavy atoms.
+
+<ICE-IND:W2B-028#39:1>
+More important, they could distinguish hydrogen from deuterium,
+an element which is chemically similar to hydrogen but behaves
+differently.
+
+<ICE-IND:W2B-028#40:1>
+This was crucial in unveiling the complex structures of biological
+molecules; one can do so by selectively substituting hydrogen with
+deuterium. </p>
+
+<p> 
+<ICE-IND:W2B-028#41:1>
+Why is this important ?
+
+<ICE-IND:W2B-028#42:1>
+Because this technique allowed scientists for the first time to study
+the structure of biological molelcules.
+
+<ICE-IND:W2B-028#43:1>
+As a result, today scientists can use neutron beams and other
+complementary methods to study a number of amino acids, peptides,
+proteins, etc. </p>
+
+<p> 
+<ICE-IND:W2B-028#44:1>
+<w> Shull's </w> other significant contribution was to use the
+fact that neutrons have magnetic properties to study magnetism in solids.
+
+<ICE-IND:W2B-028#45:1>
+This method continues to be the sole technique of studying many
+structural properties of magnetic material. </p>
+
+<p> 
+<ICE-IND:W2B-028#46:1>
+<bold> B</bold><smallcaps>ERTRAND</smallcaps> Neville
+Brock-house joined the Chalk River Nuclear Laboratories near Ottawa,
+Canada, in the early ' 50s.
+
+<ICE-IND:W2B-028#47:1>
+He got his doctorate in 1950 from the University of Toronto.
+
+<ICE-IND:W2B-028#48:1>
+Unlike Shull, who was interested mostly in detecting those neutrons
+which after scattering suffer no change in energy ( almost 95 per cent
+are of this type ) .
+
+<ICE-IND:W2B-028#49:1>
+Brockhouse concentrated on the meagre five per cent which exchange
+energy with the atoms in the sample.
+
+<ICE-IND:W2B-028#50:1>
+Prof Brock-house devised a technique for measuring the change in
+energy of the scattered neutrons.
+
+<ICE-IND:W2B-028#51:1>
+His first subject of study was aluminium, with its simple
+structure.
+
+<ICE-IND:W2B-028#52:1>
+The data he gathered helped immensely in building a mathematical
+model of the collective vibrations of atoms in solid materials.
+
+<ICE-IND:W2B-028#53:1>
+Sounds remote ?
+
+<ICE-IND:W2B-028#54:1>
+Well, this information made waves in the electronics industry.
+
+<ICE-IND:W2B-028#55:1>
+Among other things, the electronics revolution depends on it. </p>
+
+<p> 
+<ICE-IND:W2B-028#56:1>
+In fact, after devising this technique, Dr. Brockhouse turned
+his attention to semiconduc-tors.
+
+<ICE-IND:W2B-028#57:1>
+Interestingly, the first study of a semiconductor, germanium,
+using neutron scattering, was done jointly by Prof Brockhouse and Dr. P. K
+Iyengar who at that time had started his research career in the Atomic Energy
+Establishment ( now known as Bhabha Atomic Research Centre ) , and
+subsequently became its director and the chairman of the Atomic Energy
+Commission.
+
+<ICE-IND:W2B-028#58:1>
+A number of other scientitsts from the Establishment visited Chalk
+River in the late ' 50s and early ' 60s to collaborate with Prof
+Brockhouse on his projects. </p>
+
+<p> 
+<ICE-IND:W2B-028#59:1>
+<bold> T</bold><smallcaps>HE BARC</smallcaps> now has a
+national facility for neutron beam research.
+
+<ICE-IND:W2B-028#60:1>
+The neutron beams generated by the research reactor <indig> Dhruva
+</indig> at BARC, and the necessary instrumentation, are now available for
+researchers from all over the country.
+
+<ICE-IND:W2B-028#61:1>
+The facility includes several neutron spectrometers, to examine
+various phenomena in the atomic world on different length- and
+time-scales.
+
+<ICE-IND:W2B-028#62:1>
+The small-angle neutron scattering spectrometer, for instance, is
+in great demand by polymer scientists, chemists and metallurgists. </p> <*>
+overlapping diamonds </*> </I> <I> <&> headline in the middle of column 2 and
+3, above photograph </&>
+
+<ICE-IND:W2B-028#63:2>
+<h> <bold> A ray of light </bold> </h> <&>
+
+<p> 
+<ICE-IND:W2B-028#64:2>
+Laser technology has added a new dimension to the advanced
+treatment of infertility, writes <bold> SAMEERA KHAN </bold> </p> </&> <&>
+column one </&>
+
+<p> 
+<ICE-IND:W2B-028#65:2>
+<bold> N</old><smallcaps>EVER</smallcaps> was so much hope vested
+in a beam of light.
+
+<ICE-IND:W2B-028#66:2>
+The latest development in semi-conductor technology - - the
+solid-state diode-pumped laser - - is expected to bring a ray of light into
+the lives of infertile couples, especially those who have undergone many
+unsuccessful cycles of in-vitro fertilisation ( IVF). </p>
+
+<p> 
+<ICE-IND:W2B-028#67:2>
+The diode laser is formed from the minute chip of gallium
+arsenide semiconductor material.
+
+<ICE-IND:W2B-028#68:2>
+It converts electricity into laser light with no mirrors.
+
+<ICE-IND:W2B-028#69:2>
+Lilavati hospital in Mumbai has incorported this new laser technology
+in their infertility unit to enhance the success rate of IVF.
+
+<ICE-IND:W2B-028#70:2>
+Jaslok hospital will have it soon. </p>
+
+<p> 
+<ICE-IND:W2B-028#71:2>
+<quote> " Lasters have added a new dimension to the advanced
+treatment of infertility" </quote> , says Dr Firuza Parikh, director of the
+department of infertility management and assisted reproduction at the
+Jaslok hospital.
+
+<ICE-IND:W2B-028#72:2>
+<quote> " For women who are over the age of 35 undergoing IVF and
+assisted hatching, in procedures such as micromanipulation and in fields
+such as pre-implantation genetics, the diode laser beam will be most
+advantageous." </quote> </p>
+
+<p> 
+<ICE-IND:W2B-028#73:2>
+The laser beam is released from an attachment to the microscope
+on which micromanipulation is performed.
+
+<ICE-IND:W2B-028#74:2>
+It may be recalled that micromanipulation allows the reproduction
+biologist to do several procedures, including injecting a single sperm
+into a single egg under the microscope using a fine glass needle ( a
+procedure called ICSI or Intra Cytoplasmic Sperm Injection ) or even make a
+hole in the zona or outer protective shell of the human ovum ( egg ) to
+help the embryo hatch out. </p>
+
+<p> 
+<ICE-IND:W2B-028#75:2>
+<quote> " In assisted hatching, I expect the laser to be most
+useful," </quote> says Dr Parikh, who pioneered mechanical assisted hatching
+in the country three years ago.
+
+<ICE-IND:W2B-028#76:2>
+<quote> " Currently, in assisted hatching - - used especially for
+women over the age of 35 who have a thick zona which prevents the natural
+hatching of the embryo - - we use a pipette to cut through the zona making an
+opening of 25-30 microns." </quote> </p>
+
+<p> 
+<ICE-IND:W2B-028#77:2>
+But the laser beam does away with mechanical zona drilling <O>
+four photographs at the beginning of column 2 and 3 </O> <O> caption </O> and
+once directed at the zona makes a quick, precise opening of two to 30 microns
+( 20 to 250 times thinner than human hair ) in it.
+
+<ICE-IND:W2B-028#78:2>
+<quote> " <w> It's </w> definitely swifter and more advantageous to
+use as it is non-invasive and minimises damage to the zona," </quote> says
+Dr Hrishikesh Pai, infertility consultant at Lilavati hospital.
+
+<ICE-IND:W2B-028#79:2>
+<quote> " <w> It's </w> another way to better the pregnancy rates in
+older women over 38.
+
+<ICE-IND:W2B-028#80:2>
+I expect it to improve from the current rate of 10-14 per cent to
+about 25 per cent." </quote> </p>
+
+<p> 
+<ICE-IND:W2B-028#81:2>
+<quote> " Though this method is best suited for women over 35
+years, especially those who have tried IVF previously, it can also be
+extended for patients undergoing IVF for the first time to improve their
+chances," </quote> says Dr Parikh.
+
+<ICE-IND:W2B-028#82:2>
+<quote> " While mechanical zona drilling may distort the cell,
+laser assisted hatching simplifies the entire procedure which is completed
+in 10 tp 30 milliseconds." </quote> </p>
+
+<p> 
+<ICE-IND:W2B-028#83:2>
+The laser beam can also be used in ICSI when the sperm tail has
+to be immobilised prior to microinjection of the sperm into the oocyte ( egg ) .
+
+<ICE-IND:W2B-028#84:2>
+Instead of the current procedure of cutting off the tails with ICSI
+pipette, a single directed laser beam is shot on the sperm tail
+immediately immobilising it.
+
+<ICE-IND:W2B-028#85:2>
+<quote> " The laser beam being precise, there is very little damage
+to the sperm <O> photograph at clumn 3 and 4 below </O> <O> caption </O> and
+the procedure will improve fertilisation and pregnancy rates with ICSI,"
+</quote> says Dr Parikh. </p>
+
+<p> 
+<ICE-IND:W2B-028#86:2>
+The diode laser will also revolutionise the field of
+pre-implantation genetics.
+
+<ICE-IND:W2B-028#87:2>
+Usually the zona is dissolved with acid tyrode and a cell is
+aspirated out for detection of single gene defects by either the FISH (
+Fluorescent In Situ Hybridisation) or PCR ( Polymerase Chain Reaction).
+
+<ICE-IND:W2B-028#88:2>
+<quote> " Laser will facilitate the removal of a single cell from an
+embryo so that it can be subjected to genetic tests," </quote> says Dr Pai.
+
+<ICE-IND:W2B-028#89:2>
+These may be required in older women and in couples who themselves
+have or are carriers of genetic diseases.
+
+<ICE-IND:W2B-028#90:2>
+Again the laser makes the procedures swift and minimises damage to
+the embryo which could occur with manual aspiration of the cell. </p>
+
+<p> 
+<ICE-IND:W2B-028#91:2>
+<quote> " Laser must not be looked upon as an end in itself but
+it opens up more avenues for experimentation," </quote> says Dr Parikh.
+
+<ICE-IND:W2B-028#92:2>
+<quote> " It may eventually limit the IVF cycles needed and enhance
+pregnancy rates." </quote> </p>
+
+<p> 
+<ICE-IND:W2B-028#93:2>
+Lasers already have various applications in medicine - - used for
+head surgery in neurology, in opthalmology surgery for retinal detachment, to
+burn aneurisms in diabetics, in cancer surgery, angioplasty, removal of
+prostate, laparoscopy, and even plastic surgery.
+
+<ICE-IND:W2B-028#94:2>
+In these applications, the laser beam is usually 50-150 microns in
+diameter, in the case of lasers used in infertility procedures, the beam
+is much smaller in diameter - - only about 1.48 microns. </p>
+
+<p> 
+<ICE-IND:W2B-028#95:2>
+Adds Dr Pai, <quote> " The laser is an add-on breakthrough for
+infertility management and we expect great things from it." </quote> </p>
+<*> filled square </*> </I>

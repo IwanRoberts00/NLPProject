@@ -1,0 +1,69 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-073</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>2112</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-073>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>20-07-95</date>
+            <time>4.30pm</time>
+            <place>Residence of Dr. Shastri, Kolhapur</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-073</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-073</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Mane</surname>
+            <forenames>Deepkumar</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Pune, Maharashtra</birthplace>
+            <education>Shivaji University, Kolhapur</education>
+            <educational.level>graduate</educational.level>
+            <occupation>student</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi, Kannada</other.languages>
+            <free.comments>Moved to Kolhapur (1980-82), Bombay
+                 (1982-84), Kolhapur (1984-86), Belgaum (1986-
+                 89), Kolhapur (1989 to date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-073</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kulkarni</surname>
+            <forenames>Rajashree</forenames>
+            <age>18-25</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Ranebennur (Karnataka)</birthplace>
+            <education>Basaveshwar College, Bagalkot</education>
+            <educational.level>graduate</educational.level>
+            <occupation>student</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Telugu</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

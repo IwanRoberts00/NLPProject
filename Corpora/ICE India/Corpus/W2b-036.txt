@@ -1,0 +1,523 @@
+<I> <&> feature: </&>
+
+<ICE-IND:W2B-036#1:1>
+COMPUTERS & ELECTRONICS <&> second margin </&>
+
+<ICE-IND:W2B-036#2:1>
+<h> <bold> <w> WHAT'S </w> N<smallcaps>E</smallcaps>XT ? </bold> </h>
+<O> photograph, spread across the page </O> <&> centered on first column </&>
+<&> author's name </&>
+
+<ICE-IND:W2B-036#3:1>
+<bold> VENKAT KRISHNAN </bold> <&> <&> centered </&>
+
+<ICE-IND:W2B-036#4:1>
+<bold> A revolutionary new computer <&> centered </&> system NeXT,
+combines a number <&> centered </&> of recent technological <&> centered </&>
+breakthroughs </bold> <&> second column </&>
+
+<p> 
+<ICE-IND:W2B-036#5:1>
+<bold> <smallcaps> EVER </smallcaps> </bold> since Steven Jobs,
+designer of the Apple Macintosh personal computer was forced out of Apple
+Computers Inc., there were rumours that he was on to something big.
+
+<ICE-IND:W2B-036#6:1>
+Soon he was working on a new machine designed to bring the power of
+minicomputers and mainframes on to the desktop. </p>
+
+<p> 
+<ICE-IND:W2B-036#7:1>
+He had previously brought out Macintosh and so demonstrated
+that a computer need not be difficult to operate nor involve learning endless
+sets of commands and syntax.
+
+<ICE-IND:W2B-036#8:1>
+The <w> Macintosh's </w> user interface introduced the idea of
+pull-down menus.
+
+<ICE-IND:W2B-036#9:1>
+In this new approach, functions are arranged in a set of ` menus' and
+all that a user need to do is <quote> ` pull down' </quote> a particular menu
+and choose the command that was to be executed.
+
+<ICE-IND:W2B-036#10:1>
+The arrival of the <quote> ` mouse' </quote> a handy sliding desktop
+controller which eliminated the need for <O> <&> page </&> 72 </O> <&> middle
+of first column </&> <O> photograph </O> <O> caption </O> moving the cursor
+with arrow keys, was yet another mile-stone. </p>
+
+<p> 
+<ICE-IND:W2B-036#11:1>
+Macintosh brought a totally different concept into desktop
+computing.
+
+<ICE-IND:W2B-036#12:1>
+From then on, all software developers focussed on making their
+packages as user-friendly as possible and many used screens that imitated
+the Mac. </p>
+
+<p> 
+<ICE-IND:W2B-036#13:1>
+The long-awaited system, the NeXT ( pronounced <quote> ` next'
+</quote> ) , was unveiled in San Francisco in October 1988.
+
+<ICE-IND:W2B-036#14:1>
+The information impact of NeXT was administered in one big punch,
+instead of feeding several incomplete scraps of information in a manner
+similar to that used in packages like dBASE IV and Lotus 1-2-3 Release 3,
+etc. </p>
+
+<p> 
+<ICE-IND:W2B-036#15:1>
+The main unit of the NeXT computer is a black-coloured 30 cm
+cube with a single power cable for connection to the mains.
+
+<ICE-IND:W2B-036#16:1>
+Power is supplied to the monitor, keyboard and <O> <&> page </&> 73
+</O> <O> next entire page </O> <O> photograph </O> <O> caption </O. 
+ <O> <&>
+page </&> 74 </O> <&> column one </&> other devices outside the cube through
+a cable connecting the main unit to the monitor.
+
+<ICE-IND:W2B-036#17:1>
+The keyboard is connected to a socket in the mionitor unit ( and not
+to the main machine as is the case in other desktop machines ) .
+
+<ICE-IND:W2B-036#18:1>
+The monitor unit has speaker sockets for stereo output and a
+microphone socket, while the mouse is connected to the keyboard. </p>
+
+<p> 
+<ICE-IND:W2B-036#19:1>
+The system is built around a Motorola 32-bit microprocessor
+68030 ( operating at 25 M Hz, a performance figure of 5 MIPS or million
+instructions per second) supported by a 68882 math co-processor.
+
+<ICE-IND:W2B-036#20:1>
+There is also a 56001 digital signal processor which NeXT uses to
+synthesize high-quality stereo sound.
+
+<ICE-IND:W2B-036#21:1>
+The high speed of the main processor gives NeXT the capability to
+generate highly realistic animated three-dimensional simulations.
+
+<ICE-IND:W2B-036#22:1>
+The random access memory ( RAM) that comes along with the system
+is a whooping 7 megabytes ( MB).
+
+<ICE-IND:W2B-036#23:1>
+This can be increased to 16 MB if needed.
+
+<ICE-IND:W2B-036#24:1>
+There is also a version with only 4 MB memory for those who think 8
+MB is too much, in comparison, the standard IBM PC has a memory size of
+256 Kilobytes ( KB) expandable up to 512 KB.
+
+<ICE-IND:W2B-036#25:1>
+At present, the monitor is an ultra-high-resolution monochrome
+monitor.
+
+<ICE-IND:W2B-036#26:1>
+( A point which many critics noted since colour graphics would have
+been ideal.
+
+<ICE-IND:W2B-036#27:1>
+But that was a compromise required in design. )
+
+<ICE-IND:W2B-036#28:1>
+The monitor can be easily tilted forwards or backwards and it has
+tractor-style wheels at its base so that it can be moved across a table. </p>
+
+<p> 
+<ICE-IND:W2B-036#29:1>
+In any computer system, the raw speed of the central processing
+unit ( CPU ) is not sufficient to increase the speed of program execution
+which ultimately decides the through-put of the system.
+
+<ICE-IND:W2B-036#30:1>
+The CPU, could get bogged down by slow peripherals and may have to
+wait to service many input / output ( I/O ) cells.
+
+<ICE-IND:W2B-036#31:1>
+Designers have long since recognized this difficulty and tried to
+off-load all such activities to other indpendent processors.
+
+<ICE-IND:W2B-036#32:1>
+For example, when the first 8-bit microprocessor was introduced,
+there were peripheral chips which handled memory, I/O as well as clock /
+timer functiions all in one.
+
+<ICE-IND:W2B-036#33:1>
+From then onwards designers began to distribute the total work and
+employ specific peripheral chips for each function.
+
+<ICE-IND:W2B-036#34:1>
+That lead to the development of the I/O controller, bus controller,
+clock, interrupt controller, etc.
+
+<ICE-IND:W2B-036#35:1>
+Each was a separate chip doing only what it was best equipped for.
+
+<ICE-IND:W2B-036#36:1>
+The initial microprocessor 8085 had four hardware interrupt lines,
+though later generation ( 8086 / 8088s ) had only one.
+
+<ICE-IND:W2B-036#37:1>
+The idea was to allocate that work to a different chip.
+
+<ICE-IND:W2B-036#38:1>
+NeXT takes this design ideology to its logical conclusion by
+having a number of specialist chips for handling peripherals. </p>
+
+<p> 
+<ICE-IND:W2B-036#39:1>
+In most computer systems, the digital signal processor ( DSP)
+is used primarily for speech synthesis.
+
+<ICE-IND:W2B-036#40:1>
+However, its design is such that it can be useful in a number of
+applications like voice recognition, image processing, filtering of
+digital data, mathematical operations, etc.
+
+<ICE-IND:W2B-036#41:1>
+The DSP works with 24-bit data and can be programmed for any specific
+application.
+
+<ICE-IND:W2B-036#42:1>
+For example, it can be programmed to function as a 10-band graphic
+equalizer for a digital stereosystem.
+
+<ICE-IND:W2B-036#43:1>
+During the unveiling function of NeXT the sound synthesizer was used
+to generate a thunderstorm and Martin Luther <w> King's </w> speech entitled
+<quote> ` I have a dream' </quote> , with excellent effects. </p>
+
+<p> 
+<ICE-IND:W2B-036#44:1>
+Mass storage devices are products of the latest technology.
+
+<ICE-IND:W2B-036#45:1>
+Ever since the arrival of CD-ROM ( compact disc read only memory - -
+see box ) , attempts were being made to design <O> <&> second column </&> three
+photographs one below another </O> <O> <&> page </&> 75 </O> <&> in the
+center of the page </&> <O> photograph </O> <O> caption </O> an optical
+or magneto-optical system which can write as well as read.
+
+<ICE-IND:W2B-036#46:1>
+This was of great interest to computer manufacturers since the
+data storage in optical disks was exceedingly high - - of the order of
+hundred of megabytes.
+
+<ICE-IND:W2B-036#47:1>
+The hitch with CD-ROM was that it can only be read - - like an LP
+record - - but cannot be used to write any data.
+
+<ICE-IND:W2B-036#48:1>
+The data had to be programmed earlier at the manufacturing point of
+the disk.
+
+<ICE-IND:W2B-036#49:1>
+NeXT uses the first commercially available erasable optical disk (
+from Canon).
+
+<ICE-IND:W2B-036#50:1>
+It comes with an erasable optical disk drive of 256 MB data storage
+capacity.
+
+<ICE-IND:W2B-036#51:1>
+Compare this with the standard 360 KB floppy disks or even the 20 MB
+hard disk which comes with an IBM PC-XT and to get some idea of the amount of
+data that can be stored in a single disk.
+
+<ICE-IND:W2B-036#52:1>
+Moreover, the 256 MB ` floppies' can be removed and carried around,
+just like conventional floppy disks.
+
+<ICE-IND:W2B-036#53:1>
+They are not very big either - - only slightly bigger than 8.75 cm (
+3 1/2-inch ) floppy disks and can contain as much data as that contained in
+over 700 ordinary 360 KB floppies. </p>
+
+<p> 
+<ICE-IND:W2B-036#54:1>
+Also available as extras are 330 MB and 660 MB conventional
+hard disks which will give a better speed of data access.
+
+<ICE-IND:W2B-036#55:1>
+Because of the high-capacity optical disks, the entire Unix
+operating system along with applications and utilities ( with lots of space
+still left for adding other data), becomes portable.
+
+<ICE-IND:W2B-036#56:1>
+The machine does not have any floppy disk drives, which makes one
+wonder whether all the software to be developed for NeXT will have to be
+on the optical disk.
+
+<ICE-IND:W2B-036#57:1>
+The usual packages would definitely not require 256 MB of space. </p>
+
+<p> 
+<ICE-IND:W2B-036#58:1>
+The display screen ( or the monitor ) gives crisp graphics
+because of the 1,120 by 832 pixel display that NeXT uses.
+
+<ICE-IND:W2B-036#59:1>
+( Pixels are picture elements, the number of dots that make a
+picture. )
+
+<ICE-IND:W2B-036#60:1>
+The NeXT display is made up of 1,120 dots lengthwise and 832
+heightwise.
+
+<ICE-IND:W2B-036#61:1>
+In contrast, the standard IBM PC graphics screen gives 320 by 200 in
+the colour graphics mode and 640 by 200 in the high resolution mode.
+
+<ICE-IND:W2B-036#62:1>
+( Incidentally, all the comparisons being done with IBM PC <O> <&>
+page </&> 76 </O> are only for the purpose of understanding.
+
+<ICE-IND:W2B-036#63:1>
+NeXT is not comparable with a personal computer - - it belongs to a
+totally different class of machines.) </p>
+
+<p> 
+<ICE-IND:W2B-036#64:1>
+<w> NeXT's </w> capability to handle stereo sound will be useful
+in voice mail.
+
+<ICE-IND:W2B-036#65:1>
+Like its electronic counterpart, users of voice mail can leave
+messages by speaking into a microphone while the computer stores them in
+digital form.
+
+<ICE-IND:W2B-036#66:1>
+Messages can be addressed to a particular person in a network who
+will be able to retrieve them.
+
+<ICE-IND:W2B-036#67:1>
+The message will be <quote> ` heard' </quote> by the receiver (
+provided, of course, he or she has a machine with similar capability.
+
+<ICE-IND:W2B-036#68:1>
+Apart from this, NeXT supports networking and built-in Ethernet
+interface. </p>
+
+<p> 
+<ICE-IND:W2B-036#69:1>
+NeXT has its own graphical-user interface.
+
+<ICE-IND:W2B-036#70:1>
+The general design is on the lines of the Apple Macintosh interface (
+see photograph ) , though the screens are not duplications of the Mac
+screens.
+
+<ICE-IND:W2B-036#71:1>
+The operating system is Unix - - but with an easy-to-use interface so
+that the laborious Unix commands are not an annoyance to the user.
+
+<ICE-IND:W2B-036#72:1>
+NeXT uses the Mach kernel with some enhancements.
+
+<ICE-IND:W2B-036#73:1>
+Mach kernel was developed by Carnegie-Mellon University, and is
+compatible with the well-known Berkeley Standard Edition Version 4.3.
+
+<ICE-IND:W2B-036#74:1>
+The user interface is called the Workspace Manager and through
+this most of the Unix commands can be issued for file management,
+communication, accessing peripherals, etc. </p>
+
+<p> 
+<ICE-IND:W2B-036#75:1>
+Another important aspect is the development environment
+offered by NeXT.
+
+<ICE-IND:W2B-036#76:1>
+Many reviewers are quite impressed by it though big software houses
+are yet to declare any serious plans to develop software for NeXT.
+
+<ICE-IND:W2B-036#77:1>
+Bill Gates, the chairman of Microsoft, reportedly said that he was
+disappointed with the new machine because most of the new features it
+boasts of are trivial.
+
+<ICE-IND:W2B-036#78:1>
+Gates has reason to be unhappy.
+
+<ICE-IND:W2B-036#79:1>
+Because IBM has decided to use <w> NeXT's </w> user interface, <w>
+Microsoft's </w> OS/2-Presentation Manager was under threat.
+
+<ICE-IND:W2B-036#80:1>
+If IBM finds that OS/2-Presentation Manager combine is too slow to
+take off, there is a possibility that they may come out with a NeXT-type
+operating system as an alternative to MS-DOS.
+
+<ICE-IND:W2B-036#81:1>
+On the other hand, many others have gone too far saying that NeXT is
+the ultimate dream power machine for the developer.
+
+<ICE-IND:W2B-036#82:1>
+Only time can tell who is right.
+
+<ICE-IND:W2B-036#83:1>
+<w> NeXT's </w> Display Postscript, a screen display standard from
+Adobe is another important step forward.
+
+<ICE-IND:W2B-036#84:1>
+Ideally, this offers the possibility of developing
+machine-independent screen displays.
+
+<ICE-IND:W2B-036#85:1>
+Postscript is the well-known page description standard for laser
+printers.
+
+<ICE-IND:W2B-036#86:1>
+Display Postscript is an adaptation for graphic displays.
+
+<ICE-IND:W2B-036#87:1>
+IBM has decided to use this as standard software in its own version
+of the Unix operating system workstations - - the AIX system.
+
+<ICE-IND:W2B-036#88:1>
+This is a significant move since software developers will now be
+encouraged to produce packages for IBM which will also run on NeXT.
+
+<ICE-IND:W2B-036#89:1>
+Thus, NeXT gets over the problem that Macintosh faced during its
+early days - - that of producing software for a product which has no
+compatibles around. </p>
+
+<p> 
+<ICE-IND:W2B-036#90:1>
+Other development tools offered by NeXT are futuristic.
+
+<ICE-IND:W2B-036#91:1>
+Object-oriented programming ( OOP), which is expected to gain
+importance in near future, finds a place in NeXT.
+
+<ICE-IND:W2B-036#92:1>
+<w> NeXT's </w> C-language compiler, Objective-C, supports OOP.
+
+<ICE-IND:W2B-036#93:1>
+Also available is a standard library called Application Toolkit,
+which contains all the usually needed functions.
+
+<ICE-IND:W2B-036#94:1>
+A program called interface Builder is provided in the machine, in
+order to interactively develop user interfaces.
+
+<ICE-IND:W2B-036#95:1>
+Apart from these, there are programs for working with sound and
+music.
+
+<ICE-IND:W2B-036#96:1>
+NeXT will also provide word-processing and other packages with the
+machine.
+
+<ICE-IND:W2B-036#97:1>
+The company also hopes to provide text books, reference materials,
+dictionaries and literary works in disk-form ( along with software to help
+locate what is needed ) , to educational institutions, by utilizing its
+256 MB magneto-optical disc capacity. </p>
+
+<p> 
+<ICE-IND:W2B-036#98:1>
+<w> NeXT's </w> current marketing plans are restricted to
+promoting the machine in the educational-academic market, which though
+limited could prove to be significant on a long-term basis.
+
+<ICE-IND:W2B-036#99:1>
+Some observers feel that funds required to develop an extensive
+marketing network could be the reason why NeXT has ignored other markets.
+
+<ICE-IND:W2B-036#100:1>
+As quantities increase, the machine should be available to another
+segments as well. </p>
+
+<p> 
+<ICE-IND:W2B-036#101:1>
+All things considered, NeXT was planned with an eye on the
+future.
+
+<ICE-IND:W2B-036#102:1>
+Whether it will become a success story is debatable since this
+depends on various other factors.
+
+<ICE-IND:W2B-036#103:1>
+However, the present strategy of aiming at the educational
+market, was devised to-ensure that it captures enough attention in future.
+</p> <logo> <&> box at the end of page 76 </&> <box> <&> centered </&>
+
+<ICE-IND:W2B-036#104:1>
+<bold> CD-ROMS ARE ERASABLE OPTICAL DISKS </BOLD> <bold>
+<smallcaps> CD-ROMs </smallcaps> </bold> or compact disc read only memories are
+a result of developments in consumer electronics rather than in the
+computer industry.
+
+<ICE-IND:W2B-036#105:1>
+the search for super hi-fi sound led to the idea of digitally
+recording sound - - a process that is very similar to digital recording of
+video images.
+
+<ICE-IND:W2B-036#106:1>
+Sony of Japan and Philips of the Netherlands jointly developed a
+product that produced high-fidelity sounds.
+
+<ICE-IND:W2B-036#107:1>
+The compact disc ( CD ) player was intended to be some kind of
+ultimate experience for music bulls.
+
+<P> 
+<ICE-IND:W2B-036#108:1>
+sound is recorded on CDs in a digital format rather than the
+analogue format usually used in tapes and records.
+
+<ICE-IND:W2B-036#109:1>
+To do this, alalogue sound is scanned ( or sampled ) , converted
+into digital figures and then recorded in the CD.
+
+<ICE-IND:W2B-036#110:1>
+( This means that the contents pf a CD can be interpreted as a
+series of 1s and 0s. ) A laser beam pics up the signals, convers them into an
+analogue format and plays them back. <3> Ithis process, noise, hiss and
+other annoying effects are almost totally eliminated.
+
+<ICE-IND:W2B-036#111:1>
+Moreover, the microprocessor in the CD even rebuilds music lost due
+to scrathes and dust on the disc.
+
+<p> 
+<ICE-IND:W2B-036#112:1>
+The kind of data integrity offer by CD immediately drew the
+attention of computer manufacturers.
+
+<ICE-IND:W2B-036#113:1>
+Soon, a version of the CD player which could be interfaced to
+computer, because available.
+
+<ICE-IND:W2B-036#114:1>
+The vast amounts of data that can be stored on a silngle palm-sized
+CD runs into hundreds of MBs.
+
+<ICE-IND:W2B-036#115:1>
+However, one major restriction is that the CD cannot record, because
+of the nature of its design.
+
+<ICE-IND:W2B-036#116:1>
+Hence CDs are ideal for storage of reference materials loke
+dictionaries and databases.
+
+<p> 
+<ICE-IND:W2B-036#117:1>
+But development did not stop there.
+
+<ICE-IND:W2B-036#118:1>
+Researchers continued to look for ways erasable magnato-optical
+discs make it possible to erase and rewrite on the disc.
+
+<ICE-IND:W2B-036#119:1>
+The tecnicque used, however, is partly magnetic and purely optical.
+</box> </I>

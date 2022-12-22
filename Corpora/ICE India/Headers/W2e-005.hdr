@@ -1,0 +1,117 @@
+<text.info>
+       <file.description>
+               <textcode>ICE-IND-W2E-005</textcode>
+               <number.of.subtexts>3</number.of.subtexts>
+               <category>printed:press editorials</category>
+               <wordcount>2173</wordcount>
+               <version>lexical</version>
+               <free.comments></free.comments>
+       </file.description>
+     <subtext.source=a,b>
+           <source.type=newspaper>
+                <source.title>The Hindu</source.title>
+                <scope>national</scope>
+                <frequency>daily</frequency>
+                <circulation></circulation>
+           <publication.statement>
+           <publisher>Messrs. Kasturi & Sons Ltd.</publisher>
+                <address>National press, Kasturi Bldg. Madras- 
+                        600002</address>
+                <place>Madras</place>
+                <date>05-01-90</date>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of    
+           Messrs. Kasturi & Sons Ltd.</copyright.statement>
+           <free.comments></free.comments>
+     </subtext.source>
+      <subtext.internals=<it>ICE-IND-W2E-005a</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Imparting concreteness to good
+                       intentions</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+      <subtext.internals=<it>ICE-IND-W2E-005b</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>A long way to go</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+     <biography=<it>ICE-IND-W2E-005a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-W2E-005b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <subtext.source=c>
+           <source.type=newspaper>
+                <source.title>The Hindu</source.title>
+                <scope>national</scope>
+                <frequency>daily</frequency>
+                <circulation></circulation>
+           <publication.statement>
+           <publisher>Messrs. Kasturi & Sons Ltd.</publisher>
+                <address>National press, Kasturi Bldg. Madras- 
+                        600002</address>
+                <place>Madras</place>
+                <date>07-03-91</date>
+           </publication.statement>
+           <copyright.statement>reproduced by permission of    
+           Messrs. Kasturi & Sons Ltd.</copyright.statement>
+           <free.comments></free.comments>
+     </subtext.source>
+      <subtext.internals=<it>ICE-IND-W2E-005c</it>>
+            <subtext.name>ICE-IND</subtext.name>
+            <main.title>Eighth Plan uncertainties</main.title>
+                  <subtitle></subtitle>
+                  <page.nos>8</page.nos>
+            <free.comments></free.comments>
+      </subtext.internals>
+     <biography=<it>ICE-IND-W2E-005c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

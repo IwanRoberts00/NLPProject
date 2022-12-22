@@ -1,0 +1,57 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-020</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:popular:
+              social sciences</category>
+            <wordcount>1781</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-020>
+        <source.type=newspaper>
+            <source.title>The Sunday Times of
+              India</source.title>
+            <source.subtitle>Review</source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>Bennett, Coleman & Co. Ltd.</publisher>
+            <address>Dr. Dadabhoy Naoroji Rd. Bombay-          
+                    400001</address>
+            <place>Bombay</place>
+            <date>20-11-94</date>
+        </publication.statement>
+        <copyright.statement>reproduced by arrangement with the 
+        author and the Times of India and is the copyright of the 
+        the publishers, Bennett, Coleman & Co.
+        Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-020</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>The point of no return</main.title>
+            <subtitle></subtitle>
+            <page.nos>1</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-020</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Fernandes</surname>
+                <forenames>Naresh</forenames>
+                <age>25</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Bombay</birthplace>
+                <education>Bombay University, Columbia
+                  University</education>
+                <educational.level>M.Sc</educational.level>
+                <occupation>Journalist</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>English</mother.tongue>
+                <other.languages>Hindi, Spanish,
+                  French</other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

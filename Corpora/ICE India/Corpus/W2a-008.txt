@@ -1,0 +1,538 @@
+<I>
+
+<ICE-IND:W2A-008#1:1>
+<h> <bold> Gita <w> Mehta's </w> </bold> <it> <mention> A River Sutra
+: </mention> </it> </h>
+
+<ICE-IND:W2A-008#2:1>
+<bold> Two Views </bold> <&> right justification </&>
+
+<ICE-IND:W2A-008#3:1>
+<bold> C. N. Ramachandran </bold> <&> right justification </&> <it>
+Mangalore University </it>
+
+<p> 
+<ICE-IND:W2A-008#4:1>
+<it> <mention> A River Sutra </mention> </it> is Gita <w> Mehta's
+</w> third novel, the other two being <it> <mention> Karma Cola </mention>
+</it> and <it> <mention> Raj </mention> </it> .
+
+<ICE-IND:W2A-008#5:1>
+While the first two novels are in the well-known comic-ironic mode,
+this novel can be said to be roughly, in the allegorical mode.
+
+<ICE-IND:W2A-008#6:1>
+Further, one wonders whether <it> <mention> A River Sutra </mention>
+</it> can be called a novel at all.
+
+<ICE-IND:W2A-008#7:1>
+Having the Western <it> <mention> Don Quixote </mention> </it> and the
+Indian <it> Dasakumara Charitha </it> as its models <it> <mention> The River
+Sutra </mention> </it> exploits the formal possibilities of the genre to the
+fullest.
+
+<ICE-IND:W2A-008#8:1>
+It is a framed narrative.
+
+<ICE-IND:W2A-008#9:1>
+It is the story of an I.A.S. Officer, who, after retirement, chooses
+to be the manager of a Guest House, on the banks of the Narmada river in the
+Vindhya range.
+
+<ICE-IND:W2A-008#10:1>
+Since at this spot, there are pilgrimage centres of Hindus, Jains,
+Buddhists and Muslims, the manager constantly comes across many pilgrims;
+and, occasionally, the pilgrims tell him their strange / tragic tales.
+
+<ICE-IND:W2A-008#11:1>
+The novel, after the preamble, begins with <quote> " The <w> Monk's
+</w> Story" </quote> , and ends with <quote> " The Song of the Narmada"
+</quote> .
+
+<ICE-IND:W2A-008#12:1>
+In all there are seven inset-stories. </p>
+
+<p> 
+<ICE-IND:W2A-008#13:1>
+Although ancient Indian aestheticians were content to distinguish
+between <it> <mention> Katha </mention> </it> and <it> <mention> Akhyayika
+</mention> </it> on the basis of who the narrator is, and didn't explore the
+narrative further, <sp> <fnr> 1 </fnr> </sp> <O> <&> page </&> 2 </O> if we
+bring together such long narratives as <it> <mention> Kathasaritsagara,
+Panchatantra, Kadambari </mention> </it> and <it> <mention> Dasakumara
+Charita </it> </mention> . we can construct an Indian narrative tradition and
+identify its constituents.
+
+<ICE-IND:W2A-008#14:1>
+To start with, all Indian narratives - - be they epics like <it>
+<mention> Mahabaratha </mention> </it> , fiction such as <it> Kadambari </it>
+, or folk-narratives like <it> <mention> Vethal Panchavimshati </mention>
+</it> -  are framed narratives.
+
+<ICE-IND:W2A-008#15:1>
+In fact, the strategy of <quote> ` framing' </quote> seems to be
+essentially oriental, which reached Europe during the Middle Ages through
+Arabic.
+
+<ICE-IND:W2A-008#16:1>
+Many of <w> Boccaccio's </w> and <w> Chaucer's </w> tales have been
+traced back to India. <sp> <fnr> 2 </fnr> </sp>
+
+<ICE-IND:W2A-008#17:1>
+Often there is a <quote> ` double or triple framing' </quote> . <sp>
+<fnr> 3 </fnr> </sp>
+
+<ICE-IND:W2A-008#18:1>
+Secondly, the narrative mode in the Indian ( or Oriental ) tradition
+is non-realistic and fantastic.
+
+<ICE-IND:W2A-008#19:1>
+Thirdly, the framed stories are often variations of certain broad
+human experiences, no attempt being made to particularise either the
+characters or incidents in time and space.
+
+<ICE-IND:W2A-008#20:1>
+In fact, almost all narratives can be said to be variations played on
+a few archetypal patterns of human behaviour. </p>
+
+<p> 
+<ICE-IND:W2A-008#21:1>
+In a framed narrative, the frame could be passive or dynamic.
+
+<ICE-IND:W2A-008#22:1>
+A passive frame is one which functions only as a mechanical link
+among the diverse stories ( as in <it> Decameron </it> ) .
+
+<ICE-IND:W2A-008#23:1>
+On the other hand, in a dynamic frame, there is constant mediation
+between the frame and the inset stories; each qualifying and commenting on
+the other ( as in <w> Chaucer's </w> <it> <mention> Canterbury Tales
+</mention> </it> ) .
+
+<ICE-IND:W2A-008#24:1>
+Again, a dynamic frame may function as a counterpoint to the inset
+stories, providing the work multiplicity of point of view or polyphony to use
+<w> Bakhtin's </w> term <sp> <fnr> 4 </fnr> </sp> ( as in <w> Boll's </w>
+<it> The Lost Honour of Katherina Bloom </it> .)
+
+<ICE-IND:W2A-008#25:1>
+Or, the frame may provide a specific spatio-temporal context, as A.K.
+Ramanujan argues, <sp> <fnr> 5 </fnr> </sp> to the inset story / stories ( as
+in <it> <mention> The Hand <w> Maid's </w> Tale </mention> </it> .) </p> <O>
+<&> page </&> 3 </O>
+
+<p> 
+<ICE-IND:W2A-008#26:1>
+Generally, frames in Indian narratives are passive; they just
+serve to bring together assorted stories.
+
+<ICE-IND:W2A-008#27:1>
+Only in the case of <it> <mention> Panchatantra </mention> </it> ,
+the frame has some dynamism in it : the five princes who are told the various
+stories learn something from each story and at the end their maturation is
+complete.
+
+<ICE-IND:W2A-008#28:1>
+From this point of view the frame in <it> <mention> A River Sutra
+</mention> </it> is both functional and dynamic. </p>
+
+<p> 
+<ICE-IND:W2A-008#29:1>
+The narrator in the frame, the retired bureaucrat, isn't a
+know-all wise man.
+
+<ICE-IND:W2A-008#30:1>
+Often, he doesn't either understand a tale told him or only partially
+understands it.
+
+<ICE-IND:W2A-008#31:1>
+After listening to the first tale ( <quote> ` The <w> Monk's </w>
+Story' </quote> ) he is <quote> ` disturbed' </quote> ; and discusses the
+meaning of the story with his older friend Tariq Mia.
+
+<ICE-IND:W2A-008#32:1>
+Even Tariq <w> Mia's </w> explanation ( that <quote> " the human
+heart has only one secret, the capacity to love" </quote> p. 48 ) is beyond
+his comprehension.
+
+<ICE-IND:W2A-008#33:1>
+Similarly, after listening to the second story, the frame-narrator is
+perplexed and angry.
+
+<ICE-IND:W2A-008#34:1>
+He tells the readers: <quote> " I was upset by the old <w> Mulla's
+</w> accusation that I did not understand the World" </quote> ( p.92).
+
+<ICE-IND:W2A-008#35:1>
+Sometimes, even Mr. Chagla, his assistant, appears to be more
+knowledgeable.
+
+<ICE-IND:W2A-008#36:1>
+When Mr. Chagla states, as if he is stating the obvious, that <quote>
+" without desire there is no life" </quote> , the framenarrator is
+baffled.
+
+<ICE-IND:W2A-008#37:1>
+<quote> " I stared at him in astonishment" </quote> , he adds ( p.
+142 ) . </p>
+
+<p> 
+<ICE-IND:W2A-008#38:1>
+The point to be noticed here is that the frame-narrator also
+grows as the novel progresses.
+
+<ICE-IND:W2A-008#39:1>
+In fact, from one point of view, he could be considered the centre
+around whom and whose process of perception and understanding of men and
+society, the entire novel revolves.
+
+<ICE-IND:W2A-008#40:1>
+When the novel begins, he is a <indig> <quote> ` Vana prasthi'
+</quote> </indig> , and he is determined to be totally detached from the
+world, from the elevated position of self-assumed wisdom.
+
+<ICE-IND:W2A-008#41:1>
+But at the end, his older friend, Tariq Mia tells him : <quote> "
+Destiny is playing tricks on you.
+
+<ICE-IND:W2A-008#42:1>
+Don't you realize you were brought here to gain the world, not
+forsake it ? " </quote> ( p. 228 )
+
+<ICE-IND:W2A-008#43:1>
+The retired bureaucrat is annoyed and claims that he knows the world
+well enough.
+
+<ICE-IND:W2A-008#44:1>
+Later, however, he realizes that still he is groping in the dark:
+<quote> " I <O> <&> page </&> 4 </O> started at the flashes of illumination,
+wondering for the first time what I would do if I ever left the Bungalow"
+</quote> ( p. 282 ) . </p>
+
+<p> 
+<ICE-IND:W2A-008#45:1>
+More importantly, what is to be stressed in the structuring of
+the novel is its multiple focalisation. <sp> <fnr> 6 </fnr> </sp>
+
+<ICE-IND:W2A-008#46:1>
+Tariq Mia, the friend-philosopher of the main narrator, is also
+limited in his grasp of men and matters.
+
+<ICE-IND:W2A-008#47:1>
+In fact, there is no single character in the novel whose knowledge of
+the world is not imparfect.
+
+<ICE-IND:W2A-008#48:1>
+Each tale, narrated from a limited point of view, is later discussed,
+analysed and commented upon, again in their limited comprehension, by the two
+frame characters, who share a sort of teacher-pupil relationship.
+
+<ICE-IND:W2A-008#49:1>
+In other words, the novelist here, consciously, seems to adapt the
+framework of the Upanishads-the pupil sitting close to the teacher and
+entering into a dialogue with him.
+
+<ICE-IND:W2A-008#50:1>
+In the very beginning of the novel, the writer underscores this
+point, making here principal narrator say : <quote> " Do you know what the
+word <mention> Upanishad </mention> means?
+
+<ICE-IND:W2A-008#51:1>
+It means to sit beside and listen.
+
+<ICE-IND:W2A-008#52:1>
+Here I am, sitting, eager to listen." </quote> ( p. 13 ) </p>
+
+<p> 
+<ICE-IND:W2A-008#53:1>
+Now, coming to the framed tales, each of the seven tales is
+designed as a variation on the single theme of <quote> ` attachment.'
+</quote>
+
+<ICE-IND:W2A-008#54:1>
+While the frame-narrator is one who has renounced the world, the
+first inset-story is of the heir to an international diamond merchant, who
+also resolves ( following the model of Mahavira ) to renouce the world,
+yearning to be free from the world.
+
+<ICE-IND:W2A-008#55:1>
+But, after becoming a Jain Monk, having renounced every possession,
+he realises he has newer bonds with the world.
+
+<ICE-IND:W2A-008#56:1>
+After narrating his tale, he states, he has to hurry and join his
+brother monks.
+
+<ICE-IND:W2A-008#57:1>
+<quote> " I am too poor to renounce the world twice" </quote> , he
+admits ( p. 41 ) .
+
+<ICE-IND:W2A-008#58:1>
+And this admission bewilders the principal narrator.
+
+<ICE-IND:W2A-008#59:1>
+The succeeding tales also, similarly, play off the themes of <quote>
+` attachmentdetachment.' </quote>
+
+<ICE-IND:W2A-008#60:1>
+Whereas passionate attachment leads to tragic consequences in the
+<quote> ` <w> Teacher's </w> Story' </quote> and <quote> ` The <w>
+Executive's </w> Story', ` The <w> Musician's </w> Story' </quote> and
+<quote> ` The <w> Minstrel's </w> Story' </quote> uphold detachment.
+
+<ICE-IND:W2A-008#61:1>
+But again the last story - - <quote> ` The Song of the Narmada'
+</quote> - - registers the futility of detachment.
+
+<ICE-IND:W2A-008#62:1>
+The Naga Baba returns to the world as an archaeologist and undertake
+Narmada excavations.
+
+<ICE-IND:W2A-008#63:1>
+In other words, each tale <O> <&> page </&> 5 </O> either contradicts
+or qualifies the implications of the earlier tale/s ( as in <it> <mention>
+Canterbury Tales </mention> </it> ) ; and all the insettales are qualified
+by the frame.
+
+<ICE-IND:W2A-008#64:1>
+Consequently, what we get at the end of the novel is a multiple
+vision of the <quote> ` many-coloured dome' </quote> - - Life. </p>
+
+<p> 
+<ICE-IND:W2A-008#65:1>
+The vision of life implied by the totality of the text is a
+paradoxical position of both <quote> ` attachment-detachment.' </quote>
+
+<ICE-IND:W2A-008#66:1>
+The frame and a few inset-stories mount a serious critique of
+attachment to the world in the form of wealth, power and sensual indulgence.
+
+<ICE-IND:W2A-008#67:1>
+While the principle narrator is sick of a highly placed <w>
+bureaucrat's </w> life and voluntarily becomes a <quote> ` Vanaprastha'
+</quote> , the narrator of the <quote> ` <w> Executive's </w> Story' </quote>
+is even more critical.
+
+<ICE-IND:W2A-008#68:1>
+He observes in his diary that he and his <quote> ` estate boys'
+</quote> , in their drinking, gambling and wenching, indulged in <quote> "
+Careless self-destruction." </quote>
+
+<ICE-IND:W2A-008#69:1>
+Similarly the singer in <quote> " The <w> Musician's </w> Story"
+</quote> , transforms her unrequited love to the love of divine music.
+</p>
+
+<p> 
+<ICE-IND:W2A-008#70:1>
+However, the novel rejects the concept of total detachment as
+well.
+
+<ICE-IND:W2A-008#71:1>
+At one point, Mr. Chagla gravely states to the frame-narrator:
+<quote> " But, Sir, without desire there is no life.
+
+<ICE-IND:W2A-008#72:1>
+Everything will stand still.
+
+<ICE-IND:W2A-008#73:1>
+Become emptiness.
+
+<ICE-IND:W2A-008#74:1>
+In fact, Sir, be dead" </quote> ( p. 142 ) .
+
+<ICE-IND:W2A-008#75:1>
+Prof. Shankar alias Naga Baba declares towards the end, dismissing
+the divinity of the river Narmada : <quote> " If anything is sacred about the
+river, it is the individual experiences of the human beings who have lived
+here" </quote> ( p. 267 ) . </p>
+
+<p> 
+<ICE-IND:W2A-008#76:1>
+Such profound affirmation of life and human experience is
+reinforced by repeated motifs of love and rebirth.
+
+<ICE-IND:W2A-008#77:1>
+The allusions to the penance of Uma to achieve <w> Shiva's </w> love,
+to the five arrows of <indig> Kama ( Panchasayaka) </indig> which none can
+withstand, to the death of <indig> Kama ( Kamadahana) </indig> which makes
+<w> Kumara's </w> birth possible, to the origins of <indig> Veena </indig>
+created by Shiva to immortalize <w> Uma's </w> immortal beauty, to the seven
+notes of music which are all drawn from Nature-all these allusions indirectly
+uphold the divinity of love, and conjugal bliss.
+
+<ICE-IND:W2A-008#78:1>
+The lyrics of the great Sufi poet Rumi, quoted here and there
+appropriately, again strengthen this motif - - of love, both human and
+divine.
+
+<ICE-IND:W2A-008#79:1>
+In fact, the entire novel, <it> <mention> The River Sutra </mention>
+</it> , is a fascinating mosaic of rich and <O> <&> page </&> 6 </O>
+repetitive images, motifs, and allusions. </p>
+
+<p> 
+<ICE-IND:W2A-008#80:1>
+What places the novel at the centre of Indian narrative tradition
+is that each inset story seems to have been selected and elaborated with an
+awareness of the Indian <indig> Rasa </indig> theory.
+
+<ICE-IND:W2A-008#81:1>
+For instance, the <w> Monk's </w> story, based on renunciation,
+has <quote> ` Shanta' </quote> as its <indig> Sthayi </indig> , and <indig>
+Karuna </indig> as <indig> Sanchari rasas </indig> .
+
+<ICE-IND:W2A-008#82:1>
+The <w> Teacher's </w> story, centred on greed and jealousy, evokes
+<indig> Bhibhatsa </indig> and concommitant <indig> Karuna </indig> .
+
+<ICE-IND:W2A-008#83:1>
+While the <w> Courtesan's </w> story evokes <indig> Sringara </indig>
+and <indig> Vira </indig> , the <w> Executive's </w> story <indig> Adbhuta
+</indig> and <indig> Hasya </indig> .
+
+<ICE-IND:W2A-008#84:1>
+While <indig> Vipralambha Sringara </indig> and <indig> Karuna
+</indig> are communicated through the <w> Teacher's </w> story, <indig>
+Adbhuta </indig> and <indig> Karuna </indig> dominate the <w> Ministrel's
+</w> story.
+
+<ICE-IND:W2A-008#85:1>
+It is appropriate from this point of view that the <w> novel's </w>
+title is partially Indian: the River <quote> ` Sutra' </quote> . </p>
+
+<p> 
+<ICE-IND:W2A-008#86:1>
+The all-pervasive central symbol in the novel is the river
+Narmada.
+
+<ICE-IND:W2A-008#87:1>
+The novel captures her varied moods from varying angles.
+
+<ICE-IND:W2A-008#88:1>
+The river, born in the Vindhyas and flowing west-wards, is the
+meeting point of all the central characters in the climatic moments of their
+lives.
+
+<ICE-IND:W2A-008#89:1>
+She is the <quote> " Delightful one" </quote> , <quote> " forever
+holy, forever inexhaustible." </quote>
+
+<ICE-IND:W2A-008#90:1>
+If sometimes she appears as a bride, flowing to meet her bridegroom,
+the ocean with all ardour, some other times she has the allurement of a
+whore.
+
+<ICE-IND:W2A-008#91:1>
+In fact, as Dr. Mitra explains to the bureaucrat, <quote> ` narmada'
+</quote> in Sanskrit, also means <quote> ` a whore' </quote> .
+
+<ICE-IND:W2A-008#92:1>
+What interests Dr. Shankar, the archaeologist, in Narmada is not that
+it is a <quote> ` holy' </quote> river but that it is an immortal river.
+
+<ICE-IND:W2A-008#93:1>
+That is, <quote> " the Narmada has never changed its course.
+
+<ICE-IND:W2A-008#94:1>
+What we are seeing today is the same river that was seen by the
+people who lived here a hundred thousand years ago.
+
+<ICE-IND:W2A-008#95:1>
+To me such a sustained record of human presence in the same
+place-that is immortality" </quote> ( p.264 ) .
+
+<ICE-IND:W2A-008#96:1>
+The cave drawings in the vicinity of Narmada are among he <quote> "
+oldest evidence of human life in India." </quote>
+
+<ICE-IND:W2A-008#97:1>
+The ancient Alexandrian geographer, Ptolemy, wrote about the Narmada.
+
+<ICE-IND:W2A-008#98:1>
+Vyasa is supposed to have dictated his Mahabharatha on this river
+bank and <w> Kalidasa's </w> works graphically describe the river and the
+nearby Vindya range.
+
+<ICE-IND:W2A-008#99:1>
+<quote> " It is as if reason and instinct are constantly warring on
+the banks of the Narmada.
+
+<ICE-IND:W2A-008#100:1>
+I mean, even the war between the Aryans and the pre-Aryans is <O>
+<&> page </&> 7 </O> still unresolved here" </quote> ( p. 153 ) . </p>
+
+<p> 
+<ICE-IND:W2A-008#101:1>
+Obviously, Narmada symbolises Life in general, and Indian
+culture and society in particular.
+
+<ICE-IND:W2A-008#102:1>
+The river, with Shiva and Supaneshwara temples on one side, the
+Muslim mosque and the tomb of the Sufi poet, Rumi, on the other and many
+Jain, Buddhist and tribal temples and shrines scattered over its course,
+symbolises the culture that is both ancient and modern, both monotheistic and
+theistic, and both Aryan and non-Aryan.
+
+<ICE-IND:W2A-008#103:1>
+In fact, <it> The River Sutra </it> could as well have been titled
+<quote> ` Bharath Sutra' </quote> . </p>
+
+<ICE-IND:W2A-008#104:1>
+<footnote> * ( Paper presented at a Seminar on <quote> ` Fifteen
+Significant Indian Works Since 1979' </quote> , held at Dhvanyaloka, Mysore
+in June )
+
+<ICE-IND:W2A-008#105:1>
+<footnote> 1. After kathyayana distinguishes between <quote> <indig>
+` Katha and Akhyayika' </indig> </quote> <it> <mention> Agni Purana
+</mention> </it> analyses them in detail.
+
+<ICE-IND:W2A-008#106:1>
+One major difference between the two is that Akhyayika is narrated
+by the hero while Katha by others.
+
+<ICE-IND:W2A-008#107:1>
+However, Dandi, in the 7th Century argues that there is no
+difference between the two. </footnote> <&> on page 2 </&>
+
+<ICE-IND:W2A-008#108:1>
+<footnote> 2. See W. F. Bryan and G. Dempster, eds., <it> <mention>
+Sources and Analogues of <w> Chaucer's </w> <}> <-> Cantensory </-> <+>
+Canterbury </+> </}> Tales </it> ( Chicago : Univ. of Chicago Press, 1941 ) .
+</footnote>
+
+<ICE-IND:W2A-008#109:1>
+<footnote>
+
+<ICE-IND:W2A-008#110:1>
+3. For instance, <it> </mention> The Mahabharatha <mention> </it>
+has two sets of narrators and audiences.
+
+<ICE-IND:W2A-008#111:1>
+First, a sage called Vaishampayana narrates the epic to the king
+janamejaya, as it had been narrated earlier by Suta Puranika to an assembly
+of hermits in the the Shaunaka Hermitage.
+
+<ICE-IND:W2A-008#112:1>
+The <it> <mention> Panchatantr </mention> </it> , of course has many
+involved stories within stories. </footnote>
+
+<ICE-IND:W2A-008#113:1>
+<footnote> 4. Michail Bakhtin coins the term <quote> <mention> `
+polyphony' </mention> </quote> , in his long article on Dostoevsky in 1929.
+
+<ICE-IND:W2A-008#114:1>
+Its English translation came out in 1984. </footnote>
+
+<ICE-IND:W2A-008#115:1>
+<footnote> 5. A.K. Ramanujan uses the terms <quote> ` context
+sensitive' </quote> and <quote> ` context free' </quote> <O> <&> on page </&>
+3 </O> in his essay, <quote> " Is There An Indian Way of Thinking ? An
+Informal Essay " </quote> , in <it> <mention> India Through Hindu Categories
+</mention> </it> , ed. Mekim Marriott ( St GE Publications, 1990 ) .
+</footnote> <&> on page 4 </&>
+
+<ICE-IND:W2A-008#116:1>
+<footnote> 6. Gerard <w> Genette's </w> concept in Narrative
+Discourse ( English tr. 1980. ) </footnote> </I>

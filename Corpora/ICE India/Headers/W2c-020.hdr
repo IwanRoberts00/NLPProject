@@ -1,0 +1,101 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-020</textcode>
+             <number.of.subtexts>2</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>2789</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=a>
+           <source.type=periodical>
+           <source.title>Femina</source.title>
+           <source.subtitle></source.subtitle>
+           <volume></volume>
+           <no.></no.>
+           <series></series>
+           <frequency>Fortnightly</frequency>
+     <publication.statement>
+           <publisher>Bennett, Coleman & Co. Ltd.</publisher>
+           <address>Dr N. D. Road, Bombay-400001</address>
+           <place>Bombay</place>
+           <date>08-02-90</date>
+           <ISSN></ISSN>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Bennett,
+                    Coleman & Co. Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.                 
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-020a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>MEDICINE</main.title>
+                 <subtitle>Detecting Cancer Painlessly</subtitle>
+                 <page.nos>41</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-020a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role> </communicative.role>
+                <surname>Kamat</surname>
+                <forenames>Dr. J</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=b>
+     <source.type=periodical>
+           <source.title>Sportstar</source.title>
+           <source.subtitle></source.subtitle>
+           <volume></volume>
+           <no.></no.>
+           <series></series>
+           <frequency>Weekly</frequency>
+     <publication.statement>
+           <publisher>Kasturi & Sons Ltd.</publisher>
+           <address>Kasturi Building, Madras-600002</address>
+           <place>Madras</place>
+           <date>24-02-90</date>
+           <ISSN></ISSN>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Kasturi &
+                Sons Ltd.</copyright.statement>
+     <free.comments>text was obtained by Prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-020b</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Sanjeev does the star-turn for    
+                            Rlys</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>26</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-020b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,207 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-097</textcode>
+            <number.of.subtexts>3</number.of.subtexts>
+            <category>Dialogue:private:distance
+                 conversation</category>
+            <wordcount>2451</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-097(1)>
+     <source.type=Dialogue:private:distance conversation>
+     <recording.data>
+            <date>07-05-93</date>
+            <time>1pm</time>
+            <place>Residence of Mrs. Moktali</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of
+                 respective speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-097(1)</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-097(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kulkarni</surname>
+            <forenames>Laxman</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Walwa, Sangli,
+                 Maharashtra</birthplace>
+            <education>University of Pune, CIEFL (Hyderabad),
+                 Shivaji University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>College teacher</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Kirloskarwadi (Sangli)
+                 (1947-53), Pune (1953-60), Solapur (1960 to
+                 date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-097(1)</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Moktali</surname>
+            <forenames>Laxmi</forenames>
+            <age>50+</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Agragon, Uttar Kannada,
+                 Karnataka</birthplace>
+            <education>Karnataka University, Shivaji
+                 University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University teacher</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Karwar (1957-59), Dharwad
+                 (1959-60), Sirsi (1960-61), Gargoti (1962-
+                 63), Hubli (1964-68), Kolhapur 91968 to
+                 date)</free.comments>
+     </biography>
+     <subtext.source=S1A-097(2)>
+     <source.type=Dialogue:private:distance conversation>
+     <recording.data>
+            <date>18-07-94</date>
+            <time>1.30pm</time>
+            <place>Residence of Dr. Shastri</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of
+                 respective speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-097(2)</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-097(2)</it>>
+            <speaker.id>C</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Moktali</surname>
+            <forenames>Laxmi</forenames>
+            <age>50+</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Agragon, Uttar Kannada,
+                 Karnataka</birthplace>
+            <education>Karnataka University, Shivaji
+                 University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>University teacher</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Karwar (1957-59), Dharwad
+                 (1959-60), Sirsi (1960-61), Gargoti (1962-
+                 63), Hubli (1964-68), Kolhapur 91968 to
+                 date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-097(2)</it>>
+            <speaker.id>D</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Rajwade</surname>
+            <forenames>Alaka</forenames>
+            <age>50+</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Nasik, Maharashtra</birthplace>
+            <education>Bombay University, Shivaji
+                 University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Housewife</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to several places in
+                 Maharashtra 1970 onwards</free.comments>
+     </biography>
+     <subtext.source=S1A-097(3)>
+     <source.type=Dialogue:private:distance conversation>
+     <recording.data>
+            <date>18-09-94</date>
+            <time></time>
+            <place></place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of
+                 respective speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-097(3)</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-097(3)</it>>
+            <speaker.id>E</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Kulkarni</surname>
+            <forenames>Laxman</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Walwa, Sangli,
+                 Maharashtra</birthplace>
+            <education>University of Pune, CIEFL (Hyderabad),
+                 Shivaji University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>College teacher</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments>Moved to Kirloskarwadi (Sangli)
+                 (1947-53), Pune (1953-60), Solapur (1960 to
+                 date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-097(3)</it>>
+            <speaker.id>F</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Vayangankar</surname>
+            <forenames>Baban</forenames>
+            <age>55</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>valva badruk, Kolhapur</birthplace>
+            <education>Shivaji University, CIEFL
+                 (Hyderabad)</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>College teacher</occupation>
+            <affiliations>Linguistic Society of India,
+                 Pune</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments>Moved to Kolhapur 91953-64),
+                 Solapur (1964-73), Kolhapur (1973 to
+                 date)</free.comments>
+     </biography>
+</text.info>

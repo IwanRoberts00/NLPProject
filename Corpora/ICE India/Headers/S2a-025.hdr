@@ -1,0 +1,58 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S2A-025</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Monologue:Unscripted:unscripted
+                   speeches</category>
+              <wordcount>2672</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S2A-025>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+       <recording.data>
+              <date>11-08-91</date>
+              <time>10.00am</time>
+              <place>Faculty of Arts, Dept: of English, M.S.
+                   University of Baroda</place>
+       </recording.data>
+              <organising.body>Seminar on `Creative
+                   Writing'</organising.body>
+              <copyright.statement>used by permission of
+                   respective speaker</copyright.statement>
+              <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S2A-025</it>>
+              <subtext.name>ICE-IND-</subtext.name>
+              <communicative.situation>Lecture
+                   </communicative.situation>
+              <no.of.participants>1</no.of.participants>
+              <relationship>NA</relationship>
+              <audience.size>50 college & university
+                   teachers</audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S2A-025</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role></communicative.role>
+              <surname>Malagi</surname>
+              <forenames>Ranganath</forenames>
+              <age>54</age>
+              <gender>male</gender>
+              <nationality>Indian</nationality>
+              <birthplace>Gokak, Belgaum, Karnataka</birthplace>
+              <education>Doctorate</education>
+              <occupation>Administrator, Teacher,
+                   Researcher</occupation>
+              <affiliations>Dante Society of America (Harward),
+                   Dante Society of Study
+                   (Florence)</affiliations>
+              <mother.tongue>Kannada</mother.tongue>
+              <other.languages>Hindi, Marathi, Gujrati, French,
+                   Italian</other.languages>
+              <free.comments>Moved to Pune (1960-71), Dharwad
+                   (1971-77), Ahmedabad (1977 to
+                   date)</free.comments>
+       </biography>
+</text.info>

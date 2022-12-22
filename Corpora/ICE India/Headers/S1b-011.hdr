@@ -1,0 +1,51 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1B-011</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:public:class lessons</category>
+            <wordcount>2329</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1B-011>
+     <source.type=Dialogue:public:class lessons>
+     <recording.data>
+            <date>06-03-93</date>
+            <time>9.10am</time>
+            <place>VPM's BR Tol's English High School,
+                 Mulund(Bombay)</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+            </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1B-011</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants></no.of.participants>
+            <relationship>disparates</relationship>
+            <free.comments>The students were minor (Class IX)
+                 hence extra corpus speakers</free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1B-011</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Chakravarty</surname>
+            <forenames>Geeta</forenames>
+            <age>34-41</age>
+            <gender>female</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Nagpur, Maharashtra</birthplace>
+            <education>Jabalpur University, Bombay
+                 University</education>
+            <educational.level>Graduate</educational.level>
+            <occupation>Teacher</occupation>
+            <affiliations>not known</affiliations>
+            <mother.tongue>Bengali</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,73 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-032</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:direct
+                 conversation</category>
+            <wordcount>1960</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-032>
+     <source.type=Dialogue:private:direct conversation>
+     <recording.data>
+            <date>22-06-93</date>
+            <time>10pm</time>
+            <place>Mysore: CIEFL contact programme</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-032</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-032</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Nihalani</surname>
+            <forenames>Narsu</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Gambat(Sind), Pakistan</birthplace>
+            <education>Poona University, Benares Hindu
+                 University, Edinburgh(UK)</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>University Teacher</occupation>
+            <affiliations>Life membership "Indian
+                 Linguistics"</affiliations>
+            <mother.tongue>Sindhi</mother.tongue>
+            <other.languages>Hindi</other.languages>
+            <free.comments></free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-031</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Dani</surname>
+            <forenames>Ashok</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Nasik, Maharashtra</birthplace>
+            <education>Poona University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>College Teacher</occupation>
+            <affiliations>Indian Association of Canadian
+                 Studies, Indian Association of American
+                 Studies</affiliations>
+            <mother.tongue>Marathi</mother.tongue>
+            <other.languages>Hindi, Sanskrit,
+                 French</other.languages>
+            <free.comments></free.comments>
+     </biography>
+</text.info>

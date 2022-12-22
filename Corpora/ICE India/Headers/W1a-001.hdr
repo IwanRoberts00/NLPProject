@@ -1,0 +1,124 @@
+<text.info>
+       <file.description>
+                 <textcode>ICE-IND-W1A-001</textcode>
+                 <number.of.subtexts>003</number.of.subtexts>
+                 <category>non-printed:non-professional
+                   writing:student untimed essays</category>
+                 <wordcount>2619</wordcount>
+                 <version>lexical</version>
+                 <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1A-001(1)>
+           <source.type=student essay>
+                <main.title>The Future of English in
+                  India</main.title>
+                <course>pre-I.A.S.</course>
+                <subject>I.A.S.</subject>
+                <institution></institution>
+                <year>1996</year>
+                <date>1995</date>
+           <copyright.statement>reproduced by permission of
+                respective student</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-001(1)</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-001(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Jamadar</surname>
+                <forenames>Parveen</forenames>
+                <age>18-25</age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace>Akkalkot, Solapur</birthplace>
+                <education>Sangmeshwar College,
+                  Solapur</education>
+                <educational.level>graduate</educational.level>
+                <occupation>student</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Urdu</mother.tongue>
+                <other.languages>Hindi, Marathi</other.languages>
+                <free.comments>Moved to Nasik (1989-93), Solapur
+                  (1993-to date)</free.comments>
+       </biography>
+       <subtext.source=W1A-001(2)>
+           <source.type=student essay>
+                <main.title>Should Mothers Go To Work
+                  </main.title>
+                <course>I.A.S.</course>
+                <subject>I.A.S.</subject>
+                <institution></institution>
+                <year>1995</year>
+                <date>11-02-95</date>
+           <copyright.statement>reproduced by permission of
+                respective student</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-001(2)</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-001(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Limaye</surname>
+                <forenames>Deepa V.</forenames>
+                <age>18-25</age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level>B.Sc III</educational.level>
+                <occupation>student</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+       </biography>
+       <subtext.source=W1A-001(3)>
+           <source.type=student essay>
+                <main.title>Impact of Science on Human
+                  Life</main.title>
+                <course>pre-I.A.S.</course>
+                <subject>I.A.S.</subject>
+                <institution></institution>
+                <year>1995</year>
+                <date>31-12-95</date>
+           <copyright.statement>reproduced by permission of
+                respective student</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-001(3)</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-00(3)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Kharade</surname>
+                <forenames>M.S.</forenames>
+                <age>18-25</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level>B.Sc.</educational.level>
+                <occupation>student</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+       </biography>
+</text.info>

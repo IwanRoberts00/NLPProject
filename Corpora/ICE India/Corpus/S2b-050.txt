@@ -1,0 +1,452 @@
+<I> 
+
+
+<$A>
+
+<ICE-IND:S2B-050#1:1:A>
+<X> <?> First read the </?> </X> Abstract <,> of the paper <,>  
+titled <,,> <mention> development of grammar in animal communication systems  
+<,> and in pidgins <,,> </mention> 
+
+<ICE-IND:S2B-050#2:1:A>
+This paper comprises three sections <,,> <mention> Section one and  
+two deal with animal communication systems </mention> <,,> and <mention>  
+Section three with human communication systems </mention> <,,> 
+
+<ICE-IND:S2B-050#3:1:A>
+To study <,> <mention> Animal communication system <,> the Washoe  
+project <,,> in which a chimpanzee <,> learnt American sign language <,,> and  
+the Lana Project <,,> in which a chimpanzee learns <,> rudimentary  
+language-type systems </mention> <,,> are described <,,> 
+
+<ICE-IND:S2B-050#4:1:A>
+The studies prove conclusively <,,> that chimpanzee <,,> separated  
+from humans by a mere genetic whisker <,,> are unable to grasp <,> syntax <,>  
+the combination of a finite number of signs <,> in an infinite number of new  
+way <,,> 
+
+<ICE-IND:S2B-050#5:1:A>
+It separates language <,> from other forms of communication <,,>  
+such as <mention> Vocalisation <,> facial expression <,> gestures <,> which  
+are all paralinguistics features </mention> 
+
+<ICE-IND:S2B-050#6:1:A>
+Specifically till date <,,> we have no evidence of any animal <,>  
+spontaneously evolving true language <,> without anybody to teach it <,,> 
+
+<ICE-IND:S2B-050#7:1:A>
+The only animal who does this is man <,,> 
+
+<ICE-IND:S2B-050#8:1:A>
+The focus in section three <,> is on human communication systems  
+<,,> specifically how communication takes place <,> among speakers of pidgin  
+languages <,,> 
+
+<ICE-IND:S2B-050#9:1:A>
+Theories which have been propounded to explain the origins of  
+language <,> are explored <,,> as <mention> The single mutation theory <,>  
+the innate propensity theory <,> the social pressure or need theory <,,> and  
+the contact theory </mention> <,,> as they have specific relevance to pidgins  
+<,,> 
+
+<ICE-IND:S2B-050#10:1:A>
+A dozen examples of <mention> <w> Vendor's </w> English <,> <w>  
+domestic's </w> English </mention> <,,> and <mention> Shipee English  
+</mention> <,,> subsumed under the conventional title of <mention> Butler  
+English </mention> <,,> an English pidgin spoken in India for over a century  
+<,,> recorded from nineteen eighty-two to nineteen ninety-two <,> are listed  
+<,,> 
+
+<ICE-IND:S2B-050#11:1:A>
+They reveal modest language competence <,> in pidgin speakers <,>  
+at the levels of morphology <,> syntax <,> and lexico-semantics <,,> 
+
+<ICE-IND:S2B-050#12:1:A>
+Extracts from Tay Boi <,> a French pidgin spoken in Vietnam <,> are  
+listed <,,> 
+
+<ICE-IND:S2B-050#13:1:A>
+Similarities between it <,> and <mention> Butler English </mention>  
+and <mention> English pidgin </mention> <,,> can be deduced <,,> 
+
+<ICE-IND:S2B-050#14:1:A>
+This gives credibility to the claim <,> that all pidgins are  
+similar <,> should refer to <mention> The innate propensity theory </mention>  
+<,,> as they are forged in condition <,,> where the premium is on  
+transmitting facts <,> withour frills <,,> it should refer to <mention> The  
+social pressure or need theory </mention> <,> and <mention> The contact  
+theory </mention> <,,> 
+
+<ICE-IND:S2B-050#15:1:A>
+Similarities between the <mention> <w> chimpanzee's </w> <,>  
+rudimentary language type system </mention> <,> and <mention> The pidgin <w>  
+speaker's </w> <,> modest language competence </mention> <,,> have been noted  
+and cross <,> referenced <,,> 
+
+<ICE-IND:S2B-050#16:1:A>
+A common thread runs through the three sections of this paper <,>  
+that language serves one basic function <,> that of communication <,,> 
+
+<ICE-IND:S2B-050#17:1:A>
+At no point is it suggested <,> that the three sections represent  
+<,> a gradual progression <,,> 
+
+<ICE-IND:S2B-050#18:1:A>
+No doubt animal communication systems and human communication  
+systems are different <,,> for example <,,> <mention> Instinctive and  
+interactive </mention> <,> and <mention> Innate and interactive </mention>  
+<,,> but they are also similar <,> for example <,> limited structures <,> and  
+innovative structures <,,> 
+
+<ICE-IND:S2B-050#19:1:A>
+Finally the basis for any comparison of cross-species communication  
+<,,> is in the final analysis <,,> compassion <,> for all forms <,> of life  
+<,,> 
+
+<ICE-IND:S2B-050#20:1:A>
+<.> Deve </.> <&> recording broken </&> The paper comprises three  
+sections <,,> <mention> Section one and two </mention> deal with animal  
+communication systems <,> and <mention> Section three </mention> <,,> with  
+human communication system <,,> 
+
+<ICE-IND:S2B-050#21:1:A>
+I will concentrate only on the animal communication system <,,> 
+
+<ICE-IND:S2B-050#22:1:A>
+First of all <,,> what is communication? <,,> 
+
+<ICE-IND:S2B-050#23:1:A>
+<mention> Hockett in nineteen sixty </mention> <,> defined  
+communication as <quote> An act <,,> by which one individual <,,> triggers  
+the behaviour of another </quote> <,,> 
+
+<ICE-IND:S2B-050#24:1:A>
+<quote> S. A. Altmann in nineteen sixty-seven </quote> <,,> stated  
+that communication occurs <,,> when the behaviour of one individual <,>  
+affects the behaviour of the other <,,> 
+
+<ICE-IND:S2B-050#25:1:A>
+Although this definition is widely accepted by researchers <,>  
+dealing with animal communication <,> it suffers from generality <,,> 
+
+<ICE-IND:S2B-050#26:1:A>
+Communicative features may be linguistic or non-linguistic <,,>  
+verbal or non-verbal <,,> vocal or non-vocal <,,> 
+
+<ICE-IND:S2B-050#27:1:A>
+Verbal and non-verbal communication <,> do not represent  
+discontiguous processes <,,> 
+
+<ICE-IND:S2B-050#28:1:A>
+Both are dependent upon similar complex coding <,> and decoding  
+cognitive processes <,,> and to the extent that these processes are  
+comparable between species <,> the abilities of different species to exchange  
+information <,> will also be similar <,,> 
+
+<ICE-IND:S2B-050#29:1:A>
+Cognitive styles of perceiving and ordering the world <,> are a  
+combined function of an <w> organism's </w> innate neurological equipment  
+<,,> and his sensory-motor interactions <,> minus emotion <,> which is  
+environmental surroundings <,,> 
+
+<ICE-IND:S2B-050#30:1:A>
+Speech is a communication system <,> superimposed on a biological  
+process <,,> that of breathing <,,> 
+
+<ICE-IND:S2B-050#31:1:A>
+Communication systems <,> superimposed on two other essential  
+biological processes <,> are that of eating <,,> and that of sex <,,> 
+
+<ICE-IND:S2B-050#32:1:A>
+Now here are some examples of how birds <,> fish and mammals  
+communicate <,,> 
+
+<ICE-IND:S2B-050#33:1:A>
+Most of the communicative features are non-linguistic <,>
+non-verbal and non-vocal <,,> 
+
+<ICE-IND:S2B-050#34:1:A>
+I am going to specially <,> talk <,> about versatile behaviour <,>  
+and intentional communication <,,> 
+
+<ICE-IND:S2B-050#35:1:A>
+Biologists observing animals have noted <,> that they are capable  
+of versatile behaviour <,> and intentional communication <,,> which lead us  
+to the conclusion <,> that animals can think <,,> 
+
+<ICE-IND:S2B-050#36:1:A>
+Here are some striking examples of versatile behaviour <,,> from  
+<mention> The Hindu </mention> nineteen ninety-eight <,,> 
+
+<ICE-IND:S2B-050#37:1:A>
+The Galapagos finch <,> uses specially shaped twigs <,> to prise  
+out grub from a hole <,,> 
+
+<ICE-IND:S2B-050#38:1:A>
+The green-backed heron <,,> breaks twigs into small pieces <,> and  
+floats them on the water <,,> 
+
+<ICE-IND:S2B-050#39:1:A>
+Minnows that are attracted to the twigs <,,> end up as lunch <,,> 
+
+<ICE-IND:S2B-050#40:1:A>
+When the <w> beaver's </w> dam is damaged <,> and it is forced to  
+make emergency repairs <,,> it discards familiar techniques <,> if they prove  
+futile <,,> and tries novel strategies <,> 
+
+<ICE-IND:S2B-050#41:1:A>
+<w> Termite's </w> nests <,,> despite hot temperatures <,> outside  
+<,> maintain a certain level of coolness within <,,> 
+
+<ICE-IND:S2B-050#42:1:A>
+When two female gobi fish meet in a corner of a coral reef <,,> one  
+of them changes into a male so that the two can mate <,,> 
+
+<ICE-IND:S2B-050#43:1:A>
+<w> What's </w> more <,> the male fish can reverse back to a female  
+<,> although not so easily <,> 
+
+<ICE-IND:S2B-050#44:1:A>
+The fish opts for a sex change <,,> as a long search for a mate <,>  
+puts them at the mercy of a predators <,,> 
+
+<ICE-IND:S2B-050#45:1:A>
+<quote> They are not good swimmers </quote> <,> says Phillip Munday  
+of the James Cook University of North Queensland <,> in Townsville <,,> 
+
+<ICE-IND:S2B-050#46:1:A>
+Japanese researchers support these findings <,,> 
+
+<ICE-IND:S2B-050#47:1:A>
+Finally <,,> wading birds migrate to New Zealand <,> after breeding  
+in Alaska <,,> a non-stop trip of eleven thousand kilometres <,,> 
+
+<ICE-IND:S2B-050#48:1:A>
+Before they migrate <,> they binge till upto fifty-five percent of  
+their weight is fat <,,> 
+
+<ICE-IND:S2B-050#49:1:A>
+To compensate for the added weight <,,> they destroy a part of  
+their internal organ <,> like the kidney and the liver <,> by up to  
+twenty-five percent <,,> 
+
+<ICE-IND:S2B-050#50:1:A>
+When they land <,> they rebuild them again <,,> 
+
+<ICE-IND:S2B-050#51:1:A>
+Now <mention> Information Technology </mention> is perhaps the  
+greatest revolution of this century <,,> 
+
+<ICE-IND:S2B-050#52:1:A>
+There is the Internet <,> which links people all over the world  
+<,,> 
+
+<ICE-IND:S2B-050#53:1:A>
+But would you believe that insects too have a similar communication  
+system ? <,,> 
+
+<ICE-IND:S2B-050#54:1:A>
+Just as we communicate physically and electronically <,> insects  
+communicate through sounds <,> light <,> movement and chemicals <,,> 
+
+<ICE-IND:S2B-050#55:1:A>
+I am going to give you some striking examples of intentional  
+communication <,,> from <mention> The Hindu </mention> in nineteen  
+ninety-eight <,,> 
+
+<ICE-IND:S2B-050#56:1:A>
+In the insects communication system <,> the chemical used as a  
+communicators are called <foreign> pheromones </foreign> <,> from Greek  
+<foreign> pherien </foreign> to carry <,> and <foreign> hormaein </foreign>  
+to excite <,,> 
+
+<ICE-IND:S2B-050#57:1:A>
+The quantity of pheromones used <,,> their effective distance and  
+specificity <,> all play an important part <,,> 
+
+<ICE-IND:S2B-050#58:1:A>
+For example <,,> a female sex <}> <-> <.> <foreign> phor </foreign>  
+</.> </-> <=> <foreign> pheromone </foreign> </=> </}> <,> can attract the  
+male <,,> from a distance of two miles or more <,,> 
+
+<ICE-IND:S2B-050#59:1:A>
+Male moths fly towards the smell zone <,> which increases as the  
+male approaches the female <,,> 
+
+<ICE-IND:S2B-050#60:1:A>
+Ants use these pheromones to communicate their message <,,> 
+
+<ICE-IND:S2B-050#61:1:A>
+As one or two ants identify the source of food <,,> they leave an  
+invisible line of <foreign> pheromones </foreign> called trail marking  
+<foreign> pheromones </foreign> <,> on the ground <,> as they move <,> which  
+can be sensed by ants following <,,> 
+
+<ICE-IND:S2B-050#62:1:A>
+The ant is so meticulous <,> that it chooses the highly specific  
+<foreign> pheromone </foreign> <,> which does not evoke responses from ants  
+of other species <,,> 
+
+<ICE-IND:S2B-050#63:1:A>
+Thus each possesses its own language <,> and higway code <,,> 
+
+<ICE-IND:S2B-050#64:1:A>
+Ants produce a pheromone after their death <,> the odour of which  
+immediately provokes worker ant <,> to remove the corpse <,> from the nest  
+<,,> 
+
+<ICE-IND:S2B-050#65:1:A>
+Some <foreign> pheromones </foreign> are used to warn friends of  
+intending danger <,,> 
+
+<ICE-IND:S2B-050#66:1:A>
+If you disturb an insect in an anthill or a beehive <,> the insect  
+disturbed <,> sents off alarm phermones <,> which spread panic <,> through  
+the nest <,,> 
+
+<ICE-IND:S2B-050#67:1:A>
+Dolphins sometimes referred to as monkeys of the sea <,> they too  
+communicate <,,> 
+
+<ICE-IND:S2B-050#68:1:A>
+They use unique signature whistles <,> to keep in touch with others  
+<,> that are out of sight <,> says British zoologists 
+
+<ICE-IND:S2B-050#69:1:A>
+And this is from <mention> The Hindu </mention> nineteen  
+ninety-seven <,,> 
+
+<ICE-IND:S2B-050#70:1:A>
+And do fish talk? <,,> 
+
+<ICE-IND:S2B-050#71:1:A>
+In a way they do <,> 
+
+<ICE-IND:S2B-050#72:1:A>
+They tell each other how they feel <,> by the way they wiggle and  
+blow bubbles <,,> 
+
+<ICE-IND:S2B-050#73:1:A>
+Fish which live at the very bottom of the ocean <,> have a special  
+way of communicating <,> they glow with a bright light <,,> 
+
+<ICE-IND:S2B-050#74:1:A>
+Some light up to startle their prey <,> others just to say hello to  
+each other <,,> <mention> The Hindu </mention> nineteen ninety-seven <,,> 
+
+<ICE-IND:S2B-050#75:1:A>
+Dr Cyndy Sims Parr of Michigan states <,> that <w> crows' </w> long  
+distance caws <,> of which there are fifteen or twenty <,> have different  
+meaning determined by their form and rhythm <,,> 
+
+<ICE-IND:S2B-050#76:1:A>
+Various vocalizations can mean <,,> stay out of my territory <,>  
+watch out <w> someone's </w> after your lunch <,,> or help me get this  
+predator out of here <,,> 
+
+<ICE-IND:S2B-050#77:1:A>
+She says <,> that a string <mention> ko-ko-ko-ko-ko-ko </mention>  
+means neighbour <,> <w> you're </w> tresspassing <,,> 
+
+<ICE-IND:S2B-050#78:1:A>
+In addition there are the many soft sounds crows make <,> when  
+talking with family members like gargles <,> coos <,> squawks <,> squeals <,>  
+and plaintive <w> <mention> oo-oo's </mention> </w> <,> for example <,>  
+squeal means teasing one another <,> and <mention> <w> oo-oo's </w>  
+</mention> <,> are cries of hunger <,> from <mention> The Hindu </mention>  
+nineteen ninety-seven <,,> 
+
+<ICE-IND:S2B-050#79:1:A>
+And now <w> I'll </w> conclude with the dance of the honeybee <,,> 
+
+<ICE-IND:S2B-050#80:1:A>
+For it is the dance of the honeybee that constitutes <,> one of the  
+most elaborate systems <,> of communication <,> C Russell and W M S  
+Russell nineteen seventy-one <,,> 
+
+<ICE-IND:S2B-050#81:1:A>
+The dance was first noticed by Pastor Ernst <}> <-> Spitz <,> ner  
+</-> <+> Spitzner </+> </}> in seventeen eighty-eight <,> but it was left to  
+an Austrian zoologist Karl Von Frisch <,> to interpret the language of the  
+honeybees <,,> 
+
+<ICE-IND:S2B-050#82:1:A>
+For this he was awarded the Nobel Prize <,> in nineteen  
+seventy-three <,,> 
+
+<ICE-IND:S2B-050#83:1:A>
+When a Carniolan honeybee discovers a new source of honey <,>  
+within about ten metres of the hive <,> she returns to the hive <,> and  
+regurgitates drops of honey <,> which are eagerly drunk by other bees <,,> 
+
+<ICE-IND:S2B-050#84:1:A>
+Then she begins to dance round in a circle <,,> this is called <,>  
+the round dance <,,> 
+
+<ICE-IND:S2B-050#85:1:A>
+During the round dance <,> the bee runs in small circle <,>  
+clockwise and anti-clock-wise alternately <,,> 
+
+<ICE-IND:S2B-050#86:1:A>
+The bees who watch her <,> finds the new source of food <,,> 
+
+<ICE-IND:S2B-050#87:1:A>
+The round dance therefore tells other bees <,> to search the near  
+neighbourhood of the hive <,> and the scent on the dancers body <,> tells  
+them what flowers to look for <,,> 
+
+<ICE-IND:S2B-050#88:1:A>
+But honeybees have been known to forage for food <,> at distances  
+of thirteen kilometres <,,> equivalent of thousand miles for a human being  
+<,,> 
+
+<ICE-IND:S2B-050#89:1:A>
+So when a honeybee finds food say between hundred metres <}> <->  
+and hun and hun </-> <=> and ten kilometres </=> </}> <,,> she returns to  
+the hive <,,> offers the honey she has found <,,> and performs <,> a  
+different <,,> kind of number called a tail wagging dance <,,> 
+
+<ICE-IND:S2B-050#90:1:A>
+In the case of the waggle dance <,,> the bee dances <,> tracing a  
+<mention> Figure of eight </mention> <,,> 
+
+<ICE-IND:S2B-050#91:1:A>
+Like the round dance <,> the waggle dance tells the bee that there  
+is food available <,,> and what flowers to look for <,,> 
+
+<ICE-IND:S2B-050#92:1:A>
+But it also tells them exactly how far away the flowers are <,> and  
+in exactly what direction <,,> 
+
+<ICE-IND:S2B-050#93:1:A>
+The tempo of the dance conveys the distance to the food <,,> a  
+quick step tempo indicating a relatively nearby food source <,,> and a slow  
+foxtrot tempo <,> a more distant one <,,> 
+
+<ICE-IND:S2B-050#94:1:A>
+Even all this does not exhaust the language of the honeybee dances  
+<,,> 
+
+<ICE-IND:S2B-050#95:1:A>
+They can also vary in liveliness <,> and total duration <,,> 
+
+<ICE-IND:S2B-050#96:1:A>
+They are livelier and longer <,> the sweeter the food <,> the  
+easier it is gathered <,> the better the weather <,,> 
+
+<ICE-IND:S2B-050#97:1:A>
+Minute details have been left out <,,> such as the waggle dance  
+making the same angle with the sun <,> as the <w> honeybee's </w> flight-path  
+did <,,> a complicated piece <,> of geometrical calculation <,,> 
+
+<ICE-IND:S2B-050#98:1:A>
+But even from this brief description it can be inferred <,,> that  
+the system of communication evolved by the honeybees <,> is marvellous indeed  
+<,,> 
+
+<ICE-IND:S2B-050#99:1:A>
+Thank you <,,> </I> 
+
+
+ 
+

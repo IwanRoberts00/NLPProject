@@ -1,0 +1,525 @@
+<I> <&> Feature :
+
+<ICE-IND:W2B-034#1:1>
+<bold> COMPUTERS & ELECTRONICS </bold> </&> <&> across the page </&>
+
+<ICE-IND:W2B-034#2:1>
+<h> <bold> COLOUR PHOTOCOPYING </bold> </h> <O> four photographs, two
+above and two below them </O> <O> caption </O> <&> centered on column two at
+bottom </&> <O> R.W. JAYAKAR </O> <&> editorial comment begin </&> <&>
+centered </&>
+
+<ICE-IND:W2B-034#3:1>
+<bold> Colour photocopying is <&> cemtered </&> inexpensive and <&>
+centered </&> relatively simple.
+
+<ICE-IND:W2B-034#4:1>
+It may <&> centered </&> one day pose an indirect <&> centered </&>
+threat to colour <&> centered </&> photography </bold> <&> editorial comment
+end </&>
+
+<p> 
+<ICE-IND:W2B-034#5:1>
+<bold> <smallcaps> THE </smallcaps> </bold> colour photocopying
+machine incorporates several technologies - - photostatic laser, colour
+separation, computer and dye chemistry, apart from other electronic,
+electrical and mechanical devices. </p>
+
+<p> 
+<ICE-IND:W2B-034#6:1>
+In black-and-white photocopying machines, the light reflected from
+the document falls on a charged selenium drum and dissipates the charges
+selectively in the white areas as distinct from the dark written or printed
+matter of the original document.
+
+<ICE-IND:W2B-034#7:1>
+Then the oppositely charged particles of toner ink adhere to the
+charged areas on the drum.
+
+<ICE-IND:W2B-034#8:1>
+In the next cycle, the ink is lifted on to paper to give a copy which
+is like the original document. </p>
+
+<p> 
+<ICE-IND:W2B-034#9:1>
+In laser photocopiers, a narrow laser beam is guided by a computer
+to selectively dissipate the charges on the drum of the photocopier machine.
+</p>
+
+<p> 
+<ICE-IND:W2B-034#10:1>
+The process used in colour copying differs drastically from that
+used in colour photography.
+
+<ICE-IND:W2B-034#11:1>
+The dyes used in colour photography are not photosensitive.
+
+<ICE-IND:W2B-034#12:1>
+Therefore, along with the dyes, reactive chemicals which act as
+agents between the light and the dyes are coated on to the films and papers
+on which the prints are to be made.
+
+<ICE-IND:W2B-034#13:1>
+These chemicals carry the dyes to appropriate <O> <&> page </&> 66 </O> 
+points on the image when the colour films and papers are
+developed.
+
+<ICE-IND:W2B-034#14:1>
+Once this is done, the dye image is stabilized by removing the
+carriers and couplers in the agents. </p>
+
+<p> 
+<ICE-IND:W2B-034#15:1>
+In contrast, the plain papers used in colour copying are neither
+coated with coloured dyes nor with reactive chemicals.
+
+<ICE-IND:W2B-034#16:1>
+Therefore, colour reproduction by the photocopier process
+involves, pigment application as in water-colour painting.
+
+<ICE-IND:W2B-034#17:1>
+When many water colours are applied successively in an overlay, the
+painted area appears black ( see box ) .
+
+<ICE-IND:W2B-034#18:1>
+However, the chemistry of the dyes used in colour photocopying
+in such that they do not react with each other when applied in overlay.
+
+<ICE-IND:W2B-034#19:1>
+They are also spectrally transparent which permits them to show
+intermediate shades when overlayed by the dyes of other colours. </p>
+
+<p> 
+<ICE-IND:W2B-034#20:1>
+As distinct from colour printing, the colour separation technique
+used in colour photocopying consists of two separate steps.
+
+<ICE-IND:W2B-034#21:1>
+First, the original colour transparency, photograph or painting is
+photographed onto three black-and-white films.
+
+<ICE-IND:W2B-034#22:1>
+Each film is shot thriough a filter of one primary colour ( cyan,
+magenta and yellow ) under identical geometrical conditions, to give three
+negatives of three subtractive primary colours.
+
+<ICE-IND:W2B-034#23:1>
+These three negatives are then successively exposed through the same
+filters onto the printing paper to give the natural colour photograph. </p>
+
+<p> 
+<ICE-IND:W2B-034#24:1>
+In the black-and-white photocopier machine for reasons of space,
+the original document is scanned insuccessive sections by a moving
+mirror.
+
+<ICE-IND:W2B-034#25:1>
+These sections are relfected onto a sensitized selenium drum. </p>
+
+<ICE-IND:W2B-034#26:1>
+<h> <bold> Computerized scanning </bold> </h>
+
+<p> 
+<ICE-IND:W2B-034#27:1>
+In a colour laser photocopying machine, the image of the original
+colour document, photograph or transparency is first captured
+electro-nically in each of the three primary colours in the same
+brightness level.
+
+<ICE-IND:W2B-034#28:1>
+Electronic capture does not record the complete image as is done in
+photography, but breaks it into a number of pixels ( individual picture
+elements ) in a process which is called <quote> ` bit mapping' </quote> .
+</p>
+
+<p> 
+<ICE-IND:W2B-034#29:1>
+The process occurs as follows: In the colour photocopier machine,
+scaning is done by a strip-line of charge coupled devices ( CCDS ) which
+are similar to tiny photocells.
+
+<ICE-IND:W2B-034#30:1>
+These are arranged so that there are 16 CCDS per millimetre of
+1,728 to cover the width of an A-4 paper, a total of 5,000 in three groups,
+one each in red, blue and green.
+
+<ICE-IND:W2B-034#31:1>
+Every <O> drawing at the bginning of column two </O> <O> caption </O>
+CCD in the scanner or reader unit of the colour laser photocopier machine
+generates electrical voltages depending on the incident light, say 1 V
+when the brightest light falls on it and 0 V when no light falls on it.
+
+<ICE-IND:W2B-034#32:1>
+In other words, the voltages generated by the CCDS can be in the
+states <quote> ` ON' </quote> or <quote> 'OFF' </quote> .
+
+<ICE-IND:W2B-034#33:1>
+This is the binary code for feeding information into the computer.
+</p>
+
+<p> <h>
+
+<ICE-IND:W2B-034#34:1>
+How does the computer see the original document or picture ? </h>
+
+<ICE-IND:W2B-034#35:1>
+The compu-ter registers 1 V as one bit of information.
+
+<ICE-IND:W2B-034#36:1>
+Two bits can count from 0 to 3, three bits from 0 to 7, four bits
+from 0 to 15, five bits from 0 to 31, six bits from 0 to 63, seven bits from
+0 to 127, eight bits from 0 to 225 and so on.
+
+<ICE-IND:W2B-034#37:1>
+Now an original document or photograph will contain an enormous
+number of microscopic parts picked up by the CCDS.
+
+<ICE-IND:W2B-034#38:1>
+Each part represents a pixel ( picture element). </p>
+
+<p> 
+<ICE-IND:W2B-034#39:1>
+These pixels, some several million of them, have to be entered in
+the form of bits into the memory of a computer.
+
+<ICE-IND:W2B-034#40:1>
+To accommodate the enormous number of bits into the built-in memory
+of a computer, the memory is given in kilobytes.
+
+<ICE-IND:W2B-034#41:1>
+A kilobyte is 1,024 bytes, that is, two raised to ten. </p>
+
+<p> 
+<ICE-IND:W2B-034#42:1>
+Any black-and-white document or photograph can be looked at from
+the point of view of shades of grey which are represented within eight
+clearly defined levels.
+
+<ICE-IND:W2B-034#43:1>
+These eight levels are sufficient to take care of all the shades of
+grey.
+
+<ICE-IND:W2B-034#44:1>
+The light picked up from each pixel is given a value by an eight-bit
+digitizer.
+
+<ICE-IND:W2B-034#45:1>
+The position of each pixel in the document or photograph is fixed by
+horizontal ( x) and vertical ( y) coordinates, each of which can be
+addressed by the computer.
+
+<ICE-IND:W2B-034#46:1>
+The resolution of the copying machine affects the quality of
+photographs reproduced.
+
+<ICE-IND:W2B-034#47:1>
+So, in the case of the photocopier, it is the number of pixels which
+build the document or photograph.
+
+<ICE-IND:W2B-034#48:1>
+The greater the number and the smaller the size of the pixels, the
+higher the resolution of the copy. </p>
+
+<p> 
+<ICE-IND:W2B-034#49:1>
+For coloured documents or photographs, eight levels of shades
+are not enough, each of the primary subtractive colours require 32 shades
+at the minimum level of acceptability.
+
+<ICE-IND:W2B-034#50:1>
+Consequently, the pixel count increases enormously. </p>
+
+<p> 
+<ICE-IND:W2B-034#51:1>
+The information recorded after the electronic capture of the
+original colour document, photograph or transparency is digitized and
+the pixels are stored in the <w> computer's </w> memory.
+
+<ICE-IND:W2B-034#52:1>
+The computer can now be made to drive a laser and transfer the pixels
+through filters ( of three primary colours and black, for brightness levels,
+onto a photosensitive drum in quick succession - - a process remotely
+resembling pigment deposition in watercolour painting. </p>
+
+<ICE-IND:W2B-034#53:1>
+<h> <bold> Colour laser photocopier </bold> </h>
+
+<p> 
+<ICE-IND:W2B-034#54:1>
+The machine has two distinct components: a scanner with a
+computer and a printer.
+
+<ICE-IND:W2B-034#55:1>
+The original colour document is lit by high actinic lights, its
+image is reflected by a mirror onto a strip of CCDS arranged in three groups
+<O> column two and three below, three drawings </O> <O> captions below each
+</O> <O> <&> page </&> 67 </O> behind the filters of each of the primary
+subtractive colours ( red, blue and green ) . </p>
+
+<p> 
+<ICE-IND:W2B-034#56:1>
+The electronic signals picked up by the CCDS are sent to the
+printer unit.
+
+<ICE-IND:W2B-034#57:1>
+Here the drum is first charged electrically to make it uniformly
+photosensitive and then the electronic signals from the CCDS and computer
+are made to activate the build-in laser.
+
+<ICE-IND:W2B-034#58:1>
+The laser is turned on and off depending upon the electronic signal
+from the CCD.
+
+<ICE-IND:W2B-034#59:1>
+When operated on, the laser strikes the photo-charged drum and
+neutralizes the charges in selected areas of the image, corresponding to the
+colour of the original.
+
+<ICE-IND:W2B-034#60:1>
+The regions of the drum not hit by the laser retain their electric
+charges. </p>
+
+<p> 
+<ICE-IND:W2B-034#61:1>
+The remaining electric charges attract the toner of that primary
+colour.
+
+<ICE-IND:W2B-034#62:1>
+This cycle of wiping the charged drum by the laser and depositing the
+toner on it is repeated for the other two primary colours and for black. </p>
+
+<p> 
+<ICE-IND:W2B-034#63:1>
+The toner of the three primary colours and black are lifted
+from the drum to the plain paper and fused there in a stabilization process.
+</p>
+
+<p> 
+<ICE-IND:W2B-034#64:1>
+At every stage, before the laser strikes the charged drum, the
+computer which drives the laser can be issued selective commands.
+
+<ICE-IND:W2B-034#65:1>
+These commands can involve changing the colours, or editing parts
+from its bit map.
+
+<ICE-IND:W2B-034#66:1>
+Every pixel can be addressed through the computer which can also be
+set to automatically monitor colour selecting, brightness and density so as
+to correspond with the original. </p>
+
+<p> 
+<ICE-IND:W2B-034#67:1>
+Other built-in facilities may include reduction and enlargement
+capacities limited to the maximum size of paper or the length of the drum.
+</p>
+
+<p> 
+<ICE-IND:W2B-034#68:1>
+Using the editing facility of the computer, a picture from one
+location can be shifted to another point on the same sheet or to another
+sheet, or its dimensions can be altered, as its bit map can be extended
+vertically or horizontally.
+
+<ICE-IND:W2B-034#69:1>
+Also, reduction or magnification only in one direction is
+possible.
+
+<ICE-IND:W2B-034#70:1>
+A slide attachment permits enlarged plain paper prints in colour.
+</p>
+
+<p> 
+<ICE-IND:W2B-034#71:1>
+Using the editing facility of the computer, a picture from one
+location can be shifted to another point on the same sheet or to another
+sheet, or its dimensions can be altered, as its bit map can be extended
+vertically or horizontally.
+
+<ICE-IND:W2B-034#72:1>
+Also, reduction or magnification only in one direction is
+possible.
+
+<ICE-IND:W2B-034#73:1>
+A slide attachment permits enlarged plain paper prints in colour.
+</p>
+
+<p> 
+<ICE-IND:W2B-034#74:1>
+False colour copies can be made by altering the signals to the
+printer as well as by making a negative colour print from a positive of the
+coloured original.
+
+<ICE-IND:W2B-034#75:1>
+The colour laser photocopier is likely to pose a threat to
+conventional colour photography because of its speed and economic
+viability. </p> <*> logo </*> </I>
+
+
+<I> <&> on page 68, at the beginning in box </&> <box> <&> centered </&>
+
+<ICE-IND:W2B-034#76:2>
+<bold> REPRODUCTION OF COLOUR <&> centered </&> IN PHOTOGRAPHY
+</bold>
+
+<p> 
+<ICE-IND:W2B-034#77:2>
+<bold> <smallcaps> THE </smallcaps> </bold> <w> Sun's </w> surface
+temperature is over 6,000<sp>o</sp> C and its light energy reaches us as a
+bundle of long and short wavelengths varying according to the state of
+atmosphere, presence of clouds, etc.
+
+<ICE-IND:W2B-034#78:2>
+Thus the standard temperature of daylight varies from place to place.
+
+<ICE-IND:W2B-034#79:2>
+In India, it is over 7,000 K while in USA it is about 6,500 K and in
+England about 5,200 K.
+
+<ICE-IND:W2B-034#80:2>
+Under overcast conditions, the longer, less energetic wavelengths
+are stopped and the light reaching the <w> Earth's </w> surface has a higher
+ratio of shorter, bluer wavelengths, so its colour temperature may rise to
+between 8,000 to 9,000 K.
+
+<ICE-IND:W2B-034#81:2>
+Towards evening, sunlight becomes yellower and finally orange or red
+at sunset, for the lower the sun sinks, the greater the atmospheric haze
+which stops shorter wavelengths, increasing the proportion of longer
+wavelengths, and so the colour temperature drops.
+
+<ICE-IND:W2B-034#82:2>
+Thus, the colour temperature of sunlight varies considerably. </p>
+
+<p> 
+<ICE-IND:W2B-034#83:2>
+Wavelength determines a colour - - when all the colours in the
+spectrum are present <quote> ` white' </quote> light is formed.
+
+<ICE-IND:W2B-034#84:2>
+Photographically speaking, colour temperature tells how white the
+light from the Sun or an artificial source is.
+
+<ICE-IND:W2B-034#85:2>
+When it contains mainly short wave-lengths, it will be blue-white,
+whereas when it contains mainly long wavelengths it will be yellow-white.
+
+<ICE-IND:W2B-034#86:2>
+Colour temperature of a light is compared with a black body heated to
+emit light of similar balance.
+
+<ICE-IND:W2B-034#87:2>
+The temperature necessary for the black body to reach this light
+intensity is known as the equivalent colour temperature and is second in
+importance to exposure in colour reproduction. </p>
+
+<ICE-IND:W2B-034#88:2>
+<h> <bold> Colour objects </bold> </h>
+
+<p> 
+<ICE-IND:W2B-034#89:2>
+Light sources such as the Sun, stars, electric, gas and oil
+lights, candles, flash bulbs and electronic flash units are bodies which
+radiate ( electromagnetic ) light waves.
+
+<ICE-IND:W2B-034#90:2>
+Other objects are visible because they reflect light waves from light
+sources.
+
+<ICE-IND:W2B-034#91:2>
+Black objects appear so because they can absorb all the light falling
+on them ( incident light ) and reflect none.
+
+<ICE-IND:W2B-034#92:2>
+White objects are white because they reflect all wavelengths of
+light, so white light is reflected as white.
+
+<ICE-IND:W2B-034#93:2>
+If a white object is taken into red light it will appear red, under
+green light it will appear green and so on.
+
+<ICE-IND:W2B-034#94:2>
+The colour we attribute to objects is that which they appear to be in
+white light. </p>
+
+<p> 
+<ICE-IND:W2B-034#95:2>
+Between black which absorbs all light and white which reflects
+all light are every colour and shade of the spectrum.
+
+<ICE-IND:W2B-034#96:2>
+Every substance has its own particular wavelength absorption and
+reflectance construction.
+
+<ICE-IND:W2B-034#97:2>
+Absorption and reflection characteristics are affected by adding dyes
+to some substances thus changing their colour.
+
+<ICE-IND:W2B-034#98:2>
+The silver salts in films are by nature only sensitive to a narrow
+band of wavelengths; to make a film sensitive to all visible colours (
+panchromatic ) , dyes are added to allow it to absorb these other colours and
+thus record them. </p>
+
+<ICE-IND:W2B-034#99:2>
+<h> <bold> Complementary colours </bold> </h>
+
+<p> 
+<ICE-IND:W2B-034#100:2>
+Light of complementary colours when mixed, produce white light.
+
+<ICE-IND:W2B-034#101:2>
+For instance, white light can be produced by the following
+permutations and combinations: Red + blue-green = white Orange + blue = white
+Yellow + violet = white Green + purple = white </p>
+
+<p> 
+<ICE-IND:W2B-034#102:2>
+To an artist, the primary colours are red, blue and yellow, but
+in photography, another set of primaries are used which are respectively
+complementary to the <w> artist's </w> primaries.
+
+<ICE-IND:W2B-034#103:2>
+Modern photographic materials are sensitized to what are termed as
+additive primaries.
+
+<ICE-IND:W2B-034#104:2>
+In this system, the complementaries are bluegreen, magenta and
+yellow.
+
+<ICE-IND:W2B-034#105:2>
+These are termed substractive primaries and are the colours of
+the dyes used in the three layers of a positive colour print or transparency,
+the final colours in the picture being formed by subtraction of colour
+from white light. </p>
+
+<ICE-IND:W2B-034#106:2>
+<h> <bold> Colour print paper </bold> </h>
+
+<p> 
+<ICE-IND:W2B-034#107:2>
+Photosensitive printing paper is prepared using three
+emulsion layers with a colour sensitivity similar to that of the exposed
+film.
+
+<ICE-IND:W2B-034#108:2>
+The colour negative is placed in the enlarger, a white light is
+shone through it, then by using suitable colour filters, a record can be made
+of the original colour subject or each layer can be exposed in turn using
+filters which cut out all wavelengths except those to which each layer is
+sensitive.
+
+<ICE-IND:W2B-034#109:2>
+Dyes used in the final image contain the subtractive colours.
+
+<ICE-IND:W2B-034#110:2>
+Since printing is done on a white base paper, it is essential to use
+subtractive colours.
+
+<ICE-IND:W2B-034#111:2>
+Thus, white is represented by cleared unexposed emulsion in the
+three layers allowing the paper base to show through the white. </p> <&>
+
+<ICE-IND:W2B-034#112:2>
+<it> Based on </it> <mention> The British Journal of Photography
+Annual 1966 </mention> </&> </box> </I>

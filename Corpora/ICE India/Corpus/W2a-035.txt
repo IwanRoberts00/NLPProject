@@ -1,0 +1,495 @@
+<I>
+
+<ICE-IND:W2A-035#1:1>
+<h> <bold> Studies on Emissions from an Integrated Aluminium Complex
+</bold> </h> <&> authors </&>
+
+<ICE-IND:W2A-035#2:1>
+<bold> Ashwini Sharma, C.S. Sunil Kumar, Pawan Kumar, V.P. Deshpande
+and S.D. Badrinath </bold>
+
+<ICE-IND:W2A-035#3:1>
+<it> National Environmental Engineering Research Institute, Nehru
+Marg, Nagpur </it> - 440 020 <&> <bold>
+
+<p> 
+<ICE-IND:W2A-035#4:1>
+Metallurgical industry has grown to be a major contributor to
+environmental pollution.
+
+<ICE-IND:W2A-035#5:1>
+Emissions from an aluminium smelter located in India were monitored to
+study the pollution problems created by the refining and smelting
+processes.
+
+<ICE-IND:W2A-035#6:1>
+<mention> <w> Bayer's </w> process for alumina production and
+Hall-Heroult process </mention> for smelting are in use in the plant
+selected for study.
+
+<ICE-IND:W2A-035#7:1>
+Keeping in view the manufacturing processes and various other
+factors, <mention> SPM, SO<sb>2</sb>, NO<sb>x</sb> and fluorides </mention>
+were selected as significant parameters for monitoring to establish the
+work zone air quality.
+
+<ICE-IND:W2A-035#8:1>
+Based on the strength and location of fugitive emission sources and
+meteorological parameters, 22 sampling stations were monitored within the
+complex. </p>
+
+<p> 
+<ICE-IND:W2A-035#9:1>
+The observations suggest need for better technology in the
+production of aluminium so as to minimize pollutant generation.
+
+<ICE-IND:W2A-035#10:1>
+In addition, use of pollution control measures, like <mention> ESPs
+</mention> and <mention> scrubbers </mention> and their proper maintenance
+and regular monitoring of air quality within the plant are required. </p>
+</bold> <&> in two columns </&> <&> column one </&>
+
+<ICE-IND:W2A-035#11:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-035#12:1>
+Metallurgical industrial activity is one of the most important
+examples of human ability to process, form, shape, treat and use various
+natural resources.
+
+<ICE-IND:W2A-035#13:1>
+Increase in metallurgical industrial activities in the past few
+decades has no doubt ensured economic development but certainly at the
+risk of environmental pollution.
+
+<ICE-IND:W2A-035#14:1>
+India has very large reserves of bauxite ore and aluminium industry
+is known to be one of the major polluting industries.
+
+<ICE-IND:W2A-035#15:1>
+Continous disposal of wastes creates a problem where nature no longer
+is able to disperse, absorb or dispose off unwanted residues in the natural
+sinks of the environment.
+
+<ICE-IND:W2A-035#16:1>
+This demands provision and efficient use of pollution control
+measures to minimise the adverse environmental impacts due to emissions
+from various unit opertions of aluminium industry.
+
+<ICE-IND:W2A-035#17:1>
+A number of processes are involved in the conversion of bauxite to
+finish aluminium.
+
+<ICE-IND:W2A-035#18:1>
+The major pollutants from any aluminium smelter include <mention>
+gaseous emissions </mention> , <mention> solid wastes </mention> , <mention>
+liquid effluents </mention> , <mention> dust </mention> , etc. </p>
+
+<p> 
+<ICE-IND:W2A-035#19:1>
+The molten cryolite bath used in smelting process has
+considerable vapour pressure thereby resulting in formation of aerosols which
+are partially hydrolysed to hydrogen fluoride.
+
+<ICE-IND:W2A-035#20:1>
+Particulate fluorides are also present in aerosols.
+
+<ICE-IND:W2A-035#21:1>
+<mention> Suspended particulate matter </mention> ( SPM) is
+another major pollutant observed to be present within the plant.
+
+<ICE-IND:W2A-035#22:1>
+SO<sb>2</sb> is also formed due to the oxidation of sulphur from the
+anode coke.
+
+<ICE-IND:W2A-035#23:1>
+Once fluorides are discharged into the atmosphere, their dispersal
+and continued suspension in or loss from atmosphere are influenced not only
+by meteorological conditions but also by their interaction with water
+vapour in the atmosphere.
+
+<ICE-IND:W2A-035#24:1>
+Effect of airborne fluorides on man, such as crippling fluorisis
+has been observed to result from long term exposures.
+
+<ICE-IND:W2A-035#25:1>
+The ingestion of fluoride by animals is likely to cause different
+types of specific lesions, lameness and appetite impairment resulting in
+decreased weight gain or diminished milk yield.
+
+<ICE-IND:W2A-035#26:1>
+Accumultation of fluorides in plants can cause changes in
+metabolism, production of foliar lesions and alteration in growth,
+development and yield. </p>
+
+<p> 
+<ICE-IND:W2A-035#27:1>
+Studies were carried out in an integrated aluminium complex with
+production capacity of 0.1 million tonne of aluminium and fabricated
+products per annum.
+
+<ICE-IND:W2A-035#28:1>
+The various units in the plant include <mention> smelter </mention> ,
+<mention> alloy foundry </mention> , <mention> rolling mills </mention> and
+<mention> carbon plant </mention> .
+
+<ICE-IND:W2A-035#29:1>
+In this paper, an attempt has been made to describe the approach to
+the problem along with the observations and suggested mitigative measures.
+</p>
+
+<ICE-IND:W2A-035#30:1>
+<h> <bold> PROCESS DETAILS </bold> </h>
+
+<p> 
+<ICE-IND:W2A-035#31:1>
+<mention> <w> Bayer's </w> process </mention> has been adopted by
+the industry for the production of refined alumina.
+
+<ICE-IND:W2A-035#32:1>
+The process involves crushing and grinding of the ore which is then
+made into a slurry by adding caustic soda; desilication followed by
+digestion.
+
+<ICE-IND:W2A-035#33:1>
+The alumina liquor obtained is filtered, precipitated and calcined to
+get alumina powder.
+
+<ICE-IND:W2A-035#34:1>
+<mention> Hall Heroult process </mention> is used for <O> <&> page
+</&> 561 </O> <O> table </O> <O> caption </O> conversion of alumina to
+aluminium.
+
+<ICE-IND:W2A-035#35:1>
+Vertical study Soderberg electrolytic cells are used for
+electrolysis/smelting.
+
+<ICE-IND:W2A-035#36:1>
+As part of air quality monitoring programme, <mention> SPM
+</mention> , SO<sb>2</sb>, NO<sb>2</sb> and total fluorides were monitored
+inside the aluminium complex keeping in view the manufacturing process and
+compliance parameters to identify sampling stations for work zone monitoring.
+
+<ICE-IND:W2A-035#37:1>
+After assessing the possible sources of pollutant emissions,
+following units were selected for monitoring : ( a) <mention> Smelter
+</mention> , ( b) <mention> G. M. smelter </mention> , ( c) <mention>
+Administrative building </mention> , ( d) <mention> Silos </mention> , ( e)
+<mention> Coal handling area </mention> , ( f) <mention> Lime storage and
+handling area </mention> , ( g) <mention> Caustic storage and handling area
+</mention> , ( h) <mention> Ball mill </mention> , ( i) <mention> Bauxite
+yard </mention> , ( j) <mention> Tippler site </mention> , and ( k) <mention>
+Engineering building </mention> . </p>
+
+<p> 
+<ICE-IND:W2A-035#38:1>
+The objective of air quality monitoring was multifold, and,
+therefore, number and height of monitoring stations at aforereferred sites
+were varied.
+
+<ICE-IND:W2A-035#39:1>
+In cell hours 8 parallel rows of cells are present.
+
+<ICE-IND:W2A-035#40:1>
+Fluoride is the major pollutant generated during cell house
+operations.
+
+<ICE-IND:W2A-035#41:1>
+Air quality monitoring in cell house was carried out to determine
+fugitive emission rates of SO<sb>2</sb>, NO<sb>2</sb>, SPM in general and
+fluoride in particular.
+
+<ICE-IND:W2A-035#42:1>
+Air quality moniotring was carried out on either side of smelters at
+1.2 m height and 6 m away from smelters, <O> <&> page </&> 562 </O> <O>
+figure 1, 2 & 3 </O> <O> captions </O> and some sampling stations were kept
+at 6 m, height near roof level.
+
+<ICE-IND:W2A-035#43:1>
+The detaile of air quality monitoring stations are depicted in
+figure 1. <mention> SPM </mention> was observed to be the major pollutant
+at <mention> silos </mention> , <mention> coal handling area </mention> ,
+<mention> lime storage and handling area </mention> , <mention> caustic
+storage and handling area </mention> , <mention> ball mill </mention> ,
+<mention> bauxite yard </mention> and <mention> tippler site </mention> and
+<mention> air monitoring at G.M. smelter building </mention> , <mention>
+administrative building </mention> and <mention> engineering building
+</mention> was carried out to determine air quality inside the plant
+premises. </p>
+
+<ICE-IND:W2A-035#44:1>
+<h> <bold> MATERIAL AND METHOD </bold> </h>
+
+<p> 
+<ICE-IND:W2A-035#45:1>
+Samples were analysed for total suspended matter, SO<sb>2</sb>,
+NO<sb>x</sb> and fluorides, Sampling was carried out at intervals of 4 hr for
+a period of 24 hr at each site and the samples were analysed immediately.
+
+<ICE-IND:W2A-035#46:1>
+The suspended particulata matter ( <mention> SPM </mention> ) was
+collected on preweighed Whatman glass fibre filter paper of <O> <&> page </&>
+563 </O> <O> table 2 </O> <O> caption </O> <O> graph ( figure 4) </O> <O>
+caption </O> <O> histogram ( figure 5) </O> <O> caption </O> 20.3 cm x 25.4
+cm size using high-volume air sampler.
+
+<ICE-IND:W2A-035#47:1>
+The flow rate was maintained between 1-1. 2 m<sp>2</sp>/min.
+
+<ICE-IND:W2A-035#48:1>
+Gravimetric method was used for estimation of <mention> SPM
+</mention> .
+
+<ICE-IND:W2A-035#49:1>
+The gases were collected by wet impingement method using midget
+impingers.
+
+<ICE-IND:W2A-035#50:1>
+<mention> West and Gaeke </mention> method was used for the analysis
+of sulphur dioxide, 0.1 M sodium tetrachloromercurate was kept in the
+impinger as the absorbing reagent and the gas was sucked into it at the rate
+of 1 lpm.
+
+<ICE-IND:W2A-035#51:1>
+The red-purple coloured para-rosaniline methyl sulphonic acid was
+measured at 560 nm. </p> <O> <&> page </&> 564 </O>
+
+<p> 
+<ICE-IND:W2A-035#52:1>
+Nitrogn oxides were measured using the method suggested by
+Jacobs and Hochheiser.
+
+<ICE-IND:W2A-035#53:1>
+0.1 M sodium hydroxide was used as the absorbing medium.
+
+<ICE-IND:W2A-035#54:1>
+The coloured complex formed was measured at 540 nm.
+
+<ICE-IND:W2A-035#55:1>
+Total fluoride was analysed by adsorbing the air in 0.1 M sodium
+hydroxide solution at a flow rate of 0.8 lpm.
+
+<ICE-IND:W2A-035#56:1>
+The pore diameter of the impinger was 1 mm.
+
+<ICE-IND:W2A-035#57:1>
+Fluoride and hydrogen fluoride were measured in the alkaline solution
+using Orion model 407 A pH / mv meter with fluoride selective electrode (
+Orion 94. 09 ) and single junction reference electrode ( Orion 90-91 ) .
+
+<ICE-IND:W2A-035#58:1>
+<mention> TISAB <roman> 3 </roman> </mention> was used as the buffer
+and the complexing reagent to remove any interfering ions present.
+
+<ICE-IND:W2A-035#59:1>
+Analysis of particulate fluorides was carried out by extracting
+water soluble particulate matter collected on filter paper after weighing
+the <mention> SPM </mention> .
+
+<ICE-IND:W2A-035#60:1>
+Further analysis was similar to that of total fluoride.
+
+<ICE-IND:W2A-035#61:1>
+Determination was carried out in the blank simultanously to assess
+the possible presence of any fluoride in GF/ A paper. </p>
+
+<ICE-IND:W2A-035#62:1>
+<h> <bold> RESULT AND DISCUSSION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-035#63:1>
+The sampling sites were selected to study the air quality in the
+work environment of an aluminium plant, the various pollutants present and
+the sources.
+
+<ICE-IND:W2A-035#64:1>
+Taking into account the production activities of the complex,
+<mention> SPM </mention> , NO<sb>x</sb>, SO<sb>2</sb> and fluorides were
+identified as significant pollutants.
+
+<ICE-IND:W2A-035#65:1>
+Smelter is the main source of pollution in the aluminium plant.
+
+<ICE-IND:W2A-035#66:1>
+Cryolite, which is used in the cell at a temperatures of 900 <*>
+degrees</*>C and above is the primary source of fluoride in the workzone
+atmosphere.
+
+<ICE-IND:W2A-035#67:1>
+Ruptures in the electrolytic cell may lead to the escape of HF and
+particulate fluorides.
+
+<ICE-IND:W2A-035#68:1>
+Coke is used in the anode which might be a source of SO<sb>2</sb> and
+NO<sb>x</sb>.
+
+<ICE-IND:W2A-035#69:1>
+Dust is another pollutant in the cell house.
+
+<ICE-IND:W2A-035#70:1>
+<mention> Alumina powder </mention> , <mention> cryolite </mention> ,
+and <mention> CaF<sb>2</sb> </mention> are fed to the cells.
+
+<ICE-IND:W2A-035#71:1>
+These may escape into the air due to wind action and vehicular
+movement, etc.
+
+<ICE-IND:W2A-035#72:1>
+Steam plant provided with 3 high pressure boilers and one low
+pressure is the major source of SO<sb>2</sb> and dust emissions.
+
+<ICE-IND:W2A-035#73:1>
+The observed concentrations of various pollutants at the cell house
+and work zone are reported in tables 1 and 2, respectively. </p>
+
+<p> 
+<ICE-IND:W2A-035#74:1>
+Maximum average <mention> SPM </mention> concentration was
+observed near the tippler because of the unloading operations of
+bauxite ore from the railway wagons and transportation through conveyer belt.
+
+<ICE-IND:W2A-035#75:1>
+The Ball Mill area also recorded high concentration of <mention> SPM
+</mention> because of ore crushing and grinding operations.
+
+<ICE-IND:W2A-035#76:1>
+High dust concentration in the cell house is due to the use of
+alumina and cryolite powder in the process.
+
+<ICE-IND:W2A-035#77:1>
+A higher concentration has been observed at roof level than at ground
+level of cell house.
+
+<ICE-IND:W2A-035#78:1>
+A minimum <mention> SPM </mention> concentration of 173 <*>
+mu</*>g / m<sp>3</sp> ( average ) was observed in the G.M. smelter.
+
+<ICE-IND:W2A-035#79:1>
+The <mention> SPM </mention> concentration was found to vary at
+different parts of the day.
+
+<ICE-IND:W2A-035#80:1>
+The concentration of <mention> SPM </mention> at the cell house was
+found to vary at different locations and with time ( Figure 2 ) .
+
+<ICE-IND:W2A-035#81:1>
+The concentration of sulphur dioxide was observed to be higher in
+the cell house area as compared to other locations.
+
+<ICE-IND:W2A-035#82:1>
+A maximum concentration of 457 <*> mu</*>g / m<sp>2</sp> was measured
+near one of the cells.
+
+<ICE-IND:W2A-035#83:1>
+SO<sb>2</sb> is produced due to the oxidation of sulphur in coke and
+other fuels.
+
+<ICE-IND:W2A-035#84:1>
+A minimum concentration of 6 <*> mu</*>g / m<sp>3</sp> was
+recorded in the Ball mill area.
+
+<ICE-IND:W2A-035#85:1>
+This sampling point was the farthest point from the smelter and,
+therefore, recorded a very low SO<sb>2</sb> concentration.
+
+<ICE-IND:W2A-035#86:1>
+In the cell house, higher concentration was observed at roof
+height than at ground level ( Figure 3 ) .
+
+<ICE-IND:W2A-035#87:1>
+The concentration showed considerable temporal and spatial
+distribution and different concentration were recorded on either side of the
+cell ( Figure 4 ) . </p>
+
+<p> 
+<ICE-IND:W2A-035#88:1>
+Dxides of nitrogen, mainly nitric oxide and nitrogen dioxide are
+the other pollutants also monitored within the plant premises.
+
+<ICE-IND:W2A-035#89:1>
+Higher concentration of NO<sb>4</sb> was observed in the cell house,
+as also in the coal handling area.
+
+<ICE-IND:W2A-035#90:1>
+Cell house is the primary source of fluoride in the workzone
+atmosphere.
+
+<ICE-IND:W2A-035#91:1>
+It can be observed from table 1 and figure 5 that higher
+concentrations of total and particulate fluorides are recorded in the cell
+house.
+
+<ICE-IND:W2A-035#92:1>
+The concentration showed decreasing trend as the distance from
+smelter increased.
+
+<ICE-IND:W2A-035#93:1>
+The gaseous fluoride concentration in cell house varied in the
+range of 43-1983 <*> mu</*>g / m<sp>3</sp>.
+
+<ICE-IND:W2A-035#94:1>
+Fluoride concentrations were observed to be more in inner / rows
+in comparison to those recorded near outer rows.
+
+<ICE-IND:W2A-035#95:1>
+Higher concentrations wre observed at roof level air monitoring
+stations.
+
+<ICE-IND:W2A-035#96:1>
+Fluoride concentration in suspended particulate matter extracted
+from filter paper varied in the range of 42-820 <*> mu</*>g / m<sp>3</sp>.
+
+<ICE-IND:W2A-035#97:1>
+At some of the monitoring stations, particulate fluoride
+concentrations were observed to be higher than the gaseous fluoride
+concentrations.
+
+<ICE-IND:W2A-035#98:1>
+The higher concentration of fluoride may be due to rupture in
+electrolytic cells. </p>
+
+<ICE-IND:W2A-035#99:1>
+<h> <bold> CONCLUSION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-035#100:1>
+It was observed during the study that gaseous pollutants
+escape into the atmosphere due to rupture in <O> <&> page </&> 565 </O>
+electrolytic cells resdulting in very high concentration of gaseous and
+particulate fluorides.
+
+<ICE-IND:W2A-035#101:1>
+In addition other pollutants were also observed to be emitted
+from cell house.
+
+<ICE-IND:W2A-035#102:1>
+Average fluoride concentrations at other monitoring stations were
+found to be comparatively less.
+
+<ICE-IND:W2A-035#103:1>
+Interestingly, particulate fluoride concentrations were observed
+to be comparatively less at monitoring stations other than the cell house.
+
+<ICE-IND:W2A-035#104:1>
+SPM concentrations recorded as high as 7771 <*> mu</*>g /
+m<sp>3</sp> in lime area indicate higher source strength.
+
+<ICE-IND:W2A-035#105:1>
+It was observed that the pollutant concentrations are very much less
+at administration building, G.M. Smelter building and engineering building
+as these monitoring stations were located far from air pollution sources
+and the observations were taken on building roof tops.
+
+<ICE-IND:W2A-035#106:1>
+These observations indicate need for efficient collection of gaseous
+pollutants in fume hoods, use of precipiators and scrubing before
+discharging into the atmosphere through stacks.
+
+<ICE-IND:W2A-035#107:1>
+Both wet and dry scrubbing help in efficient fume control.
+
+<ICE-IND:W2A-035#108:1>
+Effective house keeping is essential to reduce the pollutant
+concentration in the work area and above all it demands proper operation and
+maintenance. </p> </I>

@@ -1,0 +1,93 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-007</textcode>
+            <number.of.subtexts>2</number.of.subtexts>
+            <category>printed:informational:popular:
+              humanities</category>
+            <wordcount>2897</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+            <subtext.source=W2B-007(1)>
+            <source.type=newspaper>
+            <source.title>Deccan Herald</source.title>
+            <source.subtitle>Sunday Herald</source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>The Printers (Mysore) Ltd.</publisher>
+            <address>Deccan Herald Press, 66, M. G. Rd.
+              Bangalore-560001</address>
+            <place>Bangalore</place>
+            <date>14-10-90</date>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of The
+             Printers (Mysore) Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-007(1)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Harping on many strings</main.title>
+            <subtitle></subtitle>
+            <page.nos>1</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-007(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Sastry</surname>
+                <forenames>B.V.K.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+        <subtext.source=W2B-007(2)>
+        <source.type=newspaper>
+            <source.title>Deccan Herald</source.title>
+            <source.subtitle>Sunday Herald</source.subtitle>
+            <series>Weekly</series>
+        <publication.statement>
+            <publisher>The Printers (Mysore) Ltd.</publisher>
+            <address>Deccan Herald Press, 66, M. G. Rd.
+               Bangalore-560001</address>
+            <place>Bangalore</place>
+            <date>09-09-90</date>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of The
+             Printers (Mysore) Ltd.</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-007(2)</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Puppets on a string</main.title>
+            <subtitle></subtitle>
+            <page.nos>7</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-007(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Gurpur</surname>
+                <forenames>R.P.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

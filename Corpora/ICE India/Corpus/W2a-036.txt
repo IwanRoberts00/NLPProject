@@ -1,0 +1,479 @@
+<I>
+
+<ICE-IND:W2A-036#1:1>
+<h> <bold> Application of Modified Sand and Other Siliceous Materials
+in Water and Wastewater Treatment </bold> </h> <&> author </&>
+
+<ICE-IND:W2A-036#2:1>
+M. Mansoor Ahammed
+
+<ICE-IND:W2A-036#3:1>
+<it> Indian Institute of Technology, Environmental Engineering
+Laboratory, Department of Civil Engineering, Kanpur </it> - 208 016
+
+<p> 
+<ICE-IND:W2A-036#4:1>
+<bold> Sand is universally used as a filter medium in the
+production of potable water.
+
+<ICE-IND:W2A-036#5:1>
+Slow sand filtration has been used in <mention> water treatment
+</mention> in Europe since 1829.
+
+<ICE-IND:W2A-036#6:1>
+<mention> Sand filtration </mention> has proven to be an effective
+process for the removal of microorganisms during one and half centuries of
+use.
+
+<ICE-IND:W2A-036#7:1>
+Attempts have been made to modify sand by precipitation of chemicals,
+such as <mention> metallic hydroxide </mention> on it and to use it for the
+removal of various contaminants from <mention> water </mention> and <mention>
+wastewater </mention> .
+
+<ICE-IND:W2A-036#8:1>
+<mention> Diatomaceous earth </mention> which has been used on a
+limited scale in <mention> potable water treatment </mention> but widely in
+<mention> industrial water processing </mention> has also been similarly
+modified.
+
+<ICE-IND:W2A-036#9:1>
+This paper reviews the available information on the application of
+modified sand and diatomaceous earth in the removal and recovery of heavy
+metals from <mention> industrial effluents </mention> , <mention> removal of
+microoorganisms </mention> from water, and <mention> removal of arsenic
+and manganese </mention> from ground water.
+
+<ICE-IND:W2A-036#10:1>
+<mention> Microbiological purification efficiency of slow sand and
+diatomaceous earth filters </mention> has also been discussed.
+
+<ICE-IND:W2A-036#11:1>
+Some of the mechanisms involved in the removal of various
+contaminants are also presented. </bold> </p> <&> in two columns </&> <&>
+column one </&>
+
+<ICE-IND:W2A-036#12:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-036#13:1>
+Developed in England, slow sand filtration has been used for
+treating drinking water from the beginning of the nineteenth century.
+
+<ICE-IND:W2A-036#14:1>
+It has been proven to be an effective process for the removal of
+microorganisms if operated under proper conditions.
+
+<ICE-IND:W2A-036#15:1>
+Even though the most commonly used method of filtration now a days is
+<mention> rapid sand filtration </mention> in which water moves down at a
+much greater rate than in slow sand filtration, high construction cost and
+maintenance requirements make it unsuitable for application in rural areas of
+developing countries.
+
+<ICE-IND:W2A-036#16:1>
+Considerable pretreatment, namely <mention> coagulation-sedimentation
+</mention> is necessary for a rapid sand filter for effective
+purification.
+
+<ICE-IND:W2A-036#17:1>
+Though sand filtration is effective in the removal of particulates
+including microorganisms, it is not efficient in removing other contaminants
+from water.
+
+<ICE-IND:W2A-036#18:1>
+Recently, attempts have been made to modify sand siliceous materials,
+like <mention> diatomaceous earth </mention> by coating it with different
+chemicals, such as <mention> metal hydroxides </mention> and to use the
+modified materials in the removal of various contaminats from <mention> water
+</mention> and <mention> wastewater </mention> .
+
+<ICE-IND:W2A-036#19:1>
+This paper briefly reviews the research on <mention> slow sand
+</mention> and <mention> diatomaceous earth filtration </mention> , and
+discusses the results of recent investigations on the application of
+<mention> modified sand </mention> and other <mention> siliceous materials in
+water </mention> and <mention> wastewater treatment </mention> . </p>
+
+<ICE-IND:W2A-036#20:1>
+<h> <bold> REMOVAL OF MICROORGANISMS BY SLOW SAND FILTRATION </bold>
+</h>
+
+<p> 
+<ICE-IND:W2A-036#21:1>
+In slow sand filtration, uncoagulated water is applied to a
+sand bed of about 1 m deep at a filtration rate of 0.1 m / hr.
+
+<ICE-IND:W2A-036#22:1>
+Impurities in water are removed by a combination of <mention>
+processes-sedimentation </mention> , <mention> straining </mention> ,
+<mention> adsorption </mention> and <mention> biological action </mention> .
+
+<ICE-IND:W2A-036#23:1>
+During the first few days, water is purified mainly by mechanical
+and physical processes.
+
+<ICE-IND:W2A-036#24:1>
+The resulting accumulation of sediments and organic growth forms a
+biologically active scum layer ( schmutzdecke ) on the sand surface.
+
+<ICE-IND:W2A-036#25:1>
+As the water enters the schmutzecke, biological action breaks down
+some of the organic matter.
+
+<ICE-IND:W2A-036#26:1>
+Impurities carried deeper into the filter bed come into contact with
+and become attached to sand grains, and the sand particles become covered
+with a thin layer of organic materials and microorganisms which in turn
+adsorbs the impurities.
+
+<ICE-IND:W2A-036#27:1>
+When the resistance in the filter skin increases, filtration
+capacity can be restored by draining off the supernatant water and
+removing the top 1 - 2 cm of the sand bed including the schmutzdecke. </p>
+
+<p> 
+<ICE-IND:W2A-036#28:1>
+<mention> Slow sand filtration </mention> has proven to be an
+effective process in the removal of various microorganisms, if operated
+correctly.
+
+<ICE-IND:W2A-036#29:1>
+Most of the studies <O> <&> page </&> 582 </O> showed more than
+99.0 % removal of coliform bacteria.
+
+<ICE-IND:W2A-036#30:1>
+Uncertainty exists about the role of schmutzdecke in bacterial
+removal.
+
+<ICE-IND:W2A-036#31:1>
+While most of the studies showed a decrease in bacterial removal
+after the removal of schmutzdecke, Cullen and Letterman ( 1985 ) did not
+notice any effect of filter ripening on the bacterial removal while
+evaluating municipal slow sand filters.
+
+<ICE-IND:W2A-036#32:1>
+Datta and Chaudhuri ( 1991 ) observed that a mature filter was
+well-populated throughout with active microorganisms, with its maximum in
+the top 20 - 25 cm layer.
+
+<ICE-IND:W2A-036#33:1>
+Virus removal by slow sand filtration has been evaluated by many
+researchers.
+
+<ICE-IND:W2A-036#34:1>
+Poynter and Slade ( 1977 ) found that <it> <mention> Escherichia coli
+</mention> </it> removals were similar to or slightly less than poliovirus
+removals.
+
+<ICE-IND:W2A-036#35:1>
+The mechanism of virus removal by <mention> slow sand filtration
+</mention> is not clearly resolved.
+
+<ICE-IND:W2A-036#36:1>
+Robeck <it> et al. </it> ( 1962 ) reported that removal of
+poliovirus by <mention> clean sand beds </mention> was not significant which
+suggests that adsorption did not account for most of the virus removal
+accomplished in a slow sand filter.
+
+<ICE-IND:W2A-036#37:1>
+On the other hand, McConnell <it> et al. </it> ( 1984 ) did not find
+any effects related to the ripening of the sand bed.
+
+<ICE-IND:W2A-036#38:1>
+They reported that influent reovirus, concentrations were reduced
+by greater than 5 log units in a slow sand filter having either clean sand
+or aged sand.
+
+<ICE-IND:W2A-036#39:1>
+This suggests that microbiological actions may not necessarily be
+responsible for observed virus inactivation in the sand bed and that
+virus may adsorb onto sand very readily. </p>
+
+<ICE-IND:W2A-036#40:1>
+<h> <bold> REMOVAL OF MICROORGANISM BY DIATOMACEOUS EARTH
+FILTRATION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-036#41:1>
+<mention> Diatomaceous earth filtration </mention> was developed
+during the second world war primarily to ensure complete removal of <it>
+<mention> Endamoeba histolytica cysts </mention> </it> .
+
+<ICE-IND:W2A-036#42:1>
+A number of studies have been reported on the effectiveness of
+<mention> diatomaceous earth filtration </mention> in the removal of
+bacteria, virus and <it> Giardia </it> cysts.
+
+<ICE-IND:W2A-036#43:1>
+Lange <it> et al. </it> ( 1936 ) evaluated <it> Giardia </it> cysts
+removal by diato maceous earth filtration.
+
+<ICE-IND:W2A-036#44:1>
+They operated a diatomaceous earth test filter at different flow
+rates over a temperature range of 3 to 15 <*> degrees</*>C and with different
+particle size distribution of diatomaceous earth.
+
+<ICE-IND:W2A-036#45:1>
+<it> Giardia </it> cyst removal always exceeded 99 % and exceeded
+99.9 % in 50 % of the runs.
+
+<ICE-IND:W2A-036#46:1>
+Schuler <it> et al. </it> ( 1991 ) reported that diatomaceous
+earth filtration can be expected to remove 100 % of <it> Giardia </it> cysts.
+
+<ICE-IND:W2A-036#47:1>
+Lange <it> et al. </it> ( 1986 ) evaluated removal of coliform
+bacteria by diatomaceous earth filtration.
+
+<ICE-IND:W2A-036#48:1>
+Removal varied with the grade used, ranging from 30 to 70 %.
+
+<ICE-IND:W2A-036#49:1>
+Schuler <it> et al. </it> ( 1991 ) reported that removal of coliform
+bacteria was profoundly affected by the grade of diatomaceous earth used.
+
+<ICE-IND:W2A-036#50:1>
+Coarse grades obtained removals between 0 and 57 %.
+
+<ICE-IND:W2A-036#51:1>
+Removal in excess of 99 % could be obtained when a finer grade of
+diatomaceous earth was used. </p>
+
+<p> 
+<ICE-IND:W2A-036#52:1>
+Brown <it> et al. </it> ( 1974 ) evaluated removal of viruses
+using <mention> bacateriophage T2 </mention> and poliovirsus by <mention>
+diatomaceous earth filtration </mention> .
+
+<ICE-IND:W2A-036#53:1>
+They observed average bacteriophage removals in the range of
+73-100 % depending on the grade used.
+
+<ICE-IND:W2A-036#54:1>
+Finer filter grades were more effective.
+
+<ICE-IND:W2A-036#55:1>
+Poliovirus removal ranged from 60 to 100 %.
+
+<ICE-IND:W2A-036#56:1>
+They concluded that diatomaceous earth filtration can reduce the
+concentration of viruses in water; but the most effective technique
+requires either conditioning of the raw water or conditioning of the
+diatomaceous earth to enhance virus attachemnt to the diatomaceous
+earth during filtration.
+
+<ICE-IND:W2A-036#57:1>
+Chaudhuri <it> et al. </it> ( 1974 ) observed that there was little,
+if any, removal of bacteriophages by filtration through diatomaceous
+earth.
+
+<ICE-IND:W2A-036#58:1>
+However, filtration through diatomaceous earth coated with
+cationic polyelectrolyte resulted in significant virus removal.
+
+<ICE-IND:W2A-036#59:1>
+They also found that the efficiency of virus removal was affected by
+several variables, like pH, type of diatomaceous earth, turbidity and
+filtration rate.
+
+<ICE-IND:W2A-036#60:1>
+From the above, it is clear that diatomaceous earth filtration has
+the capacity to remove a variety of microorganisms.
+
+<ICE-IND:W2A-036#61:1>
+It is most effective when microorganisms are in the size range of
+<it> Giardia </it> or <it> E. histolytica </it> cysts.
+
+<ICE-IND:W2A-036#62:1>
+Smaller organisms may also be removed, however, if the removal
+mechanisms is straining, the diatomaceous paraticle size must be finer as the
+size of target organism decreases.
+
+<ICE-IND:W2A-036#63:1>
+If this surface attachment is the removal mechanism, coarse grades of
+diatomaceous earth can be coated with metallic hydroxide flocs.
+
+<ICE-IND:W2A-036#64:1>
+The resulting positively charged diatomaceous earth can remove
+microorganisms by surface attachment. </p>
+
+<ICE-IND:W2A-036#65:1>
+<h> <bold> VIRUS REMOVAL USING METAL HYDROXIDE COATED DIATOMACEOUS
+EARTH </bold> </h>
+
+<p> 
+<ICE-IND:W2A-036#66:1>
+The ability of metallic hydroxides to adsorb viruses in water has
+led to efforts to use such precipitates in flowthrough systems.
+
+<ICE-IND:W2A-036#67:1>
+But poor adhesion of the precipitate to the filter material and
+clogging have been encountered in using insoluble metallic hydrodixe
+flocs in conjuction with filter supports ( Farrah <O> <&> page </&> 583 </O>
+<it> et al., </it> 1991 ) .
+
+<ICE-IND:W2A-036#68:1>
+To overcome these difficulties, Farrah <it> et al. </it> ( 1991 )
+modified diatomaceous earth by <it> <foreign> in situ </foreign> </it>
+precipitation of metallic hydroxides, such as aluminium, calcium, iron or
+magnesium and used it for removal and recovery of viruses from water.
+
+<ICE-IND:W2A-036#69:1>
+The modification decreased the negative charge on the diatomaceous
+earth and increased its ability to adsorb viruses in water.
+
+<ICE-IND:W2A-036#70:1>
+Filter containing diatomaceous earth modified by <it> in situ
+</it> precipitation of iron and aluminium adsorbed greater than 80 % of
+enteroviruses ( poliovirus 1, echovirus 5 and coxsackievirus B5) and
+coliphage MS2 present in tapwater at ambient pH ( 7.8 - 8.3 ) , even after
+filtration of 100 lit of tapwater.
+
+<ICE-IND:W2A-036#71:1>
+Electrostatic interactions were found to be more important than
+hydrophobic interaction in virus adsorption to modified diatomaceous
+earth.
+
+<ICE-IND:W2A-036#72:1>
+In another study, Farrah and Preston ( 1991 ) coated diatomaceous
+earth with magnesium peroxide and used this medium for adsorbing
+viruses from water.
+
+<ICE-IND:W2A-036#73:1>
+Filters containing 3.5 g of diatomaceous earth adsorbed an average of
+greater than 90 % of <mention> MS2 </mention> , poliovirus 1 and
+coxsackievirus B5 in tapwater at approximately pH 8.5 even after
+filtration of 100 lit of tapwater through the filter. </p>
+
+<ICE-IND:W2A-036#74:1>
+<h> <bold> ARSENIC REMOVAL BY SAND FILTRATION </bold> </h>
+
+<p> 
+<ICE-IND:W2A-036#75:1>
+Excess arsenic in groundwater has been reported from different
+parts of the country.
+
+<ICE-IND:W2A-036#76:1>
+Recent discovery of arsenic as carcinogens has added new dimension
+to the established health effects, such as gastrointestinal damage due to
+arsenic.
+
+<ICE-IND:W2A-036#77:1>
+The conventional methods of arsenic removal, such as precipitation,
+adsorption and ion exchange are not suitable for application in villages as
+these processes are cost- and energy-intensive, and require skilled
+operation and maintenance.
+
+<ICE-IND:W2A-036#78:1>
+In view of this, Guha and Chaudhuri ( 1991 ) conducted studies to
+develop low-cost point-of-use treatment devices for use in rural areas of
+developing countries, like India.
+
+<ICE-IND:W2A-036#79:1>
+They conducted laboratory studies employing <mention> As ( <roman> 3
+</roman> ) - spiked groundwater </mention> to screen sorbent, such as
+bituminous coal, lignite, crushes coconut shell, illite, kaolinite, rice
+husk, flyash, charcoal and sand.
+
+<ICE-IND:W2A-036#80:1>
+Based on batch and short-term column studies, sand emerged as the
+most potentially useful medium.
+
+<ICE-IND:W2A-036#81:1>
+Sand was more effective in arsenic removal above pH 7.0.
+
+<ICE-IND:W2A-036#82:1>
+In long duration column study ( sand depth 90 cm, flow rate 0.12 m/
+hr, and influent arsenic concentration 1.0 mg / lit ) , sand produced
+effluent arsenic level below the WHO guideline value for drinking water (
+0.05 mg / l ) for 32 hr.
+
+<ICE-IND:W2A-036#83:1>
+Among the different regenerant tested, 0.2 N NaOH was observed to be
+most suitable.
+
+<ICE-IND:W2A-036#84:1>
+Vaishya and Agarwal ( 1993 ) also employed sand as sorption medium
+for treating ground water containing low level of <mention> As ( <roman>
+3</roman>) </mention> .
+
+<ICE-IND:W2A-036#85:1>
+In batch experiments conducted at As ( III) concentrations of 0.1
+- 1.6 mg / l at different sand doses of 5 - 40 g / l, the maximum removal was
+observed to be 0.024 mg / g of sand. </p>
+
+<ICE-IND:W2A-036#86:1>
+<h> <bold> SILVER COATED-SAND FOR DOMESTIC WATER FILTER </bold>
+</h>
+
+<p> 
+<ICE-IND:W2A-036#87:1>
+Silver which is known for its bacteriostatic and bactericidal
+properties has also been coated on sand.
+
+<ICE-IND:W2A-036#88:1>
+The Karachi laboratories of the <mention> Pakistan Council of
+Scientific and Industrial Research </mention> ( PCSIR, 1985 ) developed
+and tested several silver-based devices for the treatment of potable water in
+the developing countries.
+
+<ICE-IND:W2A-036#89:1>
+The one most suitable for use in rural settings consists of nylon
+bags with silver-coated sand.
+
+<ICE-IND:W2A-036#90:1>
+Preliminary test with <it> <mention> Salmonelle typha </mention> ,
+<mention> Escherichia coli </mention> , <mention> Shigella dysenteriae
+</mention> </it> and <it> <mention> Staphylococcus spp. </mention> </it> have
+indicated that there is a 90 % decrease in number of viable bacteria when
+samples of experimentally contaminated water are filtered through the bags
+at a flow rate of 1 l / min </p>
+
+<ICE-IND:W2A-036#91:1>
+<h> <bold> IRON OXIDE-COATED SAND FOR REMOVAL AND RECOVERY OF HEAVY
+METALS FROM WASTEWATER </bold> </h>
+
+<p> 
+<ICE-IND:W2A-036#92:1>
+Amorphous iron oxide ( ferrihydrite ) is an excellent regenerable
+adsorbent.
+
+<ICE-IND:W2A-036#93:1>
+Studies have shown that ferrihydrite can remove copper, cadmium,
+zinc, nickle and chromium from metal-plating wastes to levels lower than
+that attainable by precipitation ( Edwards and Benjamin, 1989a ) .
+
+<ICE-IND:W2A-036#94:1>
+Ferrihydrite is formed inconventional metal plating waste
+treatment by precipitation of iron salts, which are often added to help
+coagulate precipitated metal hydroxides.
+
+<ICE-IND:W2A-036#95:1>
+Metal removal by adsorption onto ferrihydrite is an important side
+benefit of this practice.
+
+<ICE-IND:W2A-036#96:1>
+Since adsorption is not effective when large quantities of adsorbent
+are present, a higher coagulant dose will improve treatment efficiency in
+most cases.
+
+<ICE-IND:W2A-036#97:1>
+However, increasing the ferrihydrite concentration leads to a
+corresponding increase in the sludge mass which adds substantially to the
+cost of sludge disposal.
+
+<ICE-IND:W2A-036#98:1>
+To overcome this drawback, Edwards and Benjamin ( 1989b ) developed
+methods of coating sand with iron oxide to produce an adsorbent with greater
+flexibility of application, combining the advantages <O> <&> page </&> 584
+</O> of adsorption and filtration processes.
+
+<ICE-IND:W2A-036#99:1>
+Depending on the solution pH, iron oxide-coated sand can adsorb
+either cationic or anionic metals at alkaline and acidic pH, respectively.
+
+<ICE-IND:W2A-036#100:1>
+Complexed and particulate forms of metals can also be efficiently
+removed. </p> </I>

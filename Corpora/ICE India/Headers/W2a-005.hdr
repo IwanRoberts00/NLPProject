@@ -1,0 +1,56 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-005</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              humanities</category>
+            <wordcount>2394</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-005>
+        <source.type=periodical>
+            <source.title>Shivaji University History Teachers'
+              Association</source.title>
+            <source.subtitle>Research Journal (in
+              Hindi)</source.subtitle>
+            <series>Vol.1,2 & 3</series>
+        <publication.statement>
+            <publisher></publisher>
+            <address>Dept: of History, Shivaji University,
+              Kolhapur-416004</address>
+            <place>Kolhapur</place>
+            <date>February 1996</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-005</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>A Study of Feminist Movement in post-war
+              America</main.title>
+            <subtitle></subtitle>
+            <page.nos>65-69</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-005</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Patil</surname>
+                <forenames>Madhao</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

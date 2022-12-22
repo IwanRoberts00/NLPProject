@@ -1,0 +1,120 @@
+<text.info>
+       <file.description>
+                 <textcode>ICE-IND-W1A-004</textcode>
+                 <number.of.subtexts>003</number.of.subtexts>
+                 <category>non-printed:non-professional
+                   writing:student untimed essays</category>
+                 <wordcount>2199</wordcount>
+                 <version>lexical</version>
+                 <free.comments></free.comments>
+       </file.description>
+       <subtext.source=W1A-004(1)>
+           <source.type=student essay>
+                <main.title>Freedom of Press</main.title>
+                <course>pre-I.A.S</course>
+                <subject>I.A.S.</subject>
+                <institution></institution>
+                <year>1995</year>
+                <date>11-02-95</date>
+           <copyright.statement>reproduced by permission of
+                respective student</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-004(1)</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-004(1)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Pathe</surname>
+                <forenames>Anjali V.</forenames>
+                <age>18-25</age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level>L.L.B.</educational.level>
+                <occupation>student</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Kannada</mother.tongue>
+                <other.languages>Marathi</other.languages>
+                <free.comments></free.comments>
+       </biography>
+       <subtext.source=W1A-004(2)>
+           <source.type=student essay>
+                <main.title>Should Mother Go To Work</main.title>
+                <course>pre-I.A.S</course>
+                <subject>I.A.S.</subject>
+                <institution></institution>
+                <year>1995</year>
+                <date>11-02-95</date>
+           <copyright.statement>reproduced by permission of
+                respective student</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-004(2)</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-004(2)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Deogaonkar</surname>
+                <forenames>Ashwini A.</forenames>
+                <age>18-25</age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level>B.Sc</educational.level>
+                <occupation>student</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Kannada</mother.tongue>
+                <other.languages>Marathi</other.languages>
+                <free.comments></free.comments>
+       </biography>
+       <subtext.source=W1A-004(3)>
+           <source.type=student essay>
+                <main.title>Impact of Science on Human
+                  Life</main.title>
+                <course>pre-I.A.S</course>
+                <subject>I.A.S.</subject>
+                <institution></institution>
+                <year>1995</year>
+                <date>11-02-95</date>
+           <copyright.statement>reproduced by permission of
+                respective student</copyright.statement>
+           <free.comments></free.comments>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-W1A-004(3)</it>>
+           <subtext.name>ICE-IND-</subtext.name>
+            <main.title></main.title>
+            <subtitle></subtitle>
+            <page.nos></page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-W1A-004(3)</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Dade</surname>
+                <forenames>D.G.</forenames>
+                <age>18-25</age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level>M.Com</educational.level>
+                <occupation>student</occupation>
+                <affiliations></affiliations>
+                <mother.tongue>Marathi</mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+       </biography>
+</text.info>

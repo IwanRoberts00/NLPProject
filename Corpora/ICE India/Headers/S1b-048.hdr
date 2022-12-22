@@ -1,0 +1,70 @@
+<text.info>
+       <file.description>
+              <textcode>ICE-IND-S1B-048</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>Dialogue:Public:broadcast
+                   interviews</category>
+              <wordcount>2228</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+       </file.description>
+       <subtext.source=S1B-048>
+       <recording.data>
+              <channel>Doordarshan</channel>
+              <address></address>
+              <tv.or.radio>tv</tv.or.radio>
+              <source.title></source.title>
+              <source.subtitle></source.subtitle>  
+              <date>29-05-91</date>
+              <time>8.00am</time>
+       </recording.data>
+              <copyright.statement>Blanket permission from
+                   Doordarshan under section 39 of Copyright Act,
+                   1957 and Copyright Rules, 1958
+                   respectively</copyright.statement>
+              <free.comments></free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=<it>ICE-IND-S1B-048</it>>
+              <subtext.name>ICE-IND-S1B-048</subtext.name>
+              <communicative.situation>interviews
+                   </communicative.situation>
+              <no.of.participants>2</no.of.participants>
+              <relationship>equals</relationship>
+              <audience.size></audience.size>
+              <free.comments></free.comments>
+       </subtext.internals>
+       <biography=<it>ICE-IND-S1B-048</it>>
+              <speaker.id>A</speaker.id>
+              <communicative.role>Interviewer
+                   </communicative.role>
+              <surname>Bose</surname>
+              <forenames>Anima</forenames>
+              <age>50</age>
+              <gender>female</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education></education>
+              <occupation></occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Bengali</mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+       <biography=<it>ICE-IND-S1B-048</it>>
+              <speaker.id>B</speaker.id>
+              <communicative.role></communicative.role>
+              <surname></surname>
+              <forenames>Mahasveta Devi</forenames>
+              <age>55+</age>
+              <gender>female</gender>
+              <nationality>Indian</nationality>
+              <birthplace></birthplace>
+              <education>MA (English)</education>
+              <occupation>Writer</occupation>
+              <affiliations></affiliations>
+              <mother.tongue>Bengali</mother.tongue>
+              <other.languages></other.languages>
+              <free.comments></free.comments>
+       </biography>
+</text.info>

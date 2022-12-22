@@ -1,0 +1,53 @@
+<text.info>
+     <file.description>
+              <textcode>ICE-IND-W2D-005</textcode>
+              <number.of.subtexts>1</number.of.subtexts>
+              <category>printed:instructional:
+                administrative/regulatory</category>
+              <wordcount>2415</wordcount>
+              <version>lexical</version>
+              <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2D-005>
+            <source.type=monograph>
+            <source.title>Indian Journal of Public
+              Administration</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol-40, No-3</series>
+     <publication.statement>
+            <publisher></publisher>
+            <address></address>
+            <place></place>
+            <date>1994</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of author &
+            publisher</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2D-005</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Rule Of Law And The Judicial
+                   Process: Some Emerging Concerns</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>345-351</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2D-005</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Menon</surname>
+                <forenames>N. R. Madhava</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

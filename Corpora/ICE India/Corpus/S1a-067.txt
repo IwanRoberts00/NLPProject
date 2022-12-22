@@ -1,0 +1,1165 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-067#1:1:A>
+Hello <,>
+
+<$B> 
+<ICE-IND:S1A-067#2:1:B>
+Hello <,,> good morning sir <,>
+
+<$A> 
+<ICE-IND:S1A-067#3:1:A>
+Good morning <,>
+
+<$B> 
+<ICE-IND:S1A-067#4:1:B>
+Sir <,> may I know your name <,>
+
+<$A> 
+<ICE-IND:S1A-067#5:1:A>
+Uh myself uh Prof D A Joshi <,> <{> <[> welcome <,> I come from Umerkhed
+
+<$B> 
+<ICE-IND:S1A-067#6:1:B>
+<[> Welcome </[> </{>
+
+<$B> 
+<ICE-IND:S1A-067#7:1:B>
+Umerkhed which district sir <,>
+
+<$A> 
+<ICE-IND:S1A-067#8:1:A>
+Uh its Yavatmal district <,,> uh affiliated to Amravati
+Uiversity
+
+<$B> 
+<ICE-IND:S1A-067#9:1:B>
+Yeah <,> I am very much curious about your place sir <,>
+
+<ICE-IND:S1A-067#10:1:B>
+Please tell me some information about it <,,>
+
+<$A> 
+<ICE-IND:S1A-067#11:1:A>
+Yeah <,,> uh <w> it's </w> situated on the border of <,> uh
+Vidharba and Marathwada
+
+<$B> 
+<ICE-IND:S1A-067#12:1:B>
+Yeah <,,>
+
+<$A> 
+<ICE-IND:S1A-067#13:1:A>
+The river <,> that is flowing near it <,> is known as Penganga
+river <,,> and that surrounds <,,> the <,> half of my district <,,>
+
+<ICE-IND:S1A-067#14:1:A>
+And uh my place <,> is to that way quite a distance either from
+Nagpur <,> or from <,> my university place <,> that is Amravati <,>
+
+<ICE-IND:S1A-067#15:1:A>
+Sir may I know about you <,>
+
+<$B> 
+<ICE-IND:S1A-067#16:1:B>
+Of course sir I will tell you
+
+<$A> 
+<ICE-IND:S1A-067#17:1:A>
+Uhn <,>
+
+<$B> 
+<ICE-IND:S1A-067#18:1:B>
+I will tell you in detail <,,> myself from Shahada <,>
+district Dhulia <,>
+
+<$A> 
+<ICE-IND:S1A-067#19:1:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-067#20:1:B>
+Maharashtra state
+
+<$A> 
+<ICE-IND:S1A-067#21:1:A>
+Uhm <,>
+
+<$B> 
+<ICE-IND:S1A-067#22:1:B>
+Uh in our place uh <,> there is uh <,> Gujar community <,> <{>
+<[> <O> one word </O> <,> and this people they are very rich people <,,> they
+are farmers <,>
+
+<ICE-IND:S1A-067#23:1:B>
+And uh <,> say that my town <,,> it is not a big city but uh <,> a
+medium one
+
+<$A> 
+<ICE-IND:S1A-067#24:1:A>
+<[> <O> One word </O> </[> </{>
+
+<$A> 
+<ICE-IND:S1A-067#25:1:A>
+Okay <,>
+
+<$B> 
+<ICE-IND:S1A-067#26:1:B>
+And uh <,> it is a very prosperous area <,>
+
+<$A> 
+<ICE-IND:S1A-067#27:1:A>
+Uh do you mean to say Shahada proper <,>
+
+<$B> 
+<ICE-IND:S1A-067#28:1:B>
+Yeah Shahada <,> Shahada proper <,>
+
+<$A> 
+<ICE-IND:S1A-067#29:1:A>
+Is it a <indig> tahsil </indig> place <,>
+
+<$B> 
+<ICE-IND:S1A-067#30:1:B>
+Yeah <indig> tahsil </indig> place sir <,,>
+
+<$A> 
+<ICE-IND:S1A-067#31:1:A>
+Sir may I know <,> your name please <,>
+
+<$B> 
+<ICE-IND:S1A-067#32:1:B>
+Myself K D Bawiskar <,>
+
+<$A> 
+<ICE-IND:S1A-067#33:1:A>
+Bawiskar
+
+<$B> 
+<ICE-IND:S1A-067#34:1:B>
+Bawiskar <,,>
+
+<$A> 
+<ICE-IND:S1A-067#35:1:A>
+Uh <,> do you come from Gujar community <,>
+
+<$B> 
+<ICE-IND:S1A-067#36:1:B>
+No sir <,> myself <indig> shimpi </indig>
+
+<$A> 
+<ICE-IND:S1A-067#37:1:A>
+Okay <,,>
+
+<$B> 
+<ICE-IND:S1A-067#38:1:B>
+Tailoring class <,,>
+
+<$A> 
+<ICE-IND:S1A-067#39:1:A>
+I come from <,> Brahmin community
+
+<$B> 
+<ICE-IND:S1A-067#40:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-067#41:1:A>
+Ah <,>
+
+<$B> 
+<ICE-IND:S1A-067#42:1:B>
+Sir may I know the <,> name of your institution <,>
+
+<$A> 
+<ICE-IND:S1A-067#43:1:A>
+Yeah it is uh <,,> <mention> G S G College </mention> known as
+<,,> <mention> Gopikabai Sitaram Gawande College </mention> <,> Umerkhed <,>
+
+<ICE-IND:S1A-067#44:1:A>
+Formerly it was only Arts and Commerce college <,,> but now there
+is <,> science stream <,> and our college has <,> courses upto <,,>
+graduation <,,>
+
+<$B> 
+<ICE-IND:S1A-067#45:1:B>
+Sir I will tell you something about my college <,,>
+
+<ICE-IND:S1A-067#46:1:B>
+Our college is a big college <,,>
+
+<ICE-IND:S1A-067#47:1:B>
+The name of the college is <mention> Pujya Sane Guruji Vidya <w>
+Prasarak's </w> <,> Arts Science Commerce college </mention> <,,>
+
+<ICE-IND:S1A-067#48:1:B>
+Uh it is a very big institution <,>
+
+<ICE-IND:S1A-067#49:1:B>
+We have <,> nearly some ten faculties there <,>
+
+<ICE-IND:S1A-067#50:1:B>
+Arts Science Commerce <,,> then uh College of Education <,> <{> <[>
+oh <,> College of Engineering <,> Polytechnic College <,> then Public School
+<,> and other High Schools <,,>
+
+<ICE-IND:S1A-067#51:1:B>
+Uh we have <,> P G classes too <,> M Sc <,> M Com <,> M A <,,>
+
+<ICE-IND:S1A-067#52:1:B>
+In Arts faculty <,> we have <,> M A English <,> M A Economics <,,>
+
+<ICE-IND:S1A-067#53:1:B>
+In Commerce faculty <,> uh perhaps there is Economics <,> and there
+in M Sc <,> they teach Chemistry and Zoology
+
+<$A> 
+<ICE-IND:S1A-067#54:1:A>
+<[> Oh </[> </{>
+
+<$A> 
+<ICE-IND:S1A-067#55:1:A>
+Oh <,> so it seems to be a very big college
+
+<$B> 
+<ICE-IND:S1A-067#56:1:B>
+Very big college <,,>
+
+<ICE-IND:S1A-067#57:1:B>
+The <,> Chairman of our college is uh <,> honourable Annasaheb V K
+Patil
+
+<$A> 
+<ICE-IND:S1A-067#58:1:A>
+Oh <,>
+
+<$B> 
+<ICE-IND:S1A-067#59:1:B>
+He is a very good man <,,>
+
+<ICE-IND:S1A-067#60:1:B>
+And uh <,> our donor <,,> he is <O> one word </O> Patil <,>
+
+<ICE-IND:S1A-067#61:1:B>
+He has donated <,> ninety <indig> acres </indig> of land <,>
+
+<$A> 
+<ICE-IND:S1A-067#62:1:A>
+For your institution
+
+<$B> 
+<ICE-IND:S1A-067#63:1:B>
+Yeah <,> you know for our institution <,,>
+
+<ICE-IND:S1A-067#64:1:B>
+Sir who is the Chairman of your college <,,>
+
+<$A> 
+<ICE-IND:S1A-067#65:1:A>
+Uh <,> Anantrao <,,> Josarkar
+
+<$B> 
+<ICE-IND:S1A-067#66:1:B>
+Josarkar
+
+<$A> 
+<ICE-IND:S1A-067#67:1:A>
+Uh formerly he was a M L A <,,> in that uh Janata regime <,,>
+
+<ICE-IND:S1A-067#68:1:A>
+Now he is the <,> Chairman <,> of a district cooperative bank <,,>
+
+<ICE-IND:S1A-067#69:1:A>
+A very enthusiastic man <,,>
+
+<ICE-IND:S1A-067#70:1:A>
+Formerly there was one <,> late <,> Kutle <,> <{> <[> and </[> he
+has <O> two words </O>
+
+<$B> 
+<ICE-IND:S1A-067#71:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#72:1:A>
+Uh he belongs to <,> Maratha community
+
+<$B> 
+<ICE-IND:S1A-067#73:1:B>
+Yeah <,,>
+
+<$A> 
+<ICE-IND:S1A-067#74:1:A>
+And now Anantrao Josarkar looks after <,> the very business of
+our college <,>
+
+<ICE-IND:S1A-067#75:1:A>
+But actually he is not <,> uh at the head quarter <,,>
+
+<ICE-IND:S1A-067#76:1:A>
+He stays somewhere else <,> either in Kusad <,> or in Yawatmal <,,>
+
+<ICE-IND:S1A-067#77:1:A>
+And uh <,,> occasionally <,> he happens to visit our college <,>
+
+<ICE-IND:S1A-067#78:1:A>
+But the actual <,,> uh administration is run by our principal and
+there is <,> general secretary of the institution <,> is Dr Raut <,,>
+
+<ICE-IND:S1A-067#79:1:A>
+He is a capable man <,> and he looks after <,> all the activities
+of our college
+
+<$B> 
+<ICE-IND:S1A-067#80:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#81:1:A>
+Sir may I know about you <,> uh where did you get your <,>
+primary education and secondary education <,>
+
+<$B> 
+<ICE-IND:S1A-067#82:1:B>
+Sir I did my education <,> in Shirpur <,> Dhulia district
+
+<$A> 
+<ICE-IND:S1A-067#83:1:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-067#84:1:B>
+Then uh <,> I took my B A degree <,,> from Shirpur College
+
+<$A> 
+<ICE-IND:S1A-067#85:1:A>
+Shirpur college <,>
+
+<$B> 
+<ICE-IND:S1A-067#86:1:B>
+Yeah affiliated to Poona University
+
+<$A> 
+<ICE-IND:S1A-067#87:1:A>
+Uh
+
+<$B> 
+<ICE-IND:S1A-067#88:1:B>
+Then I had been to Marathwada <,,> then <,> uh to Indore <,>
+
+<ICE-IND:S1A-067#89:1:B>
+Then I took my degree <,,>
+
+<$A> 
+<ICE-IND:S1A-067#90:1:A>
+From Indore
+
+<$B> 
+<ICE-IND:S1A-067#91:1:B>
+Yeah from Indore <,>
+
+<ICE-IND:S1A-067#92:1:B>
+I got
+
+<$A> 
+<ICE-IND:S1A-067#93:1:A>
+Which college sir <,>
+
+<$B> 
+<ICE-IND:S1A-067#94:1:B>
+<.> Chri </.> Indore Christian College
+
+<$A> 
+<ICE-IND:S1A-067#95:1:A>
+I see
+
+<$B> 
+<ICE-IND:S1A-067#96:1:B>
+And uh I took sixth rank <,> <{> <[> oh <,> in Christian
+College <,> Indore University <,>
+
+<ICE-IND:S1A-067#97:1:B>
+Sir <,> I forgot to tell you <,> something about uh our chairman
+<,>
+
+<ICE-IND:S1A-067#98:1:B>
+Our chairman is a very great man <,>
+
+<ICE-IND:S1A-067#99:1:B>
+He is an M L A <,> and at present <,> he is the chairman of <,> uh
+the <mention> <?> Stree </?> Mahamandal </mention>
+
+<$A> 
+<ICE-IND:S1A-067#100:1:A>
+Oh <,>
+
+<$B> 
+<ICE-IND:S1A-067#101:1:B>
+And uh <,> he is carrying on very well sir <,> a <{> <[> very
+great man </[> yeah
+
+<$A> 
+<ICE-IND:S1A-067#102:1:A>
+<[> A potential man </[> </{>
+
+<$A> 
+<ICE-IND:S1A-067#103:1:A>
+Because <O> one word </O>
+
+<$B> 
+<ICE-IND:S1A-067#104:1:B>
+A capable man <,,>
+
+<ICE-IND:S1A-067#105:1:B>
+Sir to what classes do you teach <,,>
+
+<$A> 
+<ICE-IND:S1A-067#106:1:A>
+Uh I teach <,> uh from <,> F Y <,> to <,> final B A class
+
+<$B> 
+<ICE-IND:S1A-067#107:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#108:1:A>
+Sometimes <,> I <,> teach <,> B Com Part one <,> and B Com
+final also <,,>
+
+<ICE-IND:S1A-067#109:1:A>
+Many time my principal asks me <,> to engage the classes <,> of F
+Y of Sciene field <,> and so I have to teach <,> B Sc first year class also
+<,>
+
+<ICE-IND:S1A-067#110:1:A>
+So in that way <,> I teach <,> all the faculties <,> Science <,>
+Arts <,> and Commerce <,,>
+
+<ICE-IND:S1A-067#111:1:A>
+But <.> the </.> there is no English as <,> a special language <,>
+or English literature is not taught in our college <,,>
+
+<ICE-IND:S1A-067#112:1:A>
+We teach them only compulsory language <,> that is English <,,>
+
+<$B> 
+<ICE-IND:S1A-067#113:1:B>
+Sir uh <,> I teach uh <,> to F Y <,> S Y <,> T Y and M A
+classes <,,>
+
+<ICE-IND:S1A-067#114:1:B>
+And uh <,> also <,> I teach F Y B Com <,>
+
+<$A> 
+<ICE-IND:S1A-067#115:1:A>
+Oh <,>
+
+<$B> 
+<ICE-IND:S1A-067#116:1:B>
+Yeah it is English compulsory <,,>
+
+<ICE-IND:S1A-067#117:1:B>
+Sir which which is your favourite topic <,,>
+
+<$A> 
+<ICE-IND:S1A-067#118:1:A>
+My favourite topic is poetry <,,>
+
+<ICE-IND:S1A-067#119:1:A>
+<{1> <[1> Well </[1> I take <,> specially an interest <,> in
+teaching poems to the students <,>
+
+<ICE-IND:S1A-067#120:1:A>
+Of course I have to teach <,> the prose section <,> as well as
+fiction also <,>
+
+<ICE-IND:S1A-067#121:1:A>
+And I teach <,> all these topics <,> with an interest <,>
+
+<ICE-IND:S1A-067#122:1:A>
+But I take uh very interest <,> in teaching poetry to my students
+<,,>
+
+<ICE-IND:S1A-067#123:1:A>
+My aim there <,> is to <,> take the students <,> to the level of
+<,> the imagination of that poet <,,>
+
+<ICE-IND:S1A-067#124:1:A>
+Imaginative <{2> <[2> two words </[2> of the poet <,>
+
+<ICE-IND:S1A-067#125:1:A>
+And I take delight <,> in taking my students to that experience
+<,,> especially when the poems of Wordsworth <,> occurs there <,> I teach
+them <mention> Daffodils <,> Solitary Reaper </mention> <,,> and also some
+Sonnets <,,>
+
+<$B> 
+<ICE-IND:S1A-067#126:1:B>
+<[1> <w> It's </w> </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-067#127:1:B>
+<[2> Two words </[2> </{2>
+
+<$B> 
+<ICE-IND:S1A-067#128:1:B>
+Which is your favourite poet sir <,>
+
+<$A> 
+<ICE-IND:S1A-067#129:1:A>
+My favourite poet is <,> uh John Milton <,>
+
+<$B> 
+<ICE-IND:S1A-067#130:1:B>
+John Milton <,,>
+
+<ICE-IND:S1A-067#131:1:B>
+I like <,> uh Chaucer <,> Milton <.> Ed </.> Edmand Spencer <,>
+then the romantic poet <,,> Tennyson <,> Browning <,> Walt Whitman <,,> and
+<,> <{> <[> oh <,> uh <,> Stevenson <,,>
+
+<$A> 
+<ICE-IND:S1A-067#132:1:A>
+<[> Oh </[> </{>
+
+<$A> 
+<ICE-IND:S1A-067#133:1:A>
+So your liking <,> <{> <[> are <O> one word </O> </[>
+
+<$B> 
+<ICE-IND:S1A-067#134:1:B>
+<[> Yeah I do </[> </{> like poetry <,>
+
+<ICE-IND:S1A-067#135:1:B>
+And uh I teach <,> uh American drama and poetry to M A classes <,>
+
+<ICE-IND:S1A-067#136:1:B>
+In addition to this I teach English fiction <,> and English poetry
+<,>
+
+<$A> 
+<ICE-IND:S1A-067#137:1:A>
+English uh <,> fiction to <,>
+
+<$B> 
+<ICE-IND:S1A-067#138:1:B>
+For M A classes <,>
+
+<$A> 
+<ICE-IND:S1A-067#139:1:A>
+M A class
+
+<$B> 
+<ICE-IND:S1A-067#140:1:B>
+M A classes
+
+<$A> 
+<ICE-IND:S1A-067#141:1:A>
+<w> That's </w> very good <,,>
+
+<ICE-IND:S1A-067#142:1:A>
+Well I don't get any chance of teaching boys <,>
+
+<$B> 
+<ICE-IND:S1A-067#143:1:B>
+Yeah it is a very great <O> one word </O>
+
+<$A> 
+<ICE-IND:S1A-067#144:1:A>
+But uh <,,> many a time <,> the students come to me and they
+ask me <,> well sir I am <,> <w> I've </w> taken English literature as an
+optional subject <,> and please help us <,,>
+
+<ICE-IND:S1A-067#145:1:A>
+That time I have to teach them English litrature also <,>
+
+<ICE-IND:S1A-067#146:1:A>
+But it is not <,> the activity <,,> in my college
+
+<$B> 
+<ICE-IND:S1A-067#147:1:B>
+Yeah <,> sir <,,> we have <,,> Gujar community in our place
+<,> so what about your place <,>
+
+<$A> 
+<ICE-IND:S1A-067#148:1:A>
+Oh
+
+<$B> 
+<ICE-IND:S1A-067#149:1:B>
+Which people <,,>
+
+<$A> 
+<ICE-IND:S1A-067#150:1:A>
+Uh <w> it's </w> a <,> a heterogenous society <,> <{> <[> I
+mean to </[> say <,,>
+
+<$B> 
+<ICE-IND:S1A-067#151:1:B>
+<[> Heterogenous society </[> </{>
+
+<$A> 
+<ICE-IND:S1A-067#152:1:A>
+Well there are some people from Brahmin community <,> but uh
+<,> most of the people they come from Maratha community <,,>
+
+<ICE-IND:S1A-067#153:1:A>
+Even Marwaris are there <,>
+
+<$B> 
+<ICE-IND:S1A-067#154:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-067#155:1:A>
+And they are very influential <,> in our localities <,,>
+
+<ICE-IND:S1A-067#156:1:A>
+<{> <[> Sir </[> <,,> uh who is the President of your M Sc College
+<,,>
+
+<$B> 
+<ICE-IND:S1A-067#157:1:B>
+<[> But </[> </{>
+
+<$B> 
+<ICE-IND:S1A-067#158:1:B>
+Uh he is Ashok Bagul <,> Ashok Bagul
+
+<$A> 
+<ICE-IND:S1A-067#159:1:A>
+Bagul <,>
+
+<$B> 
+<ICE-IND:S1A-067#160:1:B>
+Yeah <,,>
+
+<$A> 
+<ICE-IND:S1A-067#161:1:A>
+Uh is he Gujar <,>
+
+<$B> 
+<ICE-IND:S1A-067#162:1:B>
+No <,,> he is Maratha
+
+<$A> 
+<ICE-IND:S1A-067#163:1:A>
+Maratha <,>
+
+<$B> 
+<ICE-IND:S1A-067#164:1:B>
+Yeah <,,>
+
+<ICE-IND:S1A-067#165:1:B>
+Sir tell me something about uh <,> the <,> sons and daughters <,>
+
+<$A> 
+<ICE-IND:S1A-067#166:1:A>
+Oh about my family life
+
+<$B> 
+<ICE-IND:S1A-067#167:1:B>
+Yeah about your family life <,>
+
+<$A> 
+<ICE-IND:S1A-067#168:1:A>
+Well sir uh <,> <{> <[> I am very happy </[> <,> in my <,> uh
+married life <,,>
+
+<ICE-IND:S1A-067#169:1:A>
+Well <,> I have three sons and three daughters <,,>
+
+<ICE-IND:S1A-067#170:1:A>
+My elder son is a graduate <,> science graduate <,,>
+
+<ICE-IND:S1A-067#171:1:A>
+He has opted <,> uh that <,> Agro- Chemical <,> as his special
+subject
+
+<$B> 
+<ICE-IND:S1A-067#172:1:B>
+<[> So <O> two words </O> yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-067#173:1:B>
+Yeah yeah
+
+<$A> 
+<ICE-IND:S1A-067#174:1:A>
+And he passed with good marks <,,>
+
+<ICE-IND:S1A-067#175:1:A>
+But at present <,,> he is there <,> and he looks after <,> the
+farming
+
+<$B> 
+<ICE-IND:S1A-067#176:1:B>
+Very nice sir <,>
+
+<$A> 
+<ICE-IND:S1A-067#177:1:A>
+My second is <,,> D Pharm <,>
+
+<ICE-IND:S1A-067#178:1:A>
+He couldn't get chance <,> for medical education <,> but he got
+admission in U D C T in Bombay <,>
+
+<ICE-IND:S1A-067#179:1:A>
+And after completing his education <,> well he got a job there <,>
+and now he is serving <,> serving <,> in Tata Company
+
+<$B> 
+<ICE-IND:S1A-067#180:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#181:1:A>
+Then I have two daughters <,>
+
+<$B> 
+<ICE-IND:S1A-067#182:1:B>
+Two daughters
+
+<$A> 
+<ICE-IND:S1A-067#183:1:A>
+Yeah <,>
+
+<ICE-IND:S1A-067#184:1:A>
+And <,> uh of them <,> well they were married <,> after their
+graduation
+
+<$B> 
+<ICE-IND:S1A-067#185:1:B>
+You are free now <,>
+
+<$A> 
+<ICE-IND:S1A-067#186:1:A>
+No <,> not that way <,> because I have got still one more
+daughter
+
+<$B> 
+<ICE-IND:S1A-067#187:1:B>
+One more daughter
+
+<$A> 
+<ICE-IND:S1A-067#188:1:A>
+And uh <,> she is taking her education <,,>
+
+<ICE-IND:S1A-067#189:1:A>
+Uh this year she passed <,> her twelfth standard <{> <[>
+examination </[> <,>
+
+<$B> 
+<ICE-IND:S1A-067#190:1:B>
+<[> Yeah </[> </{>
+
+<$A> 
+<ICE-IND:S1A-067#191:1:A>
+And she intends to take law course <,> <{1> <[1> uhm <,> and
+so I have to provide her that education <,>
+
+<ICE-IND:S1A-067#192:1:A>
+And perhaps <,> she will go to Nagpur for that <,> because that is
+the course <,> <{2> <[2> yeah <,> in Nagpur University
+
+<$B> 
+<ICE-IND:S1A-067#193:1:B>
+<[1> Uhm </[1> </{1>
+
+<$B> 
+<ICE-IND:S1A-067#194:1:B>
+<[2> Yeah </[2> </{2>
+
+<$B> 
+<ICE-IND:S1A-067#195:1:B>
+Nagpur University <,>
+
+<$A> 
+<ICE-IND:S1A-067#196:1:A>
+After twelfth <,>
+
+<ICE-IND:S1A-067#197:1:A>
+Then I have got one <,> small <,> child
+
+<$B> 
+<ICE-IND:S1A-067#198:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#199:1:A>
+He is my last one <,> and at present he is <,> learning in
+the eighth standard <,,>
+
+<ICE-IND:S1A-067#200:1:A>
+Well they take education <,> in my native place <,,>
+
+<ICE-IND:S1A-067#201:1:A>
+Even though I serve in Umerkhed <,> my family <,> lives in <,,>
+Dhanki <,> Dhanki my native place
+
+<$B> 
+<ICE-IND:S1A-067#202:1:B>
+Yeah yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#203:1:A>
+I have got some <,> fifty-two <indig> acres </indig> of land
+there <,>
+
+<ICE-IND:S1A-067#204:1:A>
+And after the death of my father <,> <{> <[> uhm <,> my mother
+didn't <,> intend to come to Umerkhed <,> and <w> that's </w> why <,> I had
+to shift my family there
+
+<$B> 
+<ICE-IND:S1A-067#205:1:B>
+<[> Uhm </[> </{>
+
+<$B> 
+<ICE-IND:S1A-067#206:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#207:1:A>
+And so <,> I come from Dhanki attend my college <,> and then
+again <,> go to Dhanki <,>
+
+<ICE-IND:S1A-067#208:1:A>
+Dhanki and Umerkhed <,> they are not very distance places
+
+<$B> 
+<ICE-IND:S1A-067#209:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#210:1:A>
+The distance is only of <,> eighteen <,> kilometers <,,>
+
+<ICE-IND:S1A-067#211:1:A>
+I have got uh <,> one motorbike <mention> Rajdoot </mention> <,>
+and <,> uh I take pleasure <,> in attending my college <,> regularly and
+again going back to my native place village <,>
+
+<ICE-IND:S1A-067#212:1:A>
+I am fond of farming also sir
+
+<$B> 
+<ICE-IND:S1A-067#213:1:B>
+Yeah yeah good
+
+<$A> 
+<ICE-IND:S1A-067#214:1:A>
+Uh how do you pass your time <,,>
+
+<$B> 
+<ICE-IND:S1A-067#215:1:B>
+Where here sir <,>
+
+<$A> 
+<ICE-IND:S1A-067#216:1:A>
+No no <,> not here <,> in your college
+
+<$B> 
+<ICE-IND:S1A-067#217:1:B>
+Uhm <,> in our college sir I <,> regularly have <,> four
+periods
+
+<$A> 
+<ICE-IND:S1A-067#218:1:A>
+Four <,>
+
+<$B> 
+<ICE-IND:S1A-067#219:1:B>
+And then uh <,> in the fifth period we shall be coming
+together <,> and we shall <,> talk together that way <,>
+
+<ICE-IND:S1A-067#220:1:B>
+Then in the afternoon <,> once more I come to college <,> then I
+will find out reference books that way
+
+<$A> 
+<ICE-IND:S1A-067#221:1:A>
+Oh <,>
+
+<$B> 
+<ICE-IND:S1A-067#222:1:B>
+Sir regarding my family <,> I want to tell you <,> that in
+all I have three kids <,,>
+
+<ICE-IND:S1A-067#223:1:B>
+The eldest one <,> he is uh <,> in the third year of Engineering
+
+<$A> 
+<ICE-IND:S1A-067#224:1:A>
+Oh <,>
+
+<$B> 
+<ICE-IND:S1A-067#225:1:B>
+He is doing instrumentation <,>
+
+<$A> 
+<ICE-IND:S1A-067#226:1:A>
+Where sir <,>
+
+<$B> 
+<ICE-IND:S1A-067#227:1:B>
+In Shahada
+
+<$A> 
+<ICE-IND:S1A-067#228:1:A>
+Shahada itself <,>
+
+<$B> 
+<ICE-IND:S1A-067#229:1:B>
+Uh he got uh <,> medal <,> in the first year
+
+<$A> 
+<ICE-IND:S1A-067#230:1:A>
+Uhm <,>
+
+<$B> 
+<ICE-IND:S1A-067#231:1:B>
+Then in the second year also <,> he stood first in the
+college
+
+<$A> 
+<ICE-IND:S1A-067#232:1:A>
+Oh <w> that's </w> very good <,,>
+
+<$B> 
+<ICE-IND:S1A-067#233:1:B>
+Second is daughter <,> she is uh <,> doing polytechnic
+
+<$A> 
+<ICE-IND:S1A-067#234:1:A>
+Where
+
+<$B> 
+<ICE-IND:S1A-067#235:1:B>
+And she is in the second year <,> same same place <,>
+
+<ICE-IND:S1A-067#236:1:B>
+And the third one is <,> uh also a daughter <,>
+
+<ICE-IND:S1A-067#237:1:B>
+And she is in the fifth standard
+
+<$A> 
+<ICE-IND:S1A-067#238:1:A>
+Fifth standard
+
+<$B> 
+<ICE-IND:S1A-067#239:1:B>
+She is extremely beautiful that way <,,>
+
+<ICE-IND:S1A-067#240:1:B>
+Uh regarding my side business I will tell you <,,> I have also
+<,,> a piece of uh <,> fifteen <indig> acres </indig> of land that way <,>
+
+<$A> 
+<ICE-IND:S1A-067#241:1:A>
+Well
+
+<$B> 
+<ICE-IND:S1A-067#242:1:B>
+It is fifty miles away from my place
+
+<$A> 
+<ICE-IND:S1A-067#243:1:A>
+Oh from Shahada <,>
+
+<$B> 
+<ICE-IND:S1A-067#244:1:B>
+Yeah from Shahada <,,>
+
+<ICE-IND:S1A-067#245:1:B>
+After ten or fifteen days <,> I shall be going there <,> and I
+will look after the fields <,>
+
+<$A> 
+<ICE-IND:S1A-067#246:1:A>
+Then who looks after that <,> administration of your farm <,>
+
+<$B> 
+<ICE-IND:S1A-067#247:1:B>
+I have <,> I have put some men there <,> one man is there he
+is manager <,,>
+
+<ICE-IND:S1A-067#248:1:B>
+And he will uh uh manage everything <,,>
+
+<ICE-IND:S1A-067#249:1:B>
+Uh there <,> we take uh sugarcane <,> then cotton <indig> jawar
+bajri </indig> and uh <,> <indig> moongfali </indig> <,> that way <,>
+
+<ICE-IND:S1A-067#250:1:B>
+Sir what <,> uh crop is there <,> say major crop in your place <,>
+
+<$A> 
+<ICE-IND:S1A-067#251:1:A>
+Yeah <w> it's </w> uh <,> <indig> jawar </indig> and cotton
+
+<$B> 
+<ICE-IND:S1A-067#252:1:B>
+<indig> Jawar </indig> and cotton <,>
+
+<$A> 
+<ICE-IND:S1A-067#253:1:A>
+Because irrigation facilities are very less <,> but still <,>
+I have got some irrigated land <,> and there I take sugarecane <,> I have
+also planted <,> orange trees <,,> and I get <,> uh very handsome <,> income
+<,> <{> <[> yeah <,> from those <,,> trees <,> orange trees
+
+<$B> 
+<ICE-IND:S1A-067#254:1:B>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-067#255:1:B>
+Yeah <,,>
+
+<$A> 
+<ICE-IND:S1A-067#256:1:A>
+Well uh what about the <,> climate of your place <,>
+
+<$B> 
+<ICE-IND:S1A-067#257:1:B>
+Sir it is very hot there <,,> specially in <,> uh April May
+June
+
+<$A> 
+<ICE-IND:S1A-067#258:1:A>
+Oh that means <,> Summer
+
+<$B> 
+<ICE-IND:S1A-067#259:1:B>
+Of course monsoons they are of also very good <,> but it is a
+hot place <,> and uh
+
+<$A> 
+<ICE-IND:S1A-067#260:1:A>
+Like mine
+
+<$B> 
+<ICE-IND:S1A-067#261:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#262:1:A>
+My place is also <,,> of the same climate <,,>
+
+<ICE-IND:S1A-067#263:1:A>
+In the Summer it is too hot
+
+<$B> 
+<ICE-IND:S1A-067#264:1:B>
+Too hot <,>
+
+<$A> 
+<ICE-IND:S1A-067#265:1:A>
+While in the winter it is too cold <,>
+
+<$B> 
+<ICE-IND:S1A-067#266:1:B>
+In summer we face water problem <,,>
+
+<$A> 
+<ICE-IND:S1A-067#267:1:A>
+Uh there is no such acute problem <,> at Umerkhed <,,> but uh
+<,> in these days <,> well we are facing that problem in my native place <,>
+
+<$B> 
+<ICE-IND:S1A-067#268:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#269:1:A>
+Because we all depend on <,> tap <,> <{> <[> water supply
+</[> from <,> our <indig> grampanchayat </indig> and <w> it's </w> very
+irregular <,> and many a time we get water <,> once in a week
+
+<$B> 
+<ICE-IND:S1A-067#270:1:B>
+<[> Yeah yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-067#271:1:B>
+Yeah <,> I <O> one word </O>
+
+<$A> 
+<ICE-IND:S1A-067#272:1:A>
+That way we have <O> one word </O>
+
+<$B> 
+<ICE-IND:S1A-067#273:1:B>
+Very terrific
+
+<$A> 
+<ICE-IND:S1A-067#274:1:A>
+Yeah <,> but there are some wells <,,> and uh my wife <,,> my
+daughters <,> when they are at my home <,> well they fetch water <,> from a
+<,> kilometer distance <,,>
+
+<$B> 
+<ICE-IND:S1A-067#275:1:B>
+<w> That's </w> very hardsome <,,>
+
+<$A> 
+<ICE-IND:S1A-067#276:1:A>
+Even many a time I employ <,,> my neighbours <,,> bullock
+cart is there <,> and uh <,> we fetch water from that well <,>
+
+<$B> 
+<ICE-IND:S1A-067#277:1:B>
+Sir you just told me that uh <,> the name of your place is
+Umerkhed
+
+<$A> 
+<ICE-IND:S1A-067#278:1:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-067#279:1:B>
+It is a village <,>
+
+<$A> 
+<ICE-IND:S1A-067#280:1:A>
+No <,> <w> it's </w> town <,>
+
+<$B> 
+<ICE-IND:S1A-067#281:1:B>
+Town <,>
+
+<$A> 
+<ICE-IND:S1A-067#282:1:A>
+Uh not village <,> it has got a population of some <,> uh
+thirty-five to forty thousand
+
+<$B> 
+<ICE-IND:S1A-067#283:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-067#284:1:A>
+But <,>
+
+<$B> 
+<ICE-IND:S1A-067#285:1:B>
+In our place uh <,> the names end in <indig> kheda </indig>
+
+<$A> 
+<ICE-IND:S1A-067#286:1:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-067#287:1:B>
+Lonkheda <,> that way <,> Lonkheda <,>
+
+<ICE-IND:S1A-067#288:1:B>
+<indig> Kheda </indig> means <indig> kheda </indig> <,> it is uh a
+village that way <,>
+
+<$A> 
+<ICE-IND:S1A-067#289:1:A>
+No no its not so <,> </I>

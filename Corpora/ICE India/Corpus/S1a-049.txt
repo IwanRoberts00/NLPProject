@@ -1,0 +1,1333 @@
+<I>
+
+<$A> 
+<ICE-IND:S1A-049#1:1:A>
+Hello Suprita <,> how are you
+
+<$B> 
+<ICE-IND:S1A-049#2:1:B>
+High Santhiya <w> I'm </w> fine <,>
+
+<$A> 
+<ICE-IND:S1A-049#3:1:A>
+How was your day <,>
+
+<$B> 
+<ICE-IND:S1A-049#4:1:B>
+Uh fine <,>
+
+<$A> 
+<ICE-IND:S1A-049#5:1:A>
+What you are doing <,,> today <,> full day <,>
+
+<$B> 
+<ICE-IND:S1A-049#6:1:B>
+Oh <w> I've </w> to go for a dinner now <,>
+
+<ICE-IND:S1A-049#7:1:B>
+One of my <w> friend's </w> birthday <,>
+
+<$A> 
+<ICE-IND:S1A-049#8:1:A>
+Uhm so <,>
+
+<$B> 
+<ICE-IND:S1A-049#9:1:B>
+Hey listen <,> <w> you've </w> decided about the hostel day <,>
+
+<$A> 
+<ICE-IND:S1A-049#10:1:A>
+Yeah I decided
+
+<$B> 
+<ICE-IND:S1A-049#11:1:B>
+<w> What're </w> <{> <[> you </[>
+
+<$A> 
+<ICE-IND:S1A-049#12:1:A>
+<[> You </[> </{> first you tell about your opinion <,,>
+
+<$B> 
+<ICE-IND:S1A-049#13:1:B>
+Uh see we are having two dances okay
+
+<$A> 
+<ICE-IND:S1A-049#14:1:A>
+<{> <[> Uhm </[> what type of dance <,>
+
+<$B> 
+<ICE-IND:S1A-049#15:1:B>
+<[> And </[> </{>
+
+<$B> 
+<ICE-IND:S1A-049#16:1:B>
+Film hits only <,>
+
+<$A> 
+<ICE-IND:S1A-049#17:1:A>
+What film what song <,>
+
+<$B> 
+<ICE-IND:S1A-049#18:1:B>
+Say <w> we'll </w> do <indig> <mention> choli ke peche kya hai
+</mention> </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-049#19:1:A>
+Ah then
+
+<$B> 
+<ICE-IND:S1A-049#20:1:B>
+<w> We'll </w> do <indig> <mention> khud ko kya samajhti hai
+</mention> </indig>
+
+<$A> 
+<ICE-IND:S1A-049#21:1:A>
+Then <,,>
+
+<$B> 
+<ICE-IND:S1A-049#22:1:B>
+And <,> alternative then <indig> <mention> mere hatho mein
+</mention> </indig> <,,>
+
+<$A> 
+<ICE-IND:S1A-049#23:1:A>
+Uhm <,>
+
+<$B> 
+<ICE-IND:S1A-049#24:1:B>
+Okay <,>
+
+<$A> 
+<ICE-IND:S1A-049#25:1:A>
+Uhm <,>
+
+<$B> 
+<ICE-IND:S1A-049#26:1:B>
+So you all have to do a fashion show
+
+<$A> 
+<ICE-IND:S1A-049#27:1:A>
+Yeah <w> I'll </w> do <,>
+
+<$B> 
+<ICE-IND:S1A-049#28:1:B>
+Okay
+
+<$A> 
+<ICE-IND:S1A-049#29:1:A>
+Uhm <,>
+
+<$B> 
+<ICE-IND:S1A-049#30:1:B>
+You all come in any type of <indig> saree </indig> <,> <{> <[>
+yeah <,> traditional <,> <indig> Coorgi <,> Malayali </indig> <,,> then uh
+<,> <indig> Gujarathi </indig> and Indian <,>
+
+<$A> 
+<ICE-IND:S1A-049#31:1:A>
+<[> Yeah </[> </{>
+
+<$A> 
+<ICE-IND:S1A-049#32:1:A>
+Yeah <w> I'll </w> come in <{> <[> Indian </[>
+
+<$B> 
+<ICE-IND:S1A-049#33:1:B>
+<[> Then </[> </{> the rest of the girls come in uh <,,>
+<indig> salwar </indig> and some in <indig> ghagra </indig> <,>
+
+<$A> 
+<ICE-IND:S1A-049#34:1:A>
+Yeah who are else <,,>
+
+<$B> 
+<ICE-IND:S1A-049#35:1:B>
+Who all the all the girls can participate <,>
+
+<$A> 
+<ICE-IND:S1A-049#36:1:A>
+Uhm then <,,>
+
+<$B> 
+<ICE-IND:S1A-049#37:1:B>
+Then <,,> <{> <[> <w> you'll </w> sing a song </[>
+
+<$A> 
+<ICE-IND:S1A-049#38:1:A>
+<[> What of this </[> </{> <,>
+
+<$B> 
+<ICE-IND:S1A-049#39:1:B>
+Because I need time to change <indig> yaar </indig> <,>
+
+<ICE-IND:S1A-049#40:1:B>
+So you sing a song <,> so that <w> I'll </w> have time to change
+
+<$A> 
+<ICE-IND:S1A-049#41:1:A>
+But I didn't decide what song it is <,>
+
+<$B> 
+<ICE-IND:S1A-049#42:1:B>
+You know any prayer song <,>
+
+<$A> 
+<ICE-IND:S1A-049#43:1:A>
+I know but I have to decide no which song <w> I've </w> to <,>
+sing <,> in front of you and <w> I've </w> to <,>
+
+<$B> 
+<ICE-IND:S1A-049#44:1:B>
+Okay fine <w> we'll </w> practice tonight <,,>
+
+<ICE-IND:S1A-049#45:1:B>
+Okay <w> we'll </w> see which is better <,> and then you sing a
+song <,> so that <w> I'll </w> just <,> co-operate with the
+
+<$A> 
+<ICE-IND:S1A-049#46:1:A>
+What course you are doing <,>
+
+<$B> 
+<ICE-IND:S1A-049#47:1:B>
+Myself
+
+<$A> 
+<ICE-IND:S1A-049#48:1:A>
+Uhm <,> I don't know no <,> tell me no <,>
+
+<$B> 
+<ICE-IND:S1A-049#49:1:B>
+<w> I'm </w> doing hotel management <,>
+
+<$A> 
+<ICE-IND:S1A-049#50:1:A>
+Where
+
+<$B> 
+<ICE-IND:S1A-049#51:1:B>
+I just got a seat for Hotel management <,,> in K L E college
+<,>
+
+<$A> 
+<ICE-IND:S1A-049#52:1:A>
+I see <,> it is far away from here <,,>
+
+<$B> 
+<ICE-IND:S1A-049#53:1:B>
+No at four and a half kilometres only
+
+<$A> 
+<ICE-IND:S1A-049#54:1:A>
+How you are going <,> by bike or <,> by walking
+
+<$B> 
+<ICE-IND:S1A-049#55:1:B>
+Yeah <w> I've </w> got my Kinetic no <,,>
+
+<$A> 
+<ICE-IND:S1A-049#56:1:A>
+Uhm what is that number <,>
+
+<ICE-IND:S1A-049#57:1:A>
+Kinetic honda number <,,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#58:1:B>
+My kinetic number <,>
+
+<$A> 
+<ICE-IND:S1A-049#59:1:A>
+Uh
+
+<$B> 
+<ICE-IND:S1A-049#60:1:B>
+<w> I'll </w> give you a kick <,> till now you don't know <,>
+
+<$A> 
+<ICE-IND:S1A-049#61:1:A>
+You see I don't know really because <w> I'm </w> seeing so
+many bikes in front of standing in front of the hostel no <,> <{> <[> I never
+</[>
+
+<$B> 
+<ICE-IND:S1A-049#62:1:B>
+<[> Yeah okay okay </[> </{> okay
+
+<ICE-IND:S1A-049#63:1:B>
+Two six eight seven <,> <O> two words </O> I bought
+
+<$A> 
+<ICE-IND:S1A-049#64:1:A>
+When you bought
+
+<$B> 
+<ICE-IND:S1A-049#65:1:B>
+Myself
+
+<$A> 
+<ICE-IND:S1A-049#66:1:A>
+Uhm
+
+<$B> 
+<ICE-IND:S1A-049#67:1:B>
+You I really <,> you need a kick uh <,>
+
+<$A> 
+<ICE-IND:S1A-049#68:1:A>
+I don't know that <w> I'll </w> give you
+
+<$B> 
+<ICE-IND:S1A-049#69:1:B>
+Two months over <,>
+
+<$A> 
+<ICE-IND:S1A-049#70:1:A>
+Two months over
+
+<$B> 
+<ICE-IND:S1A-049#71:1:B>
+Are you a blind or some thing <,>
+
+<$A> 
+<ICE-IND:S1A-049#72:1:A>
+There is something <,> scratches are there on your face <,> I
+think <w> you've </w> fallen down <,,>
+
+<ICE-IND:S1A-049#73:1:A>
+I think <{> <[> because I </[> <w> that's </w> why I asked when you
+bought like that and uh
+
+<$B> 
+<ICE-IND:S1A-049#74:1:B>
+<[> Yeah I fell down </[> </{>
+
+<$B> 
+<ICE-IND:S1A-049#75:1:B>
+Yeah Yeah I fell down <,>
+
+<$A> 
+<ICE-IND:S1A-049#76:1:A>
+Where you have fallen down <,>
+
+<$B> 
+<ICE-IND:S1A-049#77:1:B>
+I fell down at my native place <,>
+
+<$A> 
+<ICE-IND:S1A-049#78:1:A>
+Near your native place <,> there also you have done same
+mistake uh <,> like uh riding in front of all guys like posing <,> <w> you've
+</w> done <indig> na </indig> <,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#79:1:B>
+What is this <,> yeah what is your problem uh <O> laughter
+</O> <,> I falls in front of all guys <,> <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-049#80:1:A>
+Really
+
+<$B> 
+<ICE-IND:S1A-049#81:1:B>
+What is your problem <,>
+
+<$A> 
+<ICE-IND:S1A-049#82:1:A>
+Nothing at all <w> that's </w> why you got scratching on that
+day I know that no <w> that's </w> why I asked <,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#83:1:B>
+Yeah yeah <,>
+
+<$A> 
+<ICE-IND:S1A-049#84:1:A>
+You are having you didn't go to college today <,>
+
+<$B> 
+<ICE-IND:S1A-049#85:1:B>
+I went to class <,> <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-049#86:1:A>
+You went uh
+
+<$B> 
+<ICE-IND:S1A-049#87:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-049#88:1:A>
+Uhm then <,> here any girls are studying with you <,>
+
+<$B> 
+<ICE-IND:S1A-049#89:1:B>
+What do you mean <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-049#90:1:A>
+Any girls <,,>
+
+<$B> 
+<ICE-IND:S1A-049#91:1:B>
+No no none of my college girls are here <,>
+
+<$A> 
+<ICE-IND:S1A-049#92:1:A>
+Then you have something <indig> na </indig> <,> <O> laughter
+</O>
+
+<$B> 
+<ICE-IND:S1A-049#93:1:B>
+What should I ask you <,>
+
+<$A> 
+<ICE-IND:S1A-049#94:1:A>
+You ask something <indig> re </indig>
+
+<$B> 
+<ICE-IND:S1A-049#95:1:B>
+<w> I'm </w> not so dumb like you okay nothing <O> one word
+</O>
+
+<$A> 
+<ICE-IND:S1A-049#96:1:A>
+Okay yeah is it
+
+<$B> 
+<ICE-IND:S1A-049#97:1:B>
+Same thing what you don't know you go on asking <,>
+
+<$A> 
+<ICE-IND:S1A-049#98:1:A>
+I don't know of but in front of all you should tell <indig> na
+</indig> <,> because sometimes you can make likes me <indig> na </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-049#99:1:B>
+Okay <,> fine <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-049#100:1:A>
+Yeah hostels are like that only <indig> na </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-049#101:1:B>
+Okay which girl you like in the hostel <,>
+
+<$A> 
+<ICE-IND:S1A-049#102:1:A>
+I like Juddie <,>
+
+<$B> 
+<ICE-IND:S1A-049#103:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-049#104:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-049#105:1:B>
+Why <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-049#106:1:A>
+I like means why in the sense I like her behaviour
+
+<$B> 
+<ICE-IND:S1A-049#107:1:B>
+No what do you have in her
+
+<ICE-IND:S1A-049#108:1:B>
+What what things you like in her <,>
+
+<$A> 
+<ICE-IND:S1A-049#109:1:A>
+Behaviours <,> her way of talking <,>
+
+<$B> 
+<ICE-IND:S1A-049#110:1:B>
+Uhn yeah
+
+<$A> 
+<ICE-IND:S1A-049#111:1:A>
+Polite and <,> then uh helping you everything <w> she's </w>
+having no thats why
+
+<$B> 
+<ICE-IND:S1A-049#112:1:B>
+Oh <,> how the other girls <{> <[> in the hostel </[>
+
+<$A> 
+<ICE-IND:S1A-049#113:1:A>
+<[> I like Suprita </[> </{> so sometime she pose <indig> na
+</indig> that time I never like <,> <O> laughter </O>
+
+<ICE-IND:S1A-049#114:1:A>
+Sometime I like so sad that girl <,> but <{> <[> sometime before
+</[>
+
+<$B> 
+<ICE-IND:S1A-049#115:1:B>
+<[> Why do you </[> </{> feel sad
+
+<$A> 
+<ICE-IND:S1A-049#116:1:A>
+Uhn <,>
+
+<$B> 
+<ICE-IND:S1A-049#117:1:B>
+Why do you feel sad
+
+<$A> 
+<ICE-IND:S1A-049#118:1:A>
+<w> You're </w> alone <indig> na </indig>
+
+<$B> 
+<ICE-IND:S1A-049#119:1:B>
+Alone <,>
+
+<$A> 
+<ICE-IND:S1A-049#120:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-049#121:1:B>
+Who said <,>
+
+<$A> 
+<ICE-IND:S1A-049#122:1:A>
+Yeah I said <,> you left your father and mother and came here
+
+<$B> 
+<ICE-IND:S1A-049#123:1:B>
+<{> <[> Oh oh oh </[>
+
+<$A> 
+<ICE-IND:S1A-049#124:1:A>
+<[> <w> That's </w> what <w> I've </w> said </[> </{> <w>
+that's </w> why <w> I'm </w> telling
+
+<$B> 
+<ICE-IND:S1A-049#125:1:B>
+Oh so like that there all all the girls alone
+
+<$A> 
+<ICE-IND:S1A-049#126:1:A>
+Yeah yeah maybe something I like <.> fro </.> from you no but
+sometimes you too much fussing <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#127:1:B>
+Why because I take
+
+<$A> 
+<ICE-IND:S1A-049#128:1:A>
+You know this guy yeah that guy yeah <,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#129:1:B>
+Why you like me because I take you to eat chicken <indig> na
+</indig> <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-049#130:1:A>
+Why I <,> uh I I can't eat uh without you <,>
+
+<ICE-IND:S1A-049#131:1:A>
+I can go many time I went many time <,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#132:1:B>
+Yeah <,> <{> <[> uhm <,> no I thought mostly because I take
+you no to buy chicken
+
+<$A> 
+<ICE-IND:S1A-049#133:1:A>
+<[> Uhm </[> </{>
+
+<$A> 
+<ICE-IND:S1A-049#134:1:A>
+Yeah today <w> we'll </w> go uh <,,>
+
+<$B> 
+<ICE-IND:S1A-049#135:1:B>
+Uh today <w> I'm </w> going out already <,>
+
+<$A> 
+<ICE-IND:S1A-049#136:1:A>
+Okay <,> enjoy yourself
+
+<$B> 
+<ICE-IND:S1A-049#137:1:B>
+Thank you <,>
+
+<ICE-IND:S1A-049#138:1:B>
+And where is Salma <,,>
+
+<$A> 
+<ICE-IND:S1A-049#139:1:A>
+<w> She's </w> in her room <,,>
+
+<$B> 
+<ICE-IND:S1A-049#140:1:B>
+What that day you fought Lalita <,,> <O> laughter </O>
+
+<ICE-IND:S1A-049#141:1:B>
+What has happened to both <,,>
+
+<ICE-IND:S1A-049#142:1:B>
+Today like a friend you are moving both uh
+
+<$A> 
+<ICE-IND:S1A-049#143:1:A>
+Yeah that you know <,> people who fight know
+
+<$B> 
+<ICE-IND:S1A-049#144:1:B>
+Uhm <,>
+
+<$A> 
+<ICE-IND:S1A-049#145:1:A>
+The more they fight <,> the more they love <,,>
+
+<$B> 
+<ICE-IND:S1A-049#146:1:B>
+Is it <,>
+
+<$A> 
+<ICE-IND:S1A-049#147:1:A>
+Yeah <,>
+
+<$B> 
+<ICE-IND:S1A-049#148:1:B>
+But we people won't fight like you did
+
+<$A> 
+<ICE-IND:S1A-049#149:1:A>
+Because we don't love each other so much <,>
+
+<$B> 
+<ICE-IND:S1A-049#150:1:B>
+<w> That's </w> why this problem has come <,> <O> laughter
+</O>
+
+<$A> 
+<ICE-IND:S1A-049#151:1:A>
+You know yesterday I have seen some two guys speaking with
+you <,> <O> laughter </O> <w> who's </w> that idiot <,> <O> laughter </O>
+
+<ICE-IND:S1A-049#152:1:A>
+Tell me no why <,> you can't tell uh
+
+<$B> 
+<ICE-IND:S1A-049#153:1:B>
+No no <w> there's </w> nothing wrong in that <,>
+
+<ICE-IND:S1A-049#154:1:B>
+<w> They're </w> <w> Alma's </w> friends <,> you see they are
+
+<$A> 
+<ICE-IND:S1A-049#155:1:A>
+Then how come <w> you're </w> talking so long with them <,>
+
+<$B> 
+<ICE-IND:S1A-049#156:1:B>
+Because <w> they've </w> become my friends also <,> <O>
+laughter </O>
+
+<$A> 
+<ICE-IND:S1A-049#157:1:A>
+Uh that is too much advantage you are taking <,> <O> laughter
+</O>
+
+<ICE-IND:S1A-049#158:1:A>
+You should leave her for ten minutes no
+
+<ICE-IND:S1A-049#159:1:A>
+All the time you are there and she can't speak anything with them
+<,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#160:1:B>
+Uhn but they prefer me being there also <,>
+
+<$A> 
+<ICE-IND:S1A-049#161:1:A>
+Maybe but she won't like <,>
+
+<$B> 
+<ICE-IND:S1A-049#162:1:B>
+She no she doesn't mind it at all
+
+<$A> 
+<ICE-IND:S1A-049#163:1:A>
+Is it
+
+<$B> 
+<ICE-IND:S1A-049#164:1:B>
+Yeah
+
+<$A> 
+<ICE-IND:S1A-049#165:1:A>
+Then <,> <w> I'm </w> talking always it is you <,> ask
+something
+
+<$B> 
+<ICE-IND:S1A-049#166:1:B>
+Okay you have some boyfriend <,>
+
+<$A> 
+<ICE-IND:S1A-049#167:1:A>
+Yeah <w> I'm </w> having <,>
+
+<$B> 
+<ICE-IND:S1A-049#168:1:B>
+How many <,>
+
+<$A> 
+<ICE-IND:S1A-049#169:1:A>
+Only one <,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#170:1:B>
+And <w> what's </w> his name <,>
+
+<$A> 
+<ICE-IND:S1A-049#171:1:A>
+I <,> love judie <,>
+
+<ICE-IND:S1A-049#172:1:A>
+<w> She's </w> girl only <,> but I feel like boy also <,> while
+talking <,> <{> <[> oh <,> with her <indig> na </indig> <,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#173:1:B>
+<[> Oh </[> </{>
+
+<$B> 
+<ICE-IND:S1A-049#174:1:B>
+So you made her uh your boy friend uh
+
+<$A> 
+<ICE-IND:S1A-049#175:1:A>
+Boy and girl friend
+
+<$B> 
+<ICE-IND:S1A-049#176:1:B>
+Oh <,,>
+
+<$A> 
+<ICE-IND:S1A-049#177:1:A>
+Then <,>
+
+<$B> 
+<ICE-IND:S1A-049#178:1:B>
+Then what <,>
+
+<$A> 
+<ICE-IND:S1A-049#179:1:A>
+Enough <indig> na </indig> <,,>
+
+<$B> 
+<ICE-IND:S1A-049#180:1:B>
+Then <,> <O> laughter </O>
+
+<ICE-IND:S1A-049#181:1:B>
+Then uh <,> then uhm how are your colleagues in office <,>
+
+<$A> 
+<ICE-IND:S1A-049#182:1:A>
+Okay okay they are <,>
+
+<ICE-IND:S1A-049#183:1:A>
+<w> They'll </w> adjust and <w> they'll </w> help <,> and way of
+speaking everything is there
+
+<$B> 
+<ICE-IND:S1A-049#184:1:B>
+So I think you like all people who adjust and who speak <,>
+<{> <[> yeah <,> speak politely and help you especially
+
+<$A> 
+<ICE-IND:S1A-049#185:1:A>
+<[> Yeah </[> </{>
+
+<$A> 
+<ICE-IND:S1A-049#186:1:A>
+Yeah <w> that's </w> what
+
+<$B> 
+<ICE-IND:S1A-049#187:1:B>
+Why you always fall into problem <,>
+
+<$A> 
+<ICE-IND:S1A-049#188:1:A>
+No <}> <-> <w> I'm </w> </-> <+> do </+> </}> not fall in the
+problem <,> because I like like this <,> because <indig> na </indig> whenever
+we are coming from outside no <,> then get we fever and all no <,> someone
+should look after no then only <,> we can look after others <,> like this <w>
+I'm </w> doing the work no <,> <w> I'll </w> I can't do all the work
+
+<$B> 
+<ICE-IND:S1A-049#189:1:B>
+But may be some time some people also are for <,> something
+in return they must be doing it <,>
+
+<ICE-IND:S1A-049#190:1:B>
+How can you judge everyone same way <,,>
+
+<$A> 
+<ICE-IND:S1A-049#191:1:A>
+Maybe <,> but I don't know <,,>
+
+<$B> 
+<ICE-IND:S1A-049#192:1:B>
+You have to study a person also
+
+<$A> 
+<ICE-IND:S1A-049#193:1:A>
+Uhm uhm <,> okay <w> I'll </w> study <,> today onwards <O>
+laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#194:1:B>
+<w> It's </w> not that way of studying <,> <{> <[> yeah <,>
+you should know psychology <,,>
+
+<$A> 
+<ICE-IND:S1A-049#195:1:A>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-IND:S1A-049#196:1:B>
+But I didn't study physcology no <,> <w> that's </w> what
+
+<$A> 
+<ICE-IND:S1A-049#197:1:A>
+No but basics also <w> it's </w> more than enough <,,>
+
+<$B> 
+<ICE-IND:S1A-049#198:1:B>
+That also <w> I'm </w> not having just I jump jumped jumped I
+came <,> studies also
+
+<ICE-IND:S1A-049#199:1:B>
+I didn't go keenly forward <,> <w> that's </w> why I didn't <,> uh
+read properly <,> do the sum properly <,> just I jumped and came <,,>
+
+<$A> 
+<ICE-IND:S1A-049#200:1:A>
+You passed through the influence <,>
+
+<$B> 
+<ICE-IND:S1A-049#201:1:B>
+How come <w> you're </w> asking this idiot question like that
+<,> <O> laughter </O>
+
+<ICE-IND:S1A-049#202:1:B>
+You passed like that <,>
+
+<$A> 
+<ICE-IND:S1A-049#203:1:A>
+No no no because you said you went on jumping
+
+<$B> 
+<ICE-IND:S1A-049#204:1:B>
+Yeah that way <{> <[> uh enough for forty </[> marks <w> I'll
+</w> read
+
+<$A> 
+<ICE-IND:S1A-049#205:1:A>
+<[> You didn't do properly </[> </{>
+
+<$B> 
+<ICE-IND:S1A-049#206:1:B>
+Not more than that <,>
+
+<ICE-IND:S1A-049#207:1:B>
+Forty marks means <w> I'll </w> read for that and <w> I'll </w>
+pass and I got this job also <,>
+
+<$A> 
+<ICE-IND:S1A-049#208:1:A>
+Oh <,,> not bad <,,>
+
+<ICE-IND:S1A-049#209:1:A>
+So when are you taking me to your office <,>
+
+<$B> 
+<ICE-IND:S1A-049#210:1:B>
+When you are coming <,> tell me
+
+<$A> 
+<ICE-IND:S1A-049#211:1:A>
+When you take me <w> I'll </w> come <,>
+
+<$B> 
+<ICE-IND:S1A-049#212:1:B>
+Yeah you come at five <w> O'clock </w> <,> to office <,>
+
+<ICE-IND:S1A-049#213:1:B>
+<{> <[> <w> I'll </w> show all </[> the <,> uh grounds <,> I too
+with me no <,> <{> <[> uhn <,> then only I can show you no
+
+<$A> 
+<ICE-IND:S1A-049#214:1:A>
+<[> You want me to pick you up </[> </{>
+
+<$A> 
+<ICE-IND:S1A-049#215:1:A>
+<[> Uhn </[> </{>
+
+<$A> 
+<ICE-IND:S1A-049#216:1:A>
+Yeah
+
+<$B> 
+<ICE-IND:S1A-049#217:1:B>
+After that I should get permission from others <,>
+
+<$A> 
+<ICE-IND:S1A-049#218:1:A>
+Uhm
+
+<$B> 
+<ICE-IND:S1A-049#219:1:B>
+Uhn <,> big authorities and all that <,> that all I don't
+want <,>
+
+<ICE-IND:S1A-049#220:1:B>
+You come at four forty-five like that
+
+<$A> 
+<ICE-IND:S1A-049#221:1:A>
+Uhm
+
+<$B> 
+<ICE-IND:S1A-049#222:1:B>
+<w> I'll </w> show you all the place
+
+<$A> 
+<ICE-IND:S1A-049#223:1:A>
+Uhm
+
+<$B> 
+<ICE-IND:S1A-049#224:1:B>
+<w> I'll </w> show you the swimming pool and <,> synthetic
+track
+
+<$A> 
+<ICE-IND:S1A-049#225:1:A>
+Can we use the swimming pool <,>
+
+<$B> 
+<ICE-IND:S1A-049#226:1:B>
+Yeah you should get identity card
+
+<ICE-IND:S1A-049#227:1:B>
+You <{> <[> give </[> you fill up your you fill up your bio-data
+<,> and fix your photo <,> you give to me <,> <{> <[> <indig> haan </indig>
+<,> <w> I'll </w> get from higher authorities and then get you identity card
+
+<$A> 
+<ICE-IND:S1A-049#228:1:A>
+<[> From where </[> </{>
+
+<$A> 
+<ICE-IND:S1A-049#229:1:A>
+<[> <indig> Haan </indig> </[> </{>
+
+<$A> 
+<ICE-IND:S1A-049#230:1:A>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-049#231:1:B>
+Then you can go daily
+
+<$A> 
+<ICE-IND:S1A-049#232:1:A>
+<indig> Haan </indig> <,>
+
+<$B> 
+<ICE-IND:S1A-049#233:1:B>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-049#234:1:A>
+Then <,,>
+
+<ICE-IND:S1A-049#235:1:A>
+Uh so how much do we have to pay <,>
+
+<$B> 
+<ICE-IND:S1A-049#236:1:B>
+You don't <}> <-> want </-> <+> have </+> </}> to pay <,>
+monthly twenty-five <indig> rupees </indig> enough
+
+<$A> 
+<ICE-IND:S1A-049#237:1:A>
+<w> That's </w> all
+
+<$B> 
+<ICE-IND:S1A-049#238:1:B>
+Uhm <,>
+
+<$A> 
+<ICE-IND:S1A-049#239:1:A>
+Okay fine can you get me an identity card
+
+<$B> 
+<ICE-IND:S1A-049#240:1:B>
+You first fill up that well <,>
+
+<$A> 
+<ICE-IND:S1A-049#241:1:A>
+Yeah you get me the form <w> I'll </w> fill it up
+
+<$B> 
+<ICE-IND:S1A-049#242:1:B>
+Yeah <w> I'll </w> fill up <,> <w> what's </w> this girl <,>
+<O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-049#243:1:A>
+Your grandma <,>
+
+<$B> 
+<ICE-IND:S1A-049#244:1:B>
+Then my grandma hello grandma <,>
+
+<ICE-IND:S1A-049#245:1:B>
+How are you <,>
+
+<ICE-IND:S1A-049#246:1:B>
+<w> You're </w> fine <,> <O> laughter </O>
+
+<ICE-IND:S1A-049#247:1:B>
+Hello grandma <,> <{> <[> hi <,> how are you
+
+<$C> 
+<ICE-IND:S1A-049#248:1:C>
+<[> Hi </[> </{>
+
+<$C> 
+<ICE-IND:S1A-049#249:1:C>
+Very well <,,>
+
+<ICE-IND:S1A-049#250:1:C>
+Always you are not attending the college it seems
+
+<ICE-IND:S1A-049#251:1:C>
+<w> I'll </w> write your principal wait <,> what is this nonsense
+going on coming late in the night <,>
+
+<$B> 
+<ICE-IND:S1A-049#252:1:B>
+<w> I'm </w> sorry grandma
+
+<$C> 
+<ICE-IND:S1A-049#253:1:C>
+And movies <,> <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-049#254:1:A>
+Next time you speak <O> one word </O> <O> laughter </O>
+
+<ICE-IND:S1A-049#255:1:A>
+Then <w> you're </w> leaving alone this girl and going <,> how she
+feels <,> bore no <,>
+
+<$B> 
+<ICE-IND:S1A-049#256:1:B>
+I don't know <,>
+
+<$C> 
+<ICE-IND:S1A-049#257:1:C>
+<O> One word </O>
+
+<$A> 
+<ICE-IND:S1A-049#258:1:A>
+Uh she only told it seems boring <,> Mary is not there no
+<,,>
+
+<ICE-IND:S1A-049#259:1:A>
+Well you have to <O> one word </O>
+
+<$C> 
+<ICE-IND:S1A-049#260:1:C>
+Am I entertainer <,,>
+
+<$B> 
+<ICE-IND:S1A-049#261:1:B>
+You should know <,,>
+
+<$C> 
+<ICE-IND:S1A-049#262:1:C>
+Where is this <,>
+
+<$B> 
+<ICE-IND:S1A-049#263:1:B>
+Louder <,,>
+
+<$A> 
+<ICE-IND:S1A-049#264:1:A>
+Louder you speak <,>
+
+<$C> 
+<ICE-IND:S1A-049#265:1:C>
+Why
+
+<$A> 
+<ICE-IND:S1A-049#266:1:A>
+Because <O> one or two words </O>
+
+<$B> 
+<ICE-IND:S1A-049#267:1:B>
+We can't hear you no <,,> <w> that's </w> why <,,>
+
+<$A> 
+<ICE-IND:S1A-049#268:1:A>
+Then <,> what time you went <,,>
+
+<$C> 
+<ICE-IND:S1A-049#269:1:C>
+Uhn <,> one <O> one or two word </O> afternoon
+
+<$B> 
+<ICE-IND:S1A-049#270:1:B>
+Why you are asking that girl you don't at what time you went
+
+<$A> 
+<ICE-IND:S1A-049#271:1:A>
+I don't know <,> my watch was not working
+
+<$B> 
+<ICE-IND:S1A-049#272:1:B>
+<w> It's </w> not working <,>
+
+<$A> 
+<ICE-IND:S1A-049#273:1:A>
+No got it repaired
+
+<$B> 
+<ICE-IND:S1A-049#274:1:B>
+You could have seen that one <indig> na </indig> <,> on wall
+big one is there no
+
+<$A> 
+<ICE-IND:S1A-049#275:1:A>
+<w> It's </w> so high I can't look <,>
+
+<$B> 
+<ICE-IND:S1A-049#276:1:B>
+So sky is so high uhn <,>
+
+<$A> 
+<ICE-IND:S1A-049#277:1:A>
+<w> It's </w> so high <,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#278:1:B>
+Then <,,>
+
+<$C> 
+<ICE-IND:S1A-049#279:1:C>
+You too <O> one word </O>
+
+<$B> 
+<ICE-IND:S1A-049#280:1:B>
+Why are you doing this <,>
+
+<$C> 
+<ICE-IND:S1A-049#281:1:C>
+Candle <O> one word </O> take I want to
+
+<$B> 
+<ICE-IND:S1A-049#282:1:B>
+Okay <,>
+
+<$A> 
+<ICE-IND:S1A-049#283:1:A>
+Then <,>
+
+<$B> 
+<ICE-IND:S1A-049#284:1:B>
+I will drop you
+
+<$A> 
+<ICE-IND:S1A-049#285:1:A>
+When <w> you're </w> going to college <,>
+
+<$C> 
+<ICE-IND:S1A-049#286:1:C>
+Ha we can go
+
+<$B> 
+<ICE-IND:S1A-049#287:1:B>
+Tomorrow <,,>
+
+<ICE-IND:S1A-049#288:1:B>
+I might go <,> <w> I'm </w> not sure about
+
+<$A> 
+<ICE-IND:S1A-049#289:1:A>
+I think this girl keeps on bunking classes
+
+<$C> 
+<ICE-IND:S1A-049#290:1:C>
+Yeah yeah we should go to the principal <,>
+
+<$A> 
+<ICE-IND:S1A-049#291:1:A>
+We better <,> inform her parents as well as the <.> princi
+</.>
+
+<$C> 
+<ICE-IND:S1A-049#292:1:C>
+Yeah you go <+> to </+> the parents house <,> <w> I'll </w>
+go <+> to </+> the principal <,>
+
+<$A> 
+<ICE-IND:S1A-049#293:1:A>
+Okay <,>
+
+<$B> 
+<ICE-IND:S1A-049#294:1:B>
+Ask them to get me married no <,> <O> laughter </O>
+
+<$A> 
+<ICE-IND:S1A-049#295:1:A>
+Oh <w> that's </w> <,> I think <w> that's </w> the
+frustration no <,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#296:1:B>
+May be <,,>
+
+<$C> 
+<ICE-IND:S1A-049#297:1:C>
+And she wants to get married <,>
+
+<$B> 
+<ICE-IND:S1A-049#298:1:B>
+Yeah oh yeah
+
+<$A> 
+<ICE-IND:S1A-049#299:1:A>
+She is searching for boy I think so
+
+<$C> 
+<ICE-IND:S1A-049#300:1:C>
+Yeah <,> <w> we'll </w> help her out <,>
+
+<$A> 
+<ICE-IND:S1A-049#301:1:A>
+Okay <,,> which type of boy you want <,>
+
+<$B> 
+<ICE-IND:S1A-049#302:1:B>
+I like matured <w> one's </w> but <,,>
+
+<$A> 
+<ICE-IND:S1A-049#303:1:A>
+He he insulted me and he also insulted me <,>
+
+<$B> 
+<ICE-IND:S1A-049#304:1:B>
+Hey tomorrow uh tomorrow <w> I'll </w> call him <indig> na
+</indig>
+
+<$C> 
+<ICE-IND:S1A-049#305:1:C>
+You know he he introduced me <,>
+
+<$A> 
+<ICE-IND:S1A-049#306:1:A>
+She told me that <w> he'll </w> <,> <w> she'll </w> call him
+today for me
+
+<$B> 
+<ICE-IND:S1A-049#307:1:B>
+No no tomorrow <,> <O> laughter </O>
+
+<$C> 
+<ICE-IND:S1A-049#308:1:C>
+<w> She's </w> a big cheat then <,> she is a big cheat
+
+<$A> 
+<ICE-IND:S1A-049#309:1:A>
+<w> She's </w> a big cheat I <,>
+
+<$B> 
+<ICE-IND:S1A-049#310:1:B>
+No no no <,> tomorrow I <,> because no what what he told me
+no
+
+<$C> 
+<ICE-IND:S1A-049#311:1:C>
+Yeah no <,> I can't believe him <,> because he can't even say
+hi <,>
+
+<$B> 
+<ICE-IND:S1A-049#312:1:B>
+No tomorrow <w> I'll </w> uh
+
+<$C> 
+<ICE-IND:S1A-049#313:1:C>
+Don't say and he was looking at Rupa when he said
+
+<$A> 
+<ICE-IND:S1A-049#314:1:A>
+I think he likes only fair people tell boys that people who
+are fair
+
+<$B> 
+<ICE-IND:S1A-049#315:1:B>
+Uhn <,>
+
+<$A> 
+<ICE-IND:S1A-049#316:1:A>
+They should not judge a person just by <,> looks you know
+
+<$C> 
+<ICE-IND:S1A-049#317:1:C>
+Yeah <,>
+
+<$A> 
+<ICE-IND:S1A-049#318:1:A>
+<w> I'm </w> not fair no <,>
+
+<$B> 
+<ICE-IND:S1A-049#319:1:B>
+And if we feel to their heart
+
+<$A> 
+<ICE-IND:S1A-049#320:1:A>
+Yeah so he likes you <,> <O> laughter </O>
+
+<$B> 
+<ICE-IND:S1A-049#321:1:B>
+Oh yeah <,,>
+
+<$A> 
+<ICE-IND:S1A-049#322:1:A>
+Oh but then when you introduced to our friend no <{> <[> that
+basic manners </[>
+
+<$B> 
+<ICE-IND:S1A-049#323:1:B>
+<[> But may be he has of manners </[> </{>
+
+<$C> 
+<ICE-IND:S1A-049#324:1:C>
+No maybe <w> he's </w> afraid <,> so many girls are
+
+<$A> 
+<ICE-IND:S1A-049#325:1:A>
+Then he should not come <,,> </I>

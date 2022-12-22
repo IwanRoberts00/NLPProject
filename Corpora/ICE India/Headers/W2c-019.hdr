@@ -1,0 +1,53 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-019</textcode>
+             <number.of.subtexts>1</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>2374</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=W2C-019>
+     <source.type=newspaper>
+           <source.title>Goa Post</source.title>
+           <scope>regional</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Fernandes Publications</publisher>
+            <address>Herald Publications Pvt. Ltd., P.O. Box 760,
+                    St. Tome Road, Panaji, Goa-403001</address>
+            <place>Goa</place>
+            <date>23-02-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Fernandes
+                     Publications</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-019</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>Travails of Goa's houseless
+                 citizens</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>2,3</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-019</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames></forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

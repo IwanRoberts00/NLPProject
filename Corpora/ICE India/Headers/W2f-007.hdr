@@ -1,0 +1,56 @@
+<text.info>
+       <file.description>
+            <textcode>ICE-IND-W2F-007</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:creative:novel</caregory>
+            <wordcount>2214</wordcount>
+            <version>one</version>
+            <free.comments>Text collected by
+                   Leitner</free.comments>
+       </file.description>
+       <subtext.source=W2F-007>
+       <source.type=monograph>
+            <source.title>Jasmine</source.title>
+            <source.subtitle></source.subtitle>
+       <publication.statement>
+            <publisher>Virago Press Limited</publisher>
+            <address>20-23 Mandela Street, Camden Town,
+              London NW1 OHQ</address>
+            <place>London</place>
+            <date>1990</date>
+            <ISBN>not known</ISBN>
+       </publication.statement>
+       <copyright.statement>reproduced by the
+            author</copyright.statement>
+            <free.comments>copyright secured through the
+              author's agent Janklow & Nesbit Associates,
+              Literary Agents, 445 Park Ave. New York,
+              N.Y.10022-2606</free.comments>
+       </source.type>
+       </subtext.source>
+       <subtext.internals=ICE-IND-W2F-007>
+            <subtext.name>ICE-IND-Jasmine</subtext.name>
+            <main.title>Jasmine</main.title>
+            <subtitle></subtitle>
+            <page.nos>165-173</page.nos>
+            <free.comments></free.comments>
+       </subtext.internals>
+       <biography=ICE-IND-W2F-007>
+            <speaker.id>A</speaker.id>
+            <communicative.role>author</communicative.role>
+            <surname>Mukherjee</surname>
+            <forenames>Bharati</forenames>  
+            <age>46-65</age>
+            <gender>Female</gender>
+            <nationality>US</nationality>
+            <birthplace>Calcutta</birthplace>
+            <education>Calcutta University, University of
+              California at Berkeley</education>
+            <educational.level>Ph.D</educational.level>
+            <occupation>University Professor</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Bengali</mother.tongue>
+            <other.languages></other.languages>
+            <free.comments><free.comments>
+       </biography>
+</text.info>

@@ -1,0 +1,54 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-007</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              humanities</category>
+            <wordcount>2282</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-007>
+        <source.type=periodical>
+            <source.title>The Literary Criterion</source.title>
+            <source.subtitle>A Dhanyaloka
+              Quaterly</source.subtitle>
+            <series>Vol.27,No.1&2</series>
+        <publication.statement>
+            <publisher>G.H. Krishnamurthy</publisher>
+            <address>Mysore Printing and Publishing House,
+              Mysore-570001</address>
+            <place>Mysore</place>
+            <date>1992</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-007</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Forster and Further</main.title>
+            <subtitle></subtitle>
+            <page.nos>18-23</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-007</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Mukherjee</surname>
+                <forenames>Sujit</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

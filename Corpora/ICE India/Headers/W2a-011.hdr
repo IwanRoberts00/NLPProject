@@ -1,0 +1,55 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-011</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              social sciences</category>
+            <wordcount>2167</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-011>
+        <source.type=periodical>
+            <source.title>The Chartered Accountant</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Monthly</series>
+        <publication.statement>
+            <publisher>Anil Mehra</publisher>
+            <address>The Institute of Chartered Accountants of
+              India, K/9, Cannaught Curcus, New Delhi-
+              110002</address>
+            <place>New Delhi</place>
+            <date>March 1991</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-011</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Resources Management and Waste
+              Control</main.title>
+            <subtitle></subtitle>
+            <page.nos>721-722 & 728</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-011</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Mittal</surname>
+                <forenames>Avtar K.</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

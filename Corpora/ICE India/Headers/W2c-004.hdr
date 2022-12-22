@@ -1,0 +1,142 @@
+<text.info>
+     <file.description>
+             <textcode>ICE-IND-W2C-004</textcode>
+             <number.of.subtexts>003</number.of.subtexts>
+             <category>printed:press news reports</category>
+             <wordcount>2152</wordcount>
+             <version>lexical</version>
+             <free.comments></free.comments>
+     </file.description> 
+     <subtext.source=a>
+     <source.type=newspaper>
+           <source.title>Indian Express</source.title>
+           <scope>national</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Indian Express Newspapers Ltd.</publisher>
+            <address>Express Towers, Nariman Point, Bombay-
+                    400021</address>
+            <place>Bombay</place>
+            <date>06-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Indian
+            Express Newspapers Ltd.</copyright.statement>
+     <free.comments>text was obtained by prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-004a</it>>
+           <subtext.name>ICE-IND</subtext.name>
+     <main.title>EC fiat punish Orissa ex-Minister</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>8</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-004a</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Banerjee</surname>
+                <forenames>Ruben</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=b>
+     <source.type=newspaper>
+           <source.title>Indian Express</source.title>
+           <scope>national</scope>
+           <frequency>daily</frequency>
+           <circulation>not known</circulation>
+     <publication.statement>
+            <publisher>Indian Express Newspapers Ltd.</publisher>
+            <address>Express Towers, Nariman Point, Bombay-
+                    400021 </address>
+            <place>Bombay</place>
+            <date>08-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by permission of Indian   
+           Express Newspapers Ltd.</copyright.statement>
+     <free.comments>text was obtained by prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-004b</it>>
+           <subtext.name>ICE-IND</subtext.name>
+                 <main.title>Thane gangs join Dawood           
+                            rivals</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>1 & 7</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-004b</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname>Sharan</surname>
+                <forenames>Prebhat</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+     <subtext.source=c>
+     <source.type=newspaper>
+           <source.title>The Times of India</source.title>
+           <scope>national</scope>
+           <frequency>daily</frequency>
+           <circulation>705000</circulation>
+     <publication.statement>
+            <publisher>Bennett, Coleman & Co., Ltd.</publisher>
+            <address>Dr. Dadabhoy Naoroji Road, Bombay-
+                    400001</address>
+            <place>Bombay</place>
+            <date>13-01-90</date>
+     </publication.statement>
+     <copyright.statement>reproduced by arrangement with the   
+      author and the Times of India and is the copyright of the 
+      the publishers, Bennett, Coleman & Co.
+      Ltd.</copyright.statement>
+     <free.comments>text was obtained by prof.
+                   Leitner</free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-W2C-004c</it>>
+           <subtext.name>ICE-IND-Soccer</subtext.name>
+     <main.title>Olympia make Lyngby rue lapses</main.title>
+                 <subtitle></subtitle>
+                 <page.nos>15</page.nos>
+           <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-W2C-004c</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+                <surname></surname>
+                <forenames>K. Bhaskaran</forenames>
+                <age></age>
+                <gender></gender>
+                <nationality></nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+     </biography>
+</text.info>

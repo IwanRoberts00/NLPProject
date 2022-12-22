@@ -1,0 +1,55 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2A-010</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>printed:informational:learned:
+              humanities</category>
+            <wordcount>2257</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2A-010>
+        <source.type=periodical>
+            <source.title>The Literary Criterion</source.title>
+            <source.subtitle>A Dhanyaloka
+              Quaterly</source.subtitle>
+            <series>Vol.29,No-1</series>
+        <publication.statement>
+            <publisher>G.H. Krishnamurthy</publisher>
+            <address>Mysore Printing and Publishing House,
+              Mysore-570001</address>
+            <place>Mysore</place>
+            <date>1994</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2A-010</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Musical creativity: Its Affinity with
+              Other Arts and its Uniqueness</main.title>
+            <subtitle></subtitle>
+            <page.nos>11-16</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2A-010</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Sharma</surname>
+                <forenames>Premlata</forenames>
+                <age></age>
+                <gender>female</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

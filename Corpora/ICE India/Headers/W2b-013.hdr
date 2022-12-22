@@ -1,0 +1,54 @@
+<text.info>
+        <file.description>
+            <textcode>ICE-IND-W2B-013</textcode>
+            <number.of.subtexts></number.of.subtexts>
+            <category>printed:informational:popular:
+              social sciences</category>
+            <wordcount>2265</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+        </file.description>
+        <subtext.source=W2B-013>
+        <source.type=monograph>
+            <source.title>Career & Competition
+              Times</source.title>
+            <source.subtitle></source.subtitle>
+            <series>Vol-11, No-6</series>
+        <publication.statement>
+            <publisher>Ramesh Chandra</publisher>
+            <address>Bennett Coleman & Co. Ltd., 10, Daryaganj,
+              New Delhi-110002</address>
+            <place>New Delhi</place>
+            <date>June 1991</date>
+            <ISBN></ISBN>
+        </publication.statement>
+        <copyright.statement>reproduced by permission of the
+            publisher</copyright.statement>
+        <free.comments></free.comments>
+        </source.type>
+        </subtext.source>
+        <subtext.internals=<it>ICE-IND-W2B-013</it>>
+        <subtext.name>ICE-IND-</subtext.name>
+            <main.title>Current Issues</main.title>
+            <subtitle>Demographic status quo</subtitle>
+            <page.nos>23,24 & 71</page.nos>
+            <free.comments></free.comments>
+        </subtext.internals>
+        <biography=<it>ICE-IND-W2B-013</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role>Author</communicative.role>
+                <surname>Bose</surname>
+                <forenames>Ashish</forenames>
+                <age></age>
+                <gender>male</gender>
+                <nationality>Indian</nationality>
+                <birthplace></birthplace>
+                <education></education>
+                <educational.level></educational.level>
+                <occupation></occupation>
+                <affiliations></affiliations>
+                <mother.tongue></mother.tongue>
+                <other.languages></other.languages>
+                <free.comments></free.comments>
+        </biography>
+</text.info>

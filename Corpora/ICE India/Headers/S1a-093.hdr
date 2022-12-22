@@ -1,0 +1,75 @@
+<text.info>
+     <file.description>
+            <textcode>ICE-IND-S1A-093</textcode>
+            <number.of.subtexts>1</number.of.subtexts>
+            <category>Dialogue:private:distance
+                 conversation</category>
+            <wordcount>2081</wordcount>
+            <version>lexical</version>
+            <free.comments></free.comments>
+     </file.description>
+     <subtext.source=S1A-093>
+     <source.type=Dialogue:private:distance conversation>
+     <recording.data>
+            <date>08-08-92</date>
+            <time>4.30pm</time>
+            <place>Residence of Dr. Moktali, Kolhapur</place>
+     </recording.data>
+            <organising.body></organising.body>
+            <copyright.statement>used by permission of respective
+                 speakers</copyright.statement>
+            <free.comments></free.comments>
+     </source.type>
+     </subtext.source>
+     <subtext.internals=<it>ICE-IND-S1A-093</it>>
+     <subtext.name>ICE-IND-</subtext.name>
+            <communicative.situation>Dialogue
+                 </communicative.situation>
+            <no.of.participants>2</no.of.participants>
+            <relationship>equals</relationship>
+            <audience.size></audience.size>
+            <free.comments></free.comments>
+     </subtext.internals>
+     <biography=<it>ICE-IND-S1A-093</it>>
+            <speaker.id>A</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Goud</surname>
+            <forenames>Mallikarjun</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Guntakal, Anantapur, Andhra
+                 Pradesh</birthplace>
+            <education>Andhra University, Benares Hindu
+                 University</education>
+            <educational.level>Master's
+                 Degree</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations></affiliations>
+            <mother.tongue>Telugu</mother.tongue>
+            <other.languages>Hindi, Kannada</other.languages>
+            <free.comments>Moved to Hubli (1957-59), Solapur
+            (1960-71), Kolhapur (1971 to date)</free.comments>
+     </biography>
+     <biography=<it>ICE-IND-S1A-093</it>>
+            <speaker.id>B</speaker.id>
+            <communicative.role></communicative.role>
+            <surname>Moktali</surname>
+            <forenames>Rajendra</forenames>
+            <age>50+</age>
+            <gender>male</gender>
+            <nationality>Indian</nationality>
+            <birthplace>Savanur, Dharwad, Karnataka</birthplace>
+            <education>Karnataka University, Shivaji
+                 University</education>
+            <educational.level>Doctorate</educational.level>
+            <occupation>Teaching</occupation>
+            <affiliations>Shivaji University Teacher's
+                 Association</affiliations>
+            <mother.tongue>Kannada</mother.tongue>
+            <other.languages>Hindi, Marathi</other.languages>
+            <free.comments>Moved to Belgaum (1946-54), Hubli
+                 91954-61), Gargoti (1961-66), Kolhapur (1966 to
+                 date)</free.comments>
+     </biography>
+</text.info>
