@@ -7,29 +7,29 @@
 ""
 ""
 ""
-""
-""
+Okay now 
+and this has a lot of hardware inside and also  ROM there
 is software 
 ""
 So the several commands we feed in it takes in and processes or do
 ""
 ""
 And 
+it's 
+""
+Then this is the monitor  of two fifty-six colour
+shade monitor 
+""
+You can see the  uh mike on
 ""
 ""
+Mike
 ""
 ""
+Microphone is on uh  his name ?
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
+Last man
 ""
 ""
 Now who is the last man  ?
@@ -39,17 +39,17 @@ Uh Anupam
 ""
 ""
  in
-""
+a 
 ""
 Uh uh 
 ""
+Uhm this is a very sensitive  it can give
+you two hundred and fifty-six grades of colour 
 ""
+Compared with a V G E monitor which you see usually a good monitor
+which gives you four shades 
 ""
-""
-""
-""
-""
-""
+We get uh nice uh this thing and  a flat screen too
 ""
 ""
  a flat screen
@@ -57,7 +57,7 @@ Uh uh
 ""
 And this also could also be connected to a computer
 ""
-""
+Right now  these guys are trying and not able to
 succeed 
 ""
 You can operate certain things from the computer 
@@ -73,20 +73,20 @@ There are some controls at the back panel but they have to be
 used 
 ""
 Output  there are certain outputs that could be taken from the
-""
+back panel 
 ""
 Here  and this
+is the output 
 ""
-""
-""
-""
+You input speech  you can also get the output
+of the sound 
 ""
 Usually  the output comes
-""
+through the speakers which are connected at the back 
 ""
 You can also listen through a headphone here 
 ""
-""
+The inputting is done  you can choose
 two channels 
 ""
 ""
@@ -95,19 +95,19 @@ Yeah
 ""
 And then 
 ""
+When you are recording through a microphone  you have to insert
+this into the microphone here 
+""
+This this is channel one 
+""
+This is for microphone and this is for auxilary that is tape
+recorder and such purpose 
 ""
 ""
+It will be higher voltage input 
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
+And similarly the other two 
 ""
 You also select your input level  it is at thirty degree which
 is a comfortable 
@@ -115,258 +115,258 @@ is a comfortable
 You can also increase it 
 and it becomes 
 ""
+See 
+hello 
 ""
 ""
 ""
+So we go down to thirty 
+""
+Now 
+""
+Let me get out of that  takes time to display
 ""
 ""
+Yeah 
+""
+This is the convention spectrogram  that has bottom of the layer
 ""
 ""
+So  either through
+microphone or through the auxiliary input 
 ""
+And then  you
+have to be in record mode 
 ""
+Once you press this one this is a very sacred button 
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
+If you press anything here whatever is recored gets erased  as
 there is this  continously
-""
+records and erases 
 ""
 As it proceeds it goes in a circle 
 ""
 So 
-""
+recording is going on 
 I'm 
 ""
 Now to stop it  and to preserve that signal I have to press this
+knob 
 ""
+And then always that enhance is necessary comes you just press this
+button E 
 ""
-""
-""
-""
-""
+Now the settings have been changed let me 
 ""
 ""
  yeah
 ""
 I have increased the input level here  you
+can see the difference in the  the amplitude is getting
+displayed there 
+""
+Now when I decrease it to thirty you will see that it becomes less
 ""
 ""
+Okay  uh sometimes
+it becomes a bit loud 
 ""
+What we can get here 
 ""
+Right now what we have chosen a spectrogram at the bottom 
+screen and the 
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
+So  akka
 ""
 ""
 In fact there is a clipping here  this kind of straight line
-""
+means  that clipping is going
 on 
 ""
+That clipping is going on 
 ""
-""
-""
+Clipping means 
 overloading 
 ""
+You can see that 
 ""
+So we should not be too close there 
 ""
-""
-""
-""
-""
+So  this is
+quite 
 ""
 Uh  akka
-""
+ you can get a few points in this
 ""
 I mean the interesting points you can see there 
 ""
-""
+One thing is you can see  it is something like I produce
 something like a sentence  with a pitch falling
-""
-""
-""
-""
+ and
+here too  the distance between pulse to pulse is becoming more and more
+ in a given period of time so the
+pitch is less 
 ""
 And we can do many many things with this signal here 
 ""
+ put some cursors now this this brings cursors in and
+out 
+""
+So the cursors give you the facility to measure
+""
+Let me shift them  the red
+cursor  shift it to the upper screen
 ""
 ""
+Now there  not one
+cursor there is a green cursor behind it 
 ""
+Just we are moving this moves the cursors 
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
+By moving it  both the cursors
+separated  is three point six five
 something  the
 ""
 ""
 Yeah  point one three
 ""
+So this  has come out
+as point one three four one three 
 ""
+We can use this 
 ""
-""
-""
-""
-""
+Let me expand this very form but as  in two contract
 form
 ""
 So I can go back to time access  and select the time
 access  I activate
+that 
+enhanced now 
 ""
-""
-""
-""
+Yeah it will rewrite 
 ""
 Redraw that  still this we have
+to enhance 
 ""
+So I say enhanced  it has redrawn in an
+expanded way 
 ""
-""
-""
-""
-""
-""
+What I can do is I can precisely measure  of the
+closure  akka
 ""
 ""
 Okay now this store business is that it makes the cursors 
-""
+where it converts the red and green to green and red 
 ""
 It has the only the red cursor moves the green cursor does not move
 ""
 ""
+So if I want  move this cursor I have to have it in red
+colour 
 ""
-""
-""
-""
+If I want to move this first I have to  then I
 can move it 
 ""
+Or if I want to move back  convert into red and then move it
 ""
 ""
-""
-""
+Okay now  that
 is the maintaining  the closure period
-""
+of the K in 
 ""
 That is point one nine second  seconds
 ""
 ""
-""
+Point two seconds 
 ""
 So  immediately you can get the measurement of the durations
 ""
 ""
-""
+I want to measure the duration of this 
 as opposed this 
 ""
+ point one seconds
 ""
 ""
-""
-""
-""
-""
+And then  and somewhere roughly
+there  that was hundred
+milli-seconds 
 okay 
 ""
 ""
 ""
-""
+See what is the difference between the 
 shwa  karto
 ""
 ""
 This is a 
+means you do the work 
 ""
 ""
+And it is phonetically 
 ""
 ""
-""
-""
-""
+a 
 ""
 Uhn  point
+one eight 
+""
+This is 
 ""
 ""
-""
-""
-""
-""
+This is  this is K is
 here 
 simply 
 ""
-""
+In fact you can hear that  you can choose a particular portion
 here how it sounds  or indeed the head phones otherwise it will disturb
-""
+everybody and you know if you go on playing that 
 ""
 And then this is  me kaam karto
 ""
 ""
-""
+Now this is the 
  fading away
 ""
 ""
+Fading out 
 ""
+Now here 
+okay  is point
+zero seven 
 ""
-""
-""
-""
-""
-""
-""
+So this way immediate measurement you can get  and if you have
+let us say hundred or  just transfer them
 one by one 
 ""
 There is a  buffer also
 ""
+And you can choose the buffer size 
 ""
+Now sometimes you have a doubt  where a particular
+segment started and where a 
+stopped 
 ""
+We have both systems 
 ""
-""
-""
-""
-""
-""
-""
+Let me realign them 
 ""
 Okay 
-""
+ you can see this this is spectogram of the same thing I gave the same
 signal in both the screens  and this is the
+sound spectogram 
 ""
+Sound spectogram  two
+dimensional 
 ""
+And here  that means change in
+colour 
 ""
-""
-""
-""
-""
-""
-""
-""
+You see the F one  and each vertical
+slash let me explain this 
 ""
 Okay now  one
-""
+after another corresponding to this pulses  each slashes is one lot of
 pulse 
 ""
 You can make it even even uh 
@@ -374,7 +374,7 @@ You can make it even even uh
 Now  how the pulses look like
 ""
 ""
-""
+Look at each pulse 
 ""
 ""
 Yeah 
@@ -387,18 +387,18 @@ So it is like that
 Then 
 ""
 ""
+You can see the formant transition 
 ""
 ""
 ""
-""
-""
+This is falling down to 
  has that S two rise S two
+fall 
 ""
+Uhn so those make you about what is a formant  just
+immediately show you what it is
 ""
-""
-""
-""
-""
+Let me 
 ""
 ""
 ""
@@ -411,7 +411,7 @@ Yeah
 Take the 
 ""
 Vowel 
-""
+at around 
 ""
 Second spectral peek 
 ""
@@ -421,95 +421,95 @@ So this is the usual configuration
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-glottal pulse 
-""
-""
- what we call
-""
-""
-follow let me change the colour 
-""
-""
-""
-that's  two fifty hertz is the first
-""
-""
-First form of the F one is at two fifty hertz 
-""
-""
-enhance for your analyses you get the spectrum 
-""
-Then the second spectral peak  is here you can see it
-visually 
-""
-""
-""
-""
-""
-This is again 
-""
-If you look at ledger if you remember ledger of this chart of F
-""
-""
-And this third one has got a split there actually third and fourth
-are 
-""
 Oh 
 ""
 ""
 ""
 ""
 ""
+This is an expanded we can see each  each pitch pulse
 ""
 ""
+And then the information  you can pick up one
+glottal pulse 
 ""
+Okay  it's
+ what we call
+F one 
+and the second spectral peak you know here it may be difficult for you to
+follow let me change the colour 
 ""
+Okay 
+and you can see the central point there 
+that's  two fifty hertz is the first
+spectral peak of the 
 ""
+First form of the F one is at two fifty hertz 
 ""
+This is spectrum  after you know you do this
+enhance for your analyses you get the spectrum 
 ""
+Then the second spectral peak  is here you can see it
+visually 
 ""
+This guy that is the second formant  which will correspond this
+peak you know both of them are moving in the similar  they are moving
+together 
 ""
+This is again 
 ""
+If you look at ledger if you remember ledger of this chart of F
+one F two F three 
+""
+And this third one has got a split there actually third and fourth
+are 
+""
+Oh 
+""
+Third and fourth is a 
+""
+I don't know I I think it shift aside 
+""
+Ah this is a better one yeah 
+""
+Let me clear this 
+""
+Now here 
+""
+Now there is the fourth formant 
+""
+So first form and second third fourth  first second third
+fourth 
 ""
 Now 
 ""
 Remember 
 ""
+Let me produce a  and see what
+happens to that 
 ""
+Yeah 
+the 
 ""
-""
-""
-""
-""
-""
-""
+So that F one F two F three F four 
+you can see the each formant  not only by
 looking at this if you want much precise measurement you can do it by this
 spectrum 
 ""
+This is the spectrum of the signal at that red cursor 
+""
+If you want spectrum  over a period of time
 ""
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
+Now you need two cursors now  power suppose I want to have an
+averaged  I simply press
+D 
 ""
 So 
 ""
-""
+But you can even analyse pitch pulse by pulse here  pulse by
 pulse you can analyse here 
 ""
 So  characteristics of different vowels

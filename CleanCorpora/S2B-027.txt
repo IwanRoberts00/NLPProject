@@ -2,69 +2,69 @@
 ""
 ""
 Photogrammetry  making measurements on
-""
+photographs 
 ""
 When direct measurements are not possible  as in the case of
 ""
 photograph and from that photograph 
 ""
-""
+Usually  to make map of the
 topography 
 ""
 In this case  branch is known as aerial photogrammetry
 ""
 ""
 If the photographs are taken from the ground  then the objects
+are surfaces  we
+call  the branch as close range photogrammetry
 ""
+Where do we make use of  ?
 ""
+There are 
 ""
-""
-""
-""
-""
-""
+We can broadly divide these applications 
 ""
 The first part 
 ""
+For example 
 ""
 ""
-""
-""
+In all these cases  on the surfaces are not
 moving 
 ""
 In the other case  or the surface
-""
+will be dynamic 
 ""
 To cite some specific example  a
-""
+wave form 
 ""
 When the waves are moving  if you want to make measurement
+about the characterstics of the wave  it is not possible to record the
+measurement 
+""
+We take the photograph of this wave  and
+later on we analyse the photograph  to derive that information we desire
 ""
 ""
+To cite another example  running
+athlete 
 ""
-""
-""
-""
-""
-""
-""
-""
-""
+If you want to analyse the movement of the athlete  it is
 difficult to make the measurement directly 
 ""
 We make use of close range photograph  to record the movement of
-""
+the athlete at various instance of time  and later on from the photograph
  to find
 out their deficiencies 
 ""
-""
+There are a number of applications of  close range
 photogrammetry in the medical field 
 ""
 One such application is plastic surgery 
 ""
-""
+For example  some alteration in any part
 of the human body  we should know the present position of the particular
-""
+part 
 ""
 We take  by making use of
 ""
@@ -73,257 +73,257 @@ The doctor can then simulate
 how the particular part would look like 
 ""
 The surgeon may decide 
-""
+from another part of the body  and
 how it should be placed  can be
 analysed  of the particular
+patient 
 ""
-""
-""
-""
+Another interesting application  crime
+scene 
 ""
 Imagine  in a very busy highway
 ""
 ""
 Immediately  for
-""
+kilometres together 
 ""
 We will normally wait  to make
 the necessary measurement 
-""
+to  to
 record all the measurements  to present the
-""
+case before the magistrate 
 ""
 Consider the  in this
+case  to clear the
+traffic 
 ""
+If you have here close range photogrammetry camera  we can rush
+the camera to the traffic accident site  record the scene by means of a
+few photographs 
 ""
-""
-""
-""
-""
-""
-""
-""
-""
+What all measurements we need  we
+can later on derive the same  taken from
+the close range photogrammetry camera 
 ""
 Another area  would be
-""
-""
+more useful  of
+massive structures 
 ""
 To cite a specific example  a massive dam
 ""
 ""
 If we would like to know 
  or how much the dam is getting deflected over a
+period of time 
+""
+We will make  on the surface of the dam
 ""
 ""
+We can record the dam site alongwith the target mark  making use
+of the photogrammetry camera 
 ""
-""
-""
-""
-""
-""
-""
+Normally  at intervals of about a month
 ""
 ""
 If we analyse the photograph of the dam  taken periodically
 ""
+how much that targets are getting moved  either in the vertical direction
 ""
 ""
-""
-""
+Because we will be taking measurement to a very high order of
 accuracy  we will be knowing
+how much the structure is getting deflected 
+very very accurately 
 ""
-""
-""
-""
+Same is the case when we want to record 
 ""
 For example 
+gradually the beam will be deforming 
 ""
-""
-""
+If a structural engineer would like to  record the behaviour of
 the structure  he can make use of the
-""
+close range photogrammetry camera  how the structure is
 getting deformed 
 ""
-""
+After the recording is done 
 in the special photogrammetry plotting machine  to find out their nature
-""
+of deformation  very very accurately
 ""
 ""
 Another field of application is 
 ""
+The anthropologists  skull
 ""
 ""
+The anthropologist will be  recording the important dimensions
+of various skulls 
 ""
-""
-""
-""
-""
+There will be some characteristic measurements  for a particular
 skull 
 ""
 If a skull is to be analysed we can take photograph of the skull
+ and from
+the measurements we can find out  to a
+Chinese 
 ""
-""
-""
-""
-""
+We need a number of  making use of
 the close range photogrammetry technique 
 ""
-""
+The first equipment needed  is an electronic distance measuring
 equipment 
 ""
+An electronic distance measuring equipment  is known as E D M
 ""
 ""
+This is a sophisticated equipment 
+and angles 
 ""
-""
-""
-""
-""
+An  and
 it travels to the point  and it
+gets reflected 
 ""
-""
-""
-""
+By analysing the face shift we can find out the distance between
+any two points  usually fractions of a
 milimetre 
 ""
 In the case of  we establish a
-""
+few control points 
 ""
 The E D M is made use of in the field  the
+rectangular coordinate of the various control points 
+""
+By analysing their distances and angles  we will come to know
+ of the control point situated in
+the field of view 
+""
+When we analyse this photograph in the plotting machine  the
+control points are very essential 
+""
+The coordinate of the control points  which were obtained from
+the E D M 
+""
+The second equipment needed for  the close range photogrammetry
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
+This camera 
+highly accurate camera  hundred and
 twenty centimetres 
 ""
+The lenses are having a focal length of sixty milimetres 
 ""
+A speciality of these two cameras is  that the lenses have been
+so refined  in the
+pictures taken from this camera 
 ""
-""
-""
-""
-""
-""
-""
+Since we will be making measurement on the photograph  to a very
+high order of accuracy 
 positioned in the geometrically correct location 
 ""
-""
+If there is need of  required for
 this stereometric camera  we we should have two cameras instead of one in
+the case of close range photogrammetry 
 ""
-""
-""
-""
+If we take twin pictures simultaneously  we will be able to see
+their actual field in three dimensions  in the plotting machine which we
 will be using later 
 ""
-""
+Because the two photographs are taken simultaneously  we are
 freezing the movement of the objects  we are able to get a
+three dimensional  true to scale model in the photogrammetric plotting
+machine 
+""
+This machine is so constructed  to have simultaneous pictures
 ""
 ""
-""
-""
-""
-""
-""
+If we operate a single button  both the pictures are taken
 simultaneously 
 ""
 Because we will be taking measurement very very accurately  this
 camera takes only glass plates 
 ""
+The glass plates are sensitized with the photogrammetric emulsion
 ""
 ""
-""
-""
+The emulsion are sensitive to the light  the processing
 which takes place after the exposure is made 
 ""
 During the development stage  no
+distortion of the pictures occurs 
 ""
-""
-""
-""
+Thats why we are making use of glass plates  to arrest all
+distortions of the negative 
 ""
 Another special feature of this camera  is the various
+possibility of 
 ""
-""
-""
+If we need  both the
 cameras can be rotated  the camera
 can be brought one over the other 
 ""
+The camera can also be swivelled about the vertical axis 
 ""
+Why should we need all these types of movement  ?
 ""
-""
-""
-""
+We may need to take photograph from the high point such as  the
 top of a mountain 
 ""
+Once the photographic processing  the original glass
+plates containing the emulsion 
 ""
-""
-""
-""
+In the plotting machine 
 one on the left side and one on the right side 
 ""
 We measure the coordinate of a particular point  in the machine
 ""
 ""
 The observer  mark in the field of
-""
+view 
 ""
 He keeps the  over a point of interest
 ""
 ""
-""
+As he  measures the coordinate of the point making use of the
 photogrammetric machine  part takes the X and
+Y coordinate  and they are
+processed through the computer  Y and either coordinates
 ""
 ""
+The ground control points which are measured earlier  they are
+also made use of  the point
+measured 
+""
+The computer  after recording all the photographic coordinates
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
+The graphic details are then passed on  to a special plotting
 table 
 ""
 In the plotting table  according to the
 command of the observer  into a
+picture 
 ""
+That picture may contain all the details  appearing in the field
+of view 
 ""
+The operator may choose  and special colours
+ appearing in the field
+of view 
 ""
-""
-""
-""
-""
-""
-""
-""
+A user by studying the map coming out from the  plotting table
  without any
+difficulty 
 ""
-""
-""
-""
+If the observer needs only the coordinate and not the map  he
+can take all the required coordinate  from the screen of the computer
 itself  all the
 measurements in a magnetic tape  he can store all the
-""
+information of the field 
 ""
 If you would like to record the changes in a particular field over
-""
-""
+a period of time  and
+from the repeated measurement it is possible to find out  the changes
 which have occured in a particular 
 ""
-""
-""
+Concluding I would like to  that whenever you have a
+situation 
 the stereophotogrammetric technique 
