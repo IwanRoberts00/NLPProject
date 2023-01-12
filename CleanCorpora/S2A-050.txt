@@ -1,521 +1,305 @@
 <I>
-""
-""
-Back to our  discontinued
-""
-""
-And uh  is the second set of the
-market 
-""
-And when we come to this already we have seen  how the real
-sector  and the result of which
-is 
-""
-""
-""
-Now here we come to 
-""
-The equilibrium  would ultimately give
-diagramatically 
-""
-And why L M as we know well  money
-""
-""
-Now  as we
-did in case of I S curve 
-""
-But initially  that the monitary sector
-equilibrium 
-money supply 
-""
-A very simple kind of an identity  take into
+Back to our I S L M model that we had discontinued
+ last week 
+And uh a continuation part of it is the second set of the
+market and that was the monitary sector equilibrium 
+And when we come to this already we have seen how the real
+sector reaches to its equilibrium position and the result of which
+is the I S curve 
+ We've drawn the I S curve also 
+Now here we come to this L M curve 
+The equilibrium in the monetary sector would ultimately give
+diagramatically the L M curve 
+And why L M as we know well L is liquidity M is money
+Now following almost the same pattern of explanation as we
+did in case of I S curve we can very well present this whole thing 
+But initially the proposition is that the monitary sector
+equilibrium is reached at the rate of interest at which 
+money supply equals money demand 
+A very simple kind of an identity you can take into
 account here 
-""
-Its a situation wherein 
+Its a situation wherein money supply would be equal to 
 money demand 
-""
-So this equality between money supply and money demand  is the
+So this equality between money supply and money demand is the
 condition of equilibrium here 
-""
-To put  H to indicate supply of money
- and
+To put briefly then M S H to indicate supply of money
+ is equal to M D small letter of capital letter and
 this we say is the condition of equilibrium 
-""
 And this will be our first equation 
-""
 First equation very simple thing 
-""
 And now you will find that the rest of this analysis when we
-progress 
+progress would be by and large within the Keyntian 
 framework 
-""
-Almost  your explanation of tension
+Almost much closer to your explanation of tension
 liquidity preference theory of interest 
-""
-Much of that 
-""
+Much of that is adopted here 
 So the matters become quite simple for us 
-""
-For example as we did last time left side 
-""
-Now what determines the money supply  ?
-""
-We  when we
+For example as we did last time left side right hand side 
+Now what determines the money supply ?
+We have already given an answer to this when we
 discussed tension theory 
-""
-What determines the money supply  ?
-""
-""
+What determines the money supply ?
 The state of reputation 
-""
-""
- the monetary
+ It's the monetary who determines the monetary
 authority 
-""
-So money supply is determined by 
-""
-""
-And it is because of this  any
-equation 
+So money supply is determined by the monetary authority 
+ B B writing 
+And it is because of this we will not be able to get any
+equation so far as money supply is concerned because there is 
 no set formula for determining money supply at a time 
-""
-That is just on the basis of the  that
-the monetary authority  goes on contracting or expanding the money supply
-""
-""
+That is just on the basis of the needs of the time that
+the monetary authority goes on contracting or expanding the money supply
 One side is open 
-""
-And therefore now  every emphasis
+And therefore now for the rest of the thing every emphasis
 will be placed on the demand side 
-""
-Now when you come to the demand side of money  this demand is
-determined by 
-""
-Three motives 
- B B writing
-""
-""
-And we follow this particular line  uh when you
-say  say in general say
-transactions 
-""
+Now when you come to the demand side of money this demand is
+determined by B B writing by the tension method 
+Three motives three motives haan 
+ we'll put in general say by the three motives B B writing
+ which govern liquiditive preference 
+And we follow this particular line cough uh when you
+say after three motives we group together say in general say
+transactions and precautionary motives 
 Now when you come to the transactions and precautionary motive 
-say broadly 
-""
+say broadly they will be calling it as transactions motive 
 Both are combined together 
-""
-Now when you take into consideration this one  this
-transactions motive  that is liquidity preference for transaction motive
-""
-""
-""
+Now when you take into consideration this one this
+transactions motive that is liquidity preference for transaction motive
+ depends on 
 Level of 
-""
-""
 Level of income
-""
-""
-Level of income 
-""
+Level of income B B writing 
 It depends on level of income 
-""
-Now 
-money 
-""
-Level of income 
-""
+Now in tension language this transactions demand for 
+money is indicated by the term M Y 
+Level of income is Y 
 Therefore if you would like to put this by way of impression 
-means say M-one 
-""
-M-one 
-""
-Now this is 
-""
-So one part of the total money 
-""
-Then you come to the second part of it  what
-comes now  ?
-""
-""
+means say M-one is a function of income 
+M-one is a function of income 
+Now this is second equation that you are able to get 
+So one part of the total money demand is taken care of 
+Then you come to the second part of it and that is what
+comes now ?
 Speculate
-""
-""
 Speculative demand 
-""
-Now speculative  this
-depends on  ?
-""
-""
+Now speculative demand for money B B writing this
+depends on ?
 Rate of interest 
-""
-""
-Correct 
-""
+Correct it depends on rate of interest 
 And therefore you want of this speculative demand is described as
 M-two 
-""
-The notation M-two has been used by Kens  we
-put in that M-two  you can use any notation to
-indicate function F or K  that is the
+The notation M-two has been used by Kens and therefore we
+put in that M-two is a function of you can use any notation to
+indicate function F or K anything is a function of R that is the
 third impression 
-""
 What we are doing here is just using the tension model of liquidity
 preference 
-""
-And 
-in order to give us 
-""
-Now given this two things equations two and three 
-what we know  M-one
-plus M-two 
-""
+And it's mostly that which Hicks and Henson have used 
+in order to give us the monetary sector equilibrium 
+Now given this two things equations two and three now 
+what we know that M D that demand is equal to M-one
+plus M-two B B writing 
 This is what we know 
-""
-If that is so  to put this
-in 
-""
-So we can say then 
-in 
-""
+If that is so given this therefore we can say to put this
+in equilibrium one or this condition of equilibrium 
+So we can say then that substituting B B writing 
+in substituting two and three in equation one 
 This and this we would be substituting in equation one 
-""
-Therefore we say money supply is equal to  let us initially put
-M money demand  just derivation every step I would like to put before you
-""
-""
+Therefore we say money supply is equal to let us initially put
+M money demand just derivation every step I would like to put before you
 And M D is uhm one plus M-two 
-""
-And we know that M-one 
-""
-So instead of M-one 
-its a function of Y 
-""
-And n place of M-two  put K R its function of rate of interest
-""
-""
-So this  that money
-supply  plus a function of
+And we know that M-one is a function of Y 
+So instead of M-one if you put in or substitute F Y 
+its a function of Y that is income 
+And n place of M-two put K R its function of rate of interest
+So this you're able to get ultimately that money
+supply is equa function of Y plus a function of
 rate of interest 
-""
-This becomes 
-""
-As we derived  in case of the real sector
+This becomes your equation number four 
+As we derived fourth equation in case of the real sector
 equilibrium 
-""
-And once you come this  L M
-curve 
-""
+And once you come this this is the equation of L M
+curve B B writing 
 This is the equation of L M curve 
-""
 So in a simple way we have derived these four equations 
-""
 Just see the stage by which we have progressed 
-""
 We began with the fact that the equilibrium in the money market or
-money sector  at the rate of interest at which
-""
-""
-Money supply is determined by the monetary authority  at any
+money sector would be establishd at the rate of interest at which
+ money supply is equal to money demand 
+Money supply is determined by the monetary authority at any
 given time 
-""
-Money demand 
-""
-So you will find here the L comes here  and the M comes on the
+Money demand is determined by liquidity preference 
+So you will find here the L comes here and the M comes on the
 other side 
-""
-The right hand side of this equation is all  liquidity feature
-""
-""
+The right hand side of this equation is all liquidity feature
 The left hand side is the money feature 
-""
-And therefore liquidity money  they are the two dimensions which
+And therefore liquidity money they are the two dimensions which
 are used 
-""
-In case of liquidity 
-M-one 
-""
-So M-one is a function of Y 
-""
-Whereas the speculative demand for money M-two  depends on R
-""
-""
+In case of liquidity the transactions demand for money 
+M-one is determined by income level 
+So M-one is a function of Y income 
+Whereas the speculative demand for money M-two depends on R
+ rate of interest 
 And therefore M-two is a function of R 
-""
-Naturally substitute these two in one  and ultimately you have
+Naturally substitute these two in one and ultimately you have
 come to this part 
-""
-So as I said 
-""
-The right part 
-""
-And therefore 
-""
-In graphical terms  liquidity
+So as I said the left part denotes M money supply 
+The right part determines L the liquidity preference 
+And therefore this is an equation of liquidity and money 
+In graphical terms it is described as L M curve liquidity
 money curve 
-""
-So again 
-because it is nothing but  by and
+So again you find that this part is so easy to present 
+because it is nothing but a repetition of tension presentation by and
 large 
-""
 What you teach in the tensus liquidity preference theory 
-""
-The same part is used  put in terms of four
+The same part is used we've put in terms of four
 equations 
-""
-Now once we have done this basic exercise  then we go to draw
-""
-""
+Now once we have done this basic exercise then we go to draw
+ the diagram 
 And since there are four equations by which we are putting this
- the L M
+ we again follow the four diagraphic chart for coming to the L M
 curve 
-""
-And therefore in this case  suggest you to
-take a 
-""
-The four 
-""
-As usual we 
+And therefore in this case again I'll suggest you to
+take a full page for the diagram 
+The four diagrams we will be drawing side by side 
+As usual we take up one two three four in an 
 anti-clock fashion 
-""
-And the direction 
-you start from diagram one reach to diagram two  then come to diagram
-three 
-""
-Now to begin with in case of uh 
-""
-We begin with 
-""
+And the direction would be the same as we have now notice 
+you start from diagram one reach to diagram two then come to diagram
+three and from three you come downwards to diagram four 
+Now to begin with in case of uh the first diagram 
+We begin with the speculative demand for money M-two 
 The first diagram begins with M-two 
-""
-So on X-axis you measure M-two  speculative
-demand for money 
-""
-And then on Y-axis what would come  ?
-""
-""
+So on X-axis you measure M-two which means speculative
+demand for money B B writing 
+And then on Y-axis what would come ?
 Rate of interest
-""
-""
-Rate of interest 
-""
-Now  we would follow the same technique as we did last time
-""
-""
-Taking numerical scales  because the matters become very
-simple for our understanding 
-""
-Just 
-""
-Now again the second stage that we follow is to have  the
+Rate of interest R would be there 
+Now we would follow the same technique as we did last time
+Taking numerical scales because the matters become very
+simple for our understanding B B writing 
+Just the usual figures perhaps I've taken 
+Now again the second stage that we follow is to have the
 vertical and horizontal faint lines 
-""
 So that the graph sheet would be ready 
-""
-And we know here  the speculative
-demand for money 
-""
-Is it positive or negative  ?
-""
-""
+And we know here the relationship between the speculative
+demand for money and the rate of interest 
+Is it positive or negative ?
 Negative 
-""
-""
 Negative
-""
-""
 Negative 
-""
-So 
-""
-That is what 
-""
-If at all you can add this particular no  L
-negative function  the
+So M-two is negative function of the rate of interest 
+That is what we note in this case also 
+If at all you can add this particular no E it is L
+negative function M-two is a negative function of R the
 rate of interest 
-""
 They have a negative relationship 
-""
 So naturally as usual you find if the rate of interest is suppose
-eight percent  the speculative demand can be just hundred
-""
-""
+eight percent quite high the speculative demand can be just hundred
+ a quite low demand for speculative purposes 
 If it comes down to seven percent the speculative demand will go
 up to two hundred 
-""
-You move to the right  as you come down on
-Y-axis  more the demand for speculative
+You move to the right on X-axis as you come down on
+Y-axis lower the rate of interest more the demand for speculative
 purpose 
-""
-So rate of interest if it comes down to six percent  you have
+So rate of interest if it comes down to six percent you have
 demand three hundred 
-""
 If it comes to five percent demand is four hundred 
-""
-And if it comes to four percent  say demand is five percent
-""
-""
-And we join these points 
-""
+And if it comes to four percent say demand is five percent
+And we join these points get a curve 
 Now this curve can be described as a curve for M-two 
-""
-M- two curve  demand
-functions speculative demand function M-two  rate of
+M- two curve and if you wish to write here the demand
+functions speculative demand function M-two is a function of rate of
 interest 
-""
-So you have taken care of equation number three here  that is
+So you have taken care of equation number three here that is
 represented well 
-""
-Now from there you pass on to equation number uh  the diagram
+Now from there you pass on to equation number uh the diagram
 number two 
-""
-And as you know that  that
-whatever is presented on X-axis in diagram number one  will be repeated on
+And as you know that the usual way of drawing that
+whatever is presented on X-axis in diagram number one will be repeated on
 X-axis in diagram number two 
-""
-And therefore  you will have M-two
-represented 
-""
-So 
-transfered to this 
-""
-And 
-""
-So here 
-""
-""
-Now this second diagram  equality
-identity 
-""
+And therefore in this diagram you will have M-two
+represented on X-axis 
+So let's first have the scale of M-two 
+transfered to this B B writing 
+And let's have the vertical lines drawn 
+So here you have the speculative demand or money 
+ B B writing transfered here 
+Now this second diagram will take care of the equality
+identity money supply equal to money demand 
 But this identity will represent not simply by saying 
-Money supply equal to money demand  with
-the help of one which was here  is equal to
-""
-""
-And that  part we will be taking money demand equal to M-one
-""
-""
-And here we assume its certain  which
-means money supply 
-""
-Suppose here we assume  which means
-money supply also 
+Money supply equal to money demand but that we would be taking with
+the help of one which was here money demand was is equal to
+ M-one plus M-two 
+And that part we will be taking money demand equal to M-one
+ plus M-two 
+And here we assume its certain total money demand which
+means money supply it equals money supply 
+Suppose here we assume that money demand which means
+money supply also is five hundred crores of 
 rupees 
-""
-If we presume this  this graph what would come on
-the vertical  ?
-""
-""
-""
-""
-""
+If we presume this then this graph what would come on
+the vertical part of this diagram ?
+ It's N 
 No 
-""
 You have to concentrate only on that equation 
-""
-If  speculative
-demand for money that is M-two  ?
-""
-""
+If on X-axis you are able and you have taken speculative
+demand for money that is M-two what would come ?
 Rate of interest
-""
-""
 Rate of interest 
-""
-""
-Where comes the rate of interest in this equation  ?
-""
-""
-""
-""
-""
-Its 
-""
-""
-""
-""
-This has to be understood correctly and properly 
-this can be  while drawing the
+Where comes the rate of interest in this equation ?
+ One word 
+Its two words 
+ Laughs 
+This has to be understood correctly and properly because 
+this can be an accidence for for any any person while drawing the
 diagram 
-""
 Other things would follow very automatically 
-interruptions 
-""
-No income business should be there  no rate of interest should
+interruptions laughs 
+No income business should be there no rate of interest should
 be there 
-""
-Supply of money is equal to demand for money  and demand for
+Supply of money is equal to demand for money and demand for
 money is broken into two parts M-one plus M-two 
-""
-If one axis takes care of M-two  the other axis must take care
-of  ?
-""
-""
+If one axis takes care of M-two the other axis must take care
+of ?
 M-one 
-""
-""
-M-one 
-""
-See how it comes 
-""
-But let us put this and have  the diagram ready for drawing
+M-one laughs 
+See how it comes I'll explain to you 
+But let us put this and have the diagram ready for drawing
 this one 
-""
-Say M-one which represents  now you are coming to equation
-number two  uhm
-""
-And 
+Say M-one which represents now you are coming to equation
+number two which is an equation of M-one uhm
+And you are bringing in M-one plus M-two both together 
 which make up the demand for money and which is equal to supply of money 
-""
 So that identity can be represented this way 
-""
 Let us first go for this scale 
-""
-We follow the same 
-""
-You can use any numbers 
-""
+We follow the same numbers here easy way to put in 
+You can use any numbers B B writing 
 But normally I presume in all classes that the students know
-number 
-""
-So that very easy to go with single digits  if at all a class
+number upto ten maximum one to ten 
+So that very easy to go with single digits if at all a class
 like yours is there I presume that you know numbers upto hundred 
-""
 Uh because calculations orally become very easy
-""
-The whole thing is that  do not
-matter  rupees
- rupees
- whatever you can put
+The whole thing is that what figures you take do not
+matter what this hundred means it can be hundred rupees
+ it can be hundred crore of rupees
+ hundred million of rupees whatever you can put
 into bracket 
-""
-So how much amount you put in it 
-""
-So let us have the horizontal line  points
-corresponding to 
-""
+So how much amount you put in it is immaterial that 
+So let us have the horizontal line to get the points
+corresponding to X and Y axis 
 Now let us see how this comes into 
-""
 We have presumed that total demand for money is five hundred 
-""
 And this total demand for money is M-one plus M-two 
-""
-Now  if I give you
-""
+Now given this M D equal to five hundred if I give you
+ an amount equal to M-two I think you can do some subtraction 
 and find out the value of M-one 
-""
-Now let us go this way  if M-two is
-hundred  what will be M-one ?
-""
-""
+Now let us go this way that given that if M-two is
+hundred what will be M-one ?
 Four hundred
-""
-""
 Four hundred you know subtraction very well 
-""
-Then  that both
-together will make up five hundred 
-""
-So  M-one
+Then sub herein comes the first point that both
+together will make up five hundred rupees 
+So M-two is hundred and therefore remaining is M-one
 is four hundred 
-""
 The transactions demand for money 

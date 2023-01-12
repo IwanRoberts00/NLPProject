@@ -1,443 +1,282 @@
 <I>
-""
-""
-I think you know something about  credit cards
-""
-""
-The way in which a 
- and the means in which you can use
-the 
-""
-Basically a  is an unsecured loan
-""
-""
-When a bank is going to issue a  we
-say they have a strong 
-""
-We or 
-credit card  is the requirement of working
+I think you know something about credit cards
+ 
+The way in which a credit cards card 
+ is issued to customer and the means in which you can use
+the credit card 
+Basically a credit card is an unsecured loan
+ given by any bank or financial institution 
+When a bank is going to issue a credit card we
+say they have a strong certain capital base 
+We or bank's fundemental aspects behind which a 
+credit card company runs is the requirement of working
 capital 
-""
-So  and uh
-""
-""
-""
-Let me tell you about the proper method  credit card
-""
-""
-See basically  an unsecured loan
-""
-""
-We don't require any  or any
-advances against issue of 
-""
-All the customer has to do is to give some documents  proving
+So banks can draft the fund from other departments and uh
+ that's how issuing this credit card 
+Let me tell you about the proper method credit card
+ is issued 
+See basically as I told tell you it's an unsecured loan
+We don't require any uh what do you call as deposit or any
+advances against issue of credit card 
+All the customer has to do is to give some documents proving
 his income 
-""
-And we have certain criteria for procurement of uh  issuing that
-""
-""
-""
-he had to have a minimum  per annum
-""
-""
-So this is for  visa
+And we have certain criteria for procurement of uh issuing that
+ credit cards 
+ Let's suppose it's a salaried customer 
+he had to have a minimum gross salary of fifty thousand per annum
+ and thirty-six thousand per month 
+So this is for master card and visa
 card 
-""
-We also have another card called the  diners club card
-""
-""
-So the premium have a value card  if
-it is a salaried guy  that
+We also have another card called the diners club card
+ 
+So the premium have a value card it's about uh if
+it is a salaried guy he had to have an income of fifty thousand that
 is the take home and the gross of ninety-six thousand 
-""
-So these are  basically two views one is the verification view
-""
-""
+So these are basically two views one is the verification view
+ and other is judgemental view 
 Who has taken unsecured loan we have to verify as to the genuinity
 of the customer 
-""
-He might  be your
+He might for all you know he might going to be your
 credit runner 
-""
-So the person you have to pick is that  that are really
-executives  credit
-cards 
-""
-And we have cases of  lakhs
-""
-""
-So the first thing that we require for that guy 
+So the person you have to pick is that that are really
+executives whether he is really capable of holding credit
+cards because the banks stake is involved in it 
+And we have cases of two words worth lakhs
+ of rupees 
+So the first thing that we require for that guy is to 
 fulfill our income criteria 
-""
-If he fulfills that  we have to fix some verification criteria
-""
-""
-So 
-""
+If he fulfills that we have to fix some verification criteria
+So the first thing that we do is clear application 
 We have what you call as direct sales agent 
-""
-So these guys go and get application 
+So these guys go and get application from a major company 
 and uh big shop partnerships and all that 
-""
-So as soon as they  clear applications and get them signed with
-all the documents  certified public accountant
-""
-""
+So as soon as they clear applications and get them signed with
+all the documents they are submitted to a certified public accountant
 He may call us metro city
-""
-They submit all app 
-""
-And the metro city gives them to  uh C P I in Madras, whom we
-call as a noddle certified public accountant 
-certified public accountant  verifies after the completing of the
-application  and uh
-data enters them onto the computers which are in the system  and at the
-end of the day 
-""
-And at the end of the day he transmit this through a modem  to
+They submit all app or the application to the metro city 
+And the metro city gives them to uh C P I in Madras, whom we
+call as a noddle certified public accountant and uh that noddle 
+certified public accountant verifies after the completing of the
+application whether they have fulfill the criteria manually and uh
+data enters them onto the computers which are in the system and at the
+end of the day he takes down them as a dbase file 
+And at the end of the day he transmit this through a modem to
 Trivandrum 
-""
-And everyday evening  into progress
-""
-And after this gets downloaded into citibank systems  we have to
-convert it into our database  and we have to issue the database upto work
+And everyday evening this transmission gets into progress
+And after this gets downloaded into citibank systems we have to
+convert it into our database and we have to issue the database upto work
 table 
-""
-So we have to run certain programmes  they are called odi
+So we have to run certain programmes they are called odi
 programmes or what you call end of the programme 
-""
-After all these programmes are run  these database downloaded
+After all these programmes are run these database downloaded
 into our system 
-""
 And next day morning they will be available for verification 
-""
-So the datas here  the
+So the datas here and the application will come in the
 next day morning 
-""
-As soon as they come  we have a process of what is called as
+As soon as they come we have a process of what is called as
 moving an application to an approval stage 
-""
 We have a different stage 
-""
-Suppose uh  give
-""
-""
+Suppose uh uh applicant doesn't given give
+ his date of birth 
 It is a mandatory field
-""
 We have certain mandatory field
-""
 Suppose if he has not given his address 
-""
 Suppose if he has not given his date of birth 
-""
 If you suppose if he has not given his income we have a mandatory
 field which are compulsory for any application 
-""
 So everyday a programme is run 
-""
 And uh the pointer looks up these certain fields and if these are
-not fulfilled 
-""
+not fulfilled it throws them into a certain station 
 Okay
-""
-And uh  check is fulfilled it moves to another stage
+And uh if this check is fulfilled it moves to another stage
  where you call a credit scoring programme as such
-""
-Based on the age of the applicant 
-on his uh 
-owns 
-""
-And taking  all these into account a certain score is assigned
+Based on the age of the applicant on his financial status 
+on his uh assets worth on the type of vehicle he own 
+owns there were funny fundemental tid bits 
+And taking all these into account a certain score is assigned
 to a customer 
-""
 Suppose he fails to score he will never be given a card 
-""
-And uh suppose he crosses that score he moves to another  stage
+And uh suppose he crosses that score he moves to another stage
 called a de-duplicative stage 
-""
-So all you know  a customer might apply once again he may be
+So all you know a customer might apply once again he may be
 already having a card 
-""
-And uh 
-""
+And uh he might apply once again to get another card 
 And there might be a chance of fraud 
-""
-So to rule out these  cases of fraud we have certain
+So to rule out these cases cases of fraud we have certain
 programmes what is called as de-duplication programme 
-""
-We have a database of around four  fifty
+We have a database of around four lakh fifty
 thousand members 
-""
-Around two  lakh
- in
+Around two lakh members and one lakh
+ fifty thousand applicant plus some one lakh in
 our work table 
-""
-So our  members
-""
-""
-So  gets matched against any of
+So our database or or what you call uh members
+ addresses and all these are totally on birthday base 
+So let's say these data gets matched against any of
 these 
-""
- it
-is  and any officer concerned has to
-look into it  ?
-""
-For all you know  me and my friend could have a same date of
-birth 
-""
+ Let's say date of birth or address or anything it
+is it goes to a certain status and any officer concerned has to
+look into it why why is it that ?
+For all you know me and my friend could have a same date of
+birth but we are different persons 
 So we have to look uh this is same person 
-""
-And suppose these are different he has to 
-clear 
-""
+And suppose these are different he has to clearly 
+clear uhm de-duplication programme 
 And after they cleared it it goes to credit verification stage 
-""
 Okay and uh the credit verification stage is sometimes all about
-""
-towards the income criteria and certain how it 
- credit card
-""
-""
-So we have to look for all these  and suppose if it
+ the verification of the application towards its completeness 
+towards the income criteria and certain how it consist criterias 
+ consists of criteria which I mean the credit card
+ man may subcribe 
+So we have to look for all these things and suppose if it
 is fulfilled we move to a different status 
-""
 And then two parallel process go on 
-""
-One is the fiscal reputaion criteria  and the other one is the
+One is the fiscal reputaion criteria and the other one is the
 bank verification criteria 
-""
-Suppose uh  categories of applicant we have
-different categories of  deliquency and
+Suppose uh for certain categories of applicant we have
+different categories of verification based on their deliquency and
 their past performance 
-""
-We have a  portfolio
+We have a we have taken a from how these portfolio
 perform 
-""
-And based on their performance of these portfolio  we have
+And based on their performance of these portfolio we have
 induced a certain verification criteria 
-""
-So suppose  say if it is salaried person we
+So suppose uh let's say if it is salaried person we
 have to perform our own verification 
-""
-Suppose  here the
+Suppose if you contact in a public limited company here the
 credit runner is much less you know public limited company
-""
-We have to  has he really applied for a
+We have to check for the person has he really applied for a
 card 
-""
-You see the person who has really applied for the card  and
+You see the person who has really applied for the card and
 certain checks over it
-""
-We have to check about 
-""
+We have to check about a few words 
 Yeah he may cross that stage 
-""
 And then suppose it is self employed we have to do a bank reference
-""
-""
 So this bank reference tell you all about the customer whether 
-he has any bounce cheques 
-""
+he has any bounce cheques what is his nominal balance 
 So this will provide you valuable clues as to how he could perform
 on your account 
-""
-So after this has proved  being pushed the application get
-certain status 
-""
-As soon as the card is issued  based on the source of
+So after this has proved being pushed the application get
+certain status and after all this is done we issue a card 
+As soon as the card is issued based on the source of
 accumulation the billing is done 
-""
- five different types of clause of
+ The there are five different types of clause of
 acquisition 
-""
 One is the direct sales agency 
-""
-The other one has got a 
-""
+The other one has got a cross road application 
 Suppose if he is already a diner clubs card number we sell him a
-""
-""
-Or when he gets the bill he gets these kind of application  he
-is into the 
-""
-The third one is take on  and there customers have
+ visa card or master card across the billing 
+Or when he gets the bill he gets these kind of application he
+is into the cross road 
+The third one is take on take on and there customers have
 been short finale 
-""
-So he all  the customer has to do is come and pick up the
-application  and if he fulfills the criteria he is
+So he all the customer has to do is come and pick up the
+application fill up all this and if he fulfills the criteria he is
 given the card 
-""
 And there are two three other ways in which a card is issued
-""
-So these are the  different ways in which application is closed
-""
-""
+So these are the different ways in which application is closed
 So based on the source of application the billing is different 
-""
-So as soon as these are entered  at
- as soon as application is approved
-""
-""
-So  as soon as the card is approved it goes to the customer on
+So as soon as these are entered a card is endorsed at
+ on the third day as soon as application is approved
+So as soon as the card is approved it goes to the customer on
 a second day 
-""
 Lately by third day the card get endorsed 
-""
-The next day 
-""
+The next day the card reaches the customer 
 And if you want to withdraw cash from what do you call as the
-automatic teller-machine or anytime money A T M  he has to get the card
+automatic teller-machine or anytime money A T M he has to get the card
 encoded 
-""
-There is a certain  identification number
+There is a certain uhm personal identification number
 which you give to a customer 
-""
-Only that customer holds that number and  then only he
+Only that customer holds that number and on then only he
 uses that number in the A T M he can withdraw money from that A T M 
-""
-So  and then
-you can use the  for cash
+So he has to get the card encoded in the A T M and then
+you can use the car card for cash
 withdrawl 
-""
-For purchases  he
+For purchases a customer need not get his card encoded he
 can just walk over to any shop which accepts our cards 
-""
 Those are called member establishment 
-""
-So here he just walk over to a shop  buy anything and then
+So here he just walk over to a shop buy anything and then
 charge his card against it 
-""
 We have what you call as charge list 
-""
-Suppose a customer goes and buys uh certain products  okay
-""
-And uh 
-""
+Suppose a customer goes and buys uh certain products okay
+And uh he has to submit the card 
 We have certain enrollment for every merchant establishment based
 on their performances and their deliquencies 
-""
-So  a jewellery shop is a high risk area
-""
-""
-So every  should
+So let's say a jewellery shop is a high risk area
+So every charge that is booked in a jewellery shop should
 be authorised by city bank 
-""
-So every time a charge come to a jewellery shop 
+So every time a charge come to a jewellery shop the 
 member establishment has to call up city bank to take an authorisation code
 which is an online real time system 
-""
 So certain fields are looked for and the card number is looked for
-""
-""
 So suppose the card number is data entered in that 
-""
-It immediately looks for customers account  its credit open to
-buy 
-""
-And there are certain checks towards it 
-""
-""
-So it looks for very synthetic field  and that either approves
-it 
-""
-If it is a  or certain code is
+It immediately looks for customers account its credit open to
+buy and how much is the credit line and how much has he utilised it 
+And there are certain checks towards it wh 
+ whether he has any bounce cheques in his account 
+So it looks for very synthetic field and that either approves
+it or reject it 
+If it is a if it is approved or certain code is
 generated 
-""
 And the the code is given to the member establishment
-""
-He has to write it down on that stamp slip  on his copy
-""
+He has to write it down on that stamp slip on his copy
 There are three copies atleast one to the card member one to the
 city bank and one to member 
-""
-So  authorisation code on that card
+So he has to write the authorisation code on that card
 state bank submitted to city bank 
-""
 I mean when there is an authorisation code the charge will be
 valid 
-""
-Only in case of flow limit higher than  what a fixed deposit
+Only in case of flow limit higher than what a fixed deposit
 has given 
-""
 In case he has charges below the flow limit accepted by city bank
 he will not take an authorisation 
-""
-He can just 
+He can just give the charge to one word and 
 submit to city bank to get payment within two or three days 
-""
-The main reason why  uh charge required to be authorise is
-because of the  of
+The main reason why uh charge required to be authorise is
+because of the delin deliquency of
 customer,
-""
 Let me suppose a customer has a credit line of only twenty-five
-thousand  and he hasn't paid us till
-now  so we can't allow the customer to use the card and keep piling on
-the 
-""
+thousand and he has applied sixty thousand and he hasn't paid us till
+now so we can't allow the customer to use the card and keep piling on
+the deliquency or the raise up raise debt getting accumulated 
 So we have to serve him certain point of time 
-""
 So let us say a customer goes deliquent and his account is blocked
 here 
-""
-When 
+When these customers their tendencies it's 
 normally to go and buy something above the flow limit 
-""
-So when they go above the flow limit the merchant  ordinarly
-takes the 
-""
-So  one
-word  and in certain cases where there are more
+So when they go above the flow limit the merchant ordinarly
+takes the authorisation from the city bank 
+So let's if an authorisation is declined the one
+word of charges declined and in certain cases where there are more
 sensitive cases we pick up the card 
-""
 And if the card is picked up from a merchant establishment the
-merchant gets a  or put on
-""
-""
-So these merchants help about in uh 
-""
-And another way where we detect fraud is  about uh another
-""
-""
+merchant gets a an award of thousand rupees or put on
+ it's depending on the value of the outstanding of the customer 
+So these merchants help about in uh quite a good way 
+And another way where we detect fraud is about uh another
+ sensitive areas where these customers go is to the A T M 
 So these customers go and try to withdraw money from the A T M 
-""
 So what we do is we block his account to the A T M 
-""
 And uh at the end of the day we transfer certain file 
-""
 As soon as these files are tranfered to the A T M through a modem
- if it
-is inserted into a A T M counter 
-""
+ any card that is black listed or hot listed in the A T M if it
+is inserted into a A T M counter the card gets wall out 
 You can never get the card back 
-""
 The only way that you can get the card get back you should get
-reinstated 
-""
-So these are some ways where  or
+reinstated or to get a new card 
+So these are some ways where fraud is being detected or
 is being controlled 
-""
-And the money that we made is on  discount that we get from
+And the money that we made is on discount that we get from
 member establishment 
-""
-So  this is called the plastic money and
-everybody profess  and they prefer to carry only
+So let's say this is called the plastic money and
+everybody profess not to carry money and they prefer to carry only
 credit card 
-""
-So we  negotiate with member establishment to accept
+So we go negotiate with member establishment to accept
 our cards 
-""
-What is the benefit for a member establishment  ?
-""
+What is the benefit for a member establishment ?
 He has a larger customer base 
-""
-And what is the benefit for city bank  ?
-""
+And what is the benefit for city bank ?
 We get a discount of two point three percent 
-""
-Uh  goods worth
- okay
-""
-And  member establishment submit the charge to
-us  less the discount on
-which there 
+Uh let's say a customer goes and buys goods worth
+ rupees hundred rupees okay
+And suppose the member establishment submit the charge to
+us we pay him only the amount less the discount on
+which there it is agreed 
