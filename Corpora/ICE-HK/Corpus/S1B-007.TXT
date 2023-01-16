@@ -1,0 +1,434 @@
+<I>
+
+<$A> 
+<ICE-HK:S1B-007#1:1:A>
+Uh <,,> so uh you are aware that some some people uh from
+English Department to find those do some recording here so uh just keep quiet
+and you are uh don't make too much noise uh we  ' ll <unc> one-word
+</unc>
+
+<ICE-HK:S1B-007#2:1:A>
+Uh today we shall introduce the so call uh three dimensional
+conservation equations <,>
+
+<ICE-HK:S1B-007#3:1:A>
+Now uh <,,> now this is the equation uh <,> governing the fluid <?>
+frozen </?> later on uh <,> we shall use this equation to investigate the
+growth uh using these three equations
+
+<ICE-HK:S1B-007#4:1:A>
+And uh <,> you can see that this equation is derived from uh law of
+conservation of mass <unc> one-word </unc> <?> and </?> energy
+
+<ICE-HK:S1B-007#5:1:A>
+Uh in your first year you might already uh come across this equation
+but it  ' s in one dimensional form but this year we shall look at it from a
+three dimensional uh approach because generally speaking all the fluid motion
+are three dimensional
+
+<ICE-HK:S1B-007#6:1:A>
+So we look at it from a general point of view and then later on we  ' ll
+simplify this equation into two dimensional one dimensional and we apply this
+equation equations to some <?> particular </?> case <,,>
+
+<ICE-HK:S1B-007#7:1:A>
+Okay let  ' s uh start with this uh <,> continuity equation first
+
+<ICE-HK:S1B-007#8:1:A>
+Uh continuity equation is actually the law of conversation of mass
+and to derive this let  ' s look at this cubical elements delta X delta Y and
+delta E Z and let  ' s consider the mass struck entering the six surfaces of
+its <,> in it <unc> one-word </unc> element
+
+<ICE-HK:S1B-007#9:1:A>
+Now uh on this surface on the Y E Z plane look at this uh delta Y
+and delta E Z
+
+<ICE-HK:S1B-007#10:1:A>
+The mass struck entering this is equal to density times the
+velocity <,> times the area okay
+
+<ICE-HK:S1B-007#11:1:A>
+This is the mass struck entering and the mass struck leaving this
+<,> uh the opposite surface are parallel distance delta X <,,> is equal to
+<,> the original where your road U plus a great of change of this road Q
+which we write because it  ' s just in the X direction so so be around road U
+round X times delta X
+
+<ICE-HK:S1B-007#12:1:A>
+Now this represent the increment if you cancel out delta X the
+delta X it means that this is the original road U plus a increment of delta
+increment of road U
+
+<ICE-HK:S1B-007#13:1:A>
+So this is the value at this side and then uh we have to multiply
+this by the area delta E Z delta Y
+
+<ICE-HK:S1B-007#14:1:A>
+So this is the mass of entering mass struck leaving here
+
+<ICE-HK:S1B-007#15:1:A>
+And <,> so that uh like all the six surfaces the mass struck
+entering this Q uh delta X delta Y delta E Z these it more critical element
+should be road U delta what Y delta E Z and road V
+
+<ICE-HK:S1B-007#16:1:A>
+V is the component in the of the velocity in the vertical direction
+or in the Y direction
+
+<ICE-HK:S1B-007#17:1:A>
+We write V to represent the velocity in the <,> Y direction
+
+<ICE-HK:S1B-007#18:1:A>
+And then there is a similarly there is a value of W velocity
+component in the E Z direction <,>
+
+<ICE-HK:S1B-007#19:1:A>
+So uh these three term add up is the mass entering it  ' s cubical
+element while the mass leaving this cubical element is the original value
+times the great of change of this along their distance so uh we have these
+three add up is the mass leaving the mass leaving uh <,> the element <,>
+
+<ICE-HK:S1B-007#20:1:A>
+So the mass entering and the mass leaving should be there will be a
+net value the net value is of course is equal to the mass leaving <,> the
+element <,,>
+
+<ICE-HK:S1B-007#21:1:A>
+The net value is equal to the mass leaving and minus the mass
+entering which uh should be equal to <,> this value
+
+<ICE-HK:S1B-007#22:1:A>
+Now <,> so there is a <.> incre </.> if there is an increase on
+mass in the element <,> the the volume of the element cannot change it must
+be delta X delta Y delta E Z
+
+<ICE-HK:S1B-007#23:1:A>
+So if there is an increase in mass in the element there must be a
+increase in density of the element density the element will be heavier and
+heavier with time
+
+<ICE-HK:S1B-007#24:1:A>
+Because if what flows in and what goes out are not balance there
+must be an increase inside is that right
+
+<ICE-HK:S1B-007#25:1:A>
+The increase can only take place with an increase of density of the
+mass inside the element
+
+<ICE-HK:S1B-007#26:1:A>
+So this is a round road road is the density
+
+<ICE-HK:S1B-007#27:1:A>
+Round road round T is the uh <,> increase of density or increase of
+mass and this increase of density times the volume is the increase of mass
+inside the element
+
+<ICE-HK:S1B-007#28:1:A>
+So we can now write the equation cancel out all the terms the
+result is <,> round road round T plus round road U round X plus round road U
+round <,> road V round Y plus round road W round Z is equal to zero and this
+is known as the <,> known as the continuity equation or this represent the
+law of conservation of mass <,>
+
+<ICE-HK:S1B-007#29:1:A>
+Now this is a <?> scatter </?> form uh of writing out this equation
+in the Cartesian coordinate
+
+<ICE-HK:S1B-007#30:1:A>
+Now in <,> <.> ve </.> very often in literatures we do not need not
+like to write this in a very complicated manner so we use the <?> rector </?>
+symbol or the <?> tenser </?> symbol uh <,>
+
+<ICE-HK:S1B-007#31:1:A>
+In the <?> rector </?> symbol now this is written as the dot
+product of this dell operator and the velocity <?> rector </?> V okay
+
+<ICE-HK:S1B-007#32:1:A>
+So uh don't be scare by this symbol because it just try to help you
+to write the equation in a simpler manner <,>
+
+<ICE-HK:S1B-007#33:1:A>
+Or in <?> tenser </?> location you write the equation in term of
+round X the <.> sub </.> K and you you <.> sub </.> K where this represent
+that they had the velocity in the X Y E Z directions okay
+
+<ICE-HK:S1B-007#34:1:A>
+So again is either the <?> tenser </?> location or the <?> rector
+</?> location you can regard it as just a kind of symbols mathematical symbol
+so as to simplify the equation or you can write it uh very easily literature
+<,,>
+
+<ICE-HK:S1B-007#35:1:A>
+When we are going to express the same thing <,> and in when you
+learn you your the Mathematics you know that the <,> the symbol of this dell
+operator is actually go to the I J K <?> rector </?> times the <.> re </.>
+respective <unc> one-word </unc> while the velocity component <?>
+rector </?> as uh also the I J K <?> rector </?> of U V W
+
+<ICE-HK:S1B-007#36:1:A>
+So the dot product of this is exactly the exactly this uh
+continuity equation <,>
+
+<ICE-HK:S1B-007#37:1:A>
+And sometimes you may also write the dot product call the <?>
+automatic </?> call it divergence of this uh <unc> one-word </unc>
+<?> rector </?> V <,> okay
+
+<ICE-HK:S1B-007#38:1:A>
+So anyway uh no matter where you see this equation uh you see
+either a complicated equation or this simplified form it just represent the
+same thing law of conversation of mass okay
+
+<ICE-HK:S1B-007#39:1:A>
+So uh this is the equation of law of conversation of mass uh which
+<,> the density is included in the in the <unc> one-word </unc>
+
+<ICE-HK:S1B-007#40:1:A>
+So this means that uh the flow may be compressible or
+incompressible
+
+<ICE-HK:S1B-007#41:1:A>
+The equation will be true either the density changes or not <,>
+
+<ICE-HK:S1B-007#42:1:A>
+For the case of incompressible flow where the density do does not
+change uh you know what is the situation most of the flow density is
+remaining constant
+
+<ICE-HK:S1B-007#43:1:A>
+Most of the fluid flow we  ' re study the density is constant unless
+its velocity very very high as high as greater than mark number point three
+otherwise we treat the flow as what incompressible
+
+<ICE-HK:S1B-007#44:1:A>
+Don't don't just say if you  ' re looking at gas and then you think
+that gas is compressible so the flow is compressible
+
+<ICE-HK:S1B-007#45:1:A>
+This is wrong okay because <,> what
+
+<ICE-HK:S1B-007#46:1:A>
+Only when the velocity is reaching mark point three then the effect
+of compressibility is getting important and mark point three is what value
+<,>
+
+<ICE-HK:S1B-007#47:1:A>
+The velocity of sound is what around three hundred and thirty meter
+per second so point three is one hundred meter per second
+
+<ICE-HK:S1B-007#48:1:A>
+And one hundred meter per second is around what three hundred and
+sixty kilometer per hour
+
+<ICE-HK:S1B-007#49:1:A>
+So even the highest speed train travel at the speed less than that
+isn't it
+
+<ICE-HK:S1B-007#50:1:A>
+It  ' s only when you  ' re talking about aircraft the movement of
+aircraft missile that the effect of compressibility is important
+
+<ICE-HK:S1B-007#51:1:A>
+So most of the fluid flow we study including gas or liquid
+
+<ICE-HK:S1B-007#52:1:A>
+Liquid is of course incompressible for most situation
+
+<ICE-HK:S1B-007#53:1:A>
+So the fluid flow as incompressible so the equation actually we do
+not need to include this density in because density now become a constant
+
+<ICE-HK:S1B-007#54:1:A>
+This means that in the cubical element it can there cannot be
+increase in mass so the result is what flows in must be equal to what flows
+out okay
+
+<ICE-HK:S1B-007#55:1:A>
+So the this become the volume flow rate entering the control volume
+is equal to the volume flow rate leaving
+
+<ICE-HK:S1B-007#56:1:A>
+So let  ' s eliminate the density from the equation so we eliminate
+the density because take out and from the from the <unc> one-word
+</unc> <,>
+
+<ICE-HK:S1B-007#57:1:A>
+So you can neglect this value and <,> for most of the flow we  ' re
+studying <,> uh we can look at it from the two dimensional point of view
+because <,> very often the end effect is just a small proportion of the
+situation so to simplify the equation again we should assume that for most
+flow situation there will be no valuation in the E Z direction
+
+<ICE-HK:S1B-007#58:1:A>
+So we leave we again eliminate distance uh W and then now the
+equation is the two D equation or two dimensional equation is just round U
+round X plus round V round Y is equal to zero
+
+<ICE-HK:S1B-007#59:1:A>
+So this is the equation which we shall encounter most often
+
+<ICE-HK:S1B-007#60:1:A>
+It  ' s just two dimensional that is only variation in the X and Y
+direction <,> okay
+
+<ICE-HK:S1B-007#61:1:A>
+So uh any equation or any velocity <,> if it satisfy this
+continuity equation when it substitute into the equations and to make the
+<unc> one-word </unc> <,> or the <unc> one-word </unc>
+differentiation
+
+<ICE-HK:S1B-007#62:1:A>
+We found that the result must be <,> zero
+
+<ICE-HK:S1B-007#63:1:A>
+If it  ' s not zero this means that is wrong okay
+
+<ICE-HK:S1B-007#64:1:A>
+This is the first criteria that we must satisfy of any <?> pro </?>
+okay
+
+<ICE-HK:S1B-007#65:1:A>
+What flows in must equal to what flows out
+
+<ICE-HK:S1B-007#66:1:A>
+And in your year one you usually use it in a pipes which is one
+dimensional that is to say what entering the pipe must be equal to what
+leaving the pipe this is only one dimensional okay <,,>
+
+<ICE-HK:S1B-007#67:1:A>
+So but this year we shall study mostly in the two dimensional
+approach <&> A long pause </&>
+
+<ICE-HK:S1B-007#68:1:A>
+Now and <,> it is possible <,> to <,> absorb this equation by
+introducing a function call a scale function call sine a Greek letter sine uh
+where if we define the velocity in the U component or in the X component as
+round sine round Y and the velocity in the Y component as round sine negative
+round sine round X or this is the definition of sine okay
+
+<ICE-HK:S1B-007#69:1:A>
+If we define this that way you substitute U and V into the
+continuity equation <,> if you substitute in you just find out that result
+you can cancel out <,> the two terms and the result is zero okay
+
+<ICE-HK:S1B-007#70:1:A>
+Is that clear
+
+<ICE-HK:S1B-007#71:1:A>
+You uh because U is equal the continuity equation is round U round
+X plus round V round Y equal to zero so you substitute here into that is
+round what round U
+
+<ICE-HK:S1B-007#72:1:A>
+U is round sine round Y <,> and then V is negative round <,> round
+sine round X
+
+<ICE-HK:S1B-007#73:1:A>
+So this is the same so that  ' s equal to zero this means that the
+definition of this scale formality just give out the result equal to zero
+which of course satisfy the continuity equation
+
+<ICE-HK:S1B-007#74:1:A>
+So if there exist a function of sine we we call this sine dream
+functions
+
+<ICE-HK:S1B-007#75:1:A>
+Later on I  ' ll give a name call dream function because it represent
+the dream line of the flow okay
+
+<ICE-HK:S1B-007#76:1:A>
+So uh if you it we call this dream function if there exist such a
+dream function uh defined that way then uh the result will satisfy the
+continuity equation <,> uh as we have shown here <,,>
+
+<ICE-HK:S1B-007#77:1:A>
+Now uh we have introduced the equation in uh Cartesian coordinate
+of delta X delta Y and delta E Z
+
+<ICE-HK:S1B-007#78:1:A>
+Of course it is it they possible to derive the equation in a
+cylindrical coordinate of R <unc> one- word </unc> and E Z component
+okay
+
+<ICE-HK:S1B-007#79:1:A>
+Why we need <?> cylindrical </?> coordinate why
+
+<ICE-HK:S1B-007#80:1:A>
+Anyone know
+
+<$?> 
+<ICE-HK:S1B-007#81:1:?> A circular plan
+
+<$A> 
+<ICE-HK:S1B-007#82:1:A>
+Yeah because many of the flow are pipes flow uh of cylindrical
+shape so if we can have the system in cylindrical coordinate uh when reduce
+the equations we will get a better or easier resolutions
+
+<ICE-HK:S1B-007#83:1:A>
+So in cylindrical coordinate it  ' s possible to draw these elements
+into uh in cylindrical coordinate of R delta <unc> one-word </unc>
+and then delta R and delta E Z and then again you obtain a mass balance of
+<,> of mass conversation of mass over this element
+
+<ICE-HK:S1B-007#84:1:A>
+Uh uh we  ' re not going into that because uh <,> it takes uh it mean
+the same meaning and it take some time
+
+<ICE-HK:S1B-007#85:1:A>
+In fact uh <,> the the diverge dell dot V this operator in
+Mathematics they can have some sort of transformations so it doesn't matter
+whether it  ' s Cartesian coordinate or cylindrical coordinate or even
+cylindrical coordinate
+
+<ICE-HK:S1B-007#86:1:A>
+It  ' s uh you  ' ll look up some mathematical table they have a
+equivalent transformation okay
+
+<ICE-HK:S1B-007#87:1:A>
+So in <?> rector </?> symbols is this one but in different
+coordinate they have different equation that can be found in many
+mathematical cable of this dell dot V
+
+<ICE-HK:S1B-007#88:1:A>
+The dot product of this <,> uh gradient operator and the velocity
+<?> rector </?> okay
+
+<ICE-HK:S1B-007#89:1:A>
+So it just take different form the physical meaning is exactly the
+same is just uh <,> the continuity equation and occur also in incompressible
+flow we <,> we do not need the <,> the density term <,>
+
+<ICE-HK:S1B-007#90:1:A>
+And <,> also it  ' s easy to reduce this equation into <,> two
+dimensional or one dimensional it  ' s for example if there is no variation of
+the velocity in the <unc> one-word </unc> direction
+
+<ICE-HK:S1B-007#91:1:A>
+So this means that round something round <unc> one-word
+</unc> is zero if there is no variation in the radial direction or R
+direction
+
+<ICE-HK:S1B-007#92:1:A>
+This means that uh round V round R is zero
+
+<ICE-HK:S1B-007#93:1:A>
+No variation <unc> one-word </unc> round something round
+<,> the uh this is if there is no variation
+
+<ICE-HK:S1B-007#94:1:A>
+So it  ' s you can also reduce it into simpler form <,,> but the
+dream functions for this cylindrical coordinates <,> uh may take different
+forms because that depend on whether the flow is axial symmetric uh if it  ' s
+axial symmetric means it is <.> sym </.> symmetrical above the E Z axis okay
+
+<ICE-HK:S1B-007#95:1:A>
+So if we have a circular body of this shape and the flow is X will
+be the same uh along this axis so there will be no vary no variation in the
+<unc> one-word </unc> direction
+
+<ICE-HK:S1B-007#96:1:A>
+So it  ' s symmetry symmetrical above this X uh E Z X axis <,> while
+in two dimensional flow it might be written in polar coordinates uh where
+there is no variation in the E Z direction </I>

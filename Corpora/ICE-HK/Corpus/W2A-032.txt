@@ -1,0 +1,762 @@
+<I> <h> <bold>
+
+<ICE-HK:W2A-032#1:1>
+The MISR Technology Envelope project </bold> </h>
+
+<p> 
+<ICE-HK:W2A-032#2:1>
+The objective of the MISR Technology Envelope project is to bring
+together many technical infrastructures to establish a &ldquo; boundless
+solution &rdquo; of networking services that comply to a predefined quality
+standard and lead to repeatable success of the overall design .
+
+<ICE-HK:W2A-032#3:1>
+The technical infrastructure includes supporting software and
+computing platforms that provide general support to all business applications .
+
+<ICE-HK:W2A-032#4:1>
+Users can have a &ldquo; common interface &rdquo; to access the entire IT
+architecture of the enterprise .
+
+<ICE-HK:W2A-032#5:1>
+The networking services provide an &ldquo; information superhighway
+&rdquo; for users to access current and future applications on a multiple
+computer platform environment .
+
+<ICE-HK:W2A-032#6:1>
+As a result , business applications become independent of the physical
+location .
+
+<ICE-HK:W2A-032#7:1>
+The Application Program Interface can now be redefined as the rules by
+which business applications call common services by the technical
+disciplines; it finally becomes the boundary between business application and
+technical infrastructure .
+
+<ICE-HK:W2A-032#8:1>
+When users access an enterprise  ' s IT architecture , they should be
+provided with interoperability , reusability , scalability and autonomy .
+</p>
+
+<p> 
+<ICE-HK:W2A-032#9:1>
+To achieve the above objectives , the technologies and business
+approaches that are getting the most attention nowadays are open systems ,
+client-server configurations and rightsizing/downsizing . </p>
+
+<p> 
+<ICE-HK:W2A-032#10:1>
+Each of these approaches can play a distinct and important role
+in giving the business a competitive advantage .
+
+<ICE-HK:W2A-032#11:1>
+The challenge is to figure out which combinations will best help IT
+users to meet their business goals . </p>
+
+<p> 
+<ICE-HK:W2A-032#12:1>
+Setting up and implementing networking services is not the final
+goal of the project .
+
+<ICE-HK:W2A-032#13:1>
+These services need t be managed so that the committed quality &obrack;  i.e.
+, Service Level &cbrack; can be delivery to the end users .
+
+<ICE-HK:W2A-032#14:1>
+Various network management techniques need to be incorporated in the
+project so that the networking services can produce maximum efficiency .
+
+<ICE-HK:W2A-032#15:1>
+The demands of future networking services should be simulated and
+forecast and these services should be compatible with predefined financial
+objectives .
+
+<ICE-HK:W2A-032#16:1>
+The proposed set up needs to be flexible enough to accommodate new
+technology .
+
+<ICE-HK:W2A-032#17:1>
+Another major success factor is that business process re-engineering
+will often provoke adverse reactions from the end users and special action
+plans need to be established to handle such situations . </p>
+
+<p> 
+<ICE-HK:W2A-032#18:1>
+This project looks at the various factors in business process
+re-engineering and try to apply the relevant technical and management
+principles .
+
+<ICE-HK:W2A-032#19:1>
+The ultimate objective is to provide a framework for the evolution of
+IT within an organization based on business and technical standards .
+
+<ICE-HK:W2A-032#20:1>
+By means of these organizational and technical innovations , the IT
+organization will provide users value trough the use of IT . </p> <h> <bold>
+
+<ICE-HK:W2A-032#21:1>
+THE MISR PROJECT FORMULATION </bold> </h>
+
+<p> 
+<ICE-HK:W2A-032#22:1>
+This section describes the formation of the Technology Envelope
+Project and the methodologies used to identify the opportunities and
+requirements .
+
+<ICE-HK:W2A-032#23:1>
+The key questions addressed were: Where are we now ?
+
+<ICE-HK:W2A-032#24:1>
+&obrack;  existing business information systems &obrack;  IS/IT environment &cbrack; 
+
+<ICE-HK:W2A-032#25:1>
+Where do we want to be ?
+
+<ICE-HK:W2A-032#26:1>
+&obrack;  Future business and IS/IT environment - vision)
+
+<ICE-HK:W2A-032#27:1>
+How do we get there ?
+
+<ICE-HK:W2A-032#28:1>
+&obrack;  opportunities and environment &cbrack; </p>
+
+<p> 
+<ICE-HK:W2A-032#29:1>
+The study was also designed to address the following questions
+relative to the implementation of IT infrastructure in MISR: ? Strategic
+IS/IT for current requirements and future growth ? Ease of use and ease of
+adoption by end users ? Flexible design , time to market ? Co-existence of
+current and future networking systems ? Compatibility of protocols ? The
+distribution computing approaching </p>
+
+<p> 
+<ICE-HK:W2A-032#30:1>
+This will lead to the formation of an IT infrastructure for today  ' s
+manufacturing environment and finally to the Technology Envelop model . </p>
+<h> <bold>
+
+<ICE-HK:W2A-032#31:1>
+Information Strategy/Information Technology alignment </bold> </h>
+
+<p> 
+<ICE-HK:W2A-032#32:1>
+Earl &obrack;  1 &cbrack; described a model that draws a clear distinction
+between IS strategy and IT strategy &obrack;  Figure 1 &cbrack; . </p> <O> Diagram </O>
+
+<p> 
+<ICE-HK:W2A-032#33:1>
+IS strategy addresses the question &ldquo; what is required?" .
+
+<ICE-HK:W2A-032#34:1>
+Earl described the IS strategy as being &ldquo; concerned primarily
+with aligning IS development with business needs and with seeking strategic
+advantage from IT &rdquo; . </p>
+
+<p> 
+<ICE-HK:W2A-032#35:1>
+IT strategy addresses the question &ldquo; how can it be
+delivered?" .
+
+<ICE-HK:W2A-032#36:1>
+It should define the technical framework within which IS applications
+will be developed and operated .
+
+<ICE-HK:W2A-032#37:1>
+Earl described the IT strategy as being &ldquo; concerned primarily
+with technology policies .
+
+<ICE-HK:W2A-032#38:1>
+It tackles questions of architecture , including risk attitudes ,
+vendor policies and technical standards" . </p> <h> <bold>
+
+<ICE-HK:W2A-032#39:1>
+Environmental analysis </bold> </h>
+
+<p> 
+<ICE-HK:W2A-032#40:1>
+External forces affect strategic IT planning , so changes in the
+environment call for new organizational strategies .
+
+<ICE-HK:W2A-032#41:1>
+To address the question &ldquo; <bold> where are we now </bold> ?
+&rdquo; we need to perform an environment analysis .
+
+<ICE-HK:W2A-032#42:1>
+This includes external factors , such as opportunities and threat
+analysis , and internal factors , such as strengths and weaknesses analysis .
+
+<ICE-HK:W2A-032#43:1>
+The objective is to understand the current company position . </p>
+
+<p> 
+<ICE-HK:W2A-032#44:1>
+The major factors in environmental analysis are: Major trends
+in the environment
+
+<ICE-HK:W2A-032#45:1>
+Implications of these trends for the organization
+
+<ICE-HK:W2A-032#46:1>
+The most significant opportunities and threat analysis </p>
+
+<p> 
+<ICE-HK:W2A-032#47:1>
+The aim of the study is to identify several major opportunities
+and threats from the trend information , then produce a documented picture of
+the most significant environmental developments around which the organization
+must formulate its future goals , strategies , structures and systems . </p>
+<h> <bold>
+
+<ICE-HK:W2A-032#48:1>
+Strategic structure technique </bold> </h>
+
+<p> 
+<ICE-HK:W2A-032#49:1>
+To address the question &ldquo; <bold> where do we want to be
+</bold> ? &rdquo; the strategic structure technique was adopted . </p>
+
+<p> 
+<ICE-HK:W2A-032#50:1>
+The challenge of competitive strategy is to create a competitive
+advantage for the organization .
+
+<ICE-HK:W2A-032#51:1>
+This comes from positioning an organization in a strategic position
+so it has an edge in coping with competitive forces and attracting additional
+users . </p>
+
+<p> 
+<ICE-HK:W2A-032#52:1>
+In order to establish the direction , we need to consider the
+internal/external business environment together with the internal/external
+IS/IT environment going through the structure technique to identify the
+opportunity and requirements . </p>
+
+<p> 
+<ICE-HK:W2A-032#53:1>
+The structure technique provides a mechanism for focusing
+alternative treatments on areas that should receive priority because they
+offer opportunities to reduce costs , add value or gain competitive position .
+</p>
+
+<p> 
+<ICE-HK:W2A-032#54:1>
+M.E. Porter identified three generic strategies for achieving
+competitive advantage in the market place: cost , differentiation and focus
+leadership &obrack;  2 &cbrack; .
+
+<ICE-HK:W2A-032#55:1>
+Organizations continuously search for new and innovative ways to
+implement these strategies successfully .
+
+<ICE-HK:W2A-032#56:1>
+The logistics function has been identified in many organizations as
+providing an excellent opportunity to exploit the above strategies . </p>
+
+<p> 
+<ICE-HK:W2A-032#57:1>
+Porter also included the concept of a value chain that &ldquo;
+disaggregates &rdquo; a firm into its strategically relevant activities in
+order to understand the behaviour of costs and the existing and potential
+sources of differentiation .
+
+<ICE-HK:W2A-032#58:1>
+He suggested that a firm gains competitive advantage by performing
+these important activities either less expensively or better than its
+competitors . </p>
+
+<p> 
+<ICE-HK:W2A-032#59:1>
+The value chain analysis is a systematic way of analysing both
+the direct and support activities carried out by an organization .
+
+<ICE-HK:W2A-032#60:1>
+It is used to analyse how to improve cost structure &obrack;  productivity &cbrack; and value added &obrack;  product differentiation &cbrack; .
+
+<ICE-HK:W2A-032#61:1>
+In the MISR project , the value chain follows the route of entry of a
+new project through the various processes on to the finish of the project and
+beyond . </p>
+
+<p> 
+<ICE-HK:W2A-032#62:1>
+Value chain analysis has two levels .
+
+<ICE-HK:W2A-032#63:1>
+Initially , each activity is analysed for opportunity for the company
+networking services to reduce cost or add value .
+
+<ICE-HK:W2A-032#64:1>
+Then , the interaction between activities is analysed for
+opportunities to reduce costs further and add value through enhanced
+coordination , integration , and information flows . </p>
+
+<p> 
+<ICE-HK:W2A-032#65:1>
+Bottleneck analysis devises strategic action to eliminate
+bottlenecks throughout the value chain .
+
+<ICE-HK:W2A-032#66:1>
+The major information infrastructure bottlenecks are: Application
+development
+
+<ICE-HK:W2A-032#67:1>
+Configuration management
+
+<ICE-HK:W2A-032#68:1>
+Network computing operation , administration and maintenance
+
+<ICE-HK:W2A-032#69:1>
+Platforms - Technology Envelope Model
+
+<ICE-HK:W2A-032#70:1>
+Application - strategic application </p>
+
+<p> 
+<ICE-HK:W2A-032#71:1>
+Breaking these bottlenecks provides the basic for advantage .
+
+<ICE-HK:W2A-032#72:1>
+M.E . Porter also identified &ldquo; service &rdquo; as one of the
+primary activities in the value chain and suggests that the principal value
+of the service is that it may help to enhance or maintain the value of the
+product , through activities such as installation , repair training , parts
+supply and product adjustment . </p>
+
+<p> 
+<ICE-HK:W2A-032#73:1>
+Another way to understand the overall cost structure is via value
+system analysis , which can be considered as an external value chain .
+
+<ICE-HK:W2A-032#74:1>
+This is a systematic approach to examining the interaction between
+organizations within a value system and identifying opportunities for
+networking systems to reduce costs or add value through enhanced coordination
+, integration and information flow .
+
+<ICE-HK:W2A-032#75:1>
+It establishes a framework for analyzing interaction between supply
+chains - can the networking system reduce cost or add value through enhanced
+coordination , integrate and information flow between organizations , for
+example by including the customer and vendor in the value chain in order to
+reduce costs or add value ? </p>
+
+<p> 
+<ICE-HK:W2A-032#76:1>
+Critical success factor analysis is the technique used to focus
+attention on a limited number of areas to ensure successful performance .
+
+<ICE-HK:W2A-032#77:1>
+The tasks identified to be done is the critical business issue .
+
+<ICE-HK:W2A-032#78:1>
+The objective is to assist users to adopt IT infrastructure to
+enhance competitive advantage . </p>
+
+<p> 
+<ICE-HK:W2A-032#79:1>
+In the MISR project , the critical business issue identified was:
+to optimize the network system availability to support the key applications
+that are vital to the success of the project .
+
+<ICE-HK:W2A-032#80:1>
+This issue should also identify the way that performance is measured
+, the impact of reaching the target level , the current objective and the
+future goal . </p> <h> <bold>
+
+<ICE-HK:W2A-032#81:1>
+The Strategic Management Process </bold> </h>
+
+<p> 
+<ICE-HK:W2A-032#82:1>
+1. Mission - our purpose
+
+<ICE-HK:W2A-032#83:1>
+'Contribute to the growth and success through... telecommunication
+services which provide competitive advantage... ' </p>
+
+<p> 
+<ICE-HK:W2A-032#84:1>
+2. Vision or  ' ideal future state'
+
+<ICE-HK:W2A-032#85:1>
+&obrack;  Information technology infrastructure)
+
+<ICE-HK:W2A-032#86:1>
+&obrack;  To support business process re-engineering)
+
+<ICE-HK:W2A-032#87:1>
+Decided outcomes Desired conditions </p>
+
+<p> 
+<ICE-HK:W2A-032#88:1>
+3a. Ongoing objectives - Service
+
+<ICE-HK:W2A-032#89:1>
+- Operation
+
+<ICE-HK:W2A-032#90:1>
+- Financial
+
+<ICE-HK:W2A-032#91:1>
+- Quality
+
+<ICE-HK:W2A-032#92:1>
+- Technology </p>
+
+<p> 
+<ICE-HK:W2A-032#93:1>
+3b. Mid-term target
+
+<ICE-HK:W2A-032#94:1>
+Strategy ? Workforce
+
+<ICE-HK:W2A-032#95:1>
+- Commitment
+
+<ICE-HK:W2A-032#96:1>
+- Creativity
+
+<ICE-HK:W2A-032#97:1>
+- Cost related </p>
+
+<p> 
+<ICE-HK:W2A-032#98:1>
+3c. Policy - guidelines for  ' Operating Rules ' </p>
+
+<p> 
+<ICE-HK:W2A-032#99:1>
+4. Critical success factors - People related
+
+<ICE-HK:W2A-032#100:1>
+- Service related
+
+<ICE-HK:W2A-032#101:1>
+- Cost related </p>
+
+<p> 5. Strategic Activities - what we are going to do to get what we need ?
+
+<ICE-HK:W2A-032#102:1>
+a. Check the strategy
+
+<ICE-HK:W2A-032#103:1>
+b. Check mid-term progress </p>
+
+<p> 6. Strategic Plans - tactical action for the next phase </p> <h> <bold>
+
+<ICE-HK:W2A-032#104:1>
+Company-wide Information Technology infrastructure </bold> </h>
+
+<p> 
+<ICE-HK:W2A-032#105:1>
+The study was designed to address the following issues relative
+to the implementation of an MISR company-wide IT infrastructure: Any work
+station/PC to any &obrack;  application &cbrack; connectivity
+
+<ICE-HK:W2A-032#106:1>
+Application manoeuvrability
+
+<ICE-HK:W2A-032#107:1>
+Co-existence of current and future systems
+
+<ICE-HK:W2A-032#108:1>
+Easily adopted by users
+
+<ICE-HK:W2A-032#109:1>
+Foundation of future business process re-engineering </p>
+
+<p> 
+<ICE-HK:W2A-032#110:1>
+The products of the project would be: A company-wide IT
+infrastructure
+
+<ICE-HK:W2A-032#111:1>
+A framework that can serve the evolving the needs of the users .
+
+<ICE-HK:W2A-032#112:1>
+It can also act as a catalyst for IT evolution within the user
+organization based on predefined technical standards
+
+<ICE-HK:W2A-032#113:1>
+A framework for the Information Superhighway &obrack;  Internet &cbrack; and other
+global information access systems
+
+<ICE-HK:W2A-032#114:1>
+A transport vehicle to support future application systems that
+will run in a distributed environment </p> <h> <bold>
+
+<ICE-HK:W2A-032#115:1>
+Technology trends &ampersand; the Internet </bold> </h>
+
+<p> 
+<ICE-HK:W2A-032#116:1>
+The MISR Project team studied the trends in technology &obrack;  details
+in Appendix I &cbrack; and found that historically , IT organizations have supported
+their users with computer resources &obrack;  in terms of MIPs and storage &cbrack; and
+business applications &obrack;  life cycle development and maintenance services &cbrack; .
+</p>
+
+<p> 
+<ICE-HK:W2A-032#117:1>
+Owing to the increasing commercial use of the Internet , the
+Commercial Internet Exchange was found in 1995 .
+
+<ICE-HK:W2A-032#118:1>
+It interconnects major networking companies for commercial traffic .
+
+<ICE-HK:W2A-032#119:1>
+The networking service is changing from the LAN-based file &ampersand; print ,
+simple directory , Email and database and the Web-based searching and
+publishing application to Internet-based directory , security , groupware and
+strategic business applications .
+
+<ICE-HK:W2A-032#120:1>
+IT organizations need to focus on the following: Professional
+services such as system integration , business solution consulting , business
+re-engineering consulting and project management
+
+<ICE-HK:W2A-032#121:1>
+Distributed processing platforms and application services
+
+<ICE-HK:W2A-032#122:1>
+Information sharing applications such as electronic mail and
+documentation collaboration
+
+<ICE-HK:W2A-032#123:1>
+Supply services for global computing via the Internet </p>
+
+<p> 
+<ICE-HK:W2A-032#124:1>
+Additionally , services will have to be packaged to meet the
+fragmented needs of different customers .
+
+<ICE-HK:W2A-032#125:1>
+Rather than one size fits all , a family of services should be built
+around one product theme .
+
+<ICE-HK:W2A-032#126:1>
+This service should include a low cost Spartan solution , a
+high-value solution , a high-end solution and a customizable solution . </p>
+
+<p> 
+<ICE-HK:W2A-032#127:1>
+According to Boar &obrack;  5 &cbrack; &ldquo; Successful IMM organization in
+the 90s - On one hand they will have to maintain , nourish , and extend the
+large embedded dbase of host-base systems which were built over the past 20
+to 30 years .
+
+<ICE-HK:W2A-032#128:1>
+On the other hand , they will have to move aggressively to offer
+solutions for high mobile and networked users deploying ever more
+application-specific information technologies as a result of re-engineering &rdquo; .
+</p>
+
+<p> 
+<ICE-HK:W2A-032#129:1>
+All the building blocks for the future exist within most IT
+organizations today in some form &obrack;  see Appendix 2 &cbrack; . They are: Data
+processing
+
+<ICE-HK:W2A-032#130:1>
+End user computing
+
+<ICE-HK:W2A-032#131:1>
+Document processing and job flow control
+
+<ICE-HK:W2A-032#132:1>
+Global electronic mail system
+
+<ICE-HK:W2A-032#133:1>
+Intelligent printing
+
+<ICE-HK:W2A-032#134:1>
+Voice mail and audio text applications
+
+<ICE-HK:W2A-032#135:1>
+Image processing and graphics </p> <h> <bold>
+
+<ICE-HK:W2A-032#136:1>
+Future strategies </bold> </h>
+
+<p> 
+<ICE-HK:W2A-032#137:1>
+To address the question &ldquo; <bold> How can we get there
+</bold> ? &rdquo; , a project has been initiated to &ldquo; Get , move and use
+information to support business process re-engineering" .
+
+<ICE-HK:W2A-032#138:1>
+The &ldquo; Desired future state position &rdquo; will be defined ,
+then the techniques of value chain analysis , bottleneck analysis and CFS
+analysis will be adopted . </p>
+
+<p> 
+<ICE-HK:W2A-032#139:1>
+The challenges that IT managers face nowadays are: ? Networking
+for mission-critical applications .
+
+<ICE-HK:W2A-032#140:1>
+Maintaining a constant labour force while the workload increases
+
+<ICE-HK:W2A-032#141:1>
+The continued growth of the network at a compound rate
+
+<ICE-HK:W2A-032#142:1>
+Demands from the users for a faster product time to market </p>
+
+<p> 
+<ICE-HK:W2A-032#143:1>
+IT management needs to accommodate the growing users demands for
+computing and networking services while reducing costs .
+
+<ICE-HK:W2A-032#144:1>
+During the strategic analysis , we identified three major
+bottlenecks for success of the technology envelope model:  Application
+development
+
+<ICE-HK:W2A-032#145:1>
+rapid creation and amending of applications
+
+<ICE-HK:W2A-032#146:1>
+Configuration management
+
+<ICE-HK:W2A-032#147:1>
+Adaptation of the technology envelope model to manage network
+computing in a multivendor environment
+
+<ICE-HK:W2A-032#148:1>
+Orderly evolution of network components
+
+<ICE-HK:W2A-032#149:1>
+Network computing operations , administration and maintenance that
+is daily end to end operation of client/server computing architecture </p>
+
+<p> 
+<ICE-HK:W2A-032#150:1>
+This can be divided into two levels: ? Platforms - address using
+the technology envelope approach
+
+<ICE-HK:W2A-032#151:1>
+Application - address using applications management </p>
+
+<p> 
+<ICE-HK:W2A-032#152:1>
+As discussed during the value chain analysis by Porter and
+McKinsey , breaking these bottlenecks provides the basis of advantage .
+
+<ICE-HK:W2A-032#153:1>
+To do this , the MIRS Project team adopted the value chain interlock
+approach , which makes the logistics as effective as possible and can offer
+better services and lower prices for comparable products . </p> <h> <bold>
+
+<ICE-HK:W2A-032#154:1>
+Strategies pursued </bold> </h>
+
+<p> 
+<ICE-HK:W2A-032#155:1>
+The following strategic items were identified for study by the
+MISR Project team: Technical services strategy
+
+<ICE-HK:W2A-032#156:1>
+Global electronic mail environment
+
+<ICE-HK:W2A-032#157:1>
+Common networking software
+
+<ICE-HK:W2A-032#158:1>
+Access security
+
+<ICE-HK:W2A-032#159:1>
+Provide Internet services
+
+<ICE-HK:W2A-032#160:1>
+Document sharing and groupware
+
+<ICE-HK:W2A-032#161:1>
+Internal communication and electronic forms
+
+<ICE-HK:W2A-032#162:1>
+Office automation and job flow control
+
+<ICE-HK:W2A-032#163:1>
+Cost control &obrack;  deliver services in a cost effective manner &cbrack;
+
+<ICE-HK:W2A-032#164:1>
+Focus - software , hardware , networking
+
+<ICE-HK:W2A-032#165:1>
+Service level &obrack;  dependable and consistent services &cbrack;
+
+<ICE-HK:W2A-032#166:1>
+Reliability , availability , serviceability
+
+<ICE-HK:W2A-032#167:1>
+Focus - training , networking and system tuning .
+
+<ICE-HK:W2A-032#168:1>
+Research and Development &obrack;  review , test and integrate new
+technology &cbrack;
+
+<ICE-HK:W2A-032#169:1>
+Focus - network integration
+
+<ICE-HK:W2A-032#170:1>
+Inter-Networking standards
+
+<ICE-HK:W2A-032#171:1>
+System hardware/software standards
+
+<ICE-HK:W2A-032#172:1>
+PABX/voice standards
+
+<ICE-HK:W2A-032#173:1>
+End user computing and graphics standards </p>
+
+<p> 
+<ICE-HK:W2A-032#174:1>
+Based upon the above findings , the MISR Project team defined
+networking information infrastructure as the trend to be followed most
+closely .
+
+<ICE-HK:W2A-032#175:1>
+Eventually , all telecommunications service will need to be
+integrated .
+
+<ICE-HK:W2A-032#176:1>
+The work station of the future will be not only a multi-functional
+data device , but a true multiple function facility for data and voice .
+
+<ICE-HK:W2A-032#177:1>
+Inter-Networking services will remain the focus and make productive
+all capital in use within the organization .
+
+<ICE-HK:W2A-032#178:1>
+Building and managing the network through all demand levels is the
+future challenge . </p>
+
+<p> 
+<ICE-HK:W2A-032#179:1>
+The objective for the project team is to look at the various
+factors in business process re-engineering and try to apply the relevant
+technical and management principles to handle the situation .
+
+<ICE-HK:W2A-032#180:1>
+The team must provide a framework for the evolution of IT within the
+organization based on business and technical standards .
+
+<ICE-HK:W2A-032#181:1>
+It should also reduce overall cost while improving performance .
+
+<ICE-HK:W2A-032#182:1>
+By means of these organizational and technical innovations , IT
+organizations will provide user value through the use of Information
+Technology . </p>
+
+<p> 
+<ICE-HK:W2A-032#183:1>
+Just as an effective highway system is needed to facilitate
+movement of people and goods , a company-wide information infrastructure is
+needed to move enormous quantities of data and to support and stimulate the
+innovative use of IT; to do this , the Technology Envelope model was
+developed . </p>
+</I>

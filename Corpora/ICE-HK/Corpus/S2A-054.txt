@@ -1,0 +1,531 @@
+<I> 
+
+<$A>   
+<ICE-HK:S2A-054#2:1:A>
+Uh let me start by calling up  <,,>  my new system  <,,> 
+ 
+<ICE-HK:S2A-054#3:1:A>
+Right  <,>  let me give you a briefing a little bit of the background in
+the beginning <,>  
+ 
+<ICE-HK:S2A-054#4:1:A>
+Uh how does CAD CAM come from
+ 
+<ICE-HK:S2A-054#5:1:A>
+Well it  ' s uh not actually quite  <,,>  uh fixed on the date  
+<ICE-HK:S2A-054#>  It all
+begin with the uh  <? >  spare  </?>  technology  <.>  o  </.>  after
+the second world war
+ 
+<ICE-HK:S2A-054#6:1:A>
+Uh the radar technology which is used for the display  <,>  and all the
+computer technology <,,>  
+ 
+<ICE-HK:S2A-054#7:1:A>
+This is the uh computer in those days <,>  
+ 
+<ICE-HK:S2A-054#8:1:A>
+And it  ' s in  <?>  walls  </?>  and  <?>  room full  </?>  of it
+ 
+<ICE-HK:S2A-054#9:1:A>
+And this is probably just one meg of memory <,,>  
+ 
+<ICE-HK:S2A-054#10:1:A>
+And of course today you can fit all of those into a little PCB
+board like that and already most more than the uh uh last two pictures in
+this middle area <,>  
+ 
+<ICE-HK:S2A-054#11:1:A>
+And until the nineteen fifty this man probably is  <,>  recognized as the
+father of CAD
+ 
+<ICE-HK:S2A-054#12:1:A>
+He joined the computer technology and the uh  <,>  radar technology and
+he draw lines  <?>  on  </?>  interactive <,>  
+ 
+<ICE-HK:S2A-054#13:1:A>
+He put in  <?>  points  </?>  join them erase them move them about
+ 
+<ICE-HK:S2A-054#14:1:A>
+And that  ' s about the recognized beginning of the CAD  <,,>   
+<ICE-HK:S2A-054#>  He is
+called Ivan Sunderland 
+ 
+<ICE-HK:S2A-054#15:1:A>
+And these are the uh mini computers in those days and it  ' s very
+large
+ 
+<ICE-HK:S2A-054#16:1:A>
+And you can see it  ' s quite similar to the radars <,>  
+ 
+<ICE-HK:S2A-054#17:1:A>
+And that is the mainframe computer <,>  
+ 
+<ICE-HK:S2A-054#18:1:A>
+And this is quite modern one is in the sixties  <,>  end of sixties <,>  
+ 
+<ICE-HK:S2A-054#19:1:A>
+ <?>  We  ' re  </?>  using that already to uh do computer aided design
+ 
+<ICE-HK:S2A-054#20:1:A>
+The example is that it is a goblet being uhm drawn on the
+computer
+ 
+<ICE-HK:S2A-054#21:1:A>
+It is in the form of a wire frame  <,> 
+ 
+<ICE-HK:S2A-054#22:1:A>
+And to uh provide a surface and the solid model onto this wire
+frame you can present it to the computer as an object <,>  
+ 
+<ICE-HK:S2A-054#23:1:A>
+And in those days <,>   they are already using advanced technology like
+texture mapping onto the goblet so that you can see it  ' s a uh
+actually on the surface of the goblet
+ 
+<ICE-HK:S2A-054#24:1:A>
+But it  ' s actually not the same thing
+ 
+<ICE-HK:S2A-054#25:1:A>
+It is by a technique called texture uh  <,>  texture mapping  <,,> 
+ 
+<ICE-HK:S2A-054#26:1:A>
+So they are already doing things like uh uh futuristic
+architectural design visualizations <,>  
+ 
+<ICE-HK:S2A-054#27:1:A>
+Uh in those days the fly through of  <,>   <unc> 
+one-word  </unc>  try to fly through of of the city uh all done in
+wire frame form
+ 
+<ICE-HK:S2A-054#28:1:A>
+They do not provide  <?>  solid  </?>  surface because it  ' s
+just cannot  <?>  codified by  </?>  computer  <,> 
+ 
+<ICE-HK:S2A-054#29:1:A>
+Uh advanced simulation is uh also being used in those days
+ 
+<ICE-HK:S2A-054#30:1:A>
+I apologize for the quality of some of these pictures because I use
+a uhm amateur scanner to uh video scanner to capture these pictures <,,>  
+ 
+<ICE-HK:S2A-054#31:1:A>
+And uh  <,>  another application in uh those days are in advertising
+ 
+<ICE-HK:S2A-054#32:1:A>
+This is a uh computer simulation of a uh animation of a uh shaver
+ 
+<ICE-HK:S2A-054#33:1:A>
+It is a uh milestone in those days that means cutting actually
+ <unc>  one words  </unc>  according to the power in cutting all the
+little bits of  <unc>  one-word  </unc>  area
+ 
+<ICE-HK:S2A-054#34:1:A>
+Doing that kind of advertising uh film is quite expensive
+ 
+<ICE-HK:S2A-054#35:1:A>
+It takes a long time to calculate and work out the uh each picture
+and frame the picture  <.>  con  </.>  consecutively then you will have the
+animated picture
+ 
+<ICE-HK:S2A-054#36:1:A>
+I think doing that frame in  <,>  is I was told that it is seventy
+thousand US dollars per set  <unc>  multiple words  </unc> 
+ 
+<ICE-HK:S2A-054#37:1:A>
+And also if you are doing things like uh  <,>  scientific
+visualization which can only be done in the in the CAD because you cannot
+take a camera and go to the  <?>  place  </?>  and take a picture  <,,> 
+ 
+<ICE-HK:S2A-054#38:1:A>
+They were using computers like these <,>  
+ 
+<ICE-HK:S2A-054#39:1:A>
+This is probably the most powerful computer in those days
+ 
+<ICE-HK:S2A-054#40:1:A>
+It  ' s called the Play One
+ 
+<ICE-HK:S2A-054#41:1:A>
+And uh you see areas of  <?>  bands  </?>  of discs to support it
+ 
+<ICE-HK:S2A-054#42:1:A>
+It is for arrange in a circular form because uh it is a
+multi-processor and between the processors they want to get the wires as close
+to each other as possible  
+<ICE-HK:S2A-054#>  The shorter distance there is less time for the
+electron to travel
+ 
+<ICE-HK:S2A-054#43:1:A>
+And because  <unc>  two words  </unc>  the central core to put
+ <?>  in  </?>  superconductor so that you can just add the bit little bit of uh
+speed to your computer  <,>  
+ 
+<ICE-HK:S2A-054#44:1:A>
+And they were doing things like uh natural phenomenon simulations
+on uh uh and it  ' s taking a lot of calculation and working out the uh uh
+natural phenomenon like sunsets clouds water and the new newly powerful
+computer can do this in those days  <,> 
+ 
+<ICE-HK:S2A-054#45:1:A>
+But of course these are old times and the new style is to do on
+desktop
+ 
+<ICE-HK:S2A-054#46:1:A>
+This is generated from desktop computer
+ 
+<ICE-HK:S2A-054#47:1:A>
+And uh it  ' s doing quite remarkable uhm animations and which is
+quite demanding for for for for the computing power <,>  
+ 
+<ICE-HK:S2A-054#48:1:A>
+The some of the things that is uh up to up to this date are still
+cannot be done by  <.>  com  </.>  uh desktop computers uh these applications
+which are uh simulations <,>  
+ 
+<ICE-HK:S2A-054#49:1:A>
+It takes a lot of calculation to work out the air flow and
+the turbulence
+ 
+<ICE-HK:S2A-054#50:1:A>
+For example  <?>  onto  </?>  uh this sort of uhm simulations  
+<ICE-HK:S2A-054#>  That is
+nineteen eighty-nine  <,,> 
+ 
+<ICE-HK:S2A-054#51:1:A>
+And another uh film is is the uh actual uh animation film
+ 
+<ICE-HK:S2A-054#52:1:A>
+In those days they use work station to do it
+ 
+<ICE-HK:S2A-054#53:1:A>
+But again  <,>  only about two five five years back
+ 
+<ICE-HK:S2A-054#54:1:A>
+Now uh everything is can be done on the desktop PC
+ 
+<ICE-HK:S2A-054#55:1:A>
+They are also using uh  <,>  human beings together with and uh actual
+uh computer generated pictures
+ 
+<ICE-HK:S2A-054#56:1:A>
+And that  ' s growing into what we call  <.>  vtual  </.>  virtual
+reality nowadays and this is virtual reality in the computer
+ 
+<ICE-HK:S2A-054#57:1:A>
+And you can see that it  ' s quite realistic and two persons are walking
+but you notice that they uh only got a  <unc>  one-word  </unc> 
+ 
+<ICE-HK:S2A-054#58:1:A>
+And of course the real  <?>  gains  </?>  of the virtual realities uh
+up to today is uh demonstrated onto this uh few things  <?>  such as a  </?> 
+recognized in Terminator Two which the uh metal man actually is forming a
+metal to man and uh man to metal and changing shapes all the time
+ 
+<ICE-HK:S2A-054#59:1:A>
+And it  ' s really state of the art technology being demonstrated on
+virtual reality is on the screen <,>  
+ 
+<ICE-HK:S2A-054#60:1:A>
+Jurassic Park which you will not believe this  <,>  dinosaur is being
+drawn on is the CAD model  <,,> 
+ 
+<ICE-HK:S2A-054#61:1:A>
+Now back to reality and uh I come from uh Hong Kong Productivity
+Council which uhm is uh semi government organization  <?>  with the  </?>  uh aim
+to improve the uh productivity in Hong Kong industry
+ 
+<ICE-HK:S2A-054#62:1:A>
+And I look after the tax service center
+ 
+<ICE-HK:S2A-054#63:1:A>
+And this is the Hong Kong PC unit  <,>  in Kowloon Tong
+ 
+<ICE-HK:S2A-054#64:1:A>
+We have uh quite a number of departments from environmental to
+electronics to computer services <,>  
+ 
+<ICE-HK:S2A-054#65:1:A>
+So uh and CAD CAM is part of it <,>  
+ 
+<ICE-HK:S2A-054#66:1:A>
+So what is CAD CAM
+ 
+<ICE-HK:S2A-054#67:1:A>
+It comes from CAD
+ 
+<ICE-HK:S2A-054#68:1:A>
+CAD  <,> 
+ 
+<ICE-HK:S2A-054#69:1:A>
+Before they call it Computer Aided Drafting because they just use
+the computer to draft
+ 
+<ICE-HK:S2A-054#70:1:A>
+But later on they found drafting can be used as design as well so
+they call it  <?>  CADD  </?>  C A D D Computer Aided Design and Drafting
+ 
+<ICE-HK:S2A-054#71:1:A>
+So uh on  <.>  ano  </.>  on another scheme  <?>  it it  </?>  combine it
+together nowadays it is called CAD Computer Aided Design because drafting
+comes with it
+ 
+<ICE-HK:S2A-054#72:1:A>
+The other scheme is called NC Numerical Control <,>   which you control
+the movement of the a machine cutting by  <.>  nume  </.>  numerics and putting
+computer to it you call it CNC
+ 
+<ICE-HK:S2A-054#73:1:A>
+And if you join the computer directly to it we call it DNC Direct
+Numerical Control
+ 
+<ICE-HK:S2A-054#74:1:A>
+So you work on the calculating part etcetera by data not by moving
+you hand  <unc>  one-word  </unc> 
+ 
+<ICE-HK:S2A-054#75:1:A>
+But this are now called CAM CAD Computer Aided Manufacturer  <,> 
+ 
+<ICE-HK:S2A-054#76:1:A>
+Now joining CAD and CAM together we call it CAD CAM
+ 
+<ICE-HK:S2A-054#77:1:A>
+So uhm but CAD actually has got the data that the CAM machine can
+use
+ 
+<ICE-HK:S2A-054#78:1:A>
+So if you not using the CAD data into CAM then you wasting half the
+data away  <,> 
+ 
+<ICE-HK:S2A-054#79:1:A>
+Give you an example very simple one of the CAD CAM applications
+ 
+<ICE-HK:S2A-054#80:1:A>
+You can see this in the Hong Kong PC logo sitting on a curved
+surface
+ 
+<ICE-HK:S2A-054#81:1:A>
+And you draw that by forming a model on the computer <,>   and uh to
+manufacture this thing out is quite difficult because to cut this surface is
+ <.>  veri  </.>  very simple
+ 
+<ICE-HK:S2A-054#82:1:A>
+But to cut it with this Hong Kong PC logo in the center is very
+difficult
+ 
+<ICE-HK:S2A-054#83:1:A>
+But it  ' s a piece of cake by a computer  <,> 
+ 
+<ICE-HK:S2A-054#84:1:A>
+What we do is we use the  <unc>  one-word  </unc>  cut control
+machine that this is actually a two part
+ 
+<ICE-HK:S2A-054#85:1:A>
+ <unc>  two-words  </unc>  two actually is turning
+ 
+<ICE-HK:S2A-054#86:1:A>
+ <?>  This is a particular  </?>  one is the model  ' s tool
+ 
+<ICE-HK:S2A-054#87:1:A>
+If you follow this  <,>  plane and do lines across doing that zig zag
+cutting then when that tool is turning and cutting then you remove the metal
+ 
+<ICE-HK:S2A-054#88:1:A>
+But how it move can be  <.>  compu con  </.>  controlled by the
+computer
+ 
+<ICE-HK:S2A-054#89:1:A>
+And you can move X Y and link the two with Z
+ 
+<ICE-HK:S2A-054#90:1:A>
+So in three dimensional you can form any form that you like  <,,> 
+ 
+<ICE-HK:S2A-054#91:1:A>
+But this is called the three axes machining
+ 
+<ICE-HK:S2A-054#92:1:A>
+But if you add the dimension on  <?>  tilting the head  </?>  the X Y
+the X Z plane and the Y Z plane then you got two  <.>  farth  </.>  two more
+degrees of freedom which we are called we call that
+five axes machining
+ 
+<ICE-HK:S2A-054#93:1:A>
+And most of this can be produced by five axes machining including
+uhm aerodynamic shapes turbine blades etcetera
+ 
+<ICE-HK:S2A-054#94:1:A>
+But in Hong Kong a lot of applications are mould making
+ 
+<ICE-HK:S2A-054#95:1:A>
+Mould making you know
+ 
+<ICE-HK:S2A-054#96:1:A>
+Once you make the mould you have to turn it out in one direction so
+uh so three axes is quite enough <,>  
+ 
+<ICE-HK:S2A-054#97:1:A>
+Remember the Hong Kong PC  <.>  few  </.>  uh Hong Kong PC logo in here
+and you cut it by forming the two parts
+ 
+<ICE-HK:S2A-054#98:1:A>
+So what the two does is cutting there and lift it up go across go
+down and cut again
+ 
+<ICE-HK:S2A-054#99:1:A>
+So doing this six  <?>  second  </?>  action you cut the piece out
+ 
+<ICE-HK:S2A-054#100:1:A>
+And of course how it move is controlled by the computer
+ 
+<ICE-HK:S2A-054#101:1:A>
+And you have quite a lot of  <?>  hindrance  </?>  of uh doing your
+cut
+ 
+<ICE-HK:S2A-054#102:1:A>
+This is going down cutting it  <,> 
+ 
+<ICE-HK:S2A-054#103:1:A>
+Moving up going across going across go down cutting it moving up
+going across cut down go down moving up so it  ' s one direction cutting
+ 
+<ICE-HK:S2A-054#104:1:A>
+Sometimes  <unc>  one-word  </unc>  you have to do one
+direction cutting only
+ 
+<ICE-HK:S2A-054#105:1:A>
+But the choice of various cuts that you can do is enormous
+ 
+<ICE-HK:S2A-054#106:1:A>
+This is doing  <?>  rounding  </?>  and when you hit the surface you
+ <?>  lift  </?>  the tool
+ 
+<ICE-HK:S2A-054#107:1:A>
+And if you hit that way you just follow it through  <,> 
+ 
+<ICE-HK:S2A-054#108:1:A>
+Another way of doing it  <,>  is to cut it by  <?>  regulate  </?> 
+ 
+<ICE-HK:S2A-054#109:1:A>
+So it  ' s uh it  ' s a lot of control that you can you can you can
+use on CAD CAM
+ 
+<ICE-HK:S2A-054#110:1:A>
+And this is the  <,>  best way of cutting it because the two is
+actually moving on the surface itself not like the just now sometimes you are
+cutting air and it  ' s worse time it  ' s more time  <unc>  one-word
+ </unc> 
+ 
+<ICE-HK:S2A-054#111:1:A>
+So actually two parts is doing that sort of cutting it out  <?> 
+cutting  </?>  it out until it  <?>  reach  </?>  that and it moves to another one
+clearing that and then it go round and cutting it <,>  
+ 
+<ICE-HK:S2A-054#112:1:A>
+These are the same we go down going round and lift the two
+ 
+<ICE-HK:S2A-054#113:1:A>
+These are the same
+ 
+<ICE-HK:S2A-054#114:1:A>
+So once you got the model  <?>  view  </?>  up in the computer you can
+cut it up quite easily <,>  
+ 
+<ICE-HK:S2A-054#115:1:A>
+That is the final product which the I particularly make the uh two
+parts quite coarse so that you can see the actual tool  <,>  cutting parts of it
+ 
+<ICE-HK:S2A-054#116:1:A>
+But it didn't make it progressively very thin and you can have a
+very smooth surface  <,>  
+ 
+<ICE-HK:S2A-054#117:1:A>
+Look at that  <,,> 
+ 
+<ICE-HK:S2A-054#118:1:A>
+Since the television screen is very easy
+ 
+<ICE-HK:S2A-054#119:1:A>
+But it  ' s very difficult to do it in manual manual means
+ 
+<ICE-HK:S2A-054#120:1:A>
+Operation is the same
+ 
+<ICE-HK:S2A-054#121:1:A>
+You work out two parts on the model and  <unc>  one-word
+ </unc> 
+ 
+<ICE-HK:S2A-054#122:1:A>
+And you can  <,>  uh accept the part and put it into uh the PNC
+machines CNC machines and you can ask the tool to cut the surface out <,,>  
+ 
+<ICE-HK:S2A-054#123:1:A>
+This is the typical machine which we call a CNC machine
+center
+ 
+<ICE-HK:S2A-054#124:1:A>
+And it has got a machining deck in there
+ 
+<ICE-HK:S2A-054#125:1:A>
+The tool is underneath here
+ 
+<ICE-HK:S2A-054#126:1:A>
+And it  ' s called a machining center because it  ' s got a  <unc> 
+two-words  </unc>  of tools that means you can uh the machine will change a
+little robot arm to rotate it
+ 
+<ICE-HK:S2A-054#127:1:A>
+These discs will rotate until the right tool is at the right
+position and the little robot arm will take the tool and lower it
+in the in in the machine in the cutting cutting deck
+ 
+<ICE-HK:S2A-054#128:1:A>
+And with different shape and different places you use different tool
+ 
+<ICE-HK:S2A-054#129:1:A>
+So this can be run virtually in an unmanned operation throughout
+until the complete job is done
+ 
+<ICE-HK:S2A-054#130:1:A>
+This is the the controller to control this machine
+ 
+<ICE-HK:S2A-054#131:1:A>
+It has got a computer in it and it will accept data from and
+communicate with other machines  <,,> 
+ 
+<ICE-HK:S2A-054#132:1:A>
+This is another type of uh CNC machine which is the CNC  <?>  fuel
+ </?>  is the  <unc>  one-word  </unc> 
+ 
+<ICE-HK:S2A-054#133:1:A>
+And it has got multiple tools and in profile of the actual cut is
+at first controlled by the computers  <?>  within  </?>  as well  <,,> 
+ 
+<ICE-HK:S2A-054#134:1:A>
+This is an electrode of a camera uh
+ 
+<ICE-HK:S2A-054#135:1:A>
+Sometimes you don't cut the actual uh  <,>   <.>  uch  </.>  actual
+product out
+ 
+<ICE-HK:S2A-054#136:1:A>
+You cut the electrode and use something called a  <unc> 
+one-word  </unc>  machine electrode  <?>  restarting  </?>  machine  <?>  if  </?> 
+ 
+<ICE-HK:S2A-054#137:1:A>
+The principle is simple that this becomes one electrode 
+
+ 
+<ICE-HK:S2A-054#>  The work piece is another electrical
+ 
+<ICE-HK:S2A-054#138:1:A>
+You put heavy voltage across it current across it and when you get
+the two next to each other the mould is then produced spark and it erodes
+the metal and then forms the shape of the the uh the electrode <,>  
+ 
+<ICE-HK:S2A-054#139:1:A>
+So cutting this out is the same whether it  ' s electrode or
+a product we do the same thing
+ 
+<ICE-HK:S2A-054#140:1:A>
+We model it and then we move about the two parts and you take the
+two parts to uh to to generate the  <?>  tool  </?>   </I> 

@@ -1,0 +1,988 @@
+<I>
+
+<ICE-HK:W1B-022#1:1>
+G-G200-022
+
+<ICE-HK:W1B-022#2:1>
+14 March 1994
+
+<ICE-HK:W1B-022#3:1>
+Mr. John A. Dibble
+
+<ICE-HK:W1B-022#4:1>
+The CIES Chairman
+
+<ICE-HK:W1B-022#5:1>
+c/o Cathay Pacific Airways Limited
+
+<ICE-HK:W1B-022#6:1>
+Manager Cargo Automation
+
+<ICE-HK:W1B-022#7:1>
+3rd Floor ,
+
+<ICE-HK:W1B-022#8:1>
+Room 329
+
+<ICE-HK:W1B-022#9:1>
+Cargo Terminal II
+
+<ICE-HK:W1B-022#10:1>
+Hong Kong International Airport
+
+<ICE-HK:W1B-022#11:1>
+Kowloon
+
+<ICE-HK:W1B-022#12:1>
+Dear Mr. Dibble , <h>
+
+<ICE-HK:W1B-022#13:1>
+<ul> COSAC &dash; CCCAT Date Exchange </ul> </h>
+
+<p> 
+<ICE-HK:W1B-022#14:1>
+Attached please find a letter which was sent to Census and
+Statistics Department regarding transmitting COSAC data electronically for
+your information . </p>
+
+<p> 
+<ICE-HK:W1B-022#15:1>
+We will keep you informed when there is any updated information .
+</p>
+
+<ICE-HK:W1B-022#16:1>
+Yours sincerely ,
+
+<ICE-HK:W1B-022#17:1>
+<O> signature </O>
+
+<ICE-HK:W1B-022#18:1>
+Marcus Mok
+
+<ICE-HK:W1B-022#19:1>
+General Manager &dash;
+
+<ICE-HK:W1B-022#20:1>
+Information Services
+
+<ICE-HK:W1B-022#21:1>
+MM:bt
+
+<ICE-HK:W1B-022#22:1>
+Atts. </I>
+
+<I>
+
+<ICE-HK:W1B-022#23:2>
+G-G207-135
+
+<ICE-HK:W1B-022#24:2>
+31 March 1994
+
+<ICE-HK:W1B-022#25:2>
+Mr. Man Wing Yiu
+
+<ICE-HK:W1B-022#26:2>
+Assistant Superintendent
+
+<ICE-HK:W1B-022#27:2>
+Airport Research Division
+
+<ICE-HK:W1B-022#28:2>
+Customs &ampersand; Excise Department
+
+<ICE-HK:W1B-022#29:2>
+Room 516 ,
+
+<ICE-HK:W1B-022#30:2>
+Cargo Office Block
+
+<ICE-HK:W1B-022#31:2>
+Hong Kong International Airport
+
+<ICE-HK:W1B-022#32:2>
+Dear Mr. Man , <h>
+
+<ICE-HK:W1B-022#33:2>
+<ul> COSAC 2 </ul> </h>
+
+<p> 
+<ICE-HK:W1B-022#34:2>
+Thank you for attending the COSAC 2 presentation on 9 March 1994 .
+
+<ICE-HK:W1B-022#35:2>
+The comments from C&E have been most useful and inspiring . </p>
+
+<p> 
+<ICE-HK:W1B-022#36:2>
+We will implement COSAC 2 based on the functional specification
+which we sent to you on 31 January 1994 , together with the comments which we
+received during the presentation . </p>
+
+<p> 
+<ICE-HK:W1B-022#37:2>
+We shall also arrange installation of the required computer
+terminals in due course and our Computer Operations Manager shall call you to
+arrange the necessary cables . </p>
+
+<p> 
+<ICE-HK:W1B-022#38:2>
+Please feel free to call me if you have further comments . </p>
+
+<p> 
+<ICE-HK:W1B-022#39:2>
+Please also convey my sincere thanks to Ms. Poon and your
+colleagues for their active participation and assistance , especially Mr. K.W .
+
+<ICE-HK:W1B-022#40:2>
+Lo who is now working closely with our COSAC 2 Implementation team .
+</p>
+
+<ICE-HK:W1B-022#41:2>
+Yours sincerely ,
+
+<ICE-HK:W1B-022#42:2>
+<O> signature </O>
+
+<ICE-HK:W1B-022#43:2>
+Marcus Mok
+
+<ICE-HK:W1B-022#44:2>
+General Manager &dash;
+
+<ICE-HK:W1B-022#45:2>
+Information Services MM:bt </I>
+
+<I>
+
+<ICE-HK:W1B-022#46:3>
+G-P012-006
+
+<ICE-HK:W1B-022#47:3>
+4 May 1994
+
+<ICE-HK:W1B-022#48:3>
+Mr. Bruce Dahl
+
+<ICE-HK:W1B-022#49:3>
+Vice President
+
+<ICE-HK:W1B-022#50:3>
+Asia Region
+
+<ICE-HK:W1B-022#51:3>
+Software AG &obrack; Hong Kong &cbrack; Ltd
+
+<ICE-HK:W1B-022#52:3>
+26/F Asia Orient Tower
+
+<ICE-HK:W1B-022#53:3>
+Town Place
+
+<ICE-HK:W1B-022#54:3>
+33 Lockhart Road
+
+<ICE-HK:W1B-022#55:3>
+Hong Kong
+
+<ICE-HK:W1B-022#56:3>
+Dear Bruce , <h>
+
+<ICE-HK:W1B-022#57:3>
+<ul> Software AG 1994 International Symposium </ul> </h>
+
+<p> 
+<ICE-HK:W1B-022#58:3>
+I must congratulate you on the great success of the Symposium in
+Strasbourg .
+
+<ICE-HK:W1B-022#59:3>
+It certainly is a very enjoyable and useful gathering .
+
+<ICE-HK:W1B-022#60:3>
+I have gained a lot in understanding more on SAG visions and
+approaches , and met a lot of new friends from all over the world .
+
+<ICE-HK:W1B-022#61:3>
+I have also gained a good insight of French dinners and entertainment .
+</p>
+
+<p> 
+<ICE-HK:W1B-022#62:3>
+Thank you again for inviting me to this special event and I look
+forward to be invited again in the next 50th anniversary celebration . </p>
+
+<ICE-HK:W1B-022#63:3>
+Yours faithfully ,
+
+<ICE-HK:W1B-022#64:3>
+<O> signature </O>
+
+<ICE-HK:W1B-022#65:3>
+Marcus Mok
+
+<ICE-HK:W1B-022#66:3>
+General Manager &dash;
+
+<ICE-HK:W1B-022#67:3>
+Information Services
+
+<ICE-HK:W1B-022#68:3>
+MM:bt </I>
+
+<I>
+
+<ICE-HK:W1B-022#69:4>
+G-P012-007
+
+<ICE-HK:W1B-022#70:4>
+5 May 1994
+
+<ICE-HK:W1B-022#71:4>
+Mr. Volker Canis
+
+<ICE-HK:W1B-022#72:4>
+Vice President
+
+<ICE-HK:W1B-022#73:4>
+Customer Service and Quality Assurance
+
+<ICE-HK:W1B-022#74:4>
+Software AG
+
+<ICE-HK:W1B-022#75:4>
+Uhlandstra&esszett;e 12
+
+<ICE-HK:W1B-022#76:4>
+D-64297 Darmstadt
+
+<ICE-HK:W1B-022#77:4>
+Germany
+
+<ICE-HK:W1B-022#78:4>
+Dear Volker ,
+
+<p> 
+<ICE-HK:W1B-022#79:4>
+It has been a great pleasure to see you again in Strasbourg .
+
+<ICE-HK:W1B-022#80:4>
+Your hospitality and thoughtful arrangement during the exposition
+have been excellent and I must sincerely thank you and all in Software AG who
+have made my visit very enjoyable and memorable .
+
+<ICE-HK:W1B-022#81:4>
+Please also convey my thanks to Mr. Holger . </p>
+
+<p> 
+<ICE-HK:W1B-022#82:4>
+It has been very valuable for me to learn of the various
+development in SAG .
+
+<ICE-HK:W1B-022#83:4>
+I understand from Mr. Frankie Sum that similar
+presentations/demonstrations will also be arranged in Hong Kong , which will
+be extremely useful .
+
+<ICE-HK:W1B-022#84:4>
+So far we have been concentrating on the support issues and I
+appreciate very much your awareness of our problems here in Hong Kong and
+your assistance in this aspect .
+
+<ICE-HK:W1B-022#85:4>
+I am sure I can expect the same level of support from you ,
+especially when we are cutting over COSAC 2 on 17 July 1994 . </p>
+
+<p> 
+<ICE-HK:W1B-022#86:4>
+As we discussed in Strasbourg , I can confirm that a review of a
+number of COSAC 2 issues will be required and I suggest that it takes place
+middle of June , say 13 June 1994 .
+
+<ICE-HK:W1B-022#87:4>
+Two issues are currently in mind :
+
+<ICE-HK:W1B-022#88:4>
+backup and disaster recovery , with the appropriate system
+administrative tasks
+
+<ICE-HK:W1B-022#89:4>
+performance monitoring and tuning </p>
+
+<p> 
+<ICE-HK:W1B-022#90:4>
+Please advise if this is okay and your estimate of time/cost .
+
+<ICE-HK:W1B-022#91:4>
+Should I arrange this with the local SAG office ? </p>
+
+<ICE-HK:W1B-022#92:4>
+Yours faithfully ,
+
+<ICE-HK:W1B-022#93:4>
+<O> signature </O>
+
+<ICE-HK:W1B-022#94:4>
+Marcus Mok
+
+<ICE-HK:W1B-022#95:4>
+General Manager &dash;
+
+<ICE-HK:W1B-022#96:4>
+Information Services
+
+<ICE-HK:W1B-022#97:4>
+MM:bt
+
+<ICE-HK:W1B-022#98:4>
+c.c.
+
+<ICE-HK:W1B-022#99:4>
+
+<ICE-HK:W1B-022#100:4>
+Mr. Frankie Sum &dash;
+
+<ICE-HK:W1B-022#101:4>
+Software AG &obrack; HK &cbrack; Ltd </I>
+
+<I>
+
+<ICE-HK:W1B-022#102:5>
+G-N160-038
+
+<ICE-HK:W1B-022#103:5>
+29 June 1994
+
+<ICE-HK:W1B-022#104:5>
+Mr. Frankie Sum
+
+<ICE-HK:W1B-022#105:5>
+General Manager
+
+<ICE-HK:W1B-022#106:5>
+Software AG &obrack; Hong Kong &cbrack; Ltd
+
+<ICE-HK:W1B-022#107:5>
+26/F Asia Orient Tower
+
+<ICE-HK:W1B-022#108:5>
+33 Lockhart Road
+
+<ICE-HK:W1B-022#109:5>
+Wanchai
+
+<ICE-HK:W1B-022#110:5>
+Hong Kong
+
+<ICE-HK:W1B-022#111:5>
+Dear Frankie , <h>
+
+<ICE-HK:W1B-022#112:5>
+<ul> Regroup of RS 6000/590 </ul> </h>
+
+<p> 
+<ICE-HK:W1B-022#113:5>
+I refer to your letter of 21 June 1994 to Arthur Lau and our
+telephone conversation this morning . </p>
+
+<p> 
+<ICE-HK:W1B-022#114:5>
+Thanks for confirming that you will honour the commitment made
+by SPL to HACTL and the machine grouping for the RS 6000 model 590 remains to
+be group 6 . </p>
+
+<p> 
+<ICE-HK:W1B-022#115:5>
+This is important to us as we are now in the process of placing
+additional orders . </p>
+
+<ICE-HK:W1B-022#116:5>
+Yours faithfully ,
+
+<ICE-HK:W1B-022#117:5>
+<O> signature </O>
+
+<ICE-HK:W1B-022#118:5>
+Marcus Mok
+
+<ICE-HK:W1B-022#119:5>
+General Manager &dash;
+
+<ICE-HK:W1B-022#120:5>
+Information Services
+
+<ICE-HK:W1B-022#121:5>
+MM:bt </I>
+
+<I>
+
+<ICE-HK:W1B-022#122:6>
+G-G207-149
+
+<ICE-HK:W1B-022#123:6>
+21 July 1994
+
+<ICE-HK:W1B-022#124:6>
+Mr Brenton McPherson
+
+<ICE-HK:W1B-022#125:6>
+SPL Systems &obrack; Far East &cbrack; Ltd.
+
+<ICE-HK:W1B-022#126:6>
+12/F , CLI Building ,
+
+<ICE-HK:W1B-022#127:6>
+313 Hennessy Road,
+
+<ICE-HK:W1B-022#128:6>
+Wanchai ,
+
+<ICE-HK:W1B-022#129:6>
+Hong Kong .
+
+<ICE-HK:W1B-022#130:6>
+Dear Brenton , <h>
+
+<ICE-HK:W1B-022#131:6>
+<ul> COSAC 2 </ul> </h>
+
+<p> 
+<ICE-HK:W1B-022#132:6>
+Thanks a lot for your offer of assistance to us in tuning COSAC
+2 . </p>
+
+<p> 
+<ICE-HK:W1B-022#133:6>
+I am very happy to accept the consulting service of Mr. Stephen
+Tam as suggested .
+
+<ICE-HK:W1B-022#134:6>
+I believe he can contribute a lot during his 5 days assignment
+starting 25 July 1994 , I expect that some tuning would have been completed
+by the end of the assignment .
+
+<ICE-HK:W1B-022#135:6>
+We are discussing with him on what will be the best way for him to
+help us . </p>
+
+<p> 
+<ICE-HK:W1B-022#136:6>
+Mr. Rafi Ezratti will also be a great help .
+
+<ICE-HK:W1B-022#137:6>
+I think that his assistance may be of a longer term basis and may
+not contribute to our requirement of tuning the system so that it can be
+implemented in the immediate near future .
+
+<ICE-HK:W1B-022#138:6>
+I suggest that we discuss that after the heat of COSAC 2
+implementation . </p>
+
+<p> 
+<ICE-HK:W1B-022#139:6>
+Once again I thank you for your care and interest in ensuring
+COSAC 2 implementation a success .
+
+<ICE-HK:W1B-022#140:6>
+I am very certain that the choice of service from SPL/SAG is a very
+good and correct one . </p>
+
+<ICE-HK:W1B-022#141:6>
+Yours sincerely ,
+
+<ICE-HK:W1B-022#142:6>
+<O> signature </O>
+
+<ICE-HK:W1B-022#143:6>
+Marcus Mok
+
+<ICE-HK:W1B-022#144:6>
+General Manager &dash;
+
+<ICE-HK:W1B-022#145:6>
+Information Services
+
+<ICE-HK:W1B-022#146:6>
+MM:cv
+
+<ICE-HK:W1B-022#147:6>
+c.c.
+
+<ICE-HK:W1B-022#148:6>
+Mr. Stephen Tam &dash;
+
+<ICE-HK:W1B-022#149:6>
+Senior Systems Engineer
+
+<ICE-HK:W1B-022#150:6>
+b.c.c.
+
+<ICE-HK:W1B-022#151:6>
+DMD/GMF
+
+<ICE-HK:W1B-022#152:6>
+&obrack; with copy of letter from SPL &cbrack; </I>
+
+<I>
+
+<ICE-HK:W1B-022#153:7>
+G-G207-151
+
+<ICE-HK:W1B-022#154:7>
+29 July 1994
+
+<ICE-HK:W1B-022#155:7>
+Mr. Rob Childs
+
+<ICE-HK:W1B-022#156:7>
+Customer Services Manager
+
+<ICE-HK:W1B-022#157:7>
+Software AG &obrack; Hong Kong &cbrack; Ltd
+
+<ICE-HK:W1B-022#158:7>
+26/F , Asia Orient Tower
+
+<ICE-HK:W1B-022#159:7>
+33 Lockhart Road
+
+<ICE-HK:W1B-022#160:7>
+Wanchai
+
+<ICE-HK:W1B-022#161:7>
+Hong Kong
+
+<ICE-HK:W1B-022#162:7>
+Dear Rob , <h>
+
+<ICE-HK:W1B-022#163:7>
+<ul> COSAC 2 Implementation </ul> </h>
+
+<p> 
+<ICE-HK:W1B-022#164:7>
+After the long series of tests and re-tests and trying out
+various options and performance , we now have a plan to implement COSAC 2 .
+</p>
+
+<p> 
+<ICE-HK:W1B-022#165:7>
+I would like to keep you up-to-date with the plan and appreciate
+if you can examine it in detail and advise if you see any doubts and flaws .
+
+<ICE-HK:W1B-022#166:7>
+I am sure our friends in Germany will be happy to help . </p>
+
+<p> 
+<ICE-HK:W1B-022#167:7>
+I enclose the hardware and software configuration for your
+scrutiny .
+
+<ICE-HK:W1B-022#168:7>
+We plan to convert phase 1 overnight on Thursday &obrack; 4 August
+1994 &cbrack; and hopefully bring up COSAC 2 in the morning of Friday
+&obrack; 5 August 1994 &cbrack; . </p>
+
+<p> 
+<ICE-HK:W1B-022#169:7>
+You will notice that we will use the UNIX NATURAL version
+2.1.2.6 .
+
+<ICE-HK:W1B-022#170:7>
+We have been using this version for two smaller production systems
+for a while and feel that most of the discrepancies between versions 2.1.2.6.
+and 2.1.2.5 .
+
+<ICE-HK:W1B-022#171:7>
+&obrack; on which COSAC 2 program are developed &cbrack; are known .
+</p>
+
+<p> 
+<ICE-HK:W1B-022#172:7>
+We have currently no confidence in using version 2.1.2.9. now as
+we have not yet been able to run it on the IBM RS6000/990 machine .
+
+<ICE-HK:W1B-022#173:7>
+So far we have identified one discrepancy which will require 35
+application programs to be changed .
+
+<ICE-HK:W1B-022#174:7>
+Without a detail testing , we are not sure whether there are other
+compatibility problems and surprises . </p>
+
+<p> 
+<ICE-HK:W1B-022#175:7>
+If you see any potential problems with version 2.1.2.6. , please
+advise us soonest so that we can adjust , if possible . </p>
+
+<p> 
+<ICE-HK:W1B-022#176:7>
+Again , I will stress on the importance of on-site technical
+support during the first few days of implementation .
+
+<ICE-HK:W1B-022#177:7>
+We will need someone to look at the problem , provide very quick
+answers and suggestions if problems crop up during the cutover and I would
+hope that experts from Germany or other places &obrack; such as Mr. Frank
+Zaknic from Australia &cbrack; can help us .
+
+<ICE-HK:W1B-022#178:7>
+Please confirm your support plan soonest . </p>
+
+<ICE-HK:W1B-022#179:7>
+Yours sincerely ,
+
+<ICE-HK:W1B-022#180:7>
+<O> signature </O>
+
+<ICE-HK:W1B-022#181:7>
+Marcus Mok
+
+<ICE-HK:W1B-022#182:7>
+General Manager &dash;
+
+<ICE-HK:W1B-022#183:7>
+Information Services
+
+<ICE-HK:W1B-022#184:7>
+MM:bt
+
+<ICE-HK:W1B-022#185:7>
+Encl
+
+<ICE-HK:W1B-022#186:7>
+c.c.
+
+<ICE-HK:W1B-022#187:7>
+Mr. Volker Canis &dash;
+
+<ICE-HK:W1B-022#188:7>
+Software AG Darmstadt
+
+<ICE-HK:W1B-022#189:7>
+Mr. Frankie Sum &dash;
+
+<ICE-HK:W1B-022#190:7>
+Software AG HK </I>
+
+<I>
+
+<ICE-HK:W1B-022#191:8>
+G-G207-153
+
+<ICE-HK:W1B-022#192:8>
+10 August 1994
+
+<ICE-HK:W1B-022#193:8>
+Mr. Volker Canis
+
+<ICE-HK:W1B-022#194:8>
+Vice President Customer Service &ampersand; Quality Assurance
+
+<ICE-HK:W1B-022#195:8>
+Software AG
+
+<ICE-HK:W1B-022#196:8>
+Uhlandstra&esszett;e 12
+
+<ICE-HK:W1B-022#197:8>
+D-6100 Darmstadt
+
+<ICE-HK:W1B-022#198:8>
+Germany
+
+<ICE-HK:W1B-022#199:8>
+Dear Volker , <h>
+
+<ICE-HK:W1B-022#200:8>
+<ul> COSAC 2 Phase I Implementation </ul> </h>
+
+<p> 
+<ICE-HK:W1B-022#201:8>
+We have finally cut over COSAC 2 phase I last Friday .
+
+<ICE-HK:W1B-022#202:8>
+Thanks to you and all the support staff in Germany and in Hong Kong
+who have help a lot in making this possible .
+
+<ICE-HK:W1B-022#203:8>
+Please convey my thanks to them , especially Yalcin , Uwa , Holger
+in Germany , Frankie from Australia , Phesany , Rob and Frankie from Hong
+Kong . </p>
+
+<p> 
+<ICE-HK:W1B-022#204:8>
+We have quite a few problems during cut over .
+
+<ICE-HK:W1B-022#205:8>
+Most of them relate to conversion and application software .
+
+<ICE-HK:W1B-022#206:8>
+Software AG products seem to work fine , with only a few minor
+problems . </p>
+
+<p> 
+<ICE-HK:W1B-022#207:8>
+There is however some aspects which we would like your
+assistance .
+
+<ICE-HK:W1B-022#208:8>
+There are some parameters which we feel are set to very high values .
+
+<ICE-HK:W1B-022#209:8>
+As currently we have about 60 log on users in phase I , I have a
+little concern on how much higher they can be when we have 300 users , e.g.
+the number of domains in Net-work Access .
+
+<ICE-HK:W1B-022#210:8>
+I attach some descriptions of these for your information and
+checking . </p>
+
+<p> 
+<ICE-HK:W1B-022#211:8>
+I am also hoping to use the ADABAS version 2.1.5 as soon as
+possible and hope that you can advise me immediately when it is available .
+</p>
+
+<ICE-HK:W1B-022#212:8>
+Yours sincerely ,
+
+<ICE-HK:W1B-022#213:8>
+<O> signature </O>
+
+<ICE-HK:W1B-022#214:8>
+Marcus Mok
+
+<ICE-HK:W1B-022#215:8>
+General Manager &dash;
+
+<ICE-HK:W1B-022#216:8>
+Information Services
+
+<ICE-HK:W1B-022#217:8>
+MM:bt
+
+<ICE-HK:W1B-022#218:8>
+Atts.
+
+<ICE-HK:W1B-022#219:8>
+c.c.
+
+<ICE-HK:W1B-022#220:8>
+Rob Childs &dash;
+
+<ICE-HK:W1B-022#221:8>
+Software AG &obrack; Hong Kong &cbrack; Ltd.
+
+<ICE-HK:W1B-022#222:8>
+Phesany Wong &dash;
+
+<ICE-HK:W1B-022#223:8>
+Software AG &obrack; Hong Kong &cbrack; Ltd. </I>
+
+<I>
+
+<ICE-HK:W1B-022#224:9>
+G-G207-136
+
+<ICE-HK:W1B-022#225:9>
+31 March 1994
+
+<ICE-HK:W1B-022#226:9>
+Mr. Terry Keaveny
+
+<ICE-HK:W1B-022#227:9>
+Traxon Asia
+
+<ICE-HK:W1B-022#228:9>
+Units 902-3
+
+<ICE-HK:W1B-022#229:9>
+Allied Kajima Building
+
+<ICE-HK:W1B-022#230:9>
+134-135 Gloucester Road
+
+<ICE-HK:W1B-022#231:9>
+Hong Kong
+
+<ICE-HK:W1B-022#232:9>
+Dear Mr. Keaveny , <h>
+
+<ICE-HK:W1B-022#233:9>
+<ul> TRAXON/COSAC 2 Link </ul> </h>
+
+<p> 
+<ICE-HK:W1B-022#234:9>
+COSAC 2 will be implemented in July 1994 . </p>
+
+<p> 
+<ICE-HK:W1B-022#235:9>
+To achieve a smooth cut-over , we are considering a phase-in
+implementation approach .
+
+<ICE-HK:W1B-022#236:9>
+This approach will take about three weeks , and will be implemented
+in three phases . </p>
+
+<p> 
+<ICE-HK:W1B-022#237:9>
+In the first phase , COSAC 2 will process cargo information for
+a small number of airlines .
+
+<ICE-HK:W1B-022#238:9>
+All cargo information processing for the rest of the airlines
+community will be done through COSAC 1 .
+
+<ICE-HK:W1B-022#239:9>
+During the second phase , all airlines being handled in Terminal 2
+will be cut-over to COSAC 2 .
+
+<ICE-HK:W1B-022#240:9>
+The third and the final phase will see all airlines being processed
+through COSAC 2 . </p>
+
+<p> 
+<ICE-HK:W1B-022#241:9>
+We have discussed in detail with your Mr. Cranford Yu on the
+impact and opportunities for Traxon and the resulting from the COSAC 2
+implementation .
+
+<ICE-HK:W1B-022#242:9>
+Your assistance and support will contribute greatly to the success
+of this phase-in approach .
+
+<ICE-HK:W1B-022#243:9>
+We therefore request your help in maintaining two separate Traxon
+links on COSAC 1 and COSAC 2 .
+
+<ICE-HK:W1B-022#244:9>
+The COSAC 1 link is the existing screen/SNA linkage .
+
+<ICE-HK:W1B-022#245:9>
+The new COSAC 2 link <?> uses </?> the TCP/X25 link , with message
+passing techniques .
+
+<ICE-HK:W1B-022#246:9>
+Traxon users can use different Traxon screens screens to inquire
+both COSAC 1 and 2 information .
+
+<ICE-HK:W1B-022#247:9>
+Error message modules , for both links , would be prepared by HACTL
+to prompt Traxon users to use the appropriate link . </p>
+
+<p> 
+<ICE-HK:W1B-022#248:9>
+Please confirm if this arrangement is acceptable to you . </p>
+
+<ICE-HK:W1B-022#249:9>
+Yours sincerely ,
+
+<ICE-HK:W1B-022#250:9>
+<O> signature </O> </I>
+
+<I>
+
+<ICE-HK:W1B-022#251:10>
+5 October 1994
+
+<ICE-HK:W1B-022#252:10>
+Dr. Govindan Parayil
+
+<ICE-HK:W1B-022#253:10>
+Assistant Professor
+
+<ICE-HK:W1B-022#254:10>
+The Hong Kong University of Science &ampersand; Technology
+
+<ICE-HK:W1B-022#255:10>
+Clearwater Bay
+
+<ICE-HK:W1B-022#256:10>
+Kowloon
+
+<ICE-HK:W1B-022#257:10>
+Dear Mr. Parayil ,
+
+<p> 
+<ICE-HK:W1B-022#258:10>
+This refers to your letter of 26th September 1994 .
+
+<ICE-HK:W1B-022#259:10>
+I have to apologize for the delay of this reply as I had been very
+busy in organizing a workshop which took place last weekend . </p>
+
+<p> 
+<ICE-HK:W1B-022#260:10>
+There is an unwritten house rule in Hong Kong Arts Centre to
+reserve two house seats in the Shouson Theatre and Lim Por Yen Theatre for
+any Hong Kong Arts Centre presentation or film screening to cater for
+protocol or unexpected needs .
+
+<ICE-HK:W1B-022#261:10>
+The duty Manager has the authority to release these seats right
+before the show .
+
+<ICE-HK:W1B-022#262:10>
+The Box Office usually will let all the patrons to mark down their
+names on the waiting list , once the Duty Manager releases the house seats ,
+the names on the list will be announced in order . </p>
+
+<p> 
+<ICE-HK:W1B-022#263:10>
+In investigating the incident stated in your said letter , the
+Duty Manager released the house seats at around 5:30 p.m. on that day and
+the box office assistant sold those seats on a first come first serve basis .
+</p>
+
+<p> 
+<ICE-HK:W1B-022#264:10>
+As all tickets for that <-> sceening </-> <+> screening </+> were sold out , I believe the other vacant seats were present as a result of last minute unavailability of some patrons who had booked their tickets say one month in advance . </p>
+
+<p> 
+<ICE-HK:W1B-022#265:10>
+I am sorry to hear that you have such an unhappy feeling in
+that evening .
+
+<ICE-HK:W1B-022#266:10>
+The Hong Kong Arts Centre is the largest independent art
+organization in Hong Kong encouraging freedom of expression in arts without
+discrimination .
+
+<ICE-HK:W1B-022#267:10>
+I can assure you that racial discrimination is something the Hong
+Kong Arts Centre will definitely not exercise or encourage . </p>
+
+<p> 
+<ICE-HK:W1B-022#268:10>
+Thank you for writing to us and I look forward to your
+continuous support to the Hong Kong Arts Centre programmes . </p>
+
+<ICE-HK:W1B-022#269:10>
+Yours sincerely ,
+
+<ICE-HK:W1B-022#270:10>
+HONG KONG ARTS CENTRE
+
+<ICE-HK:W1B-022#271:10>
+<O> signature </O>
+
+<ICE-HK:W1B-022#272:10>
+Jackie Ma
+
+<ICE-HK:W1B-022#273:10>
+Chief Executive
+
+<ICE-HK:W1B-022#274:10>
+cc.
+
+<ICE-HK:W1B-022#275:10>
+Mr. Po Chung
+
+<ICE-HK:W1B-022#276:10>
+Chairman
+
+<ICE-HK:W1B-022#277:10>
+<-> Brard </-> <+> Board </+> of Governors
+
+<ICE-HK:W1B-022#278:10>
+HKAC </I>

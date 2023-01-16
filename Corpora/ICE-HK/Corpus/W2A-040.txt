@@ -1,0 +1,606 @@
+<I> <h> <bold>
+
+<ICE-HK:W2A-040#1:1>
+Hong Kong Police Force goes hi-tech in fight against crime </bold>
+</h> <h>
+
+<ICE-HK:W2A-040#2:1>
+By Ir Jolly Wong </h>
+
+<p> 
+<ICE-HK:W2A-040#3:1>
+Officially formed in 1844 , when the first Police Force Ordinance
+was passed , the Hong Kong Police Force &obrack;  HKPF &cbrack; has the distinction of being
+one of the oldest , yet most modern , police force in the world .
+
+<ICE-HK:W2A-040#4:1>
+Protecting life and property in the 21st century , however , involves
+far more than the latest concepts in law enforcement; state-of-the-art
+communications , computer and many other technologies are equally essential .
+</p>
+
+<p> 
+<ICE-HK:W2A-040#5:1>
+Mapped out as a priority in the Force 2002-2004 Strategic Action
+Plan , modernisation through the design and roll-out of the Third Generation
+Command and Control Communications &obrack;  CC3 &cbrack; project represents the Force  ' s
+biggest investment in technology to date . </p> <h> <bold>
+
+<ICE-HK:W2A-040#6:1>
+Background </bold> </h>
+
+<p> 
+<ICE-HK:W2A-040#7:1>
+The usefulness of mobile radios and dispatchers was first
+recognised by the public safety and emergency agencies .
+
+<ICE-HK:W2A-040#8:1>
+In 1921 , the US Detroit Police Department started the first police
+car radio dispatching system consisting of bulky vacuum-tube equipment that
+required powerful batteries .
+
+<ICE-HK:W2A-040#9:1>
+It was 55 years later that the First Generation of Command and Control
+Communication &obrack;  CC1 &cbrack; project was implemented by the HKPF , based on
+solid-state electronics .
+
+<ICE-HK:W2A-040#10:1>
+The Best Radio scheme and computer-assisted command and control
+systems &obrack;  CACCS &cbrack; at police district control centers provided vastly improved
+command capability and permitted immediate access by field duties to all the
+support resources of the Force . </p>
+
+<p> 
+<ICE-HK:W2A-040#11:1>
+CC1 was replaced by the Second Generation of Command and Control
+Communications &obrack;  CC2 &cbrack; in 1990 , at a cost of around HK&dollar;410 million .
+
+<ICE-HK:W2A-040#12:1>
+It comprises the Integrated Communications System &obrack;  commonly known as
+the  ' Best Radio System ' &cbrack; , the 999 Emergency Services Telephone system and
+the Enhanced Computer-assisted Command and Control System &obrack;  ECACCS &cbrack; . </p>
+
+<p> 
+<ICE-HK:W2A-040#13:1>
+The ECACCS comprises a back-end computer-aided dispatch system
+with front-end console terminals installed at the three Regional Command and
+Control Centres &obrack;  RCCCs &cbrack; and local police stations to support controllers in
+resource deployment .
+
+<ICE-HK:W2A-040#14:1>
+Details of all incidents reported through the Best Radio System , the
+999 Sub-system or at HKPF stations are input into ECACCS , which then
+verifies the location and automatically routes the information to the
+relevant divisional console for deployment of resources . </p>
+
+<p> 
+<ICE-HK:W2A-040#15:1>
+ECACCS provides computer service coverage for both routine
+policing as well as internal security and major incidents .
+
+<ICE-HK:W2A-040#16:1>
+It has interfaces with the enhanced Police Operation Nominal Index
+Computer System &obrack;  EPONICS &cbrack; and the Transport Department  ' s Vehicle and
+Licensing Identification System &obrack;  VALID &cbrack; , as well as restricted access to
+the Immigration Department  ' s Registration of Persons System &obrack;  ROPS &cbrack; ,
+providing information on wanted and missing persons and vehicles of interest .
+</p> <O> Photo </O>
+
+<p> 
+<ICE-HK:W2A-040#17:1>
+CC2 will reach the end of its useful life by the end of 2004 .
+
+<ICE-HK:W2A-040#18:1>
+A provision of HK&dollar;948 million was approved in June 2001 for
+acquiring a new Third Generation and Control Communications System &obrack;  CC3 &cbrack; to
+replace it . </p> <h> <bold>
+
+<ICE-HK:W2A-040#19:1>
+New features and major benefits </bold> </h>
+
+<p> 
+<ICE-HK:W2A-040#20:1>
+CC3 will be an integrated command and control system with the
+latest communications and computer technologies .
+
+<ICE-HK:W2A-040#21:1>
+The new digital radio infrastructure will be built to open standards
+and be capable of further expansion without the need for major changes and
+upgrades .
+
+<ICE-HK:W2A-040#22:1>
+It will provide comprehensive radio coverage , both in terms of
+cross-communication amongst front-line officers of different formations and
+areas covered .
+
+<ICE-HK:W2A-040#23:1>
+Furthermore , its digitised , highly authenticated and encrypted air-
+interface will greatly enhance protection against eavesdropping and
+unauthorized access .
+
+<ICE-HK:W2A-040#24:1>
+It will not be possible for media reporters to tune into a police
+radio channel . </p>
+
+<p> 
+<ICE-HK:W2A-040#25:1>
+The new system will have data channels to allow transmission of
+not only voice but also data and images .
+
+<ICE-HK:W2A-040#26:1>
+Its new digitised , encrypted transmission platform will greatly
+enhance protection against eavesdropping and unauthorised access .
+
+<ICE-HK:W2A-040#27:1>
+A Geographical Information System &obrack;  GIS &cbrack; with electronic mapping ,
+plotting of incidents/ places of HKPF interest will be installed to
+facilitate the plotting of scenes of crimes and incidents on digitised maps
+in the RCCCs . </p>
+
+<p> 
+<ICE-HK:W2A-040#28:1>
+CC3 will also employ Automatic Vehicle Location System &obrack;  AVLS)
+which , being integrated with the GIS , will enable the RCCCs to track the
+location of police emergency response vehicles , to improve their rapid
+deployment to scenes of incidents .
+
+<ICE-HK:W2A-040#29:1>
+This will facilitate more flexible and efficient deployment of
+resources and faster tactical response to incidents . </p>
+
+<p> 
+<ICE-HK:W2A-040#30:1>
+CC3 is not only a digital radio infrastructure to open standard
+which allows an incremental approach to future system enhancement; it is also
+the most cost-effective and scalable platform for public services
+organisations .
+
+<ICE-HK:W2A-040#31:1>
+In the long run , it will be developed as a common radio platform
+shared by disciplinary agencies and government departments .
+
+<ICE-HK:W2A-040#32:1>
+For everyday usage , each agency will have a section of the platform
+for its exclusive use with absolute security .
+
+<ICE-HK:W2A-040#33:1>
+Each agency can independently manage its own subscribers and dynamic
+talkgroups , and define its own communication and administrative operations
+automatically like a Virtual Private Network &obrack;  VPN &cbrack; .
+
+<ICE-HK:W2A-040#34:1>
+During emergencies , rescue and disaster situations , the entire
+platform can be programmed to facilitate inter-operability amongst various
+agencies and centralised command as well as effective and efficient control
+or deployment of resources . </p>
+
+<p> 
+<ICE-HK:W2A-040#35:1>
+The lessons of the September 11 terrorist attacks in the US
+taught us that we could not prevent all crime or untoward incidents from
+occurring .
+
+<ICE-HK:W2A-040#36:1>
+We can however in my view achieve the next best thing through the
+greater use of advanced wireless communications technology to provide a
+prompt , firm , effective and professional response to those crimes and
+events . </p> <h> <bold> Improved public service </bold> </h>
+
+<p> 
+<ICE-HK:W2A-040#37:1>
+The new system will improve police services to the public in the
+following ways - &obrack;  a &cbrack; CC3 will allow direct access to various information
+systems containing information on wanted or missing persons , stolen vehicles
+, crime reports and forged ID cards .
+
+<ICE-HK:W2A-040#38:1>
+Such functionality will greatly improve the utilisation and
+efficiency of the new communications system and enhance the quality of
+service provided by HKPF .
+
+<ICE-HK:W2A-040#39:1>
+For example , ID checks will be conducted directly through data
+transfer from Mobile Data Terminals &obrack;  MDT &cbrack; installed at police emergency
+response vehicles and beat radios instead of RCCC operators , as is currently
+the case .
+
+<ICE-HK:W2A-040#40:1>
+It is expected that the average time required for such a check will
+be reduced by 10 to 15 seconds .
+
+<ICE-HK:W2A-040#41:1>
+As a result , radio channels and RCCC operators will be freed up for
+voice communications of high priority and other urgent tasks; &obrack;  b &cbrack; With the
+provision of new MDTs , police emergency response vehicles can effectively
+function as mobile reporting centers for members of the public to make
+reports on the spot; &obrack;  c &cbrack; The new 999 Sun-system will provide a speedier
+response to emergency calls by showing details of the caller  ' s number and
+address .
+
+<ICE-HK:W2A-040#42:1>
+It will also incorporate additional call takers in each RCCC to deal
+with sudden surges; and &obrack;  d &cbrack; Serving as an integrated communications platform
+for beat patrol officers and patrols officers deployed to the Traffic Branch
+, PTU and EU , the new system will improve communications between front-line
+officers and facilitate the efficient and effective deployment of resources
+during emergencies and large-scale operations . </p>
+
+<p> 
+<ICE-HK:W2A-040#43:1>
+A global tender for CC3 was issued on 1 February 2002 .
+
+<ICE-HK:W2A-040#44:1>
+The new CC3 system is expected to go live in three phases: 3rd
+quarter 2004 for New Territories 4th quarter 2004 for Hong Kong Island 
+1st quarter 2006 for Kowloon </p> <h> <bold>
+
+<ICE-HK:W2A-040#45:1>
+Innovation award </bold> </h>
+
+<p> 
+<ICE-HK:W2A-040#46:1>
+At the 3rd TETRA World Congress in Nice , France , in December
+last year HKPF shared with delegates its first-mover experience in TETRA &obrack; 
+Terrestrial Trunked Radio &cbrack; technology in the Marine Police  ' s communication
+system .
+
+<ICE-HK:W2A-040#47:1>
+I made a presentation at the Congress covering the reasons for using
+TETRA , an open digital radio standard laid down in 1994 , and what we have
+learnt from the TETRA system and the CC3 project , which will also utilize
+TETRA technology . </p>
+
+<p> 
+<ICE-HK:W2A-040#48:1>
+Representatives of many industrialized countries were very
+surprised at the speedy and advanced development of the communications system
+by the Force and were particularly interested in our approach to the many
+technical challenges . </p>
+
+<p> 
+<ICE-HK:W2A-040#49:1>
+More than 900 delegates attended the congress to discuss issues
+affecting TETRA projects in the UK , Belgium , Holland and Germany , the
+success of which will greatly facilitate police radio communications in
+Europe . </p>
+
+<p> 
+<ICE-HK:W2A-040#50:1>
+The HKPF won the Most Innocative TETRA Service Award for the
+Automatic Vessel Location and Messaging System used by the Marine Police at
+the congress for its innovative use of IP &obrack;  Internet Protocol &cbrack; over the TETRA
+network to transmit data . </p>
+
+<p> 
+<ICE-HK:W2A-040#51:1>
+The system , believed to be the most advanced of its kind in the
+world , beat off stiff competition from police systems in Western Australia
+and the UK .
+
+<ICE-HK:W2A-040#52:1>
+TETRA primarily handles voice transmission , but the network is also
+used to transmit IP data .
+
+<ICE-HK:W2A-040#53:1>
+This new approach provides continuous and accurate position updates
+of Marine Police launches .
+
+<ICE-HK:W2A-040#54:1>
+Users can also send word documents and photographs via the radio
+network . </p>
+
+<p> 
+<ICE-HK:W2A-040#55:1>
+The congress gave HKPF an opportunity to share its knowledge and
+present itself as a recognized user of advanced communications for police
+services . </p>
+
+<p> 
+<ICE-HK:W2A-040#56:1>
+Our Commissioner Tang Yam-pui pkedged in a  ' Letter to Hong Kong'
+broadcast on RTHK Radio 3 earlier this year that the Force would continue to
+improve its equipment and quality of service .
+
+<ICE-HK:W2A-040#57:1>
+Enabling technology will have a big role to play in the fulfillment
+of this pledge .
+
+<ICE-HK:W2A-040#58:1>
+HKPF will endeavour to build the very best computer and
+communications system in line with global developments and , in some areas ,
+become a world leader . </p> <it>
+
+<ICE-HK:W2A-040#59:1>
+About the author: Ir Jolly Wong is the head of the CC3 project team .
+
+<ICE-HK:W2A-040#60:1>
+He can be contacted at wongckjolly@police.gov.hk . </it> <h> <bold>
+
+<ICE-HK:W2A-040#61:1>
+Processing utilities information on the Internet </bold> </h>
+
+<p> 
+<ICE-HK:W2A-040#62:1>
+Everybody in Hong Kong is familiar with the nuisance of road
+excavations .
+
+<ICE-HK:W2A-040#63:1>
+The noise , the dust , the traffic jams and , worst of all , the poor
+planning of such works that often leads to repeated disruptions on the same
+roads . </p>
+
+<p> 
+<ICE-HK:W2A-040#64:1>
+Help is at hand . </p>
+
+<p> 
+<ICE-HK:W2A-040#65:1>
+The University of Hong Kong  ' s Jockey Club Research &ampersand; Information
+Centre for Landslip Prevention &ampersand; Land Development has come up with a system
+called the Electronic Mark Plant Query System &obrack;  EMPQS &cbrack; to facilitate the
+processing of information on underground utilities . </p> <O> Picture </O>
+
+<p> 
+<ICE-HK:W2A-040#66:1>
+According to the university , the system provides a one-step
+service for collecting utility services information via secure electronic
+means .
+
+<ICE-HK:W2A-040#67:1>
+It allows such information collection to be completed in seven
+working days instead of the 21 days it currently takes using manual means .
+
+<ICE-HK:W2A-040#68:1>
+The system is said to be fast , secure , environmentally friendly and
+cost-effective; it is estimated that the EMPQS can reduce operation costs by
+90&percent; . </p>
+
+<p> 
+<ICE-HK:W2A-040#69:1>
+Following registration , users will be able to use the system to
+obtain information on underground utilities at a specific location from the
+relevant utility operators .
+
+<ICE-HK:W2A-040#70:1>
+The system functions in a coordinating role by providing a platform
+for the exchange of information between those carrying out roadworks and
+utility operators .
+
+<ICE-HK:W2A-040#71:1>
+To ensure security , the system uses a Secure Socket Layer for data
+transmission and digital certificates for data authentication .
+
+<ICE-HK:W2A-040#72:1>
+There is also a firewall to protect the system from outside attacks .
+</p>
+
+<p> 
+<ICE-HK:W2A-040#73:1>
+Developed at a cost of HK&dollar;25 million , which was denoted
+by the Hong Kong Jockey Club Charities Trust , the system has already won the
+support of Hong Kong Cable Television Ltd , New T&T Company Ltd , New World
+Telephone Ltd and the Transport Department .
+
+<ICE-HK:W2A-040#74:1>
+The university is hoping to secure other utility operators as
+partners . </p>
+
+</I>
+
+<I> <h> <bold>
+
+<ICE-HK:W2A-040#75:2>
+E-Commerce: Technologies and Perspectives </bold> </h>
+
+<p> 
+<ICE-HK:W2A-040#76:2>
+Technical 2000 Programme Chairman Ir Jolly Wong , who chaired a
+panel discussion at the Asia-Pacific Electronic Symposium , share his and
+other expert  ' s observations on new e-commerce technologies and their impact .
+</p>
+
+<p> 
+<ICE-HK:W2A-040#77:2>
+With global Internet traffic doubling every three months and more
+and more demand for broadband , communications via optical network - which
+allows the transmission of data , video and voice in the form of light over
+glass , instead of electrons over copper - is becoming the choice for telecom
+companies . </p>
+
+<p> 
+<ICE-HK:W2A-040#78:2>
+At the Asia-Pacific Electronic Symposium 2000 Panel Discussion ,
+Charles Mok , Chairman of the Hong Kong Internet Service Providers &obrack;  HKISP)
+Association , spoke about optical networking as the phenomenal trend in the
+new economy . </p>
+
+<p> 
+<ICE-HK:W2A-040#79:2>
+&ldquo; Consider this: it takes seven hours to download a movie
+over a high-speed cable modem connection now and an how with an Ethernet
+connection .
+
+<ICE-HK:W2A-040#80:2>
+With optical connections , a user can download a movie in just four
+seconds , &rdquo; he noted . </p>
+
+<p> 
+<ICE-HK:W2A-040#81:2>
+Spending on optical networking gears is expected to rocket to
+US&dollar;44 billion this year , compared with US&dollar;33 billion last year
+, and to rise to US&dollar;89 billion in 2003 , according to market
+researchers .
+
+<ICE-HK:W2A-040#82:2>
+Leading companies in this core enabling technology include: Ciena ,
+Corvis , JDS Uniphase , ONI Systems , Nortel Networks and Sycamore Networks .
+</p> <h>
+
+<ICE-HK:W2A-040#83:2>
+<bold> The second wave </bold> </h>
+
+<p> 
+<ICE-HK:W2A-040#84:2>
+After the dotcom meltdown and the ASP hype , people begin to ask
+if the second wave of e-commerce business is coming ?
+
+<ICE-HK:W2A-040#85:2>
+As many symposium delegates agreed , Customer Relationship Management
+&obrack; CRM &cbrack; system may be the answer as companies make the strategic move from
+being produce-oriented to being customer-oriented . </p>
+
+<p> 
+<ICE-HK:W2A-040#86:2>
+CRM has been used in the old economy for some time: call centre
+is a typical part of the CRM solution for many industries .
+
+<ICE-HK:W2A-040#87:2>
+Sales automation , marketing campaign management and customer
+services are the major components of CRM , although they might not be well
+integrated in the past .
+
+<ICE-HK:W2A-040#88:2>
+CRM is not as popular as certain accounting systems in use today
+because it is still quite new to many companies . </p>
+
+<p> 
+<ICE-HK:W2A-040#89:2>
+Thanks to the internet , people have developed new ways of doing
+business which transcends boundary and allow them to conduct business without
+talking to the customer fact to face .
+
+<ICE-HK:W2A-040#90:2>
+As a result , a new generation of CRM is required: eCRM , which is a
+web-based CRM .
+
+<ICE-HK:W2A-040#91:2>
+With improvements in wireless technology , eCRM will become more
+powerful , especially in the area of sales automation . </p>
+
+<p> 
+<ICE-HK:W2A-040#92:2>
+Successful implementation of eCRM requires the reengineering of a
+corporation .
+
+<ICE-HK:W2A-040#93:2>
+In other words , you need to make changes to the management and
+create a new culture as well .
+
+<ICE-HK:W2A-040#94:2>
+For example , how do salesmen usually treat their clients ?
+
+<ICE-HK:W2A-040#95:2>
+Do they treat information as their own property ?
+
+<ICE-HK:W2A-040#96:2>
+Do they disclose 100&percent; information to the company ?
+
+<ICE-HK:W2A-040#97:2>
+It is definitely a challenge to management to ensure the salesforce
+is able to meet client requirements; this can be achieved by feeding all
+information into the CRM system , thus automating the entire salesforce .
+</p>
+
+<p> 
+<ICE-HK:W2A-040#98:2>
+Nowadays there are many players in the market covering CRM , eCRM
+and CRA &obrack;  Customer relationship analytic &cbrack; because both the old economy and
+the new economy have such needs .
+
+<ICE-HK:W2A-040#99:2>
+With the strong growth in internet and wireless technologies , CRM
+will become one of the high growth area in the IT industry in the coming
+years . </p> <h>
+
+<ICE-HK:W2A-040#100:2>
+<bold> The hype cycle for e-commerce technologies </bold> </h>
+
+<p> 
+<ICE-HK:W2A-040#101:2>
+On the advancement and focuses of e-commerce technologies , Prof
+David Yai of CUHK and Michael Chan , managing vice president of Gartner Group
+Hong Kong Ltd used the same model to classify e-commerce technologies into
+the following 3 categories: Core Technology &obrack;  for internet/ information
+system technology); Business Technology &obrack;  or enterprise solution
+technology); Emerging Technology &obrack;  or emerging e-commerce-centric
+technology &cbrack; . </p>
+
+<p> 
+<ICE-HK:W2A-040#102:2>
+Core technology is a technology which enables business
+applications .
+
+<ICE-HK:W2A-040#103:2>
+Java , XML , Smart Card , PKI are all considered core technologies .
+</p>
+
+<p> 
+<ICE-HK:W2A-040#104:2>
+Business technology refers to technologies that have direct
+impact on day-to-day business .
+
+<ICE-HK:W2A-040#105:2>
+CRM , Supply Chain Management &obrack;  SCM &cbrack; , Electronic Bill Payment and
+Presentation &obrack;  EBPP &cbrack; are some examples . </p>
+
+<p> 
+<ICE-HK:W2A-040#106:2>
+Emerging technology refers to those technology that are still
+under research and development or simply not yet widely commercialised , such
+as Bluetooth , WAP , Jini , Voice Portals , etc . </p>
+
+<p> 
+<ICE-HK:W2A-040#107:2>
+According to Mr Chan , Gartner has developed a Hype Curve for
+each technology which provides a snapshot of the position of a set of
+technologies in the inevitable cycle of hype and disillusionment that
+accompanies a technology path to maturity .
+
+<ICE-HK:W2A-040#108:2>
+The Hype Curve consists of the following phases: Technology
+trigger: A breakthrough , public demonstration , product launch or other
+event generates significant press and industry interest .
+
+<ICE-HK:W2A-040#109:2>
+Peak of inflated expectations: During this phase of
+over-enthusiasm and unrealistic projections , a flurry of well-publicised
+activity by technology leaders results in some successes but more failures as
+the technology is pushed to its limits .
+
+<ICE-HK:W2A-040#110:2>
+The only enterprises making money are conference organizers and
+magazine publishers .
+
+<ICE-HK:W2A-040#111:2>
+Trough of disillusionment: Because the technology does not live up
+to its over-inflated expectations , it rapidly becomes unfashionable and the
+press abandons the topic .
+
+<ICE-HK:W2A-040#112:2>
+Slope of enlightenment: focused experimentation and solid hard
+work by an increasingly diverse range of organisations lead to a true
+understanding of the technology  ' s applicability , risks and benefits .
+
+<ICE-HK:W2A-040#113:2>
+Commercial off-the-shelf methodologies and tools become available to
+ease the development process .
+
+<ICE-HK:W2A-040#114:2>
+Plateau of productivity: The real-world benefits of the technology
+are demonstrated and accepted .
+
+<ICE-HK:W2A-040#115:2>
+Tools and methodologies are increasingly stable as they enter their
+second and third generation .
+
+<ICE-HK:W2A-040#116:2>
+The final height of the plateau varies according to whether the
+technology is broadly applicable or benefits only a niche market . </p>
+
+<p> 
+<ICE-HK:W2A-040#117:2>
+&ldquo; The bottom line is: Enterprises should be selectively
+aggressive in the early adoption of technologies with the potential for high
+impact , but should ride out the Hype Cycle for less-critical technologies ,
+&rdquo; Michael Chan said . </p>
+</I>

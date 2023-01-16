@@ -1,0 +1,810 @@
+<I>
+
+<ICE-HK:W2A-031#1:1>
+<h> <bold> Classification of Soft Switching Inverters/Converters for
+Electric Vehicles </bold> </h> <h>
+
+<ICE-HK:W2A-031#2:1>
+David T. W. Chan </h>
+
+<p> 
+<ICE-HK:W2A-031#3:1>
+Dept. of Electrical and Communications Engineering , Hong Kong
+Technical College &obrack;  Tsing Yi &cbrack; , 20 Tsing Yi Road , Tsing Yi , Hong Kong .
+</p>
+
+<p> 
+<ICE-HK:W2A-031#4:1>
+<bold> ABSTRACT . </bold>
+
+<ICE-HK:W2A-031#5:1>
+This paper aims at sourcing almost referred soft switching inverters
+and regrouping them by different characteristics , namely by topology , by
+operation , by application and by modulation .
+
+<ICE-HK:W2A-031#6:1>
+Special session on the feasibilities of these soft switching inverters
+for the propulsion system of electric vehicles &obrack;  EVs &cbrack; purposes will be made .
+
+<ICE-HK:W2A-031#7:1>
+Potential application for soft switching inverters in EVs will be
+studied .
+
+<ICE-HK:W2A-031#8:1>
+Other applications of soft switching inverters in EVs such as power
+supply for air-conditioning and power steering will be commented in the paper .
+</p> <h>
+
+<ICE-HK:W2A-031#9:1>
+<bold> 1. INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-HK:W2A-031#10:1>
+In the last decade , considerably researches and academics in the
+world drew significant attentions and contributions in the development of
+soft switching inverters &obrack;  1,2,3 &cbrack; .
+
+<ICE-HK:W2A-031#11:1>
+Recently , ac drives have been adopted in newly developed EVs in
+Japan , Australia , Europe and the United State of America &obrack;  4,5 &cbrack; .
+
+<ICE-HK:W2A-031#12:1>
+Some researchers claimed that these soft switching inverters were
+suitable for the power train of EVs .
+
+<ICE-HK:W2A-031#13:1>
+In this paper , it will focus on the features of published soft
+switching inverters , and comparison with tradition hard switching inverters .
+
+<ICE-HK:W2A-031#14:1>
+Classification of these soft switching inverters with various aspects
+will be made .
+
+<ICE-HK:W2A-031#15:1>
+It helps EVs makers to have a suitable choice for EVs system which
+includes vehicle body , electric propulsion , energy storage battery and
+energy management .
+
+<ICE-HK:W2A-031#16:1>
+Development of power electronics for EVs purpose is also one of the
+major concerns .
+
+<ICE-HK:W2A-031#17:1>
+Comparisons of power switches and merits of soft switching inverters
+applied to EVs will be given with point grading system .
+
+<ICE-HK:W2A-031#18:1>
+Finally , study of potential applications of soft switching inverters
+to ac drives of EVs will be reported which include propulsion system , power
+supply to air-conditioning and power steering . </p> <h>
+
+<ICE-HK:W2A-031#19:1>
+<bold> 2 . MERITS OF SOFT SWITCHING INVERTER </bold> </h>
+
+<p> 
+<ICE-HK:W2A-031#20:1>
+AC drivers seem to be dominant in the propulsion system of EVs .
+
+<ICE-HK:W2A-031#21:1>
+Table 1 shows some as drives for those newly developed EVs in the
+world .
+
+<ICE-HK:W2A-031#22:1>
+Inverters which convert the limited battery energy to ac power for
+propulsion system and other accessory become very important .
+
+<ICE-HK:W2A-031#23:1>
+Conventional hard switching inverters have been widely applied to ac
+drives for modern EVs .
+
+<ICE-HK:W2A-031#24:1>
+However , hard switching inverters have high peak voltage and current
+stresses in devices as a result of inductive switching and diode reverse
+recovery .
+
+<ICE-HK:W2A-031#25:1>
+They have higher switching losses and proportionately increase with
+frequency .
+
+<ICE-HK:W2A-031#26:1>
+High <it> dv/dt </it> results in acoustic noise and serious
+electromagnetic interference &obrack;  EMI &cbrack; problems which are the major drawbacks of
+hard switching inverter technology .
+
+<ICE-HK:W2A-031#27:1>
+In order to reduce these switching loss and EMI problems , hence
+maximizing the efficiency , power density and reliability of inverters in EVs
+, special design of power devices and soft switching techniques for inverters
+has become one of the major research directions in power electronics . </p>
+
+<p> 
+<ICE-HK:W2A-031#28:1>
+Soft switching inverters was introduced at the late 1980s .
+
+<ICE-HK:W2A-031#29:1>
+For a soft switching approach , a snubber circuit is used in parallel
+with the self turn-off device to bypass the load current .
+
+<ICE-HK:W2A-031#30:1>
+The regenerate snubber is more effective than the dissipative snubber .
+
+<ICE-HK:W2A-031#31:1>
+The resonant inverter came up through improvement of the snubber
+circuit .
+
+<ICE-HK:W2A-031#32:1>
+In short , soft switching means that the voltage and/or current
+waveforms of power switches can be shaped by using resonant network with or
+without auxiliary switches to attain zero-voltage and/or zero current
+conditions at switching instants .
+
+<ICE-HK:W2A-031#33:1>
+Soft switching inverters have low switching loss , low <it> di/dt
+</it> in the device , low output voltage and <it> dv/dt </it> and low EMI ,
+they do not require large Safe Operating Area &obrack;  SOA &cbrack; devices , and have
+higher efficiency than hard switching inverters .
+
+<ICE-HK:W2A-031#34:1>
+However , they require additional components to achieve soft
+switching operation .
+
+<ICE-HK:W2A-031#35:1>
+Table 2 gives a comparison of hard switching and soft switching
+inverters .
+
+<ICE-HK:W2A-031#36:1>
+In this papers , we highlight features of several zero voltage
+switching &obrack;  ZVS &cbrack; inverters possible for EVs applications which include the
+two main directions of soft switching inverters: input side approach and load
+side approach . </p> <h>
+
+<ICE-HK:W2A-031#37:1>
+<bold> 3. CLASSIFICATIONS OF SOFT SWITCHING POWER
+INVERTERS </bold> </h>
+
+<p> 
+<ICE-HK:W2A-031#38:1>
+The first soft switching inverters was published by D.M . Divan
+in 1986 &obrack;  6 &cbrack; .
+
+<ICE-HK:W2A-031#39:1>
+It was called Resonant DC Link &obrack;  RDCL &cbrack; inverter .
+
+<ICE-HK:W2A-031#40:1>
+It belongs to input aide approach .
+
+<ICE-HK:W2A-031#41:1>
+Basically , RDCL inverters set the dc link voltage into oscillation
+so that zero voltage instants are created periodically for zero voltage
+switching &obrack;  ZVS &cbrack; .
+
+<ICE-HK:W2A-031#42:1>
+Although this soft switching approach can offer potential advantage ,
+RDCL circuit results in an increase in circuit complexity and the frequency
+spectrum is restricted by the need of using integral pulse density modulation
+&obrack; IPDM &cbrack; when compared with a standard hard switching inverter .
+
+<ICE-HK:W2A-031#43:1>
+In addition , the peak pulsating link voltage of resonant ling
+inverters is twice of the dc link voltage in a standard hard switching
+inverter .
+
+<ICE-HK:W2A-031#44:1>
+To reduce this peak voltage and other drawbacks of the first
+generation of RDCL inverter , a number of improved topologies had been
+published in the last decade .
+
+<ICE-HK:W2A-031#45:1>
+Almost of them considered a resonant circuit to be placed in-between
+the dc input and the inverter , such as quasi-resonant dc link &obrack;  QRDCL &cbrack; , and
+clamped resonant dc link &obrack;  CRDCL &cbrack; inverters .
+
+<ICE-HK:W2A-031#46:1>
+It is defined as input side approach . Recently , another topology
+named auxiliary resonant snubber &obrack;  ARS &cbrack; inverter had been proposed which was
+different from others .
+
+<ICE-HK:W2A-031#47:1>
+The resonant circuit was placed in the load side with the inverter
+circuit , not in the dc link .
+
+<ICE-HK:W2A-031#48:1>
+It is defined as load side approach .
+
+<ICE-HK:W2A-031#49:1>
+Table 3 shows the classification of soft switching inverters by these
+definitions of technology .
+
+<ICE-HK:W2A-031#50:1>
+Actually , these inverters can be re-grouped by operation ,
+application and modulation technique . </p> <h> <it>
+
+<ICE-HK:W2A-031#51:1>
+3.1 Features of Existing Inverters </it> </h>
+
+<p> 
+<ICE-HK:W2A-031#52:1>
+Almost published ZVS soft switching inverters were listed in
+Table 3 .
+
+<ICE-HK:W2A-031#53:1>
+Their features and drawbacks are summarized below . </p>
+
+<p> 
+<ICE-HK:W2A-031#54:1>
+<bold> <it> Resonant DC Link &obrack;  RDCL &cbrack; Inverter &obrack;  6,7 &cbrack; . </it>
+</bold>
+
+<ICE-HK:W2A-031#55:1>
+It is one of the most promising inverters because of its simplicity ,
+but it impresses substantial voltage stresses &obrack;  about 2.5 supply voltage)
+across the devices . </p>
+
+<p> 
+<ICE-HK:W2A-031#56:1>
+<bold> <it> Quasi Resonant DC Link &obrack;  QRDCL &cbrack; Inverter &obrack;  8,9,20 &cbrack; .
+</it> </bold>
+
+<ICE-HK:W2A-031#57:1>
+Generally , it is a relative simple resonant circuit .
+
+<ICE-HK:W2A-031#58:1>
+It consists of two switches , an inductor , and a capacitor .
+
+<ICE-HK:W2A-031#59:1>
+For resonant operation , it requires a large capacitor which can keep
+a nearly constant voltage during the resonant cycle .
+
+<ICE-HK:W2A-031#60:1>
+In addition , it is difficult to keep the voltage near half of input
+voltage at all the operational regions and the energy of the resonant circuit
+is not zero for the steady state .
+
+<ICE-HK:W2A-031#61:1>
+It should also include a current initialization circuit and the dc
+link voltage is increased up to 2 times of input voltage . </p>
+
+<p> 
+<ICE-HK:W2A-031#62:1>
+<bold> <it> Serious Resonant DC Link &obrack;  SrRDCL &cbrack; Inverter &obrack; 
+11,12,13 &cbrack; . </it> </bold>
+
+<ICE-HK:W2A-031#63:1>
+Actually , it is the duality of parallel resonant dc link inverter .
+
+<ICE-HK:W2A-031#64:1>
+The switching occurs at zero current instants .
+
+<ICE-HK:W2A-031#65:1>
+However , irregular current peaks appear when the output voltage
+changes suddenly , as similar to voltage peak problem of the parallel
+resonant inverter , which will be discussed in sub-session 1.1.2 .
+
+<ICE-HK:W2A-031#66:1>
+The difficulty with the series resonant type was solved with a simple
+saturable core to limit the current peaks .
+
+<ICE-HK:W2A-031#67:1>
+A pulse split concept was introduced which make the current control
+scheme more complicated .
+
+<ICE-HK:W2A-031#68:1>
+This kind of inverter was suitable for induction motor drive . </p>
+
+<p> 
+<ICE-HK:W2A-031#69:1>
+<bold> <it> Parallel Resonant DC Link &obrack;  PRDCL &cbrack; Inverter &obrack; 
+14,15,16 &cbrack; . </it> </bold>
+
+<ICE-HK:W2A-031#70:1>
+It needs three additional switches for pulse-width-modulation &obrack;  PWM)
+operations .
+
+<ICE-HK:W2A-031#71:1>
+Thus , the resonant circuit becomes somewhat complex and its control
+is not easy .
+
+<ICE-HK:W2A-031#72:1>
+Also , commutation losses of the additional switches are serious
+problems .
+
+<ICE-HK:W2A-031#73:1>
+It uses an inductor as a resonant energy storage element , and can
+operate without a resonant capacitor .
+
+<ICE-HK:W2A-031#74:1>
+On the other hand , because the energy needed to null the link
+voltage is stored only in an inductor , the peak current of the inductor is
+somewhat higher .
+
+<ICE-HK:W2A-031#75:1>
+During zero link voltage period , this produces a high conduction
+loss and prevents a perfect PWM operation .
+
+<ICE-HK:W2A-031#76:1>
+In addition , for PWM operation it needs three additional switches
+and two of three switches are turned on under zero current condition .
+
+<ICE-HK:W2A-031#77:1>
+Thus , this suffers from the switching stresses resulting form the
+device parasitic capacitor . </p>
+
+<p> 
+<ICE-HK:W2A-031#78:1>
+<bold> <it> Synchronized Resonant DC Link &obrack;  SRDCL &cbrack; Inverter &obrack; 
+17,18 &cbrack; . </it> </bold>
+
+<ICE-HK:W2A-031#79:1>
+It realizes the soft switching PWM with only one additional switch .
+
+<ICE-HK:W2A-031#80:1>
+However , the peak voltage of the dc link is higher than the supply
+voltage &obrack;  about 15 ~ 1.8 supply voltage &cbrack; and this inverter experiences high
+conduction losses because the inductor current is not zero during the steady
+state .
+
+<ICE-HK:W2A-031#81:1>
+Moreover , PWM operation is much limited by idle time after every
+commutation . </p>
+
+<p> 
+<ICE-HK:W2A-031#82:1>
+<bold> <it> Clamped Resonant DC Link &obrack;  CRDCL &cbrack; Inverter . </it>
+</bold>
+
+<ICE-HK:W2A-031#83:1>
+It requires a clamped circuit to pull down the dc link voltage as
+close as the dc input voltage .
+
+<ICE-HK:W2A-031#84:1>
+It consists of two main type of clamped circuits , namely actively
+clamped and passively clamped resonant dc link inverters . </p>
+
+<p> 
+<ICE-HK:W2A-031#85:1>
+<bold> <it> Actively Clamped Resonant DC Link &obrack;  ACRDCL &cbrack; Inverter
+[ 19 &cbrack; . </it> </bold>
+
+<ICE-HK:W2A-031#86:1>
+It is known as one of the most successful topologies with only one
+additional devices and covers 1-40kW power range around 20-60 kHz switching
+frequency range .
+
+<ICE-HK:W2A-031#87:1>
+However , it still has a lot of problems such as device voltage
+stresses are high as 1.3 - 1.5 of input voltage , high conduction loss in
+resonant inductor .
+
+<ICE-HK:W2A-031#88:1>
+A big obstacle of ACRDCL is that its power range is limited by
+subharmonic and discrete pulse modulation &obrack;  DPM &cbrack; . </p>
+
+<p> 
+<ICE-HK:W2A-031#89:1>
+<bold> <it> Passively Clamped Resonant DC Link &obrack;  PCRDCL &cbrack; Inverter .
+</it> </bold>
+
+<ICE-HK:W2A-031#90:1>
+It requires passive elements to be a clamped circuit to pull down the
+dc link voltage as close as the dc supply voltage . </p>
+
+<p> 
+<ICE-HK:W2A-031#91:1>
+<bold> <it> Passively Clamped Quasi-Resonant Link &obrack;  PCQRL)
+Inverter &obrack;  20,21 &cbrack; . </it> </bold>
+
+<ICE-HK:W2A-031#92:1>
+It has advantage of low clamped factor &obrack;  down to 1.1 - 1.3 of input
+voltage &cbrack; , simple resonant control , guaranteed zero link voltage condition
+and PWM capabilities .
+
+<ICE-HK:W2A-031#93:1>
+However , the penalties are relatively high device count associated
+with auxiliary switched inductor circuit , and the high reverse voltage
+requirement for the clamp diode .
+
+<ICE-HK:W2A-031#94:1>
+It requires a pair of coupled inductors to reduce the number of
+additional switches . </p>
+
+<p> 
+<ICE-HK:W2A-031#95:1>
+<bold> <it> Resonant Transition &obrack;  RT &cbrack; Inverter &obrack;  22 &cbrack; . </it>
+</bold>
+
+<ICE-HK:W2A-031#96:1>
+It requires many transitions to achieve desired state changes .
+
+<ICE-HK:W2A-031#97:1>
+It also requires clamping devices to prevent over-voltage across the
+auxiliary resonant switch during resonant current resetting . </p>
+
+<p> 
+<ICE-HK:W2A-031#98:1>
+<bold> <it> Auxiliary Resonant Commutated Pole &obrack;  ARCP &cbrack; Inverter &obrack; 
+23,24 &cbrack; . </it> </bold>
+
+<ICE-HK:W2A-031#99:1>
+It requires a stiff dc link capacitor bank which is center tapped to
+accomplish commutation .
+
+<ICE-HK:W2A-031#100:1>
+Although it reduces the current stresses and losses in the devices
+and components , it is thought to be not cost effective at below 200kW power
+level because of the large number of additional devices &obrack;  6 devices &cbrack; . </p>
+
+<p> 
+<ICE-HK:W2A-031#101:1>
+<bold> <it> Auxiliary Resonant Snubber &obrack;  ARS &cbrack; Inverter . </it>
+</bold>
+
+<ICE-HK:W2A-031#102:1>
+It is the one put the auxiliary switches in the load side such that
+the power rating of the auxiliary switches are able to be as small as
+one-tenth of the main switches .
+
+<ICE-HK:W2A-031#103:1>
+It consists of two main types: star-configured and delta-configured
+auxiliary resonant snubber inverters . </p>
+
+<p> 
+<ICE-HK:W2A-031#104:1>
+<bold> <it> Star-configured Auxiliary Resonant Snubber &obrack;  SC-ARS)
+Inverter &obrack;  25,26 &cbrack; . </it> </bold>
+
+<ICE-HK:W2A-031#105:1>
+It is similar to the resonant transition inverter and it requires a
+clamping diode or resonant current sensors along with a precise control to
+prevent over-voltage across the auxiliary resonant switch . </p>
+
+<p> 
+<ICE-HK:W2A-031#106:1>
+<bold> <it> Delta-configured Auxiliary Resonant Snubber &obrack; 
+DC-ARS &cbrack; Inverter &obrack;  27,28 &cbrack; . </it> </bold>
+
+<ICE-HK:W2A-031#107:1>
+It overcomes the drawbacks of the resonant transition inverters and
+SC-ARS inverters .
+
+<ICE-HK:W2A-031#108:1>
+It does not have penalty of floating voltage or over-voltage on the
+auxiliary switches .
+
+<ICE-HK:W2A-031#109:1>
+It does not require any antiparallel fast recovery diodes across the
+resonant switches . </p> <h> <it>
+
+<ICE-HK:W2A-031#110:1>
+3.2 Operation </it> </h>
+
+<p> 
+<ICE-HK:W2A-031#111:1>
+Those published soft switching inverters listed in Table 3 can
+be classified according to their operating principles .
+
+<ICE-HK:W2A-031#112:1>
+Even though they all are claimed that they are in ZVS , it is only
+true for the inverter circuit .
+
+<ICE-HK:W2A-031#113:1>
+For resonant circuit and the additional switches , they are not all
+in ZVS and still carry a resonant circuit as high as the load current ,
+especially for those topologies with input side approach .
+
+<ICE-HK:W2A-031#114:1>
+Their power rating of these auxiliary switches are the same as the
+switches in inverter circuit .
+
+<ICE-HK:W2A-031#115:1>
+For inverter circuit , some of them make the dc link voltage to be
+zero when switches in inverter circuit take action , it is called link zero
+mode , while some make either upper or lower part of the leg to be zero when
+switches in inverter take action .
+
+<ICE-HK:W2A-031#116:1>
+It is called device zero mode .
+
+<ICE-HK:W2A-031#117:1>
+Table 4 summarized these inverters by their operating principle .
+</p> <h> <it>
+
+<ICE-HK:W2A-031#118:1>
+3.3 Applications </it> </h>
+
+<p> 
+<ICE-HK:W2A-031#119:1>
+Those published ZVS soft switching inverters listed in Table 3
+can also be classified according to their applications which are dependent on
+their power range , device types and switching frequency .
+
+<ICE-HK:W2A-031#120:1>
+These result in suitability of EVs applications .
+
+<ICE-HK:W2A-031#121:1>
+Generally , switching losses would be increased as the switching
+frequency increases .
+
+<ICE-HK:W2A-031#122:1>
+To basic EVs applications , the dc link voltage should be kept as
+close as the input voltage .
+
+<ICE-HK:W2A-031#123:1>
+Table 5 shows the suitability of these inverters for EVs purposes .
+</p> <h> <it>
+
+<ICE-HK:W2A-031#124:1>
+3.4 Modulation </it> </h>
+
+<p> 
+<ICE-HK:W2A-031#125:1>
+Modulation technique is one of the major concerns in the
+development of soft switching inverters .
+
+<ICE-HK:W2A-031#126:1>
+It results in suitabilities of motor types for drive purposes and
+production of harmonic contents .
+
+<ICE-HK:W2A-031#127:1>
+Actually , there are two directions of modulations in soft-switching
+inverters .
+
+<ICE-HK:W2A-031#128:1>
+One is when ZVS occurs at fixed time intervals , while another one
+if when ZVS occurs momentarily .
+
+<ICE-HK:W2A-031#129:1>
+The former one is only suitable for delta and sigma-delta modulation
+techniques &obrack;  29 &cbrack; .
+
+<ICE-HK:W2A-031#130:1>
+For well established PWM operation , the switches in inverter
+circuit must be operated when it is required .
+
+<ICE-HK:W2A-031#131:1>
+Table 5 also summarized the modulation techniques associated with
+the soft switching inverters . </p> <h> <bold>
+
+<ICE-HK:W2A-031#132:1>
+4. COMPARSIONS OF SOFT SWITCHING INVERTERS FOR
+EVS </bold> </h>
+
+<p> 
+<ICE-HK:W2A-031#133:1>
+According to Tables 4 and 5 , competent soft switching inverters
+for EVs purposes will be shortlisted .
+
+<ICE-HK:W2A-031#134:1>
+Comparison of these soft switching inverters will be made .
+
+<ICE-HK:W2A-031#135:1>
+Basically , there are a lot of requirement for inverters in the
+applications of EVs .
+
+<ICE-HK:W2A-031#136:1>
+The following sub-sessions will list the requirement and then
+comment on the shortlisted inverters , based on their merits and special
+features such as power rating , device count , and device type , with point
+grading system . </p> <h> <it>
+
+<ICE-HK:W2A-031#137:1>
+4.1 Special Requirements for EVs </it> </h>
+
+<p> 
+<ICE-HK:W2A-031#138:1>
+To be a contender against the conventional internal combustion
+engine &obrack;  ICE &cbrack; vehicles , the electric propulsion drive system in EVs must
+demonstrate its superiority in the following areas . ?
+
+<ICE-HK:W2A-031#139:1>
+Power Rating .
+
+<ICE-HK:W2A-031#140:1>
+- High instant power .
+
+<ICE-HK:W2A-031#141:1>
+- High power density . 
+
+<ICE-HK:W2A-031#142:1>
+Torque-Speed Characteristics .
+
+<ICE-HK:W2A-031#143:1>
+- High torque at low speed for starting and climbing.
+
+<ICE-HK:W2A-031#144:1>
+- High speed at low torque for cruising.
+
+<ICE-HK:W2A-031#145:1>
+- Wide speed range including constant torque and constant power
+regions .
+
+<ICE-HK:W2A-031#146:1>
+- Fast torque response . 
+
+<ICE-HK:W2A-031#147:1>
+Efficiency.
+
+<ICE-HK:W2A-031#148:1>
+- High efficiency over wide speed and torque ranges , generally
+higher than 95&percent; for fill speed and higher than 80&percent; at low
+speed . 
+
+<ICE-HK:W2A-031#149:1>
+Robustness. 
+
+<ICE-HK:W2A-031#150:1>
+Reliability.
+
+<ICE-HK:W2A-031#151:1>
+- No failure before the end of the vehicle life . 
+
+<ICE-HK:W2A-031#152:1>
+Cost . </p> <h> <it> 4.2 Power Devices for EVs </it> </h>
+
+<p> 
+<ICE-HK:W2A-031#153:1>
+An evaluation of power device for electric propulsion is given
+in Table 6 in which a grading system is so adapted that each of the device
+characteristics is graded from 0 to 5 points .
+
+<ICE-HK:W2A-031#154:1>
+Although it seems that the IGBT provides the best performance , the
+power MOSFET has also been accepted for many electric propulsion systems ,
+especially for relatively low power bikes and electric tricycles .
+
+<ICE-HK:W2A-031#155:1>
+When the MCT becomes commercially available at reasonable cost , it
+is likely to be the best . </p> <h> <it> 4.3 Special Requirement of Soft
+Switching Inverters for EVs </it> </h>
+
+<p> 
+<ICE-HK:W2A-031#156:1>
+An evaluation of the shortlisted soft switching inverters is
+also in Table 7 in which the same grading system is so adapted that each of
+the inverter characteristics is graded .
+
+<ICE-HK:W2A-031#157:1>
+There are three main directions for ac drives , namely induction
+motor &obrack;  IM &cbrack; , permanent magnet brushless motor &obrack;  PMBM &cbrack; , and switched
+reluctance motor &obrack;  SRM &cbrack; .
+
+<ICE-HK:W2A-031#158:1>
+These inverters are also evaluated for the suitability of these
+motor drive systems .
+
+<ICE-HK:W2A-031#159:1>
+Although it seems that the SC-ARS provides the best overall
+performance , DC-ARS can overcome the drawbacks of SC-ARS .
+
+<ICE-HK:W2A-031#160:1>
+The rest of inverters seem fairly acceptable for EVs applications .
+
+<ICE-HK:W2A-031#161:1>
+However , its original design of RT is for rectifier , it may not be
+mature for commercially EVs market .
+
+<ICE-HK:W2A-031#162:1>
+SrRDCL was proposed to use of GTO as the main device , this in turn
+deficits its competition in terms of power rating , thermal effect and
+cost-effectiveness . </p> <h> <bold>
+
+<ICE-HK:W2A-031#163:1>
+5. POTENTIAL APPLICATIONS OF INVERTERS FOR EVS </bold> </h>
+
+<p> 
+<ICE-HK:W2A-031#164:1>
+The advancement of power electronics plays a dominant role to
+the development of soft switching inverters .
+
+<ICE-HK:W2A-031#165:1>
+The competence and rapid development of IGBT , power MOSFET and MCT
+tend to be more specific and tailor-made for EVs applications .
+
+<ICE-HK:W2A-031#166:1>
+This will further reduce the production cost and improve the
+efficiency and performance of the inverters .
+
+<ICE-HK:W2A-031#167:1>
+Moreover , soft switching inverters for EVs have been proved for ac
+drive system in EVs which includes following tests . 
+
+<ICE-HK:W2A-031#168:1>
+Distortion . 
+
+<ICE-HK:W2A-031#169:1>
+Waveform Analysis . 
+
+<ICE-HK:W2A-031#170:1>
+Ripple . 
+
+<ICE-HK:W2A-031#171:1>
+Output dv/dt . 
+
+<ICE-HK:W2A-031#172:1>
+Phrase Symmetry . </p>
+
+<p> 
+<ICE-HK:W2A-031#173:1>
+Furthermore , the power rating of the inverters in EVs also
+demonstrates that soft switching techniques is superior than conventional
+hard switching one , in terms of conduction loss , switching loss ,
+efficiency , EMI and acoustic problems .
+
+<ICE-HK:W2A-031#174:1>
+Table 8 shows the power rating of inverters for different types of
+EVs , namely sedan , light-weighted van , pick-up truck , and commercial
+passenger buses .
+
+<ICE-HK:W2A-031#175:1>
+For these range of power rating , efficiency of soft-switching
+inverters is normally higher than hard switching inverters . </p> <h> <bold>
+
+<ICE-HK:W2A-031#176:1>
+6. SOFT SWITCHING INVERTERS / CONVERTERS FOR EVS </bold> </h>
+
+<p> 
+<ICE-HK:W2A-031#177:1>
+Other than propulsion system in EVs , soft switching inverters
+are also suitable for all power conversion in EVs such as accessory power
+supply .
+
+<ICE-HK:W2A-031#178:1>
+Since EVs do not have an alternator , many auxiliary system must
+depend on the battery system to supply the necessary power .
+
+<ICE-HK:W2A-031#179:1>
+For example , air conditioning , power steering and radios are just
+some accessories that will have to rely on a converter/inverter to provide
+power from a battery system input as high as 200-400 Vdc range .
+
+<ICE-HK:W2A-031#180:1>
+The following accessory are dependent on high-efficiency converter
+inverter . 
+
+<ICE-HK:W2A-031#181:1>
+Convert to 0 - 180 Vac for air conditioning compressor . 
+
+<ICE-HK:W2A-031#182:1>
+Convert to 24 Vdc for special purpose needs . 
+
+<ICE-HK:W2A-031#183:1>
+Convert to 14.25 Vdc for power steering , headlamps , stereo system
+, etc . </p> <h> <bold>
+
+<ICE-HK:W2A-031#184:1>
+7. CONCLUSION </bold> </h>
+
+<p> 
+<ICE-HK:W2A-031#185:1>
+A comprehensive study of published soft switching inverters has
+been reported .
+
+<ICE-HK:W2A-031#186:1>
+They have been classified by different characteristics , by topology
+, operation and modulation .
+
+<ICE-HK:W2A-031#187:1>
+Some of them are suitable for high power ac drives system such as
+EVs application .
+
+<ICE-HK:W2A-031#188:1>
+A shortlisted inverters are proposed for further consideration to
+apply for power train system in future EVs .
+
+<ICE-HK:W2A-031#189:1>
+They have been graded by special requirement of EVs .
+
+<ICE-HK:W2A-031#190:1>
+ARS type seems to be outstanding but it cannot adopt well
+established PWM technique and apply for IM drive .
+
+<ICE-HK:W2A-031#191:1>
+The rest of inverters are fairly similar to each other .
+
+<ICE-HK:W2A-031#192:1>
+So far these cannot demonstrate their ability to high power ac drive
+system for EVs .
+
+<ICE-HK:W2A-031#193:1>
+Finally , other applications of soft switching in EVs are proposed
+for further development . </p>
+</I>

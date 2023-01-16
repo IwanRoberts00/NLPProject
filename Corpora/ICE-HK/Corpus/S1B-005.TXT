@@ -1,0 +1,479 @@
+<I>
+
+<$A> 
+<ICE-HK:S1B-005#1:1:A>
+Now in the previous lectures alright <,> now we have study that
+we can use an <unc> one-word </unc> system to measure a different
+physical variables alright
+
+<ICE-HK:S1B-005#2:1:A>
+And <,> there are many different types of instrument in which we can
+measure the different types of variables and although the variables if we try
+to measure might differ in forms like a we like that will be measure
+temperature alright flow rate or even Ph value or something
+
+<ICE-HK:S1B-005#3:1:A>
+Now we can always try to <,> <?> represent </?> the <?>
+instrumentation </?> system by means of block diagrams by means of functional
+blocks alright and that the cynical instrumental system may consists of the
+transducer the signal condition unit the transition path and the display and
+we call it devices
+
+<ICE-HK:S1B-005#4:1:A>
+Now how far if you are given different types of instruments to
+measure different physical variable
+
+<ICE-HK:S1B-005#5:1:A>
+Uh say for example if you try to measure temperature alright now we
+might have different types of measurement devices like say a resistance
+thermometer alright or might be a mercury if you ask thermometer and so on
+
+<ICE-HK:S1B-005#6:1:A>
+Now so for the same types of instrument how are we going to decide
+which one would be better to use
+
+<ICE-HK:S1B-005#7:1:A>
+There will be certain criteria with image we can judge whether one
+instrument system is better than the other instrumental system
+
+<ICE-HK:S1B-005#8:1:A>
+Now so in order to be able to arrive such a decision now we would
+need to understand what we call the performance characteristic of instruments
+<,>
+
+<ICE-HK:S1B-005#9:1:A>
+And basically we can classify the performance characteristic into
+what we call the static characteristic and later on you will discuss the
+dynamic characteristic
+
+<ICE-HK:S1B-005#10:1:A>
+Now if state characteristic can be used to compare the performance
+of different instrument under what we call a static condition that means the
+input do not vary with static time alright
+
+<ICE-HK:S1B-005#11:1:A>
+Now so normally if you try to evaluate the characteristic of the
+instrument <.> un </.> under static condition <,>
+
+<ICE-HK:S1B-005#12:1:A>
+The first one that we will look at is what we call the static
+sensitivity
+
+<ICE-HK:S1B-005#13:1:A>
+Now in static sensitivity can be defined as the change in output
+for a different unit change in input <,>
+
+<ICE-HK:S1B-005#14:1:A>
+Now typically if you try to consider the <unc> one-word
+</unc> curve of instrument alright
+
+<ICE-HK:S1B-005#15:1:A>
+Suppose it is the input <,,> and suppose that is the output okay
+
+<ICE-HK:S1B-005#16:1:A>
+So typically if we try to evaluate the performance of instrument
+you will need to have a relationship between an input and output and it will
+given in a form of <unc> one-word </unc> curve alright
+
+<ICE-HK:S1B-005#17:1:A>
+Now suppose <,> this is a <unc> one-word </unc> curve okay
+now then if the <unc> one-word </unc> curve is <,> a straight one
+like this <,> then its <?> sensitivity </?> is simply given by the slope of
+this straight line alright
+
+<ICE-HK:S1B-005#18:1:A>
+And more generally if instead of having one straight line like this
+suppose the <unc> one- word </unc> curve is a curve like that then
+its sensitivity at one particular <unc> one-word </unc> would be
+given by the slope of the tangent to the required <unc> one-word
+</unc> alright
+
+<ICE-HK:S1B-005#19:1:A>
+Now so in this case <,> the sensitivity would be a constant <,> for
+all the input value all the input values
+
+<ICE-HK:S1B-005#20:1:A>
+Now on the other hand <,> if you got a <unc> one-word
+</unc> curve like that then its <?> stability </?> would be a variable
+depending on the input value
+
+<ICE-HK:S1B-005#21:1:A>
+So typically I may <?> said </?> that <,> sensitivity <,> would be
+given by the rate of change of input to the rate of change of what sorry will
+be the rate of change of output to the rate of change of input at the
+required <unc> one-word </unc>
+
+<ICE-HK:S1B-005#22:1:A>
+Okay so we can define sensitivity in this manner and this would be
+a constant if the <unc> one-word </unc> curve instead of a straight
+line otherwise it will be a variable depending on the input value alright <&>
+A long pause </&>
+
+<ICE-HK:S1B-005#23:1:A>
+Now this would be <unc> one-word </unc> curve only for a
+different condition
+
+<ICE-HK:S1B-005#24:1:A>
+Now suppose there  ' s a change in the surrounding temperature for
+example then such a <unc> one-word </unc> curve would also change
+alright
+
+<ICE-HK:S1B-005#25:1:A>
+Now so suppose <,> the <unc> one-word </unc> curve change
+in this manner alright the slope remains constant but then it will shift
+upward or downward <,>
+
+<ICE-HK:S1B-005#26:1:A>
+Now so if this is the case then this is what we sometimes call the
+zero drift <,,> okay
+
+<ICE-HK:S1B-005#27:1:A>
+Now this particular case the slope of the tangent curve would be a
+constant alright but then it will shift upward or downward depending on the
+change in the surrounding condition <,,>
+
+<ICE-HK:S1B-005#28:1:A>
+Now but a more <unc> one-word </unc> case is that besides a
+zero shift like that alright the slope of this line would also change alright
+
+<ICE-HK:S1B-005#29:1:A>
+So instead of having a curve like this then <,> we might have a
+line of a different slope
+
+<ICE-HK:S1B-005#30:1:A>
+So in this particular case alright then there is a sensitivity
+drift as well as a zero drift alright
+
+<ICE-HK:S1B-005#31:1:A>
+So this represent a sensitivity drift <,,> okay
+
+<ICE-HK:S1B-005#32:1:A>
+And this represent a change in the sensitivity for a given change
+in condition <,,> alright
+
+<ICE-HK:S1B-005#33:1:A>
+So a typical instrument that have such a behaviour will be say for
+example a pressure pitch alright <,,> according <unc> one-word </unc>
+okay it should be such a type of behaviour when the surrounding temperature
+shift <,> okay
+
+<ICE-HK:S1B-005#34:1:A>
+Therefore whenever we look at the performance characteristic the
+instrument then when we look at sensitivity okay we need to know its
+sensitivity at a given condition plus the possible change in sensitivity when
+the temperature okay surrounding condition changes <,>
+
+<ICE-HK:S1B-005#35:1:A>
+Now you <?> choice </?> <,,>
+
+<ICE-HK:S1B-005#36:1:A>
+Now besides sensitivity that another factor that we will need to
+look at will be what we call <?> reality </?> <,,>
+
+<ICE-HK:S1B-005#37:1:A>
+Yes
+
+<$?> 
+<ICE-HK:S1B-005#38:1:?> Can we almost a zero drift are the cause that even drift at
+continue
+
+<$A> 
+<ICE-HK:S1B-005#39:1:A>
+The zero drift results when the surrounding condition changes
+alright
+
+<ICE-HK:S1B-005#40:1:A>
+Uh suppose when there  ' s a change in the surrounding temperature
+now then suppose this is your original tangent curve <,>
+
+<ICE-HK:S1B-005#41:1:A>
+Let say twenty degree C alright but instead of twenty degree C your
+room temperature may fluctuate alright so you cannot it say that the
+<unc> one-word </unc> curve could remain the same when the
+temperature changes say to seventeen degree C alright
+
+<ICE-HK:S1B-005#42:1:A>
+So suppose when the temperature changes say to seventeen degree C
+alright then suppose this is the resultant <,> tangent curve alright
+
+<ICE-HK:S1B-005#43:1:A>
+Then <,> this we call it the zero drift alright <,> it means even
+when there is no input to the instrument the output of instrument would
+fluctuate it will change <,> alright
+
+<ICE-HK:S1B-005#44:1:A>
+Now and in addition to this zero drift then its sensitivity or its
+slope of this <unc> one-word </unc> curve would also change as a
+result of say a change in the surrounding temperature okay
+
+<ICE-HK:S1B-005#45:1:A>
+So in reality when the surrounding condition changes then a typical
+change in the <unc> one-word </unc> curve say when the sun like that
+okay <,>
+
+<ICE-HK:S1B-005#46:1:A>
+Therefore in addition of knowing the sensitivity at a different
+condition which also be aware how its sensitivity change when the surrounding
+condition changes because it  ' s to be important in determining what
+instrument that you go to buy or or or specify alright <,>
+
+<ICE-HK:S1B-005#47:1:A>
+Okay any further question <&> A long pause </&>
+
+<ICE-HK:S1B-005#48:1:A>
+Now then besides sensitivity <,> another plot that we would need to
+look at would be reality <,>
+
+<ICE-HK:S1B-005#49:1:A>
+Now when the instrument manufacturer tries to design an instrument
+it would be always desirable that the input output characteristic alright
+should be a linear straight line okay <,>
+
+<ICE-HK:S1B-005#50:1:A>
+Because if the input output characteristic can be represented by a
+straight line then it would make the subsequent signal processing system much
+more <,> simpler <,>
+
+<ICE-HK:S1B-005#51:1:A>
+So the instrument manufacturer would always try to aim to have this
+input output characteristic
+
+<ICE-HK:S1B-005#52:1:A>
+Now but this is only the ideal case
+
+<ICE-HK:S1B-005#53:1:A>
+Now in reality it will be difficult for people to obtain such a
+linear characteristic in their <unc> one- word </unc> curve <,>
+
+<ICE-HK:S1B-005#54:1:A>
+Now so most probably <,> when you test the instrument then instead
+of having a straight line like this then you  ' ll probably have the <unc>
+one-word </unc> points represented a by a curve alright <,>
+
+<ICE-HK:S1B-005#55:1:A>
+Now however sometimes <,> in the specification by the manufacturer
+they would always try to assume that their characteristic is that of a
+straight line and any deviation from a straight line they assume that it  ' s
+an error alright
+
+<ICE-HK:S1B-005#56:1:A>
+Because in their design they try to achieve a straight line in the
+output input characteristic alright
+
+<ICE-HK:S1B-005#57:1:A>
+So any deviation from a straight line they regard that error <,>
+
+<ICE-HK:S1B-005#58:1:A>
+Now therefore <?> reality </?> is a measure of how the actual
+<unc> one-word </unc> point deviate from a specified straight line
+<,>
+
+<ICE-HK:S1B-005#59:1:A>
+Now if this is the <unc> one-word </unc> point alright the
+question is how are we going to determine what is the straight line at which
+we draw through all these <unc> one-word </unc> points
+
+<ICE-HK:S1B-005#60:1:A>
+Now one method could be to draw what we call the best straight line
+through the point alright
+
+<ICE-HK:S1B-005#61:1:A>
+So that is one method alright <,>
+
+<ICE-HK:S1B-005#62:1:A>
+And if we use this method then <,> we call this to be the best fit
+<?> in reality </?> alright <,> okay we draw the best straight line through
+this <unc> one-word </unc> points by means of a statistical method
+alright
+
+<ICE-HK:S1B-005#63:1:A>
+Now but sometimes in order to simply the matter then instead of
+drawing the best straight line through the <unc> one-word </unc>
+plots people would just join <,> the first and the last point on the
+<unc> one-word </unc> curve alright
+
+<ICE-HK:S1B-005#64:1:A>
+So they will just draw up these two points <,> okay <,> alright
+
+<ICE-HK:S1B-005#65:1:A>
+They assume that this is the straight line that represents the
+characteristic of the instruments and any deviation from that to be an error
+alright
+
+<ICE-HK:S1B-005#66:1:A>
+So if we try to do this then <,> this is what we call the terminal
+<?> in reality </?> <,> alright <&> A long pause </&>
+
+<ICE-HK:S1B-005#67:1:A>
+Alright can you follow this
+
+<ICE-HK:S1B-005#68:1:A>
+Now therefore at any particular plot <,> uh suppose <,,> uh suppose
+this is the actual <unc> one-word </unc> curve alright and suppose
+this is the straight line that we are using alright
+
+<ICE-HK:S1B-005#69:1:A>
+Now then the error <,> that results by assuming the straight line
+would be given by <,,> okay where Y X is your actual result from your
+<unc> one- word </unc> alright and Y L X is the reading that you
+obtain from this straight line that you assume to be the actual <unc>
+one-word </unc> curve alright
+
+<ICE-HK:S1B-005#70:1:A>
+And therefore this represent an error okay and then normally the
+error due to the <?> reality </?> would express the percentage of the full
+scale output <&> A long pause </&>
+
+<ICE-HK:S1B-005#71:1:A>
+Okay so that is how we try to represent the error due to the
+non-linear not due to a linear of the <unc> one-word </unc> curve
+alright
+
+<ICE-HK:S1B-005#72:1:A>
+Okay and this value would represent the maximum value of this one
+alright
+
+<ICE-HK:S1B-005#73:1:A>
+So for this curve here then the maximum value would occur at above
+this point okay <,,>
+
+<ICE-HK:S1B-005#74:1:A>
+Okay <{1> <[1> <,> yes <,> </[1>
+
+<ICE-HK:S1B-005#75:1:A>
+This represent the full scale output now so in this <unc>
+one-word </unc> case now if this <,> is the input and so if that  ' s the
+output alright then the full scale output would be given by this value okay
+<,> alright this would be out <unc> one-word </unc> <,,> okay
+
+<ICE-HK:S1B-005#76:1:A>
+So when we try to express the error we often do it as a percentage
+of the full scale output okay
+
+<ICE-HK:S1B-005#77:1:A>
+That  ' s how we now we  ' re doing <,,> <{2> <[2> alright okay </[2>
+
+<$?> 
+<ICE-HK:S1B-005#78:1:?> <[1> <unc> three-words </unc> </[1> </{1>
+
+<$?> 
+<ICE-HK:S1B-005#79:1:?> <[2> <?> Professor </?> </[2> </{2> <unc> three words
+</unc> in the earth uh I mean the <unc> two-words </unc>
+
+<$A> 
+<ICE-HK:S1B-005#80:1:A>
+Well when you try to draw this <,> you are drawing what we
+call the best straight line through all these points alright
+
+<ICE-HK:S1B-005#81:1:A>
+So if you study Mathematics you can do it by a linear by a linear
+equation act alright <,>
+
+<ICE-HK:S1B-005#82:1:A>
+Now if you having early then we  ' ll discuss later on alright
+
+<ICE-HK:S1B-005#83:1:A>
+Now this is a this school method that would allow you to draw the
+best point through all these straight lines
+
+<ICE-HK:S1B-005#84:1:A>
+Now it means <&> A long pause </&>
+
+<ICE-HK:S1B-005#85:1:A>
+Now <,> now suppose this is the the actual <unc> one-word
+</unc> plots alright <,> okay
+
+<ICE-HK:S1B-005#86:1:A>
+Now if this is the <unc> one-word </unc> points then you
+can draw several straight lines through these points
+
+<ICE-HK:S1B-005#87:1:A>
+Now if you do not do it by statistical method now if we just do
+initially then the first person may draw a straight line like this okay
+
+<ICE-HK:S1B-005#88:1:A>
+Now but the same person he may not show you he he may not share
+your view he might draw the straight line say <,> in another manner and so on
+okay
+
+<ICE-HK:S1B-005#89:1:A>
+So different people can draw different straight lines through the
+same set of the the points so it is highly undesirable okay
+
+<ICE-HK:S1B-005#90:1:A>
+Therefore it would need to <?> devise </?> a method whereby
+everybody use the method would come to the same conclusion for the same set
+of experimental points okay
+
+<ICE-HK:S1B-005#91:1:A>
+So the method of linear regression <&> A long pause </&>
+
+<ICE-HK:S1B-005#92:1:A>
+Now so the method that people normally use would be to draw a
+straight line through all these points so that the deviation of the plot from
+the straight line would be an a minimum okay that means we try to minimize
+all these distance <,> alright <,>
+
+<ICE-HK:S1B-005#93:1:A>
+So we will discuss this method later on alright
+
+<ICE-HK:S1B-005#94:1:A>
+Okay any question
+
+<ICE-HK:S1B-005#95:1:A>
+Now so if we draw the straight line by this method alright then the
+straight line obtained is what we call the best straight line through the at
+that points alright <&> A long pause </&>
+
+<ICE-HK:S1B-005#96:1:A>
+Now then besides <?> in reality </?> that the third factor uh we
+would like to look at will be what we call the inability inability and it is
+a measure of inability of the instrument to <?> gave </?> the same reading
+under the same input condition alright
+
+<ICE-HK:S1B-005#97:1:A>
+Now if you try to measure the output of a instrument for different
+input uh suppose the try to measure uh temperature at a hundred degree C
+alright by putting the thermometer into a <unc> one-word </unc> of
+boiling water <,>
+
+<ICE-HK:S1B-005#98:1:A>
+Now consider this we know that the input must be a hundred degree C
+by definition alright <,>
+
+<ICE-HK:S1B-005#99:1:A>
+Now but if you repeat the process a bit again with the same
+instrument under the same condition you do not necessary get the same reading
+any time alright
+
+<ICE-HK:S1B-005#100:1:A>
+Uh the first time you may get a reading of hundred degree C now
+the second time you may get a reading of hundred and one for example alright
+
+<ICE-HK:S1B-005#101:1:A>
+And the third time you may get a reading of ninety nine degree and
+so on alright <,>
+
+<ICE-HK:S1B-005#102:1:A>
+So there would be different readings given at different time for
+the same input condition alright
+
+<ICE-HK:S1B-005#103:1:A>
+Now therefore if inability is a measure of how the instrument
+behave under such type of condition <,> okay
+
+<ICE-HK:S1B-005#104:1:A>
+So <,> if again if we look at <unc> one-word </unc> curve
+like this alright now for the same input <,> if we are able to repeat its <?>
+range </?> a large <?> amount </?> of times that would actually find that the
+output will be distributed above the best straight line like this alright <&>
+A long pause </&> okay <,>
+
+<ICE-HK:S1B-005#105:1:A>
+So by <?> similar </?> condition they can output with vary and
+inability is a measure of how this plot was spread above your even <unc>
+one-word </unc> curve alright
+
+<ICE-HK:S1B-005#106:1:A>
+And so normally the inability is <?> express </?> in terms of
+standard deviation of the experimental plots </I>

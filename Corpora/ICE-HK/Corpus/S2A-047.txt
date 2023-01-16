@@ -1,0 +1,584 @@
+<I>
+
+<$A> 
+<ICE-HK:S2A-047#1:1:A>
+School timetabling <?> tasks </?> uh can be roughly <.> di </.>
+uh divided into two part
+
+<ICE-HK:S2A-047#2:1:A>
+The first part is called timetable planning the other part is called
+timetable <.> si </.> scheduling
+
+<ICE-HK:S2A-047#3:1:A>
+Uh the timetable planning is that <,> uhm we have some people
+usually are senior staff member in the school <,>
+
+<ICE-HK:S2A-047#4:1:A>
+Uh he or she will identify <,> the resources that will be needed <,>
+in order to <,> uh <,> uh uh uh to conduct a lesson
+
+<ICE-HK:S2A-047#5:1:A>
+For example uh <,> what sort of room will be used for a particular
+particular lesson
+
+<ICE-HK:S2A-047#6:1:A>
+For example PE of course uh physical education <,> lesson will need
+to use uh playground <,>
+
+<ICE-HK:S2A-047#7:1:A>
+So <?> those </?> first of all we have to associate all those
+resources with the lesson need
+
+<ICE-HK:S2A-047#8:1:A>
+And we have <,> uhm we we also need to identify any resources
+constraint such as uh <,> uh resource <?> are weak </?> in budget
+
+<ICE-HK:S2A-047#9:1:A>
+Uh for example whether a teacher will available at a particular time
+
+<ICE-HK:S2A-047#10:1:A>
+Or whether a room or class will be available et cetera <,>
+
+<ICE-HK:S2A-047#11:1:A>
+Uh <,> we also need to identify all the timetable uh timetabling
+constraint happens such as uhm many school would have <?> these </?> sort of
+requirement
+
+<ICE-HK:S2A-047#12:1:A>
+Or no PE lesson after lunch
+
+<ICE-HK:S2A-047#13:1:A>
+I mean it maybe maybe after lunch
+
+<ICE-HK:S2A-047#14:1:A>
+And uh they are very <,> uh uh particular uhm <,> uhm <,>
+constraints in some some schools
+
+<ICE-HK:S2A-047#15:1:A>
+For example some <,> primary school would have a constraint such
+that PE lesson or particular class will not be conducted in successive base
+
+<ICE-HK:S2A-047#16:1:A>
+Uhm the reason is uh <,> quite quite strange to me
+
+<ICE-HK:S2A-047#17:1:A>
+Cause uh they they do have a reason
+
+<ICE-HK:S2A-047#18:1:A>
+Uhm <,> the reason is uhm
+
+<ICE-HK:S2A-047#19:1:A>
+When a when a pupil <,> have a PE lesson
+
+<ICE-HK:S2A-047#20:1:A>
+Then he uh when when he or she <,> uh go uh when he or she uh goes
+home
+
+<ICE-HK:S2A-047#21:1:A>
+Then the <,> they need to wash their PE uniform and uh the <,>
+
+<ICE-HK:S2A-047#22:1:A>
+Therefore the uhm the uniform may not be able to dry up you uh in
+time
+
+<ICE-HK:S2A-047#23:1:A>
+So that  ' s why they need to <,> uh have <,>
+
+<ICE-HK:S2A-047#24:1:A>
+They they need to uh separate <,> the PE lesson for uh for for <,>
+primary school
+
+<ICE-HK:S2A-047#25:1:A>
+And what <?> with </?> identify all those uh constraint maybe
+course available
+
+<ICE-HK:S2A-047#26:1:A>
+Then of course we need <,> to assign or some teacher to conduct to
+some lesson
+
+<ICE-HK:S2A-047#27:1:A>
+I what but <,> but uh when I said assign uh I mean associating uh
+lessons with uh teachings that  ' s all
+
+<ICE-HK:S2A-047#28:1:A>
+So <,> for example uhm <,> teacher A maybe assigned to teach a
+number of classes for a particular subject <,> uh with a particular number of
+meeting uh number of lessons
+
+<ICE-HK:S2A-047#29:1:A>
+Of course we also need to identify how long the lesson would be
+would that be <,> ten uh single period lesson
+
+<ICE-HK:S2A-047#30:1:A>
+Or would that would that be uh two single period lesson and <,>
+three double period lesson et cetera <,>
+
+<ICE-HK:S2A-047#31:1:A>
+So usually now this I think all these tasks will be prepared by a
+senior staff member in the school <,,>
+
+<ICE-HK:S2A-047#32:1:A>
+However the scheduling tasks may not be done by the senior staff
+
+<ICE-HK:S2A-047#33:1:A>
+It maybe done by some junior staff
+
+<ICE-HK:S2A-047#34:1:A>
+You know that it  ' s a very <unc> one- word </unc> task
+
+<ICE-HK:S2A-047#35:1:A>
+So <?> senior </?> staff can ask somebody to help them
+
+<ICE-HK:S2A-047#36:1:A>
+And uhm <,> we we understand that the task is to assign all lessons
+<,> uh <,> to the schoolmaster  ' s timetable
+
+<ICE-HK:S2A-047#37:1:A>
+So that all constraint will be satisfied
+
+<ICE-HK:S2A-047#38:1:A>
+And any preferences <,> or if there are any preferences <,> then uh
+we help you uhm
+
+<ICE-HK:S2A-047#39:1:A>
+Then she will then as many as <,> uhm <,> as many preferences as
+possible will be fixed by as well
+
+<ICE-HK:S2A-047#40:1:A>
+And uh usually we will uh find that uh at the end of the timetable
+<,> process I would
+
+<ICE-HK:S2A-047#41:1:A>
+When I say at the end of the timetabling process I mean
+
+<ICE-HK:S2A-047#42:1:A>
+Uh even though uh when we use a computer to try to solve the
+problem
+
+<ICE-HK:S2A-047#43:1:A>
+Usually we won't be able to solve them all
+
+<ICE-HK:S2A-047#44:1:A>
+Then maybe uh three percent of the lessons need to be addressed uh
+manually
+
+<ICE-HK:S2A-047#45:1:A>
+And <,> uh <,,> it is uhm not unusual to pick uh more than hundred
+many hours completed to to complete the whole task <,>
+
+<ICE-HK:S2A-047#46:1:A>
+And uh I  ' ll give you some supporting evidences in a <.> min </.>
+in a minute <,>
+
+<ICE-HK:S2A-047#47:1:A>
+And uhm in <,> nineteen ninety <,> nineteen ninety five uh
+Education Department <,> uh introduced its first timetabling software for
+school use
+
+<ICE-HK:S2A-047#48:1:A>
+It  ' s called PDSS
+
+<ICE-HK:S2A-047#49:1:A>
+Uh PDSS <,> uh in fact <,> uh was awaking uh as a annual field
+project in uhm uhm Chinese U
+
+<ICE-HK:S2A-047#50:1:A>
+And uhm <,> in uhm <,> ninety five of <,>
+
+<ICE-HK:S2A-047#51:1:A>
+Uhm the work has been customized and uh introduced for school use
+
+<ICE-HK:S2A-047#52:1:A>
+And uh it is integrated as a part of uh TBSS
+
+<ICE-HK:S2A-047#53:1:A>
+Uh sorry as a <?> Sams </?> component
+
+<ICE-HK:S2A-047#54:1:A>
+And uh the system was written in C in C language
+
+<ICE-HK:S2A-047#55:1:A>
+Uhm so the integration of uh TDSS to <?> Sams </?> is not as kind
+<,> as uh ED would like to see
+
+<ICE-HK:S2A-047#56:1:A>
+Because uhm <,> they use uh two different setup environments
+
+<ICE-HK:S2A-047#57:1:A>
+And uhm <,> for those who don't have any ideas on <?> Sams </?>
+
+<ICE-HK:S2A-047#58:1:A>
+<?> Sams </?> is a school administrating system offered by the ED
+for school use
+
+<ICE-HK:S2A-047#59:1:A>
+And uhm in the <,> uhm back engine of the <,> uhm system
+
+<ICE-HK:S2A-047#60:1:A>
+I mean the <?> Sams course </?> system <,> uh is <unc> one-word
+</unc> <,>
+
+<ICE-HK:S2A-047#61:1:A>
+And PDSS was decided as a decision support system
+
+<ICE-HK:S2A-047#62:1:A>
+Uhm the idea <,> uh was uh it is very hard for uh computer to able
+to know all the uh all the proper decision but uh the <?> decision </?> rule
+that have <,> been uh inside the mind of a timetabling expert
+
+<ICE-HK:S2A-047#63:1:A>
+So the there will be kind of <,> thing is much uh better
+
+<ICE-HK:S2A-047#64:1:A>
+It is a much better idea to <,> have a system <,> which provide
+some constraint package as well as <,> some uh <,> decision tools to aim the
+timetable or the timetabling to do the job <,,>
+
+<ICE-HK:S2A-047#65:1:A>
+And <,> next I would like to uh introduce uh the <,> good surveys
+that I mentioned early
+
+<ICE-HK:S2A-047#66:1:A>
+The first one <,> uh was conducted by <,> uh <,> a number of
+researchers
+
+<ICE-HK:S2A-047#67:1:A>
+Uh by Kwok Kwong and <unc> one-word </unc> of <,> uhm
+
+<ICE-HK:S2A-047#68:1:A>
+Doctor Kwok is from the uhm City University and Mr Kwong is
+currently work uh as a lecturer in the <,> in the uhm <,> <unc> one-word
+</unc> <,> Hong Kong I <.> Ed </.>
+
+<ICE-HK:S2A-047#69:1:A>
+I  ' m not quite sure <?> where  ' s </?> uhm about him
+
+<ICE-HK:S2A-047#70:1:A>
+And uhm they conduct the survey in October nineteen ninety nineteen
+ninety five <,>
+
+<ICE-HK:S2A-047#71:1:A>
+And uhm <?> aim is </?> to try to understand the timetabling
+problem for secondary schools
+
+<ICE-HK:S2A-047#72:1:A>
+And uh they send <,> out all hundred and eighty questionnaire
+
+<ICE-HK:S2A-047#73:1:A>
+Or which covers almost <?> all </?> the secondary schools in Hong
+Kong
+
+<ICE-HK:S2A-047#74:1:A>
+And uh one hundred and seventy three uh were returned <,>
+
+<ICE-HK:S2A-047#75:1:A>
+And uh what <,> as we known though
+
+<ICE-HK:S2A-047#76:1:A>
+Most of the <,> <?> respondings </?> are are of are come from the
+uh grammars school
+
+<ICE-HK:S2A-047#77:1:A>
+There are a few uh <,> respondent from <,> uhm <,> some special
+school but not many <,,>
+
+<ICE-HK:S2A-047#78:1:A>
+And uh what they <,> found <,> the <,> that uhm
+
+<ICE-HK:S2A-047#79:1:A>
+The number of teachers in a schools around uhm fifty two or fifty
+three which is an average number
+
+<ICE-HK:S2A-047#80:1:A>
+And the number of classroom <?> as a test </?> room in a school <,>
+is about twenty five and about uh <?> thirty </?>
+
+<ICE-HK:S2A-047#81:1:A>
+And number of classes is around <.> thir </.> uh sorry twenty nine
+
+<ICE-HK:S2A-047#82:1:A>
+When you read those figures then you you may notice that
+
+<ICE-HK:S2A-047#83:1:A>
+The number of classroom <,> I mean the average number is twenty
+five or twenty six
+
+<ICE-HK:S2A-047#84:1:A>
+However the number of classes <,> is twenty nine
+
+<ICE-HK:S2A-047#85:1:A>
+So that  ' s mean we do not have enough <?> spared </?> classroom to
+support all the classes
+
+<ICE-HK:S2A-047#86:1:A>
+That means <,> some of the classes will not will not <,> uh have
+any home room <,,>
+
+<ICE-HK:S2A-047#87:1:A>
+And uhm quickly the number of time slot in a teaching cycle is
+around uh twenty seven <,>
+
+<ICE-HK:S2A-047#88:1:A>
+So most of the school will adopt a teaching cycle of five or six
+days
+
+<ICE-HK:S2A-047#89:1:A>
+And uhm for each day you will have uh eight or nine <,> periods of
+lessons <,,>
+
+<ICE-HK:S2A-047#90:1:A>
+And uhm the researchers uh found the problem is quite complex in a
+sense that uh the number of free
+
+<ICE-HK:S2A-047#91:1:A>
+Uh there are some uh uh free lessons uh <,>
+
+<ICE-HK:S2A-047#92:1:A>
+On average there are about five uh free lessons per <,> time slot
+
+<ICE-HK:S2A-047#93:1:A>
+When I when I say a <?> free </?> lesson that means a lesson will
+<,>
+
+<ICE-HK:S2A-047#94:1:A>
+Uh a class of student will be split into two or more groups
+
+<ICE-HK:S2A-047#95:1:A>
+So that they have to go to different rooms to attend the lesson
+
+<ICE-HK:S2A-047#96:1:A>
+So at least two rooms and two teachers will be asked to attend a
+free lesson
+
+<ICE-HK:S2A-047#97:1:A>
+And the situation will be getting more complicated if we have to
+split and combine
+
+<ICE-HK:S2A-047#98:1:A>
+So perhaps we have three group of students split into <,>
+
+<ICE-HK:S2A-047#99:1:A>
+Sorry three classes of students split into five groups
+
+<ICE-HK:S2A-047#100:1:A>
+And uh they maybe taught by uh different uh teachers in different
+<,> venue
+
+<ICE-HK:S2A-047#101:1:A>
+And of course there are more complicated uh timetabling
+requirement
+
+<ICE-HK:S2A-047#102:1:A>
+And I  ' ll uh give you some idea on on those requirement uh later
+on <,>
+
+<ICE-HK:S2A-047#103:1:A>
+And uhm there are uh double period and <?> thirdable </?> period
+lesson as well
+
+<ICE-HK:S2A-047#104:1:A>
+Uhm <,> it sounds of <,> uhm it sounds of quite usual with the why
+<,> uh I mention it that
+
+<ICE-HK:S2A-047#105:1:A>
+I mention are those further case instead <,> of who would not
+allow uh <,> uh the multi period lessons to be uh <,> placed across recess or
+lunch
+
+<ICE-HK:S2A-047#106:1:A>
+That is the usual case
+
+<ICE-HK:S2A-047#107:1:A>
+Uh however they they had there are some school uhm <,> such that
+they they they may allow uh to have multi period lesson <?> it </?> places
+across recess if they are not able to find a <?> sit </?> any other suitable
+places for those lessons <,,>
+
+<ICE-HK:S2A-047#108:1:A>
+So if we have more this sort of multi period lessons that means uh
+we we do not have <,> uh <,> <&> tut </&>
+
+<ICE-HK:S2A-047#109:1:A>
+Or we may have a a a smaller degree of flexibility in placing
+those period into a time into a timetable
+
+<ICE-HK:S2A-047#110:1:A>
+And uhm <,> regarding the timetabling method on <,>
+
+<ICE-HK:S2A-047#111:1:A>
+They found the average number of hours <?> spended </?> or in
+constructing a timetable at that time <,> would be uh around a hundred and
+sixty <?> hour </?> <,>
+
+<ICE-HK:S2A-047#112:1:A>
+And uh <,> uh <,> no notice that this particular figure include uh
+those school who construct their timetable manually or with the use of
+computer <,>
+
+<ICE-HK:S2A-047#113:1:A>
+Uhm <,> so <,> it it will <?> depend </?> more data about the
+degree of population of that is a use of that can use with a with the
+timetabling task
+
+<ICE-HK:S2A-047#114:1:A>
+All twenty two percent <,> uhm conduct the timetabling task
+manually
+
+<ICE-HK:S2A-047#115:1:A>
+And uhm the rest seventy eight percent use a <unc> several
+words </unc>
+
+<ICE-HK:S2A-047#116:1:A>
+However only three five percent uh
+
+<ICE-HK:S2A-047#117:1:A>
+Sorry five uh twenty five percent of uh schools use computer only
+for constraint checking <,> that means uh they have to make a decision where
+to put a particular uh lessons onto the master timetable
+
+<ICE-HK:S2A-047#118:1:A>
+So it  ' s <unc> one-word </unc> uh manual <.> de </.> uh
+uhm decision to be done manually
+
+<ICE-HK:S2A-047#119:1:A>
+So basically the scheduling task is performed by the human being
+<,>
+
+<ICE-HK:S2A-047#120:1:A>
+And <,> the other twenty five percent are in use some uhm
+<unc> one-word </unc>
+
+<ICE-HK:S2A-047#121:1:A>
+Uhm sorry use the computer tools to uh generate the timetable uh
+<unc> one-word </unc>
+
+<ICE-HK:S2A-047#122:1:A>
+Uh however these twenty five percent of people had to do <?> some
+</?> many work after the <?> timetabling </?> process
+
+<ICE-HK:S2A-047#123:1:A>
+Because uh they found the the <?> pins </?> was not worth enough
+to generate the whole timetable for them <,>
+
+<ICE-HK:S2A-047#124:1:A>
+Only around nine percent of the schools <?> care </?>
+
+<ICE-HK:S2A-047#125:1:A>
+They were able to generate the whole timetable with the with the
+use of the <,> <unc> one-word </unc> timetable software
+
+<ICE-HK:S2A-047#126:1:A>
+Because if we look at these
+
+<ICE-HK:S2A-047#127:1:A>
+Uh you may sum up these two figure <,> then you can see that uh uh
+<,> about fifty seven percent of schools generate the timetable manually <&>
+A long pause </&>
+
+<ICE-HK:S2A-047#128:1:A>
+And <,> uh they also look at uhm those completion rate of or the
+computer tools adopted by the uh is uh by the school at that time
+
+<ICE-HK:S2A-047#129:1:A>
+And <,> they uhm <,> select all the <?> resound </?> all the the
+uh related data
+
+<ICE-HK:S2A-047#130:1:A>
+And uh <,> then uh analysis the data and find that <,> the mean
+completion rate was extremely low
+
+<ICE-HK:S2A-047#131:1:A>
+It was only sixty seven percent
+
+<ICE-HK:S2A-047#132:1:A>
+That means uh if you if a school have a one hundred <,>
+
+<ICE-HK:S2A-047#133:1:A>
+Sorry uh one thousand time slot to fill in
+
+<ICE-HK:S2A-047#134:1:A>
+Then uh we we can just fill in six hundred and seventy
+
+<ICE-HK:S2A-047#135:1:A>
+So that that means there are a lot of periods to be filled up okay
+but manually <,>
+
+<ICE-HK:S2A-047#136:1:A>
+And uh <,> that is <,> uhm uh <unc> three words </unc>
+
+<ICE-HK:S2A-047#137:1:A>
+Because of many <,> uhm many timetables in school
+
+<ICE-HK:S2A-047#138:1:A>
+It try to use some timetabling tools
+
+<ICE-HK:S2A-047#139:1:A>
+And however at the end they they found the time to uh to spend on
+many <,> uh timetabling at the end is almost the same <,> as those time used
+to <,> uh construct a timetable manually at the beginning
+
+<ICE-HK:S2A-047#140:1:A>
+So <,> uh <,> the figure was <,> not or satisfactory or is nice or
+say <?> encouraging </?>
+
+<ICE-HK:S2A-047#141:1:A>
+And uhm <,> but we have to uhm understand that at that time they
+<,>
+
+<ICE-HK:S2A-047#142:1:A>
+There were no uh <?> goods </?> timetabling software on the market
+
+<ICE-HK:S2A-047#143:1:A>
+Uh <,,> for those who use a a timetabling system to <?> make </?>
+school timetable uhm
+
+<ICE-HK:S2A-047#144:1:A>
+Sixty six percent they <?> face </?> their software from the
+market
+
+<ICE-HK:S2A-047#145:1:A>
+Uhm fourteen percent uh develop their own <,> their own uh
+timetabling software and they were very <,>
+
+<ICE-HK:S2A-047#146:1:A>
+They they were very brave
+
+<ICE-HK:S2A-047#147:1:A>
+And uh in fact uh the developing of timetabling system is a very
+challenging task
+
+<ICE-HK:S2A-047#148:1:A>
+And uh only fourteen percent use <,> PES PDSS because <,> uh PESS
+was just launched at that time
+
+<ICE-HK:S2A-047#149:1:A>
+And the this particular survey was conducted in October nineteen
+uh ninety five
+
+<ICE-HK:S2A-047#150:1:A>
+So just a few month after the launch of the of PDSS
+
+<ICE-HK:S2A-047#151:1:A>
+That that account why there are so few school using the software
+
+<ICE-HK:S2A-047#152:1:A>
+And uhm <,> yes a few school uhm uh ask some software <?> cost
+</?> to be <?> divide </?> a software system for that <,,>
+
+<ICE-HK:S2A-047#153:1:A>
+And uh in <,> nine in March nineteen ninety uh nineteen ninety
+nine I conduct a similar survey
+
+<ICE-HK:S2A-047#154:1:A>
+And uhm <,,> I <,> I try to understand a little bit more on
+timetabling <?> require </?> uh <,> of secondary schools
+
+<ICE-HK:S2A-047#155:1:A>
+And uh uh I also uh would like to <,> see whether uhm <,> more
+school are start to use uh <?> automated </?> timetabling software to do with
+the timetabling task
+
+<ICE-HK:S2A-047#156:1:A>
+And <,> uhm more importantly I would like to know or whether
+school uh whether uhm uh automated system would really help to reduce school
+workload </I> 

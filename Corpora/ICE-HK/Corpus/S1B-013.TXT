@@ -1,0 +1,587 @@
+<I>
+
+<$A> 
+<ICE-HK:S1B-013#1:1:A>
+Now that <,> or if you like this itself cylinder <?> subcircuit
+</?> you will have one <,> circuit for every cylinder <,> okay
+
+<ICE-HK:S1B-013#2:1:A>
+And the the whole <,> circuit the whole system will bear of in
+number of this kind of <?> subcircuits </?>
+
+<ICE-HK:S1B-013#3:1:A>
+It gave you all the number of cylinders you are operating
+
+<ICE-HK:S1B-013#4:1:A>
+If you got two cylinders then you have two cylinders <?> subcircuits
+</?>
+
+<ICE-HK:S1B-013#5:1:A>
+Right in that film you you have seen two cylinder <?> subcircuits
+</?> okay
+
+<ICE-HK:S1B-013#6:1:A>
+One depended they are there  ' s a one point zero to designate the
+cylinder or the up uh lifting cylinder and the cylinder two point zero for
+the shifting cylinder
+
+<ICE-HK:S1B-013#7:1:A>
+Now <,,> in the example that you have just seem about the completion
+signal of <,> a certain operation is used as a signally signal or or or uh
+activate signal for initiating the next operation in the cylinders okay
+
+<ICE-HK:S1B-013#8:1:A>
+So in fact they use the completion signal to <.> lo </.> initiate or
+activate the next operation <&> A long pause </&>
+
+<ICE-HK:S1B-013#9:1:A>
+We we used A to denote the lifting cylinder B to denote the <?> zip
+</?> uh shifting cylinder and <,> after the lifting we <,> do the shifting
+
+<ICE-HK:S1B-013#10:1:A>
+Right then the lifting cylinder will return and the shifting
+cylinder returns okay
+
+<ICE-HK:S1B-013#11:1:A>
+And this is the sequence <,> that we have realized
+
+<ICE-HK:S1B-013#12:1:A>
+Right extension of the first one extension of second one retraction
+of first one retraction of the second one
+
+<ICE-HK:S1B-013#13:1:A>
+And <,> the completion signal of this is used to initiate its
+operation
+
+<ICE-HK:S1B-013#14:1:A>
+The completion signal of this is used to initiate that
+
+<ICE-HK:S1B-013#15:1:A>
+The method of using the completion signal of the current operation
+to activate the next operation is called <,,> <?> intricative </?> method
+okay
+
+<ICE-HK:S1B-013#16:1:A>
+Now or this case you can use <?> intricative </?> method to
+construct and <,> working such <&> A long pause </&>
+
+<ICE-HK:S1B-013#17:1:A>
+Now if you turn to page twenty of unit fifteen you will find a
+circuit here <,> that is trying to realize a sequence which is slightly
+different from that one <,,>
+
+<ICE-HK:S1B-013#18:1:A>
+With the last two operations being interchanged <?> first </?> okay
+
+<ICE-HK:S1B-013#19:1:A>
+One of example of these operation is the <?> drink </?> the <?>
+drink </?> uh operation
+
+<ICE-HK:S1B-013#20:1:A>
+Suppose A operates the <unc> one-word </unc> B operates the
+<unc> one-word </unc> okay
+
+<ICE-HK:S1B-013#21:1:A>
+Now if the drain are blocked first by this is
+
+<ICE-HK:S1B-013#22:1:A>
+First of all you need to climate okay and then you lower the
+<unc> several words </unc>
+
+<ICE-HK:S1B-013#23:1:A>
+You try to do may reuse the camp right
+
+<ICE-HK:S1B-013#24:1:A>
+Now if you are doing that instead of transferring the blocks then
+you need to have these two cylinders
+
+<ICE-HK:S1B-013#25:1:A>
+The operation of these two cylinders being interchange okay
+
+<ICE-HK:S1B-013#26:1:A>
+Now if you do that and you try to use the initiative uh sorry <?>
+intricative </?> method then <&> A long pause </&>
+
+<ICE-HK:S1B-013#27:1:A>
+Now it is the cylinder <?> subcircuit </?> for say A <&> A long
+pause </&>
+
+<ICE-HK:S1B-013#28:1:A>
+And you you will have another cylinder <?> subcircuit </?> for B
+<,>
+
+<ICE-HK:S1B-013#29:1:A>
+This is the air trainer the cylinder the control vowel the
+completion signals that may be used to activate the operations <&> A long
+pause </&>
+
+<ICE-HK:S1B-013#30:1:A>
+Now if we use annotation that the <,> cylinders are denoted by
+alphabets say A and B the upper case alphabets
+
+<ICE-HK:S1B-013#31:1:A>
+With the completion signals being generated for A we use lower case
+A for B we use lower case B
+
+<ICE-HK:S1B-013#32:1:A>
+The suffix zero indicate retraction completion slope uh completion
+signal
+
+<ICE-HK:S1B-013#33:1:A>
+The suffix one indicate this is the completion signal for the
+extension struck okay <&> A long pause </&>
+
+<ICE-HK:S1B-013#34:1:A>
+And we use plus to indicate the expansion minus to indicate
+retraction
+
+<ICE-HK:S1B-013#35:1:A>
+Now if we use the <?> intricative </?> method <,> the operation
+immediately receiving the extension of A will be the retraction of A
+
+<ICE-HK:S1B-013#36:1:A>
+So the completion signal of <?> thes </?> operations <.> presh </.>
+perceiving that will be A zero okay
+
+<ICE-HK:S1B-013#37:1:A>
+So you may use this A zero <,,> to activate the extension of A <,,>
+
+<ICE-HK:S1B-013#38:1:A>
+After the A has expanded and in complete it  ' s act uh expansion
+then A one will be generated
+
+<ICE-HK:S1B-013#39:1:A>
+Now this A one will be used to extend B so A one <,,> will be used
+to extend B
+
+<ICE-HK:S1B-013#40:1:A>
+After B has extend B one will be generated so B one is used to <,,>
+retract B okay
+
+<ICE-HK:S1B-013#41:1:A>
+After the retraction from of B has been completed B zero will be
+generated and that B zero will be used to <,,> retract A
+
+<ICE-HK:S1B-013#42:1:A>
+Now this is the circuit itself used <?> intricative </?> method
+
+<ICE-HK:S1B-013#43:1:A>
+You  ' ll see whether this can work or not right
+
+<ICE-HK:S1B-013#44:1:A>
+Now suppose you wanted to the A to expand when we look at the
+control signals this A log is presented right
+
+<ICE-HK:S1B-013#45:1:A>
+Now initially B is is and is fully retracted state so B log is
+presented as well
+
+<ICE-HK:S1B-013#46:1:A>
+You  ' ll see immediately that there are A plus and A minus present
+simultaneously okay
+
+<ICE-HK:S1B-013#47:1:A>
+So in other words we <,> are in a situation that A the cylinder A
+is being asked to move out while the signal for moving in is still there
+
+<ICE-HK:S1B-013#48:1:A>
+The cylinder A has to be sign on whether to do the extension
+operation or stay in okay right
+
+<ICE-HK:S1B-013#49:1:A>
+The two activate signal is are two signals are presented
+simultaneously right
+
+<ICE-HK:S1B-013#50:1:A>
+So these two signals are fighting against each other in fact
+
+<ICE-HK:S1B-013#51:1:A>
+So this situation is a condition that we call <,,> fighting signals
+are presented
+
+<ICE-HK:S1B-013#52:1:A>
+Now <&> A long pause </&> now if you look at the time diagram of
+the operations <&> A long pause </&>
+
+<ICE-HK:S1B-013#53:1:A>
+Now <,,> if if we try to draw or geographically represent the
+positions of the cylinder
+
+<ICE-HK:S1B-013#54:1:A>
+Initially both cylinders will be here right both of them are being
+retracted
+
+<ICE-HK:S1B-013#55:1:A>
+Now when cylinder A expands then the A will travel out <,> okay
+
+<ICE-HK:S1B-013#56:1:A>
+During the extension of A B remains and is retracted position okay
+
+<ICE-HK:S1B-013#57:1:A>
+Now after A has been expanded B starts to move out A stays there
+okay
+
+<ICE-HK:S1B-013#58:1:A>
+This is the lowering of the <unc> one-word </unc> right
+
+<ICE-HK:S1B-013#59:1:A>
+You have <unc> one-word </unc> the required left so you
+will retract the <unc> one-word </unc>
+
+<ICE-HK:S1B-013#60:1:A>
+We <,> will see while the <unc> several words </unc>
+
+<ICE-HK:S1B-013#61:1:A>
+After you have retracted uh <unc> one-word </unc> then you
+can release your <unc> one-word </unc> cylinder
+
+<ICE-HK:S1B-013#62:1:A>
+Right so this is the timing diagram for the whole cycle right <,,>
+
+<ICE-HK:S1B-013#63:1:A>
+And therefore the periods of example is that we have <,> the timing
+diagram like that okay
+
+<ICE-HK:S1B-013#64:1:A>
+Uh we have just interchange the last two operations okay
+
+<ICE-HK:S1B-013#65:1:A>
+Now <,> if you you look at that and <,> if we are using the <?>
+intricatve </?> method to <,,> design the service final <?> service </?> then
+we are using these completion signal to energize the next operation between
+stand operation
+
+<ICE-HK:S1B-013#66:1:A>
+And then you use this to energize this operation use that to
+energize this operation and that to activate this operations okay uh so <,>
+right
+
+<ICE-HK:S1B-013#67:1:A>
+Now if you study the timing diagram you will find that when you <,>
+wants A to move out <,,> the signal asking A to move in is that signal
+alright
+
+<ICE-HK:S1B-013#68:1:A>
+It is feel that when you want the <,> <.> sin </.> uhm the B to
+move out the signal for B to move in is not there so if do you have any uh
+difficulty here
+
+<ICE-HK:S1B-013#69:1:A>
+However if you want to move B in the signal to move B out is still
+here alright so we got quite a signal here right
+
+<ICE-HK:S1B-013#70:1:A>
+In this whole cycle we have two situation that we have fighting
+signals right
+
+<ICE-HK:S1B-013#71:1:A>
+Now these fighting signals can be <,> seen or we can find out the
+fight uh the conditions with fighting signals by looking at the timing
+diagram
+
+<ICE-HK:S1B-013#72:1:A>
+Now <&> A long pause </&>
+
+<ICE-HK:S1B-013#73:1:A>
+If you try to write down what are the completion signals or the <,>
+signals that are presented at various <,> stage <,>
+
+<ICE-HK:S1B-013#74:1:A>
+At the moment that you want A to extend you will have A zero and B
+zero presented
+
+<ICE-HK:S1B-013#75:1:A>
+At the moment you want B to extend you will have A one and B zero
+
+<ICE-HK:S1B-013#76:1:A>
+When you want B to retract <,> you will have A one and B one
+
+<ICE-HK:S1B-013#77:1:A>
+At the moment when you want A to retract you have A one <,> B zero
+<&> A long pause </&>
+
+<ICE-HK:S1B-013#78:1:A>
+Now if we use <?> intricative </?> method <,> we note but we will
+have fighting signals okay
+
+<ICE-HK:S1B-013#79:1:A>
+If we try to use the combination of all these signals and see
+whether we have fighting signals now suppose if you use both A <,> the
+completion signals for A and uh and B to energize or to activate the
+operations
+
+<ICE-HK:S1B-013#80:1:A>
+For A to be extended we need A zero and B zero
+
+<ICE-HK:S1B-013#81:1:A>
+For B to be extended we need A one and B zero
+
+<ICE-HK:S1B-013#82:1:A>
+For B to be retracted we need A one and B one
+
+<ICE-HK:S1B-013#83:1:A>
+In other to who retracting uh to retract A we need A one and B zero
+
+<ICE-HK:S1B-013#84:1:A>
+Now if you examine the <unc> one-word </unc> signal for the
+extension of A <,> you need that
+
+<ICE-HK:S1B-013#85:1:A>
+For retraction of A <,> you need that
+
+<ICE-HK:S1B-013#86:1:A>
+They both have B zero but the <?> As </?> are different <,>
+
+<ICE-HK:S1B-013#87:1:A>
+You need a A zero together with B zero to extend A you need a A one
+together with B zero to retract A okay
+
+<ICE-HK:S1B-013#88:1:A>
+This combination is clearly different from that
+
+<ICE-HK:S1B-013#89:1:A>
+So when A the signal for A to extend is presented the signal for A
+to retract is not presented
+
+<ICE-HK:S1B-013#90:1:A>
+If you look at the B <,> A one B zero will be the signal required
+to extend B <,>
+
+<ICE-HK:S1B-013#91:1:A>
+A one B one will be a combination required to retract B
+
+<ICE-HK:S1B-013#92:1:A>
+The two signals are different so you won't have fighting for B as
+well
+
+<ICE-HK:S1B-013#93:1:A>
+Apparently you seem to have solved the problem of fighting signals
+okay
+
+<ICE-HK:S1B-013#94:1:A>
+Get a the extension and the retraction signals are different okay
+alright
+
+<ICE-HK:S1B-013#95:1:A>
+But in the you <,,> look at the signals the combinations in more
+detail and you will find the combination for <,> extending B and the
+combination for retracting A <,,>
+
+<ICE-HK:S1B-013#96:1:A>
+These two combinations are <,> <?> detail </?> they are the same
+right
+
+<ICE-HK:S1B-013#97:1:A>
+So when you have these combination of A one and B zero which
+operations are you going to whether you are going to extend B or whether you
+are going to retract A
+
+<ICE-HK:S1B-013#98:1:A>
+You need to differentiate <,> these two right
+
+<ICE-HK:S1B-013#99:1:A>
+So it depends on the past history of the operations
+
+<ICE-HK:S1B-013#100:1:A>
+And if we just look at we use a combination logic to initiate the
+operations to activate the operations then we do not know the history right
+
+<ICE-HK:S1B-013#101:1:A>
+And this <,> introduce introduces <,> another <,> situation we
+call that ambiguity
+
+<ICE-HK:S1B-013#102:1:A>
+The <,> system is ambiguous right it doesn't know what to do
+
+<ICE-HK:S1B-013#103:1:A>
+It it got confused
+
+<ICE-HK:S1B-013#104:1:A>
+Now <,> so we having using the combination of the completion
+signals to activate the operations solve the problem remove fighting signals
+but it introduces ambiguity
+
+<ICE-HK:S1B-013#105:1:A>
+Right so we need to find some way to overcome this difficult <&> A
+long pause </&>
+
+<ICE-HK:S1B-013#106:1:A>
+Now if we use the time map to represent the logic combinations of
+various states of the completion signals
+
+<ICE-HK:S1B-013#107:1:A>
+When we have A zero B zero we are here we would like to have the A
+being extended right
+
+<ICE-HK:S1B-013#108:1:A>
+On completion of this operation the combination of the logic
+signals we will be having is A one B zero
+
+<ICE-HK:S1B-013#109:1:A>
+So we will be here that we  ' ll like to extend the B
+
+<ICE-HK:S1B-013#110:1:A>
+On completion of that we have a logical combination of A one and B
+one
+
+<ICE-HK:S1B-013#111:1:A>
+It is here that we wanted B to retract right <&> A long pause </&>
+
+<ICE-HK:S1B-013#112:1:A>
+It is at the end of this operation that we are in this situation
+again <,,>
+
+<ICE-HK:S1B-013#113:1:A>
+Then we like to have uh A retract
+
+<ICE-HK:S1B-013#114:1:A>
+It is at this logic combination that we have two different
+operations <,,> required
+
+<ICE-HK:S1B-013#115:1:A>
+So when you look at the K map the column map whenever you will
+find two different operations to be carried out at different stage of the
+cycle that indicates ambiguity
+
+<ICE-HK:S1B-013#116:1:A>
+It is the ambiguous condition <,> we need somehow to separate this
+to put so that <,> you have only one operation in each square <,> okay <,>
+right
+
+<ICE-HK:S1B-013#117:1:A>
+So that demands the <?> internation </?> of a second variable we
+call it auxiliary variable <&> A long pause </&>
+
+<ICE-HK:S1B-013#118:1:A>
+Now if you denote this auxiliary variable with <,> uh the la uh
+letter X <,>
+
+<ICE-HK:S1B-013#119:1:A>
+By X it begin that the auxiliary variable is not presented
+
+<ICE-HK:S1B-013#120:1:A>
+X indicate the auxiliary variable is presented okay <,,>
+
+<ICE-HK:S1B-013#121:1:A>
+Now if we try to <,,> put down the phone uh the signal phone path
+in the K map that initially we have this and we got A extend <,> B extend
+
+<ICE-HK:S1B-013#122:1:A>
+Now it  ' s <.> onl </.> it is only after the the B retraction
+operation that we will have ambiguity
+
+<ICE-HK:S1B-013#123:1:A>
+So before we retract the B it is the time that we <,> need to do
+our separation
+
+<ICE-HK:S1B-013#124:1:A>
+So <,,> we will introduce our secondary variable be activate the
+auxiliary variable to make the auxiliary variable present at this progress
+
+<ICE-HK:S1B-013#125:1:A>
+So the even though we still have B one and A one but the auxiliary
+signal is presented after that
+
+<ICE-HK:S1B-013#126:1:A>
+So we have move <?> ourself </?> to here now if reduce the B minus
+here <,,>
+
+<ICE-HK:S1B-013#127:1:A>
+Then we will be putting <?> ourself </?> into this situation
+rather than here okay
+
+<ICE-HK:S1B-013#128:1:A>
+So this <,> is the time that we produce out log A retraction so
+<,> will be here <?> feeling </?> after the retraction of A
+
+<ICE-HK:S1B-013#129:1:A>
+Now it is time <?> fear </?> that we need to remove our secondary
+variable
+
+<ICE-HK:S1B-013#130:1:A>
+So <,,> to make <?> ourself </?> at the beginning of the cycle
+again okay
+
+<ICE-HK:S1B-013#131:1:A>
+The flow <,,> if you like that okay
+
+<ICE-HK:S1B-013#132:1:A>
+So initially we will be uh logic combination with A zero B zero
+and X bar the completion signal is what presented then we will have A one B
+zero auxiliary not presented and then we will have A one B one X X still not
+present here
+
+<ICE-HK:S1B-013#133:1:A>
+Now we introduce a X we will be in the situation that A one B one
+and X are there
+
+<ICE-HK:S1B-013#134:1:A>
+We retracted the B twenty eight <?> prefer </?> the X they are
+<unc> two-words </unc> situation again okay
+
+<ICE-HK:S1B-013#135:1:A>
+Now <,> instead of having just four operations <,> A plus B plus B
+minus and A minus we introduce two more operations
+
+<ICE-HK:S1B-013#136:1:A>
+As a result we got six operations
+
+<ICE-HK:S1B-013#137:1:A>
+Out of these six only four are associated with the actual cylinder
+movements okay
+
+<ICE-HK:S1B-013#138:1:A>
+These <,> <?> are mean </?> the change or the uh of the control
+signals <,> right <,,>
+
+<ICE-HK:S1B-013#139:1:A>
+This one is the operations that we are going to change <,> <?>
+buys </?> into X <?> uh in </?> we are fear to introduce the secondary
+variable right
+
+<ICE-HK:S1B-013#140:1:A>
+Initially the secondary variable is absent and then we make it
+present <,> okay <,>
+
+<ICE-HK:S1B-013#141:1:A>
+Uh the purpose of introducing the secondary variable is to
+separate the two <,> operations <&> A long pause </&>
+
+<ICE-HK:S1B-013#142:1:A>
+Right remember that one <,> if you <,> have this situation then
+you will have this <,> two different operations required the same logic
+combinations
+
+<ICE-HK:S1B-013#143:1:A>
+It is the situation at which we do not know what to do whether to
+do the A minus or the B plus
+
+<ICE-HK:S1B-013#144:1:A>
+So in order to solve this problem we introduce the secondary
+variable to make the two different
+
+<ICE-HK:S1B-013#145:1:A>
+The first in fact this is the the <.> ru </.> uh recording of the
+history of the cycle in that
+
+<ICE-HK:S1B-013#146:1:A>
+So <,> when the first present of the combination of A one and B
+log while the auxiliary variable is still absent we do the B plus
+
+<ICE-HK:S1B-013#147:1:A>
+After that we <.> intr </.> introduce the secondary variable
+
+<ICE-HK:S1B-013#148:1:A>
+So when A one and B log appear again this time we have the
+auxiliary variable
+
+<ICE-HK:S1B-013#149:1:A>
+So the combination of A one and zero <,> remains the same but the
+condition of the auxiliary variable is different
+
+<ICE-HK:S1B-013#150:1:A>
+So we have separate the two okay
+
+<ICE-HK:S1B-013#151:1:A>
+So for every square here we do not have more than one operation if
+we move <?> stability </?> right okay now </I>

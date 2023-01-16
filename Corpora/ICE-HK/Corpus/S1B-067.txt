@@ -1,0 +1,2836 @@
+<I>
+
+<$A> 
+<ICE-HK:S1B-067#1:1:A>
+When did you make the report to the police <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X2:1:Z>
+Chan Soong uh also uh uh knew about this </X>
+
+<$A> 
+<ICE-HK:S1B-067#3:1:A>
+Do you know about that
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X4:1:Z>
+Sorry </X>
+
+<$A> 
+<ICE-HK:S1B-067#5:1:A>
+Do you know about it <O> Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X6:1:Z>
+Uhm this is when did you make the report </X> <O> Putonghua
+translation and answer </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X7:1:Z>
+This year last year </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X8:1:Z>
+Last year it is </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X9:1:Z>
+It was after the separation </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X10:1:Z>
+Uh I mean we were no longer living together
+
+<ICE-HK:S1B-067#X11:1:Z>
+I went back to the old house to pack my things </X> <O> Putonghua
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X12:1:Z>
+In fact the night before I went back to my own house uh for the
+packing my son uh spoke to me </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X13:1:Z>
+In the night before she went back </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X14:1:Z>
+Before I went back yes for the packing my son spoke to me </X> <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X15:1:Z>
+Uh my son spoke to me uh he said that that he approached father
+for buying a piece for buying a toy gun and uh father told him that he would
+make a gun and use that gun to kill mother </X>
+
+<$A> 
+<ICE-HK:S1B-067#16:1:A>
+As far as you know was the defendant arrested for this matter
+after you reported to the police <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X17:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1B-067#18:1:A>
+No
+
+<ICE-HK:S1B-067#19:1:A>
+You reported someone had a gun <,> and yet the police did arrest
+the defendant
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X20:1:Z>
+Yes you reported that the defendant <{> <[> had a gun </[> </X>
+
+<$A> 
+<ICE-HK:S1B-067#21:1:A>
+<[> Yes </[> </{> you reported the defendant <O> Putonghua
+translation and answer </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X22:1:Z>
+I told the police that I saw a gun that I did not know whether it
+was a a genuine gun or a fake gun and I request them to go to take a look at
+it </X>
+
+<$A> 
+<ICE-HK:S1B-067#23:1:A>
+Yet as far as you know they did not arrest the defendant right
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X24:1:Z>
+Sorry </X> <O> Putonghua word </O>
+
+<$A> 
+<ICE-HK:S1B-067#25:1:A>
+Yet as far as you know they had not arrested the defendant
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X26:1:Z>
+She she she doesn't know whether they went to take a look does she
+</X> <O> Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X27:1:Z>
+Or or whether the police found anything I think you are going a
+little bit too fast Mr Tse </X>
+
+<$A> 
+<ICE-HK:S1B-067#28:1:A>
+Now
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X29:1:Z>
+Sorry I think it would <unc> a few words </unc> I I
+<unc> a few words </unc> and ask them to </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X30:1:Z>
+To go to take a look at it </X>
+
+<$A> 
+<ICE-HK:S1B-067#31:1:A>
+As far as you know did the police go take a take a look
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X32:1:Z>
+Sorry </X>
+
+<$A> 
+<ICE-HK:S1B-067#33:1:A>
+As far as you know did the <{> <[> police </[>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X34:1:Z>
+<[> Did </[> </{> they go </X>
+
+<$A> 
+<ICE-HK:S1B-067#35:1:A>
+Yes <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X36:1:Z>
+Yes uh some police officers uh CID man uh and uh also an European
+officer went there </X>
+
+<$A> 
+<ICE-HK:S1B-067#37:1:A>
+Did they find the gun either a fake one or a real one <O>
+Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X38:1:Z>
+Sorry </X>
+
+<$A> 
+<ICE-HK:S1B-067#39:1:A>
+Either fake <,> fake one or <{> <[> genuine </[> one
+
+<ICE-HK:S1B-067#40:1:A>
+Did they find a gun
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X41:1:Z>
+<[> <unc> one-word </unc> </[> </{>
+
+<ICE-HK:S1B-067#X42:1:Z>
+Did they find the gun </X> <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X43:1:Z>
+Yes they found a gun and it was a fake gun and they took the gun
+away </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X44:1:Z>
+The European officer spoke to me I don't know his rank he said
+</X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X45:1:Z>
+Uh I don't </X>
+
+<$A> 
+<ICE-HK:S1B-067#46:1:A>
+Madam now if <?> you would agree with me that </?> in fact you
+have not make an report about this
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X47:1:Z>
+Sorry I don't
+
+<ICE-HK:S1B-067#X48:1:Z>
+She said she did
+
+<ICE-HK:S1B-067#X49:1:Z>
+She said she told the police that the defendant had a gun </X>
+
+<$A> 
+<ICE-HK:S1B-067#50:1:A>
+Let me put it to you that the reason why you mention this
+today is <,> to let the jury <,> have a bad impression on the defendant <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X51:1:Z>
+I </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X52:1:Z>
+I am </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X53:1:Z>
+I  ' m here to tell the whole truth about what happened at that
+morning because that time when I was in hospital I was so weak uh to talk and
+my punti dialect was uh not good enough to express myself fully
+
+<ICE-HK:S1B-067#X54:1:Z>
+Today before I come to uh court I was prepared a the whole story
+
+<ICE-HK:S1B-067#X55:1:Z>
+I like to tell the court every detail of the matter then I found I
+was not able to do that because I was stopped by the counsel from telling
+things in details </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X56:1:Z>
+I tell the truth </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X57:1:Z>
+Is true that at a later stage Chan Soong had uh insisted to take
+me to hospital on his own </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X58:1:Z>
+So it  ' s true that he </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X59:1:Z>
+The Chan Soong the defendant he insisted to take me to hospital on
+his own </X> <&> A long pause </&>
+
+<$A> 
+<ICE-HK:S1B-067#60:1:A>
+Madam earlier on in your evidence you have told the court that
+after you come out of the toilet you saw the defendant uh standing outside
+you asked him why didn't you sit down in the room
+
+<ICE-HK:S1B-067#61:1:A>
+And you further said that at that time you noted your son was
+locked inside the room <O> Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X62:1:Z>
+You say a room you mean the bedroom </X>
+
+<$A> 
+<ICE-HK:S1B-067#63:1:A>
+Uh well My Lord may be I clarify
+
+<ICE-HK:S1B-067#64:1:A>
+<unc> two words </unc>
+
+<ICE-HK:S1B-067#65:1:A>
+Just a minutes
+
+<ICE-HK:S1B-067#66:1:A>
+You said my son was locked inside the room
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X67:1:Z>
+So you said you are quoting what she said earlier </X>
+
+<$A> 
+<ICE-HK:S1B-067#68:1:A>
+Yes <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X69:1:Z>
+Bedroom yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#70:1:A>
+Yes
+
+<ICE-HK:S1B-067#71:1:A>
+Uh My Lord that is shortly after the part she mentioned of the
+account
+
+<ICE-HK:S1B-067#72:1:A>
+And she went on to say that he talked for long time until ten
+o'clock she went to the toilet
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X73:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#74:1:A>
+Now My Lord may the witness be shown <,> the photographs she
+mentioned in proceeding uhm P three please <O> Putonghua translation </O>
+
+<$A> 
+<ICE-HK:S1B-067#75:1:A>
+Madam take a look at A five <O> Putonghua translation </O>
+
+<$A> 
+<ICE-HK:S1B-067#76:1:A>
+Now A five is <,> your bedroom right <O> Putonghua translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X77:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#78:1:A>
+And you can see the doors of <O> Putonghua translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X79:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#80:1:A>
+And in fact you can see the lock and the handle of the lock
+<O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X81:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#82:1:A>
+And uhm at the time of the incident it was the same kind of
+lock of your door <O>  ' of your door ' overlap  ' dang tian ' 每'on that day ' </O>
+<O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X83:1:Z>
+Yes same lock </X>
+
+<$A> 
+<ICE-HK:S1B-067#84:1:A>
+With this kind of lock how could someone be locked inside a
+room
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X85:1:Z>
+How could someone </X>
+
+<$A> 
+<ICE-HK:S1B-067#86:1:A>
+Be locked inside the room <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X87:1:Z>
+Uh when I do uh when I say that I meant to tell the court uh the
+room door was uh shut uh I don't mean to say that the uh uh room door was
+securely with a padlock
+
+<ICE-HK:S1B-067#X88:1:Z>
+Of course I understand that such a a uh door lock uh could could
+be uh uh secured by pressing down a button from inside </X> <O> Putonghua
+answer and translation </O>
+
+<$Z1> 
+<ICE-HK:S1B-067#89:1:Z>
+<X>
+
+<ICE-HK:S1B-067#X90:1:Z>
+When I say uh say uh uh to uh lock the door I mean the door had
+been uh shut and closed </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X91:1:Z>
+<unc> a few words </unc> </X>
+
+<$A> 
+<ICE-HK:S1B-067#92:1:A>
+But madam <,> madam how old are you <O> Putonghua translation
+</O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X93:1:Z>
+Sorry </X>
+
+<$A> 
+<ICE-HK:S1B-067#94:1:A>
+How old are you <O>  ' are you ' overlap unclear Putonghua answer
+</O> <O> Putonghua answer </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X95:1:Z>
+How old </X> <O> Putonghua question and translation </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X96:1:Z>
+Thirty three </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X97:1:Z>
+Now thirty four </X>
+
+<$A> 
+<ICE-HK:S1B-067#98:1:A>
+And uh you were educated in China up to senior secondary level
+right <O> Putonghua translation </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X99:1:Z>
+Correct </X>
+
+<$A> 
+<ICE-HK:S1B-067#100:1:A>
+Uh <,> madam are you saying that you cannot tell the
+difference between a door is shut and a door is locked <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X101:1:Z>
+I think we just uh like to play with words
+
+<ICE-HK:S1B-067#X102:1:Z>
+If you try to play with words you cannot express yourself and we
+cannot express ours </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X103:1:Z>
+I think you want to tell the court that since the door had been
+locked up my son could not go out could not see the things </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X104:1:Z>
+I  ' m sorry </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X105:1:Z>
+I think you try to tell the court that since the lock at the door
+had been locked my son could not <{> <[> come </[> out </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X106:1:Z>
+<[> You  ' re </[> </{>
+
+<ICE-HK:S1B-067#X107:1:Z>
+You  ' re you  ' re saying just made a mistake
+
+<ICE-HK:S1B-067#X108:1:Z>
+You can use the word lock instead of shut </X> <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X109:1:Z>
+Uh yes by that I mean the door uh had been shut </X>
+
+<$A> 
+<ICE-HK:S1B-067#110:1:A>
+And madam of course you will you will realise that when if a
+door is shut whether it  ' s locked or unlock people inside cannot still see
+outside
+
+<ICE-HK:S1B-067#111:1:A>
+Won't make any difference when it  ' s locked <{> <[> up </[>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X112:1:Z>
+<[> Just </[> </{> a minute Mr Tse </X>
+
+<$A> 
+<ICE-HK:S1B-067#113:1:A>
+I withdraw it
+
+<ICE-HK:S1B-067#114:1:A>
+Uh madam madam how tall are you <O> Putonghua translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X115:1:Z>
+Uh one point five four meters </X>
+
+<$A> 
+<ICE-HK:S1B-067#116:1:A>
+Now defendant is taller than you <O> Putonghua translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X117:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#118:1:A>
+And uh now this morning when you gave evidence when you
+talked about the defendant throwing the acid on you in fact you were
+demonstrating that uh he were he was pouring it over your head the top part
+of the head right <O>  ' right ' overlaps  ' jin ' 每'this ' </O> <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X119:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#120:1:A>
+So the acid were on land on the top part of your head <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X121:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#122:1:A>
+Now in fact that was no injury on the top of your head when
+you were sent to hospital am I right <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X123:1:Z>
+Top of my head was protected by hair
+
+<ICE-HK:S1B-067#X124:1:Z>
+That time I had uh long hair uh I I mean wore long hair covering
+uh </X> <O> Putonghua question and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X125:1:Z>
+Uh the length of my hair reached uh my shoulders and after arch
+</X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X126:1:Z>
+The fluid could not hurt or could not damage the hair </X>
+
+<$A> 
+<ICE-HK:S1B-067#127:1:A>
+Now madam let  ' s just make it straight
+
+<ICE-HK:S1B-067#128:1:A>
+At the time when the defendant poured <,> fluid onto your head you
+were not wearing a hat right <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X129:1:Z>
+I was not </X>
+
+<$A> 
+<ICE-HK:S1B-067#130:1:A>
+And you were not wearing a wig <O> Putonghua question and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X131:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1B-067#132:1:A>
+And uh do you accept that in fact the top part of your head
+there was no injury at all <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X133:1:Z>
+I accept </X>
+
+<$A> 
+<ICE-HK:S1B-067#134:1:A>
+Now <,> but in fact if you look at uh photographs of yours uh
+P four
+
+<ICE-HK:S1B-067#135:1:A>
+My Lord in P four <unc> three words </unc> <O> Putonghua
+translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X136:1:Z>
+Uh which paragraph </X>
+
+<$A> 
+<ICE-HK:S1B-067#137:1:A>
+Uh P four
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X138:1:Z>
+P four </X>
+
+<$A> 
+<ICE-HK:S1B-067#139:1:A>
+Uh yes
+
+<ICE-HK:S1B-067#140:1:A>
+Well <{> <[> uhm </[>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X141:1:Z>
+<[> Is </[> </{> that one of the <unc> one-word </unc>
+
+<ICE-HK:S1B-067#X142:1:Z>
+</X>
+
+<$A> 
+<ICE-HK:S1B-067#143:1:A>
+This one
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X144:1:Z>
+This one </X>
+
+<$A> 
+<ICE-HK:S1B-067#145:1:A>
+Yes this one uh no sorry uh <,> may be all the <.> f </.>
+five of them will be shown to her accordingly <O> Putonghua translation and
+answer </O>
+
+<$A> 
+<ICE-HK:S1B-067#146:1:A>
+Now firstly look at D one first <O>  ' Now firstly look'
+overlaps  '  di yi dao di wu ' 每 ' from one to five';  ' first ' overlaps  ' uh ' </O>
+<O> Putonghua translation </O>
+
+<$Z?> <X>
+
+<ICE-HK:S1B-067#X147:1:Z>
+D one </X>
+
+<$A> 
+<ICE-HK:S1B-067#148:1:A>
+All the face you can see you still see some spots <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X149:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#150:1:A>
+And those are the burns from the fluid <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X151:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#152:1:A>
+Now if you look at that one
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X153:1:Z>
+Uh </X>
+
+<$A> 
+<ICE-HK:S1B-067#154:1:A>
+Uh would you agree with me that in fact most of these burn
+marks were concentrated on the lower part of your face <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X155:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#156:1:A>
+Now if you turn to the second one number two <O>  ' number two'
+overlap  ' di er ' 每  ' number two ' </O> <O> Putonghua translation </O>
+
+<$A> 
+<ICE-HK:S1B-067#157:1:A>
+Again it shows that uh most of the burn marks were uh
+concentrated on the lower part of your face <{> <[> showing </[> your lips
+the lower lip of yours
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X158:1:Z>
+<[> Uh </[> </{> </X> <O> Putonghua translation and answer </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X159:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#160:1:A>
+And uh in fact your lower lip was very badly burn burnt <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X161:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#162:1:A>
+And in fact B three also show uh more or less the same thing
+<O>  ' more or less the same thing ' overlap  ' di san ' 每  ' number three ' </O> <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X163:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#164:1:A>
+Well <,> madam <,> am I correct to say that in fact sometime
+within that morning you got hold of the fluid
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X165:1:Z>
+You did what </X>
+
+<$A> 
+<ICE-HK:S1B-067#166:1:A>
+You got hold of the fluid the bottle of fluid
+
+<ICE-HK:S1B-067#167:1:A>
+And you were trying to drink that bottle of fluid <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X168:1:Z>
+No I did why should I do that </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X169:1:Z>
+Why </X>
+
+<$A> 
+<ICE-HK:S1B-067#170:1:A>
+Madam let me ask you once again
+
+<ICE-HK:S1B-067#171:1:A>
+First of all because you were trying to drink it so that is why
+the burns were all concentrated on the lower part of your face <O>  ' lower
+part of your face ' overlap  ' gen ju ta di jie xi ' 每  ' according to his
+explanation ' </O> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X172:1:Z>
+Yes yes as you said I want to uh I tried to drink the fluid then
+how could my face uh be hurt be burnt by the fluid </X> <O> Putonghua answers
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X173:1:Z>
+If I had </X> <O> Putonghua answers </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X174:1:Z>
+I had </X> <O> Putonghua answers </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X175:1:Z>
+If I had drunk the fluid I think the damage could be very serious
+I could not then uh speak uh in this courtroom today </X> <O> Putonghua
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X176:1:Z>
+That time I was very long hair up to the length of my </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X177:1:Z>
+Just a moment please </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X178:1:Z>
+Yes </X> <O> Putonghua answer </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X179:1:Z>
+I couldn't spoke in </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X180:1:Z>
+In in in this trail </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X181:1:Z>
+Could not spoke in this trail is that what she say </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X182:1:Z>
+Uh I could not if I had drunk </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X183:1:Z>
+I could not that </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X184:1:Z>
+Uh <.> s </.> spoken </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X185:1:Z>
+Spoken </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X186:1:Z>
+Yes spoken
+
+<ICE-HK:S1B-067#X187:1:Z>
+Because uh the damage could be a very serious one
+
+<ICE-HK:S1B-067#X188:1:Z>
+That time I was wearing long hair up to the <,> covering my
+shoulder and upper arch
+
+<ICE-HK:S1B-067#X189:1:Z>
+And uh when I felt fluid coming down on top of my head <,> bent
+forward a little bit
+
+<ICE-HK:S1B-067#X190:1:Z>
+As a result my hair formed a shield protecting my upper head
+
+<ICE-HK:S1B-067#X191:1:Z>
+And the next thing I did was rush to the uh toilet to the uh
+basin and splashed water over my face
+
+<ICE-HK:S1B-067#X192:1:Z>
+</X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X193:1:Z>
+The uh fluid was then diluted by water </X> <O> Putonghua answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X194:1:Z>
+You can see uh photograph B five B five shows uh my back and the
+uh uh worst be burned marks uh these uh wounds were were not inflated when
+the uh fluid was uh poured down over my head not at that time </X> <O>
+Putonghua speeches </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X195:1:Z>
+Uh please look at photograph number A eight
+
+<ICE-HK:S1B-067#X196:1:Z>
+This photograph shows the kitchen the floor of the kitchen and
+the kitchen entrance
+
+<ICE-HK:S1B-067#X197:1:Z>
+I rushed to the uh toilet window tried to uh uh get help I was
+pulled back by the defendant and then he pushed me down to the floor
+
+<ICE-HK:S1B-067#X198:1:Z>
+I was then lying on the floor which my back coming to contact
+with the floor
+
+<ICE-HK:S1B-067#X199:1:Z>
+That time on the floor underneath my back was water and that
+fluid
+
+<ICE-HK:S1B-067#X200:1:Z>
+It was that time I got the injuries over my back </X>
+
+<$A> 
+<ICE-HK:S1B-067#201:1:A>
+Uh madam let me put it to you that in fact what happened was
+you got hold the bottle of fluid <,> you wanted to drink the fluid and the
+this defendant
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X202:1:Z>
+When you said wanted do you mean tried </X>
+
+<$A> 
+<ICE-HK:S1B-067#203:1:A>
+Tried
+
+<ICE-HK:S1B-067#204:1:A>
+The defendant grabbed hold of the bottle struggled with you that
+is why some of the fluid  ' s fell on the lower part of your face <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X205:1:Z>
+Then how come I was injured over my back photo uh number B five
+uh shows </X>
+
+<$A> 
+<ICE-HK:S1B-067#206:1:A>
+Uh madam let  ' s go from the top left
+
+<ICE-HK:S1B-067#207:1:A>
+Let  ' s go from the bottom of that part
+
+<ICE-HK:S1B-067#208:1:A>
+First of all this is what I put to you
+
+<ICE-HK:S1B-067#209:1:A>
+We we <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X210:1:Z>
+I disagree </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X211:1:Z>
+It  ' s uh </X>
+
+<$A> 
+<ICE-HK:S1B-067#212:1:A>
+Now
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X213:1:Z>
+Unfair to me </X>
+
+<$A> 
+<ICE-HK:S1B-067#214:1:A>
+Now you said that <.> s </.> some of this fluid have got into
+your mouth and the throat when you were trying to wash your face right <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X215:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#216:1:A>
+And at that time surely you realised that you were trying to
+wash off some fluid which will cause you injury <O> Putonghua translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X217:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#218:1:A>
+Now if any of this fluid or water got inside your mouth it
+would have spit it out right <O>  ' right ' overlaps  ' jia ru  '  每  ' if ' </O> <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X219:1:Z>
+Yes I did but I was not able to uh uh spit out completely </X>
+<O> Putonghua answer and question </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X220:1:Z>
+In fact when I was washing when I was splashing the water over my
+face at the same time defendant was pouring more fluid over my head so I had
+difficulty in keeping my mouth shut I had to breath to get more air </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X221:1:Z>
+One moment please </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X222:1:Z>
+Sorry </X> <O> Putonghua answer </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X223:1:Z>
+No no wait a minute </X>
+
+<ICE-HK:S1B-067#224:1:Z>
+<O> Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X225:1:Z>
+I had to breath </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X226:1:Z>
+I had to uh get more air </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X227:1:Z>
+Uhm </X>
+
+<$A> 
+<ICE-HK:S1B-067#228:1:A>
+Madam if you at that time suspect the sum of this fluid
+accidentally had got inside your throat you would have told the first doctor
+that you saw am I right <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X229:1:Z>
+Yes I told him </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X230:1:Z>
+In fact doctor uh later uh uh cleaned uh my eyes and mouth for me
+</X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X231:1:Z>
+She said she cleaned </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X232:1:Z>
+Yes cleaned </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X233:1:Z>
+So it  ' s not the doctor who <unc> two words </unc> </X>
+<O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X234:1:Z>
+Not Dr Chan sir
+
+<ICE-HK:S1B-067#X235:1:Z>
+Yeah in fact I firstly went to uh the United Christian Hospital
+where I was uh treated and uh bandaged and then transferred to Princess
+Margaret Hospital later I met Mr uh I met Dr Chan there </X>
+
+<$A> 
+<ICE-HK:S1B-067#236:1:A>
+Madam let me suggest to you that in fact when you saw the
+first doctor you have you had not mentioned anything <{> <[> about </[>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X237:1:Z>
+<[> I </[> </{> can't hear you Mr Tse </X>
+
+<$A> 
+<ICE-HK:S1B-067#238:1:A>
+Sorry sorry
+
+<ICE-HK:S1B-067#239:1:A>
+Now <,> <{> <[> that that is </[> when you saw the <.> f </.> let
+me suggest to you that when you ser saw the first doctor you had not
+mentioned to that doctor about accidentally swallowing some some of those
+fluid
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X240:1:Z>
+<[> You saw the first doctor </[> </{> </X> <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X241:1:Z>
+How can you know that </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X242:1:Z>
+How <{> <[> can you say that </[> </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X243:1:Z>
+<[> How can you say that </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1B-067#244:1:A>
+Did you do that <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X245:1:Z>
+I did </X>
+
+<$A> 
+<ICE-HK:S1B-067#246:1:A>
+Uh My Lord I  ' m just wondering <unc> a few words
+</unc>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X247:1:Z>
+<unc> a few words </unc> come back at half past two </X>
+<O> Putonghua translation </O> <O> Cantonese translation </O> <&>
+Cross-examinations resumes </&>
+
+<$A> 
+<ICE-HK:S1B-067#248:1:A>
+Now madam at your home at that time you can't find the knife
+
+<ICE-HK:S1B-067#249:1:A>
+In fact there was another chopper as well am I right <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X250:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#251:1:A>
+And did you use that that morning <O> Putonghua translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X252:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1B-067#253:1:A>
+Where was it kept usually kept
+
+<ICE-HK:S1B-067#254:1:A>
+Where was it usually kept <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X255:1:Z>
+In the kitchen </X>
+
+<$A> 
+<ICE-HK:S1B-067#256:1:A>
+Which part of the kitchen <O> Putonghua translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X257:1:Z>
+Uh let me see uh I think I used that the uh chopper that morning
+to uh cut uh the water melon </X>
+
+<$A> 
+<ICE-HK:S1B-067#258:1:A>
+Uh <.> wat </.> the water melon was taken out first from the
+fridge inside your room <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X259:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#260:1:A>
+And it was firstly cut inside your room
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X261:1:Z>
+And when you said the room what do mean <{> <[> the room </[>
+</X>
+
+<$A> 
+<ICE-HK:S1B-067#262:1:A>
+<[> My Lord </[> </{> bedroom
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X263:1:Z>
+The bedroom </X>
+
+<$A> 
+<ICE-HK:S1B-067#264:1:A>
+The bedroom <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X265:1:Z>
+Uh yes on the uh uh table in my bedroom yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#266:1:A>
+Well now after you used the chopper to cut the watermelon
+where did you place that chopper <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X267:1:Z>
+I can't recall it now </X>
+
+<$A> 
+<ICE-HK:S1B-067#268:1:A>
+See if you can recall it after the police had arrived <,> the
+chopper was in fact pushed underneath this bench the chair here underneath
+the chair uh here here My Lord it appears on uh A four <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X269:1:Z>
+Correct it was underneath uh the bench that time </X>
+
+<$A> 
+<ICE-HK:S1B-067#270:1:A>
+This chopper was not seized by the police <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X271:1:Z>
+Correct </X>
+
+<$A> 
+<ICE-HK:S1B-067#272:1:A>
+Madam when the defendant was in your house that morning at
+the moment when he entered you did see him carrying anything <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X273:1:Z>
+Correct </X>
+
+<$A> 
+<ICE-HK:S1B-067#274:1:A>
+Now uh about this glass bottle
+
+<ICE-HK:S1B-067#275:1:A>
+How big is this glass bottle before it  ' s broken <O>  ' before it  ' s
+broken ' overlap  ' zhe ge bo li ping  '  每'this glass bottle ' <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X276:1:Z>
+About uh this size </X>
+
+<$A> 
+<ICE-HK:S1B-067#277:1:A>
+About ten inches long <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X278:1:Z>
+I can't say it </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X279:1:Z>
+I think uh a bit longer than this uh uh booklet </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X280:1:Z>
+About ten inches </X> <O> Putonghua translation and answer </O>
+
+<$A> 
+<ICE-HK:S1B-067#281:1:A>
+And <,> by the time the police came part of this broken
+bottle was still inside the plastic bag <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X282:1:Z>
+No </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X283:1:Z>
+In fact uh the police uh uh carried the the bottle away in a
+plastic bag when they were leaving the uh flat </X>
+
+<$A> 
+<ICE-HK:S1B-067#284:1:A>
+Please take a look at A ten
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X285:1:Z>
+A ten </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X286:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#287:1:A>
+Now is it on top of the toilet <O> Putonghua translation </O>
+
+<$A> 
+<ICE-HK:S1B-067#288:1:A>
+There  ' s a pink colour plastic bag <O>  ' There  ' s a ' overlap  ' uh
+zhe ge  '  每  ' uh this ' </O> <O> Putonghua translation and answer
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X289:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#290:1:A>
+Inside it <unc> two words </unc> appeared the uh part
+of the broken bottle there  ' s a bottle pieces <O> Putonghua translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X291:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#292:1:A>
+Now are you saying that it was the police who put these
+broken pieces in this plastic bag <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X293:1:Z>
+I don't know </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X294:1:Z>
+I was only aware that the police uh lashed with the bag which
+contained the </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X295:1:Z>
+No did you do that </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X296:1:Z>
+Not me </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X297:1:Z>
+I did not do do that </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X298:1:Z>
+<unc> a few words </unc> </X>
+
+<$A> 
+<ICE-HK:S1B-067#299:1:A>
+Did you see the police uh sorry did you see the defendant put
+these broken pieces in this plastic bag <O> Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X300:1:Z>
+Sorry did you see </X>
+
+<$A> 
+<ICE-HK:S1B-067#301:1:A>
+Did you see the defendant
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X302:1:Z>
+Defendant </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X303:1:Z>
+The defendant </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X304:1:Z>
+I did not see that </X>
+
+<$A> 
+<ICE-HK:S1B-067#305:1:A>
+Now the first time you saw this bottle it was opened already
+right <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X306:1:Z>
+Correct </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X307:1:Z>
+I heard the uh smashing of a uh bottle uh uh I uh formed the uh
+an opinion that it was a glass bottle being a smashed later I saw the uh
+upper portion of the bottle on the floor </X> <&> A long pause </&> <O>
+Unidentified speeches </O>
+
+<$A> 
+<ICE-HK:S1B-067#308:1:A>
+Now the upper portion was on the floor how about the lower
+part was it inside a plastic bag like this or was it not in a plastic bag <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X309:1:Z>
+I can't say where uh the uh other portion of the bottle was
+because uh that time I was uh trying hard to avoid attack uh from the uh
+defendant </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X310:1:Z>
+Afterwards we were uh in the uh bedroom where Chan Soong allowed
+me to change my clothes because uh he also noticed the uh front portion of my
+clothes uh had been damaged by the fluid </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X311:1:Z>
+You can see photo number </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X312:1:Z>
+Sorry <{> </[> I can't </[> hear you
+
+<ICE-HK:S1B-067#X313:1:Z>
+So I  ' ve been to my clothes because he saw the upper portion </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X314:1:Z>
+<[> Sorry </[> </{>
+
+<ICE-HK:S1B-067#X315:1:Z>
+The uh front portion of the </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X316:1:Z>
+Up-front portion </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X317:1:Z>
+Of my clothes had been <{> [ > uh </[> damaged by the fluid </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X318:1:Z>
+<[> Damaged </[> </{>
+
+<ICE-HK:S1B-067#X319:1:Z>
+Yeah </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X320:1:Z>
+Uh please look at photo number B one </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X321:1:Z>
+B one </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X322:1:Z>
+Yes B one </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X323:1:Z>
+Uh this uh this this suit I was wearing after I  ' ve got changed
+</X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X324:1:Z>
+After I changed </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X325:1:Z>
+Yes </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X326:1:Z>
+Uh there were cut wounds over my back I really can't say when
+those wounds were inflicted on me </X>
+
+<$A> 
+<ICE-HK:S1B-067#327:1:A>
+Now when <.> d </.> defendant went to your home did he show
+you some piece of paper
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X328:1:Z>
+Piece of paper </X>
+
+<$A> 
+<ICE-HK:S1B-067#329:1:A>
+Pieces of <{> <[> paper </[>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X330:1:Z>
+<[> Yes </[> </{> </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X331:1:Z>
+No <,> no idea no </X>
+
+<$A> 
+<ICE-HK:S1B-067#332:1:A>
+That is from your mother to you <O> Putonghua translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X333:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1B-067#334:1:A>
+Now let me show you photocopy only is a photocopy of this <?>
+piece of evidence </?> <O>  ' of this ' overlap  ' kan ' 每  ' have a look ' </O> <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X335:1:Z>
+Uh yes uh these are letters from my mother </X>
+
+<$A> 
+<ICE-HK:S1B-067#336:1:A>
+To you <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X337:1:Z>
+To me yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#338:1:A>
+Uhm now did the <.> defen </.> defendant show you a letter
+like that on that day <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X339:1:Z>
+No he did not </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X340:1:Z>
+I must explain about this letter uh uh there was a an occasion uh
+I think a few days before the event occurred my elder sister and I uh were
+away from the uh flat uh we went to spend uh </X> <O> Putonghua translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X341:1:Z>
+We went to uh spend uh three days with our friend
+
+<ICE-HK:S1B-067#X342:1:Z>
+My son uh was also with us </X> <O> Unidentified speeches </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X343:1:Z>
+During that period Chan Soong </X> <O> Unidentified speeches </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X344:1:Z>
+Entered the D flat without authority
+
+<ICE-HK:S1B-067#X345:1:Z>
+Uh I just don't know how he came by uh he came uh with the key to
+the uh flat </X> <O> Unidentified speeches </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X346:1:Z>
+He ransacked the flat </X> <O> Unidentified speeches </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X347:1:Z>
+And took away some items which were my property </X> <O>
+Unidentified speeches </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X348:1:Z>
+Including the letter </X> <O> Unidentified speeches </O>
+
+<$A> 
+<ICE-HK:S1B-067#349:1:A>
+And uh at the same time did he show you another letter
+
+<ICE-HK:S1B-067#350:1:A>
+Take a look at this <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X351:1:Z>
+No he did not </X>
+
+<$A> 
+<ICE-HK:S1B-067#352:1:A>
+Now but can you recognise that this is the handwriting of
+your mother <O>  ' mother ' overlaps  ' zhe ' 每'this ' </O> <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X353:1:Z>
+Correct my mother  ' s handwriting </X>
+
+<$A> 
+<ICE-HK:S1B-067#354:1:A>
+And it was addressed to to defendant <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X355:1:Z>
+Correct </X>
+
+<$A> 
+<ICE-HK:S1B-067#356:1:A>
+And this letter there was a chop on top of each page date
+fourth of October nineteen ninety is it <O> Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X357:1:Z>
+<unc> one word </unc> October nineteen <{> <[> ninety
+</[> </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X358:1:Z>
+<[> Ninety </[> </{> </X> <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X359:1:Z>
+Uh what do you mean by that </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X360:1:Z>
+Sorry </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X361:1:Z>
+What do you mean by that </X>
+
+<$A> 
+<ICE-HK:S1B-067#362:1:A>
+That was a chop <O> Putonghua translation </O>
+
+<$A> 
+<ICE-HK:S1B-067#363:1:A>
+That  ' s a chop on on <unc> two-words </unc> <O>  ' 
+<unc> two- words </unc>  '  overlap  ' ni ' 每 you ' </O> <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X364:1:Z>
+I see it now yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#365:1:A>
+Yeah uh well in both of these letters <,> now first of all
+the first letter the chop showed you about
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X366:1:Z>
+Sorry I can't hear first letter </X>
+
+<$A> 
+<ICE-HK:S1B-067#367:1:A>
+First letter which is from your mother to you
+
+<ICE-HK:S1B-067#368:1:A>
+Now <,> in this letter did your <{> <[> mother </[> <,> say
+anything about <indig> sei ngaahn jai </indig> or Mr Soong <&> <indig> sei
+ngaahn jai </indig> a bespectacled man </&>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X369:1:Z>
+<[> <unc> two-words </unc> </[> </{> </X> <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X370:1:Z>
+Uh I think this letter did not mentioned that </X> <O> Putonghua
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X371:1:Z>
+Uh but I  ' m not sure now uh my mother wrote to me several times
+</X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X372:1:Z>
+Well perhaps you can suggest whether he does or he doesn't </X>
+<O> Putonghua answer </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X373:1:Z>
+<unc> a few words </unc> </X>
+
+<$A> 
+<ICE-HK:S1B-067#374:1:A>
+Now had your mother ever written to you that saying that she
+likes <indig> sei ngaahn </indig> <,> <indig> sei ngaahn jai </indig> or Mr
+So <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X375:1:Z>
+Well I want to say this firstly I don't like to involve my mother
+in this personal case </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X376:1:Z>
+Uh </X> <O> Putonghua answer </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X377:1:Z>
+Just answer the question uh madam </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X378:1:Z>
+Uh </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X379:1:Z>
+Has she ever said that she liked Mr So
+
+<ICE-HK:S1B-067#X380:1:Z>
+Yes or no </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X381:1:Z>
+Uh yes uh in one letter she mentioned uh that uh Mr So was uh uh
+quite frank and honest </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X382:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#383:1:A>
+And in fact one of these letters is the one in front of you
+which which is dated the sixth of February nineteen ninety one <O> Putonghua
+translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X384:1:Z>
+Is the letter that you show </X>
+
+<$A> 
+<ICE-HK:S1B-067#385:1:A>
+Yes
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X386:1:Z>
+Get to the point Mr Tes please </X>
+
+<$A> 
+<ICE-HK:S1B-067#387:1:A>
+Look at the sixth line from the top <O> Putonghua translation
+</O>
+
+<$A> 
+<ICE-HK:S1B-067#388:1:A>
+Now is that the part which your mother said that he he likes
+Mr So <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X389:1:Z>
+Uh yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#390:1:A>
+And in fact she she even said that she was sure that he will
+choose a good son- in-law for her
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X391:1:Z>
+He will make a good son-in-law </X>
+
+<$A> 
+<ICE-HK:S1B-067#392:1:A>
+Yeah well will be this the witness will choose a good
+son-in-law for her
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X393:1:Z>
+Asking the witness to choose a <{> <[> good son-in-law </[> </X>
+
+<$A> 
+<ICE-HK:S1B-067#394:1:A>
+<[> Yes yes </[> </{> <O> Putonghua translation </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X395:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#396:1:A>
+Meaning that your mother approved this Mr So
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X397:1:Z>
+What is the relevance of all these Mr Tse </X>
+
+<$A> 
+<ICE-HK:S1B-067#398:1:A>
+Uh My Lord the relevance is this that uh this is a defense
+case and after showing this letter to the witness and after confirming this
+witness what was said inside the letter the witness and become very angry
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X399:1:Z>
+<unc> two words </unc> </X>
+
+<$A> 
+<ICE-HK:S1B-067#400:1:A>
+In fact what your mother saying really was that she approved
+Mr So to become your husband right <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X401:1:Z>
+Not correct </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X402:1:Z>
+The question is did you uh in the command of that he show you Mr
+</X> <O> Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X403:1:Z>
+Just answer yes or no
+
+<ICE-HK:S1B-067#X404:1:Z>
+Well sorry there are two questions
+
+<ICE-HK:S1B-067#X405:1:Z>
+Did he showed you the letter and did you become angry he showed
+it </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X406:1:Z>
+Uh he did not show show me the letter that morning sir </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X407:1:Z>
+Okay </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X408:1:Z>
+Shall I explain uh
+
+<ICE-HK:S1B-067#X409:1:Z>
+Shall I also explain </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X410:1:Z>
+No no no </X> <O> Putonghua translation </O>
+
+<$A> 
+<ICE-HK:S1B-067#411:1:A>
+Now <?> madam you  ' re </?> saying that if in fact you went
+with Mr So to China to visit your family <O> Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X412:1:Z>
+She said she didn't see the letter <{> <[> was </[> she saying
+that </X>
+
+<$A> 
+<ICE-HK:S1B-067#413:1:A>
+<[> <?> Yes </?> </[> </{>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X414:1:Z>
+Yes so why are you pursing so </X>
+
+<$A> 
+<ICE-HK:S1B-067#415:1:A>
+Uh My Lord is really to show that whether this Mr So is an
+ordinary friend
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X416:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#417:1:A>
+If he is an ordinary <{> <[> friend </[> how ordinary he is
+
+<ICE-HK:S1B-067#418:1:A>
+Now did you went back to China with Mr So to visit your mother
+before this incident
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X419:1:Z>
+<[> But </[> </{> </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X420:1:Z>
+Uh I went to China to visit my mother during the new year time
+but I was not with Mr So then it happened that Mr So was also in China that
+time uh he uh he has his own business to do and he uh paid us a visit at my
+mother  ' s home in fact Mr So had also his own relatives in the same time
+there </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X421:1:Z>
+On that occasion he stayed as my mother  ' s house for three days
+</X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X422:1:Z>
+He had a cold when he was uh uh travelling uh uh by tram <.> s
+</.> and the the cold developed into a fever when he arrived at our house
+
+<ICE-HK:S1B-067#X423:1:Z>
+So for three days he stayed there and uh have medical treatment
+</X>
+
+<$A> 
+<ICE-HK:S1B-067#424:1:A>
+Uh this morning you gave evidence you said that uh defendant
+had met Mr So once but he in fact defendant and Mr So had met more than once
+<O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X425:1:Z>
+When I say when I said there was one occasion one meeting only I
+refer to the time when the three of us were at the same time uh uh together
+
+<ICE-HK:S1B-067#X426:1:Z>
+In fact there was uh a first meeting between defendant and Mr So
+but that time I was not present
+
+<ICE-HK:S1B-067#X427:1:Z>
+The occasion was the time when defendant came to visit the uh uh
+flat of my elder sister where he saw my son and uh Mr So </X>
+
+<$A> 
+<ICE-HK:S1B-067#428:1:A>
+Madam <{> <[> <.> y </.> </[>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X429:1:Z>
+<[> Later </[> </{> there was a fight uh that was a single
+occasion when I was <{> <[> also </[> </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X430:1:Z>
+<[> Sorry </[> </{> that was </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X431:1:Z>
+The second occasion </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X432:1:Z>
+Sorry <unc> a few words </unc> the first occasion and he
+saw So uh I was not present </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X433:1:Z>
+He saw So and my son </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X434:1:Z>
+Sorry </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X435:1:Z>
+He saw So and also my <{> <[> son </[> </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X436:1:Z>
+<[> And </[> </{> also my son </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X437:1:Z>
+Yes </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X438:1:Z>
+And and and then uhm </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X439:1:Z>
+There was a second occasion </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X440:1:Z>
+Then there was a second occasion <{> <[> uh those </[> uh fight
+</X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X441:1:Z>
+<[> He </[> </{>
+
+<ICE-HK:S1B-067#X442:1:Z>
+Yes </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X443:1:Z>
+And <{> <[> I she was there </[> </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X444:1:Z>
+<[> Yes </[> </{> yes and I was there </X> <&> A long pause </&>
+
+<$A> 
+<ICE-HK:S1B-067#445:1:A>
+Now <,> let me put it to you that in fact that morning on the
+twenty fifth the defendant had never telephoned you
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X446:1:Z>
+Never </X>
+
+<$A> 
+<ICE-HK:S1B-067#447:1:A>
+Never telephoned you <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X448:1:Z>
+He did </X>
+
+<$A> 
+<ICE-HK:S1B-067#449:1:A>
+And are you saying that is how the arrangement for defendant
+to come up <,> to your sister  ' s house is made <O>'to your ' overlap  ' jiu
+shi ' 每'that is to say ' </O> <O> Putonghua translation </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X450:1:Z>
+Correct </X>
+
+<$A> 
+<ICE-HK:S1B-067#451:1:A>
+Madam or was it that the arrangement was made the night
+before between your sister and the defendant for the defendant to come up on
+the twenty fifth <O> Putonghua translation </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X452:1:Z>
+Yes uh that is also true he did speak uh to my elder sister
+telling her that he wanted to come to see me the next day and then on that
+morning before he came up to the flat he telephoned me first </X>
+
+<$A> 
+<ICE-HK:S1B-067#453:1:A>
+Madam or was it the case that the next morning at about seven
+AM your sister told you about defendant  ' s telephone call the night before
+<O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X454:1:Z>
+Uh my sister told me about the telephone conversation and I also
+received a phone call </X>
+
+<$A> 
+<ICE-HK:S1B-067#455:1:A>
+Now this morning you were talking about there are some
+misunderstanding about the ownership of a house
+
+<ICE-HK:S1B-067#456:1:A>
+The ownership of the house which house are you talking about <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X457:1:Z>
+Uh the the old house uh we have been living here uh was to be uh
+demolished by the authority and the tenants were to be allocated with uh unit
+the Housing Unit in the <unc> one-word </unc> area </X> <&> A long
+pause </&>
+
+<$A> 
+<ICE-HK:S1B-067#458:1:A>
+Now are you talking about the wooden hut the defendant was
+living in at that time <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X459:1:Z>
+Uh before I came to Hong Kong Chan Soong had been living in that
+uh hut alone so the hut was uh uh registered in his name </X>
+
+<$A> 
+<ICE-HK:S1B-067#460:1:A>
+Now do you <,> at that time did you have any idea when was
+that hut <,> was going to be demolished <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X461:1:Z>
+No no idea </X>
+
+<$A> 
+<ICE-HK:S1B-067#462:1:A>
+Do you know that the hut was about to be demolished round
+about the time of this incident <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X463:1:Z>
+Uh yes and Chan Soong was also aware of it </X>
+
+<$A> 
+<ICE-HK:S1B-067#464:1:A>
+In fact very shortly before this incident you had some
+argument with the defendant over
+
+<$Z?> <X>
+
+<ICE-HK:S1B-067#X465:1:Z>
+The defendant </X>
+
+<$A> 
+<ICE-HK:S1B-067#466:1:A>
+Your son
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X467:1:Z>
+Over </X>
+
+<$A> 
+<ICE-HK:S1B-067#468:1:A>
+Over you son
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X469:1:Z>
+Yeah carry on </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X470:1:Z>
+No argument </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X471:1:Z>
+All along my son was with me </X>
+
+<$A> 
+<ICE-HK:S1B-067#472:1:A>
+Have you ever accused the defendant of taking the son out <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X473:1:Z>
+I came back uh from China at that time my son had just uh begun
+her uh his new school term for about a week and I discovered that that uh he
+was not doing well for uh the school uh work </X>
+
+<$A> 
+<ICE-HK:S1B-067#474:1:A>
+Then at the same time the defendant took him out right <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X475:1:Z>
+Defendant took </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X476:1:Z>
+Defendant promised that to took the uh uh sorry promised to take
+the boy out uh for the time between uh nine o'clock in the morning and six PM
+in the evening but he failed to uh keep that promise in fact my son uh stayed
+out for that night
+
+<ICE-HK:S1B-067#X477:1:Z>
+So I telephoned the defendant I said that was uh doing no good
+for the boy because he had to work hard for the new school term </X> <&> A
+long pause </&>
+
+<$A> 
+<ICE-HK:S1B-067#478:1:A>
+And was there a problem between you and defendant followed
+after that
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X479:1:Z>
+Is it a quarrel is it </X>
+
+<$A> 
+<ICE-HK:S1B-067#480:1:A>
+Was there a quarrel
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X481:1:Z>
+Quarrel </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X482:1:Z>
+Not really a quarrel
+
+<ICE-HK:S1B-067#X483:1:Z>
+It was a a telephone conversation I just uh reminded him uh that
+he was uh irresponsible because the boy must uh attend school in the
+following morning </X>
+
+<$A> 
+<ICE-HK:S1B-067#484:1:A>
+And the same evening the defendant sent the son back to you
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X485:1:Z>
+Sorry </X>
+
+<$A> 
+<ICE-HK:S1B-067#486:1:A>
+And the same evening the defendant sent the son back to you
+<O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X487:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1B-067#488:1:A>
+And in fact even on the twenty fifth of March you were still
+unhappy about this incident did you not <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X489:1:Z>
+Not correct </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X490:1:Z>
+Uh on that morning the twenty fifth of uh March I have talked a
+lot of things to the defendant uh I mentioned that the uh the matter with uh
+the hut uh the uh uh matter about the uh gun and also about our future
+arrangement of our child he said that he wanted to take the boy out on each
+Sunday </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X491:1:Z>
+I </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X492:1:Z>
+I disagreed that I suggested that that he could take the boy out
+for two Sundays in a month and uh for those uh public holidays he might also
+take the boy out by making some pre-arrangement with me </X> <O> Putonghua
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X493:1:Z>
+I told him is unfair for him to take a boy out for a two uh for a
+four Sundays because I also wanted to have some time with with my own boy to
+look uh to go out with with my son </X>
+
+<$A> 
+<ICE-HK:S1B-067#494:1:A>
+Madam let me put it to you that that morning there was an
+argument about the son an argument about uh Mr So <O> Putonghua translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X495:1:Z>
+Uh no uh Mrs So was not mentioned at all
+
+<ICE-HK:S1B-067#X496:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1B-067#497:1:A>
+And let me put it to you that in fact the defendant asked you
+where can he find Mr So <O> Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X498:1:Z>
+Sorry <{> <[> defendant ask you </[> </X>
+
+<$A> 
+<ICE-HK:S1B-067#499:1:A>
+<[> Where can you </[> </{>
+
+<ICE-HK:S1B-067#500:1:A>
+Yes where can he found Mr So
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X501:1:Z>
+Where could he find </X>
+
+<$A> 
+<ICE-HK:S1B-067#502:1:A>
+Yes where could he find Mr So <O> Putonghua translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X503:1:Z>
+No not true </X>
+
+<$A> 
+<ICE-HK:S1B-067#504:1:A>
+Defendant at that time asked you to telephone Mr So to ask Mr
+So to come straight away <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X505:1:Z>
+No not true </X>
+
+<$A> 
+<ICE-HK:S1B-067#506:1:A>
+And at that stage you pick up a chopper <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X507:1:Z>
+No not true </X>
+
+<$A> 
+<ICE-HK:S1B-067#508:1:A>
+And the defendant pick up the fruit knife <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X509:1:Z>
+No not true
+
+<ICE-HK:S1B-067#X510:1:Z>
+It never happened this way </X>
+
+<$A> 
+<ICE-HK:S1B-067#511:1:A>
+Now madam was is not that the telephone in that purposes was
+outside the bedroom
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X512:1:Z>
+Telephone </X>
+
+<$A> 
+<ICE-HK:S1B-067#513:1:A>
+Telephone <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X514:1:Z>
+Correct </X>
+
+<$A> 
+<ICE-HK:S1B-067#515:1:A>
+And it is very near to the kitchen <O> Putonghua translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X516:1:Z>
+Correct </X>
+
+<$A> 
+<ICE-HK:S1B-067#517:1:A>
+And the defendant pushed you to the telephone to ask you to
+make a telephone call to Mr So <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X518:1:Z>
+No not true </X>
+
+<$A> 
+<ICE-HK:S1B-067#519:1:A>
+And you were <?> steering </?> his pushing that <{> <[> both
+</[> during this pushing both of you fell onto the floor
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X520:1:Z>
+<[> Sorry </[> </{> </X> <O> Putonghua translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X521:1:Z>
+No no </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X522:1:Z>
+Never happened uh this way </X>
+
+<$A> 
+<ICE-HK:S1B-067#523:1:A>
+And there there was a struggle between the two of you <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X524:1:Z>
+No not true </X>
+
+<$A> 
+<ICE-HK:S1B-067#525:1:A>
+And it was in the struggle that your face was hurt by <{> <[>
+knives </[>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X526:1:Z>
+<[> Yes </[> </{> by </X>
+
+<$A> 
+<ICE-HK:S1B-067#527:1:A>
+By knives
+
+<ICE-HK:S1B-067#528:1:A>
+By both knives <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X529:1:Z>
+No </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X530:1:Z>
+No not true </X>
+
+<$A> 
+<ICE-HK:S1B-067#531:1:A>
+Now in fact in this incident the defendant also suffered some
+injury <,> <?> now do you think that </?> <O> Putonghua translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X532:1:Z>
+No </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X533:1:Z>
+Please tell me where he got hurt </X>
+
+<$A> 
+<ICE-HK:S1B-067#534:1:A>
+Now did you hear police ask him whether he had went to
+receive medical treatment before he was taken away to <.> hos </.> to the
+police station <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X535:1:Z>
+I did not hear that </X>
+
+<$A> 
+<ICE-HK:S1B-067#536:1:A>
+Now <,> on that day did you notice that the defendant have
+some cut marks on his right cheek and also his nose
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X537:1:Z>
+Nose </X>
+
+<$A> 
+<ICE-HK:S1B-067#538:1:A>
+Nose
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X539:1:Z>
+Nose yes </X> <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X540:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1B-067#541:1:A>
+Madam <,> after all these incident you have had a good
+thought you have had a chance to have a good look at the defendant injury <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X542:1:Z>
+No I did not because uh I was inside the bedroom that time when
+the police arrived </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X543:1:Z>
+No before the police arrived I I think you said you  ' ve <{> <[>
+<unc> a few words </unc> </[> for quite a long time </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X544:1:Z>
+<[> <unc> a few words </unc> </[> </{> </X> <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X545:1:Z>
+Yes </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X546:1:Z>
+Yes his face have been bleeding then you would have seen </X> <O>
+Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X547:1:Z>
+I don't see </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X548:1:Z>
+She broke her own uh left bone sir
+
+<ICE-HK:S1B-067#X549:1:Z>
+Uh I saw uh his uh part uh gets the left bone </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X550:1:Z>
+His left <unc> one word </unc> <{> <[> yes </[> </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X551:1:Z>
+<[> Yes </[> </{> I saw a uh a two uh blood stain there
+
+<ICE-HK:S1B-067#X552:1:Z>
+That time I was wondering whether he uh uh got himself uh uh hurt
+or it was the result of the scratching done by my son </X> <O> Putonghua
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X553:1:Z>
+And I </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X554:1:Z>
+I also thought it might be uh uh my blood uh which uh splashed
+onto his forehead
+
+<ICE-HK:S1B-067#X555:1:Z>
+Then my son said that </X>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X556:1:Z>
+No no no just </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X557:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-067#558:1:A>
+Now this morning <,> the only physical contact you mentioned
+between your son and the defendant was that your son pushed the defendant on
+both of his shoulders and caused him to move
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X559:1:Z>
+She said something about scratches
+
+<ICE-HK:S1B-067#X560:1:Z>
+Yes uh </X> <O> Putonghua answer </O>
+
+<$Z2> <X> Hold on just a moment </X> <O> Putonghua translation </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-067#X561:1:Z>
+His son tried to scratched his eyes with uh with his hands </X>
+
+<$A> 
+<ICE-HK:S1B-067#562:1:A>
+Now what about this would you agree with me that in either of
+your statement you have ever mentioned that your son had pushed the defendant
+or tried to scratch the defendant <O> Putonghua translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X563:1:Z>
+Uh I did tell the police office of this matter uh the fact that
+the uh the detail uh such a detail was not found in the statement was that uh
+perhaps uh the officers could not understand me fully because my dialect my
+punti dialect was so poor plus the fact that I had a weak voice that time
+</X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X564:1:Z>
+Yes </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X565:1:Z>
+I  ' m sure I did tell the police </X> <O> Putonghua answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-067#X566:1:Z>
+I took the chance and I was able to uh uh get up from the floor
+</X>
+
+<$A> 
+<ICE-HK:S1B-067#567:1:A>
+Madam yesterday when you were looking at your statement and
+you discovered that that part was there did you tell any police officer or
+anyone <O> Putonghua translation </O> <&> End of recording / &> </I>

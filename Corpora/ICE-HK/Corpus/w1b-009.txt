@@ -1,0 +1,959 @@
+<I>
+
+<ICE-HK:W1B-009#1:1>
+Christa ,
+
+<p> 
+<ICE-HK:W1B-009#2:1>
+About you want to save the mail to disk , it is <-> possilble </->
+<+> possible </+> , but I don't know exactly what you want .
+
+<ICE-HK:W1B-009#3:1>
+There is two situations .
+
+<ICE-HK:W1B-009#4:1>
+One is when you have a PC and a modem at home , you can download to
+your own computer , then save to a disk .
+
+<ICE-HK:W1B-009#5:1>
+That is the easy way to do .
+
+<ICE-HK:W1B-009#6:1>
+Unfortunately that not what you want , right ?
+
+<ICE-HK:W1B-009#7:1>
+If you want to know this way , send me another mail , I will send more
+informations on this .
+
+<ICE-HK:W1B-009#8:1>
+Second way is you are using the computer at U .
+
+<ICE-HK:W1B-009#9:1>
+That is more difficult than using a PC at home .
+
+<ICE-HK:W1B-009#10:1>
+I will try my best to describe what is going on , but I can't
+guarantee it work .
+
+<ICE-HK:W1B-009#11:1>
+OK , here it  ' s go . </p>
+
+<p> 
+<ICE-HK:W1B-009#12:1>
+First , enter your account as usual , then go to &ldquo; pine
+&rdquo; .
+
+<ICE-HK:W1B-009#13:1>
+<-> Hightligft </-> <+> highlight </+> the mail you want to save in
+disk .
+
+<ICE-HK:W1B-009#14:1>
+then type &ldquo; <mention> s </mention> &ldquo; .
+
+<ICE-HK:W1B-009#15:1>
+At the bottom of the screen , it may ask you if you want to save the
+mail or <-> somthing </-> <+> something </+> like that .
+
+<ICE-HK:W1B-009#16:1>
+Type in the file name you want the mail to be .
+
+<ICE-HK:W1B-009#17:1>
+Then it will ask you want to <-> creat </-> <+> create </+> a new
+folder for the new file , then type &ldquo; <mention> y </mention> &ldquo; .
+
+<ICE-HK:W1B-009#18:1>
+Then I think there is a &ldquo; <mention> D </mention> &ldquo; beside
+the mail you just save .
+
+<ICE-HK:W1B-009#19:1>
+That mean they will delete that mail .
+
+<ICE-HK:W1B-009#20:1>
+So when it ask do you want to delete the mail , you type &ldquo; n
+&rdquo; because you don't want to lose <-> you </-> <+> your </+> mail at
+this point .
+
+<ICE-HK:W1B-009#21:1>
+If something wrong with the save file , you still have the backup .
+
+<ICE-HK:W1B-009#22:1>
+After this , you exit &ldquo; pine &rdquo; .
+
+<ICE-HK:W1B-009#23:1>
+Second thing is to locate your file you just saved .
+
+<ICE-HK:W1B-009#24:1>
+Type &ldquo; <mention> cd </mention> &ldquo; to go back to the root
+directory .
+
+<ICE-HK:W1B-009#25:1>
+Then type &ldquo; <mention> ls - a </mention> &ldquo; to see if the
+file you saved is in it .
+
+<ICE-HK:W1B-009#26:1>
+If it is not , go to &ldquo; mail &rdquo; or &ldquo; Mail &rdquo;
+directory , by <-> typeing </-> <+> typing </+> &ldquo; <mention> cd mail
+</mention> &ldquo; or &ldquo; <mention> cd Mail </mention> &ldquo; .
+
+<ICE-HK:W1B-009#27:1>
+&ldquo; mail &rdquo; and &ldquo; Mail &rdquo; is two different
+directory ,
+
+<ICE-HK:W1B-009#28:1>
+don't mix them up .
+
+<ICE-HK:W1B-009#29:1>
+After you have locate your saved file , you may logout to your system
+, but you have to remember what directory of your file located .
+
+<ICE-HK:W1B-009#30:1>
+That is important ,
+
+<ICE-HK:W1B-009#31:1>
+if you don't remember where it locate , you can't get the file .
+
+<ICE-HK:W1B-009#32:1>
+After you logout , go to the main screen of your computer ,
+
+<ICE-HK:W1B-009#33:1>
+I mean the screen that when you first boot up the computer .
+
+<ICE-HK:W1B-009#34:1>
+That is the problem part because I don't remember what items are on
+that screen .
+
+<ICE-HK:W1B-009#35:1>
+So you may have to search for what you need , but the other way is to
+ask the help desk on this topic .
+
+<ICE-HK:W1B-009#36:1>
+Alright back to the subject .
+
+<ICE-HK:W1B-009#37:1>
+One more thing from this point forward ,
+
+<ICE-HK:W1B-009#38:1>
+I just guess what would happen to your screen .
+
+<ICE-HK:W1B-009#39:1>
+I really have no ideas .
+
+<ICE-HK:W1B-009#40:1>
+If what you see is not what I describe , you have to describe what
+you saw and send a mail to me as detail as possible .
+
+<ICE-HK:W1B-009#41:1>
+You have to find &ldquo; ftp &rdquo; or &ldquo; FTP &rdquo; on the
+screen .
+
+<ICE-HK:W1B-009#42:1>
+It usually still in the communication menu .
+
+<ICE-HK:W1B-009#43:1>
+In communication menu , you may ask to choose &ldquo; telnet &rdquo;
+or &ldquo; ftp &rdquo; .
+
+<ICE-HK:W1B-009#44:1>
+Then choose &ldquo; ftp &rdquo; this time .
+
+<ICE-HK:W1B-009#45:1>
+Then choose the site your file locate like &ldquo; hkusub.hku.hk
+&rdquo; .
+
+<ICE-HK:W1B-009#46:1>
+If you don't find the site you need , try to look for &ldquo; other
+site &rdquo; then type in the site you need .
+
+<ICE-HK:W1B-009#47:1>
+It may ask you to login , so login as usual telnet account .
+
+<ICE-HK:W1B-009#48:1>
+After you are in the account , go to the directory your file located .
+
+<ICE-HK:W1B-009#49:1>
+You can still use &ldquo; cd &rdquo; and &ldquo; ls &rdquo; to look
+for the file .
+
+<ICE-HK:W1B-009#50:1>
+After you located your file , type &ldquo; <mention> get filename
+</mention> &ldquo; .
+
+<ICE-HK:W1B-009#51:1>
+&ldquo; get &rdquo; is a comment to transfer the file to the <->
+harddrive </-> <+> hard drive </+> .
+
+<ICE-HK:W1B-009#52:1>
+&ldquo; filename &rdquo; is the name of your file .
+
+<ICE-HK:W1B-009#53:1>
+Then you have to wait for few seconds or few minutes depend on the
+size of your file .
+
+<ICE-HK:W1B-009#54:1>
+When it finish , it will tell you the file is completely <->
+transfered </-> <+> transferred </+> or <-> somethings </-> <+> something
+</+> like that .
+
+<ICE-HK:W1B-009#55:1>
+After that you can exit ftp by type &ldquo; <mention> quit </mention>
+&ldquo; .
+
+<ICE-HK:W1B-009#56:1>
+That will bring you back to the communication menu screen .
+
+<ICE-HK:W1B-009#57:1>
+After that you have to go to &ldquo; Windows 3.1 &rdquo; .
+
+<ICE-HK:W1B-009#58:1>
+Go to the &ldquo; File Manager &rdquo; .
+
+<ICE-HK:W1B-009#59:1>
+You have to search where is your file locate ,
+
+<ICE-HK:W1B-009#60:1>
+that <-> somethings </-> <+> something </+> I really can't help you .
+
+<ICE-HK:W1B-009#61:1>
+Because they may have many network drive , my best guess is on the
+root directory of the first network drive .
+
+<ICE-HK:W1B-009#62:1>
+That mean the first drive that after the <-> floppydisk </-> <+>
+floppy disk </+> drive .
+
+<ICE-HK:W1B-009#63:1>
+After you locate your file on drive , then highlight the file by
+single click the right mouse button on the file .
+
+<ICE-HK:W1B-009#64:1>
+Go to &ldquo; <mention> Edit </mention> &ldquo; menu , choose &ldquo;
+<mention> Copy </mention> &ldquo; .
+
+<ICE-HK:W1B-009#65:1>
+then it will ask you where you want to save .
+
+<ICE-HK:W1B-009#66:1>
+Type &ldquo; <mention> a:\ </mention> &ldquo; .
+
+<ICE-HK:W1B-009#67:1>
+&ldquo; <mention> a:\ </mention> &ldquo; is the <-> floppydisk </->
+<+> floppy disk </+> drive name .
+
+<ICE-HK:W1B-009#68:1>
+So if you want to save to drive b , you will type &ldquo; <mention>
+b:\ </mention> &ldquo; .
+
+<ICE-HK:W1B-009#69:1>
+And that should do it .
+
+<ICE-HK:W1B-009#70:1>
+If you want to make sure the file is <-> copyed </-> <+> copied </+>
+, you can right click on the drive to see your file is in it or not .
+
+<ICE-HK:W1B-009#71:1>
+Also you may want to delete the file you left in the <-> harddrive
+</-> <+> hard drive </+> .
+
+<ICE-HK:W1B-009#72:1>
+If you can't get it to work , my advice is go to ask the help desk .
+
+<ICE-HK:W1B-009#73:1>
+Or you have to send me detail on what you and see on the screen .
+
+<ICE-HK:W1B-009#74:1>
+I know it  ' s a sloppy job , but hope this will help . </p>
+
+<p> Next week is Spring break , so if you read this mail Thursday , and
+return me a message on Friday if you find any problem , I may still send you
+some advice if I have any , before I take the trip to LA .
+
+<ICE-HK:W1B-009#75:1>
+So wish you luck with your work . </p>
+
+<ICE-HK:W1B-009#76:1>
+Dave . </I>
+
+<I>
+
+<ICE-HK:W1B-009#77:2>
+Christa ,
+
+<p> 
+<ICE-HK:W1B-009#78:2>
+About the computer work , actually what part did you have the
+problem ,
+
+<ICE-HK:W1B-009#79:2>
+If you can say it , I may able to fix it .
+
+<ICE-HK:W1B-009#80:2>
+Also if you did not catch what the people in help desk told you , ask
+them again .
+
+<ICE-HK:W1B-009#81:2>
+Ask them to slow down , and said you are not experience with computer
+, and what part you did not get right .
+
+<ICE-HK:W1B-009#82:2>
+They are able to help you again .
+
+<ICE-HK:W1B-009#83:2>
+They are <-> payed </-> <+> paid </+> to help the students who are
+not good at computer , so they should have <-> patient </-> <+> patience </+>
+to help you .
+
+<ICE-HK:W1B-009#84:2>
+Don't get discourage if you did not get it in the first time . </p>
+
+<p> 
+<ICE-HK:W1B-009#85:2>
+About your project , I am willing to participate in it .
+
+<ICE-HK:W1B-009#86:2>
+It seem like very interesting .
+
+<ICE-HK:W1B-009#87:2>
+But I have one request , I would like to see the result after you
+have done your analysis .
+
+<ICE-HK:W1B-009#88:2>
+My age group is 20-25 . </p>
+
+<p> 
+<ICE-HK:W1B-009#89:2>
+I am in LA this week , but it is a sad week for me .
+
+<ICE-HK:W1B-009#90:2>
+My U did poorly in basketball this week .
+
+<ICE-HK:W1B-009#91:2>
+First we lost to Arizona State University at home .
+
+<ICE-HK:W1B-009#92:2>
+Second we lost in the first round in the NCAA tournament .
+
+<ICE-HK:W1B-009#93:2>
+These really bother me a lot .
+
+<ICE-HK:W1B-009#94:2>
+I can only hope they will do better next year . </p>
+
+<p> 
+<ICE-HK:W1B-009#95:2>
+I have <-> brought </-> <+> bought </+> 3 CDs in LA .
+
+<ICE-HK:W1B-009#96:2>
+They are Welcome Back by Pricilla Chan , Just wake up from dream by
+Cass Pang , and All time favourite by Shirley Kwan .
+
+<ICE-HK:W1B-009#97:2>
+I would not say anything about these CDs , because I still need some
+time to listen to it .
+
+<ICE-HK:W1B-009#98:2>
+I have just listen to them once . </p>
+
+<p> 
+<ICE-HK:W1B-009#99:2>
+I think I will stop here for this time because I need to some
+times to prepare for the <-> backetball </-> <+> basketball </+> practice
+this afternoon .
+
+<ICE-HK:W1B-009#100:2>
+I just came back last night .
+
+<ICE-HK:W1B-009#101:2>
+Most of my things still in the bag .
+
+<ICE-HK:W1B-009#102:2>
+So talk to you <-> latter </-> <+> later </+> .
+
+<ICE-HK:W1B-009#103:2>
+Take care . </p>
+
+<ICE-HK:W1B-009#104:2>
+Dave . </I>
+
+<I>
+
+<ICE-HK:W1B-009#105:3>
+Christa ,
+
+<p> 
+<ICE-HK:W1B-009#106:3>
+There is one thing happen in this week that I did not tell you ,
+or you may already heard before .
+
+<ICE-HK:W1B-009#107:3>
+There is a rumor that Michael <-> Jordon </-> <+> Jordan </+> is
+coming back to play basketball .
+
+<ICE-HK:W1B-009#108:3>
+This rumor started on last week that he announce that he retired
+from baseball , and will practice with Bulls on Monday and Tuesday .
+
+<ICE-HK:W1B-009#109:3>
+That is the indication of coming back .
+
+<ICE-HK:W1B-009#110:3>
+Finally he announced he will play the rest of the basketball <->
+reason </-> <+> season </+> in Bulls started on this Sunday .
+
+<ICE-HK:W1B-009#111:3>
+The announcement is made on today .
+
+<ICE-HK:W1B-009#112:3>
+I will post you a report after I watch the game tomorrow . </p>
+
+<ICE-HK:W1B-009#113:3>
+Later !
+
+<ICE-HK:W1B-009#114:3>
+Dave . </I>
+
+<I>
+
+<ICE-HK:W1B-009#115:4>
+Christa ,
+
+<p> 
+<ICE-HK:W1B-009#116:4>
+As I said before , I will give you some <-> informations </->
+<+> information </+> of Michael Jordan came back from basketball .
+
+<ICE-HK:W1B-009#117:4>
+Bulls has played three games after Jordan came back .
+
+<ICE-HK:W1B-009#118:4>
+They has played Indiana Pacers on road and lost on overtime , played
+Boston Celtics in Boston and won , and finally last night played Orlando
+Magic in new United center at Chicago and lost .
+
+<ICE-HK:W1B-009#119:4>
+By the way , he was not wearing &hash;23 ,
+
+<ICE-HK:W1B-009#120:4>
+he is wearing &hash;45 now .
+
+<ICE-HK:W1B-009#121:4>
+The reason for this because &hash;23 is the number that his father
+saw him last played .
+
+<ICE-HK:W1B-009#122:4>
+And his father was murdered in 1993 before Jordan retirement . </p>
+
+<p> 
+<ICE-HK:W1B-009#123:4>
+Here  ' re the details of those games .
+
+<ICE-HK:W1B-009#124:4>
+In the first game , Jordan has played 43 minutes .
+
+<ICE-HK:W1B-009#125:4>
+7 for 28 field goals , and have 19 points .
+
+<ICE-HK:W1B-009#126:4>
+He has 3 steals , 6 rebounds , and 6 assists .
+
+<ICE-HK:W1B-009#127:4>
+His shots were off .
+
+<ICE-HK:W1B-009#128:4>
+And he was very tired .
+
+<ICE-HK:W1B-009#129:4>
+This sign showed in the end of the regular game time ,
+
+<ICE-HK:W1B-009#130:4>
+he has leg cramp .
+
+<ICE-HK:W1B-009#131:4>
+He did not have a slam dunk in this game .
+
+<ICE-HK:W1B-009#132:4>
+In the second game , he only played 26 minutes due to the early
+fouls trouble .
+
+<ICE-HK:W1B-009#133:4>
+He got 3 fouls in the first 4 or 5 minutes , so he has to sit for
+the quarter .
+
+<ICE-HK:W1B-009#134:4>
+In the first few minutes he played in the first quarter , he was 3
+for 3 in the field , included a 3-pointer .
+
+<ICE-HK:W1B-009#135:4>
+He got 27 points and 9 for 17 shooting , 1 steals , 3 rebounds , and
+4 assists .
+
+<ICE-HK:W1B-009#136:4>
+The final score was Bulls 124 , Celtics 107 .
+
+<ICE-HK:W1B-009#137:4>
+The third game is in United center .
+
+<ICE-HK:W1B-009#138:4>
+This is the first home game for Bulls after Jordan came back .
+
+<ICE-HK:W1B-009#139:4>
+Also this is the first game that Jordan play in this building
+because United center was open after Jordan retirement .
+
+<ICE-HK:W1B-009#140:4>
+This meant a lot in Chicago .
+
+<ICE-HK:W1B-009#141:4>
+The ticket price goes sky high .
+
+<ICE-HK:W1B-009#142:4>
+This was a real close game .
+
+<ICE-HK:W1B-009#143:4>
+It could win by either team .
+
+<ICE-HK:W1B-009#144:4>
+The biggest lead of both teams were 6 to 7 points .
+
+<ICE-HK:W1B-009#145:4>
+And it swung back and forth .
+
+<ICE-HK:W1B-009#146:4>
+The final score was Bulls 99 , and Magic 106 .
+
+<ICE-HK:W1B-009#147:4>
+Jordan has 21 points , 7 for 23 shooting , 5 steals , 4 rebounds ,
+and 8 assists .
+
+<ICE-HK:W1B-009#148:4>
+He still need more time to work on his shot .
+
+<ICE-HK:W1B-009#149:4>
+But I think his shooting will be back <-> somedays </-> <+> some day
+</+> before playoff this year .
+
+<ICE-HK:W1B-009#150:4>
+Bulls also have a game tonight at Atlanta ,
+
+<ICE-HK:W1B-009#151:4>
+Hope they will win .
+
+<ICE-HK:W1B-009#152:4>
+<O> 3-emoticons </O> </p>
+
+<p> 
+<ICE-HK:W1B-009#153:4>
+I think I will come back to HK on May 20th , so I will miss the
+Grasshopper concert also .
+
+<ICE-HK:W1B-009#154:4>
+That  ' s sad .
+
+<ICE-HK:W1B-009#155:4>
+If you can get good seat in Shirley Kwan concert , get me two
+tickets &semi;
+
+<ICE-HK:W1B-009#156:4>
+otherwise , just get me one is enough .
+
+<ICE-HK:W1B-009#157:4>
+I think I have no more to say this week because I was so busy
+watching basketball game and did nothing .
+
+<ICE-HK:W1B-009#158:4>
+So long . </p>
+
+<ICE-HK:W1B-009#159:4>
+Dave . </I>
+
+<I>
+
+<ICE-HK:W1B-009#160:5>
+Dear Alyson ,
+
+<p> 
+<ICE-HK:W1B-009#161:5>
+I  ' m so glad to receive your letter .
+
+<ICE-HK:W1B-009#162:5>
+Thanks for your photos .
+
+<ICE-HK:W1B-009#163:5>
+They  ' re so nice and beautiful .
+
+<ICE-HK:W1B-009#164:5>
+I  ' m still working in the shipping company but no one knows I  ' m a
+student .
+
+<ICE-HK:W1B-009#165:5>
+I  ' ll resign on the 14th of August . </p>
+
+<p> 
+<ICE-HK:W1B-009#166:5>
+I  ' ve my A-level result on the 8th of July .
+
+<ICE-HK:W1B-009#167:5>
+My results were not so good .
+
+<ICE-HK:W1B-009#168:5>
+The best subject is English .
+
+<ICE-HK:W1B-009#169:5>
+On the 14th of July , I was accepted by the University of Hong Kong .
+
+<ICE-HK:W1B-009#170:5>
+I  ' ll take English as my major .
+
+<ICE-HK:W1B-009#171:5>
+For minor subjects , I haven't decided yet .
+
+<ICE-HK:W1B-009#172:5>
+Since the tertiary education is expanding , I  ' m lucky to get a
+place in the university .
+
+<ICE-HK:W1B-009#173:5>
+In the past , I won't be accepted by the university as the results
+were not outstanding . </p>
+
+<p> 
+<ICE-HK:W1B-009#174:5>
+I haven't had enough sleep since 26/7 because the Olympic games
+are really very attractive .
+
+<ICE-HK:W1B-009#175:5>
+I won't sleep until 1:00 or 2:00 a.m. every night .
+
+<ICE-HK:W1B-009#176:5>
+I love to watch gymnastics , swimming and diving .
+
+<ICE-HK:W1B-009#177:5>
+What about you ?
+
+<ICE-HK:W1B-009#178:5>
+Before the start of the Olympic , many specialists said that with
+the split of Soviet Union , the sports standard may be lowered .
+
+<ICE-HK:W1B-009#179:5>
+However , the standard of the Unified Team is still very high as
+reviewed by the number of good metals they got . </p>
+
+<p> 
+<ICE-HK:W1B-009#180:5>
+This summer I haven't had enough sport activities since most of
+my time is occupied by my job .
+
+<ICE-HK:W1B-009#181:5>
+Even there are Sundays and Saturday afternoons , I didn't have a
+chance to enjoy any of my favourite sports .
+
+<ICE-HK:W1B-009#182:5>
+It is because the squash courts , tennis courts are fully booked .
+
+<ICE-HK:W1B-009#183:5>
+Besides , nearly all the beaches and swimming pools are filled with
+people .
+
+<ICE-HK:W1B-009#184:5>
+The water of the swimming pools is terrible ,
+
+<ICE-HK:W1B-009#185:5>
+they  ' re just like a large bathing pool .
+
+<ICE-HK:W1B-009#186:5>
+I hope after my resign , I  ' ll have more time for sports . </p>
+
+<p> 
+<ICE-HK:W1B-009#187:5>
+I think my plan for travelling overseas have to be postponed
+since after my resign I have to join 2 camps organized by the university .
+
+<ICE-HK:W1B-009#188:5>
+More than that there are several days for registration and returning
+forms .
+
+<ICE-HK:W1B-009#189:5>
+Three of my good friends will still with me ,
+
+<ICE-HK:W1B-009#190:5>
+I mean study in the University of Hong Kong .
+
+<ICE-HK:W1B-009#191:5>
+One of my good friends will go into the Chinese University and
+another one will go into the Polytechnic .
+
+<ICE-HK:W1B-009#192:5>
+Though I  ' ve 3 good friends in the University of Hong Kong , we
+study different subjects .
+
+<ICE-HK:W1B-009#193:5>
+Therefore , we have to meet new friends but I  ' m sure we  ' ll still
+be good friends forever as we have been good friends for over 7 years .
+
+<ICE-HK:W1B-009#194:5>
+Whenever we  ' ve time , we  ' ll meet again . </p>
+
+<p> 
+<ICE-HK:W1B-009#195:5>
+There are Halls for students to stay in the university campus .
+
+<ICE-HK:W1B-009#196:5>
+For me , I won't apply for room because the places available were
+very limited and only those very active students get the chances especially
+those who are good at sports .
+
+<ICE-HK:W1B-009#197:5>
+A trip from home to the university takes 1 1/4 to 1 1/2 hours , it
+isn't a very long journey , so I decide to study at home . </p>
+
+<p> 
+<ICE-HK:W1B-009#198:5>
+How is you and Alex ?
+
+<ICE-HK:W1B-009#199:5>
+What about the Indian guy ?
+
+<ICE-HK:W1B-009#200:5>
+I believe racial discrimination still exist in this world though
+people always stress on equality .
+
+<ICE-HK:W1B-009#201:5>
+&obrack; But I  ' m not saying your parents are racist . &cbrack;
+
+<ICE-HK:W1B-009#202:5>
+<-> May be </-> <+> maybe </+> at this moment , your parents don't
+accept him as one of your friend but as time pass by , they may change their
+attitude .
+
+<ICE-HK:W1B-009#203:5>
+Don't be upset !
+
+<ICE-HK:W1B-009#204:5>
+The world is dynamic . </p>
+
+<p> 
+<ICE-HK:W1B-009#205:5>
+In this summer , Batman &dash; Returning will be on show in H.K .
+
+<ICE-HK:W1B-009#206:5>
+There is a wave of batman in H.K. especially little children love
+&lsquo; Batman &rsquo; very much .
+
+<ICE-HK:W1B-009#207:5>
+How about Canada ?
+
+<ICE-HK:W1B-009#208:5>
+O.K.
+
+<ICE-HK:W1B-009#209:5>
+I  ' ve to stop here ,
+
+<ICE-HK:W1B-009#210:5>
+write soon ! </p>
+
+<ICE-HK:W1B-009#211:5>
+Love ,
+
+<ICE-HK:W1B-009#212:5>
+Christa
+
+<ICE-HK:W1B-009#213:5>
+6/8/92
+
+<ICE-HK:W1B-009#214:5>
+P.S.
+
+<ICE-HK:W1B-009#215:5>
+I enclosed 3 pictures .
+
+<ICE-HK:W1B-009#216:5>
+2 taken at Stanley Beach , <-> I </-> <+> 1 </+> taken at the
+University of Hong Kong with my friend . </I>
+
+<I>
+
+<ICE-HK:W1B-009#217:6>
+Dear Alyson ,
+
+<p> 
+<ICE-HK:W1B-009#218:6>
+It is so glad to receive your letter .
+
+<ICE-HK:W1B-009#219:6>
+In fact I want to write you a few weeks ago but since I haven't got
+your new address .
+
+<ICE-HK:W1B-009#220:6>
+I gave up . </p>
+
+<p> 
+<ICE-HK:W1B-009#221:6>
+Knowing that you  ' ve been very busy , I don't mind if you didn't
+write me .
+
+<ICE-HK:W1B-009#222:6>
+I have been busy since the late Oct , occupying by homeworks and
+tutorials .
+
+<ICE-HK:W1B-009#223:6>
+Well there is a lot to talk about my 1st year university life in H.K .
+
+<ICE-HK:W1B-009#224:6>
+University of H.K. is not so big in area as compare with any
+university elsewhere but I always got my way lost in the first few days and I  ' ve
+to take a map of the campus with me .
+
+<ICE-HK:W1B-009#225:6>
+Besides , many facilities of the university are outside the campus ,
+such as the sports centre , student halls , far away from the campus .
+
+<ICE-HK:W1B-009#226:6>
+Usually I take about 1 hr to go to school .
+
+<ICE-HK:W1B-009#227:6>
+I have to take the MTR to Central and then get a change of mini-bus .
+
+<ICE-HK:W1B-009#228:6>
+I remembered that in early Oct. I  ' ve got a traffic accident .
+
+<ICE-HK:W1B-009#229:6>
+Lucky I didn't get hurt . </p>
+
+<p> 
+<ICE-HK:W1B-009#230:6>
+Let me tell you something about my study .
+
+<ICE-HK:W1B-009#231:6>
+I take 4 courses in each semester .
+
+<ICE-HK:W1B-009#232:6>
+the subjects that I  ' m taking are : English Studies , Introduction
+to American Studies , Psychology , Sociology and English for Arts students .
+
+<ICE-HK:W1B-009#233:6>
+For English , I have to study Macbeth &ampersand; Jane Eyre .
+
+<ICE-HK:W1B-009#234:6>
+It is a bit difficult for me to start since I haven't had any
+knowledge on literature in my secondary school days .
+
+<ICE-HK:W1B-009#235:6>
+Sadly to say , I didn't get good marks for my essays .
+
+<ICE-HK:W1B-009#236:6>
+English Studies also include linguistics which I also didn't have
+any experience on it .
+
+<ICE-HK:W1B-009#237:6>
+Moreover , tackling American Studies is an difficult task <O>
+line-missing </O> of American history and leave the rest for us to look up
+from the books suggested .
+
+<ICE-HK:W1B-009#238:6>
+However , the suggested readings are always charged by the library .
+</p>
+
+<p> 
+<ICE-HK:W1B-009#239:6>
+This year I have a long Christmas holidays which I never have
+because my term break will start on the 14th of Dec and go back to school on
+8th of Jan , 93 . </p>
+
+<p> 
+<ICE-HK:W1B-009#240:6>
+Apart from the long holidays , there are many other things that
+are different from secondary school .
+
+<ICE-HK:W1B-009#241:6>
+For example , 90&percent; of my lectures and tutorials are taught by
+foreigners .
+
+<ICE-HK:W1B-009#242:6>
+One thing I have gained from the university is that I  ' m no longer
+hesitate to speak English since there are no other ways to communicate with
+them .
+
+<ICE-HK:W1B-009#243:6>
+One very interesting feature in HKU especially in the English
+Department is that many Dr. learn to speak Cantonese .
+
+<ICE-HK:W1B-009#244:6>
+In addition , I need to make new friends or else I will be lonely in
+the university .
+
+<ICE-HK:W1B-009#245:6>
+Although , I have already got some good friends in the university ,
+usually my former classmates , they study different subjects and we have
+little time to meet each other .
+
+<ICE-HK:W1B-009#246:6>
+To solve the problem of feeling lonely , I make a lot of new friends
+from different faculty , different departments and different backgrounds .
+
+<ICE-HK:W1B-009#247:6>
+I got to know these people by joining the student bodies such as
+societies and clubs .
+
+<ICE-HK:W1B-009#248:6>
+In a way , meeting new friends widen my social life and I find it
+very interesting to meet different kind of people in the university . </p>
+
+<p> 
+<ICE-HK:W1B-009#249:6>
+I know that there was an universal suffrage and I still don't
+know what it is all about .
+
+<ICE-HK:W1B-009#250:6>
+Can you tell me something about the vote ? </p>
+
+<p> 
+<ICE-HK:W1B-009#251:6>
+My brother , starts his secondary life in Sept but he doesn't do
+well in English dictation especially in times of unseen dictation .
+
+<ICE-HK:W1B-009#252:6>
+I think it will be better for him to learn phonetics .
+
+<ICE-HK:W1B-009#253:6>
+Nonetheless , I didn't know much about this subjects .
+
+<ICE-HK:W1B-009#254:6>
+In the university I have to study phonetics but until now I am very
+confused and I don't know how to write an essay on phonetics .
+
+<ICE-HK:W1B-009#255:6>
+For my sister , she is busy with her tests and the public A-level
+exam .
+
+<ICE-HK:W1B-009#256:6>
+For my mum , she is putting on weight .
+
+<ICE-HK:W1B-009#257:6>
+We have an old saying &ldquo; Getting fat in the middle ages &rdquo; .
+
+<ICE-HK:W1B-009#258:6>
+Since my mum is in her middle ages , she is getting fatter than
+before .
+
+<ICE-HK:W1B-009#259:6>
+In the past she only got about 40kg but now she has got 46kg .
+
+<ICE-HK:W1B-009#260:6>
+We all remind her to keep a watch on her weight as too fat is not so
+good for her health . </p>
+
+<ICE-HK:W1B-009#261:6>
+It is already 1:30a.m .
+
+<ICE-HK:W1B-009#262:6>
+I better stop here .
+
+<ICE-HK:W1B-009#263:6>
+Write soon !
+
+<ICE-HK:W1B-009#264:6>
+Love ,
+
+<ICE-HK:W1B-009#265:6>
+Christa
+
+<ICE-HK:W1B-009#266:6>
+12/11/92 </I>

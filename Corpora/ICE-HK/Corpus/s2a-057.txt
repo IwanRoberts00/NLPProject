@@ -1,0 +1,570 @@
+<I> 
+
+<$A>   
+<ICE-HK:S2A-057#1:1:A>
+ Uh welcome to the  <,>  GIS seminar and three D visualization
+ 
+<ICE-HK:S2A-057#2:1:A>
+ Uh  <,>  in this session we  ' ll simply introduce uh  <,>  what GIS and
+what kind of uh service that we can do and uh  <,>  we also specialize in three
+D presentation if one day you think you want to present your idea in three D
+you can come to us  <,>  or you can come to us to learn  <,,>  or we can learn
+together okay
+ 
+<ICE-HK:S2A-057#3:1:A>
+ Uh first of all uh I would like to welcome everybody to this seminar
+ 
+<ICE-HK:S2A-057#4:1:A>
+ Uh uh we are from Rising More Limited
+ 
+<ICE-HK:S2A-057#5:1:A>
+ My name is Vincent Chan and the  <,>  guy is who  ' s  <.>  go  </.>  going to do the demonstration is Yves Dehouck
+ 
+<ICE-HK:S2A-057#6:1:A>
+ Is he  <,>  he  ' s also one of the GIS consultant in our company  <,> 
+ 
+<ICE-HK:S2A-057#7:1:A>
+ I want to know how many of you have been working with GIS or you are
+really interested in GIS  <,> 
+ 
+<ICE-HK:S2A-057#8:1:A>
+ Please raise your hand  <,> 
+ 
+<ICE-HK:S2A-057#9:1:A>
+ Just one  <,>  okay
+ 
+<ICE-HK:S2A-057#10:1:A>
+ So the rest is for three D
+ 
+<ICE-HK:S2A-057#11:1:A>
+ So maybe we talk  <,>  in private and  <,>  we have three D
+demonstration  <,>  okay
+ 
+<ICE-HK:S2A-057#12:1:A>
+ But anyway we register to have this seminar so we would like to
+start with the GIS  <,>  first
+ 
+<ICE-HK:S2A-057#13:1:A>
+ But before I  <,>  start I would like to  <,>  let you know uh  <,> 
+what  ' s Rising More
+ 
+<ICE-HK:S2A-057#14:1:A>
+ It seems the name is strange right
+ 
+<ICE-HK:S2A-057#15:1:A>
+ It  ' s doesn't like a  <,>  CAD expert or  <,>  nothing related to CAD
+ 
+<ICE-HK:S2A-057#16:1:A>
+ The name is irrelevant  <,>  and actually Rising More Limited is
+expert in providing CAD solution  <,>  uh and  <,>  we are working closely with
+lots of great company to do uh  <,>  CAD system
+ 
+<ICE-HK:S2A-057#17:1:A>
+ And also  <,>  we provide CAD and database linkage  <,>  okay
+ 
+<ICE-HK:S2A-057#18:1:A>
+ So actually uh we  ' ll have a concept of the GIS explain to you  <,> 
+ 
+<ICE-HK:S2A-057#19:1:A>
+ That  ' s what we are expert in  <,,> 
+ 
+<ICE-HK:S2A-057#20:1:A>
+ That  ' s the topic  <,,> 
+ 
+<ICE-HK:S2A-057#21:1:A>
+ Okay actually uh we are a group of people who are really  <,>  uh
+keen in GIS
+ 
+<ICE-HK:S2A-057#22:1:A>
+ We want to do more on  <,>  on CAD
+ 
+<ICE-HK:S2A-057#23:1:A>
+ That  ' s why uh we provide  <,>  all the services related to CAD
+ 
+<ICE-HK:S2A-057#24:1:A>
+ And we organize a  <,>  group of a user group  <,>  call CAD Role
+ 
+<ICE-HK:S2A-057#25:1:A>
+ If you got the information brochure you  ' ll see we organize a  <,> 
+user group call CAD Role
+ 
+<ICE-HK:S2A-057#26:1:A>
+ And we have almost sixty members  <,>  uh  <,>  now
+ 
+<ICE-HK:S2A-057#27:1:A>
+ We start our first meeting on on on first of May and we now have
+sixty members
+ 
+<ICE-HK:S2A-057#28:1:A>
+ Uh some of them from corporation some of them from individual
+ 
+<ICE-HK:S2A-057#29:1:A>
+ Actually we work together to see  <,>  how can we improve the CAD
+status in Hong Kong or  <,>  if you are draughtsman or you  ' re  <,>  CAD people
+how can we make more  <,>   <.>  recogni  </.>   <.>  nition  </.>  for us in this society  <,>  okay
+ 
+<ICE-HK:S2A-057#30:1:A>
+ And uhm we also uh  <,>  provide service in doing the GIS okay
+ 
+<ICE-HK:S2A-057#31:1:A>
+ Now  <,>  I would like to explain what  ' s the concept of GIS  <,,> 
+ 
+<ICE-HK:S2A-057#32:1:A>
+ Actually GIS is not a mystery
+ 
+<ICE-HK:S2A-057#33:1:A>
+ It  ' s really easy and simple  <,> 
+ 
+<ICE-HK:S2A-057#34:1:A>
+ Before I  <,>  start GIS uh  <,>  I think some course in university
+about cadography I thought it  ' s  <?>  not  </?>  so difficult
+ 
+<ICE-HK:S2A-057#35:1:A>
+ But after I  <,>  touch the GIS too I found it  ' s interesting and it  ' s
+not that difficult
+ 
+<ICE-HK:S2A-057#36:1:A>
+ Actually the 
+GIS is two things combine together  <,>  the CADD and
+DBI
+ 
+<ICE-HK:S2A-057#37:1:A>
+ The CADD is Computer-Aided Design and Draughting okay
+ 
+<ICE-HK:S2A-057#38:1:A>
+ We usually have uh  <,>  in old in the past  <,>  people usually have
+their own display system
+ 
+<ICE-HK:S2A-057#39:1:A>
+ They would their  <,>  they would have their graphic engine for the
+GIS  <,>  okay  <,> 
+ 
+<ICE-HK:S2A-057#40:1:A>
+ That  ' s why they always have problem because uh usually if you are
+specialize in  <,>  database you may not specialize in computer graphics
+ 
+<ICE-HK:S2A-057#41:1:A>
+ So  <,>  you when you update the database you may not update the
+graphic engine or  <.>  up  </.>  update the other part
+ 
+<ICE-HK:S2A-057#42:1:A>
+ So uhm  <,>  in the early eighties people try to use the stated
+graphic engine like Autocad to develop their GIS package
+ 
+<ICE-HK:S2A-057#43:1:A>
+ So they use Autocad as their graphic engine to display all the
+visualization thing in Autocad
+ 
+<ICE-HK:S2A-057#44:1:A>
+ And  <,>  they can link up with different database management program
+like Oracle uh even uh dBase four  <,>  uh  <?>  Informake  </?>  different
+kind of database can be linked together
+ 
+<ICE-HK:S2A-057#45:1:A>
+ Especially uhm  <,>  Autocad has their ASE  <,>  okay
+ 
+<ICE-HK:S2A-057#46:1:A>
+ Uh  <,>  Autocad Sico  <,>  Extension that you can link  <,>  your CAD
+drawing in a with a database  <,>  okay
+ 
+<ICE-HK:S2A-057#47:1:A>
+ Actually GIS is this  <,>   <.>  ju  </.>  just the concept  <,>  okay
+ 
+<ICE-HK:S2A-057#48:1:A>
+ What  ' s the common operation in GIS  <,>  okay
+ 
+<ICE-HK:S2A-057#49:1:A>
+ First is to locate  <,>  okay
+ 
+<ICE-HK:S2A-057#50:1:A>
+ For example if I got an application  <,>  to do uh  <,>  just for
+example to do uh  <,>  chain store management or I am the boss of Seven-Eleven
+ <,>  I want to know  <,>  how many store I have in Tsim Sha Tsui  <,>  or  <,>  in
+certain area okay
+ 
+<ICE-HK:S2A-057#51:1:A>
+ Maybe I live in  <,>  uh Tsim Sha Tsui I want to know  <,>  where can
+where  ' s the closest  <,>  uh Seven-Eleven store or how many  <,>  alternative that
+I have
+ 
+<ICE-HK:S2A-057#52:1:A>
+ Or where  ' s my competitor  <,>  okay
+ 
+<ICE-HK:S2A-057#53:1:A>
+ I can locate it on the map
+ 
+<ICE-HK:S2A-057#54:1:A>
+ If you have a  <,>  directory you can go through the directory but
+you don't know where  ' s the exact location
+ 
+<ICE-HK:S2A-057#55:1:A>
+ If you look at Nathan Road  <,>  okay maybe you just turn around in a
+side street in  <,>  next to Nathan Road and you don't know  <?>  where it  </?> 
+is
+ 
+<ICE-HK:S2A-057#56:1:A>
+ But  <,>  in a map they can connect with the database then you can
+see
+ 
+<ICE-HK:S2A-057#57:1:A>
+ And later on Yves will  <,>  demonstrate you how  <,>  can we  <,>  put
+two things together  <,>  okay
+ 
+<ICE-HK:S2A-057#58:1:A>
+ And you may have conditional search okay
+ 
+<ICE-HK:S2A-057#59:1:A>
+ If I  ' m a  <,>   <?>  Jimage  </?>  people I want to see  <,>  uh  <,>  how  ' s
+the  <?>  Jimage  </?>  system in my area or how  ' s the  <,>   <?>  Jimage  </?>  system
+near the Governor  ' s  <,>  area
+ 
+<ICE-HK:S2A-057#60:1:A>
+ I don't want he got problem  <,>  and complain to my department
+ 
+<ICE-HK:S2A-057#61:1:A>
+ So I would like to  <,>  fix all the  <?>  Jimage  </?>  within one mile
+ <,>  in his house  <,>  around his house so  <,>  I can have conditional search
+ <,>  search  <,>  provide me all the information about the  <?>  Jimage  </?> 
+within one mile  <,>  around the Governor  ' s house
+ 
+<ICE-HK:S2A-057#62:1:A>
+ So you can set the conditional  <,>  okay
+ 
+<ICE-HK:S2A-057#63:1:A>
+ Uh maybe  <,>  give me all the  <.>  inform  </.>  uh all the information
+about the  <?>  Jimage  </?>  system that haven't been maintained for last five
+years  <,>  okay
+ 
+<ICE-HK:S2A-057#64:1:A>
+ You can have give  <,>  you can give condition  <,>  on the date on the
+time or on the cause of anything  <,>  okay
+ 
+<ICE-HK:S2A-057#65:1:A>
+ At the annotation  <,>  uh  <,>  there  ' re some text that  ' s not related
+with the database  <,>  okay
+ 
+<ICE-HK:S2A-057#66:1:A>
+  <.>  May  </.>  Maybe there are symbol of the some  <,>  uh texts uh say
+this is a line three or whatever  <,>  okay
+ 
+<ICE-HK:S2A-057#67:1:A>
+ Some annotation  <,>  is also put it there
+ 
+<ICE-HK:S2A-057#68:1:A>
+ Or spatial analysis  <,>  okay
+ 
+<ICE-HK:S2A-057#69:1:A>
+ The spatial analysis is uh spatial is something like a space
+ 
+<ICE-HK:S2A-057#70:1:A>
+ Maybe two D or three D
+ 
+<ICE-HK:S2A-057#71:1:A>
+ I want to check uh  <,>  where the closet  <,>  hospital  <,>  in my area
+ 
+<ICE-HK:S2A-057#72:1:A>
+ Or if I  ' m a  <,>  airline management people  <,> 
+ 
+<ICE-HK:S2A-057#73:1:A>
+ Accidentally there  ' s uh we have to  <,>  put on another airline to
+Vancouver because so much people going there
+ 
+<ICE-HK:S2A-057#74:1:A>
+ So  <,>  where  ' s the closest  <,>  crew that I can call them back to
+the office  <,>  okay
+ 
+<ICE-HK:S2A-057#75:1:A>
+ You can have a spatial analysis
+ 
+<ICE-HK:S2A-057#76:1:A>
+ Tell me  <,>  give me all the lists of my our employee that  ' s  <,> 
+near the airport within five mile  <,>  so they can be there  <,>  maybe in ten
+minute
+ 
+<ICE-HK:S2A-057#77:1:A>
+ So  <,>  there  ' s a spatial analysis
+ 
+<ICE-HK:S2A-057#78:1:A>
+ You can do some analysis  <,> 
+ 
+<ICE-HK:S2A-057#79:1:A>
+ Or network analysis
+ 
+<ICE-HK:S2A-057#80:1:A>
+ For example, I I  ' m controlling all the  <,>  uh water supply  <,>  okay
+ 
+<ICE-HK:S2A-057#81:1:A>
+ If the some water pipe damage in Nathan Road  <,>  who will be in uh
+ <,>  affected and which area should I turn off the all the water supply in
+order to fix the water pipe okay
+ 
+<ICE-HK:S2A-057#82:1:A>
+ Actually  <,>  if you want to evaluate a GIS system  <,>  it  ' s all
+these included okay
+ 
+<ICE-HK:S2A-057#83:1:A>
+ Uhm  <,>  there  ' s a  <,>  basic concept  <,>  and I want to show you a
+drawing  <,,> 
+ 
+<ICE-HK:S2A-057#84:1:A>
+ This is a CAD data model  <,>  uhm  <,>  if you use Autocad before you
+know that Autocad has different layer system
+ 
+<ICE-HK:S2A-057#85:1:A>
+ Actually  <,>  when they display or when they display uh  <,>  visually
+visual information they  ' ll put  <,>  different information in different layers
+in Autocad or even in Artcad or in other  <,>  GIS system they  ' ll do the same
+thing
+ 
+<ICE-HK:S2A-057#86:1:A>
+ For example I  ' ll have uh  <,>  the sports  <unc>  1-word  </unc> 
+street name or the utilities on different colour on different layer so you can
+view it  <,>  directly  <,>  okay
+ 
+<ICE-HK:S2A-057#87:1:A>
+ And in the  <,>  in the demonstration you  ' ll see how we put different
+things together in different layer
+ 
+<ICE-HK:S2A-057#88:1:A>
+ Where  ' s the building where  ' s the  <,>  utility  <,>  okay
+ 
+<ICE-HK:S2A-057#89:1:A>
+ Where  ' s the  <,>  tip of the  <unc>  1-word  </unc>  okay
+ 
+<ICE-HK:S2A-057#90:1:A>
+ Or how  ' s the land use  <,,> 
+ 
+<ICE-HK:S2A-057#91:1:A>
+ And then oh you can do all these in CAD
+ 
+<ICE-HK:S2A-057#92:1:A>
+ Why we need a GIS system  <,>  okay
+ 
+<ICE-HK:S2A-057#93:1:A>
+ We do all these in CAD but they have link directly to a database
+ 
+<ICE-HK:S2A-057#94:1:A>
+ Then it will have a  <,>  GIS data model  <,,>  okay
+ 
+<ICE-HK:S2A-057#95:1:A>
+ All this is CAD okay and this is database  <,>  okay
+ 
+<ICE-HK:S2A-057#96:1:A>
+ For example  <unc>  1-word  </unc>  is a  <unc>  1-word
+ </unc>  uh  <,>  a building or a  <,>  a lot of  <,>  of land how can it  <,> 
+connected to my database
+ 
+<ICE-HK:S2A-057#97:1:A>
+ Usually they will have a reference number or  <,>  identifier you  ' ll
+see
+ 
+<ICE-HK:S2A-057#98:1:A>
+ So  <,>  in the screen you  ' ll see this
+ 
+<ICE-HK:S2A-057#99:1:A>
+ But actually this area is linked up to record in a  <,>  in the
+database file  <,>  or they in the database  <,>  they will interlink with other
+information
+ 
+<ICE-HK:S2A-057#100:1:A>
+ Sometimes you may have more than one database model  <,>  maybe up
+to ten or twenty
+ 
+<ICE-HK:S2A-057#101:1:A>
+ Uh in our  <,>  application we have  <,>  more than ten database link
+up together
+ 
+<ICE-HK:S2A-057#102:1:A>
+ So maybe  <,>  uhm this is the  <unc>  2 WORDS  </unc>  but  <,> 
+you may have another database holding all the people  ' s income or the land
+value or  <,>  different information
+ 
+<ICE-HK:S2A-057#103:1:A>
+ You can have different database link up together with the same  <,> 
+identifier
+ 
+<ICE-HK:S2A-057#104:1:A>
+ So  <,>  uhm this is a really typical GIS  <,>  what I what does it
+mean by typical GIS
+ 
+<ICE-HK:S2A-057#105:1:A>
+ When  <,>  they start the GIS they usually apply it to  <,>  land
+information system  <,>  or something like that okay
+ 
+<ICE-HK:S2A-057#106:1:A>
+ But actually uhm  <,>  for Rising More  <,>  we didn't do anything on
+this  <,>  so  <,>  we are not in GIS field
+ 
+<ICE-HK:S2A-057#107:1:A>
+ No we are
+ 
+<ICE-HK:S2A-057#108:1:A>
+ Because  <,>  we feel that uh the GIS  <,>  is not only for big system
+like this
+ 
+<ICE-HK:S2A-057#109:1:A>
+ It may be  <,>  for example this  <,>  what I explained before uhm  <,> 
+do some management on  <,>  rendering machine or  <unc>  1-word  </unc>  uh
+management system or a chain store management
+ 
+<ICE-HK:S2A-057#110:1:A>
+ So we can apply to different vertical market with the same concept
+ <,,> 
+ 
+<ICE-HK:S2A-057#111:1:A>
+ This drawing can clearly explain  <,>  what we see in Autocad and
+what it represent actually  <,>  okay
+ 
+<ICE-HK:S2A-057#112:1:A>
+ For this part  <,>  is you what you see in Autocad  <,>  some land
+some arch some pattern  <,> 
+ 
+<ICE-HK:S2A-057#113:1:A>
+ But you can't see what  ' s in
+ 
+<ICE-HK:S2A-057#114:1:A>
+ Actually  <,>  uh the Autocad drawing represent a real area or real
+site uh as GIS okay
+ 
+<ICE-HK:S2A-057#115:1:A>
+ You  ' ve may have building area  <,>  okay
+ 
+<ICE-HK:S2A-057#116:1:A>
+ Uh maybe here  ' s here  ' s a  <unc>  1-word  </unc>   <,>  that
+holding all the information about that piece of land who  ' s the landlord who  ' s
+the owner  <,>  what  ' s the value of the  <.>  piec  </.>  piece of land  <,>  okay
+ 
+<ICE-HK:S2A-057#117:1:A>
+ For example  <?>  here  </?>   <,>  is a pipeline  <,>  actually is  <,>  is
+a pipeline here  <,> 
+ 
+<ICE-HK:S2A-057#118:1:A>
+ So the pipeline may be uh  <,>  electrical  <,>  line or it  ' s a  <,> 
+telephone line or it  ' s a water pipe supply or drainage or sewage
+ 
+<ICE-HK:S2A-057#119:1:A>
+ It  ' s different information can be kept
+ 
+<ICE-HK:S2A-057#120:1:A>
+ So  <,>  what you see in the drawing is represent this
+ 
+<ICE-HK:S2A-057#121:1:A>
+ But  <,>  all this information  <,>  you may keep it in a database  <,> 
+okay
+ 
+<ICE-HK:S2A-057#122:1:A>
+ But when we load up the drawing they interlink each other together
+ <,>  and it widely used  <,>  worldwide
+ 
+<ICE-HK:S2A-057#123:1:A>
+ People use all this  <,>  they start using GIS more and more because
+ <,>  we not only want to visualize it we want the information  <,>  okay
+ 
+<ICE-HK:S2A-057#124:1:A>
+ In the past we may have two thing  <,>  a drawing paper  <,>  and a
+list of the data they will merge okay
+ 
+<ICE-HK:S2A-057#125:1:A>
+ Then you don't know what  ' s going on after 5 minute looking at
+different files
+ 
+<ICE-HK:S2A-057#126:1:A>
+ But the  <,>  the same thing  <,>  we have pick the information
+ 
+<ICE-HK:S2A-057#127:1:A>
+ For example pick the pipe in the drawing  <,>  where is when was the
+pipe make or when  ' s the last maintenance I don't know okay
+ 
+<ICE-HK:S2A-057#128:1:A>
+ Then quit Autocad go into database  <,>  look at the  <,>  information
+of the pipe
+ 
+<ICE-HK:S2A-057#129:1:A>
+ But now we integrate two things together
+ 
+<ICE-HK:S2A-057#130:1:A>
+ We just pick the point  <,>  we will see all the information  <,>  of
+the pipeline because they link  <,>  directly to the  <,>  database file
+ 
+<ICE-HK:S2A-057#131:1:A>
+ Actually that  ' s the concept of GIS  <,,> 
+ 
+<ICE-HK:S2A-057#132:1:A>
+ Because we don't have too much time  <,>  I don't want to go through
+all my slides so  <,>  uh I think Yves has been waiting for long  <,>  for his
+demonstration
+ 
+<ICE-HK:S2A-057#133:1:A>
+ Uhm  <,>  in nineteen ninety one we start a project for  <,> 
+Hutchison paging
+ 
+<ICE-HK:S2A-057#134:1:A>
+ That  ' s our first  <,>  uh  <,>  I think is  <,>  yes nineteen ninety one
+we start the project for Hutchison
+ 
+<ICE-HK:S2A-057#135:1:A>
+ They said we need the system within three month  <,>  finish all the
+map of Hong Kong for me  <,>  finish the whole application design the database
+ 
+<ICE-HK:S2A-057#136:1:A>
+ And within three months time we deliver them a system
+ 
+<ICE-HK:S2A-057#137:1:A>
+ They are using it now
+ 
+<ICE-HK:S2A-057#138:1:A>
+ They  ' re really happy about it
+ 
+<ICE-HK:S2A-057#139:1:A>
+ This system manage all the CT two  <,>  station  <,>  in Hong Kong
+ 
+<ICE-HK:S2A-057#140:1:A>
+ Yes do  <,>  do you know what CT two
+ 
+<ICE-HK:S2A-057#141:1:A>
+ The  <,>  uh  <indig>  Tien Dey Sien  </indig> 
+ 
+<ICE-HK:S2A-057#142:1:A>
+ He speak Chinese I speak  <,>  sort of English  <,>  okay
+ 
+<ICE-HK:S2A-057#143:1:A>
+ Uhm  <,>  and this system is integrated with database management and
+Autocad and GIS together
+ 
+<ICE-HK:S2A-057#144:1:A>
+ Maybe  <,>  I pass the time to Yves
+ 
+<ICE-HK:S2A-057#145:1:A>
+ Maybe you have  <,>  you can brief  <,>  your system a little bit  <O> 
+Demonstration-by-Yves  </O> 
+
+<$A>   
+<ICE-HK:S2A-057#146:1:A>
+ Okay thank you Yves  <,,> 
+ 
+<ICE-HK:S2A-057#147:1:A>
+ Actually uh what you think about GIS is not only uh  <,> 
+traditional  <,>  uh geographic management or information system  <,>  should be
+something more vertical
+ 
+<ICE-HK:S2A-057#148:1:A>
+ I always think about  <.>  ver  </.>  the vertical market  <,> 
+ 
+<ICE-HK:S2A-057#149:1:A>
+ Not the land building and land  <,>  user but the  <,>  some of the
+commercial people maybe to the Cathay Pacific how to manage their staff  <,> 
+uh  <,>  or Coca-Cola how to manage their rendering machine
+ 
+<ICE-HK:S2A-057#150:1:A>
+ That  ' s what  <,>  kind of our vertical market that we concentrate on
+rather than the traditional uh GIS application  <,> 
+ 
+<ICE-HK:S2A-057#151:1:A>
+ Okay uhm this uh if you got  <,>  any question you can ask later or
+ <,>  you can go to the next room we  ' ll be there for better full demonstration
+because what you see  <,>  is around uh may be twenty percent of the system
+ 
+<ICE-HK:S2A-057#152:1:A>
+ There  ' s still lots of function that we don't have time to show  <,> 
+okay  <,,>   </I> 
+

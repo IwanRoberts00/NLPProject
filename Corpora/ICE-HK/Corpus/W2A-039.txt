@@ -1,0 +1,809 @@
+<I> <h>
+
+<ICE-HK:W2A-039#1:1>
+<bold> On the Requirements of Designated Refuge Floors in High-rise
+Buildings </bold> </h> <h>
+
+<ICE-HK:W2A-039#2:1>
+<bold> Abstract: </bold> </h>
+
+<p> 
+<ICE-HK:W2A-039#3:1>
+In the recent decade , high-rise/ultra high-rise buildings have
+been erected throughout Hong Kong Fire safety of the occupants in these
+buildings is one of the major concern of building designers .
+
+<ICE-HK:W2A-039#4:1>
+An evacuation system is not the first step of fire safety design in
+buildings , yet it cannot be eliminated , as a hazard free environment cannot
+be provided .
+
+<ICE-HK:W2A-039#5:1>
+In relation to the escape from high-rise buildings , the introduction
+of designated refuge floors has been stipulated in the newly published Code
+of Practice on Means of Escape of Hong Kong .
+
+<ICE-HK:W2A-039#6:1>
+Such requirement has a major influence on the design of high-rise
+buildings , yet its usefulness is not fully explored .
+
+<ICE-HK:W2A-039#7:1>
+This paper discusses on the conceptual idea of using designated refuge
+floor and introduces some ongoing research areas. </p> <h>
+
+<ICE-HK:W2A-039#8:1>
+<bold> Introduction </bold> </h>
+
+<p> 
+<ICE-HK:W2A-039#9:1>
+In view of the growth of population , changes in family structure
+, and an increase in business activities , the demand for built space in Hong
+Kong has grown rapidly in the past two decades .
+
+<ICE-HK:W2A-039#10:1>
+Numerous high-rise or ultra high-rise buildings <fnr> </fnr> have
+been erected .
+
+<ICE-HK:W2A-039#11:1>
+Office , commercial and private residential buildings erected in the
+recent decade are commonly over 40 storeys .
+
+<ICE-HK:W2A-039#12:1>
+This implies that a large number of people in Hong Kong live and work
+at a high level .
+
+<ICE-HK:W2A-039#13:1>
+There is no doubt that the government authorities , the building
+designers as well as the people of Hong Kong are concerned for the safety of
+the occupants inside these buildings especially under fire or emergency
+situations .
+
+<ICE-HK:W2A-039#14:1>
+In relation to the escape from high-rise buildings , the Hong Kong
+Government has stipulated in the Code of Practice on Means of Escape &obrack;  1 &cbrack; 
+that designated refuge floors should be provided in some of these buildings .
+
+<ICE-HK:W2A-039#15:1>
+The provision of an area for refuge is not a new concept .
+
+<ICE-HK:W2A-039#16:1>
+For example , in the NFPA101 Life safety Code &obrack;  2 &cbrack; , the functions of
+areas of refuge are expressed as to improved the usability of means of egress
+for some occupants of the building , and to provide greater flexibility in
+the provision of means of egress .
+
+<ICE-HK:W2A-039#17:1>
+However , the requirement to designated a complete floor for refuge
+purpose is apparently not included in the fire codes of most developed
+countries .
+
+<ICE-HK:W2A-039#18:1>
+</p>
+
+<p> 
+<ICE-HK:W2A-039#19:1>
+This paper provides a discussion on the use of designated refuge
+floor taking into account the views from different parties .
+
+<ICE-HK:W2A-039#20:1>
+In addition , a brief introduction about the author  ' s ongoing
+research works related to this aspect is given </p> . <h>
+
+<ICE-HK:W2A-039#21:1>
+<bold> Backgrounds </bold> </h>
+
+<p> 
+<ICE-HK:W2A-039#22:1>
+Fire safety design in building is one of the major aspects that
+should be scrutinized by the Building authority prior to approval of general
+building plans .
+
+<ICE-HK:W2A-039#23:1>
+The fire safety design is mainly governed by the prescriptive codes
+of practices published by the Buildings Department and the Fire
+Services Department . </p>
+
+<p> 
+<ICE-HK:W2A-039#24:1>
+Of all the fire codes , the Code of Practice on Means of Escape
+was the first published and came 9into operation of 1st January 1960 .
+
+<ICE-HK:W2A-039#25:1>
+It provides guidance for the design of the sizes and capacities of
+various building elements in respect to evacuation purpose .
+
+<ICE-HK:W2A-039#26:1>
+Although some minor amendments have been added to the code over the
+intervening years , the majority of the requirements have not been updated
+since its first publication .
+
+<ICE-HK:W2A-039#27:1>
+In 1990 , the Hong Kong Government decided to update the requirements
+in the code and a working party on the review of the Code of Practice on
+Means of Escape was established .
+
+<ICE-HK:W2A-039#28:1>
+Subsequent to the extensive consultation , the new edition of the
+code of practice was published in late 1996 .
+
+<ICE-HK:W2A-039#29:1>
+One of the contentious requirements in the new code is the provision
+of designated refuge floor(s &cbrack; in high-rise buildings. </p> <h>
+
+<ICE-HK:W2A-039#30:1>
+<bold> Some Regulators ' View on the use of Refuge Floors </bold> </h>
+
+<p> 
+<ICE-HK:W2A-039#31:1>
+In the code , a refuge floor is considered as part of the exit
+route in buildings .
+
+<ICE-HK:W2A-039#32:1>
+It acts as a safe place for a short rest before people continue to
+escape downwards as it is difficult for most people to walk down a tall
+building without pausing &obrack;  5 &cbrack; .
+
+<ICE-HK:W2A-039#33:1>
+It also acts as a safe passage for people using one staircase , when
+encountering smoke , fire or obstruction in that staircase and enables them
+to proceed to an alternative staircase .
+
+<ICE-HK:W2A-039#34:1>
+Additionally , it acts as a place of assembly for people to wait for
+rescue in case none of the staircases can be used due to smoke , fire or
+obstruction. </p>
+
+<p> 
+<ICE-HK:W2A-039#35:1>
+Obviously , the refuge floor is considered as a temporary safe
+place for the evacuees under fire situations .
+
+<ICE-HK:W2A-039#36:1>
+It is a placed adopted temporarily to reduce the effective &ldquo;
+travelling height &rdquo; of the evacuees .
+
+<ICE-HK:W2A-039#37:1>
+The major functions of a refuge floor are: </p>
+
+<p> 
+<ICE-HK:W2A-039#38:1>
+i &cbrack; acting as a relief area for the evacuees under fire
+situations; ii &cbrack; acting as a subbase for firefighting purpose; iii &cbrack; acting as
+a command point by the rescue personnel to assist orderly evacuation of the
+building; and iv &cbrack; acting as a place allowing the disable or partially
+disabled to wait for assistance before being evacuate to a place of ultimate
+safety . </p>
+
+<p> 
+<ICE-HK:W2A-039#39:1>
+The prime principle of life safety from fire in a building is
+that there should be a minimum of two staircases for the occupants to leave
+in order to ensure that at least one exit route is available at all times .
+
+<ICE-HK:W2A-039#40:1>
+However , there may still be the chance that all the staircases are
+blocked off .
+
+<ICE-HK:W2A-039#41:1>
+For example , in summer , 1995 , a fire occurred in a 10-storey
+residential/commercial building in North Point , Hong Kong .
+
+<ICE-HK:W2A-039#42:1>
+All the staircases were blocked by smoke before all the occupants had
+left the building .
+
+<ICE-HK:W2A-039#43:1>
+Under these circumstances about 30 to 40 evacuees escaped to the roof
+to await rescue &obrack;  6 &cbrack; .
+
+<ICE-HK:W2A-039#44:1>
+In this case , the roof served as a refuge area and eventually all
+the people were rescued .
+
+<ICE-HK:W2A-039#45:1>
+However , in some buildings , not all the staircases may lead to the
+roof and in some modern buildings , the roof forms may be either covered or
+pitched .
+
+<ICE-HK:W2A-039#46:1>
+In such buildings , if all the staircases were blocked by fire , the
+occupants ' lives would be at risk and refuge floors offer a safe alternative.
+</p> <h>
+
+<ICE-HK:W2A-039#47:1>
+<bold> The Criteria in a Achieving the Objectives </bold> </h>
+
+<p> 
+<ICE-HK:W2A-039#48:1>
+It has been mentioned &obrack;  7 &cbrack; that evacuees will normally experience
+fatigue while travelling in a downward direction after approaching nearly
+about 5 minutes &obrack;  i.e .
+
+<ICE-HK:W2A-039#49:1>
+about 300 seconds &cbrack; and 1 minute in an upward direction .
+
+<ICE-HK:W2A-039#50:1>
+The average speed of the evacuees ' travel down one storey with normal
+headroom of 2.8m per floor is about 16 seconds &obrack;  8 &cbrack; .
+
+<ICE-HK:W2A-039#51:1>
+In this connection , the fatigue will be in when the evacuees have
+travelled about 18 storeys downward .
+
+<ICE-HK:W2A-039#52:1>
+Based on this aspect , if the refuge floor is adopted as a &ldquo;
+rest place" , then the logical location of refuge floors is at about 18
+storey intervals .
+
+<ICE-HK:W2A-039#53:1>
+By allowing some deviation in storey height for different buildings
+and for different rate of movement of people , the Hong Kong  ' s new code &obrack;  1 &cbrack; 
+has stated that refuge floors should be provided in all buildings exceeding
+25 storeys at intervals of 20 storeys to 25 storeys. </p>
+
+<p> 
+<ICE-HK:W2A-039#54:1>
+To perform these functions well , a refuge floor should be a safe
+and comfortable place to stay in order to reduce the stress level of the
+evacuees during escape .
+
+<ICE-HK:W2A-039#55:1>
+It should have sufficient area to accommodate most of the occupants
+who are expected to temporarily halt at the floor &obrack;  5 &cbrack; .
+
+<ICE-HK:W2A-039#56:1>
+It should have adequate headroom , lighting , ventilation as well as
+guidance signage .
+
+<ICE-HK:W2A-039#57:1>
+As the refuge floor is considered a temporary safe place , it should
+have sufficient fire resisting properties &obrack;  2 hours Fire Resisting Period)
+and adequate ventilation to prevent the retention of smoke &obrack;  the area for
+refuge should be open-sided on at least two sides to provide adequate cross
+ventilation &cbrack; &obrack;  1 &cbrack; . </p>
+
+<p> 
+<ICE-HK:W2A-039#58:1>
+The design and layout of exit staircases requires evacuees to
+discharge into the refuge floor before being permitted to proceed downwards .
+
+<ICE-HK:W2A-039#59:1>
+By this method , the control of the evacuation process may be
+instituted at every refuge floor .
+
+<ICE-HK:W2A-039#60:1>
+The process can be illustrated by Figure 1. </p>
+
+<p> 
+<ICE-HK:W2A-039#61:1>
+As water that may accumulate on a refuge floor will affect the
+safety use of the area for refuge , a refuge floor should be suitably
+waterproof and drained. </p> <O> TABLE , DIAGRAM , GRAPH,ETC </O>
+
+<p> 
+<ICE-HK:W2A-039#62:1>
+The refuge floor mentioned above is considered as part of the
+exit system .
+
+<ICE-HK:W2A-039#63:1>
+It serves as an interim rest place for the people under evacuation
+and therefore , it is important to ensure that the area is free from
+obstructions with well-maintained signage and lighting .
+
+<ICE-HK:W2A-039#64:1>
+Good management therefore plays an essential role in maintaining the
+function of a refuge floor. </p>
+
+<p> 
+<ICE-HK:W2A-039#65:1>
+Adequate stimulating features , such as signage , should be
+provided at appropriate locations to assist in the wayfinding process .
+
+<ICE-HK:W2A-039#66:1>
+At the point of discharge and re-entry into exits , interactive
+emergency signs and voice communication methods may be used to direct
+evacuees &obrack;  5 &cbrack; . </p> <h>
+
+<ICE-HK:W2A-039#67:1>
+<bold> The Psychological Reaction of People </bold> </h>
+
+<p> 
+<ICE-HK:W2A-039#68:1>
+Apart from the points discussed above , the psychological effect
+of using refuge floor should need to consider as evacuation process involves
+people  ' s behavioral reactions .
+
+<ICE-HK:W2A-039#69:1>
+The use of a refuge floor may psychologically assist the people under
+evacuation process as this action involves a spatial problem solving process
+[ 9 &cbrack; .
+
+<ICE-HK:W2A-039#70:1>
+Cognitive mapping plays a central role in the people  ' s ability to
+solve spatial problem &obrack;  10 &cbrack; .
+
+<ICE-HK:W2A-039#71:1>
+The refuge floor that has been stored as an image within the users'
+cognitive map can influence the movement of the individual .
+
+<ICE-HK:W2A-039#72:1>
+This cognitive map will be built up by rehearsed fire drills that are
+considered essential in any properly managed high-rise building .
+
+<ICE-HK:W2A-039#73:1>
+This familiarity will encourage the users to approach the focal point
+- the refuge floor and organize their way to leave the building in a rational
+and controlled manner. </p>
+
+<p> 
+<ICE-HK:W2A-039#74:1>
+Under emergency situations , the people will experience
+environmental stress .
+
+<ICE-HK:W2A-039#75:1>
+There are three types of personal control , namely behavioral control
+, cognitive control and decisional control that people can exert over
+threatening circumstances &obrack;  11 &cbrack; .
+
+<ICE-HK:W2A-039#76:1>
+The behavioral control refers to actions that can directly modify the
+threatening event such as extinguishing the fire .
+
+<ICE-HK:W2A-039#77:1>
+Cognitive control refers to the way an individual interprets the
+threatening event .
+
+<ICE-HK:W2A-039#78:1>
+The presence of refuge floor can reassure users that the height of
+their escape is not extensive .
+
+<ICE-HK:W2A-039#79:1>
+The refuge floor serves as an image of safe place .
+
+<ICE-HK:W2A-039#80:1>
+The decisional control is defined in terms of the range of choices
+available to an individual .
+
+<ICE-HK:W2A-039#81:1>
+During evacuation from the highest floors of an ultra high-rise
+building , the refuge floor can serve as an intermediate point where the
+evacuees can have the choice of taking a rest , waiting for rescue or
+continuing the escape .
+
+<ICE-HK:W2A-039#82:1>
+Obviously , the refuge floor can psychologically assist the evacuees
+in reducing their stress during evacuation by offering cognitive and
+decisional control. </p>
+
+<p> 
+<ICE-HK:W2A-039#83:1>
+The refuge floor can serve as a basis for the firemen to fight
+the fire .
+
+<ICE-HK:W2A-039#84:1>
+Once people have reached a refuge floor and see fire fighters there ,
+they will be psychologically relieved and more confident of their personal
+safety .
+
+<ICE-HK:W2A-039#85:1>
+It may be due to the fact that a firefighter is in general a sign of
+safety in an evacuee  ' s cognitive image .
+
+<ICE-HK:W2A-039#86:1>
+The primary concept of refuge floors is to provide a place for a
+break and to release the people  ' s stress when they proceed down to the
+ultimate place of safety. </p> <O> TABLE , DIAGRAM , GRAPH,ETC </O>
+
+<p> 
+<ICE-HK:W2A-039#87:1>
+Moreover , at the refuge floor , passenger lifts not serving the
+fire floor can , with the assistance of fire fighters , also be used for
+people evacuating from the refuge floors .
+
+<ICE-HK:W2A-039#88:1>
+One of the arguments of not using lift for evacuation is that it is
+difficult to control the crowd movement if most of the people are under
+stress .
+
+<ICE-HK:W2A-039#89:1>
+Psychologically , the stress of the people at the refuge floor may be
+reduced .
+
+<ICE-HK:W2A-039#90:1>
+It may be feasible for the rescue personnel to control the evacuation
+process by using lifts .
+
+<ICE-HK:W2A-039#91:1>
+This is particularly important where the elderly , children or
+handicapped users are involved in the evacuation process. </p>
+
+<p> 
+<ICE-HK:W2A-039#92:1>
+In order to &ldquo; reinforce &rdquo; the image of refuge floors
+in the cognitive maps of the evacuees , the users of the building should be
+informed that the existence of refuge floors in the building .
+
+<ICE-HK:W2A-039#93:1>
+A plan showing the relative locations of refuge floors should be
+placed in a conspicuous part of the building such as at the main lift lobby .
+
+<ICE-HK:W2A-039#94:1>
+In addition , the general public should be educated that refuge
+floors are provided in high-rise/ ' ultra high-rise buildings and they are
+used as temporary safe places .
+
+<ICE-HK:W2A-039#95:1>
+If such ideas have been formulated in people  ' s minds , the stress
+level of those people situated at extremely high levels may be reduced .
+
+<ICE-HK:W2A-039#96:1>
+Staff training , the establishment of contingency planning and fire
+drills can be adopted to reinforce the refuge floor image. </p> <h>
+
+<ICE-HK:W2A-039#97:1>
+<bold> Some Arguments </bold> </h>
+
+<p> 
+<ICE-HK:W2A-039#98:1>
+The use of refuge floors in high-rise buildings as introduced by
+the new Hong Kong code was questioned by the construction professionals in
+that: </p>
+
+<p> 
+<ICE-HK:W2A-039#99:1>
+i &cbrack; Corridors and staircases are the protected routes of an exit
+system .
+
+<ICE-HK:W2A-039#100:1>
+These components are adequate to guide the evacuees to leave the
+building and an interim safe place may lead to &ldquo; extended travel
+&rdquo; and seems unnecessary .
+
+<ICE-HK:W2A-039#101:1>
+ii &cbrack; The fatigue that happens for some evacuees under extended travel
+in staircases may not create too much of a problem unless the density inside
+the staircase is so high that obstruction occurs .
+
+<ICE-HK:W2A-039#102:1>
+iii &cbrack; It is doubtful whether the evacuees will stay in the refuge
+floor and await rescue .
+
+<ICE-HK:W2A-039#103:1>
+The refuge floor seems merely useful for those who find difficulty
+in escape . </p> <h>
+
+<ICE-HK:W2A-039#104:1>
+<bold> Discussion on the Arguments </bold> </h>
+
+<p> 
+<ICE-HK:W2A-039#105:1>
+Travel in the protected routes may not be arduous if the
+building is not substantially high .
+
+<ICE-HK:W2A-039#106:1>
+In buildings over 40 storeys , which are commonly found in Hong Kong
+, evacuees ' travel time by moving continuously from the topmost floor to the
+ground level may require 10 to 12 minutes .
+
+<ICE-HK:W2A-039#107:1>
+Intermediate rest appears necessary for most people .
+
+<ICE-HK:W2A-039#108:1>
+If the staircase is crowded , such an obstruction may create a
+hazard to the evacuees as well as increasing the evacuation time of the
+people inside the building .
+
+<ICE-HK:W2A-039#109:1>
+In Hong Kong , most commercial buildings are densely populated and
+with these high populations , it may be particularly necessary to designate a
+place for refuge in those densely populated commercial buildings .
+
+<ICE-HK:W2A-039#110:1>
+Nevertheless , a detail study on the effectiveness of refuge floor
+with respect to the density of the building may be worth carrying out. </p>
+
+<p> 
+<ICE-HK:W2A-039#111:1>
+In residential buildings , the population density is not as high .
+
+<ICE-HK:W2A-039#112:1>
+But , the pre-evacuation time may be very long , especially when
+most of the occupants are asleep .
+
+<ICE-HK:W2A-039#113:1>
+The possibility that smoke or fire blocks all the staircases in the
+pre-evacuation period may be higher .
+
+<ICE-HK:W2A-039#114:1>
+Refuge floors may then be necessary to serve as a temporary safe
+place in the escape process. </p> <O> TABLE , DIAGRAM , GRAPH,ETC </O>
+
+<p> 
+<ICE-HK:W2A-039#115:1>
+The refuge floor is not primarily designed as a place for
+evacuees to remain and await for rescue but it may have to perform this role
+if all the escape routes below are blocked .
+
+<ICE-HK:W2A-039#116:1>
+Normally , it should be regarded as a buffer zone to assist the
+movement of the people in ultra high-rise buildings .
+
+<ICE-HK:W2A-039#117:1>
+A dependency on emergency management for effective evacuation of
+occupants from ultra high-rise buildings is always a problem .
+
+<ICE-HK:W2A-039#118:1>
+Thus , a concept where such dependency may be reduced should merit
+serious consideration &obrack;  12 &cbrack; .
+
+<ICE-HK:W2A-039#119:1>
+Refuge floors that serve as zones to reduce the effective height of
+a building can help engender phased evacuation and to simplify these
+processes. </p>
+
+<p> 
+<ICE-HK:W2A-039#120:1>
+If the fire doors of the staircase core are opened , smoke is
+able to migrate to the staircase .
+
+<ICE-HK:W2A-039#121:1>
+The refuge floor can be adopted to segregate the staircases into
+segments &obrack;  see figure 1 &cbrack; in order to prevent total smoke logging throughout
+the entire staircase. </p>
+
+<p> 
+<ICE-HK:W2A-039#122:1>
+Apart from the arguments mentioned above , the introduction of
+refuge floors can cause other problems .
+
+<ICE-HK:W2A-039#123:1>
+Maintaining the effectiveness of refuge floors may not be a simple
+matter .
+
+<ICE-HK:W2A-039#124:1>
+In view of the huge demand for floor space , unauthorized building
+works and unauthorized changes of use in buildings which can provide readily
+available floor space have always been a problem in Hong Kong and in most
+Asian countries &obrack;  13 &cbrack; .
+
+<ICE-HK:W2A-039#125:1>
+Refuge floors are readily available spaces that could be misused .
+
+<ICE-HK:W2A-039#126:1>
+From a management point of view , a refuge area that is an extended
+portion of the exit route will be easier to manage than a complete floor
+dedicated to refuge purposes .
+
+<ICE-HK:W2A-039#127:1>
+However , from a psychological point of view , the image of an
+extended portion of exit route may not be as effective as a complete refuge
+floor .
+
+<ICE-HK:W2A-039#128:1>
+The benefits of using refuge floors to release the psychological
+stress of the evacuees may be taken in account. </p>
+
+<p> 
+<ICE-HK:W2A-039#129:1>
+The regulators recognize the importance of good maintenance in
+the introduction of refuge floors .
+
+<ICE-HK:W2A-039#130:1>
+In the commentary accompanying the code &obrack;  5 &cbrack; , the building
+management in relation to the use of refuge floors has been spelt out .
+
+<ICE-HK:W2A-039#131:1>
+In order to maintain a clear and unobstructed refuge floor ,
+effective statutory control should be considered .
+
+<ICE-HK:W2A-039#132:1>
+The relevant authorities have the duty to carry out regular
+inspections of the refuge floors , which is regarded as part of the exit
+route .
+
+<ICE-HK:W2A-039#133:1>
+If an obstruction is noted , a &ldquo; fire hazard abatement notice
+&rdquo; &obrack;  under the Fire Services Ordinance &cbrack; or an &ldquo; illegal structure
+removal notice &rdquo; &obrack;  Under the Buildings Ordinance &cbrack; may be served to
+cause the obstructions to be removed .
+
+<ICE-HK:W2A-039#134:1>
+However , such approaches can only be regarded as passive means of
+control .
+
+<ICE-HK:W2A-039#135:1>
+In practice , its effectiveness should be questioned .
+
+<ICE-HK:W2A-039#136:1>
+A more positive approach could be the adoption of a certification
+system to ensure the efficiency of the refuge floors .
+
+<ICE-HK:W2A-039#137:1>
+The owners of the building would be required to produce a
+certificate issued by recognized persons or bodies annually &obrack;  or within a
+reasonable period of time &cbrack; to demonstrate the efficiency of the refuge floors .
+
+<ICE-HK:W2A-039#138:1>
+However , such arrangement may need amendment to current
+legislation. </p>
+
+<p> 
+<ICE-HK:W2A-039#139:1>
+Apart form the managerial problems , the use of refuge floors
+may increase the cost of construction especially where a complete floor for
+refuge purposes is incorporated into cross-wall construction as is commonly
+found in high-rise residential blocks .
+
+<ICE-HK:W2A-039#140:1>
+The new code takes into account of this in its provision for
+permitting part of the refuge floor to be used for building services &obrack;  with
+adequate fire separation &cbrack; and this permits staged pumping , for example , and
+other utilities at intermediate levels of the building .
+
+<ICE-HK:W2A-039#141:1>
+Nevertheless , the cost implication for the provision of refuge
+floor may need to be studied against its usefulness. </p>
+
+<p> 
+<ICE-HK:W2A-039#142:1>
+The effectiveness of refuge floor under fire situations may be
+impaired if the floor is affected by smoke from lower levels .
+
+<ICE-HK:W2A-039#143:1>
+The current requirements for cross ventilation may not guarantee
+that smoke logging will not occur particularly under adverse weather
+conditions .
+
+<ICE-HK:W2A-039#144:1>
+Further studies with respect to this aspect are necessary. </p> <h>
+
+<ICE-HK:W2A-039#145:1>
+<bold> Some Ongoing Research works </bold> </h>
+
+<p> 
+<ICE-HK:W2A-039#146:1>
+There exist some merits of using refuge floors , yet the
+effectiveness of refuge floors under fire situations has not been fully
+explored .
+
+<ICE-HK:W2A-039#147:1>
+The effectiveness of refuge floor may be impaired if the floor is
+affected by smoke from other levels .
+
+<ICE-HK:W2A-039#148:1>
+Smoke is one of the major causes of fatalities in fire and the
+requirements for cross ventilation in the code cannot guarantee that smoke
+logging will not occur particularly under adverse weather conditions. </p>
+
+<p> 
+<ICE-HK:W2A-039#149:1>
+Despite the importance of the smoke effect on refuge floors ,
+the effort devoted by the professionals to study the adequacy of refuge floor
+design is scarce .
+
+<ICE-HK:W2A-039#150:1>
+Perhaps , this may be due to the fact that many building codes in
+the world do not prescriptively require the provision of designated refuge
+floor .
+
+<ICE-HK:W2A-039#151:1>
+In fact , the existing methods , recommendations and guidelines on
+the design of smoke control systems did not address specifically to the
+refuge floor design &obrack;  14-20 &cbrack; . </p>
+
+<p> 
+<ICE-HK:W2A-039#152:1>
+Apart from the smoke effect on refuge floor , the evacuation
+pattern of occupants inside high-rise buildings with refuge floor should also
+be a major area of study. </p>
+
+<p> 
+<ICE-HK:W2A-039#153:1>
+Recently , the author has successfully obtained research grants
+from City University and Universities Research Grant Council to commence some
+studies: </p>
+
+<p> 
+<ICE-HK:W2A-039#154:1>
+the movement of smoke in buildings in relation to different
+designs parameters of refuge floors , orientation of the buildings ,
+staircases and other environmental factors such as weather using both the
+computational and experimental modelling techniques; the hazardous effects
+of the smoke to the evacuees in refuge floors; the effect of refuge floor
+with respect to the evacuation pattern; and the requirements with respect
+to the codification of the refuge floors in Hong Kong . </p>
+
+<p> 
+<ICE-HK:W2A-039#155:1>
+In studying the smoke movement pattern , it is recognized that
+wind flows around buildings have significant effect on the smoke movement
+around and inside buildings .
+
+<ICE-HK:W2A-039#156:1>
+Computational Fluid Dynamics &obrack;  CFD &cbrack; technique has been developed
+rapidly over the last decade to evaluate the interaction between wind and
+buildings numerically .
+
+<ICE-HK:W2A-039#157:1>
+However , the evaluation of wind-building-smoke movement interaction
+by CFD has received relatively little , if any , attention in the literature
+in the past .
+
+<ICE-HK:W2A-039#158:1>
+In City University of HK , the numerical prediction of wind flows
+around three-dimensional buildings has been studied for several years .
+
+<ICE-HK:W2A-039#159:1>
+A computer program-WIND 3D which includes solving the time-averaged
+Novier-stokes equations with the standard kai turbulence model by using
+the finite difference technique has been developed &obrack;  21 , 22 &cbrack; .
+
+<ICE-HK:W2A-039#160:1>
+WIND 3D can be used to calculate flows over single or groups of
+buildings and over flat terrain or uneven terrain , and to predict mean and
+fluctuating pressures , turbulence quantities , loads and vibrations for
+different wind directions .
+
+<ICE-HK:W2A-039#161:1>
+It is going to extend the model to predict smoke movement under
+different weather conditions and to carry out parametric studies on refuge
+floor design. </p>
+
+<p> 
+<ICE-HK:W2A-039#162:1>
+Refuge floor is considered as part of exit system .
+
+<ICE-HK:W2A-039#163:1>
+The prescriptive requirements of refuge floor design appear to be
+based on intuitive judgement and/ or simple derivation on the basis of
+mechanical flows of evacuees .
+
+<ICE-HK:W2A-039#164:1>
+Development of a comprehensive evacuation model can help to analyze
+the effectiveness of the prescriptive rules and assist the establishment of
+efficient escape strategy including the use of lifts for evacuation .
+
+<ICE-HK:W2A-039#165:1>
+A system evacuation model on the basis of state space modelling
+technique is going to develop .
+
+<ICE-HK:W2A-039#166:1>
+It is expected that the effectiveness of refuge floor on different
+types of buildings may be studied. </p> <h>
+
+<ICE-HK:W2A-039#167:1>
+<bold> Concluding Remarks </bold> </h>
+
+<p> 
+<ICE-HK:W2A-039#168:1>
+The refuge floor concept may facilitate the evacuation process
+in ultra high-rise buildings .
+
+<ICE-HK:W2A-039#169:1>
+It appears that its image can help to release the stress of the
+evacuees .
+
+<ICE-HK:W2A-039#170:1>
+It serves as a buffer zone and simplify the evacuation process
+whilst acting as a basepoint for the firefighters and rescue personnel to
+initiate escape by using lifts. </p>
+
+<p> 
+<ICE-HK:W2A-039#171:1>
+The provision of refuge is a prescriptive requirement in the
+Code of Practice .
+
+<ICE-HK:W2A-039#172:1>
+Such a provision appears to be desirable by the regulators as it
+relates to simple rules and has administrative convenience .
+
+<ICE-HK:W2A-039#173:1>
+In order to explore the effectiveness of using refuge floor ,
+comprehensive studies and long-term monitoring in all aspects including
+technical , social and economic aspects should be carried out .
+
+<ICE-HK:W2A-039#174:1>
+The author has started to carry out some studies and results will be
+published in coming articles. </p>
+
+</I>

@@ -1,0 +1,237 @@
+<I>
+uh so uh you are aware that some some people uh from
+english department to find those do some recording here so uh just keep quiet
+and you are uh don't make too much noise uh we ' ll one-word
+uh today we shall introduce the so call uh three dimensional
+conservation equations 
+now uh now this is the equation uh governing the fluid 
+frozen later on uh we shall use this equation to investigate the
+growth uh using these three equations
+and uh you can see that this equation is derived from uh law of
+conservation of mass one-word and energy
+uh in your first year you might already uh come across this equation
+but it ' s in one dimensional form but this year we shall look at it from a
+three dimensional uh approach because generally speaking all the fluid motion
+are three dimensional
+so we look at it from a general point of view and then later on we ' ll
+simplify this equation into two dimensional one dimensional and we apply this
+equation equations to some particular case 
+okay let ' s uh start with this uh continuity equation first
+uh continuity equation is actually the law of conversation of mass
+and to derive this let ' s look at this cubical elements delta x delta y and
+delta e z and let ' s consider the mass struck entering the six surfaces of
+its in it one-word element
+now uh on this surface on the y e z plane look at this uh delta y
+and delta e z
+the mass struck entering this is equal to density times the
+velocity times the area okay
+this is the mass struck entering and the mass struck leaving this
+ uh the opposite surface are parallel distance delta x is equal to
+ the original where your road u plus a great of change of this road q
+which we write because it ' s just in the x direction so so be around road u
+round x times delta x
+now this represent the increment if you cancel out delta x the
+delta x it means that this is the original road u plus a increment of delta
+increment of road u
+so this is the value at this side and then uh we have to multiply
+this by the area delta e z delta y
+so this is the mass of entering mass struck leaving here
+and so that uh like all the six surfaces the mass struck
+entering this q uh delta x delta y delta e z these it more critical element
+should be road u delta what y delta e z and road v
+v is the component in the of the velocity in the vertical direction
+or in the y direction
+we write v to represent the velocity in the y direction
+and then there is a similarly there is a value of w velocity
+component in the e z direction 
+so uh these three term add up is the mass entering it ' s cubical
+element while the mass leaving this cubical element is the original value
+times the great of change of this along their distance so uh we have these
+three add up is the mass leaving the mass leaving uh the element 
+so the mass entering and the mass leaving should be there will be a
+net value the net value is of course is equal to the mass leaving the
+element 
+the net value is equal to the mass leaving and minus the mass
+entering which uh should be equal to this value
+now so there is a incre if there is an increase on
+mass in the element the the volume of the element cannot change it must
+be delta x delta y delta e z
+so if there is an increase in mass in the element there must be a
+increase in density of the element density the element will be heavier and
+heavier with time
+because if what flows in and what goes out are not balance there
+must be an increase inside is that right
+the increase can only take place with an increase of density of the
+mass inside the element
+so this is a round road road is the density
+round road round t is the uh increase of density or increase of
+mass and this increase of density times the volume is the increase of mass
+inside the element
+so we can now write the equation cancel out all the terms the
+result is round road round t plus round road u round x plus round road u
+round road v round y plus round road w round z is equal to zero and this
+is known as the known as the continuity equation or this represent the
+law of conservation of mass 
+now this is a scatter form uh of writing out this equation
+in the cartesian coordinate
+now in ve very often in literatures we do not need not
+like to write this in a very complicated manner so we use the rector 
+symbol or the tenser symbol uh 
+in the rector symbol now this is written as the dot
+product of this dell operator and the velocity rector v okay
+so uh don't be scare by this symbol because it just try to help you
+to write the equation in a simpler manner 
+or in tenser location you write the equation in term of
+round x the sub k and you you sub k where this represent
+that they had the velocity in the x y e z directions okay
+so again is either the tenser location or the rector
+ location you can regard it as just a kind of symbols mathematical symbol
+so as to simplify the equation or you can write it uh very easily literature
+when we are going to express the same thing and in when you
+learn you your the mathematics you know that the the symbol of this dell
+operator is actually go to the i j k rector times the re 
+respective one-word while the velocity component 
+rector as uh also the i j k rector of u v w
+so the dot product of this is exactly the exactly this uh
+continuity equation 
+and sometimes you may also write the dot product call the 
+automatic call it divergence of this uh one-word 
+ rector v okay
+so anyway uh no matter where you see this equation uh you see
+either a complicated equation or this simplified form it just represent the
+same thing law of conversation of mass okay
+so uh this is the equation of law of conversation of mass uh which
+ the density is included in the in the one-word 
+so this means that uh the flow may be compressible or
+incompressible
+the equation will be true either the density changes or not 
+for the case of incompressible flow where the density do does not
+change uh you know what is the situation most of the flow density is
+remaining constant
+most of the fluid flow we ' re study the density is constant unless
+its velocity very very high as high as greater than mark number point three
+otherwise we treat the flow as what incompressible
+don't don't just say if you ' re looking at gas and then you think
+that gas is compressible so the flow is compressible
+this is wrong okay because what
+only when the velocity is reaching mark point three then the effect
+of compressibility is getting important and mark point three is what value
+the velocity of sound is what around three hundred and thirty meter
+per second so point three is one hundred meter per second
+and one hundred meter per second is around what three hundred and
+sixty kilometer per hour
+so even the highest speed train travel at the speed less than that
+isn't it
+it ' s only when you ' re talking about aircraft the movement of
+aircraft missile that the effect of compressibility is important
+so most of the fluid flow we study including gas or liquid
+liquid is of course incompressible for most situation
+so the fluid flow as incompressible so the equation actually we do
+not need to include this density in because density now become a constant
+this means that in the cubical element it can there cannot be
+increase in mass so the result is what flows in must be equal to what flows
+out okay
+so the this become the volume flow rate entering the control volume
+is equal to the volume flow rate leaving
+so let ' s eliminate the density from the equation so we eliminate
+the density because take out and from the from the one-word
+ 
+so you can neglect this value and for most of the flow we ' re
+studying uh we can look at it from the two dimensional point of view
+because very often the end effect is just a small proportion of the
+situation so to simplify the equation again we should assume that for most
+flow situation there will be no valuation in the e z direction
+so we leave we again eliminate distance uh w and then now the
+equation is the two d equation or two dimensional equation is just round u
+round x plus round v round y is equal to zero
+so this is the equation which we shall encounter most often
+it ' s just two dimensional that is only variation in the x and y
+direction okay
+so uh any equation or any velocity if it satisfy this
+continuity equation when it substitute into the equations and to make the
+ one-word or the one-word 
+differentiation
+we found that the result must be zero
+if it ' s not zero this means that is wrong okay
+this is the first criteria that we must satisfy of any pro 
+okay
+what flows in must equal to what flows out
+and in your year one you usually use it in a pipes which is one
+dimensional that is to say what entering the pipe must be equal to what
+leaving the pipe this is only one dimensional okay 
+so but this year we shall study mostly in the two dimensional
+approach a long pause 
+now and it is possible to absorb this equation by
+introducing a function call a scale function call sine a greek letter sine uh
+where if we define the velocity in the u component or in the x component as
+round sine round y and the velocity in the y component as round sine negative
+round sine round x or this is the definition of sine okay
+if we define this that way you substitute u and v into the
+continuity equation if you substitute in you just find out that result
+you can cancel out the two terms and the result is zero okay
+is that clear
+you uh because u is equal the continuity equation is round u round
+x plus round v round y equal to zero so you substitute here into that is
+round what round u
+u is round sine round y and then v is negative round round
+sine round x
+so this is the same so that ' s equal to zero this means that the
+definition of this scale formality just give out the result equal to zero
+which of course satisfy the continuity equation
+so if there exist a function of sine we we call this sine dream
+functions
+later on i ' ll give a name call dream function because it represent
+the dream line of the flow okay
+so uh if you it we call this dream function if there exist such a
+dream function uh defined that way then uh the result will satisfy the
+continuity equation uh as we have shown here 
+now uh we have introduced the equation in uh cartesian coordinate
+of delta x delta y and delta e z
+of course it is it they possible to derive the equation in a
+cylindrical coordinate of r one- word and e z component
+okay
+why we need cylindrical coordinate why
+anyone know
+ a circular plan
+yeah because many of the flow are pipes flow uh of cylindrical
+shape so if we can have the system in cylindrical coordinate uh when reduce
+the equations we will get a better or easier resolutions
+so in cylindrical coordinate it ' s possible to draw these elements
+into uh in cylindrical coordinate of r delta one-word 
+and then delta r and delta e z and then again you obtain a mass balance of
+ of mass conversation of mass over this element
+uh uh we ' re not going into that because uh it takes uh it mean
+the same meaning and it take some time
+in fact uh the the diverge dell dot v this operator in
+mathematics they can have some sort of transformations so it doesn't matter
+whether it ' s cartesian coordinate or cylindrical coordinate or even
+cylindrical coordinate
+it ' s uh you ' ll look up some mathematical table they have a
+equivalent transformation okay
+so in rector symbols is this one but in different
+coordinate they have different equation that can be found in many
+mathematical cable of this dell dot v
+the dot product of this uh gradient operator and the velocity
+ rector okay
+so it just take different form the physical meaning is exactly the
+same is just uh the continuity equation and occur also in incompressible
+flow we we do not need the the density term 
+and also it ' s easy to reduce this equation into two
+dimensional or one dimensional it ' s for example if there is no variation of
+the velocity in the one-word direction
+so this means that round something round one-word
+ is zero if there is no variation in the radial direction or r
+direction
+this means that uh round v round r is zero
+no variation one-word round something round
+ the uh this is if there is no variation
+so it ' s you can also reduce it into simpler form but the
+dream functions for this cylindrical coordinates uh may take different
+forms because that depend on whether the flow is axial symmetric uh if it ' s
+axial symmetric means it is sym symmetrical above the e z axis okay
+so if we have a circular body of this shape and the flow is x will
+be the same uh along this axis so there will be no vary no variation in the
+ one-word direction
+so it ' s symmetry symmetrical above this x uh e z x axis while
+in two dimensional flow it might be written in polar coordinates uh where
+there is no variation in the e z direction 

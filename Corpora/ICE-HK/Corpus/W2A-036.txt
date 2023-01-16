@@ -1,0 +1,567 @@
+<I>
+
+<ICE-HK:W2A-036#1:1>
+<h> <bold> Introduction of a Switched-Capacitor Based Boost Converter
+</bold> </h>
+
+<ICE-HK:W2A-036#2:1>
+<h> Y.C . Wong </h>
+
+<ICE-HK:W2A-036#3:1>
+Dept. of Electrical and Communications Engineering , Hong Kong
+Technical College &obrack;  Tsing Yi &cbrack; , 20 Tsing Yi Road , Tsing Yi , Hong Kong
+
+<p> 
+<ICE-HK:W2A-036#4:1>
+Abstract .
+
+<ICE-HK:W2A-036#5:1>
+A new type of switching-mode power supply , which contains no devices
+, is described .
+
+<ICE-HK:W2A-036#6:1>
+By avoiding inductors or transformers , the power supply presents high
+power density , small size and low weight .
+
+<ICE-HK:W2A-036#7:1>
+The controlled energy conversion is realized by using
+switched-capacitors .
+
+<ICE-HK:W2A-036#8:1>
+The switching frequency is fixed and the driving signals of the
+externally-controlled switchers are dictated by the feedback circuit of PWM
+type. </p>
+
+<ICE-HK:W2A-036#9:1>
+<h> 1 . Introduction </h>
+
+<p> 
+<ICE-HK:W2A-036#10:1>
+At present , most of the available DC-to-DC converters have small
+power density due to the presence of inductors and transformers in their
+basic structure .
+
+<ICE-HK:W2A-036#11:1>
+Increasing the switching frequency solved only partially the problem .
+</p>
+
+<p> 
+<ICE-HK:W2A-036#12:1>
+In order to realize DC power supplies of small size and low
+weight , magnetic elements have been replaced by controllable
+switched-capacitor &obrack;  SC &cbrack; circuits <sp> 1-3 </sp> .
+
+<ICE-HK:W2A-036#13:1>
+The early SC-based DC-to-DC converters had limited capacity of
+producing a constant output voltage for large changes in the load or even
+small changes in the input voltage .
+
+<ICE-HK:W2A-036#14:1>
+Here , the operation of another SC-based DC-to-DC step-up converter &obrack; 
+6V/9V &cbrack; is described . </p>
+
+<ICE-HK:W2A-036#15:1>
+<h> 2 . Converter Structure </h>
+
+<p> 
+<ICE-HK:W2A-036#16:1>
+The new converter &obrack;  Fig.1 &cbrack; contains two switched-capacitor
+circuits , each one formed by a capacitor &obrack;  C <sb> 1 </sb> or C <sb> 2 </sb>
+, both of the same value C &cbrack; and two externally controlled switches &obrack;  S <sb> 1
+</sb> , S, <sb> 3 </sb> and S <sb> 2 </sb> , S <sb> 4 </sb> respectively &cbrack; .
+
+<ICE-HK:W2A-036#17:1>
+They are operated in anti-symmetry , interchanging from a charging
+process to a discharging one in each half-cycle .
+
+<ICE-HK:W2A-036#18:1>
+Consequently , in each half cycle , one of the two capacitors
+provides the energy to the load .
+
+<ICE-HK:W2A-036#19:1>
+The output voltage is given by the sum between the input voltage and
+the voltage across the capacitor connected to the load .
+
+<ICE-HK:W2A-036#20:1>
+For ensuring a very small ripple in the output voltage , an
+additional capacitor , C <sb> 0 </sb> , is permanently connected in parallel
+to the load . </p> <O> A figure </O>
+
+<ICE-HK:W2A-036#21:1>
+<h> 3 . Converter Operator </h>
+
+<p> 
+<ICE-HK:W2A-036#22:1>
+The behavior of the externally controlled switches is dictated by
+the driving signals shown in Fig.2 .
+
+<ICE-HK:W2A-036#23:1>
+Accordingly , in each half-cycle , one switch is in  ' ON ' position ,
+and another one changes from the  ' ON ' position to the  ' OFF ' position ,
+determining two switching stages per half-cycle .
+
+<ICE-HK:W2A-036#24:1>
+The time in which the main switch conducts &obrack;  S <sb> 1 </sb> for the
+first half-cycle and S <sb> 2 </sb> for the second half-cycle &cbrack; is denoted by
+T <sb> on </sb> .
+
+<ICE-HK:W2A-036#25:1>
+The feedback circuit , of PWM type , operates in such a way , as to
+adjust by T <sb> on </sb> .
+
+<ICE-HK:W2A-036#26:1>
+Consequently , the output voltage is kept constant despite variations
+in the input voltage or load by changing the duration of the charging phase
+in each half-cycle .
+
+<ICE-HK:W2A-036#27:1>
+The switching frequency , f <sb> s </sb> , and as a consequence the
+switching period , T <sb> s </sb> &obrack;  T <sb> s </sb> =1/f <sb> s </sb>  &cbrack; is
+kept constant . </p>
+
+<p> 
+<ICE-HK:W2A-036#28:1>
+According to the driving diagram , the power stage goes through
+four switching topologies in each cycle &obrack;  Fig.3 &cbrack; .
+
+<ICE-HK:W2A-036#29:1>
+In the first one , capacitor C <sb> 1 </sb> is charged until the
+value V <sb> Cmax </sb> , and capacitor C <sb> 2 </sb> begins its discharge
+on the load from its initial value V <sb> Cmax <sb> &obrack;  Fig . 4 &cbrack; .
+
+<ICE-HK:W2A-036#30:1>
+This value has been reached at the end of the third state in the
+previous cycle .
+
+<ICE-HK:W2A-036#31:1>
+During the second cyclical state , C <sb> 1 </sb> is disconnected and
+C <sb> 2 </sb> continues its discharging .
+
+<ICE-HK:W2A-036#32:1>
+At the end of the state <space> , the voltage across C <sb> 2 </sb>
+reaches the values V <sb> Cmin </sb> .
+
+<ICE-HK:W2A-036#33:1>
+The output voltage , V <sb> L </sb> is given by the sum between the
+source voltage , V <sb> 1 </sb> , and the voltage across the discharging
+capacitor C <sb> 2 </sb> .
+
+<ICE-HK:W2A-036#34:1>
+In the second half-cycle the process is repeated , with C <sb> 1
+</sb> and C <sb> 2 </sb> interchanging their roles. </p>
+
+<p> 
+<ICE-HK:W2A-036#35:1>
+The design of the capacitor values , C <sb> 1 </sb> and C <sb> 2
+</sb> , and of the half-cycle duration &obrack;  T <sb> s </sb> / 2 &cbrack; is accomplished
+in such a way as to keep the difference between V <sb> Cmax </sb> and V <sb>
+Cmin </sb> at a small value , thus ensuring high efficiency and small output
+ripple .
+
+<ICE-HK:W2A-036#36:1>
+The ripple in the output voltage is further smoothed by capacitor C
+<sb> 0 </sb> . V <sb> Cmax </sb> is a bit smaller than V <sb> 1 </sb> <+> .
+</+>
+
+<ICE-HK:W2A-036#37:1>
+&obrack;  Each charging circuit , either in state 1 or state 3 , is formed by
+the line voltage , a diode , a switch and the charging capacitor .
+
+<ICE-HK:W2A-036#38:1>
+V <sb> Cmax </sb> cannot reach V <sb> 1 </sb> due to the voltage <O>
+A figure </O> drops on the parasitic resistance of the switch , capacitor and
+the forward voltage on the diode in conduction , V <sb> D </sb>  &cbrack; .
+
+<ICE-HK:W2A-036#39:1>
+By designing the converter in such a way that V <sb> Cmin </sb> has a
+close value to V <sb> Cmax </sb> , the average input current in the charging
+circuit is kept minimum , ensuring high efficiency .
+
+<ICE-HK:W2A-036#40:1>
+Its peak is proportional to &obrack;  V <sb> 1 </sb> -V <sb> Cmin </sb>  &cbrack; .
+</p> <O> 2 figures </O>
+
+<p> 
+<ICE-HK:W2A-036#41:1>
+The externally controlled switches are driven by DS0026 chips ,
+which ensure a reduced delay time at the switches turn on/off , diminishing
+the switching losses .
+
+<ICE-HK:W2A-036#42:1>
+No transformations are used in the feedback circuit , to keep with
+the goal of a magnetic-free regulator . </p>
+</I>
+
+<I>
+
+<ICE-HK:W2A-036#43:2>
+<h> <bold> Quality assurance and testing in the construction industry
+</bold> </h>
+
+<ICE-HK:W2A-036#44:2>
+By Ir C K Cheung
+
+<p> 
+<ICE-HK:W2A-036#45:2>
+The ISO 9000 quality management system &obrack;  QMS &cbrack; is widely adopted
+by the local construction industry as a means of assuring the quality of its
+activities , services and products .
+
+<ICE-HK:W2A-036#46:2>
+In its Technical Circular &obrack;  WBTC &cbrack; 13/2001 , the Works Bureau &obrack;  WB)
+stipulates the policy requirements for certain groups of contactors and
+consultants who are engaged in public works to be certified to the relevant
+ISO models .
+
+<ICE-HK:W2A-036#47:2>
+The role of the Hong Kong Accreditation Service &obrack;  HKAS &cbrack; is to confer
+recognition on certification bodies &obrack;  CB &cbrack; that are able to demonstrate
+compliance with necessary requirements; in particular , the ISO Guide 62
+<quote> " General requirements for bodies operating assessment and
+certification of quality systems" </quote> . </p>
+
+<p> 
+<ICE-HK:W2A-036#48:2>
+The Hong Kong Certification Body Accreditation Scheme &obrack;  HKCAS)
+was launched by HKAS in 1998 .
+
+<ICE-HK:W2A-036#49:2>
+The accreditation offered covers a wide spectrum of activities in the
+industrial and commercial sectors , among which construction is one of the
+biggest .
+
+<ICE-HK:W2A-036#50:2>
+Currently there are about 1,600 organisations certified by the CB ,
+of which 500 are construction or related organizations . </p>
+
+<p> 
+<ICE-HK:W2A-036#51:2>
+There is strong criticism by stakeholders and the public that ISO
+9000 places too much attention on paperwork but little emphasis on the
+technical aspects .
+
+<ICE-HK:W2A-036#52:2>
+In an effort to address this concern , the year 2000 version of ISO
+9000 focuses primarily on a process-oriented management system with just
+sufficient paperwork to meet the operation of an organization .
+
+<ICE-HK:W2A-036#53:2>
+This new ISO also provides the benchmark for total quality management .
+
+<ICE-HK:W2A-036#54:2>
+Auditing has to be performed by competent auditors who possess
+sufficient technical knowledge and who know the essence of the process to be
+audited .
+
+<ICE-HK:W2A-036#55:2>
+Auditing as viewed by stakeholders is a value-added activity and not
+just a pure compliance checking exercise . </p>
+
+<p> 
+<ICE-HK:W2A-036#56:2>
+To meet the expectation of stakeholders and the community at
+large , HKAS will continue its endeavour to ensure that certification audits
+are performed to fufil the mission of ISO 9001: 2000. </p>
+
+<ICE-HK:W2A-036#57:2>
+<h> <bold> Quality testing of construction materials </bold> </h>
+
+<p> 
+<ICE-HK:W2A-036#58:2>
+Unlike the ISO 9000 series , which ensured the implementation of
+a QMS in an organisation , ISO/IEC 17025 focuses on the technical competence
+of laboratories and their ability to produce reliable and accurate test
+results .
+
+<ICE-HK:W2A-036#59:2>
+It also provides the basic criteria for accreditation of
+organisations performing testing .
+
+<ICE-HK:W2A-036#60:2>
+The Hong Kong Laboratory Accreditation Scheme &obrack;  HOKLAS &cbrack; was
+established in 1985 with the objective of giving formal recognition to
+competent laboratories who are able to meet the requirements of ISO/IEC 17025 .
+HOKLAS-endorsed test reports have been widely accepted by the industry ,
+signifying confidence in the accuracy and reliability of test results issued
+by accredited laboratories . </p>
+
+<p> 
+<ICE-HK:W2A-036#61:2>
+Currently , there are about 35 local accredited construction
+materials testing laboratories .
+
+<ICE-HK:W2A-036#62:2>
+The turnover of the construction testing industry amounts to about
+HK&dollar;1 billion per annum .
+
+<ICE-HK:W2A-036#63:2>
+The number of employees is estimated to be about 1,200 . </p>
+
+<ICE-HK:W2A-036#64:2>
+<h> <bold> Scope of testing </bold> </h>
+
+<p> 
+<ICE-HK:W2A-036#65:2>
+The scope of HOKLAS  ' s accreditation of construction materials
+testing is wide-ranging and expanding to meet the needs of the industry .
+
+<ICE-HK:W2A-036#66:2>
+The following are the major categories . </p>
+
+<ICE-HK:W2A-036#67:2>
+<h> <bold> 1 . Concrete and its constituent materials </bold> </h>
+
+<p> 
+<ICE-HK:W2A-036#68:2>
+WBTC 14/91 and Buildings <w> Department's </w> Practice Note for
+Authorised Persons &obrack;  PNAP &cbrack; 145 requires testing of concrete cubes and cores
+to the Hong Kong Construction Standard CS1:1990 .
+
+<ICE-HK:W2A-036#69:2>
+PNAP 251 further requires such testing to be carried out by
+accredited laboratories .
+
+<ICE-HK:W2A-036#70:2>
+At peak period , a big laboratory may carry out tests of up to about
+800 cubes per day .
+
+<ICE-HK:W2A-036#71:2>
+To meet the huge demand , there are about 20 concrete laboratories
+accredited . </p>
+
+<p> 
+<ICE-HK:W2A-036#72:2>
+Traditionally , site control tests and sampling , such as slump
+and compacting factor tests to CS1; flow of fresh concrete to BS 1881: Part
+105; and making of concrete cubes to CS1 , etc , were performed by the
+contractor  ' s site staff .
+
+<ICE-HK:W2A-036#73:2>
+However , it has been realised that this may give rise to potential
+conflict of interest .
+
+<ICE-HK:W2A-036#74:2>
+The Housing Department &obrack;  HD &cbrack; required all site testing to be
+performed by an independent accredited laboratory . </p> <O> A photo </O>
+
+<p> 
+<ICE-HK:W2A-036#75:2>
+To produce high quality concrete , it is necessary to have good
+quality constituent materials such as cement , pulverised fuel ash &obrack;  PFA &cbrack; and
+aggregates .
+
+<ICE-HK:W2A-036#76:2>
+About 10 concrete laboratories also have accreditation for these
+tests . </p>
+
+<ICE-HK:W2A-036#77:2>
+<h> <bold> 2 . Steel </bold> </h>
+
+<p> 
+<ICE-HK:W2A-036#78:2>
+Steel is the second largest testing item after concrete and there
+are 14 laboratories accredited for steel testing .
+
+<ICE-HK:W2A-036#79:2>
+Routine tests are often in the form of reinforcement bars for tensile
+, bend and rebend test .
+
+<ICE-HK:W2A-036#80:2>
+WBTC 24/95 and PNAP 122 stipulate requirements for rebars testing to
+CS2: 1995 and PNAP 251 further reinforced such requirements .
+
+<ICE-HK:W2A-036#81:2>
+Owing to its low weight and high strength , structural steel in the
+form of H piles is nowadays very often used .
+
+<ICE-HK:W2A-036#82:2>
+It has to meet technical specifications detailed in BS 4360 . </p>
+
+<ICE-HK:W2A-036#83:2>
+<h> <bold> 3 . Bituminous materials </bold> </h>
+
+<p> 
+<ICE-HK:W2A-036#84:2>
+Accredited tests on bituminous materials include the
+determination of binder content , theoretical specific gravity , bulk
+specific gravity and determination of voids .
+
+<ICE-HK:W2A-036#85:2>
+There are eight laboratories accredited , of which four are asphalt
+<w> suppliers ' </w> own quality control laboratories , one is a government
+laboratory and three are commercial laboratories .
+
+<ICE-HK:W2A-036#86:2>
+Tests are carried out in accordance with ASTM D2171 , D2041 , D2276
+and D3203 . </p>
+
+<ICE-HK:W2A-036#87:2>
+<h> <bold> 4 . Building components </bold> </h>
+
+<p> 
+<ICE-HK:W2A-036#88:2>
+Certain types of building components are required to be tested
+for their safety and serviceability .
+
+<ICE-HK:W2A-036#89:2>
+Accredited tests include pipe tests for strength and leakage; brick
+and block tests for strength; door tests for resistance to impact and
+jarring; cooking bench and sink unit tests for strength and localised
+heating; pullout tests of tiles and anchor bolts and bending tests of facing
+stones , etc .
+
+<ICE-HK:W2A-036#90:2>
+These tests are mainly required by HD for public housing projects .
+
+<ICE-HK:W2A-036#91:2>
+There are four laboratories accredited to carry out these tests in
+accordance with HD requirements . </p>
+
+<p> 
+<ICE-HK:W2A-036#92:2>
+Curtain walls for wind resistance tests to PNAP 106 are required
+in accordance with PNAP 251 .
+
+<ICE-HK:W2A-036#93:2>
+Four laboratories are accredited to perform this test .
+
+<ICE-HK:W2A-036#94:2>
+Recently , one laboratory is accredited to perform fire resistance
+tests on doors , partition walls and non-load bearing elements to BS 476:
+Part 20 and 22 . PNAP 251 stipulates mandatory requirements for testing by
+accredited laboratories .
+
+<ICE-HK:W2A-036#95:2>
+HOKLAS Supplementary Criteria No17 provides details of the technical
+requirements for building components testing . </p>
+
+<ICE-HK:W2A-036#96:2>
+<h> 5 . <bold> Non-destructive tests &obrack;  NDT &cbrack; of welds </bold> </h>
+
+<p> 
+<ICE-HK:W2A-036#97:2>
+NDT is diagnostic in nature and is used to detect any possible
+weld defects .
+
+<ICE-HK:W2A-036#98:2>
+Common tests are ultrasonic to BS 3923 &ampersand; BS EN 1714; radiographic to
+BS 2600 , BS 2910 and BS EN 1435; magnetic to BS 6072 and BS EN 1290; and
+penetrant to BS 6443 and BS EN 571-1 .
+
+<ICE-HK:W2A-036#99:2>
+In line with international practices for NDT , personnel requirements
+are stipulated .
+
+<ICE-HK:W2A-036#100:2>
+Approved HOKLAS signatories have to be certified to Level 3 of the
+American Society for Nondestructive Testing &obrack;  ASNT &cbrack; or the Personnel
+Certification of Nondestructive tests &obrack;  PCN &cbrack; of the UK .
+
+<ICE-HK:W2A-036#101:2>
+Similarly , approved HOKLAS operators have to be certified to Level
+2 of the ASNT or PCN .
+
+<ICE-HK:W2A-036#102:2>
+There are seven laboratories accredited for NDT of welds .
+
+<ICE-HK:W2A-036#103:2>
+HOKLAS Supplementary Criteria No15 gives the technical requirements .
+</p>
+
+<ICE-HK:W2A-036#104:2>
+<h> <bold> 6 . Soil and rock </bold> </h>
+
+<p> 
+<ICE-HK:W2A-036#105:2>
+The GEO Report No 36 for Phase I soil tests has been replaced by
+the newly published Geospec 3,which encompasses both Phase I soil
+classification and compaction tests as well as Phase II soil compressibility
+and strength tests . WBTC 6/94 and PNAP 167 will be amended accordingly .
+
+<ICE-HK:W2A-036#106:2>
+There are 13 laboratories accredited for Phase I soil tests .
+
+<ICE-HK:W2A-036#107:2>
+Accreditation for Phase II soil tests according to Geospec 3 is now
+underway .
+
+<ICE-HK:W2A-036#108:2>
+Rock testing mainly follows ASTM D2216 , D5731 , D2938 and D5687 on
+classification , shear strength of rock joints , point load and uniaxial
+compression tests .
+
+<ICE-HK:W2A-036#109:2>
+A HOKLAS Supplementary Criteria No19 is issued delineating the
+technical requirements . </p>
+
+<ICE-HK:W2A-036#110:2>
+<h> <bold> 7 . Foundation </bold> </h>
+
+<p> 
+<ICE-HK:W2A-036#111:2>
+The short pile scandal sparked widespread public concern over
+the issue of inadequate quality control on foundation works .
+
+<ICE-HK:W2A-036#112:2>
+As advocated by the Construction Industry Review Committee , the
+deployment of independent laboratories to perform foundation compliance tests
+will undoubtedly help strengthen the confidence of the public in the
+integrity of foundation works .
+
+<ICE-HK:W2A-036#113:2>
+WBTC 22/2000 spells out the requirements for integrity tests for
+pile foundation .
+
+<ICE-HK:W2A-036#114:2>
+Accredited tests include sonic logging , pile integrity , pile
+dynamic , echo sounder , plate load and static load tests , etc .
+
+<ICE-HK:W2A-036#115:2>
+There are eight laboratories accredited for these tests .
+
+<ICE-HK:W2A-036#116:2>
+HOKLAS Supplementary Criteria No16 details the technical
+requirements . </p>
+
+<ICE-HK:W2A-036#117:2>
+<h> <bold> New scheme for construction products inspection &obrack;  HKIAS)
+</bold> </h>
+
+<p> 
+<ICE-HK:W2A-036#118:2>
+In an attempt to provide further assurance for the procurement
+of construction products , HKAS will launch a new scheme under the Hong Kong
+Inspection Body Accreditation Scheme &obrack;  HKIAS &cbrack; , to accredit inspection bodies
+for construction products , in early 2002 .
+
+<ICE-HK:W2A-036#119:2>
+This new scheme will focus on the technical inspection of procured
+products against client  ' s specifications during manufacturing and/or
+pre-shipping by competent HKIAS-approved technical inspectors .
+
+<ICE-HK:W2A-036#120:2>
+Accreditation of inspection bodies will be in accordance with ISO
+17020 . </p>
+
+<p> 
+<ICE-HK:W2A-036#121:2>
+The world is now entering an era of rapid transformation .
+
+<ICE-HK:W2A-036#122:2>
+Given China  ' s accession to the World Trade Organisation and the
+opportunity resulting from globalisation , multilaterally recognized
+accreditation services will make a significant contribution to Hong Kong  ' s
+ability to keep up with its trading partners .
+
+<ICE-HK:W2A-036#123:2>
+In this connection , HKAS has a significant role to play , by
+maintaining a credible and efficient accreditation service to enhance the
+quality of our building products and to strengthen our competitiveness in the
+global market . </p>
+
+<p> 
+<ICE-HK:W2A-036#124:2>
+<it> About the author: Ir C K Cheung is a senior accreditation
+officer of the Hong Kong Accreditation Service . </it> </p>
+
+</I>

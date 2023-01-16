@@ -1,0 +1,6412 @@
+<I>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1:1:Z>
+Oh Flora
+
+<ICE-HK:S1A-071#X2:1:Z>
+What type of movie do you like best </X>
+
+<$A> 
+<ICE-HK:S1A-071#3:1:A>
+Uhm <&> tut </&> I like <,> uhm <,> drama
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X4:1:Z>
+Drama </X>
+
+<$A> 
+<ICE-HK:S1A-071#5:1:A>
+Uhm <{> <[> uhm </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X6:1:Z>
+<[> Like </[> </{> action drama </X>
+
+<$A> 
+<ICE-HK:S1A-071#7:1:A>
+Uhm some but not <,> all the action movie but <,>
+
+<ICE-HK:S1A-071#8:1:A>
+Uhm among the action movie I like <,> uhm In the Name of Father
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X9:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X10:1:Z>
+In the Name of the Father </X>
+
+<$A> 
+<ICE-HK:S1A-071#11:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X12:1:Z>
+Isn't it
+
+<ICE-HK:S1A-071#X13:1:Z>
+Do do you think it  ' s an action movie </X>
+
+<$A> 
+<ICE-HK:S1A-071#14:1:A>
+Uhm <,> a kind of
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X15:1:Z>
+Uhm uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#16:1:A>
+I guess it  ' s more drama
+
+<ICE-HK:S1A-071#17:1:A>
+It  ' s not really too much action
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X18:1:Z>
+Uhm uhm
+
+<ICE-HK:S1A-071#X19:1:Z>
+That  ' s pretty good </X>
+
+<$A> 
+<ICE-HK:S1A-071#20:1:A>
+Have you seen the video too
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X21:1:Z>
+Yeah I  ' ve seen the <{> <[> video </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#22:1:A>
+<[> I I </[> </{> haven't seen it but <{> <[> <unc>
+several words </unc> </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X23:1:Z>
+<[> You haven't seen it </[> </{>
+
+<ICE-HK:S1A-071#X24:1:Z>
+Oh it  ' s really good <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X25:1:Z>
+Yeah that  ' s why are the action movie <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X26:1:Z>
+Uh </X>
+
+<$A> 
+<ICE-HK:S1A-071#27:1:A>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-071#28:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-071#29:1:A>
+Uhm
+
+<ICE-HK:S1A-071#30:1:A>
+How about you
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X31:1:Z>
+Me
+
+<ICE-HK:S1A-071#X32:1:Z>
+Yeah I like action and drama too
+
+<ICE-HK:S1A-071#X33:1:Z>
+I will music the <?> featurative </?>
+
+<ICE-HK:S1A-071#X34:1:Z>
+I I like <{> <[> <unc> several words </unc> </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#35:1:A>
+<[> As Speed </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X36:1:Z>
+Speed
+
+<ICE-HK:S1A-071#X37:1:Z>
+Yes that  ' s an action movie </X>
+
+<$A> 
+<ICE-HK:S1A-071#38:1:A>
+<{> <[> Uhm </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X39:1:Z>
+<[> I </[> </{> really uh I don't <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X40:1:A>
+Uhm do you like comedies </X>
+
+<$A> 
+<ICE-HK:S1A-071#41:1:A>
+Uhm
+
+<ICE-HK:S1A-071#42:1:A>
+No because there  ' s <,> very few really good comedies
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X43:1:Z>
+Yeah I know many
+
+<ICE-HK:S1A-071#X44:1:Z>
+Some of them are okay </X>
+
+<$A> 
+<ICE-HK:S1A-071#45:1:A>
+I don't really like comedy did you
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X46:1:Z>
+In the mask of anything
+
+<ICE-HK:S1A-071#X47:1:Z>
+The mask </X>
+
+<$A> 
+<ICE-HK:S1A-071#48:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X49:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1A-071#50:1:A>
+I  ' ll haven't seen that <.> art </.>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X51:1:Z>
+Have you seen Asian trip </X>
+
+<$A> 
+<ICE-HK:S1A-071#52:1:A>
+That  ' s pretty funny <&>
+
+<$A> and
+
+<$Z> laugh </&>
+
+<ICE-HK:S1A-071#53:1:Z>
+Uhm I don't really like comedy
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X54:1:Z>
+Someone around okay
+
+<ICE-HK:S1A-071#X55:1:Z>
+How about romances </X>
+
+<$A> 
+<ICE-HK:S1A-071#56:1:A>
+Yes but <,,>
+
+<ICE-HK:S1A-071#57:1:A>
+I can I cannot remember the names because <,>
+
+<ICE-HK:S1A-071#58:1:A>
+Most of my favourite movies are <,> drama and not <,> really
+romantic
+
+<ICE-HK:S1A-071#59:1:A>
+Uh I like Dead Poets Society
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X60:1:Z>
+<{> <[> Uhm </[>
+
+<ICE-HK:S1A-071#X61:1:Z>
+Actually I get them </X>
+
+<$A> 
+<ICE-HK:S1A-071#62:1:A>
+<[> Have </[> </{> you seen it
+
+<ICE-HK:S1A-071#63:1:A>
+And reasonable Awakening
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X64:1:Z>
+No I haven't
+
+<ICE-HK:S1A-071#X65:1:Z>
+I haven't ever read them
+
+<ICE-HK:S1A-071#X66:1:Z>
+Is it good </X>
+
+<$A> 
+<ICE-HK:S1A-071#67:1:A>
+Yeah <{> <[> it  ' s really good </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X68:1:Z>
+<[> Yeah who  ' s </[> </{> in it </X>
+
+<$A> 
+<ICE-HK:S1A-071#69:1:A>
+Uhm Robins Williams and
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X70:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#71:1:A>
+Yeah uhm Robert De Niro
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X72:1:Z>
+Awakenings </X>
+
+<$A> 
+<ICE-HK:S1A-071#73:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X74:1:Z>
+Oh </X>
+
+<$A> 
+<ICE-HK:S1A-071#75:1:A>
+As a <,> <&> tut </&> patient who had Parkinson  ' s disease and
+doctor
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X76:1:Z>
+Oh no
+
+<ICE-HK:S1A-071#X77:1:Z>
+No I haven't seen before
+
+<ICE-HK:S1A-071#X78:1:Z>
+Isn't it romance </X>
+
+<$A> 
+<ICE-HK:S1A-071#79:1:A>
+No
+
+<ICE-HK:S1A-071#80:1:A>
+It  ' s about the relationship between uh patient and <{> <[> doctor
+</[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X81:1:Z>
+<[> And a </[> </{> doctor </X>
+
+<$A> 
+<ICE-HK:S1A-071#82:1:A>
+And <,> the name of Awakenings means <,>
+
+<ICE-HK:S1A-071#83:1:A>
+Uhm the patient <,> who is <,> like the vegetable and suddenly
+awaken
+
+<ICE-HK:S1A-071#84:1:A>
+<{1> <[1> And </[1> then <,> his interaction with the doctor of the
+doctor awaken the doctor <,> uh in the other way <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#85:1:A>
+Uhm it  ' s really <{3> <[3> good </[3>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X86:1:Z>
+<[1> Uh </[1> </{1>
+
+<ICE-HK:S1A-071#X87:1:Z>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-071#X88:1:Z>
+<[3> Uh </[3> </{3> I  ' ve never seen that one </X>
+
+<$A> 
+<ICE-HK:S1A-071#89:1:A>
+Have you seen Piano
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X90:1:Z>
+No I haven't
+
+<ICE-HK:S1A-071#X91:1:Z>
+Is it good </X>
+
+<$A> 
+<ICE-HK:S1A-071#92:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X93:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#94:1:A>
+The music was really good
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X95:1:Z>
+Yeah I  ' ve heard the music
+
+<ICE-HK:S1A-071#X96:1:Z>
+I haven't seen the Piano
+
+<ICE-HK:S1A-071#X97:1:Z>
+<{> <[> So </[> people said it really good but that some people
+are always understand it
+
+<ICE-HK:S1A-071#X98:1:Z>
+What do you think
+
+<ICE-HK:S1A-071#X99:1:Z>
+Cannot be weird
+
+<ICE-HK:S1A-071#X100:1:Z>
+But I  ' ve never seen it </X>
+
+<$A> 
+<ICE-HK:S1A-071#101:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#102:1:A>
+Yeah
+
+<ICE-HK:S1A-071#103:1:A>
+There aren't many <,> good romantic movies
+
+<ICE-HK:S1A-071#104:1:A>
+Have you seen Forever Young
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X105:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1A-071#106:1:A>
+No it  ' s okay
+
+<ICE-HK:S1A-071#107:1:A>
+It  ' s a kind of boring <&>
+
+<$Z> laugh </&> Oh uhm <,>
+
+<ICE-HK:S1A-071#108:1:Z>
+What else <unc> several words </unc> romantic movies
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X109:1:Z>
+Yes uhm <,,>
+
+<ICE-HK:S1A-071#X110:1:Z>
+Have you seen <,> Intersection </X>
+
+<$A> 
+<ICE-HK:S1A-071#111:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X112:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1A-071#113:1:A>
+Isn't <,> action or
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X114:1:Z>
+Uhm it  ' s a kind of drama <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X115:1:Z>
+It  ' s kind of
+
+<ICE-HK:S1A-071#X116:1:Z>
+It  ' s with uhm Sharon Stone <,> Richard <{2> <[2> <,> Gere </[2>
+</X>
+
+<$A> 
+<ICE-HK:S1A-071#117:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#118:1:A>
+<[2> Richard Gere </[2> </{2>
+
+<ICE-HK:S1A-071#119:1:A>
+But most uhm romantic movie cannot win the <{> <[> Oscar war </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X120:1:Z>
+<[> Yeah </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-071#121:1:A>
+And most <,> uhm most <,>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X122:1:Z>
+I think dramas <{> <[> or action </[> maybe won
+
+<ICE-HK:S1A-071#X123:1:Z>
+There different comedies </X>
+
+<$A> 
+<ICE-HK:S1A-071#124:1:A>
+<[> Yeah </[> </{>
+
+<ICE-HK:S1A-071#125:1:A>
+Uhm
+
+<ICE-HK:S1A-071#126:1:A>
+Do they Forrest Gump
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X127:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X128:1:Z>
+Oh Forrest Gump
+
+<ICE-HK:S1A-071#X129:1:Z>
+I really like Forrest Gump </X>
+
+<$A> 
+<ICE-HK:S1A-071#130:1:A>
+That  ' s really good
+
+<ICE-HK:S1A-071#131:1:A>
+Uhm
+
+<ICE-HK:S1A-071#132:1:A>
+<?> Wells </?> <,> that was good
+
+<ICE-HK:S1A-071#133:1:A>
+You  ' ve seen the Joy Luck Club
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X134:1:Z>
+Yup uhm I  ' ve seen that
+
+<ICE-HK:S1A-071#X135:1:Z>
+Did you like that </X>
+
+<$A> 
+<ICE-HK:S1A-071#136:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X137:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X138:1:Z>
+<unc> Several words </unc> said that it  ' s really boring
+<{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X139:1:Z>
+Yeah but that  ' s also very sad it was very sad movie <{2> <[2>
+<,> </[2>
+
+<ICE-HK:S1A-071#X140:1:Z>
+That  ' s pretty good too
+
+<ICE-HK:S1A-071#X141:1:Z>
+Have you seen uhm like Farewell my Concubine <?> no henry </?>
+</X>
+
+<$A> 
+<ICE-HK:S1A-071#142:1:A>
+<[1> That  ' s really </[1> </{1>
+
+<ICE-HK:S1A-071#143:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-071#144:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X145:1:Z>
+I  ' ve never seen it
+
+<ICE-HK:S1A-071#X146:1:Z>
+I haven't seen that </X>
+
+<$A> 
+<ICE-HK:S1A-071#147:1:A>
+Yes that  ' s good
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X148:1:Z>
+Is it good </X>
+
+<$A> 
+<ICE-HK:S1A-071#149:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X150:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X151:1:Z>
+A lot of people say it  ' s good but I haven't seen it </X>
+
+<$A> 
+<ICE-HK:S1A-071#152:1:A>
+But you you you may not understand it
+
+<ICE-HK:S1A-071#153:1:A>
+Because it  ' s uhm about the history of China <{1> <[1> <,>
+
+<ICE-HK:S1A-071#154:1:A>
+And </[1> <,> and the Chinese opera <{2> <[2> and </[2> yeah the
+<,> is the <,> Beijing opera that
+
+<ICE-HK:S1A-071#155:1:A>
+There  ' s the male who acted as the <{3> <[3> female </[3>
+
+<ICE-HK:S1A-071#156:1:A>
+Have you heard of that
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X157:1:Z>
+<[1> Uh uh yeah </[1> </{1>
+
+<ICE-HK:S1A-071#X158:1:Z>
+<[2> Yeah </[2> </{2>
+
+<ICE-HK:S1A-071#X159:1:Z>
+<[3> As female </[3> </{3> yeah
+
+<ICE-HK:S1A-071#X160:1:Z>
+Yeah <{> <[> I  ' ve </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#161:1:A>
+<[> Your </[> </{> Mon
+
+<ICE-HK:S1A-071#162:1:A>
+Have your mum seen it
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X163:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1A-071#164:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X165:1:Z>
+No
+
+<ICE-HK:S1A-071#X166:1:Z>
+My mun don't want to see it </X>
+
+<$A> 
+<ICE-HK:S1A-071#167:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X168:1:Z>
+So people said it  ' s pretty good
+
+<ICE-HK:S1A-071#X169:1:Z>
+Is it good </X>
+
+<$A> 
+<ICE-HK:S1A-071#170:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X171:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#172:1:A>
+It  ' s a long movie
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X173:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#174:1:A>
+<.> Ye </.> <.> Ye </.> that to
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X175:1:Z>
+Is that won award </X>
+
+<$A> 
+<ICE-HK:S1A-071#176:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X177:1:Z>
+<{> <[> Yeah </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#178:1:A>
+<[> In </[> </{> a tamps
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X179:1:Z>
+Yeah it won something
+
+<ICE-HK:S1A-071#X180:1:Z>
+I know it won something </X>
+
+<$A> 
+<ICE-HK:S1A-071#181:1:A>
+Is it very few uhm Hong Kong and Chinese movie showing in
+Canada
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X182:1:Z>
+Uhm yeah very few
+
+<ICE-HK:S1A-071#X183:1:Z>
+But Joy Luck Club was one that everyone really like </X>
+
+<$A> 
+<ICE-HK:S1A-071#184:1:A>
+There  ' s was <{> <[> twelve </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X185:1:Z>
+<[> They occupy <,> </[> </{>
+
+<ICE-HK:S1A-071#X186:1:Z>
+I don't remember that being very popular <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X187:1:Z>
+I know I signed the video extract
+
+<ICE-HK:S1A-071#X188:1:Z>
+<{2> <[2> So </[2> I don't remember that
+
+<ICE-HK:S1A-071#X189:1:Z>
+There  ' s also another one something uhm <,> was Wedding Banquet
+Chinese </X>
+
+<$A> 
+<ICE-HK:S1A-071#190:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#191:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-071#192:1:A>
+Hei yin
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X193:1:Z>
+Right </X>
+
+<$A> 
+<ICE-HK:S1A-071#194:1:A>
+Yeah that  ' s it
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X195:1:Z>
+Uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#196:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X197:1:Z>
+And I haven't seen it </X>
+
+<$A> 
+<ICE-HK:S1A-071#198:1:A>
+And uh it  ' s a Taiwan <{> <[> <,> Taiwan </[> film
+
+<ICE-HK:S1A-071#199:1:A>
+Yeah
+
+<ICE-HK:S1A-071#200:1:A>
+There  ' s another one was the essence of the Chinese philosophy
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X201:1:Z>
+<[> Oh Taiwan </[> </{>
+
+<ICE-HK:S1A-071#X202:1:Z>
+I don't know but I remember there  ' s no
+
+<ICE-HK:S1A-071#X203:1:Z>
+Have you seen that Little Buddha </X>
+
+<$A> 
+<ICE-HK:S1A-071#204:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X205:1:Z>
+I haven't seen it neither
+
+<ICE-HK:S1A-071#X206:1:Z>
+Keanu Reeves </X>
+
+<$A> 
+<ICE-HK:S1A-071#207:1:A>
+What  ' s your favourite
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X208:1:Z>
+My favourite movie
+
+<ICE-HK:S1A-071#X209:1:Z>
+Uhm I like Forrest Gump and <unc> two words </unc> </X>
+<&>
+
+<$A> laughs </&>
+
+<$A> 
+<ICE-HK:S1A-071#210:1:A>
+Uhm what  ' s else if <,> Schindler  ' s List
+
+<ICE-HK:S1A-071#211:1:A>
+<{> <[> Schindler </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X212:1:Z>
+<[> I </[> </{> <,>
+
+<ICE-HK:S1A-071#X213:1:Z>
+I always in love of it <,> <{> <[> <?> and </?> </[> I finished
+watching it
+
+<ICE-HK:S1A-071#X214:1:Z>
+Because watching it and then <,> I  ' m watching it at home
+
+<ICE-HK:S1A-071#X215:1:Z>
+Now I  ' m my effort </X>
+
+<$A> 
+<ICE-HK:S1A-071#216:1:A>
+<[> Why </[> </{>
+
+<ICE-HK:S1A-071#217:1:A>
+I  ' ve see now
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X218:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1A-071#219:1:A>
+Yeah
+
+<ICE-HK:S1A-071#220:1:A>
+I like <unc> one-word </unc> watching that
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X221:1:Z>
+No <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X222:1:A>
+Uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#223:1:A>
+How about the some <,> musical movie that <,>
+
+<ICE-HK:S1A-071#224:1:A>
+Sound of Music
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X225:1:Z>
+<{> <[> Yeah
+
+<ICE-HK:S1A-071#X226:1:Z>
+I like </[> Sound of Music
+
+<ICE-HK:S1A-071#X227:1:Z>
+I love Sound of Music </X>
+
+<$A> 
+<ICE-HK:S1A-071#228:1:A>
+<[> Uh uh </[> </{>
+
+<ICE-HK:S1A-071#229:1:A>
+Uhm uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X230:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#231:1:A>
+How about uhm My Fair Lady
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X232:1:Z>
+I  ' ve seen
+
+<ICE-HK:S1A-071#X233:1:Z>
+Yeah I  ' ve seen that
+
+<ICE-HK:S1A-071#X234:1:Z>
+I really really remember I saw it <,> a long ago
+
+<ICE-HK:S1A-071#X235:1:Z>
+Have you seen The King and I </X>
+
+<$A> 
+<ICE-HK:S1A-071#236:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X237:1:Z>
+No
+
+<ICE-HK:S1A-071#X238:1:Z>
+That  ' s pretty good <{> <[> <,> </[> and okay </X>
+
+<$A> 
+<ICE-HK:S1A-071#239:1:A>
+<[> Uhm </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X240:1:Z>
+Uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#241:1:A>
+Uhm uhm <,,>
+
+<ICE-HK:S1A-071#242:1:A>
+Have you seen The Phantom of the Opera
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X243:1:Z>
+The movie </X>
+
+<$A> 
+<ICE-HK:S1A-071#244:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X245:1:Z>
+Uhm <,> no
+
+<ICE-HK:S1A-071#X246:1:Z>
+I have <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X247:1:Z>
+I  ' ve seen Miss Saigon </X>
+
+<$A> 
+<ICE-HK:S1A-071#248:1:A>
+<[> Too bad </[> </{>
+
+<ICE-HK:S1A-071#249:1:A>
+Miss Saigon
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X250:1:Z>
+And I  ' ve seen is about having ten <?> unit </?> </X>
+
+<$A> 
+<ICE-HK:S1A-071#251:1:A>
+Yes
+
+<ICE-HK:S1A-071#252:1:A>
+How is <{> <[> it </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X253:1:Z>
+<[> Yeah </[> </{> it  ' s really good
+
+<ICE-HK:S1A-071#X254:1:Z>
+I saw twice
+
+<ICE-HK:S1A-071#X255:1:Z>
+<{1> <[1> And </[1> I saw Les Miserables <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X256:1:Z>
+That was really good too <{3> <[3> <,> </[3>
+
+<ICE-HK:S1A-071#X257:1:Z>
+That  ' s only two Broadway I  ' ve seen </X>
+
+<$A> 
+<ICE-HK:S1A-071#258:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#259:1:A>
+<[2> Oh </[2> </{2>
+
+<ICE-HK:S1A-071#260:1:A>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-071#261:1:A>
+I haven't seen that neither
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X262:1:Z>
+A lot of people say Les Miserables are a lot better than Phantom
+</X>
+
+<$A> 
+<ICE-HK:S1A-071#263:1:A>
+A lot better
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X264:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#265:1:A>
+Uhm uhm
+
+<ICE-HK:S1A-071#266:1:A>
+<{> <[> Is </[> the songs is really good
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X267:1:Z>
+<[> But </[> </{>
+
+<ICE-HK:S1A-071#X268:1:Z>
+Les <.> Mis </.>
+
+<ICE-HK:S1A-071#X269:1:Z>
+<{> <[> Yeah </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#270:1:A>
+<[> Yeah <unc> three words </unc> </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X271:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X272:1:Z>
+It  ' s very nice <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X273:1:Z>
+But </X>
+
+<$A> 
+<ICE-HK:S1A-071#274:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#275:1:A>
+Yeah
+
+<ICE-HK:S1A-071#276:1:A>
+Phantom of the Opera really uhm <,> is very popular
+
+<ICE-HK:S1A-071#277:1:A>
+over there
+
+<ICE-HK:S1A-071#278:1:A>
+But but they seldom go to Hong Kong <,> to show <{1> <[1> <,>
+</[1>
+
+<ICE-HK:S1A-071#279:1:A>
+But the Phantom is maybe uh is <{2> <[2> is coming in uh </[2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X280:1:Z>
+<[1> Yeah </[1> </{1>
+
+<ICE-HK:S1A-071#X281:1:Z>
+<[2> Is coming </[2> </{2> </X>
+
+<$A> 
+<ICE-HK:S1A-071#282:1:A>
+Yeah <{> <[> is come </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X283:1:Z>
+<[> Yeah </[> </{>
+
+<ICE-HK:S1A-071#X284:1:Z>
+But not the Miss Saigon and Les <.> Mis </.> <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X285:1:Z>
+Have they come before </X>
+
+<$A> 
+<ICE-HK:S1A-071#286:1:A>
+<[> No </[> </{>
+
+<ICE-HK:S1A-071#287:1:A>
+No
+
+<ICE-HK:S1A-071#288:1:A>
+No yeah
+
+<ICE-HK:S1A-071#289:1:A>
+Uh tickets are sold out now
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X290:1:Z>
+Yeah they misses their over Phantom </X>
+
+<$A> 
+<ICE-HK:S1A-071#291:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X292:1:Z>
+Oh really
+
+<ICE-HK:S1A-071#X293:1:Z>
+How long <?> here it </?> for </X>
+
+<$A> 
+<ICE-HK:S1A-071#294:1:A>
+Uhm <,>
+
+<ICE-HK:S1A-071#295:1:A>
+I think three or four months
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X296:1:Z>
+Three or four months </X>
+
+<$A> 
+<ICE-HK:S1A-071#297:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X298:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#299:1:A>
+Uhm
+
+<ICE-HK:S1A-071#300:1:A>
+Which still playing at our places
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X301:1:Z>
+I haven't seen that because it costs too much </X>
+
+<$A> 
+<ICE-HK:S1A-071#302:1:A>
+How much
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X303:1:Z>
+For like student they say fifty dollars which is cheapest ticket
+</X>
+
+<$A> 
+<ICE-HK:S1A-071#304:1:A>
+Oh the cheapest ticket
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X305:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X306:1:Z>
+Fifty dollars
+
+<ICE-HK:S1A-071#X307:1:Z>
+Because for Les <.> Mis </.> and for Miss Saigon
+
+<ICE-HK:S1A-071#X308:1:Z>
+It  ' s only like fifteen fifteen </X>
+
+<$A> 
+<ICE-HK:S1A-071#309:1:A>
+How about the normal prices for adults
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X310:1:Z>
+The cheapest is fifty
+
+<ICE-HK:S1A-071#X311:1:Z>
+I think </X>
+
+<$A> 
+<ICE-HK:S1A-071#312:1:A>
+Fifty
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X313:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X314:1:Z>
+Oh for Miss Saigon </X>
+
+<$A> 
+<ICE-HK:S1A-071#315:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X316:1:Z>
+No Miss Saigon and Les <.> Mis </.>
+
+<ICE-HK:S1A-071#X317:1:Z>
+There  ' s lots of prices
+
+<ICE-HK:S1A-071#X318:1:Z>
+The most expensive
+
+<ICE-HK:S1A-071#X319:1:Z>
+Oh what the most expensive is
+
+<ICE-HK:S1A-071#X320:1:Z>
+If you  ' re right in front of the orchestra
+
+<ICE-HK:S1A-071#X321:1:Z>
+That  ' s like </X>
+
+<$A> 
+<ICE-HK:S1A-071#322:1:A>
+I think a hundred and something
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X323:1:Z>
+But It  ' s not too bad </X>
+
+<$A> 
+<ICE-HK:S1A-071#324:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X325:1:Z>
+You can get really good seat for like seventy <{> <[> fifty </[>
+</X>
+
+<$A> 
+<ICE-HK:S1A-071#326:1:A>
+<[> The more or </[> </{> less the same of Hong Kong
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X327:1:Z>
+Is it
+
+<ICE-HK:S1A-071#X328:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#329:1:A>
+Yup
+
+<ICE-HK:S1A-071#330:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X331:1:Z>
+But Phantom is really expensive </X>
+
+<$A> 
+<ICE-HK:S1A-071#332:1:A>
+You <,>
+
+<ICE-HK:S1A-071#333:1:A>
+We don't have student tickets
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X334:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#335:1:A>
+<?> For Phantom </?>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X336:1:Z>
+Yeah yeah
+
+<ICE-HK:S1A-071#X337:1:Z>
+We don't have student tickets over there either
+
+<ICE-HK:S1A-071#X338:1:Z>
+But fifty dollars is usually
+
+<ICE-HK:S1A-071#X339:1:Z>
+Or they say is the student price </X>
+
+<$A> 
+<ICE-HK:S1A-071#340:1:A>
+Uh
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X341:1:Z>
+<{> <[> Because </[> it  ' s just the cheapest one </X>
+
+<$A> 
+<ICE-HK:S1A-071#342:1:A>
+<[> Is it </[> </{>
+
+<ICE-HK:S1A-071#343:1:A>
+Isn't it <,> bad
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X344:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X345:1:Z>
+It  ' s really bad seat </X>
+
+<$A> 
+<ICE-HK:S1A-071#346:1:A>
+I may <unc> several words </unc>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X347:1:Z>
+What else do they have for Broadway </X>
+
+<$A> 
+<ICE-HK:S1A-071#348:1:A>
+Uhm <,>
+
+<ICE-HK:S1A-071#349:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X350:1:Z>
+Ha
+
+<ICE-HK:S1A-071#X351:1:Z>
+Just Phantom </X>
+
+<$A> 
+<ICE-HK:S1A-071#352:1:A>
+I haven't seen Phantom because I I just bought the ticket
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X353:1:Z>
+<{> <[> Uh </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#354:1:A>
+<[> Waiting </[> </{> for <,> July
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X355:1:Z>
+Oh <{1> <[1> they </[1> <,> <{2> <[2> visit July </[2> </X>
+
+<$A> 
+<ICE-HK:S1A-071#356:1:A>
+<[1> They </[1> </{1> come in for July
+
+<ICE-HK:S1A-071#357:1:A>
+They <[2> come in July </[2> </{2>
+
+<ICE-HK:S1A-071#358:1:A>
+Yeah
+
+<ICE-HK:S1A-071#359:1:A>
+I really like the Broadway music
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X360:1:Z>
+Yeah uhm <,> yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#361:1:A>
+I only have some CD
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X362:1:Z>
+For Phantom </X>
+
+<$A> 
+<ICE-HK:S1A-071#363:1:A>
+For Phantom for uhm <,> Jesus Christ Superstar
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X364:1:Z>
+Oh </X>
+
+<$A> 
+<ICE-HK:S1A-071#365:1:A>
+Oh
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X366:1:Z>
+I haven't seen that
+
+<ICE-HK:S1A-071#X367:1:Z>
+Have you seen that </X>
+
+<$A> 
+<ICE-HK:S1A-071#368:1:A>
+Yeah
+
+<ICE-HK:S1A-071#369:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X370:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X371:1:Z>
+I haven't see that
+
+<ICE-HK:S1A-071#X372:1:Z>
+Our school do that but I don't see it </X>
+
+<$A> 
+<ICE-HK:S1A-071#373:1:A>
+Uhm uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X374:1:Z>
+Cat
+
+<ICE-HK:S1A-071#X375:1:Z>
+I think I saw but <,>
+
+<ICE-HK:S1A-071#X376:1:Z>
+I was surely uhm that was really uhm
+
+<ICE-HK:S1A-071#X377:1:Z>
+Have you seen <{> <[> Cat </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#378:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#379:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X380:1:Z>
+No
+
+<ICE-HK:S1A-071#X381:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X382:1:Z>
+I don't I don't think I don't think everyone like Cat
+
+<ICE-HK:S1A-071#X383:1:Z>
+But Les <.> Mis </.> is really good </X>
+
+<$A> 
+<ICE-HK:S1A-071#384:1:A>
+Do you know any musical instrument
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X385:1:Z>
+Uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#386:1:A>
+Piano
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X387:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#388:1:A>
+Piano
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X389:1:Z>
+And flute and <{> <[> saxophone </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#390:1:A>
+<[> Flute </[> </{>
+
+<ICE-HK:S1A-071#391:1:A>
+Is still learning now or
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X392:1:Z>
+Yeah <{1> <[1> <,>
+
+<ICE-HK:S1A-071#X393:1:Z>
+Yeah </[1> at school <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X394:1:Z>
+School like band something like that </X>
+
+<$A> 
+<ICE-HK:S1A-071#395:1:A>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-071#396:1:A>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-071#397:1:A>
+Is it uh difficult to do to learn saxophone
+
+<ICE-HK:S1A-071#398:1:A>
+<{> <[> Although </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X399:1:Z>
+<[> No </[> </{>
+
+<ICE-HK:S1A-071#X400:1:Z>
+Saxophone is really easy <{1> <[1> <,>
+
+<ICE-HK:S1A-071#X401:1:Z>
+Yeah </[1>
+
+<ICE-HK:S1A-071#X402:1:Z>
+It  ' s really easy
+
+<ICE-HK:S1A-071#X403:1:Z>
+That all I  ' ve seen I  ' ve seen it probably easier because I play
+piano <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X404:1:Z>
+So it  ' s easier
+
+<ICE-HK:S1A-071#X405:1:Z>
+For the flute is a bit harder if he also <{3> <[3> just <unc>
+two words </unc> </[3> </X>
+
+<$A> 
+<ICE-HK:S1A-071#406:1:A>
+<[1> Really easy </[1> </{1>
+
+<ICE-HK:S1A-071#407:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-071#408:1:A>
+<[3> Saxophone </[3> </{3> and piano
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X409:1:Z>
+Yeah because I know the notes <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X410:1:Z>
+So it  ' s really easy for me to remember
+
+<ICE-HK:S1A-071#X411:1:Z>
+But for <,> flute it  ' s sort of different things
+
+<ICE-HK:S1A-071#X412:1:Z>
+You have to in <?> horrible </?> and everything </X>
+
+<$A> 
+<ICE-HK:S1A-071#413:1:A>
+<[> Oh </[> </{>
+
+<ICE-HK:S1A-071#414:1:A>
+That  ' s what  ' s you used kind of born
+
+<ICE-HK:S1A-071#415:1:A>
+First time you guard
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X416:1:Z>
+Uhm uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#417:1:A>
+Did you learn it in high school when you go to high school
+
+<ICE-HK:S1A-071#418:1:A>
+Or did you do music programme
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X419:1:Z>
+Uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#420:1:A>
+How long have you been learning <,> piano
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X421:1:Z>
+Piano
+
+<ICE-HK:S1A-071#X422:1:Z>
+Uhm
+
+<ICE-HK:S1A-071#X423:1:Z>
+For like <,> <?> the </?>
+
+<ICE-HK:S1A-071#X424:1:Z>
+No no <?> the </?> more than <?> the </?>
+
+<ICE-HK:S1A-071#X425:1:Z>
+Ten <,> ten years </X>
+
+<$A> 
+<ICE-HK:S1A-071#426:1:A>
+Ten years
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X427:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#428:1:A>
+So if you reached <{> <[> a certain grade <unc> one word
+</unc> </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X429:1:Z>
+<[> I <unc> several words </unc> Primary </[> </{> Six
+
+<ICE-HK:S1A-071#X430:1:Z>
+Yeah I  ' ve been grade ten </X>
+
+<$A> 
+<ICE-HK:S1A-071#431:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X432:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X433:1:Z>
+So <unc> several words </unc> </X>
+
+<$A> 
+<ICE-HK:S1A-071#434:1:A>
+I <,> I haven't learn that <,>
+
+<ICE-HK:S1A-071#435:1:A>
+It  ' s grade ten
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X436:1:Z>
+Yeah it  ' s grade ten </X>
+
+<$A> 
+<ICE-HK:S1A-071#437:1:A>
+I thought after grade eight to <&> Speeches of the first
+unidentified speaker </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X438:1:Z>
+No <.> he </.> here they have grade eight
+
+<ICE-HK:S1A-071#X439:1:Z>
+But over there they have grade ten <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X440:1:Z>
+And then we have ALCT where you get your teacher  ' s performance
+license <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X441:1:Z>
+So you can teach
+
+<ICE-HK:S1A-071#X442:1:Z>
+After grade eight over there you can teach already <{3> <[3> <,>
+</[3>
+
+<ICE-HK:S1A-071#X443:1:Z>
+But then if you get your uhm ALCT
+
+<ICE-HK:S1A-071#X444:1:Z>
+You  ' ll be a professional teacher </X>
+
+<$A> 
+<ICE-HK:S1A-071#445:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#446:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-071#447:1:A>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-071#448:1:A>
+Oh
+
+<ICE-HK:S1A-071#449:1:A>
+Are you teaching any student
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X450:1:Z>
+Yeah I  ' m teaching students
+
+<ICE-HK:S1A-071#X451:1:Z>
+Uhm I own ALCT
+
+<ICE-HK:S1A-071#X452:1:Z>
+Teaching and looking </X>
+
+<$A> 
+<ICE-HK:S1A-071#453:1:A>
+Uhm uhm
+
+<ICE-HK:S1A-071#454:1:A>
+Uh ha
+
+<ICE-HK:S1A-071#455:1:A>
+I  ' ve learn piano for <,> seven years
+
+<ICE-HK:S1A-071#456:1:A>
+I stop for <,,> six years
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X457:1:Z>
+Oh really
+
+<ICE-HK:S1A-071#X458:1:Z>
+still play </X>
+
+<$A> 
+<ICE-HK:S1A-071#459:1:A>
+Seldom
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X460:1:Z>
+Seldom </X>
+
+<$A> 
+<ICE-HK:S1A-071#461:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X462:1:Z>
+What grade did you
+
+<ICE-HK:S1A-071#X463:1:Z>
+Did you learn over here </X>
+
+<$A> 
+<ICE-HK:S1A-071#464:1:A>
+Yeah yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X465:1:Z>
+Uh what grade did you get to </X>
+
+<$A> 
+<ICE-HK:S1A-071#466:1:A>
+Six
+
+<ICE-HK:S1A-071#467:1:A>
+Grade Six
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X468:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X469:1:Z>
+That  ' s a grade eight over there I think <{> <[> <,>
+
+<ICE-HK:S1A-071#X470:1:Z>
+It  ' s </[> seven or eight over there </X>
+
+<$A> 
+<ICE-HK:S1A-071#471:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#472:1:A>
+Oh it  ' s <.> diff </.> it  ' s <{> <[> different </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X473:1:Z>
+<[> Yeah </[> </{> it  ' s different
+
+<ICE-HK:S1A-071#X474:1:Z>
+Cause you only have <,> to grade eight here
+
+<ICE-HK:S1A-071#X475:1:Z>
+So grade eight over here is a kind like grade ten over there </X>
+
+<$A> 
+<ICE-HK:S1A-071#476:1:A>
+Uh uh
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X477:1:Z>
+Kind of
+
+<ICE-HK:S1A-071#X478:1:Z>
+So
+
+<ICE-HK:S1A-071#X479:1:Z>
+In between grade nine and ten like that <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X480:1:Z>
+So they just have lots of grade <unc> one-word </unc>
+</X>
+
+<$A> 
+<ICE-HK:S1A-071#481:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#482:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X483:1:Z>
+That  ' s all </X>
+
+<$A> 
+<ICE-HK:S1A-071#484:1:A>
+Have you seen <,> Once Upon A Time in America
+
+<ICE-HK:S1A-071#485:1:A>
+Have you heard of that movie
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X486:1:Z>
+I <,> I think I  ' ve heard of it
+
+<ICE-HK:S1A-071#X487:1:Z>
+I think I  ' ve heard of it
+
+<ICE-HK:S1A-071#X488:1:Z>
+I don't know <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X489:1:Z>
+It sounds familiar but I <,> remember
+
+<ICE-HK:S1A-071#X490:1:Z>
+Isn't a movie <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X491:1:Z>
+Isn't an old movie </X>
+
+<$A> 
+<ICE-HK:S1A-071#492:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#493:1:A>
+<[2> Yeah </[2> </{2>
+
+<ICE-HK:S1A-071#494:1:A>
+Yeah quite old
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X495:1:Z>
+Quite old
+
+<ICE-HK:S1A-071#X496:1:Z>
+Who  ' s in it </X>
+
+<$A> 
+<ICE-HK:S1A-071#497:1:A>
+Uhm Robert De Niro <unc> two words </unc>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X498:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#499:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X500:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1A-071#501:1:A>
+I like him
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X502:1:Z>
+Oh really
+
+<ICE-HK:S1A-071#X503:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X504:1:Z>
+Have you seen Frankenstein </X>
+
+<$A> 
+<ICE-HK:S1A-071#505:1:A>
+No
+
+<ICE-HK:S1A-071#506:1:A>
+<{> <[> <unc> several words </unc> </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X507:1:Z>
+<[> Do they <unc> two words </unc> yet </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-071#508:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X509:1:Z>
+No oh okay
+
+<ICE-HK:S1A-071#X510:1:Z>
+Cause I have <unc> several words </unc>
+
+<ICE-HK:S1A-071#X511:1:Z>
+Uhm
+
+<ICE-HK:S1A-071#X512:1:Z>
+<unc> Several words </unc>
+
+<ICE-HK:S1A-071#X513:1:Z>
+Uhm
+
+<ICE-HK:S1A-071#X514:1:Z>
+Oh have you seen <?> kidbear </?> </X>
+
+<$A> 
+<ICE-HK:S1A-071#515:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X516:1:Z>
+No
+
+<ICE-HK:S1A-071#X517:1:Z>
+<{1> <[1> Oh </[1> it  ' s really good
+
+<ICE-HK:S1A-071#X518:1:Z>
+You should see it
+
+<ICE-HK:S1A-071#X519:1:Z>
+<{2> <[2> It  ' s really </[2> </X>
+
+<$A> 
+<ICE-HK:S1A-071#520:1:A>
+<[1> Yes </[1> </{1>
+
+<ICE-HK:S1A-071#521:1:A>
+<[2> Yes </[2> </{2>
+
+<ICE-HK:S1A-071#522:1:A>
+I I don't really like the <,> uhm thriller
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X523:1:Z>
+Which one </X>
+
+<$A> 
+<ICE-HK:S1A-071#524:1:A>
+Uhm I like Mystery
+
+<ICE-HK:S1A-071#525:1:A>
+But <,> I I found go if going to the cinema and <{1> <[1> <,>
+sitting </[1> there for two hours and <{2> <[2> <,> keep </[2> scaring <&>
+
+<$A> laughs </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X526:1:Z>
+<[1> Uh </[1> </{1>
+
+<ICE-HK:S1A-071#X527:1:Z>
+<[2> Uh </[2> </{2>
+
+<ICE-HK:S1A-071#X528:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X529:1:Z>
+Oh I I
+
+<ICE-HK:S1A-071#X530:1:Z>
+Oh yeah Mysteries was pretty scary </X>
+
+<$A> 
+<ICE-HK:S1A-071#531:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X532:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X533:1:Z>
+I </X>
+
+<$A> 
+<ICE-HK:S1A-071#534:1:A>
+And <?> keep fill </?> too
+
+<ICE-HK:S1A-071#535:1:A>
+It  ' s quite violence
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X536:1:Z>
+<?> Keep fair </?>
+
+<ICE-HK:S1A-071#X537:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X538:1:Z>
+I think so <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X539:1:A>
+I like it
+
+<ICE-HK:S1A-071#X540:1:A>
+Also you haven't seen it </X>
+
+<$A> 
+<ICE-HK:S1A-071#541:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X542:1:Z>
+Oh </X>
+
+<$A> 
+<ICE-HK:S1A-071#543:1:A>
+Right
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X544:1:Z>
+Uhm have you seen <,>
+
+<ICE-HK:S1A-071#X545:1:Z>
+What else
+
+<ICE-HK:S1A-071#X546:1:Z>
+Have you seen <?> Sandra Waltman He said </?> in Love
+
+<ICE-HK:S1A-071#X547:1:Z>
+But have you seen that </X>
+
+<$A> 
+<ICE-HK:S1A-071#548:1:A>
+No <{> <[> no </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X549:1:Z>
+<[> You </[> </{> haven't seen that
+
+<ICE-HK:S1A-071#X550:1:Z>
+Oh it  ' s good <.> <{> <[> af </[> </.> </X>
+
+<$A> 
+<ICE-HK:S1A-071#551:1:A>
+<[> Because </[> </{> someone
+
+<ICE-HK:S1A-071#552:1:A>
+Some people said it  ' s boring
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X553:1:Z>
+Oh really
+
+<ICE-HK:S1A-071#X554:1:Z>
+I like it
+
+<ICE-HK:S1A-071#X555:1:Z>
+If you like drama you probably like it </X>
+
+<$A> 
+<ICE-HK:S1A-071#556:1:A>
+Oh
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X557:1:Z>
+<{> <[> Yeah </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#558:1:A>
+<[> Everybody </[> </{> like <,> uh Cinema Paradiso <,>
+
+<ICE-HK:S1A-071#559:1:A>
+Have you seen it
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X560:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1A-071#561:1:A>
+Cinema Paradiso
+
+<ICE-HK:S1A-071#562:1:A>
+I I haven't seen it
+
+<ICE-HK:S1A-071#563:1:A>
+But uhm <,> I want I want to see it
+
+<ICE-HK:S1A-071#564:1:A>
+<{> <[> It  ' s </[> showing next week you know uhm Hong Kong Art
+Centre
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X565:1:Z>
+<[> Uh </[> </{>
+
+<ICE-HK:S1A-071#X566:1:Z>
+Is that a movie </X>
+
+<$A> 
+<ICE-HK:S1A-071#567:1:A>
+Yeah
+
+<ICE-HK:S1A-071#568:1:A>
+Uhm
+
+<ICE-HK:S1A-071#569:1:A>
+It take I I don't know it  ' s
+
+<ICE-HK:S1A-071#570:1:A>
+It tell you a French movie
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X571:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#572:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X573:1:Z>
+Uh
+
+<ICE-HK:S1A-071#X574:1:Z>
+What does it call
+
+<ICE-HK:S1A-071#X575:1:Z>
+What does it call </X>
+
+<$A> 
+<ICE-HK:S1A-071#576:1:A>
+Cinema Paradiso
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X577:1:Z>
+I think it sounds familiar <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X578:1:Z>
+It  ' s probably just one of little <{2> <[2> <,> </[2> things that
+
+<ICE-HK:S1A-071#X579:1:Z>
+<?> Cinema sort of them </?>
+
+<ICE-HK:S1A-071#X580:1:Z>
+<{3> <[3> Yeah </[3> </X>
+
+<$A> 
+<ICE-HK:S1A-071#581:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#582:1:A>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-071#583:1:A>
+<[3> So </[3> </{3> do you like uhm like <?> more the </?>
+Chocolate
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X584:1:Z>
+I haven't seen that </X>
+
+<$A> 
+<ICE-HK:S1A-071#585:1:A>
+You haven't <{> <[> seen that </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X586:1:Z>
+<[> I don't </[> </{> read it
+
+<ICE-HK:S1A-071#X587:1:Z>
+I don't </X>
+
+<$A> 
+<ICE-HK:S1A-071#588:1:A>
+<{> <[> Is your sister love it
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X589:1:Z>
+<[> Is it good </[> </{>
+
+<ICE-HK:S1A-071#X590:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X591:1:Z>
+She love it </X>
+
+<$A> 
+<ICE-HK:S1A-071#592:1:A>
+I love it too
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X593:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X594:1:Z>
+Did you like the movie <?> Amenable </?> </X>
+
+<$A> 
+<ICE-HK:S1A-071#595:1:A>
+And <?> seenable </?>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X596:1:Z>
+Oh you haven't
+
+<ICE-HK:S1A-071#X597:1:Z>
+You haven't read the book </X>
+
+<$A> 
+<ICE-HK:S1A-071#598:1:A>
+Yeah but
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X599:1:Z>
+The review <{> <[> was good </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#600:1:A>
+<[> Man </[> </{> man many people <,> think it  ' s strange
+
+<ICE-HK:S1A-071#601:1:A>
+<{1> <[1> Because </[1> uhm <,> the English tradition is very
+special <{2> <[2> <,> </[2> director
+
+<ICE-HK:S1A-071#602:1:A>
+You just get a woman uh <,> uh on on on eating her dinner
+
+<ICE-HK:S1A-071#603:1:A>
+And suddenly going out riding on her horse without clothes
+
+<ICE-HK:S1A-071#604:1:A>
+Because it  ' s uhm symbolic meaning
+
+<ICE-HK:S1A-071#605:1:A>
+<{3> <[3> I mean in </[3> all the images
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X606:1:Z>
+<[1> Yeah </[1> </{1>
+
+<ICE-HK:S1A-071#X607:1:Z>
+<[2> Yeah </[2> </{2>
+
+<ICE-HK:S1A-071#X608:1:Z>
+<[3> Yeah yeah </[3> </{3>
+
+<ICE-HK:S1A-071#X609:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#610:1:A>
+But it  ' s quite <{> <[> easy </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X611:1:Z>
+<[> Yeah </[> </{> some people dislike it
+
+<ICE-HK:S1A-071#X612:1:Z>
+I think he had concentrated it understand it <{1> <[1> <,> </[1>
+before you can watch it
+
+<ICE-HK:S1A-071#X613:1:Z>
+Some people they don't like
+
+<ICE-HK:S1A-071#X614:1:Z>
+They don't like to sit down and watch it <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X615:1:Z>
+Yeah I haven't read the book or see the movie </X>
+
+<$A> 
+<ICE-HK:S1A-071#616:1:A>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-071#617:1:A>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-071#618:1:A>
+Do you mind <,> going to movie alone
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X619:1:Z>
+Yeah I don't like going alone </X>
+
+<$A> 
+<ICE-HK:S1A-071#620:1:A>
+Uhm uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X621:1:Z>
+Do you like it </X>
+
+<$A> 
+<ICE-HK:S1A-071#622:1:A>
+Yeah sometime <{1> <[1> people </[1>
+
+<ICE-HK:S1A-071#623:1:A>
+Uhm <,>
+
+<ICE-HK:S1A-071#624:1:A>
+When I really want to see the movie and I want want to <{2> <[2>
+concentrate </[2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X625:1:Z>
+<[1> Yeah </[1> </{1>
+
+<ICE-HK:S1A-071#X626:1:Z>
+<[2> Concentrate </[2> </{2> then you go alone </X>
+
+<$A> 
+<ICE-HK:S1A-071#627:1:A>
+But not with company
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X628:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X629:1:Z>
+Yeah yeah
+
+<ICE-HK:S1A-071#X630:1:Z>
+So they just kind of movie <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X631:1:Z>
+Now </X>
+
+<$A> 
+<ICE-HK:S1A-071#632:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#633:1:A>
+Oh my God
+
+<ICE-HK:S1A-071#634:1:A>
+So <,> actually go find something <&> A long pause </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X635:1:Z>
+So what  ' s your last movies are </X>
+
+<$A> 
+<ICE-HK:S1A-071#636:1:A>
+Last movie
+
+<ICE-HK:S1A-071#637:1:A>
+Forrest Gump
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X638:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#639:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X640:1:Z>
+Did you like it </X>
+
+<$A> 
+<ICE-HK:S1A-071#641:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X642:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X643:1:Z>
+Did you really like it or just kind of </X>
+
+<$A> 
+<ICE-HK:S1A-071#644:1:A>
+Uhm
+
+<ICE-HK:S1A-071#645:1:A>
+But <.> si </.> <{> <[> <,,> not as </[>
+
+<ICE-HK:S1A-071#646:1:A>
+Not as good as People Say
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X647:1:Z>
+<[> Uhm at uh </[> </{>
+
+<ICE-HK:S1A-071#X648:1:Z>
+People Say <{> <[> yeah </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#649:1:A>
+<[> Yeah </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X650:1:Z>
+Cause everyone said it  ' s so good
+
+<ICE-HK:S1A-071#X651:1:Z>
+I  ' ve I really like it
+
+<ICE-HK:S1A-071#X652:1:Z>
+I saw it twice <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X653:1:Z>
+I really like it
+
+<ICE-HK:S1A-071#X654:1:Z>
+But
+
+<ICE-HK:S1A-071#X655:1:Z>
+Yeah some people think it  ' s too long and boring
+
+<ICE-HK:S1A-071#X656:1:Z>
+Like dragon down </X>
+
+<$A> 
+<ICE-HK:S1A-071#657:1:A>
+<[> Uhm uhm </[> </{>
+
+<ICE-HK:S1A-071#658:1:A>
+I I I <,> I think it  ' s too much theme <,>
+
+<ICE-HK:S1A-071#659:1:A>
+The director want to say
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X660:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#661:1:A>
+Yeah
+
+<ICE-HK:S1A-071#662:1:A>
+And after after <.> si </.> uh after seeing it like <,> cannot
+grabs the main theme of it
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X663:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#664:1:A>
+There  ' s too many thing
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X665:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#666:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X667:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#668:1:A>
+Love friendship <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#669:1:A>
+Uhm family relation as well
+
+<ICE-HK:S1A-071#670:1:A>
+That that  ' s none <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#671:1:A>
+Oh my God
+
+<ICE-HK:S1A-071#672:1:A>
+<unc> Several words </unc>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X673:1:Z>
+<[1> Uh ha </[1> </{1>
+
+<ICE-HK:S1A-071#X674:1:Z>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-071#X675:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X676:1:Z>
+<unc> Several words </unc>
+
+<ICE-HK:S1A-071#X677:1:Z>
+Have you read out pop fiction
+
+<ICE-HK:S1A-071#X678:1:Z>
+I think Henry Potter
+
+<ICE-HK:S1A-071#X679:1:Z>
+Have you has it </X>
+
+<$A> 
+<ICE-HK:S1A-071#680:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X681:1:Z>
+No
+
+<ICE-HK:S1A-071#X682:1:Z>
+Have you sold hand it </X>
+
+<$A> 
+<ICE-HK:S1A-071#683:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X684:1:Z>
+It  ' s okay
+
+<ICE-HK:S1A-071#X685:1:Z>
+It  ' s very violence </X>
+
+<$A> 
+<ICE-HK:S1A-071#686:1:A>
+How about the Walt Disney
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X687:1:Z>
+Uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#688:1:A>
+Lion King <&> Speeches of the first unidentified speaker </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X689:1:Z>
+I <{> <[> really like Lion King </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#690:1:A>
+<[> <unc> Several words </unc> </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X691:1:Z>
+Yeah I like Beauty and the Beast Lion King and Aladdin </X>
+
+<$A> 
+<ICE-HK:S1A-071#692:1:A>
+Yeah I I like them too
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X693:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#694:1:A>
+But many people said that Lion King is not as good as <,> the
+<{> <[> <,> </[> Aladdin
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X695:1:Z>
+<[> Aladdin </[> </{>
+
+<ICE-HK:S1A-071#X696:1:Z>
+No I like Lion King </X>
+
+<$A> 
+<ICE-HK:S1A-071#697:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X698:1:Z>
+What was to say
+
+<ICE-HK:S1A-071#X699:1:Z>
+But I really like Lion King </X>
+
+<$A> 
+<ICE-HK:S1A-071#700:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X701:1:Z>
+I thought that it was very good </X>
+
+<$A> 
+<ICE-HK:S1A-071#702:1:A>
+<{> <[> I brought </[> the CD
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X703:1:Z>
+<[> Uh I </[> </{>
+
+<ICE-HK:S1A-071#X704:1:Z>
+Yeah so did I
+
+<ICE-HK:S1A-071#X705:1:Z>
+But <.> Alad </.> Aladdin was pretty good
+
+<ICE-HK:S1A-071#X706:1:Z>
+May I have the <{> <[> secret
+
+<ICE-HK:S1A-071#X707:1:Z>
+And I  ' ve seen </[> it so many times </X>
+
+<$A> 
+<ICE-HK:S1A-071#708:1:A>
+<[> Yeah very funny </[> </{> <&>
+
+<$A> laughs </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X709:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X710:1:Z>
+But I don't really like like
+
+<ICE-HK:S1A-071#X711:1:Z>
+I like them I don't really like uhm Cinderella and <unc> two
+words </unc> </X>
+
+<$A> 
+<ICE-HK:S1A-071#712:1:A>
+Oh I don't mean
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X713:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#714:1:A>
+The Little Mermaid
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X715:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X716:1:Z>
+I don't mind it  ' s okay
+
+<ICE-HK:S1A-071#X717:1:Z>
+I don't like Cinderella Pinocchio <,> <&>
+
+<$A> laughs </&> Snow White uh and boring </X>
+
+<$A> 
+<ICE-HK:S1A-071#718:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X719:1:Z>
+And I really like Bambi
+
+<ICE-HK:S1A-071#X720:1:Z>
+That  ' s pretty short though </X>
+
+<$A> 
+<ICE-HK:S1A-071#721:1:A>
+Uhm uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X722:1:Z>
+Right </X>
+
+<$A> 
+<ICE-HK:S1A-071#723:1:A>
+I request you
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X724:1:Z>
+Pretty short </X>
+
+<$A> 
+<ICE-HK:S1A-071#725:1:A>
+Short
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X726:1:Z>
+Have you seen anyone that </X>
+
+<$A> 
+<ICE-HK:S1A-071#727:1:A>
+I risk the head
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X728:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#729:1:A>
+No dead
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X730:1:Z>
+No
+
+<ICE-HK:S1A-071#X731:1:Z>
+Do you want <{> <[> it is </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#732:1:A>
+<[> It  ' s </[> </{> it  ' s an old movie <{1> <[1> <,,>
+
+<ICE-HK:S1A-071#733:1:A>
+It  ' s </[1> old one to <.> ad </.> adapted <{2> <[2> I see </[2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X734:1:Z>
+<[1> Uh </[1> </{1>
+
+<ICE-HK:S1A-071#X735:1:Z>
+<[2> Oh really </[2> </{2>
+
+<ICE-HK:S1A-071#X736:1:Z>
+So it hasn't been on video yet </X>
+
+<$A> 
+<ICE-HK:S1A-071#737:1:A>
+No <{> <[> it  ' s </[> showing now
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X738:1:Z>
+<[> No </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-071#739:1:A>
+<{> <[> It  ' s showing </[> now in the theater
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X740:1:Z>
+<[> Okay </[> </{>
+
+<ICE-HK:S1A-071#X741:1:Z>
+Oh was it shown before
+
+<ICE-HK:S1A-071#X742:1:Z>
+Will it show in again </X>
+
+<$A> 
+<ICE-HK:S1A-071#743:1:A>
+No no
+
+<ICE-HK:S1A-071#744:1:A>
+<{> <[> It  ' s </[> the first time
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X745:1:Z>
+<[> Oh </[> </{>
+
+<ICE-HK:S1A-071#X746:1:Z>
+Oh <,>
+
+<ICE-HK:S1A-071#X747:1:Z>
+Okay <,>
+
+<ICE-HK:S1A-071#X748:1:Z>
+Oh I get it <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X749:1:Z>
+Renew like they make it more ma more like </X>
+
+<$A> 
+<ICE-HK:S1A-071#750:1:A>
+<[> I get </[> </{>
+
+<ICE-HK:S1A-071#751:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X752:1:Z>
+Okay
+
+<ICE-HK:S1A-071#X753:1:Z>
+But I don't like that
+
+<ICE-HK:S1A-071#X754:1:Z>
+I don't know <?> option </?> </X>
+
+<$A> 
+<ICE-HK:S1A-071#755:1:A>
+Do you have any favourite star or
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X756:1:Z>
+Uhm <,> </X>
+
+<$A> 
+<ICE-HK:S1A-071#757:1:A>
+Uh
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X758:1:Z>
+Hong Kong star <,> or like any stars </X>
+
+<$A> 
+<ICE-HK:S1A-071#759:1:A>
+Any stars
+
+<ICE-HK:S1A-071#760:1:A>
+Uhm I like a lot
+
+<ICE-HK:S1A-071#761:1:A>
+Uhm I like <unc> one-word </unc>
+
+<ICE-HK:S1A-071#762:1:A>
+You have any
+
+<ICE-HK:S1A-071#763:1:A>
+I like <unc> two words </unc> <{> <[> <,>
+
+<ICE-HK:S1A-071#764:1:A>
+You </[> have any
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X765:1:Z>
+<[> Uhm </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-071#766:1:A>
+Robin Williams Robert De Niro
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X767:1:Z>
+Yeah Robin Williams is really <{1> <[1> famous </[1>
+
+<ICE-HK:S1A-071#X768:1:Z>
+Have you seen Mrs Doubtfire <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X769:1:Z>
+You haven't seen that
+
+<ICE-HK:S1A-071#X770:1:Z>
+Oh my goddess
+
+<ICE-HK:S1A-071#X771:1:Z>
+You have to see it
+
+<ICE-HK:S1A-071#X772:1:Z>
+<{3> <[3> It  ' s really good </[3>
+
+<ICE-HK:S1A-071#X773:1:Z>
+Uhm I like <,,> I like I like <{4> <[> <,> </[4>
+
+<ICE-HK:S1A-071#X774:1:Z>
+Uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#775:1:A>
+<[1> Yeah </[1> </{1>
+
+<ICE-HK:S1A-071#776:1:A>
+<[2> No </[2> </{2>
+
+<ICE-HK:S1A-071#777:1:A>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-071#778:1:A>
+<[4> Hook </[4> </{4>
+
+<ICE-HK:S1A-071#779:1:A>
+Hook
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X780:1:Z>
+Oh I
+
+<ICE-HK:S1A-071#X781:1:Z>
+Yeah I like Hook such <unc> several words </unc> such
+movie <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X782:1:A>
+So I like
+
+<ICE-HK:S1A-071#X783:1:A>
+I <unc> one-word </unc> seen that </X>
+
+<$A> 
+<ICE-HK:S1A-071#784:1:A>
+Yeah who is the captain of <?> Hook </?>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X785:1:Z>
+Dustin Hoffman </X>
+
+<$A> 
+<ICE-HK:S1A-071#786:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X787:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X788:1:Z>
+<{> <[> Okay I </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#789:1:A>
+<[> Then I know </[> </{> <.> Dus </.> Dustin Hoffman too
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X790:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X791:1:Z>
+Did you see Rain Man </X>
+
+<$A> 
+<ICE-HK:S1A-071#792:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X793:1:Z>
+Well that  ' s really good
+
+<ICE-HK:S1A-071#X794:1:Z>
+<{> <[> I </[> love it very much </X>
+
+<$A> 
+<ICE-HK:S1A-071#795:1:A>
+<[> Uhm </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X796:1:Z>
+Have you seen Interview with the Vampire </X>
+
+<$A> 
+<ICE-HK:S1A-071#797:1:A>
+No <{> <[> no </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X798:1:Z>
+<[> Be it </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-071#799:1:A>
+Have you seen it
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X800:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1A-071#801:1:A>
+Oh dear
+
+<ICE-HK:S1A-071#802:1:A>
+I I don't really like Tom Cruise
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X803:1:Z>
+Yeah I don't really like Tom Cruise anymore
+
+<ICE-HK:S1A-071#X804:1:Z>
+Are you still <{> <[> like him </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#805:1:A>
+<[> I used to like him </[> </{>
+
+<ICE-HK:S1A-071#806:1:A>
+Yeah I used to like <{> <[> him in Top Gun </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X807:1:Z>
+<[> Yeah
+
+<ICE-HK:S1A-071#X808:1:Z>
+I like someone in the term </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-071#809:1:A>
+Yeah <&>
+
+<$A> laughs </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X810:1:Z>
+Someone like <,> Oh Cocktail <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X811:1:A>
+I like Tinman Cocktail
+
+<ICE-HK:S1A-071#X812:1:A>
+I like more too
+
+<ICE-HK:S1A-071#X813:1:A>
+I don't like him anymore </X>
+
+<$A> 
+<ICE-HK:S1A-071#814:1:A>
+Uhm yeah
+
+<ICE-HK:S1A-071#815:1:A>
+Uhm <,>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X816:1:Z>
+What type do you like </X>
+
+<$A> 
+<ICE-HK:S1A-071#817:1:A>
+I don't know
+
+<ICE-HK:S1A-071#818:1:A>
+Like I like
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X819:1:Z>
+You like Keanu Reeves </X>
+
+<$A> 
+<ICE-HK:S1A-071#820:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X821:1:Z>
+Yeah <{> <[> yeah </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#822:1:A>
+<[> But </[> </{> I don't
+
+<ICE-HK:S1A-071#823:1:A>
+Is he in Speed
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X824:1:Z>
+Yeah a lot of people
+
+<ICE-HK:S1A-071#X825:1:Z>
+Have you seen Much Ado About Nothing </X>
+
+<$A> 
+<ICE-HK:S1A-071#826:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X827:1:Z>
+The Shakespeare </X>
+
+<$A> 
+<ICE-HK:S1A-071#828:1:A>
+Uhm the Shakespeare
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X829:1:Z>
+Oh no
+
+<ICE-HK:S1A-071#X830:1:Z>
+His <{> <[> <.> Shake </.> </[>
+
+<ICE-HK:S1A-071#X831:1:Z>
+His Shakespeare movie </X>
+
+<$A> 
+<ICE-HK:S1A-071#832:1:A>
+<[> No </[> </{>
+
+<ICE-HK:S1A-071#833:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X834:1:Z>
+Yeah that was really very good
+
+<ICE-HK:S1A-071#X835:1:Z>
+Other people say it was really good but <,> I am <{> <[> <?>
+seldom </?> </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#836:1:A>
+<[> Do </[> </{> you like The Bodyguard
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X837:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X838:1:Z>
+That  ' s too much you know <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X839:1:Z>
+Yeah I mean did you like it </X>
+
+<$A> 
+<ICE-HK:S1A-071#840:1:A>
+<[> Uhm uhm </[> </{>
+
+<ICE-HK:S1A-071#841:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X842:1:Z>
+Yeah that was pretty good <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X843:1:Z>
+Well you can't only watch it once <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X844:1:A>
+Because it was so corny <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X845:1:A>
+That was pretty good </X>
+
+<$A> 
+<ICE-HK:S1A-071#846:1:A>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-071#847:1:A>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-071#848:1:A>
+Do you have any favourite <,> female star
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X849:1:Z>
+Favourite female star
+
+<ICE-HK:S1A-071#X850:1:Z>
+Uhm <,,> I like
+
+<ICE-HK:S1A-071#X851:1:Z>
+Who do I like
+
+<ICE-HK:S1A-071#X852:1:Z>
+I don't know
+
+<ICE-HK:S1A-071#X853:1:Z>
+I like <,,>
+
+<ICE-HK:S1A-071#X854:1:Z>
+Basically I though Julia Roberts is faint but I only couldn't <,>
+
+<ICE-HK:S1A-071#X855:1:Z>
+Julia Roberts <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X856:1:Z>
+I like her no wonder why her
+
+<ICE-HK:S1A-071#X857:1:Z>
+I like <,> <unc> one-word </unc>
+
+<ICE-HK:S1A-071#X858:1:Z>
+Or I like Sarah Jessica Parker
+
+<ICE-HK:S1A-071#X859:1:Z>
+Do you know who she is <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X860:1:Z>
+She  ' s in uhm Honeymoon in Vegas </X>
+
+<$A> 
+<ICE-HK:S1A-071#861:1:A>
+<[1> Uh </[1> </{1>
+
+<ICE-HK:S1A-071#862:1:A>
+<[2> No </[2> </{2>
+
+<ICE-HK:S1A-071#863:1:A>
+Uh I <{> <[> see </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X864:1:Z>
+<[> Now </[> </{> <unc> two words </unc>
+
+<ICE-HK:S1A-071#X865:1:Z>
+Is she pretty good
+
+<ICE-HK:S1A-071#X866:1:Z>
+I fond like her <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X867:1:Z>
+How about you </X>
+
+<$A> 
+<ICE-HK:S1A-071#868:1:A>
+<[> Uhm uhm </[> </{>
+
+<ICE-HK:S1A-071#869:1:A>
+Uhm <,,>
+
+<ICE-HK:S1A-071#870:1:A>
+I can't remember
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X871:1:Z>
+Remember <{> <[> yeah </[>
+
+<ICE-HK:S1A-071#X872:1:Z>
+Something I </X>
+
+<$A> 
+<ICE-HK:S1A-071#873:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#874:1:A>
+I like Meryl Streep
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X875:1:Z>
+Oh yeah
+
+<ICE-HK:S1A-071#X876:1:Z>
+Have you seen Death Becomes Her </X>
+
+<$A> 
+<ICE-HK:S1A-071#877:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X878:1:Z>
+Oh it  ' s not good
+
+<ICE-HK:S1A-071#X879:1:Z>
+I don't I don't like it at all </X>
+
+<$A> 
+<ICE-HK:S1A-071#880:1:A>
+Uhm
+
+<ICE-HK:S1A-071#881:1:A>
+I  ' ve seen only <,> some of her old <{> <[> movie </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X882:1:Z>
+<[> Oh </[> </{>
+
+<ICE-HK:S1A-071#X883:1:Z>
+Have you seen her new one The River Wild </X>
+
+<$A> 
+<ICE-HK:S1A-071#884:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X885:1:Z>
+No no I haven't seen that either yet </X>
+
+<$A> 
+<ICE-HK:S1A-071#886:1:A>
+I  ' ve seen uhm <,> Kramer vs. Kramer <,>
+
+<ICE-HK:S1A-071#887:1:A>
+It  ' s a <{> <[> real old </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X888:1:Z>
+<[> Oh it sounds </[> </{> familiar
+
+<ICE-HK:S1A-071#X889:1:Z>
+No I haven't seen it but I know it quite old yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#890:1:A>
+<{> <[> And </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X891:1:Z>
+<[> And </[> </{> <,>
+
+<ICE-HK:S1A-071#X892:1:Z>
+I wish like that </X> <&> Speeches by the first unidentified
+speaker </&>
+
+<$A> 
+<ICE-HK:S1A-071#893:1:A>
+Is she in that
+
+<ICE-HK:S1A-071#894:1:A>
+Is she in that <&> Speeches by the first unidentified speaker </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X895:1:Z>
+Oh really
+
+<ICE-HK:S1A-071#X896:1:Z>
+The woman of what </X>
+
+<$A> 
+<ICE-HK:S1A-071#897:1:A>
+I I mean
+
+<ICE-HK:S1A-071#898:1:A>
+I don't know <,> exact
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X899:1:Z>
+<{> <[> You thought </[> human car </X>
+
+<$A> 
+<ICE-HK:S1A-071#900:1:A>
+<[> I thought </[> </{>
+
+<ICE-HK:S1A-071#901:1:A>
+Yeah
+
+<ICE-HK:S1A-071#902:1:A>
+<{> <[> Uh but </[> Woman of the French Lieutenant
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X903:1:Z>
+<[> Uh </[> </{>
+
+<ICE-HK:S1A-071#X904:1:Z>
+Uh no
+
+<ICE-HK:S1A-071#X905:1:Z>
+I think <{> <[> I </[> don't know </X>
+
+<$A> 
+<ICE-HK:S1A-071#906:1:A>
+<[> Yeah </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X907:1:Z>
+Uh <,>
+
+<ICE-HK:S1A-071#X908:1:Z>
+How about your favourite male star </X>
+
+<$A> 
+<ICE-HK:S1A-071#909:1:A>
+Uhm <,,>
+
+<ICE-HK:S1A-071#910:1:A>
+No I like <,> <{> <[> I like Al Pacino </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X911:1:Z>
+<[> I like Harrison Ford </[> </{>
+
+<ICE-HK:S1A-071#X912:1:Z>
+Al Pacino
+
+<ICE-HK:S1A-071#X913:1:Z>
+Yeah Al Pacino is pretty good
+
+<ICE-HK:S1A-071#X914:1:Z>
+I like Harrison Ford </X>
+
+<$A> 
+<ICE-HK:S1A-071#915:1:A>
+Oh
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X916:1:Z>
+Yeah I really like him </X>
+
+<$A> 
+<ICE-HK:S1A-071#917:1:A>
+Have you seen uhm Clear and Present Danger
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X918:1:Z>
+No I haven't </X>
+
+<$A> 
+<ICE-HK:S1A-071#919:1:A>
+You haven't
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X920:1:Z>
+I haven't seen that
+
+<ICE-HK:S1A-071#X921:1:Z>
+I  ' ve seen uhm Patriot Games </X>
+
+<$A> 
+<ICE-HK:S1A-071#922:1:A>
+Oh no
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X923:1:Z>
+Had
+
+<ICE-HK:S1A-071#X924:1:Z>
+Oh Clear and Present Danger had come here ready </X>
+
+<$A> 
+<ICE-HK:S1A-071#925:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X926:1:Z>
+Have you seen the <unc> one-word </unc> yet </X>
+
+<$A> 
+<ICE-HK:S1A-071#927:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X928:1:Z>
+I haven't seen that <{> <[> and </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#929:1:A>
+<[> There  ' s </[> </{> somebody said that uhm <,> the Clear
+and Present Danger
+
+<ICE-HK:S1A-071#930:1:A>
+In in the Clear and Present Danger Harrison Ford is too old for
+<,> for
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X931:1:Z>
+Uh that <{> <[> role </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#932:1:A>
+<[> He can </[> </{>
+
+<ICE-HK:S1A-071#933:1:A>
+Yeah the role
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X934:1:Z>
+Oh
+
+<ICE-HK:S1A-071#X935:1:Z>
+Oh no
+
+<ICE-HK:S1A-071#X936:1:Z>
+<{> <[> I <?> don't </?> like him </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#937:1:A>
+<[> I like uhm </[> </{> <,> Indiana Jones
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X938:1:Z>
+<{1> <[1> Yeah </[1>
+
+<ICE-HK:S1A-071#X939:1:Z>
+The Last Crusade <{2> <[2> was good </[2>
+
+<ICE-HK:S1A-071#X940:1:Z>
+The Last Crusade was really good
+
+<ICE-HK:S1A-071#X941:1:Z>
+But <,> I don't know <,> I don't know where they <unc> two
+words </unc> </X>
+
+<$A> 
+<ICE-HK:S1A-071#942:1:A>
+<[1> Yeah </[1> </{1>
+
+<ICE-HK:S1A-071#943:1:A>
+<[2> Yeah </[2> </{2>
+
+<ICE-HK:S1A-071#944:1:A>
+Uhm uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X945:1:Z>
+Have you seen Star Wars
+
+<ICE-HK:S1A-071#X946:1:Z>
+<?> Other one </?> seen Star Wars </X>
+
+<$A> 
+<ICE-HK:S1A-071#947:1:A>
+Yeah both are good
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X948:1:Z>
+Yeah so do I <{> <[> <,>
+
+<ICE-HK:S1A-071#X949:1:Z>
+I </[> better lost it
+
+<ICE-HK:S1A-071#X950:1:Z>
+I don't remember
+
+<ICE-HK:S1A-071#X951:1:Z>
+What  ' s <unc> one-word </unc> <,>
+
+<ICE-HK:S1A-071#X952:1:Z>
+Uhm <,,> uhm
+
+<ICE-HK:S1A-071#X953:1:Z>
+You like Robert De Niro </X>
+
+<$A> 
+<ICE-HK:S1A-071#954:1:A>
+<[> Uhm uhm </[> </{>
+
+<ICE-HK:S1A-071#955:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X956:1:Z>
+Uhm uhm
+
+<ICE-HK:S1A-071#X957:1:Z>
+Yeah Robert De Niro is pretty good </X>
+
+<$A> 
+<ICE-HK:S1A-071#958:1:A>
+Yeah
+
+<ICE-HK:S1A-071#959:1:A>
+You should you should see Awakenings
+
+<ICE-HK:S1A-071#960:1:A>
+You  ' ll love <{> <[> it </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X961:1:Z>
+<[> Oh </[> </{>
+
+<ICE-HK:S1A-071#X962:1:Z>
+Oh
+
+<ICE-HK:S1A-071#X963:1:Z>
+I think <unc> several words </unc>
+
+<ICE-HK:S1A-071#X964:1:Z>
+But I haven't seen that </X>
+
+<$A> 
+<ICE-HK:S1A-071#965:1:A>
+Uhm uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X966:1:Z>
+Yeah I haven't seen that <.> mov </.>
+
+<ICE-HK:S1A-071#X967:1:Z>
+Is supposed to be not very good as Frankenstein
+
+<ICE-HK:S1A-071#X968:1:Z>
+And Frankenstein does not very great movie <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X969:1:Z>
+But I don't know
+
+<ICE-HK:S1A-071#X970:1:Z>
+I haven't seen that so I don't know
+
+<ICE-HK:S1A-071#X971:1:Z>
+Or here  ' s Frankenstein </X>
+
+<$A> 
+<ICE-HK:S1A-071#972:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#973:1:A>
+But there  ' s <,> the soundtrack of Frankenstein <,> already in the
+<{> <[> uhm <,> yeah in the store </[>
+
+<$Z> <X> <[>
+
+<ICE-HK:S1A-071#X974:1:Z>
+Oh in the store
+
+<ICE-HK:S1A-071#X975:1:Z>
+Oh </[> </{> really </X>
+
+<$A> 
+<ICE-HK:S1A-071#976:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X977:1:Z>
+Uh I like Denzel Washington </X>
+
+<$A> 
+<ICE-HK:S1A-071#978:1:A>
+Dance of Washington
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X979:1:Z>
+No Denzel Washington you know that
+
+<ICE-HK:S1A-071#X980:1:Z>
+Have you seen Pelican Brief </X>
+
+<$A> 
+<ICE-HK:S1A-071#981:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X982:1:Z>
+You know that him <,> that guy <,>
+
+<ICE-HK:S1A-071#X983:1:Z>
+That help dirt the black guy </X>
+
+<$A> 
+<ICE-HK:S1A-071#984:1:A>
+The black guy
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X985:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X986:1:Z>
+I like him </X>
+
+<$A> 
+<ICE-HK:S1A-071#987:1:A>
+Uhm uhm
+
+<ICE-HK:S1A-071#988:1:A>
+<&> tut </&>
+
+<ICE-HK:S1A-071#989:1:A>
+<{> <[> I think </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X990:1:Z>
+<[> I like </[> </{> Tom Hanks </X>
+
+<$A> 
+<ICE-HK:S1A-071#991:1:A>
+<{> <[> Yeah </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X992:1:Z>
+<[> I like </[> </{> Tom Hanks </X>
+
+<$A> 
+<ICE-HK:S1A-071#993:1:A>
+But haven't seen Philadelphia
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X994:1:Z>
+You haven't
+
+<ICE-HK:S1A-071#X995:1:Z>
+Oh oh Philadelphia Denzel Washington and Tom Hanks isn't it <{>
+<[> <,> </[>
+
+<ICE-HK:S1A-071#X996:1:Z>
+It  ' s really it  ' s pretty good </X>
+
+<$A> 
+<ICE-HK:S1A-071#997:1:A>
+<[> Oh </[> </{>
+
+<ICE-HK:S1A-071#998:1:A>
+Uhm uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X999:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1000:1:Z>
+I guess it  ' s how to see people then
+
+<ICE-HK:S1A-071#X1001:1:Z>
+So <,> yeah it  ' s pretty good
+
+<ICE-HK:S1A-071#X1002:1:Z>
+<{> <[> You </[> should see it
+
+<ICE-HK:S1A-071#X1003:1:Z>
+It  ' s pretty sad </X>
+
+<$A> 
+<ICE-HK:S1A-071#1004:1:A>
+<[> Uhm uhm </[> </{>
+
+<ICE-HK:S1A-071#1005:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1006:1:Z>
+But it  ' s pretty good yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#1007:1:A>
+Uhm
+
+<ICE-HK:S1A-071#1008:1:A>
+Do you go to the movie often
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1009:1:Z>
+A kind of <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X1010:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1011:1:Z>
+That are I usually do like <unc> Several words </unc>
+
+<ICE-HK:S1A-071#X1012:1:Z>
+Who  ' s seen it for movie half price
+
+<ICE-HK:S1A-071#X1013:1:Z>
+<{2> <[2> So </[2> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1014:1:A>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1015:1:A>
+<[2> It </[2> </{2>
+
+<ICE-HK:S1A-071#1016:1:A>
+It  ' s half price
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1017:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1018:1:Z>
+<{> <[> So </[> it  ' s only uhm <,> four dollars to see a movie
+</X>
+
+<$A> 
+<ICE-HK:S1A-071#1019:1:A>
+<[> I think </[> </{>
+
+<ICE-HK:S1A-071#1020:1:A>
+Oh it  ' s really cheap
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1021:1:Z>
+Oh really
+
+<ICE-HK:S1A-071#X1022:1:Z>
+Some have
+
+<ICE-HK:S1A-071#X1023:1:Z>
+We have university card there was two dollars <,> to see movie
+that are <,> are <?> armable tree mon </?> on <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X1024:1:Z>
+And then when Tuesday night come a dollar <,,> to <{2> <[2> go
+<,> </[2>
+
+<ICE-HK:S1A-071#X1025:1:Z>
+Yeah to go see movie
+
+<ICE-HK:S1A-071#X1026:1:Z>
+But it  ' s <,> an on movie <{3> <[3> <,> </[3>
+
+<ICE-HK:S1A-071#X1027:1:Z>
+But it  ' s really cheap <{4> <[4> <,> </[4>
+
+<ICE-HK:S1A-071#X1028:1:Z>
+So but they don't have too many old skills that they want this
+to help us
+
+<ICE-HK:S1A-071#X1029:1:Z>
+But none how much is it over here <,> to see a movie </X>
+
+<$A> 
+<ICE-HK:S1A-071#1030:1:A>
+<[1> Oh </[1> </{1>
+
+<ICE-HK:S1A-071#1031:1:A>
+<[2> A dollar </[2> </{2>
+
+<ICE-HK:S1A-071#1032:1:A>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-071#1033:1:A>
+<[4> Uhm uhm </[4> </{4>
+
+<ICE-HK:S1A-071#1034:1:A>
+Uhm fifty
+
+<ICE-HK:S1A-071#1035:1:A>
+Forty five to fifty
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1036:1:Z>
+Forty five to fifty
+
+<ICE-HK:S1A-071#X1037:1:Z>
+Yeah that  ' s around
+
+<ICE-HK:S1A-071#X1038:1:Z>
+If we go see it only
+
+<ICE-HK:S1A-071#X1039:1:Z>
+It  ' s for eight dollars </X>
+
+<$A> 
+<ICE-HK:S1A-071#1040:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1041:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1042:1:Z>
+So <.> de </.>
+
+<ICE-HK:S1A-071#X1043:1:Z>
+They don't have to
+
+<ICE-HK:S1A-071#X1044:1:Z>
+They don't have the student prices over here </X>
+
+<$A> 
+<ICE-HK:S1A-071#1045:1:A>
+Only once they do have
+
+<ICE-HK:S1A-071#1046:1:A>
+For the <,> uh twelve o'clock and two thirty show <,> on weekday
+only
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1047:1:Z>
+Oh </X>
+
+<$A> 
+<ICE-HK:S1A-071#1048:1:A>
+But it  ' s not half price
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1049:1:Z>
+How much is it </X>
+
+<$A> 
+<ICE-HK:S1A-071#1050:1:A>
+I think it  ' s thirty five <?> doll </?>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1051:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#1052:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1053:1:Z>
+We don't have student prices anymore
+
+<ICE-HK:S1A-071#X1054:1:Z>
+We used to have student prices </X>
+
+<$A> 
+<ICE-HK:S1A-071#1055:1:A>
+Have you seen any Japanese movie
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1056:1:Z>
+Japanese movie
+
+<ICE-HK:S1A-071#X1057:1:Z>
+Like an English Japanese movie
+
+<ICE-HK:S1A-071#X1058:1:Z>
+Like Rising Sun </X>
+
+<$A> 
+<ICE-HK:S1A-071#1059:1:A>
+No no
+
+<ICE-HK:S1A-071#1060:1:A>
+Play by Japanese
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1061:1:Z>
+No I haven't </X>
+
+<$A> 
+<ICE-HK:S1A-071#1062:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1063:1:Z>
+Like what </X>
+
+<$A> 
+<ICE-HK:S1A-071#1064:1:A>
+The Yen Family
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1065:1:Z>
+No I didn't heard of that </X>
+
+<$A> 
+<ICE-HK:S1A-071#1066:1:A>
+Maybe <,> maybe didn't go to Canada
+
+<$Z> 
+<ICE-HK:S1A-071#1067:1:Z>
+<X>
+
+<ICE-HK:S1A-071#X1068:1:Z>
+No nothing it did </X>
+
+<$A> 
+<ICE-HK:S1A-071#1069:1:A>
+Uhm uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1070:1:Z>
+Was it good </X>
+
+<$A> 
+<ICE-HK:S1A-071#1071:1:A>
+Yes <{> <[> it  ' s </[> quite funny
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1072:1:Z>
+<[> Yeah </[> </{>
+
+<ICE-HK:S1A-071#X1073:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1074:1:Z>
+Or is it comedy
+
+<ICE-HK:S1A-071#X1075:1:Z>
+Or is it a drama </X>
+
+<$A> 
+<ICE-HK:S1A-071#1076:1:A>
+Comedy
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1077:1:Z>
+Comedy </X>
+
+<$A> 
+<ICE-HK:S1A-071#1078:1:A>
+Uh
+
+<ICE-HK:S1A-071#1079:1:A>
+And the <,> Japanese TV series is really good
+
+<ICE-HK:S1A-071#1080:1:A>
+It  ' s heating Hong Kong
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1081:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#1082:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1083:1:Z>
+Oh <{> <[> so </[> it  ' s on now </X>
+
+<$A> 
+<ICE-HK:S1A-071#1084:1:A>
+<[> It  ' s </[> </{>
+
+<ICE-HK:S1A-071#1085:1:A>
+Yeah <{> <[> many </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1086:1:Z>
+<[> Oh </[> </{> <,> okay
+
+<ICE-HK:S1A-071#X1087:1:Z>
+Oh I haven't seen any of them
+
+<ICE-HK:S1A-071#X1088:1:Z>
+And I never did it </X>
+
+<$A> 
+<ICE-HK:S1A-071#1089:1:A>
+Do you watch TV <,> in <{> <[> <,> Canada </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1090:1:Z>
+<[> Canada </[> </{>
+
+<ICE-HK:S1A-071#X1091:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1092:1:Z>
+That too much
+
+<ICE-HK:S1A-071#X1093:1:Z>
+I do watch TV now </X>
+
+<$A> 
+<ICE-HK:S1A-071#1094:1:A>
+Uhm uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1095:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1096:1:Z>
+they have a lot of Russian movie here don't they
+
+<ICE-HK:S1A-071#X1097:1:Z>
+Like uh Silence <?> Fairhouse <,> Forehouse </?> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1098:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1099:1:Z>
+No
+
+<ICE-HK:S1A-071#X1100:1:Z>
+I have <unc> one words </unc> like Someone I Love You
+
+<ICE-HK:S1A-071#X1101:1:Z>
+Uhm
+
+<ICE-HK:S1A-071#X1102:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1103:1:Z>
+You should yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#1104:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1105:1:Z>
+They have
+
+<ICE-HK:S1A-071#X1106:1:Z>
+We have a lot more channels over there
+
+<ICE-HK:S1A-071#X1107:1:Z>
+Oh we can have only about three or four
+
+<ICE-HK:S1A-071#X1108:1:Z>
+Four right </X>
+
+<$A> 
+<ICE-HK:S1A-071#1109:1:A>
+Four
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1110:1:Z>
+Four yeah
+
+<ICE-HK:S1A-071#X1111:1:Z>
+Over there we have <,> ten <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X1112:1:A>
+You have Cable you have like fifteen channels </X>
+
+<$A> 
+<ICE-HK:S1A-071#1113:1:A>
+Uhm
+
+<ICE-HK:S1A-071#1114:1:A>
+You have the Star TV <,> here
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1115:1:Z>
+So what TV </X>
+
+<$A> 
+<ICE-HK:S1A-071#1116:1:A>
+Star
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1117:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#1118:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1119:1:Z>
+Oh oh Star
+
+<ICE-HK:S1A-071#X1120:1:Z>
+Uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#1121:1:A>
+But the CNN
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1122:1:Z>
+Oh yeah yeah
+
+<ICE-HK:S1A-071#X1123:1:Z>
+CNN have you have CNN </X>
+
+<$A> 
+<ICE-HK:S1A-071#1124:1:A>
+Okay <,> yeah
+
+<ICE-HK:S1A-071#1125:1:A>
+But everybody watch TV in Hong Kong
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1126:1:Z>
+Uhm uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#1127:1:A>
+After dinner
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1128:1:Z>
+Yeah everyone watch TV over there too continuously after school
+<&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X1129:1:A>
+And they keep watching more than eating dinner
+
+<ICE-HK:S1A-071#X1130:1:A>
+You know keep watching every dinner or they do their own work
+<&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X1131:1:A>
+So </X>
+
+<$A> 
+<ICE-HK:S1A-071#1132:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1133:1:Z>
+Everybody watching <unc> two words </unc> </X> <&> Side
+B </&>
+
+<$A> 
+<ICE-HK:S1A-071#1134:1:A>
+Rachel is this the first time you come to Hong Kong
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1135:1:Z>
+No
+
+<ICE-HK:S1A-071#X1136:1:Z>
+Uhm
+
+<ICE-HK:S1A-071#X1137:1:Z>
+I come I come here for little bit
+
+<ICE-HK:S1A-071#X1138:1:Z>
+I live here for a year and a half when I was seven or eight <{>
+<[> <,>
+
+<ICE-HK:S1A-071#X1139:1:Z>
+And </[> my <.> re </.> all of my relatives are here
+
+<ICE-HK:S1A-071#X1140:1:Z>
+So I come here <unc> two words </unc> to visit everyone
+
+<ICE-HK:S1A-071#X1141:1:Z>
+My sister is here now
+
+<ICE-HK:S1A-071#X1142:1:Z>
+So I come here to visit her </X>
+
+<$A> 
+<ICE-HK:S1A-071#1143:1:A>
+<[> Uhm uhm </[> </{>
+
+<ICE-HK:S1A-071#1144:1:A>
+Do you like Hong Kong
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1145:1:Z>
+Yeah I like shopping <&>
+
+<$A> and
+
+<$Z> laugh </&>
+
+<ICE-HK:S1A-071#X1146:1:Z>
+Yeah I like coming here
+
+<ICE-HK:S1A-071#X1147:1:Z>
+It  ' s kind of crowded though sometimes </X>
+
+<$A> 
+<ICE-HK:S1A-071#1148:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1149:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#1150:1:A>
+If you can choose you want to live in Canada or in <{> <[>
+Hong Kong </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1151:1:Z>
+<[> Canada </[> </{> <&>
+
+<$A> and
+
+<$Z> laugh </&>
+
+<ICE-HK:S1A-071#X1152:1:Z>
+Yeah I don't know why I want to live here
+
+<ICE-HK:S1A-071#X1153:1:Z>
+Like </X>
+
+<$A> 
+<ICE-HK:S1A-071#1154:1:A>
+I don't know
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1155:1:Z>
+It  ' s okay
+
+<ICE-HK:S1A-071#X1156:1:Z>
+But I rather like over there
+
+<ICE-HK:S1A-071#X1157:1:Z>
+I would live here but <,>
+
+<ICE-HK:S1A-071#X1158:1:Z>
+Uhm uhm those it  ' really uhm <,>
+
+<ICE-HK:S1A-071#X1159:1:Z>
+I  ' ll I guess it  ' s dirty over there <{1> <[1> <unc> two
+words </unc> </[1>
+
+<ICE-HK:S1A-071#X1160:1:Z>
+So dirty over here <,>
+
+<ICE-HK:S1A-071#X1161:1:Z>
+There  ' s so many people I everything everyone was shouting
+
+<ICE-HK:S1A-071#X1162:1:Z>
+It  ' s really <?> loud and </?> <{2> <[2> <,> </[2> noisy and
+everything
+
+<ICE-HK:S1A-071#X1163:1:Z>
+It  ' s not more peaceful over there
+
+<ICE-HK:S1A-071#X1164:1:Z>
+But I guess it also depends on where you live over there too
+
+<ICE-HK:S1A-071#X1165:1:Z>
+So cause I live in a more quiet area
+
+<ICE-HK:S1A-071#X1166:1:Z>
+So I get some time to use to the noise </X>
+
+<$A> 
+<ICE-HK:S1A-071#1167:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1168:1:A>
+<[2> Yeah </[2> </{2>
+
+<ICE-HK:S1A-071#1169:1:A>
+Uhm uhm
+
+<ICE-HK:S1A-071#1170:1:A>
+Have you <,> have been to other <,,> uhm Asian countries
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1171:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1172:1:Z>
+I  ' ve been to uhm <,> like Japan <,> Korea <,> Singapore <{> <[>
+<,> uh </[> China <,> and several places </X>
+
+<$A> 
+<ICE-HK:S1A-071#1173:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#1174:1:A>
+Which is your favourite <,> places
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1175:1:Z>
+Including Hong Kong
+
+<ICE-HK:S1A-071#X1176:1:Z>
+I like <{1> <[1> Hong </[1> Kong
+
+<ICE-HK:S1A-071#X1177:1:Z>
+But then I like them so much
+
+<ICE-HK:S1A-071#X1178:1:Z>
+So I don't know
+
+<ICE-HK:S1A-071#X1179:1:Z>
+<{2> <[2> They  ' re </[2> all pretty fun
+
+<ICE-HK:S1A-071#X1180:1:Z>
+Yeah and try number one Paris selling and like uhm <,> like
+South Africa <&>
+
+<$A> laughs </&> and like that
+
+<ICE-HK:S1A-071#X1181:1:A>
+Japan I really like Japan like shopping
+
+<ICE-HK:S1A-071#X1182:1:A>
+Everything is really <{3> <[3> like <unc> two words
+</unc> </[3> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1183:1:A>
+<[1> Yeah </[1> </{1>
+
+<ICE-HK:S1A-071#1184:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-071#1185:1:A>
+<[3> Which part </[3> </{3> of China <,> to Beijing
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1186:1:Z>
+Oh I don't know
+
+<ICE-HK:S1A-071#X1187:1:Z>
+I don't know what <{> <[> it  ' s name </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1188:1:A>
+<[> Long </[> </{> time ago
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1189:1:Z>
+No but I just don't know <&>
+
+<$A> and
+
+<$Z> laugh </&>
+
+<ICE-HK:S1A-071#X1190:1:Z>
+I still don't know I still I saw a taxi driver long time <{1>
+<[1> ago
+
+<ICE-HK:S1A-071#X1191:1:Z>
+So </[1> we <,>
+
+<ICE-HK:S1A-071#X1192:1:Z>
+It for a long
+
+<ICE-HK:S1A-071#X1193:1:Z>
+I took a train <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X1194:1:Z>
+and then take a taxi
+
+<ICE-HK:S1A-071#X1195:1:Z>
+So <,> so it  ' s okay
+
+<ICE-HK:S1A-071#X1196:1:Z>
+I think I I  ' ve been to <,> Beijing
+
+<ICE-HK:S1A-071#X1197:1:Z>
+Or cause <,> for some my relatives are there too </X>
+
+<$A> 
+<ICE-HK:S1A-071#1198:1:A>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1199:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-071#1200:1:A>
+Yeah
+
+<ICE-HK:S1A-071#1201:1:A>
+Do you remember the Great Wall
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1202:1:Z>
+I didn't go over the Great Wall </X>
+
+<$A> 
+<ICE-HK:S1A-071#1203:1:A>
+You didn't go
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1204:1:Z>
+No
+
+<ICE-HK:S1A-071#X1205:1:Z>
+My <?> grandside </?>
+
+<ICE-HK:S1A-071#X1206:1:Z>
+I want to go <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X1207:1:Z>
+But I didn't go so </X>
+
+<$A> 
+<ICE-HK:S1A-071#1208:1:A>
+<[> Uhm uhm </[> </{>
+
+<ICE-HK:S1A-071#1209:1:A>
+Oh I would like to visit Japan
+
+<ICE-HK:S1A-071#1210:1:A>
+<{> <[> But </[> it  ' s too expensive
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1211:1:Z>
+<[> Yeah </[> </{>
+
+<ICE-HK:S1A-071#X1212:1:Z>
+Yeah we went <,> a while ago
+
+<ICE-HK:S1A-071#X1213:1:Z>
+When we were living here
+
+<ICE-HK:S1A-071#X1214:1:Z>
+We went visiting a host family
+
+<ICE-HK:S1A-071#X1215:1:Z>
+It  ' s pretty fun <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X1216:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1217:1:Z>
+I I see round
+
+<ICE-HK:S1A-071#X1218:1:Z>
+Everything else is very expensive </X>
+
+<$A> 
+<ICE-HK:S1A-071#1219:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#1220:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1221:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1222:1:Z>
+They  ' ve fun now
+
+<ICE-HK:S1A-071#X1223:1:Z>
+For ask people to
+
+<ICE-HK:S1A-071#X1224:1:Z>
+She  ' s <{> <[> stay over </[> here
+
+<ICE-HK:S1A-071#X1225:1:Z>
+How much is that </X>
+
+<$A> 
+<ICE-HK:S1A-071#1226:1:A>
+<[> Uhm uhm </[> </{>
+
+<ICE-HK:S1A-071#1227:1:A>
+Do you like Japanese food
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1228:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1229:1:Z>
+Some of them I don't like roaster </X>
+
+<$A> 
+<ICE-HK:S1A-071#1230:1:A>
+You you don't like roaster
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1231:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1A-071#1232:1:A>
+Uhm
+
+<ICE-HK:S1A-071#1233:1:A>
+<{> <[> I </[> love it
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1234:1:Z>
+<[> I </[> </{>
+
+<ICE-HK:S1A-071#X1235:1:Z>
+Oh I don't like roaster
+
+<ICE-HK:S1A-071#X1236:1:Z>
+I can't
+
+<ICE-HK:S1A-071#X1237:1:Z>
+I like cherry chicken <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X1238:1:A>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#1239:1:A>
+Korea and Singapore
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1240:1:Z>
+Pardon </X>
+
+<$A> 
+<ICE-HK:S1A-071#1241:1:A>
+How about <.> Ko </.> Korea or <{> <[> Singapore </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1242:1:Z>
+<[> Oh uhm </[> </{> <,>
+
+<ICE-HK:S1A-071#X1243:1:Z>
+Yeah <,> I liked
+
+<ICE-HK:S1A-071#X1244:1:Z>
+Korea is fun but I remember <,> <{> <[> <unc> one word
+</unc> </[> is good </X>
+
+<$A> 
+<ICE-HK:S1A-071#1245:1:A>
+<[> Singapore </[> </{> is boring
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1246:1:Z>
+Singapore
+
+<ICE-HK:S1A-071#X1247:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1248:1:Z>
+There isn't too much fun <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X1249:1:Z>
+Singapore isn't
+
+<ICE-HK:S1A-071#X1250:1:Z>
+Thailand was pretty fun <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X1251:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1252:1:Z>
+Thailand was fun
+
+<ICE-HK:S1A-071#X1253:1:Z>
+There  ' s lot of stuff to do there <{3> <[3> <,> </[3>
+
+<ICE-HK:S1A-071#X1254:1:Z>
+Once romance at the beaches of Africa
+
+<ICE-HK:S1A-071#X1255:1:Z>
+Yeah Singapore has a number during <?> mon </?> churchly
+
+<ICE-HK:S1A-071#X1256:1:Z>
+Hawaii was fun
+
+<ICE-HK:S1A-071#X1257:1:Z>
+I love Hawaii too <{4> <[4> <,> </[4>
+
+<ICE-HK:S1A-071#X1258:1:Z>
+Yeah that was really fun
+
+<ICE-HK:S1A-071#X1259:1:Z>
+I was swimming a lot at the beach <,> walking <{5> <[5> around
+</[5> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1260:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1261:1:A>
+<[2> Yeah </[2> </{2>
+
+<ICE-HK:S1A-071#1262:1:A>
+<[3> Uhm </[3> </{3>
+
+<ICE-HK:S1A-071#1263:1:A>
+<[4> Uhm uhm </[4> </{4>
+
+<ICE-HK:S1A-071#1264:1:A>
+<[5> Is it </[5> </{5> only the beach <,,> that
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1265:1:Z>
+Uhm
+
+<ICE-HK:S1A-071#X1266:1:Z>
+No no shopping is <{> <[> fun too </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1267:1:A>
+<[> Shopping </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1268:1:Z>
+Yeah like
+
+<ICE-HK:S1A-071#X1269:1:Z>
+It  ' s not like mall so it  ' s like side walk stuff
+
+<ICE-HK:S1A-071#X1270:1:Z>
+It  ' s pretty fun
+
+<ICE-HK:S1A-071#X1271:1:Z>
+Uhm you watch a lot of shows like other <,> other hill wood
+girls <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X1272:1:A>
+So that  ' s fun </X>
+
+<$A> 
+<ICE-HK:S1A-071#1273:1:A>
+Uhm have you have you been <&> Speeches of the first
+unidentified speaker </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1274:1:Z>
+Florida
+
+<ICE-HK:S1A-071#X1275:1:Z>
+I  ' ve never been to Florida </X>
+
+<$A> 
+<ICE-HK:S1A-071#1276:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1277:1:Z>
+Everyone went to Florida travel from March break or summer
+
+<ICE-HK:S1A-071#X1278:1:Z>
+But I  ' ve never been to Florida </X>
+
+<$A> 
+<ICE-HK:S1A-071#1279:1:A>
+But people said it  ' s danger to go to Florida now
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1280:1:Z>
+Oh really
+
+<ICE-HK:S1A-071#X1281:1:Z>
+How <{> <[> come </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1282:1:A>
+<[> It is </[> </{>
+
+<ICE-HK:S1A-071#1283:1:A>
+Many people kill the tourists
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1284:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#1285:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1286:1:Z>
+Oh
+
+<ICE-HK:S1A-071#X1287:1:Z>
+They must great </X>
+
+<$A> 
+<ICE-HK:S1A-071#1288:1:A>
+More and more crime there
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1289:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1290:1:Z>
+More tourists you have <{1> <[1> every </[1> year
+
+<ICE-HK:S1A-071#X1291:1:Z>
+Like everyone goes
+
+<ICE-HK:S1A-071#X1292:1:Z>
+Everyone has a cartage there <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#X1293:1:Z>
+So this school <unc> several words </unc> relatively
+cheap stuff </X>
+
+<$A> 
+<ICE-HK:S1A-071#1294:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1295:1:A>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-071#1296:1:A>
+I  ' ve been to Europe
+
+<ICE-HK:S1A-071#1297:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1298:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#1299:1:A>
+A year ago
+
+<ICE-HK:S1A-071#1300:1:A>
+In the <.> sum </.> in the summer vacation
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1301:1:Z>
+Uh ha </X>
+
+<$A> 
+<ICE-HK:S1A-071#1302:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1303:1:Z>
+Is it fun </X>
+
+<$A> 
+<ICE-HK:S1A-071#1304:1:A>
+Yeah really <{> <[> fun </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1305:1:Z>
+<[> Oh </[> </{> I really want to go to Europe <{> <[> like a
+friend </[>
+
+<ICE-HK:S1A-071#X1306:1:Z>
+So it  ' s just a kind of bit
+
+<ICE-HK:S1A-071#X1307:1:Z>
+I  ' ve never been to Europe </X>
+
+<$A> 
+<ICE-HK:S1A-071#1308:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#1309:1:A>
+Uhm
+
+<ICE-HK:S1A-071#1310:1:A>
+I  ' ve been to the ten countries
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1311:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#1312:1:A>
+Including Greece and Turkey
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1313:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#1314:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1315:1:Z>
+Oh I  ' ve never been there </X>
+
+<$A> 
+<ICE-HK:S1A-071#1316:1:A>
+I love Switzerland
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1317:1:Z>
+You pass Switzerland too </X>
+
+<$A> 
+<ICE-HK:S1A-071#1318:1:A>
+Yes <{> <[> <,>
+
+<ICE-HK:S1A-071#1319:1:A>
+It  ' s </[> very picture
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1320:1:Z>
+<[> Oh </[> </{>
+
+<ICE-HK:S1A-071#X1321:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#1322:1:A>
+Like
+
+<ICE-HK:S1A-071#1323:1:A>
+In in in the picture <{> <[> and people there </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1324:1:Z>
+<[> But yeah people curved </[> </{> <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X1325:1:Z>
+You look like there </X>
+
+<$A> 
+<ICE-HK:S1A-071#1326:1:A>
+<[> Yeah </[> </{>
+
+<ICE-HK:S1A-071#1327:1:A>
+Uhm uhm
+
+<ICE-HK:S1A-071#1328:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1329:1:Z>
+Have you been to Italy </X>
+
+<$A> 
+<ICE-HK:S1A-071#1330:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1331:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#1332:1:A>
+Uhm
+
+<ICE-HK:S1A-071#1333:1:A>
+I  ' ve been to <,> uhm <,> Venice Rome and Florence
+
+<ICE-HK:S1A-071#1334:1:A>
+<{1> <[1> Only three </[1> cities
+
+<ICE-HK:S1A-071#1335:1:A>
+<{2> <[2> There  ' s </[2> <?> loven </?>
+
+<ICE-HK:S1A-071#1336:1:A>
+But <,> uhm it  ' s quite dirty and noisy
+
+<ICE-HK:S1A-071#1337:1:A>
+But it is very
+
+<ICE-HK:S1A-071#1338:1:A>
+Uh it  ' s different from <,> the other part of Europe like uhm
+Paris <{3> <[3> and <,> </[3> Amsterdam
+
+<ICE-HK:S1A-071#1339:1:A>
+Because <,> maybe it  ' s due to it has long history
+
+<ICE-HK:S1A-071#1340:1:A>
+There are many monuments and museums all the paintings and <{4>
+<[4> <,> </[4>
+
+<ICE-HK:S1A-071#1341:1:A>
+I love Venice too
+
+<ICE-HK:S1A-071#1342:1:A>
+<{5> <[5> It  ' s clean for </[5>
+
+<ICE-HK:S1A-071#1343:1:A>
+And
+
+<ICE-HK:S1A-071#1344:1:A>
+No it  ' s <,> not as clean as uhm <,> Germany and Paris
+
+<ICE-HK:S1A-071#1345:1:A>
+It  ' s because the northern part is
+
+<ICE-HK:S1A-071#1346:1:A>
+Uh the weather is hotter <{7> <[7> and </[7> <,> uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1347:1:Z>
+<[1> Oh </[1> </{1>
+
+<ICE-HK:S1A-071#X1348:1:Z>
+<[2> Yeah </[2> </{2>
+
+<ICE-HK:S1A-071#X1349:1:Z>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-071#X1350:1:Z>
+<[4> Uhm uhm </[4> </{4>
+
+<ICE-HK:S1A-071#X1351:1:Z>
+<[5> Is it cleaner </[5> </{5>
+
+<ICE-HK:S1A-071#X1352:1:Z>
+<[> Oh </[> </{>
+
+<ICE-HK:S1A-071#X1353:1:Z>
+<[7> Uh ha </[7> </{7>
+
+<ICE-HK:S1A-071#X1354:1:Z>
+Lots of people </X>
+
+<$A> 
+<ICE-HK:S1A-071#1355:1:A>
+Yes
+
+<ICE-HK:S1A-071#1356:1:A>
+<{> <[> And </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1357:1:Z>
+<[> Yeah </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1358:1:A>
+More crime too
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1359:1:Z>
+Uhm uhm
+
+<ICE-HK:S1A-071#X1360:1:Z>
+I  ' ve never been to those parts
+
+<ICE-HK:S1A-071#X1361:1:Z>
+<{> <[> So </[> they don't have <unc> one-word </unc>
+
+<ICE-HK:S1A-071#X1362:1:Z>
+Let me see if you </X>
+
+<$A> 
+<ICE-HK:S1A-071#1363:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#1364:1:A>
+But I haven't been to Britain <,> <{> <[> and </[> uh
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1365:1:Z>
+<[> Uh </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1366:1:A>
+Portugal and Spain
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1367:1:Z>
+Uhm uhm uhm
+
+<ICE-HK:S1A-071#X1368:1:Z>
+Are you gonna to go </X>
+
+<$A> 
+<ICE-HK:S1A-071#1369:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1370:1:Z>
+Hopeful hopefully </X>
+
+<$A> 
+<ICE-HK:S1A-071#1371:1:A>
+Yeah
+
+<ICE-HK:S1A-071#1372:1:A>
+But <,> the coming
+
+<ICE-HK:S1A-071#1373:1:A>
+In the coming summer holiday I have to <,> find a job <{1> <[1>
+<,> </[1>
+
+<ICE-HK:S1A-071#1374:1:A>
+If uhm <,> there  ' s a offer <{2> <[2> <,> </[2> I  ' ll I  ' ll go
+<,> <.> somewh </.> somewhere else
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1375:1:Z>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#X1376:1:Z>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-071#X1377:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#1378:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1379:1:Z>
+For the summer </X>
+
+<$A> 
+<ICE-HK:S1A-071#1380:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1381:1:Z>
+Oh okay </X>
+
+<$A> 
+<ICE-HK:S1A-071#1382:1:A>
+Uh
+
+<ICE-HK:S1A-071#1383:1:A>
+The the the trip lasts for fifty days <{> <[> <,>
+
+<ICE-HK:S1A-071#1384:1:A>
+For </[> a Europe Europe trip
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1385:1:Z>
+<[> Uhm uhm </[> </{>
+
+<ICE-HK:S1A-071#X1386:1:Z>
+Fifty days </X>
+
+<$A> 
+<ICE-HK:S1A-071#1387:1:A>
+Fifty days
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1388:1:Z>
+Wah so <{> <[> <unc> two words </unc> </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1389:1:A>
+<[> <unc> Two words </unc> </[> </{>
+
+<ICE-HK:S1A-071#1390:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1391:1:Z>
+Oh <{> <[> really </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1392:1:A>
+<[> Many </[> </{> people <,> go to Europe in the summer <{>
+<[> <,> </[>
+
+<ICE-HK:S1A-071#1393:1:A>
+But your sister said that that  ' s not so common in Canada <,> for
+a student to travel a lot during their holiday
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1394:1:Z>
+<[> Uhm uhm </[> </{>
+
+<ICE-HK:S1A-071#X1395:1:Z>
+Yeah not travel like that
+
+<ICE-HK:S1A-071#X1396:1:Z>
+Usually they they go out exchange trips <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X1397:1:Z>
+So they go therefore uhm <,> for school something like that
+
+<ICE-HK:S1A-071#X1398:1:Z>
+Like they go out and change someone
+
+<ICE-HK:S1A-071#X1399:1:Z>
+And they get a credit
+
+<ICE-HK:S1A-071#X1400:1:Z>
+<{2> <[2> But </[2> they usually don't go out family and travel
+or even by themselves <{3> <[3> <,> </[3>
+
+<ICE-HK:S1A-071#X1401:1:Z>
+Even university I don't know those
+
+<ICE-HK:S1A-071#X1402:1:Z>
+Those high school you know <{4> <[4> <,> </[4>
+
+<ICE-HK:S1A-071#X1403:1:Z>
+Yeah some of my friends went on uhm exchange trips or
+scholarship to France or something
+
+<ICE-HK:S1A-071#X1404:1:Z>
+They go for maybe two weeks or something
+
+<ICE-HK:S1A-071#X1405:1:Z>
+They exchange you while you exchange with students over there
+<{5> <[5> <,> </[5>
+
+<ICE-HK:S1A-071#X1406:1:Z>
+And then you stay there
+
+<ICE-HK:S1A-071#X1407:1:Z>
+And you have to speak the language and <,> go to school not
+language
+
+<ICE-HK:S1A-071#X1408:1:Z>
+And you get the credit
+
+<ICE-HK:S1A-071#X1409:1:Z>
+So </X>
+
+<$A> 
+<ICE-HK:S1A-071#1410:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1411:1:A>
+<[2> Oh </[2> </{2>
+
+<ICE-HK:S1A-071#1412:1:A>
+<[3> Uhm </[3> </{3>
+
+<ICE-HK:S1A-071#1413:1:A>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-071#1414:1:A>
+<[5> Uhm uhm </[5> </{5>
+
+<ICE-HK:S1A-071#1415:1:A>
+Do you do French
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1416:1:Z>
+Yeah yeah <unc> several words </unc>
+
+<ICE-HK:S1A-071#X1417:1:Z>
+I don't like it
+
+<ICE-HK:S1A-071#X1418:1:Z>
+I really bad at it </X>
+
+<$A> 
+<ICE-HK:S1A-071#1419:1:A>
+So only the university student <,> uhm can have the exchange
+programme or
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1420:1:Z>
+No high school <{> <[> student
+
+<ICE-HK:S1A-071#X1421:1:Z>
+Yeah </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1422:1:A>
+<[> High school student
+
+<ICE-HK:S1A-071#1423:1:A>
+Uhm uhm </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1424:1:Z>
+Even actually some elementary schools <{1> <[1> <,> </[1> have
+it
+
+<ICE-HK:S1A-071#X1425:1:Z>
+Only <{2> <[2> some of </[2> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1426:1:A>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1427:1:A>
+<[2> How long </[2> </{2> do the programme last
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1428:1:Z>
+Uh If you go you go for the whole summer </X>
+
+<$A> 
+<ICE-HK:S1A-071#1429:1:A>
+The whole summer
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1430:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1431:1:Z>
+And then you exchange for another family
+
+<ICE-HK:S1A-071#X1432:1:Z>
+So they take care of you
+
+<ICE-HK:S1A-071#X1433:1:Z>
+And your family takes care of the other student </X>
+
+<$A> 
+<ICE-HK:S1A-071#1434:1:A>
+Have you applied for
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1435:1:Z>
+No <&>
+
+<$A> laughs </&> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1436:1:A>
+So I think
+
+<ICE-HK:S1A-071#1437:1:A>
+So
+
+<ICE-HK:S1A-071#1438:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1439:1:Z>
+But then <,> it  ' s actually pretty good
+
+<ICE-HK:S1A-071#X1440:1:Z>
+Cause you <,>
+
+<ICE-HK:S1A-071#X1441:1:Z>
+You aren't pay too much
+
+<ICE-HK:S1A-071#X1442:1:Z>
+Cause I <unc> several words </unc> taking care of <{>
+<[> <,> </[>
+
+<ICE-HK:S1A-071#X1443:1:Z>
+Because you used to with family and used to go to school
+
+<ICE-HK:S1A-071#X1444:1:Z>
+So it sounds too bad
+
+<ICE-HK:S1A-071#X1445:1:Z>
+But yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#1446:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#1447:1:A>
+But I like meeting people in <,> that places
+
+<ICE-HK:S1A-071#1448:1:A>
+<{> <[> In </[> different places
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1449:1:Z>
+<[> Yeah </[> </{>
+
+<ICE-HK:S1A-071#X1450:1:Z>
+Uhm uhm </X>
+
+<$A> 
+<ICE-HK:S1A-071#1451:1:A>
+<{> <[> Yes </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1452:1:Z>
+<[> Yeah </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1453:1:A>
+What  ' s fun
+
+<ICE-HK:S1A-071#1454:1:A>
+In Europe I <,> I talk to different people on trains on the
+hostels who meet
+
+<ICE-HK:S1A-071#1455:1:A>
+<{1> <[1> Just </[1> meet different people
+
+<ICE-HK:S1A-071#1456:1:A>
+Uhm <,>
+
+<ICE-HK:S1A-071#1457:1:A>
+When you see some <,> someone on on the backpack <{2> <[2> <,>
+
+<ICE-HK:S1A-071#1458:1:A>
+You  ' ll </[2> just feel <,> more friendly to <{3> <[3> help them
+and go to there </[3>
+
+<ICE-HK:S1A-071#1459:1:A>
+Students from all over the world <{4> <[4> <,> </[4> and many
+from States
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1460:1:Z>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-071#X1461:1:Z>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-071#X1462:1:Z>
+<[3> Uhm uhm uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-071#X1463:1:Z>
+<[4> Yeah </[4> </{4>
+
+<ICE-HK:S1A-071#X1464:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#1465:1:A>
+Yeah that  ' s right
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1466:1:Z>
+Do you know people over there like people from the States
+
+<ICE-HK:S1A-071#X1467:1:Z>
+Like do they like them
+
+<ICE-HK:S1A-071#X1468:1:Z>
+Because I don't want to say that <,> people in Europe don't like
+something like people <{> <[> from </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1469:1:A>
+<[> Yeah </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1470:1:Z>
+I don't know though
+
+<ICE-HK:S1A-071#X1471:1:Z>
+Did you notice that when you went there </X>
+
+<$A> 
+<ICE-HK:S1A-071#1472:1:A>
+But people in Europe don't like <,> uh students from Hong
+Kong too
+
+<ICE-HK:S1A-071#1473:1:A>
+<{> <[> Because </[> they are just too noisy
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1474:1:Z>
+<[> Yeah </[> </{>
+
+<ICE-HK:S1A-071#X1475:1:Z>
+Oh really
+
+<ICE-HK:S1A-071#X1476:1:Z>
+Do they like people from Canada </X>
+
+<$A> 
+<ICE-HK:S1A-071#1477:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1478:1:Z>
+No
+
+<ICE-HK:S1A-071#X1479:1:Z>
+<{> <[> What do </[> they like </X> <&>
+
+<$A> laughs </&>
+
+<$A> 
+<ICE-HK:S1A-071#1480:1:A>
+<[> I haven't </[> </{> <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#1481:1:A>
+But many people don't like <,> the students from the States
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1482:1:Z>
+Uh ha
+
+<ICE-HK:S1A-071#X1483:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1484:1:Z>
+Yeah a lot of people when uhm they go
+
+<ICE-HK:S1A-071#X1485:1:Z>
+Then they go out places they
+
+<ICE-HK:S1A-071#X1486:1:Z>
+And they have some like a stick
+
+<ICE-HK:S1A-071#X1487:1:Z>
+They never bring with a speed
+
+<ICE-HK:S1A-071#X1488:1:Z>
+<{1> <[1> The </[1> fatal or <unc> one-word </unc>
+
+<ICE-HK:S1A-071#X1489:1:Z>
+They anything that <{2> <[2> and has supplied </[2> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1490:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1491:1:A>
+<[2> And I don't know </[2> </{2> why
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1492:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1493:1:Z>
+It  ' s supposed they don't like them one another either </X>
+
+<$A> 
+<ICE-HK:S1A-071#1494:1:A>
+Uhm
+
+<ICE-HK:S1A-071#1495:1:A>
+Yeah
+
+<ICE-HK:S1A-071#1496:1:A>
+Do you uhm <,> do you find this racial discrimination in Canada
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1497:1:Z>
+Uhm sometimes <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X1498:1:Z>
+It  ' s not too bad sometimes there  ' s are there can be
+
+<ICE-HK:S1A-071#X1499:1:Z>
+<{2> <[2> So </[2> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1500:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1501:1:A>
+<[2> Are </[2> </{2> there many Chinese in your class
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1502:1:Z>
+Uhm in my whole school there  ' s about a <.> thous </.>
+
+<ICE-HK:S1A-071#X1503:1:Z>
+No two thousand people of the
+
+<ICE-HK:S1A-071#X1504:1:Z>
+And <,> about maybe <,,>
+
+<ICE-HK:S1A-071#X1505:1:Z>
+Last time when they told us they said there were about two
+hundred out of a thousand something
+
+<ICE-HK:S1A-071#X1506:1:Z>
+So now it  ' s probably three four hundred </X>
+
+<$A> 
+<ICE-HK:S1A-071#1507:1:A>
+Uhm
+
+<ICE-HK:S1A-071#1508:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1509:1:Z>
+In my class there  ' s only usually one or two
+
+<ICE-HK:S1A-071#X1510:1:Z>
+So uhm <,>
+
+<ICE-HK:S1A-071#X1511:1:Z>
+Uhm there  ' s one <,> that from a couple are from Canada like <?>
+deboarding </?> Canada <{1> <[1> and </[1> a lot
+
+<ICE-HK:S1A-071#X1512:1:Z>
+Some of them are from over here but lot of them are from
+<unc> one-word </unc>
+
+<ICE-HK:S1A-071#X1513:1:Z>
+If you go to <unc> one word </unc> there  ' s all the
+schools that fill with Chinese people
+
+<ICE-HK:S1A-071#X1514:1:Z>
+They have Chinese announcements and everything <{2> <[2> <,>
+</[2>
+
+<ICE-HK:S1A-071#X1515:1:Z>
+You have translation and everything <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X1516:1:A>
+Yeah
+
+<ICE-HK:S1A-071#X1517:1:A>
+So they like go over power
+
+<ICE-HK:S1A-071#X1518:1:A>
+<unc> Two words </unc> new tones and Chinese people on
+<{3> <[3> tour </[3> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1519:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1520:1:A>
+<[2> Oh </[2> </{2>
+
+<ICE-HK:S1A-071#1521:1:A>
+<[3> So </[3> </{3> most of your friends your close friends are
+<,> Canadian or <{> <[> Chinese </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1522:1:Z>
+<[> Yeah </[> </{>
+
+<ICE-HK:S1A-071#X1523:1:Z>
+<unc> Several words </unc> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1524:1:A>
+Uhm uhm
+
+<ICE-HK:S1A-071#1525:1:A>
+Yeah
+
+<ICE-HK:S1A-071#1526:1:A>
+What  ' s them all <unc> two words </unc>
+
+<ICE-HK:S1A-071#1527:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1528:1:Z>
+What  ' s my school friends are
+
+<ICE-HK:S1A-071#X1529:1:Z>
+Yeah <,,>
+
+<ICE-HK:S1A-071#X1530:1:Z>
+A lot of them from Hong Kong and they
+
+<ICE-HK:S1A-071#X1531:1:Z>
+They like different things and they talk differently and
+something that <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X1532:1:Z>
+So you must took my friend and come over there like <unc>
+several words </unc> over there </X>
+
+<$A> 
+<ICE-HK:S1A-071#1533:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#1534:1:A>
+Uhm <&> A long pause </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1535:1:Z>
+How about you <&>
+
+<$A> laughs </&> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1536:1:A>
+Uhm
+
+<ICE-HK:S1A-071#1537:1:A>
+I I can't have any <,>
+
+<ICE-HK:S1A-071#1538:1:A>
+Yeah I have one in Australia because I <,>
+
+<ICE-HK:S1A-071#1539:1:A>
+I was in a exchange programme when I was in Form Five
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1540:1:Z>
+Oh really
+
+<ICE-HK:S1A-071#X1541:1:Z>
+<{> <[> Australia </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1542:1:A>
+<[> Yes go </[> </{>
+
+<ICE-HK:S1A-071#1543:1:A>
+Yes
+
+<ICE-HK:S1A-071#1544:1:A>
+But it only lasts for two weeks <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#1545:1:A>
+And then <,> and ten girls from our school was go was was in trip
+
+<ICE-HK:S1A-071#1546:1:A>
+<{2> <[2> And we stay in </[2> a host family <{3> <[3> <,>
+
+<ICE-HK:S1A-071#1547:1:A>
+Yes </[3> and they
+
+<ICE-HK:S1A-071#1548:1:A>
+Uhm <,> and they are very nice <{4> <[4> <,>
+
+<ICE-HK:S1A-071#1549:1:A>
+After </[4> the programme <,> uh for half <,> half a year later
+
+<ICE-HK:S1A-071#1550:1:A>
+The ten girls <,> <{5> <[5> ten </[5> Australian girls come back
+to Hong Kong and stay in our school
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1551:1:Z>
+<[1> Uh ha </[1> </{1>
+
+<ICE-HK:S1A-071#X1552:1:Z>
+<[2> Oh you <unc> one-word </unc> it </[2> </{2>
+
+<ICE-HK:S1A-071#X1553:1:Z>
+<[3> Uh ha </[3> </{3>
+
+<ICE-HK:S1A-071#X1554:1:Z>
+<[4> And friendly </[4> </{4>
+
+<ICE-HK:S1A-071#X1555:1:Z>
+<[5> Uhm </[5> </{5>
+
+<ICE-HK:S1A-071#X1556:1:Z>
+Oh really </X>
+
+<$A> 
+<ICE-HK:S1A-071#1557:1:A>
+Yeah
+
+<ICE-HK:S1A-071#1558:1:A>
+And last year the whole family of <,>
+
+<ICE-HK:S1A-071#1559:1:A>
+Uhm the host family have been <,> uh come to Hong Kong and <,>
+
+<ICE-HK:S1A-071#1560:1:A>
+Uhm our families have dinner together
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1561:1:Z>
+<{> <[> Wah </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1562:1:A>
+<[> Yeah </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1563:1:Z>
+That  ' s great </X>
+
+<$A> 
+<ICE-HK:S1A-071#1564:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1565:1:Z>
+Does it shown
+
+<ICE-HK:S1A-071#X1566:1:Z>
+Actually yeah cause when I was uhm <,,>
+
+<ICE-HK:S1A-071#X1567:1:Z>
+When I was I don't know
+
+<ICE-HK:S1A-071#X1568:1:Z>
+A lot of people are from Australia here have been stay there on
+exchange programme for Christmas </X>
+
+<$A> 
+<ICE-HK:S1A-071#1569:1:A>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1570:1:Z>
+Yeah and then a lot of people like that
+
+<ICE-HK:S1A-071#X1571:1:Z>
+I mean a lot of them are from Australia
+
+<ICE-HK:S1A-071#X1572:1:Z>
+So do you usually <,> are there other places Hong Kong exchange
+look
+
+<ICE-HK:S1A-071#X1573:1:Z>
+Like a other exchange programmes other places </X>
+
+<$A> 
+<ICE-HK:S1A-071#1574:1:A>
+No
+
+<ICE-HK:S1A-071#1575:1:A>
+It  ' s just organized by our schools
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1576:1:Z>
+Yeah </X>
+
+<$A> 
+<ICE-HK:S1A-071#1577:1:A>
+It  ' s a
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1578:1:Z>
+So different schools have different places or do most of them
+are Australia </X>
+
+<$A> 
+<ICE-HK:S1A-071#1579:1:A>
+Uhm <,>
+
+<ICE-HK:S1A-071#1580:1:A>
+Very few secondary school have exchange programme
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1581:1:Z>
+<{> <[> Oh but yours did </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1582:1:A>
+<[> I  ' ve but I  ' ve <unc> one-word </unc> </[> </{>
+
+<ICE-HK:S1A-071#1583:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1584:1:Z>
+Oh
+
+<ICE-HK:S1A-071#X1585:1:Z>
+What school is it </X>
+
+<$A> 
+<ICE-HK:S1A-071#1586:1:A>
+<&> tut </&>
+
+<ICE-HK:S1A-071#1587:1:A>
+It  ' s a boarding school <&>
+
+<$A> and
+
+<$Z> laugh </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1588:1:Z>
+Oh
+
+<ICE-HK:S1A-071#X1589:1:Z>
+Oh God </X>
+
+<$A> 
+<ICE-HK:S1A-071#1590:1:A>
+And because my my my school <,> is launching a new direction
+programme is <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#1591:1:A>
+Uhm <,> there  ' re there are they are organizing many <.> exch
+</.> uh exchange programme
+
+<ICE-HK:S1A-071#1592:1:A>
+Like to Canada <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-071#1593:1:A>
+And a year before our our programme starts to Canada
+
+<ICE-HK:S1A-071#1594:1:A>
+And <,> ours is to Australia and there  ' re <,> other uhm musical
+exchange to Beijing and <{3> <[3> to Taiwan </[3>
+
+<ICE-HK:S1A-071#1595:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1596:1:Z>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-071#X1597:1:Z>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-071#X1598:1:Z>
+<[3> Oh </[3> </{3>
+
+<ICE-HK:S1A-071#X1599:1:Z>
+Yeah okay
+
+<ICE-HK:S1A-071#X1600:1:Z>
+What we uh
+
+<ICE-HK:S1A-071#X1601:1:Z>
+Yeah I guess we
+
+<ICE-HK:S1A-071#X1602:1:Z>
+Yeah actually our school have <,> musical exchanges <{1> <[1>
+<,> </[1>
+
+<ICE-HK:S1A-071#X1603:1:Z>
+But it  ' s very boring
+
+<ICE-HK:S1A-071#X1604:1:Z>
+They went to Vancouver <&>
+
+<$A> and
+
+<$Z> laugh </&>
+
+<ICE-HK:S1A-071#X1605:1:Z>
+So I didn't go
+
+<ICE-HK:S1A-071#X1606:1:Z>
+<{2> <[2> Uhm it  ' s really <.> tran </.> <,> </[2>
+
+<ICE-HK:S1A-071#X1607:1:Z>
+Yeah <{3> <[3> <,> </[3> and they were like
+
+<ICE-HK:S1A-071#X1608:1:Z>
+How much was it for <,> going Australia </X>
+
+<$A> 
+<ICE-HK:S1A-071#1609:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-071#1610:1:A>
+<[2> It stay with family or </[2> </{2>
+
+<ICE-HK:S1A-071#1611:1:A>
+<[3> Uhm </[3> </{3>
+
+<ICE-HK:S1A-071#1612:1:A>
+Uh we only <,> pay for the air ticket
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1613:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1614:1:Z>
+Because we went to Vancouver
+
+<ICE-HK:S1A-071#X1615:1:Z>
+And then we supposed seven hundred dollars </X>
+
+<$A> 
+<ICE-HK:S1A-071#1616:1:A>
+Seven hundred dollar
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1617:1:Z>
+And we <,> did we
+
+<ICE-HK:S1A-071#X1618:1:Z>
+We did have
+
+<ICE-HK:S1A-071#X1619:1:Z>
+It wasn't newel for food and everything
+
+<ICE-HK:S1A-071#X1620:1:Z>
+It was just he said that it was for the tickets but I don't know
+
+<ICE-HK:S1A-071#X1621:1:Z>
+It  ' s usually <,>
+
+<ICE-HK:S1A-071#X1622:1:Z>
+It shouldn't be that expensive
+
+<ICE-HK:S1A-071#X1623:1:Z>
+Should be a lot cheaper than that
+
+<ICE-HK:S1A-071#X1624:1:Z>
+So I don't know what those worth
+
+<ICE-HK:S1A-071#X1625:1:Z>
+They stay with families <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-071#X1626:1:Z>
+Cause they came over earlier to our <{2> <[2> <,> </[2> to our
+school
+
+<ICE-HK:S1A-071#X1627:1:Z>
+And they stay with us <,>
+
+<ICE-HK:S1A-071#X1628:1:Z>
+And then visit school <unc> one-word </unc> with them
+<{3> <[3> <,> </[3>
+
+<ICE-HK:S1A-071#X1629:1:Z>
+But there was <unc> several words </unc> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1630:1:A>
+<[1> Yeah </[1> </{1>
+
+<ICE-HK:S1A-071#1631:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-071#1632:1:A>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-071#1633:1:A>
+Uhm uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1634:1:Z>
+Yeah so
+
+<ICE-HK:S1A-071#X1635:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1636:1:Z>
+Any other any other <unc> one-word </unc>
+
+<ICE-HK:S1A-071#X1637:1:Z>
+Any other exchange programmes </X>
+
+<$A> 
+<ICE-HK:S1A-071#1638:1:A>
+No <{> <[> only once </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1639:1:Z>
+<unc> three-words </unc>
+
+<ICE-HK:S1A-071#X1640:1:Z>
+I  ' ve never been to Australia
+
+<ICE-HK:S1A-071#X1641:1:Z>
+You seen koala bears </X>
+
+<$A> 
+<ICE-HK:S1A-071#1642:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1643:1:Z>
+Kangaroos <&>
+
+<$Z> laughs </&> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1644:1:A>
+Yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1645:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1646:1:Z>
+I haven't been there
+
+<ICE-HK:S1A-071#X1647:1:Z>
+I like Australian accent </X>
+
+<$A> 
+<ICE-HK:S1A-071#1648:1:A>
+<{> <[> You what </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1649:1:Z>
+<[> The people </[> </{>
+
+<ICE-HK:S1A-071#X1650:1:Z>
+I like it
+
+<ICE-HK:S1A-071#X1651:1:Z>
+I like Australian accent
+
+<ICE-HK:S1A-071#X1652:1:Z>
+<{> <[> The people will think are </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1653:1:A>
+<[> Do you think I don't
+
+<ICE-HK:S1A-071#1654:1:A>
+No </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1655:1:Z>
+Do you like it </X>
+
+<$A> 
+<ICE-HK:S1A-071#1656:1:A>
+No
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1657:1:Z>
+No you don't like it <&>
+
+<$A> and
+
+<$Z> laugh </&>
+
+<ICE-HK:S1A-071#X1658:1:Z>
+You don't <{> <[> like it </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1659:1:A>
+<[> It  ' s strange </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1660:1:Z>
+I like it </X>
+
+<$A> 
+<ICE-HK:S1A-071#1661:1:A>
+<{> <[> Is it </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1662:1:Z>
+<[> I like it </[> </{>
+
+<ICE-HK:S1A-071#X1663:1:Z>
+It  ' s better than other accent
+
+<ICE-HK:S1A-071#X1664:1:Z>
+Is it what </X>
+
+<$A> 
+<ICE-HK:S1A-071#1665:1:A>
+Is it Canadian accent
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1666:1:Z>
+Is there <{> <[> can </[> </X>
+
+<$A> 
+<ICE-HK:S1A-071#1667:1:A>
+<[> I I </[> </{> cannot recognize the Canadian and <.> Aus
+</.> and and the American accent
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1668:1:Z>
+American
+
+<ICE-HK:S1A-071#X1669:1:Z>
+Some <,> some American they can't really tell <{> <[> <,> </[>
+
+<ICE-HK:S1A-071#X1670:1:Z>
+You know southern worse
+
+<ICE-HK:S1A-071#X1671:1:Z>
+But uh some <,>
+
+<ICE-HK:S1A-071#X1672:1:Z>
+People say that Canadian and the American sound differently
+
+<ICE-HK:S1A-071#X1673:1:Z>
+But I don't know
+
+<ICE-HK:S1A-071#X1674:1:Z>
+I don't know what type accent I heard <&>
+
+<$A> laughs </&>
+
+<ICE-HK:S1A-071#X1675:1:A>
+But uh </X>
+
+<$A> 
+<ICE-HK:S1A-071#1676:1:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-071#1677:1:A>
+Some people say that the <,> uh Canadian N the
+
+<ICE-HK:S1A-071#1678:1:A>
+They speak N with the rising tone
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1679:1:Z>
+Canadian </X>
+
+<$A> 
+<ICE-HK:S1A-071#1680:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-071#X1681:1:Z>
+Yeah
+
+<ICE-HK:S1A-071#X1682:1:Z>
+Who <&>
+
+<$A> laughs </&> did say that </X>
+
+<$A> 
+<ICE-HK:S1A-071#1683:1:A>
+Uh people have said that to me
+
+<ICE-HK:S1A-071#1684:1:A>
+I don't know why </I>

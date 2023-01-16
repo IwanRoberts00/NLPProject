@@ -1,0 +1,774 @@
+<I> <h> <bold>
+
+<ICE-HK:W2A-034#1:1>
+GAMMA KNIFE RADIOSURGERY </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#2:1>
+Plans for acquiring the gamma knife in Hong Kong date back to 1992 .
+
+<ICE-HK:W2A-034#3:1>
+After 3 years of intense negotiations , the Hospital Authority and a
+private group at Canossa Hospital reached an unprecedented agreement: to run
+the gamma knife program in a private hospital with private funds and manpower
+, yet serving both public and private sectors .
+
+<ICE-HK:W2A-034#4:1>
+In February 1995 , Hong Kong installed the fist gamma knife in the
+region .
+
+<ICE-HK:W2A-034#5:1>
+It marked the beginning of an era of image guided , minimally invasive
+and multidisciplinary approach in neurosurgery . </p> <h> <bold>
+
+<ICE-HK:W2A-034#6:1>
+TRAINING AND START-UP </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#7:1>
+The start-up of radiosurgery service in Hong Kong is extremely
+demanding .
+
+<ICE-HK:W2A-034#8:1>
+Politics and financing aside , many logistic and practical questions
+must first be addressed .
+
+<ICE-HK:W2A-034#9:1>
+The choice of magnetic resonance &obrack;  MR &cbrack; imaging , computed tomography
+&obrack; CT &cbrack; and angiogram hardware is crucial .
+
+<ICE-HK:W2A-034#10:1>
+For example , a distortion free MR imaging scanner is the top
+priority .
+
+<ICE-HK:W2A-034#11:1>
+Speed and resolution are crucial because targeting requires
+submillimeter resolution of microanatomical details .
+
+<ICE-HK:W2A-034#12:1>
+Lesser MR machines may take triple of time necessary for high
+resolution sequences .
+
+<ICE-HK:W2A-034#13:1>
+The compatibility of Digital Imaging and Communications in Medicine &obrack; 
+DICOM &cbrack; is almost indispensable .
+
+<ICE-HK:W2A-034#14:1>
+It allows rapid transfer of an average of 160 images &obrack;  70 Megabytes
+of digital data &cbrack; between workstations within minutes .
+
+<ICE-HK:W2A-034#15:1>
+Such a volume of imaging information is often necessary in today  ' s
+state of the art dose planning . </p>
+
+<p> 
+<ICE-HK:W2A-034#16:1>
+For radiosurgery , the problem of the learning curve cannot be
+overemphasized .
+
+<ICE-HK:W2A-034#17:1>
+As in any open neurosurgical procedure , the same meticulous training
+and supervision must be applied .
+
+<ICE-HK:W2A-034#18:1>
+The practice of performing the occasional procedure by nondedicated
+neurosurgeons may not yield the nest results .
+
+<ICE-HK:W2A-034#19:1>
+The gamma knife team has received special training at Stockholm  ' s
+Karolinska Institute of Neuroscience .
+
+<ICE-HK:W2A-034#20:1>
+For the first 60 patients , each procedure was supervised by a senior
+gamma knife surgeon from Sweden who possessed more than 20 years of
+experience with the gamma knife .
+
+<ICE-HK:W2A-034#21:1>
+Even after 600 consecutive cases , the team is still learning the art
+and craft of gamma knife surgery .
+
+<ICE-HK:W2A-034#22:1>
+Some centers , which initially employed an open system , are now
+discarding the practice in favour of a dedicated team approach . </p>
+
+<p> 
+<ICE-HK:W2A-034#23:1>
+The Hong Kong Gamma Knife Centre &obrack;  HKGKC &cbrack; is run by a team of
+three senior neurosurgeons &obrack;  one private and two from the Hospital Authority)
+, one neurologist , one radiation oncologist , one neuroradiologist , one
+medical physicist and two specialist nurses .
+
+<ICE-HK:W2A-034#24:1>
+The neurosurgeon in charge takes the primary responsibility in all
+stages of every gamma knife procedure .
+
+<ICE-HK:W2A-034#25:1>
+All patient data are prospectively entered and sequential follow-up
+protocol is planned in advance .
+
+<ICE-HK:W2A-034#26:1>
+The centre now houses a vast computerized databases which is open to
+referring physicians and patients .
+
+<ICE-HK:W2A-034#27:1>
+Such open database policy ensures accountability and proper audit .
+</p> <h> <bold>
+
+<ICE-HK:W2A-034#28:1>
+STATISTICS </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#29:1>
+Within a period of 4 years , the HKGNC had performed 611
+procedures on 568 patients , an average of 150 procedures annually .
+
+<ICE-HK:W2A-034#30:1>
+The indications are detailed in table 8.1 and <O> A table </O> <O> A
+figure </O> figure 8.1 .
+
+<ICE-HK:W2A-034#31:1>
+The statistics are similar to those of most major gamma knife centers
+in USA , Europe and Japan .
+
+<ICE-HK:W2A-034#32:1>
+More than 50&percent; of indications have prior neurosurgical
+procedures or other forms of therapy .
+
+<ICE-HK:W2A-034#33:1>
+In a separate analysis , only 15&percent; of the indications &obrack;  mostly
+small acoustic neuromas  &cbrack; are up-front treatment which can be seen as
+competitive to open microsurgical procedures .
+
+<ICE-HK:W2A-034#34:1>
+Such competition sparked off a cascade of activities: special
+training courses with live demonstrations by world class neurosurgeons ,
+wide-spread use of neurophysiological monitoring and other techniques to
+improve the out-come of microsurgery .
+
+<ICE-HK:W2A-034#35:1>
+For the remaining 85&percent; of indications , gamma knife is used
+either as an elective combined strategy , postoperative adjuvant therapy , or
+as the only acceptable option when the risk of surgery is too high .
+
+<ICE-HK:W2A-034#36:1>
+Thus , when a radiosurgery program is conducted by neurosurgeons with
+equal expertise in microsurgery , they can ensure proper case selection ,
+meticulous techniques , healthy competition among various treatment and
+ultimately the best patient care . </p> <h> <bold>
+
+<ICE-HK:W2A-034#37:1>
+ACADEMIC ACTIVITIES AND PUBLICATIONS </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#38:1>
+Realising that patient care is better when treatment is conducted
+in the context of a prospective trial , the HKGFC has undertaken several
+ongoing trials: combined microsurgery plus gamma knife for large acoustic
+neuromas , craniopharyngiomas , and pituitary adenomas; same day stereotactic
+biopsy plus gamma knife fro deep seated low grade astrocytomas , and the use
+of stereotactic MR angiography for arteriovenous malformations &obrack;  AVMs &cbrack; . </p>
+
+<p> 
+<ICE-HK:W2A-034#39:1>
+Despite a relatively short follow-up time , the HKGKC has a
+healthy academic output .
+
+<ICE-HK:W2A-034#40:1>
+In addition to numerous invited presentations both locally and
+overseas , the radiosurgery team has managed to submit nine papers of which
+three have already been accepted for publication in peer reviewed
+international journals .
+
+<ICE-HK:W2A-034#41:1>
+In addition , the HKGKC also support a current PhD project on
+radiation physics . </p>
+
+<p> 
+<ICE-HK:W2A-034#42:1>
+The Leksell Gamma Knife Society Meeting is an international
+conference for academic exchange of research and clinical studies among 90
+gamma knife sites worldwide .
+
+<ICE-HK:W2A-034#43:1>
+In November 1998 , the Hong Kong Gamma Knife Team won the
+chairmanship of the 9th Leksell Gamma Knife Meeting where more than 200
+papers were presented by delegates from 30 countries .
+
+<ICE-HK:W2A-034#44:1>
+Past chairmen included the giants of radiosurgery such as L . Steiner
+, C . Lindquist , S . Forster and D . Lundsford . </p> <O> A table </O> <h>
+<bold>
+
+<ICE-HK:W2A-034#45:1>
+LINAC-BASED RADIOSURGERY SYSTEMS </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#46:1>
+No description on radiosurgery is complete without mentioning
+linac-based systems .
+
+<ICE-HK:W2A-034#47:1>
+To date , at least five different systems are available in the market .
+
+<ICE-HK:W2A-034#48:1>
+All of them employ different platforms of hardware and software ,
+stereotactic frames and techniques in delivery of focused energy .
+
+<ICE-HK:W2A-034#49:1>
+X-knife , Cyberknife , Linac Scalpel , etc are just a few familiar
+names .
+
+<ICE-HK:W2A-034#50:1>
+Hong Kong does not lag behind in the introduction of linac-based
+radiosurgery .
+
+<ICE-HK:W2A-034#51:1>
+The first linac-based radiosurgery was set up in Queen Mary Hospital
+in November 1995 and within 4 years , there are totally seven linac-systems
+( five in public and two in private hospitals &cbrack; in Hong Kong .
+
+<ICE-HK:W2A-034#52:1>
+Apart from more conventional arc-based systems , there are three that
+utilize mini-multileaf collimator &obrack;  mMLC &cbrack; .
+
+<ICE-HK:W2A-034#53:1>
+Particularly for nonspherical lesion , the latter is able to deliver
+a lower dose of radiation to normal tissue and yet requires a much shorter
+planning time .
+
+<ICE-HK:W2A-034#54:1>
+Evolving from the same idea , there is now the concept of delivering
+radiation via a motorized mulitleaf collimator &obrack;  MLC &cbrack; as it goes through an
+arc .
+
+<ICE-HK:W2A-034#55:1>
+A prototype of this conformal arc system is soon to be tested in Hong
+Kong .
+
+<ICE-HK:W2A-034#56:1>
+Undoubtedly the technology of linac-based radiosurgery is still being
+refined and we are expecting more innovation from this branch of therapy .
+</p>
+
+<p> 
+<ICE-HK:W2A-034#57:1>
+At this point in time , however , without prospective randomized
+controlled trials , comparing gamma knife and linac-based systems is like
+comparing apples and oranges .
+
+<ICE-HK:W2A-034#58:1>
+Both systems have their own advantages and limitations .
+
+<ICE-HK:W2A-034#59:1>
+The gamma knife , being a dedicated instrument for neuroradiosurgery
+, maintains the lead with its long track record , uniformly of methodology
+and large series of published results in the literature .
+
+<ICE-HK:W2A-034#60:1>
+The authors believe the peaceful coexistence of different
+technologies is a healthy sign .
+
+<ICE-HK:W2A-034#61:1>
+Clinical excellence comes form healthy competition , cross-speciality
+learning , team work , concentrated experience , intellectual honesty and
+vigilant audit . </p> <h> <bold>
+
+<ICE-HK:W2A-034#62:1>
+COMPREHENSIVE RADIOSURGERY PROGRAMME </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#63:1>
+A venue where the two system come together is found in Queen
+Elizabeth Hospital .
+
+<ICE-HK:W2A-034#64:1>
+Since 1996 , its radiosurgery programme has provided both linac-based
+and gamma knife radiosurgery in collaboration with the HKGKC . </p>
+
+<p> 
+<ICE-HK:W2A-034#65:1>
+The selection of the modalities of treatment is based on clinical
+grounds and decisions are made by a team of radio-oncologists ,
+neuroradiologists and neurosurgeons .
+
+<ICE-HK:W2A-034#66:1>
+The general principles of case selection are based on: 1. The
+proximity of the lesion to critical structures , 2. The treatment volume and
+3. The requirement for target precision , eg functional disorders . </p>
+
+<p> 
+<ICE-HK:W2A-034#67:1>
+There is a general inclination to treat malignant cases with
+linac-based radiosurgery and pituitary tumours with gamma knife . </p>
+
+<p> 
+<ICE-HK:W2A-034#68:1>
+Weekly combined radiosurgery clinics and monthly conferences
+ensure exchanges of experience and problem cases .
+
+<ICE-HK:W2A-034#69:1>
+A clinical radiosurgery database completed with image files
+facilitates research and follow-up case studies . </p>
+
+<p> 
+<ICE-HK:W2A-034#70:1>
+To date over 100 linac-based and 300 gamma knife radiosurgeries
+have been performed &obrack;  Table 8.2 &cbrack; . </p> <h> <bold>
+
+<ICE-HK:W2A-034#71:1>
+SUMMARY </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#72:1>
+The gamma knife is undergoing constant evolution and refinement .
+
+<ICE-HK:W2A-034#73:1>
+Advanced training , upgrading of hardware and software and continuous
+education are part of the regular agenda .
+
+<ICE-HK:W2A-034#74:1>
+Be it an up-front or adjuvant procedure , its result on benign skill
+base tumours and metastases and particularly impressive .
+
+<ICE-HK:W2A-034#75:1>
+AVMs form a special category where a multidisciplinary approach is
+the norm , although the problem of postradiosurgery latency period bleeding
+has not been eliminated .
+
+<ICE-HK:W2A-034#76:1>
+The gamma knife also opens up frontiers in functional indications
+such as medically refractory trigeminal neuralgia , movement disorders ,
+nonlesional temporal lobe epilepsy and compulsive obsessive neurosis .
+
+<ICE-HK:W2A-034#77:1>
+Recently , patients with medically refractory malignant bone pain
+have also responded dramatically to gamma pituitary ablation . </p>
+
+<p> 
+<ICE-HK:W2A-034#78:1>
+We have shown that the gamma knife does not erode into the
+practice of neurosurgeons .
+
+<ICE-HK:W2A-034#79:1>
+It actually increases the surgical throughput of a neurosurgical
+department and raises the competence of microsurgeons .
+
+<ICE-HK:W2A-034#80:1>
+Today  ' s patients are extremely demanding .
+
+<ICE-HK:W2A-034#81:1>
+They expect zero mortality , near zero morbidity , near 100&percent;
+disease control and no disruption of life style .
+
+<ICE-HK:W2A-034#82:1>
+They are very well informed and require a complete transparency of
+data .
+
+<ICE-HK:W2A-034#83:1>
+Health Management Organisations , lawyers , administrators and the
+lay public are happy to target the medical profession .
+
+<ICE-HK:W2A-034#84:1>
+All these put tremendous pressure on neurosurgeons .
+
+<ICE-HK:W2A-034#85:1>
+Neurosurgeons must adapt to the new challenge .
+
+<ICE-HK:W2A-034#86:1>
+They should give medical advice as if they are suffering from the
+same ailment .
+
+<ICE-HK:W2A-034#87:1>
+Their own perspective on the doctor-patient relationship may have to
+be revised . </p>
+</I>
+
+<I> <h> <bold>
+
+<ICE-HK:W2A-034#88:2>
+Design and Implementation of a Variable Frequency Regulatory Water
+Supply System in Modern Buildings </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#89:2>
+David T.W. Chan </p>
+
+<p> 
+<ICE-HK:W2A-034#90:2>
+Department of Electrical &ampersand; Communications Engineering , Hong Kong
+Technical College &obrack;  Tsing Yi &cbrack; , 20 Tsing Yi Road , Tsing Yi , Hong Kong .
+</p>
+
+<p> <bold>
+
+<ICE-HK:W2A-034#91:2>
+ABSTRACT </bold>
+
+<ICE-HK:W2A-034#92:2>
+The designs of the variable frequency constant pressure water supply
+for a single hydraulic pump and high power multiple hydraulic motor systems
+are presented in this paper .
+
+<ICE-HK:W2A-034#93:2>
+This system can save energy by controlling the speed of the pipe
+motors which depend upon the number of consumers in use .
+
+<ICE-HK:W2A-034#94:2>
+This system was also successfully implemented in most of the modern
+buildings in Shanghai , China .
+
+<ICE-HK:W2A-034#95:2>
+Finally , the choice criteria for variable frequency regulators for
+water supply system will be discussed . </p> <h> <bold>
+
+<ICE-HK:W2A-034#96:2>
+1 . INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#97:2>
+It is inevitable to install high level water storage systems or
+reservoirs for multiple story buildings or residential areas .
+
+<ICE-HK:W2A-034#98:2>
+This kind of system results in increasing construction cost and
+cleaning problems .
+
+<ICE-HK:W2A-034#99:2>
+Nevertheless , hydraulic pumps are used to raise the energy level of
+the water .
+
+<ICE-HK:W2A-034#100:2>
+In fact , the conventional high level reservoir system is a pressure
+regulatory system .
+
+<ICE-HK:W2A-034#101:2>
+This pressure &obrack;  head &cbrack; is proportional to the height of the reservoir .
+
+<ICE-HK:W2A-034#102:2>
+Resistance of pipes is varying from time to time , depending on the
+demand and water flow rate .
+
+<ICE-HK:W2A-034#103:2>
+When number of users increase , that means number of relief values
+to be open is increased .
+
+<ICE-HK:W2A-034#104:2>
+It in turn reduces the resistance of the pipes .
+
+<ICE-HK:W2A-034#105:2>
+In order to reduce the construction cost , eliminate the cleansing
+problem of the high level reservoirs , and make the system simple , a
+variable frequency constant pressure closed loop system is presented to
+control the speeds of the hydraulic pumps .
+
+<ICE-HK:W2A-034#106:2>
+In this paper , the designs of the variable frequency constant
+pressure water supply for a single hydraulic pump and high power multiple
+hydraulic motors system are presented .
+
+<ICE-HK:W2A-034#107:2>
+From static characteristics of water flow system , the critical
+point can be obtained to achieve the minimization of energy consumed .
+
+<ICE-HK:W2A-034#108:2>
+The implementation of this system is also discussed .
+
+<ICE-HK:W2A-034#109:2>
+The choice of variable frequency regulators for water supply system
+is finally presented . </p> <h> <bold>
+
+<ICE-HK:W2A-034#110:2>
+2 . ADVANTAGES OF THE PROPOSED SYSTEM </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#111:2>
+In short , the advantages of this proposed variable frequency
+constant pressure system for water supply are a &cbrack; In a 3 hydraulic motors
+system , the capacity of the variable frequency regulator is just one-third
+of the capacity of the overall system .
+
+<ICE-HK:W2A-034#112:2>
+The cost is much reduced .
+
+<ICE-HK:W2A-034#113:2>
+b &cbrack; Since the system consists of multiple pumping motors , they can
+be controlled by PLC such that the system is more reliable .
+
+<ICE-HK:W2A-034#114:2>
+c &cbrack; Energy saving can be achieved by controlling the speed of pump
+motors , pressure can be kept constant no matter what water flow is &obrack;  from
+zero to its maximum capacity &cbrack; .
+
+<ICE-HK:W2A-034#115:2>
+d &cbrack; Each pumping motor can be started smoothly be using this variable
+frequency regulator , it reduces pulse current .
+
+<ICE-HK:W2A-034#116:2>
+This kind of water supply system could become a new trend in modern
+multiple-story building design . </p> <h> <bold>
+
+<ICE-HK:W2A-034#117:2>
+3 . PRINCIPLE OF OPERATION </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#118:2>
+The principle of operation was illustrated by a single pump
+system .
+
+<ICE-HK:W2A-034#119:2>
+Fig . 1 shows a block diagram of a variable frequency constant
+pressure system which is suitable for single pump or small scale water flow
+system .
+
+<ICE-HK:W2A-034#120:2>
+The model type is JS5-P1 .
+
+<ICE-HK:W2A-034#121:2>
+The pressure sensor &obrack;  PS &cbrack; transduces the water pressure in pipes to
+electrical signal .
+
+<ICE-HK:W2A-034#122:2>
+This signal will go to pressure regulator &obrack;  PR &cbrack; through an amplifier
+( A &cbrack; and a comparator compared with the set value of water pressure .
+
+<ICE-HK:W2A-034#123:2>
+The difference will come to the PID control to regulator the output
+frequency as well as the speeds of electric motors and hydraulic pumps .
+
+<ICE-HK:W2A-034#124:2>
+The constant pressure can then be achieved . </p> <O> A table </O>
+
+<p> 
+<ICE-HK:W2A-034#125:2>
+Fig . 2 shows static characteristics of this constant pressure
+water supply system .
+
+<ICE-HK:W2A-034#126:2>
+Curves 1 and 2 represent relationship between the pressure head &obrack;  H)
+and flowrate &obrack;  Q &cbrack; for different speeds of the pump .
+
+<ICE-HK:W2A-034#127:2>
+Curves 3 and 4 represent for different values of resistance pipe .
+
+<ICE-HK:W2A-034#128:2>
+To simply the exposition , per unit values are adopted in the Fig .
+2 .
+
+<ICE-HK:W2A-034#129:2>
+Hence H&star; &equals; H/H <sb> N </sb> and Q&star;&equals;Q/Q <sb> N </sb> where H <sb> N
+</sb> and Q <sb> N </sb> are the set values of head and flowrate . </p> <O> A
+figure </O>
+
+<p> 
+<ICE-HK:W2A-034#130:2>
+In this system , both flowrate and the resistance of pipes are
+varying because the flowrate is proportional to numbers of valves to be
+opened .
+
+<ICE-HK:W2A-034#131:2>
+Curve 3 represents the resistance of pipes when the flowrate reaches
+the maximum point .
+
+<ICE-HK:W2A-034#132:2>
+It intercepts with the H&star; - Q&star; at point a which is the set point for
+operation .
+
+<ICE-HK:W2A-034#133:2>
+Curve 4 is for resistance of pipe when the flowrate is less and only
+part of valves to be opened . </p>
+
+<p> 
+<ICE-HK:W2A-034#134:2>
+If there is no frequency regulator , it works at point b ' only .
+
+<ICE-HK:W2A-034#135:2>
+At this moment , the head pressure exceeds the set value .
+
+<ICE-HK:W2A-034#136:2>
+The flowrate Q is proportional to the speed of the pump , n .
+
+<ICE-HK:W2A-034#137:2>
+Head pressure H is thus proportional to the square of the speed , n
+<sp> 2 </sp> .
+
+<ICE-HK:W2A-034#138:2>
+The speed of the pump can be controlled by the frequency regulator .
+
+<ICE-HK:W2A-034#139:2>
+It becomes the curve 2 , which intercepts curve 4 at point b , it is
+a new set &obrack;  working &cbrack; point .
+
+<ICE-HK:W2A-034#140:2>
+At this time , the set speed should be n&star;&equals;n/n <sb> N </sb>&equals;K &obrack;  K
+<1 &cbrack; .  
+
+<ICE-HK:W2A-034#141:2>
+Obviously , the point b is lower than point b ' .
+
+<ICE-HK:W2A-034#142:2>
+It in turn means that H at point b is less than that at point b'. H
+<sb> b </sb> < H  <sb> b </sb> .
+
+<ICE-HK:W2A-034#143:2>
+It achieves the purpose of energy saving . </p> <h> <bold>
+
+<ICE-HK:W2A-034#144:2>
+4 . FURTHER MODIFICATION </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#145:2>
+This JS5-P1 model was suitable for single pump water supply
+system .
+
+<ICE-HK:W2A-034#146:2>
+When the flowrate is little , the pressure can be much reduced . For
+example , H <sb> p </sb> &star; varies from 1 to H <sb> p ' </sb> &star; which is less
+than 1 &obrack;  H <sb> p ' </sb> &star; <1 &cbrack; .  
+
+<ICE-HK:W2A-034#147:2>
+It is able to save much energy .
+
+<ICE-HK:W2A-034#148:2>
+From this working principle , it was modified to suit a large scale
+multiple pumping water supply system .
+
+<ICE-HK:W2A-034#149:2>
+A new model of JS5-P2 was then developed . </p>
+
+<p> 
+<ICE-HK:W2A-034#150:2>
+Fig . 3 shows a block diagram of a variable frequency constant
+pressure system consisting of 3 same capacity pumps .
+
+<ICE-HK:W2A-034#151:2>
+It was modified from the JS5-P1 model .
+
+<ICE-HK:W2A-034#152:2>
+It is designed for multi-pumps water supple system which
+programmable logic control &obrack;  PLC &cbrack; is involved such that the number of
+hydraulic motors in operation can be determined by the flowrate .
+
+<ICE-HK:W2A-034#153:2>
+The rest of motors are in stand-by mode and the energy saving can be
+realized . </p>
+
+<p> 
+<ICE-HK:W2A-034#154:2>
+From Fig . 3 , the system was composed of pressure sensor &obrack;  PS)
+, pressure amplifier &obrack;  A &cbrack; , pressure regulator &obrack;  AP &cbrack; , signal identifier &obrack; 
+AI &cbrack; , programmable logic control &obrack;  PLC &cbrack; , and frequency regulator .
+
+<ICE-HK:W2A-034#155:2>
+The main feature of this system is that one set of variable
+frequency regulator is in use to control one hydraulic motor .
+
+<ICE-HK:W2A-034#156:2>
+The rest is idling at starting .
+
+<ICE-HK:W2A-034#157:2>
+If the water flow is within the present range .
+
+<ICE-HK:W2A-034#158:2>
+This motor is running according its characteristic curve .
+
+<ICE-HK:W2A-034#159:2>
+When the flowrate is increased , the second motor will be smoothly
+started .
+
+<ICE-HK:W2A-034#160:2>
+The present value of pressure in pipes can be maintained .
+
+<ICE-HK:W2A-034#161:2>
+There are three values for operating these motors , 0~33.3&percent;
+, 33.3~66.6&percent; and 66.6&percent;~100&percent; . </p>
+
+<p> 
+<ICE-HK:W2A-034#162:2>
+In brief , the first pump motor will work if the flowrate falls
+within 33.3&percent; of operation .
+
+<ICE-HK:W2A-034#163:2>
+The operating region is within curves 1 and 4 in the Fig . 4 .
+
+<ICE-HK:W2A-034#164:2>
+When the flowrate increases beyond 33.3&percent; , frequency
+regulator keeps the output frequency at 50Hz , PLC will control of on-off
+state of the motors such that the first pump motor is supplied by the mains .
+
+<ICE-HK:W2A-034#165:2>
+The speed of the first pump motor runs at rated speed .
+
+<ICE-HK:W2A-034#166:2>
+The region of the second motor is within curves 2 and 5 in the Fig .
+4 .
+
+<ICE-HK:W2A-034#167:2>
+When the flowrate is continuously increased and beyond 66.6&percent;
+, and the frequency regulator reaches its rated frequency 50Hz , PLC will
+command the second motor to connect to the mains again and the third one at
+stand-by mode .
+
+<ICE-HK:W2A-034#168:2>
+The operating region of the third one falls within curves 3 and 6 in
+the Fig . 4 . </p>
+
+<p> 
+<ICE-HK:W2A-034#169:2>
+If the flowrate is reduced from 66.6&percent; to 33.3&percent; ,
+PLC will command to one of the pump motors cut off from the mains .
+
+<ICE-HK:W2A-034#170:2>
+When the flowrate further reduces , and less than 33.3&percent; ,
+there will be only one motor connected to the mains .
+
+<ICE-HK:W2A-034#171:2>
+From the working principle , the three motors are operated in turn
+to meet the requirement of energy saving . </p> <h> <bold>
+
+<ICE-HK:W2A-034#172:2>
+5 . CRITERIA FOR FREQUECNY REGULATOR </bold> </h>
+
+<p> 
+<ICE-HK:W2A-034#173:2>
+For the load of the hydraulic pump , the torque t <sb> p </sb>
+is proportional to the square of the motor speed , n <sp> 2 </sp> , it is
+also proportional to the square of the supply frequency , f <sp> 2 </sp> .
+
+<ICE-HK:W2A-034#174:2>
+To a electric motor , the torque t <sb> m </sb> is equal to C <sb> m
+</sb> ? <sb> m </sb> I <sb> 2 </sb> cosa , where C <sb> m </sb> is a constant
+, ? <sb> m </sb> is the magnetic flux of rotating field , I <sb> 2 </sb> is
+the rotor current , and cosa is the power factor of rotor circuit .
+
+<ICE-HK:W2A-034#175:2>
+I <sb> 2 </sb> normally cannot exceed its rated value , so t <sb> m
+</sb> ? <sb> m </sb> .
+
+<ICE-HK:W2A-034#176:2>
+If the voltage drop in the stator is negligible , ? <sb> m </sb>
+will be proportional to supply voltage V.
+
+<ICE-HK:W2A-034#177:2>
+In order to maintain t <sb> p </sb>&equals;t <sb> m </sb> , the supply
+voltage V should be required to be proportional to the square of the
+frequency , f <sp> 2 </sp> .
+
+<ICE-HK:W2A-034#178:2>
+Therefore , the characteristic of V versus f should be set to be a
+quadratic relationship . </p> 6 . CONCLUSION
+
+<p> 
+<ICE-HK:W2A-034#179:2>
+This type of variable frequency constant pressure closed loop
+system for water supply was designed and implemented in Shanghai , China .
+
+<ICE-HK:W2A-034#180:2>
+The performance was proven satisfactory .
+
+<ICE-HK:W2A-034#181:2>
+All four advantages of this proposed system were fully realized .
+
+<ICE-HK:W2A-034#182:2>
+This system is one of the energy saving methods in tall building
+design . </p>
+</I>

@@ -1,0 +1,681 @@
+<I> <h>
+
+<ICE-HK:W1A-018#1:1>
+a &cbrack; Viscoamylography </h>
+<p> 
+<ICE-HK:W1A-018#2:1>
+It is used to measure the relatively viscosity of a system heated
+at constant rate &obrack; 1.5&degree;C/min &cbrack; .
+
+<ICE-HK:W1A-018#3:1>
+So it is frequently employed to study the gelatinizing property of
+starch . </p>
+<p> 
+<ICE-HK:W1A-018#4:1>
+When starch granules are added into cold water , water molecules
+can freely penetrate into the starch granule .
+
+<ICE-HK:W1A-018#5:1>
+The water absorption and the volume change of starch granule are
+reversible and the starch granule only swell slight .
+
+<ICE-HK:W1A-018#6:1>
+Heating the system <del> <unc> 2-characters </unc> </del> to
+just below the <del> g </del> starch gelatinization temperature does not
+bring any significant change .
+
+<ICE-HK:W1A-018#7:1>
+But if the heating temperature is increased beyond the starch
+gelatinization temperature , irreversible changes occur .
+
+<ICE-HK:W1A-018#8:1>
+This can be reflected in the viscoamylograph . </p>
+<p> 
+<ICE-HK:W1A-018#9:1>
+After passing the gelatinization temperature of starch , the
+viscosity increases .
+
+<ICE-HK:W1A-018#10:1>
+This is the result of <del> <unc> 1-character </unc> </del>
+starch continual <del> up </del> taking up water and swelling substantially .
+
+<ICE-HK:W1A-018#11:1>
+As the temperature increases , the starch granule becomes <del>
+<unc> 3-characters </unc> </del> distorted and releases the soluble
+starch &obrack; amylose &cbrack; .
+
+<ICE-HK:W1A-018#12:1>
+The soluble starch together with the continual uptake of water by the
+<del> <.> reman </.> </del> remnants of starch granules cause an additional
+large increase in the viscosity of the system .
+
+<ICE-HK:W1A-018#13:1>
+The starch granule will continue to <-> solublize </-> <+> solubilize
+</+> as the temperature increases until the whole granular structure <del>
+<?> <.> de </.> </?> </del> dissolves .
+
+<ICE-HK:W1A-018#14:1>
+This would require a temperature of l20&degree;C .
+
+<ICE-HK:W1A-018#15:1>
+However , in food system , the temperature cannot exceed l00&degree;C
+otherwise the system will boil .
+
+<ICE-HK:W1A-018#16:1>
+Therefore the amylograph is discontinued at 95&degree;C .
+
+<ICE-HK:W1A-018#17:1>
+The swollen starch granules are then held for 1 hr at 95&degree;C .
+
+<ICE-HK:W1A-018#18:1>
+Holding the starch at a specific temperature doesn't increase its
+solubility . </p>
+<p> 
+<ICE-HK:W1A-018#19:1>
+A marked decrease in the viscosity of the system is observed at
+the start of the <del> <unc> 2-characters </unc> </del> holding <->
+peroid </-> <+> period </+> .
+
+<ICE-HK:W1A-018#20:1>
+This is due to the soluble starch fractions orientating themselves in
+the direction that is the same as the stirring direction .
+
+<ICE-HK:W1A-018#21:1>
+This is called shear thinning.The system is then cooled by using a
+controlled cooling &obrack; 1.5&degree;C/min &cbrack; .
+
+<ICE-HK:W1A-018#22:1>
+And during this <-> peroid </-> <+> period </+> , the viscosity rises
+again .
+
+<ICE-HK:W1A-018#23:1>
+This is called set back .
+
+<ICE-HK:W1A-018#24:1>
+The phenomenon is due to the decrease in energy of the system <del>
+that </del> which then allows more hydrogen bonding , resulting in increased
+viscosity . </p> <h>
+
+<ICE-HK:W1A-018#25:1>
+&obrack; c &cbrack; Cross-linking of starch </h>
+<p> 
+<ICE-HK:W1A-018#26:1>
+It is a method used to modify the functional properties of native
+starch .
+
+<ICE-HK:W1A-018#27:1>
+Cross-linking is the covalent bonding of two starch molecules to make
+a larger molecule .
+
+<ICE-HK:W1A-018#28:1>
+It can be achieved by forming a diester with phosphoric acid or
+forming <del> a </del> diether bonds with epichlorohydrin . </p>
+<p> 
+<ICE-HK:W1A-018#29:1>
+High levels cross-linked starch has an increased gelatinization
+temperature so that the modified starch <del> m </del> is not dissolved in
+autoclave or boiling system .
+
+<ICE-HK:W1A-018#30:1>
+This type of starch finds its application in surgical gloves which
+have to be sterilized at high temperature and if <del> a </del> it is
+accidently remained in patient body , it will be digested . </p>
+<p> 
+<ICE-HK:W1A-018#31:1>
+Low levels cross-linked starch does not have sign change in the
+gelatinization temperature , but it shows significant chance in pasting
+property .
+
+<ICE-HK:W1A-018#32:1>
+Upon gelatinization the starch granule swells less and is less
+soluble .
+
+<ICE-HK:W1A-018#33:1>
+Therefore it has a pasting viscosity lower than the parent starch .
+
+<ICE-HK:W1A-018#34:1>
+One advantage of this modified starch is that it is not susceptible
+to shearing thinning .
+
+<ICE-HK:W1A-018#35:1>
+<del> since </del> This is because the starch granule <-> solublizes
+</-> <+> solubilizes </+> less , it shears less .
+
+<ICE-HK:W1A-018#36:1>
+Therefore it can still maintain a high viscosity after pumping and
+stirring .
+
+<ICE-HK:W1A-018#37:1>
+</p>
+<p> 
+<ICE-HK:W1A-018#38:1>
+Low levels cross-linked starch is useful to produce a <del> thick
+</del> viscous system in acid medium e.g. thickening of cherry pie filling .
+
+<ICE-HK:W1A-018#39:1>
+The acidity of cherry can hydrolyse &alpha;1-4 glucosidic linkages of
+starch molecules and thus results in thinning of pie filling .
+
+<ICE-HK:W1A-018#40:1>
+But if the starch granule has sufficient cross-linking , the problem
+can be solved .
+
+<ICE-HK:W1A-018#41:1>
+This starch granule has restricted swelling upon gelatinization , and
+as the acid hydrolyses the bonds , the viscosity increases instead of
+decreasing . </p>
+<p> 
+<ICE-HK:W1A-018#42:1>
+Cross-linked starch can also be used to control retrogradation .
+
+<ICE-HK:W1A-018#43:1>
+As retrogradation usually exhibits in starch fragments that are small
+and more mobile .
+
+<ICE-HK:W1A-018#44:1>
+This prevents watering and opaqueness of gel . </p>
+<p> 
+<ICE-HK:W1A-018#45:1>
+It can also be used to maintain gel consistence when the gel is
+frozen and thawed .
+
+<ICE-HK:W1A-018#46:1>
+This is done by holding the starch chains fixed in space so that upon
+thawing , they can interact with each other to retrograde .
+
+<ICE-HK:W1A-018#47:1>
+Water can again hydrate the starch chains . </p> <h>
+
+<ICE-HK:W1A-018#48:1>
+3 </h>
+<p> 
+<ICE-HK:W1A-018#49:1>
+<-> Cron </-> <+> Corn </+> grain is mainly used in wet milling
+industry and corn distiller process for beverage production . </p>
+<p> 
+<ICE-HK:W1A-018#50:1>
+In wet milling industry , the primary products are starch and
+nutritive sweetener .
+
+<ICE-HK:W1A-018#51:1>
+About 65-70&percent; of total corn used in wet milling can be
+converted to primary products .
+
+<ICE-HK:W1A-018#52:1>
+The remainings are by-products which are further processed to animal
+feed .
+
+<ICE-HK:W1A-018#53:1>
+In the wet milling process , many by-products <del> <unc>
+3-characters </unc> </del> are produced , for example steep liquor from
+the steeping stage; corn germ meal from the germ which has its oil extracted
+and the bran .
+
+<ICE-HK:W1A-018#54:1>
+Mixing of the above by-products in composition can produce the corn
+gluten feed which is a palatable animal feed .
+
+<ICE-HK:W1A-018#55:1>
+The gluten separated from the starch can also be sold as corn gluten
+meal which is also an animal feed .
+
+<ICE-HK:W1A-018#56:1>
+Even the corn oil is a valuable by product .
+
+<ICE-HK:W1A-018#57:1>
+The <del> starch </del> corn starch produced from the wet milling
+<del> can be <.> us </.> </del> is mainly used for nutritive sweetener
+production and for papermaking . </p>
+<p> 
+<ICE-HK:W1A-018#58:1>
+About 90&percent; of starch used in papermaking comes from corn .
+
+<ICE-HK:W1A-018#59:1>
+The use of corn starch can improve the properties of the paper and
+reduce the production cost .
+
+<ICE-HK:W1A-018#60:1>
+However , modification of the starch is <del> <unc> 2-characters
+</unc> </del> usually need before it can be an additive for paper making .
+</p>
+<p> 
+<ICE-HK:W1A-018#61:1>
+The biggest corn starch user is the sweetener production industry .
+
+<ICE-HK:W1A-018#62:1>
+Corn starch can be used for making sweeteners such as anhydrose
+dextrose , high <del> <unc> 1-character </unc> </del> fructose corn
+syrup .
+
+<ICE-HK:W1A-018#63:1>
+The latter is more important since it has a sweetness approach to
+that of sucrose and so it is frequently used to substitute sucrose in food .
+
+<ICE-HK:W1A-018#64:1>
+This is because sucrose is more expensive .
+
+<ICE-HK:W1A-018#65:1>
+Dextrose has been widely used in beverage , <-> confectionary </->
+<+> confectionery </+> , <del> <.> bark </.> </del> baking industries while
+HFCS is widely used in soft drinks and baking industries . </p>
+<p> 
+<ICE-HK:W1A-018#66:1>
+The production of sweeteners is enzymatic fermentation <del>
+<unc> 1-character </unc> </del> process in which &alpha;-amylase and
+glucoamylase are used .
+
+<ICE-HK:W1A-018#67:1>
+The former <del> <.> convel </.> </del> converts the starch to small
+saccharides and the latter act on the saccharides to produce dextrose .
+
+<ICE-HK:W1A-018#68:1>
+42&percent; HFCS is produced by partial isomerisation of the purified
+dextrose to fructose with immobilized <del> <?> <.> gluco </.> </?> </del>
+glucose <del> <.> am </.> </del> isomerase .
+
+<ICE-HK:W1A-018#69:1>
+The use of chromatographic separation techniques <del> to </del>
+produce a 90&percent; fructose products which can then be blended with <del>
+<unc> 2-characters </unc> </del> 42&percent; HFCS to form 55&percent;
+HFCS . </p>
+<p> 
+<ICE-HK:W1A-018#70:1>
+Corn can also be used for beverage production and again <del> <?>
+valuable </?> </del> by products such as dried distiller  ' s grains , dried
+distiller  ' s grains with solubles , dried distiller  ' s solubles are widely
+used as animal feed . </p>
+<p> 
+<ICE-HK:W1A-018#71:1>
+The high <-> avaibility </-> <+> availability </+> , abundance
+and low cost have make corn to be attractive commodity .
+
+<ICE-HK:W1A-018#72:1>
+From the above it can be seen that corn can be turned to many <->
+vauable </-> <+> valuable </+> products through the wet milling process .
+
+<ICE-HK:W1A-018#73:1>
+In China , domestically produced maize is mostly used directly as
+food or as animal feeds &obrack; This is <del> with </del> an uneconomical
+use of corn . &cbrack; In order to increase the value of domestic maize
+production , the Government of China should establish some more wet milling
+plants and buy the corn crop from the farmer .
+
+<ICE-HK:W1A-018#74:1>
+In this way the government can change the low value corn grain to
+many more useful and high value products <del> <unc> 1-character
+</unc> </del> and byproducts .
+
+<ICE-HK:W1A-018#75:1>
+Nowadays there is a great demand for corn starch for manufacturing of
+nutritive sweeteners , also corn oil &obrack; by products of wet corn milling
+&cbrack; is being recognised to be <-> benefical </-> <+> beneficial </+> to
+health and more and more people use it .
+
+<ICE-HK:W1A-018#76:1>
+There will be great profit if wet milling industry is developed in
+China . </p> <h>
+
+<ICE-HK:W1A-018#77:1>
+1 </h>
+<p> 
+<ICE-HK:W1A-018#78:1>
+Wheat protein is the essential <-> ingredent </-> <+> ingredient
+</+> in wheat flour which is the only one cereal flour that can be used for
+breadmaking .
+
+<ICE-HK:W1A-018#79:1>
+What make wheat flour unique is the present of storage proteins
+called gluten .
+
+<ICE-HK:W1A-018#80:1>
+Gluten has important functional properties in bread . </p>
+<p> 
+<ICE-HK:W1A-018#81:1>
+Bread is a yeast leavened products and it must contains at least
+4 <del> <.> mimim mimi </.> </del> minimum ingredients: flour &obrack; wheat
+&cbrack; , salt , yeast , water .
+
+<ICE-HK:W1A-018#82:1>
+The production of bread is a fermentation process .
+
+<ICE-HK:W1A-018#83:1>
+A dough that <del> can </del> is able to <del> <unc> 3-characters
+</unc> </del> retain gas and rise is necessary for breadmaking .
+
+<ICE-HK:W1A-018#84:1>
+The first contribution made by wheat gluten is the participation in
+the dough structure .
+
+<ICE-HK:W1A-018#85:1>
+It forms the major structural <del> components </del> component by
+providing a matrix for the strings of starch granules .
+
+<ICE-HK:W1A-018#86:1>
+It also affects the rheological property of the dough by contributing
+to the cohesiveness and elasticity of the dough . </p>
+<p> 
+<ICE-HK:W1A-018#87:1>
+During the fermentation of a developed dough .
+
+<ICE-HK:W1A-018#88:1>
+The <del> <?> yeat </?> </del> yeast utilize the carbohydrate
+substrate to produce alcohol and carbon dioxide .
+
+<ICE-HK:W1A-018#89:1>
+The latter is responsible for raising the dough .
+
+<ICE-HK:W1A-018#90:1>
+<del> <unc> 2-words </unc> </del> Therefore the trapping of
+carbon dioxide is very important otherwise the dough will not <del> <unc>
+1-character </unc> </del> <del> rise </del> rise .
+
+<ICE-HK:W1A-018#91:1>
+<del> <unc> 1-word </unc> </del> The cohesiveness contributed
+by gluten makes the dough able to <-> incoporate </-> <+> incorporate </+>
+air into itself .
+
+<ICE-HK:W1A-018#92:1>
+The presence of these small air cells is important since yeast cannot
+produce air cells .
+
+<ICE-HK:W1A-018#93:1>
+During fermentation CO2 is first produced in the aqueous phase of the
+dough .
+
+<ICE-HK:W1A-018#94:1>
+Once the aqueous phase has been saturated with CO2 , CO2 will diffuse
+into the air <del> <unc> 1-word </unc> </del> cells and cause them to
+expand .
+
+<ICE-HK:W1A-018#95:1>
+It is the elastic property offered by gluten <del> <.> wh </.> </del>
+that allows the expansion of gas cells .
+
+<ICE-HK:W1A-018#96:1>
+Also during the baking process the presence of gluten allow the large
+expansion of gas cells .
+
+<ICE-HK:W1A-018#97:1>
+Another characteristic that <del> <unc> 1-character </unc>
+</del> gluten contribute to the leavening system is its structure .
+
+<ICE-HK:W1A-018#98:1>
+The special structure of gluten slows down the diffusion of CO2 and
+therefore effectively retaining the gas . </p>
+<p> 
+<ICE-HK:W1A-018#99:1>
+In a dough which is well mixed , gluten is completely hydrated so
+that it <del> carry </del> carries considerable amount of water .
+
+<ICE-HK:W1A-018#100:1>
+During baking , water is needed for gelatinization of starch and at
+the same time protein is denatured to release the water molecules that allow
+gelatinization of starch possible . </p>
+<p> 
+<ICE-HK:W1A-018#101:1>
+The quality of bread is mainly depend on <del> its </del> the
+size and amount of gas cells that present in the bread , and the <-> gluent
+</-> <+> gluten </+> has sign contribution to this . </p> </I>
+
+<I>
+<p> 
+<ICE-HK:W1A-018#102:2>
+David Hawkes said that one of his translation principle is to
+translate everything &dash; even puns .
+
+<ICE-HK:W1A-018#103:2>
+Actually , in translating , it is impossible to translate everything
+as there are cultural differences arise in the source text and the target
+text .
+
+<ICE-HK:W1A-018#104:2>
+Therefore , many unique features of Chinese culture such as those
+appeared in <O> Chinese-characters </O> is impossible to be translated into
+<del> <.> Ch </.> </del> English . </p>
+<p> 
+<ICE-HK:W1A-018#105:2>
+In fact , David Hawkes adopts a rather free translation method
+in translating <O> Chinese-characters </O> .
+
+<ICE-HK:W1A-018#106:2>
+Firstly , he does not translate the book  ' s name <O>
+Chinese-characters </O> <del> into </del> into &ldquo; <ul> The Dream of Red
+Chamber </ul> &ldquo; that the term <mention> &ldquo; red &rdquo; </mention>
+is associated with certain connotative meaning as " <O> Chinese-characters
+</O> &rdquo; , that is a cultural barrier that <del> which </del> the
+foreigners <del> only </del> by reading the translated version will fail to
+understand .
+
+<ICE-HK:W1A-018#107:2>
+Therefore , he translate the book  ' s name into &ldquo; <ul> The
+Story of the Stone </ul> &ldquo; as the whole story of <O> Chinese-characters
+</O> is talking about &ldquo; <O> Chinese-characters </O> &rdquo; who is born
+from stone .
+
+<ICE-HK:W1A-018#108:2>
+So the story about &ldquo; <O> Chinese-characters </O> &rdquo; is
+actually about &ldquo; The Stone &rdquo; . </p>
+<p> 
+<ICE-HK:W1A-018#109:2>
+Moreover , David Hawkes  ' s translation method , unlike &lsquo;
+his principle &rsquo; as said before , is not to translate everything . </p>
+<p> 
+<ICE-HK:W1A-018#110:2>
+It is obvious that in the translated version of &ldquo; The
+Story of the Stone &rdquo; the first few paragraphs of the original &ldquo;
+<O> Chinese-characters </O> &rdquo; is omitted .
+
+<ICE-HK:W1A-018#111:2>
+Also , he is selectively translated the poems . </p>
+<p> 
+<ICE-HK:W1A-018#112:2>
+Furthermore , when he translate the parts related to &lsquo;
+puns &rsquo; , he cannot keep the Chinese pun in the translation but he <del>
+uses </del> makes some changes and translated the &lsquo; puns &rsquo; in
+another ways . </p>
+<p> 
+<ICE-HK:W1A-018#113:2>
+Also , when David Hawkes translates the concepts about Taoism ,
+he cannot translate <del> the term </del> all the meanings in the terms .
+
+<ICE-HK:W1A-018#114:2>
+For example , in translating  '  <O> Chinese-characters </O> &rsquo; ,
+it is a term used in Taoism , David Hawkes fails <del> fails </del> to
+translate <del> the </del> all this concept <del> in </del> to English but
+only translate it directly from the lexical meaning due to cultural
+differences .
+
+<ICE-HK:W1A-018#115:2>
+</p>
+<p> 
+<ICE-HK:W1A-018#116:2>
+All in all , David Hawkes  ' s principle about to translate
+everything and even puns is not <del> valid </del> so correct since it is
+impossible to translate everything .
+
+<ICE-HK:W1A-018#117:2>
+Translation is actually a craft in converting one language into
+another .
+
+<ICE-HK:W1A-018#118:2>
+But there are losses eg .
+
+<ICE-HK:W1A-018#119:2>
+meanings in the process of translating One hundred percentage
+equivalent translation is not possible . </p>
+<p> 
+<ICE-HK:W1A-018#120:2>
+Also , the puns in Chinese may be or may not be <del> <.> kee
+</.> </del> kept in translating into English as there are differences in two
+languages and cultures . </p>
+<p> 
+<ICE-HK:W1A-018#121:2>
+Therefore , David Hawkes &rsquo; principle is not <del> valid
+</del> so correct at all . </p> <h>
+
+<ICE-HK:W1A-018#122:2>
+PART II 1 </h>
+<p> 
+<ICE-HK:W1A-018#123:2>
+There are many linguistic theories of culture .
+
+<ICE-HK:W1A-018#124:2>
+It is because due to the cultural differences .
+
+<ICE-HK:W1A-018#125:2>
+The use of languages by different people of different cultures are
+not the same .
+
+<ICE-HK:W1A-018#126:2>
+Therefore , linguistic theories of culture is useful in analysing
+the differences or similarity of different culture .
+
+<ICE-HK:W1A-018#127:2>
+By using , linguistic , we can analyse the problems in a more
+scientific and logical way .
+
+<ICE-HK:W1A-018#128:2>
+</p>
+<p> 
+<ICE-HK:W1A-018#129:2>
+Firstly , from linguistic theories of culture , we can analyse
+the way people saying &ldquo; Yes &rdquo; or &ldquo; No &rdquo; .
+
+<ICE-HK:W1A-018#130:2>
+For example , Japanese is a race <del> <.> wh </.> </del> who tend
+to always " Yes &rdquo; all the time .
+
+<ICE-HK:W1A-018#131:2>
+If we don't know linguistic , we don't know when do they <del> say
+</del> mean <mention> &lsquo; agree &rsquo; </mention> or <mention> &lsquo;
+disagree &rsquo; </mention> . </p>
+<p> 
+<ICE-HK:W1A-018#132:2>
+Secondly , <del> there are </del> except verbal communication ,
+there are non-verbal communication exist such as body gesture .
+
+<ICE-HK:W1A-018#133:2>
+If we study linguistic we can know the way people express themselves
+, <del> <.> si </.> </del> as different races have different ways of body
+gestures <del> as </del> for non-verbal communication purposes . </p>
+<p> 
+<ICE-HK:W1A-018#134:2>
+Also , the loudness of <del> <.> vio </.> </del> the voices ,
+the times of repeating a statement is a special way of expressing something
+in different cultures .
+
+<ICE-HK:W1A-018#135:2>
+For example , <del> <unc> 4-characters </unc> </del> people
+in <del> Phillipines </del> Philippines tend to repeat their statement when
+confirming their point of view .
+
+<ICE-HK:W1A-018#136:2>
+</p>
+<p> 
+<ICE-HK:W1A-018#137:2>
+In Hong Kong , people tend to say &lsquo; We  ' ll have tea later
+&rsquo; , <del> or </del> &lsquo; Visit you later &rsquo; or &lsquo; Call you
+later and so on to <del> represent </del> show the friendly manner , actually
+<del> , <.> w </.> </del> people saying it without an intention to bring an
+<del> the </del> action .
+
+<ICE-HK:W1A-018#138:2>
+There is a story <del> arisen because </del> due to of the culture
+misunderstanding .
+
+<ICE-HK:W1A-018#139:2>
+<del> We </del> When a <del> boy </del> boy talked to his friend ,
+who is a foreigner about the Chinese food and he arbitrarily said that if
+that foreigner came to his home tomorrow , he <del> <.> pr </.> </del> would
+prepare a Chinese meal for him .
+
+<ICE-HK:W1A-018#140:2>
+The boy would not expect the foreigner come to his home , however ,
+the next day , the foreigner came to the boy  ' s home and wanted to taste the
+Chinese food .
+
+<ICE-HK:W1A-018#141:2>
+But actually , the boy did not prepare any food at all .
+
+<ICE-HK:W1A-018#142:2>
+There is the problem about cultural differences . </p>
+<p> 
+<ICE-HK:W1A-018#143:2>
+Moreover , because of the different cultures , the &ldquo;
+Westerners &rdquo; and Chinese have a different perception about colour .
+
+<ICE-HK:W1A-018#144:2>
+For example , in Chinese society , white colour is associated with
+the unfortunate thing such as someone die .
+
+<ICE-HK:W1A-018#145:2>
+But for the foreigners , white colour is associated <-> withe </->
+<+> with the </+> celebration such as wedding .
+
+<ICE-HK:W1A-018#146:2>
+Also , red colour is associated with &lsquo; lucky &rsquo; or
+celebration in Chinese culture , but in Western society , red colour is
+associated with danger . </p>
+<p> 
+<ICE-HK:W1A-018#147:2>
+Therefore , the study of linguistic theories of culture can help
+us to analyse the differences of culture in different society and help us to
+avoid the misunderstanding arise from it . </p> <h>
+
+<ICE-HK:W1A-018#148:2>
+2 &obrack; a &cbrack; </h>
+<p> 
+<ICE-HK:W1A-018#149:2>
+The questions or concerns does <ul> Huckleberry Finn </ul> raise
+about values in Western Society are individualism , alienation and <->
+opportunitism </-> <+> opportunism </+> . </p>
+<p> 
+<ICE-HK:W1A-018#150:2>
+Huckleberry Finn has its own style of speech demonstrates his
+uniqueness and individualism , which is quite different from <del> the </del>
+other people in the book .
+
+<ICE-HK:W1A-018#151:2>
+His speech does not follow the standard English but &lsquo; create
+&rsquo; <del> his own </del> a new way of speech a kind of American <del>
+vernacular </del> dialect &obrack; Southwestern vernacular &cbrack; .
+
+<ICE-HK:W1A-018#152:2>
+He does not follow the  ' standard &rsquo; grammatical rules and it
+seems that his speech <del> is full of </del> has errors and not correct .
+
+<ICE-HK:W1A-018#153:2>
+For example , <del> to </del> in the beginning of the book &obrack;
+1st paragraph &cbrack; Huck said that , <quote> " <del> <unc>
+2-characters </unc> </del> You don't know about me without you have read
+a book by the name of The Adventures of Tom Sawyer but that ain't no matter."
+</quote> </p>
+<p> 
+<ICE-HK:W1A-018#154:2>
+Moreover , Huck  ' s behaviour as considered by many people is
+acceptable though he help the slave , Jim to escape from the family but it is
+Huck  ' s wise to take every opportunity to escape from civilization , from his
+father <del> , the </del> and the family which restricts him , but he is not
+just a indulgence person . </p>
+<p> 
+<ICE-HK:W1A-018#155:2>
+Huck is regarded as a bad boy , but he save a slave , Jim from
+the Old South &obrack; before the Civil War &cbrack; down the <-> Missippi
+</-> <+> Mississippi </+> River seems to be a brave behaviour and considered
+&lsquo; good &rsquo; by the people .
+
+<ICE-HK:W1A-018#156:2>
+Though he and Jim  ' s life is a way of alienation from the
+civilization , it also can be considered escape from the traditional rules
+and restriction and so find a way to freedom , to set themselves free . </p>
+<p> 
+<ICE-HK:W1A-018#157:2>
+The values in Huckleberry finn is quite unique to the Western
+society .
+
+<ICE-HK:W1A-018#158:2>
+But in Chinese society , the values questions or <del> <.> con </.>
+</del> concerns are quite different .
+</p>
+</I>
+

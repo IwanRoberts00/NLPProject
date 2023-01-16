@@ -1,0 +1,203 @@
+<I>
+yes uh entertaining
+entertaining because i ' m a few words so the
+the sub-title section here is normally should be an initial step
+towards computational linguistics computational discourse for me
+uhm okay uhm well uh this is an initial step because i am going to
+do uh research in this area for the next few years
+and uh i would talk about several points briefly
+uhm the communicative pa paradigm uhm uh if you uh have uh
+read the two-words uh uhm idea of scientific revolution
+in humans that at uhm different eras would have different paradigms that uhm
+uh enlightening researchers in their research
+uhm i think right now is time for us to shift to uh discourse
+analysis
+uh this is different uh from uh what we ' ve been doing all the time
+in the past uhm namely sentence linguistics
+uhm this is uhm actually very natural because in the past i mean we
+could only study things which which are very concrete which are uh below
+sentence level say uh phonology phonetics uhm morphology syntax and so on
+and uh the more develop you get in the science probably you need to
+get more abstract things and you need to consider more things
+so uhm uh besides i mean uh people who do sentence linguistics tend
+to uhm restrict themselves to the study of uhm syntactic issues and then they
+they uh di disregard the use of language uh which i think should uh
+we should take uh a functionalist approach to deal with in order to get any
+success
+uh since the language is basically used uh for communication i
+don't uhm i don't think uh anyone anybody might spend time to talk
+about this
+so i think if we take uh in this uh perspective that we can have a
+better understanding what language is actually actual actually like
+and uhm so we uhm want to take uhm a functionalist approach and we
+try to talk about uhm language being use as a dynamic process like what ' s in
+our mind and how we can actually use language and what is the output that we
+actually say depending on various social variables
+uhm if we study discourse analysis it is very important to talk
+about context and co-text
+uh context is used in its broadest sense and uh we talk about
+anything uh in the situation in the social context i mean uh background
+knowledge of the person and interactings and so on
+but co-text is restricted to the uhm the sentences that are use uhm
+adjacent to the sentence that you are uttering or you are writing at the
+moment
+uhm so according to heidely uh discourse analysis can
+have two levels of achievement
+one is to contribute uh to the understanding how and why the text
+ means or it does 
+uh high level of achievement is to relate the text to general
+features of the language
+uh he therefores proposes a discourse grammar which is functional
+and semantic in its orientation and which provides the basis to relate
+language use to a non-linguistic universal of situational and cultural
+environment
+okay this embodies a lot of things and uh accordingly we will have
+to uh simplify in order to be able to uh finish some research problems
+uhm for myself i have uh uh some objectives i want to achieve
+first we want i want to uh simulate the function of the human brain
+by the use of computer
+and secondly i want to facilitate nlv processing including
+information retrieval text analysis and text generation uhm while doing this
+kind of research
+uhm uh what i hope to do is to get some uhm restricted texts i mean
+the restricted domains some texts in the restricted domain
+uh and then we try to do uhm only written text because uhm the oral
+narrative i think are very complicated and have a lot of the regressions and
+uh pauses which uh which require phonetic hinge 
+uhm and i think i ' m not able to do that kind of work at all
+so i think i like to do some uh formal writing first
+and uh uh to facilitate the job i think uh i want to use as minimal
+as possible of world knowledge because once you uhm talk about world
+knowledge it ' s very difficult to come up with the good uh representation and
+then it would uhm complicates the matter very much
+and uh what i want to do is to i want to have a written text
+uh i want to uhm analyse the text using uh clause as its discourse
+unit
+so every sentence would be discomposed into uh different
+clauses uh different clauses
+and uh each clause will be headed by a verb or in chinese case an
+adjective will be alright
+and uh so the head will be a verb or an adjective in chinese case
+and and then we can come up with uhm uhm a frame for the verb
+or adjective
+say for example like uhm if we have the word like is a verb it ' s
+transitive verb so you can have the subject the agent and the the object uh
+the patient
+and it requires two arguments namely the pa uh the subject
+and the patient
+i mean the subject and the uh object uh in semantic sense i mean
+that you require an agent and a patient
+i think you notice that that the the action of uh liking must take
+place at some place and some time and you can assign different uhm attributes
+to uhm the arguments there where you can hav have a lot of
+quantifiers for the noun phrases and you have a lot of uh adverbials which
+modify verb phrases
+and so if we suppose uhm a verb like like really talks about
+relationship between two and these and then we have a lot of uh additional
+information that you may fill or not fill in your conversation then you can
+uhm have a representation like this
+uhm this will be easily implemented in a prologued uh programme
+ so uh what i want to do is i want to analyse text and decompose
+it into different clauses
+uh clauses have a well since they are adja adjacent so
+they must have some relationship uh between them
+and uh i want to uh find out these relationship and build all the
+clauses into uh a a very large uh structure that has hierarchy in it
+and uh the clauses in this hierarchy will be linked to each other
+uhm u using a lot of discourse relations
+say for example uhm there is is a sentence and then you elaborate
+on it or you give an example to further illustrate what it is and we have uh
+some concessive uh thing that you want to add uh or you have some uhm uhm
+analogy that you want to make one-word 
+uh i want to have a test decompose in this way and then clauses
+will have inter-relationships
+uh in the case of chinese we have uhm a very simple discourse
+structure according to my superficial observation
+say for example we have uh always the modifiers before the the
+modified and this is true at all levels that means it ' s true in the phonetic
+level in the morphological level as well as in the phrasal and clausal levels
+so we can make use of that kind of uh uh prin principle to
+deal with uh temporal-logical sequence sequencing of the clauses
+uhm the linguistic tools that i employ will be an automatic lexical
+functional grammar framework which is uh lexicon-driven versus rule-driven
+that mean uhm i rely a lot on the information in the lexicons
+so a a word will have a lot of information that will be used in the
+parsing and other uh other classes
+and uhm so if you have a look of the uh the list
+it is a very complicated list and you can have the verb as head so
+this uhm oh where ' s the verb
+the verb is the predicate
+okay the predicate buy
+it require an agent uh sorry there should an a a patient well which
+is missing
+ oh sorry uh
+uhm agent and patient there shouldn't be a comma in between
+ the patient pat
+and uh we have a uhm attribute-value pairs like like this
+so the subject of the sentence is uhm a list of uh uh john and uhm
+john is the spec and the two-words which is which uh
+whose value is buy which requires an agent and a patient
+uhm okay so you can have a very complicated list
+uh you can have encode all kinds of information uhm in this kind of
+list
+uhm so the processing of this kind uhm this is very uh very
+standard we can use the implicational data processing which is uh very easily
+implemented in a prologue
+uhm enabling programming and logic
+uhm and of course we have to have discourse models say for example
+uhm in our experience in working with an editorials we uh learn that uh
+editorial will be compo uh will be compose of uhm uh an event and
+then you have a report on the event and you have some argumentation
+and you can have the conclusion at the end or some suggestions recommended by
+the editors of newspaper
+so uhm for each genre of writing you have a certain kind of
+discourse model and then you can uhm encoded in uh in various kinds 
+representation methods say uhm scri scripts uh frames and so on
+uhm so uh if you look at uhm my my writing uhm for the
+representation the dots denote other possible slots that answer question like
+how why instrument associated et cetera as suggested by the case grammar
+and the attribute dis uh discourse relate 
+relations will be used to indicate preposition relations with other texts
+so we can have uhm information like uh the temporal order or we can
+have information like uh uh this clause is actually related to the second
+clause or the third clause because it is uhm an explanation of that clause or
+whatever
+okay so uhm we have to come up with different kinds of discourse
+relation
+uhm i propose this representation because that in the 
+computers some kind of enhanced functional grammar where one has decides
+regular constituent structure and functional structure uhm some discourse uh
+information
+uhm and then the the values of these uhm attributes can be linked
+to others by some po uh pointers
+so you can link up uhm different clauses that are co-referential i
+mean that have co-referential values
+uhm well and uhm this pair i try not to use not too many uhm
+contextual hinge 
+uh so i ' ll concentrate in the first place the study of uh uh
+conjunctions indexicals
+so for example even here and there can be indexical
+so here may be in this hall in lecture room and there may be in the
+restaurant and so on
+the the uhm explicit marker for showing that the the relationships
+of uh various clauses
+uhm punctuations for example we have well comma versus the semi-
+colon
+semi-colon will give you well will tell you that are probably
+talking about two things which are uh uh in parallel i mean which are
+structurally equally important one-word 
+and the comma will probably uh hints that you have some uh temporal
+sequence that you may uh uhm want to make use of
+and there may be other expressive markers of conjunctive res
+ relations
+for example adjectives adversatives clausal temporal and
+so on
+so basically i want to study uhm a text with special emphasis on
+these uh conjunctions indexicles punctuation marks and so on
+and they will give me the enough data to uhm come up with the
+largest hierarchical tree for these uh clauses
+so besides the constituent structure besides the functional
+structure that are proposed by bresnan i ' d like to add some discourse
+structure which link different clauses together
+well i think i have uh overrun the time now
+well thank you 

@@ -1,0 +1,778 @@
+<I>
+
+<ICE-HK:W2A-038#1:1>
+<h> <bold> Advances in the Consumer Electronics Industry </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#2:1>
+Just like a computer , the latest consumer ICs can be made to
+perform different functions by altering the software in them .
+
+<ICE-HK:W2A-038#3:1>
+In order to cater for different application areas , a wide range of
+consumer ICs are developed based on a common computer core .
+
+<ICE-HK:W2A-038#4:1>
+This article will give a concise description on these ICs as well as
+some practical applications . </p>
+
+<ICE-HK:W2A-038#5:1>
+<h> By Danny Leung , Techno Mind Ltd . </h>
+
+<p> 
+<ICE-HK:W2A-038#6:1>
+The advancement of semiconductor technology has brought about many
+powerful yet low cost Integrated Circuits &obrack; ICs &cbrack; for the
+consumer industry .
+
+<ICE-HK:W2A-038#7:1>
+The latest consumer ICs have in them a processor which can be
+programmed to perform extremely intelligent tasks - a processor with at least
+four times the computing power of the APPLE II computer which once dominated
+the Personal Computer &obrack; PC &cbrack; world . </p>
+
+<p> 
+<ICE-HK:W2A-038#8:1>
+With the IC fabrication technology going sub-micron &obrack; i.e.
+the minimum separation between two design features in the IC is less than one
+millionth of a meter &cbrack; , the physical size of an IC is extremely small .
+
+<ICE-HK:W2A-038#9:1>
+Since the cost of an IC is directly proportional to its size , the
+cost of today  ' s consumer ICs is only a tiny portion of its cost ten years
+ago .
+
+<ICE-HK:W2A-038#10:1>
+As a result , applications that once were too expensive to implement
+are now possible and affordable .
+
+<ICE-HK:W2A-038#11:1>
+Most of the ICs described in this article range in price from
+US&dollar;0.30 to US&dollar;2.00 .
+
+<ICE-HK:W2A-038#12:1>
+As consumer ICs become more powerful yet less expensive , they will
+increasingly affect our daily lives as well as the various industries which
+use them in products <+> . </+> </p>
+
+<ICE-HK:W2A-038#13:1>
+<h> <bold> Advanced Consumer ICs </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#14:1>
+Consumer ICs in this article are defined as those used for such
+products like toys , greeting cards , electronic games and accessories etc .
+
+<ICE-HK:W2A-038#15:1>
+Should they fail , they will - in most cases - not cause serious
+bodily harm or have serious consequences .
+
+<ICE-HK:W2A-038#16:1>
+As the cost of consumer ICs come down quite rapidly , more and more
+products will incorporate them . </p>
+
+<p> 
+<ICE-HK:W2A-038#17:1>
+Since the number of consumer ICs in existence are huge , this
+article will only describe the most advanced few which are most likely to
+cause a revolution in the consumer electronic industry . </p>
+
+<ICE-HK:W2A-038#18:1>
+<h> <bold> LCD Processors </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#19:1>
+LCD processors are a range of programmable ICs with Liquid
+Crystal Displays &obrack; LCD &cbrack; .
+
+<ICE-HK:W2A-038#20:1>
+The block diagram of a typical LCD processor is shown in Figure 1 .
+</p> <O> A figure </O>
+
+<p> 
+<ICE-HK:W2A-038#21:1>
+As shown in the diagram , an LCD processor is in fact a
+self-contained computer .
+
+<ICE-HK:W2A-038#22:1>
+Like a computer , the LCD processor can perform different functions
+by executing different software , which is usually written for a particular
+application or game and , unlike the software for an ordinary computer , is
+burned permanently into the LCD processor ROM during IC fabrication process .
+
+<ICE-HK:W2A-038#23:1>
+Once the IC is fabricated , the software cannot be changed . </p>
+
+<p> 
+<ICE-HK:W2A-038#24:1>
+The largest single chip LCD processor currently in the market has
+a 1024-dot monochrome LCD driver with 192K byte of memory which can be used
+to store speech or graphics data .
+
+<ICE-HK:W2A-038#25:1>
+Larger LCD screens will require multiple ICs to implement .
+
+<ICE-HK:W2A-038#26:1>
+Although color LCD has already been available for the high-end market
+for a while , low-cost color LCD processsors have just reached the low-end
+market .
+
+<ICE-HK:W2A-038#27:1>
+The current color LCD processor has a 540-dot 8-color LCD driver and
+32K byte of memory . </p>
+
+<p> 
+<ICE-HK:W2A-038#28:1>
+With the huge success of Tamagotchi-type &obrack; virtual pet
+&cbrack; games and Electronic Fishing games in 1997 , LCD processors have
+found their ways into the consumer market in a very big way .
+
+<ICE-HK:W2A-038#29:1>
+This trend is likely to continue as LCD processors become more
+powerful and colorful . </p>
+
+<ICE-HK:W2A-038#30:1>
+<h> <bold> Voice Processors </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#31:1>
+Voice processors are a range of programmable ICs with
+speech/voice/melody synthesizers .
+
+<ICE-HK:W2A-038#32:1>
+The block diagram of a typical voice processor is show in Figure 2 .
+</p> <O> A figure </O>
+
+<p> 
+<ICE-HK:W2A-038#33:1>
+The biggest single chip voice processor contains 16Mbits of
+memory which can be used to store voice or other data .
+
+<ICE-HK:W2A-038#34:1>
+Two audio outputs are provided to achieve a stereo effect .
+
+<ICE-HK:W2A-038#35:1>
+With one of these speech processors , 600 seconds of speech data can
+be stored on chip . </p>
+
+<p> 
+<ICE-HK:W2A-038#36:1>
+For applications requiring minutes of speech , a speech
+decompression IC is necessary in addition to a voice processor .
+
+<ICE-HK:W2A-038#37:1>
+The speech decompression IC will extend the speech duration of a
+voice processor by 4 to 7 times .
+
+<ICE-HK:W2A-038#38:1>
+The block diagram of this two chip configuration is shown in figure 3 .
+</p> <O> A figure </O>
+
+<p> 
+<ICE-HK:W2A-038#39:1>
+In this approach , the speech to be stored on the voice processor
+is first captured and then processed by a computer .
+
+<ICE-HK:W2A-038#40:1>
+The computer will turn the speech data into a much compressed format
+by a technology known as Code-book Excited Linear Predictive coding &obrack;
+CELP &cbrack; .
+
+<ICE-HK:W2A-038#41:1>
+In fact , this technology has been used in our digital telephone
+answering machine in which human speech from a telephone line is turned into
+compressed data format before being stored to memory .
+
+<ICE-HK:W2A-038#42:1>
+Since this operation must be performed in real-time without the
+assistance of a computer in an answering machine , more powerful , hence more
+expensive , Digital Signal Processor &obrack; DSP &cbrack; chips are required
+in an answering machine . </p>
+
+<p> 
+<ICE-HK:W2A-038#43:1>
+Applications with large speech content , like talking story books
+, have always been confined to the computer world .
+
+<ICE-HK:W2A-038#44:1>
+With the emerging low-cost speech processors and decompression ICs ,
+stand <?> - </?> alone story books which talk for one hour or more are
+becoming a reality . </p>
+
+<ICE-HK:W2A-038#45:1>
+<h> <bold> Music Processors </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#46:1>
+Music Processors are a series of programmable ICs which can be
+programmed to generate music in 4 or 8 channel formats .
+
+<ICE-HK:W2A-038#47:1>
+In other words , 4 to 8 musical notes can be output at the same time .
+
+<ICE-HK:W2A-038#48:1>
+In addition , different instruments or voices can be used for each
+note resulting in rich harmonies .
+
+<ICE-HK:W2A-038#49:1>
+The block diagram of a typical processor is shown in figure 4 . </p>
+<O> A figure </O>
+
+<p> 
+<ICE-HK:W2A-038#50:1>
+As shown in the diagram above , a music processor also provides
+two audio outputs for creating music in stereo .
+
+<ICE-HK:W2A-038#51:1>
+An external memory interface is also available for cartridge
+applications in which music can be played for hours by changing cartridges .
+
+<ICE-HK:W2A-038#52:1>
+Music processors have made much ground on improving the &ldquo;
+electronic feeling &rdquo; of earlier melody ICs .
+
+<ICE-HK:W2A-038#53:1>
+These ICs are likely to create a musical revolution in the consumer
+industry . </p>
+
+<ICE-HK:W2A-038#54:1>
+<h> <bold> Voice Recognition Processors </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#55:1>
+Voice recognition processors are a group of ICs which can be
+programmed to recognize the human voice .
+
+<ICE-HK:W2A-038#56:1>
+Current voice recognition technology is known as isolated word voice
+recognition and it can only recognize human voice in a word-by-word basis .
+
+<ICE-HK:W2A-038#57:1>
+Although intensive research is being carried out in continuous speech
+recognition , low-cost ICs for continuous speech recognition will not be
+available for some time .
+
+<ICE-HK:W2A-038#58:1>
+The block diagram of a typical voice recognition processor is shown
+in figure 5 . </p>
+
+<p> 
+<ICE-HK:W2A-038#59:1>
+There are two recognition methods available in a voice
+recognition processor: speaker dependent voice recognition and speaker
+independent voice recognition .
+
+<ICE-HK:W2A-038#60:1>
+For the speaker dependent voice recognition , the words to be
+recognized must first be trained into the IC by speaking to the microphone a
+few times , the words to be recognized in the training mode .
+
+<ICE-HK:W2A-038#61:1>
+Recognition data is generated and stored during this training process .
+
+<ICE-HK:W2A-038#62:1>
+Once all words have been trained , the IC is switched back to the
+normal recognition mode . </p> <O> A figure </O>
+
+<p> 
+<ICE-HK:W2A-038#63:1>
+In this recognition mode , any spoken word will be compared to
+the words which have just been trained and appropriate action will be carried
+out if a spoken word is recognized .
+
+<ICE-HK:W2A-038#64:1>
+The accuracy of speaker dependent recognition can be as high as
+99&percent; and the recognition vocabulary is infinite as any word can be
+trained easily .
+
+<ICE-HK:W2A-038#65:1>
+However , the recognition will only work for the trainer and will not
+work accurately for other users . </p>
+
+<p> 
+<ICE-HK:W2A-038#66:1>
+Speaker independent voice recognition , on the other hand , will
+not require training and recognition should work for everybody .
+
+<ICE-HK:W2A-038#67:1>
+All words to be recognized must first be processed using a computer .
+
+<ICE-HK:W2A-038#68:1>
+For each word , 500 samples are required to be recorded from the
+target group .
+
+<ICE-HK:W2A-038#69:1>
+These sound samples are then analyzed by the computer and recognition
+data is generated and stored on a voice recognition processor .
+
+<ICE-HK:W2A-038#70:1>
+From this point on , the operator is exactly like the same as speaker
+dependent recognition described above . </p>
+
+<p> 
+<ICE-HK:W2A-038#71:1>
+The recognition data generation process in speaker independent
+recognition is lengthy and the accuracy is totally depends on how good this
+process is handled.
+
+<ICE-HK:W2A-038#72:1>
+In general , accuracy of speaker independent recognition is less than
+that of speaker dependent recognition .
+
+<ICE-HK:W2A-038#73:1>
+With good recognition data , the accuracy of speaker independent
+recognition can be as high as 96&percent; . </p>
+
+<p> 
+<ICE-HK:W2A-038#74:1>
+Reliable voice recognition processors are beginning to appear in
+the consumer industry .
+
+<ICE-HK:W2A-038#75:1>
+This happens because the IC/software technology has matured over the
+years to a point where complicated voice recognition algorithms are now
+possible and affordable .
+
+<ICE-HK:W2A-038#76:1>
+Once the ground is broken , we can expect to see more and more voice
+controlled products which will really listen to you . </p>
+
+<ICE-HK:W2A-038#77:1>
+<h> <bold> Record/Playback Processors </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#78:1>
+Record/playback processors are a family of programmable ICs with
+record and playback functions .
+
+<ICE-HK:W2A-038#79:1>
+The block diagram of a typical record/playback processor is shown in
+Figure 6 . </p>
+
+<p> 
+<ICE-HK:W2A-038#80:1>
+With a record/playback processor , a message can be recorded and
+played back with special effects .
+
+<ICE-HK:W2A-038#81:1>
+These special effects include playing the <O> A figure </O> recorded
+message backward , with higher or lower pitch , etc .
+
+<ICE-HK:W2A-038#82:1>
+It is also possible to record a sound and substitute the sound into a
+song or game . </p>
+
+<p> 
+<ICE-HK:W2A-038#83:1>
+In addition , by taking advantage of the in-built Analog to
+Digital Converter &obrack; ADC &cbrack; , many types of sensors like
+temperature , pressure , position , etc . can be interfaced to the processor .
+
+<ICE-HK:W2A-038#84:1>
+The ADC will convert the continuous &obrack; analog &cbrack; signal
+generated by a sensor to a digital data format for the processor to handle .
+</p>
+
+<p> 
+<ICE-HK:W2A-038#85:1>
+With these record/playback processors , digital recording will
+soon replace the traditional cassette tape mechanism used in meetings and
+memo dictation applications .
+
+<ICE-HK:W2A-038#86:1>
+These digital recorders will also be equipped with all functions
+found in an electronic organizer as well as an electronic thermometer . </p>
+
+<ICE-HK:W2A-038#87:1>
+<h> <bold> Conclusions </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#88:1>
+With rapid growth in its semiconductor sector , Taiwan has
+emerged as the major player in the consumer electronic field .
+
+<ICE-HK:W2A-038#89:1>
+This is vividly illustrated by the construction of many 8 &rdquo;
+water fabrication foundries using advanced 0.35 micron IC technology in the
+Hsinchu Science Park .
+
+<ICE-HK:W2A-038#90:1>
+There will also be an even bigger Science Park for the southern part
+of the island . </p>
+
+<p> 
+<ICE-HK:W2A-038#91:1>
+As the consumer electronic industry is heating up in Taiwan ,
+more and more IC design houses will be set up there to take a cut of the
+business .
+
+<ICE-HK:W2A-038#92:1>
+Most of these design houses are so-called  ' fabless ' which means they
+do not possess IC fabrication facilities .
+
+<ICE-HK:W2A-038#93:1>
+They rely on open IC foundries such as TSMC &obrack; Taiwan
+Semiconductor Manufacturing Corporation &cbrack; , UMC &obrack; United
+Microelectronics Corporation &cbrack; , Win <?> - </?> bond , et al. , to
+manufacture ICs for them . </p>
+
+<p> 
+<ICE-HK:W2A-038#94:1>
+As the computer memory business has been going into uncertain
+cycles in recent years , well-established IC companies in Taiwan are also
+looking at the consumer electronic industry for more business .
+
+<ICE-HK:W2A-038#95:1>
+As competition between companies in Taiwan is getting intense , it is
+already evident that a price war is starting to benefit end-consumers .
+
+<ICE-HK:W2A-038#96:1>
+In order to survive in this competitive environment , companies will
+have to be creative and resourceful .
+
+<ICE-HK:W2A-038#97:1>
+What all this means is we definitely will see more powerful and less
+expensive ICs than we see today . </p> <it> Contact email:
+Danny@technomind.com.hk </it> <it> *[Editor  ' s note: for more papers on
+Automatic Voice Recognition , please see the July/Sept issue of the BTIQ.]
+</it> </I>
+
+<I> <h>
+
+<ICE-HK:W2A-038#98:2>
+<bold> Alternative Approach to Fire Safety Design of Buildings in
+Hong Kong </bold> </h> <h>
+
+<ICE-HK:W2A-038#99:2>
+<it> Sui Ming LO PhD , FHKIS , Authorized Person </it> </h> <h>
+
+<ICE-HK:W2A-038#100:2>
+<bold> Introduction </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#101:2>
+The spatial design of a building can be influenced by the fire
+safety codes .
+
+<ICE-HK:W2A-038#102:2>
+As buildings develop and become more complex and new materials are
+used , the prescriptive fire safety rules may not provide an efficient
+solution to the new building design .
+
+<ICE-HK:W2A-038#103:2>
+A system approach to the design of fire safety in buildings on the
+basis of performance criteria may be necessary. </p>
+
+<p> 
+<ICE-HK:W2A-038#104:2>
+In theory , the Hong Kong practice permits alternative
+approaches to the building codes so long as equivalent safety standard can be
+demonstrated .
+
+<ICE-HK:W2A-038#105:2>
+The recently published fire codes in Hong Kong have recognised the
+fire safety engineering approach which may be regarded as a system approach
+to the problem. </p>
+
+<p> 
+<ICE-HK:W2A-038#106:2>
+This paper provides a brief discussion on fire safety
+engineering design. </p> <h>
+
+<ICE-HK:W2A-038#107:2>
+<bold> Fire Safety Engineering Design </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#108:2>
+The main purpose of fire safety engineering design is to provide
+a framework to demonstrate that the performance requirements of legislation
+are met &obrack; or better &cbrack; , even though the design solutions
+adopted fall outside the prescriptive recommendations .
+
+<ICE-HK:W2A-038#109:2>
+It takes into account the total fire safety package to provide a
+more fundamental and economic solution than traditional approaches .
+
+<ICE-HK:W2A-038#110:2>
+In other words , it may offer a flexible alternative especially when
+designing for difficult buildings. </p> <O> TABLE , DIAGRAM , GRAPH,ETC </O>
+
+<p> 
+<ICE-HK:W2A-038#111:2>
+For most buildings , prescriptive recommendations in the fire
+codes may be used for the design .
+
+<ICE-HK:W2A-038#112:2>
+Whereas , for unusual buildings , fire-safety engineering approach
+may enable rational design .
+
+<ICE-HK:W2A-038#113:2>
+Some designers may have the opinion that fire safety engineering
+design will merely be adopted for large and complex buildings .
+
+<ICE-HK:W2A-038#114:2>
+However , the fire codes do not explicitly restrict the use of such
+design to large and complex building .
+
+<ICE-HK:W2A-038#115:2>
+Indeed , alteration and addition works in some old buildings may be
+difficult in compliance with the new prescriptive requirements .
+
+<ICE-HK:W2A-038#116:2>
+A total fire engineering approach may be the only solution .
+
+<ICE-HK:W2A-038#117:2>
+Figure I illustrates the approaches. </p> <O> TABLE , DIAGRAM ,
+GRAPH,ETC </O> <h>
+
+<ICE-HK:W2A-038#118:2>
+<bold> The general framework </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#119:2>
+Fire safety engineering design can be applied in considering one
+aspect of the design &obrack; i.e .
+
+<ICE-HK:W2A-038#120:2>
+in considering one element in a building &cbrack; or providing a
+complete fire safety strategy of a whole building. </p>
+
+<p> 
+<ICE-HK:W2A-038#121:2>
+In the building design where one or a few elements have minor
+non-compliance , the use of like-to-like substitutions &obrack; equivalence
+&cbrack; which can be demonstrated by a fire engineering study may be
+adequate .
+
+<ICE-HK:W2A-038#122:2>
+For major difference with the prescriptive requirements , risk
+assessment may need to be carried out in order to demonstrate that the system
+performance is within an acceptable level. </p>
+
+<p> 
+<ICE-HK:W2A-038#123:2>
+Fire safety engineering design involves fire , people and
+building interacting studies .
+
+<ICE-HK:W2A-038#124:2>
+It is complex and a single set of procedures and calculating tools
+can hardly be established for applying to all buildings. </p> <h>
+
+<ICE-HK:W2A-038#125:2>
+<bold> The analysis </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#126:2>
+The major steps are to identify the problems in the design and
+analyse the suitability of an alternative design .
+
+<ICE-HK:W2A-038#127:2>
+The architectural layout of the proposed design is reviewed and the
+non-compliance items are identified .
+
+<ICE-HK:W2A-038#128:2>
+&obrack; i.e. Why the design cannot fully comply with the
+prescriptive requirements? &cbrack;
+
+<ICE-HK:W2A-038#129:2>
+An alterative design in order to &ldquo; substitute &rdquo; the
+non-compliance part is proposed and a method in evaluating the suitability is
+formulated .
+
+<ICE-HK:W2A-038#130:2>
+The evaluation involves demonstration of equivalence or acceptable
+risk level .
+
+<ICE-HK:W2A-038#131:2>
+Equivalence is considered as equal performance between the designed
+system and what is expected under full compliance with the prescriptive
+requirements .
+
+<ICE-HK:W2A-038#132:2>
+An evaluation of the proposed design especially by means of
+analytical approach should form the basis of the judgement. </p>
+
+<p> 
+<ICE-HK:W2A-038#133:2>
+For simple design , a qualitative judgement evaluated by experts
+may be adopted .
+
+<ICE-HK:W2A-038#134:2>
+Whereas , for other cases , quantitative <O> TABLE , DIAGRAM ,
+GRAPH,ETC </O> evaluation by computational tools may need to be used for
+assisting the judgement. </p>
+
+<p> 
+<ICE-HK:W2A-038#135:2>
+Quantitative evaluation can be established on the basis of three
+types of approaches , namely deterministic , comparative and probabilistic.
+</p>
+
+<p> 
+<ICE-HK:W2A-038#136:2>
+In deterministic approach , models are used to formulate the
+fire , building and people interacting phenomenon .
+
+<ICE-HK:W2A-038#137:2>
+Such models are deterministic and based on physical , chemical and
+thermodynamic relationships derived from scientific theories and empirical
+corelationships .
+
+<ICE-HK:W2A-038#138:2>
+The basic objective is to show that all occupants can leave a
+threatened part of a building without being subjected to untenable
+conditions. </p>
+
+<p> 
+<ICE-HK:W2A-038#139:2>
+Comparative approach is to demonstrate that the alternative
+design provides a level of safety equivalent to that in a building that
+complies with the prescriptive codes. </p>
+
+<p> 
+<ICE-HK:W2A-038#140:2>
+Probabilistic approach is to assign probabilities of failure to
+fire protection measures and frequencies of occurrence to unwanted evens and
+to demonstrate that the likelihood of a given event occurrence is within
+acceptable limit. </p> <h>
+
+<ICE-HK:W2A-038#141:2>
+<bold> The Computational Tools </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#142:2>
+Computer models can be used to perform the computation .
+
+<ICE-HK:W2A-038#143:2>
+Recently , numerous computer programmes have been developed for
+modelling different aspects in the fire scenarios .
+
+<ICE-HK:W2A-038#144:2>
+In general , the models include fire models and people/ fire
+interaction models. </p> <O> TABLE , DIAGRAM , GRAPH,ETC </O>
+
+<p> 
+<ICE-HK:W2A-038#145:2>
+The fire models are , in general , classified further into zone
+and field models .
+
+<ICE-HK:W2A-038#146:2>
+The zone models are formulated by dividing the compartments into
+parts and by the consideration of the conservation equations for mass ,
+momentum and enthalpy &obrack; ref . 1 &cbrack; .
+
+<ICE-HK:W2A-038#147:2>
+These models such as ASET &obrack; Ref . 2 &cbrack; , CFAST &obrack;
+ref . 3 &cbrack; , ARGOS &obrack; Ref . 4 &cbrack; aim at giving a
+description of the macroscopic picture of fires .
+
+<ICE-HK:W2A-038#148:2>
+It is , therefore , useful for simulation of fires involving
+multiples compartments such as shopping malls , high-rise commercial and
+residential buildings. </p>
+
+<p> 
+<ICE-HK:W2A-038#149:2>
+The field models , on the other hand , consist of the detailed
+considerations of mass , momentum and energy conservation where the field
+quantities such as temperature , density , species concentration and velocity
+, etc .
+
+<ICE-HK:W2A-038#150:2>
+can be determined .
+
+<ICE-HK:W2A-038#151:2>
+They are found useful in giving a microscopic representation and
+description for fires which are often necessary for the understanding of the
+behaviour of components in buildings and their interactions in fire
+situations .
+
+<ICE-HK:W2A-038#152:2>
+It is , however , well-known that the numerical simulations using
+field modelling techniques require extensive computational efforts and
+resources .
+
+<ICE-HK:W2A-038#153:2>
+Their applications are , thus , limited to the prediction of fires
+in single compartments or elements .
+
+<ICE-HK:W2A-038#154:2>
+With the recent advancement of the computers , the possibility of
+using field models may be extended .
+
+<ICE-HK:W2A-038#155:2>
+For example , three-dimensional fire models such as CONE3D and
+FIRE3D &obrack; Ref . 5 , 6 &cbrack; which incorporates the complex
+interactions between solid fuel pyrolysis &obrack; i.e . thermal degradation
+&cbrack; , gaseous combustion reactions , turbulent gas flow and radiation
+heat transfer due to flame have recently been developed and can be solved
+numerically to predict ignition and the development of fire due to the
+burning of some solid fuels. </p>
+
+<p> 
+<ICE-HK:W2A-038#156:2>
+The people and fire interaction models aim at simulating the
+reaction of the people under fire situations in order to develop the
+life-to-risk level of the occupants .
+
+<ICE-HK:W2A-038#157:2>
+These models are based on egress models such as EVACNET+ &obrack;
+Ref . 7] , EXITT &obrack; Ref . 8 &cbrack; , EXIT89 &obrack; Ref. 9 &cbrack;
+, WAYOUT &obrack; Ref . 10 &cbrack; , SIMULEX &obrack; Ref . 11 &cbrack; etc.
+</p>
+
+<p> 
+<ICE-HK:W2A-038#158:2>
+Although there are many computational tools developed , it is
+worth noting that all the computer models are developed on the basis of
+various assumptions and limitations .
+
+<ICE-HK:W2A-038#159:2>
+Careful judgement should be needed for using these tools. </p> <O>
+TABLE , DIAGRAM , GRAPH,ETC </O> <h>
+
+<ICE-HK:W2A-038#160:2>
+<bold> Concluding Remarks </bold> </h>
+
+<p> 
+<ICE-HK:W2A-038#161:2>
+In Hong Kong , the complexity of buildings is increasing .
+
+<ICE-HK:W2A-038#162:2>
+The Government has explicitly recognised the fire safety engineering
+approach .
+
+<ICE-HK:W2A-038#163:2>
+The demand for such approach in building design is obviously
+increasing .
+
+<ICE-HK:W2A-038#164:2>
+However , verification of the design by fire safety engineering
+approach requires specialist knowledge. </p>
+
+<p> 
+<ICE-HK:W2A-038#165:2>
+In practice , consideration should also be given to ascertain
+the appropriate person who can carry out or certify the design works .
+
+<ICE-HK:W2A-038#166:2>
+An Authorized Person who is responsible for certifying all building
+works to be in compliance with the Building Regulations may not necessarily
+have the training for carrying out or examining the fire safety design .
+
+<ICE-HK:W2A-038#167:2>
+Should another registered person such as a fire engineer be required
+to certify the adequacy of the fire safety design ?
+
+<ICE-HK:W2A-038#168:2>
+Should it be reasonable to require the Authorized Person to certify
+the engineering design ?
+
+<ICE-HK:W2A-038#169:2>
+Further consideration in this issue may also be necessary. </p>
+
+<p> 
+<ICE-HK:W2A-038#170:2>
+&obrack; A practical example in demonstrating the fire
+engineering approach will be given in a subsequent article. &cbrack; </p>
+</I>

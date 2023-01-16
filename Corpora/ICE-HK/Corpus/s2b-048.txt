@@ -1,0 +1,481 @@
+<I>
+
+<$A> 
+<ICE-HK:S2B-048#1:1:A>
+Yes uh entertaining
+
+<ICE-HK:S2B-048#2:1:A>
+Entertaining because I  ' m <unc> a few words </unc> so the
+the <?> sub-title section </?> here is normally should be an initial step
+towards computational linguistics computational discourse for me
+
+<ICE-HK:S2B-048#3:1:A>
+Uhm okay uhm well uh this is an initial step because I am going to
+do uh research in this area for the next few years
+
+<ICE-HK:S2B-048#4:1:A>
+And uh I would talk about several points briefly
+
+<ICE-HK:S2B-048#5:1:A>
+Uhm the communicative <.> pa </.> paradigm uhm uh if you uh have uh
+read the <unc> two-words </unc> uh uhm idea of scientific revolution
+in humans that at uhm different eras would have different paradigms that uhm
+uh enlightening researchers in their research
+
+<ICE-HK:S2B-048#6:1:A>
+Uhm I think right now is time for us to shift to uh discourse
+analysis
+
+<ICE-HK:S2B-048#7:1:A>
+Uh this is different uh from uh what we  ' ve been doing all the time
+in the past uhm namely <?> sentence </?> linguistics
+
+<ICE-HK:S2B-048#8:1:A>
+Uhm this is uhm actually very natural because in the past I mean we
+could only study things which which are very concrete which are uh below
+sentence level say uh phonology phonetics uhm morphology syntax and so on
+
+<ICE-HK:S2B-048#9:1:A>
+And uh the more develop you get in the science probably you need to
+get more abstract things and you need to consider more things
+
+<ICE-HK:S2B-048#10:1:A>
+So uhm uh besides I mean uh people who do sentence linguistics tend
+to uhm restrict themselves to the study of uhm syntactic issues and then they
+they uh <.> di </.> disregard the use of language uh which I think should uh
+we should take uh a functionalist approach to deal with in order to get any
+success
+
+<ICE-HK:S2B-048#11:1:A>
+Uh since the language is basically used uh for communication I
+don't uhm I don't think uh <?> anyone anybody might spend time </?> to talk
+about this
+
+<ICE-HK:S2B-048#12:1:A>
+So I think if we take uh in this uh perspective that we can have a
+better understanding what language is actually <.> actual </.> actually like
+
+<ICE-HK:S2B-048#13:1:A>
+And uhm so we uhm want to take uhm a functionalist approach and we
+try to talk about uhm language being use as a dynamic process like what  ' s in
+our mind and how we can actually use language and what is the output that we
+actually say depending on various social variables
+
+<ICE-HK:S2B-048#14:1:A>
+Uhm if we study discourse analysis it is very important to talk
+about context and co-text
+
+<ICE-HK:S2B-048#15:1:A>
+Uh context is used in its broadest sense and uh we talk about
+anything uh in the situation in the social context I mean uh background
+knowledge of the person and interactings and so on
+
+<ICE-HK:S2B-048#16:1:A>
+But co-text is restricted to the uhm the sentences that are use uhm
+adjacent to the sentence that you are uttering or you are writing at the
+moment
+
+<ICE-HK:S2B-048#17:1:A>
+Uhm <,> so according to <?> Heidely </?> uh discourse analysis can
+have two levels of achievement
+
+<ICE-HK:S2B-048#18:1:A>
+One is to contribute uh to the understanding how and why the text
+<?> means or it does </?>
+
+<ICE-HK:S2B-048#19:1:A>
+Uh high level of achievement is to relate the text to general
+features of the language
+
+<ICE-HK:S2B-048#20:1:A>
+Uh he therefores proposes a discourse grammar which is functional
+and semantic in its orientation and which provides the basis to relate
+language use to a non-linguistic universal of situational and cultural
+environment
+
+<ICE-HK:S2B-048#21:1:A>
+Okay this embodies a lot of things and uh accordingly we will have
+to uh simplify in order to be able to uh finish some research problems
+
+<ICE-HK:S2B-048#22:1:A>
+Uhm for myself I have uh <,> uh some objectives I want to achieve
+
+<ICE-HK:S2B-048#23:1:A>
+First we want I want to uh simulate the function of the human brain
+by the use of computer
+
+<ICE-HK:S2B-048#24:1:A>
+And secondly I want to facilitate <?> NLV </?> processing including
+information retrieval text analysis and text generation uhm while doing this
+kind of research
+
+<ICE-HK:S2B-048#25:1:A>
+Uhm uh what I hope to do is to get some uhm restricted texts I mean
+the restricted domains some texts in the restricted domain
+
+<ICE-HK:S2B-048#26:1:A>
+Uh and then we try to do uhm only written text because uhm the oral
+narrative I think are very complicated and have a lot of the regressions and
+uh pauses which uh which require phonetic <?> hinge </?>
+
+<ICE-HK:S2B-048#27:1:A>
+Uhm and I think I  ' m not able to do that kind of work at all
+
+<ICE-HK:S2B-048#28:1:A>
+So I think I like to do some uh formal writing first
+
+<ICE-HK:S2B-048#29:1:A>
+And uh uh to facilitate the job I think uh I want to use as minimal
+as possible of world knowledge because once you uhm talk about world
+knowledge it  ' s very difficult to come up with the good uh representation and
+then it would uhm complicates the matter very much
+
+<ICE-HK:S2B-048#30:1:A>
+And uh what I want to do is to I want to have a written text
+
+<ICE-HK:S2B-048#31:1:A>
+Uh I want to uhm analyse the text using uh clause as its discourse
+unit
+
+<ICE-HK:S2B-048#32:1:A>
+So every sentence would be <?> discomposed </?> into uh different
+clauses uh different clauses
+
+<ICE-HK:S2B-048#33:1:A>
+And uh each clause will be headed by a verb or in Chinese case an
+adjective will be alright
+
+<ICE-HK:S2B-048#34:1:A>
+And uh so the head will be a verb or an adjective in Chinese case
+
+<ICE-HK:S2B-048#35:1:A>
+And and then we can come up with uhm <,> uhm a frame for the verb
+or adjective
+
+<ICE-HK:S2B-048#36:1:A>
+Say for example like uhm if we have the word like is a verb it  ' s
+transitive verb so you can have the subject the agent and the the object uh
+the patient
+
+<ICE-HK:S2B-048#37:1:A>
+And it requires two arguments namely the <.> pa </.> uh the subject
+and the patient
+
+<ICE-HK:S2B-048#38:1:A>
+I mean the subject and the uh object Uh in semantic sense I mean
+that you require an agent and a patient
+
+<ICE-HK:S2B-048#39:1:A>
+I think you notice that that the the action of uh liking must take
+place at some place and some time and you can assign different uhm attributes
+to uhm the arguments there where you can <.> hav </.> have a lot of
+quantifiers for the noun phrases and you have a lot of uh adverbials which
+modify verb phrases
+
+<ICE-HK:S2B-048#40:1:A>
+And so if we suppose uhm a verb like like really talks about
+relationship between two and these and then we have a lot of uh additional
+information that you may fill or not fill in your conversation then you can
+uhm have a representation like this
+
+<ICE-HK:S2B-048#41:1:A>
+Uhm this will be easily implemented in a prologued uh programme
+
+<ICE-HK:S2B-048#42:1:A>
+<,> So uh what I want to do is I want to analyse text and decompose
+it into different clauses
+
+<ICE-HK:S2B-048#43:1:A>
+Uh clauses have a well since they are <.> adja </.> adjacent so
+they must have some relationship uh between them
+
+<ICE-HK:S2B-048#44:1:A>
+And uh I want to uh find out these relationship and build all the
+clauses into uh a a very large uh structure that has hierarchy in it
+
+<ICE-HK:S2B-048#45:1:A>
+And uh the clauses in this hierarchy will be linked to each other
+uhm <,> <.> u </.> using a lot of discourse relations
+
+<ICE-HK:S2B-048#46:1:A>
+Say for example uhm there is is a sentence and then you elaborate
+on it or you give an example to further illustrate what it is and we have uh
+some concessive uh thing that you want to add uh or you have some uhm uhm
+analogy that you want to make <unc> one-word </unc>
+
+<ICE-HK:S2B-048#47:1:A>
+Uh I want to have a test decompose in this way and then clauses
+will have inter-relationships
+
+<ICE-HK:S2B-048#48:1:A>
+Uh in the case of Chinese we have uhm a very simple discourse
+structure according to my superficial observation
+
+<ICE-HK:S2B-048#49:1:A>
+Say for example we have uh always the modifiers before the the
+modified and this is true at all levels that means it  ' s true in the phonetic
+level in the morphological level as well as in the phrasal and clausal levels
+
+<ICE-HK:S2B-048#50:1:A>
+So we can make use of that kind of uh uh <.> prin </.> principle to
+deal with uh temporal-logical sequence </.> sequencing of the clauses
+
+<ICE-HK:S2B-048#51:1:A>
+Uhm the linguistic tools that I employ will be an automatic lexical
+functional grammar framework which is uh lexicon-driven versus rule-driven
+
+<ICE-HK:S2B-048#52:1:A>
+That mean uhm I rely a lot on the information in the lexicons
+
+<ICE-HK:S2B-048#53:1:A>
+So a a word will have a lot of information that will be used in the
+parsing and other uh other classes
+
+<ICE-HK:S2B-048#54:1:A>
+And uhm so if you have a look of the uh the list
+
+<ICE-HK:S2B-048#55:1:A>
+It is a very complicated list and you can have the verb as head so
+this uhm <,> oh where  ' s the verb
+
+<ICE-HK:S2B-048#56:1:A>
+The verb is the predicate
+
+<ICE-HK:S2B-048#57:1:A>
+Okay the predicate buy
+
+<ICE-HK:S2B-048#58:1:A>
+It require an agent uh sorry there should an a a patient well which
+is missing
+
+<ICE-HK:S2B-048#59:1:A>
+<,> Oh sorry uh
+
+<ICE-HK:S2B-048#60:1:A>
+Uhm agent and patient there shouldn't be a <?> comma in between
+</?> the patient PAT
+
+<ICE-HK:S2B-048#61:1:A>
+And uh we have a uhm attribute-value pairs like like this
+
+<ICE-HK:S2B-048#62:1:A>
+So the subject of the sentence is uhm a list of uh uh John and uhm
+John is the spec and the <unc> two-words </unc> which is which uh
+whose value is buy which requires an agent and a patient
+
+<ICE-HK:S2B-048#63:1:A>
+Uhm okay so you can have a very complicated list
+
+<ICE-HK:S2B-048#64:1:A>
+Uh you can have encode all kinds of information uhm in this kind of
+list
+
+<ICE-HK:S2B-048#65:1:A>
+Uhm so the processing of this kind uhm this is very uh very
+standard we can use the implicational data processing which is uh very easily
+implemented in a prologue
+
+<ICE-HK:S2B-048#66:1:A>
+Uhm enabling programming and logic
+
+<ICE-HK:S2B-048#67:1:A>
+Uhm and of course we have to have discourse models say for example
+uhm in our experience in working with an editorials we uh learn that uh
+editorial will be <.> compo </.> uh will be compose of uhm uh an event and
+then you have a report on the event and <?> you have </?> some argumentation
+and you can have the conclusion at the end or some suggestions recommended by
+the editors of newspaper
+
+<ICE-HK:S2B-048#68:1:A>
+So uhm for each genre of writing you have a certain kind of
+discourse model and then you can uhm encoded in uh in various <?> kinds </?>
+representation methods say uhm <.> scri </.> scripts uh frames and so on
+
+<ICE-HK:S2B-048#69:1:A>
+Uhm <,,> so uh if you look at uhm my my writing uhm for the
+representation the dots denote other possible slots that answer question like
+how why instrument associated et cetera as suggested by the case grammar
+
+<ICE-HK:S2B-048#70:1:A>
+And the attribute <.> dis </.> uh discourse <.> relate </.>
+relations will be used to indicate preposition relations with other texts
+
+<ICE-HK:S2B-048#71:1:A>
+So we can have uhm information like uh the temporal order or we can
+have information like uh uh this clause is actually related to the second
+clause or the third clause because it is uhm an explanation of that clause or
+whatever
+
+<ICE-HK:S2B-048#72:1:A>
+Okay so uhm we have to come up with different kinds of discourse
+relation
+
+<ICE-HK:S2B-048#73:1:A>
+Uhm I propose this representation because that <?> in the </?>
+computers some kind of enhanced functional grammar where one has decides
+regular constituent structure and functional structure uhm some discourse uh
+information
+
+<ICE-HK:S2B-048#74:1:A>
+Uhm and then the the values of these uhm attributes can be linked
+to others by some <.> po </.> uh pointers
+
+<ICE-HK:S2B-048#75:1:A>
+So you can link up uhm different clauses that are co-referential I
+mean that have co-referential values
+
+<ICE-HK:S2B-048#76:1:A>
+Uhm well and uhm this pair I try not to use not too many uhm
+contextual <?> hinge </?>
+
+<ICE-HK:S2B-048#77:1:A>
+Uh so I  ' ll concentrate in the first place the study of uh uh
+conjunctions <,> indexicals
+
+<ICE-HK:S2B-048#78:1:A>
+So for example even here and there can be indexical
+
+<ICE-HK:S2B-048#79:1:A>
+So here may be in this hall in lecture room and there may be in the
+restaurant and so on
+
+<ICE-HK:S2B-048#80:1:A>
+The the uhm explicit marker for showing that the the relationships
+of uh various clauses
+
+<ICE-HK:S2B-048#81:1:A>
+Uhm punctuations for example we have well comma versus the
+semi-colon
+
+<ICE-HK:S2B-048#82:1:A>
+Semi-colon will give you well will tell you that are probably
+talking about two things which are uh uh in parallel I mean which are
+structurally equally important <unc> one-word </unc>
+
+<ICE-HK:S2B-048#83:1:A>
+And the comma will probably uh hints that you have some uh temporal
+sequence that you may uh uhm want to make use of
+
+<ICE-HK:S2B-048#84:1:A>
+And there may be other expressive markers of conjunctive <?> res
+</?> relations
+
+<ICE-HK:S2B-048#85:1:A>
+For example adjectives <?> adversatives </?> clausal temporal and
+so on
+
+<ICE-HK:S2B-048#86:1:A>
+So basically I want to study uhm a text with special emphasis on
+these uh conjunctions indexicles punctuation marks and so on
+
+<ICE-HK:S2B-048#87:1:A>
+And they will give me the enough data to uhm come up with the
+largest hierarchical tree for these uh clauses
+
+<ICE-HK:S2B-048#88:1:A>
+So besides the constituent structure besides the functional
+structure that are proposed by Bresnan I  ' d like to add some discourse
+structure which link different clauses together
+
+<ICE-HK:S2B-048#89:1:A>
+Well I think I have uh overrun the time now
+
+<ICE-HK:S2B-048#90:1:A>
+Well thank you </I>
+
+
+<I>
+
+<$A> 
+<ICE-HK:S2B-048#91:2:A>
+Uh good morning <,> Miss Chan Mr Gaetan <,> ladies and
+gentlemen I  ' m very pleased to <,> welcome you to this conference which is
+being held in conjunction with the Clothing Industry Fair
+
+<ICE-HK:S2B-048#92:2:A>
+For those of you who haven't visited the fair I should like to take
+this opportunity to invite you to visit the fair which is now being staged in
+the Hong Kong Convention and <.> Exi </.> and Exhibition Centre until <,>
+this Thursday
+
+<ICE-HK:S2B-048#93:2:A>
+The clothing and textile industry is information technology driven
+
+<ICE-HK:S2B-048#94:2:A>
+Given the rapid changes in consumer taste and fashion trends the
+industry is entering into a new phase of time-based competition
+
+<ICE-HK:S2B-048#95:2:A>
+In the high end of the market production orders are now
+characterized by small quantity big variety in styling and shorter lead times
+
+<ICE-HK:S2B-048#96:2:A>
+In providing a wide range of services to the clothing and textile
+industry <,> the Hong Kong Productivity Council has concentrated on the
+promotion of information technology and industrial engineering techniques as
+our core strategies
+
+<ICE-HK:S2B-048#97:2:A>
+In cooperation with the Clothing Industry Training Authority the
+Council has set up a clothing technology demonstration centre to demonstrate
+just in time manufacturing in the sewing lines
+
+<ICE-HK:S2B-048#98:2:A>
+Hundreds of industrialists have visited our demonstration centre
+and several manufacturers have commissioned the Council to establish pilot
+lines incorporating the unit synchro-production system with very satisfactory
+results
+
+<ICE-HK:S2B-048#99:2:A>
+To assist Hong Kong factories in exploiting information technology
+the Council has developed two specially tailored software a management
+information system code-named GM-CIS and a computer-aided design system for
+knitwear manufacturers
+
+<ICE-HK:S2B-048#100:2:A>
+There are now over one hundred users of these two system in
+industry
+
+<ICE-HK:S2B-048#101:2:A>
+In addition to conferences exhibitions and a wide variety of
+training programs for the clothing and textile industry the Council has
+introduced the first distance learning program in cooperation with the
+Manchester Polytechnic in the UK
+
+<ICE-HK:S2B-048#102:2:A>
+This self study program introduces the principles and practices of
+apparel manufacturing and merchandising
+
+<ICE-HK:S2B-048#103:2:A>
+This program is now in it  ' s second year and each year over five
+hundred participants subscribe to this program
+
+<ICE-HK:S2B-048#104:2:A>
+This indicates the industry need for skill enhancement and
+retraining
+
+<ICE-HK:S2B-048#105:2:A>
+The theme of today  ' s conference highlighting as it does on the
+application of information technology summarizes the challenges which our
+industry is now facing
+
+<ICE-HK:S2B-048#106:2:A>
+This conference is sponsored by five major industrial associations
+and to them I should like to express our sincere appreciation
+
+<ICE-HK:S2B-048#107:2:A>
+We are fortunate in being able to assemble a very distinguished
+panel of speakers from all over the world who will share their knowledge and
+experience with us in the next <,> two days
+
+<ICE-HK:S2B-048#108:2:A>
+Leading industrialists in Hong Kong have demonstrated their
+interest and support by serving as session chairmen I should like to thank
+our speakers and session chairmen
+
+<ICE-HK:S2B-048#109:2:A>
+It is now my pleasure to co-appoint Mr Chan Sui Kow Chairman of
+the Textile Council to speak to us and to declare this conference open
+
+<ICE-HK:S2B-048#110:2:A>
+Mr Chan please </I>

@@ -1,0 +1,449 @@
+<I>
+
+<$A> 
+<ICE-HK:S2B-041#1:1:A>
+Thank you Mr Chairman for your kind words yeah
+
+<ICE-HK:S2B-041#2:1:A>
+Ladies and gentlemen <,> I would like to talk on a previous
+experience in the use of uh the EPCON system
+
+<ICE-HK:S2B-041#3:1:A>
+I hope you  ' ll excuse me uh delivering my <,> lecture in a uh
+sitting down yeah <,,>
+
+<ICE-HK:S2B-041#4:1:A>
+First of all I would like to talk on the current situation in local
+garment <,> factories
+
+<ICE-HK:S2B-041#5:1:A>
+Sewing operators are <,> exclusively on piece rate system rather
+than daily paid <,> operators cut bundle tickets <,> which are input in the
+computer by payroll <unc> 1-word </unc> <,>
+
+<ICE-HK:S2B-041#6:1:A>
+If the income of a sewing operator is <.> adv </.> adversely
+affected <,> due to style change reduced order size or <unc> 1-word
+</unc> she is compensated at the discretion of the supervisor <,>
+
+<ICE-HK:S2B-041#7:1:A>
+Management staff usually composed of experienced employees promoted
+from the sewing floors
+
+<ICE-HK:S2B-041#8:1:A>
+Current status of TAP <,>
+
+<ICE-HK:S2B-041#9:1:A>
+In Hong Kong there are three factories <,> manufacturing shirts
+blouses pants <,> and outer wear with about one thousand five hundred
+employees <,>
+
+<ICE-HK:S2B-041#10:1:A>
+The head office of the group is in Hong Kong <,> with operations
+also in Taiwan Thailand Malaysia and Singapore
+
+<ICE-HK:S2B-041#11:1:A>
+There are over twelve thousand employees in the group
+
+<ICE-HK:S2B-041#12:1:A>
+The progressive bundle system is used factory manager is in charge
+of production assisted by superintendent and PBC department
+
+<ICE-HK:S2B-041#13:1:A>
+Having said this yeah actually we are also <,> running some
+modulars group yeah in uh Taiwan as well as in uh Thailand <,>
+
+<ICE-HK:S2B-041#14:1:A>
+In nineteen eighty four TAP engaged Kurt Salmon Associates to
+install industrial engineering techniques using time-based standards
+
+<ICE-HK:S2B-041#15:1:A>
+Standard allowed hours and percentage efficiency are now used for
+measuring factory performance rather than dozens produced this enables a more
+accurate comparison among the factories in in our group
+
+<ICE-HK:S2B-041#16:1:A>
+The material utilization department monitors fabric consumption in
+each factory
+
+<ICE-HK:S2B-041#17:1:A>
+To overcome turnover problem the advanced analytical method
+training AMT was used to exercise training of new operators or retraining of
+existing operators
+
+<ICE-HK:S2B-041#18:1:A>
+Statistical quality control is used <,> to assess product quality
+as well as recording the quality performance of each operator <,> so that
+action can be taken when necessary
+
+<ICE-HK:S2B-041#19:1:A>
+In nineteen eighty four TAP developed apparel manufacture
+management information system <,> AMMIS on ticket printing payroll
+calculation and issuing management reports <,>
+
+<ICE-HK:S2B-041#20:1:A>
+Currently detailed management reports are produced daily as well as
+periodically on the performance of each factory as well as each section <,>
+
+<ICE-HK:S2B-041#21:1:A>
+Monthly a performance report is compiled so that all the factories
+in our group there are ten yeah are rated on the same key indices <,>
+
+<ICE-HK:S2B-041#22:1:A>
+<.> Fac </.> company objective of TAP increased productivity
+reduced <,> costs quality products good service to our customers and quick
+response
+
+<ICE-HK:S2B-041#23:1:A>
+TAP Electronic Production Control System
+
+<ICE-HK:S2B-041#24:1:A>
+In order to achieve our company objectives it is clear that very
+accurate and timely production data are required <,> so that staff can take
+corresponding actions
+
+<ICE-HK:S2B-041#25:1:A>
+The following are useful information daily production section and
+factory summaries bimonthly section summaries WIP status quality status
+
+<ICE-HK:S2B-041#26:1:A>
+In nineteen eighty four TAP developed AMMIS which provided daily
+factory as well as section summary
+
+<ICE-HK:S2B-041#27:1:A>
+To further reduce the time in getting the key information in
+production <,> so that remedial action could be taken earlier <,> TAP have a
+joint project with HKPC in nineteen eighty seven to develop a real time front
+end data capturing device
+
+<ICE-HK:S2B-041#28:1:A>
+In nineteen ninety TAP <.> de </.> install the captor system an
+alternative to the developed device which turn out to our complete
+satisfaction
+
+<ICE-HK:S2B-041#29:1:A>
+We have now installed the system in two factories in Hong Kong and
+are now in the process of installation in the third factory and also we are
+preparing the <,> work for installation in one of our overseas factories
+
+<ICE-HK:S2B-041#30:1:A>
+On each work place a work station with both keyboard and optical
+reader is installed
+
+<ICE-HK:S2B-041#31:1:A>
+Upon completion of a bundle the operator input the data into the
+host network via the <.> st </.> work station by scanning the bar code on the
+ticket with the optical reader
+
+<ICE-HK:S2B-041#32:1:A>
+The host computer will process the data <,> and provide information
+on the pay of the operator <,> the quantity completed and the earnings et
+cetera
+
+<ICE-HK:S2B-041#33:1:A>
+This information can be displayed on the screen of the work station
+when required <,> by the operator or the supervisor
+
+<ICE-HK:S2B-041#34:1:A>
+All transactions are initially screened on three eight six PC each
+of which can handle up to two hundred fifty six work stations
+
+<ICE-HK:S2B-041#35:1:A>
+After completion of hundred coupons the batch is sent to the NOVEL
+network for updating <,> that will take about ten minutes yeah <,>
+
+<ICE-HK:S2B-041#36:1:A>
+This new system enables the supervisors to have immediate access to
+the current status of production <,> so that more timely and accurate
+measures could be taken <,>
+
+<ICE-HK:S2B-041#37:1:A>
+I would like to compare the uh old and the new system <,>
+
+<ICE-HK:S2B-041#38:1:A>
+Basically in in the old system the aim is yeah that <,> information
+are stored into a are are put into computer and then after ticket printing
+<,> this go to the sewing room the operator <,> cut the tickets and these are
+input into the computer by the payroll <unc> 1-word </unc>
+
+<ICE-HK:S2B-041#39:1:A>
+The computer does all the <,> calculation all the work and generate
+different files you know the payment the WIP and costing and also different
+reports and this are usually obtained <,> next day you know so there is a
+time lag <,>
+
+<ICE-HK:S2B-041#40:1:A>
+On using the EPCONS you know instead of the the ordinary ticket
+printing we use the bar code yeah instead
+
+<ICE-HK:S2B-041#41:1:A>
+The information are <,> take taken up with using the optical reader
+and these are processed in the computer and then updated uh in the network
+
+<ICE-HK:S2B-041#42:1:A>
+We are getting all the <.> in </.> uh information and data as the
+previous in addition there is on-line inquiries this is the most important
+difference
+
+<ICE-HK:S2B-041#43:1:A>
+So that now all the information are update and action could be
+taken <,> straight away on the spot rather that uh wait <,,>
+
+<ICE-HK:S2B-041#44:1:A>
+Compare with the pilot system the captor has the following
+advantages it is more reliable <,> it does not require individual AC  ' s
+supply yeah <,> so there are fewer plugs yeah the power being provided by a
+central device the operator will be able to obtain more information from the
+work station more features can be installed as required due to the
+interactive nature of the system
+
+<ICE-HK:S2B-041#45:1:A>
+The benefits of using the EPCONS
+
+<ICE-HK:S2B-041#46:1:A>
+Traditionally our supervisors carry out balancing by experience <,>
+through estimating the WIP in each operation and the output of individual
+operators <,> even with the introduction of the AMMIS only data from the
+previous day is available
+
+<ICE-HK:S2B-041#47:1:A>
+EPCONS can provide the following information <,> one the on and off
+standard efficiency of each section as well as that of individual operators
+
+<ICE-HK:S2B-041#48:1:A>
+Uh I  ' m show you some of the transparencies but actually will be
+<,> will be seen on the computer screen yeah <,,>
+
+<ICE-HK:S2B-041#49:1:A>
+You got the factory we say yea it is <.> sec </.> it is group
+number section three at eleven twenty five and here are the number the
+operator numbers the time on standard yeah
+
+<ICE-HK:S2B-041#50:1:A>
+It  ' s <.> hun </.> the uh efficiency on standard is one o three
+percent <.> th </.> another one one one two <,> okay and the third one thirty
+eight these are all on standard efficiencies <,>
+
+<ICE-HK:S2B-041#51:1:A>
+If we like to check the factory as a whole then we have the
+different section and instead of uh operators we are checking on <,> the
+different section we can compare their performance
+
+<ICE-HK:S2B-041#52:1:A>
+So <,> at this factory at in the morning you know eleven fourteen
+forty nine group one two three four when we have the on standard as well as
+off standard <,> you know efficiency
+
+<ICE-HK:S2B-041#53:1:A>
+So in this case the superintendent or the factory manager you know
+just looking the screen <&> tape finishes on one side </&>
+
+<ICE-HK:S2B-041#54:1:A>
+WIP status
+
+<ICE-HK:S2B-041#55:1:A>
+Either selected six operation of all production orders or all
+operations in a PO this provides significant help in line balancing
+
+<ICE-HK:S2B-041#56:1:A>
+First of all we can ask we  ' ll ask the computer to list out the all
+the POs you know that is being processed <,> you know in the factory
+
+<ICE-HK:S2B-041#57:1:A>
+Suppose you know we want to get into detail of one particular PO
+let say you know the one underlined you know then <,> this is something that
+we  ' ll get you know actually part of it you know because I  ' m showing
+operation <,> check point five and six
+
+<ICE-HK:S2B-041#58:1:A>
+These uh six checkpoint uh could be adjusted as required you know
+
+<ICE-HK:S2B-041#59:1:A>
+Okay let  ' s say for checkpoint number five and for this particular
+PO <,> then <,> for the cut quantity is uh twenty four and half dozens
+operation number is five one four the current quantity that that is the
+output you know of the day until that moment is eleven dozen <,> and uh three
+pieces
+
+<ICE-HK:S2B-041#60:1:A>
+The total quantity yeah produced is uh twenty-two and half okay <,>
+
+<ICE-HK:S2B-041#61:1:A>
+That that is the case yeah and then for checkpoint number six now
+we can check it one by one we know you know the output yeah at each at each
+uh of the checkpoints <,>
+
+<ICE-HK:S2B-041#62:1:A>
+Suppose you know we would like to check you know on certain
+operations alone yeah what is the output yeah
+
+<ICE-HK:S2B-041#63:1:A>
+So let let say we want to check only for <,> operation five one
+four <,> that means uh we are talking about all the POs that has uh <,> gone
+through operation five one four <,> these are all the orders
+
+<ICE-HK:S2B-041#64:1:A>
+There  ' s a these are the current production for the day we could
+say <.> the </.> these are zero and the cumulative are also zero because uh
+and the remnant yeah these that means uh <,> haven't done yet this view I
+have not been <.> pro </.> uh this uh PO have not been processed yet
+
+<ICE-HK:S2B-041#65:1:A>
+And then for this one <,> the output is forty dozens accumulated is
+this and the balance yeah is this
+
+<ICE-HK:S2B-041#66:1:A>
+These two add up will be equivalent to the cut <,> dozens <,,>
+
+<ICE-HK:S2B-041#67:1:A>
+Or in some case we are only interested in one particular PO we want
+to know <,> yeah the status of this particular PO then we can check all the
+operations
+
+<ICE-HK:S2B-041#68:1:A>
+For this particular PO these are the operations that we know the
+output for the day <,> of this operations the summation and the remnant from
+this we know that uh most of the operations yeah on this screen have been
+completed except several of these uh here here and here <,> okay
+
+<ICE-HK:S2B-041#69:1:A>
+This is very good uh if we are trying to chase up an order ah we  ' ll
+see whether it  ' s complete or not then with one look we say uh <,> you know
+we only got uh several operation just a little bit uh remain to be complete
+the rest is done <,,>
+
+<ICE-HK:S2B-041#70:1:A>
+It also offer the real time production quantity and the moving
+target to indicate the performance of a section <,> this is also very useful
+
+<ICE-HK:S2B-041#71:1:A>
+We can set in you know <,> all the operation that we are interested
+these are usually the important operations yeah
+
+<ICE-HK:S2B-041#72:1:A>
+Let say a one collar four okay and corresponding this is uh this
+number yeah so one one collar four the current status you know at that moment
+is uh hundred and five <,> dozens okay
+
+<ICE-HK:S2B-041#73:1:A>
+Set top center you know the second one <,> you know is hundred and
+eight okay
+
+<ICE-HK:S2B-041#74:1:A>
+And it also give us the target the target <,> at that time should
+be hundred and one so from this we all we know that we are faster or <,>
+slower than the target but of course you know this is not complete by itself
+because we need to include the WIP you know in each station so we are in the
+process of uh including this <,> into the this uh screen you know very soon
+so that we know the output and we also know the WIP then we know exactly what
+we should do you know <,,>
+
+<ICE-HK:S2B-041#75:1:A>
+Trace the operator responsible for a bundle instead of in case of
+quality problems yeah this is always a problem you know
+
+<ICE-HK:S2B-041#76:1:A>
+In the in in the sewing room you know when we have <,> some problem
+with quality <.> nob </.> <.> nobod </.> nobody admits you know then sometime
+we ask the operators to in the past you know to <,> sign you know on the
+ticket of this you know
+
+<ICE-HK:S2B-041#77:1:A>
+But now <,> with the use of the EPCON system unless she doesn't
+want to be paid you know otherwise everything is recorded
+
+<ICE-HK:S2B-041#78:1:A>
+We can trace back which operator is responsible for certain bundle
+
+<ICE-HK:S2B-041#79:1:A>
+Overall efficiency of each section or whole <.> facto </.> factory
+
+<ICE-HK:S2B-041#80:1:A>
+Much time is now saved as the supervisors can now read directly
+from their VDU it can be displayed in either Chinese or English <,>
+
+<ICE-HK:S2B-041#81:1:A>
+If the production management makes good use of this information
+substantial savings can be achieved
+
+<ICE-HK:S2B-041#82:1:A>
+And I say this is the most important point yeah because the whole
+system itself only provide the relevant information <,> whether improvement
+can take place or not <,> depends on the management otherwise it  ' s <unc>
+2 WORDS </unc> yeah
+
+<ICE-HK:S2B-041#83:1:A>
+In our factory we obtains the following benefits in productivity
+improvement <,,>
+
+<ICE-HK:S2B-041#84:1:A>
+What we did was uh after installation of the EPCON system we allow
+it the system to be run in the factory for a few days <,> okay
+
+<ICE-HK:S2B-041#85:1:A>
+And we <unc> 2-words </unc> you know so and we were able to
+get the the data this represented in the by the red line
+
+<ICE-HK:S2B-041#86:1:A>
+After that then we <unc> 1-word </unc> to the management
+the factory manager the supervisors and the superintendents how they could
+benefit use by using the management uh the informations effectively <unc>
+2-words </unc>
+
+<ICE-HK:S2B-041#87:1:A>
+And then after that we again recalled the data yeah and this is the
+average of several days as well
+
+<ICE-HK:S2B-041#88:1:A>
+This is shown by the blue line
+
+<ICE-HK:S2B-041#89:1:A>
+The area cover you know between the red and the blue line are the
+gains <,> okay
+
+<ICE-HK:S2B-041#90:1:A>
+And uh actually you know what happened was that in the past we
+understand that all the or every factory need some time for warming up as it
+can be seen you know
+
+<ICE-HK:S2B-041#91:1:A>
+Early in the morning when the operator go back yeah they are still
+you know maybe half awake you know maybe they are <,> chatting about some of
+the <.> ve </.> events you know they were having yeah uh if it is after a
+long weekend you know
+
+<ICE-HK:S2B-041#92:1:A>
+And there is no way of measuring <,> the actual status
+
+<ICE-HK:S2B-041#93:1:A>
+But after we have shown this information to the management they
+know and so then how much we have lost in terms of capacity
+
+<ICE-HK:S2B-041#94:1:A>
+They knew what they should do you know they have to go out and do a
+immediate follow-up on the operators get them to work early start early
+
+<ICE-HK:S2B-041#95:1:A>
+Because we know the biggest loss was in the initial period <,> okay
+
+<ICE-HK:S2B-041#96:1:A>
+And you also almost took two hundred <,> in the two hundred and
+sixty minutes you know initially this is half a day before they the factory
+reach its <,> final you know efficiency for the day
+
+<ICE-HK:S2B-041#97:1:A>
+But in the past you know nobody could tell you know whether whether
+we have lost uh this uh this much or not now we could
+
+<ICE-HK:S2B-041#98:1:A>
+And so the supervisors they went out they did a very close
+follow-up of the operators and immediately you know we knew the difference
+
+<ICE-HK:S2B-041#99:1:A>
+And of course we can compare this section by section in this case
+we are showing I  ' m showing the whole factory but we can compare the
+different section
+
+<ICE-HK:S2B-041#100:1:A>
+So the factory manager can can can tell the different supervisor
+you are doing better not doing as good </I>

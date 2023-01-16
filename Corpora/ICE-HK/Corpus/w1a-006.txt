@@ -1,0 +1,625 @@
+<I>
+
+<ICE-HK:W1A-006#1:1>
+<h> INTRODUCTION </h>
+
+<ICE-HK:W1A-006#2:1>
+<p> Pillar <O> Chinese-character </O> and tie-beam are the core part of the
+Chinese wooden structure .
+
+<ICE-HK:W1A-006#3:1>
+The fundamental elements of the timber-frame structure are pillar ,
+tie-beam , purloin <O> Chinese-character </O> and tou-kung <O>
+Chinese-character </O> .
+
+<ICE-HK:W1A-006#4:1>
+The load of the roof passes through the purlins , tie-beams , pillars
+and then finally to the platform .
+
+<ICE-HK:W1A-006#5:1>
+so the wall which are built with bricks are not designed to carry any
+loading and their function is limited to partitioning the rooms .
+
+<ICE-HK:W1A-006#6:1>
+Hence , for Chinese timber-frame structure , there is the common
+saying that the <quote> &ldquo; even when the walls fall down , the house
+will not collapse &rdquo; </quote> . </p>
+
+<ICE-HK:W1A-006#7:1>
+<p> This osseous construction permits complete freedom in walling and
+fenestration and , by the simple adjustment of the proportion between walls
+and openings , renders a house practical and comfortable in any climate from
+that of tropical Indochina to that of subarctic Manchuria .
+
+<ICE-HK:W1A-006#8:1>
+Due to its extreme flexibility and adaptability , this method of
+construction could be employed wherever Chinese civilization spread and would
+effectively shelter occupants from the elements . </p>
+
+<ICE-HK:W1A-006#9:1>
+<h> The Two Structural Systems </h>
+
+<ICE-HK:W1A-006#10:1>
+<p> Between the first and second century , the development of the wooden
+structure is formalized .
+
+<ICE-HK:W1A-006#11:1>
+There is two main categories : One is &ldquo; Pillar-and-beam &rdquo;
+structure <O> Chinese-character </O> , another is &ldquo;
+Pillar-and-traverse-tie-beam &rdquo; structure <O> Chinese-character </O> .
+
+<ICE-HK:W1A-006#12:1>
+This structure adopts without any great change in the principle until
+the nineteenth century . </p>
+
+<ICE-HK:W1A-006#13:1>
+<h> The &ldquo; Pillar-and-beam &rdquo; structure </h>
+
+<ICE-HK:W1A-006#14:1>
+<p> The main principle is erecting pillars on the raised platform , putting
+tie-beam <O> Chinese-character </O> on the pillars , placing short pillars
+<O> Chinese-character </O> on the tie-beams , and then you find short
+tie-beam <O> Chinese-character </O> is resting on the short pillars , the
+short pillars are putting on the short tie-beams again , and then so on until
+it reaches the ridge purlin <O> Chinese-character </O> .
+
+<ICE-HK:W1A-006#15:1>
+Moreover , the ends of the tie-beam are joined by the purlin <O>
+Chinese-character </O> .
+
+<ICE-HK:W1A-006#16:1>
+So that the &ldquo; Pillars-and-beam &rdquo; structure is formed .
+</p>
+
+<ICE-HK:W1A-006#17:1>
+<p> The size and form of the structure are related to the width and property
+of the building .
+
+<ICE-HK:W1A-006#18:1>
+For small width , we can only use two pillars .
+
+<ICE-HK:W1A-006#19:1>
+However , for large width , we must use three or more pillars to
+support the tie-beams above .
+
+<ICE-HK:W1A-006#20:1>
+We user the number of purlin as a standard to represent the scale of
+the structure .
+
+<ICE-HK:W1A-006#21:1>
+It is because the distance between purlins <O> Chinese-character </O>
+is nearly constant , about two metres , in every building .
+
+<ICE-HK:W1A-006#22:1>
+So that a large purlin number represents a giant building . </p>
+
+<ICE-HK:W1A-006#23:1>
+<h> The &ldquo; Pillar-and-traverse-tie-beam &rdquo; structure </h>
+
+<ICE-HK:W1A-006#24:1>
+<p> The main elements are pillar <O> Chinese-character </O> , <indig> chuen
+fong </indig> <O> Chinese-character </O> , <indig> dao fong </indig> <O>
+Chinese-character </O> , <indig> hin chi </indig> <O> Chinese-character </O>
+and purlin <O> Chinese-character </O> .
+
+<ICE-HK:W1A-006#25:1>
+The load from the roof passes through the rafter <O>
+Chinese-character </O> to the pillars , and then from purlins to the pillars .
+
+<ICE-HK:W1A-006#26:1>
+The <indig> chuen fong </indig> are not load bearing , it only use as
+a horizontal connector of the pillars . </p>
+
+<ICE-HK:W1A-006#27:1>
+<p> There are much more pillars and traverse-tie-beam in the &ldquo;
+Pillar-and-traverse-tie-beam &rdquo; structure .
+
+<ICE-HK:W1A-006#28:1>
+So the diameter of the pillar is quite small &obrack; 20-30cm
+&cbrack; .
+
+<ICE-HK:W1A-006#29:1>
+And the size of the <indig> chuen fong </indig> is much smaller than
+the pillar .
+
+<ICE-HK:W1A-006#30:1>
+&obrack; Height : 10-20cm . Width : 5-10cm &cbrack; </p>
+
+<ICE-HK:W1A-006#31:1>
+<p> The size of the structure is determined by the number of <indig> chuen
+fong </indig> .
+
+<ICE-HK:W1A-006#32:1>
+There are several types of forms , such as <O> Chinese-character </O>
+and <O> Chinese-character </O> .
+
+<ICE-HK:W1A-006#33:1>
+Some pillars will not go down to the platform , instead , they just
+rest on the <indig> chuen fong </indig> .
+
+<ICE-HK:W1A-006#34:1>
+So that the internal space can be enlarge .
+
+<ICE-HK:W1A-006#35:1>
+However , in this case , the size of <indig> chuen fong </indig> must
+be increased so as to bear the load from the shorten pillars . </p>
+
+<ICE-HK:W1A-006#36:1>
+<p> Come to a nut shell , &ldquo; pillar-and-traverse-tie-beam &rdquo;
+structure is a simple timber-frame structure .
+
+<ICE-HK:W1A-006#37:1>
+It will not use in the giant building , such as the palace .
+
+<ICE-HK:W1A-006#38:1>
+However , it is very common in the dwelling unit in the southern part
+of China .
+
+<ICE-HK:W1A-006#39:1>
+
+<ICE-HK:W1A-006#40:1>
+<h> <ul> Bracket Set &obrack; <indig> tou-kung </indig> &cbrack;
+</ul> </h>
+
+<ICE-HK:W1A-006#41:1>
+<p> A set <indig> of tou-kung </indig> <O> Chinese-character </O> , or
+brackets , is an assemblage of a number of <indig> tou </indig> <O>
+Chinese-character </O> &obrack; blocks &cbrack; and <indig> kung </indig> <O>
+Chinese-character </O> &obrack; arms &cbrack; .
+
+<ICE-HK:W1A-006#42:1>
+The function of the set is to transfer the load from the horizontal
+member above the vertical member below .
+
+<ICE-HK:W1A-006#43:1>
+A set may be placed either on the column , or on the architrave
+between two columns , or on the corner column , Accordingly , a set of
+<indig> tou-kung </indig> may be called a &ldquo; column set &rdquo; ,
+&ldquo; intermediate set &rdquo; , or &ldquo; corner set &rdquo; depending on
+the position it occupies . </p>
+
+<ICE-HK:W1A-006#44:1>
+<p> The members that make up a set may be divided into three main categories
+: <indig> tou </indig> , <indig> kung </indig> and <indig> ang </indig> <O>
+Chinese-character </O> .
+
+<ICE-HK:W1A-006#45:1>
+There are four kinds of <indig> tou </indig> and five kinds of
+<indig> kung </indig> , determined by their functions and positions .
+
+<ICE-HK:W1A-006#46:1>
+But structurally the most important members of a set are the <indig>
+lu-tou </indig> <O> Chinese-character </O> or major bearing block , and the
+<indig> hua-kung </indig> <O> Chinese-character </O> , to both front and rear
+, at right angles to the facade of the building . </p>
+
+<ICE-HK:W1A-006#47:1>
+<p> Sometimes a slanting member , at approximately a 30&degree; angle to the
+ground , is placed above the <indig> hua-kung </indig> &semi;
+
+<ICE-HK:W1A-006#48:1>
+it is called the <indig> ang </indig> .
+
+<ICE-HK:W1A-006#49:1>
+The &ldquo; tail &rdquo; or upper end of <-> he </-> <+> the </+>
+<indig> ang </indig> is often held down by the weight of the beam or the
+purlin , making it a lever arm for the support of the large overhang of the
+eave . </p>
+
+<ICE-HK:W1A-006#50:1>
+<p> The <indig> hua-kung </indig> may be used in successive tiers , each
+extending front and rear a certain distance beyond the tier below .
+
+<ICE-HK:W1A-006#51:1>
+Such a tier and extension is called a <indig> t'iao </indig> <O>
+Chinese-character </O> or &ldquo; jump &rdquo; , and the number of <indig>
+tiao </indig> in a set may vary from one to five .
+
+<ICE-HK:W1A-006#52:1>
+Transverse <indig> kung </indig> interest the <indig> hua-kung
+</indig> in the <indig> lu-tou </indig> .
+
+<ICE-HK:W1A-006#53:1>
+One or two tiers of tranverse kung may be used in a <indig> t'iao
+</indig> .
+
+<ICE-HK:W1A-006#54:1>
+Such an arrangement is known as <indig> chi-hsin </indig> <O>
+Chinese-character </O> , or &ldquo; accounted heart &rdquo; , while a <indig>
+tiao </indig> without transverse kung is known as <indig> t'ou-hsin </indig>
+<O> Chinese-character </O> , or &ldquo; stolen heart &rdquo; .
+
+<ICE-HK:W1A-006#55:1>
+One tier of transverse <indig> kung </indig> is called <indig>
+tan-kung </indig> <O> Chinese-character </O> , or single <indig> kung
+</indig> &semi;
+
+<ICE-HK:W1A-006#56:1>
+a double tier is call <indig> ch'ung-kung </indig> <O>
+Chinese-character </O> , or double <indig> kung </indig> . <&>
+text-incomplete </&> </p>
+
+<ICE-HK:W1A-006#57:1>
+<h> <ul> Development of the Timber Frame Structure </ul> </h>
+
+<ICE-HK:W1A-006#58:1>
+<p> The earliest source that reveals he appeareance of a timber-frame
+building is the relief on a bronze vase of the period of the Warring States
+&obrack; 403-221 B.C. &cbrack; of the Chou Dynasty .
+
+<ICE-HK:W1A-006#59:1>
+It show on a platform a two-storied building with columns , eaved
+roofs , doors and railings .
+
+<ICE-HK:W1A-006#60:1>
+Particularly significant are the indications of columns with the
+characteristic bracket sets . </p>
+
+<ICE-HK:W1A-006#61:1>
+<p> Timber-frame structure may be tentatively divided into three main periods
+: the Period of Vigor , the Period of Elegance and the Period of rigidity .
+</p>
+
+<ICE-HK:W1A-006#62:1>
+<h> The Period of Vigor </h>
+
+<ICE-HK:W1A-006#63:1>
+<p> It includes the phase from the middle of the ninth century to the middle
+of eleventh century , or from the reign of Emperor Hsuan-tsung of Emperor
+Jen-tsung of the Sung dynasty .
+
+<ICE-HK:W1A-006#64:1>
+This period is characterized by a robustness of proportion and
+construction .
+
+<ICE-HK:W1A-006#65:1>
+It shows for the first time the brackets with outstretching arms , or
+hua-kung , uses as cantilevers to support the great overhang of the eave .
+
+<ICE-HK:W1A-006#66:1>
+The two tiers of jutting <indig> hau-kung </indig> are intersected by
+transverse <indig> kung </indig> , and the inverted-V intermediate set is
+also used .
+
+<ICE-HK:W1A-006#67:1>
+The examples can find in the Liao domain in North China . </p>
+
+<ICE-HK:W1A-006#68:1>
+<h> The Period of Elegance </h>
+
+<ICE-HK:W1A-006#69:1>
+<p> It extends from the middle of the eleventh century to the end of the
+fourteenth century or from the reign of Emperor Ying-tsung of the sung
+dynasty , through the Yuan dynasty , to the death of Emperor T'ai-tsu .
+
+<ICE-HK:W1A-006#70:1>
+It is marked by a gracefulness in proportion and refinement in detail .
+</p>
+
+<ICE-HK:W1A-006#71:1>
+<p> The most noticeable stylistic evolution is the gradual diminution of the
+<indig> tou-kung </indig> , which were reduced from generally about one third
+the height of the column to about one fourth by 1400 .
+
+<ICE-HK:W1A-006#72:1>
+The intermediate set becomes relatively larger in size and more
+complicated in combination .
+
+<ICE-HK:W1A-006#73:1>
+It further complicates by the introduction of the diagonal <indig>
+kung </indig> .
+
+<ICE-HK:W1A-006#74:1>
+This intermediate set becomes a burden to the architrave .
+
+<ICE-HK:W1A-006#75:1>
+The <indig> ang  ' s </indig> disposition gives the architect a
+wonderful opportunity to display his ingenuity , resulting in various
+combination of great interest .
+
+<ICE-HK:W1A-006#76:1>
+Moreover , the sets are always designed to do their share in
+upholding the whole structure and are seldom idle or merely decorative . </p>
+
+<ICE-HK:W1A-006#77:1>
+<h> The Period of Rigidity </h>
+
+<ICE-HK:W1A-006#78:1>
+<p> It lasts from the begining of the fifteenth century or the end of the
+nineteenth century , or from the reign of Emperor Ch'eng-tau of the Ming
+dynasty to the overthrow of the Ch'ing dynasty by the Republic .
+
+<ICE-HK:W1A-006#79:1>
+It is identified by a general rigidity , a clumsiness of proportion
+resulting from the excessive size of all horizontal members , and the
+decrease in size of the <indig> tou-kung </indig> , hence the increase in
+number of the intermediate sets , which have by this time degenerated from
+their original structural function to mere ornaments . </p>
+
+<ICE-HK:W1A-006#80:1>
+<p> Measuring about one-half or one-third the height of the column in the
+Sung Dynasty , <indig> tou-kung </indig> in the Ming Suddenly shrunken to
+one-fifth .
+
+<ICE-HK:W1A-006#81:1>
+The number of intermediate sets increase to seven or eight .
+
+<ICE-HK:W1A-006#82:1>
+The <indig> ang </indig> with its long tail , has no place in a
+column set with a disproportionately large beam directly on it .
+
+<ICE-HK:W1A-006#83:1>
+The false <indig> ang </indig> is therefore always employed where the
+effect of <indig> ang </indig> is desired .
+
+<ICE-HK:W1A-006#84:1>
+In the disposition of beams forming the roof support the <indig>
+tou-kung </indig> is dispensed with altogether and the beams rest directly on
+columns or struts .
+
+<ICE-HK:W1A-006#85:1>
+The purlins are supported directly on the ends of the beams , without
+the assistance of <indig> kung </indig> or the bracing of <indig> Ch'a-Shou
+</indig> or <indig> t'o-chiao </indig> .
+
+<ICE-HK:W1A-006#86:1>
+so the <indig> tou-kung </indig> , <-> expect </-> <+> except </+> in
+the column sets , is therefore by now pure ornament . </p>
+
+<ICE-HK:W1A-006#87:1>
+<h> Case Study </h>
+
+<ICE-HK:W1A-006#88:1>
+<h> &obrack; 1 &cbrack; The Period of Vigor -
+
+<ICE-HK:W1A-006#89:1>
+Main Hall of Fo-kuang Ssu </h>
+
+<ICE-HK:W1A-006#90:1>
+<p> The oldest wooden structure known today is the Main Hall of Fo-kuang Ssu
+, in the Wu-tai Mountains , Shans &semi; Province .
+
+<ICE-HK:W1A-006#91:1>
+It was built in 857 . </p>
+
+<ICE-HK:W1A-006#92:1>
+<p> It is extremely impressive with its rigorous and robust proportions .
+
+<ICE-HK:W1A-006#93:1>
+The enormous <indig> ton-kung </indig> of four tiers of cantilevers -
+two tiers of <indig> hua-kung </indig> and two tiers of <indig> ang </indig>
+- measuring about half the height of the columns with every piece of timber
+in the ensemble doing its share as a structural member , give the building an
+overwhelming dignity that is not found in later structures .
+
+<ICE-HK:W1A-006#94:1>
+The building  ' s most significant feature , from the point of view of
+dating structural evolution , is the formation of the &ldquo; truss &rdquo;
+immediately under , and therefore supporting , the ridge .
+
+<ICE-HK:W1A-006#95:1>
+On the top tier of beams are placed a pair of <indig> Cha-shou
+</indig> &obrack; &ldquo; abutting arms &rdquo; &cbrack; butting against each
+other to carry the ridge pole , while the &ldquo; king-post &rdquo; is
+missing altogether .
+
+<ICE-HK:W1A-006#96:1>
+This is a rare survival of early construction practice . </p>
+
+<ICE-HK:W1A-006#97:1>
+<O> architectural drawing </O>
+
+<ICE-HK:W1A-006#98:1>
+<h> &obrack; 2 &cbrack; The Period of Elegance -
+
+<ICE-HK:W1A-006#99:1>
+Sheng Mu Miao </h>
+
+<ICE-HK:W1A-006#100:1>
+<p> Sheng Mu Miao locates at Chin-tz'u , near T'aiyuan , Shans &semi;
+Province .
+
+<ICE-HK:W1A-006#101:1>
+It consists of a double-eaved Main Hall , Front Hall and a <indig>
+p'ai-lou </indig> .
+
+<ICE-HK:W1A-006#102:1>
+The two halls were built in the T'ien-sheng period &obrack;
+1023-1031 &cbrack; </p>
+
+<ICE-HK:W1A-006#103:1>
+<p> A prominent characteristic of the <indig> tou-kung </indig> of the
+Chiu-tz'u group is the shape of the beak of the <indig> ang </indig> .
+
+<ICE-HK:W1A-006#104:1>
+In earlier buildings , the beak is a simple bevel , rectangular in
+cross section .
+
+<ICE-HK:W1A-006#105:1>
+But later , the beveled portion is scooped and pulvinated ,
+resulting in a cross section with a rounded top .
+
+<ICE-HK:W1A-006#106:1>
+And other feature of the <indig> tou-kung </indig> is the false <->
+and </-> <+> ang </+> .
+
+<ICE-HK:W1A-006#107:1>
+Here the <indig> hua-kung </indig> is shaped on the outer end into a
+beak like that of an <indig> ang </indig> .
+
+<ICE-HK:W1A-006#108:1>
+Thus the decorative effect of the <-> beck </-> <+> beak </+> is
+obtained without using the slanting member itself .
+
+<ICE-HK:W1A-006#109:1>
+The <indig> hua-kung </indig> becomes merely an &ldquo; applied
+ornament &rdquo; , a sign of degeneration . </p>
+
+<ICE-HK:W1A-006#110:1>
+<h> &obrack; 3 &cbrack; The Period of Rigidity -
+
+<ICE-HK:W1A-006#111:1>
+The T'ai-ho Tien &obrack; Hall of Supreme Harmony &cbrack; </h>
+
+<ICE-HK:W1A-006#112:1>
+<p> It is the principal audience hall of the palaces and the focal point of
+the entire Forbidden City .
+
+<ICE-HK:W1A-006#113:1>
+With its six rows of twelve columns each , forming a hypo style hall
+eleven bags in length and five in depth , double-eaved and hip-roofed , it is
+the largest single premodern building in China . </p>
+
+<ICE-HK:W1A-006#114:1>
+<p> The <indig> tou-kung </indig> of this gigantic hall are extremely small
+in proportion - less than one-sixth of the column height .
+
+<ICE-HK:W1A-006#115:1>
+As many as eight intermediate sets are used in one bay .
+
+<ICE-HK:W1A-006#116:1>
+From a distance the presence of <indig> tou-kung </indig> is hardly
+noticeable .
+
+<ICE-HK:W1A-006#117:1>
+The walls , columns , doors and windows are painted vermilion , the
+<indig> tou-kung </indig> and architraves are blue and green accented with
+gold . </p> </I>
+
+<I>
+
+<ICE-HK:W1A-006#118:2>
+<h> <ul> INTRODUCTION </ul> </h>
+
+<ICE-HK:W1A-006#119:2>
+<p> The wedding vow : <quote> &ldquo; For better or worse . . . . . . Till
+death will we depart &rdquo; </quote> seems to be a faded motto in our
+contemporary society .
+
+<ICE-HK:W1A-006#120:2>
+Nowadays , the ideology of the &ldquo; casual relationship &rdquo;
+has become popular not only among the youth , but also gradually among the
+general public . </p>
+
+<ICE-HK:W1A-006#121:2>
+<p> The concept such as : <quote> &ldquo; Having possessed once is more
+desirable than staying together eternally &rdquo; </quote> , <quote> &ldquo;
+Marriage is the grave of courtship &rdquo; </quote> , and <quote> &ldquo; To
+marry owing to misunderstanding , and to separate owing to rational
+understanding &rdquo; </quote> , has been promoted by the mass media , and
+seems to be adopted by all walks of life .
+
+<ICE-HK:W1A-006#122:2>
+Consequently , divorce is no longer a taboo in Hong Kong . </p>
+
+<ICE-HK:W1A-006#123:2>
+<p> Marriage , as the actualization of genuine love in the form of lasting
+relationship , has been challenged from time to time .
+
+<ICE-HK:W1A-006#124:2>
+However , there exists some people who still uphold the value of
+genuine love and lasting marriage .
+
+<ICE-HK:W1A-006#125:2>
+This paper aims to examine the essence of the lasting marital
+relationship by reviewing the process and characteristics of courtship , as
+well as the facts and consequences of divorce . </p>
+
+<ICE-HK:W1A-006#126:2>
+<h> <ul> PRESENT SITUATION IN HONG KONG </ul> </h>
+
+<ICE-HK:W1A-006#127:2>
+<p> Being greatly influenced by the western culture , the fad of liberalism
+and pleasure principle has arrived at Hong Kong at the 70's .
+
+<ICE-HK:W1A-006#128:2>
+With the increased prosperity of the society , the emergence of
+nuclear family , the declination of the traditional norms , and the
+propaganda of the mass media , the form of heterosexual relationship becomes
+diversified . </p>
+
+<ICE-HK:W1A-006#129:2>
+<p> Pre-marital and ex-marital ships are not uncommon in the society .
+
+<ICE-HK:W1A-006#130:2>
+<-> Causal </-> <+> Casual </+> sex not only exists among the
+&ldquo; yuppies &rdquo; , but also among the &ldquo; marginal &rdquo; and
+&ldquo; normal &rdquo; youth .
+
+<ICE-HK:W1A-006#131:2>
+Furthermore , divorce rate has been raised sharply , with
+approximately 5700 cases at 1987 , 5898 cases in 1988 , and definitely more
+at the years afterwards . <fnr> &obrack; 1 &cbrack; </fnr> </p>
+
+<ICE-HK:W1A-006#132:2>
+<p> Even the most traditional sector , the Christian circle has no exception
+either .
+
+<ICE-HK:W1A-006#133:2>
+Increasing number of cases of marital breakdown has been reported
+among the Christians with the majority of them having married for two or
+three years only . <fnr> &obrack; 2 &cbrack; </fnr> </p>
+
+<ICE-HK:W1A-006#134:2>
+<p> With the coming of 1997 , most of the families in Hong Kong are
+experiencing exceeding stress .
+
+<ICE-HK:W1A-006#135:2>
+The political and social uncertainty : especially after the &ldquo;
+4th of June &rdquo; event &semi; has <-> explosed </-> <+> exposed </+> the
+fragility and vulnerability of many marriages .
+
+<ICE-HK:W1A-006#136:2>
+These , together with the problems aroused by emigration ,
+contribute significant to the mounting up of the marital hazard and actual
+marital breakdown . </p>
+
+<ICE-HK:W1A-006#137:2>
+<p> Is it possible for the marriage to survive under stress ?
+
+<ICE-HK:W1A-006#138:2>
+What can the marriage contribute to the ups and downs in our life
+cycle ?
+
+<ICE-HK:W1A-006#139:2>
+How can we establish and maintain a lively and enduring marital
+relationship ? </p>
+
+<ICE-HK:W1A-006#140:2>
+<p> To answer the above questions , reviewing the process and the
+characteristics of courtship and divorce may provide some valuable insights .
+</p>
+
+<ICE-HK:W1A-006#141:2>
+<h> <ul> COURTSHIP - ITS PROCESS AND CHARACTERISTICS </ul> </h>
+
+<ICE-HK:W1A-006#142:2>
+<p> Courtship is the period which follows <-> causal </-> <+> casual </+>
+dating and precedes engagement and marriage . <fnr> &obrack; 3 &cbrack;
+</fnr>
+
+<ICE-HK:W1A-006#143:2>
+It is the process through which the couples know each other and
+investigate the possibility of going further till marriage . </p>
+
+<ICE-HK:W1A-006#144:2>
+<p> The courtship starts at <-> causal </-> <+> casual </+> relationship in
+group or in double dating .
+
+<ICE-HK:W1A-006#145:2>
+The process then moves on to more serious stage of involvement ,
+such as dating steadily .
+
+<ICE-HK:W1A-006#146:2>
+If possible it will end at engagement and marriage . <fnr> &obrack;
+4 &cbrack; </fnr>
+
+<ICE-HK:W1A-006#147:2>
+However , termination of the relationship may also occur in any
+stage during the process . </p>
+
+<ICE-HK:W1A-006#148:2>
+<p> According to Levinger &obrack; 1980 &cbrack; , interpersonal relationship
+normally undergo five possible stages : initial attraction building a
+relationship , continuation , <-> deteriation </-> <+> deterioriation </+> ,
+and ending . </p> </I>

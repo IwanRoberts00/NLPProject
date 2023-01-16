@@ -1,0 +1,602 @@
+<I> <h> <bold>
+
+<ICE-HK:W2A-029#1:1>
+Leukocytes in blood transfusion: adverse effects and their prevention
+</bold> </h> <h>
+
+<ICE-HK:W2A-029#2:1>
+RW Chu </h>
+
+<p> <bold>
+
+<ICE-HK:W2A-029#3:1>
+Leukocyte contamination during blood transfusion can cause many
+adverse effects , such as the transmission of cell-associated infectious
+agents , fibrile non-hameolytic reactions , graft-versus-host disease , and
+immunosuppression .
+
+<ICE-HK:W2A-029#4:1>
+While using leukodepleted blood components can minimise some of these
+adverse effects , the leukodepletion of all cellular blood components is
+costly .
+
+<ICE-HK:W2A-029#5:1>
+A more cost-effective alternative would be to supply leukodepleted
+blood components to at-risk patients only . </bold> </p> <h> <bold>
+
+<ICE-HK:W2A-029#6:1>
+Introduction </bold> </h>
+
+<p> 
+<ICE-HK:W2A-029#7:1>
+White blood cells or leukocytes are present in all cellular blood
+components that are prepared by standard techniques .
+
+<ICE-HK:W2A-029#8:1>
+Studies have increasingly shown that leukocyte contamination of
+erythrocyte or platelet preparations can cause a wide variety of side effects
+after their transfusion .
+
+<ICE-HK:W2A-029#9:1>
+Examples of adverse effects of leukocyte contamination are the
+transmission of cell-associated infectious agents , febrile non-haemolytic
+transfusion reactions , refractoriness to platelet transfusion ,
+graft-versus-host disease , generalised immunosuppression , and an increased
+graft rejection rate of marrow or kidney transplantations . </p>
+
+<p> 
+<ICE-HK:W2A-029#10:1>
+There are few benefits of retaining leukocytes in transfused
+blood products , except extending kidney transplant survival .
+
+<ICE-HK:W2A-029#11:1>
+As a consequence , the use of leukodepleted blood components is
+widely practised and recommended. <sp> 1 </sp>
+
+<ICE-HK:W2A-029#12:1>
+The current trend in industrialised countries is that all cellular
+blood components to be transfused are leukodepleted . </p> <h> <bold>
+
+<ICE-HK:W2A-029#13:1>
+Adverse effects of blood transfusion and their prevention by
+leukodepletion </bold> </h>  &cbrack; <h> <it> <bold>
+
+<ICE-HK:W2A-029#14:1>
+Transmission of cell-associated infectious agents </bold> </it> </h>
+<h> <bold>
+
+<ICE-HK:W2A-029#15:1>
+Cytomegalovirus transmission </bold> </h>
+
+<p> 
+<ICE-HK:W2A-029#16:1>
+Cytomegalovirus &obrack;  CMV &cbrack; can be transmitted during the transfusion
+of cellular blood products and can cause significant morbidity and mortality
+in immuno-compromised CMV-seronegative pregnant women , premature infants &obrack; 
+birthweight <1.2  kg &cbrack; born to CMV-seronegative women  , CMV-seronegative
+recipients of all allogeneic bone marrow transplants from CMV-seronegative
+donors , and CMV-seronegative patients with acquired immunodeficiency
+syndrome. <sp> 1 </sp>
+
+<ICE-HK:W2A-029#17:1>
+Transfused erythrocytes , platelet concentrates , and granulocyte
+concentrates have all been implicated as the cause of infection by
+transfusion-transmitted CMV &obrack;  TT-CMV &cbrack; , while fresh frozen plasma and
+cryoprecipitate have not been reported to cause CMV transmission. <sp> 2
+</sp>
+
+<ICE-HK:W2A-029#18:1>
+The cells that serve as reservoirs for CMV have not been identified ,
+but monocytes have been considered to be the dominant cell-type that is
+infected in peripheral blood. <sp> 3-6 </sp> </p>
+
+<p> 
+<ICE-HK:W2A-029#19:1>
+The use of CMV-seronegative blood products has been the  ' gold
+standard ' method of preventing TT-CMV infection .
+
+<ICE-HK:W2A-029#20:1>
+Even so , they are still associated with a risk of TT-CMV of
+approximately 4&percent;. <sp> 7 </sp>
+
+<ICE-HK:W2A-029#21:1>
+It has recently been demonstrated that latent CMV in recipients'
+leukocytes can be reactivated from leukocytes of healthy seronegative blood
+donors. <sp> 8 </sp>
+
+<ICE-HK:W2A-029#22:1>
+In some of the CMV-seronegative individuals who harboured infectious
+CMV , a significant anti-CMV antibody response either may have diminished
+with time or may have never been present. <sp> 8 </sp>
+
+<ICE-HK:W2A-029#23:1>
+These possibilities could explain , at least in part , the residual
+risk of TT-CMV following the transfusion of seronegative blood products .
+
+<ICE-HK:W2A-029#24:1>
+On the other hand , some CMV-seropositive blood may not be
+infectious .
+
+<ICE-HK:W2A-029#25:1>
+Since the prevalence of antibody to CMV ranges from 60&percent; to
+more than 90&percent; , eliminating all CMV-seropositive donations to prevent
+TT-CMV would deplete the supply of blood available for transfusion .
+
+<ICE-HK:W2A-029#26:1>
+In addition , as the CMV-seropositivity rate among Hong Kong
+population is more than 90&percent; , obtaining CMV-seronegative blood or
+blood components may be difficult . </p>
+
+<p> 
+<ICE-HK:W2A-029#27:1>
+Studies have found that depleting blood components of leukocytes
+is successful in preventing TT-CMV infection in neonates , patients with
+acute leukaemia , and bone marrow transplant recipients. <sp> 9-11 </sp>
+
+<ICE-HK:W2A-029#28:1>
+Using leukodepleted blood components is thus an effective alternative
+method to using CMV-seronegative blood components to prevent TT-CMV infection
+to at-risk patients . </p> <h> <bold>
+
+<ICE-HK:W2A-029#29:1>
+Transmission of other herpesviruses </bold> </h>
+
+<p> 
+<ICE-HK:W2A-029#30:1>
+Besides CMV , other herpesviruses such as Epstein-Barr virus &obrack; 
+EBV &cbrack; , human herpesvirus &obrack;  HHV)-6 , HHV-7 , and HHV-8 &obrack;  or Kaposi  ' s
+sarcoma-related herpesvirus &obrack;  KSHV &cbrack; &cbrack; are associated with leukocyte
+contamination during transmission .
+
+<ICE-HK:W2A-029#31:1>
+Primary EBV infections from blood transfusions may cause clinical
+problems in EBV-seronegative transfusion recipients. <sp> 12 </sp>
+
+<ICE-HK:W2A-029#32:1>
+Thus , in high-risk patients , leukocyte depletion to prevent primary
+EBV infection might be infected .
+
+<ICE-HK:W2A-029#33:1>
+The clinical relevance of the transmission of HHV-6 , HHV-7 , and
+HHV-8/KSHV through blood transfusion is unclear and requires further
+investigation . </p> <h> <bold>
+
+<ICE-HK:W2A-029#34:1>
+Human T-cell leukaemia/lymphoma virus types I and II </bold> </h>
+
+<p> 
+<ICE-HK:W2A-029#35:1>
+Human T-cell leukaemia/lymphoma virus &obrack;  HTLV &cbrack; types I and II
+target T lymphocytes and are solely transmitted by cellular blood components.
+<sp> 13 </sp>
+
+<ICE-HK:W2A-029#36:1>
+Transfusion-transmitted HTLV-I/II , however , is a very rare event
+and is even more rarely associated with progression to clinical disease .
+
+<ICE-HK:W2A-029#37:1>
+The current strategy of limiting transfusion-transmitted HTLV-I/II is
+to serologically screen all donor blood .
+
+<ICE-HK:W2A-029#38:1>
+As data are limited and no comparison exists , the Canadian
+Coordinating Office for Health Technology Assessment recently concluded that
+&ldquo; leukodepletion cannot currently be used as a substitute for HTLV-I
+testing for this rare disease ..." <sp> 14 </sp> </p> <h> <bold>
+
+<ICE-HK:W2A-029#39:1>
+Bacterial contamination </bold> </h>
+
+<p> 
+<ICE-HK:W2A-029#40:1>
+The rate of the bacterial contamination of platelet components is
+at least 10- to 100-times greater than the rate of contamination by many
+viruses &obrack;  human immunodeficiency virus &obrack;  HIV &cbrack; 1 or 2 , hepatitis B and C
+viruses , HTLV-I/II &cbrack; .
+
+<ICE-HK:W2A-029#41:1>
+Studies have shown that approximately one in every 1500 to one in
+every 2000 units of platelets are contaminated with bacteria, <sp> 15,16
+</sp> although contamination does not always result in signs and symptoms of
+sepsis .
+
+<ICE-HK:W2A-029#42:1>
+Leukocyte depletion filters can directly and indirectly remove
+bacteria from platelet and erythrocyte preparations .
+
+<ICE-HK:W2A-029#43:1>
+Bacteria adhere to the filter matrix , while phagocytic leukocytes ,
+which adhere to or ingest bacteria , are retained by the filters .
+
+<ICE-HK:W2A-029#44:1>
+However , the clinical efficacy of leukodepletion for bacterial
+removal is not known . </p> <h> <bold>
+
+<ICE-HK:W2A-029#45:1>
+Transmission of <it> Toxoplasma gondii </it> </bold> </h>
+
+<p> 
+<ICE-HK:W2A-029#46:1>
+Primary toxoplasmosis has been transmitted by whole-blood and
+granulocyte transfusions and from the transplantation of organs from
+seropositive donors to immunocompromised recipients. <sp> 17 </sp>
+
+<ICE-HK:W2A-029#47:1>
+<it> Toxoplasma gondii </it> can survive in refrigerated blood
+components. <sp> 18 </sp>
+
+<ICE-HK:W2A-029#48:1>
+As with other leukocyte-associated agents , <it> T gondii </it>
+transmission can be minimised by transfusing leukocyte-depleted blood
+components .
+
+<ICE-HK:W2A-029#49:1>
+Since the seroprevalence to the organism is high , however , most
+transfusion recipients are not at risk . </p> <h> <bold>
+
+<ICE-HK:W2A-029#50:1>
+Transmission of prions </bold> </h>
+
+<p> 
+<ICE-HK:W2A-029#51:1>
+Prions cause neurodegenerative disorders in both human and
+animals , such as kuru , Creutzfeldt-Jakob disease &obrack;  CJD &cbrack; , bovine spongiform
+encephalopathy , and the new-variant CJD &obrack;  nvCJD). <sp> 19 </sp>
+
+<ICE-HK:W2A-029#52:1>
+The abnormal prion-related protein can be found in the tonsils and
+the spleen of patients with nvCJD , but not in those with classical CJD .
+
+<ICE-HK:W2A-029#53:1>
+Hence , circulating B lymphocytes might harbour the agent responsible
+for the development of nvCJD. <sp> 20-24 </sp>
+
+<ICE-HK:W2A-029#54:1>
+However , no data are available on the likely transmissibility of CJD
+or nvCJD by blood transfusion . </p> <h> <it> <bold>
+
+<ICE-HK:W2A-029#55:1>
+Febrile non-haemolytic transfusion reactions </bold> </it> </h>
+
+<p> 
+<ICE-HK:W2A-029#56:1>
+Febrile non-haemolytic transfusion reactions &obrack;  FNHTRs &cbrack; have been
+reported to occur with an incidence of 6.8&percent; after erythrocyte
+transfusion and 37.5&percent; after platelet transfusion. <sp> 25 </sp>
+
+<ICE-HK:W2A-029#57:1>
+The major cause of severe FNHTRs to erythrocytes is human leukocyte
+antigen &obrack;  HLA &cbrack; alloimmunisation .
+
+<ICE-HK:W2A-029#58:1>
+A reduction in the number of leukocytes to 5 x 10 <sp> 8 </sp>
+leukocytes per unit of blood component is sufficient to prevent FNHTRs in
+most cases .
+
+<ICE-HK:W2A-029#59:1>
+It is generally agreed that patients requiring long-term red blood
+cell support &obrack;  eg those with beta thalassaemia major &cbrack; should receive
+erythrocyte concentrates in which leukocyte levels are below 5 x 10 <sp> 8
+</sp> per unit to prevent FNHTRs. <sp> 26 </sp>
+
+<ICE-HK:W2A-029#60:1>
+This level of leukodepletion can be achieved by the use of buffy
+coat-depleted red blood cell concentrates or by transfusing red blood cells
+through bedside leukocyte filters .
+
+<ICE-HK:W2A-029#61:1>
+If FNHTRs continue despite these measures , leukodepleted erythrocyte
+concentrates that have a much lower level of leukocytes should be used . </p>
+
+<p> 
+<ICE-HK:W2A-029#62:1>
+There is increasing evidence that the major cause of FNHTRs after
+platelet transfusion is due to the presence of pyrogenic cytokines ,
+especially IL-1a , that are realized from leukocytes during the storage of
+platelets at 22°C. <sp> 27 </sp>
+
+<ICE-HK:W2A-029#63:1>
+Hence , FNHTRs following platelet transfusion are not reliably
+prevented by the bedside leukocyte filtration of platelet concentrates .
+
+<ICE-HK:W2A-029#64:1>
+In contrast , performing leukodepletion before storage not only
+removes the leukocytes , but can also markedly reduce the level of cytokines
+in platelet concentrates. <sp> 28 </sp> </p>
+
+<p> 
+<ICE-HK:W2A-029#65:1>
+The third mechanism of the onset of FNHTRs is relatively more
+common after the transfusion of platelets than after that of erythrocytes .
+
+<ICE-HK:W2A-029#66:1>
+The adverse reaction is due to the formation of immune complexes of
+the recipient  ' s antibodies with cells or proteins in the blood products ,
+which triggers the recipient  ' s immune system to release cytokines .
+
+<ICE-HK:W2A-029#67:1>
+Leukocyte depletion would therefore not prevent FNHTRs that occur due
+to this mechanism . </p> <h> <it> <bold>
+
+<ICE-HK:W2A-029#68:1>
+Refractoriness to platelet transfusion </bold> </it> </h>
+
+<p> 
+<ICE-HK:W2A-029#69:1>
+Platelet refractoriness is the repeated failure to obtain
+satisfactory responses to platelet transfusion and is a common problem for
+patients receiving multiple transfusions .
+
+<ICE-HK:W2A-029#70:1>
+Platelet refractoriness can arise due to immune or non-immune causes .
+
+<ICE-HK:W2A-029#71:1>
+Non-immune causes can include septicaemia , fever , disseminated
+intravascular coagulation , and splenomegaly .
+
+<ICE-HK:W2A-029#72:1>
+The main immune cause is HLA alloimmunisation . </p>
+
+<p> 
+<ICE-HK:W2A-029#73:1>
+The development of an immune response to transfused platelet
+depends on mainly on the interaction of the donor  ' s transfused
+antigen-presenting cells &obrack;  APCs &cbrack; with the recipient  ' s T cells , which then
+signal the recipient  ' s B cells to produce alloantibodies .
+
+<ICE-HK:W2A-029#74:1>
+It has been postulated that removing the donor  ' s leukocytes &obrack; 
+including APCs: mainly dendritic cells , monocytes , and B lymphocytes &cbrack; prior
+to transfusion may reduce the rates of platelet antigen alloimmunisation .
+
+<ICE-HK:W2A-029#75:1>
+The accumulated data suggest that leukodepletion is relatively
+effective in preventing platelet antigen alloimmunisation among patients with
+acute myeloid leukaemia who are receiving induction chemotherapy. <sp> 29
+</sp> </p>
+
+<p> 
+<ICE-HK:W2A-029#76:1>
+The effectiveness of leukodepleted blood components in the
+prevention of HLA alloimmunisation among patients who may have been
+sensitised by previous transfusion or pregnancies is still controversial.
+<sp> 30 </sp>
+
+<ICE-HK:W2A-029#77:1>
+There is also currently no convincing evidence that the routine
+leukodepletion of blood components produces clinical benefits for patients
+who are receiving multiple platelet transfusions , although HLA
+alloimminisation and platelet refractoriness may be reduced. <sp> 1 </sp>
+</p> <h> <it> <bold>
+
+<ICE-HK:W2A-029#78:1>
+Transfusion-associated graft-versus-host disease </bold> </it> </h>
+
+<p> 
+<ICE-HK:W2A-029#79:1>
+A rare but usually fatal complication of transfusion is
+transfusion-associated graft-versus-host disease &obrack;  TA-GVHD &cbrack; .
+
+<ICE-HK:W2A-029#80:1>
+The risk associated with an individual transfusion depends on the
+number and viability of contaminating lymphocytes , the susceptibility of the
+patient  ' s immune system to their engraftment , and the degree of the
+immunological &obrack;  HLA &cbrack; disparity between the donor and recipient .
+
+<ICE-HK:W2A-029#81:1>
+The transfused variable T lymphocytes , under certain circumstances ,
+engraft and proliferate in the recipient .
+
+<ICE-HK:W2A-029#82:1>
+The interaction between donor T lymphocytes and recipient cells
+bearing either class I or class II HLA antigens results in cellular damage ,
+which may be mediated by natural killer cells .
+
+<ICE-HK:W2A-029#83:1>
+Major target tissues include skin , thymus , gastro-intestinal tract
+, liver , spleen , and bone marrow .
+
+<ICE-HK:W2A-029#84:1>
+The risks of TA-GVHD are highest in recipients who have an
+immunodeficiency or who are immunosuppressed , although TA-GCHD has not been
+described in patients who are infected with HIV . </p>
+
+<p> 
+<ICE-HK:W2A-029#85:1>
+Lymphocyte viability is retained in stored erythrocytes for at
+least 3 weeks , and cases of TA-GVHD following the transfusion of whole blood
+, red blood cells , platelets , and granulocytes have been reported .
+
+<ICE-HK:W2A-029#86:1>
+Transfusing granulocytes poses a particular risk owing to the
+freshness and number of contaiminating lymphocytes , as well as the
+likelihood that the recipient is immunoincompetent .
+
+<ICE-HK:W2A-029#87:1>
+No cases of TA-GVHD have been described following the transfusion of
+frozen deglycerolized cells , cryoprecipitate , fresh frozen plasma , or
+fractionated plasma products such as clotting factor concentrates , albumin ,
+and intravenous immunoglobulin . </p>
+
+<p> 
+<ICE-HK:W2A-029#88:1>
+The'threshold ' dose of lymphocytes required for the development
+of TA-GCHD in humans is unknown and may depend on the recipient  ' s ability
+to reject transfused lymphocytes .
+
+<ICE-HK:W2A-029#89:1>
+In one case , the disease developed after the transfusion of only 8 x
+10 <sp> 4 </sp> lymphocytes per kilogram .
+
+<ICE-HK:W2A-029#90:1>
+The successful prevention of TA-GVHD thus depends on wither the
+physical removal of donor lymphocytes or the destruction of their
+proliferative potential .
+
+<ICE-HK:W2A-029#91:1>
+Current filtration technology cannot consistently produce the levels
+of lymphocytes removal required .
+
+<ICE-HK:W2A-029#92:1>
+The current mainstay of preventing lymphocytes proliferation
+continues to be gamma irradiation .
+
+<ICE-HK:W2A-029#93:1>
+The recommended minimum dose to prevent TA-GVHD is 25 Gy. <sp> 31
+</sp>
+
+<ICE-HK:W2A-029#94:1>
+It has also been shown that TA-GCHD can be transmitted to
+immunocompetent recipients when the blood donor has a homozygous HLA
+halpotype that is identical to one of the recipient  ' s HLA type . </p> <h>
+<it> <bold>
+
+<ICE-HK:W2A-029#95:1>
+Generalised immunosuppression after transfusion </bold> </it> </h>
+
+<p> 
+<ICE-HK:W2A-029#96:1>
+Allogeneic blood transfusions produce a variety of effects on the
+recipient  ' s immunological functions , such as the decreased function of
+natural killer cells , macrophage migration to site of injuries , lymphocytes
+proliferation , and cutaneous delayed hypersensitivity .
+
+<ICE-HK:W2A-029#97:1>
+The presence of donor leukocytes in allogeneic blood may play a role
+in suppressing cellular immune function .
+
+<ICE-HK:W2A-029#98:1>
+Reports have suggested that allogeneic blood transfusions increase
+the incidence of postoperative infection and the tumour recurrence rate .
+
+<ICE-HK:W2A-029#99:1>
+These reports attribute the postoperative morbidities to the
+immunomodulatory effects of blood transfusion. <sp> 32,33 </sp>
+
+<ICE-HK:W2A-029#100:1>
+This association remains unproven , however , and there is currently
+insufficient evidence to recommend the routine use of leukodepleted blood
+components for surgical patients to prevent either postoperative infection or
+tumour recurrence . </p> <h> <it> <bold>
+
+<ICE-HK:W2A-029#101:1>
+Graft rejection rates after organ transplantation </bold> </it> </h>
+
+<p> 
+<ICE-HK:W2A-029#102:1>
+The sensitisation of an individual to transplantation antigens
+by preceding transfusions can lead to graft rejection after organ
+transplantation .
+
+<ICE-HK:W2A-029#103:1>
+Allogeneic blood containing leukocytes has been shown to have an
+adverse effect in patients with aplastic anaemia who undergo cone marrow
+transplantation <sp> 34 </sp> and in renal transplant patients .
+
+<ICE-HK:W2A-029#104:1>
+The sensitisation to transplant antigens can potentially be
+prevented by leukodepleting blood components that are to be used in
+pretransplantation transfusions .
+
+<ICE-HK:W2A-029#105:1>
+Liver transplantation , however , does not seem to require HLA
+matching or lymphocyte crossmatching before transplantation; hence ,
+leukodepleted blood components are not indicated in transfusions before this
+procedure. <sp> 35 </sp>
+
+<ICE-HK:W2A-029#106:1>
+For heart transplantations , there is currently no available
+information about the possible benefit of preventing HLA alloimmunisation by
+leukodepleting blood components that are to be used for pretransplantation
+transfusions . </p> <h> <bold>
+
+<ICE-HK:W2A-029#107:1>
+Leukodepleting blood components </bold> </h>
+
+<p> 
+<ICE-HK:W2A-029#108:1>
+As leukocytes in the blood can cause so many undesirable effects
+, leukodepletion is the best method of preventing or delaying such effects .
+
+<ICE-HK:W2A-029#109:1>
+The United States and many European countries have now decided to
+leukodeplete all cellular blood components .
+
+<ICE-HK:W2A-029#110:1>
+However , it is still controversial as to whether it is
+cost-effective to practise universal leukodepletion . </p>
+
+<p> 
+<ICE-HK:W2A-029#111:1>
+A leukodepleted blood component is most commonly defined as
+containing fewer than 5 x 10 <sp> 6 </sp> white blood cells per unit of
+component .
+
+<ICE-HK:W2A-029#112:1>
+Blood filtration by using leukocyte filters is a commonly used
+method of leukodepleting blood components .
+
+<ICE-HK:W2A-029#113:1>
+The filtration can be performed either at the bedside during
+transfusion or in the component-processing laboratory .
+
+<ICE-HK:W2A-029#114:1>
+The latter mode of filtration &obrack;  prestorage filtration &cbrack; is superior
+to bedside filtration because leukocytes are removed before storage , thus
+preventing further biological changes associated with the storage of these
+cells , and because quality assurance can be guaranteed .
+
+<ICE-HK:W2A-029#115:1>
+Performing leukodepletion within a relatively short time - usually
+within 48 hours after blood collection - also eliminates leukocytes before
+they release cytokines , fragments of cell membrane , and possibly
+intracellular viruses .
+
+<ICE-HK:W2A-029#116:1>
+These factors may not be removable by bedside filtration .
+
+<ICE-HK:W2A-029#117:1>
+The cytokines and cell membrane fragments may lead to FNHTRs and
+primary HLA alloimmunisation, <sp> 36 </sp> respectively , even if the blood
+is transfused through a bedside leukocyte filter . </p>
+
+<p> 
+<ICE-HK:W2A-029#118:1>
+The temperature of filtration is also an important factor in
+determining the efficiency of leukocyte depletion .
+
+<ICE-HK:W2A-029#119:1>
+Studies have shown that colder temperatures result in the better
+leukodepletion of red blood cell concentrates. <sp> 37 </sp>
+
+<ICE-HK:W2A-029#120:1>
+Because the transfusion of erythrocytes will warm to room
+temperature , which will reduce the efficiency of leukodepletion .
+
+<ICE-HK:W2A-029#121:1>
+Thus , filters used at the bedside may not perform as well as those
+used in the laboratory .
+
+<ICE-HK:W2A-029#122:1>
+For the production of leukocyte-depleted platelet concentrates ,
+apheresis technology can be used and circumvents any need for filtration or
+further processing . </p> <h> <bold>
+
+<ICE-HK:W2A-029#123:1>
+Conclusion </bold> </h>
+
+<p> 
+<ICE-HK:W2A-029#124:1>
+Leukocytes in erythrocyte and platelet concentrate can be
+considered as a contaminant that may lead to serious morbidity and even
+mortality in at-risk recipients .
+
+<ICE-HK:W2A-029#125:1>
+Some western countries have adopted a universal leukodepletion
+policy for cellular blood components .
+
+<ICE-HK:W2A-029#126:1>
+However , universal leukodepletion policy is costly and ,
+consequently , it may be more cost-effective to reserve leukodepleted blood
+components for at-risk recipients . </p>
+</I>

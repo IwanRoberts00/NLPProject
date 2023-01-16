@@ -1,0 +1,520 @@
+<I> <h>
+
+<ICE-HK:W1A-020#1:1>
+1A </h>
+<p> 
+<ICE-HK:W1A-020#2:1>
+There are a number of different approaches to the study of word
+meaning .
+
+<ICE-HK:W1A-020#3:1>
+These include the componential approach , procedural approach ,
+semantic-network approach , semantic differential approach , feature
+comparison approach , etc .
+
+<ICE-HK:W1A-020#4:1>
+Among them some are more inclined towards the linguistic sphere
+whereas some are inclined towards the psychological one .
+
+<ICE-HK:W1A-020#5:1>
+Of course there are also some which are somewhere in between the two .
+
+<ICE-HK:W1A-020#6:1>
+The &lsquo; prototype &rsquo; model is also one approach to the study
+of word meaning .
+
+<ICE-HK:W1A-020#7:1>
+In this approach , the meaning of a word is defined by its most
+prototypical member .
+
+<ICE-HK:W1A-020#8:1>
+An instance of this would be to say that a robin is the prototype of
+birds .
+
+<ICE-HK:W1A-020#9:1>
+It is taken to be the prototype because it possesses all those
+important characteristics which allow it to be regarded as a bird .
+
+<ICE-HK:W1A-020#10:1>
+However , a potential problem with this approach is that sometimes it
+is hard to decide what should be taken as the prototype of a certain word .
+
+<ICE-HK:W1A-020#11:1>
+For instance , one might argue why robin , instead of nightingale ,
+is chosen to be the prototype while indeed the two possess virtually similar
+characteristics .
+
+<ICE-HK:W1A-020#12:1>
+One might question the validity of choosing a particular member to be
+the most typical representative .
+
+<ICE-HK:W1A-020#13:1>
+Another problem is that for some words indeed there can be no
+prototype .
+
+<ICE-HK:W1A-020#14:1>
+This is especially the case with those parts of speech other than
+nouns , such as verbs , adjectives , adverbs , etc .
+
+<ICE-HK:W1A-020#15:1>
+Even with the noun category , sometimes it is difficult to decide
+whether or not there is a prototype for a certain noun .
+
+<ICE-HK:W1A-020#16:1>
+Let us take for instance the word &lsquo; <mention> game </mention>
+&rsquo; .
+
+<ICE-HK:W1A-020#17:1>
+Not only does it pose problem for approaches such as the componential
+approach , it also raises doubts as to the validity of the prototype model .
+
+<ICE-HK:W1A-020#18:1>
+Since there is no common characteristics or features that must be
+possessed among the members of &ldquo; game&rdquo; , it is impossible to pick
+out any single candidate to be the prototype of &lsquo; <mention> game
+</mention> &rsquo; .
+
+<ICE-HK:W1A-020#19:1>
+No single member of the word &lsquo; <mention> game </mention>
+&rsquo; can claim to possess the necessary characteristics for any to be
+qualified as &lsquo; <mention> game </mention> &rsquo; .
+
+<ICE-HK:W1A-020#20:1>
+Because , take for instance , not all games are played for the sake
+of fun , not all games involve competition , the number of participants is
+also indefinite , etc .
+
+<ICE-HK:W1A-020#21:1>
+From the above we can get a glimpse of what limitation the &lsquo;
+prototype &rsquo; model has . </p> <h>
+
+<ICE-HK:W1A-020#22:1>
+1B </h>
+<p> 
+<ICE-HK:W1A-020#23:1>
+During comprehension , there are different levels of processing .
+
+<ICE-HK:W1A-020#24:1>
+Among them there is the stage of syntactic processing .
+
+<ICE-HK:W1A-020#25:1>
+The &lsquo; verb complexity &rsquo; hypothesis of syntactic
+processing states that the rate of comprehension is affected by the
+complexity of the verb .
+
+<ICE-HK:W1A-020#26:1>
+A verb is said to be more complex if it allows a number of different
+alternatives to what follows in the sentence .
+
+<ICE-HK:W1A-020#27:1>
+In this sense , the verb &lsquo; <mention> know </mention> &rsquo; is
+more complex than the verb &lsquo; <mention> die </mention> &rsquo; .
+
+<ICE-HK:W1A-020#28:1>
+For instance , a sentence which starts with &lsquo; <mention> John
+knows </mention> &rsquo; can be followed by different types of construction .
+
+<ICE-HK:W1A-020#29:1>
+It may end up in this way: &lsquo; <mention> John knows Mary
+</mention> &rsquo; .
+
+<ICE-HK:W1A-020#30:1>
+It may be followed by a that-clause , e.g .<mention> John knows that
+Mary is lawyer </mention> .
+
+<ICE-HK:W1A-020#31:1>
+There are still other possible alternatives to complete the sentence .
+
+<ICE-HK:W1A-020#32:1>
+When we turn to the verb &lsquo; <mention> die </mention> &rsquo; ,
+we find that what can follow is of limited possibility .
+
+<ICE-HK:W1A-020#33:1>
+We may only end up the sentence like this : <mention> John died at an
+early age </mention> .
+
+<ICE-HK:W1A-020#34:1>
+Other construction such as &lsquo; <mention> John died last year
+</mention> &rsquo; or &lsquo; <mention> John died in San Francisco </mention>
+&rsquo; are all of a similar nature .
+
+<ICE-HK:W1A-020#35:1>
+What follows can only be some time or place adverbial or something
+like that .
+
+<ICE-HK:W1A-020#36:1>
+The verb &lsquo; <mention> die </mention> &rsquo; cannot be followed
+directly by a that-clause .
+
+<ICE-HK:W1A-020#37:1>
+Thus comparatively speaking the verb &lsquo; <mention> know
+</mention> &rsquo; is much more complex than the verb &lsquo; <mention> die
+</mention> &rsquo; .
+
+<ICE-HK:W1A-020#38:1>
+It is proposed that as the complexity of a verb increases , the
+difficulty of comprehension is also increased within such argument it is
+believed that verb complexity can thus decide on the length of time required
+for comprehension .
+
+<ICE-HK:W1A-020#39:1>
+It follows that a sentence with a verb like &lsquo; <mention> know
+</mention> &rsquo; will take much longer for one to comprehend than that with
+a verb like &lsquo; <mention> hit </mention> &rsquo; .
+
+<ICE-HK:W1A-020#40:1>
+Yet , actual findings show us that indeed the two sentences just take
+more or less the same duration of time for one to comprehend .
+
+<ICE-HK:W1A-020#41:1>
+Thus the validity of the &lsquo; verb complexity &rsquo; hypothesis
+is in question . </p> <h>
+
+<ICE-HK:W1A-020#42:1>
+1C </h>
+<p> 
+<ICE-HK:W1A-020#43:1>
+In studying language comprehension , an utterance is said to have
+its &lsquo; locutionary meaning &rsquo; , &lsquo; illocutionary force &rsquo;
+and &lsquo; perlocutionary effect &rsquo; .
+
+<ICE-HK:W1A-020#44:1>
+The &lsquo; locutionary meaning &rsquo; of an utterance refers to
+what the word literally means .
+
+<ICE-HK:W1A-020#45:1>
+In this sense an utterance like &lsquo; <mention> I can't find any
+salt </mention> &rsquo; is only expressing a situation .
+
+<ICE-HK:W1A-020#46:1>
+However , we have to always take into consideration the &lsquo;
+illocutionary force &rsquo; of an utterance .
+
+<ICE-HK:W1A-020#47:1>
+This refers to more than what is literally expressed .
+
+<ICE-HK:W1A-020#48:1>
+For instance , a sentence like the above may be used to ask someone
+to pass some salt to him/her .
+
+<ICE-HK:W1A-020#49:1>
+&lsquo; Illocutionary force &rsquo; refers to the intended meaning
+behind an utterance .
+
+<ICE-HK:W1A-020#50:1>
+Similarly , a sentence like &lsquo; <mention> It  ' s so hot in here
+</mention> &rsquo; might be intended to ask someone to turn on the fan .
+
+<ICE-HK:W1A-020#51:1>
+In addition to the above two aspects , an utterance can also have its
+&lsquo; perlocutionary effect &rsquo; .
+
+<ICE-HK:W1A-020#52:1>
+Such effect might indeed not be intended by the speaker , but is <->
+infered </-> <+> inferred </+> by the listener .
+
+<ICE-HK:W1A-020#53:1>
+In this sense the listener is making inferences on what the speaker
+says .
+
+<ICE-HK:W1A-020#54:1>
+The meaning is not intended by the speaker .
+
+<ICE-HK:W1A-020#55:1>
+For example , someone saying &lsquo; <mention> I like to eat
+ice-cream </mention> &rsquo; might be interpreted by someone else to mean
+that he/she wants someone to buy him/her an icecream .
+
+<ICE-HK:W1A-020#56:1>
+The distinction between &lsquo; illocutionary force &rsquo; and
+&lsquo; perlocutionary effect &rsquo; is whether the meaning conveyed behind
+literal words is intended by the speaker himself/herself or not . </p> <h>
+
+<ICE-HK:W1A-020#57:1>
+1D </h>
+<p> 
+<ICE-HK:W1A-020#58:1>
+Speech is uttered with a primarily communicative purpose .
+
+<ICE-HK:W1A-020#59:1>
+Therefore Grice raised some maxims in which one should follow in
+communications .
+
+<ICE-HK:W1A-020#60:1>
+They are called The maxims of the Gricean Principle .
+
+<ICE-HK:W1A-020#61:1>
+These include the maxim of quality , the maxim of quantity , the
+maxim of relation , etc .
+
+<ICE-HK:W1A-020#62:1>
+The maxim of quality states that one should only say what is true ,
+in accordance with what he/she really knows .
+
+<ICE-HK:W1A-020#63:1>
+The maxim of quantity states that one should not say less than
+required , similarly , one should not say more than enough .
+
+<ICE-HK:W1A-020#64:1>
+The maxim of relation states that one should take into consideration
+the relationship between the speaker and hearer .
+
+<ICE-HK:W1A-020#65:1>
+This determines the form and style of one  ' s speech .
+
+<ICE-HK:W1A-020#66:1>
+For instance , it is clear that the situations will be quite
+different when one is talking to one  ' s classmates , and say , talking to the
+president .
+
+<ICE-HK:W1A-020#67:1>
+Also , one should think about what effect is to be created in the
+hearer .
+
+<ICE-HK:W1A-020#68:1>
+This determines his choice of tone , and sentence type , etc .
+
+<ICE-HK:W1A-020#69:1>
+For instance , the effect of an imperative sentence is obviously more
+forceful than a mild request .
+
+<ICE-HK:W1A-020#70:1>
+Nevertheless , the above maxims can be violated in order to achieve
+some special communicative effects .
+
+<ICE-HK:W1A-020#71:1>
+For instance , if the speaker wants to arouse and suspend the hearer  ' s
+interest , he/she might say less than enough to achieve that purpose .
+
+<ICE-HK:W1A-020#72:1>
+In doing so he/she is flouting the maxim of quantity .
+
+<ICE-HK:W1A-020#73:1>
+In order to prevent somebody from knowing the truth , which might
+induce some undesirable effect , one might say a white lie intentionally .
+
+<ICE-HK:W1A-020#74:1>
+Again the speaker is flouting the maxim of quality .
+
+<ICE-HK:W1A-020#75:1>
+In addition , ironic statements , <-> sacarstic </-> <+> sarcastic
+</+> statements are also a violation of the Gricean principle .
+
+<ICE-HK:W1A-020#76:1>
+Sometimes when we want to express our hatred towards somebody , we
+might also flout the maxim of relation .
+
+<ICE-HK:W1A-020#77:1>
+As a whole , we can see that strict abeyance to the maxims are not
+often required .
+
+<ICE-HK:W1A-020#78:1>
+It is not unusual to violate them in order to achieve special
+communicative purpose . </p> <h>
+
+<ICE-HK:W1A-020#79:1>
+2 </h>
+<p> 
+<ICE-HK:W1A-020#80:1>
+In discourse comprehension , unlike sentence comprehension ,
+&lsquo; inference &rsquo; always plays an important role in it .
+
+<ICE-HK:W1A-020#81:1>
+Although we start comprehension as soon as it is possible , not until
+any syntactic boundaries , this does not mean that we can only achieve
+comprehension in a word by word order. Indeed as soon as we start
+comprehension , we also assumes making inference all along .
+
+<ICE-HK:W1A-020#82:1>
+For instance , when we meet a verb , say &lsquo; <mention> laugh
+</mention> &rsquo; in a sentence within a discourse , we will start making
+inference about what may come after that .
+
+<ICE-HK:W1A-020#83:1>
+We might infer that what follows must be something happy , or even
+funny , etc .
+
+<ICE-HK:W1A-020#84:1>
+Not only does a word allow us to make inference , so is the case with
+some large units such as a phrase , a clause , or even a whole sentence .
+
+<ICE-HK:W1A-020#85:1>
+As we go along , inference might help us to predict what will be
+coming in the discourse . </p>
+<p> 
+<ICE-HK:W1A-020#86:1>
+It is important to note that inference can be of either syntactic
+or semantic nature .
+
+<ICE-HK:W1A-020#87:1>
+Syntactically speaking , the nature of say , a verb , will allow us
+to draw inference about what will be coming in that single sentence .
+
+<ICE-HK:W1A-020#88:1>
+For instance , whether the verb is a transitive , intransitive or a
+ditransitive one will help us infer what comes next .
+
+<ICE-HK:W1A-020#89:1>
+If we see the verb &lsquo; <mention> give </mention> &rsquo; , we
+will know that what comes after could not be a noun alone .
+
+<ICE-HK:W1A-020#90:1>
+There must be the so-called &lsquo; theme &rsquo; and &lsquo;
+recipient &rsquo; , such as<mention> John gives Mary the apple </mention> .
+
+<ICE-HK:W1A-020#91:1>
+In addition , those connectives also allow us to draw inference .
+
+<ICE-HK:W1A-020#92:1>
+Examples include<mention> because since , nevertheless , but ,
+therefore , so </mention> , etc .
+
+<ICE-HK:W1A-020#93:1>
+These words allow us to infer the causal relationship between
+sentences , and thus partly help us to predict what comes next .
+
+<ICE-HK:W1A-020#94:1>
+Seeing words such as &lsquo; <mention> in conclusion </mention>
+&rsquo; , &lsquo; <mention> as a whole </mention> &rsquo; , &lsquo; <mention>
+in short </mention> &rsquo; , etc , allow us to infer that we are coming to
+the end of the discourse . </p>
+<p> 
+<ICE-HK:W1A-020#95:1>
+Semantically speaking , the content of the sentence that ones
+before allows us to make inference about that of the following .
+
+<ICE-HK:W1A-020#96:1>
+For instance , the topic sentence of each paragraph often allows us
+to infer the content of the whole paragraph before finishing it . </p>
+<p> 
+<ICE-HK:W1A-020#97:1>
+To view the whole issue from another angle , we might take the
+discourse as some kind of conversation .
+
+<ICE-HK:W1A-020#98:1>
+In conversation we are constantly inferring what the other will say
+from what he says at this moment .
+
+<ICE-HK:W1A-020#99:1>
+We will also infer the intended meaning of the speaker .
+
+<ICE-HK:W1A-020#100:1>
+In this sense inferences can both facilitate and inhibit
+comprehension .
+
+<ICE-HK:W1A-020#101:1>
+This depends on whether we are making the correct inference or not .
+</p>
+<p> 
+<ICE-HK:W1A-020#102:1>
+Of course it is also important to take into consideration the
+pragmatic aspect of inferences .
+
+<ICE-HK:W1A-020#103:1>
+Quit often we are making inference largely based on our pragmatic
+knowledge , i.e. our knowledge of the world . </p>
+<p> 
+<ICE-HK:W1A-020#104:1>
+As a whole , &lsquo; inference &rsquo; can both have a positive
+and negative effect in discourse comprehension .
+
+<ICE-HK:W1A-020#105:1>
+In a good way it can facilitate comprehension .
+
+<ICE-HK:W1A-020#106:1>
+On the other hand , when unnecessary or incorrect inference is made
+, comprehension might then be slowed down .
+
+<ICE-HK:W1A-020#107:1>
+However , making inference is virtually an inevitable process in
+discourse comprehension . </p> <h>
+
+<ICE-HK:W1A-020#108:1>
+4 </h>
+<p> 
+<ICE-HK:W1A-020#109:1>
+Speech production involves a number of different stages .
+
+<ICE-HK:W1A-020#110:1>
+The output of each stage becomes the input of the following one .
+
+<ICE-HK:W1A-020#111:1>
+However , it is important to stress in here that up till now there
+is still insufficient evidence to prove that the different stages only <->
+procede </-> <+> proceed </+> linearly and serially .
+
+<ICE-HK:W1A-020#112:1>
+There is no reason why we should not think that among these
+processes some of them might indeed proceed in a parallel fashion . </p>
+<p> 
+<ICE-HK:W1A-020#113:1>
+The first stage of speech production is the conceptualizer .
+
+<ICE-HK:W1A-020#114:1>
+In this stage messages are generated and the concepts are in turn
+put into preverbal message .
+
+<ICE-HK:W1A-020#115:1>
+Then the preverbal message becomes the input of the formulator stage .
+
+<ICE-HK:W1A-020#116:1>
+The message undergoes the process of grammatical encoding and in
+completion is then subject to phonological encoding .
+
+<ICE-HK:W1A-020#117:1>
+It is in this stage that information is drawn from the lexicon .
+
+<ICE-HK:W1A-020#118:1>
+In this stage speech errors might occur frequently .
+
+<ICE-HK:W1A-020#119:1>
+These include word exchange , substitution , blending , etc .
+
+<ICE-HK:W1A-020#120:1>
+Blending are mainly of two kinds , they are conceptual intrusion and
+<del> semantic </del> association intrusion .
+
+<ICE-HK:W1A-020#121:1>
+Conceptual intrusion refers to the phenomenon that when the lemma
+&obrack; l1 &cbrack; of a concept &obrack; C1 &cbrack; is activated , another
+lemma &obrack; l2 &cbrack; of another concept &obrack; C2 &cbrack; props up
+and intrude upon C1 , thus error may occur .
+
+<ICE-HK:W1A-020#122:1>
+Another case is in which two <del> lemmas </del> concepts are indeed
+related to each other , and thus l2 intrude upon l1 .
+
+<ICE-HK:W1A-020#123:1>
+The other type of intrusion only involves one concept &obrack; C1
+&cbrack; .
+
+<ICE-HK:W1A-020#124:1>
+The lemma &obrack; l1 &cbrack; of C1 activates another associated
+lemma &obrack; l2 &cbrack; .
+
+<ICE-HK:W1A-020#125:1>
+This is often called word associations .
+
+<ICE-HK:W1A-020#126:1>
+The other case is that l2 is virtually not <del> relatedly </del>
+related to l1 , but is activated simultaneously with l1 , and thus intrude
+upon the correct choice .
+
+<ICE-HK:W1A-020#127:1>
+Examples of such errors include: We are having a <mention> lection
+</mention> &obrack; <mention> lecture </mention> , <mention> lesson
+</mention> &cbrack; the <del> <.> flo </.> </del> holes are full of floor
+&obrack; <mention> floor </mention> , <mention> holes </mention> &cbrack;
+Errors also occur in the stage of articulator .
+
+<ICE-HK:W1A-020#128:1>
+Thus the syllable are often <-> swaped </-> <+> swapped </+> or
+added or ellipted in speech errors .
+
+<ICE-HK:W1A-020#129:1>
+For instance , <del> She &obrack; Shell &cbrack; </del> She &obrack;
+shells &cbrack; sea shells on the sea shore. In short , speech errors might
+occur at different stage .
+
+<ICE-HK:W1A-020#130:1>
+And they are corrected often immediately . </p> </I>

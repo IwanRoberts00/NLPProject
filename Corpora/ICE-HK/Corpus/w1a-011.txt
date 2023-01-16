@@ -1,0 +1,669 @@
+<I> <h>
+
+<ICE-HK:W1A-011#1:1>
+&obrack; 1b &cbrack; &lsquo; verb complexity &rsquo; hypothesis </h>
+<p> This is a hypothesis by Frazor that the reader has some linguistic
+knowledge that helps or gives hints to their comprehension process .
+
+<ICE-HK:W1A-011#2:1>
+This knowledge concerns with the information provided by the verb .
+
+<ICE-HK:W1A-011#3:1>
+When perceptlng a sentence owing to the limited capacity of one
+&lsquo; s Short Term Memory , one has to begin to process the incoming
+message as soon as <del> <.> po </.> </del> possible .
+
+<ICE-HK:W1A-011#4:1>
+This is called &lsquo; Piece-Meal &rsquo; .
+
+<ICE-HK:W1A-011#5:1>
+And when one encounters a verb , he wlll have some linguistic
+knowledge about this verb which is stored in his LTM retreived , and give him
+hint that what kind of element will follow this verb .
+
+<ICE-HK:W1A-011#6:1>
+Thus he will have some expectation <del> of </del> or prediction .
+
+<ICE-HK:W1A-011#7:1>
+For example , when he sees the message fragment : <mention> &rdquo;
+They know ... &ldquo; </mention> , his syntactic strategy will <-> fell </->
+<+> tell </+> him that the verb <mention> &lsquo; know </mention> can be
+followed by or complementizer <mention> &lsquo; that &rsquo; </mention>
+&ampersand; a clause , or a NP , etc .
+
+<ICE-HK:W1A-011#8:1>
+This can somehow leads his expectation .
+
+<ICE-HK:W1A-011#9:1>
+This kind of knowledge can to a limited extent helps to avoid a
+serious &lsquo; golden path &rsquo; because one can get hint from the verb
+and thus the prediction is more probable . </p>
+<p> 
+<ICE-HK:W1A-011#10:1>
+According to this hypothesis , some verbs are more complex than
+other .
+
+<ICE-HK:W1A-011#11:1>
+For example , <mention> <del> <?> give </?> </del> </mention>
+<mention> &lsquo; eat &rsquo; </mention> can either be followed by a NP
+&semi; or some modificational adverb , or just empty .
+
+<ICE-HK:W1A-011#12:1>
+But <mention> &lsquo; know &rsquo; </mention> can be followed by much
+more possibilities .
+
+<ICE-HK:W1A-011#13:1>
+Thus it takes more time to comprehend and process , because there are
+more possible prediction . </p>
+<p> 
+<ICE-HK:W1A-011#14:1>
+&obrack; lc &cbrack; &lsquo; locutionary meaning &rsquo; is the
+literal meaning of a sentence .
+
+<ICE-HK:W1A-011#15:1>
+The meaning is <del> the </del> derived from the exact words of the
+sentence .
+
+<ICE-HK:W1A-011#16:1>
+For example , for the sentence <mention> &lsquo; Do you know where
+the fan is ? &rsquo; </mention> the locutionary meaning is a question asking
+the addressee if he knows the location of the fan . </p>
+<p> 
+<ICE-HK:W1A-011#17:1>
+However , in actual daily utterance , there is some &lsquo;
+illocutionary <del> farce for </del> force &rsquo; besides the locutory
+meaning , &lsquo; illocutionary force &rsquo; is the intended <del> effect
+</del> message the speaker wants to convey to the listener and wants him to
+realize that message .
+
+<ICE-HK:W1A-011#18:1>
+This is not literal mentioned by the words , but is implied or
+embodied in the sentence .
+
+<ICE-HK:W1A-011#19:1>
+The &lsquo; illocutionary force &rsquo; needs the listener to infer
+and gather with relation to the context and utterance situation . </p>
+<p> 
+<ICE-HK:W1A-011#20:1>
+For example , if the above question is uttered by a wife to her
+husband in the hot sitting-room , it may be carrying the illocutionary force
+of &lsquo; request &rsquo; that it is a request for the husband to turn on
+the fan or take it out or so . </p>
+<p> 
+<ICE-HK:W1A-011#21:1>
+The &lsquo; locutionary meaning &rsquo; &ampersand; &lsquo;
+illocutionary force &rsquo; are both intended by the speakers <del> ie both
+are realized by the speaker a </del> ie both are controlled from the speakers .
+</p>
+<p> 
+<ICE-HK:W1A-011#22:1>
+&lsquo; Perlocutionary effect &rsquo; however , is not <.> <del>
+wha </del> </.> always what the speaker intended .
+
+<ICE-HK:W1A-011#23:1>
+It is the actual effect created by the utterance that the listener
+receives &ampersand; feels .
+
+<ICE-HK:W1A-011#24:1>
+It is not controlled by the speaker .
+
+<ICE-HK:W1A-011#25:1>
+For example , if the above question <mention> &lsquo; Do you know
+where the fan is ? &rsquo; </mention> is uttered somewhat loudly &ampersand;
+rudely , it may carry an perlocutionary effect on the husband that he will
+feel that it is a &lsquo; scolding &rsquo; rather than a request , even
+though the wife doesn't mean <del> that </del> to scold him . </p> <h>
+
+<ICE-HK:W1A-011#26:1>
+&obrack; ld &cbrack; The Maxims of <del> Gricean </del> Grice &lsquo;
+s Cooperative Principle </h>
+<p> 
+<ICE-HK:W1A-011#27:1>
+Quantity : to give enough , but not too much information that is
+needed . </p>
+<p> 
+<ICE-HK:W1A-011#28:1>
+Quality : to give information that the speaker believes to be
+true , that means , not telling lies . </p>
+<p> 
+<ICE-HK:W1A-011#29:1>
+Relevance : to give information that is relevant .
+
+<ICE-HK:W1A-011#30:1>
+Don't give irrelevant <unc> <del> 2-characters </del> </unc>
+information . </p>
+<p> 
+<ICE-HK:W1A-011#31:1>
+Manner : Be brief , don't give information in an unnecessary long
+way . </p>
+<p> 
+<ICE-HK:W1A-011#32:1>
+Be orderly , give information according to the reasonable order .
+
+<ICE-HK:W1A-011#33:1>
+<del> Be </del> Avoid ambiguity.
+
+<ICE-HK:W1A-011#34:1>
+Avoid absurdity . </p>
+<p> 
+<ICE-HK:W1A-011#35:1>
+The above Cooperative Principle assumes that people will
+cooperate as a speaker in conversation .
+
+<ICE-HK:W1A-011#36:1>
+The main aim of them is <del> <.> tho </.> </del> to <?> <del>
+communital </del> </?> communicate effectively .
+
+<ICE-HK:W1A-011#37:1>
+So they will follow the above maxims . </p>
+<p> 
+<ICE-HK:W1A-011#38:1>
+However , in actual conversation , <del> many </del> very often
+the above maxim will be flouted .
+
+<ICE-HK:W1A-011#39:1>
+But this flouting is deliberate and it <ul> does </ul> carry some
+communicative effect .
+
+<ICE-HK:W1A-011#40:1>
+The flouting of maxim can lead the listener to infer that there <del>
+is </del> are certain implicatures behind it . </p>
+<p> 
+<ICE-HK:W1A-011#41:1>
+For example , if a person says , &lsquo; <del> My father is <.> m
+</.> </del> My brother &lsquo; s father hit me last night , &rsquo; it is a
+flout of Maxim of Manner &dash;
+
+<ICE-HK:W1A-011#42:1>
+Be true .
+
+<ICE-HK:W1A-011#43:1>
+But in fact , it suggests that maybe the speaker &ampersand; <del>
+the </del> his brother have different father but same brother .
+
+<ICE-HK:W1A-011#44:1>
+Such kind of relationship can be implicated . </p>
+<p> 
+<ICE-HK:W1A-011#45:1>
+The Maxim of <del> Quantity </del> Quality can be flouted to
+achieve <del> <unc> one-word </unc> the </del> rhetorical effect ,
+such as the semantic derivation for <del> <.> meth </.> </del> metaphor :
+&lsquo; He is a snake" . </p>
+<p> 
+<ICE-HK:W1A-011#46:1>
+The Maxim of Quantity can be flouted to achieve understatement ,
+or hyperbole effect eg He is as big as a mountain . </p>
+<p> 
+<ICE-HK:W1A-011#47:1>
+The Maxim of Relevance can imply <del> <.> impl </.> </del>
+conversational implicature .
+
+<ICE-HK:W1A-011#48:1>
+For example:
+
+<ICE-HK:W1A-011#49:1>
+A : What are my chocolate?
+
+<ICE-HK:W1A-011#50:1>
+B : I felt hungry last night . </p>
+<p> 
+<ICE-HK:W1A-011#51:1>
+B &lsquo; s answer may seem irrelevant , flouting the Maxim of
+Relevance .
+
+<ICE-HK:W1A-011#52:1>
+However , in fact it is an implicature <-> infered </-> <+> inferred
+</+> that B has eaten A &lsquo; s chocolates . </p>
+<p> 
+<ICE-HK:W1A-011#53:1>
+<del> In brief , the deliberate violation &ampersand; flouting of
+Maxims can </del> </p>
+<p> 
+<ICE-HK:W1A-011#54:1>
+In brief , since <.> <del> sp </del> </.> listener will assumes
+speaker to follow the Gricean Principle in conversation , the deliberate
+violation or flouting of maxim can make the listener to infer the
+conversational implicature .
+
+<ICE-HK:W1A-011#55:1>
+It can also achieve certain rhetorical effect , eg. figure of speech .
+</p>
+
+<ICE-HK:W1A-011#56:1>
+&obrack; 1f &cbrack; The role of speech errors in psycholinguistics
+studies is very important .
+<p> 
+<ICE-HK:W1A-011#57:1>
+Speech errors can give hints to the linguists for hypothesis .
+
+<ICE-HK:W1A-011#58:1>
+Since speech errors is the actual performance &dash; the production
+product , it is the strongest evidence &ampersand; data the linguists can use
+to analyse the production process of people .
+
+<ICE-HK:W1A-011#59:1>
+Since production is a process mainly abstract and <del> in </del>
+mental , it is not easy to get to know what is in one &lsquo; s mind or brain
+, <del> and also </del> when one is producting the language .
+
+<ICE-HK:W1A-011#60:1>
+Also of the product is not <?> erroraneous </?> , it is no way for
+the analyse of their process .
+
+<ICE-HK:W1A-011#61:1>
+It is from the error that the linguists can trace the process . </p>
+<p> 
+<ICE-HK:W1A-011#62:1>
+For example , from the error : <mention> &lsquo; I cut <del> the
+a orange </del> some knifes with <del> an the </del> an orange &rsquo;
+</mention> which is the error of <mention> &lsquo; I cut <del> an the </del>
+some oranges with a knife &rsquo; </mention> .
+
+<ICE-HK:W1A-011#63:1>
+We can see an exchange of words &lsquo; oranges &rsquo; &ampersand;
+&lsquo; knife &rsquo; which happens in lexical access process .
+
+<ICE-HK:W1A-011#64:1>
+We can see that the article <mention> &lsquo; an &lsquo; </mention>
+&ampersand; <del> an </del> <mention> &lsquo; the &rsquo; </mention> follows
+the stranded word. </p>
+<p> 
+<ICE-HK:W1A-011#65:1>
+From this we can get to know that in production , lexical item
+will be selected and fill into the syntactic slot before the grammatical
+rules applies to them .
+
+<ICE-HK:W1A-011#66:1>
+Thus the lexical item <mention> &lsquo; knife &rsquo; </mention> will
+become <mention> &lsquo; knives &rsquo; </mention> because it has to
+accommodate the contextual <-> enviroment </-> <+> environment </+> .
+
+<ICE-HK:W1A-011#67:1>
+The <mention> &lsquo; some &rsquo; </mention> makes it change to
+plural form . </p>
+<p> 
+<ICE-HK:W1A-011#68:1>
+From the example , we can see that speech error can help
+linguists to conjecture speech production model .
+
+<ICE-HK:W1A-011#69:1>
+Since errors are very common &ampersand; easy to find , it can
+provide enough evidence &ampersand; data for their generalization &ampersand;
+hypothesis about the mental activity of people in production. </p> <h>
+
+<ICE-HK:W1A-011#70:1>
+4 </h>
+<p> 
+<ICE-HK:W1A-011#71:1>
+This model by Levelt consists of several <unc> <del>
+one-character </del> </unc> components .
+
+<ICE-HK:W1A-011#72:1>
+Conceptualizer , Formulator , Articulator &ampersand;
+Speech-comprehension system .
+
+<ICE-HK:W1A-011#73:1>
+Each component is a specialist who need not consult other component
+in their process .
+
+<ICE-HK:W1A-011#74:1>
+They are autonomous , and they take the characteristic output of the
+<unc> <del> several-characters </del> </unc> other component as their
+own input .
+
+<ICE-HK:W1A-011#75:1>
+This is called &lsquo; informational encapsulation &rsquo; .
+
+<ICE-HK:W1A-011#76:1>
+Since the process is in incremental operation &dash; in parallel ,
+not serial , speech errors may occur in every level .
+
+<ICE-HK:W1A-011#77:1>
+Now let &lsquo; s look into each process in <del> <?> detailedly </?>
+</del> detail . </p>
+<p> 
+<ICE-HK:W1A-011#78:1>
+The <?> <.> <del> Conj </del> </.> </?> Conceptualize is divided
+into 2 group .
+
+<ICE-HK:W1A-011#79:1>
+The first is message generation .
+
+<ICE-HK:W1A-011#80:1>
+It plans the message .
+
+<ICE-HK:W1A-011#81:1>
+The Macroplanning conceives the communication intention , elaborate
+<del> it </del> the goal into subgoals &ampersand; select &ampersand; arrange
+instrumental information to realize these goals .
+
+<ICE-HK:W1A-011#82:1>
+The Microplanning assigns the proper shape of the information and the
+perspective of information .
+
+<ICE-HK:W1A-011#83:1>
+In a sense , it plans how to assign &lsquo; accessibility status
+&rsquo; the referentialist of referent , the topic , &ampersand; focus of
+information , the propositionalization &ampersand; other language-specific
+requirement , so that it can guide the addressee how to interpret the message
+more effectively . </p>
+<p> 
+<ICE-HK:W1A-011#84:1>
+Since this stage is message generation Stage , the most probable
+errors is mismatch <del> of </del> or mis-selection of situation .
+
+<ICE-HK:W1A-011#85:1>
+And also there may be errors in focus &ampersand; emphasis &dash;
+misselectlon of focus &ampersand; emphasis . </p>
+<p> 
+<ICE-HK:W1A-011#86:1>
+In this conceptualizer , there is another function : monitoring .
+
+<ICE-HK:W1A-011#87:1>
+As message is generated , the speaker will keep track of what is said
+before and self-monitor what should be generated .
+
+<ICE-HK:W1A-011#88:1>
+It will book-keep the discourse type , discourse topic , discourse
+focus , discourse model &obrack; content &ampersand; information &cbrack; ,
+etc. , and adjust what message should be generated .
+
+<ICE-HK:W1A-011#89:1>
+The misconceive of <unc> <del> 2-characters </del> </unc>
+intention &ampersand; message here <del> will </del> must lead to speech
+errors is caused by the failure in &lsquo; bookkeeping &rsquo; in monitoring .
+</p>
+<p> 
+<ICE-HK:W1A-011#90:1>
+The message generated &ampersand; arranged is preverbal message ,
+and will be stored in a Working Memory . </p>
+<p> 
+<ICE-HK:W1A-011#91:1>
+Then it comes to Formulator .
+
+<ICE-HK:W1A-011#92:1>
+Formulator is divided into two process .
+
+<ICE-HK:W1A-011#93:1>
+<del> Firstly </del> The Grammatical Encoder &ampersand; the
+Phonological Encoder .
+
+<ICE-HK:W1A-011#94:1>
+The message will <del> tra </del> trigger the suitable lexical items
+for the grammatical encoding .
+
+<ICE-HK:W1A-011#95:1>
+The lexical item is accessed from the mental lexicon , which <del> is
+</del> stores the semantic , syntactic , morphological &ampersand;
+phonological information of the lexical items .
+
+<ICE-HK:W1A-011#96:1>
+The semantic &dash; the meaning , &ampersand; the syntactic
+information <del> is </del> of the lexical item is called the &lsquo; lemma
+&rsquo; &ampersand; the information it provides will <del> help </del> give
+grammatical info. for the grammatical encoding .
+
+<ICE-HK:W1A-011#97:1>
+The lemma will point to the forms of the lexical items the
+morphological &ampersand; phonological information which is the information
+for the phonological encoding . </p>
+<p> 
+<ICE-HK:W1A-011#98:1>
+The message will trigger lexical item which is appropriate in
+meaning &ampersand; syntax &dash; Lexical Access &dash;
+
+<ICE-HK:W1A-011#99:1>
+This Access Process is in <-> parellel </-> <+> parallel </+> , not
+serial , <del> thus </del> and <del> the <unc> 1-character </unc>
+</del> there is also a principle of &lsquo; convergence &rsquo; &dash;
+
+<ICE-HK:W1A-011#100:1>
+each position can only choose one best item .
+
+<ICE-HK:W1A-011#101:1>
+Thus some errors may occur in this process . </p>
+<p> 
+<ICE-HK:W1A-011#102:1>
+Failure of lexical Access will result in errors such as
+blending:
+
+<ICE-HK:W1A-011#103:1>
+&lsquo; I have <del> <unc> 1-character </unc> </del> a clear
+place &rsquo; </p>
+<p> 
+<ICE-HK:W1A-011#104:1>
+<mention> &lsquo; Clear &rsquo; </mention> blended from
+<mention> &lsquo; clean &rsquo; </mention> &ampersand; <del> <.> cle </.>
+</del> <mention> &lsquo; near &rsquo; </mention> .
+
+<ICE-HK:W1A-011#105:1>
+Since the 2 words is semantically related there is a <?> <del> con
+</del> </?> conceptual intrusion .
+
+<ICE-HK:W1A-011#106:1>
+The two words compete for one single syntactic slot &ampersand; thus
+is blended .
+
+<ICE-HK:W1A-011#107:1>
+Exchange of word also happens here :
+
+<ICE-HK:W1A-011#108:1>
+&lsquo; I have cut the tree in the rain'
+
+<ICE-HK:W1A-011#109:1>
+&lsquo; I have cut the rain in the tree &rsquo; </p>
+<p> 
+<ICE-HK:W1A-011#110:1>
+Since the two words is associated , it is associative intrusion .
+
+<ICE-HK:W1A-011#111:1>
+The two message fragment of <mention> &lsquo; tree &rsquo;
+</mention> &ampersand; <mention> &lsquo; rain &rsquo; </mention> active at
+the same time &ampersand; exchange happens here.
+
+<ICE-HK:W1A-011#112:1>
+Also , wrong choice of word , substitution of words may occur here .
+</p>
+<p> 
+<ICE-HK:W1A-011#113:1>
+The output of Grammatical Encoding is surface structure which is
+stored in syntactic Buffer .
+
+<ICE-HK:W1A-011#114:1>
+The morphological &ampersand; phonological info. Become the source
+of Phonological Encoder , which builds <?> &ampersand; </?> retrieve <.>
+<del> phono </del> </.> phonetic plans for the lexical items &ampersand; the
+utterance as a whole .
+
+<ICE-HK:W1A-011#115:1>
+It spells out the stored-form representation &ampersand; projections
+on pronouncable syllable on these items .
+
+<ICE-HK:W1A-011#116:1>
+The failure of identify a stored form of the item may result in Tip
+of the Tongue &dash; TOT . </p>
+<p> 
+<ICE-HK:W1A-011#117:1>
+The Phonological Encoder is composed of four <.> <del> pro
+</del> </.> sub-processor : the morphological The morphological/metrical
+spellout , the Segmental Spellout , the Phonetic Spellout &ampersand; the
+Prosody Generator . </p>
+<p> 
+<ICE-HK:W1A-011#118:1>
+The morphological/metrical spellout uses the lemma to <unc>
+<del> 4-characters </del> </unc> access the morphological/metrical <del>
+<?> <.> pro </.> </?> </del> component .
+
+<ICE-HK:W1A-011#119:1>
+It has a frame with slots to be filled .
+
+<ICE-HK:W1A-011#120:1>
+One slot is the lemma , others is filled with the feature such as
+tense , person , no. etc .
+
+<ICE-HK:W1A-011#121:1>
+When all slots are filled , it will spell out the information : <O>
+diagram </O> </p>
+<p> 
+<ICE-HK:W1A-011#122:1>
+The lexical will be <-> seperated </-> <+> separated </+> in
+morpheme , &ampersand; also the metrical peak will be assigned . </p>
+<p> 
+<ICE-HK:W1A-011#123:1>
+In this stage , errors comes from the misselection of filler for
+the slot &dash; misselection of tense , no . or person filler .
+
+<ICE-HK:W1A-011#124:1>
+For example:
+
+<ICE-HK:W1A-011#125:1>
+&lsquo; If I <ul> had known </ul> it , I would have do it &rsquo;
+
+<ICE-HK:W1A-011#126:1>
+&lsquo; If I <ul> knew </ul> it , I would have do it &rsquo;
+
+<ICE-HK:W1A-011#127:1>
+The errors comes from the misput of filler &lsquo; past &rsquo;
+instead of &lsquo; past perfect &rsquo; in the &lsquo; tense &rsquo; slot .
+</p>
+<p> 
+<ICE-HK:W1A-011#128:1>
+The output of this stage will come to the Segmental Spellout ,
+which divides the morphemes into syllables &ampersand; segments .
+
+<ICE-HK:W1A-011#129:1>
+The same <?> kind </?> of frame &ampersand; slot is to be filled :
+<O> diagram </O> </p>
+<p> 
+<ICE-HK:W1A-011#130:1>
+The Segmental Spellout spellouts the word into syllables
+&ampersand; then divide it into &lsquo; onset &rsquo; &lsquo; nucleus &rsquo;
+&ampersand; &lsquo; code &rsquo; .
+
+<ICE-HK:W1A-011#131:1>
+The cluster need further &lsquo; cluster spellout procedure &rsquo; .
+</p>
+<p> 
+<ICE-HK:W1A-011#132:1>
+Error in this stage result from misselection of filler in the
+slot &dash; misselection of affix info , for example:
+
+<ICE-HK:W1A-011#133:1>
+&lsquo; I put the steaks into the freezer'
+
+<ICE-HK:W1A-011#134:1>
+&lsquo; I put the freezes into the steaker'
+
+<ICE-HK:W1A-011#135:1>
+There is a wrong choice of morpheme in the two error words . </p>
+<p> 
+<ICE-HK:W1A-011#136:1>
+Also , misselected <del> stress </del> metrical info. Will
+result in &lsquo; SegmEnted &rsquo; <&>
+stress-on-2nd-syllable-indicated-by-upper-case-1st-E </&> &arrow; &lsquo;
+sEgmented &rsquo; <&> stress-on-1st-syllable-indicated-by-upper-case-1st-E
+</&> </p>
+
+<ICE-HK:W1A-011#137:1>
+&star; To be continued.
+<p> 
+<ICE-HK:W1A-011#138:1>
+The segmental spellout output will go to the <del> phonologi
+</del> phonetic spellout in which the segments are specified with phones .
+</p>
+<p> 
+<ICE-HK:W1A-011#139:1>
+The phones are in fact not fixed , &ampersand; <del> will </del>
+varies according to context &ampersand; free parameter such as duration .
+</p>
+<p> 
+<ICE-HK:W1A-011#140:1>
+The frame is also here to be filled : <O> diagram </O> </p>
+<p> 
+<ICE-HK:W1A-011#141:1>
+The error in this stage result from inappropriate fillers filled
+into the slot .
+
+<ICE-HK:W1A-011#142:1>
+For example:
+
+<ICE-HK:W1A-011#143:1>
+Exchange:
+
+<ICE-HK:W1A-011#144:1>
+I <del> have </del> go to the left house
+
+<ICE-HK:W1A-011#145:1>
+&arrow;I go to the heft louse . </p>
+<p> 
+<ICE-HK:W1A-011#146:1>
+In the first error , <mention> / h/ </mention> is activated
+faster and fill in the slot wrongly , and <mention> / h/ </mention> is thus
+checked off &ampersand; thus remain <mention> / l/ </mention> unused , so it
+is used later in &lsquo; louse &rsquo; . </p>
+<p> 
+<ICE-HK:W1A-011#147:1>
+This kind of misfill of filler makes a lot of speech errors ,
+such as <del> substitution of </del> Anticipation of Phoneme:
+
+<ICE-HK:W1A-011#148:1>
+I have a good foot
+
+<ICE-HK:W1A-011#149:1>
+&arrow; I have a food foot . </p>
+<p> 
+<ICE-HK:W1A-011#150:1>
+Presentation :
+
+<ICE-HK:W1A-011#151:1>
+I have a photo tool &arrow;
+
+<ICE-HK:W1A-011#152:1>
+I <del> am </del> have a photo fool omission , &obrack; haplology
+&cbrack; , addition &ampersand; shift of phoneme , etc . </p>
+<p> 
+<ICE-HK:W1A-011#153:1>
+All the phonetic plans from the Phonological encoder <del> will
+go to </del> is internal speech stored in Articulatory Buffer .
+
+<ICE-HK:W1A-011#154:1>
+And the Articular will <del> excesstive </del> execute the muscle
+and organs to <-> pronoun </-> <+> <?> pronounce </?> </+> the word .
+
+<ICE-HK:W1A-011#155:1>
+In the articulation , the <del> prop prop </del> potential error is
+&lsquo; tongue twister &rsquo; which is <del> <unc> 2-characters
+</unc> </del> resulted from inapproprite articulation of the organs .
+</p>
+<p> 
+<ICE-HK:W1A-011#156:1>
+In fact , during the whole process , there is a self-monitoring
+process from the speech-comprehension system .
+
+<ICE-HK:W1A-011#157:1>
+This system will <del> <?> correct </?> </del> listen both the overt
+speech &ampersand; the internal speech &ampersand; make <?> correct </?> as
+soon as problem is detected . </p>
+<p> 
+<ICE-HK:W1A-011#158:1>
+The <del> <?> correction </?> </del> correction is not <del>
+also </del> always , but is <del> <unc> 1-word </unc> </del>
+selective , &ampersand; <-> flunctute </-> <+> fluctuates </+> &ampersand;
+also correct occurs mostly in the end of a phrase .
+
+<ICE-HK:W1A-011#159:1>
+If a word is correct , it is usually preserve , but if the word
+itself is wrong , it will break off at once .
+
+<ICE-HK:W1A-011#160:1>
+This is known as &lsquo; Main <del> <.> Int </.> </del> Interruption
+Rule &rsquo; .
+
+<ICE-HK:W1A-011#161:1>
+The correction will interrupt the speech at once , and this result
+in <mention> &lsquo; I want to have <ul> - er- </ul> go home &rsquo;
+</mention> </p>
+<p> 
+<ICE-HK:W1A-011#162:1>
+The correction usually will preserve the syntactic
+wellformedness &ampersand; original syntax of the utterance . </p> </I>

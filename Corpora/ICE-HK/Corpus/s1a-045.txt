@@ -1,0 +1,2781 @@
+<I>
+
+<$A> 
+<ICE-HK:S1A-045#1:1:A>
+Do you like to have some cake
+
+<$B> 
+<ICE-HK:S1A-045#2:1:B>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X3:1:Z>
+Oh I  ' m too full
+
+<ICE-HK:S1A-045#X4:1:Z>
+<{> <[> <unc> three-words </unc> </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#5:1:A>
+<[> Uhm how about you </[> </{>
+
+<$B> 
+<ICE-HK:S1A-045#6:1:B>
+So do I <&> laughs </&>
+
+<$A> 
+<ICE-HK:S1A-045#7:1:A>
+But I <{> <[> want to have one </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X8:1:Z>
+<[> <unc> several-words </unc> </[> </{> </X>
+
+<$B> 
+<ICE-HK:S1A-045#9:1:B>
+No no
+
+<ICE-HK:S1A-045#10:1:B>
+I prefer you not to eat <&> all-laugh </&>
+
+<$A> 
+<ICE-HK:S1A-045#11:1:A>
+Oh <&> continues-laughing </&> <{> <[> but </[> I am hungry
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X12:1:Z>
+<[> Diet </[> </{>
+
+<ICE-HK:S1A-045#X13:1:Z>
+Diet </X>
+
+<$B> 
+<ICE-HK:S1A-045#14:1:B>
+Yes on diet <&> laughs </&>
+
+<$A> 
+<ICE-HK:S1A-045#15:1:A>
+I am already on diet because this afternoon I  ' ve <,> I eat
+nothing
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X16:1:Z>
+Oh </X>
+
+<$B> 
+<ICE-HK:S1A-045#17:1:B>
+Oh but I think you  ' ll fail <&> laughs </&>
+
+<ICE-HK:S1A-045#18:1:B>
+If you <,> try to <{> <[> eat </[> cake because it has uh very high
+calories
+
+<$A> 
+<ICE-HK:S1A-045#19:1:A>
+<[> Yeah </[> </{>
+
+<ICE-HK:S1A-045#20:1:A>
+Yeah <,> so I just <,> give in
+
+<$B> 
+<ICE-HK:S1A-045#21:1:B>
+Okay
+
+<$A> 
+<ICE-HK:S1A-045#22:1:A>
+Okay what are you going to do <?> <.> mon </.> </?> for Easter
+holiday
+
+<$B> 
+<ICE-HK:S1A-045#23:1:B>
+Easter holiday <,>
+
+<ICE-HK:S1A-045#24:1:B>
+<{> <[> Uhm </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X25:1:Z>
+<[> To take a sleep </[> </{> </X>
+
+<$B> 
+<ICE-HK:S1A-045#26:1:B>
+No <,> I will try my best to <,> prepare my exam
+
+<$A> 
+<ICE-HK:S1A-045#27:1:A>
+Uhm
+
+<$B> 
+<ICE-HK:S1A-045#28:1:B>
+Uhm <,> I have I have I have <,>
+
+<ICE-HK:S1A-045#29:1:B>
+I think I have a very good <.> pan </.> plan for <,> my
+examinations
+
+<ICE-HK:S1A-045#30:1:B>
+Uh <,> I have already taken eight courses I want to finish <,> had
+the first round revision <,> uh at the end of April
+
+<$A> 
+<ICE-HK:S1A-045#31:1:A>
+Uhm
+
+<$B> 
+<ICE-HK:S1A-045#32:1:B>
+Uh <,> up to now I  ' ve finished four courses
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X33:1:Z>
+<{> <[> Uh uhm </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#34:1:A>
+<[> Wah </[> </{>
+
+<$B> 
+<ICE-HK:S1A-045#35:1:B>
+Yeah
+
+<ICE-HK:S1A-045#36:1:B>
+That  ' s very good
+
+<ICE-HK:S1A-045#37:1:B>
+But uh <,> sometime it  ' s very easy to out of my schedule because
+<,> uhm <,> some <{> <[> <,> </[> some temptation <&> laughs </&>
+
+<$A> 
+<ICE-HK:S1A-045#38:1:A>
+<[> Uhm </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X39:1:Z>
+What kind of temptation </X>
+
+<$A> 
+<ICE-HK:S1A-045#40:1:A>
+Too serious <&> laughs </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X41:1:Z>
+Temptation </X>
+
+<$B> 
+<ICE-HK:S1A-045#42:1:B>
+For example uh for example uhm <,,> <O> two-Cantonese-words
+</O> uh maybe <&> laughs </&> maybe uh it  ' s too uhm <,> uh <,> uh it  ' s
+difficult to concentrate uh on a <.> cer </.> on a certain <,> uh thing
+
+<ICE-HK:S1A-045#43:1:B>
+For example uh if I mean <,> if I just concentrate on my uh study
+<,> uh <,> I will <{1> <[1> <,> </[1> it will loaner lower my efficiency
+
+<ICE-HK:S1A-045#44:1:B>
+So uh <,> some I think some temptation maybe uh <,> I I want to <.>
+tal </.> always like to talk with somebodies <,> or <{2> <[2> <,> </[2> or
+somebody uh phone me and hey go go go to <{3> <[3> go to </[3>
+
+<$A> 
+<ICE-HK:S1A-045#45:1:A>
+<[1> Uh </[1> </{1>
+
+<ICE-HK:S1A-045#46:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#47:1:A>
+<[3> Go for </[3> </{3> a movie
+
+<$B> 
+<ICE-HK:S1A-045#48:1:B>
+Go to movie go to shopping
+
+<ICE-HK:S1A-045#49:1:B>
+Uh <,> something like that <,>
+
+<ICE-HK:S1A-045#50:1:B>
+Yeah <,> uh maybe I  ' m <,,> because in study room man many brother
+sisters  ' re here
+
+<$A> 
+<ICE-HK:S1A-045#51:1:A>
+Yeah
+
+<$B> 
+<ICE-HK:S1A-045#52:1:B>
+Uh somebody will come to disturb me <&>
+
+$B-and-$Z-laugh </&> say something <,> uh very <{> <[> <,> </[> very long
+
+<$A> <[> Uhm </[> </{>
+
+<ICE-HK:S1A-045#53:1:A>
+Meaningless <&> all-laugh </&>
+
+<$B> 
+<ICE-HK:S1A-045#54:1:B>
+Yes
+
+<ICE-HK:S1A-045#55:1:B>
+How about you
+
+<$A> 
+<ICE-HK:S1A-045#56:1:A>
+Then will <,> will it be better if you stay here to study
+
+<ICE-HK:S1A-045#57:1:A>
+Because there are no one to disturb you
+
+<$B> 
+<ICE-HK:S1A-045#58:1:B>
+I don't think so <,>
+
+<ICE-HK:S1A-045#59:1:B>
+Because I  ' m <,> I  ' ve <,> I can't I  ' m <{> <[> <,> I  ' m I  ' m </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X60:1:Z>
+<[> Can't stay </[> </{> in the house <{> <[> <,> </[> the whole
+day </X>
+
+<$B> 
+<ICE-HK:S1A-045#61:1:B>
+<[> Yes </[> </{> I will feel very lonely
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X62:1:Z>
+Uhm </X>
+
+<$B> 
+<ICE-HK:S1A-045#63:1:B>
+I can't <,> uh <,,> I can't stand <,> or if <,> no one talk
+with me the whole day
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X64:1:Z>
+So these five days every day you will go back to <,> study <{> <[>
+room </[> to study </X>
+
+<$B> 
+<ICE-HK:S1A-045#65:1:B>
+<[> Yes </[> </{>
+
+<ICE-HK:S1A-045#66:1:B>
+Yes although I  ' m very ill <,>
+
+<ICE-HK:S1A-045#67:1:B>
+I I I <,> I also insist uh <,> to go back to study room because
+there  ' re many people here <,>
+
+<ICE-HK:S1A-045#68:1:B>
+Uhm I think <,> it  ' s it  ' s maybe this uh problem of security
+something like that
+
+<$A> 
+<ICE-HK:S1A-045#69:1:A>
+<{> <[> Uhm </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X70:1:Z>
+<[> Yeah </[> </{> </X>
+
+<$B> 
+<ICE-HK:S1A-045#71:1:B>
+Uh also uhm <,,> uh their uh there  ' s now some construction
+work <{1> <[1> outside </[1>
+
+<ICE-HK:S1A-045#72:1:B>
+<{2> <[2> It  ' s </[2> very noisy in the morning
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X73:1:Z>
+<[1> Yeah oh </[1> </{1> </X>
+
+<$A> 
+<ICE-HK:S1A-045#74:1:A>
+<[2> Yeah </[2> </{2>
+
+<ICE-HK:S1A-045#75:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X76:1:Z>
+Uhm </X>
+
+<$B> 
+<ICE-HK:S1A-045#77:1:B>
+Yes so <,> so I think it  ' s not <,> good
+
+<ICE-HK:S1A-045#78:1:B>
+And also <,> it  ' ll <{1> <[1> <,> </[1> the atmosphere here <,> is
+<,> is very loose uh and sometime when I <{2> <[2> <,> </[2> look <,> look at
+my bed I want to sleep <&> all-laugh </&>
+
+<$A> 
+<ICE-HK:S1A-045#79:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#80:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#81:1:A>
+<indig> Aiya </indig>
+
+<ICE-HK:S1A-045#82:1:A>
+Too lazy
+
+<$B> 
+<ICE-HK:S1A-045#83:1:B>
+Yes uh so <,> uh I prefer to have study <,> in <,> uh HKU
+
+<$A> 
+<ICE-HK:S1A-045#84:1:A>
+But don't you think it will be very tiring if you stay in the
+study <{> <[> room </[> all day
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X85:1:Z>
+<[> Uhm </[> </{> </X>
+
+<$B> 
+<ICE-HK:S1A-045#86:1:B>
+But I think there  ' re many varieties there that I can uh go
+outside to talk with somebody
+
+<ICE-HK:S1A-045#87:1:B>
+I can <,> uh go upstair to have tea <,> or go down to <,> do
+something <,> I like to do exercise <{> <[> <&> laughs </&> or </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X88:1:Z>
+<[> <unc> one-word </unc> and buy </[> </{> buy snacks at
+<{> <[> Park'n Shop </[> </X>
+
+<$B> 
+<ICE-HK:S1A-045#89:1:B>
+<[> Or yeah </[> </{> yeah yeah yeah <{> <[> to buy snacks
+</[>
+
+<$A> 
+<ICE-HK:S1A-045#90:1:A>
+<[> Oh <,> </[> </{> it  ' s very dangerous you know <&>
+all-laugh </&>
+
+<ICE-HK:S1A-045#91:1:A>
+I won't go to study room
+
+<$B> 
+<ICE-HK:S1A-045#92:1:B>
+Yeah maybe
+
+<ICE-HK:S1A-045#93:1:B>
+There  ' s uh also the TV room reading room I can do anything I want
+<,>
+
+<ICE-HK:S1A-045#94:1:B>
+So <,> uh maybe the <,> area is much uhm large <{1> <[1> and </[1>
+also make me more comfort in <,> a open area <{2> <[2> uhm </[2>
+
+<$A> 
+<ICE-HK:S1A-045#95:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#96:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#97:1:A>
+Then do you think other brother and <{> <[> sister </[> will uh
+return to study room to study during the Easter holiday
+
+<$B> 
+<ICE-HK:S1A-045#98:1:B>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-045#99:1:B>
+Uhm <,> maybe maybe <.> somebo </.> somebody will <{> <[> come </[>
+
+<$A> 
+<ICE-HK:S1A-045#100:1:A>
+<[> Who </[> </{> who will come <&> laughs </&>
+
+<$B> 
+<ICE-HK:S1A-045#101:1:B>
+I don't know but <,> uh
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X102:1:Z>
+<{> <[> Uhm </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#103:1:A>
+<[> Your </[> </{> your guest
+
+<$B> 
+<ICE-HK:S1A-045#104:1:B>
+Guest uh <,,>
+
+<ICE-HK:S1A-045#105:1:B>
+Uhm <,,> guest <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-045#106:1:B>
+Sue <,> or <.> s </.> uhm somebody here in mini <,> mini halls
+
+<ICE-HK:S1A-045#107:1:B>
+Most of <,> brothers sisters in minihall will <{2> <[2> come </[2>
+
+<$A> 
+<ICE-HK:S1A-045#108:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#109:1:A>
+<[2> One </[2> </{2> star
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X110:1:Z>
+One star </X>
+
+<$B> 
+<ICE-HK:S1A-045#111:1:B>
+One star
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X112:1:Z>
+I think he has to <{> <[> <,> type his project </[> </X>
+
+<$B> 
+<ICE-HK:S1A-045#113:1:B>
+<[> Uhm yeah yeah </[> </{> because uh <{> <[> he was very
+busy </[>
+
+<$A> 
+<ICE-HK:S1A-045#114:1:A>
+<[> Uh busy </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X115:1:Z>
+<[> He was busy </[> </{> the whole day </X>
+
+<$A> 
+<ICE-HK:S1A-045#116:1:A>
+Uhm
+
+<$B> 
+<ICE-HK:S1A-045#117:1:B>
+Uh to his project <,>
+
+<ICE-HK:S1A-045#118:1:B>
+Yeah <,> uhm I think Florence or <{> <[> <,> yeah </[> Iris would
+come
+
+<$A> 
+<ICE-HK:S1A-045#119:1:A>
+<[> Oh yeah </[> </{>
+
+<ICE-HK:S1A-045#120:1:A>
+Yeah
+
+<$B> 
+<ICE-HK:S1A-045#121:1:B>
+But <,> but uh the Easter holiday uhm <,> overlap with the
+<unc> one-word </unc> sun <,> well <,> <{1> <[1> sat </[1>
+
+<ICE-HK:S1A-045#122:1:B>
+Saturday and <{2> <[2> Sunday </[2>
+
+<ICE-HK:S1A-045#123:1:B>
+So uh most of them uh <{3> <[3> it had to </[3> go to church <,>
+so <,> I don't think so <&>
+
+$Z-laughs </&>
+
+<ICE-HK:S1A-045#124:1:B>
+<{4> <[4> I don't know </[4>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X125:1:Z>
+<[1> Saturday </[1> </{1> </X>
+
+<$A> <[2> Sunday </[2> </{2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X126:1:Z>
+<[3> <unc> three-words </unc> </[3> </{3> </X>
+
+<$A> 
+<ICE-HK:S1A-045#127:1:A>
+<[4> Then do you </[4> </{4> need to go to <{1> <[1> <,>
+</[1> uh <,> the <{2> <[2> graveyard </[2> for Ching Ming Festival
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X128:1:Z>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X129:1:Z>
+<[2> Uhm </[2> </{2> </X>
+
+<$B> 
+<ICE-HK:S1A-045#130:1:B>
+Grave on
+
+<ICE-HK:S1A-045#131:1:B>
+Oh yeah I understand
+
+<ICE-HK:S1A-045#132:1:B>
+Yes <,> I think uh <,> some <{> <[> <,> </[> because I have three
+<,> places have to
+
+<$A> 
+<ICE-HK:S1A-045#133:1:A>
+<[> Uhm </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X134:1:Z>
+Have <{> <[> to go to three </[> places uh </X>
+
+<$B> 
+<ICE-HK:S1A-045#135:1:B>
+<[> There are so much </[> </{>
+
+<ICE-HK:S1A-045#136:1:B>
+Yeah yeah yeah
+
+<ICE-HK:S1A-045#137:1:B>
+Yeah
+
+<ICE-HK:S1A-045#138:1:B>
+But I will some of some of them I will <,> cut <{> <[> <,> </[>
+and I think I will I only go <,,> on Tuesday
+
+<$A> 
+<ICE-HK:S1A-045#139:1:A>
+<[> Uhm </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X140:1:Z>
+<{1> <[1> Tuesday </[1> <{2> <[2> uhm </[2> </X>
+
+<$A> 
+<ICE-HK:S1A-045#141:1:A>
+<[1> Uhm </[1> </{1>
+
+<$B> 
+<ICE-HK:S1A-045#142:1:B>
+<[2> Yeah </[2> </{2> Tuesday I mean Tuesday
+
+<$A> 
+<ICE-HK:S1A-045#143:1:A>
+Uhm
+
+<ICE-HK:S1A-045#144:1:A>
+Tuesday
+
+<$B> 
+<ICE-HK:S1A-045#145:1:B>
+Tuesday <{> <[> is the is the Ching Ming </[> Festival
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X146:1:Z>
+<[> Ching Ming Festival is Tuesday </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-045#147:1:A>
+Not Monday
+
+<ICE-HK:S1A-045#148:1:A>
+I I always think that it is <&>
+
+$Z-laughs </&> Monday
+
+<ICE-HK:S1A-045#149:1:A>
+<{1> <[1> Aw because </[1> uh my family had <{2> <[2> planned
+</[2> to visit <,> on Monday
+
+<$B> 
+<ICE-HK:S1A-045#150:1:B>
+<[1> No no </[1> </{1>
+
+<ICE-HK:S1A-045#151:1:B>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#152:1:B>
+Oh yeah
+
+<ICE-HK:S1A-045#153:1:B>
+But I <,> Easter holiday is <,> too <,> too short
+
+<$A> 
+<ICE-HK:S1A-045#154:1:A>
+<{> <[> Yeah </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X155:1:Z>
+<[> Too short </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-045#156:1:A>
+Yeah <,>
+
+<ICE-HK:S1A-045#157:1:A>
+Almost invisible
+
+<$B> 
+<ICE-HK:S1A-045#158:1:B>
+Yeah I remember that <,> uh it quite a long holiday <,> when
+I  ' m secondary school
+
+<$A> 
+<ICE-HK:S1A-045#159:1:A>
+Yeah
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X160:1:Z>
+Uhm </X>
+
+<$B> 
+<ICE-HK:S1A-045#161:1:B>
+Two weeks <{> <[> or </[> about maybe
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X162:1:Z>
+<[> Uhm </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-045#163:1:A>
+Uhm
+
+<$B> 
+<ICE-HK:S1A-045#164:1:B>
+Yeah <,>
+
+<ICE-HK:S1A-045#165:1:B>
+Uh <,> oh it doesn't matter </X> <&> all-laugh </&>
+
+<$A> 
+<ICE-HK:S1A-045#166:1:A>
+Uh I don't think we can do anything to celebrate <{> <[> <,>
+because </[> of the examination
+
+<$B> <[> Aw </[> </{>
+
+<ICE-HK:S1A-045#167:1:B>
+But uh yesterday I bought two <,> two chocolate
+
+<$A> 
+<ICE-HK:S1A-045#168:1:A>
+Oh
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X169:1:Z>
+Oh </X>
+
+<$B> 
+<ICE-HK:S1A-045#170:1:B>
+To <{> <[> to </[>
+
+<$A> 
+<ICE-HK:S1A-045#171:1:A>
+<[> I  ' m </[> </{> wondering this morning who bought those
+chocolates
+
+<$B> 
+<ICE-HK:S1A-045#172:1:B>
+Yeah the chocolates uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X173:1:Z>
+Eggs </X>
+
+<$B> 
+<ICE-HK:S1A-045#174:1:B>
+<{> <[> Eggs </[>
+
+<$A> 
+<ICE-HK:S1A-045#175:1:A>
+<[> With </[> </{> chicken
+
+<$B> 
+<ICE-HK:S1A-045#176:1:B>
+Yeah <{> <[> chicken </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X177:1:Z>
+<[> Easter </[> </{> eggs </X>
+
+<$B> 
+<ICE-HK:S1A-045#178:1:B>
+Uh it  ' s <,> quite uh <,> elegant packaging
+
+<$A> 
+<ICE-HK:S1A-045#179:1:A>
+Is it expensive
+
+<$B> 
+<ICE-HK:S1A-045#180:1:B>
+Twenty eight for all
+
+<ICE-HK:S1A-045#181:1:B>
+<{> <[> Is it expensive <,> </[>
+
+<ICE-HK:S1A-045#182:1:B>
+Actually <&> laughs </&> it  ' s uh <,> quite expensive for such <.>
+s </.>
+
+<$A> 
+<ICE-HK:S1A-045#183:1:A>
+<[> <unc> four words </unc> </[> </{>
+
+<ICE-HK:S1A-045#184:1:A>
+Yeah only three small chocolate eggs
+
+<$B> 
+<ICE-HK:S1A-045#185:1:B>
+Yeah and only <,> a <,,> what
+
+<ICE-HK:S1A-045#186:1:B>
+A chicken
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X187:1:Z>
+Oh it  ' s a small chicken <{> <[> in the egg </[> </X>
+
+<$B> 
+<ICE-HK:S1A-045#188:1:B>
+<[> It  ' s small </[> </{> chicken but actually it  ' s very <,>
+cheap as actually
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X189:1:Z>
+Yeah </X>
+
+<$B> 
+<ICE-HK:S1A-045#190:1:B>
+I think <,,> the cost less than ten dollar <&> laughs </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X191:1:Z>
+Oh yes </X>
+
+<$A> 
+<ICE-HK:S1A-045#192:1:A>
+Uhm
+
+<$B> 
+<ICE-HK:S1A-045#193:1:B>
+But but the appearance quite <,> attractive and I think it
+will <,,> uh Chong Suk and Binak will like it
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X194:1:Z>
+Oh you bought it <{> <[> for </[> them </X>
+
+<$B> 
+<ICE-HK:S1A-045#195:1:B>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-045#196:1:B>
+Yeah
+
+<$A> 
+<ICE-HK:S1A-045#197:1:A>
+Oh yeah
+
+<$B> 
+<ICE-HK:S1A-045#198:1:B>
+But most of I think most of the children will like <,> it if
+I  ' m <.> chil </.> I am <.> ch </.> children I would like
+
+<$A> 
+<ICE-HK:S1A-045#199:1:A>
+I have never eaten a real <{> <[> <,> </[> Easter egg
+
+<ICE-HK:S1A-045#200:1:A>
+Have you ever <,> eaten them
+
+<$B> 
+<ICE-HK:S1A-045#201:1:B>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-045#202:1:B>
+What  ' s the real chocolate
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X203:1:Z>
+<{> Real Easter egg </X>
+
+<$A> 
+<ICE-HK:S1A-045#204:1:A>
+Real Easter egg </{> <&> laughs </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X205:1:Z>
+<unc> two-words </unc> a real egg </X>
+
+<$B> 
+<ICE-HK:S1A-045#206:1:B>
+Uhm
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X207:1:Z>
+
+
+<ICE-HK:S1A-045#X208:1:Z>
+A real Easter egg is available </X>
+
+<$A> 
+<ICE-HK:S1A-045#209:1:A>
+Look uhm <,>
+
+<ICE-HK:S1A-045#210:1:A>
+For example if you uh if you <,> if you go to some hotel
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X211:1:Z>
+Oh I see </X>
+
+<$A> 
+<ICE-HK:S1A-045#212:1:A>
+They will uh made some <,> egg <{> <[> <,> </[> uh from
+chocolate
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X213:1:Z>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-045#X214:1:Z>
+<{> <[> Aw </[> </X>
+
+<$B> 
+<ICE-HK:S1A-045#215:1:B>
+<[> Aw </[> </{>
+
+<$A> 
+<ICE-HK:S1A-045#216:1:A>
+With uh very beautiful decoration especially for Easter
+
+<ICE-HK:S1A-045#217:1:A>
+For example rabbits and <{> <[> <,> </[> houses chicken
+
+<$B> 
+<ICE-HK:S1A-045#218:1:B>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-045#219:1:B>
+Oh oh <.> e </.> oh I I see cos I  ' m some some of the Easter egg
+<,> uh in rabbit shape
+
+<$A> 
+<ICE-HK:S1A-045#220:1:A>
+Yeah
+
+<$B> 
+<ICE-HK:S1A-045#221:1:B>
+But it  ' s quite expensive <&> laughs </&>
+
+<$A> 
+<ICE-HK:S1A-045#222:1:A>
+Yeah
+
+<$B> 
+<ICE-HK:S1A-045#223:1:B>
+So I I can't buy them
+
+<ICE-HK:S1A-045#224:1:B>
+<unc> three-words </unc>
+
+<$A> 
+<ICE-HK:S1A-045#225:1:A>
+Have you ever <,> tasted them
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X226:1:Z>
+No not <?> in </?> the chocolate ones
+
+<ICE-HK:S1A-045#X227:1:Z>
+I don't like <{> <[> so much </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#228:1:A>
+<[> But real </[> </{> egg
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X229:1:Z>
+I think a real Easter egg is just a real <,> hardboiled egg </X>
+
+<$B> 
+<ICE-HK:S1A-045#230:1:B>
+Uhm
+
+<$A> 
+<ICE-HK:S1A-045#231:1:A>
+Aw
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X232:1:Z>
+That  ' s what my <.> a </.> American friends do </X>
+
+<$A> 
+<ICE-HK:S1A-045#233:1:A>
+Aw
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X234:1:Z>
+They boil the egg and then they <{1> <[1> <,> </[1> paint on the
+egg
+
+<ICE-HK:S1A-045#X235:1:Z>
+<{2> <[2> They </[2> use <,> food dye <{3> <[3> <,> </[3> to
+paint on the egg <{4> <[4> <,> </[4> and they keep it and then <,> on Easter
+day you go and look for the <{5> <[5> eggs </[5> and after that you can eat
+it </X>
+
+<$A> 
+<ICE-HK:S1A-045#236:1:A>
+<[1> Uhm </[1> </{1>
+
+<$B> 
+<ICE-HK:S1A-045#237:1:B>
+<[2> Oh </[2> </{2>
+
+<ICE-HK:S1A-045#238:1:B>
+<[3> Oh </[3> </{3>
+
+<$A> 
+<ICE-HK:S1A-045#239:1:A>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-045#240:1:A>
+<[5> Uhm </[5> </{5>
+
+<$B> 
+<ICE-HK:S1A-045#241:1:B>
+<{> <[> Uhm </[>
+
+<$A> 
+<ICE-HK:S1A-045#242:1:A>
+<[> Aw </[> </{>
+
+<$B> 
+<ICE-HK:S1A-045#243:1:B>
+<unc> three-words </unc> Easter Easter egg in the
+church <{> <[> uh </[> this year
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X244:1:Z>
+<[> Yeah </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1A-045#245:1:A>
+Uh <{> <[> <,> I  ' ve also </[> got one
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X246:1:Z>
+<[> They give you real egg </[> </{> </X>
+
+<$B> 
+<ICE-HK:S1A-045#247:1:B>
+Oh in <,> no no not in my church <,> in Ken  ' s church <{> <[>
+because </[> uh yes uh <.> bap </.>
+
+<$A> 
+<ICE-HK:S1A-045#248:1:A>
+<[> Oh </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X249:1:Z>
+Baptism </X>
+
+<$B> 
+<ICE-HK:S1A-045#250:1:B>
+Baptism and his church uh has has celebration and every
+brother and sister have a red
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X251:1:Z>
+Red color </X>
+
+<$B> 
+<ICE-HK:S1A-045#252:1:B>
+Red uh boiled egg
+
+<$A> 
+<ICE-HK:S1A-045#253:1:A>
+It  ' s for Easter or <,> because of the baptism
+
+<$B> 
+<ICE-HK:S1A-045#254:1:B>
+For Easter <{> <[> cause </[> uh his baptism is in Easter
+
+<$A> 
+<ICE-HK:S1A-045#255:1:A>
+<[> Oh </[> </{>
+
+<$B> 
+<ICE-HK:S1A-045#256:1:B>
+So <,,>
+
+<ICE-HK:S1A-045#257:1:B>
+Anyway
+
+<$A> 
+<ICE-HK:S1A-045#258:1:A>
+Last week when I <{1> <[1> <,> </[1> when I went to church
+<,> one of my <{2> <[2> sister </[2> ask me <,> whether I will like to go for
+baptism this uh <{3> <[3> <,> </[3> this May
+
+<$B> 
+<ICE-HK:S1A-045#259:1:B>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#260:1:B>
+<[2> Uhm </[2> </{2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X261:1:Z>
+<[3> Oh </[3> </{3> </X>
+
+<$B> 
+<ICE-HK:S1A-045#262:1:B>
+Uhm
+
+<ICE-HK:S1A-045#263:1:B>
+This May
+
+<$A> 
+<ICE-HK:S1A-045#264:1:A>
+But I think
+
+<$B> 
+<ICE-HK:S1A-045#265:1:B>
+You have to prepare your exam
+
+<$A> 
+<ICE-HK:S1A-045#266:1:A>
+Yeah because I have to attend many class <{> <[> if I really
+want to </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X267:1:Z>
+<[> Yeah no time <[> </{> to attend </X>
+
+<$A> 
+<ICE-HK:S1A-045#268:1:A>
+Yes <,>
+
+<ICE-HK:S1A-045#269:1:A>
+But <{1> <[1> <,> </[1> really I <,> quite like the church I am
+attending <{2> <[2> and I think </[2> <,> uh <,> someday I will
+
+<$B> 
+<ICE-HK:S1A-045#270:1:B>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#271:1:B>
+<[2> Uhm <,> uhm </[2> </{2>
+
+<ICE-HK:S1A-045#272:1:B>
+Uhm
+
+<ICE-HK:S1A-045#273:1:B>
+Baptised
+
+<$A> 
+<ICE-HK:S1A-045#274:1:A>
+Yeah
+
+<$B> 
+<ICE-HK:S1A-045#275:1:B>
+Oh I see
+
+<ICE-HK:S1A-045#276:1:B>
+How about the next <,> chance to have baptism
+
+<$A> 
+<ICE-HK:S1A-045#277:1:A>
+Oh <,> I think it will be
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X278:1:Z>
+Christmas </X>
+
+<$A> 
+<ICE-HK:S1A-045#279:1:A>
+Perhaps
+
+<$B> 
+<ICE-HK:S1A-045#280:1:B>
+Uhm <,,>
+
+<ICE-HK:S1A-045#281:1:B>
+Uhm <,,> it  ' s good I think uh <,> uh <,> it may be much better to
+have uh <,> to let you <,> know more <{> <[> about </[> your church and then
+you  ' ll baptise there
+
+<$A> 
+<ICE-HK:S1A-045#282:1:A>
+<[> Yeah </[> </{>
+
+<ICE-HK:S1A-045#283:1:A>
+Yeah and also I want to make friends <{1> <[1> with </[1> the
+brother and sister <,> and I want to get <{2> <[2> <,> </[2> get to know them
+more before I receive my baptism
+
+<$B> 
+<ICE-HK:S1A-045#284:1:B>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#285:1:B>
+<[2> Uhm </[2> </{2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X286:1:Z>
+Uhm </X>
+
+<$B> <X>
+
+<ICE-HK:S1A-045#X287:1:B>
+Uhm uhm
+
+<ICE-HK:S1A-045#X288:1:B>
+I see <,>
+
+<ICE-HK:S1A-045#X289:1:B>
+Why why why do you like what what uh <,> what thing <,> that uh
+
+<$A> 
+<ICE-HK:S1A-045#X290:1:A>
+Attract me
+
+<$B> 
+<ICE-HK:S1A-045#X291:1:B>
+Yeah
+
+<$A> 
+<ICE-HK:S1A-045#X292:1:A>
+I think it <{1> <[1> <,> </[1> uh it is mainly because of
+their love <{2> <[2> <,> </[2>
+
+<ICE-HK:S1A-045#X293:1:A>
+Because <{3> <[3> I </[3> <,> even though sometimes when I went
+to <,> went to have fellowship with <{4> <[4> them they </[4> will play and
+they will <,> uh <,,>
+
+<ICE-HK:S1A-045#X294:1:A>
+They will play and <,> it seems that they don't have deep
+relationship <{5> <[5> <,> </[5>
+
+<ICE-HK:S1A-045#X295:1:A>
+But <,> uh <,> I discover that it is not the case because uh <{6>
+<[6> <,> </[6> last week they went for a camp and in the camp they pray
+together <{7> <[7> <,> </[7> and they have very deep sharing and they cry
+together because uhm <,> they discover that there are sins in themselves
+
+<$B> 
+<ICE-HK:S1A-045#X296:1:B>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X297:1:B>
+<[2> Oh </[2> </{2>
+
+<ICE-HK:S1A-045#X298:1:B>
+<[3> Uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X299:1:B>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-045#X300:1:B>
+<[5> Uhm </[5> </{5>
+
+<ICE-HK:S1A-045#X301:1:B>
+<[6> Uhm </[6> </{6>
+
+<ICE-HK:S1A-045#X302:1:B>
+<[7> Uhm </[7> </{7>
+
+<ICE-HK:S1A-045#X303:1:B>
+Oh
+
+<$A> And <,> I discover <,> I discover that there are other aspects of them
+<,> that <,,> that are really brother and sister <{1> <[1> <,> uh </[1> just
+like the <{2> <[2> environment here <,> </[2> but I think the
+
+<$B> 
+<ICE-HK:S1A-045#X304:1:B>
+<[1> Uhm uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X305:1:B>
+<[2> Uhm <,> uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X306:1:B>
+They are much they  ' re <{> <[> <,> <unc> one-word </unc>
+</[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X307:1:Z>
+<[> Did you go </[> </{> for the camp </X>
+
+<$A> 
+<ICE-HK:S1A-045#308:1:A>
+No originally I would I would like to go but because <,> oh
+because I have many projects to finish <{1> <[1> so </[1> <,> I <{2> <[2>
+cannot </[2> afford to go
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X309:1:Z>
+<[1> Oh yeah </[1> </{1> </X>
+
+<$B> 
+<ICE-HK:S1A-045#310:1:B>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#311:1:B>
+Uhm uhm
+
+<ICE-HK:S1A-045#312:1:B>
+Uhm uhm
+
+<$A> 
+<ICE-HK:S1A-045#313:1:A>
+And also I think they are very welcome
+
+<$B> 
+<ICE-HK:S1A-045#314:1:B>
+Uhm
+
+<ICE-HK:S1A-045#315:1:B>
+Uhm uhm
+
+<$A> 
+<ICE-HK:S1A-045#316:1:A>
+And <,> I really enjoy the <,> morning praise and worship
+with them
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X317:1:Z>
+<{> <[> Uhm </[> </X>
+
+<$B> 
+<ICE-HK:S1A-045#318:1:B>
+<[> Oh </[> </{>
+
+<$A> 
+<ICE-HK:S1A-045#319:1:A>
+The style is very similar to CCC <{1> <[1> <,> </[1> they
+also use transparency <{2> <[2> and most of the songs </[2> they sing I also
+know <{3> <[3> <,,>
+
+<ICE-HK:S1A-045#320:1:A>
+And </[3> I think they are very alive and very <,> uh energetic
+when they sing a song <{4> <[4> <,> </[4>
+
+<ICE-HK:S1A-045#321:1:A>
+For example they will do many action
+
+<$B> 
+<ICE-HK:S1A-045#322:1:B>
+<[1> Oh </[1> </{1>
+
+<ICE-HK:S1A-045#323:1:B>
+<[2> Uhm <,> uhm </[2> </{2>
+
+<ICE-HK:S1A-045#324:1:B>
+<[3> Uhm uhm
+
+<ICE-HK:S1A-045#325:1:B>
+<unc> two-words </unc> </[3> </{3>
+
+<ICE-HK:S1A-045#326:1:B>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-045#327:1:B>
+Uhm <{> <[> <,> uhm </[>
+
+<$A> 
+<ICE-HK:S1A-045#328:1:A>
+<[> And they </[> </{> will clap their hands
+
+<$B> 
+<ICE-HK:S1A-045#329:1:B>
+Uhm uhm uhm
+
+<$A> 
+<ICE-HK:S1A-045#330:1:A>
+And <,,> and also sometimes uh they will invite some of the
+brother and sister to <{1> <[1> <,> </[1> share their personal experience
+<{2> <[2> on </[2> uh <,> on uh sharing the gospel or helping the new
+believer to get to know more about God
+
+<ICE-HK:S1A-045#331:1:A>
+And <,> I think I will <,> I think this church can help me to know
+God more even after I <,> graduate from this <,> school
+
+<ICE-HK:S1A-045#332:1:A>
+And also I <{3> <[3> <,> </[3> personally I think I can <,> be
+used by God in this church <{4> <[4> because </[4> the main objective of this
+church is quite similar to
+
+<$B> 
+<ICE-HK:S1A-045#333:1:B>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#334:1:B>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#335:1:B>
+<[3> Uhm </[3> </{3>
+
+<ICE-HK:S1A-045#336:1:B>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-045#337:1:B>
+CCC
+
+<$A> 
+<ICE-HK:S1A-045#338:1:A>
+Yeah for example uhm <,> <{1> <[1> uh </[1> <,,> to share the
+gospel with with uh the people in Cheung Chau <{2> <[2> or </[2> <,> or to
+uhm <,> help help new believer to get to know more about god
+
+<$B> 
+<ICE-HK:S1A-045#339:1:B>
+<[1> Uhm </[1> </{1>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X340:1:Z>
+<[2> Uhm </[2> </{2> </X>
+
+<$B> 
+<ICE-HK:S1A-045#341:1:B>
+Uhm I  ' m sorry
+
+<ICE-HK:S1A-045#342:1:B>
+I I forgot the name of the church <&>
+
+$A-laughs </&>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X343:1:Z>
+In English </X>
+
+<$A> 
+<ICE-HK:S1A-045#344:1:A>
+Uh
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X345:1:Z>
+Cheung Chau </X>
+
+<$B> 
+<ICE-HK:S1A-045#346:1:B>
+Cheung Chau what
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X347:1:Z>
+Alliance to </X>
+
+<$A> 
+<ICE-HK:S1A-045#348:1:A>
+Ah yeah
+
+<$B> 
+<ICE-HK:S1A-045#349:1:B>
+Alliance
+
+<$A> 
+<ICE-HK:S1A-045#350:1:A>
+Because I never <&> laughs </&> I  ' ve never called my Church
+in English </I>
+
+
+<I>
+
+<$A> 
+<ICE-HK:S1A-045#351:2:A>
+Actually I  ' m planning to uhm ask you something the method to
+study Japanese <{1> <[1> <,> uh huh and </[1> also some some may be further
+about my career <{2> <[2> cos I  ' m going to graduate this year </[2> and uhm
+I have no idea about how to make use of those languages that I have learnt
+such as <{3> <[3> Japanese </[3> I  ' m studying right now
+
+<ICE-HK:S1A-045#352:2:A>
+So uhm I have no idea about how to use it in my <{4> <[4> later
+career </[4>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X353:2:Z>
+<[1> Uh hoh uh hoh uh hoh </[1> </{1>
+
+<ICE-HK:S1A-045#X354:2:Z>
+<[2> Uhm uhm uhm uhm uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X355:2:Z>
+<[3> Uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X356:2:Z>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-045#X357:2:Z>
+So your question is difficult question because I don't know it
+<foreign> edo </foreign> so you you are going to <foreign> nani </foreign> to
+include job in the in the Japanese  ' s company or <{> <[> uh the ordinary </[>
+</X>
+
+<$A> 
+<ICE-HK:S1A-045#358:2:A>
+<[> I I I </[> </{> of course <{1> <[1> I want to take a job
+in Japanese company </[1> so that I can use the uhm Japanese I have learned
+right now <{2> <[2>
+
+<ICE-HK:S1A-045#359:2:A>
+But </[2> uhm my Japanese is not that <{3> <[3> good so I  ' m </[3>
+I  ' m quite worried about <{4> <[4> this </[4> yup
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X360:2:Z>
+<[1> Uhm uhm uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X361:2:Z>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X362:2:Z>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X363:2:Z>
+<[4> Uh uh </[4> </{4>
+
+<ICE-HK:S1A-045#X364:2:Z>
+<foreign> E choto </foreign> Evelyn <foreign> san </foreign> </X>
+
+<$A> 
+<ICE-HK:S1A-045#365:2:A>
+<foreign> Hai hai hai hai </foreign>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X366:2:Z>
+You know that I think this question is very uh somehow serious
+<{1> <[1> I </[1> think
+
+<ICE-HK:S1A-045#X367:2:Z>
+So if I had uh if I <foreign> na ni </foreign> I try to answer to
+that question may be I consider longer <{2> <[2> or </[2> uh uh
+
+<ICE-HK:S1A-045#X368:2:Z>
+And if you <foreign> na ni </foreign> if you want me just talk
+<{3> <[3> in </[3> English then I <{4> <[4> just the </[4> the the other
+topic is better because this is how to say how to say this matter is very
+serious to you and me both you and I uh I
+
+<ICE-HK:S1A-045#X369:2:Z>
+So I have to consider if <{5> <[5> I answer </[5> to you <{6>
+<[6> <foreign> na ni </foreign> so so so so </[6> how may be more just if
+just you need the the <foreign> nani </foreign> English <{7> <[7> talking
+itself no other no other of this yeah then </[7>
+
+<ICE-HK:S1A-045#X370:2:Z>
+Okay then the then then when you we we how to say the other kind
+of topic is better <{8> <[8> <,> I think uh ha ha ha </[8> </X>
+
+<$A> 
+<ICE-HK:S1A-045#371:2:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#372:2:A>
+<[2> Uh Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#373:2:A>
+<[3> Yah </[3> </{3>
+
+<ICE-HK:S1A-045#374:2:A>
+<[4> Yeah just simply talk </[4> </{4>
+
+<ICE-HK:S1A-045#375:2:A>
+<[5> Uhm uhm uhm uhm </[5> </{5>
+
+<ICE-HK:S1A-045#376:2:A>
+<[6> May be at the previous </[6> </{6>
+
+<ICE-HK:S1A-045#377:2:A>
+<[7> Uhm uhm just English talking no matter what we talk yah yeah
+but I just </[7> </{7>
+
+<ICE-HK:S1A-045#378:2:A>
+<[8> Uhm may be uh if you like we can have some casual talk </[8>
+</{8> about </{1> </[1> your </[1> living style in <{2> <[2> Hong Kong uh
+such kind of it depends which style you like </[2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X379:2:Z>
+<[1> Okay </[1> </{1>
+
+<ICE-HK:S1A-045#X380:2:Z>
+<[2> Uhm uhm Yeah </[2> </{2>
+
+<ICE-HK:S1A-045#X381:2:Z>
+Uhm uhm okay
+
+<ICE-HK:S1A-045#X382:2:Z>
+So it  ' s better to uhm talk with the general matters like uh
+cultural <{1> <[1> <,> </[1> or foods <{2> <[2> or something </[2> </[>
+
+<ICE-HK:S1A-045#X383:2:Z>
+Then <{3> <[3> may be yeah it  ' s </[3> it  ' s not <.> respons </.>
+I  ' m I  ' m not responsible to that <{4> <[4> <foreign> eh </foreign> that kind
+</[4> uh uhm problem you know about you career or your <{5> <[5> future </[5>
+and Japanese study and I have to think <{6> <[6> it </[6> over
+
+<ICE-HK:S1A-045#X384:2:Z>
+Okay okay <foreign> ii desu ka </foreign>
+
+<ICE-HK:S1A-045#X385:2:Z>
+<{7> <[7> Let  ' s start </[7> </X>
+
+<$A> 
+<ICE-HK:S1A-045#386:2:A>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#387:2:A>
+<[2> Yes sure </[2> </{2>
+
+<ICE-HK:S1A-045#388:2:A>
+<[3> Of course it  ' s better for me </[3> </{3>
+
+<ICE-HK:S1A-045#389:2:A>
+<[4> Yeah sure sure </[4> </{4>
+
+<ICE-HK:S1A-045#390:2:A>
+<[5> Yeah </[5> </{5>
+
+<ICE-HK:S1A-045#391:2:A>
+<[6> Yeah yeah </[6> </{6>
+
+<ICE-HK:S1A-045#392:2:A>
+<[7> <foreign> Hai hai hai </foreign> </[7> </{7>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X393:2:Z>
+<foreign> Hai edo </foreign> uh <foreign> soo desu </foreign>
+then then then what uh uhm so any kind of <foreign> na ni </foreign>
+conversation <{> <[> <,> Is </[1> I ask you or you ask me to </X>
+
+<$A> 
+<ICE-HK:S1A-045#394:2:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-045#395:2:A>
+Uhm <{> <[> yeah yeah it  ' s okay both direction is okay but just
+simply uhm yeah </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X396:2:Z>
+<[> <foreign> Na ni </foreign> uhm hah oh I see uhm </[>
+
+<ICE-HK:S1A-045#X397:2:Z>
+</{> So okay so then then then the then uh actually I  ' m now how
+to say uh uhm interested in uh what kind of activity do students are doing uh
+outside of the university <{1> <[1> <,> </[1> because in Japan many
+university student they are they they how to say <{2> <[2> they <.> part </.>
+</[2> </X>
+
+<$A> 
+<ICE-HK:S1A-045#398:2:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#399:2:A>
+<[2> Do the part-time job </[2> </{2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X400:2:Z>
+Yes do the part-time job and they they do hold parties so many
+times and so how about you the students in Hong Kong </X>  
+ 
+
+<$A> 
+<ICE-HK:S1A-045#401:2:A>
+Uhm <{1> <[1> uhm </[1> Hong Kong students <{2> <[2> uh </[2>
+for me and also for my friends <{3> <[3> also </[3> but have also part-time
+jobs <{4> <[4> such as </[4> uhm uh private teacher <{5> <[5> to teacher to
+teach those secondary </[5> students or the primary students English or
+Mathematics <{6> <[6> <,> </[6>
+
+<ICE-HK:S1A-045#402:2:A>
+And apart from having the part-time <{7> <[7> job </[7> usually we  ' ll
+tend to play some kind of sports <{8> <[8> <,> </[8>
+
+<ICE-HK:S1A-045#403:2:A>
+Uh for me I like badminton and squash <{9> <[9> <,> and </[9> some
+of them they would like to play uhm other kinds such tennis <{10> <[10> <,>
+</[10> and but usually for girls they like shopping
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X404:2:Z>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X405:2:Z>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X406:2:Z>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X407:2:Z>
+<[4> Uhm uhm </[4> </{4>
+
+<ICE-HK:S1A-045#X408:2:Z>
+<[5> Uhm uhm uhm uhm uhm </[5> </{5>
+
+<ICE-HK:S1A-045#X409:2:Z>
+<[6> Uhm uhm uhm </[6> </{6>
+
+<ICE-HK:S1A-045#X410:2:Z>
+<[7> Uhm </[7> </{7>
+
+<ICE-HK:S1A-045#X411:2:Z>
+<[8> Uhm uhm </[8> </{8>
+
+<ICE-HK:S1A-045#X412:2:Z>
+<[9> Uhm </[9> </{9>
+
+<ICE-HK:S1A-045#X413:2:Z>
+<[10> Uhm </[10> </{10>
+
+<ICE-HK:S1A-045#X414:2:Z>
+Uhm uhm uhm I see so okay and then uh but is it easy to find the
+job part-time job uhm </X>
+
+<$A> 
+<ICE-HK:S1A-045#415:2:A>
+Quite easy because <{> <[> uhm I </[> uh I
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X416:2:Z>
+<[> Uhm uhm uhm </[> </{>
+
+<ICE-HK:S1A-045#X417:2:Z>
+You do find that kind of job by yourself or uh through <{> <[>
+some uh </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#418:2:A>
+<[> By </[> </{> some introduction
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X419:2:Z>
+Uh huh </X>
+
+<$A> 
+<ICE-HK:S1A-045#420:2:A>
+Uh actually there are there are many different kinds of ways
+<{1> <[1> to do so </[1>
+
+<ICE-HK:S1A-045#421:2:A>
+Uh I don't know whether you notice it in Parknshop or in Welcome
+<{2> <[2> <,> those supermarket </[2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X422:2:Z>
+<[1> Uhm uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X423:2:Z>
+<[2> Uhm aw notice board </[2> </{2> </X>
+
+<$A> 
+<ICE-HK:S1A-045#424:2:A>
+Yah <{1> <[1> yah yah the notice board </[1> and you will
+<{2> <[2> see that there are a lot </[2> of notice <{3> <[3>
+
+<ICE-HK:S1A-045#425:2:A>
+A lot </[3> of them <{4> <[4> are </[4>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X426:2:Z>
+<[1> Aw aw aw aw </[1> </{1>
+
+<ICE-HK:S1A-045#X427:2:Z>
+<[2> Aw </[2> </{2>
+
+<ICE-HK:S1A-045#X428:2:Z>
+<[3> Notice </[3> </{3>
+
+<ICE-HK:S1A-045#X429:2:Z>
+<[4> And </[4> </{4> they take some paper <{> <[> uh with the
+contact number uhm </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#430:2:A>
+<[> Yah yah yah are put up by the students </[> </{> who want
+to find to find some part-time <{1> <[1> jobs </[1>
+
+<ICE-HK:S1A-045#431:2:A>
+And then they will leave the contacted <{2> <[2> number there
+</[2> so that when the <{3> <[3> mothers or </[3> the fathers they want to
+find a part-time tutor for <{4> <[4> their children </[4> they can contact it
+
+<ICE-HK:S1A-045#432:2:A>
+Is one of the means
+
+<ICE-HK:S1A-045#433:2:A>
+<{5> <[5> And </[5> also there are some other means such as some
+some of my friends may try to <{6> <[6> telephone to some </[6> uhm to some
+institute <{7> <[7> that </[7> institute are opened for those uh students
+<{8> <[8> to study there
+
+<ICE-HK:S1A-045#434:2:A>
+Yeah </[8>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X435:2:Z>
+<[1> Aw </[1> </{1>
+
+<ICE-HK:S1A-045#X436:2:Z>
+<[2> Uhm uhm uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X437:2:Z>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X438:2:Z>
+<[4> Uhm hoh hoh </[4> </{4>
+
+<ICE-HK:S1A-045#X439:2:Z>
+<[5> Aw </[5> </{5>
+
+<ICE-HK:S1A-045#X440:2:Z>
+<[6> Uhm uhm </[6> </{6>
+
+<ICE-HK:S1A-045#X441:2:Z>
+<[7> Uhm uhm </[7> </{7>
+
+<ICE-HK:S1A-045#X442:2:Z>
+<[> Uhm uhm uhm </[> </{>
+
+<ICE-HK:S1A-045#X443:2:Z>
+And do you like <foreign> na ni </foreign> uh the student
+university student can teach there <{1> <[1> or </[1> with their <.> tra </.>
+training <{2> <[2> or without </[2> </X>
+
+<$A> 
+<ICE-HK:S1A-045#444:2:A>
+<[1> Yeah yeah </[1> </{1>
+
+<ICE-HK:S1A-045#445:2:A>
+<[2> No </[2> </{2> <{> <[> <,> they did without </[> training
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X446:2:Z>
+<[> Wo wo </[> </{> so <{> <[> aw </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#447:2:A>
+<[> In Japan </[> </{> they need to be trained
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X448:2:Z>
+Uh usually home tutor they don't have any training <{1> <[1> <,>
+</[1> but the you know there are many institute uh or <.> cra </.> cram cram
+cram school there <{2> <[2> <,> there are </[2> many cram schools and the the
+competition uh among the are really strict so they have to train the teachers
+<{3> <[3> <,> so </[3> uhm uhm I think it  ' s uh </X>
+
+<$A> 
+<ICE-HK:S1A-045#449:2:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#450:2:A>
+<[2> Uhm uhm cram school </[2> </{2>
+
+<ICE-HK:S1A-045#451:2:A>
+<[3> Oh so </[3> </{3>
+
+<ICE-HK:S1A-045#452:2:A>
+It  ' s very <{> <[> different </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X453:2:Z>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-045#X454:2:Z>
+It  ' s not very difficult but it  ' s not very easy of
+
+<ICE-HK:S1A-045#X455:2:Z>
+Uhm beside there are many universities in Japan so of course
+there are more university students in Japan uh than Hong Kong
+
+<ICE-HK:S1A-045#X456:2:Z>
+Uh there are only six universities in Hong Kong <{> <[> and </[>
+so university students are prestigious in Hong Kong but in Japan are you were
+you university student and so what like that </X>
+
+<$A> 
+<ICE-HK:S1A-045#457:2:A>
+<[> Uhm </[> </{>
+
+<ICE-HK:S1A-045#458:2:A>
+Everyone is
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X459:2:Z>
+Yeah everyone is so uhm it <{> <[> <?> soon </?> </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#460:2:A>
+<[> But it </[> </{> depends on the uh fame of that
+university
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X461:2:Z>
+Uhm uhm uhm uhm uhm
+
+<ICE-HK:S1A-045#X462:2:Z>
+Yes it depends uhm so uhm like Tokyo University <{1> <[1> uh and
+they </[1> so they I think they are easy to find that kind of job
+
+<ICE-HK:S1A-045#X463:2:Z>
+Uh uhm so uhm and uh but uh I I think uh <.> al </.> they are
+also many universities student do they are doing part-time job like uh
+McDonald  ' s <{2> <[2> <,> clerk </[2> or uhm <foreign> ahno </foreign> <.> fa
+</.> the restaurant waiter or waitress
+
+<ICE-HK:S1A-045#X464:2:Z>
+So but I think who there are are few students university student
+they  ' re doing that kind of job <{3> <[3> they they are that <,> ho ho ho
+</[3> </X>
+
+<$A> 
+<ICE-HK:S1A-045#465:2:A>
+<[1> Uhm of course it is the best </[1> </{1>
+
+<ICE-HK:S1A-045#466:2:A>
+<[2> Uhm uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-045#467:2:A>
+<[3> Yes but the salary is very low yeah </[3> </{3>
+
+<ICE-HK:S1A-045#468:2:A>
+Uh as for for those who as in McDonald <{1> <[1> <,> the </[1>
+salary is about fifteen <{2> <[2> or </[2> eighteen dollars <{3> <[3> per
+hour </[3>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X469:2:Z>
+
+
+<ICE-HK:S1A-045#X470:2:Z>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X471:2:Z>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X472:2:Z>
+<[3> Fifteen </[3> </{3> <{> <[> <foreign> honto </foreign> very
+low </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#473:2:A>
+<[> One five one eight per per hour </[> </{>
+
+<ICE-HK:S1A-045#474:2:A>
+But as for us if we work as a tutor <{1> <[1> then </[1> plus a
+zero
+
+<ICE-HK:S1A-045#475:2:A>
+<{2> <[2> A hundred and fifty </[2> which is <{3> <[3> <,> ten
+</[3> times more
+
+<ICE-HK:S1A-045#476:2:A>
+So we seldom <{4> <[4> do that in McDonald  ' s </[4>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X477:2:Z>
+
+
+<ICE-HK:S1A-045#X478:2:Z>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X479:2:Z>
+<[2> Aw right right right </[2> </{2>
+
+<ICE-HK:S1A-045#X480:2:Z>
+<[3> So ten ten times aw </[3> </{3>
+
+<ICE-HK:S1A-045#X481:2:Z>
+<[4> But I think do doing </[4> </{4> a tutor you have to prepare
+for them as or you do not </X>
+
+<$A> 
+<ICE-HK:S1A-045#482:2:A>
+Uh <{1> <[1> for me it depends on </[1> the standard <{2>
+<[2> of the child </[2>
+
+<ICE-HK:S1A-045#483:2:A>
+If he is really not very good <{3> <[3> then I have to </[3> get
+<{4> <[4> more some more exercise for him </[4> but for for those students in
+Hong Kong usually they are not really <{5> <[5> bad </[5> but their parents
+are just simply too <{6> <[6> anxious about their results so </[6> find a
+tutor <{7> <[7> to help him </[7> more
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X484:2:Z>
+<[1> Uhm uhm uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X485:2:Z>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X486:2:Z>
+<[3> Uhm uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X487:2:Z>
+<[4> Uhm uhm uhm uhm uhm </[4> </{4>
+
+<ICE-HK:S1A-045#X488:2:Z>
+<[5> Uhm </[5> </{5>
+
+<ICE-HK:S1A-045#X489:2:Z>
+<[6> Uhm uhm uhm uhm uhm </[6> </{6>
+
+<ICE-HK:S1A-045#X490:2:Z>
+<[7> Yeah </[7> </{7> uhm sometimes you can't get bonus from the
+parents when they <{> <[> took it <unc> one-word </unc> good uhm
+right </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#491:2:A>
+<[> Uh bonus not really bonus but uh for example </[> </{> if
+in times of Christmas <{1> <[1> than </[1> I may have a Christmas present
+<{2> <[2> or </[2> uhm in times of <{3> <[3> the </[3> Lunar Year then I will
+have the red packet <{4> <[4> <,> yeah </[4>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X492:2:Z>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X493:2:Z>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X494:2:Z>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X495:2:Z>
+<[4> Uhm uhm </[4> </{4>
+
+<ICE-HK:S1A-045#X496:2:Z>
+Wow <foreign> ii desu ne </foreign> good </X>
+
+<$A> 
+<ICE-HK:S1A-045#497:2:A>
+Is that the same case in Japan
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X498:2:Z>
+Uh I think so uh there are several rumour about that uh there is
+a university student who who is how to say who is pupil no uh the child who
+who uh he  ' s teaching uh <foreign> na ni </foreign> entered a famous may be
+famous high school <{1> <[1> or something </[1> then he had he has got new
+car <{2> <[2> from the parents </[2> </X>
+
+<$A> 
+<ICE-HK:S1A-045#499:2:A>
+<[1> Uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#500:2:A>
+<[2> Aw new car </[2> </{2>
+
+<ICE-HK:S1A-045#501:2:A>
+<{> <[> Wow </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X502:2:Z>
+<[> Uhm I think so but this is </[> </{> all very how to say a
+kind of legend <{1> <[1> not the true story legend I think </[1>
+
+<ICE-HK:S1A-045#X503:2:Z>
+May be but in sometimes we can get some present uh when the
+pupils uh <foreign> na ni </foreign> got uh got the new good uh good grade
+but the you know the <foreign> na ni </foreign> season of the examination how
+to say we have summer cake <{2> <[2> during that </[2> during <{3> <[3> that
+time don't </[3> you think so </X>
+
+<$A> 
+<ICE-HK:S1A-045#504:2:A>
+<[1> Aw </[1> </{1>
+
+<ICE-HK:S1A-045#505:2:A>
+<[2> Really </[2> </{2>
+
+<ICE-HK:S1A-045#506:2:A>
+<[3> Summer cake </[3> </{3>
+
+<ICE-HK:S1A-045#507:2:A>
+Oh I don't have
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X508:2:Z>
+Oh you are now so responsible then
+
+<ICE-HK:S1A-045#X509:2:Z>
+Uhm uh we used to <{> <[> uhm right </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#510:2:A>
+<[> <?> So I </?> </[> </{> uh may be uhm my student right
+now <{1> <[1> the one student </[1> I  ' m having right now uhm is not that he
+doesn't <{2> <[2> study in the </[2> very famous uh school <{3> <[3> so </[3>
+the pressure <{4> <[4> is not that much </[4>
+
+<ICE-HK:S1A-045#511:2:A>
+But for the previous <{5> <[5> student </[5> he  ' s studying in uhm
+La Salle <{6> <[6> primary school <.> wh </.> which is a very famous school
+in Hong Kong </[6>
+
+<ICE-HK:S1A-045#512:2:A>
+And actually there  ' s no particular season of <{7> <[7>
+examination because </[7> every week he got <{8> <[8> every three quizzes
+</[8> and one month then <{9> <[9> he will have the big test </[9> so every
+every so I  ' m I accustomed <{10> <[10> to to this kind of </[10>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X513:2:Z>
+<[1> Yeah </[1> </{1>
+
+<ICE-HK:S1A-045#X514:2:Z>
+<[2> Aw </[2> </{2>
+
+<ICE-HK:S1A-045#X515:2:Z>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X516:2:Z>
+<[4> Uhm uhm </[4> </{4>
+
+<ICE-HK:S1A-045#X517:2:Z>
+<[5> Uhm </[5> </{5>
+
+<ICE-HK:S1A-045#X518:2:Z>
+<[6> Uhm uhm uhm uhm uhm </[6> </{6>
+
+<ICE-HK:S1A-045#X519:2:Z>
+<[7> Uhm uhm uhm </[7> </{7>
+
+<ICE-HK:S1A-045#X520:2:Z>
+<[8> Aw uhm uhm uhm uhm </[8> </{8>
+
+<ICE-HK:S1A-045#X521:2:Z>
+<[9> Yeah aw </[9> </{9>
+
+<ICE-HK:S1A-045#X522:2:Z>
+<[10> Uhm uhm uhm </[10> </{10>
+
+<ICE-HK:S1A-045#X523:2:Z>
+And you you also has that kind of experience when you were in
+that age <{> <[> right I assume </[> and you want that I assume uh uhm uh uh
+</X>
+
+<$A> 
+<ICE-HK:S1A-045#524:2:A>
+<[> Yeah yeah similar </[> </{>
+
+<ICE-HK:S1A-045#525:2:A>
+Actually I accustomed <{> <[> this yeah <,> I think </[> is it the
+same case in Japan because
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X526:2:Z>
+<[> Uhm uhm uhm oh I see </[> </{>
+
+<ICE-HK:S1A-045#X527:2:Z>
+Uh the competition <{1> <[1> among </[1> the <{2> <[2> student
+</[2>
+
+<ICE-HK:S1A-045#X528:2:Z>
+Yes they are
+
+<ICE-HK:S1A-045#X529:2:Z>
+Uh you know the entrance examination of universities are really
+competitive uhm uhm so yes and the to enter the prestigious university then
+you have to uh enter the <{3> <[3> <.> en </.> enter </[3> the good high
+school uhm
+
+<ICE-HK:S1A-045#X530:2:Z>
+And to enter the good high school to enter you you have to to
+enter the good <{4> <[4> primary school </[4> like that so it  ' s it  ' s
+hierarchy that <{5> <[5> kind </[5> of
+
+<ICE-HK:S1A-045#X531:2:Z>
+So uhm yup uhm but after the entrance examination then they want
+they they they want to uh they then they how how to say they don't want to
+study more anymore <{6> <[6> a kind of a uhm </[6>
+
+<ICE-HK:S1A-045#X532:2:Z>
+Uhm yeah somehow uhm but normally its in my days uh is uh how to
+say enjoyable I mean in the university the we we really enjoy not worry about
+but now the uh how to say to for a for the university student it is its
+really difficult to find a job in in Japan <{7> <[7> now </[7> because uh
+Japanese economy is not very good now so uhm so I think they have to study or
+they have to get some uh qualification or certification <{8> <[8> of </[8>
+some business <{9> <[9> skills </[9> </X>
+
+<$A> 
+<ICE-HK:S1A-045#533:2:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#534:2:A>
+<[2> Yes </[2> </{2>
+
+<ICE-HK:S1A-045#535:2:A>
+<[3> Enter high school </[3> </{3>
+
+<ICE-HK:S1A-045#536:2:A>
+<[4> Primary school </[4> </{4>
+
+<ICE-HK:S1A-045#537:2:A>
+<[5> Uhm </[5> </{5>
+
+<ICE-HK:S1A-045#538:2:A>
+<[6> Because tired of study </[6> </{6>
+
+<ICE-HK:S1A-045#539:2:A>
+<[7> Uhm </[7> </{7>
+
+<ICE-HK:S1A-045#540:2:A>
+<[8> Uhm </[8> </{8>
+
+<ICE-HK:S1A-045#541:2:A>
+<[9> Professional </[9> </{9>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X542:2:Z>
+Yes the professional skills
+
+<ICE-HK:S1A-045#X543:2:Z>
+So I think they are studying more than </X>
+
+<$A> 
+<ICE-HK:S1A-045#544:2:A>
+Before
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X545:2:Z>
+Before uhm much more than uhm <{> <[> uhm </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#546:2:A>
+<[> Now </[> </{> I think <{1> <[1> its </[1> also the same
+case in Hong Kong cos really the unemployment <{2> <[2> rate is </[2> very
+high recently
+
+<ICE-HK:S1A-045#547:2:A>
+So and there are increasing number of universities graduates <{3>
+<[3> so it  ' s very also difficult for Hong Kong students </[3>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X548:2:Z>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X549:2:Z>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X550:2:Z>
+<[3> Aw uhm uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X551:2:Z>
+Uhm uhm so you  ' re in third year now so you already started
+started to <foreign> na ni </foreign> <{> <[> finding jobs </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#552:2:A>
+<[> Find jobs </[> </{> uhm yes
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X553:2:Z>
+<{> <[> Uhm </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#554:2:A>
+<[> I have </[> </{> uh quite a number of application <.> fo
+</.> <{1> <[1> letters have been posted but </[1> uhm I have been requested {
+2> <[2> to perform some </[2> written <{3> <[3> test </[3> but uhm the result
+is still <{4> <[4> not not over yet </[4>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X555:2:Z>
+<[1> Uhm uhm uhm uhm uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X556:2:Z>
+<[2> Uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X557:2:Z>
+<[3> Uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X558:2:Z>
+<[4> Uhm uhm uhm uhm uhm </[4> </{4>
+
+<ICE-HK:S1A-045#X559:2:Z>
+Uh so usually to find jobs uh as you were a the how to say
+freshman in the uh I mean <.> na ni </.> uh you are just going to graduate so
+you don't have uh business experience right
+
+<ICE-HK:S1A-045#X560:2:Z>
+So so in in that case how <foreign> na ni </foreign> how do you
+find jobs in private <.> rela </.> relationship or I mean through the private
+relationship or you you use uh some uh how to say <.> or </.> organisation
+<{> <[> or something </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#561:2:A>
+<[> Uhm uhm uhm </[> </{>
+
+<ICE-HK:S1A-045#562:2:A>
+Uh uh for right now <{1> <[1> I  ' m </[1> finding some job as it  ' s
+for a life-long career <{2> <[2> so </[2> uh there is a career centre <{3>
+<[3> in Hong Kong University </[3> in in somewhere <{4> <[4> out there </[4>
+
+<ICE-HK:S1A-045#563:2:A>
+So uhm I just go there
+
+<ICE-HK:S1A-045#564:2:A>
+<{5> <[5> And </[5> there are a lot of notices put up <{6> <[6> so
+I can </[6> submit through this <{7> <[7> method
+
+<ICE-HK:S1A-045#565:2:A>
+And </[7> for my previous <{8> <[8> experience </[8> I have tired
+to find some job <{9> <[9> in my uh summer vacation Uh for this I just read
+</[9> uh South China Morning <{10> <[10> Post </[10>
+
+<ICE-HK:S1A-045#566:2:A>
+So by this kind of means I apply it <unc> a few words
+</unc> jobs
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X567:2:Z>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X568:2:Z>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X569:2:Z>
+<[3> Uhm uhm uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X570:2:Z>
+<[4> Uhm uhm uhm uhm </[4> </{4>
+
+<ICE-HK:S1A-045#X571:2:Z>
+<[5> Uhm </[5> </{5>
+
+<ICE-HK:S1A-045#X572:2:Z>
+<[6> Uhm uhm </[6> </{6>
+
+<ICE-HK:S1A-045#X573:2:Z>
+<[7> Uhm uhm uhm uhm </[7> </{7>
+
+<ICE-HK:S1A-045#X574:2:Z>
+<[8> Uhm </[8> </{8>
+
+<ICE-HK:S1A-045#X575:2:Z>
+<[9> Uhm uhm uhm uhm uhm uhm uhm </[9> </{9>
+
+<ICE-HK:S1A-045#X576:2:Z>
+<[10> Uhm uhm uhm uhm </[10> </{10>
+
+<ICE-HK:S1A-045#X577:2:Z>
+Aw it  ' s a how to say open <{> <[> in the <,> uhm uhm </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#578:2:A>
+<[> It  ' s open </[> </{>
+
+<ICE-HK:S1A-045#579:2:A>
+Is it the same case in Japan
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X580:2:Z>
+Uhm officially <{1> <[1> it  ' s </[1> really open
+
+<ICE-HK:S1A-045#X581:2:Z>
+But official open but they how to say all the students know there
+are many how to say not not official ways you know uh how <{2> <[2> it  ' s
+difficult </[2> </X>
+
+<$A> 
+<ICE-HK:S1A-045#582:2:A>
+<[1> Officially </[1> </{1>
+
+<ICE-HK:S1A-045#583:2:A>
+<[2> Not official ways </[2> </{2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X584:2:Z>
+That mean <{> <[> uh </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#585:2:A>
+<[> Through relationship </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X586:2:Z>
+Through relationship uh yes
+
+<ICE-HK:S1A-045#X587:2:Z>
+Not uhm of course they are of course they are open how to say
+examination were <foreign> na ni </foreign> uh <foreign> a noo </foreign> uhm
+yup but the uhm I don't know how how many percent but the <foreign> memo a su
+</foreign> uhm many part of the job <foreign> na ni </foreign> seeker they
+find their jobs through their their parents <.> rela </.> relationships <{1>
+<[1> or </[1> who were the the <.> el </.> elder students <{2> <[2> <,> </[2>
+of their own own university <{3> <[3> <,> uhm </3> and yes through that kind
+of relationship they ask them to introduce someone in charge and </X>
+
+<$A> 
+<ICE-HK:S1A-045#588:2:A>
+<{1> <[1> Uh huh </[1>
+
+<ICE-HK:S1A-045#589:2:A>
+<[2> Uh huh </[2> </{2>
+
+<ICE-HK:S1A-045#590:2:A>
+<[3> Uhm </[3> </{3>
+
+<ICE-HK:S1A-045#591:2:A>
+Aw <{> <[> it  ' s really good </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X592:2:Z>
+<[> Uhm uhm uhm </[> </{>
+
+<ICE-HK:S1A-045#X593:2:Z>
+So yes so uhm so sometimes it  ' s a it works <{1> <[1> I mean
+</[1> uhm uhm
+
+<ICE-HK:S1A-045#X594:2:Z>
+Uhm uhm really uhm <{2> <[2> <,> </[2> yes because of course
+there are many open area <{3> <[3> uhm </[3> but the uhm they how to say I I
+mean the companies they want have some guarantee to <foreign> na ni
+</foreign> to hire new person so <{4> <[4> you </[4> know this person so you
+want to have some guarantee <{5> <[5> so </[5> if they <foreign> na ni
+</foreign> find some person through the relationships then <{6> <[6> uhm uhm
+like that </[6>
+
+<ICE-HK:S1A-045#X595:2:Z>
+So I think uhm of course there are some some students uhm yeah
+their parents or their relatives are very powerful in the society <{7> <[7>
+like that </[7> so-called the this kind of <foreign> na ni </foreign> uhm
+relationship work will help in <{8> <[8> uh uhm </[8> </X>
+
+<$A> 
+<ICE-HK:S1A-045#596:2:A>
+<[1> It works </[1> </{1>
+
+<ICE-HK:S1A-045#597:2:A>
+<[2> Yeah </[2> </{2>
+
+<ICE-HK:S1A-045#598:2:A>
+<[3> Uhm </[3> </{3>
+
+<ICE-HK:S1A-045#599:2:A>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-045#600:2:A>
+<[5> Uh uh </[5> </{5>
+
+<ICE-HK:S1A-045#601:2:A>
+<[6> Since somebody know them better
+
+<ICE-HK:S1A-045#602:2:A>
+Oh I see </[6> </{6>
+
+<ICE-HK:S1A-045#603:2:A>
+<[7> Uh huh </[7> </{7>
+
+<ICE-HK:S1A-045#604:2:A>
+<[8> But which one is </[8> </{8> not common
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X605:2:Z>
+<{> <[> Uhm </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#606:2:A>
+<[> Through relationship or through those open area </[> </{>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X607:2:Z>
+Open uh through the open ways should be more advantage <{1> <[1>
+uhm </[1> but you know there are no actual uh <foreign> na ni </foreign> <{2>
+<[2> statistics about </[2> this because they don't don't they don't tell
+them uh <{3> <[3> about that </[3> so uhm
+
+<ICE-HK:S1A-045#X608:2:Z>
+But uh I think yah I think uh men men the male students they can
+<foreign> na ni </foreign> they <.> e </.> they are is it easier to them to
+find <{4> <[4> the </[4> job through the open way I think but to for female
+student I think uhm I think some time they have to relay on this kind of <{5>
+<[5> <,> relationships </[5> uhm uhm </X>
+
+<$A> 
+<ICE-HK:S1A-045#609:2:A>
+<[1> Yah yah </[1> </{1>
+
+<ICE-HK:S1A-045#610:2:A>
+<[2> Yah yah yah </[2> </{2>
+
+<ICE-HK:S1A-045#611:2:A>
+<[3> Yeah </[3> </{3>
+
+<ICE-HK:S1A-045#612:2:A>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-045#613:2:A>
+<[5> Relationship </[5> </{5>
+
+<ICE-HK:S1A-045#614:2:A>
+Is it really that uh women is very difficult to find job in Japan
+
+<ICE-HK:S1A-045#615:2:A>
+<{> <[> Much difficult than men </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X616:2:Z>
+<[> Uhm </[> </{> generally yes uhm but uhm <foreign> so ne
+</foreign> much much better than before uhm <{1> <[1> <,> </[1>
+
+<ICE-HK:S1A-045#X617:2:Z>
+So because there there are many capable <{2> <[2> uhm </[2> woman
+now uhm I think
+
+<ICE-HK:S1A-045#X618:2:Z>
+Uhm yeah uhm so yeah somehow different but uh usually it is said
+that uh <.> Jap </.> in in Japan there are hard discrimination among uh women
+
+<ICE-HK:S1A-045#X619:2:Z>
+But uh I think it  ' s a it  ' s how to say it  ' s uh a kind of <.> st
+</.> stereotype <{3> <[3> <,> </[3> uhm information uhm
+
+<ICE-HK:S1A-045#X620:2:Z>
+They yeah we we do have that kind of discrimination but it  ' s not
+the that simple I think
+
+<ICE-HK:S1A-045#X621:2:Z>
+Uhm because some woman really want to be in domestic in the house
+<{4> <[4> <,> </[4> want they want
+
+<ICE-HK:S1A-045#X622:2:Z>
+It  ' s not discrimination so uhm
+
+<ICE-HK:S1A-045#X623:2:Z>
+Of course someone there are somebody they doesn't want want be in
+uh they don't want to be in home <{5> <[5> but </[5> but they cannot find a
+job but to uhm it  ' s not really simple <{6> <[6> uhm </[6> I think
+
+<ICE-HK:S1A-045#X624:2:Z>
+<foreign> Hai </foreign> yah I sometimes I think be I am
+embarrassed yah people <{7> <[7> you know </[7> not Japanese this is Hong
+Kong people <{8> <[8> or American </[8> people they say in in Japan the
+females uh women is very poor or something about that
+
+<ICE-HK:S1A-045#X625:2:Z>
+I don't think so <{9> <[9> it  ' s </[9> not very simple uhm uhm uh
+</X>
+
+<$A> 
+<ICE-HK:S1A-045#626:2:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#627:2:A>
+<[2> Women </[2> </{2>
+
+<ICE-HK:S1A-045#628:2:A>
+<[3> Uhm </[3> </{3>
+
+<ICE-HK:S1A-045#629:2:A>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-045#630:2:A>
+<[5> Uhm </[5> </{5>
+
+<ICE-HK:S1A-045#631:2:A>
+<[6> Uhm </[6> </{6>
+
+<ICE-HK:S1A-045#632:2:A>
+<[7> Uh huh </[7> </{7>
+
+<ICE-HK:S1A-045#633:2:A>
+<[8> Uh huh uh huh </[8> </{8>
+
+<ICE-HK:S1A-045#634:2:A>
+<[9> Uhm </[9> </{9>
+
+<ICE-HK:S1A-045#635:2:A>
+May be it  ' s a kind of stereotype
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X636:2:Z>
+Uhm sure it  ' s a kind of <foreign> na ni ka na </foreign> story
+but <{> <[> uhm </[> uhm I think
+
+<ICE-HK:S1A-045#X637:2:Z>
+Uh have you ever been to Japan </X>
+
+<$A> 
+<ICE-HK:S1A-045#638:2:A>
+<[> Story </[> </{>
+
+<ICE-HK:S1A-045#639:2:A>
+Not yet <{1> <[1> I  ' m I  ' m </[1> planning to go to <{2> <[2>
+Japan next July </[2>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X640:2:Z>
+<[1> Uhm uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X641:2:Z>
+<[2> Uhm uhm uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X642:2:Z>
+Are you take part in the exchange or something </X>
+
+<$A> 
+<ICE-HK:S1A-045#643:2:A>
+No <{1> <[1> no </[1> I <{2> <[2> I </[2> yeah I <{3> <[3> by
+myself </[3>
+
+<ICE-HK:S1A-045#644:2:A>
+I  ' m I  ' m planning to go to
+
+<ICE-HK:S1A-045#645:2:A>
+Because I  ' m afraid if I don't go to Japan <{4> <[4> uhm </[4>
+after I  ' ve graduate <{5> <[5> then </[5> may be in the coming two years I
+may not have that <{6> <[6> long long time to go so </[6> I  ' m going to this
+<{7> <[7> summer </[7>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X646:2:Z>
+
+
+<ICE-HK:S1A-045#X647:2:Z>
+<[1> No </[1> </{1>
+
+<ICE-HK:S1A-045#X648:2:Z>
+<[2> Holiday </[2> </{2>
+
+<ICE-HK:S1A-045#X649:2:Z>
+<[3> Uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X650:2:Z>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-045#X651:2:Z>
+<[5> Uhm </[5> </{5>
+
+<ICE-HK:S1A-045#X652:2:Z>
+<[6> Uhm right uhm uhm uhm </[6> </{6>
+
+<ICE-HK:S1A-045#X653:2:Z>
+<[7> Uhm </[7> </{7>
+
+<ICE-HK:S1A-045#X654:2:Z>
+<{> <[> So </[> </X>
+
+<$A> 
+<ICE-HK:S1A-045#655:2:A>
+<[> Is </[> </{> any place recommended
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X656:2:Z>
+Uhm yeah many uh
+
+<ICE-HK:S1A-045#X657:2:Z>
+So so I think I  ' m sure you  ' re going to <{1> <[1> Tokyo </[1>
+and Kyoto <{2> <[2> right uhm </[2>
+
+<ICE-HK:S1A-045#X658:2:Z>
+So uhm yah Kyoto you should <foreign> na ni </foreign> go you
+should visit
+
+<ICE-HK:S1A-045#X659:2:Z>
+Because Tokyo is just like Hong Kong just <{3> <[3> large city
+uhm </[3> </X>
+
+<$A> 
+<ICE-HK:S1A-045#660:2:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-HK:S1A-045#661:2:A>
+<[2> Kyoto </[2> </{2>
+
+<ICE-HK:S1A-045#662:2:A>
+<[3> <unc> one-word </unc> Disneyland </[3> </{3>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X663:2:Z>
+Uh Disneyland yes
+
+<ICE-HK:S1A-045#X664:2:Z>
+No you know how to say Disneyland uh a kind of how to say fake
+
+<ICE-HK:S1A-045#X665:2:Z>
+So and Tokyo Kyoto of course their their the their <foreign> a
+noo </foreign> famous place and I think uh <foreign> na ni </foreign> uh you
+should visit some country <{1> <[1> side </[1> not very famous but I think
+you you can speak Japanese so I think no problem to visit there there there
+
+<ICE-HK:S1A-045#X666:2:Z>
+<foreign> A noo </foreign> there are many county side in <{2>
+<[2> Japan </[2> anyway
+
+<ICE-HK:S1A-045#X667:2:Z>
+I so like uh if you <foreign> na ni </foreign> somewhere near
+Tokyo then <foreign> Nagono </foreign> or <foreign> Shitsuke Yoketa sensai
+</foreign> is come from <foreign> Shitsuoka a noo honto na ni ka na
+</foreign> you know there are many villages or mountain and lakes sea uhm
+<foreign> omoshiroi </foreign>
+
+<ICE-HK:S1A-045#X668:2:Z>
+And the people you know they are different from people in Tokyo
+uhm uhm </X>
+
+<$A> 
+<ICE-HK:S1A-045#669:2:A>
+<[1> Uhm uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#670:2:A>
+<[2> Yeah yeah yeah yeah </[2> </{2>
+
+<ICE-HK:S1A-045#671:2:A>
+Cos I  ' m well I  ' m still thinking of course I I may not I may not
+live in I may not stay <{1> <[1> in hotel </[1> uh well I  ' m I  ' m thinking
+<{2> <[2> of </[2> stay in <{3> <[3> <foreign> Ryokan </foreign> or some
+</[3> <{4> <[4> <foreign> misuku </foreign> </[4>
+
+<ICE-HK:S1A-045#672:2:A>
+But uhm these two seem to be quite expensive
+
+<ICE-HK:S1A-045#673:2:A>
+<{5> <[5> But of course not that expensive as hotel </[5> but much
+expensive than in youth hostel
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X674:2:Z>
+<[1> Uhm uhm uhm uhm </[1> </{1>
+
+<ICE-HK:S1A-045#X675:2:Z>
+<[2> Uhm </[2> </{2>
+
+<ICE-HK:S1A-045#X676:2:Z>
+<[3> Uhm uhm uhm uhm </[3> </{3>
+
+<ICE-HK:S1A-045#X677:2:Z>
+<[4> Uhm </[4> </{4>
+
+<ICE-HK:S1A-045#X678:2:Z>
+<[5> Uhm uhm uhm uhm uhm </[5> </{5>
+
+<ICE-HK:S1A-045#X679:2:Z>
+Aw uhm uhm I think you can use youth hostel right </X>
+
+<$A> 
+<ICE-HK:S1A-045#680:2:A>
+I <{> <[> can stay in youth hostel </[>
+
+<$Z> <X>
+
+<ICE-HK:S1A-045#X681:2:Z>
+<[> Uhm uhm uhm uhm uhm </[> </{> </X> </I>

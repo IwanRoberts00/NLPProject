@@ -1,0 +1,272 @@
+<I>
+welcome to this presentation
+uh here today i will give you a brief introduction on the products
+on the company profile uh jardine information system and hong kong informix
+uh are you ready ok
+uh today you know uh we have a few products from the hong kong
+informix is the informix sql informix uh fourgl and many other tools
+front-end tools back-end tools and many other kinds of products 
+uh first of all i ' ll give you an introduction on the company
+profile 
+uh jardine information system
+jardine information system is the a division under jardine office
+system uh
+the main target of the the main goal of the jardine information
+system is to uh as a is a as a distributor to give you uh a service back-up
+and set you a products informix 
+informix is a database product is ah is give you a th ah 
+solution for you to dissolve the problems in relational database
+uh relational database as you may know then is uh is a
+kind of uh data information management concept
+uh it helps you to uh develop your application base on some rules
+of relational database
+actually this development is a set of tables
+a table is a kind of a for example is a kind of files are contains
+of a set of records
+this records contains of uh another set of fields and then
+information are uh would gather in this kind of uh this kind of format 
+hong kong informix
+hong kong informix is uh your you mainly give us our
+technical support and informations uh information brochure or some kinds of
+service support 
+then the main uh t the main support is given by us by
+jardine information system
+we ' ll give you uh a service backup or maintenance or training or
+any kinds of technical support 
+now uh we will go back to the sys uh to the product
+profile 
+informix 
+there is two kinds two kinds of products in informix product family
+the first one is the front-end tools
+the front-end tools is the for example is uh informix sql informix
+fourgl 
+uh front-end just means uh the application tools the software
+products that will interact direct directly with the user with the
+end user
+uh they will not handle they will not handle the real physical 
+reaphys real and physical uh data match 
+and the an another kinds of product is the back-end tools
+the back-end tools works is the it is the tools to directly access
+the database access the hardware the hard disk and the communication between
+between the two one-word is very important
+uh because uh as we have some kinds of operation from the end user
+ uh we will have to we have to uhm make uh a a uh connection
+between the front-end tools and the back-end tools 
+the uh as we make the operations valid and then i will send you a
+message send a call to the uh to the back-end tools and the and the back-end
+tools is the database engine
+the database engine will process the data uh directly with your
+hard disk make some uh transactions and then we ' ll make the result back to
+the front-end tools and user can in this kind of format they can uh access
+the data in the remote site 
+this kind of uh operation we can uh we can ss uh s called
+a client server model or uh or s or two process architecture 
+front-end tools 
+actually we have a several kinds of front en front-end
+tools
+the first one is s isql we call it uh informix sql
+uh informix s sql stands for you know uh some 
+somebody may know is the uh structural query language
+uh it ' s a language de uh derive from the ansi uh ansi
+standard
+ansi standard stands for a n s i american national uh standards
+institute
+it gives you a standard in the relational database and we give the
+uh we and we can uh use this uh this kind of standard and develop our
+standard we call it informix sql 
+informix sql is actually a front-end tools
+the se second one is the uh the informix fourgl 
+informix fourgl is the another product that is the program and
+environment for you to develop your program with fourgl 
+fourgl means uh stands for fourth generation language 
+fourth generation language is the is the new language a new
+generation language different from the third generation
+the third genera third generation languages > ? > were
+known as c or pascal it ' s a kind of language
+it gives you uh many flexibility on various purpose
+various purpose uh for you to develop to uh your own application
+but for the fourth generation language is mainly its main goal
+is to develop your application of uh database 
+it deal much uh much work in database but not other kinds of uh of
+applications and that is the fourth generation language 
+and the and there ' s another front-end users the esql 
+esql is the embedded sql with c is that that means that you can
+you can write uh computer language uh with sql and third languag 
+third generation language c together
+and two languages can be combined into a single language and
+then we call it esqlc
+it giv it gives you a great flexibility in programming
+and generally we can have this kind of uh front-end tools 
+the back-end tools
+the back-end tools is uh divided into two processes 
+uh back-end tools uh is actually is actually uh is a either a 
+data online database engine or standard engine 
+standard engine will give you a uh give you a easy of use uh
+product
+actually it will gives you an little management uh database engine
+because for the standard engine you you need not uh care about much uh much
+thing that are so certif certificate or uh most of the complicated
+work are eliminated
+uh but for the online engine you you need to uh you need to
+tackle with many technical problems because uh it will contain many uh
+operation system concept
+for example uh you you have to manage a hard disk with the online
+engine 
+uh you have to manage your memory and other tools in the in the
+in the operating system or hardware and this kind of one-word
+ will be handled in the online engine but not in the standard
+engine
+standard engine will not handle this kind of operations 
+but how about the uh how about a a how about the standard
+engine and if if it cannot handle this kind of uh operating system or it
+cannot adapt to only uh uh platform configuration uh because the online
+engine the online engine is the is the engine which will give you a
+uh all availability one-word 
+that means the you the the availa the high availability
+will give you for example uh seven seven days in the week and twenty-four
+hours a day uh service
+then the online engine will not be down will not will n n 
+will not down uh in any aspect even though even though the hard disk is
+crashed or the power is down and the online engine can can have a
+recovery process such that even the hardware uh has some uh any difficulties
+to operation and or or or there ' s any the power power insufficiency and then
+the online engine can handle this kind of problems uh that so that the data
+in the database in the 1-word engine will not be
+corrupted
+but for the standard engine there will have little little uh
+little tools for you to uh handle this kind of problem is for example the
+power down or the disk crash 
+this ' s the difference between the online engine and the standard
+engine
+now uh in the following sections i will give you a more details in
+this kind of products and how they interact with each other 
+first of all is informix sql
+informix sql is actually uh is actually a uh user environment for
+you to developing your full your full applications in database 
+in the informix sql there are five built-in tools
+the first one is form form writer form writer 
+the second is report writer 
+and then it ' s interactive t s sql editor interactive
+sql editor 
+and finally there is a interactive schema editor schema editor
+and okay form writer
+form writer is actually is uh is just for you to build your scheme
+form
+the scheme form actually is a is a is a format for you to uh manage
+your database on the screen on the on the screen tha u that will
+give you for example wil uh uh we will use the term what you see is
+what you get that means uh whatever you write in the form classifications
+there will be uh the same exact format you will see on the screen
+ that ' s the form form writer
+the form writer will give you uh the tools for you to uh wr
+ write your form the screen form in a form specifications
+a form specifica specifications specify which
+kind of operations can uh will be valid in the in the form field in the
+form field
+there are there are the four operations uh in the form writer
+the first one is uh query 
+update delete add this kind of operation is uh are
+usually used in uh in usual in usual operations in the database is to add a
+record delete a record or carry a find a record from the database
+this kind of operations are are the most most likely used in the
+database operations and then you ' ll give the the form writer will give this
+kind of operations valid for you to operate on the database 
+the second one is report writer
+report writer tool gives you a uh great flexibility in writing a
+report
+the report can be for example a name list or label or some
+kinds of format some kind of format that will give you a column table format
+report 
+the report writer uh is the uh is very like that with the
+form form writer because the report writer can uh can give you a uh also a
+ use the report writer will use uh also uh a for a report
+specification
+after you specify your report specifications you the report writer
+can generate automatically uh the report the report uh format that you want
+uh sometimes the report may involve a calculation for example uh
+after you write a report you there will a subtotal or or some average and
+some some fields or some columns and then the report writer will
+automatically generate this kind of calculation no matter no matter uh uh
+what kind of data is uh uh inside the database
+because sometimes the database will change from the time to time
+and then the report writer need not to regenerate need not to be regenerated
+and the order report to you can be valid even you have changed the database
+content and the report writer will generate a report format such that the
+report format can be used uh even your data can uh have been changed and that ' s
+the flexibility of the report writer 
+the first one in the third one is the interactive interactive sql
+editor
+actually you can write some sql statements
+sql statements is the format defined in the ansi standard ansi
+standard sql 
+and the interactive sql states sql ss editor will
+ a allow you to uh write some sql statements and run the sql
+statements because uh after you write the sql statements the machine will not
+know what you want what you want that what you want to do and then the editor
+will help you to run the sql statement
+for example there are several uh sql statements we will usually use
+the first one is select select statement
+select statement is the kind of operation we want to uh for example
+ if you want to uh get some information from the database for example
+i want to select the customer number customer name customer address from
+the database table customer from the customer table and then the 
+one-word after you run the operation uh the scheme will give you
+the results and the database will give you uh the full set of uh information
+you specify company name company uh the customer name customer number in the
+format in the format you specify
+but there ' s difference between the report writer and this kind of
+select statement because uh the select statement will not format will not
+format your your output
+it just gives you the output gives you the output
+only will not format wil uh the output but for the uh report writer
+it ' ll give you the format
+for example you want the customer na 
+name uh positioned at the the at the th some specific place or you
+want your address uh display in some format
+and then the report writer will help you to do this kind of
+formatting but for the select statement it will give it ' ll giv give
+you information only and t no formatting uh will be derived
+and there are many other kinds of sql statement for example is
+insert or delete uh this kind of operation will help you to insert
+uh a record to the database table or delete it from the database table
+this kind of operation will be will be will be used oftenly in the
+sql editor
+and there are many other kinds of tools that that are not defined
+in the in the ansi system sql and then it will it will also uh u it
+you can also use this kind of uh sql statement uh
+we we had better call it uh utility
+actually it ' s not a s sql statement
+this kind of utility uh this is a utility unique to uh informix
+and uh other kinds of uh s uh database software will not
+contain this kind of uh operations for example is load and unload l o a d
+it will you can load the data from the t the
+external date external file for example is sq file or some kind of
+uh external format and you can use this kind of utilities to uh load your
+data and and and of course uh there are many other kinds of uh utilities 
+ these are the functions of the informix uh informix
+ 1-word 
+and the fourth one is the the interactive schema editor 
+informix schema editor is actually is actually uh an
+editor for you to design your database structures design your uh table
+structure table definitions because in this table it is a kind of uh
+information for example i have uh customer data customer table for
+example i have a customer table
+a customer table will contain the information uh customer
+number customer name customer address customer telephone number 
+and you can uh spec you must specify each group
+one by one with exact data type 
+for example you must specify your your customer number as as a
+character type your customer name as character type uh address as
+character type of ten character or telephone number as uh an integer and
+then you have to specify which kin which kind of data uh for each
+field it will be
+and you have to define this kind of uh table definitions 
+uh this kind of definitions uh can be written can be written in
+sql statement as well as you can uh define this kind of definitions with
+the interactive sql schema editor
+the schema editor will help you to define this kind of table
+definitions uh in the format uh you just fill in the blanks just 
+fill in the blanks uh one by one and then you will see the table
+structure defined 
+that ' s the flexi that ' s the convenience for you to uh
+ de uh develop your application 

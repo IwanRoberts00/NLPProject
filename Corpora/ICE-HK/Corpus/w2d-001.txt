@@ -1,0 +1,630 @@
+<I> <h>
+
+<ICE-HK:W2D-001#1:1>
+<bold> HOW TO APPLY FOR AIRCRAFT STATION LICENCE &obrack; FOR AIRCRAFT
+REGISTERED IN HONG KONG ONLY &cbrack; </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#2:1>
+In Hong Kong , the establishment or maintenance of any
+radiocommunication apparatus on board an aircraft registered in Hong Kong is
+subject to control under the Telecommunication Ordinance , Cap. 106 .
+
+<ICE-HK:W2D-001#3:1>
+If the aircraft owner wishes to establish a radio station on board the
+aircraft , he/she is required to take out an Aircraft Station Licence from
+the Office of the Telecommunications Authority &obrack; OFTA &cbrack; . </p>
+<h>
+
+<ICE-HK:W2D-001#4:1>
+<bold> GENERAL LICENSING CONDITIONS </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#5:1>
+The Aircraft Station Licence will only be issued to those aircraft
+fulfilling the following requirements :
+
+<ICE-HK:W2D-001#6:1>
+&obrack; 1 &cbrack; possessing a Certificate of Registration of
+Aircraft; or &obrack; 2 &cbrack; having been confirmed by the Civil Aviation
+Department , Hong Kong , that the aircraft is under registration process; and
+&obrack; 3 &cbrack; possessing a Certificate of Approval of Aircraft Radio
+Installation issued by Civil Aviation Department , Hong Kong , if available .
+</p> <h>
+
+<ICE-HK:W2D-001#7:1>
+<bold> RADIO AND ELECTRONIC NAVIGATIONAL APPARATUS INSTALLED ON BOARD
+AIRCRAFT </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#8:1>
+The radio and electronic navigational apparatus installed on board
+the aircraft must comply with all relevant Civil Airworthiness Requirements .
+</p> <h>
+
+<ICE-HK:W2D-001#9:1>
+<bold> APPLICATION </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#10:1>
+Application for the Aircraft Station Licence shall be made to :
+Maritime Services Sub-section ,
+
+<ICE-HK:W2D-001#11:1>
+Office of the Telecommunications Authority ,
+
+<ICE-HK:W2D-001#12:1>
+29/F. , Wu Chung House ,
+
+<ICE-HK:W2D-001#13:1>
+213 Queen  ' s Road East ,
+
+<ICE-HK:W2D-001#14:1>
+Wan Chai ,
+
+<ICE-HK:W2D-001#15:1>
+Hong Kong . </p>
+
+<p> 
+<ICE-HK:W2D-001#16:1>
+The applicant shall submit the completed application form
+together with the photocopies of the following documents whichever are
+applicable :
+
+<ICE-HK:W2D-001#17:1>
+&obrack; 1 &cbrack; Certificate of Registration of Aircraft issued by
+the Civil Aviation Department , Hong Kong , if the registration of the
+aircraft is completed;
+
+<ICE-HK:W2D-001#18:1>
+&obrack; 2 &cbrack; Certificate of Approval of Aircraft Radio
+Installation;
+
+<ICE-HK:W2D-001#19:1>
+&obrack; 3 &cbrack; Certificate of Incorporation;
+
+<ICE-HK:W2D-001#20:1>
+&obrack; 4 &cbrack; Business Registration Certificate . </p>
+
+<p> 
+<ICE-HK:W2D-001#21:1>
+The licence fee is &dollar; 150 .
+
+<ICE-HK:W2D-001#22:1>
+Payment shall be made by cash or crossed cheque of local bank or bank
+draft payable to &ldquo; Office of the Telecommunications Authority &rdquo; .
+</p> <h>
+
+<ICE-HK:W2D-001#23:1>
+<bold> OPENING HOURS OF APPLICATION OFFICE </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#24:1>
+The office hours are 9:00 a.m. to 12:30 p.m. and 2:00 p.m. to
+4:00 p.m. Monday to Friday and 9:00 a.m. to 11:00 a.m. on Saturday .
+
+<ICE-HK:W2D-001#25:1>
+The office will be closed on Sundays and public holidays . </p> <h>
+
+<ICE-HK:W2D-001#26:1>
+<bold> HOW TO COMPLETE AN APPLICATION FORM </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#27:1>
+Application must clearly specify the make , type and other
+required information of the radio equipment on the application form .
+
+<ICE-HK:W2D-001#28:1>
+You are advised to clarify these particulars with your radio
+contractor so as to ensure all the equipment particulars to be entered on the
+aircraft station licence are correct . </p>
+
+<p> 
+<ICE-HK:W2D-001#29:1>
+When completing the application form , please indicate the
+quantity of equipment if more than one set of equipment of the same make and
+model are installed . </p> <h>
+
+<ICE-HK:W2D-001#30:1>
+<bold> HOW TO APPLY FOR REGISTRATION FOR SERVICE ACTIVATION OF AES
+</bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#31:1>
+An aircraft earth station installed on board has to be registered
+for service activation before being allowed to gain access to the Inmarsat
+system .
+
+<ICE-HK:W2D-001#32:1>
+For Hong Kong aircrafts , OFTA is the &ldquo; routing organization
+&rdquo; &obrack; RO &cbrack; to route such applications to Inmarsat . </p>
+
+<p> 
+<ICE-HK:W2D-001#33:1>
+In this regard , an endorsement fee of HK&dollar; 125 and
+tele-fax fee of HK&dollar; 40 will be charged for each application .
+
+<ICE-HK:W2D-001#34:1>
+The Inmarsat &ldquo; Registration For Service Activation &rdquo;
+forms are available on request . </p> <h>
+
+<ICE-HK:W2D-001#35:1>
+<bold> ISSUE OF AIRCRAFT STATION LICENCE </bold> </h>
+
+<ICE-HK:W2D-001#36:1>
+&obrack; 1 &cbrack; For the aircraft already registered
+
+<ICE-HK:W2D-001#37:1>
+The Aircraft Station Licence will be issued to the aircraft owner if
+the application is in order .
+
+<ICE-HK:W2D-001#38:1>
+&obrack; 2 &cbrack; For the aircraft under registration process
+
+<ICE-HK:W2D-001#39:1>
+An undated Aircraft Station Licence will be sent to the Civil
+Aviation Department of Hong Kong , which will then issue this licence to the
+aircraft owner upon completion of registration of the aircraft . <h>
+
+<ICE-HK:W2D-001#40:1>
+<bold> ENQUIRIES </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#41:1>
+Enquiries for further details of the application can be made to
+the Maritime Services Sub-section , Office of the Telecommunications
+Authority on Telephone : 2961 6606-8 Fax : 2803 5113 </p> </I>
+
+<I> <h>
+
+<ICE-HK:W2D-001#42:2>
+<bold> HOW TO APPLY FOR AN AMATEUR RADIO STATION LICENCE </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#43:2>
+In Hong Kong , the possession or use of any radiocommunication
+apparatus is subject to control under the Telecommunication Ordinance
+&obrack; Cap. 106 &cbrack; .
+
+<ICE-HK:W2D-001#44:2>
+If a person wishes to establish and operate an amateur radio station
+, he/she is required to take out an appropriate licence and an Authority To
+Operate from the Office of the Telecommunications Authority &obrack; OFTA
+&cbrack; . </p> <h>
+
+<ICE-HK:W2D-001#45:2>
+<bold> TYPES OF LICENCE </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#46:2>
+There are three types of licence , namely : &obrack; 1 &cbrack;
+Amateur Station Licence &obrack; Full Operation &cbrack;
+
+<ICE-HK:W2D-001#47:2>
+This type of licence is issued for the operation of the full range of
+privileges available to licensed amateurs , so long if they operate within
+the authorised frequency bands and under the specified conditions .
+
+<ICE-HK:W2D-001#48:2>
+&obrack; 2 &cbrack; Amateur Station Licence &obrack; Restricted
+Operation &cbrack;
+
+<ICE-HK:W2D-001#49:2>
+This type of licence is issued for restricted operation only .
+
+<ICE-HK:W2D-001#50:2>
+The licensee is confined to transmitting on authorised frequencies
+above 50.05MHz only and under the specified conditions .
+
+<ICE-HK:W2D-001#51:2>
+&obrack; 3 &cbrack; Amateur Station Licence &obrack; Club Operation
+&cbrack;
+
+<ICE-HK:W2D-001#52:2>
+This type of licence is issued for the operation of amateur equipment
+owned by a club , or association , etc. which is formally registered in Hong
+Kong and the purpose of which is for the self-training , intercommunication
+and technical investigations of its members without any pecuniary interest
+being incurred .
+
+<ICE-HK:W2D-001#53:2>
+The radio equipment so licensed shall be operated by , or in the
+presence and under the supervision of , a person who has been authorised by
+the licensee for this purpose and who possesses the appropriate Authority To
+Operate issued by the Office of the Telecommunications Authority . </p>
+
+<p> 
+<ICE-HK:W2D-001#54:2>
+The annual licence fee of an Amateur Station licence is &dollar;
+150 .
+
+<ICE-HK:W2D-001#55:2>
+Payment can be made by cash , crossed cheque of local bank or
+bankdraft payable to &lsquo; Office of the Telecommunications Authority
+&rsquo; . </p> <h>
+
+<ICE-HK:W2D-001#56:2>
+<bold> AUTHORITY TO OPERATE &obrack; ATO &cbrack; </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#57:2>
+The ATO is an identity card to identify the holder of the card as
+a person who is qualified to operate licensed amateur radio equipment in Hong
+Kong .
+
+<ICE-HK:W2D-001#58:2>
+When an amateur operates licensed mobile and portable amateur
+equipment outdoors , the ATO is the document to identify himself if
+questioned by the appropriate authorities .
+
+<ICE-HK:W2D-001#59:2>
+The fee of an ATO is &dollar; 160 and it is valid for five years .
+</p> <h>
+
+<ICE-HK:W2D-001#60:2>
+<bold> QUALIFICATIONS </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#61:2>
+Applicants for an amateur station licence and/or an ATO with full
+privileges must satisfy the following requirements :
+
+<ICE-HK:W2D-001#62:2>
+&obrack; 1 &cbrack; must be at least 16 years old; &obrack; 2
+&cbrack; have passed the Radio Amateur Examination of the City and Guilds of
+the London Institute , or Hong Kong Radio Amateurs  '  Examination conducted by
+OFTA , or equivalent; and &obrack; 3 &cbrack; have passed the Morse test
+conducted by the Office of the Telecommunications Authority . </p>
+
+<p> 
+<ICE-HK:W2D-001#63:2>
+Applicants who have not passed the Morse test may apply for an
+amateur station licence and/or an ATO with restricted privileges only . </p>
+
+<p> 
+<ICE-HK:W2D-001#64:2>
+If the applicant is under 18 years of age , the licence will be
+issued in the name of his or her parent or guardian , who will be the person
+responsible for the observation of the licence conditions . </p> <h>
+
+<ICE-HK:W2D-001#65:2>
+<bold> MORSE TEST </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#66:2>
+The Morse test is conducted by the Office of the
+Telecommunications Authority on a monthly basis .
+
+<ICE-HK:W2D-001#67:2>
+A fee of &dollar; 80 is charged and requirements of the test are
+given below :
+
+<ICE-HK:W2D-001#68:2>
+<O> table-of-requirements </O>
+
+<ICE-HK:W2D-001#69:2>
+&obrack; The test will not include punctuations , accented letters or
+other symbols . &cbrack; </p> <h>
+
+<ICE-HK:W2D-001#70:2>
+<bold> THE RADIO AMATEUR EXAMINATION </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#71:2>
+Hong Kong Radio Amateurs  '  Examination is conducted by OFTA twice
+annually , usually in March and September .
+
+<ICE-HK:W2D-001#72:2>
+Announcement to invite application will be made 3 months in advance .
+
+<ICE-HK:W2D-001#73:2>
+The syllabus of this examination covers the elementary theory of
+radiocommunication , knowledge of transmitting techniques and operating
+procedures that a radio amateur should know .
+
+<ICE-HK:W2D-001#74:2>
+Details are available from Maritime Services Subsection &obrack; Tel
+: 2961 6608 &cbrack; .
+
+<ICE-HK:W2D-001#75:2>
+The City and Guilds of London Institute also conducted its Radio
+Amateur Examination twice annually in Hong Kong , usually in May and December .
+
+<ICE-HK:W2D-001#76:2>
+Details are available from the Sir Issac Pitman Ltd. , South China
+Office , Room 1008 , Tai Yau Building , 181 Johnston Road , Wan Chai , Hong
+Kong .
+
+<ICE-HK:W2D-001#77:2>
+&obrack; Tel : 2832 5833 &cbrack; . </p> <h>
+
+<ICE-HK:W2D-001#78:2>
+<bold> FOREIGN VISITORS </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#79:2>
+Amateur radio operator  ' s licences issued in certain foreign
+countries are recognised in Hong Kong .
+
+<ICE-HK:W2D-001#80:2>
+Foreign visitors holding a valid licence issued by the appropriate
+authority in any of these countries will be considered acceptable . Any
+visitor who wishes to operate licensed amateur radio equipment in Hong Kong
+must apply for an ATO and , if he/she also wishes to possess and establish
+his/her own station in Hong Kong , shall apply for an amateur station licence .
+
+<ICE-HK:W2D-001#81:2>
+A visitor will be normally issued an ATO and where appropriate , an
+amateur station licence with his/her home call sign with the prefix of VR2 .
+
+<ICE-HK:W2D-001#82:2>
+A visitor who has already applied for Hong Kong Identity card will be
+issued an ATO and , where appropriate , an amateur station licence with a
+local call sign in the VR2 series .
+
+<ICE-HK:W2D-001#83:2>
+The ATO and the licence may be renewed depending on his/her further
+stay in Hong Kong .
+
+<ICE-HK:W2D-001#84:2>
+For further details or a list of the countries recognised , please
+contact the Maritime Services Sub-section , Office of the Telecommunications
+Authority &obrack; Tel . 2961 6608 &cbrack; . </p> <h>
+
+<ICE-HK:W2D-001#85:2>
+<bold> IMPORTING AMATEUR RADIO EQUIPMENT </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#86:2>
+Foreign visitors who intend to bring their amateur radio
+equipment into Hong Kong must apply for an import permit from the Office of
+the Telecommunications Authority beforehand .
+
+<ICE-HK:W2D-001#87:2>
+Failure to do so may result in the equipment being impounded by the
+customs .
+
+<ICE-HK:W2D-001#88:2>
+Applications for an import permit must include details of the
+equipment , such as the model , make , frequency bands , emission modes ,
+serial number , the period of stay , and the prescribed fee .
+
+<ICE-HK:W2D-001#89:2>
+The application should be addressed to : &dash; Licensing &ampersand;
+Inspection Sub-section ,
+
+<ICE-HK:W2D-001#90:2>
+Office of the Telecommunications Authority ,
+
+<ICE-HK:W2D-001#91:2>
+29/F. , Wu Chung House ,
+
+<ICE-HK:W2D-001#92:2>
+213 Queen  ' s Road East ,
+
+<ICE-HK:W2D-001#93:2>
+Wan Chai ,
+
+<ICE-HK:W2D-001#94:2>
+Hong Kong .
+
+<ICE-HK:W2D-001#95:2>
+Tel. : 2961 6671
+
+<ICE-HK:W2D-001#96:2>
+Fax : 2803 5110 </p> <h>
+
+<ICE-HK:W2D-001#97:2>
+<bold> HONG KONG AMATEUR RADIO TRANSMITTING SOCIETY &obrack; HARTS
+&cbrack; </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#98:2>
+The Hong Kong Amateur Radio Transmitting Society &obrack; HARTS
+&cbrack; is a member of the International Amateur Radio Union .
+
+<ICE-HK:W2D-001#99:2>
+The HARTS looks after the interests of the local radio amateurs and
+it has a QSL Bureau .
+
+<ICE-HK:W2D-001#100:2>
+Those interested in joining the Society may write to : The Secretary
+,
+
+<ICE-HK:W2D-001#101:2>
+Hong Kong Amateur Radio Transmitting Society ,
+
+<ICE-HK:W2D-001#102:2>
+GPO Box 541 ,
+
+<ICE-HK:W2D-001#103:2>
+Hong Kong . </p> <h>
+
+<ICE-HK:W2D-001#104:2>
+<bold> APPLICATIONS </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#105:2>
+Application for the amateur station licence , ATO and Morse test
+should be made to : Maritime Services Sub-section ,
+
+<ICE-HK:W2D-001#106:2>
+Office of the Telecommunications Authority ,
+
+<ICE-HK:W2D-001#107:2>
+29/F. , Wu Chung House ,
+
+<ICE-HK:W2D-001#108:2>
+213 Queen  ' s Road East ,
+
+<ICE-HK:W2D-001#109:2>
+Wan Chai ,
+
+<ICE-HK:W2D-001#110:2>
+Hong Kong .
+
+<ICE-HK:W2D-001#111:2>
+Tel. : 2961 6608
+
+<ICE-HK:W2D-001#112:2>
+Fax : 2591 0316 </p>
+
+<p> 
+<ICE-HK:W2D-001#113:2>
+The relevant application forms are available at the above
+address or through interactive voice response system on phone 2891 0990 and
+should be properly and clearly completed , signed and submitted together with
+the prescribed fee and the relevant supporting documents .
+
+<ICE-HK:W2D-001#114:2>
+If the application is in order , the licence and/or ATO will
+normally be sent to the applicant by post . </p>
+
+<p> 
+<ICE-HK:W2D-001#115:2>
+The office hours for applications are 9:00 a.m. to 12:30 p.m.
+and 2:00 p.m. to 4:00 p.m.
+
+<ICE-HK:W2D-001#116:2>
+Monday to Friday and 9:00 a.m. to 11:00 a.m. on Saturday .
+
+<ICE-HK:W2D-001#117:2>
+The office is closed on Sundays and public holidays . </p>
+
+<p> 
+<ICE-HK:W2D-001#118:2>
+Applicants for the Morse test , should phone 2961 6608 to make
+an appointment at least one week before the end of each month . </p> <h>
+
+<ICE-HK:W2D-001#119:2>
+<bold> ENQUIRIES </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#120:2>
+Enquiries should be addressed to the Maritime Services
+Sub-section &obrack; Tel. : 2961 6608 &cbrack; . </p> </I>
+
+
+<I> <h>
+
+<ICE-HK:W2D-001#121:3>
+<bold> HOW TO APPLY FOR HOTEL TELEVISION SERVICES LICENCE </bold>
+</h>
+
+<p> 
+<ICE-HK:W2D-001#122:3>
+In accordance with the Telecommunication Ordinance , the
+provision and operation of closed circuit television entertainment and
+information services within a hotel is subject to license under the Hotel
+Television Services &obrack; HTS &cbrack; Licence . </p>
+
+<p> 
+<ICE-HK:W2D-001#123:3>
+Under the terms of the HTS Licence , paid advertising and
+pay-per-view are permitted .
+
+<ICE-HK:W2D-001#124:3>
+There is no restriction on advertising time in hotel television
+broadcasts , but the advertising will have to conform to standards laid down
+in the Code of Practice relating to Advertising Standards issued under the
+Television Ordinance .
+
+<ICE-HK:W2D-001#125:3>
+The Commissioner for Television and Entertainment Licensing will
+also monitor the programme materials broadcast within a hotel that these
+programme materials do not breach the Control of Obscene and Indecent
+Articles Ordinance . </p>
+
+<p> 
+<ICE-HK:W2D-001#126:3>
+Application for HTS Licence should be made in writing to: Office
+of the Telecommunications Authority , 36/F , Wu Chung House , 213 Queen  ' s
+Road East , Wan Chai , Hong Kong . </p>
+
+<p> 
+<ICE-HK:W2D-001#127:3>
+Only hotels licensed by the Licensing Authority under the Hotel
+and Guesthouse Accommodation Ordinance will be considered by the
+Telecommunications Authority for the issue of HTS Licence . </p> <h>
+
+<ICE-HK:W2D-001#128:3>
+<bold> INFORMATION REQUIRED FROM APPLICANT </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#129:3>
+An applicant should provide the following information:
+
+<ICE-HK:W2D-001#130:3>
+&obrack; a &cbrack; A copy of the Business Registration Certificate
+and the Certificate of Incorporation of the hotel , and , a copy of the
+Business Registration Certificate of the parent company , if applicable .
+
+<ICE-HK:W2D-001#131:3>
+&obrack; b &cbrack; A copy of the Membership Certificate issued by
+the Hong Kong Hotels Association , or , a copy of the licence issued by the
+Licensing Authority under the Hotel and Guesthouse Accommodation Ordinance .
+
+<ICE-HK:W2D-001#132:3>
+&obrack; c &cbrack; A description of the system to be installed
+including number of channels , proposed frequency plan and other details of
+the distribution system together with a schematic diagram showing the
+detailed connections of the proposed system .
+
+<ICE-HK:W2D-001#133:3>
+&obrack; d &cbrack; A description of the services to be provided
+together with a list showing the channel numbers and programme titles .
+
+<ICE-HK:W2D-001#134:3>
+&obrack; e &cbrack; The number of reception units to be connected to
+the proposed system . </p> <h>
+
+<ICE-HK:W2D-001#135:3>
+<bold> LICENCE FEE </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#136:3>
+The licence fees would be calculated in accordance with the
+following formula:
+
+<ICE-HK:W2D-001#137:3>
+&obrack; a &cbrack; A fee of &dollar;150 for every transmitter unit
+functioning as an independent source of television programmes and &dollar;80
+for every reception unit functioning as an independent output from the system
+payable on the grant or renewal of a HTS Licence , and , when apparatus for
+radiocommunication is possessed , used , established or maintained in the
+distribution system of the service licensed , the following additional fees
+shall be payable on the grant and renewal of the licence:
+
+<ICE-HK:W2D-001#138:3>
+&obrack; 1 &cbrack; A fee of &dollar;75 per MHz of occupied
+bandwidth for every radio transmitter in the distribution system , and
+
+<ICE-HK:W2D-001#139:3>
+&obrack; 2 &cbrack; A fee of &dollar;75 per MHz of occupied
+bandwidth for every radio receiver in the distribution system .
+
+<ICE-HK:W2D-001#140:3>
+&obrack; b &cbrack; For the purpose of determining the fees payable
+under LICENCE FEE &obrack; a &cbrack; in respect of the transmitter units and
+the reception units , the number of units shall be those functioning at the
+time when the licence is granted or , as the case may be , renewed .
+
+<ICE-HK:W2D-001#141:3>
+And , for the purpose of determining the fees payable under LICENCE
+FEE &obrack; a &cbrack; &obrack; 1 &cbrack; and &obrack; 2 &cbrack; , the
+occupied bandwidth shall be that occupied at the time when the licence is
+granted or renewed . </p> <h>
+
+<ICE-HK:W2D-001#142:3>
+<bold> ENQUIRIES </bold> </h>
+
+<p> 
+<ICE-HK:W2D-001#143:3>
+Enquiries relating to licensing matters can be made by telephone
+to the Controller of Telecommunications , Office of the Telecommunications
+Authority at 2961 6708 .
+
+<ICE-HK:W2D-001#144:3>
+Enquiries relating to programmes standards or advertising materials
+can be made by telephone to the Chief Entertainment Standards Control Officer
+, Television and Entertainment Licensing Authority at 2594 5791 . </p> </I>

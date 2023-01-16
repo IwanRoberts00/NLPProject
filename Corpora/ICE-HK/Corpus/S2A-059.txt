@@ -1,0 +1,519 @@
+<I>
+
+<$A> 
+<ICE-HK:S2A-059#1:1:A>
+Welcome to this presentation
+
+<ICE-HK:S2A-059#2:1:A>
+Uh here today I will give you a brief introduction on the products
+on the company profile uh Jardine information system and Hong Kong Informix
+
+<ICE-HK:S2A-059#3:1:A>
+Uh <,,> are you ready <,> ok
+
+<ICE-HK:S2A-059#4:1:A>
+Uh today you know uh we have a few products from the Hong Kong
+Informix <,> is the Informix SQL <,> Informix uh FourGL and many other tools
+front-end tools back-end tools and many other kinds of products <,>
+
+<ICE-HK:S2A-059#5:1:A>
+Uh first of all I  ' ll give you an introduction on the company
+profile <,>
+
+<ICE-HK:S2A-059#6:1:A>
+Uh Jardine Information System
+
+<ICE-HK:S2A-059#7:1:A>
+Jardine Information System is the a division under Jardine Office
+System uh
+
+<ICE-HK:S2A-059#8:1:A>
+The main target of the the main goal of the Jardine Information
+System is to uh as a is a as a distributor to give you uh a service back-up
+and set you a products informix <,>
+
+<ICE-HK:S2A-059#9:1:A>
+Informix is a database product is ah is give you a <.> th ah </.>
+solution for you to dissolve the problems in relational database
+
+<ICE-HK:S2A-059#10:1:A>
+Uh <?> relational database </?> as you may know then is uh is a
+kind of uh <.> data </.> information management concept
+
+<ICE-HK:S2A-059#11:1:A>
+Uh it helps you to uh develop your application base on some rules
+of relational database
+
+<ICE-HK:S2A-059#12:1:A>
+Actually <?> this development </?> is a set of tables
+
+<ICE-HK:S2A-059#13:1:A>
+A table is a kind of a for example is a kind of files are contains
+of a set of records
+
+<ICE-HK:S2A-059#14:1:A>
+This records contains of uh another set of fields and then
+information are uh would gather in this kind of uh this kind of format <,>
+
+<ICE-HK:S2A-059#15:1:A>
+Hong Kong Informix
+
+<ICE-HK:S2A-059#16:1:A>
+Hong Kong Informix <?> is </?> uh your you mainly give us our
+technical support and informations uh information brochure or some kinds of
+service support <,>
+
+<ICE-HK:S2A-059#17:1:A>
+Then the main uh <.> t </.> the main support is given by us by
+Jardine Information System
+
+<ICE-HK:S2A-059#18:1:A>
+We  ' ll give you uh a service backup or maintenance or training or
+any kinds of technical support <,>
+
+<ICE-HK:S2A-059#19:1:A>
+Now uh we will go back to the <.> sys </.> uh to the product
+profile <,>
+
+<ICE-HK:S2A-059#20:1:A>
+Informix <,>
+
+<ICE-HK:S2A-059#21:1:A>
+There is two kinds two kinds of products in Informix product family
+
+<ICE-HK:S2A-059#22:1:A>
+The first one is the front-end tools
+
+<ICE-HK:S2A-059#23:1:A>
+The front-end tools is the for example is uh Informix SQL Informix
+FourGL <,>
+
+<ICE-HK:S2A-059#24:1:A>
+Uh front-end just means uh the application tools the software
+products that will interact <.> direct </.> directly with the user with the
+end user
+
+<ICE-HK:S2A-059#25:1:A>
+Uh they will not handle they will not handle the real physical <.>
+reaphys </.> real and physical uh data match <,>
+
+<ICE-HK:S2A-059#26:1:A>
+And the <.> an </.> another kinds of product is the back-end tools
+
+<ICE-HK:S2A-059#27:1:A>
+The back-end tools works is the it is the tools to directly access
+the database access the hardware the hard disk and the communication between
+between the two <unc> one-word </unc> is very important
+
+<ICE-HK:S2A-059#28:1:A>
+Uh because uh as we have some kinds of operation from the end user
+<,> uh we will have to we have to uhm make uh <.> a </.> a uh connection
+between the front-end tools and the back-end tools <,>
+
+<ICE-HK:S2A-059#29:1:A>
+The uh as we make the operations valid and then I will send you a
+message send a call to the uh to the back-end tools and the and the back-end
+tools <?> is </?> the database engine
+
+<ICE-HK:S2A-059#30:1:A>
+The database engine will process the data uh directly with your
+hard disk make some uh transactions and then we  ' ll make the result back to
+the front-end tools and user can in this kind of format they can uh access
+the data in the remote site <,>
+
+<ICE-HK:S2A-059#31:1:A>
+This kind of uh operation we can uh we can <.> ss uh s </.> called
+a client server model or uh or <.> s </.> or two process architecture <,,>
+
+<ICE-HK:S2A-059#32:1:A>
+Front-end tools <,>
+
+<ICE-HK:S2A-059#33:1:A>
+Actually we have a several kinds of <.> front en </.> front-end
+tools
+
+<ICE-HK:S2A-059#34:1:A>
+The first one is <.> s </.> ISQL we call it uh Informix SQL
+
+<ICE-HK:S2A-059#35:1:A>
+Uh Informix <.> s </.> SQL stands for you know uh <.> some </.>
+somebody may know is the uh structural query language
+
+<ICE-HK:S2A-059#36:1:A>
+Uh it  ' s a language <.> de </.> uh derive from the ANSI uh ANSI
+standard
+
+<ICE-HK:S2A-059#37:1:A>
+ANSI standard stands for A N S I American National uh Standards
+Institute
+
+<ICE-HK:S2A-059#38:1:A>
+It gives you a standard in the relational database and we give the
+uh we and we can uh use this uh this kind of standard and develop our
+standard we call it Informix SQL <,>
+
+<ICE-HK:S2A-059#39:1:A>
+Informix SQL is actually a front-end tools
+
+<ICE-HK:S2A-059#40:1:A>
+The <.> se </.> second one is the uh the Informix FourGL <,>
+
+<ICE-HK:S2A-059#41:1:A>
+Informix FourGL is the another product that is the program and
+environment for you to develop your program with FourGL <,>
+
+<ICE-HK:S2A-059#42:1:A>
+FourGL means uh stands for fourth generation language <,>
+
+<ICE-HK:S2A-059#43:1:A>
+Fourth generation language is the is the new language a new
+generation language different from the third generation
+
+<ICE-HK:S2A-059#44:1:A>
+The third <.> genera </.> third generation languages > ? > were
+known as </?> C or Pascal it  ' s a kind of language
+
+<ICE-HK:S2A-059#45:1:A>
+It gives you uh many flexibility <,> on various purpose
+
+<ICE-HK:S2A-059#46:1:A>
+Various purpose uh for you to develop to uh your own application
+<,>
+
+<ICE-HK:S2A-059#47:1:A>
+But for the fourth generation language <,> is mainly its main goal
+is to develop your application of uh database <,>
+
+<ICE-HK:S2A-059#48:1:A>
+It deal much uh much work in database but not other kinds of uh of
+applications and that is the Fourth Generation Language <,>
+
+<ICE-HK:S2A-059#49:1:A>
+And the and there  ' s another front-end users the ESQL <,>
+
+<ICE-HK:S2A-059#50:1:A>
+ESQL is the embedded SQL with C <,> is that that means that you can
+you can write uh computer language uh with SQL and third <.> languag </.>
+third generation language C together
+
+<ICE-HK:S2A-059#51:1:A>
+And two languages can be combined into a single language <,> and
+then we call it ESQLC
+
+<ICE-HK:S2A-059#52:1:A>
+It <.> giv </.> it gives you a great flexibility in programming
+<,,>
+
+<ICE-HK:S2A-059#53:1:A>
+And generally we can have this kind of uh front-end tools <,>
+
+<ICE-HK:S2A-059#54:1:A>
+The back-end tools
+
+<ICE-HK:S2A-059#55:1:A>
+The back-end tools is uh divided into two <?> processes </?>
+
+<ICE-HK:S2A-059#56:1:A>
+Uh back-end tools uh is actually is actually uh is a either a <.>
+data </.> online database engine or standard engine <,,>
+
+<ICE-HK:S2A-059#57:1:A>
+Standard engine will give you a uh give you a easy of use uh
+product
+
+<ICE-HK:S2A-059#58:1:A>
+Actually it will gives you an little management uh database engine
+because for the standard engine you you need not uh care about much uh much
+thing that are so <.> certif </.> certificate or uh most of the complicated
+work are eliminated
+
+<ICE-HK:S2A-059#59:1:A>
+Uh but for the online engine <,> you you need to uh you need to
+tackle with many technical problems because uh it will contain many uh
+operation system concept
+
+<ICE-HK:S2A-059#60:1:A>
+For example uh you you have to manage a hard disk with the online
+engine <,>
+
+<ICE-HK:S2A-059#61:1:A>
+Uh you have to manage your memory <,> and other tools in the in the
+in the operating system or hardware <,> and this kind of <unc> one-word
+</unc> will be handled in the online engine but not in the standard
+engine
+
+<ICE-HK:S2A-059#62:1:A>
+Standard engine will not handle this kind of operations <,>
+
+<ICE-HK:S2A-059#63:1:A>
+But how about the uh how about <.> a a </.> how about the standard
+engine and if if it cannot handle this kind of uh operating system or it
+cannot adapt to only uh uh platform configuration <,> uh because the online
+engine the online engine is the is the engine <?> which </?> will give you a
+uh all availability <unc> one-word </unc>
+
+<ICE-HK:S2A-059#64:1:A>
+That means the you the the <.> availa </.> the high availability
+will give you for example uh seven seven days in the week and twenty-four
+hours a day uh service
+
+<ICE-HK:S2A-059#65:1:A>
+Then the online engine will not be down will not will <.> n n </.>
+will not down uh in any aspect even though even though the hard disk is
+crashed or the power is down <,> and the online engine can can have a
+recovery process such that even the hardware uh has some uh any difficulties
+to operation and or or or there  ' s any the power power insufficiency and then
+the online engine can handle this kind of problems uh that so that the data
+in the database in the <unc> 1-word </unc> engine will not be
+corrupted
+
+<ICE-HK:S2A-059#66:1:A>
+But for the standard engine <,> there will have little little uh
+little tools for you to uh handle this kind of problem is for example the
+power down or the disk crash <,>
+
+<ICE-HK:S2A-059#67:1:A>
+This  ' s the difference between the online engine and the standard
+engine
+
+<ICE-HK:S2A-059#68:1:A>
+Now uh in the following sections I will give you a more details in
+this kind of products and how they interact with each other <,>
+
+<ICE-HK:S2A-059#69:1:A>
+First of all is Informix SQL
+
+<ICE-HK:S2A-059#70:1:A>
+Informix SQL is actually uh is actually a uh user environment for
+you to developing your full your full applications in database <,>
+
+<ICE-HK:S2A-059#71:1:A>
+In the Informix SQL there are five built-in tools
+
+<ICE-HK:S2A-059#72:1:A>
+The first one is <,> Form Form Writer <,> Form Writer <,>
+
+<ICE-HK:S2A-059#73:1:A>
+The second is <,> Report Writer <,>
+
+<ICE-HK:S2A-059#74:1:A>
+And then <,> it  ' s interactive <.> t s </.> SQL Editor Interactive
+SQL editor <,,>
+
+<ICE-HK:S2A-059#75:1:A>
+And finally there is a Interactive Schema Editor <,,> Schema Editor
+<,>
+
+<ICE-HK:S2A-059#76:1:A>
+And <,,> okay Form Writer
+
+<ICE-HK:S2A-059#77:1:A>
+Form Writer is actually is uh is just for you to build your scheme
+form
+
+<ICE-HK:S2A-059#78:1:A>
+The scheme form actually is a is a is a format for you to uh manage
+your database on the screen on the on the screen <.> tha u </.> that will
+give you for example <.> wil </.> uh uh we will use the term what you see is
+what you get that means uh whatever you write in the form classifications
+there will be uh the same exact format you will see on the screen
+
+<ICE-HK:S2A-059#79:1:A>
+<?> That  ' s </?> the Form Form Writer
+
+<ICE-HK:S2A-059#80:1:A>
+The Form Writer will give you uh the tools for you to uh <.> wr
+</.> write your form the screen form in a form specifications
+
+<ICE-HK:S2A-059#81:1:A>
+A form <.> specifica </.> <?> specifications </?> specify which
+kind of operations can uh will be valid in the in the form field <,> in the
+form field
+
+<ICE-HK:S2A-059#82:1:A>
+There are there are the four operations uh in the Form Writer
+
+<ICE-HK:S2A-059#83:1:A>
+The first one is uh Query <,>
+
+<ICE-HK:S2A-059#84:1:A>
+Update <,> delete <,> add <,,> this kind of operation is uh are
+usually used in uh in usual in usual operations in the database is to add a
+record delete a record or carry a find a record from the database
+
+<ICE-HK:S2A-059#85:1:A>
+This kind of operations are are the most most likely used in the
+database operations and then you  ' ll give the the Form Writer will give this
+kind of operations valid for you to operate <?> on </?> the database <,,>
+
+<ICE-HK:S2A-059#86:1:A>
+The second one is Report Writer
+
+<ICE-HK:S2A-059#87:1:A>
+Report writer tool gives you a uh great flexibility in writing a
+report
+
+<ICE-HK:S2A-059#88:1:A>
+The report can be for example <?> a </?> name list or label or some
+kinds of format some kind of format that will give you a column table format
+report <,>
+
+<ICE-HK:S2A-059#89:1:A>
+The Report Writer uh is the uh is <?> very like </?> that with the
+Form Form Writer because the Report Writer can uh can give you a uh also a
+<?> use </?> the Report Writer will use uh also uh a <.> for </.> a report
+specification
+
+<ICE-HK:S2A-059#90:1:A>
+After you specify your report specifications you the Report Writer
+can generate automatically uh the report the report uh format that you want
+<,>
+
+<ICE-HK:S2A-059#91:1:A>
+Uh sometimes the report may involve a calculation for example uh
+after you write a report you there will a subtotal or or some average and
+some some fields or some columns and then the Report Writer will
+automatically generate this kind of calculation no matter no matter uh uh
+what kind of data is uh uh inside the database
+
+<ICE-HK:S2A-059#92:1:A>
+Because sometimes the database will change from the time to time
+and then the Report Writer need not to regenerate need not to be regenerated
+and the order report to you can be valid even you have changed the database
+content and the Report Writer will generate a report format such that the
+report format can be used uh even your data can uh have been changed and that  ' s
+the flexibility of the Report Writer <,>
+
+<ICE-HK:S2A-059#93:1:A>
+The first one in the third one is the Interactive Interactive SQL
+Editor
+
+<ICE-HK:S2A-059#94:1:A>
+Actually you can write some SQL statements
+
+<ICE-HK:S2A-059#95:1:A>
+SQL statements is the format defined in the ANSI standard ANSI
+standard SQL <,>
+
+<ICE-HK:S2A-059#96:1:A>
+And the Interactive SQL <.> states </.> SQL <?> ss </?> Editor will
+<.> a </.> allow you to uh write some SQL statements and run the SQL
+statements because uh after you write the SQL statements the machine will not
+know what you want what you want that what you want to do and then the Editor
+will help you to run the SQL statement
+
+<ICE-HK:S2A-059#97:1:A>
+For example there are several uh SQL statements we will usually use
+
+<ICE-HK:S2A-059#98:1:A>
+The first one is Select Select Statement
+
+<ICE-HK:S2A-059#99:1:A>
+Select Statement is the kind of operation we want to uh for example
+<?> if you </?> want to uh get some information from the database for example
+I want to select the customer number <,> customer name customer address from
+the database table customer from the customer table and then the <unc>
+one-word </unc> after you run the operation uh the scheme will give you
+the results and the database will give you uh the full set of uh information
+you specify company name company uh the customer name customer number in the
+format in the format you specify
+
+<ICE-HK:S2A-059#100:1:A>
+But there  ' s difference between the Report Writer and this kind of
+Select Statement <,> because uh the Select Statement will not format will not
+format your your output
+
+<ICE-HK:S2A-059#101:1:A>
+It just gives you the output gives you the output
+only will not format <.> wil </.> uh the output but for the uh Report Writer
+it  ' ll give you the format
+
+<ICE-HK:S2A-059#102:1:A>
+For example you want the customer <.> na </.>
+name uh positioned at the the at the <.> th </.> some specific place or you
+want your address uh <?> display </?> in some format
+
+<ICE-HK:S2A-059#103:1:A>
+And then the Report Writer will help you to do this kind of
+formatting but for the Select Statement it will give it  ' ll <.> giv </.> give
+you information only and <.> t </.> no formatting uh will be derived
+
+<ICE-HK:S2A-059#104:1:A>
+And there are many other kinds of SQL statement for example is
+Insert or Delete uh this <?> kind of operation </?> will help you to insert
+uh a record to the database table or delete it from the database table
+
+<ICE-HK:S2A-059#105:1:A>
+This kind of operation will be will be will be used oftenly in the
+SQL Editor
+
+<ICE-HK:S2A-059#106:1:A>
+And there are many other kinds of tools that that are not defined
+in the in the ANSI system SQL and then it will it will also uh <.> u </.> it
+you can also use this kind of uh SQL statement uh
+
+<ICE-HK:S2A-059#107:1:A>
+We we had better call it uh Utility
+
+<ICE-HK:S2A-059#108:1:A>
+Actually it  ' s not a <.> s </.> SQL Statement
+
+<ICE-HK:S2A-059#109:1:A>
+This kind of Utility uh this is a utility unique to uh Informix
+
+<ICE-HK:S2A-059#110:1:A>
+And uh other kinds of uh <.> s </.> uh database software will not
+contain this kind of uh operations for example is load and unload l o a d
+
+<ICE-HK:S2A-059#111:1:A>
+It will <?> you </?> can load the data from the <.> t </.> the
+external <.> date </.> external file for example is SQ file or some kind of
+uh external format and you can use this kind of utilities to uh load your
+data and and and of course uh there are many other kinds of uh utilities <,>
+
+<ICE-HK:S2A-059#112:1:A>
+<?> These </?> are the functions of the Informix uh Informix
+<unc> 1-word </unc>
+
+<ICE-HK:S2A-059#113:1:A>
+And the fourth one is the the Interactive Schema Editor <,>
+
+<ICE-HK:S2A-059#114:1:A>
+Informix Schema Editor is actually <,> is actually uh <,,> an
+editor for you to design your database structures design your uh table
+structure table definitions because in this table it is a kind of uh
+information for example I have uh customer data customer table <,> for
+example I have a customer table
+
+<ICE-HK:S2A-059#115:1:A>
+A customer table will contain the information <,> uh customer
+number <,> customer name <,> customer address customer telephone number <,>
+
+<ICE-HK:S2A-059#116:1:A>
+And you can uh <.> spec </.> you must specify <?> each </?> group
+one by one with exact data type <,>
+
+<ICE-HK:S2A-059#117:1:A>
+For example you must specify your your customer number as as a
+character type <,> your customer name as character type <,> uh address as
+character type of ten character <,> or telephone number as uh an integer and
+then you have to specify which <.> kin </.> which kind of data uh for each
+field it will be
+
+<ICE-HK:S2A-059#118:1:A>
+And you have to define this kind of uh table definitions <,,>
+
+<ICE-HK:S2A-059#119:1:A>
+Uh this kind of definitions uh can be written can be written in
+SQL statement <,> as well as you can uh define this kind of definitions with
+the Interactive SQL Schema Editor
+
+<ICE-HK:S2A-059#120:1:A>
+The Schema Editor will help you to define this kind of table
+definitions <,> uh in the format uh you just fill in the blanks <?> just </?>
+fill in the blanks uh one by one <,> and then <,> you will see the table
+structure defined <,>
+
+<ICE-HK:S2A-059#121:1:A>
+That  ' s the <.> flexi </.> that  ' s the convenience for you to uh
+<.> de </.> uh develop your application </I>

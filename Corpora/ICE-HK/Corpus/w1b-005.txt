@@ -1,0 +1,877 @@
+<I>
+
+<ICE-HK:W1B-005#1:1>
+Mat. Yeung
+
+<p> 
+<ICE-HK:W1B-005#2:1>
+&lsquo; big wok &rsquo; .
+
+<ICE-HK:W1B-005#3:1>
+This may be my end of soccer career .
+
+<ICE-HK:W1B-005#4:1>
+I badly <-> hurtly </-> <+> hurt </+> my <-> legament </-> <+>
+ligament </+> of my left knee .
+
+<ICE-HK:W1B-005#5:1>
+The doc. put a cast on my left leg .
+
+<ICE-HK:W1B-005#6:1>
+It causes me a lot of <-> incoveniences </-> <+> inconveniences </+> .
+
+<ICE-HK:W1B-005#7:1>
+Hopefully , I can play soccer again .
+
+<ICE-HK:W1B-005#8:1>
+I really want to play soccer now ... </p>
+
+<p> 
+<ICE-HK:W1B-005#9:1>
+I really want to play soccer now ..
+
+<ICE-HK:W1B-005#10:1>
+I really wanna to play soccer .. soccer ..
+
+<ICE-HK:W1B-005#11:1>
+If u finger my account , u can see I have a pretty cool plan .
+
+<ICE-HK:W1B-005#12:1>
+just type finger umleung8@cc.canopus.ca </p>
+
+<ICE-HK:W1B-005#13:1>
+talk to u later
+
+<ICE-HK:W1B-005#14:1>
+Vic </I>
+
+<I>
+
+<ICE-HK:W1B-005#15:2>
+Matthew
+
+<p> 
+<ICE-HK:W1B-005#16:2>
+I got your<-> massage</-> <+> message </+> .
+
+<ICE-HK:W1B-005#17:2>
+I  ' ve been trying to &lsquo; ntalk u &rsquo; .
+
+<ICE-HK:W1B-005#18:2>
+Make sure that u set term=vt100 .
+
+<ICE-HK:W1B-005#19:2>
+If you see a message on your screen , just type exactly the same
+message that are appearing on the screen .
+
+<ICE-HK:W1B-005#20:2>
+OK. </p>
+
+<ICE-HK:W1B-005#21:2>
+Victor Leung </I>
+
+<I>
+
+<ICE-HK:W1B-005#22:3>
+Mr. yeung
+
+<ICE-HK:W1B-005#23:3>
+I know that u want to get some good stuff .
+
+<ICE-HK:W1B-005#24:3>
+OK .
+
+<ICE-HK:W1B-005#25:3>
+In unix you do the following .
+
+<ICE-HK:W1B-005#26:3>
+&obrack; Type &cbrack; ftp asia.lcs.mit.edu
+
+<p> 
+<ICE-HK:W1B-005#27:3>
+Now u have enter the ftp and you can do &obrack; ls=dir in dos
+&crback; to list all the files .
+
+<ICE-HK:W1B-005#28:3>
+U can also do &obrack; cd &obrack; directory name &cbrack; &cbrack; .
+
+<ICE-HK:W1B-005#29:3>
+Or simply type &obrack; ? &cbrack; to list all the functions .
+
+<ICE-HK:W1B-005#30:3>
+That ftp asia.lcs.mit.edu put all the Hong Kong stars  '  pictures in
+pub/hongkong/hkpa/popstars/female
+
+<ICE-HK:W1B-005#31:3>
+Moreover , I found another ftp address .
+
+<ICE-HK:W1B-005#32:3>
+This address contains thousands of pictures .
+
+<ICE-HK:W1B-005#33:3>
+Yet , these pictures can only be obtained in 3:00am , 10:00am and
+4:00pm , Hong Kong  ' s time .
+
+<ICE-HK:W1B-005#34:3>
+There are a lot of <-> Japaneses </-> <+> Japanese </+> stars  ' 
+pictures in this address . </p>
+
+<ICE-HK:W1B-005#35:3>
+&obrack; Type &cbrack; ftp 140.117.11.3
+
+<ICE-HK:W1B-005#36:3>
+Name ?
+
+<ICE-HK:W1B-005#37:3>
+&obrack; Type &cbrack; anonymous
+
+<ICE-HK:W1B-005#38:3>
+Password &obrack; Type &cbrack; 92905420@
+
+<ICE-HK:W1B-005#39:3>
+&obrack; Type whoever login  ' s account number &cbrack;
+
+<ICE-HK:W1B-005#40:3>
+Then you should be able to access all the <-> goode  ' s </-> <+>
+goodie  ' s </+> files .
+
+<ICE-HK:W1B-005#41:3>
+all the Japanese stars  '  files are located in the following
+directory:
+
+<ICE-HK:W1B-005#42:3>
+graphics/jpg/east-girl/Japan-star
+
+<ICE-HK:W1B-005#43:3>
+get &obrack; filename &cbrack; or mget &obrack; &asterisk; .
+&asterisk; &cbrack;
+
+<ICE-HK:W1B-005#44:3>
+Of course , you also want to download those files into your account .
+
+<ICE-HK:W1B-005#45:3>
+U need to type , e.g. you want to download Anne001.gtf into your A
+drive y disk in the file called photo/Ann1.gtf then u need to type : &obrack;
+type &cbrack; sz Anne001.gtf a:photo/Ann1.gtf
+
+<ICE-HK:W1B-005#46:3>
+&obrack; in your modem  ' s software u should choose <mention> Receive
+file </mention> &cbrack;
+
+<ICE-HK:W1B-005#47:3>
+If you want to look at these pictures at school .
+
+<ICE-HK:W1B-005#48:3>
+In unix you type:
+
+<ICE-HK:W1B-005#49:3>
+&obrack; type &cbrack; xv &obrack; filename &cbrack; OR &obrack; type
+&cbrack; xv &obrack; wildcards &cbrack;
+
+<ICE-HK:W1B-005#50:3>
+Ok.
+
+<ICE-HK:W1B-005#51:3>
+I hope u enjoy those pictures .
+
+<ICE-HK:W1B-005#52:3>
+By the way , I have a feeling that Brazil is going to win this World
+Cup and they will <-> bit </-> <+> beat </+> Germany in the final game .
+
+<ICE-HK:W1B-005#53:3>
+Oh !
+
+<ICE-HK:W1B-005#54:3>
+If you want to get out of ftp any time you just need to &obrack; type
+&cbrack; <mention> Bye </mention>
+
+<ICE-HK:W1B-005#55:3>
+Vic Leung </I>
+
+<I>
+
+<ICE-HK:W1B-005#56:4>
+Hey Mat Yeung
+
+<ICE-HK:W1B-005#57:4>
+I  ' ve Wong Wing Shun  ' s , Jeffrey ,
+
+<ICE-HK:W1B-005#58:4>
+his e-mail address is &obrack; j.ng@ucl.ac.uk &cbrack; .
+
+<ICE-HK:W1B-005#59:4>
+Yet , I could not find out his address and phone number .
+
+<ICE-HK:W1B-005#60:4>
+Currently , he went to the University of London , University College .
+
+<ICE-HK:W1B-005#61:4>
+Maybe , u can send him a mail .
+
+<ICE-HK:W1B-005#62:4>
+By the way do you know how to use Gopher .
+
+<ICE-HK:W1B-005#63:4>
+Just type &obrack; <mention> gopher </mention> &cbrack; in unix and
+you can access gopher around the world .
+
+<ICE-HK:W1B-005#64:4>
+Vic leung </I>
+
+<I>
+
+<ICE-HK:W1B-005#65:5>
+Hey Mat. Yeung
+
+<p> 
+<ICE-HK:W1B-005#66:5>
+I tried my new soccer boots today ,
+
+<ICE-HK:W1B-005#67:5>
+it was amazing .
+
+<ICE-HK:W1B-005#68:5>
+The boots were so light that I felt I was wearing nothing .
+
+<ICE-HK:W1B-005#69:5>
+Plus , it can really put some amazing curve on the ball . </p>
+
+<p> 
+<ICE-HK:W1B-005#70:5>
+I  ' ve call Eurosport , the soccer catalog ordering company ,
+
+<ICE-HK:W1B-005#71:5>
+they said they will send you a catalog tomorrow .
+
+<ICE-HK:W1B-005#72:5>
+Yet , it won't be first class air mail .
+
+<ICE-HK:W1B-005#73:5>
+I guess they will send it by surface .
+
+<ICE-HK:W1B-005#74:5>
+They told me that you should receive the catalog within one month .
+</p>
+
+<ICE-HK:W1B-005#75:5>
+Talk to u later .
+
+<ICE-HK:W1B-005#76:5>
+Victor Leung &obrack; CCB &cbrack; </I>
+
+<I>
+
+<ICE-HK:W1B-005#77:6>
+Mat Yeung
+
+<ICE-HK:W1B-005#78:6>
+I got a message from Jeffery Wong wing sh ...
+
+<ICE-HK:W1B-005#79:6>
+His new address is 30 Devereux Rd Chafford Hundred Grays Essex RM16
+6D UK </I>
+
+<I>
+
+<ICE-HK:W1B-005#80:7>
+Hi Mat
+
+<p> 
+<ICE-HK:W1B-005#81:7>
+Good news .
+
+<ICE-HK:W1B-005#82:7>
+Finally , there is going to be a professional soccer league in the
+United States and Canada .
+
+<ICE-HK:W1B-005#83:7>
+The league is called NSL , National Soccer League .
+
+<ICE-HK:W1B-005#84:7>
+There are going to be 12 teams in 12 different cities .
+
+<ICE-HK:W1B-005#85:7>
+I hope the league would be successful . </p>
+
+<ICE-HK:W1B-005#86:7>
+Victor Leung </I>
+
+
+<I>
+
+<ICE-HK:W1B-005#87:8>
+Hey M. Yeung
+
+<p> 
+<ICE-HK:W1B-005#88:8>
+Good to know that u are doing fine at school .
+
+<ICE-HK:W1B-005#89:8>
+I am so busy now .
+
+<ICE-HK:W1B-005#90:8>
+U said that Chan Wai Tak , went to Taiwan .
+
+<ICE-HK:W1B-005#91:8>
+That should be a new challenge for him .
+
+<ICE-HK:W1B-005#92:8>
+<-> I </-> <+> my </+> knee is fine now but it is so cold here that
+no one play soccer outdoor .
+
+<ICE-HK:W1B-005#93:8>
+I should be able to play again next year .
+
+<ICE-HK:W1B-005#94:8>
+I don't think I am going to go back to HK for the next few years .
+
+<ICE-HK:W1B-005#95:8>
+First of all , I need to finish my degree .
+
+<ICE-HK:W1B-005#96:8>
+School is like hell !
+
+<ICE-HK:W1B-005#97:8>
+I study hard <-> everyday</-> <+> every day </+> .
+
+<ICE-HK:W1B-005#98:8>
+I may need 1.5 more years to graduate because I lost a lot of credits
+when I <-> transfered </-> <+> transferred </+> to a new Canadian University .
+
+<ICE-HK:W1B-005#99:8>
+I tried to finish my degree as fast as I can ,
+
+<ICE-HK:W1B-005#100:8>
+unfortunately , some courses are not offer in some terms , so I have
+to delay my graduation .
+
+<ICE-HK:W1B-005#101:8>
+Mainly , due to the <-> buget </-> <+> budget </+> problem arise of
+the University .
+
+<ICE-HK:W1B-005#102:8>
+Classes are not offer as frequently as they were and classes are a
+lot bigger .
+
+<ICE-HK:W1B-005#103:8>
+Do u have time to meet a gal friend ?
+
+<ICE-HK:W1B-005#104:8>
+My <-> advise </-> <+> advice </+> is get a gal friend that can take
+care of u .
+
+<ICE-HK:W1B-005#105:8>
+Now , I am so busy <-> everyday </-> <+> every day </+> that I don't
+have any time to do anything , except for studying .
+
+<ICE-HK:W1B-005#106:8>
+Do u know that Henry Pang is studying in this University ?
+
+<ICE-HK:W1B-005#107:8>
+I didn't talk to him much simply because he seems to have a lot of
+free time .
+
+<ICE-HK:W1B-005#108:8>
+Unlike Henry , I am fighting to get enough sleep <-> everyday</->
+<+> every day </+> . </p>
+
+<ICE-HK:W1B-005#109:8>
+Well , I need to study now .
+
+<ICE-HK:W1B-005#110:8>
+I  ' ll talk to u later .
+
+<ICE-HK:W1B-005#111:8>
+Thanks for the e-mail .
+
+<ICE-HK:W1B-005#112:8>
+Vic Leung </I>
+
+<I>
+
+<ICE-HK:W1B-005#113:9>
+Hi Yeung Ming chiu , Mat
+
+<p> 
+<ICE-HK:W1B-005#114:9>
+Can u do me a favor ?
+
+<ICE-HK:W1B-005#115:9>
+Can u buy me a HK  ' s flag ,
+
+<ICE-HK:W1B-005#116:9>
+please buy two if u can .
+
+<ICE-HK:W1B-005#117:9>
+I am going to pay u back later .
+
+<ICE-HK:W1B-005#118:9>
+It should not be very expensive .
+
+<ICE-HK:W1B-005#119:9>
+I want to buy a flag for HK before 1997 .
+
+<ICE-HK:W1B-005#120:9>
+Rather than send it to here , please send it to my house in
+Vancouver because I am going to move soon , just two floors up , to a two
+bedroom place . </p>
+
+<ICE-HK:W1B-005#121:9>
+My Vancouver  ' s address is : </I>
+
+<I>
+
+<p> 
+<ICE-HK:W1B-005#122:10>
+I am now sending a mail to you at home again .
+
+<ICE-HK:W1B-005#123:10>
+Have you succeed in getting a connection through kermit yet ?
+
+<ICE-HK:W1B-005#124:10>
+I agree that it is not easy but it is also impossible that you
+cannot get a connection for several months . </p> </I>
+
+<I>
+
+<p> 
+<ICE-HK:W1B-005#125:11>
+Hello !
+
+<ICE-HK:W1B-005#126:11>
+Pat !
+
+<ICE-HK:W1B-005#127:11>
+Long time no see !
+
+<ICE-HK:W1B-005#128:11>
+What are you busy of ?
+
+<ICE-HK:W1B-005#129:11>
+Do you have any tests or assignment in the next few weeks ?
+
+<ICE-HK:W1B-005#130:11>
+We have planned to go to Stanley to have the farewell dinner with
+Merlin .
+
+<ICE-HK:W1B-005#131:11>
+We also planned to take photos at Stanley and Repulse Bay before
+dinner , so when will you finish your lectures on that day which is 12 Dec ?
+
+<ICE-HK:W1B-005#132:11>
+Do you still <-> rememeber </-> <+> remember </+> you owe me money
+, &dollar;180 ,
+
+<ICE-HK:W1B-005#133:11>
+in addition , you have to pay for the photos taken at U. hall and
+Golden Coast .
+
+<ICE-HK:W1B-005#134:11>
+So , you should bring enough money on 12 Dec , otherwise I will
+kill you , OK ? </p>
+
+<ICE-HK:W1B-005#135:11>
+See you later! </I>
+
+<I>
+
+<ICE-HK:W1B-005#136:12>
+&ldquo; Dead People &rdquo; Pat,
+
+<p> 
+<ICE-HK:W1B-005#137:12>
+Why not send me a mail ?
+
+<ICE-HK:W1B-005#138:12>
+You care only Cheng Siu Chau , Pao Kung &ampersand; William <->
+Shakespear </-> <+> Shakespeare </+> at the expense of your best , kindly and
+friendly schoolmates .
+
+<ICE-HK:W1B-005#139:12>
+How did you spend your Christmas vacation , reading again or doing
+essays ?
+
+<ICE-HK:W1B-005#140:12>
+Oh !
+
+<ICE-HK:W1B-005#141:12>
+Pat , you are a really a dull and boring girl with &ldquo; usual
+&rdquo; interests &ampersand; hobbies such as listening to classic instead of
+the &ldquo; Four Kings &rdquo; , playing piano at the contrast of playing
+majong .
+
+<ICE-HK:W1B-005#142:12>
+You are an extremely out of fashion girl . </p>
+
+<p> 
+<ICE-HK:W1B-005#143:12>
+I have saw Andy Lau concert organised by Chase Credit card .
+
+<ICE-HK:W1B-005#144:12>
+It is extremely wonderful &ampersand; successful and full of guests
+such the Anita Mun , Sally Yip , plus the &ldquo; five tigers &rdquo; .
+
+<ICE-HK:W1B-005#145:12>
+I guess you would enjoy it if you were there .
+
+<ICE-HK:W1B-005#146:12>
+Remember to sent me a mail . </p> </I>
+
+<I>
+
+<ICE-HK:W1B-005#147:13>
+Hey yeung Ming chiu
+
+<p> 
+<ICE-HK:W1B-005#148:13>
+My friend want to go to Hong Kong and study Medicine.
+
+<ICE-HK:W1B-005#149:13>
+Do u know the address for the Admission Office for the U. o f Hong
+Kong .
+
+<ICE-HK:W1B-005#150:13>
+Please send me an email if u know . </p>
+
+<ICE-HK:W1B-005#151:13>
+Vic </I>
+
+<I>
+
+<p> 
+<ICE-HK:W1B-005#152:14>
+Patricia , happy new year !
+
+<ICE-HK:W1B-005#153:14>
+You have mail to others before , right ?
+
+<ICE-HK:W1B-005#154:14>
+How can you try nearly more than an <-> nour </-> <+> hour </+> to
+sent a mail without success .
+
+<ICE-HK:W1B-005#155:14>
+Is it a < . > mira </ . > miracle that you can sent a mail to me
+successfully .
+
+<ICE-HK:W1B-005#156:14>
+How did you <indig> dend </indig> it last time ?
+
+<ICE-HK:W1B-005#157:14>
+As it is New <-> YUear </-> <+> Year </+> , I give you a New Year
+gift . </p>
+
+<p> 
+<ICE-HK:W1B-005#158:14>
+To end the mail , just press &lsquo; control &rsquo; and
+&lsquo; d &rsquo; together .
+
+<ICE-HK:W1B-005#159:14>
+Then you will see &lsquo; cc &rsquo;
+
+<ICE-HK:W1B-005#160:14>
+If you do not want to sent to somebody else , just ignore it and
+press Ctrl and D again and you will back to hkuxa &cbrack; ,
+
+<ICE-HK:W1B-005#161:14>
+is <-> theat cleart </-> <+> that clear </+> ? </p> </I>
+
+<I>
+
+<ICE-HK:W1B-005#162:15>
+Dearest Patricia ,
+
+<p> 
+<ICE-HK:W1B-005#163:15>
+I just came home from Toronto .
+
+<ICE-HK:W1B-005#164:15>
+I  ' m glad to receive your message .
+
+<ICE-HK:W1B-005#165:15>
+Catherine Au also has an e-mail account which is shuka@sfu.ca .
+
+<ICE-HK:W1B-005#166:15>
+Therefore we can keep in touch with each other .
+
+<ICE-HK:W1B-005#167:15>
+Do you have Amy  ' s e-mail number ?
+
+<ICE-HK:W1B-005#168:15>
+If you have it , please let me know . </p>
+
+<p> 
+<ICE-HK:W1B-005#169:15>
+I took the graduation photo last month .
+
+<ICE-HK:W1B-005#170:15>
+I would duplicate the most pretty one and send it to you .
+
+<ICE-HK:W1B-005#171:15>
+The coming January to March , I will practice in the hospital as a
+full time nurse .
+
+<ICE-HK:W1B-005#172:15>
+If I have not failed within the three months , I will graduate .
+
+<ICE-HK:W1B-005#173:15>
+I am quite nervous of failing the last course .
+
+<ICE-HK:W1B-005#174:15>
+As I know that some last year students were failed from a fourth
+year course .
+
+<ICE-HK:W1B-005#175:15>
+I hope I won't be one of them .
+
+<ICE-HK:W1B-005#176:15>
+How about you ? </p>
+
+<p> 
+<ICE-HK:W1B-005#177:15>
+I send a Christmas card to Peggy but it was returned back from
+post office .
+
+<ICE-HK:W1B-005#178:15>
+I think her office probably was moved to a new place .
+
+<ICE-HK:W1B-005#179:15>
+Do you know how to contact her ? </p>
+
+<p> 
+<ICE-HK:W1B-005#180:15>
+I am glad that I will graduate soon as I am really tired of
+studying .
+
+<ICE-HK:W1B-005#181:15>
+It makes you to become mature .
+
+<ICE-HK:W1B-005#182:15>
+This year our objective focus on psychiatric and palliative .
+
+<ICE-HK:W1B-005#183:15>
+I have to take care cancer patients and their families .
+
+<ICE-HK:W1B-005#184:15>
+I am very exhausted and upset when my patients die .
+
+<ICE-HK:W1B-005#185:15>
+I think I won't choose palliative as my future job as I am not
+ready right now .
+
+<ICE-HK:W1B-005#186:15>
+What about your future plan ?
+
+<ICE-HK:W1B-005#187:15>
+Catherine  ' s brother got marry last Summer .
+
+<ICE-HK:W1B-005#188:15>
+If you have time , please write to me .
+
+<ICE-HK:W1B-005#189:15>
+Merry Christmas &ampersand; Happy New Year! </I>
+
+<I>
+
+<ICE-HK:W1B-005#190:16> Hi Pat ,
+
+<p> 
+<ICE-HK:W1B-005#191:16> How are you ?
+
+<ICE-HK:W1B-005#192:16> I glad to receive your e-mail again .
+
+<ICE-HK:W1B-005#193:16> I have received your letter , too .
+
+<ICE-HK:W1B-005#194:16> I think you are really happy with your trip to Europe .
+
+<ICE-HK:W1B-005#195:16> I am dreaming of getting the same vacation as you . </p>
+
+<p> 
+<ICE-HK:W1B-005#196:16> I am now working on my last semester .
+
+<ICE-HK:W1B-005#197:16> I have got a lot of stuff to do .
+
+<ICE-HK:W1B-005#198:16> I have to do many research papers , projects and presentations .
+
+<ICE-HK:W1B-005#199:16> Although I only take 3 courses this semester , they are hard . </p>
+
+<p> 
+<ICE-HK:W1B-005#200:16> I hope I will go back to HK after my graduation .
+
+<ICE-HK:W1B-005#201:16> If the working environment is good , maybe I will stay in HK .
+
+<ICE-HK:W1B-005#202:16> It still too early to make any decisions .
+
+<ICE-HK:W1B-005#203:16> How about you ?
+
+<ICE-HK:W1B-005#204:16> What kind of jobs are you going to find after graduation ?
+
+<ICE-HK:W1B-005#205:16> I have heard that nearly everyone of you are working in the
+accounting area .
+
+<ICE-HK:W1B-005#206:16> I am also studying in accounting .
+
+<ICE-HK:W1B-005#207:16> Is it a really good work field ? </p>
+
+<p> 
+<ICE-HK:W1B-005#208:16> From the letter , you told me that you are doubt about the
+future .
+
+<ICE-HK:W1B-005#209:16> I think that we should face the future positively .
+
+<ICE-HK:W1B-005#210:16> Don't be too afraid to face the reality .
+
+<ICE-HK:W1B-005#211:16> It is time for us to grow up .
+
+<ICE-HK:W1B-005#212:16> Getting to work is the turning point of our life .
+
+<ICE-HK:W1B-005#213:16> Although we are afraid of accepting the truth , we still need to
+face it .
+
+<ICE-HK:W1B-005#214:16> Talking to your <-> firends </-> <+> friends </+> will really help
+you to solve the doubt .
+
+<ICE-HK:W1B-005#215:16> I think Peggy and Katy are good candidates to ask for .
+
+<ICE-HK:W1B-005#216:16> Talk to them , I think they will give you some guidances and <->
+opions </-> <+> opinions </+> . </p>
+
+<ICE-HK:W1B-005#217:16> Talk to you later .
+
+<ICE-HK:W1B-005#218:16> I have to prepare my presentation next week now .
+
+<ICE-HK:W1B-005#219:16> Hope you will be happy forever .
+
+<ICE-HK:W1B-005#220:16> Happy Chinese New Year . </I>
+
+<I>
+
+<ICE-HK:W1B-005#221:17> Dearest Patricia,
+
+<p> 
+<ICE-HK:W1B-005#222:17> Happy New Year to you and your family !
+
+<ICE-HK:W1B-005#223:17> Do you receive Catherine  ' s letter ?
+
+<ICE-HK:W1B-005#224:17> She is very busy with the school work for this last semester .
+
+<ICE-HK:W1B-005#225:17> Although I do not have to take any course in the University now , I
+have to practice in a hospital for three months .
+
+<ICE-HK:W1B-005#226:17> I have to work with twelve hours shift .
+
+<ICE-HK:W1B-005#227:17> That is I am not allowed to sleep for twelve hours in order to take
+care of patients if I am in night shift .
+
+<ICE-HK:W1B-005#228:17> I feel sorry for mom who has been worked as a nurse for more than
+<-> thiry </-> <+> thirty </+> years .
+
+<ICE-HK:W1B-005#229:17> I also feel sorry for myself as I just start to be a nurse for
+unknown year . </p>
+
+<p> 
+<ICE-HK:W1B-005#230:17> I have been studied in faculty of nursing for four years .
+
+<ICE-HK:W1B-005#231:17> Would you correct the wrong message for me if you have time ?
+
+<ICE-HK:W1B-005#232:17> As Rositta send a letter to me and stated that she is glad to hear
+that I took the accounting in university as her .
+
+<ICE-HK:W1B-005#233:17> I  ' m sorry to make you guys so confusing with what I have been
+studied in the University . </p>
+
+<p> 
+<ICE-HK:W1B-005#234:17> I haven't specialised in any field of nursing .
+
+<ICE-HK:W1B-005#235:17> I think I will work as a general nurse such as working in either
+medical ward or surgical ward .
+
+<ICE-HK:W1B-005#236:17> After I build up my experiences , I will work as a community nurse
+who will provide nursing care in community rather than in hospital .
+
+<ICE-HK:W1B-005#237:17> I understand that you felt you haven't learned too much from the
+University .
+
+<ICE-HK:W1B-005#238:17> You are not alone as a lot of friends even my brother has the same
+experiences as you .
+
+<ICE-HK:W1B-005#239:17> I think what we have learned from University can help us to
+organise and think logically which is very important in problem solving and
+creative working in our future .
+
+<ICE-HK:W1B-005#240:17> As the society requests more people to have higher education , we
+can only protect ourselves by following this trend .
+
+<ICE-HK:W1B-005#241:17> Let  ' s work hard and looking forward to graduate soon .
+
+<ICE-HK:W1B-005#242:17> I hope this can make you feel better .
+
+<ICE-HK:W1B-005#243:17> If you have time , please keep contact with each other . </p>
+
+<ICE-HK:W1B-005#244:17> Your friend
+
+<ICE-HK:W1B-005#245:17> Winnie Wan . </I>
+
+<I>
+
+<ICE-HK:W1B-005#246:18> Dear Patricia
+
+<ICE-HK:W1B-005#247:18> How are you ?
+
+<ICE-HK:W1B-005#248:18> Are you going to graduate soon ?
+
+<ICE-HK:W1B-005#249:18> Did you start to find a job ?
+
+<ICE-HK:W1B-005#250:18> What kind of job are you going to get?
+
+<p> 
+<ICE-HK:W1B-005#251:18> My final will be ended on 19th April .
+
+<ICE-HK:W1B-005#252:18> Then I will finish my undergraduate .
+
+<ICE-HK:W1B-005#253:18> I think I will stay here to find a job .
+
+<ICE-HK:W1B-005#254:18> After I have obtained the citizenship &obrack; I think it may be in
+Sept/Oct &cbrack; , I will go back to HK to see whether it is suitable for me
+to stay in HK .
+
+<ICE-HK:W1B-005#255:18> Do you have any planning in the future ?
+
+<ICE-HK:W1B-005#256:18> Did any of our sisters &obrack; Katy , Peggy , Rositta , etc
+&cbrack; give you some suggestions ?
+
+<ICE-HK:W1B-005#257:18> I think I will need all your help when I come back to HK .
+
+<ICE-HK:W1B-005#258:18> When is the date of your convocation ?
+
+<ICE-HK:W1B-005#259:18> I think you are looking forward for that day to come &obrack; as me
+&cbrack; . </p>
+
+<p> 
+<ICE-HK:W1B-005#260:18> I want to noticed you that my e-mail account will expired at
+the end of April , so we have to communicate through letters in the future .
+
+<ICE-HK:W1B-005#261:18> Although it is <-> inconveninent </-> <+> inconvenient </+> , we
+should still keep in touch .
+
+<ICE-HK:W1B-005#262:18> As all our sisters have started to work , it seems that we started
+to communicate less and less .
+
+<ICE-HK:W1B-005#263:18> I hope we can talk more in the future . </p>
+
+<ICE-HK:W1B-005#264:18> Ok , talk to you later .
+
+<ICE-HK:W1B-005#265:18> I hope I can receive your reply as soon as possible .
+
+<ICE-HK:W1B-005#266:18> Happy Easter Holiday .
+
+<ICE-HK:W1B-005#267:18> Catherine . </I>
+
+<I>
+
+<p> 
+<ICE-HK:W1B-005#268:19> PAt , when i was trying <-> yo sned </-> <+> to send </+> a
+mail , the computer system oftenly stop my mail and whatever i type , only
+<mention> ........ </mention> appears .
+
+<ICE-HK:W1B-005#269:19> Do <-> yio </-> <+> you </+> have any problem when you are sending
+a mail or encounter such problems ! </p> </I>

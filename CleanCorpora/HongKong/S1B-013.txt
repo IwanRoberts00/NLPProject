@@ -1,0 +1,282 @@
+<I>
+now that or if you like this itself cylinder subcircuit
+ you will have one circuit for every cylinder okay
+and the the whole circuit the whole system will bear of in
+number of this kind of subcircuits 
+it gave you all the number of cylinders you are operating
+if you got two cylinders then you have two cylinders subcircuits
+right in that film you you have seen two cylinder subcircuits
+ okay
+one depended they are there ' s a one point zero to designate the
+cylinder or the up uh lifting cylinder and the cylinder two point zero for
+the shifting cylinder
+now in the example that you have just seem about the completion
+signal of a certain operation is used as a signally signal or or or uh
+activate signal for initiating the next operation in the cylinders okay
+so in fact they use the completion signal to lo initiate or
+activate the next operation a long pause 
+we we used a to denote the lifting cylinder b to denote the zip
+ uh shifting cylinder and after the lifting we do the shifting
+right then the lifting cylinder will return and the shifting
+cylinder returns okay
+and this is the sequence that we have realized
+right extension of the first one extension of second one retraction
+of first one retraction of the second one
+and the completion signal of this is used to initiate its
+operation
+the completion signal of this is used to initiate that
+the method of using the completion signal of the current operation
+to activate the next operation is called intricative method
+okay
+now or this case you can use intricative method to
+construct and working such a long pause 
+now if you turn to page twenty of unit fifteen you will find a
+circuit here that is trying to realize a sequence which is slightly
+different from that one 
+with the last two operations being interchanged first okay
+one of example of these operation is the drink the 
+drink uh operation
+suppose a operates the one-word b operates the
+ one-word okay
+now if the drain are blocked first by this is
+first of all you need to climate okay and then you lower the
+ several words 
+you try to do may reuse the camp right
+now if you are doing that instead of transferring the blocks then
+you need to have these two cylinders
+the operation of these two cylinders being interchange okay
+now if you do that and you try to use the initiative uh sorry 
+intricative method then a long pause 
+now it is the cylinder subcircuit for say a a long
+pause 
+and you you will have another cylinder subcircuit for b
+this is the air trainer the cylinder the control vowel the
+completion signals that may be used to activate the operations a long
+pause 
+now if we use annotation that the cylinders are denoted by
+alphabets say a and b the upper case alphabets
+with the completion signals being generated for a we use lower case
+a for b we use lower case b
+the suffix zero indicate retraction completion slope uh completion
+signal
+the suffix one indicate this is the completion signal for the
+extension struck okay a long pause 
+and we use plus to indicate the expansion minus to indicate
+retraction
+now if we use the intricative method the operation
+immediately receiving the extension of a will be the retraction of a
+so the completion signal of thes operations presh 
+perceiving that will be a zero okay
+so you may use this a zero to activate the extension of a 
+after the a has expanded and in complete it ' s act uh expansion
+then a one will be generated
+now this a one will be used to extend b so a one will be used
+to extend b
+after b has extend b one will be generated so b one is used to 
+retract b okay
+after the retraction from of b has been completed b zero will be
+generated and that b zero will be used to retract a
+now this is the circuit itself used intricative method
+you ' ll see whether this can work or not right
+now suppose you wanted to the a to expand when we look at the
+control signals this a log is presented right
+now initially b is is and is fully retracted state so b log is
+presented as well
+you ' ll see immediately that there are a plus and a minus present
+simultaneously okay
+so in other words we are in a situation that a the cylinder a
+is being asked to move out while the signal for moving in is still there
+the cylinder a has to be sign on whether to do the extension
+operation or stay in okay right
+the two activate signal is are two signals are presented
+simultaneously right
+so these two signals are fighting against each other in fact
+so this situation is a condition that we call fighting signals
+are presented
+now a long pause now if you look at the time diagram of
+the operations a long pause 
+now if if we try to draw or geographically represent the
+positions of the cylinder
+initially both cylinders will be here right both of them are being
+retracted
+now when cylinder a expands then the a will travel out okay
+during the extension of a b remains and is retracted position okay
+now after a has been expanded b starts to move out a stays there
+okay
+this is the lowering of the one-word right
+you have one-word the required left so you
+will retract the one-word 
+we will see while the several words 
+after you have retracted uh one-word then you
+can release your one-word cylinder
+right so this is the timing diagram for the whole cycle right 
+and therefore the periods of example is that we have the timing
+diagram like that okay
+uh we have just interchange the last two operations okay
+now if you you look at that and if we are using the 
+intricatve method to design the service final service then
+we are using these completion signal to energize the next operation between
+stand operation
+and then you use this to energize this operation use that to
+energize this operation and that to activate this operations okay uh so 
+right
+now if you study the timing diagram you will find that when you 
+wants a to move out the signal asking a to move in is that signal
+alright
+it is feel that when you want the sin uhm the b to
+move out the signal for b to move in is not there so if do you have any uh
+difficulty here
+however if you want to move b in the signal to move b out is still
+here alright so we got quite a signal here right
+in this whole cycle we have two situation that we have fighting
+signals right
+now these fighting signals can be seen or we can find out the
+fight uh the conditions with fighting signals by looking at the timing
+diagram
+now a long pause 
+if you try to write down what are the completion signals or the 
+signals that are presented at various stage 
+at the moment that you want a to extend you will have a zero and b
+zero presented
+at the moment you want b to extend you will have a one and b zero
+when you want b to retract you will have a one and b one
+at the moment when you want a to retract you have a one b zero
+ a long pause 
+now if we use intricative method we note but we will
+have fighting signals okay
+if we try to use the combination of all these signals and see
+whether we have fighting signals now suppose if you use both a the
+completion signals for a and uh and b to energize or to activate the
+operations
+for a to be extended we need a zero and b zero
+for b to be extended we need a one and b zero
+for b to be retracted we need a one and b one
+in other to who retracting uh to retract a we need a one and b zero
+now if you examine the one-word signal for the
+extension of a you need that
+for retraction of a you need that
+they both have b zero but the as are different 
+you need a a zero together with b zero to extend a you need a a one
+together with b zero to retract a okay
+this combination is clearly different from that
+so when a the signal for a to extend is presented the signal for a
+to retract is not presented
+if you look at the b a one b zero will be the signal required
+to extend b 
+a one b one will be a combination required to retract b
+the two signals are different so you won't have fighting for b as
+well
+apparently you seem to have solved the problem of fighting signals
+okay
+get a the extension and the retraction signals are different okay
+alright
+but in the you look at the signals the combinations in more
+detail and you will find the combination for extending b and the
+combination for retracting a 
+these two combinations are detail they are the same
+right
+so when you have these combination of a one and b zero which
+operations are you going to whether you are going to extend b or whether you
+are going to retract a
+you need to differentiate these two right
+so it depends on the past history of the operations
+and if we just look at we use a combination logic to initiate the
+operations to activate the operations then we do not know the history right
+and this introduce introduces another situation we
+call that ambiguity
+the system is ambiguous right it doesn't know what to do
+it it got confused
+now so we having using the combination of the completion
+signals to activate the operations solve the problem remove fighting signals
+but it introduces ambiguity
+right so we need to find some way to overcome this difficult a
+long pause 
+now if we use the time map to represent the logic combinations of
+various states of the completion signals
+when we have a zero b zero we are here we would like to have the a
+being extended right
+on completion of this operation the combination of the logic
+signals we will be having is a one b zero
+so we will be here that we ' ll like to extend the b
+on completion of that we have a logical combination of a one and b
+one
+it is here that we wanted b to retract right a long pause 
+it is at the end of this operation that we are in this situation
+again 
+then we like to have uh a retract
+it is at this logic combination that we have two different
+operations required
+so when you look at the k map the column map whenever you will
+find two different operations to be carried out at different stage of the
+cycle that indicates ambiguity
+it is the ambiguous condition we need somehow to separate this
+to put so that you have only one operation in each square okay 
+right
+so that demands the internation of a second variable we
+call it auxiliary variable a long pause 
+now if you denote this auxiliary variable with uh the la uh
+letter x 
+by x it begin that the auxiliary variable is not presented
+x indicate the auxiliary variable is presented okay 
+now if we try to put down the phone uh the signal phone path
+in the k map that initially we have this and we got a extend b extend
+now it ' s onl it is only after the the b retraction
+operation that we will have ambiguity
+so before we retract the b it is the time that we need to do
+our separation
+so we will introduce our secondary variable be activate the
+auxiliary variable to make the auxiliary variable present at this progress
+so the even though we still have b one and a one but the auxiliary
+signal is presented after that
+so we have move ourself to here now if reduce the b minus
+here 
+then we will be putting ourself into this situation
+rather than here okay
+so this is the time that we produce out log a retraction so
+ will be here feeling after the retraction of a
+now it is time fear that we need to remove our secondary
+variable
+so to make ourself at the beginning of the cycle
+again okay
+the flow if you like that okay
+so initially we will be uh logic combination with a zero b zero
+and x bar the completion signal is what presented then we will have a one b
+zero auxiliary not presented and then we will have a one b one x x still not
+present here
+now we introduce a x we will be in the situation that a one b one
+and x are there
+we retracted the b twenty eight prefer the x they are
+ two-words situation again okay
+now instead of having just four operations a plus b plus b
+minus and a minus we introduce two more operations
+as a result we got six operations
+out of these six only four are associated with the actual cylinder
+movements okay
+these are mean the change or the uh of the control
+signals right 
+this one is the operations that we are going to change 
+buys into x uh in we are fear to introduce the secondary
+variable right
+initially the secondary variable is absent and then we make it
+present okay 
+uh the purpose of introducing the secondary variable is to
+separate the two operations a long pause 
+right remember that one if you have this situation then
+you will have this two different operations required the same logic
+combinations
+it is the situation at which we do not know what to do whether to
+do the a minus or the b plus
+so in order to solve this problem we introduce the secondary
+variable to make the two different
+the first in fact this is the the ru uh recording of the
+history of the cycle in that
+so when the first present of the combination of a one and b
+log while the auxiliary variable is still absent we do the b plus
+after that we intr introduce the secondary variable
+so when a one and b log appear again this time we have the
+auxiliary variable
+so the combination of a one and zero remains the same but the
+condition of the auxiliary variable is different
+so we have separate the two okay
+so for every square here we do not have more than one operation if
+we move stability right okay now 

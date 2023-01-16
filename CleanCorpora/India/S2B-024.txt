@@ -1,0 +1,380 @@
+""
+""
+familiar incidents  do not usually excite our  curiosity 
+""
+we look at them  and we take them for granted 
+""
+we do not ask  what makes them  happen  ?
+""
+how they are connected with the rest  of the universe  ?
+""
+it was  one of these mundane incidents  which excited the
+curiosity  of  issac newton 
+""
+he saw  an apple fall from a tree 
+""
+it made him wonder  whether the law of nature that made the
+apple fall  would also make the moon  fall towards the earth 
+""
+he was taking a great intellectual leap from the apple  to the
+moon 
+""
+he was not content  with having seen this event with his physical
+eyes alone 
+""
+he was trying  to see a hidden connection behind the phenomenon
+ with his  intellect  the third eye 
+""
+what is the connection  that newton saw  betweeen the apple
+and the moon  ?
+""
+let us look at the moon 
+""
+if the earth  did not attract the moon  the moon would have
+travelled in a straight line and escaped to infinity 
+""
+the  earth's  attraction provides the centripidal force 
+that bends the  moon's  projectory  continuously  from its
+linear projectory 
+""
+one can therefore say  that the moon is continuously falling
+towards the  earth's  centre 
+""
+it is exactly analogous to the case of the spacecraft  that we
+talked about in an earlier episode
+""
+now  if the  earth's  gravity extends  upto the orbit
+of the moon  and this force decreases  as the square of the distance
+from the  earth's  centre 
+""
+it is easy to calculate the acceleration of the moon as it falls
+ from a knowledge of the acceleration of the apple 
+""
+since the moon is sixty times  as far from the centre of the
+earth as the apple  its acceleration should be sixty multiplied by sixty
+that is  three thousand six hundred times smaller  than the  apple's
+ acceleration 
+""
+the remarkable thing is  that this gives the right answer for
+the moon to go  once round the earth in twenty-eight days  exactly as
+observed 
+""
+this was  newton's   famous  moon test 
+""
+in fact in the beginning  he used a slightly wrong value for the
+distance of the moon from the centre of the earth  and therefore got  a
+slightly wrong value for the lunar month  that made him wonder for a
+while as to whether  there was something other than gravity  which
+affected the  moon's  motion 
+""
+he therefore didn't publish his results until much later 
+""
+the primitive concept of forces  arises from our experience of
+ pushes and pulls 
+""
+newton made a tremendous intellectual leap  from such a concept
+of contact forces  to the concept of forces  such as gravitation 
+which act over a distance through empty space 
+""
+this is how he made  the leap 
+""
+consider the uniform inertial motion of a body  in a straight
+line  covering equal distances ab  bc  cd  de and so on  in
+equal times 
+""
+let the points  a b c d e  etcetera  be
+joined by a straight line  to the point p  not on the line of motion
+""
+""
+then  the successive triangles  all have equal bases  ab
+ bc  cd  de  etcetera  and the same height  h  from the
+base 
+""
+therefore  they all have the same area 
+""
+since these equal areas are swept out in equal times  this is
+clear that inertial motion  traces out equal areas in equal times 
+""
+now newton supposed  that the body received a succession of
+blows  at regular intervals 
+""
+all directed towards a common point  p 
+""
+then the direction of motion would change at every blow  and the
+body would coast along inertially in a straight line  between these blows
+""
+""
+the linear path would thus be converted into a polygon  whose
+sides would still determine consecutive triangles of equal areas  with
+respect to the point p 
+""
+now says newton  let the time between successive blows become
+smaller and smaller  then the number of blows and triangles would increase
+ and the width  would decrease 
+""
+in the limit of arbitrarily small intervals of time  the
+projectory would be a continuous curve 
+""
+this is the crucial point 
+""
+it lies at the very heart of calculus 
+""
+this limiting procedure enabled newton to make a transition 
+from a succession of discrete blows  to the concept of a continually
+acting force  directed towards a common point  a central or centripidal
+force causing curvilinear motion 
+""
+and he discovered  that bodies moving under the action of such a
+force would trace out equal areas in equal times 
+""
+this is  keplar's  second law of planetary motion 
+""
+notice that newton arrived at the concept of an attractive force
+acting over a distance  as a mathematical limit of a succession of direct
+impact 
+""
+he wrote   what i call attraction  may be performed
+by impulse  or by some other means unknown to me 
+""
+i use these words here to signify in general  any force  by
+which bodies  tend towards one another  whatsoever be the cause
+ 
+""
+he didn't pretend to know the cause of gravity 
+""
+could it be due to  a shower of ethereal particles  or was
+it is as descartes had imagined  ?
+""
+newton was curious  but he couldn't decide 
+""
+he left the question  open 
+""
+but what is important is that he didn't stop there 
+""
+he simply assumed the existance of gravity  and proceeded to
+work out its consequences 
+""
+this pragmatic approach  was  essential for the progress of
+science in his time  but it was completely misunderstood  by many of
+his eminent contemporaries 
+""
+it led to  a lot of unnecessary and bitter controversy 
+""
+having shown that a centripidal force acting continually would make
+a body move in a curve  that traced out equal areas in equal times  he
+also proved the converse  namely that this area law employed a motion in a
+central force speed 
+""
+since the area law held for planets  it became clear to newton
+that the force acting between the sun and the planets must be a central force
+""
+""
+he had earlier deduced from  keplar's  third law of
+planetary motion  that a circular orbit employed a force  that
+decreased as the square of the distance from the centre 
+""
+armed with the discovery of calculus he was now able to show 
+that under a central force that decreased at the square of the distance  a
+planet would describe  an elliptic orbit 
+""
+in other words  he derived  keplar's  first law of
+planetary motion  from causal principles 
+""
+now  this derivation of  keplar's  empirical laws 
+held only for an imagined system  a hypothetical point particle  moving
+around a centre of force  in a perfect vacuum 
+""
+the real world is of course much more complex 
+""
+newton therefore didn't publish his results 
+""
+in the mean time  robert hook quite independently hit upon the
+idea  that the attraction between the sun and the planets  fell off at
+the square of their distances 
+""
+however  he couldn't work out  what the orbits would be under
+such an attractive force 
+""
+he tried to get newton interested in the problem  and wrote to
+him in january sixteen hundred and eighty 
+""
+but newton didn't reply  as an earlier controversy with hook
+about the nature of light  had offended him 
+""
+in london  there were two other men  who were  also
+working on  hook's  problem 
+""
+christopher wren  the famous architect of saint  paul's 
+cathedral  and edmund halley 
+""
+in august sixteen eighty-four  halley  who was younger than
+hook and more tactful  went to cambridge on horseback  to find out if
+newton could help 
+""
+a contemporary account  states  without mentioning either his
+own speculations  or those of hook or wren  he at once indicated the
+object of his visit by asking newton  what would be the curve described by
+the planets on the supposition  that gravity  diminished at the square
+of the distance 
+""
+newton immediately answered  an ellips 
+""
+struck with joy and amazement  halley asked him how he knew it
+ ?
+""
+why replied he  i have calculated it  and being asked for
+the calculation  he could not find it  but  promised to send it to
+him 
+""
+this was the beginning  of the writing of  newton's 
+principia 
+""
+perhaps the greatest book on physical science  ever written 
+""
+it took him nearly  three years of incredible labour 
+""
+he submitted it to the royal society on twenty-eighth april
+sixteen eighty-six 
+""
+one of the greatest days in the history of science 
+""
+it was finally accepted by samuel peeps  the president of the
+royal society  and published in sixteen eithty-seven 
+""
+it would not have seen the light of day  had it not been for the
+constant coaxing and persuasion by halley  who even paid for its
+publication 
+""
+it consisted of three books  written in latin  in which 
+newton developed a full dynamical theory  encapsulated in his three laws
+of motion 
+""
+the third law is the most original  of his three laws  and
+appears for the first time in the principia 
+""
+newton  generalised the experience of  direct collisions of
+bodies like  billiard balls acting mutually on one another  to the case
+ of four types of forces  including attraction 
+""
+the third law  is not however applicable to every case 
+""
+nowadays we believe  that all signals or forces have a finite
+velocity of propagation 
+""
+it is therefore not applicable to them  because  it talks
+about  forces of action and reaction being equal  as measured at the
+same time 
+""
+we therefore don't expect it to be very good  say in the case of
+atomic category 
+""
+it is however perfectly applicable  to the collisions of
+billiard balls  cars and so on 
+""
+as i have said earlier   newton's  derivation of 
+kepler's  empirical laws  held only for an imagined system  a
+hypothetical point particle moving around the centre of force  in a
+perfect vacuum 
+""
+a physically impressed force  must be directed towards a real
+physical body 
+""
+so newton next introduced a second body in place of the
+mathematical centre of force  to simulate the sun  and a single planet
+""
+""
+and he assumed  that they were both spherical in shape  and
+attracted each other with equal and opposite forces 
+""
+after much effort lasting over a number of years  newton
+obtained the remarkable mathematical result  that a gravitational
+attraction  of a homogeneous spherical body or shell  on a mass point
+outside it  was the same as though its whole mass  was concentrated at
+its centre  provided  gravity fell off at the square of the distance
+""
+""
+this justified his earlier treatment of the sun and the planets as
+ point like objects 
+""
+he next showed that in such a system  each body would move in an
+orbit around the common centre of mass 
+""
+if one of the bodies were much more massive than the other  as
+is the case with the sun and most of the planets  the centre of mass would
+practically coincide  with the more massive body 
+""
+since nearly the entire mass of the solar system was concentrated
+in the sun  the planet would really move around the sun  which would
+remain practically stationary 
+""
+a dynamical justification of the copernican system  that galileo
+was unable to provide 
+""
+the final feature was the introduction of other mutually
+interacting bodies to produce a system like the sun  and all its planets
+""
+""
+here  his third law about the equality of action and reaction
+played a crucial role 
+""
+the discovery of this new important principle  almost
+inevitably led to universal gravitation 
+""
+newton systematically showed  that the same force of gravity
+that acted between the earth and the moon  also acted between  jupiter
+and its satellites  between the sun  and all the planets  and
+between every pair of planets  and that every action was mutual  by the
+third law of motion 
+""
+he was thus led to the concept of  universal gravitation  a
+force  that acts mutually between any two samples of matter  anywhere
+in the universe 
+""
+newton applied his powerful theory to show  that the tides on
+the high seas were caused by the gravitational pull  of the moon and the
+sun 
+""
+he argued  that the gravitational force exerted by the moon 
+on the ocean waters on the moonlit side of the earth  was stronger 
+than the pull on the moonless side  because gravity decreases the distance
+""
+""
+as a result of this  the ocean waters assume an elixoidal shape
+ with two bulges  one on the moonlit side and the other on the opposite
+side 
+""
+the sun has a similar effect on the oceans  but being much
+farther away its effect is weaker than the  moon's  
+""
+also the solar and lunar tides  do not always coincide 
+""
+the sun and the moon  act in the same direction whenever the
+moon is either new or full  and then we have exceptionally high tides 
+""
+at other times  the total effect is much diminished 
+""
+with the powerful tool of calculus at his command to give shape to
+his daring imagination  newton  demonstrated convincingly that 
+gravity held sway  over the entire solar system 
+""
+in one sweeping stroke  he unified celestial and terrestrial
+motion under a single concept 
+""
+the great irish philosopher  george bernard shaw once made 
+the following  mischievous remark  about newton   copernicus
+proved  that ptolemy was wrong  kepler proved  that copernicus was
+wrong  galileo proved  that aristotle was wrong  but at that point
+ the sequence broke down  because  science then came up for the
+first time against that incalculable natural phenomenon  and englishman
+""
+""
+to explain why all the lines in his rectilinear universe were bent
+ he invented a force called gravitation  and thus erected a complete
+ british universe and established it as a religion  which was devoutly
+believed in for three hundred years  
+""
+that was  george bernard shaw 
+""
+but the famous english poet  alexander pope  wrote 
+ nature  and  nature's  laws lay hidden in night  god
+said  let newton be  and all was light   

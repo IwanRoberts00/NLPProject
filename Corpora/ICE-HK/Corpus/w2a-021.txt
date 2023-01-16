@@ -1,0 +1,778 @@
+<I> <bold> <h>
+
+<ICE-HK:W2A-021#1:1>
+Chapter 10 </h> </bold> <bold> <h>
+
+<ICE-HK:W2A-021#2:1>
+Infections of the Central Nervous System </h> </bold> <bold> <h>
+
+<ICE-HK:W2A-021#3:1>
+S. T. CHAN </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#4:1>
+In Hong Kong , infections of the central nervous system &obrack;
+CNS &cbrack; have always been a significant cause of mortality and morbidity .
+
+<ICE-HK:W2A-021#5:1>
+Generally speaking , as a society develops and its standard of medical
+and health care improves , one would expect a progressive decline in the
+incidence of infectious diseases .
+
+<ICE-HK:W2A-021#6:1>
+However , a review of the statistics on CNS infections in Hong Kong
+showed that this has not been the case &obrack; Table 10.1 &cbrack; . </p>
+
+<p> 
+<ICE-HK:W2A-021#7:1>
+Taking the case of tuberculosis &obrack; TB &cbrack; as an example
+, statistics from the government showed that the total number of TB cases in
+general and TB meningitis in particular showed no significant change over the
+last 11 years . <sp> <fnr> 19 </fnr> </sp> </p>
+
+<p> 
+<ICE-HK:W2A-021#8:1>
+In fact there appears to be a rising trend in the number of new
+cases of TB infection in the recent 2 years .
+
+<ICE-HK:W2A-021#9:1>
+This observation is explained by the close proximity of Hong Kong to
+China , where poverty and infection are still major problems .
+
+<ICE-HK:W2A-021#10:1>
+In neighbouring provinces across the Chinese border , public health
+standards are still in a developing stage .
+
+<ICE-HK:W2A-021#11:1>
+TB is particularly rampant . </p>
+
+<p> 
+<ICE-HK:W2A-021#12:1>
+Over the years , neurosurgeons have been actively involved in the
+overall management of different kinds of CNS infections .
+
+<ICE-HK:W2A-021#13:1>
+From helping in the initial diagnosis to managing the complications
+of various infections , we have worked closely with our colleagues in other
+specialties .
+
+<ICE-HK:W2A-021#14:1>
+Our neurosurgeons have acquired vast experience in dealing with a
+large variety of infections , ranging from the common to the very rare cases .
+</p> <bold> <h>
+
+<ICE-HK:W2A-021#15:1>
+MENINGITIS </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#16:1>
+The commonest infection of the CNS by far is meningitis .
+
+<ICE-HK:W2A-021#17:1>
+In spite of recent advances and the availability of many new and
+potent antimicrobial treatments , meningitis still <O> TABLE </O> carries a
+formidable mortality rate .
+
+<ICE-HK:W2A-021#18:1>
+Delayed diagnosis often leads to severe and permanent morbidity .
+
+<ICE-HK:W2A-021#19:1>
+A high index of suspicion is very important , especially in cases
+where meningeal signs and fever may not be present initially .
+
+<ICE-HK:W2A-021#20:1>
+Those at risk include the very young and those taking steroids . </p>
+
+<p> 
+<ICE-HK:W2A-021#21:1>
+Another worrying trend is an increasing number of patients
+presenting with partially treated bacterial meningitis .
+
+<ICE-HK:W2A-021#22:1>
+For every case of confirmed bacterial meningitis , there are two to
+three cases of meningitis due to unspecified cause .
+
+<ICE-HK:W2A-021#23:1>
+Most of these represent partially treated cases where the causative
+bacteria cannot be cultured . <sp> <fnr> 14 </fnr> </sp>
+
+<ICE-HK:W2A-021#24:1>
+Local citizens have a tendency to visit multiple practitioners over a
+short period of time .
+
+<ICE-HK:W2A-021#25:1>
+Some local physicians also harbour a cavalier attitude in prescribing
+antibiotics .
+
+<ICE-HK:W2A-021#26:1>
+This results in a real risk of delayed diagnosis of meningitis with
+dire consequences . </p>
+
+<p> 
+<ICE-HK:W2A-021#27:1>
+For those cases of chronic or subacute meningitis caused by TB or
+cryptococcus , meningeal signs may not be apparent .
+
+<ICE-HK:W2A-021#28:1>
+Many such cases are diagnosed only after neurosurgical consultation ,
+when lumbar puncture would be performed . </p>
+
+<p> 
+<ICE-HK:W2A-021#29:1>
+The following statistics &obrack; Table 10.2 &cbrack; were
+collected from all hospitals &obrack; private and government/hospital
+authority &cbrack; in Hong Kong .
+
+<ICE-HK:W2A-021#30:1>
+They show the incidence of meningitis caused by all kinds of
+infective agents <sp> <fnr> 4-13 </fnr> </sp> and highlight the fact that
+even today meningitis still causes significant mortality : one will also note
+that there is no significant change in the <O> TABLE </O> incidence or the
+result of treatment . </p>
+
+<p> 
+<ICE-HK:W2A-021#31:1>
+Apart from bacterial and viral meningitis , TB meningitis is a
+rather common occurrence , as shown in table 10.1 .
+
+<ICE-HK:W2A-021#32:1>
+This explains the great interest in this topic , leading to many
+reports and studies published by our colleagues in the fields of neurology ,
+neuroradiology and neurosurgery .
+
+<ICE-HK:W2A-021#33:1>
+Their efforts add to our ever-increasing knowledge of these disease
+processes and contribute to better results in the management of this disease .
+<sp> <fnr> 15 , 17 , 20 </fnr> </sp> </p>
+
+<p> 
+<ICE-HK:W2A-021#34:1>
+Although cases of meningitis are primarily managed by physicians
+and paediatricians , neurosurgeons are often involved in the management when
+complications arise .
+
+<ICE-HK:W2A-021#35:1>
+These complications include ventriculitis , hydrocephalus , granuloma
+and abscess formation .
+
+<ICE-HK:W2A-021#36:1>
+Surgical procedures include insertion of ventricular catheters and
+reservoirs for intra-ventricular antibiotics , shunting operations for
+hydrocephalus and excision or drainage of brain abscess or granuloma . </p>
+<bold> <h>
+
+<ICE-HK:W2A-021#37:1>
+ABSCESS FORMATION IN THE CNS </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#38:1>
+Brain and spinal abscess formation are by no means uncommon in
+Hong Kong .
+
+<ICE-HK:W2A-021#39:1>
+The following statistics from Queen Elizabeth Hospital &obrack; Table
+10.3 &cbrack; , one of the large Neurosurgical Units in town , illustrate the
+kinds of abscesses managed by Hong Kong neurosurgeons . </p> <O> TABLE </O>
+<bold> <h>
+
+<ICE-HK:W2A-021#40:1>
+VIRAL INFECTIONS </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#41:1>
+Viral infections of the CNS are common .
+
+<ICE-HK:W2A-021#42:1>
+Fortunately most cases resolve without complications .
+
+<ICE-HK:W2A-021#43:1>
+However , viral encephalitis sometimes results in life-threatening
+cerebral oedema , and neurosurgical assistance is called for .
+
+<ICE-HK:W2A-021#44:1>
+Surgical procedures include insertion of catheter for intracranial
+pressure monitoring and brain biopsy to confirm the diagnosis .
+
+<ICE-HK:W2A-021#45:1>
+Cases of postinfectious viral transverse myelitis have also been
+encountered , although not frequently . <sp> <fnr> 3 </fnr> </sp> </p> <bold>
+<h>
+
+<ICE-HK:W2A-021#46:1>
+FUNGAL INFECTIONS </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#47:1>
+The most common fungal infection of the CNS seen locally is
+cryptococcal meningitis .
+
+<ICE-HK:W2A-021#48:1>
+Infection by Cryptococcus neoformans leads to inflammation of
+meninges and blood vessels .
+
+<ICE-HK:W2A-021#49:1>
+Patients may present acutely with symptoms of diffuse encephalitis .
+
+<ICE-HK:W2A-021#50:1>
+Other times the disease may take a subacute or even chronic course ,
+without much meningeal sign .
+
+<ICE-HK:W2A-021#51:1>
+Chronic headache and cranial nerve palsy may be the only complaint .
+
+<ICE-HK:W2A-021#52:1>
+The mainstay of treatment is the use of antifungal agents like
+amphotericin B , 5-flurocytosine or derivatives of the imidazole group .
+
+<ICE-HK:W2A-021#53:1>
+A local case where the meningitis recurred over a period of 5 years
+in spite of treatment has been reported . <sp> <fnr> 23 </fnr> </sp> </p>
+
+<p> 
+<ICE-HK:W2A-021#54:1>
+In addition to antifungal treatment , ventriculoperitoneal
+shunting operations may be necessary for cases complicated by hydrocephalus .
+
+<ICE-HK:W2A-021#55:1>
+No case of spread to the peritoneal cavity has been recorded . </p>
+
+<p> 
+<ICE-HK:W2A-021#56:1>
+Occasional cases of fungal abscesses have also been seen .
+
+<ICE-HK:W2A-021#57:1>
+Craniotomy and drainage of pus together with antifungal treatment
+gave successful results .
+
+<ICE-HK:W2A-021#58:1>
+Isolated cases of rarer fungal infection like cerebral aspergillosis
+have also been reported . <sp> <fnr> 16 </fnr> </sp>
+
+<ICE-HK:W2A-021#59:1>
+At the time of writing , a case of aspergillosis mycotic aneurysm has
+been diagnosed by the team in Tuen Mun Hospital and will soon be reported .
+
+<ICE-HK:W2A-021#60:1>
+The majority of current and past patients with fungal infection were
+not associated with AIDS or other immunosuppression state . </p> <bold> <h>
+
+<ICE-HK:W2A-021#61:1>
+PARASITIC INFESTATION </h> </bold> <bold> <h>
+
+<ICE-HK:W2A-021#62:1>
+Cysticercosis </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#63:1>
+The commonest parasitic infestation of the CNS seen in Hong Kong
+is cysticercosis .
+
+<ICE-HK:W2A-021#64:1>
+Patients become infected after ingesting larvae of Taenia solium in
+<-> under-cocked </-> <+> under-cooked </+> pork .
+
+<ICE-HK:W2A-021#65:1>
+Although the Hong Kong government has stringent rules governing the
+slaughter and distribution of pork , this is not the case in Mainland China .
+
+<ICE-HK:W2A-021#66:1>
+Many patients are infected while travelling to China .
+
+<ICE-HK:W2A-021#67:1>
+As it is not a notifiable disease , no comprehensive data about the
+incidence of cysticercosis is available .
+
+<ICE-HK:W2A-021#68:1>
+From personal communications with various local centers , the author
+estimates an incidence of around 10 to 15 new cases per year .
+
+<ICE-HK:W2A-021#69:1>
+With more cross-border traffic , the incidence is expected to rise
+further . </p>
+
+<p> 
+<ICE-HK:W2A-021#70:1>
+In most cases the diagnosis of cerebral cysticercosis is obvious
+when a computed tomography &obrack; CT &cbrack; or magnetic resonance
+&obrack; MR &cbrack; scan shows widespread multiple cystic lesions in the
+parenchyma of the brain .
+
+<ICE-HK:W2A-021#71:1>
+Sometimes however a solitary cyst may be the only manifestation .
+
+<ICE-HK:W2A-021#72:1>
+The author has had the experience of removing an intact larval cyst
+from within the spinal dural sac while exploring a case of nerve root
+compression .
+
+<ICE-HK:W2A-021#73:1>
+There was no other lesion detectable elsewhere . </p>
+
+<p> 
+<ICE-HK:W2A-021#74:1>
+Other diagnostic pitfalls include missing the diagnosis by only
+requesting a nonenchance CT scan .
+
+<ICE-HK:W2A-021#75:1>
+In the early stages of the disease , before calcifications occur in
+the cyst wall , the cysts may only be visible after contrast injection . </p>
+
+<p> 
+<ICE-HK:W2A-021#76:1>
+Management by the antihelmintic praziquantel is usually
+successful , although sometimes massive inflammatory responses occur and may
+even cause cerebral infarct . <sp> <fnr> 22 </fnr> </sp>
+
+<ICE-HK:W2A-021#77:1>
+Neurosurgery is reserved for cases complicated by hydrocephalus or
+cystic compression on neural structures . </p> <h>
+
+<ICE-HK:W2A-021#78:1>
+<bold> Sparganosis </bold> </h>
+
+<p> 
+<ICE-HK:W2A-021#79:1>
+Another peculiar larval infestation of the CNS seen in Hong Kong
+is Sparganosis .
+
+<ICE-HK:W2A-021#80:1>
+In theses local cases migrating larvae of Diphyllobothrium mansoni
+most likely enter the human body through drinking water contaminated with
+infected Cyclops .
+
+<ICE-HK:W2A-021#81:1>
+Hong Kong  ' s drinking water is recognized as safe by the World Health
+Organization .
+
+<ICE-HK:W2A-021#82:1>
+The majority of local cases were probably infected in China where
+clean drinking water is not guaranteed . </p>
+
+<p> 
+<ICE-HK:W2A-021#83:1>
+Back in 1987 , this condition was supposed to be of very rare
+occurrence and only eight cases had been reported world-wide .
+
+<ICE-HK:W2A-021#84:1>
+However , the author published two personal cases encountered in 1986
+and 1987 , <sp> <fnr> 1 </fnr> </sp> and predicated a much higher incidence
+once this disease became better known and the differential diagnosis is
+considered in relevant cases .
+
+<ICE-HK:W2A-021#85:1>
+Since then , more cases have been found locally <sp> <fnr> 14 </fnr>
+</sp> and this condition is now recognized to be more common in Hong Kong and
+neighbouring Southern China . </p>
+
+<p> 
+<ICE-HK:W2A-021#86:1>
+Presenting as granulomas in the brain or spinal cord , the
+diagnosis was confirmed only after histological specimen was available
+through exploration and biopsy .
+
+<ICE-HK:W2A-021#87:1>
+In one of the author  ' s cases a 5-inch long larva was literally
+caught from within an intraparenchymal granuloma at exploration for a case of
+suspected glioma . </p> <bold> <h>
+
+<ICE-HK:W2A-021#88:1>
+AIDS ASSOCIATED INFECTIONS </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#89:1>
+With the increasing prevalence of the Acquired Immunodeficiency
+Syndrome &obrack; AIDS &cbrack; in Hong Kong , a higher incidence of CNS
+infections associated with the syndrome is to be expected .
+
+<ICE-HK:W2A-021#90:1>
+Indeed cases of brain abscess in AIDS patients have been encountered .
+<sp> <fnr> 18 </fnr> </sp> </p> <bold> <h>
+
+<ICE-HK:W2A-021#91:1>
+OTHER MISCELLANEOUS INFECTIONS </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#92:1>
+Creutzfeldt-Jakob disease was first reported locally in 1987 .
+</p> <sp> <fnr> 2 </fnr> </sp>
+
+<p> 
+<ICE-HK:W2A-021#93:1>
+Cases of amoebic meningoencephalitis due to Naegleria fowleri
+have also been seen locally .
+
+<ICE-HK:W2A-021#94:1>
+Again in most cases the exposure was thought to have happened in
+China .
+
+<ICE-HK:W2A-021#95:1>
+The mortality was very high as diagnosis was often delayed .
+
+<ICE-HK:W2A-021#96:1>
+Yet successful treatment was reported in a 38-year-old man . <sp>
+<fnr> 21 </fnr> </sp> </p> <bold> <h>
+
+<ICE-HK:W2A-021#97:1>
+SUMMARY </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#98:1>
+Hong Kong is one of the world  ' s most sophisticated metropolises
+with an advanced medical and health system .
+
+<ICE-HK:W2A-021#99:1>
+Yet due to her close historic connection with China , infective
+diseases of the CNS have always been a common occurrence .
+
+<ICE-HK:W2A-021#100:1>
+Now after her reunification with China in 1997 , cross-border
+traffic is expected to grow at an ever-increasing rate .
+
+<ICE-HK:W2A-021#101:1>
+Infections of the CNS will certainly remain a major focus of our
+neurosurgical practice . </p> </I>
+
+<I> 
+
+<ICE-HK:W2A-021#102:2>
+<bold> <h> Chapter 11 </h> </bold> <bold> <h>
+
+<ICE-HK:W2A-021#103:2>
+Spinal Surgery </h> </bold> <bold> <h>
+
+<ICE-HK:W2A-021#104:2>
+C.K. Wong </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#105:2>
+The spinal cord , perhaps because of its simpler anatomy and
+smaller size , has less pathology than its cerebral counterpart .
+
+<ICE-HK:W2A-021#106:2>
+While it is enclosed in a bony canal , well protected by muscles and
+bone , its function is very much dependent on the well being of the vertebrae
+and intervertebral structures such as disc and joints .
+
+<ICE-HK:W2A-021#107:2>
+Therefore , in managing spinal pathologies , the surgeons have to be
+conversant not only with the respective nervous diseases but also diseases of
+the bone and joints , and the biomechanics of the spine as a whole . </p>
+<bold> <h>
+
+<ICE-HK:W2A-021#108:2>
+THE PAST </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#109:2>
+In the early days of neurosurgical services in Hong Kong , due
+to the paucity of resources , material or human alike , focus was set only on
+the brain .
+
+<ICE-HK:W2A-021#110:2>
+The rest of the central nervous system , the vertebrae in particular
+, was left to the orthopaedic colleagues .
+
+<ICE-HK:W2A-021#111:2>
+Coupled to the longer history and good reputation of orthopaedics in
+Hong Kong , it had been the common practice for family physicians to refer
+patients with problems related to the spine first to the orthopaedic surgeons .
+
+<ICE-HK:W2A-021#112:2>
+It was then up to the orthopaedic surgeons to refer to neurosurgeons
+those they found in apt to handle . </p> <bold> <h>
+
+<ICE-HK:W2A-021#113:2>
+THE PRESENT </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#114:2>
+Through the years , as neuroimaging technology advances ,
+diagnosis can be made with greater ease and confidence .
+
+<ICE-HK:W2A-021#115:2>
+Problems are classified earlier in the course of treatment .
+
+<ICE-HK:W2A-021#116:2>
+This helps to define our territory to diseases within the dura .
+
+<ICE-HK:W2A-021#117:2>
+Unlike our counterparts abroad , we manage just a very small
+proportion of degenerative spinal disease . </p>
+
+<p> 
+<ICE-HK:W2A-021#118:2>
+Most of us believe that we should be more active in the
+management of bony spinal <O> 2-PHOTOS </O> pathologies such as degenerative
+spinal disease and spinal trauma .
+
+<ICE-HK:W2A-021#119:2>
+There are two reasons .
+
+<ICE-HK:W2A-021#120:2>
+First , the clinical indications of spinal surgery are usually
+neurological in nature .
+
+<ICE-HK:W2A-021#121:2>
+A neurosurgeon is undoubtedly in the best position to assess and
+predict the outcome of the treatment program .
+
+<ICE-HK:W2A-021#122:2>
+Second , with our traditional meticulous care in tissue handling ,
+we are well capable to work on the spine with the least trauma . </p>
+
+<p> 
+<ICE-HK:W2A-021#123:2>
+At present , we are able to provide treatment to a large variety
+of these conditions .
+
+<ICE-HK:W2A-021#124:2>
+The following three cases illustrate the scope of service we are
+currently providing . </p> <bold> <h>
+
+<ICE-HK:W2A-021#125:2>
+Case 1 </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#126:2>
+A 6-year-old boy presented with 2 months  '  history of neck pain
+followed by weakness of all limbs .
+
+<ICE-HK:W2A-021#127:2>
+Physical examination demonstrated mild spastic tetraparesis .
+
+<ICE-HK:W2A-021#128:2>
+Sphincter functions and sensation were intact .
+
+<ICE-HK:W2A-021#129:2>
+X-ray of the cervical spine was normal .
+
+<ICE-HK:W2A-021#130:2>
+Magnetic resonance &obrack; MR &cbrack; imaging &obrack; Fig. 11.1A
+&cbrack; showed an intradural cystic lesion lying anterior to the spinal cord
+with signal intensity similar to cerebral spinal fluid .
+
+<ICE-HK:W2A-021#131:2>
+It extended from <O> 2-PHOTOS </O> C4 to C6 level .
+
+<ICE-HK:W2A-021#132:2>
+The spinal cord was badly compressed and deformed . </p>
+
+<p> 
+<ICE-HK:W2A-021#133:2>
+After the scan , there was rapid deterioration of neurological
+signs including respiratory distress , acute urinary retention and
+progressive tetraparesis .
+
+<ICE-HK:W2A-021#134:2>
+Urgent anterior corpectomy at the level of C4-C7 was done .
+
+<ICE-HK:W2A-021#135:2>
+Intraoperative finding showed a thin walled , tense whitish cyst
+containing turbid yellowish fluid .
+
+<ICE-HK:W2A-021#136:2>
+For an area of around 3 mm in diameter , the cyst was firmly
+attached to the anterior surface of the cord .
+
+<ICE-HK:W2A-021#137:2>
+Total excision was achieved .
+
+<ICE-HK:W2A-021#138:2>
+The C4-C7 corpectomy was subsequently stabilised with a fibular
+strut graft .
+
+<ICE-HK:W2A-021#139:2>
+The pathology was neurenteric cyst . </p>
+
+<p> 
+<ICE-HK:W2A-021#140:2>
+The patient was put on a Philadelphia collar for 3 months .
+
+<ICE-HK:W2A-021#141:2>
+Neurological improvement was remarkable and by the end of 3 months ,
+the patient was free of symptoms .
+
+<ICE-HK:W2A-021#142:2>
+Follow-up MR imaging &obrack; Fig. 11.1B &cbrack; showed complete
+resolution of the cyst with satisfactory alignment of the bone graft . </p>
+<bold> <h>
+
+<ICE-HK:W2A-021#143:2>
+Case 2 </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#144:2>
+A 31-year-old lady complained of progressive left upper limb
+weakness for 3 years .
+
+<ICE-HK:W2A-021#145:2>
+Physical examination showed marked wasting of small muscles of both
+hands with loss of pinprick sensation at C7-T1 level on the right side .
+
+<ICE-HK:W2A-021#146:2>
+On the left side , there was loss of pinprick and temperature
+sensation at C6-T1 level .
+
+<ICE-HK:W2A-021#147:2>
+The lower limb functions were normal .
+
+<ICE-HK:W2A-021#148:2>
+Sphincter functions were normal . </p>
+
+<p> 
+<ICE-HK:W2A-021#149:2>
+MR imaging &obrack; Fig. 11.2A &cbrack; of the cervical spine
+showed a sausage shape tumour practically <O> 2-PHOTOS </O> occupying the
+whole thecal sac at C2-T1 level .
+
+<ICE-HK:W2A-021#150:2>
+No normal spinal cord was visualised in the intervening level .
+
+<ICE-HK:W2A-021#151:2>
+There was syringobulbia extending down to the superior surface of
+the tumour .
+
+<ICE-HK:W2A-021#152:2>
+Preoperative somato-sensory evoked potential &obrack; SSEP &cbrack;
+was normal in both upper and lower limbs . </p>
+
+<p> 
+<ICE-HK:W2A-021#153:2>
+Laminectomy at C2-T1 level was done .
+
+<ICE-HK:W2A-021#154:2>
+Through a midline myelotomy , the tumour was found to be firm in
+consistency and was adherent to the cord tissue .
+
+<ICE-HK:W2A-021#155:2>
+Though difficult , it was possible to create a cleavage plane
+between the tumour and spinal cord by careful dissection from the cephalic
+end .
+
+<ICE-HK:W2A-021#156:2>
+Total excision was achieved .
+
+<ICE-HK:W2A-021#157:2>
+Stabilisation was achieved by posterior fixation from C2 to T1 level
+using two titanium rods and bone graft .
+
+<ICE-HK:W2A-021#158:2>
+Intraoperative SSEP recorded a reduction of the amplitude of the
+cortical response from the lower limbs .
+
+<ICE-HK:W2A-021#159:2>
+The tumour was an ependymoma . </p>
+
+<p> 
+<ICE-HK:W2A-021#160:2>
+After surgery , the patient was put on a halo-jacket for 6 weeks .
+
+<ICE-HK:W2A-021#161:2>
+MR imaging &obrack; Fig. 11.2B &cbrack; 1 year later showed no
+recurrence .
+
+<ICE-HK:W2A-021#162:2>
+In the latest follow-up , there is good recovery of the function of
+the small muscles of both hands to grade 4 power .
+
+<ICE-HK:W2A-021#163:2>
+Sensory loss , however persist .
+
+<ICE-HK:W2A-021#164:2>
+Proprioception of both lower limbs is normal .
+
+<ICE-HK:W2A-021#165:2>
+The remaining complaint is the pain and stiffness associated with
+extensive spinal fixation . </p> <bold> <h>
+
+<ICE-HK:W2A-021#166:2>
+Case 3 </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#167:2>
+A 6-year-old boy with neonatal asphyxia and spastic diplegia was
+referred for surgical treatment of spasticity .
+
+<ICE-HK:W2A-021#168:2>
+Physical examination showed bilateral ankle clonus and marked tone
+increase in the adductors and , to a lesser extent , the abductors of the hip .
+
+<ICE-HK:W2A-021#169:2>
+He could only stand for a few seconds at a time and walk in a very
+unstable gait with two walking-sticks .
+
+<ICE-HK:W2A-021#170:2>
+The primary problem was spasticity causing poor hip control . </p>
+
+<p> 
+<ICE-HK:W2A-021#171:2>
+Selective dorsal root rhizotomy &obrack; Fig. 11.3 &cbrack;
+under motor nerve stimulator monitoring &obrack; Fig. 11.4 &cbrack; was done .
+
+<ICE-HK:W2A-021#172:2>
+After surgery , the tone in both hips was markedly reduced and
+bilateral ankle clonus abolished completely .
+
+<ICE-HK:W2A-021#173:2>
+Despite mild weakness of the respective muscle group initially ,
+with continuing intensive physiotherapy which is indeed an integral pat of
+the rhizotomy program , he was able to stand and walk much faster unaided
+after 3 months . </p>
+
+<p> 
+<ICE-HK:W2A-021#174:2>
+These three cases vary in complexity and yet have one thing in
+common .
+
+<ICE-HK:W2A-021#175:2>
+In the course of surgery , we found it important to use
+electrophysiological monitoring to guide us through the spinal cord .
+
+<ICE-HK:W2A-021#176:2>
+In recent years , local neurosurgeons like to have intraoperative
+monitoring backup in spinal work .
+
+<ICE-HK:W2A-021#177:2>
+This has incurred additional strain on the already depleted service
+of the neurologists and the electrodiagnostic units .
+
+<ICE-HK:W2A-021#178:2>
+In turn , this adds to our difficulty in handling complicated cases
+with the greatest confidence and safety . </p> <bold> <h>
+
+<ICE-HK:W2A-021#179:2>
+THE FUTURE </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#180:2>
+Knowing our capability in treating spine pathology , we are
+trying to get more recognition , and perhaps a fairer share in the field of
+spinal surgery .
+
+<ICE-HK:W2A-021#181:2>
+Only with better coordination and pooling of resources and referrals
+among ourselves can we provide an environment conducive to cultivating this
+subspecialty .
+
+<ICE-HK:W2A-021#182:2>
+Only when some of us are able to spend most if not all of our time
+doing spinal surgery can the expertise expand well and fast enough .
+
+<ICE-HK:W2A-021#183:2>
+These call for better co-operation and a major restructuring of our
+current practice .
+
+<ICE-HK:W2A-021#184:2>
+In the author  ' s opinion , this is a job for the Neurosurgical
+Specialty Board of the College of Surgeons and the neurosurgical community at
+large . </p> <bold> <h>
+
+<ICE-HK:W2A-021#185:2>
+CONCLUSION </h> </bold>
+
+<p> 
+<ICE-HK:W2A-021#186:2>
+At the turn of the new century , whether our neurosurgical
+service can move forward and improve the quality of our care to spine
+patients depends much on our courage to radically change the existing
+structure . </p> </I>

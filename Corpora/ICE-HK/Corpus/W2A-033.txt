@@ -1,0 +1,618 @@
+<I> <h>
+
+<ICE-HK:W2A-033#1:1>
+<bold> SYSTEM DESCRIPTION </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#2:1>
+The RapidGlass system is based on several major components ,
+namely the clients ' access computers , the RapidGlass network , the  ' Dispatcher'
+, the secured corporate network , the  ' Auditor ' and the insurance companies'
+computers .
+
+<ICE-HK:W2A-033#3:1>
+A user on the client side enters information into a standard glass
+claim form .
+
+<ICE-HK:W2A-033#4:1>
+The information is then coded into EDI format by the client front-end
+program .
+
+<ICE-HK:W2A-033#5:1>
+At the end of each day or at user-selected intervals , data are sent
+to the RapidGlass system via either intranet or internet .
+
+<ICE-HK:W2A-033#6:1>
+The data are then saved on segregated client storage areas on the
+RapidGlass server .
+
+<ICE-HK:W2A-033#7:1>
+This data needs to be transferred into the corporate network for
+furthering processing .
+
+<ICE-HK:W2A-033#8:1>
+This is done by an agent software that checks the presence of client  ' s
+inbound/outbound files at regular intervals and sends them to the corporate
+network .
+
+<ICE-HK:W2A-033#9:1>
+This component is called the Dispatcher .
+
+<ICE-HK:W2A-033#10:1>
+Once the client data have been moved to the working storage on the
+corporate network side on a DEC VAX computer system , the glass claims
+processing software that resides on it processes the data .
+
+<ICE-HK:W2A-033#11:1>
+This program is called the Auditor . It retrieves information from
+insurance companies ' mainframe computer systems and processes the claims .
+
+<ICE-HK:W2A-033#12:1>
+Large amounts of information on insurance policies , coverage and
+claim history are stored on mainframe computer databases .
+
+<ICE-HK:W2A-033#13:1>
+After processing , the output files are written for each glass repair
+vendor .
+
+<ICE-HK:W2A-033#14:1>
+The Dispatcher is responsible for checking and moving the output file
+from the working storage to the RapidGlass server to wait for the client  ' s
+next access .
+
+<ICE-HK:W2A-033#15:1>
+Every time a client accesses the network , the Dispatcher checks for
+inbound files for collection .
+
+<ICE-HK:W2A-033#16:1>
+The inbound file contains the processed claims and the rejects .
+
+<ICE-HK:W2A-033#17:1>
+The client can then go back to each of the rejected claims and check
+the error message for making appropriate corrections . </p>
+
+<p> 
+<ICE-HK:W2A-033#18:1>
+The Auditor also has built-in usage accounting capability .
+
+<ICE-HK:W2A-033#19:1>
+The present system charges the insurance companies according to the
+number of claims processed .
+
+<ICE-HK:W2A-033#20:1>
+There is also the possibility of charging the glass repair vendors on
+either a monthly flat fee or a claims volume-based charging scheme .
+
+<ICE-HK:W2A-033#21:1>
+The system provider can therefore harness the power of intranet and
+internet to provide a value-added service to the insurance industry with a
+means to support the running cost . </p> <h> <bold>
+
+<ICE-HK:W2A-033#22:1>
+NETWORK DESCRIPTION </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#23:1>
+Three networks make up the RapidGlass system , namely the public
+network , the RapidGlass network and the insurance corporate network &obrack;  see
+Figure 1 &cbrack; . </p> <O> Figure </O>
+
+<p> 
+<ICE-HK:W2A-033#24:1>
+The public network can take many forms .
+
+<ICE-HK:W2A-033#25:1>
+It can be the worldwide internet or a private frame relay network or
+even the telephone network .
+
+<ICE-HK:W2A-033#26:1>
+The RapidGlass system will allows three types of access to the
+RapidGlass network .
+
+<ICE-HK:W2A-033#27:1>
+The first type is via internet into a firewall route then into the
+RapidGlass network through routers over frame relay , lease lines , etc. .
+
+<ICE-HK:W2A-033#28:1>
+The last type of connection is over the conventional telephone
+network , clients use modems to dial into Netware Connect or a Microsoft RAS
+server and gain access node over modem lines . </p>
+
+<p> 
+<ICE-HK:W2A-033#29:1>
+The RapidGlass network is an internal Local Area Network &obrack;  LAN)
+owned and managed by Teleglobe Insurance Systems .
+
+<ICE-HK:W2A-033#30:1>
+At present , it is a 10Mbps Ethernet .
+
+<ICE-HK:W2A-033#31:1>
+The purpose of this network is to enable clients to connect and get
+access to front-end resources of the RapidGlass system .
+
+<ICE-HK:W2A-033#32:1>
+Since this network front-ends external clients , it is a separate
+network dedicated for the purpose of the RapidGlass system; it has no
+corporate network resources and carries no corporate network traffic .
+
+<ICE-HK:W2A-033#33:1>
+This network is managed by a Novell Managewise server .
+
+<ICE-HK:W2A-033#34:1>
+Connected to this network are the RapidGlass server , a network
+traffic capture station , access routers and the Dispatcher work station .
+</p>
+
+<p> 
+<ICE-HK:W2A-033#35:1>
+The insurance corporate network is an internal LAN owned and
+managed by Teleglobe Insurance Systems .
+
+<ICE-HK:W2A-033#36:1>
+At present , it is a 10Mbps Ethernet . Many insurance companies have
+their mainframe operations outsourced to Teleglobe Insurance Systems .
+
+<ICE-HK:W2A-033#37:1>
+Therefore , the corporate network provides access to many insurance
+corporations ' mainframe computers .
+
+<ICE-HK:W2A-033#38:1>
+The RapidGlass LAN and the insurance corporate LAN are two separate
+networks .
+
+<ICE-HK:W2A-033#39:1>
+The only connection between them is the Dispatcher .
+
+<ICE-HK:W2A-033#40:1>
+This has two interfaces inside the machine bound to each network
+respectively .
+
+<ICE-HK:W2A-033#41:1>
+There is no routing function in the Dispatcher .
+
+<ICE-HK:W2A-033#42:1>
+Data transferring from one network to another are driven purely by
+the Dispatcher application . </p> <h> <bold>
+
+<ICE-HK:W2A-033#43:1>
+RapidGlass SYSTEM ACCESS </bold> </h> <h> <bold>
+
+<ICE-HK:W2A-033#44:1>
+via Internet </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#45:1>
+RapidGlass clients can get access to the RapidGlass system via
+the worldwide internet .
+
+<ICE-HK:W2A-033#46:1>
+They can connect to a local Interest Service Provider &obrack;  ISP &cbrack; to get
+onto the internet .
+
+<ICE-HK:W2A-033#47:1>
+By using a web browser &obrack;  e.g. Netscape &cbrack; , a client can get to the
+RapidGlass home page .
+
+<ICE-HK:W2A-033#48:1>
+By logging in at the RapidGlass internet server home page , the
+client can enter claims information from there or pick up return information
+from the last processing batch .
+
+<ICE-HK:W2A-033#49:1>
+The advantages of using internet as the access method include easy
+connectivity , worldwide location independent and low communication cost with
+respect to distance &obrack;  most cities/towns have Internet Service Providers
+offering local dialing &cbrack; . </p> <h> <bold>
+
+<ICE-HK:W2A-033#50:1>
+via direct access </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#51:1>
+Direct access to the RapidGlass network can be arranged by
+deploying a router on each side , one on the RapidGlass network and the other
+at the client network .
+
+<ICE-HK:W2A-033#52:1>
+In between , a number of data carrying services can be employed for
+the connection .
+
+<ICE-HK:W2A-033#53:1>
+Frame relay , ISDN and fractional T1 are popular choices for
+interconnection between networks .
+
+<ICE-HK:W2A-033#54:1>
+By direct connection , clients have direct access to the RapidGlass
+server .
+
+<ICE-HK:W2A-033#55:1>
+Clients can log into the server and copy files directly onto the
+designed client area as required or use the RapidGlass internet server and go
+through the home page .
+
+<ICE-HK:W2A-033#56:1>
+The advantages of using direct access are full-time dedicated
+connection and usually a higher speed than a 28.8Kbs modem line . </p> <h>
+<bold>
+
+<ICE-HK:W2A-033#57:1>
+via telephone network </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#58:1>
+Going via the conventional telephone network represents the
+easiest method to connect to the RapidGlass network .
+
+<ICE-HK:W2A-033#59:1>
+The present implementation requires clients to use remote access
+software to connect to the RapidGlass server .
+
+<ICE-HK:W2A-033#60:1>
+The advantage of using this method of connection is ease of setting
+up . </p> <h> <bold>
+
+<ICE-HK:W2A-033#61:1>
+RapidGlass SERVER </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#62:1>
+The RapidGlass server is a Netware server that forms a platform
+for hosting file/print services , Netware Connect and internet server .
+
+<ICE-HK:W2A-033#63:1>
+It holds all the client accounts and filing structure to keep client
+inbound and outbound files .
+
+<ICE-HK:W2A-033#64:1>
+It serves IPX &obrack;  Internetwork Packet Exchange &cbrack; and Internet Protocol
+providing direct access clients with a choice of protocol to use on their
+routes .
+
+<ICE-HK:W2A-033#65:1>
+It also has an internet server to host the web pages .
+
+<ICE-HK:W2A-033#66:1>
+Netware Connect uses the multiple modem interface to serve clients
+who prefer to come into the system via the telephone network . </p> <h>
+<bold>
+
+<ICE-HK:W2A-033#67:1>
+Dispatcher </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#68:1>
+The Dispatcher is responsible for transferring files to and from
+the insurance corporate network and the RapidGlass network .
+
+<ICE-HK:W2A-033#69:1>
+At present , the activities of the Dispatcher are controlled by a
+selectable timer .
+
+<ICE-HK:W2A-033#70:1>
+The Dispatch  ' wakes up ' every 30 minutes to check whether there are
+files waiting to be transferred and moves them , if required .
+
+<ICE-HK:W2A-033#71:1>
+Client  ' s inbound files are transferred from the RapidGlass server to
+a DEC VAX computer on the insurance corporate network side .
+
+<ICE-HK:W2A-033#72:1>
+Outbound file destined for clients go the other way .
+
+<ICE-HK:W2A-033#73:1>
+The file transfer is accomplished via FTP &obrack;  File Transfer Protocol &cbrack; .
+</p> <h> <bold>
+
+<ICE-HK:W2A-033#74:1>
+Client work station software </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#75:1>
+There are several variants of client software depending the
+client  ' s choice of access to the RapidGlass network . </p>
+
+<p> 
+<ICE-HK:W2A-033#76:1>
+For internet access , clients can go through the RapidGlass
+homepage or FTP files directly to their destined directory after a log-in
+authentication process .
+
+<ICE-HK:W2A-033#77:1>
+Common web browsers support home page browsing and data entry .
+
+<ICE-HK:W2A-033#78:1>
+If FTP is preferred , a separated FTP program needs to be used .
+
+<ICE-HK:W2A-033#79:1>
+Batch files can be supplied to clients to automate the process . </p>
+
+<p> 
+<ICE-HK:W2A-033#80:1>
+For direct access , clients have the maximum flexibility .
+
+<ICE-HK:W2A-033#81:1>
+They can choose to log into the RapidGlass server and transfer files
+into the target directory .
+
+<ICE-HK:W2A-033#82:1>
+They can also contact the RapidGlass server via a web browser and go
+through the home page .
+
+<ICE-HK:W2A-033#83:1>
+Using FTP to transfer files is another option for direct access
+clients . </p>
+
+<p> 
+<ICE-HK:W2A-033#84:1>
+For telephone network access , clients work stations will have
+Netware Connect set up for dialing out to the RapidGlass server , then a
+batch program to log in and transfer the necessary files . </p>
+
+<p> 
+<ICE-HK:W2A-033#85:1>
+All clients , regardless of their access methods , have a
+software module that acts as a claim form front end to allow users to enter
+claim forms into the system .
+
+<ICE-HK:W2A-033#86:1>
+This module also allows claim forms to be edited when required . </p>
+<h> <bold>
+
+<ICE-HK:W2A-033#87:1>
+Auditor </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#88:1>
+The Auditor program on the DEC VAX complies the incoming forms
+and processes the claims for each client file submission .
+
+<ICE-HK:W2A-033#89:1>
+The successful claims and the rejects are stored in a file and put
+back into the client  ' s outbound directory .
+
+<ICE-HK:W2A-033#90:1>
+When processing claims , the insurance corporate network is used for
+accessing the databases on the insurance companies ' mainframe computers .
+</p> <h> <bold>
+
+<ICE-HK:W2A-033#91:1>
+Service pricing </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#92:1>
+To finance the set up and the maintenance of the RapidGlass
+system , a charge by using method is employed .
+
+<ICE-HK:W2A-033#93:1>
+The Auditor keeps track of how many records/claims have been
+processed for each Automotive glass vendor .
+
+<ICE-HK:W2A-033#94:1>
+The usage of the system is billed back to the client on the basis of
+claims processes .
+
+<ICE-HK:W2A-033#95:1>
+This generates a constant revenue stream for Teleglobe Insurance
+System .
+
+<ICE-HK:W2A-033#96:1>
+The charge per claim processes is low because the claim volume is
+sufficient and consistent .
+
+<ICE-HK:W2A-033#97:1>
+Once an Auto Glass vendor signs up to use the system , the system is
+likely to be used everyday . </p>
+
+<p> 
+<ICE-HK:W2A-033#98:1>
+The Auto Glass vendors also like to use this system because it is
+fast , cuts down on paper work and saves mailing costs .
+
+<ICE-HK:W2A-033#99:1>
+Also , the claim forms are now checked by a computer and rejects
+returned on the same day; this speeds up the claim process and allows
+companies to handle a large volume of claims .
+
+<ICE-HK:W2A-033#100:1>
+The existing paper-based system involves a much longer turn around
+cycle .
+
+<ICE-HK:W2A-033#101:1>
+A more efficient claims system also means faster payout and improves
+cash flow for the user . </p>
+
+<p> 
+<ICE-HK:W2A-033#102:1>
+To gain access to the RapidGlass network , clients are required
+to purchase the networking equipment they put into the RapidGlass network .
+
+<ICE-HK:W2A-033#103:1>
+The RapidGlass network access can also be structured into a revenue
+generating opportunity because different access methods provide clients with
+different degrees of convenience .
+
+<ICE-HK:W2A-033#104:1>
+The concept is clients will pay for an access charge to the
+RapidGlass network according to their access methods , but the back-end
+claims processing charges will remain unchanged . </p>
+
+<p> 
+<ICE-HK:W2A-033#105:1>
+The RapidGlass network brings in connectivity from clients
+through various means , this opens up other opportunities in the future to
+add services to the present offering. </p> <h> <bold>
+
+<ICE-HK:W2A-033#106:1>
+Security </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#107:1>
+One of the biggest concerns when providing services over the
+public network is security .
+
+<ICE-HK:W2A-033#108:1>
+The thought of host computers exposed to outside attacks and data at
+risk is unacceptable to any organization .
+
+<ICE-HK:W2A-033#109:1>
+Connection to the internet immediately means the network will be
+opened for access on a worldwide scale .
+
+<ICE-HK:W2A-033#110:1>
+To protect corporate network safety , the RapidGlass system is
+designed to gave a front-end RapidGlass network . </p>
+
+<p> 
+<ICE-HK:W2A-033#111:1>
+The RapidGlass network is physically a different network from
+the insurance corporate network , therefore traffic on it is only for
+RapidGlass application .
+
+<ICE-HK:W2A-033#112:1>
+The servers and routers connected to this network are also only for
+RapidGlass application .
+
+<ICE-HK:W2A-033#113:1>
+The RapidGlass server only front-ends the client log-ins and offers
+temporally inbound and outbound file storage .
+
+<ICE-HK:W2A-033#114:1>
+It does not store any long-term customers files or records .
+
+<ICE-HK:W2A-033#115:1>
+If the server does due to any reason , the previous back up can be
+restored and no long-term data will be lost .
+
+<ICE-HK:W2A-033#116:1>
+The inbound and outbound claims processes that day will also be
+backed up on the servers on the other side of the insurance corporate network .
+
+<ICE-HK:W2A-033#117:1>
+This arrangement offers a high degree of fault-tolerance for the
+server and its filing system . </p>
+
+<p> 
+<ICE-HK:W2A-033#118:1>
+Since the gateway between the RapidGlass network and the
+insurance corporate network is held by the Dispatcher , the latter has some
+important features worth noting .
+
+<ICE-HK:W2A-033#119:1>
+It has two network interface adapters: is bounded to the RapidGlass
+network and the other to the insurance corporate network .
+
+<ICE-HK:W2A-033#120:1>
+Any operating system or application-associated routing between the
+two networks is removed or completely disabled .
+
+<ICE-HK:W2A-033#121:1>
+The transfer of data from one network to the other is then left
+entirely to the responsibility of the Dispatcher application .
+
+<ICE-HK:W2A-033#122:1>
+This transports data files between the two networks , even when
+files are transferred .
+
+<ICE-HK:W2A-033#123:1>
+Not allowing any frames to go from one network to another provides a
+strong means of stopping illegal frames from accessing the back-end corporate
+network . </p>
+
+<p> 
+<ICE-HK:W2A-033#124:1>
+Past statistics showed that most security systems are
+compromised from within the organization .
+
+<ICE-HK:W2A-033#125:1>
+In the RapidGlass system , there are no users on the RapidGlass
+network except the Dispatcher .
+
+<ICE-HK:W2A-033#126:1>
+This is a dedicated machine , housed in a high security locked room
+as the network infrastructure equipment .
+
+<ICE-HK:W2A-033#127:1>
+The other main source of work station connectivity to the RapidGlass
+network comes from clients that have direct access via routers .
+
+<ICE-HK:W2A-033#128:1>
+In this case , a registration system can pre-register the MAC
+address of the work stations on the client side authorized to get into the
+RapidGlass network .
+
+<ICE-HK:W2A-033#129:1>
+The MAC address list can be stored and monitored from the router .
+</p>
+
+<p> 
+<ICE-HK:W2A-033#130:1>
+To enhance security over internet access , a dedicated firewall
+can be introduced between the internet access router and the RapidGlass
+network .
+
+<ICE-HK:W2A-033#131:1>
+The internet server can also operate from a separate dedicated
+server . </p>
+
+<p> 
+<ICE-HK:W2A-033#132:1>
+A network security capture device is on the network as a
+trouble-shooting resource; it also records all the MAC and higher level
+addresses as they appear on the network .
+
+<ICE-HK:W2A-033#133:1>
+This provides a mechanism to check all the users are legal and , if
+new addresses are recorded , investigation can start early . </p>
+
+<p> 
+<ICE-HK:W2A-033#134:1>
+The possibility of virus infection has not been overlooked on
+the system .
+
+<ICE-HK:W2A-033#135:1>
+A virus check server module is in place to provide a regular check
+of the file server for viruses . </p> <h> <bold>
+
+<ICE-HK:W2A-033#136:1>
+System scalability </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#137:1>
+The RapidGlass system can be scaled to support a large user
+publication by putting more servers on the system to the distribute the load
+when the number of clients increases .
+
+<ICE-HK:W2A-033#138:1>
+More network bandwidth can be provided by segmenting the Ethernet
+and giving each segment its own Dispatcher or secondary Dispatcher . </p> <h>
+<bold>
+
+<ICE-HK:W2A-033#139:1>
+CONCLUSION </bold> </h>
+
+<p> 
+<ICE-HK:W2A-033#140:1>
+The RapidGlass system provides a solution for the present widely
+geographically dispersed Auto Glass repair shops all over Ontario Province ,
+Canada to submit and process Auto Glass claims effectively .
+
+<ICE-HK:W2A-033#141:1>
+A large amount of paper work is eliminated in process .
+
+<ICE-HK:W2A-033#142:1>
+Immediately , there is less wastage and fewer problems in losing
+documentation .
+
+<ICE-HK:W2A-033#143:1>
+The network linkage also defeats the distance between sites and the
+insurance companies .
+
+<ICE-HK:W2A-033#144:1>
+By computerizing the claims processing from the client  ' s end , the
+insurance companies no longer need a large team of staff to process the claim
+forms that used to come in paper form through the mail .
+
+<ICE-HK:W2A-033#145:1>
+The whole process is thus streamlined and clients get processed
+results much more quickly . </p>
+</I>

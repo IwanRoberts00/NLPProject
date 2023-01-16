@@ -1,0 +1,464 @@
+<I>
+
+<ICE-HK:W1A-016#1:1>
+4.
+<p> 
+<ICE-HK:W1A-016#2:1>
+Starch is made up of glucose subunit linked together by a
+<unc> symbol </unc> glycosidic linkage .
+
+<ICE-HK:W1A-016#3:1>
+Of the five hydroxyl group on the glucose molecules , only 2 of them
+are involved in the formation of glycosidic linkage .
+
+<ICE-HK:W1A-016#4:1>
+The other 3 hydroxyl group on the glucose subunit of starch molecules
+have got the tendency to interacting with each other by forming hydrogen
+bonding .
+
+<ICE-HK:W1A-016#5:1>
+Therefore , starch molecule in solution may either precipitate out or
+forming a gel when allowing it to stand at gravity for some time .
+
+<ICE-HK:W1A-016#6:1>
+If the conc. of starch is high enough and the temp. is low , a gel
+made up of starch molecules will be formed .
+
+<ICE-HK:W1A-016#7:1>
+On the other hand , if the conc. of starch is low and the temp. is not
+low enough , the starch molecules will be precipitated out .
+
+<ICE-HK:W1A-016#8:1>
+Such tendency for starch molecules to interact together when in
+aqueous solution is defined as retrogradation .
+
+<ICE-HK:W1A-016#9:1>
+General retrogradation are more likely to happen in amylose than in
+amylopectin molecules because the side branch of amylopectin molecules deter
+its interaction .
+
+<ICE-HK:W1A-016#10:1>
+Such phenomenon is used to explain many storage properties of
+starch-based food .
+
+<ICE-HK:W1A-016#11:1>
+For example , the staling of bread can be explained partly by
+retrogradation .
+
+<ICE-HK:W1A-016#12:1>
+During baking , the starch granules swell and the linear amylose
+molecules will leak out and interact with the water molecules to form a
+consistent gel .
+
+<ICE-HK:W1A-016#13:1>
+When the bread is being stored for some time , the bread will become
+harder in texture and unpalatable .
+
+<ICE-HK:W1A-016#14:1>
+This is called staling of bread .
+
+<ICE-HK:W1A-016#15:1>
+It is mainly the retrogradation of amylopectin molecules that result
+in such phenomenon .
+
+<ICE-HK:W1A-016#16:1>
+The amylopectin molecules in the starch granule will not be leaked
+out from the granule when the dough is heated in fresh bread , the
+amylopectin will exist in a dilated state that is mainly contribute the bread
+freshness .
+
+<ICE-HK:W1A-016#17:1>
+After storing for some time , the amylopectin molecules will then
+under go some form of retrogradation and that will result in the formation of
+a rather rigid structures in the bread .
+
+<ICE-HK:W1A-016#18:1>
+Another example of retrogradation may found in jellies .
+
+<ICE-HK:W1A-016#19:1>
+The fresh jellies will form a translucent and soft gel .
+
+<ICE-HK:W1A-016#20:1>
+When it is undergo several freeze-thaw cycle , the gel will become
+opaque , hard and watery .
+
+<ICE-HK:W1A-016#21:1>
+It is due to the fact that starch molecule will have the ability to
+move as a result of free water formed in thawing .
+
+<ICE-HK:W1A-016#22:1>
+Such interaction will prevent the <-> reformiation </-> <+>
+reformation </+> of the gel structure when the gel structure is being freeze
+again . </p>
+<p> 
+<ICE-HK:W1A-016#23:1>
+&obrack; a &cbrack; The behaviour of starch in aqueous &obrack;
+mainly in dilute aqueous solution &cbrack; solution can be studied by
+performing a viscosity analysis and the resulting graph showing the change of
+viscosity with time and temp. is called viscoamylograph .
+
+<ICE-HK:W1A-016#24:1>
+However , in most food system , the aqueous starch solution is very
+concentrated .
+
+<ICE-HK:W1A-016#25:1>
+So the result from viscoamylograph may not correctly reflect the
+actual situation .
+
+<ICE-HK:W1A-016#26:1>
+During the experiment , the starch solution is being stirred with a
+certain shear rate and the temperature of the solution is being altered in a
+programmed .
+
+<ICE-HK:W1A-016#27:1>
+The following figure is a stylized result of such experiment : <O>
+graph </O> </p>
+<p> 
+<ICE-HK:W1A-016#28:1>
+When the starch solution is being heated and stirred at below its
+gelatinization temp. , the viscosity of the solution doesn't increase at all .
+
+<ICE-HK:W1A-016#29:1>
+After the gelatinization occur &obrack; i.e. loss of birefringence
+&cbrack; , the viscosity increase because of the taking up of water by the
+swelling starch <-> graules </-> <+> granules </+> and the release of amylose
+molecules to the surrounding water .
+
+<ICE-HK:W1A-016#30:1>
+The extent of starch solubulization increase with the increase in
+temp .
+
+<ICE-HK:W1A-016#31:1>
+The temp. is raised to 95&degree;C and it is not intended to increase
+further because water will be boiled at higher temp .
+
+<ICE-HK:W1A-016#32:1>
+Complete solubulization of starch will not occur at temp. smaller
+than 120&degree;C and so complete solubilization of starch never occur in any
+food system .
+
+<ICE-HK:W1A-016#33:1>
+This stage of increasing viscosity with temp. &obrack; i.e. a-b in
+the graph &cbrack; is called pasting because a paste of starch solution is
+being formed .
+
+<ICE-HK:W1A-016#34:1>
+The starch solution is the hold at 95&degree;C for 1 hour and the
+viscosity start to decrease .
+
+<ICE-HK:W1A-016#35:1>
+It is due to the fact of shear thinning i.e. the orientation of the
+starch molecule in the same direction to the starch solution is being stirred .
+
+<ICE-HK:W1A-016#36:1>
+After time C , the starch solution is cooled down slowly and the
+viscosity is increased again .
+
+<ICE-HK:W1A-016#37:1>
+It is because as the temp. is being lowered , the energy in the
+system will be lowered and there is a higher tendency for hydrogen bond
+formation which contribute to the increase in viscosity .
+
+<ICE-HK:W1A-016#38:1>
+This is called set back stage . </p>
+<p> 
+<ICE-HK:W1A-016#39:1>
+Although , viscoamylographic technique can only determine the
+starch in dilute solution , the understanding of which is also important for
+investigating the properties of starch in concentrated food system . </p>
+<p> 
+<ICE-HK:W1A-016#40:1>
+3. The utilization of corn can be roughly divided into two
+categories i.e. the utilization of the primary products and the secondary
+products of corn processing . &obrack; dry and wet milling &cbrack; </p>
+<p> 
+<ICE-HK:W1A-016#41:1>
+The primary products for corn processing is starch .
+
+<ICE-HK:W1A-016#42:1>
+Starch can be diverted into industrial use or food .
+
+<ICE-HK:W1A-016#43:1>
+For industrial purpose , starch is mainly used for the production of
+paper or cohesives .
+
+<ICE-HK:W1A-016#44:1>
+For food uses , the starch molecules can be modified by a variety of
+processes &obrack; e.g. cross linking , acid thinning , substitution &cbrack;
+so that the physical properties of the starch molecules can be adjusted for
+different purposes .
+
+<ICE-HK:W1A-016#45:1>
+Mostly the starch is being used as an <-> thicknening </-> <+>
+thickening </+> or bulking agent in food so as to give foods a good mouthful .
+
+<ICE-HK:W1A-016#46:1>
+For example , chicken used for deep frying are usually coated with a
+layer of starch to give a thickened properties .
+
+<ICE-HK:W1A-016#47:1>
+On the other hand , starch from corn can be utilized for the
+formation of sweeteners .
+
+<ICE-HK:W1A-016#48:1>
+The process usually involving acid , acid/enzyme or enzymes process
+to convert starch molecules to sweeteners .
+
+<ICE-HK:W1A-016#49:1>
+In most cases , enzymes &obrack; pullulanase glucoamylase , &alpha;
+and &beta; amylase , isomerase &cbrack; are used in preference to acid for
+hydrolyzing starch molecules because the acid catalyzed reaction is not
+specific and many sided reaction may occur that result in the formation of
+undesirable odour and flavour .
+
+<ICE-HK:W1A-016#50:1>
+The major sweeteners made from corn starch are : dextrose ,
+maltodextrin , high fructose corn syrup , regular corn syrup .
+
+<ICE-HK:W1A-016#51:1>
+Their difference can be stated by the term called dextrose equivalent .
+
+<ICE-HK:W1A-016#52:1>
+This term represent the relative reducing power of a carbohydrate to
+pure dextrose .
+
+<ICE-HK:W1A-016#53:1>
+Since starch molecules contain only one reducing group , it has a DE
+of O .
+
+<ICE-HK:W1A-016#54:1>
+As the degree o hydrolysis is being increased , the reduced power and
+hence DE will be increased .
+
+<ICE-HK:W1A-016#55:1>
+Dextrose is actually glucose and have a DE of &greater-than; 99.4 .
+
+<ICE-HK:W1A-016#56:1>
+Maltodextrin has the DE &less-than; 20 while corn syrup has DE
+between 20-99.4 .
+
+<ICE-HK:W1A-016#57:1>
+High fructose corn syrup is being a special kind of syrup and is not
+defined under the DE system .
+
+<ICE-HK:W1A-016#58:1>
+The dextrose and corn syrup has a high osmotic potential and are
+sweet so they are being used in a variety of food system , e.g. bakery ,
+confectionery , ice cream , biscuits , etc .
+
+<ICE-HK:W1A-016#59:1>
+The maltodextrin is not sweet and since it has got a high molecular
+weight , &obrack; <symbol> because </symbol> of low degree of hydrolysis
+&cbrack; , it is used mainly as an bulking and thickening agent in food
+similar to pure starch .
+
+<ICE-HK:W1A-016#60:1>
+High fructose corn syrup is a special kind of syrup that contain
+about 55&percent; of fructose that is formed by conversion of glucose to
+fructose by isomerase .
+
+<ICE-HK:W1A-016#61:1>
+It is 1.8 times sweeter than sucrose and 2.4 times sweeter than
+glucose .
+
+<ICE-HK:W1A-016#62:1>
+Also , its sweetness is increased at lower temp .
+
+<ICE-HK:W1A-016#63:1>
+Therefore , its major use is in replacing sucrose in soft drinks .
+</p>
+<p> 
+<ICE-HK:W1A-016#64:1>
+The secondary products from corn wet and dry milling process
+including the protein , corn steep liquor &obrack; condensed fermented corn
+extractives &cbrack; , the bran &obrack; fibrous materials from the corn
+&cbrack; and corn germ .
+
+<ICE-HK:W1A-016#65:1>
+Most of the usage of these by products is converted to animal feed .
+
+<ICE-HK:W1A-016#66:1>
+For example , corn gluten meal is mainly the protein from corn that
+is highly digestable and contain rich amount of carotene and xanthophyll and
+so is a good feed to poultry animals .
+
+<ICE-HK:W1A-016#67:1>
+However protein contain high amount of sulphur containing amino acid
+and low amount of essential amino acid lysine tryptophan .
+
+<ICE-HK:W1A-016#68:1>
+So feed high amt. of corn protein to animal may lead to a.a.
+deficiency .
+
+<ICE-HK:W1A-016#69:1>
+Soy bean protein contain high amt of essential a.a. and low amount of
+sulphur containing amino acid and so is a good supplement to corn gluten meal .
+
+<ICE-HK:W1A-016#70:1>
+Another feed is called corn gluten feed that is actually a mixture of
+bran , corn germ and corn steep liquor .
+
+<ICE-HK:W1A-016#71:1>
+It is similar to corn gluten meal except that it contain lower amount
+of protein .
+
+<ICE-HK:W1A-016#72:1>
+The corn germ is another useful byproducts because it can be used to
+extract the oil content and the corn oil made has got a good consume image .
+
+<ICE-HK:W1A-016#73:1>
+It is because corn oil contain large amount of poly-unsaturated fatty
+acid that is beneficial to health .
+
+<ICE-HK:W1A-016#74:1>
+Also , the corn oil do not form wax under refrigeration and has
+higher oxidative stability . </p>
+<p> 
+<ICE-HK:W1A-016#75:1>
+Apart from the above two categories , the corn can also be used
+as a substrate for fermentation to produce industrial ethyl alcohol and
+alcoholic beverages .
+
+<ICE-HK:W1A-016#76:1>
+In such process , whole corn is grounded and slurried , heated to
+gelatinize the starch and then saccharified by the enzymes .
+
+<ICE-HK:W1A-016#77:1>
+The simple sugar formed is then fermented by yeast to form alcohol .
+
+<ICE-HK:W1A-016#78:1>
+The fermented mash and the water <-> solubes </-> <+> <?> solubles
+</?> </+> can be isolated out and form distiller feed for animals . </p>
+<p> 
+<ICE-HK:W1A-016#79:1>
+Finally , the residues of corn i.e. corn cob and corn stalk can
+also be used when it is being bioconverted to useful form .
+
+<ICE-HK:W1A-016#80:1>
+For example , they can be used to produce furfural .
+
+<ICE-HK:W1A-016#81:1>
+Recently , <?> scientists </?> are investigating the potential of
+such corn residues to other energy rich biomolecules for production of energy .
+</p>
+<p> 
+<ICE-HK:W1A-016#82:1>
+I think that China can increase the value of domestic maize
+production by developing or even creating the market for the corn byproduct
+such as corn oil , animal feed or sweeteners .
+
+<ICE-HK:W1A-016#83:1>
+It may be successful because a considerable part of the corn is being
+the byproducts and there are a huge variety of utilization of corn products .
+
+<ICE-HK:W1A-016#84:1>
+This method is justified when considering the situation in USA where
+a huge amount of corn byproducts are produced each year and quite a large
+portion of income of the corn processing industry is derived from corn
+byproducts . </p>
+<p> 
+<ICE-HK:W1A-016#85:1>
+1. The wheat storage protein are mainly gluten protein which
+consist of two types: glutenin and gliadin .
+
+<ICE-HK:W1A-016#86:1>
+They are important in breadmaking quality because: &obrack; 1
+&cbrack; Protein are essential nutrients to human and the biological value of
+protein to human depends on its amino acid variety because human cannot
+synthesize certain kind of amino acid and that must be absorbed from food
+i.e. essential amino acid .
+
+<ICE-HK:W1A-016#87:1>
+Unfortunately the storage protein of wheat contain low amount of
+essential amino acid and so enrichment of bread with essential a.a. seems
+desirable to those people that bread are their major food .
+
+<ICE-HK:W1A-016#88:1>
+&obrack; 2 &cbrack; It is the storage protein of the wheat that can
+form a viscoelastic dough during mixing with water .
+
+<ICE-HK:W1A-016#89:1>
+Such viscoelastic dough has got the ability to form air cell that
+gives bread it s typical porous structure .
+
+<ICE-HK:W1A-016#90:1>
+Moreover , the air cell has got the ability to retain CO2 formed
+during fermentation and N2 entrapped during mixing of dough , so the bread
+can have its light and leavened structure after baking which is the most
+important eating quality of bread .
+
+<ICE-HK:W1A-016#91:1>
+The <?> gliadin </?> protein of wheat is single chained and it gives
+the dough the cohesive properties .
+
+<ICE-HK:W1A-016#92:1>
+The glutenin protein is multichained and give the dough the ability
+to resist extension .
+
+<ICE-HK:W1A-016#93:1>
+Without storage protein of wheat , such viscoelastic dough cannot be
+formed and so wheat flour cannot be used to make bread .
+
+<ICE-HK:W1A-016#94:1>
+The reason that the storage protein of wheat can form a dough is not
+exactly known .
+
+<ICE-HK:W1A-016#95:1>
+However , it may be partly explained by the fact that the protein
+contain low charge density and so the tendency of protein to <-> repell </->
+<+> repel </+> each other is low .
+
+<ICE-HK:W1A-016#96:1>
+Also most of the amino acid in the protein are glutamic acid and <?>
+praline </?> and the glutamic acid is mainly existed in its amide form .
+
+<ICE-HK:W1A-016#97:1>
+So large extent of hydrogen bond may form that may probably assist in
+the formation of dough . </p>
+<p> 
+<ICE-HK:W1A-016#98:1>
+As illustrated from above , it can be seen that the quality of
+storage protein in wheat can significantly affect the texture and hence
+quality of the bread .
+
+<ICE-HK:W1A-016#99:1>
+For example if the protein is not strong enough , it will be
+denatured very quickly during the baking stage before the starch is
+completely gelatinized .
+
+<ICE-HK:W1A-016#100:1>
+It is detrimental because the final structure of the bread is formed
+as a result of starch gelatinization and formation of starch gel after
+cooling , so if the structure of the dough &obrack; i.e. the protein matrix
+&cbrack; is destroyed before the starch gel is formed , the final structure
+of the bread will be collapsed .
+
+<ICE-HK:W1A-016#101:1>
+To a less severe extent , if the structure of dough formed by the
+protein matrix is not firm enough , the small gas cells will be easily
+collapsed to form a large air cells during baking .
+
+<ICE-HK:W1A-016#102:1>
+The resulting bread will contain coarse cell structures and that is
+of poor quality . </p>
+<p> 
+<ICE-HK:W1A-016#103:1>
+On the other hand , if the protein cannot be hydrated easily ,
+it will increase the time for mixing to form a viscous dough .
+
+<ICE-HK:W1A-016#104:1>
+Mixing is actually the complete hydration of the starch and protein
+molecules in the flour .
+
+<ICE-HK:W1A-016#105:1>
+After hydration , the protein molecules will form a complex , 3
+dimension matrix with starch molecules dispersed on it .
+
+<ICE-HK:W1A-016#106:1>
+Therefore , if the protein molecules cannot be hydrated easily , the
+dough will be very difficult to form and mixing time will be extended .
+
+<ICE-HK:W1A-016#107:1>
+In conclusion , the quality of storage protein is important in bread
+quality during the whole process of breadmaking i.e. doughmixing fermentation
+and baking . </p> </I>

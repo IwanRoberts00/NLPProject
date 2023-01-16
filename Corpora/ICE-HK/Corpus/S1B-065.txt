@@ -1,0 +1,2709 @@
+<I> 
+
+<$A> 
+<ICE-HK:S1B-065#1:1:A>
+So you are <.> s </.> now thirty one years of years of age is
+that right <O> Cantonese translation and answer </O>
+
+<$A> 
+<ICE-HK:S1B-065#2:1:A>
+Are you single or married <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X3:1:Z>
+Married </X>
+
+<$A> 
+<ICE-HK:S1B-065#4:1:A>
+Do you have any children <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X5:1:Z>
+Yes one child </X>
+
+<$A> 
+<ICE-HK:S1B-065#6:1:A>
+And how old is that child <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X7:1:Z>
+Two and a half years </X>
+
+<$A> 
+<ICE-HK:S1B-065#8:1:A>
+Is that a a boy or girl <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X9:1:Z>
+Boy </X>
+
+<$A> 
+<ICE-HK:S1B-065#10:1:A>
+For how long have you been married <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X11:1:Z>
+For about six years </X>
+
+<$A> 
+<ICE-HK:S1B-065#12:1:A>
+And uh <.> wh </.> what is your present address <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X13:1:Z>
+Flat six o four Lee Foo House L E E F O O Lee Foo House Shun Lee
+Estate S H U N L E E Estate </X>
+
+<$A> 
+<ICE-HK:S1B-065#14:1:A>
+And what what is your occupation <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X15:1:Z>
+Now I  ' m a consultant </X>
+
+<$A> 
+<ICE-HK:S1B-065#16:1:A>
+Yes what what type of consultant <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X17:1:Z>
+It  ' s only concerned personnel </X>
+
+<$A> 
+<ICE-HK:S1B-065#18:1:A>
+Yes what what is the nature your present uh job <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X19:1:Z>
+That is introducing some clerical work uh to some applicants </X>
+
+<$A> 
+<ICE-HK:S1B-065#20:1:A>
+Are you self-employed or are you a an an employee <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X21:1:Z>
+Uh employee </X>
+
+<$A> 
+<ICE-HK:S1B-065#22:1:A>
+Uhm but in uh February of last year nineteen ninety one you uh
+were a taxi driver <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X23:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#24:1:A>
+<.> W </.> uh <.> a </.> about your wife uh what is the
+occupation of your wife <O> Cantonese translation and answer </O>
+
+<$Z2> <X>
+
+<ICE-HK:S1B-065#X25:1:Z>
+Financial Consultant </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X26:1:Z>
+Financial consultant </X>
+
+<$A> 
+<ICE-HK:S1B-065#27:1:A>
+Now before February of uh last year for how long had you been
+uh driving a taxi <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X28:1:Z>
+You mean uh from the time when I got the <.> dri </.> driving
+licence </X>
+
+<$A> 
+<ICE-HK:S1B-065#29:1:A>
+No from the time when you first work as a taxi driver until
+February of nineteen ninety one for how long <O>  ' for how long ' overlap
+Cantonese words  ' jik haih ' -  ' so that ' </O> uh had you been a taxi driver <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X30:1:Z>
+Slightly more than two years </X> <O> Cantonese translation and
+answer </O>
+
+<$A> 
+<ICE-HK:S1B-065#31:1:A>
+And did you uh drive your own taxi <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X32:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#33:1:A>
+And <.> i </.> is that with registration number EM nine five
+six nine <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X34:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#35:1:A>
+And for how long have you had <.> st </.> uh had you uh bought
+the the taxi uhm in February of last year <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X36:1:Z>
+From from the time since I bought it then uh up to up to then yes
+then I bought it for about eight to nine months </X>
+
+<$A> 
+<ICE-HK:S1B-065#37:1:A>
+And and therefore uh you  ' re right in saying that before you
+purchased the taxi you you uh uh rented a taxi uh uh for use <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X38:1:Z>
+Yes <unc> two words </unc> </X>
+
+<$A> 
+<ICE-HK:S1B-065#39:1:A>
+Uh about this taxi which you bought is is that the bought on
+uh any sort of uh mortgage <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X40:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#41:1:A>
+Yes
+
+<ICE-HK:S1B-065#42:1:A>
+Just briefly what what are the clearance of the uh mortgage <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X43:1:Z>
+Then I will pay yes a hundred thousand a hundred thousand dollars
+as deposit </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X44:1:Z>
+Well that means I have mortgaged the taxi for slightly more than
+eight hundred thousand </X>
+
+<$A> 
+<ICE-HK:S1B-065#45:1:A>
+Yes what what  ' s <O>  ' what  ' s ' overlaps unidentified Cantonese
+words </O>
+
+<ICE-HK:S1B-065#46:1:A>
+What what  ' s the monthly repayment <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X47:1:Z>
+Then I have to pay one two seven nine o
+
+<ICE-HK:S1B-065#X48:1:Z>
+Twelve thousand seven hundred and ninety dollars per month </X>
+
+<$A> 
+<ICE-HK:S1B-065#49:1:A>
+Now as as a taxi driver in the February of last year what was
+the average income that you earned
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X50:1:Z>
+Yes </X> <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X51:1:Z>
+Then after paying the mortgage it  ' s for the taxi then I would
+have six thousand to seven thousand dollars per month </X>
+
+<$A> 
+<ICE-HK:S1B-065#52:1:A>
+Now you were in fact work at night shifts <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X53:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#54:1:A>
+And in did did you <.> sh </.> uh uh share uh the the taxi in
+the sense that uh uh someone else drive the the day shift <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X55:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#56:1:A>
+And is Mr Lui Yan Wai will drove uh the day shift is that
+right <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X57:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#58:1:A>
+Now you are also the holder of a pager <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X59:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#60:1:A>
+Yes
+
+<ICE-HK:S1B-065#61:1:A>
+So why why did you have a pager as a taxi driver <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X62:1:Z>
+For that is for convenience that after I had bought the taxi
+bought a taxi I <,> then <,> uh then my family <,> yes could have an easy way
+of contact me </X>
+
+<$A> 
+<ICE-HK:S1B-065#63:1:A>
+Now did you in fact uh work uh the night shifts uh <,> on the
+twenty second of February of last year <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X64:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#65:1:A>
+Perhaps I I could uh <.> m </.> make that more clear if you
+work uh in the uh evening of the twenty sixth uh and your shift ended in the
+morning of the uh twenty seventh of February <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X66:1:Z>
+Uh yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#67:1:A>
+Now <,> is it right that uh you pick up a passenger uh in Ngau
+Tau Kok Road in the Kwun Tong uh in the early uh morning of <unc> two
+words </unc> of February of last year <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X68:1:Z>
+Yes it  ' s right </X>
+
+<$A> 
+<ICE-HK:S1B-065#69:1:A>
+Uh <.> w </.> was at <.> a </.> at about five AM <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X70:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#71:1:A>
+Yes
+
+<ICE-HK:S1B-065#72:1:A>
+Uh where is that in Ngau Tau Kok Road were you at that time <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X73:1:Z>
+Well near an near an OK Circle K Circle K convenient store </X>
+
+<$A> 
+<ICE-HK:S1B-065#74:1:A>
+Now the passenger was a female passenger and uh was a a a a
+witness in this case uh Madam uh Ho Siu Kuen <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X75:1:Z>
+Yes that  ' s right
+
+<ICE-HK:S1B-065#X76:1:Z>
+She  ' s the one </X>
+
+<$A> 
+<ICE-HK:S1B-065#77:1:A>
+And did she board the taxi uh of via the uh rear door <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X78:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#79:1:A>
+She sat at the back seat <O> Cantonese translation </O>
+
+<$A> 
+<ICE-HK:S1B-065#80:1:A>
+Yeah what happened <O>  ' Yeah what happened ' overlap unclear
+Cantonese words </O> next after she boarded the taxi <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X81:1:Z>
+Then she said that uhm she wants to go to <,> uh Funing Gardens F
+U N I N G Funing Garden at Junk Bay </X>
+
+<$A> 
+<ICE-HK:S1B-065#82:1:A>
+Yes
+
+<ICE-HK:S1B-065#83:1:A>
+And did she mention the route <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X84:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#85:1:A>
+What did she say <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X86:1:Z>
+Well she said that yes I I was I was to travel through the old
+area of Sau Mau Ping </X> <O> Cantonese translation and answer </O>
+
+<$A> 
+<ICE-HK:S1B-065#87:1:A>
+And did you understand the route which uh you were to take <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X88:1:Z>
+Yes I understood </X>
+
+<$A> 
+<ICE-HK:S1B-065#89:1:A>
+Did you understand about it
+
+<ICE-HK:S1B-065#90:1:A>
+Did you know where the Funing Garden was <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X91:1:Z>
+Yes I knew that </X>
+
+<$A> 
+<ICE-HK:S1B-065#92:1:A>
+All right
+
+<ICE-HK:S1B-065#93:1:A>
+So what happened next uh after the uh Madam Ho uh gave the
+destination <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X94:1:Z>
+Then I start the taxi / X>
+
+<$A> 
+<ICE-HK:S1B-065#X95:1:A>
+Did anything happen <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X96:1:Z>
+Well then soon after soon after I had started the taxi then she
+started to chat with me </X>
+
+<$A> 
+<ICE-HK:S1B-065#97:1:A>
+What did she say <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X98:1:Z>
+She said so you are still working at such an late hours </X>
+
+<$A> 
+<ICE-HK:S1B-065#99:1:A>
+Yes <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X100:1:Z>
+Then I said after I have driven you there <,> uh uh then I would
+<,> yes <,> yes then I would call off the duty </X>
+
+<$A> 
+<ICE-HK:S1B-065#101:1:A>
+Yes go on please <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X102:1:Z>
+Then I also asked her back <,> I said so <,> uh so you also
+finished your work at such an late hours </X>
+
+<$A> 
+<ICE-HK:S1B-065#103:1:A>
+Yes go on <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X104:1:Z>
+Then she answered me that uh uh that was because she had had a
+night snacks uh with her former <.> co </.> colleagues <,,> I asked her uh
+what sort of trade she was in </X>
+
+<$A> 
+<ICE-HK:S1B-065#105:1:A>
+Then <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X106:1:Z>
+She answered me that she worked <,> for a for a karaoke K A R A O
+K E karaoke lounge </X>
+
+<$A> 
+<ICE-HK:S1B-065#107:1:A>
+Yes then what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X108:1:Z>
+Then I asked her if there were any PR yes PR </X> <O> Cantonese
+speech </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X109:1:Z>
+PR uh that would accompany customers </X>
+
+<$A> 
+<ICE-HK:S1B-065#110:1:A>
+Yes <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X111:1:Z>
+Then she said yes there were </X>
+
+<$A> 
+<ICE-HK:S1B-065#112:1:A>
+So then what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X113:1:Z>
+Well then she asked me whether I had been to any karaoke lounge
+</X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X114:1:Z>
+Well well then she asked me whether I had been to those karaoke
+lounge <,> uh yes which had uh which had those PR those PR accompanying
+customers
+
+<ICE-HK:S1B-065#X115:1:Z>
+So she asked me whether I had visited those those kind of karaoke
+</X>
+
+<$A> 
+<ICE-HK:S1B-065#116:1:A>
+Yes then what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X117:1:Z>
+And I said yes
+
+<ICE-HK:S1B-065#X118:1:Z>
+From time to time I will go there </X>
+
+<$A> 
+<ICE-HK:S1B-065#119:1:A>
+Yes and then what happened <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X120:1:Z>
+Well then she asked me that <,> uh uh if I had the time <,> uh uh
+uh then <,> then you would like to see me <,> yes at her karaoke </X>
+
+<$A> 
+<ICE-HK:S1B-065#121:1:A>
+Did she mention the anything about uh which karaoke she was
+uh working with <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X122:1:Z>
+Yes I did ask her </X>
+
+<$A> 
+<ICE-HK:S1B-065#123:1:A>
+What did she say <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X124:1:Z>
+She said that was a larger area </X>
+
+<$A> 
+<ICE-HK:S1B-065#125:1:A>
+Did she give the exact address <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X126:1:Z>
+No she did not </X>
+
+<$A> 
+<ICE-HK:S1B-065#127:1:A>
+Yes
+
+<ICE-HK:S1B-065#128:1:A>
+Then what happened <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X129:1:Z>
+Well so so now is up to up to the stage that she yes she asked me
+uh </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X130:1:Z>
+Yes whether I will go to the <.> kara </.> karaoke lounge where
+she worked </X> <O> Cantonese questions and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X131:1:Z>
+Then I asked her yes what she usually has as her part-time </X>
+
+<$A> 
+<ICE-HK:S1B-065#132:1:A>
+Yes <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X133:1:Z>
+Then she said just playing mahjong games </X>
+
+<$A> 
+<ICE-HK:S1B-065#134:1:A>
+Yes then what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X135:1:Z>
+Well then I asked her uh what happened during her recent mahjong
+games that is whether she lost or uh or won or she won </X>
+
+<$A> 
+<ICE-HK:S1B-065#136:1:A>
+What did she say
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X137:1:Z>
+Well then she said that she was <,> she was very unlucky recently
+<,> uh that is that is bad luck for her uh <,> so she always lost in the
+mahjong games recently </X>
+
+<$A> 
+<ICE-HK:S1B-065#138:1:A>
+Yes and then what happened <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X139:1:Z>
+Then she also asked me whether <,> I will sometimes play mahjong
+</X>
+
+<$A> 
+<ICE-HK:S1B-065#140:1:A>
+Yes go on <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X141:1:Z>
+Then I say yes and and I would even sometimes <,> yes bet on
+horses </X>
+
+<$A> 
+<ICE-HK:S1B-065#142:1:A>
+So then what happen <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X143:1:Z>
+Then she asked me whether recently </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X144:1:Z>
+I had won had won in those games </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X145:1:Z>
+Then I answered her that recently yes what I  ' m very lucky so
+most of the time I won the games </X>
+
+<$A> 
+<ICE-HK:S1B-065#146:1:A>
+Yes and what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X147:1:Z>
+Well then she asked me uh well since I had been a taxi driver for
+such a long time then whether whether I had come across any hostesses
+hostesses uh who <,> boarded my taxi </X>
+
+<$A> 
+<ICE-HK:S1B-065#148:1:A>
+Yes <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X149:1:Z>
+And also whether I had some </X> <O> Cantonese speech </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X150:1:Z>
+Whether I lose uh those kind of games those kind of games uh with
+with her but but with those with those hostesses </X>
+
+<$A> 
+<ICE-HK:S1B-065#151:1:A>
+What what did you understand by that <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X152:1:Z>
+Well that means to conduct yes sex sexual activities with those
+hostesses </X>
+
+<$A> 
+<ICE-HK:S1B-065#153:1:A>
+Yes
+
+<ICE-HK:S1B-065#154:1:A>
+Did you give any reply <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X155:1:Z>
+And I said yes
+
+<ICE-HK:S1B-065#X156:1:Z>
+And most often <,> uh after that had been carried out then I
+would <,> then I would pay her a few hundred dollars </X>
+
+<$A> 
+<ICE-HK:S1B-065#157:1:A>
+Yes
+
+<ICE-HK:S1B-065#158:1:A>
+What happened after you say this <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X159:1:Z>
+Then she immediately asked me whether I could help her <,> that
+is to </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X160:1:Z>
+That is to help her out help her out financially </X>
+
+<$A> 
+<ICE-HK:S1B-065#161:1:A>
+Yes go on <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X162:1:Z>
+Then I asked her how much she would want me to help her </X>
+
+<$A> 
+<ICE-HK:S1B-065#163:1:A>
+Yes what did she say <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X164:1:Z>
+Then she said five hundred dollars </X>
+
+<$A> 
+<ICE-HK:S1B-065#165:1:A>
+Did she say <.> w </.> uh in what manner you would help her
+<O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X166:1:Z>
+Well I realised that she was trying to seduce me that is to
+invite me to to do that that sort of things </X>
+
+<$A> 
+<ICE-HK:S1B-065#167:1:A>
+<.> Per </.> perhaps you can tell us briefly what did you
+understand <?> her meaning </?> <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X168:1:Z>
+That means she would like to uh have five hundred dollars from me
+uh then in return <,> uh we would have those uh sexual activities </X>
+
+<$A> 
+<ICE-HK:S1B-065#169:1:A>
+And what was your response when she uh mentioned uh <,> uh
+she wanted five hundred dollars <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X170:1:Z>
+Then I thought for awhile
+
+<ICE-HK:S1B-065#X171:1:Z>
+And then I glanced at her </X> <O> Cantonese questions and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X172:1:Z>
+Well then I answered her I answered her I said all right no
+problem </X>
+
+<$A> 
+<ICE-HK:S1B-065#173:1:A>
+Now at at at at this stage can you <.> r </.> recall where
+where had you driven uh the taxi to <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X174:1:Z>
+Then the taxi nearly reached Hong Shing Garden </X>
+
+<$A> 
+<ICE-HK:S1B-065#175:1:A>
+Yes <.> wh </.> where  ' s is this place uh in relation to
+Funing Garden <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X176:1:Z>
+Well that means then I have to drive for another five minutes to
+ten minutes uh before we could reach Funing Gardens </X>
+
+<$A> 
+<ICE-HK:S1B-065#177:1:A>
+After uh uh you you agreed uh to uh to five hundred dollars
+suggestion what happened next <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X178:1:Z>
+Then I asked her where she would like to go to have them have
+that carried out </X>
+
+<$A> 
+<ICE-HK:S1B-065#179:1:A>
+Yes what happened next <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X180:1:Z>
+Well then she told me that since since it was already so late
+such an late hours uh then we could just <,> just uh find a place <,> to park
+the taxi on one side </X>
+
+<$A> 
+<ICE-HK:S1B-065#181:1:A>
+So what did you do <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X182:1:Z>
+Then I said okay I  ' ll <,> yes I  ' ll try to find find a place
+</X>
+
+<$A> 
+<ICE-HK:S1B-065#183:1:A>
+Yes and then what happened <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X184:1:Z>
+Then I kept on driving and at the same time I was paying
+attention to see <,> which place will be more suitable </X>
+
+<$A> 
+<ICE-HK:S1B-065#185:1:A>
+Yes go on please <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X186:1:Z>
+Well then eventually I drove up to a place <,> yes near near the
+roundabout which was in the vicinity of Funing Garden </X>
+
+<$A> 
+<ICE-HK:S1B-065#187:1:A>
+Yes what happened then <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X188:1:Z>
+Well then I drove all around uh that roundabout </X> <O>
+Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X189:1:Z>
+Well then I noticed that <,> that there was a <.> junc </.> there
+was a road junction <,> uh which will lead lead to the place <,> yes in the
+vicinity of Hau Tak Estate H A U T A K Estate </X>
+
+<$A> 
+<ICE-HK:S1B-065#190:1:A>
+That the Hau Tak Estate was was a place uh under construction
+<O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X191:1:Z>
+But at at first I do not know the name as Hau Tak Estate </X>
+
+<$A> 
+<ICE-HK:S1B-065#192:1:A>
+Right so what did you do <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X193:1:Z>
+So I pulled up there to have a look </X>
+
+<$A> 
+<ICE-HK:S1B-065#194:1:A>
+Yes go on <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X195:1:Z>
+Well then I saw a car
+
+<ICE-HK:S1B-065#X196:1:Z>
+Then I saw a small road junction
+
+<ICE-HK:S1B-065#X197:1:Z>
+And then after I had driven through these small road junction
+then I noticed <,> a row of <unc> one word </unc> a row of vehicles
+<,> were already parked were already parked on one side </X> <O> Cantonese
+speech </O>
+
+<$A> 
+<ICE-HK:S1B-065#198:1:A>
+So what did you do <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X199:1:Z>
+Then I asked her how about pulled up here how about uh how about
+<.> a </.> all right </X>
+
+<$Z3> <X>
+
+<ICE-HK:S1B-065#X200:1:Z>
+Sorry I I I <{> <[> asked her </[> all right </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X201:1:Z>
+<[> I ask her </[> </{>
+
+<ICE-HK:S1B-065#X202:1:Z>
+I how about to pull up here all right </X>
+
+<$Z3> <X>
+
+<ICE-HK:S1B-065#X203:1:Z>
+All right </X>
+
+<$A> 
+<ICE-HK:S1B-065#204:1:A>
+Yes
+
+<ICE-HK:S1B-065#205:1:A>
+What did she say <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X206:1:Z>
+And she said okay let  ' s pulled up there </X>
+
+<$A> 
+<ICE-HK:S1B-065#207:1:A>
+So did you pull up uh your vehicle
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X208:1:Z>
+So <{> <[> they </[> <,> <{> <[> they have been </[> </X>
+
+<$A> 
+<ICE-HK:S1B-065#209:1:A>
+<[> Did you </[> </{> pull up <[> there pulled </[> </{> up
+your vehicle <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X210:1:Z>
+Yes uh yes I drove my taxi uh to mount on the pavement </X>
+
+<$A> 
+<ICE-HK:S1B-065#211:1:A>
+Now before you you move on uh Mr Au Yeung to tell us what
+happened next I  ' d like to ask you to a a few questions concerning uh your
+conversation with uh <,> uh Madam Ho
+
+<ICE-HK:S1B-065#212:1:A>
+You remember telling us uhm that uh there was some conversation
+about uh karaoke with uh PR <O> Cantonese translation </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X213:1:Z>
+Uh yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#214:1:A>
+Now what what did you uh know or understand uh by uh PRs <O>
+Cantonese translation </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X215:1:Z>
+That means they were some <,> uh some <.> s </.> uh they were
+some they were somebody who would accompany the customers <,> uh to chat yes
+to drink uh <,> to do uh <unc> one word </unc> game finger guessing
+finger guessing games uh <,> and you also escort the customer to go out </X>
+
+<$A> 
+<ICE-HK:S1B-065#216:1:A>
+Yes <.> wh </.> what purpose normally would uh PRs accompany
+a a a customer to go out <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X217:1:Z>
+Well then most often they would have those sexual activities </X>
+
+<$A> 
+<ICE-HK:S1B-065#218:1:A>
+Uh in in <,> uh it happens you also mentioned about uh
+hostesses uh in in in your conversation with Madam Ho
+
+<ICE-HK:S1B-065#219:1:A>
+Now what what did you understand by uh the nature of the job of a
+hostesses <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X220:1:Z>
+Well that include uh those those uh PR uh whom I have just
+mentioned and also some dance hostesses </X>
+
+<$A> 
+<ICE-HK:S1B-065#221:1:A>
+Now you you pulled pulled up your vehicle in the pavement
+what happened next <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X222:1:Z>
+Well then I then I drove forward a little bit uh and then stopped
+</X>
+
+<$A> 
+<ICE-HK:S1B-065#223:1:A>
+Yes and then what happened <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X224:1:Z>
+Then I switched off the engine and then I opened the driver  ' s
+door </X>
+
+<$A> 
+<ICE-HK:S1B-065#225:1:A>
+Yes go on <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X226:1:Z>
+Yes well then I yes then I alighted from the driver  ' s door and
+then I walked yes towards the rear rear part of taxi and then I opened the
+door and and boarded the rear compartment of the taxi </X>
+
+<$A> 
+<ICE-HK:S1B-065#227:1:A>
+Yes so you you sat next to Madam Ho <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X228:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#229:1:A>
+Who who would be to your left is that right <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X230:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#231:1:A>
+So what happened next <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X232:1:Z>
+And after I sat down then she asked me </X> <O> Cantonese answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X233:1:Z>
+Whether I would like to have a condom </X>
+
+<$A> 
+<ICE-HK:S1B-065#234:1:A>
+Yes then what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X235:1:Z>
+Then I said no need </X>
+
+<$A> 
+<ICE-HK:S1B-065#236:1:A>
+Yes go on please <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X237:1:Z>
+Then I used my hand to fondle her breast </X>
+
+<$A> 
+<ICE-HK:S1B-065#238:1:A>
+And what happened <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X239:1:Z>
+Then I fondled her on her left thighs left thighs of the thigh
+all the way to her shin S H I N </X>
+
+<$A> 
+<ICE-HK:S1B-065#240:1:A>
+She she was wearing uh a pair of trousers at that time <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X241:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#242:1:A>
+Yes and <,> uh she had an overcoat <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X243:1:Z>
+But as for the jacket I supposed at that moment she had already
+taken it off </X>
+
+<$A> 
+<ICE-HK:S1B-065#244:1:A>
+All right so what happened next <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X245:1:Z>
+Well then again I stretched my hands </X> <O> Cantonese answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X246:1:Z>
+Under under her outer garment under her outer garment and then uh
+fondled her breast again </X>
+
+<$A> 
+<ICE-HK:S1B-065#247:1:A>
+All right
+
+<ICE-HK:S1B-065#248:1:A>
+Now did that come a stage when the uh both of you uhm uh have your
+clothes off <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X249:1:Z>
+No </X>
+
+<$A> 
+<ICE-HK:S1B-065#250:1:A>
+No perhaps you can tell us then what happened <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X251:1:Z>
+Well then after I fondled her for a while then I took off her
+dress dress </X>
+
+<$A> 
+<ICE-HK:S1B-065#252:1:A>
+Yes go on <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X253:1:Z>
+Then I went on fondling her on her breast </X>
+
+<$A> 
+<ICE-HK:S1B-065#254:1:A>
+Yes go on please <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X255:1:Z>
+A short while later I fondled her thighs as well </X>
+
+<$A> 
+<ICE-HK:S1B-065#256:1:A>
+Yes so what happened next <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X257:1:Z>
+Well then in a short while later I started to uh take off uh take
+off the pair of trousers from her </X>
+
+<$A> 
+<ICE-HK:S1B-065#258:1:A>
+Did did did she allow you to take uh off the trousers <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X259:1:Z>
+Yes allowed </X>
+
+<$A> 
+<ICE-HK:S1B-065#260:1:A>
+Yes then what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X261:1:Z>
+That means together with the underpants uh at the same time I
+took off her trousers together with her underpants at the same time </X>
+
+<$A> 
+<ICE-HK:S1B-065#262:1:A>
+Yes all right what happened next <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X263:1:Z>
+Then I went on fondled her thighs uh </X> <O> Cantonese answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X264:1:Z>
+Then I further then I further yes fondled her on her uh vaginas
+</X>
+
+<$A> 
+<ICE-HK:S1B-065#265:1:A>
+Now did did you later take off you own uh trousers <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X266:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#267:1:A>
+Then what happened <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X268:1:Z>
+Then I went on fondling her on her thighs and her vagina </X>
+
+<$A> 
+<ICE-HK:S1B-065#269:1:A>
+Now the intension then uh was that you uh uh were to <.> ha
+</.> have sex with him <.> w </.> with her is that right <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X270:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#271:1:A>
+Yes
+
+<ICE-HK:S1B-065#272:1:A>
+So did did what  ' s the outcome of that <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X273:1:Z>
+Well then as a result that was about time when I was about to lay
+on her then I could not hold it anymore so I ejaculated that stage </X>
+
+<$A> 
+<ICE-HK:S1B-065#274:1:A>
+So <.> wh wh </.> what happened next after you uh ejaculate
+<O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X275:1:Z>
+Well then I uh I was slightly on top of her for well say several
+tens of seconds sever tens of seconds <,> uh taking a rest </X>
+
+<$A> 
+<ICE-HK:S1B-065#276:1:A>
+Yes go on please <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X277:1:Z>
+Then I got up </X>
+
+<$A> 
+<ICE-HK:S1B-065#278:1:A>
+Yes <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X279:1:Z>
+Well then I and I got back my trousers and also my uh briefs </X>
+
+<$A> 
+<ICE-HK:S1B-065#280:1:A>
+Yes so you <.> pu </.> put that on right <O>  ' right ' overlaps
+Cantonese word  ' gám ' -  ' so ' </O> <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X281:1:Z>
+Yes but very untidy
+
+<ICE-HK:S1B-065#X282:1:Z>
+I just put them on for the time being </X>
+
+<$A> 
+<ICE-HK:S1B-065#283:1:A>
+Yes <.> wh </.> what about Madam Ho <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X284:1:Z>
+She also got back her trousers and underpants and <,> and she
+also put them on </X>
+
+<$A> 
+<ICE-HK:S1B-065#285:1:A>
+Yes and what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X286:1:Z>
+Well then I got off I got off from <,> from the off side off side
+rear passenger  ' s door </X>
+
+<$A> 
+<ICE-HK:S1B-065#287:1:A>
+So where did you go <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X288:1:Z>
+Then I walked back to the driver seat and sat down </X>
+
+<$A> 
+<ICE-HK:S1B-065#289:1:A>
+Yes what what did you intend to do at that time <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X290:1:Z>
+Well then I got hold of some tissue paper <,> uh and intended to
+uh wipe myself clean first </X>
+
+<$A> 
+<ICE-HK:S1B-065#291:1:A>
+So did you do that <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X292:1:Z>
+Yes I did </X>
+
+<$A> 
+<ICE-HK:S1B-065#293:1:A>
+Yes and what happened next <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X294:1:Z>
+Well then I said to her I said since I could not do that
+successfully </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X295:1:Z>
+Then I said so can I just pay you three hundred dollars okay </X>
+
+<$A> 
+<ICE-HK:S1B-065#296:1:A>
+<.> Wh </.> what  ' s her response <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X297:1:Z>
+Well then then her reaction uh came most abruptly abrubtly
+
+<ICE-HK:S1B-065#X298:1:Z>
+She said <,> we have made it clear make it clear that the sum
+should be five hundred dollar five hundred dollars </X>
+
+<$A> 
+<ICE-HK:S1B-065#299:1:A>
+Yes and <.> wh wh </.> what in fact was her attitude at that
+time
+
+<ICE-HK:S1B-065#300:1:A>
+What  ' s her demeanour <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X301:1:Z>
+It seems that she was very very angry </X>
+
+<$A> 
+<ICE-HK:S1B-065#302:1:A>
+Yes and what did she say
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X303:1:Z>
+What <{> <[> what did she </[> </X>
+
+<$A> 
+<ICE-HK:S1B-065#304:1:A>
+<[> What what </[> </{> did you say of you <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X305:1:Z>
+Yes </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X306:1:Z>
+Well I said but since since I could not do I could not do that
+successfully so <,> so would you please take a lesser sum uh <,> would you
+mind yeah charge me less </X>
+
+<$A> 
+<ICE-HK:S1B-065#307:1:A>
+Yes and what did she say <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X308:1:Z>
+Then she asked me so now are you going to pay me or not </X>
+
+<$A> 
+<ICE-HK:S1B-065#309:1:A>
+Yes go on <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X310:1:Z>
+Well then I said well even if <,> even if I would count all my
+money <,> yes and give you everything yet I fear <,> yet I fear I might have
+not <,> yes enough money
+
+<ICE-HK:S1B-065#X311:1:Z>
+So <,> I said so do you meant that I really have to give you <,>
+all the coins as well </X>
+
+<$A> 
+<ICE-HK:S1B-065#312:1:A>
+Yes go on <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X313:1:Z>
+Then she said so <,> that means now you are not going to pay me
+right </X>
+
+<$A> 
+<ICE-HK:S1B-065#314:1:A>
+Yes then what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X315:1:Z>
+Then I said I  ' ll pay you three hundred dollars <,> will that do
+</X>
+
+<$A> 
+<ICE-HK:S1B-065#316:1:A>
+Yes eventually what happened <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X317:1:Z>
+Well then suddenly she grabbed hold of her handbag and then swung
+the handbag <,> towards me
+
+<ICE-HK:S1B-065#X318:1:Z>
+Yes yes just against my head </X>
+
+<$A> 
+<ICE-HK:S1B-065#319:1:A>
+Yes carry on then <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X320:1:Z>
+Then after she has swung her handbag for two to three times </X>
+<O> Cantonese speeches </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X321:1:Z>
+Then <,> then I became very angry </X>
+
+<$A> 
+<ICE-HK:S1B-065#322:1:A>
+So what did you do <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X323:1:Z>
+Then I stretched my left hand <,> yes to the back to the back
+seat and then I I pulled her outer garment </X>
+
+<$A> 
+<ICE-HK:S1B-065#324:1:A>
+Yes go on <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X325:1:Z>
+Well then she went on using her hands to <,> to push me away </X>
+
+<$A> 
+<ICE-HK:S1B-065#326:1:A>
+So what did you do <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X327:1:Z>
+Yes My Lord here
+
+<ICE-HK:S1B-065#X328:1:Z>
+Then she made me very painful here </X> <O> Cantonese speech </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X329:1:Z>
+Uh near the left side of my neck </X>
+
+<$A> 
+<ICE-HK:S1B-065#330:1:A>
+Yes so what happened next <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X331:1:Z>
+Well then yes I was infuriated and so I turned all around and
+</X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X332:1:Z>
+And sprang over that is sprang towards the rear seat of the taxi
+</X>
+
+<$A> 
+<ICE-HK:S1B-065#333:1:A>
+Yes how how did you do that
+
+<ICE-HK:S1B-065#334:1:A>
+The you you were in the front seat then how how did you go back to
+the uh rear seat
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X335:1:Z>
+Yes </X> <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X336:1:Z>
+Well because at that stage I had already turned my body to the
+left while I was grabbing hold of her outer garment </X> <O> Cantonese
+question and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X337:1:Z>
+Well so at that stage I was in fact standing on the sofa seat
+sofa seat of my driver  ' s seat </X>
+
+<$A> 
+<ICE-HK:S1B-065#338:1:A>
+So did you climb to the rear seat <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X339:1:Z>
+Well that means while uh well while my hands are were grabbing
+hold of her grabbing of her then I sprang forward uh that means my body at
+that stage <,> sprang over and landed on the rear seat </X>
+
+<$A> 
+<ICE-HK:S1B-065#340:1:A>
+Yes so <.> wh </.> what happened next after you got to the
+rear uh seat <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X341:1:Z>
+Well then after I <.> s s </.> I sprang I sprang over there uh
+then she kept on yes stretching me
+
+<ICE-HK:S1B-065#X342:1:Z>
+She get on stretching me violently </X>
+
+<$A> 
+<ICE-HK:S1B-065#343:1:A>
+And did did she uh hurt you in anyway <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X344:1:Z>
+He did yes My Lord here My Lord here uh then she stretched me so
+much that uh it caused me bleeding here yes </X>
+
+<$Z3> <X>
+
+<ICE-HK:S1B-065#X345:1:Z>
+Right </X> <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X346:1:Z>
+Yes uh just near the eye corner near the right eye corner uh
+bleeding and it was very painful </X>
+
+<$A> 
+<ICE-HK:S1B-065#347:1:A>
+Yes and then what happened <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X348:1:Z>
+Then I became so angry that I stared to punch him <,> uh sorry
+<{> <[> punch </[> her
+
+<ICE-HK:S1B-065#X349:1:Z>
+I started punch her with a clenched fist </X>
+
+<$Z3> <X>
+
+<ICE-HK:S1B-065#X350:1:Z>
+<[> <?> Right </?> </[> </{> </X>
+
+<$A> 
+<ICE-HK:S1B-065#351:1:A>
+I see so did did you hit her anywhere <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X352:1:Z>
+My nose uh yes it seems that my nose bled <unc> two words
+</unc> </X>
+
+<$A> 
+<ICE-HK:S1B-065#353:1:A>
+I see how how many how many times did you hit her in in that
+way <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X354:1:Z>
+Two to three punches </X>
+
+<$A> 
+<ICE-HK:S1B-065#355:1:A>
+Yes then what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X356:1:Z>
+Well first </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X357:1:Z>
+Well then she she went on she just went on stretch me yes <,>
+push me and <,> and bumped her body against me </X>
+
+<$A> 
+<ICE-HK:S1B-065#358:1:A>
+Yes so you engaged in a in a scuffle uh with her <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X359:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#360:1:A>
+I see
+
+<ICE-HK:S1B-065#361:1:A>
+How how long did that last <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X362:1:Z>
+I would say it lasted for about three to five minutes </X>
+
+<$A> 
+<ICE-HK:S1B-065#363:1:A>
+Yes
+
+<ICE-HK:S1B-065#364:1:A>
+<.> W </.> what happened uh at the end of this uh three to five
+minutes <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X365:1:Z>
+Well then when I stopped that </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X366:1:Z>
+Well it seems that she was going to deface me
+
+<ICE-HK:S1B-065#X367:1:Z>
+She was turn turning back
+
+<ICE-HK:S1B-065#X368:1:Z>
+She was turning back so <,> so I used my right forearm <,> uh it
+was end at the right right angle right angle uh yes and pinned her down
+pinned her down that is I yes I rested rested my right forearm yes on the
+chest to pin her down </X>
+
+<$A> 
+<ICE-HK:S1B-065#369:1:A>
+Yes and what happened <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X370:1:Z>
+Well then from then from then on it seems that she did not <,>
+she did not move very much uh as long as I said <,> so I said okay <,> yes
+let  ' s don't fight anymore </X>
+
+<$A> 
+<ICE-HK:S1B-065#371:1:A>
+Yes and then what happened <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X372:1:Z>
+Then I opened the door </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X373:1:Z>
+Well that is the rear side the rear side rear door
+
+<ICE-HK:S1B-065#X374:1:Z>
+The door yes the the door near near the near uh near what </X>
+
+<$A> 
+<ICE-HK:S1B-065#375:1:A>
+How did you open it <O> Cantonese translation and answer </O>
+
+<$A> 
+<ICE-HK:S1B-065#376:1:A>
+How <{> <[> how did </[>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X377:1:Z>
+<[> Yes </[> </{> I opened it </X>
+
+<$A> 
+<ICE-HK:S1B-065#378:1:A>
+How did you open it <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X379:1:Z>
+That means I stretched my hand to pull up the button pull up the
+button uh which would which would bolt would bolt the lock uh so I pulled
+pulled up pull up the button on uh </X> <O> Cantonese question and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X380:1:Z>
+Well and then I yes pulled open uh the device the device yes near
+the near the chair near near the chair and door uh and then just <.> pu </.>
+just pushed the door open </X>
+
+<$A> 
+<ICE-HK:S1B-065#381:1:A>
+That person ran to the next to the seat am I right <O>  ' am I
+right ' overlap Cantonese words  ' gám jik haih wah ' -  ' so that is to say ' </O>
+<O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X382:1:Z>
+Well that is </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X383:1:Z>
+Well that is a common common <unc> one word </unc> on
+board just like uh common taxi people can just pulled pulled the right and
+then <{> <[> pushed </[> the door it means it opened </X>
+
+<$A> 
+<ICE-HK:S1B-065#384:1:A>
+<[> Yes </[> </{>
+
+<ICE-HK:S1B-065#385:1:A>
+So you opened it from inside is that right <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X386:1:Z>
+Yes <{> <[> that  ' s right </[> </X>
+
+<$A> 
+<ICE-HK:S1B-065#387:1:A>
+<[> Yes and </[> </{> then what happened <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X388:1:Z>
+Then I pushed her out of the taxi </X>
+
+<$A> 
+<ICE-HK:S1B-065#389:1:A>
+Yes why why did you push her out of the taxi <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X390:1:Z>
+Well well because at that time I felt that <,> yes we have
+finished the struggle struggle with each other <,> and and I fear that
+something might happen so <,> so after I have pushed her out of the taxi then
+I <,> uh I I ran back to the driver  ' s seat and then I drove away </X>
+
+<$A> 
+<ICE-HK:S1B-065#391:1:A>
+I see
+
+<ICE-HK:S1B-065#392:1:A>
+Perhaps you can tell us how how did you go back to the driver seat
+<O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X393:1:Z>
+Well that is immediately after I have pushed her out yes through
+the rear side rear door then I also got out also got out from that door </X>
+<O> Cantonese question and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X394:1:Z>
+Well then after I closed the door behind me behind me then I I
+went all the way uh round the front of of the taxi and then eventually
+boarded the driver  ' s seat </X>
+
+<$A> 
+<ICE-HK:S1B-065#395:1:A>
+So and you drove the taxi and you go back home <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X396:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#397:1:A>
+I  ' d like now to ask you a few questions on your taxi all
+right
+
+<ICE-HK:S1B-065#398:1:A>
+<.> I </.> is that a a five-seater taxi <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X399:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#400:1:A>
+That  ' s right
+
+<ICE-HK:S1B-065#401:1:A>
+Uhm are there any powered window in your taxi <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X402:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#403:1:A>
+How many windows are powered windows <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X404:1:Z>
+Two </X>
+
+<$A> 
+<ICE-HK:S1B-065#405:1:A>
+Can you tell us which two <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X406:1:Z>
+From my driver  ' s door </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X407:1:Z>
+And also the rear side rear rear side rear of the passenger  ' s
+door </X>
+
+<$A> 
+<ICE-HK:S1B-065#408:1:A>
+What about the remaining two uh door windows <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X409:1:Z>
+I just were yes uh I <unc> one-word </unc> to be round up
+yes round up yah </X>
+
+<$A> 
+<ICE-HK:S1B-065#410:1:A>
+Yes <.> i </.> is there any reason why in your taxi you have
+the two powered windows and two <?> binding </?> windows <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X411:1:Z>
+Well because it is a new model new model of the Nissan N I S S E
+N Nissen Nissen yes <.> Ni </.> Nissan uh taxis yes
+
+<ICE-HK:S1B-065#X412:1:Z>
+It was a that it was something concerning the <.> en </.>
+environmental control
+
+<ICE-HK:S1B-065#X413:1:Z>
+It  ' s not a model number thirty three uh and it is is originally
+original design </X>
+
+<$A> 
+<ICE-HK:S1B-065#414:1:A>
+Now if any is this taxi one in which the <.> th th </.> the
+driver can uh uh operate uh a <.> optim </.> uh <,> to uh lock uh the two
+rear doors
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X415:1:Z>
+Central lock </X> <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X416:1:Z>
+Door you mean </X>
+
+<$A> 
+<ICE-HK:S1B-065#417:1:A>
+Doors yes <O>  ' yes ' overlaps unclear Cantonese word </O> <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X418:1:Z>
+No they can't they can't do </X>
+
+<$A> 
+<ICE-HK:S1B-065#419:1:A>
+Yes
+
+<ICE-HK:S1B-065#420:1:A>
+Now can you tell us that whether <.> the </.> these doors are they
+are power locked <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X421:1:Z>
+No </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X422:1:Z>
+But only the window only the windows are <.> pow pow </.> powered
+windows </X>
+
+<$A> 
+<ICE-HK:S1B-065#423:1:A>
+Now during the incident have you at any stage lock uh the
+rear doors <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X424:1:Z>
+I have not lock it </X>
+
+<$A> 
+<ICE-HK:S1B-065#425:1:A>
+And during the incident have you produced any uh weapons <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X426:1:Z>
+No no weapon no sharp no sharp weapons yah </X>
+
+<$A> 
+<ICE-HK:S1B-065#427:1:A>
+Perhaps at this stage I <.> ca </.> can I ask you this uh Mr
+Au Yueng at at the later stage uhm <,> you and the police went uh to uh your
+home and later the <.> p </.> police <?> found </?> a knife from your house
+<O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X428:1:Z>
+Yes the small knife was taken out of my bunch of keys </X>
+
+<$A> 
+<ICE-HK:S1B-065#429:1:A>
+Yes we we will come to that later on but uh you you agree
+that a knife was uh later that is after this incident was over uh uh uh found
+from your house uh uh by the police <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X430:1:Z>
+Yes that  ' s right </X>
+
+<$A> 
+<ICE-HK:S1B-065#431:1:A>
+And that was the knife which uh had been produced in this
+trail
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X432:1:Z>
+Yes </X> <O> Cantonese translation </O>
+
+<$Z3> <X>
+
+<ICE-HK:S1B-065#X433:1:Z>
+<unc> a few words </unc> </X>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X434:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#435:1:A>
+<?> Now let  ' s </?> <unc> two words </unc> to look at
+it <O> <?> Now let  ' s </?> overlap unclear Cantonese translation </O> <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X436:1:Z>
+Yes that  ' s right </X>
+
+<$A> 
+<ICE-HK:S1B-065#437:1:A>
+Well first of all can you tell the court and the jury how did
+you uh first come to obtain uh this knife <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X438:1:Z>
+Well in the end of nineteen eighty seven when I went with my wife
+to Thailand there <,> I bought this knife from the street from the street
+hawker stall S T A L stall as a souvenir </X>
+
+<$A> 
+<ICE-HK:S1B-065#439:1:A>
+Did you carry this knife on the night uh of of the incident
+<O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X440:1:Z>
+Yes at that time uh this knife was attached to a key ring <,>
+which was further attached to <,> to the waist band waist band of my trousers
+on <,> on the left hand side of my waist </X>
+
+<$A> 
+<ICE-HK:S1B-065#441:1:A>
+Now happened this knife uh was this key chain attached to any
+other other object <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X442:1:Z>
+Yes yes two spare car keys were attached <,> yes with the same
+key ring as well </X>
+
+<$A> 
+<ICE-HK:S1B-065#443:1:A>
+Were there any particular reason why when you were <.> d </.>
+driving uh the taxi uh on the twenty second of February that you uh carry the
+two spare keys and also this knife <O> Cantonese translation </O> <&> Tape
+restarts </&>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X444:1:Z>
+Well those two spare car keys uh were yes to my taxi to this taxi
+uh that is I fear that uh sometimes <,> yes when I got out of the taxi
+perhaps I might <,> I might have forgotten to <,> to get back the ignition
+key ignition key <,> uh from yes from the key hole key hole key uh key hole
+inside the taxi uh and then when that time came then I would make use of
+these two spare car keys to get back to the taxi again </X>
+
+<$A> 
+<ICE-HK:S1B-065#445:1:A>
+Yes is is any particular reason why you carry with you the uh
+<.> s </.> small knife uh when you were driving your taxi <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X446:1:Z>
+Yes well well that is I fear that uh yes if I my taxi was to be
+robbed <,> then I might be tight up by the robbers
+
+<ICE-HK:S1B-065#X447:1:Z>
+So when that time came then I would make use of this small knife
+<,> to to get away to get away uh to get away with with with the tighting up
+
+<ICE-HK:S1B-065#X448:1:Z>
+So that  ' s a a resort of of of it  ' s protection
+
+<ICE-HK:S1B-065#X449:1:Z>
+Protection as a a kind uh prevention
+
+<ICE-HK:S1B-065#X450:1:Z>
+Prevention purpose </X>
+
+<$A> 
+<ICE-HK:S1B-065#451:1:A>
+<.> B </.> before the twenty seventh of uh February of last
+year uh had you always carry this knife with you when driving or or was it uh
+only uh on the twenty seventh of February that you had uh carried uh that
+knife
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X452:1:Z>
+Yes </X> <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X453:1:Z>
+Well I always </X> <O> Cantonese answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X454:1:Z>
+I always I always carry this small knife
+
+<ICE-HK:S1B-065#X455:1:Z>
+Uh and most of the time <,> I had it attached to this ring <,> to
+this one on my left hand side </X>
+
+<$A> 
+<ICE-HK:S1B-065#456:1:A>
+Police some police officer and you in fact uh uh took this
+knife uh uh from your house uh uh later on in the same day that is in the
+evening of the twenty seventh of February <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X457:1:Z>
+Yes that  ' s right </X>
+
+<$A> 
+<ICE-HK:S1B-065#458:1:A>
+Now when uh this knife was uh taken by the uh police was the
+knife still attached to this key holder you you mentioned
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X459:1:Z>
+Yes </X> <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X460:1:Z>
+Yes still attached to the key rings </X>
+
+<$A> 
+<ICE-HK:S1B-065#461:1:A>
+Yes but did did the uhm police uh seize the key ring and also
+your spare ignition keys <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X462:1:Z>
+No they did not </X>
+
+<$A> 
+<ICE-HK:S1B-065#463:1:A>
+Now I I  ' d you take take you now back to uh <,> uhm the time
+uh when you you drove the taxi home all right <O>  ' all right ' overlap
+Cantonese word  ' haak ' -  ' so ' </O> <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X464:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#465:1:A>
+<.> A </.> Approximately <.> wh </.> what time was it then
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X466:1:Z>
+Yes </X> <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X467:1:Z>
+Well that was nearly six </X> <O> Cantonese words </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X468:1:Z>
+AM </X>
+
+<$A> 
+<ICE-HK:S1B-065#469:1:A>
+All right so did you go to sleep <O> Cantonese translation
+and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X470:1:Z>
+Yes right
+
+<ICE-HK:S1B-065#X471:1:Z>
+When I arrived then I went straight home to sleep
+
+<ICE-HK:S1B-065#X472:1:Z>
+And I even did not yes I have not uh wiped wiped clean W I P E
+wiped clean my taxi </X>
+
+<$A> 
+<ICE-HK:S1B-065#473:1:A>
+So you drove
+
+<ICE-HK:S1B-065#474:1:A>
+Was was the taxi dirty in anyway <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X475:1:Z>
+Well as an usual practice sorry after we had finished yes the
+shift the shift of duty then we would <,> wipe clean the taxi for the driver
+of the next shift </X>
+
+<$A> 
+<ICE-HK:S1B-065#476:1:A>
+Yes <{> <[> is there </[>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X477:1:Z>
+<[> Uh sorry </[> </{> and I  ' ll say yes yes yes uh the drivers
+of each shift each shift will do the same thing </X>
+
+<$A> 
+<ICE-HK:S1B-065#478:1:A>
+And is there any reason why you  ' ve been uh wiped and cleaned
+your taxi before you go to sleep <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X479:1:Z>
+Because lately uh I just uh struggled with her and then I had my
+hands injured and <,> uh and also I hurt the <.> el </.> I hurt the elbow
+elbow uh joints
+
+<ICE-HK:S1B-065#X480:1:Z>
+Joints uh joints of my hands and I was aching all over my body
+
+<ICE-HK:S1B-065#X481:1:Z>
+And I was tired </X> <O> Cantonese translation </O>
+
+<$A> 
+<ICE-HK:S1B-065#482:1:A>
+So <.> an </.> anyway you go to sleep
+
+<ICE-HK:S1B-065#483:1:A>
+What did you get up <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X484:1:Z>
+Well then I woke up at about eight thirty a.m. </X>
+
+<$A> 
+<ICE-HK:S1B-065#485:1:A>
+Yes
+
+<ICE-HK:S1B-065#486:1:A>
+So when you <.> w </.> when you woke up <.> a </.> at that time uh
+was your wife still in the house or had he had she already gone to work <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X487:1:Z>
+Well no in fact earlier when I just arrived at my home uh then
+she was woken up by me </X>
+
+<$A> 
+<ICE-HK:S1B-065#488:1:A>
+Yes
+
+<ICE-HK:S1B-065#489:1:A>
+Talking about the timing you woke up
+
+<ICE-HK:S1B-065#490:1:A>
+Did did she uh has she already left the house <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X491:1:Z>
+Yes she has
+
+<ICE-HK:S1B-065#X492:1:Z>
+She has already left home </X>
+
+<$A> 
+<ICE-HK:S1B-065#493:1:A>
+That  ' s right
+
+<ICE-HK:S1B-065#494:1:A>
+Now after you uh woke up did there come a time you discovered that
+you had lost uh your pager <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X495:1:Z>
+Uh yes by the time after I have woken up <.> wo </.> woken up uh
+and then I go to toilet then when I came out and I put back put back on first
+garments uh and I was then about to go out </X>
+
+<$A> 
+<ICE-HK:S1B-065#496:1:A>
+Yes it was then that you discovered uh that your pager was
+missing is that right <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X497:1:Z>
+Uh that  ' s right because usually uh when we went home then we go
+to bed straight ahead
+
+<ICE-HK:S1B-065#X498:1:Z>
+Uh straightly go to bed uh and after taking off our clothes and
+then when I woke up and I put back all the clothes on and I was about to <,>
+to put those uh items uh back on my on my <unc> one word </unc> then
+I noticed that my pager was missing </X>
+
+<$A> 
+<ICE-HK:S1B-065#499:1:A>
+You know at that time <.> w </.> uh <.> w </.> what did did
+you think uh may happen to your pager <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X500:1:Z>
+And I thought that perhaps it might have been <.> mi </.> have
+been dropped and left in my taxi </X>
+
+<$A> 
+<ICE-HK:S1B-065#501:1:A>
+Yes so what did you do <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X502:1:Z>
+Well then I immediately telephoned the taxi council taxi <,> the
+navigation council uh to contact <,> the day shift day shift driver </X>
+
+<$A> 
+<ICE-HK:S1B-065#503:1:A>
+That  ' s Mr Lui uh Yan Wai <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X504:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#505:1:A>
+Yes
+
+<ICE-HK:S1B-065#506:1:A>
+Did you later learn that he  ' s not the found the uh pager <O>
+Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X507:1:Z>
+Yes that  ' s right yes
+
+<ICE-HK:S1B-065#X508:1:Z>
+I asked her uh sorry I asked I asked him to yes to look for it
+for me uh and then he promised that in a moment he would stop the taxi and
+then search around for my pager </X>
+
+<$A> 
+<ICE-HK:S1B-065#509:1:A>
+Yes but you later learned that he he  ' s not uh uh found your
+pager <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X510:1:Z>
+That  ' s right </X>
+
+<$A> 
+<ICE-HK:S1B-065#511:1:A>
+So what did you do <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X512:1:Z>
+Well then I thought thought it over and then yes <,> uh then I
+came to the conclusion that yes it might be possible that during the earlier
+struggle <,> with the lady complainant then perhaps <,> then perhaps my pager
+my pager was lost at that stage </X>
+
+<$A> 
+<ICE-HK:S1B-065#513:1:A>
+Did you eventually come to the decision about what steps uh
+you would take <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X514:1:Z>
+Yes I immediately telephoned my wife </X>
+
+<$A> 
+<ICE-HK:S1B-065#515:1:A>
+So did you <.> e </.> eventually uh together with your wife
+uh made a report to the police <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X516:1:Z>
+Not yet </X>
+
+<$A> 
+<ICE-HK:S1B-065#517:1:A>
+Yes but later on <O> Cantonese translation </O>
+
+<$A> 
+<ICE-HK:S1B-065#518:1:A>
+Right <O>  ' right ' overlaps Cantonese words  ' hauh lòih ' -  ' so
+later ' </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X519:1:Z>
+Yes at a later stage <{> <[> yes </[> </X>
+
+<$A> 
+<ICE-HK:S1B-065#520:1:A>
+<[> Yes </[> </{>
+
+<ICE-HK:S1B-065#521:1:A>
+Which police station did you uh make the report to <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X522:1:Z>
+Sau Mau Ping police station </X>
+
+<$A> 
+<ICE-HK:S1B-065#523:1:A>
+And what was the time did you make the report to Sau Mau Ping
+police station <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X524:1:Z>
+I did not pay attention to the actual time but I supposed uh that
+was sometime after uh twelve noon </X>
+
+<$A> 
+<ICE-HK:S1B-065#525:1:A>
+Your wife accompanied you when you made that report is that
+right <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X526:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#527:1:A>
+Yes but later on in the same police station uh uh some police
+officer from other police station came and later arrested you <O> Cantonese
+translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X528:1:Z>
+Yes </X>
+
+<$A> 
+<ICE-HK:S1B-065#529:1:A>
+All right <,,>
+
+<ICE-HK:S1B-065#530:1:A>
+Well finally there are a few questions I  ' d like to ask you
+
+<ICE-HK:S1B-065#531:1:A>
+How how tall are you then <O> Cantonese translation and answer
+</O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X532:1:Z>
+I  ' ll say about five feet five and a half </X>
+
+<$A> 
+<ICE-HK:S1B-065#533:1:A>
+And uh how how heavy are you <O> Cantonese translation and
+answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X534:1:Z>
+It weight uh I weight about one hundred and fifteen pounds one
+one five </X>
+
+<$A> 
+<ICE-HK:S1B-065#535:1:A>
+Now about this taxi had you uh since this incident uh sold
+your taxi <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X536:1:Z>
+Yes that  ' s right I had to sell the taxi uh so that will make up
+the sum make up the sum for my bill </X>
+
+<$A> 
+<ICE-HK:S1B-065#537:1:A>
+Yes you you later sold the taxi and you changed your job is
+that right <O> Cantonese translation and answer </O>
+
+<$Z1> <X>
+
+<ICE-HK:S1B-065#X538:1:Z>
+That  ' s right </X> </I>

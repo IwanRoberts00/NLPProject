@@ -1,0 +1,549 @@
+<I>
+
+<$A> 
+<ICE-HK:S2B-043#1:1:A>
+Can they keep their customers satisfied
+
+<ICE-HK:S2B-043#2:1:A>
+From a system administrator  ' s office to the users  '  desktops
+messaging systems have promises to keep
+
+<ICE-HK:S2B-043#3:1:A>
+It won't be easy to live up to the promise LAN-base e-mail products
+systems that let LAN users send and receive electronic messages must gain
+acceptance from two group that rarely see anything eye to eye end users and
+system administrators
+
+<ICE-HK:S2B-043#4:1:A>
+Walk into any organization and ask about what kind of e-mail system
+to buy and you would likely to find users and administrators in a face-off
+<,> waving their individual agendas
+
+<ICE-HK:S2B-043#5:1:A>
+End users have straightforward needs
+
+<ICE-HK:S2B-043#6:1:A>
+They want a quick and easy way of exchanging messages <,> messages
+and files with colleagues <,> from the desktops
+
+<ICE-HK:S2B-043#7:1:A>
+They want to store and organize those messages in folders or
+compressed archives
+
+<ICE-HK:S2B-043#8:1:A>
+And once the messages are stored they need to be able to search and
+retrieve quickly the information they need for that Monday morning meeting
+
+<ICE-HK:S2B-043#9:1:A>
+Finally they don't want to devote entire week workdays to becoming
+proficient at managing their mail
+
+<ICE-HK:S2B-043#10:1:A>
+By contrast system administrators the people who sit behind the
+glass door and make the mail system work favor packages that are easy to
+install configure maintain and manage
+
+<ICE-HK:S2B-043#11:1:A>
+What administrators think is important
+
+<ICE-HK:S2B-043#12:1:A>
+Efficient use of disc storage providing a reasonable level of
+security and managing connections to other e-mail systems is usually of
+little interest to end users as long as the system works smoothly
+
+<ICE-HK:S2B-043#13:1:A>
+In this round-up on e-mail packages we  ' ll look at the issue form
+both <,> perspectives assigning two reviewers to look at each package
+
+<ICE-HK:S2B-043#14:1:A>
+One approach it from an end user  ' s point of view performing a
+series of task from the <.> desk </.> desktop while the other concentrate on
+installing maintaining and optimizing the system together the perspective and
+administrator would have from behind the glass door
+
+<ICE-HK:S2B-043#15:1:A>
+The products reviewed here or run on Intel-based PC mail <?>
+service </?> across <.> No </.> Novell  ' s Netware version three dot eleven
+
+<ICE-HK:S2B-043#16:1:A>
+They offer interfaces to both DOS and Windows users
+
+<ICE-HK:S2B-043#17:1:A>
+Support at least an MHS gateway and offer remote <,> user access to
+the company  ' s e-mail system <,> via a dial-up program that can be installed
+at a distance site
+
+<ICE-HK:S2B-043#18:1:A>
+The products we reviewed here include Beyond  ' s BeyondMail for DOS
+and BeyondMail for Windows Lotus Development Corp  ' s ccMail for DOS and
+ccMail for Windows Da Vinci System Corp  ' s Da Vinci eMail for DOS and Da
+Vinci </?> uh <?> Da Vinci eMail for Windows Futurus Corp  ' s Futurus Team DOS
+Windows Combo Microsoft Corp  ' s Microsoft Mail for PC Networks <.> No </.>
+Notework Corp  ' s Notework Windows DOS Combo and WordPerfect Corp  ' s
+WordPerfect Office
+
+<ICE-HK:S2B-043#19:1:A>
+All of this products have mastered the basic of <.> me </.>
+messaging but in the battle for the hearts and <?> miles </?> and minds of
+both system administrators and end users none were universally embraced by
+both
+
+<ICE-HK:S2B-043#20:1:A>
+The engine that drive an e-mail system must have two basic
+components
+
+<ICE-HK:S2B-043#21:1:A>
+A specialized data-based to store and forward messages and a
+mechanism to route that messages to the appropriate address on the network
+
+<ICE-HK:S2B-043#22:1:A>
+Each e-mail message is actually a record in the message database
+
+<ICE-HK:S2B-043#23:1:A>
+Its address message content subject line and other elements are
+fields in that record
+
+<ICE-HK:S2B-043#24:1:A>
+In practice the data-base often stores only the message headers
+along with pointers to the message text which is stored like a database memo
+<?> field </?> in an external file
+
+<ICE-HK:S2B-043#25:1:A>
+Behind the glass door
+
+<ICE-HK:S2B-043#26:1:A>
+Acting as a sort of postmaster general the administrator manages
+the database and creates the and maintains a global address directory that
+leads the e-mail addresses of everyone on the system
+
+<ICE-HK:S2B-043#27:1:A>
+The administrators the administrator also creates and manages the
+user profiles which are <.> re </.> records that includes such informations
+such information as where each user  ' s individual post office is located and
+how much disc storage spaces are located to each user
+
+<ICE-HK:S2B-043#28:1:A>
+The routing mechanism transports the mail
+
+<ICE-HK:S2B-043#29:1:A>
+It can be a proprietary system build into a specific e-mail product
+or modular one like MHS that pick it back onto the network operating system
+
+<ICE-HK:S2B-043#30:1:A>
+There are <.> advanta </.> there are advantages and disadvantages
+to both
+
+<ICE-HK:S2B-043#31:1:A>
+BeyondMail and Da Vinci eMail are examples of a program that have
+no transport mechanism of their own
+
+<ICE-HK:S2B-043#32:1:A>
+They rely exclusively on MHS for message routing
+
+<ICE-HK:S2B-043#33:1:A>
+For the administrator the inconvenience of installing Novell Ms
+Novell  ' s MHS on a network is offset by convenient features such as ability
+to encrypt messages during transport
+
+<ICE-HK:S2B-043#34:1:A>
+The more complex the e-mail system the bigger the convenience
+dividends in using <,,> in <.> M </.> in using MHS
+
+<ICE-HK:S2B-043#35:1:A>
+For example MHS-based system can read the MHS directory to create a
+post office address book in seamless transparent manner
+
+<ICE-HK:S2B-043#36:1:A>
+ccMail which uses a proprietary transport system is the first non
+<.> M </.> MHS system to read the NetWare Bindery the operating system  ' s own
+database of user and enter the information into its own directory
+
+<ICE-HK:S2B-043#37:1:A>
+This spares the administrators from doing it
+
+<ICE-HK:S2B-043#38:1:A>
+But when you depend on MHS you can offer only those features that
+MHS supports
+
+<ICE-HK:S2B-043#39:1:A>
+Microsoft Mail three dot zero  ' s sophisticated transfer transport
+layer can include more complex files types in messages
+
+<ICE-HK:S2B-043#40:1:A>
+This <,,> free the user from having to use binary <,> attachment
+<,> if for instance they would like to include a worksheet with the message
+
+<ICE-HK:S2B-043#41:1:A>
+As graphics sound and even video become an integral part of e-mail
+communications Microsoft Mail will have a jump on the <.> com </.>
+competition
+
+<ICE-HK:S2B-043#42:1:A>
+User will be able to launch applications and view the files from
+within their messages
+
+<ICE-HK:S2B-043#43:1:A>
+Quotidian tasks
+
+<ICE-HK:S2B-043#44:1:A>
+<,,> Of all the day to day jobs that a system administrator must
+perform deleting old messages to free storage space is one of the most
+essential and tedious
+
+<ICE-HK:S2B-043#45:1:A>
+Any help from the <,> software can provide is a boon <,,> is a boon
+
+<ICE-HK:S2B-043#46:1:A>
+BeyondMail assists with a <.> ma ma </.> with a macro that warns
+both administrator and end user when the latter  ' s mailbox when the when the
+<.> la </.> when the latter  ' s mailbox is full
+
+<ICE-HK:S2B-043#47:1:A>
+And ccMail features a reclaim utility an administrator can run to
+consolidate message-storing space in the same way that a disc optimizer <?>
+defragments </?> files
+
+<ICE-HK:S2B-043#48:1:A>
+Another major administrator  ' s task although it only occur during
+set up is creating the global address book for the system
+
+<ICE-HK:S2B-043#49:1:A>
+Any automated way of doing it such as importing user data from the
+NetWare Bindery or another external database is a big plus
+
+<ICE-HK:S2B-043#50:1:A>
+More than half of the packages we reviewed feature some sort of
+utility to migrate the data from the Netware Bindery
+
+<ICE-HK:S2B-043#51:1:A>
+But perhaps most important in the ongoing maintenance of the system
+is the administrator  ' s ability to back up the mail system and repair the
+message database when its integrity is violated
+
+<ICE-HK:S2B-043#52:1:A>
+The e-mail universe
+
+<ICE-HK:S2B-043#53:1:A>
+Privacy is always a concern in a shared environment and this is
+especially true of a e-mail
+
+<ICE-HK:S2B-043#54:1:A>
+Most e-mail system offer at least <,> <.> ru </.> rudimentary
+password-base security
+
+<ICE-HK:S2B-043#55:1:A>
+But this rarely protects messages from the eyes of those who have
+supervisory rights to the system
+
+<ICE-HK:S2B-043#56:1:A>
+Microsoft mail encrypts messages and when run under Microsoft LAN
+Manager also hides the data files
+
+<ICE-HK:S2B-043#57:1:A>
+WordPerfect Office allow users to encrypt files by assigning
+messages one of five level of privacy from normal to for your eyes only
+
+<ICE-HK:S2B-043#58:1:A>
+Single products running on single LANs often <unc> one-word
+</unc> encompass linked <?> services </?> other e-mails other e-mail
+systems and communication with remote sites
+
+<ICE-HK:S2B-043#59:1:A>
+As the e-mail universe expands <?> connectivity </?> increases but
+administrative problems multiply
+
+<ICE-HK:S2B-043#60:1:A>
+Most systems allow several file servers to be linked together into
+one large mail system
+
+<ICE-HK:S2B-043#61:1:A>
+This complicates addressing
+
+<ICE-HK:S2B-043#62:1:A>
+Multiple servers require more precise naming schemes than the
+two-part scheme many system used earlier on a <?> onto </?> route the mail
+
+<ICE-HK:S2B-043#63:1:A>
+In that the address contained a user  ' s name and the name of the
+post office or server
+
+<ICE-HK:S2B-043#64:1:A>
+Most of the systems we reviewed use a three-part scheme that allows
+a single local network to have several post offices
+
+<ICE-HK:S2B-043#65:1:A>
+In this instances directory <,> propagation <,> where new users are
+automatically added to attach the post offices is a desirable feature
+
+<ICE-HK:S2B-043#66:1:A>
+But the complexities grow
+
+<ICE-HK:S2B-043#67:1:A>
+In many corporations today different work groups choose their own
+e-mail products without regard to what other groups are using
+
+<ICE-HK:S2B-043#68:1:A>
+This poses no problem until the different groups need to
+communicate
+
+<ICE-HK:S2B-043#69:1:A>
+The problem is reminiscent of those days when various department
+<.> ch </.> chose different word processors and then found that they could
+not read the incompatible formats when they wanted to share documents
+
+<ICE-HK:S2B-043#70:1:A>
+In the case of e-mail the standard solution is that dedicated
+translator call a gateway
+
+<ICE-HK:S2B-043#71:1:A>
+Most gateways are system-specific
+
+<ICE-HK:S2B-043#72:1:A>
+That is they link to specific e-mail systems such as ccMail and
+WordPerfect Office
+
+<ICE-HK:S2B-043#73:1:A>
+When more than two or three systems are being connected setting up
+the links can become an administrator  ' s nightmare
+
+<ICE-HK:S2B-043#74:1:A>
+MHS can ease communications difference difficulties among
+incompatible e- mail systems because it serve as a common intermediary
+language
+
+<ICE-HK:S2B-043#75:1:A>
+Developed by Action Technology and subsequently bought and marketed
+by Novell MHS is the oldest and most widely use e-mail standard we have
+
+<ICE-HK:S2B-043#76:1:A>
+Any e-mail product that can talk to MHS either at its own transport
+system or through the MHS gateway can link to any other such system
+
+<ICE-HK:S2B-043#77:1:A>
+But there are competing standards
+
+<ICE-HK:S2B-043#78:1:A>
+Microsoft has implemented its Messaging Application Programming
+Interface MAPI in Microsoft Mail and its Schedule plus scheduler
+
+<ICE-HK:S2B-043#79:1:A>
+And last year Lotus announced its Open Messaging Interface which
+this year evolved into the Vendor Independent Messaging standard
+
+<ICE-HK:S2B-043#80:1:A>
+Lotus is jointly developing VIM with Apple Computer Borland Borland
+International and Novell
+
+<ICE-HK:S2B-043#81:1:A>
+See the sidebar Mail-Enabled Applications Help Groups Work Together
+
+<ICE-HK:S2B-043#82:1:A>
+The desktop perspective
+
+<ICE-HK:S2B-043#83:1:A>
+The transport mechanism is at the back-end mail system
+
+<ICE-HK:S2B-043#84:1:A>
+Each package <?> which </?> we reviewed has at least four front
+ends a DOS version a TSR version to <?> pull </?> into the background and
+notify users of incoming messages a Window version with a graphical interface
+and a remote dial-in version
+
+<ICE-HK:S2B-043#85:1:A>
+Ideally this version should all offer the same functionality
+
+<ICE-HK:S2B-043#86:1:A>
+But that is not always the case
+
+<ICE-HK:S2B-043#87:1:A>
+Da Vinci  ' s DOS version for example was one release ahead of its
+Window version at Window version at the time of our review
+
+<ICE-HK:S2B-043#88:1:A>
+It had more features
+
+<ICE-HK:S2B-043#89:1:A>
+A situation Da Vinci <.> pl </.> plans to correct
+
+<ICE-HK:S2B-043#90:1:A>
+All of the <.> pack </.> packages reviewed here are on a equal
+footing when it becomes to basic addressing tasks
+
+<ICE-HK:S2B-043#91:1:A>
+In each you  ' ll find pick lists from which user can select
+addresses
+
+<ICE-HK:S2B-043#92:1:A>
+All have speed search capability <,> that will <.> ma </.> match a
+name in the database to the first <?> few </?> letters the user types
+
+<ICE-HK:S2B-043#93:1:A>
+But the similarity ends there
+
+<ICE-HK:S2B-043#94:1:A>
+Some like ccMail allow both user and administrators to create
+personal address list
+
+<ICE-HK:S2B-043#95:1:A>
+Other allow only administrators to do this
+
+<ICE-HK:S2B-043#96:1:A>
+Microsoft Mail offers send folders to log the messages you send
+
+<ICE-HK:S2B-043#97:1:A>
+But few others do
+
+<ICE-HK:S2B-043#98:1:A>
+Without a send folder you have to remember to copy yourself on
+every message or else you miss half the point of e-mail keeping track of what
+you you have send to others
+
+<ICE-HK:S2B-043#99:1:A>
+Creating messages
+
+<ICE-HK:S2B-043#100:1:A>
+Creating e-mail messages should be easy as writing letters in your
+favorite word processor
+
+<ICE-HK:S2B-043#101:1:A>
+Cut and paste search and replace tabs fonts rulers and all the
+others standbys of modern text processing ought to be available
+
+<ICE-HK:S2B-043#102:1:A>
+And you ought to be able to use your own word processor to compose
+an e-mail message
+
+<ICE-HK:S2B-043#103:1:A>
+But except for WordPerfect Office which is closely tied to
+WordPerfect itself
+
+<ICE-HK:S2B-043#104:1:A>
+None of the packages have this option yet
+
+<ICE-HK:S2B-043#105:1:A>
+The new DOS version of ccMail and Da Vinci eMail however do
+include conveniences such as spell-checks spell-checkers
+
+<ICE-HK:S2B-043#106:1:A>
+For now if you want to send a graphic or an <,> executable file
+you are forced to attach binary files
+
+<ICE-HK:S2B-043#107:1:A>
+A well-designed e-mail package should facilitate this with point
+and shot attachment point and shoot attachment procedures that allow for
+multiple attachments
+
+<ICE-HK:S2B-043#108:1:A>
+Futurus Team allows sixty-four attachments per message
+
+<ICE-HK:S2B-043#109:1:A>
+The cc Mail and Microsoft Mail front ends for Windows workstations
+call the Window client <?> Window  ' s </?> clients do it one better which
+drag-and-drop attachment
+
+<ICE-HK:S2B-043#110:1:A>
+All a user needs to do is click on a filename and drag it into
+their message
+
+<ICE-HK:S2B-043#111:1:A>
+But attachment should become less of an issue in the future as
+more and more applications allow you to send rich compound compound documents
+that incorporate graphics sound and video
+
+<ICE-HK:S2B-043#112:1:A>
+Information overflow
+
+<ICE-HK:S2B-043#113:1:A>
+As the number of messages increases storage space on the server
+diminishes and information becomes hard to find in the clutters in the
+clutter
+
+<ICE-HK:S2B-043#114:1:A>
+If end users fail to archives archive or delete their messages the
+task falls to the administrator
+
+<ICE-HK:S2B-043#115:1:A>
+An organized <?> system-wide </?> approach to storing and
+archiving <,> solves both problems
+
+<ICE-HK:S2B-043#116:1:A>
+An e-mail package should allow user to store active message thread
+in folders and archive older inactive messages on the local machines
+
+<ICE-HK:S2B-043#117:1:A>
+Most of the reviewed packages let user create personal storage
+folders
+
+<ICE-HK:S2B-043#118:1:A>
+Some allow users to <.> ne </.> nest folders as subtopics for more
+detailed message organization
+
+<ICE-HK:S2B-043#119:1:A>
+Da Vinci eMail for example allow up to thirty-two subfolders
+within a primary folder
+
+<ICE-HK:S2B-043#120:1:A>
+But archiving information is only useful if it is easy to retrieve
+
+<ICE-HK:S2B-043#121:1:A>
+And unfortunately finding needed information remain difficult at
+best
+
+<ICE-HK:S2B-043#122:1:A>
+The programs we review let users search the To From Subject Date
+and Priority fields
+
+<ICE-HK:S2B-043#123:1:A>
+But it is tough to get at keyboard in the content of the message
+
+<ICE-HK:S2B-043#124:1:A>
+Microsoft Mail  ' s message finder <,> allows you to search text and
+provides the luxury of letting you conduct a global search
+
+<ICE-HK:S2B-043#125:1:A>
+ccMail includes a search feature but you can only search one
+folder at a time
+
+<ICE-HK:S2B-043#126:1:A>
+Grouping toward groupware
+
+<ICE-HK:S2B-043#127:1:A>
+Today  ' s e-mail packages need considerable refinement before they  ' ll
+become all that they can be
+
+<ICE-HK:S2B-043#128:1:A>
+But they provide a promising foundation for that shadowy
+futuristic concept call groupware
+
+<ICE-HK:S2B-043#129:1:A>
+Groupware is evolving in the form of networked workgroup
+scheduling document management and shared databases
+
+<ICE-HK:S2B-043#130:1:A>
+Usually accompanied by a programming languages language or system
+or rules for managing and automating the way the components work together
+
+<ICE-HK:S2B-043#131:1:A>
+E-mail system are already beginning to take on a groupware look
+
+<ICE-HK:S2B-043#132:1:A>
+Microsoft Mail for example is bundled with Microsoft  ' s Schedule
+plus a group schedule <.> sche </.> a group scheduling module that is fully
+integrated with the Windows e-mail client
+
+<ICE-HK:S2B-043#133:1:A>
+ccMail Da Vinci eMail and Futurus Team have their own schedulers
+developed by third parties
+
+<ICE-HK:S2B-043#134:1:A>
+WordPerfect Office four dot zero goes one step further and
+includes scheduling as an integral part of the package
+
+<ICE-HK:S2B-043#135:1:A>
+Office <,> Office pursue workgroup computing by allowing users to
+launch WordPerfect applications and other selected applications including
+Microsoft Excel from within the mail program
+
+<ICE-HK:S2B-043#136:1:A>
+To do this it uses a <.> ma </.> macro language with DDE Dynamic
+Data Exchange linked to the applications </I>
