@@ -1,0 +1,1011 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-018#1:1:A>
+How was your day
+
+ <$B> 
+<ICE-PHI:S1A-018#2:1:B>
+Uhm fine I woke up late
+
+ <$A> 
+<ICE-PHI:S1A-018#3:1:A>
+Oh no me uh I woke up at around four
+
+ <$B> 
+<ICE-PHI:S1A-018#4:1:B>
+Did you take the exam <indig> na </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-018#5:1:A>
+Yeah but uh we had an oral exam and you know I and Sir made me very nervous
+ 
+<ICE-PHI:S1A-018#6:1:A>
+You know oral exam and me <{> <[> <&> pretentious cough </&> we </[> we are not matched yeah
+
+ <$B> 
+<ICE-PHI:S1A-018#7:1:B>
+<[> Yeah yeah you aren't used to </[> </{> 
+ 
+<ICE-PHI:S1A-018#8:1:B>
+Yeah yes you aren't <.> rea </.> really used to having oral exams right
+
+ <$A> 
+<ICE-PHI:S1A-018#9:1:A>
+So so how was your trip here
+
+ <$B> 
+<ICE-PHI:S1A-018#10:1:B>
+<indig> Ha </indig> hot
+
+ <$A> 
+<ICE-PHI:S1A-018#11:1:A>
+Hot
+
+ <$B> 
+<ICE-PHI:S1A-018#12:1:B>
+Hot
+
+ <$A> 
+<ICE-PHI:S1A-018#13:1:A>
+Was it traffic
+
+ <$B> 
+<ICE-PHI:S1A-018#14:1:B>
+Uh not much
+ 
+<ICE-PHI:S1A-018#15:1:B>
+I took the F X so it was kinda fast
+
+ <$A> 
+<ICE-PHI:S1A-018#16:1:A>
+Uh
+
+ <$B> 
+<ICE-PHI:S1A-018#17:1:B>
+Yeah and and my <,> my sort of kind of seatmate was sleeping on me you know <{1> <[1> that </[1> 
+ 
+<ICE-PHI:S1A-018#19:1:B>
+He was sleeping and then his head was on my shoulder <{2> <[2> and I was like </[2> get off me <O> laughter </O> 
+ 
+<ICE-PHI:S1A-018#21:1:B>
+I hate that <{3> <[3> I would like </[3> 
+
+ <$A> 
+<ICE-PHI:S1A-018#18:1:A>
+<[1> Uh </[1> </{1> 
+ 
+<ICE-PHI:S1A-018#20:1:A>
+<[2> Yuck </[2> </{2> 
+ 
+<ICE-PHI:S1A-018#22:1:A>
+<[3> Uh </[3> </{3> uh oh the <.> ex </.> by the way the exemption for PHILFOR <&> course code for Philippine Foreign Policy </&> it 's not yet out
+
+ <$B> 
+<ICE-PHI:S1A-018#23:1:B>
+It 's not yet out <{> <[> my God </[> 
+
+ <$A> 
+<ICE-PHI:S1A-018#24:1:A>
+<[> Yeah </[> </{> uhm uh
+
+ <$B> 
+<ICE-PHI:S1A-018#25:1:B>
+He hasn't finished <{> <[> checking </[> I bet
+
+ <$A> 
+<ICE-PHI:S1A-018#26:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-018#27:1:A>
+No no the papers are out already and many got hundred and I got an eighty <{> <[> yehey </[> 
+
+ <$B> 
+<ICE-PHI:S1A-018#28:1:B>
+<[> <indig> Ay </indig> congratulations </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-018#29:1:A>
+And but <.> tomo </.> but <indig> Ate </indig> Ruby said that the exemption list will be out tomorrow
+
+ <$B> 
+<ICE-PHI:S1A-018#30:1:B>
+So you <.> gon </.> you have to be back here tomorrow to see who is exempted
+ 
+<ICE-PHI:S1A-018#31:1:B>
+I don't wanna go back here
+
+ <$A> 
+<ICE-PHI:S1A-018#32:1:A>
+But but aren't you going to get your course cards for SPAN <&> Spanish language course </&> 
+
+ <$B> 
+<ICE-PHI:S1A-018#33:1:B>
+Oh yeah course cards maybe but I don't want to stay here longer
+
+ <$A> 
+<ICE-PHI:S1A-018#34:1:A>
+Why not
+
+ <$B> 
+<ICE-PHI:S1A-018#35:1:B>
+I don't know I don't like to <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-018#36:1:A>
+Oh <{> <[> you also </[> 
+
+ <$B> 
+<ICE-PHI:S1A-018#37:1:B>
+<[> I 'm fed up </[> </{> with La Salle already you know
+
+ <$A> 
+<ICE-PHI:S1A-018#38:1:A>
+And you also told me that you 're not going to stay afterwards
+
+ <$B> 
+<ICE-PHI:S1A-018#39:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-018#40:1:A>
+Why
+
+ <$B> 
+<ICE-PHI:S1A-018#41:1:B>
+I have to leave after
+ 
+<ICE-PHI:S1A-018#42:1:B>
+I 'm going to meet my friend downstairs and besides I don't want to stay here
+
+ <$A> 
+<ICE-PHI:S1A-018#43:1:A>
+Why not
+
+ <$B> 
+<ICE-PHI:S1A-018#44:1:B>
+I 'm not I just don't
+
+ <$A> 
+<ICE-PHI:S1A-018#45:1:A>
+Are you avoiding someone
+
+ <$B> 
+<ICE-PHI:S1A-018#46:1:B>
+<indig> Ha </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-018#47:1:A>
+Sort of
+
+ <$B> 
+<ICE-PHI:S1A-018#48:1:B>
+Yeah sort of 
+
+ <$A> 
+<ICE-PHI:S1A-018#49:1:A>
+Who
+
+ <$B> 
+<ICE-PHI:S1A-018#50:1:B>
+I won't tell
+
+ <$A> 
+<ICE-PHI:S1A-018#51:1:A>
+A guy or a girl
+
+ <$B> 
+<ICE-PHI:S1A-018#52:1:B>
+A guy
+
+ <$A> 
+<ICE-PHI:S1A-018#53:1:A>
+Oh oh
+
+ <$B> 
+<ICE-PHI:S1A-018#54:1:B>
+Yeah I bet you know this I 'm gonna tell you later the whole story why I 'm avoiding him
+
+ <$A> 
+<ICE-PHI:S1A-018#55:1:A>
+Well don't you
+
+ <$B> 
+<ICE-PHI:S1A-018#56:1:B>
+Sir might squeal <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-018#57:1:A>
+Don't you like this guy 
+
+
+
+<ICE-PHI:S1A-018#> I know I know it 's
+
+ <$B> 
+<ICE-PHI:S1A-018#58:1:B>
+Yeah yeah <{> <[> you know </[> 
+
+ <$A> 
+<ICE-PHI:S1A-018#59:1:A>
+<[> But well </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-018#60:1:B>
+I 'm kind of scared with the affection he gives me
+ 
+<ICE-PHI:S1A-018#61:1:B>
+I 'm not used to it I don't and I 'm scared
+
+ <$A> 
+<ICE-PHI:S1A-018#62:1:A>
+What if he proposes
+
+ <$B> 
+<ICE-PHI:S1A-018#63:1:B>
+Uh no <,,> hey are you you 're gonna tell you 're gonna tell no please do not tell
+
+ <$A> 
+<ICE-PHI:S1A-018#64:1:A>
+No I 'm not <{> <[> mentioning </[> any name
+
+ <$B> 
+<ICE-PHI:S1A-018#65:1:B>
+<[> You 're first </[> </{> you 're the first person I told this you know
+
+ <$A> 
+<ICE-PHI:S1A-018#66:1:A>
+Well
+
+ <$B> 
+<ICE-PHI:S1A-018#67:1:B>
+Aside from my <indig> barkada </indig> outside school
+
+ <$A> 
+<ICE-PHI:S1A-018#68:1:A>
+Uhm well he 's been confiding to me and I think that very soon in the very near future he 's going to
+
+ <$B> 
+<ICE-PHI:S1A-018#69:1:B>
+Yeah that 's why I 'm avoiding because I don't want that to happen I <,> I don't want someone to get hurt and that 's why
+
+ <$A> 
+<ICE-PHI:S1A-018#70:1:A>
+Well how how do you see him <,> only a friend
+
+ <$B> 
+<ICE-PHI:S1A-018#71:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-018#72:1:A>
+<.> Don </.> don't you think that there is a possibility that somehow
+
+ <$B> 
+<ICE-PHI:S1A-018#73:1:B>
+No
+
+ <$A> 
+<ICE-PHI:S1A-018#74:1:A>
+In the future
+
+ <$B> 
+<ICE-PHI:S1A-018#75:1:B>
+I 've been thinking about that <,> and I don't think there 's a possibility
+
+ <$A> 
+<ICE-PHI:S1A-018#76:1:A>
+<indig> Ay </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-018#77:1:B>
+I 'm sorry for him
+ 
+<ICE-PHI:S1A-018#78:1:B>
+I don't want to get hurt
+ 
+<ICE-PHI:S1A-018#79:1:B>
+I know I 'm gonna be the bad guy here because
+
+ <$A> 
+<ICE-PHI:S1A-018#80:1:A>
+Well
+
+ <$B> 
+<ICE-PHI:S1A-018#81:1:B>
+I 'm gonna hurt him sooner or later that 's why I 'm avoiding him so as to avoid him saying to me <{> <[> that </[> 
+
+ <$A> 
+<ICE-PHI:S1A-018#82:1:A>
+<[> Do you </[> </{> want me to tell him that perhaps he should not pursue you yet
+
+ <$B> 
+<ICE-PHI:S1A-018#83:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-018#84:1:A>
+That probably <{> <[> it 's not a good time </[> 
+
+ <$B> 
+<ICE-PHI:S1A-018#85:1:B>
+<[> If you can </[> </{> tell him <,> 'cause he might know that I told you
+ 
+<ICE-PHI:S1A-018#86:1:B>
+I don't know
+ 
+<ICE-PHI:S1A-018#87:1:B>
+If you can tell him like <,> only what you think
+
+ <$A> 
+<ICE-PHI:S1A-018#88:1:A>
+Because we were all thinking that you 're such a perfect match <,> <{> <[> uh </[> 
+
+ <$B> 
+<ICE-PHI:S1A-018#89:1:B>
+<[> No </[> </{> I 'm sorry no
+
+ <$A> 
+<ICE-PHI:S1A-018#90:1:A>
+Well
+
+ <$B> 
+<ICE-PHI:S1A-018#91:1:B>
+I 'm sorry 'cause aside from that I don't like blockmates
+ 
+<ICE-PHI:S1A-018#92:1:B>
+I don't like to have a relationship with blockmates 'cause <,> it 's gonna be too hectic
+
+ <$A> 
+<ICE-PHI:S1A-018#93:1:A>
+He too he also talked told me that
+
+ <$B> 
+<ICE-PHI:S1A-018#94:1:B>
+Yeah I don't know you know
+ 
+<ICE-PHI:S1A-018#95:1:B>
+I 'm sorry
+ 
+<ICE-PHI:S1A-018#96:1:B>
+I I 'm gonna hurt him and I 'm gonna turn out really really bad guy after this 'cause people are gonna be talking about me like I 'm <?> stuck </?> 
+ 
+<ICE-PHI:S1A-018#97:1:B>
+And people are gonna be avoiding me saying why did you hurt him why did you hurt him 
+ 
+<ICE-PHI:S1A-018#98:1:B>
+But I 'm sorry I cannot do anything about it
+ 
+<ICE-PHI:S1A-018#99:1:B>
+I want to avoid I mean
+
+ <$A> 
+<ICE-PHI:S1A-018#100:1:A>
+Am I the first person only person here in La Salle that you 've told this
+
+ <$B> 
+<ICE-PHI:S1A-018#101:1:B>
+No Jasmin
+ 
+<ICE-PHI:S1A-018#102:1:B>
+You 're the first person I told to that knows about this whole thing
+
+ <$A> 
+<ICE-PHI:S1A-018#103:1:A>
+Okay you haven't told
+
+ <$B> 
+<ICE-PHI:S1A-018#104:1:B>
+I haven't told
+
+ <$A> 
+<ICE-PHI:S1A-018#105:1:A>
+Kras
+
+ <$B> 
+<ICE-PHI:S1A-018#106:1:B>
+No no I haven't told her yet
+
+ <$A> 
+<ICE-PHI:S1A-018#107:1:A>
+Okay
+
+ <$B> 
+<ICE-PHI:S1A-018#108:1:B>
+I 've only told Jasmin and it scares the hell out of me
+
+ <$A> 
+<ICE-PHI:S1A-018#109:1:A>
+<{> <[> Well </[> 
+
+ <$B> 
+<ICE-PHI:S1A-018#110:1:B>
+<[> I know </[> </{> 
+ 
+<ICE-PHI:S1A-018#111:1:B>
+He 's been offering like breakfast and stuff and other things and I 've been like totally and I 've been totally avoiding it because I know someday <indig> na </indig> I know I 'm not going to to be with him
+
+ <$A> 
+<ICE-PHI:S1A-018#112:1:A>
+Perhaps you should keep your doors still open
+
+ <$B> 
+<ICE-PHI:S1A-018#113:1:B>
+I am keeping my doors open but then I know I cannot find
+
+ <$A> 
+<ICE-PHI:S1A-018#114:1:A>
+Uh uhm okay I understand I know
+
+ <$B> 
+<ICE-PHI:S1A-018#115:1:B>
+Please don't tell anyone
+
+ <$A> 
+<ICE-PHI:S1A-018#116:1:A>
+Yeah yeah I won't I won't
+
+ <$B> 
+<ICE-PHI:S1A-018#117:1:B>
+Please don't tell anyone
+ 
+<ICE-PHI:S1A-018#118:1:B>
+I 'm sorry I 'm sorry I 'm really <{> <[> the </[> bad guy
+
+ <$A> 
+<ICE-PHI:S1A-018#119:1:A>
+<[> No </[> </{> 
+ 
+<ICE-PHI:S1A-018#120:1:A>
+No you 're not
+ 
+<ICE-PHI:S1A-018#121:1:A>
+It it 's just normal for people like us <indig> ehem </indig> like me and you
+
+ <$B> 
+<ICE-PHI:S1A-018#122:1:B>
+Yeah that is very much normal
+ 
+<ICE-PHI:S1A-018#123:1:B>
+And I have one more year left and I don't know how I 'm gonna survive this one year
+
+ <$A> 
+<ICE-PHI:S1A-018#124:1:A>
+No you will
+
+ <$B> 
+<ICE-PHI:S1A-018#125:1:B>
+Huh <,> and I 'm so
+
+ <$A> 
+<ICE-PHI:S1A-018#126:1:A>
+Oh do you know that we 're going to have an underground <indig> ehem </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-018#127:1:B>
+When
+
+ <$A> 
+<ICE-PHI:S1A-018#128:1:A>
+Uh uhm probably tomorrow <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-018#129:1:B>
+Really
+
+ <$A> 
+<ICE-PHI:S1A-018#130:1:A>
+Yeah we 're going to have an underground
+ 
+<ICE-PHI:S1A-018#131:1:A>
+Sir we 're going to have an <{> <[> underground study group </[> 
+
+ <$B> 
+<ICE-PHI:S1A-018#132:1:B>
+<[> Underground study group </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-018#133:1:A>
+You 're not supposed to tell <,> 
+ 
+<ICE-PHI:S1A-018#134:1:A>
+Not a single soul
+
+ <$B> 
+<ICE-PHI:S1A-018#135:1:B>
+Not a single soul
+
+ <$A> 
+<ICE-PHI:S1A-018#136:1:A>
+Not even our blockmates or someone that you think that is so nice <&> speaker B giggles </&> because <indig> ehem </indig> that person might be probably the one we 're trying to avoid
+
+ <$B> 
+<ICE-PHI:S1A-018#137:1:B>
+To avoid
+
+ <$A> 
+<ICE-PHI:S1A-018#138:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-018#139:1:B>
+That 's why we 've called it underground group yes <indig> ehem </indig> an <{> <[> underground </[> study group with we 've been hanging around ever since that EUROECO exam <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-018#140:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-018#141:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-018#142:1:B>
+But then you know <,,> it 's kinda like so fun <O> laughter </O> so fun to be here in the school and to hide and study
+ 
+<ICE-PHI:S1A-018#143:1:B>
+When was the first time you heard that Sir
+ 
+<ICE-PHI:S1A-018#144:1:B>
+Now <O> laughter </O> 
+ 
+<ICE-PHI:S1A-018#145:1:B>
+Oh we 're mocking you <O> laughter </O> no sorry
+
+ <$A> 
+<ICE-PHI:S1A-018#146:1:A>
+Sir this is really weird <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-018#147:1:B>
+This is really weird if you hear any other sound other than our voices then you better be scared because
+
+ <$A> 
+<ICE-PHI:S1A-018#148:1:A>
+There 's only two of us here
+
+ <$B> 
+<ICE-PHI:S1A-018#149:1:B>
+<O> laughter </O> There 's only two of us here and I know that you left but
+
+ <$A> 
+<ICE-PHI:S1A-018#150:1:A>
+<indig> Ehem </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-018#151:1:B>
+Where are the other people you know
+ 
+<ICE-PHI:S1A-018#152:1:B>
+This is an old building Sir
+ 
+<ICE-PHI:S1A-018#153:1:B>
+Did you hear any moaning <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-018#154:1:A>
+Yeah <.> bu </.> as in awoo woo uh uh
+
+ <$B> 
+<ICE-PHI:S1A-018#155:1:B>
+No uhm be scared be very scared
+ 
+<ICE-PHI:S1A-018#156:1:B>
+Okay what are we gonna do next
+
+ <$A> 
+<ICE-PHI:S1A-018#157:1:A>
+<{> <[> Uhm </[> 
+
+ <$B> 
+<ICE-PHI:S1A-018#158:1:B>
+<[> I wanna </[> </{> get out of here as fast as I can
+ 
+<ICE-PHI:S1A-018#159:1:B>
+I 'm sorry Achie I know <{> <[> I 'm really </[> sorry
+
+ <$A> 
+<ICE-PHI:S1A-018#160:1:A>
+<[> I I I know </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-018#161:1:B>
+Please don't think of me as a bad person
+
+ <$A> 
+<ICE-PHI:S1A-018#162:1:A>
+No you 're you 're not I I I know
+
+ <$B> 
+<ICE-PHI:S1A-018#163:1:B>
+If you think of me as a bad person they <{> <[> <unclear> words </unclear> </[> 
+
+ <$A> 
+<ICE-PHI:S1A-018#164:1:A>
+<[> You know I was also </[> </{> placed in your position
+
+ <$B> 
+<ICE-PHI:S1A-018#165:1:B>
+Oh oh <{> <[> yeah I remember okay </[> 
+
+ <$A> 
+<ICE-PHI:S1A-018#166:1:A>
+<[> Remember
+ 
+<ICE-PHI:S1A-018#167:1:A>
+Yeah yeah </[> </{> 
+ 
+<ICE-PHI:S1A-018#168:1:A>
+I I can't even answer my own phone at home because I was afraid that it might be <indig> ehem </indig> my stalker my crazy <&> speaker B chuckles </&> <indig> ehem ehem </indig> insane as in agh
+
+ <$B> 
+<ICE-PHI:S1A-018#169:1:B>
+Maybe he 's not a stalker he might not be the stalker type but then I just can't help but be scared <,> 
+ 
+<ICE-PHI:S1A-018#170:1:B>
+Oh I 'm sorry I 'm not I 'm a bad <{> <[> person </[> you know
+
+ <$A> 
+<ICE-PHI:S1A-018#171:1:A>
+<[> Well </[> </{> if if it makes you feel better
+ 
+<ICE-PHI:S1A-018#172:1:A>
+I have this suitor that everybody thinks that he 's so nice he 's so good but then I don't have this certain special feeling for him
+ 
+<ICE-PHI:S1A-018#173:1:A>
+I think of him as uh okay ordinary guy uh a person normal uh okay have two eyes <&> speaker B chuckles </&> two ears one nose
+
+ <$B> 
+<ICE-PHI:S1A-018#174:1:B>
+So that 's <.> e </.> 
+
+ <$A> 
+<ICE-PHI:S1A-018#175:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-018#176:1:B>
+So what you 're feeling is what exactly I am feeling now
+ 
+<ICE-PHI:S1A-018#177:1:B>
+I can't see him more than a friend <{> <[> <O> chuckle </O> </[> 
+
+ <$A> 
+<ICE-PHI:S1A-018#178:1:A>
+<[> Yeah </[> </{> I I I can understand
+
+ <$B> 
+<ICE-PHI:S1A-018#179:1:B>
+Yeah what the thing
+
+ <$A> 
+<ICE-PHI:S1A-018#180:1:A>
+But perhaps in the future <indig> ehem </indig> <{> <[> something </[> might develop
+
+ <$B> 
+<ICE-PHI:S1A-018#181:1:B>
+<[> I don't </[> </{> know
+ 
+<ICE-PHI:S1A-018#182:1:B>
+No I don't think
+ 
+<ICE-PHI:S1A-018#183:1:B>
+I 've been thinking about that and I don't think there is <{> <[> any possibility </[> 
+
+ <$A> 
+<ICE-PHI:S1A-018#184:1:A>
+<[> Why not </[> </{> 
+ 
+<ICE-PHI:S1A-018#185:1:A>
+Because you 're not over with this other guy
+
+ <$B> 
+<ICE-PHI:S1A-018#186:1:B>
+No I didn't even think about him <,> when I was thinking about this stuff I didn't think about him
+
+ <$A> 
+<ICE-PHI:S1A-018#187:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-018#188:1:B>
+So he 's out of the picture
+ 
+<ICE-PHI:S1A-018#189:1:B>
+And yeah that 's why I 'm scared <,> if ever I <.> tol </.> if ever I tell him not to <indig> ganon </indig> then people might say uh because she 's not over yet <,,> 
+ 
+<ICE-PHI:S1A-018#190:1:B>
+<{> <[> And </[> and I 'm like hey you 're misinterpreting it
+ 
+<ICE-PHI:S1A-018#192:1:B>
+It 's not that I 'm not over I didn't even think about him when I was thinking about this
+ 
+<ICE-PHI:S1A-018#193:1:B>
+No he 's out of the picture
+
+ <$A> 
+<ICE-PHI:S1A-018#191:1:A>
+<[> Uh </[> </{> 
+ 
+<ICE-PHI:S1A-018#194:1:A>
+Yeah well
+
+ <$B> 
+<ICE-PHI:S1A-018#195:1:B>
+And it 's just it 's just no
+
+ <$A> 
+<ICE-PHI:S1A-018#196:1:A>
+Well this guy confided to me that he 's afraid to approach you and propose because <,> he thinks that you 're not yet over with this other guy
+
+ <$B> 
+<ICE-PHI:S1A-018#197:1:B>
+It 's not that 's not the point there <,> 
+ 
+<ICE-PHI:S1A-018#198:1:B>
+I mean I didn't even think about this guy when I was thinking about it
+ 
+<ICE-PHI:S1A-018#199:1:B>
+So that 's not the point
+ 
+<ICE-PHI:S1A-018#200:1:B>
+And uh I 'm I 'm apprehensive <.> bec </.> because people might say most especially his friends you know most especially his friends will say that oh it 's because of this guy that 's why that 's why she doesn't like you but no uh no I no it 's not that
+
+ <$A> 
+<ICE-PHI:S1A-018#201:1:A>
+Okay
+
+ <$B> 
+<ICE-PHI:S1A-018#202:1:B>
+Oh God
+
+ <$A> 
+<ICE-PHI:S1A-018#203:1:A>
+Okay Sir this is a secret okay
+
+ <$B> 
+<ICE-PHI:S1A-018#204:1:B>
+Sir this is secret
+ 
+<ICE-PHI:S1A-018#205:1:B>
+Don't tell it to anyone and don't misplace the tape <O> laughter </O> because if ever you too will gonna get killed <O> laughter </O> 
+ 
+<ICE-PHI:S1A-018#206:1:B>
+No just me
+
+ <$A> 
+<ICE-PHI:S1A-018#207:1:A>
+No just her not me
+
+ <$B> 
+<ICE-PHI:S1A-018#208:1:B>
+Yeah just me I 'm gonna get killed
+ 
+<ICE-PHI:S1A-018#209:1:B>
+I 've had my entire stay in La Salle at <,,> at uh <O> laughter </O> I was placed then there
+
+ <$A> 
+<ICE-PHI:S1A-018#210:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-018#211:1:B>
+I 've got one year Sir one year
+ 
+<ICE-PHI:S1A-018#212:1:B>
+I really want to get out of this place <,> 
+ 
+<ICE-PHI:S1A-018#213:1:B>
+Uh no it 's not like that it 's not that I do not like La Salle <O> laughter </O> 
+ 
+<ICE-PHI:S1A-018#214:1:B>
+It 's that people are you know <,> that
+
+ <$A> 
+<ICE-PHI:S1A-018#215:1:A>
+Hey what are you going to do this summer
+
+ <$B> 
+<ICE-PHI:S1A-018#216:1:B>
+Stay at home
+
+ <$A> 
+<ICE-PHI:S1A-018#217:1:A>
+Bum around
+
+ <$B> 
+<ICE-PHI:S1A-018#218:1:B>
+<O> laughter </O> Yeah probably I was looking for a summer job but then I can't find any more <,> any summer job more decent than a job in Jollibee
+ 
+<ICE-PHI:S1A-018#219:1:B>
+But I don't want that of course I do not want that
+
+ <$A> 
+<ICE-PHI:S1A-018#220:1:A>
+Oh don't you have training this summer
+
+ <$B> 
+<ICE-PHI:S1A-018#221:1:B>
+Yeah we have summer training and that 's what I 'm looking forward to
+
+ <$A> 
+<ICE-PHI:S1A-018#222:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-018#223:1:B>
+Hey we might go to Hong Kong you know that <{> <[> <O> laughter </O> you know I I </[> 
+
+ <$A> 
+<ICE-PHI:S1A-018#224:1:A>
+<[> Wow </[> </{> 
+ 
+<ICE-PHI:S1A-018#225:1:A>
+Please include me in your baggage
+
+ <$B> 
+<ICE-PHI:S1A-018#226:1:B>
+Oh oh sure
+ 
+<ICE-PHI:S1A-018#227:1:B>
+Baggage <O> laughter </O> 
+ 
+<ICE-PHI:S1A-018#228:1:B>
+Sir <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-018#229:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-018#230:1:B>
+No I how I wish I could go
+ 
+<ICE-PHI:S1A-018#231:1:B>
+I 've been like training for training like hell for for months
+
+ <$A> 
+<ICE-PHI:S1A-018#232:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-018#233:1:B>
+But I wish I could really go to Hong Kong
+ 
+<ICE-PHI:S1A-018#234:1:B>
+It 's my chance to go somewhere out <,> of the Philippines
+
+ <$A> 
+<ICE-PHI:S1A-018#235:1:A>
+Yeah remember what I told you before that I might go to Germany
+
+ <$B> 
+<ICE-PHI:S1A-018#236:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-018#237:1:A>
+Well I was thinking that probably I would go there after I graduate
+
+ <$B> 
+<ICE-PHI:S1A-018#238:1:B>
+After
+
+ <$A> 
+<ICE-PHI:S1A-018#239:1:A>
+<{> <[> Yeah </[> 
+
+ <$B> 
+<ICE-PHI:S1A-018#240:1:B>
+<[> Are you </[> </{> gonna stay there
+
+ <$A> 
+<ICE-PHI:S1A-018#241:1:A>
+No 
+
+
+
+<ICE-PHI:S1A-018#> I don't like Germans
+
+ <$B> 
+<ICE-PHI:S1A-018#242:1:B>
+Really <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-018#243:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-018#244:1:B>
+You hate <indig> ganon </indig> <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-018#245:1:A>
+No not really <&> speaker B laughs </&> I want to go to Australia <{> <[> whoa </[> 
+
+ <$B> 
+<ICE-PHI:S1A-018#246:1:B>
+<[> <indig> Uy </indig> </[> </{> me too <{> <[> I wanna stay there forever </[> 
+
+ <$A> 
+<ICE-PHI:S1A-018#247:1:A>
+<[> Australia I 'm going to Adelaide </[> </{> 
+ 
+<ICE-PHI:S1A-018#248:1:A>
+And see my friend my <{> <[> boy friend </[> no not really
+
+ <$B> 
+<ICE-PHI:S1A-018#249:1:B>
+<[> <.> Boy </.> </[> </{> <O> laughter </O> 
+ 
+<ICE-PHI:S1A-018#250:1:B>
+I wanna go to Sydney and watch a football game
+
+ <$A> 
+<ICE-PHI:S1A-018#251:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-018#252:1:B>
+And I could stay on the bridge the whole day
+
+ <$A> 
+<ICE-PHI:S1A-018#253:1:A>
+But really this summer I will be going to uhm Iligan
+
+ <$B> 
+<ICE-PHI:S1A-018#254:1:B>
+<{> <[> Really </[> 
+
+ <$A> 
+<ICE-PHI:S1A-018#255:1:A>
+<[> And </[> </{> see some friends yeah
+
+ <$B> 
+<ICE-PHI:S1A-018#256:1:B>
+God I I wanna have I wanna stay in Para&ntilde;aque
+ 
+<ICE-PHI:S1A-018#257:1:B>
+I wanna stay in my cousin 's house I miss staying there but I 'm not sure if Dad would allow me and I and besides I have training
+ 
+<ICE-PHI:S1A-018#258:1:B>
+From Para&ntilde;aque to Manila Bay is quite long
+
+ <$A> 
+<ICE-PHI:S1A-018#259:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-018#260:1:B>
+And I have to wake up like five o'clock in the morning <O> laughter </O> to be there
+
+ <$A> 
+<ICE-PHI:S1A-018#261:1:A>
+Yeah and just to beat the traffic
+
+ <$B> 
+<ICE-PHI:S1A-018#262:1:B>
+Just to beat the traffic uh uhm
+ 
+<ICE-PHI:S1A-018#263:1:B>
+I 'm not even sure I 'm gonna go there from Para&ntilde;aque <,,> 
+ 
+<ICE-PHI:S1A-018#264:1:B>
+How many more minutes
+
+ <$A> 
+<ICE-PHI:S1A-018#265:1:A>
+Uhm seven more
+
+ <$B> 
+<ICE-PHI:S1A-018#266:1:B>
+Seven okay we 've been talking for wow
+
+ <$A> 
+<ICE-PHI:S1A-018#267:1:A>
+Well <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-018#268:1:B>
+I can't believe <O> laughter </O> talking in straight English 
+
+ </I> 

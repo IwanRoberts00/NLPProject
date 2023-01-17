@@ -1,0 +1,573 @@
+<I>
+
+<ICE-PHI:W2F-004#1:1>
+<h> <bold> Paper Airplanes </bold> </h>
+
+<ICE-PHI:W2F-004#2:1>
+<bold> By Luis Joaquin M. Katigbak </bold> </p>
+
+<ICE-PHI:W2F-004#3:1>
+<bold> A programmer for a financial software company reflects on
+flight, the power of stories and the difficult magic of second chances.
+</bold> </p>
+
+<p> 
+<ICE-PHI:W2F-004#4:1>
+<bold> Let 's </bold> see.
+
+<ICE-PHI:W2F-004#5:1>
+<it> When I was a child </it> - - uh-oh, here comes the boss.
+
+<ICE-PHI:W2F-004#6:1>
+Hit the panic key.
+
+<ICE-PHI:W2F-004#7:1>
+Conjure up that C-language code.
+
+<ICE-PHI:W2F-004#8:1>
+Nod and smile.
+
+<ICE-PHI:W2F-004#9:1>
+He takes a passing glance at my screen, pats the CPU approvingly, and
+then moves on.
+
+<ICE-PHI:W2F-004#10:1>
+Right.
+
+<ICE-PHI:W2F-004#11:1>
+Like he even understands what I 'm working on any more.
+
+<ICE-PHI:W2F-004#12:1>
+He 's one of the founders of our little computer company, one of the
+first architects of our library of code - - but I think he 's forgotten half
+of everything he 's ever programmed.
+
+<ICE-PHI:W2F-004#13:1>
+Anyway.
+
+<ICE-PHI:W2F-004#14:1>
+Back to my so-called work. </p>
+
+<p> 
+<ICE-PHI:W2F-004#15:1>
+<quote> &ldquo; When I was a child, my main preoccupations were
+writing stories and making paper airplanes.
+
+<ICE-PHI:W2F-004#16:1>
+Both activities were lessons in rudimentary magic: my eight-year-old
+mind could perceive that there was something extraordinary, miraculous even,
+in the fact that one could manipulate simple everyday sheets of paper - - by
+making marks on them with a pen, or by folding and tearing - - and imbue them
+with the power of narrative, or flight. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2F-004#17:1>
+I stare at the paragraph on my screen.
+
+<ICE-PHI:W2F-004#18:1>
+It took me something like an hour to cobble those two sentences
+together.
+
+<ICE-PHI:W2F-004#19:1>
+I close the word-processing program, and lean back in my swivel
+chair, and reminisce.
+
+<ICE-PHI:W2F-004#20:1>
+Much easier to recall events and feelings in a hazy, lazy non-order
+than to try to jot them down in words. </p>
+
+<p> 
+<ICE-PHI:W2F-004#21:1>
+The airplanes, of course, were easier: it didn't take much effort
+to get one to soar, and once one had the basics down, one could experiment
+with wing flaps, and paper clips, and insignias.
+
+<ICE-PHI:W2F-004#22:1>
+The stories, though - - they took a bit more effort.
+
+<ICE-PHI:W2F-004#23:1>
+At first I just copied them, line by line, from my <it> Childcraft
+</it> books, from my <mention> <it> Pop Stories for Groovy Kids </it>
+</mention> collection, from fairy tales and picture books.
+
+<ICE-PHI:W2F-004#24:1>
+I had this idea that I could unravel their secrets in that fashion:
+like taking a paper plane, unfolding it, and observing carefully each crease
+and noting how it contributed to the overall design.
+
+<ICE-PHI:W2F-004#25:1>
+I didn't know then that learning how to ravel and unravel tales was
+an activity that could take a lifetime. </p>
+
+<p> 
+<ICE-PHI:W2F-004#26:1>
+Nowadays, though, I don't have much time for either activity.
+
+<ICE-PHI:W2F-004#27:1>
+Most of my hours are spent in this little gray cubicle, under sickly
+fluorescent lighting, staring at lines of computer code on a monitor.
+
+<ICE-PHI:W2F-004#28:1>
+I 'm a programmer for Ramanujan Information Systems, a financial
+software company that creates programs for export to the United States.
+
+<ICE-PHI:W2F-004#29:1>
+Our office is on the fifth floor of a nondescript building in San
+Juan.
+
+<ICE-PHI:W2F-004#30:1>
+The books on my desk have such exciting titles as <mention> <it> An
+Introduction to Futures and Options Markets </it> </mention> , and <mention>
+<it> Fixed-income Mathematics </it> </mention> .
+
+<ICE-PHI:W2F-004#31:1>
+And then there 's <mention> <it> Spread Analysis </it> </mention> ,
+which, sadly, has nothing to do with sandwiches or sex.
+
+<ICE-PHI:W2F-004#32:1>
+The only reason I 'm musing about my childhood pursuits is because I
+just got e-mail from Raya, an old classmate of mine from my Creative Writing
+course at the university.
+
+<ICE-PHI:W2F-004#33:1>
+<mention> 'From' </mention> tag: raya @ cybermail.com, Subject: <X>
+<indig> Paki-workshop naman o. </indig> </X> </p>
+
+<p> 
+<ICE-PHI:W2F-004#34:1>
+<quote> &ldquo; Hey there geeky head! &rdquo; </quote> the
+message reads.
+
+<ICE-PHI:W2F-004#35:1>
+<quote> &ldquo; Here 's your opportunity to stop talking to machines
+for a while and interact with a real live human being.
+
+<ICE-PHI:W2F-004#36:1>
+Enclosed is a sucky story in dire need of some serious workshopping.
+
+<ICE-PHI:W2F-004#37:1>
+Your ever-incisive comments and laser-like reading precision would be
+much welcome.
+
+<ICE-PHI:W2F-004#38:1>
+BTW, Dr. Dalusong wants a revised draft of this in two days, so could
+we please meet & discuss sometime like, say... tonight?
+
+<ICE-PHI:W2F-004#39:1>
+Thanks thanks thanks and I 'll make it up to you I promise.
+
+<ICE-PHI:W2F-004#40:1>
+Coffee 's on me. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2F-004#41:1>
+There 's an attachment - a <mention> Word </mention> file with
+her latest <foreign> opus </foreign> .
+
+<ICE-PHI:W2F-004#42:1>
+I open it and save it on a floppy; I 'll print it out later, at home.
+
+<ICE-PHI:W2F-004#43:1>
+I call up Raya and tell her that I worked nonstop all through last
+night in a vain attempt to debug an adjustable-rate mortgage routine, and
+thus my mind is currently in a state much resembling scram bled eggs.
+
+<ICE-PHI:W2F-004#44:1>
+She starts to plead in her comically excessive fashion, and then I
+tell her that all I need is a few hours of sleep at home and that I 'll be
+glad to meet her sometime after midnight.
+
+<ICE-PHI:W2F-004#45:1>
+We set a time and place. </p>
+
+<p> 
+<ICE-PHI:W2F-004#46:1>
+On the way home, I keep nodding off to sleep in the bus.
+
+<ICE-PHI:W2F-004#47:1>
+I drift between dream and thought and memory.
+
+<ICE-PHI:W2F-004#48:1>
+I dream about numbers and motion.
+
+<ICE-PHI:W2F-004#49:1>
+I think about caps and floors and cash flows and decimal-point
+errors.
+
+<ICE-PHI:W2F-004#50:1>
+I remember when Raya and I were classmates, and, later, participants
+in a summer writers ' workshop.
+
+<ICE-PHI:W2F-004#51:1>
+Those were fine times - - we waged war on clumsy sentences and
+indelicate phrasings, we composed impromptu poetry around a campfire, we even
+unmasked a plagiarist.
+
+<ICE-PHI:W2F-004#52:1>
+The air was alive with the sound of clashing egos and drunken song.
+
+<ICE-PHI:W2F-004#53:1>
+For a while there I felt - - I <it> must </it> have been drunk - - I
+fancied myself a successor of sorts, an author of another chapter in the
+grand history of Philippine Fiction 'from' English.
+
+<ICE-PHI:W2F-004#54:1>
+But I knew in my gut that I could never make a living just writing
+fiction, and so in my third year shifted to Computer Science.
+
+<ICE-PHI:W2F-004#55:1>
+And now I make a good salary: I write routines for our software,
+constantly checking and rechecking our results against the output from the
+<mention> Bloomberg Terminal </mention> .
+
+<ICE-PHI:W2F-004#56:1>
+I 've learned about all this financial jazz from the ground up by
+immersing myself in book after fat book.
+
+<ICE-PHI:W2F-004#57:1>
+I 've even begun dabbling in investments myself.
+
+<ICE-PHI:W2F-004#58:1>
+It 's all very profitable and all very very boring.
+
+<ICE-PHI:W2F-004#59:1>
+I miss the stories. </p>
+
+<p> 
+<ICE-PHI:W2F-004#60:1>
+The bus stops with a sudden jerk and the door hisses open.
+
+<ICE-PHI:W2F-004#61:1>
+I jump off and hail a bright red tricycle.
+
+<ICE-PHI:W2F-004#62:1>
+A couple of minutes of juddering motion - - a near-accident, an irate
+pedestrian - - and I 'm home.
+
+<ICE-PHI:W2F-004#63:1>
+I stagger into our house: the bungalow in Quezon City where I have
+lived with my parents for all my twenty-five years, wave a bleary hello to my
+mother, who 's watching an infomercial in the <indig> sala </indig> , and
+crawl into my bedroom and crash headlong into sleep.
+
+<ICE-PHI:W2F-004#64:1>
+Almost instantaneously my mind is awhirl again, in the throes of a
+proper sleep-dream this time.
+
+<ICE-PHI:W2F-004#65:1>
+Like teleporting to a new world in between eyeblinks. </p>
+
+<p> 
+<ICE-PHI:W2F-004#66:1>
+... <it> I am in a brightly-lit room </it> that is high-ceilinged
+and chandeliered.
+
+<ICE-PHI:W2F-004#67:1>
+A massive, red-carpeted stairway sweeps upwards; it seems to promise
+even more grandeur in the unglimpsed chambers above.
+
+<ICE-PHI:W2F-004#68:1>
+The room strongly resembles a Disney fairy-tale royal banquet hall,
+and yet somehow I <it> know </it> , in a typical burst of dream-logic, that
+it is also my room, the very one I fell asleep in. </p>
+
+<p> 
+<ICE-PHI:W2F-004#69:1>
+I am sitting in the center of the room, at a sturdy wooden desk.
+
+<ICE-PHI:W2F-004#70:1>
+One by one, strange figures float through a nearby doorway that is
+ten feet tall: these are the fairy god-people come to my baptism-as-writer,
+here to bestow their respective gifts on me.
+
+<ICE-PHI:W2F-004#71:1>
+Some of them are winged, shimmering, others are earthbound and solid.
+
+<ICE-PHI:W2F-004#72:1>
+They come in, dispense advice, or objects, or blessings, then wander
+off, more often than not in the direction of a nearby buffet table. </p>
+
+<p> 
+<ICE-PHI:W2F-004#73:1>
+First there is Donald Barthelme, bespectacled, wide-eyed and
+bushy-bearded, his wings a strange serrated shape and in various clashing
+colors.
+
+<ICE-PHI:W2F-004#74:1>
+He hands me a laughter-colored balloon with these words imprinted on
+its rubber surface: <quote> &ldquo; There is nothing written that cannot be
+used somewhere else. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2F-004#75:1>
+Lorrie Moore hands me a self-help book.
+
+<ICE-PHI:W2F-004#76:1>
+I flip through the pages to discover that they are blank, <quote>
+&ldquo; Fill 'er up," </quote> she says, then goes off to the fridge for some
+cold beer. </p>
+
+<p> 
+<ICE-PHI:W2F-004#77:1>
+Truman Capote, dressed in a smart blazer and a smart pair of
+shorts and Gucci loafers, waddles up to me and says, <quote> &ldquo; For God 's
+sake, practice.
+
+<ICE-PHI:W2F-004#78:1>
+Practice, practice, practice.
+
+<ICE-PHI:W2F-004#79:1>
+You are an apprentice at the altar of technique, craft; learn well
+the intricacies of paragraphing, punctuation, dialogue placement.
+
+<ICE-PHI:W2F-004#80:1>
+Not to mention the grand overall design, the great demanding arc of
+middle-beginning-end. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2F-004#81:1>
+Haruki Murakami steps forward and places a little wind-up bird on
+the table before me.
+
+<ICE-PHI:W2F-004#82:1>
+<quote> &ldquo; You must travel a long way from the stuffed cabbage,
+&rdquo; </quote> he intones enigmatically. </p>
+
+<p> 
+<ICE-PHI:W2F-004#83:1>
+Nick Joaquin shuffles my way and offers me a swig of <mention>
+San Miguel </mention> .
+
+<ICE-PHI:W2F-004#84:1>
+In the bottle I can see liquid ghosts, men and women caught in an
+ever-turbulent dance. </p>
+
+<p> 
+<ICE-PHI:W2F-004#85:1>
+Gregorio Brillantes gives me a prism. </p>
+
+<p> 
+<ICE-PHI:W2F-004#86:1>
+Mark Helprin gives me a little crystal globe with a miniature
+city inside.
+
+<ICE-PHI:W2F-004#87:1>
+The globe is filled with some slow fluid, and a fine white powder has
+settled on the city 's miniature turrets and rooftops.
+
+<ICE-PHI:W2F-004#88:1>
+When I shake the globe, it snowstorms. </p>
+
+<p> 
+<ICE-PHI:W2F-004#89:1>
+Martin Amis sneers.
+
+<ICE-PHI:W2F-004#90:1>
+Will Self offers me drugs.
+
+<ICE-PHI:W2F-004#91:1>
+Ian McEwan sits in a corner and stares at something invisible and
+faraway.
+
+<ICE-PHI:W2F-004#92:1>
+Julian Barnes regales me with a story of an Englishman in Paris. </p>
+
+<p> 
+<ICE-PHI:W2F-004#93:1>
+Renata Adler hands me a stack of postcards, photographs,
+anecdotes, episodes.
+
+<ICE-PHI:W2F-004#94:1>
+She also tells me the wittiest joke I 've ever heard. </p>
+
+<p> 
+<ICE-PHI:W2F-004#95:1>
+Jonathan Carroll is pulling bouquets of roses from a black top
+hat.
+
+<ICE-PHI:W2F-004#96:1>
+He pulls out still-beating hearts, masks, crayons, kaleidoscopes.
+
+<ICE-PHI:W2F-004#97:1>
+Finally he pulls out <mention> Death </mention> , a well-mannered,
+wide-smiled young man. </p>
+
+<p> 
+<ICE-PHI:W2F-004#98:1>
+Francisco Arcellana waves his cane at me and exhorts, <quote>
+&ldquo; Write the story <it> only you can write! </it>
+
+<ICE-PHI:W2F-004#99:1>
+The story that makes your balls <it> twitch! </it> &ldquo; </quote>
+His empty hand claws at the air; for emphasis. </p>
+
+<p> 
+<ICE-PHI:W2F-004#100:1>
+And so it goes.
+
+<ICE-PHI:W2F-004#101:1>
+And so it goes.
+
+<ICE-PHI:W2F-004#102:1>
+Each writer brings something else, something only they can bring.
+</p>
+
+<p> 
+<ICE-PHI:W2F-004#103:1>
+Finally, Kurt Vonnegut, late for the affair, huffing, for his
+lungs aren't what they used to be, what with the chain-smoking, his bent arms
+swinging in a way that mimics the act of jogging, comes to my side, smiles
+and says, <quote> &ldquo; Don't take it all so <it> seriously </it> , for
+Chrissakes. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2F-004#104:1>
+All of a sudden, there is a commotion near the doorway.
+
+<ICE-PHI:W2F-004#105:1>
+The murmuring writers gather around a gaudily-clad messenger, who
+has a long brass trumpet in one hand and a scroll in the other.
+
+<ICE-PHI:W2F-004#106:1>
+He blows on the trumpet - - a short, sharp discordant blast - - and
+then reads his announcement.
+
+<ICE-PHI:W2F-004#107:1>
+<quote> &ldquo; The new letters are coming! &rdquo; </quote> he
+shouts.
+
+<ICE-PHI:W2F-004#108:1>
+<quote> &ldquo; The new letters are here! &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2F-004#109:1>
+We all turn our faces heavenwards.
+
+<ICE-PHI:W2F-004#110:1>
+The new letters.
+
+<ICE-PHI:W2F-004#111:1>
+Inexplicably, instead of the ceiling that was once there, there is a
+vast expanse of sky, a sky as blank and white as a new sheet of foolscap.
+
+<ICE-PHI:W2F-004#112:1>
+And from the sky comes pouring forth a rain of paper airplanes, a
+squadron from nowhere, bright, agile, and wondrous, swooping down on our
+assemblage.
+
+<ICE-PHI:W2F-004#113:1>
+Our hearts leap in anticipation: the new letters!
+
+<ICE-PHI:W2F-004#114:1>
+We all know instinctively that when we catch these planes and unfold
+them, they will each contain a new symbol, to add to the twenty-odd that we
+have been using all these years.
+
+<ICE-PHI:W2F-004#115:1>
+We recall fondly the works we crafted using the old letters, the
+tried-and-true letters, and our imaginations tremble in anticipation as we
+think about what we might craft with these additions. </p>
+
+<p> 
+<ICE-PHI:W2F-004#116:1>
+We raise our arms to the sky in welcome.
+
+<ICE-PHI:W2F-004#117:1>
+It is then that the dream warps, wobbles, and shrieks at the seams.
+
+<ICE-PHI:W2F-004#118:1>
+The paper airplanes morph into shining daggers, with columns of
+numbers engraved on their blades - - and bursting out of the sun is my boss,
+laughing maniacally and riding a chariot that is being pulled by a flock of
+Dimension XPS R400s, their monitors like livid glowing eyes.
+
+<ICE-PHI:W2F-004#119:1>
+My boss is screaming about securities and percentages, and all
+around is the sound of panic as the daggers hit home and plunge into <it> a
+thousand skulls </it> ... </p>
+
+<p> 
+<ICE-PHI:W2F-004#120:1>
+And I wake up with a start. </p>
+
+<p> 
+<ICE-PHI:W2F-004#121:1>
+I wipe the sweat from my forehead, and check the digital clock
+by my bedside.
+
+<ICE-PHI:W2F-004#122:1>
+Just enough time to print and read Raya 's story, and to rush to the
+caf&eacute;.
+
+<ICE-PHI:W2F-004#123:1>
+But first, I think I need a cold bracing shower.
+
+<ICE-PHI:W2F-004#124:1>
+Yeah.
+
+<ICE-PHI:W2F-004#125:1>
+Just the thing. </p>
+
+<p> 
+<ICE-PHI:W2F-004#126:1>
+<bold> A few </bold> hours later: I 'm wide awake, and making a
+pronouncement.
+
+<ICE-PHI:W2F-004#127:1>
+<quote> &ldquo; You have a problem with endings, &rdquo; </quote> I
+say. </p>
+
+<p> 
+<ICE-PHI:W2F-004#128:1>
+Raya nods, and then waves at a passing waiter.
+
+<ICE-PHI:W2F-004#129:1>
+We 're sitting in a 24-hour caf&eacute; along V. Luna, sipping tepid
+coffee and soaking up the air-conditioning and the artsy ambience.
+
+<ICE-PHI:W2F-004#130:1>
+Rattan creations hang from the ceiling; they look like the
+frameworks of impossible boats, or the skeletons of prehistoric sea
+creatures.
+
+<ICE-PHI:W2F-004#131:1>
+Photographs and murky watercolors adorn the walls.
+
+<ICE-PHI:W2F-004#132:1>
+It 's three a.m., and our fellow caf&eacute;-goers consist of a
+handful of cramming students, two talkative U.P. mountaineer-types, and a
+green-haired musician and his entourage. </p>
+
+<p> 
+<ICE-PHI:W2F-004#133:1>
+<quote> &ldquo; The waiter 's ignoring me, &rdquo; </quote> she
+says. </p>
+
+<p> 
+<ICE-PHI:W2F-004#134:1>
+&ldquo; That 's what they do here," </quote> I reply.
+
+<ICE-PHI:W2F-004#135:1>
+<quote> &ldquo; I think it 's because deep down, they know their
+food is horrible, and so they 're actually ashamed to serve it.
+
+<ICE-PHI:W2F-004#136:1>
+That 's why they avoid us - - we might try to order something.
+&rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2F-004#137:1>
+I look at the set of twelve semi-crumpled sheets of short bond
+paper in my hand.
+
+<ICE-PHI:W2F-004#138:1>
+It 's an inkjet printout of Raya 's short story - - I jotted down
+notes in its margins, desecrated it with coffee-cup stains and doodles, and
+brought it to the caf&eacute; rolled up in my back pocket.
+
+<ICE-PHI:W2F-004#139:1>
+The only neat thing on the printout is the staple that still holds
+it together.
+
+<ICE-PHI:W2F-004#140:1>
+I hand it back to her with some embarrassment. </p> </I>

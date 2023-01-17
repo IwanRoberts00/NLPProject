@@ -1,0 +1,343 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S2A-042#1:1:A>
+Thank you for your kind introduction
+ 
+<ICE-PHI:S2A-042#2:1:A>
+Uh good afternoon ladies and gentlemen <,> 
+ 
+<ICE-PHI:S2A-042#3:1:A>
+Today 's <.> pa </.> uh my paper this afternoon deals with the biological waste water treatment as applied to industrial and agricultural wastes
+ 
+<ICE-PHI:S2A-042#4:1:A>
+As a researcher interested in waste utilization and in biotechnology as a biochemical engineer <,> I have come to appreciate the conventional processes in industrial and agricultural waste treatment
+ 
+<ICE-PHI:S2A-042#5:1:A>
+Usually organic uh industrial waste water are treated by the activated sludge process while agricultural wastes uh by an <?> aromic </?> anaerobic digestion
+ 
+<ICE-PHI:S2A-042#6:1:A>
+I believe that applying the principles of environmental biotechnology and biochemical engineering <,> we can formulate more efficient treatment schemes <,,> <&> prepares presentation material </&> 
+ 
+<ICE-PHI:S2A-042#7:1:A>
+I want to apologize if uh there will be some uh discrepancies because I did not have enough time to prepare because of the busy schedule during the past uh two months <,,> 
+ 
+<ICE-PHI:S2A-042#8:1:A>
+Basically uh this is the outline of my paper <,> 
+ 
+<ICE-PHI:S2A-042#9:1:A>
+I will discuss some considerations in biological treatment schemes with some comparison of the those used for industrial and agricultural waste water
+ 
+<ICE-PHI:S2A-042#10:1:A>
+And then I will discuss some of my uh recent research works
+ 
+<ICE-PHI:S2A-042#11:1:A>
+And how I will uh get some of the distinguishing or uh advantageous features which you can integrate and adopt for a new process or a preferred uh process
+ 
+<ICE-PHI:S2A-042#12:1:A>
+That is we can use especially cultured microorganisms
+ 
+<ICE-PHI:S2A-042#13:1:A>
+We can improve the bio reactors and uh we can advocate the use of anaerobic fermentation <,,> 
+ 
+<ICE-PHI:S2A-042#14:1:A>
+Now let 's have a comparison of the usual treatment schemes for industrial and agricultural waste water
+ 
+<ICE-PHI:S2A-042#15:1:A>
+As I said usually the activated sludge process is used for industrial uh waste water
+ 
+<ICE-PHI:S2A-042#16:1:A>
+Of course these are for organic uh waste waters while uh anaerobic fermentation usually production of biogas is uh used for agricultural wastes
+ 
+<ICE-PHI:S2A-042#18:1:A>
+We know that the activated sludge process is an aerobic process and needs uh <,> oxygen while the <,> for agricultural waste it 's commonly the anaerobic process that is in the absence of oxygen
+ 
+<ICE-PHI:S2A-042#19:1:A>
+The activated sludge process needs tremendous power for aeration and agitation while in uh biogas production we have we can get methane that can be used as an energy source
+ 
+<ICE-PHI:S2A-042#21:1:A>
+Of course from uh <,,> the original design <,> we have had modifications such as the trickling filters fluidized bed packed bed and in the same manner in the in agricultural waste water there have been similar <,> uh modifications
+ 
+<ICE-PHI:S2A-042#22:1:A>
+Of <.> co </.> and uh the latest <,> uh method is to immobilize or retain the microorganisms within the reactor <,,> 
+ 
+<ICE-PHI:S2A-042#23:1:A>
+This is the conventional activated sludge process
+ 
+<ICE-PHI:S2A-042#24:1:A>
+You have the aeration tank the clarifier and a <?> resecretion </?> system for the microorganisms <,,> 
+ 
+<ICE-PHI:S2A-042#25:1:A>
+Then the modifications <,> this is the conventional uh <,,> activated sludge process an aerator and a clarifier can be modified to be uh to have a flood flow configuration or in terms of a tapered aeration step aeration or contact stabilization where most of the sludge is uh revived <,,> 
+ 
+<ICE-PHI:S2A-042#26:1:A>
+The prime consideration is the aeration and here is where the expense uh of the process is
+ 
+<ICE-PHI:S2A-042#27:1:A>
+Then these are the different uh further modifications quite some departures from the original type
+ 
+<ICE-PHI:S2A-042#28:1:A>
+You can have multi-stage you can have static mixers multi-tubes with recycle or with uh <.> inte </.> external recycle and internal recycle <,,> 
+ 
+<ICE-PHI:S2A-042#29:1:A>
+One of the uh <,> design that is used and is very effective is a deep shaft process whereby by using a depth of uh as as high as fifty meters the solubilization of oxygen is higher <,,> 
+ 
+<ICE-PHI:S2A-042#30:1:A>
+Now the aerobic treatment or as it is called the bio methanation process can have the traditional biogas systems
+ 
+<ICE-PHI:S2A-042#31:1:A>
+The example in particular here are those from uh China
+ 
+<ICE-PHI:S2A-042#32:1:A>
+And then the different modifications you can see from the batch in a similar manner the development follows that of the activated sludge process
+ 
+<ICE-PHI:S2A-042#33:1:A>
+First you can have uh from uh <,,> from the batch to the fed-batch to continue a system stirred and complete flow
+ 
+<ICE-PHI:S2A-042#34:1:A>
+Now uh also the the same uh principle in activated sludge is the retention or the recycling of microorganisms
+ 
+<ICE-PHI:S2A-042#35:1:A>
+So in this case you can have more efficient digestion by collecting the sludge or the microorganisms and recycling them
+ 
+<ICE-PHI:S2A-042#36:1:A>
+And so on up to a modification of the sedimentation tank called the clarigester
+ 
+<ICE-PHI:S2A-042#37:1:A>
+Again with the fluidized bed and then the late the the in the seventies we have the uh high rate anaerobic filters such as the anaerobic filter you can have an up up flow where uh in these processes the microorganisms are retained by support materials can also have step processes
+ 
+<ICE-PHI:S2A-042#38:1:A>
+And of course for uh solid waste you can use landfill <,,> 
+ 
+<ICE-PHI:S2A-042#39:1:A>
+Now let us uh compare <.> ana </.> the aerobic and anaerobic treatment
+ 
+<ICE-PHI:S2A-042#40:1:A>
+The aerobic process <,> proceeds in the presence of oxygen and leads to the <.> mineral </.> mineralization of the organic matter into carbon dioxide and water
+ 
+<ICE-PHI:S2A-042#41:1:A>
+And some of these are used in the production of the sludge or the microorganisms while in the anaerobic process the organic matter is reduced to ethanol methane acetate and butanol
+ 
+<ICE-PHI:S2A-042#42:1:A>
+Because of the use of aerators the aerobic process is energy intensive
+ 
+<ICE-PHI:S2A-042#43:1:A>
+Less energy is used by the anaerobic process and in the and it also produces extra energy
+ 
+<ICE-PHI:S2A-042#44:1:A>
+The metabolism in aerobic process is faster so that microorganisms multiply very well
+ 
+<ICE-PHI:S2A-042#45:1:A>
+In anaerobic uh fermentation microorganisms grow slowly
+ 
+<ICE-PHI:S2A-042#46:1:A>
+Because of this we have faster reaction rate in aerobic processes while slower in anaerobic process
+ 
+<ICE-PHI:S2A-042#47:1:A>
+And this leads to shorter retention time in <.> a </.> aerobic processes usually uh eight hours and longer retention times in anaerobic process could be five to ten days
+ 
+<ICE-PHI:S2A-042#49:1:A>
+So while the energy uh <,> requirement is the major expense of the aerobic process the size of the anaerobic uh treatment plant is <.> lar </.> is uh larger <,,> 
+ 
+<ICE-PHI:S2A-042#50:1:A>
+Now the next consideration is the use of uh <,,> uh especially cultured microorganisms
+ 
+<ICE-PHI:S2A-042#51:1:A>
+The activated sludge process or even uh <,> the anaerobic digestion uses naturally occurring microorganisms
+ 
+<ICE-PHI:S2A-042#52:1:A>
+Now we can speed up the process by using cultured microorganisms
+ 
+<ICE-PHI:S2A-042#53:1:A>
+We know that the fermentation process is due to enzymes
+ 
+<ICE-PHI:S2A-042#54:1:A>
+And if we can employ enzymes <,> from uh efficient producers then we can speed up the reaction
+ 
+<ICE-PHI:S2A-042#55:1:A>
+Usually we can get as a result faster reaction <,> higher loading rate formation of sludge is rest
+ 
+<ICE-PHI:S2A-042#56:1:A>
+And sometimes uh some of these microorganisms are facultative so that you can cut off the oxygen supply some hours in a day for energy savings
+ 
+<ICE-PHI:S2A-042#57:1:A>
+Now these microorganisms are available commercially <,,> 
+ 
+<ICE-PHI:S2A-042#58:1:A>
+And this is an example of a commercial product used for treating uh for instance phenols uh phenol containing wastes biphenols waste containing organic solvent residues aromatic hydrocarbon <,> 
+ 
+<ICE-PHI:S2A-042#59:1:A>
+So when the for the activated sludge process <,> the problem is when the wastes contain poorly degradable substances or synobiotics and other toxic compounds <,> some uhm microorganisms can treat this
+ 
+<ICE-PHI:S2A-042#60:1:A>
+For instance pesticides uh chloroaromatics or even oil uh containing uh waters can be treated <,> 
+ 
+<ICE-PHI:S2A-042#61:1:A>
+Now the <,> by using these especially cultured microorganisms we can improve the performance of activated sludge <,> process but then we still need to provide the energy for aeration
+ 
+<ICE-PHI:S2A-042#62:1:A>
+Now if we are able to use anaerobic processes then uh the expense for aeration will be eliminated
+ 
+<ICE-PHI:S2A-042#63:1:A>
+And actually the anaerobic fermentation should have been the vogue of the researches in nineteen eighties
+ 
+<ICE-PHI:S2A-042#64:1:A>
+However it was overshadowed by the development in genetic engineering where aerobic processes for uh <,> some uh biochemical substances have been used
+ 
+<ICE-PHI:S2A-042#65:1:A>
+So this is to the application
+ 
+<ICE-PHI:S2A-042#66:1:A>
+So it is expected that in the future beginning in the nineties the use of the of anaerobic fermentation will be the more efficient process
+ 
+<ICE-PHI:S2A-042#67:1:A>
+Now I will present some of my researches that is directly related to this and uh in the future I have already have plans to go into this uh research that is anaerobic fermentation
+ 
+<ICE-PHI:S2A-042#68:1:A>
+For instance in production of acetic acid this is done by uh fermentation or uh the oxidation of ethanol
+ 
+<ICE-PHI:S2A-042#69:1:A>
+We know that in biogas production there are microorganisms or bacteria that produce acetic acid
+ 
+<ICE-PHI:S2A-042#70:1:A>
+But of course the problem is how <,> to speed up the growth of these anaerobic microorganisms
+ 
+<ICE-PHI:S2A-042#71:1:A>
+Now I will present a case study on the treatment of waste waters high in phenol content
+ 
+<ICE-PHI:S2A-042#72:1:A>
+As I have said the microorganisms are available commercially
+ 
+<ICE-PHI:S2A-042#73:1:A>
+However the technology to utilize these microorganisms is either not available or they are very expensive
+ 
+<ICE-PHI:S2A-042#74:1:A>
+So even if you buy these microorganisms which cost around one thousand pesos per kilo <,> you will not be able to use them <,> 
+ 
+<ICE-PHI:S2A-042#75:1:A>
+Now uh <,,> there is a company in the Philippines that produces <?> two-four D </?> two-four dichlorophenoxy acetic acid as a herbicide
+ 
+<ICE-PHI:S2A-042#76:1:A>
+This is the structure <,,> 
+ 
+<ICE-PHI:S2A-042#77:1:A>
+This is the manufacturing process
+ 
+<ICE-PHI:S2A-042#78:1:A>
+Uh <?> two-four D </?> is produced from uh the reaction of <,,> two-four dichlorophenol and uh sodium the sodium salt of uh chloroacetic acid
+ 
+<ICE-PHI:S2A-042#79:1:A>
+And in the process this is neutralized with sulfuric acid
+ 
+<ICE-PHI:S2A-042#80:1:A>
+And this is where most of the pollutants come from the high acidic high acidity uh between one and two P H and the unreacted two-four dichlorophenol and the chlorophenoxy acetic acid
+ 
+<ICE-PHI:S2A-042#82:1:A>
+Now uh in this process this rest which is just the modification of the <?> two-four D </?> acid produces little or no waste water at all
+ 
+<ICE-PHI:S2A-042#83:1:A>
+So the problem of the plant is really in this portion
+ 
+<ICE-PHI:S2A-042#84:1:A>
+This is the waste water characteristic and uh you can see the C O D up to fifteen thousand which is uh non-biodegradable very difficult to degrade
+ 
+<ICE-PHI:S2A-042#85:1:A>
+The phenol as high as five hundred parts per million <,> very high uh I mean very low P H
+ 
+<ICE-PHI:S2A-042#86:1:A>
+And uh these are the major pollutant <,> 
+ 
+<ICE-PHI:S2A-042#87:1:A>
+Now I did some uh experiments in batch processes and uh these are the characteristics of the microorganisms available commercially
+ 
+<ICE-PHI:S2A-042#88:1:A>
+You have to supply it with fertilizer ratio ten to one for every one hundred parts of C O D <,,> 
+ 
+<ICE-PHI:S2A-042#89:1:A>
+Now this is some of the results obtained up as high as uh ninety-eight percent reduction of phenol
+ 
+<ICE-PHI:S2A-042#91:1:A>
+But however you can note the length of time requires about four days
+ 
+<ICE-PHI:S2A-042#92:1:A>
+Of course this depends on also on the amount of microorganisms so we can go maybe twenty-four between twenty-four and thirty-six hours <,> 
+ 
+<ICE-PHI:S2A-042#94:1:A>
+The C O D is reduced up to ninety percent
+ 
+<ICE-PHI:S2A-042#95:1:A>
+Now from the result of these batch studies <,,> we came out with a process similar to the activated sludge uh process where we have the we neutralize it first aerate then clarify and return the sludge
+ 
+<ICE-PHI:S2A-042#96:1:A>
+However we encountered problem <,> 
+ 
+<ICE-PHI:S2A-042#97:1:A>
+That is due to the size small size of the microorganisms it will not settle it will be difficult to recycle them
+ 
+<ICE-PHI:S2A-042#98:1:A>
+It will just overflow with the effluent
+ 
+<ICE-PHI:S2A-042#99:1:A>
+Now we we found the solution that is to simulate the activated sludge process
+ 
+<ICE-PHI:S2A-042#100:1:A>
+Or another uh alternative is to condition the activated sludge to high phenol contents
+ 
+<ICE-PHI:S2A-042#101:1:A>
+But then we have to dilute the waste water by six hundred times <,> 
+ 
+<ICE-PHI:S2A-042#102:1:A>
+The solution used is that we can use activated carbon powdered or silica gel to use as a carrier or support material of the microorganisms
+ 
+<ICE-PHI:S2A-042#103:1:A>
+Now the <unclear> 1 word </unclear> are provided so that they are easily fluidized by introduction of air
+ 
+<ICE-PHI:S2A-042#104:1:A>
+And then we can recycle this carrier
+ 
+<ICE-PHI:S2A-042#105:1:A>
+And some is disposed or reprocessed
+ 
+<ICE-PHI:S2A-042#106:1:A>
+We did this by <,,> designing this type of aerator which is essentially a plug-flow uh starting feed and this uh providing a clarifier which will recycle part of the microorganisms
+ 
+<ICE-PHI:S2A-042#107:1:A>
+And then continue into the third uh compartment going to the effluent
+ 
+<ICE-PHI:S2A-042#108:1:A>
+Now this is uh the uh plan view neutralized waste water goes in
+ 
+<ICE-PHI:S2A-042#109:1:A>
+These are the aerators clarified here and then the sludge is returned
+ 
+<ICE-PHI:S2A-042#110:1:A>
+While uh some goes on to the next stage finally clarified and the effluent uh polished
+ 
+<ICE-PHI:S2A-042#111:1:A>
+We were able to get the final uh <,> phenol content to as low as one or point five P P M <,,> 
+ 
+<ICE-PHI:S2A-042#112:1:A>
+This is uh the result with uh using support material and that is recycling
+ 
+<ICE-PHI:S2A-042#113:1:A>
+We got uh almost similar result
+ 
+<ICE-PHI:S2A-042#114:1:A>
+In this manner we can retain the microorganism and recycle them <,,> 
+ 
+<ICE-PHI:S2A-042#115:1:A>
+We were not able to uh construct the original set up plan but in this case we had three containers or three stages with uh recycling in each stage <,,> 
+ 
+<ICE-PHI:S2A-042#116:1:A>
+You can see foam uh while aeration and in fermentation you can tell the microorganisms are happy if foam is forming
+ 
+<ICE-PHI:S2A-042#117:1:A>
+Now we had this uh first the design parameters we used
+ 
+<ICE-PHI:S2A-042#118:1:A>
+This is now for the treatment of the plant usually we we estimated this using the parameters for activated sludge because uh for the process the we have no basis yet for the design
+ 
+<ICE-PHI:S2A-042#119:1:A>
+And according to this estimate <,> about uh one million over one million or at the cost now it could be two million 
+
+ </I> 

@@ -1,0 +1,411 @@
+<I> 
+
+ <$A> <#1:1:A>
+Who is the assisting
+
+ <$B> <#2:1:B>
+The assisting is uh they 're with the group of Congressman Ta&ntilde;ada <indig> e </indig> 
+
+ <$A> <#3:1:A>
+Congressman Ta&ntilde;ada will be the assisting
+
+ <$B> <#4:1:B>
+That 's correct Mr Chief Justice
+
+ <$A> <#5:1:A>
+And for the defense
+
+ <$C> <#6:1:C>
+Mr Chief Justice uh the examining counsel on the part of defense would be Atty Estelito Mendoza
+
+ <$A> <#7:1:A>
+<{> <[> And the assisting </[> 
+
+ <$C> <#8:1:C>
+<[> And the assisting </[> </{> counsel will be this representation
+
+ <$A> <#9:1:A>
+Atty Flaminiano
+ <#10:1:A>
+Thank you
+ <#11:1:A>
+Administer the uh oath on the witness Mr Secretary
+ <#12:1:A>
+Let her rise
+
+ <$B> <#13:1:B>
+Mr Chief Justice
+
+ <$A> <#14:1:A>
+Yes
+
+ <$B> <#15:1:B>
+Uh a slight correction uh the examining counsel will be Mario Lusa Bautista and the uh assisting uh examining counsel is uh Alexander <.> Pob </.> Poblador both of whom have made their entry of appearance
+
+ <$A> <#16:1:A>
+Who who was that the name again
+
+ <$B> <#17:1:B>
+Alexander Poblador Your Honor
+
+ <$A> <#18:1:A>
+Alexander Poblador
+ <#19:1:A>
+He also entered his appearance
+
+ <$B> <#20:1:B>
+Yes Mr Chief Justice
+ <#21:1:B>
+There 's an entry of appearance for the two lawyers
+
+ <$A> <#22:1:A>
+With authority from the panel of prosecutors
+
+ <$B> <#23:1:B>
+That 's correct Mr Chief Justice
+
+ <$A> <#24:1:A>
+Has the oath been administered already
+
+ <$D> <#25:1:D>
+Not yet
+
+ <$A> <#26:1:A>
+Yes administer the oath now
+
+ <$D> <#27:1:D>
+Please raise your right hand and answer me
+ <#28:1:D>
+<X> You Clarissa Ocampo do swear that the evidence you shall give in the case now pending between the Philippines and Joseph Ejercito Estrada President of the Philippines shall be the truth the whole truth and nothing but the truth so help you God </X> 
+
+ <$A> <#29:1:A>
+You may now take your seat uh Madame Witness <,> 
+ <#30:1:A>
+Atty Bautista you may now proceed to qualify your witness
+
+ <$C> <#31:1:C>
+Mr Chief Justice
+
+ <$A> <#32:1:A>
+The Honorable uh Judge uh Atty Flaminiano
+
+ <$C> <#33:1:C>
+May we respectfully reserve our right to uh object to the continued appearance of private prosecutors in this case
+
+ <$A> <#34:1:A>
+That 's that remains uh on record
+
+ <$C> <#35:1:C>
+Yes
+
+ <$A> <#36:1:A>
+That was uh clearly understood before that it is always without prejudice to your objection to the appearance of private prosecutors in this proceeding
+
+ <$C> <#37:1:C>
+Thank you Mr Chief Justice
+
+ <$E> <#38:1:E>
+With your permission Your Honor
+
+ <$A> <#39:1:A>
+You may proceed
+
+ <$E> <#40:1:E>
+Good Afternoon Your Honors
+ <#41:1:E>
+This witness is being presented to prove that the President of the Republic of the Philippines Joseph Ejercito Estrada opened and maintained and still maintains accounts with Equitable P C I Bank under and using the name of Jose Velarde <,> 
+ <#42:1:E>
+May I proceed Your Honor
+
+ <$A> <#43:1:A>
+You were given permission to proceed already
+
+ <$E> <#44:1:E>
+Thank you
+ <#45:1:E>
+Ms Witness can you give us your personal circumstances
+
+ <$F> <#46:1:F>
+I am Clarissa Emerita Gray Ocampo married forty-five years old
+ <#47:1:F>
+My office address is at the fifteenth floor of Equitable P C I Bank Makati Avenue Makati City
+
+ <$E> <#48:1:E>
+How long have you been with Equitable P C I Bank
+
+ <$F> <#49:1:F>
+I have been with the bank for nineteen years but I started off with the ex-P C I Bank
+
+ <$E> <#50:1:E>
+And Mrs Ocampo what is your present position at Equitable P C I Bank
+
+ <$F> <#51:1:F>
+I am Senior Vice-President and Trust Officer of the Bank
+ <#52:1:F>
+I uh as Trust Officer I am a member of the Trust Committee
+ <#53:1:F>
+I am a member of the Management Committee of the Bank
+ <#54:1:F>
+I am a member of the Asset Liability Committee Core Group of the bank and a member of the Retirement Committee of the bank
+
+ <$E> <#55:1:E>
+And since when have you been the Trust Officer of Equitable P C I Bank
+
+ <$F> <#56:1:F>
+I assumed the O O I C status in August of nineteen ninety-nine and on October one nineteen ninety-nine I was appointed by the Board of Directors of Equitable P C I Bank to be the Trust Officer of the bank
+
+ <$E> <#58:1:E>
+Can you please tell us Mrs Ocampo what are your basic duties as the Trust Officer of the bank
+
+ <$F> <#59:1:F>
+Basically as Trust Officer I handle the administration management and overall operations
+ <#60:1:F>
+I oversee the operations of the trust and fiduciary business including investment management arrangements of the bank
+
+ <$E> <#61:1:E>
+Do you remember where you were in the early evening of February three two thousand
+
+ <$F> <#62:1:F>
+Uh on February three two thousand I at about six o 'clock six thirty p m I was at the Anvil Restaurant which is uh at the Fifth Floor of Equitable P C I Bank Tower One
+
+ <$E> <#63:1:E>
+And what were you doing at the Anvil Restaurant at around six o 'clock of February three year two thousand
+
+ <$F> <#64:1:F>
+I was attending a cocktail party in honor of our former Chairman George L Go
+
+ <$E> <#65:1:E>
+And who were at this party Mrs Ocampo
+
+ <$F> <#66:1:F>
+Uhm senior officers of the bank uh from the head office and some guests the senior officers ranking from assistant vice-president and up
+
+ <$E> <#67:1:E>
+At this party did you get to meet a person by the name of Atty Fernando Chua
+
+ <$F> <#68:1:F>
+Yes Sir
+
+ <$E> <#69:1:E>
+How did you get to meet Atty Fernando Chua
+
+ <$F> <#70:1:F>
+Mr Go called me uhm uhm and introduced me to Atty Fernando Chua
+
+ <$E> <#71:1:E>
+And as introduced to you by Mr Go who is Atty Fernando Chua
+
+ <$F> <#72:1:F>
+Atty Fernando Chua according to <.> Mis </.> Mr Go represents a certain client of the bank who wants to uh lend his personal funds to a corporation and wants to use the bank uh for assistance
+
+ <$E> <#73:1:E>
+Was the sum of the loan mentioned
+
+ <$F> <#74:1:F>
+Yes sir
+
+ <$E> <#75:1:E>
+How much
+
+ <$F> <#76:1:F>
+Five hundred million pesos
+
+ <$E> <#77:1:E>
+And the proposed borrower was the name mentioned
+
+ <$C> <#78:1:C>
+Mr Chief Justice at this juncture we have to interpose a vigorous objection to these uh questions because they are not covered by any of the Articles of Impeachment
+ <#79:1:C>
+They are objected to for being immaterial and irrelevant Mr Chief Justice
+
+ <$A> <#80:1:A>
+What 's the response of counsel for the prosecution
+
+ <$B> <#81:1:B>
+Mr Chief Justice I think that has been ruled upon by the
+
+ <$A> <#82:1:A>
+Yes I I beg your pardon Your Honor
+
+ <$B> <#83:1:B>
+I think Mr Chief Justice
+
+ <$A> <#84:1:A>
+Now we have agreed already on who will be the examining counsel
+
+ <$B> <#85:1:B>
+Oh no I thought that the
+
+ <$A> <#86:1:A>
+And the assisting examining counsel
+
+ <$B> <#87:1:B>
+I thought that it has something to do with the articles
+
+ <$A> <#88:1:A>
+I think it should be the examining counsel who must respond pursuant to the agreement
+
+ <$E> <#89:1:E>
+I respectfully disagree Your Honor
+ <#90:1:E>
+First of all the evidence that will be presented through Mrs Ocampo as I said in the formal offer will show that the President and Jeso Jose Velarde are the same
+ <#91:1:E>
+The amounts that are involved in the accounts are very very substantial far more than the declaration of assets and liabilities which were submitted by the President
+ <#92:1:E>
+We submit Your Honor that by showing that the sums involved in these accounts are very large <.> tha </.> that in itself is indicative that the President committed violations of the Anti-Graft Law
+ <#93:1:E>
+He has ill-gotten unexplained wealth and that is covered by Article two of the complaint
+
+ <$A> <#94:1:A>
+Atty Flaminiano
+
+ <$C> <#95:1:C>
+Mr Chief Justice <,> the charge in Article two of the Articles of Impeachment reads as follows <quote> President Joseph E Estrada violated the Constitution and stands guilty of graft and corruption when he directly or indirectly requested or received for his personal benefit one hundred thirty million pesos out of the two hundred million released by Secretary Benjamin Diokno of the Department of Budget and Management allocated under Republic Act seventy-one seventy-one in violation of Section three C of R A three zero one nine as may be seen from the affidavit of Luis C Singson Provincial Governor of Ilocos Sur dated twenty-five September two thousand Annex B hereof </quote> 
+ <#96:1:C>
+Now the next paragraph reads <quote> President Joseph E Estrada violated the Constitution and stands guilty of graft and corruption when he participated directly in the real estate business through a family-controlled corporation which constructed thirty-six town houses in Vermont Park Executive Village Antipolo City as shown in the P C I J in the article on President Estrada 's family and financial interest
+ <#97:1:C>
+<X> He also violated the Anti-Graft Law he is sworn to uphold
+ <#98:1:C>
+He filed his Statement of Assets and Liabilities for the year nineteen ninety-nine stating therein that he and his wife and children have business interests in only the three corporations
+ <#99:1:C>
+The President by that sworn statement also committed perjury and the offense of unexplained wealth because records show that he and his his wife and mistresses and their children have other interests in other companies outside of the three firms listed in the Statement of Assets and Liabilities Annex E hereof </X> </quote> 
+ <#100:1:C>
+There is nothing in this charge under Article two of the Articles of Impeachment which mentions this so-called five hundred million peso transaction Your Honor
+
+ <$A> <#101:1:A>
+And for the just for the guidance of Atty Bautista
+
+ <$E> <#102:1:E>
+Yes Your Honor
+
+ <$A> <#103:1:A>
+Under the preliminary conference order on uh the issues agreed upon by the parties
+ <#104:1:A>
+The parties agreed that insofar as Article two of the Articles of Impeachment is concerned the only issue is this whether on the basis of the facts alleged therein the President could be guilty of graft and corruption
+ <#105:1:A>
+How would you be able to relate that kind of testimony to the agreement as to the issue involved
+
+ <$E> <#106:1:E>
+As I said Your Honor the complaint already alleges the ultimate facts constituting the offense
+ <#107:1:E>
+The statement here <quote> He also violated the Anti-Graft Law he is sworn to uphold </quote> 
+ <#108:1:E>
+The fact that five hundred million pesos will be presented in evidence today as belonging to the President among other large sums as I earlier mentioned
+
+ <$A> <#109:1:A>
+The the the question of the uh Presiding Officer is uh whether or not uh that kind of evidence that you seek to introduce now would really relate to what the parties had agreed as the issue under Article two and I repeat whether on the basis of the facts alleged therein the President could be guilty of graft and corruption
+
+ <$E> <#110:1:E>
+Most definitely Your Honor
+
+ <$C> <#111:1:C>
+Mr Chief Justice
+
+ <$A> <#112:1:A>
+Atty Flaminiano
+
+ <$C> <#113:1:C>
+There is an allegation that uh there was a transaction involving five hundred million pesos
+ <#114:1:C>
+Now there is no allegation of an <.> ultifat </.> ultimate fact regarding this five hundred million pesos Your Honor
+ <#115:1:C>
+Even if we read the Articles of Impeachment several times as we have done before we cannot find any specific allegation that will support the conclusion that uh this five hundred million pesos is part of what has been alleged in the Articles of Impeachment
+
+ <$E> <#116:1:E>
+We <{> <[> submit </[> 
+
+ <$C> <#117:1:C>
+<[> It speaks </[> </{> of five hundred million pesos in cash whereas in these Articles of Impeachment Your Honor the allegation is that <,> <quote> the President his wife and mistresses have other assets in other companies outside of the three firms listed in the uh Statement of Assets and Liabilities </quote> 
+ <#118:1:C>
+That definitely Your Honor is outside the scope of these allegations in these Articles of Impeachment
+
+ <$E> <#119:1:E>
+Your Honor please it is settled that allegations which are evidentiary in nature need not be alleged as ultimate facts in the complaint
+
+ <$C> <#120:1:C>
+In the
+
+ <$E> <#121:1:E>
+In the matter of
+
+ <$C> <#122:1:C>
+I 'm sorry uhm
+
+ <$E> <#123:1:E>
+Five hundred million pesos being owned by the President is not an ultimate fact
+ <#124:1:E>
+It is an evidentiary fact which will tend to prove that the President violated the Anti-Graft Law
+ <#125:1:E>
+The ultimate fact that is material is the one I just read <mention> he also violated the Anti-Graft Law </mention> 
+ <#127:1:E>
+How did he violate the Anti-Graft Law Mrs Ocampo will tell us
+
+ <$C> <#128:1:C>
+If Your Honor please the allegation that the President violated the Anti-Graft and Corrupt Practices Act is a conclusion of law 
+ <#129:1:C>
+It is not a statement of an ultimate fact
+
+ <$E> <#130:1:E>
+I disagree Your Honor
+
+ <$A> <#131:1:A>
+Uh uh the Chair would rule that uh while it may be a conclusion of law it is precisely a conclusion which could be developed only out of proof by facts
+ <#132:1:A>
+But the only issue really is how could you relate that to the ultimate facts alleged under Article two
+ <#133:1:A>
+Unless you can satisfy the mind of the Presiding Officer on a particular relation between that ultimate fact and what you claim to be evidentiary on the basis of what the parties had agreed as the sole issue under Article two then I don't think uh the Presiding Officer may be able to clearly clarify its own position on the matter <,> 
+ <#134:1:A>
+In short show to the court the relationship <{1> <[1> <,> </[1> by by stating by by showing exactly facts which we may be able to elicit from the witness 
+ <#> If at all <{2> <[2> <,> </[2> it has some kind of materiality to the issue agreed upon after the preliminary conference and during as a matter of fact <{3> <[3> that conference </[3> 
+
+ <$E> <#135:1:E>
+<[1> Thank you Your Honor </[1> </{1> 
+ <#137:1:E>
+<[2> Yes </[2> </{2> 
+
+ <$C> <#139:1:C>
+<[3> Mr Chief Justice </[3> </{3> may I kindly point out that apparently the private prosecutor was not aware of what has been agreed upon previously
+ <#140:1:C>
+He might be completely unaware of the parameters of what has been agreed upon in order to expedite the trial of these cases where the issues have been specifically delimited in the pre-trial conferences Mr Chief Justice
+
+ <$A> <#141:1:A>
+One one simple question in relation to that uh is the examining was the examining prosecutor present during the preliminary conference
+
+ <$E> <#142:1:E>
+Your Honor please before yesterday I was a passive spectator to this I haven't had sleep for twenty-four hours
+ <#143:1:E>
+I definitely have no information or knowledge of what was agreed upon
+
+ <$A> <#144:1:A>
+Of what has been agreed upon <{> <[> <,> </[> during preliminary conference
+
+ <$E> <#145:1:E>
+<[> Yes Your Honor </[> </{> 
+ <#147:1:E>
+Yes and uh
+
+ <$A> <#148:1:A>
+Would would you need time to to confer with uh the panel of prosecutors
+ <#149:1:A>
+Because indeed uh indeed parties should be bound by what they have agreed upon unless you could really justify how you would proceed on this witness to establish by evidence its relationship to the issue agreed upon
+
+ <$E> <#150:1:E>
+We will try to prove Your Honor through the witness that the President had accumulated unexplained wealth and this is indicated with the amounts in the accounts Your Honor
+
+ <$A> <#151:1:A>
+But uh there had been uh the the defense had read into the record the allegations precisely under Article two
+ <#152:1:A>
+So if uh were you aware of uh the allegations under Article two
+
+ <$E> <#153:1:E>
+Are you referring to the allegations on page five
+
+ <$A> <#154:1:A>
+Yes the allegations of ultimate facts under Article two <{> <[> <,> </[> so you could be properly guided
+
+ <$E> <#155:1:E>
+<[> Yes Your Honor </[> </{> 
+ <#157:1:E>
+Yes Your Honor 
+
+ </I> 

@@ -1,0 +1,657 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-035#1:1:A>
+Good evening
+ 
+<ICE-PHI:S1B-035#2:1:A>
+Welcome to <mention> Points of View </mention> 
+ 
+<ICE-PHI:S1B-035#3:1:A>
+I 'm Teddy Locsin Junior
+
+ <$B> 
+<ICE-PHI:S1B-035#4:1:B>
+And I 'm Cher Calvin
+
+ <$C> 
+<ICE-PHI:S1B-035#5:1:C>
+I 'm Jessica Zafra
+ 
+<ICE-PHI:S1B-035#6:1:C>
+Tonight 's episode was inspired by e-mail from one of our viewers Sari Monteclaro who suggested that we tackle <.> comm </.> uh consumer rights
+ 
+<ICE-PHI:S1B-035#7:1:C>
+At some point we all have experienced bad service or bought shabbily made products
+ 
+<ICE-PHI:S1B-035#8:1:C>
+But how many times have we ever asserted our consumer rights
+ 
+<ICE-PHI:S1B-035#9:1:C>
+I know I do
+ 
+<ICE-PHI:S1B-035#10:1:C>
+And for this I 'm you know referred to as some kind of Bella Flores complaining all the time
+ 
+<ICE-PHI:S1B-035#11:1:C>
+And if the stories are true then I have ingested spit from every single waiter in Metro Manila whose service I 've complained about
+ 
+<ICE-PHI:S1B-035#12:1:C>
+Now do we have consumer rights in the Philippines
+ 
+<ICE-PHI:S1B-035#13:1:C>
+How many of us are aware of this
+ 
+<ICE-PHI:S1B-035#14:1:C>
+And do we actually assert these rights
+ 
+<ICE-PHI:S1B-035#15:1:C>
+And also given that <.> mo </.> most of the employees in stores and in restaurants aren't real employees but casual employees who expect to lose their jobs within the space of a few months have we got a right to expect good service
+
+ <$A> 
+<ICE-PHI:S1B-035#16:1:A>
+Well uhm I don't know if we have really a law uhm defining consumer rights but I do know that just on the Law of Contracts if you don't get what you pay for you should theoretically be able to
+
+ <$C> 
+<ICE-PHI:S1B-035#17:1:C>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1B-035#18:1:A>
+Get back your money
+
+ <$B&$C> 
+<ICE-PHI:S1B-035#19:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1B-035#20:1:A>
+Or or or change it for something better something that suits more the object that you wanted to have
+
+ <$B&$C> 
+<ICE-PHI:S1B-035#21:1:B>
+Uh-hmmmh
+
+ <$A> 
+<ICE-PHI:S1B-035#22:1:A>
+But uhm I don't know my own experience is I never complain
+ 
+<ICE-PHI:S1B-035#23:1:A>
+The people like me for that and I guess that 's the price I pay living with the satisfaction and keeping it bottled up <{> <[> inside </[> 
+
+ <$C> 
+<ICE-PHI:S1B-035#24:1:C>
+<[> Maybe </[> </{> complaining is more of a girl thing <{> <[> 'cause I </[> 
+
+ <$B> 
+<ICE-PHI:S1B-035#25:1:B>
+<[> I definitely complain </[> </{> a lot <{> <[> you know </[> 
+
+ <$C> 
+<ICE-PHI:S1B-035#26:1:C>
+<[> Uh uhm </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-035#27:1:B>
+But I I try <&> clears throat </&> I try not to complain too much at the restaurants you know whatever but because of ingesting other people 's spit and so forth you know <&> speaker C laughs </&> 
+ 
+<ICE-PHI:S1B-035#28:1:B>
+I 'll wait until you know but then then we also have a guest who was saying earlier when we were uh getting ready for the show that he was he 's found guest uh guests in his restaurant the customers in his restaurant that will complain after you know their eating so I guess I shouldn't do that either <{> <[> right </[> 
+
+ <$C> 
+<ICE-PHI:S1B-035#29:1:C>
+<[> Uh uhm </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-035#30:1:B>
+Uhm but I I don't know
+ 
+<ICE-PHI:S1B-035#31:1:B>
+I think that I I think that as a customer we do especially in restaurants have <.> def </.> definitely deserve the best kind of service that you can get
+ 
+<ICE-PHI:S1B-035#32:1:B>
+I mean if like my plate is done it should be removed right away
+ 
+<ICE-PHI:S1B-035#33:1:B>
+You know those kind of things whether you are in a five star restaurant or in a two star restaurant
+
+ <$C> 
+<ICE-PHI:S1B-035#34:1:C>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1B-035#35:1:B>
+Those are like just things I I expect to happen right
+ 
+<ICE-PHI:S1B-035#36:1:B>
+And they don't and it 's kind of frustrating when you 're raising your hand up and no one is even paying attention to you at all and they 're all in the back making <indig> kuwento </indig> 
+
+ <$C> 
+<ICE-PHI:S1B-035#37:1:C>
+I know
+
+ <$B> 
+<ICE-PHI:S1B-035#38:1:B>
+You know that 's a little frustrating as well but then another thing that kind of also irks me is that there are a lot of uhm I 've got a lot to complain about <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1B-035#39:1:A>
+It 's really a girl thing <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1B-035#40:1:B>
+It really is a girl thing
+ 
+<ICE-PHI:S1B-035#41:1:B>
+Is that when you buy products and then they 're refurbished
+ 
+<ICE-PHI:S1B-035#42:1:B>
+You know what I mean you 'll go to like uhm whatever whatever place and buy like a cellphone or whatever and then you get something that you paid for uhm like it 's supposed to be made in Finland right
+ 
+<ICE-PHI:S1B-035#43:1:B>
+And then when you get home and and you really check it out or a couple of weeks later you you 're how come it 's broken already 
+ 
+<ICE-PHI:S1B-035#44:1:B>
+<{> <[> And </[> then you don't you can't do anything about it at all
+
+ <$C> 
+<ICE-PHI:S1B-035#45:1:C>
+<[> Uh uhm </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-035#46:1:B>
+There goes ten thousand <.> p </.> you know ten thousand pesos on a telephone for example <{> <[> right </[> 
+
+ <$C> 
+<ICE-PHI:S1B-035#47:1:C>
+<[> Uh uhm </[> </{> and October is Consumer Rights Month
+
+ <$B> 
+<ICE-PHI:S1B-035#48:1:B>
+Uh uhm
+
+ <$C> 
+<ICE-PHI:S1B-035#49:1:C>
+Which which brings us to uhm something I learned recently that there is no such thing as no return no exchange 
+
+ <$B> 
+<ICE-PHI:S1B-035#50:1:B>
+Right
+
+ <$C> 
+<ICE-PHI:S1B-035#51:1:C>
+Even in the Philippines and yet have you actually tried to exchange a product
+ 
+<ICE-PHI:S1B-035#52:1:C>
+The few times that I 've tried to exchange clothes that I 've bought everybody just just looks at me as if I 'm some kind of freak which I am but they have no right to look at me as if I were a freak <O> laughter </O> 
+ 
+<ICE-PHI:S1B-035#53:1:C>
+And then they 'll they 'll try to find something wrong with the product that they can blame on you so that they don't have to <.> re </.> to exchange it with <{> <[> anything </[> 
+
+ <$B> 
+<ICE-PHI:S1B-035#54:1:B>
+<[> Uh uhm </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1B-035#55:1:A>
+But I think you know the the worry is there is that if they give in to you word will get around and people will abuse but you know
+ 
+<ICE-PHI:S1B-035#56:1:A>
+Uhm uhm I mean I hate to make comparisons again but I think Americans are known to abuse
+ 
+<ICE-PHI:S1B-035#57:1:A>
+But they 've lived with that the system has accommodated it and the result is better service
+ 
+<ICE-PHI:S1B-035#58:1:A>
+They just gotta charge it to experience or raise their costs but uhm taking it back and substituting it for something better uhm has <.> ma </.> made shopping a joy there
+
+ <$B> 
+<ICE-PHI:S1B-035#59:1:B>
+Yeah
+ 
+<ICE-PHI:S1B-035#60:1:B>
+Oh that 's what I mean even when you buy gifts you know they 've got in in the States or whatever I was I just received the gift that I got like a receipt a <.> gif </.> a gift receipt if in case I didn't like the present <{> <[> I could go and it doesn't matter what the price </[> or anything because I won't know
+
+ <$C> 
+<ICE-PHI:S1B-035#61:1:C>
+<[> You can exchange it for something you like </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1B-035#62:1:A>
+But but there is one one area where we have this exchange policy that 's wedding gifts
+
+ <$C> 
+<ICE-PHI:S1B-035#63:1:C>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1B-035#64:1:A>
+Almost everywhere the gift is assumed it 'll go back to <{> <[> uh </[> the department store and exchanged for something else
+
+ <$C> 
+<ICE-PHI:S1B-035#65:1:C>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1B-035#67:1:C>
+Will they give you cash
+
+ <$A> 
+<ICE-PHI:S1B-035#68:1:A>
+I think they do
+ 
+<ICE-PHI:S1B-035#69:1:A>
+<{> <[> I think they give you gift certificates </[> 
+
+ <$B> 
+<ICE-PHI:S1B-035#70:1:B>
+<[> I think </[> </{> 
+
+ <$C> 
+<ICE-PHI:S1B-035#71:1:C>
+Well more of our complaints questions and suggestions about <.> con </.> consumer rights when we come back <&> commercial break </&> 
+
+ <$A> 
+<ICE-PHI:S1B-035#72:1:A>
+Now you can move goods faster electronically
+ 
+<ICE-PHI:S1B-035#73:1:A>
+You can buy stuff on the computer I guess <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-035#74:1:A>
+And uhm you think that the digital revolution the computer revolution has well made buying and selling so much better so much more convenient but has it really made the customer king
+ 
+<ICE-PHI:S1B-035#75:1:A>
+That 's the adage of department stores restaurants throughout the ages
+ 
+<ICE-PHI:S1B-035#76:1:A>
+Is the customer king now
+
+ <$C> 
+<ICE-PHI:S1B-035#77:1:C>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1B-035#78:1:B>
+Okay well let 's find out from our guests what they think if the customer is king or not
+ 
+<ICE-PHI:S1B-035#79:1:B>
+And joining us is Andrew Masigan and he 's the owner of <?> Struan and Tang 's </?> and he thinks that Filipinos are very vocal in their complaints and difficult to please
+ 
+<ICE-PHI:S1B-035#80:1:B>
+Also joining us is Deedee Sytangco
+ 
+<ICE-PHI:S1B-035#81:1:B>
+She 's a spokesperson of former President <.> Coraz </.> Corazon Aquino and writes for the <mention> Manila Bulletin </mention> 
+ 
+<ICE-PHI:S1B-035#82:1:B>
+And as a consumer she believes that uh the consumer is king and thus always right until proven wrong
+ 
+<ICE-PHI:S1B-035#83:1:B>
+Uhm also joining us is Maurice Orosa and he used you used to own a restaurant right
+ 
+<ICE-PHI:S1B-035#84:1:B>
+And he thinks that the consumer is oftentimes right but not always
+ 
+<ICE-PHI:S1B-035#85:1:B>
+Uh and then Allan Coronel director Studio twenty-three Creative Sales doesn't think that customers are always right
+ 
+<ICE-PHI:S1B-035#86:1:B>
+You guys kind of agree huh
+ 
+<ICE-PHI:S1B-035#87:1:B>
+Uhm but he doesn't want to be shortchanged for what he paid for
+ 
+<ICE-PHI:S1B-035#88:1:B>
+Okay welcome to the show
+
+ <$A> 
+<ICE-PHI:S1B-035#89:1:A>
+Okay I I heard that one of you had <O> stutter </O> one of your wives uh wife of one of you <O> laughter </O> had this experience with a caterpillar on the salad which goes to show just how fresh it was <O> laughter </O> 
+
+ <$C> 
+<ICE-PHI:S1B-035#90:1:C>
+Yikes
+
+ <$D> 
+<ICE-PHI:S1B-035#91:1:D>
+That was my wife
+ 
+<ICE-PHI:S1B-035#92:1:D>
+We were eating and she ordered uh Caesar 's salad
+ 
+<ICE-PHI:S1B-035#93:1:D>
+Caesar 's salad came in and my son goes Mom there 's something crawling 
+
+ <$B> 
+<ICE-PHI:S1B-035#94:1:B>
+Uh
+
+ <$D> 
+<ICE-PHI:S1B-035#95:1:D>
+It was green
+
+ <$A> 
+<ICE-PHI:S1B-035#96:1:A>
+It 's Caesar
+
+ <$D> 
+<ICE-PHI:S1B-035#97:1:D>
+It was a caterpillar
+ 
+<ICE-PHI:S1B-035#98:1:D>
+I guess it wasn't part of the sauce
+
+ <$B> 
+<ICE-PHI:S1B-035#99:1:B>
+Did you complain right away
+
+ <$D> 
+<ICE-PHI:S1B-035#100:1:D>
+We did
+
+ <$B> 
+<ICE-PHI:S1B-035#101:1:B>
+And then
+
+ <$D> 
+<ICE-PHI:S1B-035#102:1:D>
+They changed it
+
+ <$B> 
+<ICE-PHI:S1B-035#103:1:B>
+<&> referring to speaker E </&> But but you found out that in some of your customers have inserted things into their <{> <[> food </[> right
+
+ <$E> 
+<ICE-PHI:S1B-035#104:1:E>
+<[> Well yeah </[> </{> 
+ 
+<ICE-PHI:S1B-035#106:1:E>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1B-035#107:1:B>
+Like glass
+
+ <$A> 
+<ICE-PHI:S1B-035#108:1:A>
+<{> <[> Do they really do it </[> 
+
+ <$E> 
+<ICE-PHI:S1B-035#109:1:E>
+<[> Well it does happen </[> </{> 
+ 
+<ICE-PHI:S1B-035#110:1:E>
+It does happen and uhm the thing is uh there is some malicious intent to extort money
+
+ <$C> 
+<ICE-PHI:S1B-035#111:1:C>
+Uh-huh
+
+ <$E> 
+<ICE-PHI:S1B-035#112:1:E>
+Uh if they do it intentionally
+ 
+<ICE-PHI:S1B-035#113:1:E>
+But uh going back to your case <&> referring to speaker D </&> if if it does happen uh like let 's say in <?> Struan and Tang 's </?> Tea Salon if uh not to say that it did happen but if it does happen uh the the first thing that the first thing to do is immediately to replace the product
+ 
+<ICE-PHI:S1B-035#114:1:E>
+And in our case we give the we give the item uh complimentary
+
+ <$B> 
+<ICE-PHI:S1B-035#115:1:B>
+You know what though
+ 
+<ICE-PHI:S1B-035#116:1:B>
+I 'd be kind of grossed out <{1> <[1> like </[1> already having eaten that uh Caesar 's salad <{2> <[2> and </[2> there was a <{3> <[3> caterpillar </[3> in it
+
+ <$E> 
+<ICE-PHI:S1B-035#117:1:E>
+<[1> Yeah </[1> </{1> 
+ 
+<ICE-PHI:S1B-035#118:1:E>
+<[2> True </[2> </{2> 
+ 
+<ICE-PHI:S1B-035#119:1:E>
+<[3> Yeah </[3> </{3> 
+
+ <$B> 
+<ICE-PHI:S1B-035#120:1:B>
+I mean <{1> <[1> what 's </[1> to say there isn't more caterpillars in <{2> <[2> that </[2> 
+
+ <$E> 
+<ICE-PHI:S1B-035#121:1:E>
+<[1> Yeah </[1> </{1> 
+
+ <$F> 
+<ICE-PHI:S1B-035#122:1:F>
+<[2> No </[2> </{2> but you see
+
+ <$E> 
+<ICE-PHI:S1B-035#123:1:E>
+True
+
+ <$B> 
+<ICE-PHI:S1B-035#124:1:B>
+Caesar 's salad
+
+ <$F> 
+<ICE-PHI:S1B-035#125:1:F>
+But you see Cher for a for a you know for for the client
+
+ <$B> 
+<ICE-PHI:S1B-035#126:1:B>
+Uh uhm
+
+ <$F> 
+<ICE-PHI:S1B-035#127:1:F>
+For the customer you know I may be I may be proven you know right that oh there 's something in my salad and all that but as long as the owner of the restaurant is pleasant and agreeable you know
+
+ <$A> 
+<ICE-PHI:S1B-035#128:1:A>
+<unclear> 2 words </unclear> 
+
+ <$F> 
+<ICE-PHI:S1B-035#129:1:F>
+<unclear> 3 words </unclear> like you <{> <[> know </[> 
+
+ <$A> 
+<ICE-PHI:S1B-035#130:1:A>
+<[> And </[> </{> says don't worry <O> laughter </O> we only have just one caterpillar you won't get more caterpillars <O> laughter </O> 
+
+ <$F> 
+<ICE-PHI:S1B-035#131:1:F>
+I mean if he 's not if he doesn't become disagreeable and say you 've eaten half your salad and how do I know if you 've brought in the caterpillar <foreign> etcetera etcetera </foreign> 
+
+ <$B> 
+<ICE-PHI:S1B-035#132:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1B-035#133:1:A>
+<unclear> 3 words </unclear> <O> laughter </O> 
+
+ <$F> 
+<ICE-PHI:S1B-035#134:1:F>
+You know I would not really you know as a customer I will not
+ 
+<ICE-PHI:S1B-035#135:1:F>
+But there are other instances when you 're returning a product to the department store and it 's clearly you know a lemon
+
+ <$E> 
+<ICE-PHI:S1B-035#136:1:E>
+Defective
+
+ <$F> 
+<ICE-PHI:S1B-035#137:1:F>
+Yeah defective and then they 'll say no <foreign> etcetera etcetera </foreign> 
+ 
+<ICE-PHI:S1B-035#138:1:F>
+Now that I which is what to my point I say that if you are a if you want to be a good uh if you want to have uh value for your money you must first know what are your rights
+
+ <$B> 
+<ICE-PHI:S1B-035#139:1:B>
+Uh uhm <{> <[> okay </[> 
+
+ <$F> 
+<ICE-PHI:S1B-035#140:1:F>
+<[> Because </[> </{> that 's consumer we 're all consumers
+ 
+<ICE-PHI:S1B-035#141:1:F>
+We must know what what is our responsibility and what is our right you know
+
+ <$B> 
+<ICE-PHI:S1B-035#142:1:B>
+Does that mean that that the <mention> No Exchange the No Exchange No Return </mention> is that is that really are they allowed to do that
+
+ <$F> 
+<ICE-PHI:S1B-035#143:1:F>
+I don't think so
+ 
+<ICE-PHI:S1B-035#144:1:F>
+I think the we have a Consumer Act but I don't think like I know some a very well known wine store that has a big big uh <{> <[> sign </[> you know <mention> Wines Purchased in This Deli You Cannot Return </mention> 
+
+ <$B> 
+<ICE-PHI:S1B-035#145:1:B>
+<[> Sign </[> </{> 
+ 
+<ICE-PHI:S1B-035#146:1:B>
+But you know <{> <[> what that 's wrong that 's wrong </[> because I mean you can get a whole case of wine
+
+ <$F> 
+<ICE-PHI:S1B-035#147:1:F>
+<[> That 's not right that 's not right </[> </{> 
+ 
+<ICE-PHI:S1B-035#148:1:F>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1B-035#149:1:B>
+That 's you know <{> <[> bad and sour </[> 
+
+ <$A> 
+<ICE-PHI:S1B-035#150:1:A>
+<[> Because you have to return at least </[> </{> I mean the bottle
+
+ <$F> 
+<ICE-PHI:S1B-035#151:1:F>
+Yeah the bottle yeah
+
+ <$A> 
+<ICE-PHI:S1B-035#152:1:A>
+And then give your opinion
+
+ <$F> 
+<ICE-PHI:S1B-035#153:1:F>
+And then <{> <[> don't come </[> 
+
+ <$A> 
+<ICE-PHI:S1B-035#154:1:A>
+<[> Then just think of </[> </{> 
+
+ <$F> 
+<ICE-PHI:S1B-035#155:1:F>
+Teddy Boy don't come back in six months at least I mean
+
+ <$A> 
+<ICE-PHI:S1B-035#156:1:A>
+Uh of course I mean
+
+ <$B> 
+<ICE-PHI:S1B-035#157:1:B>
+At least six months <O> laughter </O> 
+
+ <$F> 
+<ICE-PHI:S1B-035#158:1:F>
+You know don't I mean it 's really you drink it you know at night
+ 
+<ICE-PHI:S1B-035#159:1:F>
+You open the red wine and it 's really <indig> patis </indig> 
+ 
+<ICE-PHI:S1B-035#160:1:F>
+Then return it the next day <O> laughter </O> 
+
+ <$E> 
+<ICE-PHI:S1B-035#161:1:E>
+But I agree I agree with the
+
+ <$A> 
+<ICE-PHI:S1B-035#162:1:A>
+But I think you 'll find that people will complain will not complain about small things that don't cost much
+ 
+<ICE-PHI:S1B-035#163:1:A>
+Like like me I never complain but when it 's something really bigger
+
+ <$F> 
+<ICE-PHI:S1B-035#164:1:F>
+Oh yeah
+
+ <$A> 
+<ICE-PHI:S1B-035#165:1:A>
+Like an air conditioner
+
+ <$F> 
+<ICE-PHI:S1B-035#166:1:F>
+Oh well
+
+ <$A> 
+<ICE-PHI:S1B-035#167:1:A>
+That 's really when I 'm gonna say I 'm gonna burn down your store <O> laughter </O> 
+ 
+<ICE-PHI:S1B-035#168:1:A>
+<{> <[> Sure </[> I mean
+
+ <$E> 
+<ICE-PHI:S1B-035#169:1:E>
+<[> Teddy </[> </{> 
+ 
+<ICE-PHI:S1B-035#170:1:E>
+You get
+ 
+<ICE-PHI:S1B-035#171:1:E>
+My point is you you get what you pay for
+ 
+<ICE-PHI:S1B-035#172:1:E>
+Let 's say <{1> <[1> you go to </[1> a two star restaurant or you go to a place just <{2> <[2> right beside of </[2> <,> <{3> <[3> at the side of </[3> the road
+
+ <$A> 
+<ICE-PHI:S1B-035#173:1:A>
+<[1> You do </[1> </{1> 
+
+ <$F> 
+<ICE-PHI:S1B-035#174:1:F>
+<[2> You get what you </[2> </{2> 
+ 
+<ICE-PHI:S1B-035#175:1:F>
+<[3> You get two star food </[3> </{3> 
+
+ <$B> 
+<ICE-PHI:S1B-035#176:1:B>
+Oh well of course <{> <[> of course </[> yeah
+
+ <$E> 
+<ICE-PHI:S1B-035#177:1:E>
+<[> You know </[> </{> 
+ 
+<ICE-PHI:S1B-035#178:1:E>
+So you can't demand the best service or the best products in in such a place
+
+ <$F> 
+<ICE-PHI:S1B-035#179:1:F>
+No but Andrew
+
+ <$E> 
+<ICE-PHI:S1B-035#180:1:E>
+It 's relative to
+
+ <$F> 
+<ICE-PHI:S1B-035#181:1:F>
+If if you went to uh a fast food chain of course you won't expect five you know <{> <[> five </[> star service and all that
+
+ <$E> 
+<ICE-PHI:S1B-035#182:1:E>
+<[> Correct </[> </{> 
+ 
+<ICE-PHI:S1B-035#183:1:E>
+Yeah but you expect that the food is edible
+
+ </I> 

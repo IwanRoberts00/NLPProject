@@ -1,0 +1,562 @@
+<I>
+
+<ICE-PHI:W2B-040#1:1>
+<h> <bold> Online tourist 's guide to cyberspace </bold> </h>
+
+<ICE-PHI:W2B-040#2:1>
+<bold> Bobby Timonera </bold>
+
+<p> 
+<ICE-PHI:W2B-040#3:1>
+ONE day last week, Amy Lecciones asked her staff to do research on
+biodiversity for her organization 's upcoming seminar for environmental
+groups in Davao City next week. </p>
+
+<p> 
+<ICE-PHI:W2B-040#4:1>
+The seminar is just a few days away, but surprisingly, the
+staffers of the Philippine Sustainable Development Network, a
+non-governmental organization, did not look worried at all. </p>
+
+<p> 
+<ICE-PHI:W2B-040#5:1>
+<quote> &ldquo; Normally, research work on this takes weeks to
+months, &rdquo; </quote> said Amy, who is the PSDN 's program coordinator.
+</p>
+
+<p> 
+<ICE-PHI:W2B-040#6:1>
+She explained that to do so, she used to send some of her staff to
+the best libraries of Metro Manila to look for the latest journals and books
+on the topic.
+
+<ICE-PHI:W2B-040#7:1>
+Or, they made phone calls or sent fax messages to other organizations
+or academic institutions - - many of them abroad - - which are also
+interested in the topic. </p>
+
+<p> 
+<ICE-PHI:W2B-040#8:1>
+Today, the scenario has become very different ever since the PSDN
+got connected to the Internet over a year ago. </p>
+
+<p> 
+<ICE-PHI:W2B-040#9:1>
+Enter Vic Reyes, PSDN 's resident computer geek and Internet
+expert. </p>
+
+<p> 
+<ICE-PHI:W2B-040#10:1>
+Vic typed in the word <mention> &ldquo; biodiversity &rdquo;
+</mention> in his computer, which was already hooked up to the Internet.
+
+<ICE-PHI:W2B-040#11:1>
+A few seconds later, his computer screen showed several possible
+locations where to get the documents - - mostly from computerized libraries
+of universities and those of environmental groups and agencies. </p>
+
+<p> 
+<ICE-PHI:W2B-040#12:1>
+Vic browsed through the available documents and saved to his
+computer 's hard disk the ones his organization needed.
+
+<ICE-PHI:W2B-040#13:1>
+From one computer site in the United States, he then moved on to
+another location. </p>
+
+<p> 
+<ICE-PHI:W2B-040#14:1>
+Before I could count to five, he was already in another &ldquo;
+virtual library &rdquo; in Australia.
+
+<ICE-PHI:W2B-040#15:1>
+After getting some documents, he went to another site somewhere in
+Europe, then back to the US again. </p>
+
+<p> 
+<ICE-PHI:W2B-040#16:1>
+In short, he was virtually travelling around the world at what
+seemed like the speed of light, finding the documents he needed and bringing
+them right to his office as fast as Superman could do it. </p>
+
+<p> 
+<ICE-PHI:W2B-040#17:1>
+<quote> &ldquo; All in all, it took me less than 10 minutes to
+retrieve these five documents, &rdquo; </quote> Vic said, showing me the
+printed copies of the materials. </p>
+
+<p> 
+<ICE-PHI:W2B-040#18:1>
+Weeks or even months of work was done in just 10 minutes, with
+just a few keystrokes or clicks of the computer mouse. </p>
+
+<ICE-PHI:W2B-040#19:1>
+<h> <bold> What is the Internet? </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-040#20:1>
+The Internet goes by different names.
+
+<ICE-PHI:W2B-040#21:1>
+It is sometimes called simply as <mention> &ldquo; The net, &rdquo;
+</mention> or <mention> &ldquo; Information Superhighway, &rdquo; </mention>
+<mention> &ldquo; Cyberspace, &rdquo; </mention> <mention> <foreign> &ldquo;
+Infobahn &rdquo; </foreign> </mention> and many others.
+
+<ICE-PHI:W2B-040#22:1>
+But what really is the Internet? </p>
+
+<p> 
+<ICE-PHI:W2B-040#23:1>
+The book <mention> &ldquo; The Internet for Dummies &rdquo;
+</mention> by John R. Levine and Carol Baroudi defines it as <quote> &ldquo;
+the world 's largest computer network. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2B-040#24:1>
+Nowadays, computers are quite popular in Philippine offices,
+schools and in some homes.
+
+<ICE-PHI:W2B-040#25:1>
+When these computers are connected to each other so they could
+exchange information - - through cables, telephone wires, satellite links or
+through whatever medium - - they form what is called a <mention> &ldquo;
+network. &rdquo; </mention> </p>
+
+<p> 
+<ICE-PHI:W2B-040#26:1>
+Take the case of automated teller machines.
+
+<ICE-PHI:W2B-040#27:1>
+Because ATMs are actually computers that communicate with other
+machines - - even those in far away places - - a depositor can withdraw money
+in Zamboanga while on a business trip although his bank account is in Manila.
+</p>
+
+<p> 
+<ICE-PHI:W2B-040#28:1>
+Now, think of thousands of computer networks - - large and small,
+from all over the world - - combined all together, exchanging data with each
+other.
+
+<ICE-PHI:W2B-040#29:1>
+That is the Internet.
+
+<ICE-PHI:W2B-040#30:1>
+That 's why others call it <mention> <quote> &ldquo; the network of
+all networks &rdquo; </quote> </mention> or <mention> <quote> &ldquo; the
+mother of all networks. &rdquo; </quote> </mention> </p>
+
+<p> 
+<ICE-PHI:W2B-040#31:1>
+To date, there are about 40,000 of these networks with about 40
+million users the world over. </p>
+
+<ICE-PHI:W2B-040#32:1>
+<h> <bold> What 's in it for you? </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-040#33:1>
+The Internet may sound so technical, as if only computer geeks
+like Vic of PSDN can make it work for them. </p>
+
+<p> 
+<ICE-PHI:W2B-040#34:1>
+<quote> &ldquo; But virtually everybody can benefit from it, both
+the techie types and the non-technical ones, &rdquo; </quote> stressed Kelsey
+Hartigan-Go of De La Salle University 's computer services center. </p>
+
+<p> 
+<ICE-PHI:W2B-040#35:1>
+Navigating the Internet now has become so easy and user-friendly
+that people who use it say they are <quote> &ldquo; surfing the Internet,"
+</quote> referring to how leisurely it is to cruise along the Information
+Superhighways. </p>
+
+<p> 
+<ICE-PHI:W2B-040#36:1>
+No wonder even children, nuns and many other mortals get so
+addicted to it. </p>
+
+<p> 
+<ICE-PHI:W2B-040#37:1>
+Let 's take a look at what the Net has to offer. </p>
+
+<p> 
+<ICE-PHI:W2B-040#38:1>
+Its primary function is communication - - mainly through
+electronic mail, or e-mail for short. </p>
+
+<p> 
+<ICE-PHI:W2B-040#39:1>
+With e-mail, your letters can reach their destinations almost
+instantly, perhaps within a few seconds to a few minutes - - even to
+locations on the opposite site of the globe.
+
+<ICE-PHI:W2B-040#40:1>
+In contrast, how long can your &ldquo; snail-mail &rdquo; ( sent via
+post office or a private forwarding company) reach its destination? </p>
+
+<p> 
+<ICE-PHI:W2B-040#41:1>
+<quote> &ldquo; If you still do not have an e-mail address two
+years from now, you 'll be classified as a dinosaur, &rdquo; </quote> said
+Jim Ayson, one of the acknowledged local Internet experts. </p>
+
+<p> 
+<ICE-PHI:W2B-040#42:1>
+Of course, the Internet cannot totally eliminate the traditional
+mailing system, telephone calls and fax transmissions - - but it can transmit
+messages at significantly reduced costs and with far better efficiency. </p>
+
+<p> 
+<ICE-PHI:W2B-040#43:1>
+You can actually &ldquo; talk &rdquo; using the Internet,
+conversing in real time with another person who is on the opposite side of
+the globe. </p>
+
+<p> 
+<ICE-PHI:W2B-040#44:1>
+Chatting in Cyberspace, though, is still mainly done by typing
+words on the keyboard instead of saying them aloud.
+
+<ICE-PHI:W2B-040#45:1>
+But with the recent introduction of the Internet phone and similar
+computer programs, you can do away with long distance telephone bills soon.
+
+<ICE-PHI:W2B-040#46:1>
+Internet videophone is also around the corner. </p>
+
+<p> 
+<ICE-PHI:W2B-040#47:1>
+For researchers like Amy and Vic, the Internet is heaven on
+earth. </p>
+
+<p> 
+<ICE-PHI:W2B-040#48:1>
+Thousands and thousands of offices and agencies - - including the
+libraries of Harvard University - - have made millions of documents available
+on the Internet, free for everyone to read or retrieve. </p>
+
+<p> 
+<ICE-PHI:W2B-040#49:1>
+To make life simpler, some guys on the Internet have devised
+search tools, like the Lycos program Vic used.
+
+<ICE-PHI:W2B-040#50:1>
+Just by using keywords, one is led to potential locations where to
+find documents on a certain topic. </p>
+
+<p> 
+<ICE-PHI:W2B-040#51:1>
+Think of about any topic you want to search on - - from kitchen
+menus to video clips of a rocket launch - - and you can definitely find it on
+the Internet.
+
+<ICE-PHI:W2B-040#52:1>
+It 's just a matter of mastering your way around. </p>
+
+<p> 
+<ICE-PHI:W2B-040#53:1>
+With the advent of the World Wide Web, which is a systematic way
+of linking one database to another, searching for information has become even
+easier and much more fun. </p>
+
+<p> 
+<ICE-PHI:W2B-040#54:1>
+Aside from documents, millions of computer programs can also be
+&ldquo; downloaded &rdquo; ( copied from computers in faraway places right to
+your own PC) for free.
+
+<ICE-PHI:W2B-040#55:1>
+They are either <mention> &ldquo; freeware &rdquo; </mention> (
+absolutely free) or <mention> &ldquo; shareware, &rdquo; </mention> which is
+free for you to evaluate for a certain period, but which you must register
+and pay for once you have decided to use it for a long period. </p>
+
+<p> 
+<ICE-PHI:W2B-040#56:1>
+The Internet is not all work.
+
+<ICE-PHI:W2B-040#57:1>
+There are also lots of fun out there - - games, gossip and yes, even
+&ldquo; cyber sex. &rdquo; </p> </I>
+
+
+<I>
+
+<ICE-PHI:W2B-040#58:2>
+<h> <bold> On-line tourist visits RP </bold> </h>
+
+<ICE-PHI:W2B-040#59:2>
+<bold> Bobby Timonera </bold>
+
+<ICE-PHI:W2B-040#60:2>
+<h> <it> ( Second of four parts) </it> </h>
+
+<p> 
+<ICE-PHI:W2B-040#61:2>
+THE Internet started in 1969 as a United States military project
+during the Cold War, then called <mention> ARPAnet </mention> , being managed
+by the Advanced Research Projects Administration. </p>
+
+<p> 
+<ICE-PHI:W2B-040#62:2>
+It was mainly an experiment on how to put up a reliable computer
+network over long distances - - using high-speed telephone lines - - so it
+can resist enemy attack.
+
+<ICE-PHI:W2B-040#63:2>
+It also served as a link between the military and their contractors,
+including some universities doing military-related research. </p>
+
+<p> 
+<ICE-PHI:W2B-040#64:2>
+The ARPAnet was so successful that soon, most universities wanted
+to be part of it.
+
+<ICE-PHI:W2B-040#65:2>
+Over the years, more and more civilian use were integrated into the
+network.
+
+<ICE-PHI:W2B-040#66:2>
+Quickly, its reach spanned the globe, and was later called the
+<mention> Internet </mention> . </p>
+
+<p> 
+<ICE-PHI:W2B-040#67:2>
+The ARPAnet technology proved to be so reliable, largely due to
+&ldquo; dynamic rerouting, &rdquo; a system wherein if one of the network
+links were disrupted - - say by an enemy attack - - data transmitted through
+it were automatically rerouted through other links. </p>
+
+<p> 
+<ICE-PHI:W2B-040#68:2>
+To illustrate how reliable it is, here 's an excerpt from the
+best-selling book <mention> &ldquo; The Internet for Dummies &rdquo;
+</mention> : <X>
+
+<p> 
+<ICE-PHI:W2B-040#X69:2>
+<quote> &ldquo; Can the Internet really resist enemy attack?
+
+<ICE-PHI:W2B-040#X70:2>
+It looks that way.
+
+<ICE-PHI:W2B-040#X71:2>
+During the Gulf War in 1991, the US military had considerable
+trouble knocking out the Iraqi command network.
+
+<ICE-PHI:W2B-040#X72:2>
+It turned out that the Iraqis were using commercially available
+network routers with standard Internet routing and recovery technology.
+
+<ICE-PHI:W2B-040#X73:2>
+In other words, dynamic rerouting worked.
+
+<ICE-PHI:W2B-040#X74:2>
+It 's nice to know that dynamic rerouting works, although perhaps
+this was not the most opportune way to find out. &rdquo; </quote> </p> </X>
+
+<ICE-PHI:W2B-040#75:2>
+<h> <bold> Internet in the Philippines </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-040#76:2>
+In the Philippines, the first concerted effort to connect to the
+Internet started in mid-1993 when the Department of Science and Technology
+initiated the formation of the Philippine Network Foundation Inc. ( PFI) to
+study the possibility of establishing a national network with access to the
+Internet.
+
+<ICE-PHI:W2B-040#77:2>
+It was to be called <mention> PHnet </mention> . </p>
+
+<p> 
+<ICE-PHI:W2B-040#78:2>
+A month later, in July, the DOST facilitated a dial-up access (
+that is, calling overseas via long distance) for the leading academic
+institutions via the Victoria University of Technology of Australia. </p>
+
+<p> 
+<ICE-PHI:W2B-040#79:2>
+Then, in March 1994, the DOST got a dedicated leased line direct
+to the US, thus negating the need to dial long distance to connect. </p>
+
+<p> 
+<ICE-PHI:W2B-040#80:2>
+Initially, 10 institutions had direct access to the Internet via
+leased line connection.
+
+<ICE-PHI:W2B-040#81:2>
+Aside from the DOST, these are the Ateneo de Manila University, De La
+Salle University, University of the Philippines in Diliman, UP Los
+Ba&ntilde;os, University of Sto. Tomas, the Industrial Research Foundation,
+St. Louis University in Baguio, University of San Carlos in Cebu and Xavier
+University in Cagayan de Oro City. </p>
+
+<p> 
+<ICE-PHI:W2B-040#82:2>
+Connected later to the PHnet were Mosaic Communications
+Philippines ( a commercial Internet service provider), DOST 's Advanced
+Science and Technology Institute at UP Diliman, Mindanao State
+University-Iligan Institute of Technology, the Asian Institute of Management
+and, a few weeks ago, UP Manila. </p>
+
+<p> 
+<ICE-PHI:W2B-040#83:2>
+This year, in Metro Manila alone, at least eight more commercial
+Internet access providers bloomed, each getting their Internet connections
+independent from PHnet, some with much faster capability. </p>
+
+<p> 
+<ICE-PHI:W2B-040#84:2>
+Geographically, Juan de la Cruz can now access the Internet
+without need to call long distance in Metro Manila, Baguio, Los Ba&ntilde;os,
+Cebu, Cagayan de Oro and Iligan.
+
+<ICE-PHI:W2B-040#85:2>
+But anybody from any part of the country with a direct distance
+dialing telephone system can actually connect to the Internet, although at
+much added expense. </p>
+
+<p> 
+<ICE-PHI:W2B-040#86:2>
+Expansion is now under way. </p>
+
+<p> 
+<ICE-PHI:W2B-040#87:2>
+<quote> &ldquo; We intend to bring the Internet to the key cities
+of all regions of the country, &rdquo; </quote> said Risa Carlos of PFI.
+
+<ICE-PHI:W2B-040#88:2>
+This may be realized with the third phase of PFI 's project to wire
+the Philippines, she added, when its new leased line becomes operational by
+the end of October.
+
+<ICE-PHI:W2B-040#89:2>
+PFI 's new line will have four times the capacity of its existing
+line.
+
+<ICE-PHI:W2B-040#90:2>
+The long list of applicants for leased lines will then be granted
+access. </p>
+
+<p> 
+<ICE-PHI:W2B-040#91:2>
+A commercial ISP which currently has the largest capacity,
+Sequel.Net, will also make the Internet accessible in Davao by October, and
+in Subic Bay in Olongapo and Clark in Angeles before the end of the year,
+according to company spokesman Bobby Roldan. </p>
+
+<p> 
+<ICE-PHI:W2B-040#92:2>
+And trials on accessing the Internet through VHF and UHF radio is
+now under way. </p>
+
+<p> 
+<ICE-PHI:W2B-040#93:2>
+Compared to many countries, the Philippines ventured into
+Cyberspace quite late.
+
+<ICE-PHI:W2B-040#94:2>
+But Internet experts Jim Ayson and Kelsey Hartigan-Go noted the
+&ldquo; very fast &rdquo; growth of Netsurfers. </p>
+
+<p> 
+<ICE-PHI:W2B-040#95:2>
+<quote> &ldquo; Judging by developments in the past few months,
+we 're definitely catching up with our neighboring countries, &rdquo;
+</quote> said PFI 's Carlos. </p>
+
+<p> 
+<ICE-PHI:W2B-040#96:2>
+Ayson pointed out that we may, by now, even be at par with leader
+Hong Kong when it comes to the number of ISPs.
+
+<ICE-PHI:W2B-040#97:2>
+Ayson was quick to note, however, that the Philippines is still in
+its <quote> &ldquo; infancy stage &rdquo; </quote> when it comes to tapping
+the Internet as an information tool. </p>
+
+<p> 
+<ICE-PHI:W2B-040#98:2>
+<quote> &ldquo; There is still a lot of work to do in educating
+the public, &rdquo; </quote> Ayson said. </p>
+
+<p> 
+<ICE-PHI:W2B-040#99:2>
+&ldquo; When you look at the global Cyberspace, the Philippines
+is the equivalent of a back hole in the universe, &rdquo; </quote> said Vic
+Reyes of the Philippine Sustainable Development Network.
+
+<ICE-PHI:W2B-040#100:2>
+<quote> &ldquo; We get so much information from it, but nothing goes
+out from us. &rdquo; </quote> </p>
+
+<ICE-PHI:W2B-040#101:2>
+<h> <bold> More participation </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-040#102:2>
+Reyes implies that to be part of the global information village,
+the Philippines should make its information available to the world.
+
+<ICE-PHI:W2B-040#103:2>
+So far, there are some Filipino-oriented &ldquo; home pages &rdquo;
+in the World Wide Web - - which serves as a sort of &ldquo; show room &rdquo;
+for companies, organizations or individuals in the Internet - - but most of
+these are maintained by Filipinos abroad. </p>
+
+<p> 
+<ICE-PHI:W2B-040#104:2>
+In fact, one of those home pages called <mention> &ldquo; Cyber
+<indig> bayan </indig> , &rdquo; </mention> supposed to be the Filipinos '
+home in Cyberspace, is maintained by an American. </p>
+
+<p> 
+<ICE-PHI:W2B-040#105:2>
+<quote> &ldquo; Seems like we still have a lot to do to convince
+government agencies to make their information online, &rdquo; </quote> he
+added. </p>
+
+<p> 
+<ICE-PHI:W2B-040#106:2>
+But even before going to that stage, there is still one major
+problem that hounds potential Internet users in the Philippines - - the lack
+of telephone lines.
+
+<ICE-PHI:W2B-040#107:2>
+Data gathered by the Center for Telecommunications Studies show that
+phone density in the Philippines is at a low 1.667 per 100 households.
+
+<ICE-PHI:W2B-040#108:2>
+It even goes to as low as .207 in the Bicol Region. </p>
+
+<p> 
+<ICE-PHI:W2B-040#109:2>
+<quote> &ldquo; The growth of the Internet depends on the
+telecommunications industry, &rdquo; </quote> Hartigan-Go said. </p>
+
+<p> 
+<ICE-PHI:W2B-040#110:2>
+Also, the rates being offered by local Internet service
+providers as of now are still expensive, at least compared to those in the
+United States, noted Ayson.
+
+<ICE-PHI:W2B-040#111:2>
+Average fee for a 12-hour access in a month ( so short for a serious
+user) is about &peso;800, and about &peso;75 per extra hour used.
+
+<ICE-PHI:W2B-040#112:2>
+Some ISPs offer it at just &peso;600 a month for 30 hours, but you
+have to pay one year in advance to enjoy this discounted rate.
+
+<ICE-PHI:W2B-040#113:2>
+Compare that to the &dollar;20 ( about &peso;500) with unlimited
+access time offered by some US companies. </p>
+
+<p> 
+<ICE-PHI:W2B-040#114:2>
+Next week, we 'll discuss the equipment and the steps you need
+to take to finally hook up to the Internet. </p> </I>

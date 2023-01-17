@@ -1,284 +1,463 @@
-<I>
+""
+""
 uh my name is dary lee
+""
 i am the cad systems manager of future solutions
+""
 welcome to this seminars 
+""
 first of all i would like to take some time to introduce our company
+""
+""
 future solution laboratory limited is a software developer and 
-system integrator based in hong kong
+system integrator  based in hong kong
+""
 we are specialized in the architectural and engineering and
 construction industry and also the gis industry
+""
 we carry a lot of products such as the tracer which will be
-introduced today uh and other package such as optimus for 
-machine management uhm
+introduced today uh and other package such as  optimus  for 
+machine  management uhm
+""
 and also the autodesk uh fringe components
+""
 our major client in hong kong include the uh government bodies such
 as the housing authority and also the public utilities uh such as the china
 light and power and the hong kong electric company 
+""
 today we are going to present a new technology called autocad
 system from igs
+""
 the software that we want to introduce today is called tracer from
 autocad 
+""
 tracer has been in the market for two years time
-it ' s quite new in hong kong just for one year
+""
+it  ' s quite new in hong kong just for one year
+""
 despite its short history tracer technology has been installed in
 over forty countries world-wide 
+""
 so why do we begin tracer
+""
 because the history of cad is just about five to ten years uh in
 this world
+""
 uhm before that we draw uhm we draw all the things on papers
+""
 so a lot of paper drawings is produced previously 
+""
 the existing paper drawings needs a lot of needs means a lot of
 large investment 
-so we get to think of how to utilize our previous in 
+""
+so we get to think of how to utilize our previous  in 
 investment 
-so the best way to utilize it is to con to convert all the
+""
+so the best way to utilize it is to  con  to convert all the
 existing drawings into the digital format or the cad format
-there ' re two methods to achieve this
+""
+there  ' re two methods to achieve this
+""
 the first one is to use the digitizers to digitize all the existing
 drawing memory into the computer
+""
 and the second approach is to copy all the drawings to that is to
-be drawn all drawings in the cad environment
+be  drawn  all drawings in the cad environment
+""
 both methods are very tedious and time consuming 
-but now there ' s another alternative
+""
+but now there  ' s another alternative
+""
 with the help of tracer and recognizer from autocad you can easily
-convert the raster drawings to one word 
+convert the  raster  drawings to  one word 
 drawings uh very uh easily
- one-word in time break induction and
+""
+ one-word   in time  break induction and
 conversion times uhm called saving 
+""
 under the ibs umbrella there are many alternatives for document
 conversion
-user can choose to have uh one-word digitizing
+""
+user can choose to have uh  one-word  digitizing
 raster overlay raster everything or to do the what we call the 
-meta-transition process using two functions
-the first one is called the semi-automatic interactive line
+meta-transition  process using two functions
+""
+the first one is called the semi-automatic  interactive line
 tracing 
+""
 and second one is called the automatic text and graphic definitions
+""
+""
 tracer is the only software available in this market
-and it works on one-words autocad 
+""
+and it works on  one-words   autocad 
 environment to provide the above functions 
-beside from working all the paper document complete into
+""
+beside from working all the paper document  complete  into
 cad format we have another alternative which is called incremental conversion
-this is to integrate the raster and res rester 
-image into one single s system
+""
+this is to integrate the raster and  res   rester 
+image into one single  s  system
+""
 what we call is the hypercad environment 
+""
 so we can have eliminated that because we convert drawing on a
 as-is basis
+""
 so what is a hypercad system
+""
 uhm as you are familiar with autocad you use it to draw the line
 circle text or dimension into the computer
-those lines circles texts are called the four words
-beside the four words there ' s ano 
+""
+those lines circles texts are called the  four words
+""
+""
+beside the  four words  there  ' s  ano 
 another thing called raster
-what ' s a raster
+""
+what  ' s a raster
+""
 raster is those image that is scanned in from the scanner
+""
 those images are form of tiny dot uh which we use the term called
 dpi to describe it say two hundred or three hundred or four hundred dpi
+""
 the dpi is called called the dots per inch 
+""
 traditional autocad environment cannot handle those uhm raster
 image
-it can only allow users to draw erectus 
-but with the help of tracer user is allowed to overlay the
+""
+it can only allow users to draw  erectus 
+""
+but with the help of tracer  user is allowed to overlay the
 raster image in the autocad environment so that it can perform something
-called the pilot editing
+called the  pilot  editing
+""
 we will describe it uh later 
+""
 so what tracer provide to user is it it provides user with 
-rasoframe capabi capabi capabilities 
+rasoframe   capabi capabi  capabilities 
+""
 and also a complete set of raster editing tools and also the
-precision tool kit for ac and practical film 
+precision tool kit for ac and  practical film 
+""
 uhm besides uh the editing function tracer also provide the uh some
-other call the scanning post- one-word function such as
+other call the scanning post-  one-word  function such as
  one-word 
- one-word is the transformation of the geometry
+""
+ one-word  is the transformation of the geometry
 of the scanned image into another form because uh what we talking about
-scanning image we are refer to very old drawings all tho all the old
+scanning image we are refer to very old drawings all  tho  all the old
 drawings uh may be still or distorted when scan in
+""
 so we need some tools uh to correct those stilling and distortion
-those are a group those uhm methods is called worksheeting 
-another thing is uh re regarding the uh one-word
+""
+those are a group those uhm methods is called  worksheeting 
+""
+another thing is uh  re  regarding the uh  one-word
  process is called the noise removal
+""
 noise removal is to because uh most of the old drawings are 
 very dirty 
+""
 there may be spark on the drawings
+""
 the noise removal is to remove all those unnecessary spark 
+""
 we will demonstrate it later
+""
 also the tracer support eleven different raster formats so you can
 communicate with other uh raster systems as well 
+""
 another superior function for tracer is the semi automatic line
 following
-it ' s the only way to provide one-word and
-head frame one-word to convert the raster image
-to one-word 
-there is furthermore there ' s another module it ' s called the
+""
+it  ' s the only way to provide  one-word  and
+head frame  one-word  to convert the  raster  image
+to  one-word  
+""
+there is furthermore there  ' s another module it  ' s called the
 recognizer for autocad
-it ' s another module
+""
+it  ' s another module
+""
 it can automatically convert the graphic and text uhm image into
-autocad as string arch circle and also one-word 
+autocad  as  string arch circle and also  one-word 
 lines 
+""
 so why tracer is so important
+""
 because in this world there are one point eight billion paper
 documents
+""
 only twenty percent of uh these documents are in visual format or
 in cad format
+""
 so tracer is the only tool for you to re-utilized those paper
 documents 
+""
 from this chart you can see that the productivity gains when using
 tracer
+""
 for normal handy drafting uh uhm it takes about say uh ten times to
 finish the drawing
+""
 but with the help of uhm tracer it can increase it five to to ten
 times 
+""
 tracer can apply in these areas 
+""
 the first one is the architectural of the city management
+""
 uh the second is the mapping of gis area
+""
 the third one is the civil engineering field
+""
 and the fourth one is the electrical and the practical area as well
 as the piping process and also uh the document management process 
-in the architectural area we can one-word the
-existing floor plan or the design or for one-word 
+""
+in the architectural area we can  one-word  the
+existing floor plan or the design or for  one-word 
 management purpose
-also you can use it to update s as field plan
+""
+also you can use it to update  s as  field plan
+""
 this is so what called incremental conversion 
+""
 for the civil engineer uh area you can use the tracer to trace the
 contour lines to create the dtn model
+""
 the dtn is the three d digital terrain modeling models 
-so that you can use the the result dtn model for one-word
+""
+so that you can use the the result dtn model for  one-word
  or or uh go about design 
+""
 for piping and processing you can use tracer to trace all the
 piping facilities or piping network into autocad format
-you can use this uh s what we call the schematic file 
-grains later for network analysis 
+""
+you can use this uh  s  what we call the schematic file 
+grains  later for network analysis 
+""
 for mapping conversion you know for gis system the the most tedious
 thing is to do the data conversion that is to convert existing maps into uh
 digital format
-and tracer is the perfect partner to perform this because most
-of the uh conversion three words using tracer for this
-process instead of using the di the manual digitizer 
+""
+and tracer is the perfect partner to perform this  because most
+of the uh conversion  three words  using tracer for this
+process instead of using the  di  the  manual  digitizer 
+""
 okay the trip the history the history of tracer 
 #> tracer was announced uh in the nineteen ninety three
-the first version is called the cad one-word 
+""
+the first version is called the cad  one-word 
 tracer
+""
 and then it develop uh other uhm versions we are called the
 recognizer the tracer the recognizer release one point one and also the
-tracer for window and also two words tracer to
-support the color and two words uh raster image
-uhm and that ' s all for the presentations
-we ' ll go through the uh demonstration
+tracer for window and also   two words  tracer to
+support the color and  two words  uh raster image
+""
+uhm and that  ' s all for the presentations
+""
+we  ' ll go through the uh demonstration
+""
 uh
+""
 uh future solution is the sole distributor of tracer in hong kong
 as well as in china
+""
 if you are interested in these products you can contact us later
-so let ' s demonstrate the function of tracer 
-what we ' ll see is the one-word environment
+""
+""
+so let  ' s demonstrate the function of tracer 
+""
+what we  ' ll see is the  one-word  environment
+""
 what we are going to do is to load the raster image into this
 environment 
+""
 the process is very simple
-it ' s just like uh loading uh uh ordinary autocad drawings
-on the excuse me on the upper right corner uh this ' s the
+""
+it  ' s just like uh loading uh uh ordinary autocad drawings
+""
+on the excuse me  on the upper right corner uh this  ' s the
 tracer menu
-the tracer mainly occupy uh one menu in the autocad
+""
+the tracer  mainly  occupy uh one menu in the autocad
 environment
+""
 the tracer provide you functions to do the uh i/os to do the
 editing and also to do the tracing or do the conversion 
+""
 ok
-let ' s see the raster image
-on the screen it ' s a a three size uh maps in hong kong area
-tracer provide you i think you cannot see it very clearly so
+""
+let  ' s see the raster image
+""
+on the screen it  ' s a a three size uh maps  in hong kong area
+""
+tracer provide you  i think you cannot see it very clearly so
 we change the color to to brighter one
+""
 tracer provides you functions to handle those raster image on the
-screen such as to hang in around or to zoom in zoom in in zoomer rate
+screen such as to hang in around or to zoom in  zoom in  in zoomer rate
  
+""
 also this map is in the resolution of this map is uh three hundred
 dots per inch
+""
 it it occupies six megabytes of memory
+""
 what we are going to do now is to use a process called uhm noise
 removal
-you see there ' s sometimes dots uh in the screen
+""
+you see there  ' s sometimes dots uh in the screen
+""
 those dots uh we call it noise
+""
 tracer provides you a function to remove all these noise 
+""
 so we select uh rectangle area for noise and then 
+""
 you see
+""
 the noise is removed 
+""
 so after the noise removal we can go into more details
- rig right now we want to pro we we want to
+""
+ rig  right now we want to  pro  we we want to
 demonstrate some raster editing function
+""
 as on the screen there is two building blocks the block thirty
 four and the block thirty five
+""
 what we are going to do is to demolish these two blocks and then
 replace it it with the block uh red here
-so we use the functions called raster e erase to erase
+""
+so we use the functions called raster  e  erase to erase
 those blocks
+""
 there are many approaches to erase the block
+""
 first one you can use the polygon area to define the area of
 interest
-and then it wi it will erase the area inside the polygon
+""
+and then it  wi  it will erase the area inside the polygon
+""
 uhm just click on the raster object
+""
 or you can use a rubber as you as you see in on the screen you can
 control the size of the rubber to rub it out 
+""
 or use another method is to click on the raster object and it will
 be erased completely 
+""
 after erasing the next step we are going to do is to copy this
 block this block to this area
-there ' s many approach to do it but we choose
-first of all we convert this raster red block into 
-bracket and then copy the brac bracket image from here
+""
+there  ' s many approach to do it  but  we choose
+""
+first of all we convert this raster  red  block into 
+bracket  and then copy the  brac   bracket  image from here
 to here
-mark that mark we going to be tracing because it ' s
+""
+mark that mark we going to be tracing because it  ' s
+""
 we just click on the objects and on the on screen you can see the
 red lines 
+""
 so when the tracer comes across an intersection point it will ask
 the user which way to go something like that
+""
 you can choose the direction and then after you define the
 direction you can continue the tracer 
+""
 so after that you we will convert into a autocad drawing lines
-so we can move the two words now 
-so configure image 
+""
+so we can move the  two words  now 
+""
+so  configure image  
+""
 also you can copy besides copying the beside tracing the raster
-image into one-word we can copy the raster image
+image into  one-word  we can copy the raster image
 directly 
-we can define the polygons to include the raster image and
+""
+we can define the polygons  to include the raster image  and
 then move the raster image within that polygon 
+""
 and the operation is very simple 
+""
 right now we are going to move another raster image
+""
 beside direct copying we can also rotate the raster image or scan
 it up or down
-but first we want to move this drawing to another new area
+""
+but first we want to move this drawing  to another new area
+""
+""
 this time we we rotate ninety degree and also scan it or use it
 and also scan it up two times
+""
 as you see this is the new raster image 
+""
 beside tracing straight line you can also use it to trace uhm 
 curve line 
+""
 you just get on the line we are going to trace and then the
 tracing will start automatically
-as we see on the screen it ' s very fast and accurate 
+""
+as we see on the screen it  ' s very fast and accurate 
+""
 okay
+""
 and finished
-it just takes less than one second to trace a curve line 
+""
+it just takes less than one second to trace a  curve line 
+""
 okay
-the green line is the polyline traced from the raster
+""
+the green line is the  polyline  traced from the raster
 image 
+""
 the beauty of tracer is to allow users to config the behavior of
-tracer because uhm for each type of straigh of uh tracing there ' s
-uh some parameters to define the pe the behavior
-the first stroke is to define the target traced image
+tracer  because uhm for each type of  straigh  of uh tracing there  ' s
+uh some parameters to define the  pe  the behavior
+""
+the first  stroke  is to define the target traced image
+""
 that is the route of the traced line and also the gap and the step
+""
 and the second is the flow it is the flow of tracing
+""
 that is you can define it to stop at intersection or you can uh
 use the default value to straight through any intersection or turn right or
 turn left 
+""
 the third one is the uh adjustment of the outcome line
-you can control the one-word factors of the
+""
+you can control the  one-word  factors of the
 outcome
+""
 such as for a very straight line you can use a line rate for
-straightening factor or for the curve line you can use a smaller rate
+straightening factor or for the curve line you can use a smaller  rate
+""
+""
 then more control import will be produced 
+""
 also you can control the attributes of the uh outcoming lines
-that is the color the layers also the line time 
+""
+that is the color the layers also the line  time  
+""
 all those parameters can be saved 
-beside interactive line tracing there is a process called
+""
+beside  interactive  line tracing there is a process called
 recognition
+""
 so we define the areas to do the recognition 
+""
 also for recognition we can define different parameters set 
+""
 so we can we define the rectangle area and start the recognition
 process 
+""
 and the process is pretty fast when compared to other software
 package in the market 

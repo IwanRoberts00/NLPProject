@@ -1,0 +1,981 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-026#1:1:A>
+While you and your wife are in a business one day you come home you 've lipstick in your collar she gets mad <O> chuckle </O> 
+ 
+<ICE-PHI:S1B-026#2:1:A>
+You say it 's your grandmother your grandmother passed away
+ 
+<ICE-PHI:S1B-026#3:1:A>
+So she won't talk to you and she 's the only one who knows everything about one half of the business and there 's a problem there
+ 
+<ICE-PHI:S1B-026#4:1:A>
+What do you do
+ 
+<ICE-PHI:S1B-026#5:1:A>
+She won't talk to you
+ 
+<ICE-PHI:S1B-026#6:1:A>
+Confess
+ 
+<ICE-PHI:S1B-026#7:1:A>
+These are some of the problems of having a family business
+
+ <$B> 
+<ICE-PHI:S1B-026#8:1:B>
+And then what if she doesn't ever want to be a part of the business
+ 
+<ICE-PHI:S1B-026#9:1:B>
+Is that what you 're saying right
+
+ <$A> 
+<ICE-PHI:S1B-026#10:1:A>
+That 's right
+ 
+<ICE-PHI:S1B-026#11:1:A>
+<unclear> words </unclear> the capital goes
+
+ <$B> 
+<ICE-PHI:S1B-026#12:1:B>
+All right joining us in this segment is Joey Cuerdo
+ 
+<ICE-PHI:S1B-026#13:1:B>
+He 's the owner of Power Up Center for Climbing and Fitness and says friendship and family relationship should be given priority instead of business 
+ 
+<ICE-PHI:S1B-026#14:1:B>
+Uhm also joining us is Genevieve Lim
+ 
+<ICE-PHI:S1B-026#15:1:B>
+She 's the owner of Zagu and says it 's better to avoid friends and relatives as business partners 
+ 
+<ICE-PHI:S1B-026#16:1:B>
+Uh and then we have William Leung owner of <unclear> word </unclear> Restaurant
+ 
+<ICE-PHI:S1B-026#17:1:B>
+It 's very good restaurant by the way
+
+ <$C> 
+<ICE-PHI:S1B-026#18:1:C>
+Thank you
+
+ <$B> 
+<ICE-PHI:S1B-026#19:1:B>
+And says the business should be kept within intermediate uh immediate family members only 
+ 
+<ICE-PHI:S1B-026#20:1:B>
+And then also joining us is Robert Francisco owner of Figaro
+
+ <$D> 
+<ICE-PHI:S1B-026#21:1:D>
+Good evening
+
+ <$A> 
+<ICE-PHI:S1B-026#22:1:A>
+Okay uhm your your business
+ 
+<ICE-PHI:S1B-026#23:1:A>
+Is it because of the nature of your business
+ 
+<ICE-PHI:S1B-026#24:1:A>
+It 's a restaurant right
+
+ <$C> 
+<ICE-PHI:S1B-026#25:1:C>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1B-026#26:1:A>
+You try to keep the recipes within <{> <[> the </[> family
+
+ <$C> 
+<ICE-PHI:S1B-026#27:1:C>
+<[> Secret </[> </{> 
+ 
+<ICE-PHI:S1B-026#28:1:C>
+<{> <[> Yes </[> 
+
+ <$A> 
+<ICE-PHI:S1B-026#29:1:A>
+<[> Oh okay </[> </{> 
+
+ <$C> 
+<ICE-PHI:S1B-026#30:1:C>
+It 's secret
+
+ <$A> 
+<ICE-PHI:S1B-026#31:1:A>
+So that 's that 's like <?> Tan Long </?> in in in San Francisco
+ 
+<ICE-PHI:S1B-026#32:1:A>
+It 's only the grandmother who knows
+
+ <$C> 
+<ICE-PHI:S1B-026#33:1:C>
+Yes
+
+ <$A> 
+<ICE-PHI:S1B-026#34:1:A>
+Aside from that is it is that is that the only advantage of keeping
+
+ <$C> 
+<ICE-PHI:S1B-026#35:1:C>
+Uh <,> aside from that uh we do keep uh <,> yeah the secret is uh it 's within the family
+
+ <$A> 
+<ICE-PHI:S1B-026#36:1:A>
+You also underpay your relatives <O> laughter </O> 
+
+ <$C> 
+<ICE-PHI:S1B-026#37:1:C>
+I hope not <O> laughter </O> 
+ 
+<ICE-PHI:S1B-026#38:1:C>
+They would rebel
+
+ <$B> 
+<ICE-PHI:S1B-026#39:1:B>
+Uh what do you think uhm we we all know that after Zagu a lot of other different kinds of pearl shakes have you know gone all over the place
+ 
+<ICE-PHI:S1B-026#40:1:B>
+It 's really become a phenomenon but that 's because uh you broke up with your business partners
+ 
+<ICE-PHI:S1B-026#41:1:B>
+Right
+ 
+<ICE-PHI:S1B-026#42:1:B>
+And then they set up their own
+
+ <$E> 
+<ICE-PHI:S1B-026#43:1:E>
+Yeah but besides them opening up there are a lot of people who got into it because of the fact that I guess investment is pretty small <{> <[> returns </[> are good and it 's pretty easy to set up
+
+ <$B> 
+<ICE-PHI:S1B-026#44:1:B>
+<[> Right </[> </{> 
+ 
+<ICE-PHI:S1B-026#45:1:B>
+Uh uhm
+
+ <$E> 
+<ICE-PHI:S1B-026#46:1:E>
+So a lot of people got into it you know having that thought in mind
+
+ <$B> 
+<ICE-PHI:S1B-026#47:1:B>
+But is it is it uhm you don't recommend it to uh start a business with friends <{> <[> or relatives </[> 
+
+ <$E> 
+<ICE-PHI:S1B-026#48:1:E>
+<[> Well from </[> </{> my experience
+
+ <$B> 
+<ICE-PHI:S1B-026#49:1:B>
+From your experience
+
+ <$E> 
+<ICE-PHI:S1B-026#50:1:E>
+Yeah then I 'm gonna say <mention> no </mention> 
+
+ <$B> 
+<ICE-PHI:S1B-026#51:1:B>
+Uh uhm
+
+ <$E> 
+<ICE-PHI:S1B-026#52:1:E>
+But it can work out for other people
+ 
+<ICE-PHI:S1B-026#53:1:E>
+But I think in general I mean I 've been hearing it even before I got into business <,> not to get into business with friends
+ 
+<ICE-PHI:S1B-026#54:1:E>
+But I never believed it
+
+ <$B> 
+<ICE-PHI:S1B-026#55:1:B>
+Uh uhm
+
+ <$E> 
+<ICE-PHI:S1B-026#56:1:E>
+And in some ways someone has to go through it in order to believe it
+
+ <$B> 
+<ICE-PHI:S1B-026#57:1:B>
+What what exactly happened uh with with uh your situation and your <{> <[> business </[> 
+
+ <$E> 
+<ICE-PHI:S1B-026#58:1:E>
+<[> I guess </[> </{> it 's just differences uhm uh it 's just difficult if people don't wanna you gotta have an open mind hear people out uhm willing to uh hear like constructive criticisms <{> <[> and </[> and move on
+
+ <$B> 
+<ICE-PHI:S1B-026#59:1:B>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1B-026#60:1:B>
+Uh uhm
+
+ <$E> 
+<ICE-PHI:S1B-026#61:1:E>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1B-026#62:1:B>
+And Joey you you you uhm actually have a business with <.> yo </.> with your wife right
+
+ <$F> 
+<ICE-PHI:S1B-026#63:1:F>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1B-026#64:1:B>
+You started out five years ago
+ 
+<ICE-PHI:S1B-026#65:1:B>
+Right
+
+ <$F> 
+<ICE-PHI:S1B-026#66:1:F>
+Uh yeah but prior to that uh we were already in business
+ 
+<ICE-PHI:S1B-026#67:1:F>
+Uhm after college when we went to uh
+
+ <$A> 
+<ICE-PHI:S1B-026#68:1:A>
+What kind of business is this
+
+ <$F> 
+<ICE-PHI:S1B-026#69:1:F>
+Modules hand-outs
+
+ <$A> 
+<ICE-PHI:S1B-026#70:1:A>
+Oh okay
+
+ <$F> 
+<ICE-PHI:S1B-026#71:1:F>
+Uh we we went into that right after college
+ 
+<ICE-PHI:S1B-026#72:1:F>
+And prior to that we were together for a while so when we went into business it wasn't really
+
+ <$G> 
+<ICE-PHI:S1B-026#73:1:G>
+So difficult <{> <[> <unclear> words </unclear> </[> 
+
+ <$F> 
+<ICE-PHI:S1B-026#74:1:F>
+<[> Yeah to get to know </[> </{> yeah uhm
+
+ <$A> 
+<ICE-PHI:S1B-026#75:1:A>
+Of course you started with with your wife because well you know you both would have the same risks
+ 
+<ICE-PHI:S1B-026#76:1:A>
+You don't have to pay each other anything <O> laughter </O> until the thing finally takes off <unclear> words </unclear> 
+
+ <$G> 
+<ICE-PHI:S1B-026#77:1:G>
+No salaries
+
+ <$F> 
+<ICE-PHI:S1B-026#78:1:F>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1B-026#79:1:A>
+Yes when you start a business it 's like that
+
+ <$B> 
+<ICE-PHI:S1B-026#80:1:B>
+But what about when you when you I mean like every couple has their you know ups and downs right
+ 
+<ICE-PHI:S1B-026#81:1:B>
+And when you have your downs isn't that difficult having a business together
+ 
+<ICE-PHI:S1B-026#82:1:B>
+Or is it because is is it more like a like your baby together that you have to really just put your differences aside <{> <[> and and </[> be business partners
+
+ <$F> 
+<ICE-PHI:S1B-026#83:1:F>
+<[> No </[> </{> 
+ 
+<ICE-PHI:S1B-026#84:1:F>
+Uhm well in our case because both of us are kind of strong uh strong headed
+
+ <$B> 
+<ICE-PHI:S1B-026#85:1:B>
+Uh uhm
+
+ <$F> 
+<ICE-PHI:S1B-026#86:1:F>
+The when one believes in the other and <indig> e e </indig> sometimes we really end up uh arguing and it 's hard because like what um Teddy said uh when she knows this half of the business and I know this half and we don't agree and we go uh you know we decide to to go <{> <[> separate directions </[> 
+
+ <$E> 
+<ICE-PHI:S1B-026#87:1:E>
+<[> Separate directions </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1B-026#88:1:A>
+<unclear> words </unclear> advantages that you can really shout at each other argue like hell but you know that neither of you is gonna break up the business
+
+ <$F> 
+<ICE-PHI:S1B-026#89:1:F>
+Oh yeah
+
+ <$A> 
+<ICE-PHI:S1B-026#90:1:A>
+Because it 's your future is there
+
+ <$F> 
+<ICE-PHI:S1B-026#91:1:F>
+Yeah <indig> oo </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-026#92:1:A>
+So probably with a with a stranger you can't be as open
+
+ <$F> 
+<ICE-PHI:S1B-026#93:1:F>
+That 's true
+
+ <$B> 
+<ICE-PHI:S1B-026#94:1:B>
+I think that 's true
+
+ <$F> 
+<ICE-PHI:S1B-026#95:1:F>
+I believe also that uh constant <.> a </.> arguments or debates really opens up books
+ 
+<ICE-PHI:S1B-026#96:1:F>
+And you can see all sides of the the the coin and maybe just not two sides but even the circular side of it
+ 
+<ICE-PHI:S1B-026#97:1:F>
+You can really screen out and you know dig up all the flaws and
+
+ <$A> 
+<ICE-PHI:S1B-026#98:1:A>
+If you 're relatives
+
+ <$F> 
+<ICE-PHI:S1B-026#99:1:F>
+Right
+ 
+<ICE-PHI:S1B-026#100:1:F>
+And you you know it 's okay to really open up
+
+ <$B> 
+<ICE-PHI:S1B-026#101:1:B>
+So like like S M Robinsons Rustans like these are big the the these are family-owned businesses <{> <[> as well </[> 
+
+ <$G> 
+<ICE-PHI:S1B-026#102:1:G>
+<[> Right correct </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-026#103:1:B>
+Uh well that does it mean it 's better to start your business with with family so that you end up being a big corporation like that I mean really successful like that
+
+ <$D> 
+<ICE-PHI:S1B-026#104:1:D>
+It 's easy to keep the secret inside <{> <[> actually </[> 
+
+ <$B> 
+<ICE-PHI:S1B-026#105:1:B>
+<[> Yeah </[> </{> uh okay
+
+ <$D> 
+<ICE-PHI:S1B-026#106:1:D>
+Because you become very protective and you only share probably what what uh my uh seatmate over here would say they keep the secrets to what they really want
+
+ <$B> 
+<ICE-PHI:S1B-026#107:1:B>
+Uh uhm
+
+ <$D> 
+<ICE-PHI:S1B-026#108:1:D>
+And let out only what has to be let out
+
+ <$B> 
+<ICE-PHI:S1B-026#109:1:B>
+Uh uhm
+
+ <$D> 
+<ICE-PHI:S1B-026#110:1:D>
+And therefore if it 's a family corporation you sometimes really can control
+ 
+<ICE-PHI:S1B-026#111:1:D>
+There are some bad sides here that you become extra-emotional when you make decisions
+
+ <$B> 
+<ICE-PHI:S1B-026#112:1:B>
+Uh uhm
+
+ <$D> 
+<ICE-PHI:S1B-026#113:1:D>
+But then again like you said I think earlier when you 're more of a powerful corporation you can easily buy or hire a professional manager
+
+ <$A> 
+<ICE-PHI:S1B-026#114:1:A>
+<{> But don't
+
+ <$B> 
+<ICE-PHI:S1B-026#115:1:B>
+Uh
+
+ <$A> 
+<ICE-PHI:S1B-026#116:1:A>
+But don't you find that that uhm there 's also a limited range of of ideas and and and you know <{> <[> when you feel the idea </[> needs to evolve
+
+ <$C> 
+<ICE-PHI:S1B-026#117:1:C>
+<[> Actually </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-026#118:1:B>
+When it 's with the family
+
+ <$C> 
+<ICE-PHI:S1B-026#119:1:C>
+There is always a clash of ideas
+
+ <$A> 
+<ICE-PHI:S1B-026#120:1:A>
+It 's all the same people
+
+ <$C> 
+<ICE-PHI:S1B-026#121:1:C>
+'Cause like like us we are brothers and sisters uh so we have the same ideas but different application
+ 
+<ICE-PHI:S1B-026#122:1:C>
+So that 's why we always clash
+ 
+<ICE-PHI:S1B-026#123:1:C>
+But you know it 's good in the end that you find you find comfort that you you still have a brother and a sister with you to run the business
+
+ <$A> 
+<ICE-PHI:S1B-026#124:1:A>
+You didn't start the business with uh with family right
+ 
+<ICE-PHI:S1B-026#125:1:A>
+You started with friends
+
+ <$E> 
+<ICE-PHI:S1B-026#126:1:E>
+I started with friends yeah
+
+ <$A> 
+<ICE-PHI:S1B-026#127:1:A>
+And uhm did you think it was uhm necessary to start first with friends even if you had bad experiences later on
+ 
+<ICE-PHI:S1B-026#128:1:A>
+You couldn't have done it without friends
+
+ <$E> 
+<ICE-PHI:S1B-026#129:1:E>
+Well I think I could have but ideally I wanted to work with my friends
+ 
+<ICE-PHI:S1B-026#130:1:E>
+You know work together be all in one place and
+
+ <$A> 
+<ICE-PHI:S1B-026#131:1:A>
+Put in the long hours in the beginning
+
+ <$E> 
+<ICE-PHI:S1B-026#132:1:E>
+Right yeah but uhm it just didn't work out the way I wanted it to be and instead of prolonging it when we realized that we couldn't work together we just had to part ways rather than going on and then you know I believe you have to whatever you feel say it
+ 
+<ICE-PHI:S1B-026#133:1:E>
+Don't keep it in your like don't keep it and let it build up inside
+ 
+<ICE-PHI:S1B-026#134:1:E>
+You have to express how you feel
+
+ <$A> 
+<ICE-PHI:S1B-026#135:1:A>
+But <{> <[> but when you had </[> when you had this business with friends you owned the entire company then
+
+ <$E> 
+<ICE-PHI:S1B-026#136:1:E>
+<[> Open communication </[> </{> 
+ 
+<ICE-PHI:S1B-026#140:1:E>
+No I didn't
+
+ <$A> 
+<ICE-PHI:S1B-026#137:1:A>
+You did not
+
+ <$E> 
+<ICE-PHI:S1B-026#138:1:E>
+No uh
+
+ <$A> 
+<ICE-PHI:S1B-026#139:1:A>
+<{> <[> You had to buy them out </[> 
+
+ <$B> 
+<ICE-PHI:S1B-026#140:1:B>
+<[> You had to buy </[> 
+
+ <$E> 
+<ICE-PHI:S1B-026#141:1:E>
+<[> I had to buy them out </[> </{> later on
+ 
+<ICE-PHI:S1B-026#142:1:E>
+It was offered to me just because I was the one who brought back the idea and they feel they have to offer it to me first
+
+ <$B> 
+<ICE-PHI:S1B-026#143:1:B>
+Uh uhm
+
+ <$E> 
+<ICE-PHI:S1B-026#144:1:E>
+Before like it 's offered to someone else
+
+ <$B> 
+<ICE-PHI:S1B-026#145:1:B>
+Right
+
+ <$D> 
+<ICE-PHI:S1B-026#146:1:D>
+<unclear> words </unclear> yeah
+
+ <$A> 
+<ICE-PHI:S1B-026#147:1:A>
+Did you have that in an in an agreement you know uh pre-emptive right
+
+ <$E> 
+<ICE-PHI:S1B-026#148:1:E>
+Uhm not <{> <[> really </[> 
+
+ <$A> 
+<ICE-PHI:S1B-026#149:1:A>
+<[> <unclear> words </unclear> </[> </{> 
+
+ <$E> 
+<ICE-PHI:S1B-026#150:1:E>
+It was just an understanding
+ 
+<ICE-PHI:S1B-026#151:1:E>
+We had a meeting we called a meeting and they all agreed that I think it 's best that it was offered to me 'cause I owned like majority of the the corporation yeah
+
+ <$B> 
+<ICE-PHI:S1B-026#152:1:B>
+Uh uhm
+
+ <$E> 
+<ICE-PHI:S1B-026#153:1:E>
+Fifty percent so
+
+ <$B> 
+<ICE-PHI:S1B-026#154:1:B>
+What about like uh drawing the line when does that like family businesses how do you do that
+ 
+<ICE-PHI:S1B-026#155:1:B>
+With you have a restaurant and it 's all your brothers and sisters
+ 
+<ICE-PHI:S1B-026#156:1:B>
+They 're running it
+ 
+<ICE-PHI:S1B-026#157:1:B>
+I mean is it easy to fight with them because they 're your brothers and sisters
+
+ <$C> 
+<ICE-PHI:S1B-026#158:1:C>
+Yes when we were young our our parents instilled in them that I should be the
+
+ <$B> 
+<ICE-PHI:S1B-026#159:1:B>
+<{> <[> The <indig> kuya </indig> </[> <O> laughter </O> 
+
+ <$C> 
+<ICE-PHI:S1B-026#160:1:C>
+<[> I 'm the </[> </{> eldest right
+ 
+<ICE-PHI:S1B-026#161:1:C>
+So when arguments arise you know they would in the end they would respect my opinion
+ 
+<ICE-PHI:S1B-026#162:1:C>
+And it it it works out that way
+
+ <$A> 
+<ICE-PHI:S1B-026#163:1:A>
+I guess most of the quarrel is whether to expand or it 's a good thing let 's not lose let 's not put in any more money to expand <{> <[> it and then lose it all </[> 
+
+ <$E> 
+<ICE-PHI:S1B-026#164:1:E>
+<[> Actually the fight normally </[> </{> starts either when you 're losing money or when you 're earning too much money
+ 
+<ICE-PHI:S1B-026#165:1:E>
+That 's where the differences come in
+
+ <$G> 
+<ICE-PHI:S1B-026#166:1:G>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1B-026#167:1:B>
+Okay well we 're gonna take a break here on Points of View
+ 
+<ICE-PHI:S1B-026#168:1:B>
+Stay tuned
+ 
+<ICE-PHI:S1B-026#169:1:B>
+We 'll be right back <&> commercial break </&> 
+ 
+<ICE-PHI:S1B-026#170:1:B>
+Okay welcome back to <mention> Points of View </mention> 
+ 
+<ICE-PHI:S1B-026#171:1:B>
+The question that we 're gonna ask in this segment is why is it that <indig> Pinoys </indig> love to get into business first with family and friends
+ 
+<ICE-PHI:S1B-026#172:1:B>
+Why why why do they need to have these people around them
+ 
+<ICE-PHI:S1B-026#173:1:B>
+What do you think it is
+ 
+<ICE-PHI:S1B-026#174:1:B>
+You have a business with your friend right
+
+ <$D> 
+<ICE-PHI:S1B-026#175:1:D>
+Family
+
+ <$B> 
+<ICE-PHI:S1B-026#176:1:B>
+Family <{> <[> also </[> 
+
+ <$D> 
+<ICE-PHI:S1B-026#177:1:D>
+<[> Right </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-026#178:1:B>
+I thought it was your it 's not with friends <{> <[> only </[> family
+
+ <$D> 
+<ICE-PHI:S1B-026#179:1:D>
+<[> No </[> </{> 
+ 
+<ICE-PHI:S1B-026#180:1:D>
+Family
+
+ <$B> 
+<ICE-PHI:S1B-026#181:1:B>
+Okay
+
+ <$D> 
+<ICE-PHI:S1B-026#182:1:D>
+Well our reason is probably because of security comfort and you know you don't wanna make your mistakes
+
+ <$B> 
+<ICE-PHI:S1B-026#183:1:B>
+Uh uhm
+
+ <$D> 
+<ICE-PHI:S1B-026#184:1:D>
+And it 's so much easier to correct your mistakes among family uh you know
+
+ <$G> 
+<ICE-PHI:S1B-026#185:1:G>
+Now how many how many people in your family is part of the business
+ 
+<ICE-PHI:S1B-026#186:1:G>
+Are all your brothers do you have brothers and sisters
+
+ <$D> 
+<ICE-PHI:S1B-026#187:1:D>
+We have seven partners are all related
+
+ <$B> 
+<ICE-PHI:S1B-026#188:1:B>
+Uh uhm
+
+ <$G> 
+<ICE-PHI:S1B-026#189:1:G>
+Uh so they 're not all immediate
+
+ <$D> 
+<ICE-PHI:S1B-026#190:1:D>
+No
+
+ <$G> 
+<ICE-PHI:S1B-026#191:1:G>
+<indig> Pinsan </indig> 
+
+ <$D> 
+<ICE-PHI:S1B-026#192:1:D>
+Direct direct
+
+ <$G> 
+<ICE-PHI:S1B-026#193:1:G>
+Direct
+
+ <$D> 
+<ICE-PHI:S1B-026#194:1:D>
+Uh first cousin like two first cousins and uh three direct my brother and my sister and the rest are
+
+ <$G> 
+<ICE-PHI:S1B-026#195:1:G>
+And are there any brothers and sisters you have there that are not a part of it
+
+ <$D> 
+<ICE-PHI:S1B-026#196:1:D>
+Yes
+
+ <$G> 
+<ICE-PHI:S1B-026#197:1:G>
+Why why didn't you uh <unclear> words </unclear> you know
+
+ <$D> 
+<ICE-PHI:S1B-026#198:1:D>
+By the time we incorporated the the the caf&eacute; or the store Figaro
+ 
+<ICE-PHI:S1B-026#199:1:D>
+Two of them were not in the country then
+
+ <$B> 
+<ICE-PHI:S1B-026#200:1:B>
+Uh uhm
+
+ <$D> 
+<ICE-PHI:S1B-026#201:1:D>
+It was just us you know
+ 
+<ICE-PHI:S1B-026#202:1:D>
+We had a very very bonded family barbecue every Sunday so
+
+ <$G> 
+<ICE-PHI:S1B-026#203:1:G>
+But did you ask them to join in this thing you know
+
+ <$D> 
+<ICE-PHI:S1B-026#204:1:D>
+Uhm they 're most welcome when we have some expansion program we invite them first and foremost
+
+ <$B> 
+<ICE-PHI:S1B-026#205:1:B>
+Right
+ 
+<ICE-PHI:S1B-026#206:1:B>
+Okay
+
+ <$D> 
+<ICE-PHI:S1B-026#207:1:D>
+<{> <[> They get first </[> option of course
+
+ <$B> 
+<ICE-PHI:S1B-026#208:1:B>
+<[> Well that 's good </[> </{> 
+ 
+<ICE-PHI:S1B-026#209:1:B>
+That 's good
+ 
+<ICE-PHI:S1B-026#210:1:B>
+Uhm how about with your wife
+ 
+<ICE-PHI:S1B-026#211:1:B>
+Are are there any other people in your business <{> <[> now involved </[> 
+
+ <$F> 
+<ICE-PHI:S1B-026#212:1:F>
+<[> Well actually </[> </{> we hired a lot of friends
+
+ <$B> 
+<ICE-PHI:S1B-026#213:1:B>
+Friends <{> <[> okay </[> 
+
+ <$F> 
+<ICE-PHI:S1B-026#214:1:F>
+<[> Uh </[> </{> from school and uhm I think we got them because uh well our business it requires a lot of uh
+
+ <$G> 
+<ICE-PHI:S1B-026#215:1:G>
+Skills
+
+ <$F> 
+<ICE-PHI:S1B-026#216:1:F>
+Uh skill and the people we needed their skill actually who were we used to climb with
+
+ <$B> 
+<ICE-PHI:S1B-026#217:1:B>
+Uh uhm
+
+ <$F> 
+<ICE-PHI:S1B-026#218:1:F>
+When we were in college
+
+ <$B> 
+<ICE-PHI:S1B-026#219:1:B>
+Uh uhm
+ 
+<ICE-PHI:S1B-026#220:1:B>
+But what happens if you if uh you know you get into have a falling out and something like that and uhm you need to fire someone that 's in your business
+
+ <$F> 
+<ICE-PHI:S1B-026#221:1:F>
+Actually uh we 've gotten close to that already
+
+ <$B> 
+<ICE-PHI:S1B-026#222:1:B>
+Uh <{> <[> yeah </[> 
+
+ <$F> 
+<ICE-PHI:S1B-026#223:1:F>
+<[> A </[> </{> very good friend uh uh actually the first option that we had was uh not fire but uh lie low
+
+ <$B> 
+<ICE-PHI:S1B-026#224:1:B>
+Uh uhm
+
+ <$F> 
+<ICE-PHI:S1B-026#225:1:F>
+Uhm save the friendship
+ 
+<ICE-PHI:S1B-026#226:1:F>
+<{> <[> It was </[> actually uh it was actually a move to to save what we used to cherish in the day you know
+
+ <$B> 
+<ICE-PHI:S1B-026#227:1:B>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1B-026#233:1:B>
+Uh uhm
+
+ <$G> 
+<ICE-PHI:S1B-026#228:1:G>
+Or if it 's an employee he 's out when you <unclear> words </unclear> 
+
+ <$F> 
+<ICE-PHI:S1B-026#229:1:F>
+Yeah because someone you just someone who hired <.> espes </.> uh someone who applied actually for a job
+
+ <$G> 
+<ICE-PHI:S1B-026#230:1:G>
+So what happened
+ 
+<ICE-PHI:S1B-026#231:1:G>
+So what happened after
+ 
+<ICE-PHI:S1B-026#232:1:G>
+I <{> <[> mean after </[> he lied low
+
+ <$F> 
+<ICE-PHI:S1B-026#233:1:F>
+<[> It was </[> </{> 
+ 
+<ICE-PHI:S1B-026#234:1:F>
+Uh it was painful
+ 
+<ICE-PHI:S1B-026#235:1:F>
+<indig> Mga matagal na </indig> 
+ 
+<ICE-PHI:S1B-026#236:1:F>
+We had a big debate
+
+ <$G> 
+<ICE-PHI:S1B-026#237:1:G>
+So are you saying like <indig> pare </indig> you should resign or something like that
+
+ <$F> 
+<ICE-PHI:S1B-026#238:1:F>
+No no <O> laughter </O> 
+
+ <$G> 
+<ICE-PHI:S1B-026#239:1:G>
+No but but it 's normally the way it happens <indig> 'pag </indig> among <indig> kaibigan </indig> 
+ 
+<ICE-PHI:S1B-026#240:1:G>
+You normally ask the closest friend to talk to him
+
+ <$F> 
+<ICE-PHI:S1B-026#241:1:F>
+Yeah
+
+ <$G> 
+<ICE-PHI:S1B-026#242:1:G>
+As a warning
+
+ <$B> 
+<ICE-PHI:S1B-026#243:1:B>
+<indig> Oo </indig> 
+
+ <$D> 
+<ICE-PHI:S1B-026#244:1:D>
+Then you know eventually if it still persists then you know you tell him the board is already recognizing your flaws for example then you know as a warning you know already
+
+ <$G> 
+<ICE-PHI:S1B-026#245:1:G>
+But should it happen
+ 
+<ICE-PHI:S1B-026#245:1:G>
+Do you give do you give more chances
+
+ <$B> 
+<ICE-PHI:S1B-026#247:1:B>
+Is it hard to
+
+ <$G> 
+<ICE-PHI:S1B-026#248:1:G>
+But do you give more chances
+
+ <$D> 
+<ICE-PHI:S1B-026#249:1:D>
+Oh yeah
+
+ <$E> 
+<ICE-PHI:S1B-026#250:1:E>
+Yeah
+ 
+<ICE-PHI:S1B-026#251:1:E>
+You give more considerations
+
+ <$G> 
+<ICE-PHI:S1B-026#252:1:G>
+You give third fourth fifth chance
+
+ <$D> 
+<ICE-PHI:S1B-026#253:1:D>
+<{> <[> Super </[> lenient
+
+ <$E> 
+<ICE-PHI:S1B-026#254:1:E>
+<[> Yeah </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-026#255:1:B>
+But I wanna ask you this is it hard to uhm okay fine you have the these uh warnings or whatever right
+ 
+<ICE-PHI:S1B-026#256:1:B>
+Uhm you give memos out also you do that I mean
+
+ <$D> 
+<ICE-PHI:S1B-026#257:1:D>
+No no no not among directors
+ 
+<ICE-PHI:S1B-026#258:1:D>
+I suppose you don't do that
+ 
+<ICE-PHI:S1B-026#259:1:D>
+But normally in <w> directors' </w> meeting
+
+ <$B> 
+<ICE-PHI:S1B-026#260:1:B>
+Uh uhm
+
+ <$D> 
+<ICE-PHI:S1B-026#261:1:D>
+What I would probably anticipate is you know you open up and put out your mistakes or you lay out this happened in this outlet this is what 's happening right now in the in the business and
+
+ <$B> 
+<ICE-PHI:S1B-026#262:1:B>
+Uh uhm
+
+ <$D> 
+<ICE-PHI:S1B-026#263:1:D>
+We see that there 's a a weak point here and of course who 's responsible for this 
+
+ </I> 

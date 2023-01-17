@@ -1,0 +1,522 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-012#1:1:A>
+Before we take up the <mention> Caucasian Chalk Circle </mention> 
+ 
+<ICE-PHI:S1B-012#2:1:A>
+I hope everybody has read it
+ 
+<ICE-PHI:S1B-012#3:1:A>
+How many of you have read it
+ 
+<ICE-PHI:S1B-012#4:1:A>
+Only one <O> laughter from students </O> 
+
+ <$B> 
+<ICE-PHI:S1B-012#5:1:B>
+<indig> Nabasa ko po 'yong </indig> start <indig> lang pero hindi ko natapos </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-012#6:1:A>
+That 's alright
+
+ <$C> 
+<ICE-PHI:S1B-012#7:1:C>
+Miss <indig> 'yong </indig> summary <indig> lang </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-012#8:1:A>
+Summary
+ 
+<ICE-PHI:S1B-012#9:1:A>
+Where did you get the summary
+
+ <$Z> 
+<ICE-PHI:S1B-012#10:1:Z> <X> <&> the students answer in chorus </&> Miss <indig> sa </indig> library </X> 
+
+ <$A> 
+<ICE-PHI:S1B-012#11:1:A>
+You looked up the summary first
+ 
+<ICE-PHI:S1B-012#12:1:A>
+Alright now we will take up the <mention> Caucasian Chalk Circle </mention> which I expected everybody to read to have read
+ 
+<ICE-PHI:S1B-012#13:1:A>
+I 'd like to sort of go back and trace the development of uh the drama so that you would understand more or less what uh <,> Bertolt Brecht <,> sort of uh innovated if you call it uh innovation <indig> 'no </indig> of what he did
+ 
+<ICE-PHI:S1B-012#14:1:A>
+And I hope you remember what you have seen
+ 
+<ICE-PHI:S1B-012#15:1:A>
+Like for instance the Japanese play the <foreign> Noh </foreign> play the film that you saw and the <foreign> Kabuki </foreign> because I will be referring to this
+ 
+<ICE-PHI:S1B-012#16:1:A>
+I 'll also be talking about the Chinese drama traditional Chinese drama which is called in the West the Peking Opera <,> okay
+ 
+<ICE-PHI:S1B-012#17:1:A>
+Alright <,> if you remember in the Greek theater <,> when we were talking about the Greek theater some very interesting aspects in uh the script especially that of <w> Sophocles' </w> <mention> Oedipus Rex </mention> <,> 
+ 
+<ICE-PHI:S1B-012#18:1:A>
+You find two characters at uh a time on stage talking about the problems the problems uh <unclear> word </unclear> you create are associated with uh what the gods had uh <,> decreed
+ 
+<ICE-PHI:S1B-012#19:1:A>
+In the case of Oedipus Rex it was a matter of uh defining fate
+ 
+<ICE-PHI:S1B-012#20:1:A>
+You know the role of fate in the in the life of Oedipus
+ 
+<ICE-PHI:S1B-012#21:1:A>
+The one interesting thing about the Greek theater is that it had a chorus
+ 
+<ICE-PHI:S1B-012#22:1:A>
+And the function of the chorus was not just to speak out on the apparent uh thoughts of the character what was going on in his mind but also the Greek chorus tried to tell us about what happened in the past so that we would fill the gaps there in your knowledge of the plot
+ 
+<ICE-PHI:S1B-012#23:1:A>
+So that 's the Greek Greek theater
+ 
+<ICE-PHI:S1B-012#24:1:A>
+Also we noticed that in the presentation of the plays in the amphitheater in Greece they had not much of what we would consider today as necessary on a realistic stage
+ 
+<ICE-PHI:S1B-012#25:1:A>
+The backdrop the scenery the effort to make everything illusionary
+ 
+<ICE-PHI:S1B-012#26:1:A>
+There was no attempt at that in the Greek drama <&> break in the recording </&> 
+ 
+<ICE-PHI:S1B-012#27:1:A>
+Notice that the language used was exalted language
+ 
+<ICE-PHI:S1B-012#28:1:A>
+Poetry was used
+ 
+<ICE-PHI:S1B-012#29:1:A>
+Right
+ 
+<ICE-PHI:S1B-012#30:1:A>
+Okay
+ 
+<ICE-PHI:S1B-012#31:1:A>
+And the characters who participated or the characters the characters of the stories were noble characters noble characters mostly uh rulers kings queens and what happened to them
+ 
+<ICE-PHI:S1B-012#32:1:A>
+So that the fall of these characters the tragedy would really create an interesting impact that of pity and fear and eventually of course this would produce catharsis
+ 
+<ICE-PHI:S1B-012#33:1:A>
+I think we defined that <indig> 'no </indig> in tragedy
+ 
+<ICE-PHI:S1B-012#34:1:A>
+Now <,> that was classical tragedy
+ 
+<ICE-PHI:S1B-012#35:1:A>
+Then Elizabethan tragedy which we took up also showed something else <,> 
+ 
+<ICE-PHI:S1B-012#36:1:A>
+The tragic flaw in the character consisted in the excess of the virtues possessed by the principal character
+ 
+<ICE-PHI:S1B-012#37:1:A>
+And uh again we have uh noble characters
+ 
+<ICE-PHI:S1B-012#38:1:A>
+We have exalted language
+ 
+<ICE-PHI:S1B-012#39:1:A>
+Poetic form
+ 
+<ICE-PHI:S1B-012#40:1:A>
+Hardly is there a Shakespearean play that has prose
+ 
+<ICE-PHI:S1B-012#41:1:A>
+Uh the prose parts if there are any are usually spoken by the fools by the jesters
+ 
+<ICE-PHI:S1B-012#42:1:A>
+There is always that nobility that is <.> excud </.> exuded even in the dialogues <,> 
+ 
+<ICE-PHI:S1B-012#43:1:A>
+And then after that came the Romantic plays the Romantic plays
+ 
+<ICE-PHI:S1B-012#44:1:A>
+Of course <,> again uh portrayed uh things that were fantastic <,> fantastic stories fantastic <.> hap </.> happenings
+ 
+<ICE-PHI:S1B-012#45:1:A>
+Then came the period of realism
+ 
+<ICE-PHI:S1B-012#46:1:A>
+I think we talked about this
+ 
+<ICE-PHI:S1B-012#47:1:A>
+Among the first dramatists you might say involved in realism realistic plays were Ibsen and Hauptmann <&> the teacher writes on the board </&> 
+ 
+<ICE-PHI:S1B-012#48:1:A>
+Okay Ibsen you know very well as the author of
+
+ <$Z> 
+<ICE-PHI:S1B-012#49:1:Z> <X> <&> the students answer in chorus </&> <mention> The Enemy of the People </mention> </X> 
+
+ <$A> 
+<ICE-PHI:S1B-012#50:1:A>
+Okay <mention> The Enemy of the People </mention> 
+ 
+<ICE-PHI:S1B-012#51:1:A>
+What else did he write 
+
+ <$Z> 
+<ICE-PHI:S1B-012#52:1:Z> <X> <&> the students answer in chorus </&> <mention> Doll 's House </mention> </X> 
+
+ <$A> 
+<ICE-PHI:S1B-012#53:1:A>
+<mention> Doll 's House </mention> and <mention> Hedda Gabler </mention> and
+
+ <$Z> 
+<ICE-PHI:S1B-012#54:1:Z> <X> <&> the students answer in chorus </&> <mention> Doll 's House </mention> <mention> Ghosts </mention> </X> 
+
+ <$A> 
+<ICE-PHI:S1B-012#55:1:A>
+Okay you remember what it was uh <unclear> words </unclear> made this realistic
+ 
+<ICE-PHI:S1B-012#56:1:A>
+What characteristic
+ 
+<ICE-PHI:S1B-012#57:1:A>
+Uh what characteristics did his plays have that weren't found in the earlier plays
+ 
+<ICE-PHI:S1B-012#58:1:A>
+What kind of uh heroes did uh did Ibsen have
+ 
+<ICE-PHI:S1B-012#59:1:A>
+Ordinary the common man <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-012#60:1:A>
+Okay the common man and uh well in the case of Ibsen there was a principal character
+ 
+<ICE-PHI:S1B-012#61:1:A>
+There was a a tragic hero but not in the sense that the tragic hero in in the classical way the classical or Elizabethan manner <,> 
+ 
+<ICE-PHI:S1B-012#62:1:A>
+But still tragic <,> 
+ 
+<ICE-PHI:S1B-012#63:1:A>
+This is now the common man
+ 
+<ICE-PHI:S1B-012#64:1:A>
+And uh with Hauptmann in <mention> The Weavers </mention> you have another kind of hero
+ 
+<ICE-PHI:S1B-012#65:1:A>
+It 's not just an individual but a group
+ 
+<ICE-PHI:S1B-012#66:1:A>
+So we have now the collective character the collective hero
+ 
+<ICE-PHI:S1B-012#67:1:A>
+The masses the masses
+ 
+<ICE-PHI:S1B-012#68:1:A>
+Now realism was shown of course in the presentation of some uh almost true-to-life occurrences problems that we would also meet in our lives and we could relate to and the attempt at <,> illusion in the theater was done
+ 
+<ICE-PHI:S1B-012#69:1:A>
+Now what is it
+ 
+<ICE-PHI:S1B-012#70:1:A>
+Uhm you were made to accept everything as if they were all happening uh in the the image of uh a of somebody going to the theater and uh waiting for the lights to <,> to dim and then the curtains opening and what did you find there
+ 
+<ICE-PHI:S1B-012#71:1:A>
+You find a uh a scene that is almost like what you would ordinarily find in actual life
+ 
+<ICE-PHI:S1B-012#72:1:A>
+Complete <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-012#73:1:A>
+So that you you accept this as a a different world altogether and you are transported into that world you accept that world as if it were uh really there as if you were there in that world
+ 
+<ICE-PHI:S1B-012#74:1:A>
+And this is brought about by scenery <unclear> word </unclear> with the idea of course of the fourth wall
+ 
+<ICE-PHI:S1B-012#75:1:A>
+Uh you know what what this is in the drama the fourth wall
+ 
+<ICE-PHI:S1B-012#76:1:A>
+You have let 's say this is the stage uh this this is the fourth wall
+ 
+<ICE-PHI:S1B-012#77:1:A>
+But it 's as if you as spectator here you are watching what 's happening inside a room with this wall removed this fourth wall removed
+ 
+<ICE-PHI:S1B-012#78:1:A>
+So everything here has to be has to be uh has to look like the real thing
+ 
+<ICE-PHI:S1B-012#79:1:A>
+If it is a let us just say let 's say it 's a living room it has to be complete with the living room furniture so that you are you agree to be deceived as it were
+ 
+<ICE-PHI:S1B-012#80:1:A>
+You enter into some kind of an agreement with the director with the actor with the playwright that you are going to accept this as true
+ 
+<ICE-PHI:S1B-012#81:1:A>
+And so for a while when you 're watching the play you are transported into that world transported into that world
+ 
+<ICE-PHI:S1B-012#82:1:A>
+You are a spectator separated from that world as it were by this uh proscenium here by the apron here of the stage and so you 're watching
+ 
+<ICE-PHI:S1B-012#83:1:A>
+You 're just watching
+ 
+<ICE-PHI:S1B-012#84:1:A>
+You 're not participating <,> alright
+ 
+<ICE-PHI:S1B-012#85:1:A>
+You are there you empathize with the characters you 're one with the character characters on stage
+ 
+<ICE-PHI:S1B-012#86:1:A>
+And you go through the emotions that the character also goes through
+ 
+<ICE-PHI:S1B-012#87:1:A>
+The same idea as with uh with the earlier kinds of play
+ 
+<ICE-PHI:S1B-012#88:1:A>
+Now what happened later
+ 
+<ICE-PHI:S1B-012#89:1:A>
+What did Bertolt Brecht introduce that was to depart from this realism <,,> 
+ 
+<ICE-PHI:S1B-012#90:1:A>
+Post-realistic plays
+ 
+<ICE-PHI:S1B-012#91:1:A>
+Well first let 's go back to realism
+ 
+<ICE-PHI:S1B-012#92:1:A>
+We were talking about Ibsen 's uh social realism
+ 
+<ICE-PHI:S1B-012#93:1:A>
+There was also psychological realism the probing into the motivations of the characters and uh this was of course uh uh spurred by scientific uh <,> experiments scientific advances at this time Freud and Jung Carl Jung were the ones who were uh often uh referred to
+ 
+<ICE-PHI:S1B-012#94:1:A>
+Their their probings into uh this psychological make-up of individuals became the uh basis for the very realistic portrayals of the characters
+ 
+<ICE-PHI:S1B-012#95:1:A>
+One such play is <mention> Miss Julie </mention> by uh Strindberg <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-012#96:1:A>
+<mention> Miss Julie </mention> probes into the motivations of some <,> a young girl and uh why she attempts uh to take her life towards the end of the play
+ 
+<ICE-PHI:S1B-012#97:1:A>
+That 's psychological realism
+ 
+<ICE-PHI:S1B-012#98:1:A>
+Social realism of course presents a social problem
+ 
+<ICE-PHI:S1B-012#99:1:A>
+Now you saw that in <mention> Enemy of the People </mention> and you saw how it was <unclear> word </unclear> 
+ 
+<ICE-PHI:S1B-012#100:1:A>
+But there were rebellions against uh too much of this realistic illusionary theater or what we would call realism
+ 
+<ICE-PHI:S1B-012#101:1:A>
+Uhm there were attempts to present what we would call a presentational way of a presentational theater
+ 
+<ICE-PHI:S1B-012#102:1:A>
+These are all representational
+ 
+<ICE-PHI:S1B-012#103:1:A>
+Uhm such an attempt we found in <?> <mention> Arta </mention> </?> <?> <mention> Arta </mention> </?> okay
+ 
+<ICE-PHI:S1B-012#104:1:A>
+And also in the staging of uh in the staging of uh <mention> Death of a Salesman </mention> <mention> Death of a Salesman </mention> 
+ 
+<ICE-PHI:S1B-012#105:1:A>
+While there is still there uh the there is still the probing into the psyche of the individual uh you see that there is an easy switch from an easy switch from past and present and back to <,> to the uh <,> past and then to the present again <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-012#106:1:A>
+Okay
+ 
+<ICE-PHI:S1B-012#107:1:A>
+Uhm another rebellion you might say which could be considered a core of expressionism would be the Brechtian theater uh the <.> Brech </.> the Brechtian play <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-012#108:1:A>
+Bertolt Brecht was Marxist
+ 
+<ICE-PHI:S1B-012#109:1:A>
+Bertolt Brecht was a Marxist
+ 
+<ICE-PHI:S1B-012#110:1:A>
+So when you look at his plays and the manner of presentation you are aware of the social commentary that he puts in there
+ 
+<ICE-PHI:S1B-012#111:1:A>
+But Brecht 's theater which is often referred to as the epic theater has been influenced by a lot of things
+ 
+<ICE-PHI:S1B-012#112:1:A>
+Among them of course the Greek play where you find the chorus included in the epic theater the Elizabethan uh conventions of well the lack of sets
+ 
+<ICE-PHI:S1B-012#113:1:A>
+You know in the Elizabethan theater we pointed out there were no sets really
+ 
+<ICE-PHI:S1B-012#114:1:A>
+Characters talk about the moon and so you know that it 's supposed to be night
+ 
+<ICE-PHI:S1B-012#115:1:A>
+There is no moon painted on some kind of canvas background
+ 
+<ICE-PHI:S1B-012#116:1:A>
+One character would come to the front with a spotted uh crane and that would stand for the Arden Forest
+ 
+<ICE-PHI:S1B-012#117:1:A>
+And the lights were not dimmed nor brightened to show a change in uh in hours uh brightened to make it look like it 's daylight or dimmed in order to make it look like it 's night
+ 
+<ICE-PHI:S1B-012#118:1:A>
+So that 's that 's not done at all in the Elizabethan theater
+ 
+<ICE-PHI:S1B-012#119:1:A>
+Everything is presented in in a bright light
+ 
+<ICE-PHI:S1B-012#120:1:A>
+Now Bertolt Brecht borrowed these conventions and he borrowed also from the uh Japanese and the Chinese way of uh presenting their stories their dramatic presentations
+ 
+<ICE-PHI:S1B-012#121:1:A>
+Uh those of you who watched the <foreign> Noh </foreign> theater the <foreign> Noh </foreign> play did you notice how the characters came on stage <,> 
+ 
+<ICE-PHI:S1B-012#122:1:A>
+Where did they come from <,> 
+ 
+<ICE-PHI:S1B-012#123:1:A>
+You watched <&> one student responds in Tagalog </&> 
+ 
+<ICE-PHI:S1B-012#124:1:A>
+Okay uh the characters would come from the dressing room which is connected by a bridge to the main stage <,> 
+ 
+<ICE-PHI:S1B-012#125:1:A>
+Okay
+ 
+<ICE-PHI:S1B-012#126:1:A>
+And even as the characters would <&> a student asks something </&> 
+ 
+<ICE-PHI:S1B-012#127:1:A>
+One character at a time
+ 
+<ICE-PHI:S1B-012#128:1:A>
+Even as the character moved from the dressing room to the stage you know that he 'd be speaking his line
+ 
+<ICE-PHI:S1B-012#129:1:A>
+But very very slowly okay
+ 
+<ICE-PHI:S1B-012#130:1:A>
+Slow motion
+ 
+<ICE-PHI:S1B-012#131:1:A>
+Very slowly and he would move very very slowly uh and then he would say I am so and so 
+ 
+<ICE-PHI:S1B-012#132:1:A>
+He would introduce himself
+ 
+<ICE-PHI:S1B-012#133:1:A>
+In other words he would be speaking directly now to the audience
+ 
+<ICE-PHI:S1B-012#134:1:A>
+In the realistic theater the actors and the actresses would really uh speak among themselves only
+ 
+<ICE-PHI:S1B-012#135:1:A>
+They would be oblivious of the fact that there is an audience watching them
+ 
+<ICE-PHI:S1B-012#136:1:A>
+They would be in a different world altogether
+ 
+<ICE-PHI:S1B-012#137:1:A>
+Each one is supposed to internalize his role so that he can act out as uh expected
+ 
+<ICE-PHI:S1B-012#138:1:A>
+But in the Brecht theater Brechtian theater there is that direct address to the audience so that the audience is participatory
+ 
+<ICE-PHI:S1B-012#139:1:A>
+Not just a spectator audience <indig> iba na </indig> it 's an observer audience
+ 
+<ICE-PHI:S1B-012#140:1:A>
+And you find that in the and you find that in the <foreign> Noh </foreign> the Japanese theater and in the Chinese theater <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-012#141:1:A>
+In the Beijing Opera or Peking Opera that also happens
+ 
+<ICE-PHI:S1B-012#142:1:A>
+The character would come on stage and would say I am so and so from <,> from that part of China and I have traveled or I am going to travel three miles towards this city 
+ 
+<ICE-PHI:S1B-012#143:1:A>
+And then he walks on stage
+ 
+<ICE-PHI:S1B-012#144:1:A>
+He circles he makes a he goes around the stage three times or on the stage three times and then he would stop at a certain point and he would say I have arrived at the city 
+ 
+<ICE-PHI:S1B-012#145:1:A>
+Okay
+ 
+<ICE-PHI:S1B-012#146:1:A>
+So this this would show that he has traveled three days
+ 
+<ICE-PHI:S1B-012#147:1:A>
+Yes Steph <&> a student gave a long comment but unclear </&> 
+ 
+<ICE-PHI:S1B-012#148:1:A>
+Okay so <,> there 's that direct address as I said to the audience and also uh a lot of telescoping also of events this traveling for instance is supposed to be done uh symbolically or it 's just suggested
+ 
+<ICE-PHI:S1B-012#149:1:A>
+There 's symbolism there
+ 
+<ICE-PHI:S1B-012#150:1:A>
+Uhm and then there 's a lot of mime
+ 
+<ICE-PHI:S1B-012#151:1:A>
+Beijing Opera does a lot of uh mime miming 
+ 
+<ICE-PHI:S1B-012#152:1:A>
+And the Chinese actors are very good at this <,> even in having to step over a stile to enter a house when there is nothing there
+ 
+<ICE-PHI:S1B-012#153:1:A>
+They they they do that very well
+ 
+<ICE-PHI:S1B-012#154:1:A>
+Opening windows
+ 
+<ICE-PHI:S1B-012#155:1:A>
+So mime is there <,> 
+ 
+<ICE-PHI:S1B-012#156:1:A>
+And what did Brecht do
+ 
+<ICE-PHI:S1B-012#157:1:A>
+When he evolved that kind of theater he had stories presented but uh included they were not told chronologically they were they were not told realistically but he involved he involved uh chorus choruses what else
+ 
+<ICE-PHI:S1B-012#158:1:A>
+He involved uh mime
+ 
+<ICE-PHI:S1B-012#159:1:A>
+He involved acrobatics <,> 
+ 
+<ICE-PHI:S1B-012#160:1:A>
+The dressing was done right there on stage
+ 
+<ICE-PHI:S1B-012#161:1:A>
+So there was no need for going backstage to change costumes
+ 
+<ICE-PHI:S1B-012#162:1:A>
+That that was done in many uh Brechtian plays
+ 
+<ICE-PHI:S1B-012#163:1:A>
+All they had to do was turn around and remove the costume and there would be the other thing underneath uh the other the next the costume needed for the next scene would be there underneath
+ 
+<ICE-PHI:S1B-012#164:1:A>
+And that would remind you of what they do also in the Japanese theater
+ 
+<ICE-PHI:S1B-012#165:1:A>
+They did that in the <foreign> Kabuki </foreign> right
+ 
+<ICE-PHI:S1B-012#166:1:A>
+And in the <foreign> Noh </foreign> theater they did that also okay
+ 
+<ICE-PHI:S1B-012#167:1:A>
+Uhm what else did he introduce
+ 
+<ICE-PHI:S1B-012#168:1:A>
+He introduced music
+ 
+<ICE-PHI:S1B-012#169:1:A>
+Uh this would be part of the play itself
+ 
+<ICE-PHI:S1B-012#170:1:A>
+The the songs were chanted or were sung and there were usually ballads which he adapted and he did not require actors with good singing voices
+
+ </I> 

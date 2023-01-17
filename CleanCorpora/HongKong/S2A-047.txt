@@ -1,268 +1,427 @@
-<I>
-school timetabling tasks uh can be roughly di 
+""
+""
+school timetabling  tasks  uh can be roughly  di 
 uh divided into two part
+""
 the first part is called timetable planning the other part is called
-timetable si scheduling
-uh the timetable planning is that uhm we have some people
+timetable  si  scheduling
+""
+uh the timetable planning is that  uhm we have some people
 usually are senior staff member in the school 
-uh he or she will identify the resources that will be needed 
-in order to uh uh uh uh to conduct a lesson
-for example uh what sort of room will be used for a particular
+""
+uh he or she will identify  the resources that will be needed 
+in order to  uh  uh uh uh to conduct a lesson
+""
+for example uh  what sort of room will be used for a particular
 particular lesson
-for example pe of course uh physical education lesson will need
+""
+for example pe of course uh physical education  lesson will need
 to use uh playground 
-so those first of all we have to associate all those
+""
+so  those  first of all we have to associate all those
 resources with the lesson need
-and we have uhm we we also need to identify any resources
-constraint such as uh uh resource are weak in budget
+""
+and we have  uhm we we also need to identify any resources
+constraint such as uh  uh resource  are weak  in budget
+""
 uh for example whether a teacher will available at a particular time
+""
 or whether a room or class will be available et cetera 
-uh we also need to identify all the timetable uh timetabling
-constraint happens such as uhm many school would have these sort of
+""
+uh  we also need to identify all the timetable uh timetabling
+constraint happens such as uhm many school would have  these  sort of
 requirement
+""
 or no pe lesson after lunch
+""
 i mean it maybe maybe after lunch
-and uh they are very uh uh particular uhm uhm 
+""
+and uh they are very  uh uh particular uhm  uhm 
 constraints in some some schools
-for example some primary school would have a constraint such
+""
+for example some  primary school would have a constraint such
 that pe lesson or particular class will not be conducted in successive base
-uhm the reason is uh quite quite strange to me
+""
+uhm the reason is uh  quite quite strange to me
+""
 cause uh they they do have a reason
-uhm the reason is uhm
-when a when a pupil have a pe lesson
-then he uh when when he or she uh go uh when he or she uh goes
+""
+uhm  the reason is uhm
+""
+when a when a pupil  have a pe lesson
+""
+then he uh when when he or she  uh go uh when he or she uh goes
 home
-then the they need to wash their pe uniform and uh the 
+""
+then the  they need to wash their pe uniform and uh the 
+""
 therefore the uhm the uniform may not be able to dry up you uh in
 time
-so that ' s why they need to uh have 
-they they need to uh separate the pe lesson for uh for for 
+""
+so that  ' s why they need to  uh have 
+""
+they they need to uh separate  the pe lesson for uh for for 
 primary school
-and what with identify all those uh constraint maybe
+""
+and what  with  identify all those uh constraint maybe
 course available
-then of course we need to assign or some teacher to conduct to
+""
+then of course we need  to assign or some teacher to conduct to
 some lesson
-i what but but uh when i said assign uh i mean associating uh
-lessons with uh teachings that ' s all
-so for example uhm teacher a maybe assigned to teach a
-number of classes for a particular subject uh with a particular number of
+""
+i what but  but uh when i said assign uh i mean associating uh
+lessons with uh teachings that  ' s all
+""
+so  for example uhm  teacher a maybe assigned to teach a
+number of classes for a particular subject  uh with a particular number of
 meeting uh number of lessons
+""
 of course we also need to identify how long the lesson would be
-would that be ten uh single period lesson
+would that be  ten uh single period lesson
+""
 or would that would that be uh two single period lesson and 
 three double period lesson et cetera 
+""
 so usually now this i think all these tasks will be prepared by a
 senior staff member in the school 
+""
 however the scheduling tasks may not be done by the senior staff
+""
 it maybe done by some junior staff
-you know that it ' s a very one- word task
-so senior staff can ask somebody to help them
-and uhm we we understand that the task is to assign all lessons
- uh to the schoolmaster ' s timetable
+""
+you know that it  ' s a very  one- word  task
+""
+so  senior  staff can ask somebody to help them
+""
+and uhm  we we understand that the task is to assign all lessons
+ uh  to the schoolmaster  ' s timetable
+""
 so that all constraint will be satisfied
-and any preferences or if there are any preferences then uh
+""
+and any preferences  or if there are any preferences  then uh
 we help you uhm
-then she will then as many as uhm as many preferences as
+""
+then she will then as many as  uhm  as many preferences as
 possible will be fixed by as well
+""
 and uh usually we will uh find that uh at the end of the timetable
  process i would
+""
 when i say at the end of the timetabling process i mean
+""
 uh even though uh when we use a computer to try to solve the
 problem
+""
 usually we won't be able to solve them all
+""
 then maybe uh three percent of the lessons need to be addressed uh
 manually
-and uh it is uhm not unusual to pick uh more than hundred
+""
+and  uh  it is uhm not unusual to pick uh more than hundred
 many hours completed to to complete the whole task 
-and uh i ' ll give you some supporting evidences in a min 
+""
+and uh i  ' ll give you some supporting evidences in a  min 
 in a minute 
-and uhm in nineteen ninety nineteen ninety five uh
-education department uh introduced its first timetabling software for
+""
+and uhm in  nineteen ninety  nineteen ninety five uh
+education department  uh introduced its first timetabling software for
 school use
-it ' s called pdss
-uh pdss uh in fact uh was awaking uh as a annual field
+""
+it  ' s called pdss
+""
+uh pdss  uh in fact  uh was awaking uh as a annual field
 project in uhm uhm chinese u
-and uhm in uhm ninety five of 
+""
+and uhm  in uhm  ninety five of 
+""
 uhm the work has been customized and uh introduced for school use
+""
 and uh it is integrated as a part of uh tbss
-uh sorry as a sams component
+""
+uh sorry as a  sams  component
+""
 and uh the system was written in c in c language
-uhm so the integration of uh tdss to sams is not as kind
+""
+uhm so the integration of uh tdss to  sams  is not as kind
  as uh ed would like to see
-because uhm they use uh two different setup environments
-and uhm for those who don't have any ideas on sams 
- sams is a school administrating system offered by the ed
+""
+because uhm  they use uh two different setup environments
+""
+and uhm  for those who don't have any ideas on  sams 
+""
+ sams  is a school administrating system offered by the ed
 for school use
-and uhm in the uhm back engine of the uhm system
-i mean the sams course system uh is one-word
+""
+and uhm in the  uhm back engine of the  uhm system
+""
+i mean the  sams course  system  uh is  one-word
  
+""
 and pdss was decided as a decision support system
-uhm the idea uh was uh it is very hard for uh computer to able
-to know all the uh all the proper decision but uh the decision rule
-that have been uh inside the mind of a timetabling expert
-so the there will be kind of thing is much uh better
-it is a much better idea to have a system which provide
-some constraint package as well as some uh decision tools to aim the
+""
+uhm the idea  uh was uh it is very hard for uh computer to able
+to know all the uh all the proper decision but uh the  decision  rule
+that have  been uh inside the mind of a timetabling expert
+""
+so the there will be kind of  thing is much uh better
+""
+it is a much better idea to  have a system  which provide
+some constraint package as well as  some uh  decision tools to aim the
 timetable or the timetabling to do the job 
-and next i would like to uh introduce uh the good surveys
+""
+and  next i would like to uh introduce uh the  good surveys
 that i mentioned early
-the first one uh was conducted by uh a number of
+""
+the first one  uh was conducted by  uh  a number of
 researchers
-uh by kwok kwong and one-word of uhm
+""
+uh by kwok kwong and  one-word  of  uhm
+""
 doctor kwok is from the uhm city university and mr kwong is
-currently work uh as a lecturer in the in the uhm one-word
- hong kong i ed 
-i ' m not quite sure where ' s uhm about him
+currently work uh as a lecturer in the  in the uhm   one-word
+  hong kong i  ed 
+""
+i  ' m not quite sure  where  ' s  uhm about him
+""
 and uhm they conduct the survey in october nineteen ninety nineteen
 ninety five 
-and uhm aim is to try to understand the timetabling
+""
+and uhm  aim is  to try to understand the timetabling
 problem for secondary schools
-and uh they send out all hundred and eighty questionnaire
-or which covers almost all the secondary schools in hong
+""
+and uh they send  out all hundred and eighty questionnaire
+""
+or which covers almost  all  the secondary schools in hong
 kong
+""
 and uh one hundred and seventy three uh were returned 
-and uh what as we known though
-most of the respondings are are of are come from the
+""
+and uh what  as we known though
+""
+most of the   respondings  are are of are come from the
 uh grammars school
-there are a few uh respondent from uhm some special
+""
+there are a few uh  respondent from  uhm  some special
 school but not many 
-and uh what they found the that uhm
+""
+and uh what they  found  the  that uhm
+""
 the number of teachers in a schools around uhm fifty two or fifty
 three which is an average number
-and the number of classroom as a test room in a school 
-is about twenty five and about uh thirty 
-and number of classes is around thir uh sorry twenty nine
+""
+and the number of classroom  as a test  room in a school 
+is about twenty five and about uh  thirty 
+""
+and number of classes is around  thir  uh sorry twenty nine
+""
 when you read those figures then you you may notice that
-the number of classroom i mean the average number is twenty
+""
+the number of classroom  i mean the average number is twenty
 five or twenty six
-however the number of classes is twenty nine
-so that ' s mean we do not have enough spared classroom to
+""
+however the number of classes  is twenty nine
+""
+so that  ' s mean we do not have enough  spared  classroom to
 support all the classes
-that means some of the classes will not will not uh have
+""
+that means  some of the classes will not will not  uh have
 any home room 
+""
 and uhm quickly the number of time slot in a teaching cycle is
 around uh twenty seven 
+""
 so most of the school will adopt a teaching cycle of five or six
 days
-and uhm for each day you will have uh eight or nine periods of
+""
+and uhm for each day you will have uh eight or nine  periods of
 lessons 
+""
 and uhm the researchers uh found the problem is quite complex in a
 sense that uh the number of free
+""
 uh there are some uh uh free lessons uh 
-on average there are about five uh free lessons per time slot
-when i when i say a free lesson that means a lesson will
+""
+on average there are about five uh free lessons per  time slot
+""
+when i when i say a  free  lesson that means a lesson will
+""
+""
 uh a class of student will be split into two or more groups
+""
 so that they have to go to different rooms to attend the lesson
+""
 so at least two rooms and two teachers will be asked to attend a
 free lesson
+""
 and the situation will be getting more complicated if we have to
 split and combine
+""
 so perhaps we have three group of students split into 
+""
 sorry three classes of students split into five groups
+""
 and uh they maybe taught by uh different uh teachers in different
  venue
+""
 and of course there are more complicated uh timetabling
 requirement
-and i ' ll uh give you some idea on on those requirement uh later
+""
+and i  ' ll uh give you some idea on on those requirement uh later
 on 
-and uhm there are uh double period and thirdable period
+""
+and uhm there are uh double period and  thirdable  period
 lesson as well
-uhm it sounds of uhm it sounds of quite usual with the why
+""
+uhm  it sounds of  uhm it sounds of quite usual with the why
  uh i mention it that
-i mention are those further case instead of who would not
-allow uh uh the multi period lessons to be uh placed across recess or
+""
+i mention are those further case instead  of who would not
+allow uh  uh the multi period lessons to be uh  placed across recess or
 lunch
+""
 that is the usual case
-uh however they they had there are some school uhm such that
-they they they may allow uh to have multi period lesson it places
-across recess if they are not able to find a sit any other suitable
+""
+uh however they they had there are some school uhm  such that
+they they they may allow uh to have multi period lesson  it  places
+across recess if they are not able to find a  sit  any other suitable
 places for those lessons 
+""
 so if we have more this sort of multi period lessons that means uh
-we we do not have uh tut 
+we we do not have  uh   tut 
+""
 or we may have a a a smaller degree of flexibility in placing
 those period into a time into a timetable
-and uhm regarding the timetabling method on 
-they found the average number of hours spended or in
-constructing a timetable at that time would be uh around a hundred and
-sixty hour 
-and uh uh no notice that this particular figure include uh
+""
+and uhm  regarding the timetabling method on 
+""
+they found the average number of hours  spended  or in
+constructing a timetable at that time  would be uh around a hundred and
+sixty  hour  
+""
+and uh  uh  no notice that this particular figure include uh
 those school who construct their timetable manually or with the use of
 computer 
-uhm so it it will depend more data about the
+""
+uhm  so  it it will  depend  more data about the
 degree of population of that is a use of that can use with a with the
 timetabling task
-all twenty two percent uhm conduct the timetabling task
+""
+all twenty two percent  uhm conduct the timetabling task
 manually
-and uhm the rest seventy eight percent use a several
+""
+and uhm the rest seventy eight percent use a  several
 words 
+""
 however only three five percent uh
+""
 sorry five uh twenty five percent of uh schools use computer only
-for constraint checking that means uh they have to make a decision where
+for constraint checking  that means uh they have to make a decision where
 to put a particular uh lessons onto the master timetable
-so it ' s one-word uh manual de uh
+""
+so it  ' s  one-word  uh manual  de  uh
 uhm decision to be done manually
+""
 so basically the scheduling task is performed by the human being
-and the other twenty five percent are in use some uhm
+""
+""
+and  the other twenty five percent are in use some uhm
  one-word 
+""
 uhm sorry use the computer tools to uh generate the timetable uh
  one-word 
-uh however these twenty five percent of people had to do some
- many work after the timetabling process
-because uh they found the the pins was not worth enough
+""
+uh however these twenty five percent of people had to do  some
+ many work after the  timetabling  process
+""
+because uh they found the the  pins  was not worth enough
 to generate the whole timetable for them 
-only around nine percent of the schools care 
+""
+only around nine percent of the schools  care 
+""
 they were able to generate the whole timetable with the with the
-use of the one-word timetable software
+use of the   one-word  timetable software
+""
 because if we look at these
-uh you may sum up these two figure then you can see that uh uh
+""
+uh you may sum up these two figure  then you can see that uh uh
  about fifty seven percent of schools generate the timetable manually 
 a long pause 
-and uh they also look at uhm those completion rate of or the
+""
+and  uh they also look at uhm those completion rate of or the
 computer tools adopted by the uh is uh by the school at that time
-and they uhm select all the resound all the the
+""
+and  they uhm  select all the  resound  all the the
 uh related data
-and uh then uh analysis the data and find that the mean
+""
+and uh  then uh analysis the data and find that  the mean
 completion rate was extremely low
+""
 it was only sixty seven percent
+""
 that means uh if you if a school have a one hundred 
+""
 sorry uh one thousand time slot to fill in
+""
 then uh we we can just fill in six hundred and seventy
+""
 so that that means there are a lot of periods to be filled up okay
 but manually 
-and uh that is uhm uh three words 
-because of many uhm many timetables in school
+""
+and uh  that is  uhm uh  three words 
+""
+because of many  uhm many timetables in school
+""
 it try to use some timetabling tools
+""
 and however at the end they they found the time to uh to spend on
-many uh timetabling at the end is almost the same as those time used
-to uh construct a timetable manually at the beginning
-so uh the figure was not or satisfactory or is nice or
-say encouraging 
-and uhm but we have to uhm understand that at that time they
-there were no uh goods timetabling software on the market
-uh for those who use a a timetabling system to make 
+many  uh timetabling at the end is almost the same  as those time used
+to  uh construct a timetable manually at the beginning
+""
+so  uh  the figure was  not or satisfactory or is nice or
+say  encouraging 
+""
+and uhm  but we have to uhm understand that at that time they
+""
+""
+there were no uh  goods  timetabling software on the market
+""
+uh  for those who use a a timetabling system to  make 
 school timetable uhm
-sixty six percent they face their software from the
+""
+sixty six percent they  face  their software from the
 market
-uhm fourteen percent uh develop their own their own uh
+""
+uhm fourteen percent uh develop their own  their own uh
 timetabling software and they were very 
+""
 they they were very brave
+""
 and uh in fact uh the developing of timetabling system is a very
 challenging task
-and uh only fourteen percent use pes pdss because uh pess
+""
+and uh only fourteen percent use  pes pdss because  uh pess
 was just launched at that time
+""
 and the this particular survey was conducted in october nineteen
 uh ninety five
+""
 so just a few month after the launch of the of pdss
+""
 that that account why there are so few school using the software
-and uhm yes a few school uhm uh ask some software cost
- to be divide a software system for that 
-and uh in nine in march nineteen ninety uh nineteen ninety
+""
+and uhm  yes a few school uhm uh ask some software  cost
+ to be  divide  a software system for that 
+""
+and uh in  nine in march nineteen ninety uh nineteen ninety
 nine i conduct a similar survey
-and uhm i i try to understand a little bit more on
-timetabling require uh of secondary schools
-and uh uh i also uh would like to see whether uhm more
-school are start to use uh automated timetabling software to do with
+""
+and uhm  i  i try to understand a little bit more on
+timetabling  require  uh  of secondary schools
+""
+and uh uh i also uh would like to  see whether uhm  more
+school are start to use uh  automated  timetabling software to do with
 the timetabling task
-and uhm more importantly i would like to know or whether
+""
+and  uhm more importantly i would like to know or whether
 school uh whether uhm uh automated system would really help to reduce school
 workload 

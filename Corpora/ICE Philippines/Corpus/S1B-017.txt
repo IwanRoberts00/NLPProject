@@ -1,0 +1,459 @@
+<I> 
+
+ <$A>  
+<ICE-PHI:S1B-017#1:1:A>
+That becomes our background against which we can discuss uh judge the different theories that we will uh encounter when we do a review of the history of grammatical theory
+ 
+<ICE-PHI:S1B-017#2:1:A>
+But without a measuring rod you won't know how to evaluate <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#3:1:A>
+So that 's why we have to do also a little bit of linguistic analysis
+ 
+<ICE-PHI:S1B-017#4:1:A>
+But this is not a course on linguistic analysis
+ 
+<ICE-PHI:S1B-017#5:1:A>
+It 's a it 's a course on uh on grammatical theory so it 's actually a consideration of the various uh grammatical theories that were worked out by man in in the effort to understand the structure of language and how to describe language as efficiently as possible
+ 
+<ICE-PHI:S1B-017#6:1:A>
+So uh we have the first uh the <mention> C </mention> here
+ 
+<ICE-PHI:S1B-017#7:1:A>
+We are now on <mention> C </mention> because we finished <mention> A and B </mention> and so we uh we 'll talk about linguistic analysis and uh we find out that in our modern approach to language uh description we identify the different linguistic units in terms of their composition their distribution and their uh <,> various functions okay
+ 
+<ICE-PHI:S1B-017#8:1:A>
+Uh okay now we say for instance <mention> P </mention> is a phoneme and it has aspirated <mention> P </mention> in English in initial position followed by a vowel before a vowel
+ 
+<ICE-PHI:S1B-017#9:1:A>
+Then it is uh in after an initial uh consonant it is <mention> P </mention> without aspiration
+ 
+<ICE-PHI:S1B-017#10:1:A>
+These are the different distributions in initial position
+ 
+<ICE-PHI:S1B-017#11:1:A>
+When it is followed by a vowel it is aspirated
+ 
+<ICE-PHI:S1B-017#12:1:A>
+When it is uh after a uh consonant like <mention> spit spit </mention> it 's not uh before consonant uh it is not uh aspirated
+ 
+<ICE-PHI:S1B-017#13:1:A>
+So there 's <.> non </.> no aspiration
+ 
+<ICE-PHI:S1B-017#14:1:A>
+We can actually put that <&> writes on board </&> but that 's very narrow transcription
+ 
+<ICE-PHI:S1B-017#15:1:A>
+Then in final position we we did say that it is always released
+ 
+<ICE-PHI:S1B-017#16:1:A>
+A big difference between that and English uh eh in Tagalog in Tagalog you say <indig>  <mention> takip </mention>  </indig> 
+ 
+<ICE-PHI:S1B-017#17:1:A>
+We don't release the <mention> P </mention>  <indig> ha <mention> takip  </mention>  </indig> uh uh <indig>  <mention> halip </mention> ganon </indig> 
+
+ <$B>  
+<ICE-PHI:S1B-017#18:1:B>
+ <indig> Ulap </indig> 
+
+ <$C>  
+<ICE-PHI:S1B-017#19:1:C>
+ <indig> Halip </indig> 
+
+ <$A>  
+<ICE-PHI:S1B-017#20:1:A>
+ <indig> Ha </indig> 
+
+ <$B>  
+<ICE-PHI:S1B-017#21:1:B>
+ <indig> Ulap </indig> 
+
+ <$A>  
+<ICE-PHI:S1B-017#22:1:A>
+ <indig> Ulap </indig> 
+ 
+<ICE-PHI:S1B-017#23:1:A>
+You see <mention> P </mention> is not released
+ 
+<ICE-PHI:S1B-017#24:1:A>
+So <.> fina </.> in final position in final position okay
+ 
+<ICE-PHI:S1B-017#25:1:A>
+So this is just distribution <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#26:1:A>
+Now the phoneme <mention> P </mention> is in contrast with the voiced counterpart which is <mention> B </mention> 
+ 
+<ICE-PHI:S1B-017#27:1:A>
+Now how do we how do we uh identify the <mention> P </mention> the phoneme <mention> P </mention> 
+ 
+<ICE-PHI:S1B-017#28:1:A>
+Because it is bilabial we will we 're going to go into the details of this
+ 
+<ICE-PHI:S1B-017#29:1:A>
+Then it is stop stop
+ 
+<ICE-PHI:S1B-017#30:1:A>
+Then it is voiceless
+ 
+<ICE-PHI:S1B-017#31:1:A>
+You see how you breathe and then aspirate it here aspirated plus aspiration in uh initial position uh and in final position uh released as <,> as opposed to Tagalog which is unreleased <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#32:1:A>
+So now what are we doing when we say it is a stop and it 's bilabial it 's voiceless
+ 
+<ICE-PHI:S1B-017#33:1:A>
+What what are we <.> do </.>  <&> students answer briefly but inaudible </&> 
+ 
+<ICE-PHI:S1B-017#34:1:A>
+This is the composition yeah these are the various features that compose the phoneme <mention> P </mention> 
+ 
+<ICE-PHI:S1B-017#35:1:A>
+So first by composition and then we do it by <{>  <[> distribution </[>  <O> cough </O> 
+
+ <$?>  
+<ICE-PHI:S1B-017#36:1:?>  <[> Distribution </[>  </{> 
+
+ <$A>  
+<ICE-PHI:S1B-017#37:1:A>
+And then by function because it has a contrastive function
+ 
+<ICE-PHI:S1B-017#38:1:A>
+In other words uh <mention> P and B </mention> in English are they are they 're signals uh minimum signals of distinction
+ 
+<ICE-PHI:S1B-017#39:1:A>
+They are not themselves meaningful but they distinguish meaning <mention> pit and bit </mention>  <mention> pit and bit </mention> in English would distinguish
+ 
+<ICE-PHI:S1B-017#40:1:A>
+So there is differential differential uh uh meaning that that they signal the difference between <mention> pit and bit </mention>  <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#41:1:A>
+But in themselves phonemes do not have meanings okay
+ 
+<ICE-PHI:S1B-017#42:1:A>
+But now <O> cough </O> they can also have referential meaning in that they refer to <mention> pit </mention> and not to <mention> bit </mention> 
+ 
+<ICE-PHI:S1B-017#43:1:A>
+In other words <mention> bit </mention> is a different kind of experience that they refer to as different from <mention> pit </mention> which is a difference in meaning okay
+ 
+<ICE-PHI:S1B-017#44:1:A>
+So now I have given you we I find that we have to do some articulatory phonetics if only to
+ 
+<ICE-PHI:S1B-017#45:1:A>
+So page three of the handout uh if only to make you uh aware that this was the result of a lot of work by Panini
+ 
+<ICE-PHI:S1B-017#46:1:A>
+He he was
+ 
+<ICE-PHI:S1B-017#47:1:A>
+Panini
+ 
+<ICE-PHI:S1B-017#48:1:A>
+He he was a Hindu scholar who tried to uh <,,> uh his name is <mention> Panini </mention> 
+ 
+<ICE-PHI:S1B-017#49:1:A>
+No Pa Pa that nasal Pa Pangini
+ 
+<ICE-PHI:S1B-017#50:1:A>
+The the eh dot under here this means the nasal nasal vowel uh a nasal uh <unclear> word </unclear> Panini nini nini <indig> oo </indig> 
+ 
+<ICE-PHI:S1B-017#51:1:A>
+He he he <.> did </.> he actually uh analyzed the vocal organs speech organs very accurately <mention> 'no </mention> and you see what happens is the diaphragm from the air hits the uh the lungs and then we <.> ex </.> exhale uh some air <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#52:1:A>
+Now what happens is like an instrument like a flute <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#53:1:A>
+We we can modify the vocal tract so the pharynx and it goes to the oral cavity normally when it 's done
+ 
+<ICE-PHI:S1B-017#54:1:A>
+Then the uvula uh blocks the nasal cavity okay
+ 
+<ICE-PHI:S1B-017#55:1:A>
+So the vocal cords are the ones that uh vibrate
+ 
+<ICE-PHI:S1B-017#56:1:A>
+They are the ones that are very <indig> oo </indig> they produce vibration <indig> 'no </indig> and and from the shape of the uh vocal cords you can have whispering
+ 
+<ICE-PHI:S1B-017#57:1:A>
+When when you whisper the vocal cords are fixed and there is a little outlet at the bottom <indig> 'no </indig> because the vocal cords have a two uh what do you call these <?> caritoids </?> 
+ 
+<ICE-PHI:S1B-017#58:1:A>
+Those are two bones that uh are more or less triangular in shape and when they do like this uh you you have what is called <mention> whispering </mention> 
+ 
+<ICE-PHI:S1B-017#59:1:A>
+And in and there is a a little bit of air that that escapes and that is <unclear> word </unclear> harsh sound <&> speaker breathes to demonstrate his point </&>  <mention> ha ha ha </mention> 
+ 
+<ICE-PHI:S1B-017#60:1:A>
+Yeah that the position of the vocal cords is like that
+ 
+<ICE-PHI:S1B-017#61:1:A>
+But normally the vocal cords are open and that 's the one that vibrates and that causes vibrations in the <{>  <[> air </[> 
+
+ <$?>  
+<ICE-PHI:S1B-017#62:1:?>  <[> Air </[>  </{> 
+
+ <$A>  
+<ICE-PHI:S1B-017#63:1:A>
+And that 's the one that gives you high frequency or low frequency depending on how how often yeah the pitch varies depending on how how often the the vibrations occur
+ 
+<ICE-PHI:S1B-017#64:1:A>
+If it 's very high sound the vibrations are very fast
+ 
+<ICE-PHI:S1B-017#65:1:A>
+If it 's very low sound the vibrations are <{>  <[> slow </[> are slow
+
+ <$?>  
+<ICE-PHI:S1B-017#66:1:?>  <[> Slow </[>  </{> 
+
+ <$A>  
+<ICE-PHI:S1B-017#67:1:A>
+Okay uh then there from the stream of air coming up from the diaphragm and the lungs <indig> ha </indig> 
+ 
+<ICE-PHI:S1B-017#68:1:A>
+Then you you have some what is happening is like that something like this <indig> 'no </indig> like uh like the saxophone
+ 
+<ICE-PHI:S1B-017#69:1:A>
+But in the saxophone the air this thing is coming from there not and not this one is the opposite the air is coming from inside <indig> 'no </indig> going out
+ 
+<ICE-PHI:S1B-017#70:1:A>
+Then this this uh oral cavity becomes a resonating chamber and there is a velum here that that the velar velum is that middle bell-shaped organ that if you look at the mirror and look at you open your mouth you will see we call it tonsils <&> a student chuckles </&> 
+ 
+<ICE-PHI:S1B-017#71:1:A>
+ <{>  <[> Uvula </[> 
+
+ <$Z>  
+<ICE-PHI:S1B-017#72:1:Z>  <X>  <&> students answer in chorus </&>  <[> Uvula </[>  </{>  </X> 
+
+ <$A>  
+<ICE-PHI:S1B-017#73:1:A>
+The uvula
+ 
+<ICE-PHI:S1B-017#74:1:A>
+In French that uvula can be made to vibrate <&> speaker demonstrates the vibration </&> oh that 's so the <&> speaker demonstrates the vibration </&> the <mention> R </mention> in in a in in French is made by making the uvula vibrate <indig> o </indig>  <mention> red </mention>  <indig> o </indig>  <mention> red </mention>  <indig> o </indig> yes <indig> o </indig>  <mention> red </mention>  <indig> oo </indig> 
+ 
+<ICE-PHI:S1B-017#75:1:A>
+But otherwise the function of the uvula is to close the nasal cavity so that you have a clear oral passage <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#76:1:A>
+Okay so there is what uh you have <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#77:1:A>
+Now what happens is that there is a series of occlusions and uh and partial occlusions so that you produce the different sounds of speech
+ 
+<ICE-PHI:S1B-017#78:1:A>
+But the main thing is there is an instrument for making noise <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#79:1:A>
+That that 's what 's called uh the speech organs <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#80:1:A>
+They are the ones that are really responsible for articulating language and because these speech organs have to move uh <.> ther </.> there is the tongue blade there is the teeth and so on
+ 
+<ICE-PHI:S1B-017#81:1:A>
+So the the speech organs have to move from one position to the other in order to produce the sounds that 's what causes linearity in what we hear because there is a sequencing of before and after because the movements of the speech organs uh also shift from one position to the other to produce uh these various sounds okay
+ 
+<ICE-PHI:S1B-017#82:1:A>
+Now you you look at it <indig> 'no </indig> the <,> look at the uh consonant chart
+ 
+<ICE-PHI:S1B-017#83:1:A>
+Now here is a consonant chart uh and then we will look at our uh our sagittal diagram
+ 
+<ICE-PHI:S1B-017#84:1:A>
+It 's called <mention> sagittal diagram </mention> 
+ 
+<ICE-PHI:S1B-017#85:1:A>
+That 's it 's called <mention> sagittal </mention> because <foreign> sagitta </foreign> in in in uh Latin means the arrow
+ 
+<ICE-PHI:S1B-017#86:1:A>
+It 's the side diagram
+
+ <$?>  
+<ICE-PHI:S1B-017#87:1:?> Sagittarius
+
+ <$A>  
+<ICE-PHI:S1B-017#88:1:A>
+Yeah Sagittarius yes from that that same uh root
+ 
+<ICE-PHI:S1B-017#89:1:A>
+See if you uh halve the uh if you divide the uh face of man or the head of a man can you get the sagittal uh diagram of
+ 
+<ICE-PHI:S1B-017#90:1:A>
+Here <indig> 'no </indig> but you see uh if you look at this again I 'll come back to the consonants the the very first type of sound <.> tha </.> that is produced is bilabial sound
+ 
+<ICE-PHI:S1B-017#91:1:A>
+So what what is involved in the production of bilabial sound
+
+ <$?>  
+<ICE-PHI:S1B-017#92:1:?> Upper lip and <{>  <[> lower lip </[> 
+
+ <$A>  
+<ICE-PHI:S1B-017#93:1:A>
+ <[> The two lips </[>  </{> upper and lower lips okay
+ 
+<ICE-PHI:S1B-017#94:1:A>
+There you see at the on your diagram okay the two lips okay
+ 
+<ICE-PHI:S1B-017#95:1:A>
+Now if it is uh <.> de </.>  <.> dent </.> uh
+
+ <$?>  
+<ICE-PHI:S1B-017#96:1:?> Dental sound
+
+ <$A>  
+<ICE-PHI:S1B-017#97:1:A>
+No <{>  <[> labiodental </[> 
+
+ <$Z>  
+<ICE-PHI:S1B-017#98:1:Z>  <X>  <&> students answer in chorus </&>  <[> Labiodental </[>  </{>  </X> 
+
+ <$A>  
+<ICE-PHI:S1B-017#99:1:A>
+No the lower lip
+
+ <$?>  
+<ICE-PHI:S1B-017#100:1:?> Lower lip and the upper teeth
+
+ <$A>  
+<ICE-PHI:S1B-017#101:1:A>
+ <mention> Fa fa fa </mention> 
+
+ <$?>  
+<ICE-PHI:S1B-017#102:1:?>  <mention> F </mention> fricative
+
+ <$A>  
+<ICE-PHI:S1B-017#103:1:A>
+Or the fricative <mention> F </mention> that becomes labiodental <indig> 'no </indig> now interdental
+
+ <$?>  
+<ICE-PHI:S1B-017#104:1:?> Teeth upper
+
+ <$A>  
+<ICE-PHI:S1B-017#105:1:A>
+No the tongue <{>  <[> the the uh <mention> thing </mention>  </[> for instance when you say <mention> thing thing </mention> oh
+
+ <$?>  
+<ICE-PHI:S1B-017#106:1:?>  <[> Upper and lower teeth </[>  </{> tip of the tongue
+
+ <$A>  
+<ICE-PHI:S1B-017#107:1:A>
+The tip of your tongue is between the two teeth the upper <{>  <[> and lower teeth </[>  <indig> 'no </indig>  <O> laughter </O> 
+
+ <$?>  
+<ICE-PHI:S1B-017#108:1:?>  <[> And lower teeth </[>  </{> 
+
+ <$A>  
+<ICE-PHI:S1B-017#109:1:A>
+Yeah okay then uh after that uh you have uh
+
+ <$?>  
+<ICE-PHI:S1B-017#110:1:?> Alveolar
+
+ <$A>  
+<ICE-PHI:S1B-017#111:1:A>
+So that when you uh make <mention> thin then </mention> and <mention> fat </mention> and <mention> that </mention> and then <mention> pit </mention> and <mention> bit </mention> then you come to alveolar
+ 
+<ICE-PHI:S1B-017#112:1:A>
+The <mention> alveolar </mention> means that your tongue the front blade of the tongue is touching this alveolar ridge
+ 
+<ICE-PHI:S1B-017#113:1:A>
+There is a ridge at the back of your teeth
+ 
+<ICE-PHI:S1B-017#114:1:A>
+The gums the gums on the top at the back of the teeth are this is called the <mention> alveolar ridge </mention> 
+ 
+<ICE-PHI:S1B-017#115:1:A>
+And in English you say <mention> cat ten ten </mention> but not in Tagalog
+ 
+<ICE-PHI:S1B-017#116:1:A>
+In Tagalog we say <mention> ten ten </mention> 
+ 
+<ICE-PHI:S1B-017#117:1:A>
+It 's dental
+
+ <$?>  
+<ICE-PHI:S1B-017#118:1:?> Dental <indig> oo </indig> 
+
+ <$A>  
+<ICE-PHI:S1B-017#119:1:A>
+ <mention> Ten ten <,>  <indig> tao tao </indig>  </mention> we we hit the <mention> T </mention> 
+
+ <$?>  
+<ICE-PHI:S1B-017#120:1:?>  <indig>  <mention> Maraming tao </mention>  </indig> 
+
+ <$A>  
+<ICE-PHI:S1B-017#121:1:A>
+No <O> laughter </O> we laugh when we do that because that 's what the Americans say <indig>  <mention> tao mga anak tao </mention>  </indig> 
+
+ <$?>  
+<ICE-PHI:S1B-017#122:1:?>  <indig>  <mention> Maraming tao </mention>  </indig> 
+
+ <$A>  
+<ICE-PHI:S1B-017#123:1:A>
+ <indig>  <mention> Maraming tao </mention>  </indig> because they are used to putting the tip of the tongue against the <{>  <[> alveolar ridge </[> 
+
+ <$Z>  
+<ICE-PHI:S1B-017#124:1:Z>  <X>  <&> students answer in chorus </&>  <[> Alveolar ridge </[>  </{>  </X> 
+
+ <$A>  
+<ICE-PHI:S1B-017#125:1:A>
+Okay that 's what produces that uh what do you call the uh sound of English <mention> T and D </mention> uh it 's alveolar
+ 
+<ICE-PHI:S1B-017#126:1:A>
+Then alveo-palatal <mention> sh and dz </mention> 
+ 
+<ICE-PHI:S1B-017#127:1:A>
+What happens is the the middle part of the tongue is put up against the roof of the mouth <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#128:1:A>
+Uh <mention> sh </mention> you hear this the <mention> shin shin and chin chin and chin </mention> uh in <mention> chin </mention> there is an element of stop but this one is friction yes friction <mention> chin </mention> or uh <mention> vision vision </mention> 
+
+ <$Z>  
+<ICE-PHI:S1B-017#129:1:Z>  <X> Vision </X> 
+
+ <$A>  
+<ICE-PHI:S1B-017#130:1:A>
+ <mention> Vision </mention>  <.> ther </.> there is a <mention> D </mention> and then the <mention> K </mention> and the <mention> G </mention> the back part of the tongue is against the
+
+ <$?>  
+<ICE-PHI:S1B-017#131:1:?> Velum
+
+ <$A>  
+<ICE-PHI:S1B-017#132:1:A>
+Against the velum oh the velum is that part of the section of the back part of the mouth that is soft that 's called <mention> velum </mention>  <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#133:1:A>
+When we were students when we were students we had to to use a <{>  <[> uh </[> a mirror and look and fix it
+
+ <$?>  
+<ICE-PHI:S1B-017#134:1:?>  <[> Mirror </[>  </{> 
+
+ <$A>  
+<ICE-PHI:S1B-017#135:1:A>
+But you are not actually going to be phoneticians so you will have no exercises in phonetics because we had hours and hours of it transcribing what we hear sounds of different languages and we had to be very particular
+ 
+<ICE-PHI:S1B-017#136:1:A>
+Now uh there is such a thing as <mention> narrow transcription and broad transcription </mention> 
+ 
+<ICE-PHI:S1B-017#137:1:A>
+ <mention> Narrow transcription </mention> is what we call phonetics <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-017#138:1:A>
+Everything we hear we symbolize <,> but in phonemics <indig> 'no </indig> we are concerned with the phoneme and we are concerned with classes of sounds
+ 
+<ICE-PHI:S1B-017#139:1:A>
+Here you look at this class of sound <mention> P </mention> has this different variants <indig> 'no </indig> these different variants P aspirated uh P non-aspirated and P released in final position
+ 
+<ICE-PHI:S1B-017#140:1:A>
+These are only variants of the same uh <mention> P </mention> the class of <mention> P </mention> and you know English speakers do not distinguish between P aspirated and P non-aspirated
+ 
+<ICE-PHI:S1B-017#141:1:A>
+They cannot hear that
+ 
+<ICE-PHI:S1B-017#142:1:A>
+They they still consider that <mention> P </mention> but strange strange because they would they 're expecting that explosion to be there in in the initial position if you they don't hear it they think it 's a <mention> B  </mention> that is pronounced because <mention> B </mention> is not aspirated yeah
+
+ <$?>  
+<ICE-PHI:S1B-017#143:1:?> Aspirated 
+
+ </I> 

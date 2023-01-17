@@ -1,0 +1,921 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-066#1:1:A>
+So how 's life
+
+ <$B> 
+<ICE-PHI:S1A-066#2:1:B>
+<O> laughter </O> About life
+
+ <$A> 
+<ICE-PHI:S1A-066#3:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1A-066#4:1:B>
+Fine very fine I 'm doing fine
+
+ <$A> 
+<ICE-PHI:S1A-066#7:1:A>
+How about your work here how do you find your clerical job in the <{> <[> seminary </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#9:1:B>
+<[> Here </[> </{> 
+ 
+<ICE-PHI:S1A-066#10:1:B>
+I 'm enjoying it a lot
+
+ <$A> 
+<ICE-PHI:S1A-066#11:1:A>
+Your relationship with your boss and the seminarians
+
+ <$B> 
+<ICE-PHI:S1A-066#12:1:B>
+Uh I think they 're good I think they 're good <{> <[> good </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#14:1:A>
+<[> In what sense </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-066#15:1:B>
+In a sense that they are all of them almost all of them are easy to be with
+
+ <$A> 
+<ICE-PHI:S1A-066#16:1:A>
+What about the brothers the <.> se </.> the professed brothers staying at the other building <,> 
+
+ <$B> 
+<ICE-PHI:S1A-066#17:1:B>
+The professed brothers
+ 
+<ICE-PHI:S1A-066#18:1:B>
+I don't get to be with them all the time
+ 
+<ICE-PHI:S1A-066#19:1:B>
+I get to be with them only during lunch so I really can't
+
+ <$A> 
+<ICE-PHI:S1A-066#20:1:A>
+How do you find them {> <[> some of them </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#22:1:B>
+<[> I think </[> </{> some of them <O> laughter </O> 
+ 
+<ICE-PHI:S1A-066#25:1:B>
+I don't know they are they are so they are they are too many for me to
+
+ <$A> 
+<ICE-PHI:S1A-066#26:1:A>
+And too serious
+
+ <$B> 
+<ICE-PHI:S1A-066#27:1:B>
+Some of them <,> very serious very serious that I think they should be rushed to the hospital <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-066#29:1:A>
+I am more interested to hear about your present uh work here
+ 
+<ICE-PHI:S1A-066#30:1:A>
+How do you find your job and at the same time how do you relate with your boss
+ 
+<ICE-PHI:S1A-066#31:1:A>
+How do you find your <,> your work here and everything
+
+ <$B> 
+<ICE-PHI:S1A-066#32:1:B>
+You 're interested about that
+
+ <$A> 
+<ICE-PHI:S1A-066#33:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1A-066#34:1:B>
+What was your first question
+
+ <$A> 
+<ICE-PHI:S1A-066#35:1:A>
+How 's your work here you said fine
+
+ <$B> 
+<ICE-PHI:S1A-066#37:1:B>
+Yeah
+ 
+<ICE-PHI:S1A-066#38:1:B>
+<{> <[> It 's fine I like it yeah I like </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#39:1:A>
+<[> But I think you have to qualify </[> </{> that word <mention> fine </mention> 
+ 
+<ICE-PHI:S1A-066#40:1:A>
+What do you mean by <mention> fine </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-066#41:1:B>
+How how should I explain that
+ 
+<ICE-PHI:S1A-066#42:1:B>
+It 's like when I when I go here in the morning I will I will I will have my coffee here
+ 
+<ICE-PHI:S1A-066#43:1:B>
+I will let all the professors sign their attendance and all that
+ 
+<ICE-PHI:S1A-066#44:1:B>
+When when it 's pay day my boss will come here and ask me to give the pay envelope to the professors things like that
+ 
+<ICE-PHI:S1A-066#46:1:B>
+And when it 's and when it is
+
+ <$A> 
+<ICE-PHI:S1A-066#47:1:A>
+Isn't it boring
+
+ <$B> 
+<ICE-PHI:S1A-066#48:1:B>
+Well I don't know
+ 
+<ICE-PHI:S1A-066#49:1:B>
+Sometimes I get bored because I stay here whole day and my boss doesn't stay here the whole day he just drops <{> <[> by </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#51:1:A>
+<[> So you 're just alone </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-066#52:1:B>
+<{> <[> Yeah </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#53:1:A>
+<[> In this office </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-066#54:1:B>
+<{> <[> So sometimes </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#55:1:A>
+<[> Well your office </[> </{> is conducive very cozy and at the same time <,> well
+
+ <$B> 
+<ICE-PHI:S1A-066#57:1:B>
+Thank you I arranged this
+
+ <$A> 
+<ICE-PHI:S1A-066#59:1:A>
+Very good good arrangement
+
+ <$B> 
+<ICE-PHI:S1A-066#61:1:B>
+I arranged this
+
+ <$A> 
+<ICE-PHI:S1A-066#62:1:A>
+<{> <[> What about </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#63:1:B>
+<[> Courtesy of Jing-Jing </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-066#64:1:A>
+What about if there are phone calls and then suddenly your boyfriend
+
+ <$B> 
+<ICE-PHI:S1A-066#65:1:B>
+Is there and my boss is behind <{> <[> me </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#67:1:A>
+<[> Yeah </[> </{> <&> speaker B laughs </&> 
+ 
+<ICE-PHI:S1A-066#68:1:A>
+Would you entertain your boyfriend
+
+ <$B> 
+<ICE-PHI:S1A-066#69:1:B>
+No I drop the call <indig> este </indig> I will say like you call me some hours hours uh no <,> call me back after an hour
+
+ <$A> 
+<ICE-PHI:S1A-066#70:1:A>
+<{> <[> Why </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#71:1:B>
+<[> Like that </[> </{> 
+ 
+<ICE-PHI:S1A-066#72:1:B>
+Because I cannot talk to him the way the <.> wa </.> the way I want to
+
+ <$A> 
+<ICE-PHI:S1A-066#73:1:A>
+You don't wanna get intimate with your boyfriend while your boss is listening
+
+ <$B> 
+<ICE-PHI:S1A-066#74:1:B>
+Yeah yeah <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-066#75:1:A>
+And besides that 's office hours
+
+ <$B> 
+<ICE-PHI:S1A-066#76:1:B>
+Yeah and <{> <[> understandably </[> I I I 'm not allowed to talk to my boyfriend during office hours
+
+ <$A> 
+<ICE-PHI:S1A-066#77:1:A>
+<[> And you don't want to be affected </[> </{> 
+ 
+<ICE-PHI:S1A-066#78:1:A>
+Does he understand
+
+ <$B> 
+<ICE-PHI:S1A-066#79:1:B>
+He does he 's very understanding
+
+ <$A> 
+<ICE-PHI:S1A-066#81:1:A>
+Well before I forget this coming August twenty-eight we 'll behaving a fiesta celebration the feast of Saint Augustine
+ 
+<ICE-PHI:S1A-066#83:1:A>
+And I understand we 'll be inviting our professors some of our professors <{> <[> our </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#84:1:B>
+<[> Ms Cruz </[> </{> is coming I think
+
+ <$A> 
+<ICE-PHI:S1A-066#85:1:A>
+Ms Cruz who 's Ms Cruz
+ 
+<ICE-PHI:S1A-066#87:1:A>
+<{> <[> Uh </[> the teacher
+
+ <$B> 
+<ICE-PHI:S1A-066#88:1:B>
+<[> <unclear> word </unclear> </[> </{> 
+ 
+<ICE-PHI:S1A-066#89:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-066#90:1:A>
+<{> <[> English teacher </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#91:1:B>
+<[> English </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-066#92:1:A>
+Okay what about you are you coming
+
+ <$B> 
+<ICE-PHI:S1A-066#94:1:B>
+Of course
+
+ <$A> 
+<ICE-PHI:S1A-066#95:1:A>
+Please watch our presentation in the evening August twenty-eight because I 'll be directing a play with our college seminarians
+ 
+<ICE-PHI:S1A-066#96:1:A>
+And you <{> <[> better criticize </[> it afterwards
+
+ <$B> 
+<ICE-PHI:S1A-066#97:1:B>
+<[> Uhm </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-066#98:1:A>
+You know that 's one thing I really uh like <{> <[> doing </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#99:1:B>
+<[> Uhm </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-066#100:1:A>
+I want to direct plays I want to be in the production
+
+ <$B> 
+<ICE-PHI:S1A-066#102:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-066#103:1:A>
+And uh I think it 's one way of expressing myself
+
+ <$B> 
+<ICE-PHI:S1A-066#104:1:B>
+Yeah that 's why your masteral 's in relation to that
+
+ <$A> 
+<ICE-PHI:S1A-066#105:1:A>
+Well yeah sort of but uh you know I really want to pursue a kind of uh further studies in theater arts
+
+ <$B> 
+<ICE-PHI:S1A-066#107:1:B>
+Theater arts
+
+ <$A> 
+<ICE-PHI:S1A-066#108:1:A>
+And I think that would be
+
+ <$B> 
+<ICE-PHI:S1A-066#109:1:B>
+Who 'd be your characters what kind of play by the way is <{> <[> that </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#111:1:A>
+<[> Well </[> </{> it 's uh a typical Augustinian presentation
+
+ <$B> 
+<ICE-PHI:S1A-066#112:1:B>
+Uh
+
+ <$A> 
+<ICE-PHI:S1A-066#113:1:A>
+Well
+
+ <$B> 
+<ICE-PHI:S1A-066#114:1:B>
+You do that every year
+
+ <$A> 
+<ICE-PHI:S1A-066#115:1:A>
+Yeah this is for for three years already for three years
+
+ <$B> 
+<ICE-PHI:S1A-066#117:1:B>
+Same play
+
+ <$A> 
+<ICE-PHI:S1A-066#118:1:A>
+No different plays of course
+
+ <$B> 
+<ICE-PHI:S1A-066#119:1:B>
+Uh different play
+
+ <$A> 
+<ICE-PHI:S1A-066#120:1:A>
+Because the the play should suit the characters and at the same time it should really touch a kind of issue
+ 
+<ICE-PHI:S1A-066#121:1:A>
+It should discuss an issue about for example our issue this year is about friendship and community life
+
+ <$B> 
+<ICE-PHI:S1A-066#122:1:B>
+Yeah <{> <[> I 've read it <&> telephone rings </&> </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#123:1:A>
+<[> That 's very Augustinian </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-066#124:1:B>
+Wait
+
+ <$A> 
+<ICE-PHI:S1A-066#125:1:A>
+Oh there 's a telephone call you better answer that
+
+ <$B> 
+<ICE-PHI:S1A-066#127:1:B>
+Hello good morning <,> 
+ 
+<ICE-PHI:S1A-066#128:1:B>
+Who 's on the line <&> break in the recording </&> 
+
+ <$A> 
+<ICE-PHI:S1A-066#129:1:A>
+She 's looking for whom
+
+ <$B> 
+<ICE-PHI:S1A-066#130:1:B>
+For my boss Fr Secio
+
+ <$A> 
+<ICE-PHI:S1A-066#131:1:A>
+Who 's that Sister
+
+ <$B> 
+<ICE-PHI:S1A-066#133:1:B>
+Tina
+
+ <$A> 
+<ICE-PHI:S1A-066#134:1:A>
+Sister Tina
+
+ <$B> 
+<ICE-PHI:S1A-066#135:1:B>
+Of Caloocan
+
+ <$A> 
+<ICE-PHI:S1A-066#136:1:A>
+Uh a teacher here or
+
+ <$B> 
+<ICE-PHI:S1A-066#137:1:B>
+<{> <[> No </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#138:1:A>
+<[> Or just a friend </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-066#139:1:B>
+I don't know
+
+ <$A> 
+<ICE-PHI:S1A-066#140:1:A>
+Okay
+
+ <$B> 
+<ICE-PHI:S1A-066#141:1:B>
+<{> <[> It 's the first time </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#142:1:A>
+<[> So yeah </[> </{> this coming August twenty-eight we 'll have a presentation
+ 
+<ICE-PHI:S1A-066#143:1:A>
+I think you have to invite some of your friends also so you 'll not feel bored
+
+ <$B> 
+<ICE-PHI:S1A-066#144:1:B>
+I won't Sharon is here
+ 
+<ICE-PHI:S1A-066#146:1:B>
+So <{> <[> why would I be bored </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#147:1:A>
+<[> Yeah Sharon </[> </{> also is coming together with her friends I think
+ 
+<ICE-PHI:S1A-066#148:1:A>
+That becomes a tradition already that uh every time we celebrate the feast of Saint Augustine we invite our friends from different schools and from <.> dif </.> from other seminaries
+ 
+<ICE-PHI:S1A-066#149:1:A>
+And we and it 's a kind of socialization you know <.> ve </.> Augustinians very friendly
+
+ <$B> 
+<ICE-PHI:S1A-066#151:1:B>
+Yeah like you
+
+ <$A> 
+<ICE-PHI:S1A-066#152:1:A>
+<{> <[> Am I </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#153:1:B>
+<[> You really </[> </{> belong here
+
+ <$A> 
+<ICE-PHI:S1A-066#154:1:A>
+Am I
+
+ <$B> 
+<ICE-PHI:S1A-066#155:1:B>
+You are <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-066#156:1:A>
+Oh thank you
+ 
+<ICE-PHI:S1A-066#157:1:A>
+Do you still notice I have colds
+
+ <$B> 
+<ICE-PHI:S1A-066#158:1:B>
+Yeah
+ 
+<ICE-PHI:S1A-066#159:1:B>
+Actually I 've noticed that two weeks ago <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-066#160:1:A>
+Yeah well forget the colds
+ 
+<ICE-PHI:S1A-066#161:1:A>
+I <.> ju </.> I am very very happy that I am here although I 'm not feeling well
+ 
+<ICE-PHI:S1A-066#162:1:A>
+I just wanna see you because uh because yesterday I wasn't able to to join you for lunch
+
+ <$B> 
+<ICE-PHI:S1A-066#163:1:B>
+Yeah
+ 
+<ICE-PHI:S1A-066#164:1:B>
+Where have you been where were you
+
+ <$A> 
+<ICE-PHI:S1A-066#166:1:A>
+Yeah I was just very busy doing uh a very important work uh in my room
+ 
+<ICE-PHI:S1A-066#167:1:A>
+Then suddenly I slept I rested for a while then when I woke up it 's already three o'clock
+
+ <$B> 
+<ICE-PHI:S1A-066#169:1:B>
+You skipped lunch
+
+ <$A> 
+<ICE-PHI:S1A-066#170:1:A>
+Yeah it 's time for prayer <{> <[> when I woke up </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#171:1:B>
+<[> You always do that </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-066#172:1:A>
+Well sometimes I forget to to take lunch because I 'm too busy
+ 
+<ICE-PHI:S1A-066#173:1:A>
+But anyway I 'm too fat I 'm big <&> speaker B laughs </&> 
+ 
+<ICE-PHI:S1A-066#174:1:A>
+And I don't think
+
+ <$B> 
+<ICE-PHI:S1A-066#175:1:B>
+No that 's not enough reason
+ 
+<ICE-PHI:S1A-066#176:1:B>
+Your size is not enough reason for you to skip lunch
+
+ <$A> 
+<ICE-PHI:S1A-066#177:1:A>
+You know in an Augustinian community we really we really value meal time
+ 
+<ICE-PHI:S1A-066#178:1:A>
+We should be together we should be eating <{1> <[1> uh together </[1> in the in the refectory
+ 
+<ICE-PHI:S1A-066#181:1:A>
+And every time I skip dinner lunch or breakfast my brothers would always ask me where have you been <{2> <[2> <,> </[2> why did you not take your uh your dinner why did you not take your lunch <{3> <[3> <,> </[3> I feel so guilty 
+
+ <$B> 
+<ICE-PHI:S1A-066#179:1:B>
+<[1> Yeah </[1> </{1> 
+ 
+<ICE-PHI:S1A-066#182:1:B>
+<[2> Yeah </[2> </{2> 
+ 
+<ICE-PHI:S1A-066#185:1:B>
+<[3> And as I </[3> observe </{3> <indig> ha </indig> 
+ 
+<ICE-PHI:S1A-066#187:1:B>
+When you don't join <{> <[> them </[> for lunch
+
+ <$A> 
+<ICE-PHI:S1A-066#188:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-066#189:1:A>
+But sometimes I can't help it but uh just to sleep just to take a rest <indig> kasi </indig> 
+ 
+<ICE-PHI:S1A-066#190:1:A>
+But <.> e </.> every time I do that I ask for an apology especially to my brothers <{> <[> <,> </[> who who kept on asking me about that
+ 
+<ICE-PHI:S1A-066#193:1:A>
+Well that 's part of life 
+
+ <$B> 
+<ICE-PHI:S1A-066#191:1:B>
+<[> Uh-huh </[> </{> 
+ 
+<ICE-PHI:S1A-066#194:1:B>
+Yeah like when you were when you didn't join us for lunch I when I see you in the afternoon I asked you why didn't you join us for lunch 
+
+ <$A> 
+<ICE-PHI:S1A-066#195:1:A>
+Well every Friday and Saturday I 'm out for school and they understand that <{1> <[1> I </[1> have <{2> <[2> I have to </[2> take my lunch <{3> <[3> outside </[3> 
+
+ <$B> 
+<ICE-PHI:S1A-066#196:1:B>
+<[1> Yeah </[1> </{1> 
+ 
+<ICE-PHI:S1A-066#197:1:B>
+<[2> I understand </[2> </{2> 
+ 
+<ICE-PHI:S1A-066#198:1:B>
+<[3> Outside </[3> </{3> 
+
+ <$A> 
+<ICE-PHI:S1A-066#199:1:A>
+<indig> E </indig> La Salle is too far from San Agustin Center of Studies
+ 
+<ICE-PHI:S1A-066#200:1:A>
+So uh I take my lunch outside
+ 
+<ICE-PHI:S1A-066#201:1:A>
+But Mondays through uh Wednesday I see to it that uh <{> <[> I </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#202:1:B>
+<[> You </[> </{> take your lunch here
+
+ <$A> 
+<ICE-PHI:S1A-066#203:1:A>
+Well <O> laughter </O> I try I always try but you know my work
+
+ <$B> 
+<ICE-PHI:S1A-066#205:1:B>
+Sometimes you fail
+
+ <$A> 
+<ICE-PHI:S1A-066#206:1:A>
+Most of the time
+
+ <$B> 
+<ICE-PHI:S1A-066#207:1:B>
+And as I observe that as I was saying as I observe when someone is not there for a lunch they look for
+
+ <$A> 
+<ICE-PHI:S1A-066#208:1:A>
+That 's because you know it 's part of our training that we should go together we should be together
+ 
+<ICE-PHI:S1A-066#210:1:A>
+That 's very Augustinian you know community life
+ 
+<ICE-PHI:S1A-066#211:1:A>
+We value community life and when somebody is absent of course the fathers always look for the <{> <[> lost sheep </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#212:1:B>
+<[> Lost sheep </[> </{> uhm yeah
+
+ <$A> 
+<ICE-PHI:S1A-066#213:1:A>
+You know as the Bible says <quote> He 's looking for the lost sheep </quote> 
+ 
+<ICE-PHI:S1A-066#214:1:A>
+And so after that Father Master would always ask the leader oh where is Willy oh where is Dante where where is uh uh so and so
+ 
+<ICE-PHI:S1A-066#217:1:A>
+So because <&> break in the recording </&> belong to the community
+ 
+<ICE-PHI:S1A-066#219:1:A>
+And every time we take our lunch we take our dinner here yeah we talk we discuss anything we discuss issues
+
+ <$B> 
+<ICE-PHI:S1A-066#215:1:B>
+Yeah
+ 
+<ICE-PHI:S1A-066#221:1:B>
+The things that happened to you <{> <[> the whole day </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#222:1:A>
+<[> The whole day </[> </{> yeah
+
+ <$B> 
+<ICE-PHI:S1A-066#223:1:B>
+Fray Will I can I ask you a question
+
+ <$A> 
+<ICE-PHI:S1A-066#224:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-066#225:1:B>
+What did you really want to become when you were a kid
+
+ <$A> 
+<ICE-PHI:S1A-066#226:1:A>
+When I was
+
+ <$B> 
+<ICE-PHI:S1A-066#227:1:B>
+You wanted to become a priest
+
+ <$A> 
+<ICE-PHI:S1A-066#228:1:A>
+Well when I was still in the elementary my one of my teachers asked me what my dream
+ 
+<ICE-PHI:S1A-066#229:1:A>
+As I <.> reme </.> as far as I remember I really wanted to be an economist
+ 
+<ICE-PHI:S1A-066#230:1:A>
+I don't <{> <[> know why </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#231:1:B>
+<[> You love </[> </{> numbers
+
+ <$A> 
+<ICE-PHI:S1A-066#232:1:A>
+Not really numbers
+ 
+<ICE-PHI:S1A-066#233:1:A>
+I don't know why it sounds so good <mention> economist </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-066#235:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-066#236:1:A>
+But later on I realized that <,> I cannot really I couldn't be an economist
+ 
+<ICE-PHI:S1A-066#237:1:A>
+Then later on during my high school days uh I wanted to be a doctor
+
+ <$B> 
+<ICE-PHI:S1A-066#238:1:B>
+Uh yeah <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-066#239:1:A>
+But I 'm but I 'm not good in Science
+
+ <$B> 
+<ICE-PHI:S1A-066#240:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-066#241:1:A>
+Then uh I also hate numbers so I don't wanna be an engineer
+ 
+<ICE-PHI:S1A-066#242:1:A>
+But later on I realized that I want to teach
+ 
+<ICE-PHI:S1A-066#243:1:A>
+I want to be with people
+ 
+<ICE-PHI:S1A-066#244:1:A>
+Then after high school <{> <[> I </[> 
+
+ <$B> 
+<ICE-PHI:S1A-066#245:1:B>
+<[> What </[> </{> course did you finish by the way
+
+ <$A> 
+<ICE-PHI:S1A-066#246:1:A>
+Bachelor of Education I graduated from the Philippine Normal University
+
+ <$B> 
+<ICE-PHI:S1A-066#248:1:B>
+<{> <[> Uh that 's good </[> 
+
+ <$A> 
+<ICE-PHI:S1A-066#249:1:A>
+<[> Then </[> </{> I taught for three years
+ 
+<ICE-PHI:S1A-066#250:1:A>
+After before entering the seminary I taught for three years
+
+ <$B> 
+<ICE-PHI:S1A-066#251:1:B>
+Where
+
+ <$A> 
+<ICE-PHI:S1A-066#252:1:A>
+In Montessori de Manila in Para&ntilde;aque
+
+ <$B> 
+<ICE-PHI:S1A-066#253:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-066#254:1:A>
+Then I really enjoyed teaching
+ 
+<ICE-PHI:S1A-066#255:1:A>
+Then it was the time that I met my co-teachers who were seminarians before
+ 
+<ICE-PHI:S1A-066#256:1:A>
+Then they invited me for a retreat for seminars symposia about religious life
+ 
+<ICE-PHI:S1A-066#257:1:A>
+Then
+
+ <$B> 
+<ICE-PHI:S1A-066#258:1:B>
+Seminarians of Saint Augustine
+
+ <$A> 
+<ICE-PHI:S1A-066#259:1:A>
+No uh S V Ds they were my former my former co-teachers in Montessori
+
+ <$B> 
+<ICE-PHI:S1A-066#261:1:B>
+Oh
+
+ <$A> 
+<ICE-PHI:S1A-066#262:1:A>
+Then they left the seminary and then it was the time that they invited me to <{> <[> to join </[> the same congregation 
+
+ <$B> 
+<ICE-PHI:S1A-066#263:1:B>
+<[> To join </[> </{> 
+ 
+<ICE-PHI:S1A-066#265:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-066#266:1:A>
+Then after that I felt that there was really a calling
+ 
+<ICE-PHI:S1A-066#267:1:A>
+Then the rest is history
+
+ <$B> 
+<ICE-PHI:S1A-066#268:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-066#269:1:A>
+It seems that you 're interested about <{> <[> my </[> my my vocation 
+
+ <$B> 
+<ICE-PHI:S1A-066#270:1:B>
+<[> Yeah I am </[> </{> I am
+
+ <$A> 
+<ICE-PHI:S1A-066#273:1:A>
+Well
+
+ <$B> 
+<ICE-PHI:S1A-066#274:1:B>
+I am interested
+
+ <$A> 
+<ICE-PHI:S1A-066#275:1:A>
+It started there uh I felt that uh God is calling me for a very special purpose
+ 
+<ICE-PHI:S1A-066#277:1:A>
+Then I enjoyed uh attending seminars about religious life
+ 
+<ICE-PHI:S1A-066#278:1:A>
+I started reading the Bible and started uh examining myself
+ 
+<ICE-PHI:S1A-066#279:1:A>
+I involved myself with contemplation
+ 
+<ICE-PHI:S1A-066#280:1:A>
+Then after that I left my work I asked my superior I wanna enter the seminary then the rest is history as I said
+
+ <$B> 
+<ICE-PHI:S1A-066#282:1:B>
+Yeah so you you entered seminary three years after you graduated from college
+
+ <$A> 
+<ICE-PHI:S1A-066#283:1:A>
+Yes I worked for three years in Montessori de Manila
+ 
+<ICE-PHI:S1A-066#285:1:A>
+It was so compensating I really enjoyed my work
+ 
+<ICE-PHI:S1A-066#287:1:A>
+I was able to meet different kinds of people and up to now they still uh we still have an open communication with my former co-teachers and administrators
+ 
+<ICE-PHI:S1A-066#288:1:A>
+And <unclear> words </unclear> of me
+ 
+<ICE-PHI:S1A-066#289:1:A>
+But of course God has greater plans for me
+
+ <$B> 
+<ICE-PHI:S1A-066#290:1:B>
+That 's why
+
+ <$A> 
+<ICE-PHI:S1A-066#291:1:A>
+Yeah that 's why I opted to be a priest
+ 
+<ICE-PHI:S1A-066#292:1:A>
+Well it 's not an option but a kind of calling it 's a kind of vocation that I can't really resist
+
+ <$B> 
+<ICE-PHI:S1A-066#294:1:B>
+There was one time that you told me you missed kids like
+
+ <$A> 
+<ICE-PHI:S1A-066#295:1:A>
+That 's why every time my my formators ask me oh Willy would you like to teach yeah I always see to it that I accept the offer because I really miss kids
+ 
+<ICE-PHI:S1A-066#297:1:A>
+One time we were at Bi&ntilde;an
+
+ <$B> 
+<ICE-PHI:S1A-066#298:1:B>
+Yeah yeah yeah that <{> <[> was what </[> I was about to say
+
+ <$A> 
+<ICE-PHI:S1A-066#299:1:A>
+<[> Uh yeah </[> </{> 
+ 
+<ICE-PHI:S1A-066#300:1:A>
+Every time I see these kids running I miss my work I miss my job as a classroom teacher and I wanna go back 
+
+ </I> 

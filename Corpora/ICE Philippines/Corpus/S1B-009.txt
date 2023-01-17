@@ -1,0 +1,899 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-009#1:1:A>
+So we move to another topic okay
+ 
+<ICE-PHI:S1B-009#2:1:A>
+We finished uh testing significant difference of two groups of three groups <indig> 'no </indig> okay
+ 
+<ICE-PHI:S1B-009#3:1:A>
+So the the final the final uh part of the of ELESTA two <&> Elementary Statistics Two </&> is about correlation
+ 
+<ICE-PHI:S1B-009#4:1:A>
+So what do you mean by correlation <,> 
+ 
+<ICE-PHI:S1B-009#5:1:A>
+Yes Albert <,> 
+
+ <$B> 
+<ICE-PHI:S1B-009#6:1:B>
+Relationship
+
+ <$A> 
+<ICE-PHI:S1B-009#7:1:A>
+Okay what else
+ 
+<ICE-PHI:S1B-009#8:1:A>
+Diana
+ 
+<ICE-PHI:S1B-009#9:1:A>
+What do you mean by correlation <,,> 
+ 
+<ICE-PHI:S1B-009#10:1:A>
+<unclear> words </unclear> anything <,,> <&> unclear response of a student </&> 
+ 
+<ICE-PHI:S1B-009#11:1:A>
+It 's okay
+ 
+<ICE-PHI:S1B-009#12:1:A>
+Uh Salvador
+
+ <$C> 
+<ICE-PHI:S1B-009#13:1:C>
+The relation between two groups
+
+ <$A> 
+<ICE-PHI:S1B-009#14:1:A>
+Relation between two groups <,,> 
+ 
+<ICE-PHI:S1B-009#15:1:A>
+Anything else <,,> 
+ 
+<ICE-PHI:S1B-009#16:1:A>
+What is meant by the term <mention> correlation </mention> <,,> 
+
+ <$C> 
+<ICE-PHI:S1B-009#17:1:C>
+Common condition or
+
+ <$A> 
+<ICE-PHI:S1B-009#18:1:A>
+Yes pardon me
+
+ <$C> 
+<ICE-PHI:S1B-009#19:1:C>
+Common condition
+
+ <$A> 
+<ICE-PHI:S1B-009#20:1:A>
+Common condition <,,> 
+ 
+<ICE-PHI:S1B-009#21:1:A>
+Excuse me
+ 
+<ICE-PHI:S1B-009#22:1:A>
+So <,> in ELESTA one <&> Elementary Statistics One </&> you studied uh correlation
+ 
+<ICE-PHI:S1B-009#23:1:A>
+And what was the type of correlation you studied <,> 
+ 
+<ICE-PHI:S1B-009#24:1:A>
+What type of correlation did you study in ELESTA one
+
+ <$D> 
+<ICE-PHI:S1B-009#25:1:D>
+Pearson Product Moment
+
+ <$A> 
+<ICE-PHI:S1B-009#26:1:A>
+Pearson Product Moment <,,> 
+ 
+<ICE-PHI:S1B-009#27:1:A>
+When we have Pearson Product Moment
+ 
+<ICE-PHI:S1B-009#28:1:A>
+What are we trying to <,> determine in terms of relationship
+ 
+<ICE-PHI:S1B-009#29:1:A>
+How do you know it 's gonna be Pearson Product Moment 
+
+ <$E> 
+
+ 
+<ICE-PHI:S1B-009#> <&> unclear response by a student </&> 
+
+ <$A> 
+<ICE-PHI:S1B-009#30:1:A>
+When do you use Pearson Product Moment Correlation
+ 
+<ICE-PHI:S1B-009#31:1:A>
+Jason
+
+ <$F> 
+<ICE-PHI:S1B-009#32:1:F>
+Pass
+
+ <$A> 
+<ICE-PHI:S1B-009#33:1:A>
+Pass okay Arnold
+
+ <$G> 
+<ICE-PHI:S1B-009#34:1:G>
+Pass I didn't study that
+
+ <$A> 
+<ICE-PHI:S1B-009#35:1:A>
+You didn't study this
+ 
+<ICE-PHI:S1B-009#36:1:A>
+Why <&> unclear response by a student </&> 
+ 
+<ICE-PHI:S1B-009#37:1:A>
+Uh <,> Rafael what is what is uh being related when you use Pearson Product Moment <,,> 
+ 
+<ICE-PHI:S1B-009#38:1:A>
+Oh Jerry <,> 
+ 
+<ICE-PHI:S1B-009#39:1:A>
+ELESTA one it 's still in ELESTA one
+ 
+<ICE-PHI:S1B-009#40:1:A>
+It 's not even ELESTA two
+
+ <$H> 
+<ICE-PHI:S1B-009#41:1:Z> Pearson r
+
+ <$A> 
+<ICE-PHI:S1B-009#42:1:H>
+Yeah Pearson r <,> 
+ 
+<ICE-PHI:S1B-009#43:1:A>
+When did you use Pearson r
+ 
+<ICE-PHI:S1B-009#44:1:A>
+Yes
+
+ <$H> 
+<ICE-PHI:S1B-009#45:1:H>
+To determine the agreement between two variables <,,> 
+ 
+<ICE-PHI:S1B-009#46:1:H>
+To determine the agreement between two variables
+
+ <$A> 
+<ICE-PHI:S1B-009#47:1:A>
+To determine
+
+ <$H> 
+<ICE-PHI:S1B-009#48:1:H>
+The agreement between two variables
+
+ <$A> 
+<ICE-PHI:S1B-009#49:1:A>
+Agreement
+ 
+<ICE-PHI:S1B-009#50:1:A>
+Is it agreement <,,> 
+ 
+<ICE-PHI:S1B-009#51:1:A>
+Agreement
+ 
+<ICE-PHI:S1B-009#52:1:A>
+May I may I see who did not take up <mention> Pearson </mention> 
+ 
+<ICE-PHI:S1B-009#53:1:A>
+How come you didn't take up <mention> Pearson </mention> in ELESTA one <&> unclear responses by the students </&> 
+ 
+<ICE-PHI:S1B-009#54:1:A>
+Who was your teacher
+
+ <$Z> 
+<ICE-PHI:S1B-009#55:1:Z> <X> <&> unclear responses by the students </&> Mr Cordero and also Mr Alonzo </X> 
+
+ <$A> 
+<ICE-PHI:S1B-009#56:1:A>
+STAT one o one
+
+ <$Z> 
+<ICE-PHI:S1B-009#57:1:Z> <X> Yes </X> 
+
+ <$A> 
+<ICE-PHI:S1B-009#58:1:A>
+Yes Marni
+
+ <$I> 
+<ICE-PHI:S1B-009#59:1:I>
+Miss <unclear> words </unclear> Cordero uhm Mr <unclear> words </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-009#60:1:A>
+Yeah I remember
+ 
+<ICE-PHI:S1B-009#61:1:A>
+Yeah yeah
+ 
+<ICE-PHI:S1B-009#62:1:A>
+He went to Taiwan
+ 
+<ICE-PHI:S1B-009#63:1:A>
+I remember okay
+ 
+<ICE-PHI:S1B-009#64:1:A>
+You 're excused from not knowing
+
+ <$J> 
+<ICE-PHI:S1B-009#65:1:J>
+Miss <indig> 'yong </indig> Pearson <unclear> word </unclear> A <indig> at saka </indig> B
+
+ <$A> 
+<ICE-PHI:S1B-009#66:1:A>
+Again again
+
+ <$J> 
+<ICE-PHI:S1B-009#67:1:J>
+A <indig> at saka </indig> B
+
+ <$A> 
+<ICE-PHI:S1B-009#68:1:A>
+A <indig> at saka </indig> B okay <,> 
+ 
+<ICE-PHI:S1B-009#69:1:A>
+Okay so it seems that you didn't take up Pearson Product Moment Correlation <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-009#70:1:A>
+Not really that extensive
+
+ <$J> 
+<ICE-PHI:S1B-009#71:1:J>
+Between the sum the sum of the
+
+ <$A> 
+<ICE-PHI:S1B-009#72:1:A>
+Of the what
+
+ <$J> 
+<ICE-PHI:S1B-009#73:1:J>
+The sum of the products of x and y <indig> tama </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-009#74:1:A>
+Don't give me the formula
+ 
+<ICE-PHI:S1B-009#75:1:A>
+Don't give me the formula
+ 
+<ICE-PHI:S1B-009#76:1:A>
+I only want to know the concept okay
+ 
+<ICE-PHI:S1B-009#77:1:A>
+Don't give me the formula
+ 
+<ICE-PHI:S1B-009#78:1:A>
+Okay so let 's uh <{> <[> let us </[> <unclear> words </unclear> 
+
+ <$K> 
+<ICE-PHI:S1B-009#79:1:K>
+<[> Miss </[> </{> Miss is that the exact word
+
+ <$A> 
+<ICE-PHI:S1B-009#80:1:A>
+Is that a
+
+ <$K> 
+<ICE-PHI:S1B-009#81:1:K>
+The exact words
+
+ <$A> 
+<ICE-PHI:S1B-009#82:1:A>
+Yeah this is taken supposedly in ELESTA one
+ 
+<ICE-PHI:S1B-009#83:1:A>
+That 's why we assume when you go to ELESTA two you know this very well
+ 
+<ICE-PHI:S1B-009#84:1:A>
+Okay so the Pearson Product Moment Correlation for those who just uh had a casual casual uh introduction to it okay
+ 
+<ICE-PHI:S1B-009#85:1:A>
+Pearson Product Moment Correlation is used when you want to determine the relationship <,,> okay the same term that you were giving the relationship between
+
+ <$J> 
+<ICE-PHI:S1B-009#86:1:J>
+Two
+
+ <$A> 
+<ICE-PHI:S1B-009#87:1:A>
+Two variables which are expressed <,> in interval or ratio scale <,,> 
+ 
+<ICE-PHI:S1B-009#88:1:A>
+Okay so the prerequisite here is that the type of scale that you have is either interval or ratio
+ 
+<ICE-PHI:S1B-009#89:1:A>
+Usually in psych <&> =Psychology </&> you have uh test scores test scores
+ 
+<ICE-PHI:S1B-009#90:1:A>
+Now the size of a correlation coefficient ranges from negative one to positive one okay <,> 
+ 
+<ICE-PHI:S1B-009#91:1:A>
+Okay it 's negative one to positive one
+ 
+<ICE-PHI:S1B-009#92:1:A>
+So any value that you get which is more than one that means your answer is wrong
+ 
+<ICE-PHI:S1B-009#93:1:A>
+What does it mean when you have a negative one to a positive one <unclear> word </unclear> 
+ 
+<ICE-PHI:S1B-009#94:1:A>
+Okay we have a graph <,,> 
+ 
+<ICE-PHI:S1B-009#95:1:A>
+This is the y axis and the x axis
+ 
+<ICE-PHI:S1B-009#96:1:A>
+When it 's negative it means that the higher the y the lower the x <,,> 
+ 
+<ICE-PHI:S1B-009#97:1:A>
+So that 's the relationship between the variables
+ 
+<ICE-PHI:S1B-009#98:1:A>
+The higher the y the lower the x <,,> 
+ 
+<ICE-PHI:S1B-009#99:1:A>
+When it 's positive okay <,> the two of them increase the same way
+ 
+<ICE-PHI:S1B-009#100:1:A>
+As x increases y increases so the line is straight
+ 
+<ICE-PHI:S1B-009#101:1:A>
+Okay clear
+ 
+<ICE-PHI:S1B-009#102:1:A>
+Now if you graph the two scores the x and the y okay and you can't seem to draw a straight to draw a straight line uh either in this direction or in this direction okay
+ 
+<ICE-PHI:S1B-009#103:1:A>
+This may indicate that there is a zero correlation
+ 
+<ICE-PHI:S1B-009#104:1:A>
+That means there 's no relationship between the two variables
+ 
+<ICE-PHI:S1B-009#105:1:A>
+So a negative one and a positive one is you have such a straight line
+ 
+<ICE-PHI:S1B-009#106:1:A>
+This only happens theoretically okay
+ 
+<ICE-PHI:S1B-009#107:1:A>
+What usually happens is that you can draw a straight line forcing it <indig> 'no </indig> but the points do not exactly fall there but somewhere close
+ 
+<ICE-PHI:S1B-009#108:1:A>
+That 's why you can form a straight line there
+ 
+<ICE-PHI:S1B-009#109:1:A>
+But not exactly passing through all the points okay
+ 
+<ICE-PHI:S1B-009#110:1:A>
+Now when it 's like that you can have a moderately negative <,> 
+ 
+<ICE-PHI:S1B-009#111:1:A>
+It 's moderate negative <indig> 'no </indig> okay
+ 
+<ICE-PHI:S1B-009#112:1:A>
+This one 's clearly negative
+ 
+<ICE-PHI:S1B-009#113:1:A>
+So this means that somehow it 's negative but it 's not perfect
+ 
+<ICE-PHI:S1B-009#114:1:A>
+'Cause if you have a perfect one it would be uh the line would be very straight this way but we don't usually have that
+ 
+<ICE-PHI:S1B-009#115:1:A>
+Same way with the positive we don't have a clear straight line <&> writes on the board </&> always there with some points falling there okay
+ 
+<ICE-PHI:S1B-009#116:1:A>
+So of course when you have a zero <unclear> words </unclear> that means there 's nothing there 's no relationship at all between the two variables
+ 
+<ICE-PHI:S1B-009#117:1:A>
+So <,> what makes this a zero are the scattered dots the scattered dots
+ 
+<ICE-PHI:S1B-009#118:1:A>
+Okay how do we describe a correlation coefficient okay
+ 
+<ICE-PHI:S1B-009#119:1:A>
+The answer to the Pearson Product Moment Correlation is a correlation coefficient
+ 
+<ICE-PHI:S1B-009#120:1:A>
+Usually when we have point three to point seventy-nine
+ 
+<ICE-PHI:S1B-009#121:1:A>
+It 's moderate <&> writes on the board </&> 
+ 
+<ICE-PHI:S1B-009#122:1:A>
+Below point three that means below point three or point twenty-nine below point eighty and above <,> high <,,> 
+ 
+<ICE-PHI:S1B-009#123:1:A>
+Okay <,,> okay
+ 
+<ICE-PHI:S1B-009#124:1:A>
+So the coefficient describes the degree of relationship between the two variables okay
+ 
+<ICE-PHI:S1B-009#125:1:A>
+So when we hit a point eighty this means that the lines are pretty are quite it 's pretty much this way
+ 
+<ICE-PHI:S1B-009#126:1:A>
+That means the dots the y and the x meet almost in a straight line okay but not yet perfect
+ 
+<ICE-PHI:S1B-009#127:1:A>
+Because we only get a straight line when we <unclear> words </unclear> 
+ 
+<ICE-PHI:S1B-009#128:1:A>
+Now if it is moderate that means many points are outside that line
+ 
+<ICE-PHI:S1B-009#129:1:A>
+And if it 's zero we are <unclear> words </unclear> 
+ 
+<ICE-PHI:S1B-009#130:1:A>
+Okay
+ 
+<ICE-PHI:S1B-009#131:1:A>
+Question <,> question <,> 
+ 
+<ICE-PHI:S1B-009#132:1:A>
+No more okay
+ 
+<ICE-PHI:S1B-009#133:1:A>
+Were you taught how to compute it in ELESTA one
+ 
+<ICE-PHI:S1B-009#134:1:A>
+Okay now Pearson Product Moment Correlation is one of the easiest one of the easiest
+ 
+<ICE-PHI:S1B-009#135:1:A>
+You should know that by now okay
+ 
+<ICE-PHI:S1B-009#136:1:A>
+One of the easiest type of correlation
+ 
+<ICE-PHI:S1B-009#137:1:A>
+Easiest okay
+ 
+<ICE-PHI:S1B-009#138:1:A>
+What other correlation uh types of correlation did you study in ELESTA one
+
+ <$L> 
+<ICE-PHI:S1B-009#139:1:Z> Spearman
+
+ <$A> 
+<ICE-PHI:S1B-009#140:1:A>
+Okay Spearman <,> 
+ 
+<ICE-PHI:S1B-009#141:1:A>
+Okay
+ 
+<ICE-PHI:S1B-009#142:1:A>
+What else
+
+ <$?> 
+<ICE-PHI:S1B-009#143:1:?> <foreign> Pi </foreign> 
+
+ <$A> 
+<ICE-PHI:S1B-009#144:1:A>
+Yeah but you have <unclear> words </unclear> what else
+
+ <$M> 
+<ICE-PHI:S1B-009#145:1:M>
+Point-biserial <&> some of the other students answer in chorus and their voices are inaudible </&> 
+
+ <$A> 
+<ICE-PHI:S1B-009#146:1:A>
+Point point biserial point
+
+ <$?> 
+<ICE-PHI:S1B-009#147:1:?> <indig> Ano 'yong </indig> point biserial
+
+ <$A> 
+<ICE-PHI:S1B-009#148:1:A>
+So is this all
+ 
+<ICE-PHI:S1B-009#149:1:A>
+Yes we agree <&> students respond in chorus </&> 
+
+ <$Z> 
+<ICE-PHI:S1B-009#150:1:Z> <indig> Kasali sa test 'yan </indig> Miss 
+
+ <$A> 
+<ICE-PHI:S1B-009#151:1:A>
+No
+ 
+<ICE-PHI:S1B-009#152:1:A>
+No way
+
+ <$Z> 
+<ICE-PHI:S1B-009#153:1:Z> No way
+
+ <$A> 
+<ICE-PHI:S1B-009#154:1:A>
+There 'll be another set
+ 
+<ICE-PHI:S1B-009#155:1:A>
+That 's why you 're not gonna take this
+ 
+<ICE-PHI:S1B-009#156:1:A>
+I was told I was told by Mr Cordero and Ms Bernardo that <unclear> words </unclear> 
+
+ <$?> 
+<ICE-PHI:S1B-009#157:1:?> So <indig> wala na si </indig> Pearson
+
+ <$A> 
+<ICE-PHI:S1B-009#158:1:A>
+There will be another set
+ 
+<ICE-PHI:S1B-009#159:1:A>
+Another set with fancier names <,> with nicer names okay
+ 
+<ICE-PHI:S1B-009#160:1:A>
+Class now that you know something about it <indig> 'no </indig> okay
+ 
+<ICE-PHI:S1B-009#161:1:A>
+There should be something that you <{> <[> know about it </[> okay
+
+ <$?> 
+<ICE-PHI:S1B-009#162:1:?> <[> Miss <indig> walang </indig> Pearson </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1B-009#163:1:A>
+Okay so since you 've taken up the basics already okay whether or not you got uh you got a full lecture from Mr Cordero or not but he told me you took it okay 
+ 
+<ICE-PHI:S1B-009#164:1:A>
+So now we proceed with different types of correlation okay
+ 
+<ICE-PHI:S1B-009#165:1:A>
+You will notice these types of correlation were used essentially when the variables are interval or ratio okay
+ 
+<ICE-PHI:S1B-009#166:1:A>
+So the variables may be initially interval or ratio and then converted to ordinal okay
+ 
+<ICE-PHI:S1B-009#167:1:A>
+Now we go to another set of correlations okay which hopefully you will find useful as you when you write your thesis <,> 
+ 
+<ICE-PHI:S1B-009#168:1:A>
+Okay so what 's the first type of correlation that we 're gonna take up
+ 
+<ICE-PHI:S1B-009#169:1:A>
+Okay the first type would be the <mention> Cramer </mention> <,,> 
+ 
+<ICE-PHI:S1B-009#170:1:A>
+Okay Cramer
+ 
+<ICE-PHI:S1B-009#171:1:A>
+Cramer coefficient
+ 
+<ICE-PHI:S1B-009#172:1:A>
+So what 's <mention> Cramer </mention> 
+ 
+<ICE-PHI:S1B-009#173:1:A>
+<mention> Cramer </mention> is used when you have two nominal variables <,,> 
+ 
+<ICE-PHI:S1B-009#174:1:A>
+Two nominal variables
+ 
+<ICE-PHI:S1B-009#175:1:A>
+So what 's an example of nominal variable
+
+ <$?> 
+<ICE-PHI:S1B-009#176:1:?> Telephone numbers
+
+ <$A> 
+<ICE-PHI:S1B-009#177:1:A>
+Telephone numbers
+
+ <$?> 
+<ICE-PHI:S1B-009#178:1:?> Sex
+
+ <$A> 
+<ICE-PHI:S1B-009#179:1:A>
+Sex
+ 
+<ICE-PHI:S1B-009#180:1:A>
+And then <,> 
+ 
+<ICE-PHI:S1B-009#181:1:A>
+What 's an example of nominal frequency type of variables <&> unclear answer </&> 
+ 
+<ICE-PHI:S1B-009#182:1:A>
+I D number okay
+ 
+<ICE-PHI:S1B-009#183:1:A>
+Oh for example you count the number of males and females in this class
+ 
+<ICE-PHI:S1B-009#184:1:A>
+That 's nominal <,> 
+ 
+<ICE-PHI:S1B-009#185:1:A>
+Twenty and then five
+ 
+<ICE-PHI:S1B-009#186:1:A>
+You count the number of freshmen sophomores juniors seniors in this class
+ 
+<ICE-PHI:S1B-009#187:1:A>
+That 's also
+
+ <$?> 
+<ICE-PHI:S1B-009#188:1:?> Nominal
+
+ <$A> 
+<ICE-PHI:S1B-009#189:1:A>
+Nominal
+ 
+<ICE-PHI:S1B-009#190:1:A>
+Okay so all you have are frequencies okay 
+ 
+<ICE-PHI:S1B-009#191:1:A>
+Now there are times that you want to correlate two variables which are expressed in this manner okay
+ 
+<ICE-PHI:S1B-009#192:1:A>
+Obviously you can't use <mention> Pearson </mention> anymore
+ 
+<ICE-PHI:S1B-009#193:1:A>
+You can't use <mention> Spearman </mention> anymore
+ 
+<ICE-PHI:S1B-009#194:1:A>
+So you use <mention> Cramer </mention> 
+ 
+<ICE-PHI:S1B-009#195:1:A>
+Cramer coefficient okay
+ 
+<ICE-PHI:S1B-009#196:1:A>
+What 's Cramer coefficient
+ 
+<ICE-PHI:S1B-009#197:1:A>
+The formula is <&> writes the formula on the board </&> <,,> 
+ 
+<ICE-PHI:S1B-009#198:1:A>
+Okay by now you 're familiar with the with the big letter X squared
+ 
+<ICE-PHI:S1B-009#199:1:A>
+This is the <foreign> chi </foreign> <foreign> chi </foreign> okay
+ 
+<ICE-PHI:S1B-009#200:1:A>
+So when you use Cramer coefficient you have to compute <foreign> chi </foreign> -square <,> <unclear> words </unclear> 
+ 
+<ICE-PHI:S1B-009#201:1:A>
+You 've got to compute <foreign> chi </foreign> -square okay
+ 
+<ICE-PHI:S1B-009#202:1:A>
+So what else <,,> 
+ 
+<ICE-PHI:S1B-009#203:1:A>
+So L here will be the minimum number of rows and columns
+ 
+<ICE-PHI:S1B-009#204:1:A>
+Rows and columns
+
+ <$?> 
+<ICE-PHI:S1B-009#205:1:?> Miss <indig> anong <unclear> word </unclear> tayo </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-009#206:1:A>
+It can be two by three three by three <&> students say something unclear </&> <,,> 
+ 
+<ICE-PHI:S1B-009#207:1:A>
+So how do you test the significance okay
+ 
+<ICE-PHI:S1B-009#208:1:A>
+Obviously you look at Appendix C <,,> 
+ 
+<ICE-PHI:S1B-009#209:1:A>
+So degrees of freedom would be <,> r minus one
+ 
+<ICE-PHI:S1B-009#210:1:A>
+R meaning rows okay
+ 
+<ICE-PHI:S1B-009#211:1:A>
+K 's we mean column
+ 
+<ICE-PHI:S1B-009#212:1:A>
+So they use uh they use the symbol k it 's really c you want c it 's okay
+ 
+<ICE-PHI:S1B-009#213:1:A>
+R minus one and C minus one
+
+ <$?> 
+<ICE-PHI:S1B-009#214:1:?> Minimum number of rows and columns
+
+ <$A> 
+<ICE-PHI:S1B-009#215:1:A>
+Minimum number of rows and columns for example <,,> 
+ 
+<ICE-PHI:S1B-009#216:1:A>
+So you have uh two by three right
+ 
+<ICE-PHI:S1B-009#217:1:A>
+Two by three contingency table
+ 
+<ICE-PHI:S1B-009#218:1:A>
+You have a two by three contingency table
+ 
+<ICE-PHI:S1B-009#219:1:A>
+It means that
+ 
+<ICE-PHI:S1B-009#220:1:A>
+What 's L
+ 
+<ICE-PHI:S1B-009#221:1:A>
+What 's L
+
+ <$?> 
+<ICE-PHI:S1B-009#222:1:?> Two
+
+ <$A> 
+<ICE-PHI:S1B-009#223:1:A>
+How many how many rows do we have
+
+ <$?> 
+<ICE-PHI:S1B-009#224:1:?> Three <,> 
+
+ <$A> 
+<ICE-PHI:S1B-009#225:1:A>
+How many rows do we have
+
+ <$?> 
+<ICE-PHI:S1B-009#226:1:?> Two <,> 
+
+ <$A> 
+<ICE-PHI:S1B-009#227:1:A>
+Which one 's the smaller one
+
+ <$?> 
+<ICE-PHI:S1B-009#228:1:?> Two
+
+ <$?> 
+<ICE-PHI:S1B-009#229:1:?> Two
+
+ <$A> 
+<ICE-PHI:S1B-009#230:1:A>
+That 's L
+
+ <$?> 
+<ICE-PHI:S1B-009#231:1:?> Uh okay
+
+ <$A> 
+<ICE-PHI:S1B-009#232:1:A>
+How difficult this is
+ 
+<ICE-PHI:S1B-009#233:1:A>
+R equals two whichever is the smallest number that 's L
+ 
+<ICE-PHI:S1B-009#234:1:A>
+Okay it seldom happens to be two because if it 's two you have to use <foreign> phi </foreign> coefficient
+ 
+<ICE-PHI:S1B-009#235:1:A>
+So if it 's more than two it 's uh it 's not a two by two table you use uh Cramer 's
+
+ <$?> 
+<ICE-PHI:S1B-009#236:1:?> Miss but you can always fix that <indig> kung kapareho na </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-009#237:1:A>
+Yes whichever is the smallest one
+
+ <$?> 
+<ICE-PHI:S1B-009#238:1:?> Miss <indig> kung pareho </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-009#239:1:A>
+They you it cannot be the same because the <foreign> phi </foreign> coefficient is used <unclear> word </unclear> two by two
+
+ <$?> 
+<ICE-PHI:S1B-009#240:1:?> Three by three
+
+ <$A> 
+<ICE-PHI:S1B-009#241:1:A>
+Three by <,> no it 's seldom the set up
+ 
+<ICE-PHI:S1B-009#242:1:A>
+<unclear> words </unclear> it 's still three by three whatever is the smallest number
+
+ <$?> 
+<ICE-PHI:S1B-009#243:1:?> Ma'am <indig> pa'no kung </indig> one
+
+ <$A> 
+<ICE-PHI:S1B-009#244:1:A>
+Whatever is the smallest number that 's it okay
+ 
+<ICE-PHI:S1B-009#245:1:A>
+Where is the two by two
+ 
+<ICE-PHI:S1B-009#246:1:A>
+Usually it 's lopsided okay <,> 
+ 
+<ICE-PHI:S1B-009#247:1:A>
+Get it <,,> 
+
+ <$?> 
+<ICE-PHI:S1B-009#248:1:?> Yes <,> Miss do we need <foreign> chi </foreign> -square for the formula
+
+ <$A> 
+<ICE-PHI:S1B-009#249:1:A>
+Yeah you have to compute <foreign> chi </foreign> -square first okay
+ 
+<ICE-PHI:S1B-009#250:1:A>
+So the <foreign> chi </foreign> -square here of course this time you know it by heart we hope you have to compute <foreign> chi </foreign> -square first <,> <foreign> chi </foreign> -square <,> okay are you
+
+ <$?> 
+<ICE-PHI:S1B-009#251:1:?> How many should we have in <foreign> chi </foreign> -square part two
+
+ <$A> 
+<ICE-PHI:S1B-009#252:1:A>
+No this is uh you just need uh you just need uh
+
+ <$?> 
+<ICE-PHI:S1B-009#253:1:?> To show <unclear> word </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-009#254:1:A>
+You need to you need to determine <mention> expected </mention> the way we do it here you have to compute <mention> expected </mention> first
+
+ <$?> 
+<ICE-PHI:S1B-009#255:1:?> So we have to look what kind of <foreign> chi </foreign> -square <&> a student sneezes </&> 
+
+ <$A> 
+<ICE-PHI:S1B-009#256:1:A>
+There 's no need <,> obviously it 's not a test of goodness of fit it 's not 
+ 
+<ICE-PHI:S1B-009#257:1:A>
+All you need automatic every time you see uh this it 's always always always okay
+ 
+<ICE-PHI:S1B-009#258:1:A>
+But let 's take an example <,,> <indig> 'yan </indig> <,,> <&> break in the recording </&> 
+ 
+<ICE-PHI:S1B-009#259:1:A>
+If you have this data <,,> okay we assume that these are organizations student organizations in La Salle
+ 
+<ICE-PHI:S1B-009#260:1:A>
+There are about six okay
+ 
+<ICE-PHI:S1B-009#261:1:A>
+Then we try to find out whether there 's a correlation between year level <,,> and uh year level and uhm participation in student organizations <,> let 's put freshmen <,,> 
+ 
+<ICE-PHI:S1B-009#262:1:A>
+Okay you want to find the relationship between membership in student organizations and the year level is there a correlation between the two okay
+ 
+<ICE-PHI:S1B-009#263:1:A>
+So let 's use <foreign> chi </foreign> -square first <&> teacher walks and writes on the board while students talk </&> 
+ 
+<ICE-PHI:S1B-009#264:1:A>
+Okay to compute your <&> students talk </&> 
+ 
+<ICE-PHI:S1B-009#265:1:A>
+Okay do it now <,,> 
+ 
+<ICE-PHI:S1B-009#266:1:A>
+You solve it you solve it
+ 
+<ICE-PHI:S1B-009#267:1:A>
+Genevieve correct <&> students talk </&> 
+ 
+<ICE-PHI:S1B-009#268:1:A>
+Okay <&> break in the recording </&> 
+ 
+<ICE-PHI:S1B-009#269:1:A>
+Okay student organizations affiliations student organizations and level uh year level of students of De La Salle
+ 
+<ICE-PHI:S1B-009#270:1:A>
+Okay <,> so since we need a <foreign> chi </foreign> -square so what was the first thing that uh we should have done with it <&> students answer in chorus </&> 
+ 
+<ICE-PHI:S1B-009#271:1:A>
+Okay get the <mention> expected </mention> okay so what are the chances uh computed the <mention> expected </mention> already right
+ 
+<ICE-PHI:S1B-009#272:1:A>
+So forty-nine the first the first column will be forty-nine <,,> the first row rather will be forty-nine <,,> 
+ 
+<ICE-PHI:S1B-009#273:1:A>
+Okay so you see here the <mention> expected </mention> already <indig> 'no </indig> like this time from forty-nine times twenty-two divided by one hundred forty-four is seven plus forty-nine
+ 
+<ICE-PHI:S1B-009#274:1:A>
+So we need to do it for all the cells here okay all the cells all so after computing E for each uh cell then you add it all up
+ 
+<ICE-PHI:S1B-009#275:1:A>
+You should get an answer between seventy-five point zero nine to seventy-five point twenty-five okay
+
+ </I> 

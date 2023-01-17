@@ -1,0 +1,607 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-016#1:1:A>
+So it is now appropriate for the weekend it is going now to be a weekend that you will be doing some more in statistics are you ready
+ 
+<ICE-PHI:S1B-016#2:1:A>
+Okay take this down <quote> the following data the following data are the ages the following data are the ages of a sample of twenty-five automobile sales people in the United States <,,> and a sample of twenty-five automobile sales people in Western Europe </quote> <,> 
+ 
+<ICE-PHI:S1B-016#3:1:A>
+You got it <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-016#4:1:A>
+Alright let me repeat
+ 
+<ICE-PHI:S1B-016#5:1:A>
+<quote> The following data are the ages of a sample of twenty-five automobile sales people in the United States and a sample of twenty-five automobile sales people in Western Europe </quote> 
+ 
+<ICE-PHI:S1B-016#6:1:A>
+Now let me write the data on the board <&> the teacher writes on the board </&> <,,> 
+ 
+<ICE-PHI:S1B-016#7:1:A>
+The different data that refer to the ages of drivers in the United States and in Western Europe
+ 
+<ICE-PHI:S1B-016#8:1:A>
+Okay the requirements <,> you ready for the requirements
+
+ <$Z> 
+<ICE-PHI:S1B-016#9:1:Z> <X> <&> the students answer in chorus </&> Not yet <,,> </X> 
+
+ <$A> 
+<ICE-PHI:S1B-016#10:1:A>
+Alright <,> finished class
+ 
+<ICE-PHI:S1B-016#11:1:A>
+Okay now what you should be doing is you 're going to discuss the findings of the data that you have okay
+ 
+<ICE-PHI:S1B-016#12:1:A>
+You have the data representing the ages of uh sales people in the United States and in <.> Eu </.> in Western Europe
+ 
+<ICE-PHI:S1B-016#13:1:A>
+So you are going to display the data separately by a <unclear> words </unclear> 
+ 
+<ICE-PHI:S1B-016#14:1:A>
+Second you have to calculate the mean the median the first quartile the third quartile the range the inter-quartile range and the coefficient of variation
+ 
+<ICE-PHI:S1B-016#15:1:A>
+These will be discussed today
+ 
+<ICE-PHI:S1B-016#16:1:A>
+Number three the shape of the distribution whether it is negatively skewed positively skewed
+ 
+<ICE-PHI:S1B-016#17:1:A>
+And then number four discuss the findings
+ 
+<ICE-PHI:S1B-016#18:1:A>
+How do you discuss the findings
+ 
+<ICE-PHI:S1B-016#19:1:A>
+You are going to compare the uh the two data sets the ages of U S drivers versus the ages of Western Europe
+ 
+<ICE-PHI:S1B-016#20:1:A>
+Is the homework clear
+ 
+<ICE-PHI:S1B-016#21:1:A>
+Alright
+ 
+<ICE-PHI:S1B-016#22:1:A>
+So for today we are going to discuss the measures of variation because we finished measures of central tendency last Wednesday both for the uh grouped and the ungrouped data
+ 
+<ICE-PHI:S1B-016#23:1:A>
+You recall that
+ 
+<ICE-PHI:S1B-016#24:1:A>
+We calculated the mean the median <&> the teacher writes on the board </&> uh the mode for both grouped and ungrouped data okay
+ 
+<ICE-PHI:S1B-016#25:1:A>
+Now tell me what 's the difference between grouped and ungrouped data
+ 
+<ICE-PHI:S1B-016#26:1:A>
+What is the difference between grouped and ungrouped data
+ 
+<ICE-PHI:S1B-016#27:1:A>
+Susan
+
+ <$B> 
+<ICE-PHI:S1B-016#28:1:B>
+Uhm grouped data are characterized by <unclear> words </unclear> like for example you have <unclear> words </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-016#29:1:A>
+Alright
+ 
+<ICE-PHI:S1B-016#30:1:A>
+By grouped data we mean data that are arranged into a what frequency distribution
+ 
+<ICE-PHI:S1B-016#31:1:A>
+By frequency distribution we arrange the data according to categories or classes and then we tally the number of variables or the number of values that would be included in that particular class okay
+ 
+<ICE-PHI:S1B-016#32:1:A>
+So now we said last Wednesday also that if we will only be dealing with measures of central tendency some problems may come up
+ 
+<ICE-PHI:S1B-016#33:1:A>
+Like the problem on employee A and employee B wherein both have the same average uh performance but if you look at the variability of each value then you would know that one employee is better than the other employee
+ 
+<ICE-PHI:S1B-016#34:1:A>
+Why
+ 
+<ICE-PHI:S1B-016#35:1:A>
+Because we looked at the uh dispersion or the spread of the scores from a point of reference called the mean
+ 
+<ICE-PHI:S1B-016#36:1:A>
+The point of reference class may not only be the mean
+ 
+<ICE-PHI:S1B-016#37:1:A>
+It could also be the median or the mode
+ 
+<ICE-PHI:S1B-016#38:1:A>
+But the usual procedure is to compare every value from the mean okay
+ 
+<ICE-PHI:S1B-016#39:1:A>
+Now <,> let 's begin the measures of variation or variability
+ 
+<ICE-PHI:S1B-016#40:1:A>
+Alright
+ 
+<ICE-PHI:S1B-016#41:1:A>
+The first and the simplest is the range
+ 
+<ICE-PHI:S1B-016#42:1:A>
+Here
+ 
+<ICE-PHI:S1B-016#43:1:A>
+Alright let me see
+ 
+<ICE-PHI:S1B-016#44:1:A>
+I will add
+ 
+<ICE-PHI:S1B-016#45:1:A>
+Oh here is the range
+ 
+<ICE-PHI:S1B-016#46:1:A>
+The first measure of variability is the range
+ 
+<ICE-PHI:S1B-016#47:1:A>
+If you 're given a set of scores class immediately you calculate the range
+ 
+<ICE-PHI:S1B-016#48:1:A>
+What is the range <&> somebody in the class answers but is inaudible </&> 
+ 
+<ICE-PHI:S1B-016#49:1:A>
+Highest minus lowest very good
+ 
+<ICE-PHI:S1B-016#50:1:A>
+<&> the teacher writes on the board </&> X highest minus X lowest
+ 
+<ICE-PHI:S1B-016#51:1:A>
+It is the distance of the highest score from the lowest or vice versa
+ 
+<ICE-PHI:S1B-016#52:1:A>
+How far away is the highest from the lowest
+ 
+<ICE-PHI:S1B-016#53:1:A>
+So that if I have case A let us say this is one class the highest score here let us say is a hundred the lowest score is ninety-five
+ 
+<ICE-PHI:S1B-016#54:1:A>
+Or let 's say ninety
+ 
+<ICE-PHI:S1B-016#55:1:A>
+So what is the range
+ 
+<ICE-PHI:S1B-016#56:1:A>
+The range is
+
+ <$Z> 
+<ICE-PHI:S1B-016#57:1:Z> <X> <&> the students answer in chorus </&> Ten </X> 
+
+ <$A> 
+<ICE-PHI:S1B-016#58:1:A>
+I have another case B
+ 
+<ICE-PHI:S1B-016#59:1:A>
+<&> the teacher writes on the board </&> The highest score is ten the lowest score is zero
+
+ <$C> 
+<ICE-PHI:S1B-016#60:1:Z> Ten
+
+ <$A> 
+<ICE-PHI:S1B-016#61:1:A>
+What is the range
+ 
+<ICE-PHI:S1B-016#62:1:A>
+The range is also ten
+ 
+<ICE-PHI:S1B-016#63:1:A>
+I have case C alright
+ 
+<ICE-PHI:S1B-016#64:1:A>
+The highest score is a hundred the lowest score is zero
+ 
+<ICE-PHI:S1B-016#65:1:A>
+What is the range
+
+ <$Z> 
+<ICE-PHI:S1B-016#66:1:Z> <X> <&> the students answer in chorus </&> One hundred </X> 
+
+ <$A> 
+<ICE-PHI:S1B-016#67:1:A>
+One hundred okay
+ 
+<ICE-PHI:S1B-016#68:1:A>
+Now <,> we have three groups of students here
+ 
+<ICE-PHI:S1B-016#69:1:A>
+We have three classes
+ 
+<ICE-PHI:S1B-016#70:1:A>
+We said the highest in case A is a hundred the lowest is ninety the range is ten
+ 
+<ICE-PHI:S1B-016#71:1:A>
+In case B the highest is ten the lowest is zero range is ten
+ 
+<ICE-PHI:S1B-016#72:1:A>
+In case C highest is a hundred lowest is zero the range is a hundred
+ 
+<ICE-PHI:S1B-016#73:1:A>
+Now can you have a description of the abilities of the classes here
+ 
+<ICE-PHI:S1B-016#74:1:A>
+Yes Manuel describe to me the three classes
+
+ <$D> 
+<ICE-PHI:S1B-016#75:1:D>
+Uh case A and B
+
+ <$A> 
+<ICE-PHI:S1B-016#76:1:A>
+Case A
+
+ <$D> 
+<ICE-PHI:S1B-016#77:1:D>
+Uh the variable of uh more or or less <indig> pareho lang </indig> <unclear> words </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-016#78:1:A>
+So that more or less the students are of the same ability
+ 
+<ICE-PHI:S1B-016#79:1:A>
+Case what about case B
+ 
+<ICE-PHI:S1B-016#80:1:A>
+Are we not going to discuss case B
+
+ <$D> 
+<ICE-PHI:S1B-016#81:1:D>
+For case A case B <indig> pareho lang ang </indig> average <indig> nilang lahat pare-pareho lang ah maliliit ang </indig> difference <indig> nila eh pero </indig> whereas case C <unclear> word </unclear> case B <indig> mabababa </indig> 
+ 
+<ICE-PHI:S1B-016#82:1:Z> Whereas case A <unclear> words </unclear> case B <indig> mabababa </indig> uhm so therefore <indig> sa isang </indig> range equal <indig> walang masyadong <unclear> words </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-016#83:1:A>
+Oh continue Manuel
+ 
+<ICE-PHI:S1B-016#84:1:A>
+What uh what can you conclude from the range
+ 
+<ICE-PHI:S1B-016#85:1:A>
+You 're saying that in case A <,> the abilities of the students are about the same as well as case B
+ 
+<ICE-PHI:S1B-016#86:1:A>
+The abilities of the students are also about the same
+ 
+<ICE-PHI:S1B-016#87:1:A>
+What about case C
+ 
+<ICE-PHI:S1B-016#88:1:A>
+The abilities of the students are
+ 
+<ICE-PHI:S1B-016#89:1:A>
+What
+
+ <$D> 
+<ICE-PHI:S1B-016#90:1:D>
+Varied
+
+ <$A> 
+<ICE-PHI:S1B-016#91:1:A>
+Are varied
+ 
+<ICE-PHI:S1B-016#92:1:A>
+Right class varied
+ 
+<ICE-PHI:S1B-016#93:1:A>
+You have a very bright kid and you have I will not say it any more <O> laughter </O> 
+ 
+<ICE-PHI:S1B-016#94:1:A>
+Now in other words this group is a variable group
+ 
+<ICE-PHI:S1B-016#95:1:A>
+The variability is so large
+ 
+<ICE-PHI:S1B-016#96:1:A>
+The larger the range the more variable is the group
+ 
+<ICE-PHI:S1B-016#97:1:A>
+Do you understand
+ 
+<ICE-PHI:S1B-016#98:1:A>
+The smaller the range the less variable is the group the more similar is the group
+ 
+<ICE-PHI:S1B-016#99:1:A>
+That is why if we are going to describe case A and case B we have a homogeneous group a homogeneous group
+ 
+<ICE-PHI:S1B-016#100:1:A>
+Same ability group same ability
+ 
+<ICE-PHI:S1B-016#101:1:A>
+In case C we have a heterogeneous group heterogeneous group so that if you are given only the range you are given an information about the variability of the class or of the group
+ 
+<ICE-PHI:S1B-016#102:1:A>
+Is this clear
+ 
+<ICE-PHI:S1B-016#103:1:A>
+Uh is this clear
+ 
+<ICE-PHI:S1B-016#104:1:A>
+So that 's the simplest
+ 
+<ICE-PHI:S1B-016#105:1:A>
+But the range class only depends on two values on the highest and the lowest
+ 
+<ICE-PHI:S1B-016#106:1:A>
+You really don't know how the values in between vary
+ 
+<ICE-PHI:S1B-016#107:1:A>
+That is the limitation
+ 
+<ICE-PHI:S1B-016#108:1:A>
+Do you understand
+ 
+<ICE-PHI:S1B-016#109:1:A>
+The limitation of the range is is that you would not know how the values between the highest and the lowest <.> va </.> vary
+ 
+<ICE-PHI:S1B-016#110:1:A>
+So if this is your highest and this is your lowest you know the distance you know the spread of the highest versus the lowest
+ 
+<ICE-PHI:S1B-016#111:1:A>
+But the the scores <&> the teacher taps on the board </&> in between you don't know
+ 
+<ICE-PHI:S1B-016#112:1:A>
+This is the limitation
+ 
+<ICE-PHI:S1B-016#113:1:A>
+That 's why we have to go farther down
+ 
+<ICE-PHI:S1B-016#114:1:A>
+Let 's go to a measure of dispersion which is the variance
+ 
+<ICE-PHI:S1B-016#115:1:A>
+Let us go immediately to the variance number three the standard deviation and number four the coefficient of variation
+ 
+<ICE-PHI:S1B-016#116:1:A>
+These are the four okay
+ 
+<ICE-PHI:S1B-016#117:1:A>
+Now the inter-quartile range is defined as is also one of the measures inter-quartile range
+ 
+<ICE-PHI:S1B-016#118:1:A>
+Now we to okay up third quartile right
+ 
+<ICE-PHI:S1B-016#119:1:A>
+So Q three minus we also to okay up first quartile right minus first quartile
+ 
+<ICE-PHI:S1B-016#120:1:A>
+This is your inter-quartile range
+ 
+<ICE-PHI:S1B-016#121:1:A>
+It is a measure of uh variability because if we ever say this is your normal curve this is your Q two this is your Q one this is your Q three 
+ 
+<ICE-PHI:S1B-016#122:1:A>
+It is really Q three minus Q one
+ 
+<ICE-PHI:S1B-016#123:1:A>
+This is really your inter-quartile range <,> Q three minus Q one
+ 
+<ICE-PHI:S1B-016#124:1:A>
+Do you understand
+ 
+<ICE-PHI:S1B-016#125:1:A>
+So let me repeat that
+ 
+<ICE-PHI:S1B-016#126:1:A>
+This is Q two the median first quartile third quartile inter-quartile range is Q three minus Q one
+ 
+<ICE-PHI:S1B-016#127:1:A>
+So in other words this is the the inter-quartile range okay
+ 
+<ICE-PHI:S1B-016#128:1:A>
+Now but we will not emphasize on that we will emphasize on two three and four
+ 
+<ICE-PHI:S1B-016#129:1:A>
+We will focus our attention on two three and four
+ 
+<ICE-PHI:S1B-016#130:1:A>
+The variance standard deviation and coefficient of variation
+ 
+<ICE-PHI:S1B-016#131:1:A>
+Alright <,,> 
+ 
+<ICE-PHI:S1B-016#132:1:A>
+Let me begin by a very simple example
+ 
+<ICE-PHI:S1B-016#133:1:A>
+Alright let 's say <,> <&> the teacher writes on the board </&> let 's say we have a small department store and uh we are going to record the sales the daily sale of this small store
+ 
+<ICE-PHI:S1B-016#134:1:A>
+Let 's pick one item and the item is the designer jean alright
+ 
+<ICE-PHI:S1B-016#135:1:A>
+Let us record the daily sale of the designer jean of this particular store
+ 
+<ICE-PHI:S1B-016#136:1:A>
+Let 's say on Monday this store sold one pair only of designer jean
+ 
+<ICE-PHI:S1B-016#137:1:A>
+On Tuesday two pairs
+ 
+<ICE-PHI:S1B-016#138:1:A>
+On Wednesday three
+ 
+<ICE-PHI:S1B-016#139:1:A>
+On Thursday four
+ 
+<ICE-PHI:S1B-016#140:1:A>
+On Friday five
+ 
+<ICE-PHI:S1B-016#141:1:A>
+You know there are other items also but we are only concentrating on one specific item that is the designer jean
+ 
+<ICE-PHI:S1B-016#142:1:A>
+So if we take the average sale of this particular unit what is our daily average daily sale
+ 
+<ICE-PHI:S1B-016#143:1:A>
+How many
+
+ <$Z> 
+<ICE-PHI:S1B-016#144:1:Z> <X> <&> the students answer in chorus </&> Three </X> 
+
+ <$A> 
+<ICE-PHI:S1B-016#145:1:A>
+Three so how do you get the mean
+ 
+<ICE-PHI:S1B-016#146:1:A>
+So we take the summation of X <&> the teacher writes on the board </&> three six ten fifteen summation X divided by N or fifteen divided by five is three
+ 
+<ICE-PHI:S1B-016#147:1:A>
+Average daily sale is three
+ 
+<ICE-PHI:S1B-016#148:1:A>
+Three pairs of designer jean
+ 
+<ICE-PHI:S1B-016#149:1:A>
+Now <,> if I want to know how each day is doing each day 's sale is doing in comparison to the average I am going to take the deviation from the mean right
+ 
+<ICE-PHI:S1B-016#150:1:A>
+So that let us prepare another column which is X minus X bar
+ 
+<ICE-PHI:S1B-016#151:1:A>
+What am I doing here
+ 
+<ICE-PHI:S1B-016#152:1:A>
+I want to compare Monday 's sale with the average daily sale
+ 
+<ICE-PHI:S1B-016#153:1:A>
+On Monday they sold only one <.> design </.> one pair of designer jean and if you compare it with the average <,> Monday 's sale is below the average by how many pairs
+
+ <$Z> 
+<ICE-PHI:S1B-016#154:1:Z> <X> <&> the students answer in chorus </&> Two </X> 
+
+ <$A> 
+<ICE-PHI:S1B-016#155:1:A>
+By two
+ 
+<ICE-PHI:S1B-016#156:1:A>
+Because you sold two pairs below the average you have a negative deviation <,> right
+ 
+<ICE-PHI:S1B-016#157:1:A>
+This is actually one minus three
+ 
+<ICE-PHI:S1B-016#158:1:A>
+This is X is one X bar is three <,> one minus three
+ 
+<ICE-PHI:S1B-016#159:1:A>
+So you would have a negative deviation minus two
+ 
+<ICE-PHI:S1B-016#160:1:A>
+Because you have a negative deviation we want to make this positive
+ 
+<ICE-PHI:S1B-016#161:1:A>
+How do we make a negative positive in algebra
+
+ <$Z> 
+<ICE-PHI:S1B-016#162:1:Z> <X> <&> the students answer in chorus </&> Taking the absolute value </X> 
+
+ <$A> 
+<ICE-PHI:S1B-016#163:1:A>
+Taking the absolute value or <,> squaring <,> right
+ 
+<ICE-PHI:S1B-016#164:1:A>
+How do you how do you get rid of a negative value in algebra
+ 
+<ICE-PHI:S1B-016#165:1:A>
+Take the absolute absolute value or another way is by squaring
+ 
+<ICE-PHI:S1B-016#166:1:A>
+So let us square the deviation from the mean so that minus two becomes now plus four
+ 
+<ICE-PHI:S1B-016#167:1:A>
+The actual deviation is really two two below because you sold only one pair and the average is three pairs
+ 
+<ICE-PHI:S1B-016#168:1:A>
+So one minus three is minus two
+ 
+<ICE-PHI:S1B-016#169:1:A>
+But we don't want to handle negative deviations
+ 
+<ICE-PHI:S1B-016#170:1:A>
+We want to get rid of the negative sign so we are going to square and squaring a negative means positive four minus two becomes positive four
+ 
+<ICE-PHI:S1B-016#171:1:A>
+Now you say this store sold two pairs
+ 
+<ICE-PHI:S1B-016#172:1:A>
+And if you compare this with the average this is now two minus three square and this will give us one
+ 
+<ICE-PHI:S1B-016#173:1:A>
+Plus one
+ 
+<ICE-PHI:S1B-016#174:1:A>
+On Wednesday the store sold exactly equal to the average
+ 
+<ICE-PHI:S1B-016#175:1:A>
+You hit the average on Wednesday
+ 
+<ICE-PHI:S1B-016#176:1:A>
+So this is three minus three square and this is zero deviation
+ 
+<ICE-PHI:S1B-016#177:1:A>
+On Thursday the store sold four pairs and the average is three therefore you have your one pair above the average on Thursday alright
+ 
+<ICE-PHI:S1B-016#178:1:A>
+So we compare four minus three square this is one and on Friday we sold how many
+ 
+<ICE-PHI:S1B-016#179:1:A>
+Five pairs and the average daily sale is three so that what is the deviation from the mean <&> inaudible answer </&> 
+ 
+<ICE-PHI:S1B-016#180:1:A>
+Two pairs <,> right above square that becomes five
+ 
+<ICE-PHI:S1B-016#181:1:A>
+This is now five minus three square becomes four
+ 
+<ICE-PHI:S1B-016#182:1:A>
+Now do you know what is happening on this column here
+ 
+<ICE-PHI:S1B-016#183:1:A>
+Yes or no
+ 
+<ICE-PHI:S1B-016#184:1:A>
+You know what is going on here
+ 
+<ICE-PHI:S1B-016#185:1:A>
+What is going on here Ms Viduya what are we doing here
+
+ <$E> 
+<ICE-PHI:S1B-016#186:1:E>
+We 're getting the deviation from each other
+
+ <$A> 
+<ICE-PHI:S1B-016#187:1:A>
+In other words we have some pairings
+ 
+<ICE-PHI:S1B-016#188:1:A>
+Every single daily sale with the average daily sale in in statistics usage we 're taking the deviation from the mean
+ 
+<ICE-PHI:S1B-016#189:1:A>
+But that is really very technical
+ 
+<ICE-PHI:S1B-016#190:1:A>
+If you want it to put it in ordinary language we 're really comparing every single value every daily sale with the average daily sale
+ 
+<ICE-PHI:S1B-016#191:1:A>
+This is in ordinary language
+ 
+<ICE-PHI:S1B-016#192:1:A>
+In statistics we 're saying we 're taking the deviation from the mean
+ 
+<ICE-PHI:S1B-016#193:1:A>
+But sometimes other people will not understand that what are what are they doing if they they they 're taking the deviation from the mean
+ 
+<ICE-PHI:S1B-016#194:1:A>
+We 're actually comparing every single value this is the sale from the average daily sale that makes it more meaningful to you
+ 
+<ICE-PHI:S1B-016#195:1:A>
+Right 
+
+ </I> 

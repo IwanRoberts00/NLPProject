@@ -1,0 +1,801 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-067#1:1:A>
+The Secretary will now administer <{> <[> the oath on the witness </[> 
+
+ <$B> 
+<ICE-PHI:S1B-067#2:1:B>
+<[> Please raise your right hand </[> </{> 
+ 
+<ICE-PHI:S1B-067#3:1:B>
+<X> You Jay Sonza do swear that the evidence you shall give in the case now pending between the Philippines and Joseph Ejercito Estrada President of the Philippines shall be the truth the whole truth and nothing but the truth so help you God </X> 
+
+ <$C> 
+<ICE-PHI:S1B-067#4:1:C>
+I do
+
+ <$B> 
+<ICE-PHI:S1B-067#5:1:B>
+Please sit down
+
+ <$D> 
+<ICE-PHI:S1B-067#6:1:D>
+<{> <[> Mr Chief Justice Your Honors </[> 
+
+ <$A> 
+<ICE-PHI:S1B-067#7:1:A>
+<[> Take your seat </[> </{> 
+ 
+<ICE-PHI:S1B-067#8:1:A>
+Honorable Apostol
+
+ <$D> 
+<ICE-PHI:S1B-067#9:1:D>
+We are presenting this witness to prove that President Estrada received two hundred million in <indig> jueteng </indig> protection money collected by Governor Singson
+ 
+<ICE-PHI:S1B-067#10:1:D>
+Second President Estrada knew when the said amount was delivered to his lawyer Atty Eduardo Serapio
+ 
+<ICE-PHI:S1B-067#11:1:D>
+Now Mr Witness will you please state your name
+
+ <$C> 
+<ICE-PHI:S1B-067#12:1:C>
+My name is Jose Yumang Sonza
+
+ <$D> 
+<ICE-PHI:S1B-067#13:1:D>
+Age
+
+ <$C> 
+<ICE-PHI:S1B-067#14:1:C>
+I am forty-five years old
+
+ <$D> 
+<ICE-PHI:S1B-067#15:1:D>
+Civil status
+
+ <$C> 
+<ICE-PHI:S1B-067#16:1:C>
+Uh I am uh single by decree of court annulment
+
+ <$D> 
+<ICE-PHI:S1B-067#17:1:D>
+Address
+
+ <$C> 
+<ICE-PHI:S1B-067#18:1:C>
+Number thirty-two October Street corner Senatorial Drive Congressional Village Phase One Barangay Bahay Toro Quezon City
+
+ <$D> 
+<ICE-PHI:S1B-067#19:1:D>
+And your occupation
+
+ <$C> 
+<ICE-PHI:S1B-067#20:1:C>
+I 'm a journalist by profession
+
+ <$D> 
+<ICE-PHI:S1B-067#21:1:D>
+You mentioned that you are a journalist
+ 
+<ICE-PHI:S1B-067#22:1:D>
+With what agency or agencies are you connected with
+
+ <$C> 
+<ICE-PHI:S1B-067#23:1:C>
+I do regular programs for D Z R H the flagship uh A M station of Manila Broadcasting Company
+ 
+<ICE-PHI:S1B-067#24:1:C>
+I also co-host a regular weekly talk show over G M A Network <mention> Partners Mel and Jay </mention> 
+ 
+<ICE-PHI:S1B-067#25:1:C>
+I also do a daily evening program <mention> Erap on Trial <indig> Hatol ng Kasaysayan </indig> </mention> over A B C five
+ 
+<ICE-PHI:S1B-067#26:1:C>
+I 'm also the program host-producer for <mention> <indig> Tapatan </indig> </mention> over R P N nine
+ 
+<ICE-PHI:S1B-067#27:1:C>
+And I 'm also program consultant for Manila Broadcasting Company
+ 
+<ICE-PHI:S1B-067#28:1:C>
+And I also write a regular column Mondays Wednesdays and Fridays over Monica Publication <mention> <foreign> Abante </foreign> </mention> 
+
+ <$D> 
+<ICE-PHI:S1B-067#29:1:D>
+Well do you know the respondent President Ejercito Estrada in this case
+
+ <$C> 
+<ICE-PHI:S1B-067#30:1:C>
+Come again Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#31:1:D>
+Do you know the respondent President Joseph Ejercito Estrada
+
+ <$C> 
+<ICE-PHI:S1B-067#32:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#33:1:D>
+On on on why do you know him
+
+ <$C> 
+<ICE-PHI:S1B-067#34:1:C>
+He is the President of the Republic of the Philippines
+
+ <$D> 
+<ICE-PHI:S1B-067#35:1:D>
+Well sometime on November nine two thousand did you have any occasion to meet or see him
+
+ <$C> 
+<ICE-PHI:S1B-067#36:1:C>
+No Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#37:1:D>
+On November thirteen did you have any occasion to interview the President
+
+ <$C> 
+<ICE-PHI:S1B-067#38:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#39:1:D>
+Now where was the interview conducted
+
+ <$C> 
+<ICE-PHI:S1B-067#40:1:C>
+It was conducted uh over uh M B C D Z R H at uh between eight to ten in the morning of same date
+
+ <$D> 
+<ICE-PHI:S1B-067#41:1:D>
+Well during the that November thirteen two thousand interview will you please tell this body what was the subject matter of the first questions of your interview to President Estrada
+
+ <$C> 
+<ICE-PHI:S1B-067#42:1:C>
+The interview was uh relative to the burning issues of those days
+ 
+<ICE-PHI:S1B-067#43:1:C>
+It has something to do with uh issues raised during the investigation of the Senate Committee on Public Accountability otherwise known as the Senate Blue Ribbon Committee
+ 
+<ICE-PHI:S1B-067#44:1:C>
+It has also something to do with the the allegations made by uh the Governor of Ilocos Sur uh Luis Singson uh alleging among others uh the implication of the President uh on several other uh alleged graft and corruption and other misdemeanor
+
+ <$D> 
+<ICE-PHI:S1B-067#45:1:D>
+During that interview was there any occasion where the so-called two hundred million pesos was mentioned
+
+ <$C> 
+<ICE-PHI:S1B-067#46:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#47:1:D>
+How was it mentioned
+
+ <$C> 
+<ICE-PHI:S1B-067#48:1:C>
+Well uh my uh co-anchor uh Mr Deo Macalma and I uh I remember we specifically asked the uh President of the Republic whether uh he has any reaction to the allegations uh of Mr Singson among others uh the receipt of two hundred million by a certain Atty Eduardo Serapio
+
+ <$D> 
+<ICE-PHI:S1B-067#49:1:D>
+And do you know <,> was Eduardo Serapio mentioned as uh being connected with the President
+
+ <$C> 
+<ICE-PHI:S1B-067#50:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#51:1:D>
+How
+
+ <$C> 
+<ICE-PHI:S1B-067#52:1:C>
+Uh the question actually was uh I I remember asking him uh whether uh if it is true that uh the amount mentioned <mention> two hundred million </mention> was indeed uh received by by Atty Edward Serapio uh whom reports attribute as the personal lawyer of the President
+
+ <$D> 
+<ICE-PHI:S1B-067#53:1:D>
+Now that interview was there any transcript taken
+
+ <$C> 
+<ICE-PHI:S1B-067#54:1:C>
+Yes uh Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#55:1:D>
+Showing to you this transcript <,,> Mr <.> Chie </.> Mr Chief Justice
+
+ <$A> 
+<ICE-PHI:S1B-067#56:1:A>
+Yes
+
+ <$D> 
+<ICE-PHI:S1B-067#57:1:D>
+As been previously marked conditionally as Exhibit double N N N will you please look at this transcript and tell this Honorable Body what is the relation of that transcript you mentioned a while ago with the transcript now shown to you
+
+ <$E> 
+<ICE-PHI:S1B-067#58:1:E>
+Mr Chief Justice uh
+
+ <$A> 
+<ICE-PHI:S1B-067#59:1:A>
+Yes uh Atty Flaminiano
+
+ <$E> 
+<ICE-PHI:S1B-067#60:1:E>
+We have no copy of the transcript being sought to be identified by the prosecution
+
+ <$D> 
+<ICE-PHI:S1B-067#61:1:D>
+<{> <[> It has been distributed </[> 
+
+ <$A> 
+<ICE-PHI:S1B-067#62:1:A>
+<[> Well we had an agreement earlier </[> </{> that copies of these uh marked pre-marked exhibits <{> <[> should be given to the defense </[> 
+
+ <$D> 
+<ICE-PHI:S1B-067#63:1:D>
+<[> Yes uh Mr Chief Justice we distributed it </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1B-067#64:1:A>
+But anyway give him a copy now
+
+ <$D> 
+<ICE-PHI:S1B-067#65:1:D>
+The page has just given a copy to Atty Versola
+
+ <$A> 
+<ICE-PHI:S1B-067#66:1:A>
+Anyway there are only three three pages for uh Exhibit double N
+
+ <$D> 
+<ICE-PHI:S1B-067#67:1:D>
+Yes Mr Chief Justice because it 's a very short interview on the pertinent questions-and-answers portion
+
+ <$A> 
+<ICE-PHI:S1B-067#68:1:A>
+Triple N N N
+
+ <$D> 
+<ICE-PHI:S1B-067#69:1:D>
+Yes uh
+
+ <$A> 
+<ICE-PHI:S1B-067#70:1:A>
+Okay
+
+ <$D> 
+<ICE-PHI:S1B-067#71:1:D>
+Which has been marked 
+ 
+<ICE-PHI:S1B-067#> May I now repeat the question Mr Chief Justice
+
+ <$A> 
+<ICE-PHI:S1B-067#72:1:A>
+Okay
+
+ <$D> 
+<ICE-PHI:S1B-067#73:1:D>
+Showing to you this transcript of the tape taken on November thirteen two thousand previously marked as Exhibit N N N what is the relation of this transcript to that transcript of the tape which you mentioned a while ago
+
+ <$C> 
+<ICE-PHI:S1B-067#74:1:C>
+This is exactly how the interview uh went on uh between me Mr Estrada and Mr Macalma Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#75:1:D>
+Now for the record will you please read the transcript <,,> 
+ 
+<ICE-PHI:S1B-067#76:1:D>
+Do you affirm and confirm the truth and veracity of the contents of this transcript
+
+ <$C> 
+<ICE-PHI:S1B-067#77:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#78:1:D>
+Now are you willing to sign this transcript at the back of the third page
+
+ <$C> 
+<ICE-PHI:S1B-067#79:1:C>
+Yes Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-067#80:1:A>
+What was the request uh Honorable Apostol
+
+ <$D> 
+<ICE-PHI:S1B-067#81:1:D>
+The the November the November nine is not included so I 'm requesting him to sign at the end of the November thirteen transcript
+
+ <$A> 
+<ICE-PHI:S1B-067#82:1:A>
+November thirteen
+
+ <$D> 
+<ICE-PHI:S1B-067#83:1:D>
+Now is there any tape of these uh proceedings
+
+ <$C> 
+<ICE-PHI:S1B-067#84:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#85:1:D>
+Why is it taped
+
+ <$C> 
+<ICE-PHI:S1B-067#86:1:C>
+Because it 's a it 's a standard operating procedure for M B C stations to tape our programs
+ 
+<ICE-PHI:S1B-067#87:1:C>
+We call it <mention> Tape On the Air </mention> uh and keep it uh in preparation for our annual report which we usually air uh at the end of the year
+
+ <$D> 
+<ICE-PHI:S1B-067#88:1:D>
+Now do you have a copy of that tape
+
+ <$C> 
+<ICE-PHI:S1B-067#89:1:C>
+Uh I have submitted it uh to the prosecution Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#90:1:D>
+Showing to you this tape which for purposes of identification may we request that this be marked as N N dash two
+ 
+<ICE-PHI:S1B-067#91:1:D>
+What is the relation of the tape to that tape which you mentioned a while ago <&> The Senate President interrupts </&> 
+
+ <$A> Excuse me N N dash two
+
+ <$D> 
+<ICE-PHI:S1B-067#92:1:D>
+N N dash two
+
+ <$A> 
+<ICE-PHI:S1B-067#93:1:A>
+Triple N triple N
+
+ <$D> 
+<ICE-PHI:S1B-067#94:1:D>
+Triple N
+ 
+<ICE-PHI:S1B-067#95:1:D>
+That 's why I said N N N dash two 
+
+ <$A> 
+<ICE-PHI:S1B-067#96:1:A>
+Uh the Presiding Officer 's copy already includes uh Exhibit triple N dash two which is the third page of the transcript uh of thirteen November
+
+ <$D> 
+<ICE-PHI:S1B-067#97:1:D>
+Uh by virtue of the testimony of the witness that he does not remember about the the November nine interview we are now withdrawing the other pages
+
+ <$A> 
+<ICE-PHI:S1B-067#98:1:A>
+Uh what pages would be withdrawn
+
+ <$D> 
+<ICE-PHI:S1B-067#99:1:D>
+The the page uh on the <{> <[> November </[> nine interview November nine two thousand
+
+ <$A> 
+<ICE-PHI:S1B-067#100:1:A>
+<[> So in </[> </{> so in other words you are withdrawing uh Exhibits N triple N dash one and triple N dash two
+
+ <$D> 
+<ICE-PHI:S1B-067#101:1:D>
+Just just a minute Mr Chief Justice I 'll just ask a question <,> 
+ 
+<ICE-PHI:S1B-067#102:1:D>
+Now you mentioned that there was you conducted an interview sometime in November thirteen two thousand
+
+ <$C> 
+<ICE-PHI:S1B-067#103:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#104:1:D>
+Now a while ago you also said that uh you did not meet the President on November nine <{> <[> <,> </[> 
+ 
+<ICE-PHI:S1B-067#105:1:D>
+Did you have did you have any occasion of interviewing the President before November thirteen
+
+ <$C> 
+<ICE-PHI:S1B-067#106:1:C>
+<[> Yes </[> </{> yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#107:1:D>
+When was that
+
+ <$C> 
+<ICE-PHI:S1B-067#108:1:C>
+On the ninth of November year two thousand
+
+ <$D> 
+<ICE-PHI:S1B-067#109:1:D>
+Now may I show you now the <.> tran </.> do you have a transcript of that November nine uh interview
+
+ <$C> 
+<ICE-PHI:S1B-067#110:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#111:1:D>
+Now showing to you this transcript of the <.> Num </.> November nine interview which for purposes of identification has been previously marked as Exhibit N N one
+
+ <$A> 
+<ICE-PHI:S1B-067#112:1:A>
+Triple N
+
+ <$D> 
+<ICE-PHI:S1B-067#113:1:D>
+Triple N one
+ 
+<ICE-PHI:S1B-067#114:1:D>
+Will you please look at the transcript and tell this Honorable Body what is the relation of this transcript to the transcript of the interview of November nine which you mentioned a while ago
+
+ <$C> 
+<ICE-PHI:S1B-067#115:1:C>
+Your Honor this uh transcript is the uh transcript of the actual interview made between uh Mr Macalma Mr Estrada and this representation Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#116:1:D>
+Now for purposes of record will you please look uh read the transcript for the record
+
+ <$C> 
+<ICE-PHI:S1B-067#117:1:C>
+Uh
+
+ <$D> 
+<ICE-PHI:S1B-067#118:1:D>
+Do you affirm the truth and veracity that those questions were asked and those are the answers given by President Estrada
+
+ <$C> 
+<ICE-PHI:S1B-067#119:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#120:1:D>
+Are you willing to sign this uh transcript at the bottom of uh page two which is marked as Exhibit double N dash two
+
+ <$A> 
+<ICE-PHI:S1B-067#121:1:A>
+Triple
+
+ <$D> 
+<ICE-PHI:S1B-067#122:1:D>
+Triple triple N dash two
+
+ <$C> 
+<ICE-PHI:S1B-067#123:1:C>
+Uh <indig> ang nabasa ko lang ho </indig> Your Honor uh <indig> ay hanggang </indig> triple N dash one
+ 
+<ICE-PHI:S1B-067#124:1:C>
+I cannot sign uh under Exhibit triple N dash two
+
+ <$D> 
+<ICE-PHI:S1B-067#125:1:D>
+I will ask the question
+ 
+<ICE-PHI:S1B-067#126:1:D>
+Now go to the other page which is now marked as triple N dash two
+ 
+<ICE-PHI:S1B-067#127:1:D>
+For the record will you please read the same
+
+ <$C> 
+<ICE-PHI:S1B-067#128:1:C>
+<indig> Ito po yung </indig> continuation <indig> ng sinabi ni Mr Estrada doon sa tanong kong sa gagawin ninyong katibayan ito sir laban sa kanya
+ 
+<ICE-PHI:S1B-067#129:1:C>
+Ang sagot po ni Mr Estrada bilang kadugtong </indig> 
+
+ <$D> 
+<ICE-PHI:S1B-067#130:1:D>
+The truth and veracity that that is the answer given to the question on page one
+
+ <$C> 
+<ICE-PHI:S1B-067#131:1:C>
+Uh let me clarify Your Honor uh this page two uh Exhibit triple N dash two is actually a continuation of Exhibit triple N uh in answer to the question uh so <indig> iniutos ninyo na huwag galawin </indig> 
+ 
+<ICE-PHI:S1B-067#133:1:C>
+It is not a continuation of the transcript of November nine two thousand interview
+
+ <$D> 
+<ICE-PHI:S1B-067#134:1:D>
+Again do you affirm the truth that this answer was given by President Estrada <{> <[> during the interview of November thirteen </[> 
+
+ <$C> 
+<ICE-PHI:S1B-067#135:1:C>
+</[> Yes Your Honor </[> </{> 
+
+ <$D> 
+<ICE-PHI:S1B-067#136:1:D>
+Now I go back to uh triple N dash one
+ 
+<ICE-PHI:S1B-067#137:1:D>
+Are you willing to sign <{> <[> <,> </[> This uh transcript at the bottom of the same
+ 
+<ICE-PHI:S1B-067#140:1:D>
+Please sign
+
+ <$C> 
+<ICE-PHI:S1B-067#138:1:C>
+<[> Yes Your Honor </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1B-067#141:1:A>
+At the bottom may I request that it should be at the bottom directly under the last word
+
+ <$D> 
+<ICE-PHI:S1B-067#142:1:D>
+Yes Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-067#143:1:A>
+Not to leave any space
+
+ <$D> 
+<ICE-PHI:S1B-067#144:1:D>
+At the bottom directly under the last word <indig> bayan ang ginagawa niyan </indig> 
+
+ <$C> 
+<ICE-PHI:S1B-067#145:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#146:1:D>
+Now on Exhibit triple N dash two are you willing to sign the same as being true and correct as the answer given by President Estrada
+
+ <$C> 
+<ICE-PHI:S1B-067#147:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#148:1:D>
+Please sign at the bottom at immediately at <indig> at nililinlang ang taong bayan </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-067#149:1:A>
+And would you kindly indicate the date uh you had affixed your signature <,,> 
+ 
+<ICE-PHI:S1B-067#150:1:A>
+Also for the previous pages
+
+ <$D> 
+<ICE-PHI:S1B-067#151:1:D>
+Now a while ago when a question was asked about the tape you answered that the proceedings were taped
+ 
+<ICE-PHI:S1B-067#152:1:D>
+Do you have the tape a copy of the tape on the November nine two thousand interview if you have
+
+ <$C> 
+<ICE-PHI:S1B-067#153:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#154:1:D>
+Showing to you this tape which for purposes of identification may we request that this be marked as Exhibit triple N dash three the November nine tape
+
+ <$A> 
+<ICE-PHI:S1B-067#155:1:A>
+Let it be so marked
+
+ <$D> 
+<ICE-PHI:S1B-067#156:1:D>
+Will you please look at the same and tell this Honorable Tribunal what is the relation of this tape which as to that of the tape which you mentioned a while ago
+
+ <$C> 
+<ICE-PHI:S1B-067#157:1:C>
+Uh this tape Your Honor contains uh uh exactly uh were part of or contains the the transcript uh I just read uh a moment ago
+
+ <$D> 
+<ICE-PHI:S1B-067#158:1:D>
+Now <,> <{> <[> about </[> 
+
+ <$A> 
+<ICE-PHI:S1B-067#159:1:A>
+<[> The the Presiding Officer </[> </{> would request the witness to initial uh below the exhibit number and to put the date <,> 
+ 
+<ICE-PHI:S1B-067#160:1:A>
+May we also request a representative of the prosecution and the defense to make the initials their own initials
+
+ <$D> 
+<ICE-PHI:S1B-067#161:1:D>
+Witness is uh attaching his signature to the tape itself and uh
+
+ <$A> 
+<ICE-PHI:S1B-067#162:1:A>
+<.> Coun </.> <,,> counsel may proceed
+
+ <$D> 
+<ICE-PHI:S1B-067#163:1:D>
+Now about the November thirteen two thousand interview do you have any tape of that interview
+
+ <$C> 
+<ICE-PHI:S1B-067#164:1:C>
+Yes Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#165:1:D>
+Now showing to you this tape which for purposes of identification we request that this be marked as Exhibit triple N dash four
+ 
+<ICE-PHI:S1B-067#166:1:D>
+Will you please look at this tape and tell this Honorable Tribunal what is the relation of this tape to that of the tape which you mentioned a while ago
+
+ <$C> 
+<ICE-PHI:S1B-067#167:1:C>
+<indig> Ito po yung </indig> tape <indig> na na kung saan nalalaman iyong bahagi po nung mga binasa ko kanina </indig> Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-067#168:1:D>
+Please sign this tape <,> to prove that this is the tape really taken during this time
+
+ <$A> 
+<ICE-PHI:S1B-067#169:1:A>
+Representatives of the prosecution and the defense also affix your initials on uh the newly marked exhibit
+
+ <$D> 
+<ICE-PHI:S1B-067#170:1:D>
+The witness signing attaching his signature on the tape <,,> 
+ 
+<ICE-PHI:S1B-067#171:1:D>
+And may I request that the Secretary-General sign attach the number of the exhibit
+
+ <$A> 
+<ICE-PHI:S1B-067#172:1:A>
+The Secretary of the Senate is uh directed to do that as requested
+
+ <$D> 
+<ICE-PHI:S1B-067#173:1:D>
+Your Honor please I 'm sorry we failed to make the necessary arrangement to bring in the tape recorder for the playing of the tape
+ 
+<ICE-PHI:S1B-067#174:1:D>
+Perhaps some other times when the decision will be due
+
+ <$A> 
+<ICE-PHI:S1B-067#175:1:A>
+Replaying
+
+ <$D> 
+<ICE-PHI:S1B-067#176:1:D>
+Yes Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-067#177:1:A>
+You already have the transcript anyway <{> <[> <,> </[> which was which was the the questions and the answers were already read into the record
+
+ <$D> 
+<ICE-PHI:S1B-067#178:1:D>
+<[> Uh okay </[> </{> 
+ 
+<ICE-PHI:S1B-067#180:1:D>
+We are through Mr Chief Justice
+ 
+<ICE-PHI:S1B-067#181:1:D>
+Thank you very much Your Honors
+
+ <$A> 
+<ICE-PHI:S1B-067#182:1:A>
+Cross-examination Atty Flaminiano
+
+ <$E> 
+<ICE-PHI:S1B-067#183:1:E>
+Mr Chief Justice Sir may I proceed
+
+ <$A> 
+<ICE-PHI:S1B-067#184:1:A>
+You may
+
+ <$E> 
+<ICE-PHI:S1B-067#185:1:E>
+Mr Sonza what appears in these exhibits triple N triple N dash one and triple N dash two are merely extracts or excerpts from that uh program
+
+ <$C> 
+<ICE-PHI:S1B-067#186:1:C>
+Yes Your Honor
+
+ <$E> 
+<ICE-PHI:S1B-067#187:1:E>
+These are not actually transcripts
+
+ <$C> 
+<ICE-PHI:S1B-067#188:1:C>
+Uh yes uh these are extracts from <{> <[> the uh </[> from the interview I conducted
+
+ <$E> 
+<ICE-PHI:S1B-067#189:1:E>
+<[> Extracts </[> </{> yes but you have been referring to them as transcripts
+
+ <$C> 
+<ICE-PHI:S1B-067#190:1:C>
+I 'd like to I stand corrected on that Your Honor
+
+ <$E> 
+<ICE-PHI:S1B-067#191:1:E>
+So you stand corrected
+ 
+<ICE-PHI:S1B-067#192:1:E>
+Now who prepared these extracts
+
+ <$C> 
+<ICE-PHI:S1B-067#193:1:C>
+I did uh prepare for this Your Honor
+
+ <$E> 
+<ICE-PHI:S1B-067#194:1:E>
+When did you prepare these extracts
+
+ <$C> 
+<ICE-PHI:S1B-067#195:1:C>
+This morning Your Honor
+
+ <$E> 
+<ICE-PHI:S1B-067#196:1:E>
+Only this morning
+
+ <$C> 
+<ICE-PHI:S1B-067#197:1:C>
+Yes
+
+ <$E> 
+<ICE-PHI:S1B-067#198:1:E>
+Now you identified uh two tapes
+
+ <$C> 
+<ICE-PHI:S1B-067#199:1:C>
+Yes Your Honor
+
+ <$E> 
+<ICE-PHI:S1B-067#200:1:E>
+Did you have anything to do with the recording of this interview
+
+ <$C> 
+<ICE-PHI:S1B-067#201:1:C>
+I didn't have anything to do with that
+
+ <$E> 
+<ICE-PHI:S1B-067#202:1:E>
+So you had no participation at all in the tape recording of this <{> <[> particular </[> interview 
+
+ <$C> 
+<ICE-PHI:S1B-067#> <[> By stand </[> </{> by standard operating procedure of the station it is the master control technician who taped the <{> <[> <,> </[> 
+
+ <$E> 
+<ICE-PHI:S1B-067#> <[> Yes </[> </{> so you have no personal knowledge who actually recorded the interview
+
+ <$C> 
+<ICE-PHI:S1B-067#> The technician on board at the time I can identify Your Honor
+
+ <$E> 
+<ICE-PHI:S1B-067#> Yes but uh you were not the one who assisted the technician in taping this uh interview
+
+ <$C> 
+<ICE-PHI:S1B-067#> That 's not my job Your Honor
+
+ <$E> 
+<ICE-PHI:S1B-067#> It 's not your job actually
+ 
+<ICE-PHI:S1B-067#> That will be all with the witness Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-067#> Re-direct uh Atty uh Prosecutor Apostol
+
+ <$D> 
+<ICE-PHI:S1B-067#> No re-direct Mr Chief Justice Your Honors
+
+ <$A> 
+<ICE-PHI:S1B-067#> Thank you
+ 
+<ICE-PHI:S1B-067#> The witness is now excused
+ 
+<ICE-PHI:S1B-067#> Call the next witness
+
+ </I> 

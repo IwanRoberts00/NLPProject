@@ -1,0 +1,500 @@
+<I>
+
+<ICE-PHI:W2A-024#1:1>
+<h> <bold> Conjugative Transferability of the Antibiotic Resistance in
+Fecal Isolates of <foreign> <it> Escherichia Coli </foreign> </it> from the
+San Lazaro Hospital </bold> </h>
+
+<ICE-PHI:W2A-024#2:1>
+<bold> Julieta C. Zabal </bold>
+
+<ICE-PHI:W2A-024#3:1>
+<h> <bold> ABSTRACT </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-024#4:1>
+<it> Thirty-one <ul> <foreign> Escherichia coli </foreign> </ul>
+isolates obtained from rectal swab samples of the San Lazaro Hospital,
+showing resistance to SXT-TMP and C were made to conjugate with <ul>
+<foreign> E. coli </foreign> </ul> SF 800 and <ul> <foreign> Salmonella
+</foreign> </ul> C 568 as recipients.
+
+<ICE-PHI:W2A-024#5:1>
+All of the donor isolates transferred their resistance to <ul> E. coli
+</ul> SF 800.
+
+<ICE-PHI:W2A-024#6:1>
+With <foreign> Salmonella </foreign> C 568 as recipient however, only
+16 out of 31 ( 51.61%) effected transfer of drug resistance.
+
+<ICE-PHI:W2A-024#7:1>
+In both conjugation pairs complete transfer was demonstrated.
+
+<ICE-PHI:W2A-024#8:1>
+The resistance marker from the donor isolates were transferred at a
+frequency of 3.35 x 10-3 to 3 39 x 10-1 to the recipient <ul> <foreign>
+Salmonella </foreign> </ul> C 568.
+
+<ICE-PHI:W2A-024#9:1>
+The multiplicity of drug resistance, their conjugative transferability
+coupled with high frequency of transfer showed the occurrence of
+plasmid-borne drug resistance in these <ul> <foreign> E. coli </foreign>
+</ul> isolates. </it> </p>
+
+<ICE-PHI:W2A-024#10:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-024#11:1>
+The therapeutic value offered by antibiotic against bacterial
+infections is very much appreciated in the field of human and veterinary
+medicines...not until reports on the emergence and dissemination of multiple
+antibiotic resistance, have captured much attention among health workers.
+</p>
+
+<p> 
+<ICE-PHI:W2A-024#12:1>
+Results of several studies correlate the incidence of drug
+resistance to the so-called selective pressure; such that prolonged exposure
+to the drugs would inevitably lead to the development of resistance, with
+resulting decrement in the therapeutic potential of the said drugs.
+
+<ICE-PHI:W2A-024#13:1>
+Because of this, clinicians are now facing a dilemma on the
+prescription of suitable antibiotics in the management of microbial diseases.
+</p>
+
+<p> 
+<ICE-PHI:W2A-024#14:1>
+Resistance to multiple drugs is attributed to the resistance ( R)
+plasmid, an extrachromosomal DNA which is transmissible to other bacterial
+cell via a process called conjugation ( Willets, 1988).
+
+<ICE-PHI:W2A-024#15:1>
+It is believed to be the mechanism which contributes to the acclaimed
+global distribution of the resistance problem, among the bacterial milieu (
+Grubb, 1990).
+
+<ICE-PHI:W2A-024#16:1>
+Until now, plasmid-mediated resistance continues to be a scourge in
+many hospital institutions and remains a major problem in the successful
+treatment and control of infections.
+
+<ICE-PHI:W2A-024#17:1>
+This study was therefore made to test for the conjugative
+transferability of antibiotic resistance in fecal isolates of <it> <foreign>
+E. coli </foreign> </it> from the San Lazaro Hospital. </p>
+
+<ICE-PHI:W2A-024#18:1>
+<h> <bold> MATERIALS AND METHODS </bold> </h>
+
+<ICE-PHI:W2A-024#19:1>
+<h> <bold> ISOLATION AND IDENTIFICATION OF TEST BACTERIA </bold> </h>
+Fifty eight ( 58) isolates of <it> <foreign> Escherichia coli </foreign>
+</it> taken from rectal swabs of patients of the San Lazaro Hospital from
+October, 1992 to January, 1993 were used as test microorganisms.
+
+<ICE-PHI:W2A-024#20:1>
+The identity and purity of the bacterial isolates were checked by
+plating them on McConkey agar and Eosin Methylene Blue ( EMB) agar. <it>
+<foreign> E.coli </foreign> </it> - like lactose-fermenting colonies were
+further subjected to biochemical tests such as indole and ciltrate.
+
+<ICE-PHI:W2A-024#21:1>
+This was to distinguish <it> <foreign> E. coli </foreign> </it> from
+other lactose fermenters.
+
+<ICE-PHI:W2A-024#22:1>
+Those confirmed to be <it> <foreign> E. coli </foreign> </it> were
+inoculated onto nutrient agar slants and grown for 18-24 hours at 37 C.
+
+<ICE-PHI:W2A-024#23:1>
+The cultures were stored at 4 C for further studies. </p>
+
+<ICE-PHI:W2A-024#24:1>
+<h> <bold> ANTIBIOGRAM TESTING OF BACTERIAL ISOLATES </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-024#25:1>
+The antibiotic susceptibilities of the isolates were determined
+by adopting the modified-disk agar diffusion method of Kirby Bauer.
+
+<ICE-PHI:W2A-024#26:1>
+From the stock culture, a loopful of organisms was inoculated in
+brain heart infusion broth ( BHIB) and grown at 37C for 18-24 hours.
+
+<ICE-PHI:W2A-024#27:1>
+This was subcultured onto BHIB at 37 C for four hours to bring the
+organisms to their log phase.
+
+<ICE-PHI:W2A-024#28:1>
+The growth was adjusted to the turbidity of McFarland standard number
+one to approximate 3 x 10 <sp> 8 </sp> cells/ml of culture.
+
+<ICE-PHI:W2A-024#29:1>
+A sterile cotton swab was immersed onto standardized four-hour broth
+culture and streaked onto the surface of Mueller Hinton II agar using an
+overlap method of streaking.
+
+<ICE-PHI:W2A-024#30:1>
+Disks impregnated with known amounts of drugs were placed onto the
+surface of the inoculated plate using a pair of flame-sterilized forceps.
+
+<ICE-PHI:W2A-024#31:1>
+These were: netilmicin ( 30 mcg), amikacin ( 30 mcg),
+sulphamethoxazole-trimethoprim ( 25 mcg), chloramphenicol ( 30 mcg) and
+nalidixic ( 30 mcg).
+
+<ICE-PHI:W2A-024#32:1>
+Plates were incubated for 18-24 hours at 37 C after which the
+diameters of the zones of inhibition in millimeters ( mm) were taken.
+
+<ICE-PHI:W2A-024#33:1>
+The results were interpreted according to the Zone Diameter
+Interpretative Standards prepared by the National Committee for Clinical
+Laboratory Standards ( April, 1990). </p>
+
+<ICE-PHI:W2A-024#34:1>
+<h> <bold> CONJUGATION EXPERIMENTS </bold> </h>
+
+<ICE-PHI:W2A-024#35:1>
+<h> <bold> Donor Bacteria </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-024#36:1>
+Of the 58 test isolates identified as <it> <foreign> E. coli
+</foreign> </it> from rectal swab specimens, 31 were used as donors in the
+conjugation experiment with <it> <foreign> E. coli </foreign> </it> SF 800
+and with <it> <foreign> Salmonella </foreign> </it> C 568.
+
+<ICE-PHI:W2A-024#37:1>
+The donors were chosen based on their resistance to at least two of
+the four drugs e. g. sulphamethoxazole-trimethoprim ( 25 mcg);
+chloramphenicol ( 30 mcg) and susceptibility to nalidixic acid ( 30 mcg).
+</p>
+
+<ICE-PHI:W2A-024#38:1>
+<h> <bold> Recipient Bacteria </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-024#39:1>
+<it> <foreign> E. coli </foreign> </it> SF 800 ( res. nalidixic
+acid resistant) and <it> <foreign> Salmonella </foreign> </it> C 568 were
+used as recipient strains.
+
+<ICE-PHI:W2A-024#40:1>
+The genotype of <it> <foreign> Salmonella </foreign> </it> C 568 is
+not well known.
+
+<ICE-PHI:W2A-024#41:1>
+It was a wild strain isolated by the San Lazaro Hospital from stool
+specimen.
+
+<ICE-PHI:W2A-024#42:1>
+Recipient bacteria were shown to be sensitive in the four test drugs
+( chloramphenicol-30 mcg; sulphamethoxazole-trimethoprim-25 mcg;
+netilmicin-30 mcg; amikacin-30 mcg). </p>
+
+<ICE-PHI:W2A-024#43:1>
+<h> <bold> Conjugation Procedure </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-024#44:1>
+Cultures of donor and recipient bacteria were grown separately in
+BHIB at 37 C for 18-24 hours.
+
+<ICE-PHI:W2A-024#45:1>
+These were subcultured for another four hours at 37 C to ensure
+actively-growing bacteria for the mating experiment.
+
+<ICE-PHI:W2A-024#46:1>
+The turbidity of broth culture was standardized to that of McFarland
+number one.
+
+<ICE-PHI:W2A-024#47:1>
+Fifty microliters ( uL) of donor bacteria were mixed with 200 uL of
+recipient organisms in brain heart infusion agar ( BHIB) plate.
+
+<ICE-PHI:W2A-024#48:1>
+Using a sterile bent glass rod, the mixture of donor and recipient
+were spread out on the surface of the agar.
+
+<ICE-PHI:W2A-024#49:1>
+These were incubated at 37 C for eight hours undisturbed to effect
+conjugation.
+
+<ICE-PHI:W2A-024#50:1>
+The confluent growth were harvested following the addition of 1.5 ml
+sterile NSS. </p>
+
+<ICE-PHI:W2A-024#51:1>
+<h> <bold> Conjugation Between Multiple-Drug Resistant <it> <foreign>
+E. coli </foreign> </it> and <it> <foreign> E. coli </foreign> </it> SF 800
+</bold> </h>
+
+<p> 
+<ICE-PHI:W2A-024#52:1>
+This study made use of a recipient strain lacking the restriction
+( res) enzyme such as the <it> <foreign> E. coli </foreign> </it> SF 800.
+
+<ICE-PHI:W2A-024#53:1>
+This was to facilitate the acquisition and integration of the
+resistance markers from the donor bacteria.
+
+<ICE-PHI:W2A-024#54:1>
+This in turn helped in establishing the conjugative nature of the
+resistance carried by the donor isolates. </p>
+
+<p> 
+<ICE-PHI:W2A-024#55:1>
+One hundred microliters of the bacterial emulsion of conjugative
+mixture were plated onto the BHIA plate containing nalidixic acid plus
+sulphamethoxazole-trimethoprim ( 25 mcg/ml).
+
+<ICE-PHI:W2A-024#56:1>
+Colonies obtained after incubation at 37 C for 18-24 hours were
+subcultured and re-examined for their antibiotic sensitivity patterns using
+the disk agar diffusion method.
+
+<ICE-PHI:W2A-024#57:1>
+This was to check the acquired resistance to the test drugs.
+
+<ICE-PHI:W2A-024#58:1>
+Identification of the transconjugants was based on their resistance
+to nalidixic acid and to chloramphenicol or sulphamethoxazole-trimethoprim or
+to both chloramphenicol and sulphamethoxazole-trimethoprim. </p>
+
+<p> 
+<ICE-PHI:W2A-024#59:1>
+Controls were run simultaneously to ensure the efficacy of the
+prepared antibiotic plates and the check drug resistance of the donor and
+recipient.
+
+<ICE-PHI:W2A-024#60:1>
+Controls were prepared by inoculating each of the donor and recipient
+bacteria on plates containing nalidixic acid ( 30 mcg/ml) with
+chloramphenicol ( 30 mcg/ml) and nalidixic acid with
+sulphamethoxazole-trimethoprim ( 25 mcg/ml).
+
+<ICE-PHI:W2A-024#61:1>
+Similarly, conjugation mixture, donor and recipient bacteria were
+plated separately on each of the following drugs: nalidixic acid ( 30 mcg/ml)
+sulphamethoxazole-trimethoprim ( 25 mcg/ml) and chloramphenicol ( 30 mcg/ml).
+</p>
+
+<ICE-PHI:W2A-024#62:1>
+<h> <bold> Conjugation Between Multiple-Drug Resistant <it> <foreign>
+E. coli </foreign> </it> and <it> <foreign> Salmonella </foreign> </it> C 568
+</bold> </h>
+
+<p> 
+<ICE-PHI:W2A-024#63:1>
+All of the 31 <it> <foreign> E. coli </foreign> </it> donors
+which tested positive for the conjugative transfer of their drug resistance
+were further made to conjugate with <it> <foreign> Salmonella </foreign>
+</it> C 568. </p>
+
+<p> 
+<ICE-PHI:W2A-024#64:1>
+In this procedure, the donor, recipient and transconjugant were
+identified based on their ability to ferment lactose using McConkey as the
+plate medium and the resistance to the test drugs.
+
+<ICE-PHI:W2A-024#65:1>
+The failure to find <it> <foreign> <foreign> Salmonella </foreign>
+</foreign> </it> strain sensitive to the four test drugs but resistant to
+nalidixic acid made the researcher resort to lactose fermentation as the
+marker in the selection of transconjugants. </p>
+
+<p> 
+<ICE-PHI:W2A-024#66:1>
+From the bacterial suspension of the conjugation mixture, 100 uL
+were plated on McConkey agar plate with the drug to which the donor was
+resistant ( <foreign> e.g. </foreign> McConkey with chloramphenicol [ 30
+mcg/ml] and McConkey with sulphamethoxazole-trimethprim [ 25 mcg/ml]).
+
+<ICE-PHI:W2A-024#67:1>
+Likewise, the same quantity of the donor and recipient bacteria were
+plated separately on the selective plate.
+
+<ICE-PHI:W2A-024#68:1>
+The choice of transconjugants was based on the failure to ferment the
+lactose incorporated in the McConkey agar, hence yielding colorless colonies.
+
+<ICE-PHI:W2A-024#69:1>
+On the other hand, donor isolates were able to ferment lactose, thus
+producing pink colonies on McConkey agar with chloramphenicol.
+
+<ICE-PHI:W2A-024#70:1>
+<it> <foreign> Salmonella </foreign> </it> C 568 which did not
+receive the resistance genes, in contrast, failed to grow on the selective
+plate. </p>
+
+<ICE-PHI:W2A-024#71:1>
+<h> <bold> Estimation of Conjugative Frequency </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-024#72:1>
+The frequency of conjugative transfer of drug resistance from the
+<it> <foreign> E. coli </foreign> </it> isolates to <it> <foreign> Salmonella
+</foreign> </it> C 568 was determined.
+
+<ICE-PHI:W2A-024#73:1>
+Ten-fold serial dilution were made from the conjugation mixture (
+composed of donor recipient and transconjugant population).
+
+<ICE-PHI:W2A-024#74:1>
+One hundred microliters ( uL) of each dilution were plated onto each
+of the three McConkey agar plates with the drugs to which the recipient was
+converted to resistance ( e.g. chloramphenicol [ 30 mcg/ml] or
+sulphamethoxazole-trimethoprim [ 25 mcg/ml]).
+
+<ICE-PHI:W2A-024#75:1>
+This allowed estimation of the number of transconjugant population (
+recipient which has acquired the resistance factor). </p>
+
+<p> 
+<ICE-PHI:W2A-024#76:1>
+In the same manner, 100 uL of the conjugation mixture were plated
+onto each of the three McConkey agar without any drugs.
+
+<ICE-PHI:W2A-024#77:1>
+This permitted growth of donor <it> <foreign> E. coli </foreign>
+</it> ( pink colonies) and the <it> <foreign> Salmonella </foreign> </it>
+recipient population ( colorless colonies which received and which did not
+receive the resistance factor). </p>
+
+<p> 
+<ICE-PHI:W2A-024#78:1>
+Conjugation frequency was taken as the ratio of the number of
+colony-forming units of transconjugant to the number of colony-forming units
+of recipient population. </p>
+
+<ICE-PHI:W2A-024#79:1>
+<h> <bold> RESULTS AND DISCUSSION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-024#80:1>
+Results of the antibiotic susceptibility tests show that out of
+the 58 <it> <foreign> E. coli </foreign> </it> isolates examined, 36 (
+62.07%) were resistant to at least one of the five test drugs.
+
+<ICE-PHI:W2A-024#81:1>
+Figure 1 shows the resistance phenotypes of the isolates categorized
+into four groups in terms of their response patterns against the test drugs.
+
+<ICE-PHI:W2A-024#82:1>
+The biggest group composing of <it> <foreign> E. coli </foreign>
+</it> isolates resistant to both C and SXT - TMP ( 53.45%).
+
+<ICE-PHI:W2A-024#83:1>
+This is followed by isolates showing susceptibility to all of the
+test drugs ( 37.9%).
+
+<ICE-PHI:W2A-024#84:1>
+Another group showed resistance to C only ( 6.9%) and only ( 1.7%) of
+the isolates showed resistance to SXT-TMP. </p>
+
+<p> 
+<ICE-PHI:W2A-024#85:1>
+Fig. 2 shows that among the five drugs tested, the highest
+percentage resistance was to C ( 35 out of 58 or 60.34%), followed by SXT-TMP
+( 32 out of 58 or 55.17%).
+
+<ICE-PHI:W2A-024#86:1>
+This level of resistance may be due to the rampant use of these two
+drugs, in the household and hospital.
+
+<ICE-PHI:W2A-024#87:1>
+Medical records of the patient from whom the microorganisms were
+isolated revealed that most of them were exposed to the said drugs either by
+self-medication or as prescribed by their doctors.
+
+<ICE-PHI:W2A-024#88:1>
+Practices which underscore the vital role played by the selective
+pressure on the rise of the resistant microorganisms. </p>
+
+<p> 
+<ICE-PHI:W2A-024#89:1>
+Of the 58 <it> <foreign> E. coli </foreign> </it> isolates, none
+were shown to be resistant to NET, AK or NA, results which were similar to
+those resorted by Hryniewiez <foreign> et al. </foreign> ( 1993). </p>
+
+<p> 
+<ICE-PHI:W2A-024#90:1>
+Fig. 3 illustrates the results of the conjugation experiments
+between the two mating partners: <it> E. coli </it> to <it> <foreign> E. coli
+</foreign> </it> SF 800 and <it> <foreign> E. coli </foreign> </it> to <it>
+<foreign> Salmonella </foreign> </it> C 568.
+
+<ICE-PHI:W2A-024#91:1>
+In terms of the percentage of donor isolates that effect transfer of
+drug resistance, this study showed that conjugative transferability is higher
+in mating partners involving same species as in the case of <it> <foreign> E.
+coli </foreign> </it> to <it> <foreign> E. coli </foreign> </it> SF 800 (
+Fig. 3a) than in pairs of different genera such as <it> <foreign> E. coli
+</foreign> </it> and <it> <foreign> Salmonella </foreign> </it> C 568 ( Fig.
+3b).
+
+<ICE-PHI:W2A-024#92:1>
+These results are similar to those reported by Arnold ( 1986) and
+Levine ( 1973).
+
+<ICE-PHI:W2A-024#93:1>
+All of the 31 <it> <foreign> E. coli </foreign> </it> donor isolates
+transferred their drug resistance to <it> <foreign> E. coli </foreign> </it>
+SF 800.
+
+<ICE-PHI:W2A-024#94:1>
+Result obtained in this study is significantly higher than to those
+observed by similar study made by Zaldivar ( 1991) and Sta. Ana ( 1989). </p>
+
+<p> 
+<ICE-PHI:W2A-024#95:1>
+However, in conjugation pair involving <it> <foreign> E. coli
+</foreign> </it> and <it> <foreign> Salmonella </foreign> </it> C 568,
+transfer of drug resistance was seen in 16 out of 31 isolates tested.
+
+<ICE-PHI:W2A-024#96:1>
+As shown in this study, the multiple drug resistance genes harbored
+by the <it> E. coli </it> isolates were conjugative, that is, it can be
+passed on to other species which cohabit the same site such as <it> <foreign>
+E. coli </foreign> </it> which constitutes a great part of the gut flora; and
+more seriously to a pathogen such as <it> <foreign> Salmonella </foreign>
+</it> C 568.
+
+<ICE-PHI:W2A-024#97:1>
+Following successful conjugative transfer, this will convert a
+previously drug sensitive strain to resistance with this acting
+simultaneously as reservoir and as potential donor of the resistance genes to
+other organisms.
+
+<ICE-PHI:W2A-024#98:1>
+The implication is more serious in case of <it> <foreign> Salmonella
+</foreign> </it> converted to resistance since this will make treatment of
+salmonellosis or enteric fever more difficult. </p>
+
+<p> 
+<ICE-PHI:W2A-024#99:1>
+Fifteen of the <it> <foreign> E. coli </foreign> </it> isolates
+did not transfer any resistance to <it> <foreign> Salmonella </foreign> </it>
+C 568. Whether <it> <foreign> Salmonella </foreign> </it> C 568 is restricted
+minus or not, is not well known.
+
+<ICE-PHI:W2A-024#100:1>
+It is possible that resistance factor was not modified by the
+recipient cell to prevent its degradation by restriction enzymes in the
+recipient.
+
+<ICE-PHI:W2A-024#101:1>
+Modification is accomplished by the methylation of specific DNA
+sequence ( Taylor, 1981).
+
+<ICE-PHI:W2A-024#102:1>
+The ability of the recipient bacterium to accept or integrate
+foreign DNA such as in conjugative gene transfer, is therefore, controlled by
+the restriction and modification system ( Zubay, 1987).
+
+<ICE-PHI:W2A-024#103:1>
+This is a way of protecting the cell against invading DNA of other
+cell. </p> </I>

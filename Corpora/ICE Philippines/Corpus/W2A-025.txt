@@ -1,0 +1,578 @@
+<I>
+
+<ICE-PHI:W2A-025#1:1>
+<h> <bold> Predatory Feeding in Three Co-occurring Mysids ( Crustacea,
+Mysidacea): Functional Responses to Different Prey Types </bold> </h>
+
+<ICE-PHI:W2A-025#2:1>
+<bold> Ephrime B. Metillo </bold>
+
+<ICE-PHI:W2A-025#3:1>
+<h> <bold> Abstract </bold> </h>
+
+<p> <it>
+
+<ICE-PHI:W2A-025#4:1>
+The functional responses of three co-existing nearshore mysid shrimps
+were analyzed using two branchiopodan and one copepodan prey types.
+
+<ICE-PHI:W2A-025#5:1>
+<foreign> <bold> Paramesopodopsis rufa </bold> </foreign> was the most
+efficient predator of the euryhaline daphniid prey, <foreign> <bold>
+Daphniopsis australis </bold> </foreign> .
+
+<ICE-PHI:W2A-025#6:1>
+It showed a steeper linear functional responses curve for this prey
+than the other two species, <foreign> <bold> Tenagomysis tasmaniae Anisomysis
+mixta australis </bold> </foreign> , which showed similar flat linear curves.
+
+<ICE-PHI:W2A-025#7:1>
+All three species exhibited similar predation success on <foreign>
+<bold> Artemia </bold> sp. nauplii </foreign> , and similar predation failure
+for the calanoid copepod <foreign> <bold> Gladioferens pectinatus </bold>
+</foreign> .
+
+<ICE-PHI:W2A-025#8:1>
+The study provides evidence that differences in predatory feeding
+behaviour support feeding niche segregation which in turn explains the
+co-occurrence of the three mysid species. </it> </p>
+
+<ICE-PHI:W2A-025#9:1>
+<h> <bold> Introduction </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-025#10:1>
+Predatory feeding behaviour in many zooplanktonic species of both
+freshwater and marine habitats is a complex system which requires a more
+detailed study to elucidate its intricacies ( Kerfoot, 1980; Price, 1988;
+Ohman, 1988; Gliwicz & Pijanowska, 1989).
+
+<ICE-PHI:W2A-025#11:1>
+These reviews noted that success of predatory species, as those
+equivalent systems in the terrestrial environment, is influenced by several
+factors.
+
+<ICE-PHI:W2A-025#12:1>
+There seems to be an optimum prey size in which a predator of a
+certain size may be efficient.
+
+<ICE-PHI:W2A-025#13:1>
+However, other factors such as body pigmentation, shape,
+palatability, motion and escape manoeuvres have been also known to determine
+vulnerability of prey to various zooplanktonic predators ( Ohman, 1988;
+Gliwicz & Pijanowska, 1989). </p>
+
+<p> 
+<ICE-PHI:W2A-025#14:1>
+Predatory feeding of both freshwater and marine species of mysids
+include a variety of animal prey types ( Mauchline, 1980; Morgan, 1982).
+
+<ICE-PHI:W2A-025#15:1>
+The well studied freshwater species, <it> <foreign> Mysis relicta
+</foreign> </it> has been known to feed mainly on cladocerans, daphniids
+primarily ( Lasenby <it> <foreign> et al. </foreign> </it> 1986); although it
+can also prey upon diaptomid calanoid copepods ( Cooper & Goldman, 1980).
+
+<ICE-PHI:W2A-025#16:1>
+Other freshwater species, <foreign> e.g </foreign> . <it> <foreign>
+Neomysis mercedis </foreign> </it> ( Murtaugh a,b 1981), <it> <foreign> N.
+intermedia </foreign> </it> ( Hanazato, 1990), <it> N. integer </it> ( Bremer
+and Vijverberg, 1982), and <it> <foreign> Mysis mixta </foreign> </it> (
+Hansson <foreign> et al. </foreign> , 1990) also prefer daphniid prey.
+
+<ICE-PHI:W2A-025#17:1>
+Species that are found in the estuarine and/or marine habitats, on
+the other hand, have been reported to consume benthic harpacticoid copepods (
+<it> <foreign> N. integer </foreign> </it> , Mauchline, 1971), and calanoid
+copepods ( <it> <foreign> N. integer </foreign> </it> , Siegfried and
+Kopache, 1980; <it> <foreign> N. americana </foreign> </it> , <it> <foreign>
+Mysidopsis bigelowi </foreign> </it> , Fulton, 1982; <it> <foreign> M.
+gibbosa, M. didelphys, M. angusta </foreign> </it> , Mauchline 1970).
+
+<ICE-PHI:W2A-025#18:1>
+<it> <foreign> Artemia sp. nauplii </foreign> </it> have also been
+used as food to various mysid species, e. g. <it> <foreign> Metamysidopsis
+elongata </foreign> </it> , Clutter and Theilacker, 1971; <it> <foreign>
+Mysidopsis almyra </foreign> </it> , Reitsema and Neff, 1980; <it> <foreign>
+Anisomysis sp. </foreign> </it> , Mullin and Roman 1986). </p>
+
+<p> 
+<ICE-PHI:W2A-025#19:1>
+These zooplanktonic prey species vary in escape behaviour, size,
+pigmentation, swimming behaviour and other behavioural characteristics, and
+hence, their vulnerability to mysid predation.
+
+<ICE-PHI:W2A-025#20:1>
+Different mysid species vary in size and overall predatory feeding
+behaviour which are also highly likely to influence rates of predation on the
+various prey types.
+
+<ICE-PHI:W2A-025#21:1>
+The present study examines the effect of various prey types, sizes
+and behavioural repertoires ( swimming behaviour and escape response) on the
+function responses of the three coexisting mysids species, <it> <foreign>
+Paramesopodopsis rufa </foreign> </it> Fenton, <it> <foreign> Tenagomysis
+tasmaniae </foreign> </it> Fenton, and <it> <foreign> Anisomysis mixta
+australis </foreign> </it> Zimmer, in neritic waters off Tasmania. </p>
+
+<ICE-PHI:W2A-025#22:1>
+<h> <bold> Materials and Methods </bold> </h>
+
+<ICE-PHI:W2A-025#23:1>
+<h> <bold> Experimental Animals </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-025#24:1>
+Field collection and maintenance in the laboratory of mysids and
+the daphniid prey, <it> <foreign> Daphniopsis australis </foreign> </it> ,
+are described in detail by Metillo and Ritz ( 1993).
+
+<ICE-PHI:W2A-025#25:1>
+
+
+<p> 
+<ICE-PHI:W2A-025#26:1>
+Mature cysts of <it> <foreign> Artemia </foreign> </it> sp. (
+Artemia Revolution, New Technology Kent, England) were hatched in the
+laboratory at 24 &degree; C water temperature and 400/oo salinity.
+
+<ICE-PHI:W2A-025#27:1>
+Two day old metanauplii were used in the predation experiments. </p>
+
+<p> 
+<ICE-PHI:W2A-025#28:1>
+Adult <it> <foreign> Gladioferens pectinatus </foreign> </it>
+were collected from six locations in the Derwent Estuary at a depth of either
+1 m or 20 m using a 300 m mesh conical net.
+
+<ICE-PHI:W2A-025#29:1>
+In the laboratory, these animals were kept in 50-litre plastic tubs
+containing seawater from the sampling area.
+
+<ICE-PHI:W2A-025#30:1>
+At the time of collection, a large bloom of <it> <foreign>
+Coscinodiscus wailesii </foreign> </it> occurred.
+
+<ICE-PHI:W2A-025#31:1>
+Buckets of these diatoms were collected and placed into the copepod
+tubs to serve as food.
+
+<ICE-PHI:W2A-025#32:1>
+During the entire period of the experiment, the tubs with food and
+copepods were gently aerated, and kept at ambient temperature ( 15&dgree; C),
+and at constant ambient salinity of 340/oo. </p>
+
+<p> 
+<ICE-PHI:W2A-025#33:1>
+All feeding experiments were performed simultaneously with each
+of the three mysid species held separately.
+
+<ICE-PHI:W2A-025#34:1>
+The predation chamber was made of a 2-litre glass jar, wrapped
+entirely with black electrical tape to block any light, and filled to the
+brim with 5 um Millipore-filtered seawater.
+
+<ICE-PHI:W2A-025#35:1>
+This chamber was covered with a tightly fitting black lid, placed
+onto a plankton &ldquo; roller &rdquo; and allowed to rotate at 0.83 + 0.02
+SD rpm.
+
+<ICE-PHI:W2A-025#36:1>
+The design of the chamber ensured the absence of refuges such as the
+surface film and prevented prey congregating due to uneven light
+distribution.
+
+<ICE-PHI:W2A-025#37:1>
+The prey were individually pipetted into the chamber to give
+densities of 5, 10, 15, 20 litre <sp> - 1 </sp> for <it> <foreign> D.
+australis </foreign> </it> and <it> <foreign> G. pectinatus </foreign> </it> .
+Treatment densities of <it> <foreign> Artemia </foreign> </it> metanauplii
+were 7.5, 15, 30, and 45 litre <sp> - 1 </sp> .
+
+<ICE-PHI:W2A-025#38:1>
+All of these prey densities were replicated four times.
+
+<ICE-PHI:W2A-025#39:1>
+Feeding time which lasted for 2 hours started when four unstarved
+adult mysids was introduced into the chamber.
+
+<ICE-PHI:W2A-025#40:1>
+At the end of the predation period, the contents of the chamber were
+emptied into plastic buckets.
+
+<ICE-PHI:W2A-025#41:1>
+Predator and prey were removed and killed by placing them in vials
+containing 5% ( v/v) buffered formalin in seawater.
+
+<ICE-PHI:W2A-025#42:1>
+From these preserved samples, predator total lengths and the number
+of remaining prey were determined.
+
+<ICE-PHI:W2A-025#43:1>
+Prey total lengths were measured from the control jar individuals.
+
+<ICE-PHI:W2A-025#44:1>
+No prey mortality was observed in the control jars, thus any missing
+prey from the experimental predation chambers were recorded as captures.
+
+<ICE-PHI:W2A-025#45:1>
+Since the three species of mysids consume their zooplanktonic prey in
+its entirety, ingestion/predation rates were expressed as number of prey
+mysid <sp> - 1 </sp> hour <sp> - 1 </sp> .
+
+<ICE-PHI:W2A-025#46:1>
+Stomachs were dissected out to verify fullness and confirm that
+missing prey could be attributed only to ingestion. </p>
+
+<ICE-PHI:W2A-025#47:1>
+<h> <bold> Statistical Analysis </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-025#48:1>
+The non-parametric Kruskal-Wallis single factor analysis of
+variance ( ANOVA) was computed to test the null hypothesis that predation (
+=ingestion) rates between prey densities ( treatments) were equal, while
+treatment means were compared using the non-parametric Q test statistic for
+multiple comparison for unequal number of data with tied ranks ( Zar, 1984).
+
+<ICE-PHI:W2A-025#49:1>
+The functional response curves of the three mysid species were
+described from the relationship between ingestion rate and prey density.
+
+<ICE-PHI:W2A-025#50:1>
+Curve fitting was performed using linear regression with replication,
+and slopes were compared using analysis of covariance followed by a Tukey
+test to determine significant differences between slopes ( Zar, 1984). </p>
+
+<p> 
+<ICE-PHI:W2A-025#51:1>
+All statistical analysis was conducted using the computer program
+SYSTAT for Macintosh computers ( Wilkinson, 1992). </p>
+
+<ICE-PHI:W2A-025#52:1>
+<h> <bold> Results </bold> </h>
+
+<ICE-PHI:W2A-025#53:1>
+<h> <bold> Functional Response to Various Prey Types </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-025#54:1>
+Throughout the functional response experiments, similar sizes of
+<it> <foreign> P. rufa, T. tasmaniac </foreign> </it> , and <it> <foreign> A.
+mixta australis </foreign> </it> , and the different prey types were used (
+see Table 1) ( CV within species &lt; 5%). </p> <O>
+
+<ICE-PHI:W2A-025#55:1>
+<h> <bold> Table 1. </bold>
+
+<ICE-PHI:W2A-025#56:1>
+Predator and prey sizes in the functional responses experiments. </h>
+</O> <O>
+
+<ICE-PHI:W2A-025#57:1>
+<h> <bold> Functional Response to <it> <foreign> Gladioferens
+pectinatus </foreign> </it> </bold> </h> </O>
+
+<p> 
+<ICE-PHI:W2A-025#58:1>
+Very low predation rates were recorded for mature <it> <foreign>
+P. rufa </foreign> </it> feeding on adult calanoid copepod prey, <it>
+<foreign> G. pectinatus </foreign> </it> ( see Table 2).
+
+<ICE-PHI:W2A-025#59:1>
+Predation rates in this largest mysid species ranged from 0.17 + 0.4
+SD at a prey concentration of 5 litre <sp> - 1 </sp> .
+
+<ICE-PHI:W2A-025#60:1>
+<it> <foreign> P. rufa </foreign> </it> predation rates on <it>
+<foreign> G. pectinatus </foreign> </it> were lower compared to the other
+prey types.
+
+<ICE-PHI:W2A-025#61:1>
+No captures were recorded in the other two mysid species ( Table 2).
+</p> <O>
+
+<ICE-PHI:W2A-025#62:1>
+<bold> <h> Table 2. </bold>
+
+<ICE-PHI:W2A-025#63:1>
+Predation by the three mysid species on the calanoid copepod <it>
+<foreign> Gladioferens pectinatus </foreign> </it> .
+
+<ICE-PHI:W2A-025#64:1>
+Data in mean +SD. </h> </O> <O>
+
+<ICE-PHI:W2A-025#65:1>
+<h> <bold> Functional Response to <it> <foreign> Artemia </foreign>
+</it> <foreign> sp. Metanauplii </foreign> </bold> </h> </O>
+
+<p> 
+<ICE-PHI:W2A-025#66:1>
+A highly significant variation was shown in the linear functional
+response curves of the three mysid species preying upon <foreign> <it>
+Artemia </it> sp. metanauplii </foreign> ( <it> F </it> = 6.26, <it> df </it>
+= 50, p = 0.001).
+
+<ICE-PHI:W2A-025#67:1>
+The predation rate values in <it> <foreign> P. rufa </foreign> </it>
+were lower than those in <it> <foreign> T. tasmaniae </foreign> </it> (
+p&lt;0.0001), but comparable to <it> <foreign> A. mixta australis </foreign>
+</it> ( p &gt; 0.05).
+
+<ICE-PHI:W2A-025#68:1>
+The predation rates on <foreign> <it> Artemia </it> sp. metanauplii
+</foreign> by <it> <foreign> T. tasmaniae </foreign> </it> were double than
+those by <it> <foreign> P. rufa </foreign> </it> and <it> <foreign> A. mixta
+australis </foreign> </it> .
+
+<ICE-PHI:W2A-025#69:1>
+All three species showed an increasing linear curve as against
+increasing prey concentration ( Figure 1A). </p>
+
+<p> 
+<ICE-PHI:W2A-025#70:1>
+The lowest average predation rate for <it> <foreign> A. mixta
+australis </foreign> </it> was 0.36 + 0.08 SE ( standard error) metanauplii
+mysid <sp> - 1 </sp> hour <sp> - 1 </sp> at the lowest prey density ( Figure
+1A).
+
+<ICE-PHI:W2A-025#71:1>
+<it> <foreign> A. mixta australis </foreign> </it> predation rates
+varied significantly over the increasing prey concentration ( <it> H </it> =
+8.67, <it> df </it> =3, p &lt; 0. 05).
+
+<ICE-PHI:W2A-025#72:1>
+The maximum predation rate of 1.77 + 0.43 SE was recorded at the
+second highest prey concentration of 30 litre <sp> - 1 </sp> .
+
+<ICE-PHI:W2A-025#73:1>
+The mean predation rate at this prey concentration was only
+significantly different from those at the two lowest prey concentrations ( Q
+&lt; 0.05), while for the rest of the treatments, means were not
+significantly different ( Q &gt; 0.05 for all). </p>
+
+<p> 
+<ICE-PHI:W2A-025#74:1>
+The average predation rates by <it> <foreign> T. tasmaniae
+</foreign> </it> also increased with increasing <foreign> <it> Artemia </it>
+sp. metanauplii </foreign> concentration with a minimum of 0.7 + 0.08 SE and
+reaching a maximum of 3.5 + 0.33 SE at 45 litre <sp> - 1 </sp> ( <it> H </it>
+= 16.65, <it> df </it> = 3, p &lt; 0.01) ( Figure 1A).
+
+<ICE-PHI:W2A-025#75:1>
+The predation rate in the highest prey concentration differed
+significantly from that in the lowest prey concentration ( Q &lt; 0.005), but
+was similar to the second highest prey concentration ( Q &gt; 0.05).
+
+<ICE-PHI:W2A-025#76:1>
+The latter was also significantly different from the predation rate
+at the lowest prey concentration ( Q &lt; 0.05), but not with that at the
+second lowest prey concentration ( Q &gt; 0.05). </p>
+
+<p> 
+<ICE-PHI:W2A-025#77:1>
+The average predation rates by <it> <foreign> P. rufa </foreign>
+</it> on <it> <foreign> Artemia </foreign> </it> sp. metanauplii followed a
+linear relationship with increasing prey concentration, and these values
+varied significantly ( <it> H </it> = 14.25, <it> df </it> = 3, p &lt;0.05) (
+Fig. 1A).
+
+<ICE-PHI:W2A-025#78:1>
+Predation rates of <it  <foreign> > P. rufa </foreign> </it> ranged
+from 0.2 + 0.06 to 2.0 + 0.13 <it> <foreign> Artemia </foreign> </it> sp.
+metanauplii mysid <sp> - 1 </sp> hour <sp> - 1 </sp> .
+
+<ICE-PHI:W2A-025#79:1>
+The predation rate at the highest prey concentration differed
+significantly only with that at the lowest prey concentration ( Q &lt; 0.05).
+
+<ICE-PHI:W2A-025#80:1>
+The rest of the rates at the other prey concentrations were similar (
+Q &lt; 0.05 for all). </p> <O>
+
+<ICE-PHI:W2A-025#81:1>
+<h> <bold> Figure 1. </bold>
+
+<ICE-PHI:W2A-025#82:1>
+Functional response curves for the predation rate of the three mysid
+species feeding on two types of branchiopodan prey.
+
+<ICE-PHI:W2A-025#83:1>
+A. <foreign> Artemia sp. metanauplii </foreign> . B. <foreign>
+Daphniopsis australis jubeniles </foreign> . Error bars: standard error.
+
+<ICE-PHI:W2A-025#84:1>
+Spuiares - <foreign> Anisomysis mixta australis </foreign> , closed
+circle - <foreign> Paramesopodopsis rufa </foreign> , open circle - <foreign>
+Tenagomusis tasmanice </foreign> . </h> </O> <O>
+
+<ICE-PHI:W2A-025#85:1>
+<h> <bold> Functional Response to <it> <foreign> Daphniopsis
+australis </foreign> </it> </bold> </h> </O>
+
+<p> 
+<ICE-PHI:W2A-025#86:1>
+At the lowest prey density, average <it> <foreign> P. rufa
+</foreign> </it> ingestion rate was 4 + 0.29 prey mysid <sp> - 1 </sp> hour
+<sp> - 1 </sp> , and it continued to increase with increasing prey density to
+a maximum ingestion rate of 11.75 + 0.48 prey mysid <sp> - 1 </sp> hour <sp>
+- 1 </sp> at 20 litre <sp> - 1 </sp> density ( Figure 1B).
+
+<ICE-PHI:W2A-025#87:1>
+Dissected mysid foreguts revealed 100% fullness while those with very
+low ingestion rates showed 30% to 50% fullness.
+
+<ICE-PHI:W2A-025#88:1>
+<it> P. rufa </it> ingestion rates varied significantly with
+increasing prey density ( <it> H </it> = 14. 25, <it> df </it> = 3, p &lt; 0.
+01), although those at 5 and 10 litre <sp> - 1 </sp> were the same ( Q &gt;
+0.05).
+
+<ICE-PHI:W2A-025#89:1>
+This is because two out of the four mysids fed at 10 litre <sp> - 1
+</sp> treatment density and 1 out of the four mysids at 15 litre <sp> - 1
+</sp> gave relatively very low ( 0.5 and 3 prey mysid <sp> - 1 </sp> hour
+<sp> - 1 </sp> , and 2.5 prey mysid <sp> - 1 </sp> hour <sp> - 1 </sp> ,
+respectively) ingestion rates.
+
+<ICE-PHI:W2A-025#90:1>
+These mysids were mature females without young in their brood
+pouches, and perhaps were about to moult.
+
+<ICE-PHI:W2A-025#91:1>
+Mysid ingestion rates at the two higher densities differed
+significantly ( Q &lt; 0.05) from the two lower prey densities, but ingestion
+rates between the two higher prey densities were similar ( Q &gt; 0.05).
+
+<ICE-PHI:W2A-025#92:1>
+The functional response curve of <it> P. rufa </it> to increasing
+density of juvenile <it> <foreign> D. australis </foreign> </it> is linear (
+Figure 1B). </p>
+
+<p> 
+<ICE-PHI:W2A-025#93:1>
+Increasing density of <it> <foreign> D. australis </foreign>
+</it> did not increase predation rates in <it> <foreign> T. tasmaniae
+</foreign> </it> ( Figure 1B) ( <it> H </it> = 16.66, <it> df </it> =3, p
+&gt; 0.24).
+
+<ICE-PHI:W2A-025#94:1>
+Very few individuals captured the prey.
+
+<ICE-PHI:W2A-025#95:1>
+The lowest successful predation rate was 1 prey mysid <sp> - 1 </sp>
+hour <sp> - 1 </sp> , and the highest was 3.
+
+<ICE-PHI:W2A-025#96:1>
+Averages from the four prey density treatments ranged from 0.75-3.25
+prey mysid <sp> - 1 </sp> hour <sp> - 1 </sp> . </p>
+
+<p> 
+<ICE-PHI:W2A-025#97:1>
+As in <it> <foreign> T. tasmaniae </foreign> </it> , very few
+<it> <foreign> A. mixta australis </foreign> </it> captured the prey.
+
+<ICE-PHI:W2A-025#98:1>
+A predation rate of 0.5 prey mysid <sp> - 1 </sp> hour <sp> - 1 </sp>
+was the lowest, and the highest was 2.
+
+<ICE-PHI:W2A-025#99:1>
+Increasing prey density did not increase predation rates ( <it> H
+</it> = 4.13, <it> df </it> = 3, p &gt; 0.24), and the average ranged from
+1.25-2.75 prey mysid <sp> - 1 </sp> hour <sp> - 1 </sp> . </p>
+
+<p> 
+<ICE-PHI:W2A-025#100:1>
+The functional response curves to the different <it> <foreign>
+D. australis </foreign> </it> concentrations by the three mysid species
+differed significantly ( <it> F </it> = 49.86, <it> df </it> = 45, p &lt;
+0.001).
+
+<ICE-PHI:W2A-025#101:1>
+The variability was attributed to the significantly higher predation
+rates by <it> P. rufa </it> compared to those in the other two species ( p
+&lt; 0.001).
+
+<ICE-PHI:W2A-025#102:1>
+The predation rates of <it> <foreign> A. mixta australis </foreign>
+</it> and <it> <foreign> T. tasmaniae </foreign> </it> showed no significant
+difference ( p &gt; 0.05). </p>
+
+<ICE-PHI:W2A-025#103:1>
+<h> <bold> Discussion </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-025#104:1>
+The functional response of predators may be classified into
+types I, II, and III ( Holling, 1959a,b).
+
+<ICE-PHI:W2A-025#105:1>
+The type I or rectilinear response is characterized by a linear
+increase in consumption rate up to a certain prey concentration where the
+rate suddenly reaches a plateau and stays at zero with further increases in
+prey concentration.
+
+<ICE-PHI:W2A-025#106:1>
+This is exemplified by filtration rate of filter feeders such as
+daphniids ( Rigler, 1961), and calanoid copepods ( Frost, 1972).
+
+<ICE-PHI:W2A-025#107:1>
+The type II or exponential response is an initial proportional
+increase with increasing prey concentration which gradually decreases as
+saturation level of prey concentration is approached; beyond this predation
+rates remain stationary with further increase in prey concentration as in the
+type I functional response.
+
+<ICE-PHI:W2A-025#108:1>
+These two types of responses have been considered destabilizing to
+predator-prey interactions because of the capacity of the prey to damp
+predation rates by simply increasing its density.
+
+<ICE-PHI:W2A-025#109:1>
+In addition, at low prey density, predators could drive prey
+populations to extinction.
+
+<ICE-PHI:W2A-025#110:1>
+This contrasts with the type III functional response in which
+predation rate remains low at low prey concentration and starts to increase
+at a certain higher prey density.
+
+<ICE-PHI:W2A-025#111:1>
+The type III functional response is stabilising to the predator-prey
+interaction and is characterized by a sigmoid type of curve. </p>
+
+<p> 
+<ICE-PHI:W2A-025#112:1>
+A Type 2 functional response curve is commonly observed among
+invertebrate predators ( Holling, 1965).
+
+<ICE-PHI:W2A-025#113:1>
+A Holling type II has been reported in <it> <foreign> M. relicta
+</foreign> </it> preying upon the copepod <it> <foreign> Epischura </foreign>
+</it> , but a Holling type III functional response was shown for another
+copepod prey <it> <foreign> Diaptomus </foreign> </it> ( Folt <it> <foreign>
+et al. </foreign> </it> , 1982).
+
+<ICE-PHI:W2A-025#114:1>
+Fulton ( 1982) reported a type II curve from laboratory experiments
+on <it> <foreign> Mysidopsis bigelowi </foreign> </it> preying upon <it>
+<foreign> Acartia tonsa </foreign> </it> .
+
+<ICE-PHI:W2A-025#115:1>
+In contrast, a similar laboratory predation experiment involving
+<it> <foreign> M. relicta </foreign> </it> and <it> <foreign> Epischura
+</foreign> </it> collected from a different location showed a linear
+functional response ( Cooper & Goldman, 1980).
+
+<ICE-PHI:W2A-025#116:1>
+Estimation of <it> <foreign> M. relicta </foreign> </it> predation
+rates from field samples showed a similar linear type of curve which was
+attributed to food limitation ( Bowers & Vanderploeg, 1982).
+
+<ICE-PHI:W2A-025#117:1>
+These differences in mysid functional response have been attributed
+to prey vulnerability which varies according to prey types and their escape
+abilities ( Folt <it> <foreign> et al. </foreign> </it> , 1982; Fulton, 1982;
+Ohman, 1988; Yen, 1983; McClatchie, 1988), predator hunger and feeding
+physiology ( Yen, 1983), aggregative behaviour of both prey and predator (
+Folt, 1985), and temperature ( Fulton, 1983). </p> </I>

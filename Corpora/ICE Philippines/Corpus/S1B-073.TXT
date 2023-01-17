@@ -1,0 +1,952 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-073#1:1:A>
+Verna
+ 
+<ICE-PHI:S1B-073#2:1:A>
+What course are you taking
+
+ <$B> 
+<ICE-PHI:S1B-073#3:1:B>
+Uh LIA-COM Eco Accounting
+
+ <$A> 
+<ICE-PHI:S1B-073#4:1:A>
+LIA-COM
+
+ <$B> 
+<ICE-PHI:S1B-073#5:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1B-073#6:1:A>
+Freshman
+
+ <$B> 
+<ICE-PHI:S1B-073#7:1:B>
+No
+
+ <$A> 
+<ICE-PHI:S1B-073#8:1:A>
+Senior
+
+ <$B> 
+<ICE-PHI:S1B-073#9:1:B>
+Senior
+
+ <$A> 
+<ICE-PHI:S1B-073#10:1:A>
+What are your complaints to your ear
+
+ <$B> 
+<ICE-PHI:S1B-073#11:1:B>
+This one here
+
+ <$A> 
+<ICE-PHI:S1B-073#12:1:A>
+At the back of your ear
+
+ <$B> 
+<ICE-PHI:S1B-073#13:1:B>
+Yeah here
+
+ <$A> 
+<ICE-PHI:S1B-073#14:1:A>
+Let 's take a look at it
+ 
+<ICE-PHI:S1B-073#15:1:A>
+How long have you had it
+
+ <$B> 
+<ICE-PHI:S1B-073#16:1:B>
+<indig> Uh kasi </indig> this happened to me last term and I
+thought it was when I was wearing headbands so I stopped wearing headbands
+and it just came back
+ 
+<ICE-PHI:S1B-073#17:1:B>
+Yesterday it was so painful <indig> e </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-073#18:1:A>
+It 's painful it 's not itchy it 's painful uh
+
+ <$B> 
+<ICE-PHI:S1B-073#19:1:B>
+It 's painful <indig> parang bukol </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-073#20:1:A>
+This one
+
+ <$B> 
+<ICE-PHI:S1B-073#21:1:B>
+No no not <indig> yan </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-073#22:1:A>
+Okay <,> I 'll tell you what you have
+ 
+<ICE-PHI:S1B-073#23:1:A>
+You have enlarged lymph nodes
+ 
+<ICE-PHI:S1B-073#24:1:A>
+Uh we call it uh in medical parlance we call it <?> lymphadenopathy
+ </?> 
+ 
+<ICE-PHI:S1B-073#25:1:A>
+Now in in the local vernacular that 's what you call <indig> kulani
+ </indig> 
+ 
+<ICE-PHI:S1B-073#26:1:A>
+Now do you know what what what 's the reason why it swells up
+
+ <$B> 
+<ICE-PHI:S1B-073#27:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1B-073#28:1:A>
+Do you know the function of your lymph glands <,> 
+ 
+<ICE-PHI:S1B-073#29:1:A>
+No
+ 
+<ICE-PHI:S1B-073#30:1:A>
+The lymph glands are supposed to contain lymphocytes <,> 
+ 
+<ICE-PHI:S1B-073#31:1:A>
+Now what are lymphocytes
+ 
+<ICE-PHI:S1B-073#32:1:A>
+Lymphocytes are supposed to be the soldiers of the body <,> okay
+ 
+<ICE-PHI:S1B-073#33:1:A>
+You have the white blood cells and the red blood cells remember
+ 
+<ICE-PHI:S1B-073#34:1:A>
+Now the white blood cells and the lymphocytes <foreign> etcetera
+etcetera </foreign> <,> these are the soldiers of the body
+ 
+<ICE-PHI:S1B-073#35:1:A>
+In other words when there is an infection going on there is an
+invading or microorganism like the bacteria <,> these soldiers of the body
+attack the bacteria they fight
+ 
+<ICE-PHI:S1B-073#36:1:A>
+There 's a war going on <,> 
+ 
+<ICE-PHI:S1B-073#37:1:A>
+That 's why it swells up there 's a fight going on in that area <,> 
+ 
+<ICE-PHI:S1B-073#38:1:A>
+That means you 've had an infection in the area near that area
+ 
+<ICE-PHI:S1B-073#39:1:A>
+Have you had any wound near that area
+
+ <$B> 
+<ICE-PHI:S1B-073#40:1:B>
+No
+
+ <$A> 
+<ICE-PHI:S1B-073#41:1:A>
+You never had <indig> o baka </indig> you had a bump in the
+head or something
+
+ <$B> 
+<ICE-PHI:S1B-073#42:1:B>
+No
+
+ <$A> 
+<ICE-PHI:S1B-073#43:1:A>
+In the ear have you had a cold ear infection
+
+ <$B> 
+<ICE-PHI:S1B-073#44:1:B>
+No
+
+ <$A> 
+<ICE-PHI:S1B-073#45:1:A>
+It just comes in
+
+ <$B> 
+<ICE-PHI:S1B-073#46:1:B>
+Yeah <,> it just came
+
+ <$A> 
+<ICE-PHI:S1B-073#47:1:A>
+Without any reason
+ 
+<ICE-PHI:S1B-073#48:1:A>
+There must 've been some infection somewhere
+ 
+<ICE-PHI:S1B-073#49:1:A>
+The only treatment would be antibiotics if it persists otherwise
+leave it alone <,> okay
+
+ <$B> 
+<ICE-PHI:S1B-073#50:1:B>
+Okay
+
+ <$A> 
+<ICE-PHI:S1B-073#51:1:A>
+If it persists for a couple of days then you have to take
+antibiotics
+
+ <$B> 
+<ICE-PHI:S1B-073#52:1:B>
+Yeah okay
+
+ <$A> 
+<ICE-PHI:S1B-073#53:1:A>
+Otherwise you leave it alone
+ 
+<ICE-PHI:S1B-073#54:1:A>
+It might disappear in a couple of days
+ 
+<ICE-PHI:S1B-073#55:1:A>
+I I think it 's a mild infection okay
+
+ <$B> 
+<ICE-PHI:S1B-073#56:1:B>
+Yeah thank you <&> break in recording </&> 
+
+ <$A> 
+<ICE-PHI:S1B-073#57:1:A>
+You were absent only for one session for the R O T C because
+of influenza
+ 
+<ICE-PHI:S1B-073#58:1:A>
+This is your medical certificate
+ 
+<ICE-PHI:S1B-073#59:1:A>
+Since we did not see you <,> I cannot issue my own certificate
+because I did not see you
+ 
+<ICE-PHI:S1B-073#60:1:A>
+I cannot certify something I did not see
+ 
+<ICE-PHI:S1B-073#61:1:A>
+When you were sick I did not see you
+ 
+<ICE-PHI:S1B-073#62:1:A>
+So <,> we 'll just make do with this certificate of yours <,> I 'll
+just notate it <,> okay
+ 
+<ICE-PHI:S1B-073#63:1:A>
+Today is the sixteenth <,,> you have a P E session today
+
+ <$C> 
+<ICE-PHI:S1B-073#64:1:C>
+Yes
+
+ <$A> 
+<ICE-PHI:S1B-073#65:1:A>
+You are just recovering from flu so you want to be excused
+
+ <$C> 
+<ICE-PHI:S1B-073#66:1:C>
+Yes I still have a cough and a flu
+
+ <$A> 
+<ICE-PHI:S1B-073#67:1:A>
+You still have a cough and flu <,> and flu
+ 
+<ICE-PHI:S1B-073#68:1:A>
+Are you on medication already <,> uh
+
+ <$C> 
+<ICE-PHI:S1B-073#69:1:C>
+Yes
+
+ <$A> 
+<ICE-PHI:S1B-073#70:1:A>
+What medicines
+
+ <$C> 
+<ICE-PHI:S1B-073#71:1:C>
+Biogesic
+
+ <$A> 
+<ICE-PHI:S1B-073#72:1:A>
+What 's your name
+
+ <$C> 
+<ICE-PHI:S1B-073#73:1:C>
+Jason Jimenez
+
+ <$A> 
+<ICE-PHI:S1B-073#74:1:A>
+Jason Jimenez <,,> Jason Jimenez <&> break in recording </&> 
+
+ <$A> 
+<ICE-PHI:S1B-073#75:1:A>
+Miss you 're sick <,> what 's your name
+
+ <$D> 
+<ICE-PHI:S1B-073#76:1:D>
+Uhm Glorife Soberano
+
+ <$A> 
+<ICE-PHI:S1B-073#77:1:A>
+I beg your pardon
+
+ <$D> 
+<ICE-PHI:S1B-073#78:1:D>
+Glorife Soberano
+
+ <$A> 
+<ICE-PHI:S1B-073#79:1:A>
+Glory
+
+ <$D> 
+<ICE-PHI:S1B-073#80:1:D>
+Yes
+
+ <$A> 
+<ICE-PHI:S1B-073#81:1:A>
+Glory Soberano
+
+ <$D> 
+<ICE-PHI:S1B-073#82:1:D>
+Glorife
+
+ <$A> 
+<ICE-PHI:S1B-073#83:1:A>
+Glorife
+
+ <$D> 
+<ICE-PHI:S1B-073#84:1:D>
+Yes
+
+ <$A> 
+<ICE-PHI:S1B-073#85:1:A>
+Soberano <,> 
+ 
+<ICE-PHI:S1B-073#86:1:A>
+What course are you taking <,> 
+
+ <$D> 
+<ICE-PHI:S1B-073#87:1:D>
+<{> <[> Commerce </[> B S A
+
+ <$A> 
+<ICE-PHI:S1B-073#88:1:A>
+<[> Commerce </[> </{> B S A <,> what year
+
+ <$D> 
+<ICE-PHI:S1B-073#89:1:D>
+First year
+
+ <$A> 
+<ICE-PHI:S1B-073#90:1:A>
+Freshman
+ 
+<ICE-PHI:S1B-073#91:1:A>
+What 's your temperature <,> <{> <[> the nurse </[> took your
+temperature
+
+ <$D> 
+<ICE-PHI:S1B-073#92:1:D>
+<[> Thirty-nine </[> </{> thirty-nine
+
+ <$A> 
+<ICE-PHI:S1B-073#93:1:A>
+Thirty-nine <,> you have a fever
+ 
+<ICE-PHI:S1B-073#94:1:A>
+That means you have an infection
+ 
+<ICE-PHI:S1B-073#95:1:A>
+What do you feel
+ 
+<ICE-PHI:S1B-073#96:1:A>
+What are your complaints
+
+ <$D> 
+<ICE-PHI:S1B-073#97:1:D>
+Uhm headaches
+
+ <$A> 
+<ICE-PHI:S1B-073#98:1:A>
+You have a headache what else
+
+ <$D> 
+<ICE-PHI:S1B-073#99:1:D>
+Headaches muscle pain
+
+ <$A> 
+<ICE-PHI:S1B-073#100:1:A>
+Muscular pain
+
+ <$D> 
+<ICE-PHI:S1B-073#101:1:D>
+Muscular pain
+
+ <$A> 
+<ICE-PHI:S1B-073#102:1:A>
+Muscular pain <{> <[> <,> </[> what else
+
+ <$D> 
+<ICE-PHI:S1B-073#103:1:D>
+Uh uhm
+ 
+<ICE-PHI:S1B-073#104:1:D>
+And uhm I feel extremely hot
+
+ <$A> 
+<ICE-PHI:S1B-073#105:1:A>
+Feverish <,> and you 're sick of school <indig> ha </indig> 
+
+ <$D> 
+<ICE-PHI:S1B-073#106:1:D>
+Uh I have a cold
+
+ <$A> 
+<ICE-PHI:S1B-073#107:1:A>
+Uh you have a cold you also have a cold okay
+ 
+<ICE-PHI:S1B-073#108:1:A>
+Let me take a look at your throat <,> say ah ah
+ 
+<ICE-PHI:S1B-073#109:1:A>
+Are you coughing
+
+ <$D> 
+<ICE-PHI:S1B-073#110:1:D>
+Uhm a bit
+
+ <$A> 
+<ICE-PHI:S1B-073#111:1:A>
+A bit <,> 
+ 
+<ICE-PHI:S1B-073#112:1:A>
+I 'll take a look at your lungs uh
+ 
+<ICE-PHI:S1B-073#113:1:A>
+Turn around your back
+ 
+<ICE-PHI:S1B-073#114:1:A>
+You have to breathe hard inhale exhale <indig> ha </indig> 
+ 
+<ICE-PHI:S1B-073#115:1:A>
+Go ahead <,> okay <,> okay <,,> 
+ 
+<ICE-PHI:S1B-073#116:1:A>
+Results are okay
+ 
+<ICE-PHI:S1B-073#117:1:A>
+You have no other signs and symptoms so most probably you have
+what you have is the flu influenza
+ 
+<ICE-PHI:S1B-073#118:1:A>
+Now let me explain
+ 
+<ICE-PHI:S1B-073#119:1:A>
+What is influenza
+ 
+<ICE-PHI:S1B-073#120:1:A>
+Influenza is a viral infection <,> 
+ 
+<ICE-PHI:S1B-073#121:1:A>
+Now when you say you have a viral infection there are two
+connotations <,> okay
+ 
+<ICE-PHI:S1B-073#122:1:A>
+One connotation is it 's contagious <,> 
+ 
+<ICE-PHI:S1B-073#123:1:A>
+And that 's the reason why I 'm going to give you a note and you 're
+supposed to go home to see your doctor okay <,,> 
+ 
+<ICE-PHI:S1B-073#124:1:A>
+Now another connotation of influenza would be it means that there
+is no medicine that can kill the the causative organism the virus because it 's
+a viral infection
+ 
+<ICE-PHI:S1B-073#125:1:A>
+Therefore the treatment would uh be the treatment is geared only
+towards alleviating your symptoms
+ 
+<ICE-PHI:S1B-073#126:1:A>
+If you have a fever take something for fever
+ 
+<ICE-PHI:S1B-073#127:1:A>
+If you 're coughing take something for cough <,> and uh you have
+to rest and take plenty of fluids
+ 
+<ICE-PHI:S1B-073#128:1:A>
+So I 'm sending you home with one slip I 'll give you the slip
+okay
+ 
+<ICE-PHI:S1B-073#129:1:A>
+Now when you come back get the slip from us <,> I would want to
+make sure it 's no longer contagious
+ 
+<ICE-PHI:S1B-073#130:1:A>
+At any rate see your doctor <,> 
+ 
+<ICE-PHI:S1B-073#131:1:A>
+Now sometimes your doctors will give you antibiotics
+ 
+<ICE-PHI:S1B-073#132:1:A>
+Now you may ask why <,> 
+ 
+<ICE-PHI:S1B-073#133:1:A>
+Antibiotics are supposed to kill bacteria not viruses but the
+reason why your doctor might sometimes give you antibiotic is to prevent
+bacterial complications <,> that might kill you like bronchopneumonia
+meningitis okay
+ 
+<ICE-PHI:S1B-073#134:1:A>
+So <,,> by the way the longer you stay in campus the more people
+will get your disease <,> 
+ 
+<ICE-PHI:S1B-073#135:1:A>
+So this is the note okay <&> break in recording </&> 
+
+ <$E> 
+<ICE-PHI:S1B-073#136:1:E>
+I have a sore throat doc
+
+ <$A> 
+<ICE-PHI:S1B-073#137:1:A>
+You have a sore throat
+ 
+<ICE-PHI:S1B-073#138:1:A>
+Do you think you have the flu
+
+ <$E> 
+<ICE-PHI:S1B-073#139:1:E>
+Just a sore throat
+
+ <$A> 
+<ICE-PHI:S1B-073#140:1:A>
+Have you had your temperature taken by the nurse
+
+ <$E> 
+<ICE-PHI:S1B-073#141:1:E>
+Yes I
+
+ <$A> 
+<ICE-PHI:S1B-073#142:1:A>
+How how high how high is it
+
+ <$E> 
+<ICE-PHI:S1B-073#143:1:E>
+<indig> Sabi niya sa 'kin </indig> thirty-seven
+
+ <$A> 
+<ICE-PHI:S1B-073#144:1:A>
+It 's thirty-seven <,> <indig> eksakto </indig> <{> <[> <,> 
+ </[> thirty-seven
+ 
+<ICE-PHI:S1B-073#145:1:A>
+That 's not a fever probably it 's beginning <,> the beginning of
+something
+ 
+<ICE-PHI:S1B-073#146:1:A>
+May I see your throat <,> 
+ 
+<ICE-PHI:S1B-073#147:1:A>
+Say ah
+ 
+<ICE-PHI:S1B-073#148:1:A>
+Is it painful when you swallow
+
+ <$E> 
+<ICE-PHI:S1B-073#149:1:E>
+<[> Uhm </[> </{> 
+ 
+<ICE-PHI:S1B-073#150:1:E>
+Yes
+
+ <$A> 
+<ICE-PHI:S1B-073#151:1:A>
+It 's your tonsils that is inflamed
+
+ <$E> 
+<ICE-PHI:S1B-073#152:1:E>
+Sir <,> I have a test I have to get the <indig> ano </indig> 
+I should get an excuse
+
+ <$A> 
+<ICE-PHI:S1B-073#153:1:A>
+You have a test
+ 
+<ICE-PHI:S1B-073#154:1:A>
+You 're not coughing <indig> ha </indig> no
+ 
+<ICE-PHI:S1B-073#155:1:A>
+I 'll just check your lungs I 'll just check your lungs
+ 
+<ICE-PHI:S1B-073#156:1:A>
+Turn around your back
+ 
+<ICE-PHI:S1B-073#157:1:A>
+Have a seat have a seat <,> have a seat just turn you around
+ 
+<ICE-PHI:S1B-073#158:1:A>
+Okay <,> inhale exhale <,> again inhale exhale <,,> 
+ 
+<ICE-PHI:S1B-073#159:1:A>
+Breathe <,> 
+ 
+<ICE-PHI:S1B-073#160:1:A>
+Your lungs are okay
+ 
+<ICE-PHI:S1B-073#161:1:A>
+Your tonsils are inflamed and they 're swollen <,> 
+ 
+<ICE-PHI:S1B-073#162:1:A>
+So most probably you are coming up with an acute tonsillitis
+ 
+<ICE-PHI:S1B-073#163:1:A>
+Now what is it
+ 
+<ICE-PHI:S1B-073#164:1:A>
+It is supposed to be a bacterial infection
+ 
+<ICE-PHI:S1B-073#165:1:A>
+Now the treatment for that is the <{> <[> antibiotics <,> </[> 
+ 
+<ICE-PHI:S1B-073#166:1:A>
+We do not carry antibiotics in the clinic <,> so you have to get
+them yourself
+ 
+<ICE-PHI:S1B-073#167:1:A>
+So see your doctor <indig> ha </indig> 
+ 
+<ICE-PHI:S1B-073#168:1:A>
+And I 'm sure your doctor will prescribe some antibiotics
+
+ <$E> 
+<ICE-PHI:S1B-073#169:1:E>
+<[> Uh uhm antibiotics </[> </{> 
+ 
+<ICE-PHI:S1B-073#170:1:E>
+Sir
+
+ <$A> 
+<ICE-PHI:S1B-073#171:1:A>
+In the meantime what you can get from the nurse are lozenges
+ 
+<ICE-PHI:S1B-073#172:1:A>
+We have some lozenges that will allay the pain
+
+ <$E> 
+<ICE-PHI:S1B-073#173:1:E>
+How about the certificate
+
+ <$A> 
+<ICE-PHI:S1B-073#174:1:A>
+Certificate <,> for what
+ 
+<ICE-PHI:S1B-073#175:1:A>
+Certificate for what
+
+ <$E> 
+<ICE-PHI:S1B-073#176:1:E>
+Sir I 'll be excused from my quiz in my subject
+
+ <$A> 
+<ICE-PHI:S1B-073#177:1:A>
+You have one more subject
+
+ <$E> 
+<ICE-PHI:S1B-073#178:1:E>
+Actually <,> I have a class
+
+ <$A> 
+<ICE-PHI:S1B-073#179:1:A>
+Uh you go to your doctor right away <indig> ha </indig> 
+
+ <$E> 
+<ICE-PHI:S1B-073#180:1:E>
+Sir so would this be valid <,> I don't know
+
+ <$A> 
+<ICE-PHI:S1B-073#181:1:A>
+An absence is an absence <,> 
+
+ <$E> 
+<ICE-PHI:S1B-073#182:1:E>
+Uh Sir how about the
+
+ <$A> 
+<ICE-PHI:S1B-073#183:1:A>
+Although this is uh <,,> I suppose this will justify your
+being absent but you 're still absent
+
+ <$E> 
+<ICE-PHI:S1B-073#184:1:E>
+Yeah <,> yes <,> so you 're going <&> mumbling not clear on
+tape </&> 
+
+ <$A> 
+<ICE-PHI:S1B-073#185:1:A>
+Yes <,> before you leave you ask for a <,> a lozenge from the
+nurse <indig> ha </indig> and then see your doctor right away <,> okay <&> 
+break in recording </&> 
+
+ <$F> 
+<ICE-PHI:S1B-073#186:1:F>
+And what and we would like to uh make an interview about uhm
+the thing <,> the things that uh that surrounds us our health and <,,> uhm
+ <unclear> word </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-073#187:1:A>
+The common <,,> the common layman 's belief is even hepatitis
+B is <indig> ang kamalian nila </indig> they think if you have hepatitis B it 's
+fatal
+ 
+<ICE-PHI:S1B-073#188:1:A>
+It 's not fatal <,> only less than five percent die of the disease
+ 
+<ICE-PHI:S1B-073#189:1:A>
+Even hepatitis B even hepatitis more so in A
+ 
+<ICE-PHI:S1B-073#190:1:A>
+A is the mild form <,> usually they <indig> 'yon atang pumatay <,> 
+naku sira yata 'yong ano yong tinape yon ba <,> ewan ko kung yan </indig> 
+ 
+<ICE-PHI:S1B-073#191:1:A>
+It 's not a fatal disease
+ 
+<ICE-PHI:S1B-073#192:1:A>
+What makes it serious especially hepatitis B is <,> statistics
+will show you that if you have had hepatitis B especially B <indig> ha
+ </indig> although A is included twenty to twenty-five years later twenty-five
+percent will develop liver cancer or liver cirrhosis
+ 
+<ICE-PHI:S1B-073#193:1:A>
+These are incurable diseases <,> in other words you die
+
+ <$F> 
+<ICE-PHI:S1B-073#194:1:F>
+Hmmmh
+
+ <$A> 
+<ICE-PHI:S1B-073#195:1:A>
+So in other words if you have a history of hepatitis A or B
+more so in B
+ 
+<ICE-PHI:S1B-073#196:1:A>
+One out of five will develop eventually later in life twenty or
+thirty years later they will develop liver carcinoma or or uh liver cirrhosis
+ 
+<ICE-PHI:S1B-073#197:1:A>
+These are fatal diseases
+ 
+<ICE-PHI:S1B-073#198:1:A>
+So that 's what makes it serious <,> that 's what makes it serious
+
+ <$F> 
+<ICE-PHI:S1B-073#199:1:F>
+Is it incurable
+
+ <$A> 
+<ICE-PHI:S1B-073#200:1:A>
+Not <,> cirrhosis is a liver disease that 's incurable
+ 
+<ICE-PHI:S1B-073#201:1:A>
+Cancer is incurable <indig> di ba </indig> 
+ 
+<ICE-PHI:S1B-073#202:1:A>
+Cancer is well cancer is curable there 's a <.> com </.> mistaken
+belief that cancer is not curable
+ 
+<ICE-PHI:S1B-073#203:1:A>
+Cancer is curable but the point is you 've got to catch it at the
+beginning at the start
+
+ <$F> 
+<ICE-PHI:S1B-073#204:1:F>
+Tumor
+
+ <$A> 
+<ICE-PHI:S1B-073#205:1:A>
+But usually uh cancer you you only spot it or you discover it
+when it 's already in the advanced stage
+
+ <$F> 
+<ICE-PHI:S1B-073#206:1:F>
+Benign
+
+ <$A> 
+<ICE-PHI:S1B-073#207:1:A>
+Because usually if it 's beginning you don't exhibit any
+symptoms so you will not know you have it
+ 
+<ICE-PHI:S1B-073#208:1:A>
+Uh <indig> karamihan lang nasi- </indig> save <indig> na kanser sa
+babae kasi ang sa babae madaling ma- </indig> discover <indig> e <,> kagaya
+ng kanser ng </indig> breast <indig> nakakapa mo yan kapag may maliit na
+bukol </indig> 
+ 
+<ICE-PHI:S1B-073#209:1:A>
+<indig> Ang sa lalaki nasa loob paano mo mapa <,> palagay mo
+ </indig> cancer of the lungs <indig> paano mo makakapa kung maliit lang
+ </indig> 
+ 
+<ICE-PHI:S1B-073#210:1:A>
+<indig> Wala ka namang maramdaman di ba </indig> 
+ 
+<ICE-PHI:S1B-073#211:1:A>
+<indig> Kaya malalaman mo lang pag malaki na madami ng </indig> 
+symptoms <,> advanced stage
+ 
+<ICE-PHI:S1B-073#212:1:A>
+<indig> Kaya <,,> magpapa- </indig> physical <indig> eksamen yan
+gagamitin itong kwarto </indig> </I> 
+
+
+ <I> 
+
+ <$A> 
+<ICE-PHI:S1B-073#213:2:A>
+I could not sleep at night <indig> nahihirapan akong huminga
+ </indig> and I have uh had asthma for some time <,> 
+ 
+<ICE-PHI:S1B-073#214:2:A>
+I had it when I was a child but it recurred about ten years ago
+ 
+<ICE-PHI:S1B-073#215:2:A>
+Then sometime in November <,> I got hospitalized
+ 
+<ICE-PHI:S1B-073#216:2:A>
+But recently I got better until <,> the last past day
+
+ <$B> 
+<ICE-PHI:S1B-073#217:2:B>
+Uh with regards to your difficulty of breathing now do you
+have accompanying symptoms like cough fever <,> or sweat uh night chills
+ 
+<ICE-PHI:S1B-073#218:2:B>
+Uh do you have it
+
+ <$A> 
+<ICE-PHI:S1B-073#219:2:A>
+No <{> <[> uh </[> simple breathing problem
+
+ <$B> 
+<ICE-PHI:S1B-073#220:2:B>
+<[> When </[> </{> when you were hospitalized last November
+what uh laboratory parameters were done to you
+
+ <$A> 
+<ICE-PHI:S1B-073#221:2:A>
+Well I had uh an X-ray and then uh <,> uh I I don't recall if
+my blood was taken and then I had an X-ray
+
+ <$B> 
+<ICE-PHI:S1B-073#222:2:B>
+Uh huh <,> what was your blood pressure then
+
+ <$A> 
+<ICE-PHI:S1B-073#223:2:A>
+I think it was normal
+
+ <$B> 
+<ICE-PHI:S1B-073#224:2:B>
+Uh huh
+
+ <$A> 
+<ICE-PHI:S1B-073#225:2:A>
+But Uh I I remember they took my uh my <.> breath </.> a a
+breathing test
+ 
+<ICE-PHI:S1B-073#226:2:A>
+Maybe they they counted how many times uh what my pulse rate was
+but I don't recall anymore
+
+ <$B> 
+<ICE-PHI:S1B-073#227:2:B>
+Uh-hmmmh <,> so what was your blood pressure then
+
+ <$A> 
+<ICE-PHI:S1B-073#228:2:A>
+I think it was normal <indig> 'no </indig> about a hundred
+forty to ninety only
+
+ <$B> 
+<ICE-PHI:S1B-073#229:2:B>
+Okay I have to <{> <[> examine your chest </[> 
+
+ <$A> 
+<ICE-PHI:S1B-073#230:2:A>
+<[> Maybe a little less than that </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-073#231:2:B>
+<{> <[> I have to </[> examine your chest right now <,,> 
+
+ <$A> 
+<ICE-PHI:S1B-073#232:2:A>
+<[> Less than that </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-073#233:2:B>
+It looks like you 're having some wheezes on your chest
+ 
+<ICE-PHI:S1B-073#234:2:B>
+So it looks like you 're still having some episodes of asthma <,> 
+ 
+<ICE-PHI:S1B-073#235:2:B>
+Your heart looks okay <,> regular heart beat <,> breathing okay
+ 
+<ICE-PHI:S1B-073#236:2:B>
+So we 'll still consider this is still an asthma
+ 
+<ICE-PHI:S1B-073#237:2:B>
+Oh I 'll give you what what medications did you take in <{> <[> 
+what medications </[> 
+
+ <$A> 
+<ICE-PHI:S1B-073#238:2:A>
+<[> I am taking Budesonide </[> </{> initial spray and mouth
+uh medication
+
+ <$B> 
+<ICE-PHI:S1B-073#239:2:B>
+Like what
+
+ <$A> 
+<ICE-PHI:S1B-073#240:2:A>
+It 's like a spray
+ 
+<ICE-PHI:S1B-073#241:2:A>
+Budesonide also
+
+ <$B> 
+<ICE-PHI:S1B-073#242:2:B>
+Uh Budesonide okay
+ 
+<ICE-PHI:S1B-073#243:2:B>
+So okay this is what I we will do
+ 
+<ICE-PHI:S1B-073#244:2:B>
+We 'll recommend you and I 'll write this all here for your
+instructions so you will do it <{> <[> continue </[> with this and you need
+this <.> exa </.> and we will and we will observe it then
+
+ <$A> 
+<ICE-PHI:S1B-073#245:2:A>
+<[> Uh-hmmmh </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-073#246:2:B>
+You can come back after one week
+
+ <$A> 
+<ICE-PHI:S1B-073#247:2:A>
+Uh-hmmmh but I can call you back <{> <[> if I if I need </[> 
+
+ <$B> 
+<ICE-PHI:S1B-073#248:2:B>
+<[> Oh yes definitely </[> </{> 
+ 
+<ICE-PHI:S1B-073#249:2:B>
+So okay you take this </I> 

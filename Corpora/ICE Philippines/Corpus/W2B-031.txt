@@ -1,0 +1,489 @@
+<I>
+
+<ICE-PHI:W2B-031#1:1>
+<h> <bold> CDMA gets ready for 3G migration </bold> </h>
+
+<ICE-PHI:W2B-031#2:1>
+<bold> By Edwin P. Sallan </bold>
+
+<p> 
+<ICE-PHI:W2B-031#3:1>
+HONG KONG - -
+
+<ICE-PHI:W2B-031#4:1>
+If you can't beat 'em, join 'em -- at least for the time being. </p>
+
+<p> With more than 120 million subscribers worldwide, third generation ( 3G)
+digital wireless communications based on the Code Division Multiple Access (
+CDMA) platform is now firmly established and continues to grow at a
+phenomenal rate, so says the CDMA Development Group ( CDG) that organized the
+3G World Congress held last week at the Hong Kong Convention and Exhibition
+Centre. </p>
+
+<p> 
+<ICE-PHI:W2B-031#5:1>
+<quote> &ldquo; CDMA continues to expand rapidly around the world
+and is leading in 3G adoption, &rdquo; </quote> beams Perry La Forge,
+executive director of CDG.
+
+<ICE-PHI:W2B-031#6:1>
+<quote> &ldquo; The subscriber demand for wireless data connectivity
+continues to increase and opens new opportunities for service providers and
+manufacturers. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2B-031#7:1>
+But even with this encouraging development, Qualcomm, the company
+that pioneered CDMA technology, is determined to make inroads in territories
+where2G systems based on the Global System for Mobile communications ( GSM)
+standard remain in place.
+
+<ICE-PHI:W2B-031#8:1>
+GSM remains the dominant platform for mobile communications, with some
+680 million subscribers worldwide from mostly European and Asian countries,
+the Philippines included. </p>
+
+<p> 
+<ICE-PHI:W2B-031#9:1>
+Qualcomm, which supplies both hardware and software technology to
+3G mobile communications vendors, has announced multi-platform solutions
+which it hopes would ultimately lead to full 3G migration. </p>
+
+<p> 
+<ICE-PHI:W2B-031#10:1>
+These include chipset solutions like the MSM6200, the MGP6200
+Multimode Global Positioning System ( GPS) and system software and the
+radioOne 6300, which will bridge 2G and 3G technologies on GSM, and GPRS (
+general packet radio system). </p>
+
+<p> 
+<ICE-PHI:W2B-031#11:1>
+There 's also the new BREW ( Binary Runtime Environment for
+Wireless) software application platform that can run on both CDMA and GSM
+hardware and further enhance their capabilities while sitting on top of other
+similar technologies like Java and running unobtrusively in the background.
+</p>
+
+<p> 
+<ICE-PHI:W2B-031#12:1>
+<quote> &ldquo; Although the 3G direction which the vast majority
+of carriers are taking throughout the world is CDMA ( either CDMA2000 or
+W-CDMA), the strategy to recognize that GSM networks and subscribers will be
+around for some time is a reflection of our commitment to provide users with
+3G capabilities, with the ability to roam anywhere in the world, &rdquo;
+</quote> says Marshall Towe Jr., managing director of Qualcomm Southeast
+Asia. </p>
+
+<p> 
+<ICE-PHI:W2B-031#13:1>
+Towe acknowledges that even as many parts of the world are now
+enjoying the unsurpassed user experience that only 3G can provide,
+particularly Korea where CDMA is now prevalent, GSM strongholds are not
+likely to make the switch overnight. </p>
+
+<p> 
+<ICE-PHI:W2B-031#14:1>
+<quote> &ldquo; The convergence from GSM to CDMA will take time
+and full convergence to 3G is still years away, &rdquo; </quote> he concedes.
+
+<ICE-PHI:W2B-031#15:1>
+<quote> &ldquo; In the meantime, the 3G capability ( of
+GSM-compatible products) bridges the gap. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2B-031#16:1>
+Even as Qualcomm is coming up with such multi-platform solutions
+to penetrate the GSM market, Towe disclosed that the company remains firm in
+its commitment to bring 3G technology everywhere in the world via theCDMA2000
+and W-CDMA platforms.
+
+<ICE-PHI:W2B-031#17:1>
+Qualcomm is particularly keen on rolling out 3G service in the
+Philippines, which Towe describes as <quote> &ldquo; an awesome, strong
+market, very Western in many ways and without language issues. &rdquo;
+</quote> </p>
+
+<p> 
+<ICE-PHI:W2B-031#18:1>
+<quote> &ldquo; We would like to work with one of the existing
+800-MHz operators in your country to roll out 3G service thru CDMA2000 in the
+very near future, &rdquo; </quote> Towe enthuses.
+
+<ICE-PHI:W2B-031#19:1>
+<quote> &ldquo; The success of Korea, United States, Japan and now
+many other countries shows that this technology can be of great benefit to
+the consumers and allows operators a very cost-effective and efficient way to
+quickly and easily roll out 3G services. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2B-031#20:1>
+Towe also points out that building blocks are already in place to
+make 3G an immediate reality in the Philippines, although Qualcomm still
+needs to work out some issues with network providers and government
+regulating agencies like the National Telecommunications Commission.
+
+<ICE-PHI:W2B-031#21:1>
+He notes that the country still has a small CDMA system from Piltel
+in place with some 50,000 subscribers and identifies both Piltel and another
+network provider, sister company Smart, as mobile operators that are capable
+of doing 3G right now. </p>
+
+<p> 
+<ICE-PHI:W2B-031#22:1>
+As demonstrated in several keynote speeches and roundtable
+discussions during the Hong Kong congress, 3G in its present commercial
+incarnation is by far the most advanced form of mobile communications
+technology available today.
+
+<ICE-PHI:W2B-031#23:1>
+Wireless devices powered by Qualcomm chip sets and BREW technology
+like cellular handsets, personal digital assistants and modem cards are
+loaded with such features as high-speed Internet access, global roaming,
+crystal-clear voice quality, symphonic ringing tones, high-resolution color
+displays, built-in digital cameras, streaming video and MP3 players,
+downloadable multimedia games and other applications. </p>
+
+<p> 
+<ICE-PHI:W2B-031#24:1>
+One compelling application is position location services, which
+can either help prevent a user from getting lost in a certain vicinity with
+the help of an interactive onscreen map or easily follow and track down the
+location of anyone or more given companions within a five-meter radius. </p>
+
+<p> 
+<ICE-PHI:W2B-031#25:1>
+Towe believes this application is just one of the many 3G
+technologies that are likely to become popular with Filipino consumers when
+3G finally takes off in the country. </p> </I>
+
+
+<I>
+
+<ICE-PHI:W2B-031#26:2>
+<h> <bold> Treo takes on Nokia 9210 </bold> </h>
+
+<ICE-PHI:W2B-031#27:2>
+<bold> By JV Rufino </bold>
+
+<p> 
+<ICE-PHI:W2B-031#28:2>
+FOR quite a while now I have been using the Handspring Treo 180 -
+- Handspring 's latest attempt to merge a cellular phone with a PDA - - as my
+primary phone to see how well it copes with the rigors of day-to-day use and
+how it compares with the Nokia 9210 Communicator, Nokia 's take on the
+phone-PDA hybrid. </p>
+
+<p> 
+<ICE-PHI:W2B-031#29:2>
+First off, both products show the heritage of their makers,
+<foreign> i.e. </foreign> , PDA manufacturer or phone manufacturer. </p>
+
+<p> 
+<ICE-PHI:W2B-031#30:2>
+<mention> Handspring </mention> was formed by the original team
+that made the first <mention> Palm </mention> and their expertise shows.
+
+<ICE-PHI:W2B-031#31:2>
+As a PDA, the Treo is better than the Communicator.
+
+<ICE-PHI:W2B-031#32:2>
+The Treo 's Palm OS-based PDA applications are more intuitive than
+their counterparts on the Communicator and the Treo is more stable ( the
+Communicator needing more than the occasional reset).
+
+<ICE-PHI:W2B-031#33:2>
+On the other hand, the Communicator doesn't need a stylus, relying
+instead on gamepad-like cursor pad.
+
+<ICE-PHI:W2B-031#34:2>
+Although it takes getting used to, at least with the Communicator you
+don't have to worry about losing a stylus in the middle of a busy day.
+
+<ICE-PHI:W2B-031#35:2>
+And its screen is colored to the Treo 's monochrome. </p>
+
+<p> 
+<ICE-PHI:W2B-031#36:2>
+On the other hand, the Treo is clunkier as a phone.
+
+<ICE-PHI:W2B-031#37:2>
+Battery life, voice quality, reception and volume are not as good as
+that of the Communicator ( though not exceptionally bad either), since Nokia
+knows how to make phones. </p>
+
+<p> 
+<ICE-PHI:W2B-031#38:2>
+The integration of the Address Book with SMS and e-mail is also
+better on the Communicator than on the Treo.
+
+<ICE-PHI:W2B-031#39:2>
+On the Treo, SMS and e-mail are separate applications and if you want
+to send a fax you 'll need a third-party program.
+
+<ICE-PHI:W2B-031#40:2>
+SMS, e-mail and faxes are all stored in a single application on the
+Communicator - - a more elegant way of keeping track of who said what to whom
+( the situation is reversed when it comes to surfing, the Communicator having
+one browser for Wap and another for the Web while the Treo 's Blazer browser
+displays both HTML and WAP pages). </p>
+
+<p> 
+<ICE-PHI:W2B-031#41:2>
+This isn't to say that the Treo doesn't have some nice touches as
+a phone.
+
+<ICE-PHI:W2B-031#42:2>
+My favorite is the dedicated switch that places the phone on silent
+mode.
+
+<ICE-PHI:W2B-031#43:2>
+Definitely better than going through the Nokia Profiles menu when you
+need to squelch the ringer fast such as when in a movie house or church.
+
+<ICE-PHI:W2B-031#44:2>
+The rocker switch on the left side also proves handy though it took a
+bit of experimenting to figure out how to use it to its full potential.
+
+<ICE-PHI:W2B-031#45:2>
+And the Treo is a lot handier than the Communicator, which has never
+been famous for being dainty ( the price though is you forego the
+Communicator 's roomy keyboard and have to make do with the Treo 's &ldquo;
+thumb-board &rdquo; which for its size is surprisingly comfortable for
+sending short text messages). </p>
+
+<p> 
+<ICE-PHI:W2B-031#46:2>
+So which one should you go for?
+
+<ICE-PHI:W2B-031#47:2>
+Like all things in computing, it depends on what you want.
+
+<ICE-PHI:W2B-031#48:2>
+If sheer features and the phone part of the equation are vital to
+you, then go for the Communicator.
+
+<ICE-PHI:W2B-031#49:2>
+If your needs gravitate more toward the PDA side, then go for Treo.
+
+<ICE-PHI:W2B-031#50:2>
+You should also go for the Treo if size is a problem ( the size of
+phone I mean). </p> </I>
+
+
+<I>
+
+<ICE-PHI:W2B-031#51:3>
+<h> <bold> Living in a Connected Country </bold> </h>
+
+<ICE-PHI:W2B-031#52:3>
+<h> <bold> Information Technology Update: The Philippines On Line
+</bold> </h>
+
+<ICE-PHI:W2B-031#53:3>
+<bold> Ben-Oliver M. Matias </bold>
+
+<p> 
+<ICE-PHI:W2B-031#54:3>
+Have you ever thought that someday information can be obtained on
+demand?
+
+<ICE-PHI:W2B-031#55:3>
+Recent developments in information technology have made it possible
+to connect the Philippines throughout the world. </p>
+
+<p> 
+<ICE-PHI:W2B-031#56:3>
+When William &ldquo; Bill &rdquo; Gates II, Microsoft Chairman
+and CEO, visited the Philippines just recently he spoke of the critical role
+governments play in propelling the nation towards a <it> connected community
+</it> - - an information network that connects citizens, businesses,
+government agencies, service companies, and schools.
+
+<ICE-PHI:W2B-031#57:3>
+He also foretold the development of the Digital Nervous System ( DNS)
+which would someday eliminate paperwork, reduce bureaucracy, and enhance
+learning. </p>
+
+<p> 
+<ICE-PHI:W2B-031#58:3>
+With the current deregulation of the telecommunication industry,
+various companies are welcoming the Filipino clientele to a world where time
+and space are no longer barriers for communication.
+
+<ICE-PHI:W2B-031#59:3>
+Products of progress such as cellular telephones and pagers, optical
+fibers, multimedia computers, and the Internet are capable of delivering
+quality services tailored to the needs of the consumers. </p>
+
+<ICE-PHI:W2B-031#60:3>
+<h> <bold> Cellular wonders </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-031#61:3>
+Cellular telephones or cell phones were introduced in the early
+1980s.
+
+<ICE-PHI:W2B-031#62:3>
+In this system, a city or a district is broken into a series of <it>
+cells </it> , each is equipped with its own central transmitter-receiver.
+
+<ICE-PHI:W2B-031#63:3>
+These cells are technically arranged to handle different frequencies,
+though the same frequency can be used throughout the system.
+
+<ICE-PHI:W2B-031#64:3>
+For instance, as a car or a person moves from one cell to the next,
+the call remains active and continues. </p>
+
+<p> 
+<ICE-PHI:W2B-031#65:3>
+Cell phones began as analog devices with AMPS or Advanced Mobile
+Phone System as the analog standard.
+
+<ICE-PHI:W2B-031#66:3>
+Today, powerful and more efficient digital cellular systems are being
+introduced to the public.
+
+<ICE-PHI:W2B-031#67:3>
+Notable among these are the proven GSM or Global System for Mobile
+Communication and the emerging CDMA or the Code Division Multiple Access.
+
+<ICE-PHI:W2B-031#68:3>
+Both systems are capable of delivering clear calls, text messaging,
+data transmission, caller ID, and clone protection aside from other
+top-of-the-line features. </p>
+
+<ICE-PHI:W2B-031#69:3>
+<h> <bold> Beeps of boon </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-031#70:3>
+Developments in radio technology paved for the introduction of
+the beeper.
+
+<ICE-PHI:W2B-031#71:3>
+The device is activated when it receives a special radio signal.
+
+<ICE-PHI:W2B-031#72:3>
+Before, most of the people who own beepers are in the medical
+profession.
+
+<ICE-PHI:W2B-031#73:3>
+In an emergency situation, they can be easily notified.
+
+<ICE-PHI:W2B-031#74:3>
+As the prices of beepers roll down with features on the upswing, even
+ordinary students can afford to maintain a pager.
+
+<ICE-PHI:W2B-031#75:3>
+With the group paging feature, it is possible for a sales office to
+notify all its sales executives of an emergency meeting all at the same time.
+</p>
+
+<p> 
+<ICE-PHI:W2B-031#76:3>
+At present several paging companies offer valuable paging
+services to its sub-scribers.
+
+<ICE-PHI:W2B-031#77:3>
+These include news, stock market reports, traffic updates, voice mail
+services, and even e-mail ( electronic mail) paging. </p>
+
+<p> 
+<ICE-PHI:W2B-031#78:3>
+On the hardware side, beepers have evolved from being stand-alone
+alpha-numeric message receivers.
+
+<ICE-PHI:W2B-031#79:3>
+The latest generation of pagers has multiple alert tones, time and
+date stamping capability, auto on/off functions, caller ID, and other
+innovative features. </p>
+
+<ICE-PHI:W2B-031#80:3>
+<h> <bold> Fibers of light </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-031#81:3>
+There are many modes of transmitting a telephone call.
+
+<ICE-PHI:W2B-031#82:3>
+One is through copper wire, which transmits calls in the form of
+electronic impulses.
+
+<ICE-PHI:W2B-031#83:3>
+Then, there is the microwave, which transforms the call into radio
+waves.
+
+<ICE-PHI:W2B-031#84:3>
+Satellite communication is a development of microwave used for
+intercontinental relay of messages. </p>
+
+<p> 
+<ICE-PHI:W2B-031#85:3>
+In the early 1980s, the supremacy of the satellite and microwave
+was challenged with the entry of fiber optics.
+
+<ICE-PHI:W2B-031#86:3>
+In fiber optic communication, the message is translated into light
+impulses, which travel into extremely thin glass fibers.
+
+<ICE-PHI:W2B-031#87:3>
+Theoretically, a single strand of fiber optics, which is about the
+same proportion as the human hair, has the capacity of handling millions of
+telephone conversations with a far better quality than the copper-line
+counterpart.
+
+<ICE-PHI:W2B-031#88:3>
+Optical fibers provide a state-of-the-art communication channel for
+those who demand information at the fastest way.
+
+<ICE-PHI:W2B-031#89:3>
+To facilitate cross-country fiber optic communication, submarine
+cables are laid in the bottom of the sea. </p>
+
+<ICE-PHI:W2B-031#90:3>
+<h> <bold> Surfing without the waves </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-031#91:3>
+What!
+
+<ICE-PHI:W2B-031#92:3>
+Surfing without waves and surfboards?
+
+<ICE-PHI:W2B-031#93:3>
+Yes!
+
+<ICE-PHI:W2B-031#94:3>
+It is possible, but to do that you need a modem-equipped computer, a
+telephone line, and a subscription with an Internet service provider ( ISP).
+</p>
+
+<p> 
+<ICE-PHI:W2B-031#95:3>
+The Internet or information superhighway is the network of all
+computer networks.
+
+<ICE-PHI:W2B-031#96:3>
+<mention> <it> Netizens </it> </mention> , as the Internet surfers
+are called, may send and receive E-mails ( electronic mails) around the world
+faster than postal mail; browse through academic and corporate databases;
+settle business transactions; shop in a virtual mall; play games; and chat
+from someone in another country without paying international call charge.
+</p>
+
+<p> 
+<ICE-PHI:W2B-031#97:3>
+What we now know as the <mention> Internet </mention> is actually
+an evolution of the military network called <mention> ARPAnet </mention> (
+Advanced Research Projects Agency network) formed in 1970 by the US
+Department of Defense.
+
+<ICE-PHI:W2B-031#98:3>
+Also in the 1970s, the network was opened to non-military agencies
+such as universities and companies doing defense related research.
+
+<ICE-PHI:W2B-031#99:3>
+In the 1980s, the marvel of the Internet gained momentum and soon
+most universities and numerous business establishments around the world
+started connecting to it. </p> </I>

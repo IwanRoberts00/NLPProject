@@ -1,0 +1,485 @@
+<I> 
+
+ <$A>
+<ICE-PHI:S1B-079#1:1:A>
+Female married from Bataan was admitted with the presenting symptom of
+severe gastric pain
+ 
+<ICE-PHI:S1B-079#2:1:A>
+The accompanying signs and symptoms were fever nausea and vomiting
+ 
+<ICE-PHI:S1B-079#3:1:A>
+Physical examination revealed fever tachycardia hypotension
+ 
+<ICE-PHI:S1B-079#4:1:A>
+The lungs were positive for <?> basilar rals </?> 
+ 
+<ICE-PHI:S1B-079#5:1:A>
+Abdominal examination revealed tenderness diminished <.> bre </.> 
+bowel sounds and there is a positive <?> collin </?> sign
+ 
+<ICE-PHI:S1B-079#6:1:A>
+Pertinent past medical history revealed that the patient has mumps two
+weeks prior to admission
+ 
+<ICE-PHI:S1B-079#7:1:A>
+Uh we are entertaining a case of acute pancreatitis to rule out the
+following conditions namely acute cholecystitis cholelithiasis pyclonephritis
+and hepatic abscess abscess
+ 
+<ICE-PHI:S1B-079#8:1:A>
+We are also ruling out peptic ulcer disease as well as acute
+appendicitis
+
+ <$B> 
+<ICE-PHI:S1B-079#9:1:B>
+With uh epigastric pain noted on this patient is there any
+association association to meals
+ 
+<ICE-PHI:S1B-079#10:1:B>
+Does it occur uh thirty or ninety minutes after meals or is there
+any radiation of the pain to the right scapular area or at the back
+
+ <$A> 
+<ICE-PHI:S1B-079#11:1:A>
+Ah this patient has a localized epigastric pain
+ 
+<ICE-PHI:S1B-079#12:1:A>
+It is not related to any food intake or <indig> ano </indig> any
+radiation at all
+ 
+<ICE-PHI:S1B-079#13:1:A>
+That 's why we ruled out cholelithiasis <{> <[> disease </[> 
+
+ <$B> 
+<ICE-PHI:S1B-079#14:1:B>
+<[> Since in </[> </{> cholelithiasis the symptoms occurs only
+when the stone produces an inflammation or an obstruction of the cystic or
+the common bile duct
+ 
+<ICE-PHI:S1B-079#15:1:B>
+But on physical examination the abdomen can be noted to be normal
+or there is only a <.> rap </.> an uh a right upper quadrant pain
+
+ <$A> 
+<ICE-PHI:S1B-079#16:1:A>
+Uh huh
+
+ <$B> 
+<ICE-PHI:S1B-079#17:1:B>
+In your case the patient presented with an abdominal
+tenderness a diminished bowel sound and <?> collin 's </?> positive <?> 
+collin 's </?> signs which is uh likely not found in the case of
+cholelithiasis
+ 
+<ICE-PHI:S1B-079#18:1:B>
+And one thing more on a simple ultrasonography of the abdomen in
+you will right away note a stone formation in the gall bladder
+ 
+<ICE-PHI:S1B-079#19:1:B>
+So we can easily rule out the existence of cholelithiasis in this
+case
+ 
+<ICE-PHI:S1B-079#20:1:B>
+How about considering uh a case of uh the existence of
+pyelonephritis in this case
+
+ <$A> 
+<ICE-PHI:S1B-079#21:1:A>
+Uh <,> <&> break in the recording </&> the past medical <.> 
+his </.> history of this patient was negative for any urinary tract infection
+which is usually true in <.> pyelone </.> pyelonephritis <,> <&> break in the
+recording </&> 
+ 
+<ICE-PHI:S1B-079#22:1:A>
+And on physical examination the kidney <unclear> 1 word </unclear> 
+were also negative which is usually true in pyelonephritis
+ 
+<ICE-PHI:S1B-079#23:1:A>
+That 's why we tried to we ruled out pyelonephritis in this case
+ <&> break in the recording </&> 
+
+ <$B> 
+<ICE-PHI:S1B-079#24:1:B>
+Because of the
+ 
+<ICE-PHI:S1B-079#25:1:B>
+Did you note any <.> ab </.> <&> break in the recording </&> on
+your physical examination did you note any uh <?> ichtricia </?> of the
+conjunctiva or any fever
+
+ <$A> 
+<ICE-PHI:S1B-079#26:1:A>
+It was negative the <?> ichtricia </?> is negative
+ 
+<ICE-PHI:S1B-079#27:1:A>
+But the patient was febrile on admission
+
+ <$B> 
+<ICE-PHI:S1B-079#28:1:B>
+Was there any uh profuse sweating during the night any weight
+loss or any any loss of appetite or any changes in bowel movement
+
+ <$A> 
+<ICE-PHI:S1B-079#29:1:A>
+Uh it was negative all of these were negative according to the
+patient
+
+ <$B> 
+<ICE-PHI:S1B-079#30:1:B>
+So the the possibility of an existence of uh of a hepatic
+abscess is very nil since the history of this patient points uh rules out the
+existence of uh hepatic abscess on the basis of the absence of the severe
+abdominal pain the palpable mass on the right upper quadrant which was not
+noted in this case
+
+ <$A> 
+<ICE-PHI:S1B-079#31:1:A>
+Yeah that 's true <&> break in the recording </&> 
+
+ <$B> 
+<ICE-PHI:S1B-079#32:1:B>
+The epigastric pain noted in this case is not associated with
+meals
+ 
+<ICE-PHI:S1B-079#33:1:B>
+So peptic ulcer diseases is easily ruled out
+ 
+<ICE-PHI:S1B-079#34:1:B>
+How about uh the obstetrical clearance and the surgical clearance
+of this case
+ 
+<ICE-PHI:S1B-079#35:1:B>
+When was the last menstrual period
+
+ <$A> 
+<ICE-PHI:S1B-079#36:1:A>
+Uh the last menstrual period was uh June <,> ten
+
+ <$B> 
+<ICE-PHI:S1B-079#37:1:B>
+June ten
+
+ <$A> 
+<ICE-PHI:S1B-079#38:1:A>
+Of this <{> <[> year </[> 
+
+ <$B> 
+<ICE-PHI:S1B-079#39:1:B>
+<[> So </[> </{> the existence of any ectopic pregnancies in
+the uh intrauterine tumors or <.> whats </.> whatsoever that causes that will
+manifest as an acute abdomen in this case is also <{> <[> ruled out </[> 
+
+ <$A> 
+<ICE-PHI:S1B-079#40:1:A>
+<[> Is also ruled out </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-079#41:1:B>
+How about the coexistence with uh an acute appendicitis
+
+ <$A> 
+<ICE-PHI:S1B-079#42:1:A>
+An acute <.> appec </.> appendicitis as first at first was
+entertained
+ 
+<ICE-PHI:S1B-079#43:1:A>
+However we immediately ruled it out uh after doing some physical
+examination because uh in acute appendicitis the pain is uh located at the
+ <?> McBurnis </?> area as well as the rebound tenderness which is all
+negative in this case
+
+ <$B> 
+<ICE-PHI:S1B-079#44:1:B>
+Ahhh
+
+ <$A> 
+<ICE-PHI:S1B-079#45:1:A>
+So we easily ruled it out
+
+ <$B> 
+<ICE-PHI:S1B-079#46:1:B>
+With all the differential diagnosis fully discussed in this
+case the manifestations noted really points out to an acute pancreatitis
+ 
+<ICE-PHI:S1B-079#47:1:B>
+We are left with uh the laboratory diagnosis
+ 
+<ICE-PHI:S1B-079#48:1:B>
+We will be guided if we request a serum amylase and serum lipase
+determination and other auxiliary procedures like uh complete blood count
+ 
+<ICE-PHI:S1B-079#49:1:B>
+And if the patient can afford it would be much appreciated if we
+can do a C T scan which can confirm the diagnosis of pancreatitis and will be
+useful for predicting in predicting the outcome and identification of late
+complications
+ 
+<ICE-PHI:S1B-079#50:1:B>
+We will manage the case as an acute pancreatitis
+ 
+<ICE-PHI:S1B-079#51:1:B>
+We will be compelled to give analgesia preferably Meperadin
+ 
+<ICE-PHI:S1B-079#52:1:B>
+If it warrants we will put on I V intravenous fluids
+ 
+<ICE-PHI:S1B-079#53:1:B>
+We will be placing the patient on a nasogastric intubation and N P
+O
+ 
+<ICE-PHI:S1B-079#54:1:B>
+We will treat the hypocalcemia if we note a presence of this case
+ 
+<ICE-PHI:S1B-079#55:1:B>
+Antibiotics is also necessary when we if we will be able to
+establish a concurrent infection and we 're obliged to give Cimetidine or any
+antacid to prevent a stress ulcer from developing
+ 
+<ICE-PHI:S1B-079#56:1:B>
+So this is a <?> frank </?> case of acute pancreatitis </I> 
+ <subtext.2> 
+
+
+ <I> <&> tape does not record what the other person is saying, just pauses
+ </&> 
+
+ <$A> 
+<ICE-PHI:S1B-079#57:2:A>
+So May twenty-three today is June fifteen
+ 
+<ICE-PHI:S1B-079#58:2:A>
+Seven plus fifteen twenty-two twenty-two days old
+ 
+<ICE-PHI:S1B-079#59:2:A>
+He or she <,,> 
+ 
+<ICE-PHI:S1B-079#60:2:A>
+Girl good
+ 
+<ICE-PHI:S1B-079#61:2:A>
+Lucky you <indig> ha </indig> one boy and one girl
+ 
+<ICE-PHI:S1B-079#62:2:A>
+<indig> Hoy </indig> Albert is already three years old <indig> 'no
+ </indig> three three and a half
+ 
+<ICE-PHI:S1B-079#63:2:A>
+Oh good <,,> 
+ 
+<ICE-PHI:S1B-079#64:2:A>
+You know how to space your children good family planning
+ 
+<ICE-PHI:S1B-079#65:2:A>
+Is there any problem <,,> 
+ 
+<ICE-PHI:S1B-079#66:2:A>
+Oh I see
+ 
+<ICE-PHI:S1B-079#67:2:A>
+So this is your first well-baby check-up
+ 
+<ICE-PHI:S1B-079#68:2:A>
+She 's cute okay
+ 
+<ICE-PHI:S1B-079#69:2:A>
+She 's big and very active
+ 
+<ICE-PHI:S1B-079#70:2:A>
+Good suck <indig> ha </indig> 
+ 
+<ICE-PHI:S1B-079#71:2:A>
+It looks hungry
+ 
+<ICE-PHI:S1B-079#72:2:A>
+Are you breastfeeding <,,> 
+ 
+<ICE-PHI:S1B-079#73:2:A>
+Why not <,,> 
+ 
+<ICE-PHI:S1B-079#74:2:A>
+No you just have to be patient
+ 
+<ICE-PHI:S1B-079#75:2:A>
+Just let your baby suck so flow will improve
+ 
+<ICE-PHI:S1B-079#76:2:A>
+You know the stimulus to improve I mean increase your secretion is
+sucking
+ 
+<ICE-PHI:S1B-079#77:2:A>
+Now every time your baby sucks she is sending a signal to your
+brain to produce some more milk
+ 
+<ICE-PHI:S1B-079#78:2:A>
+It 's just like saying <mention> Mom I need some more milk
+ </mention> so you produce some more milk
+ 
+<ICE-PHI:S1B-079#79:2:A>
+Whereas if you bottle-feed your baby at the time when you 're
+supposed to give her your breast there will be no more sucking and you will
+be sending a negative feedback
+ 
+<ICE-PHI:S1B-079#80:2:A>
+So you stop producing milk because she doesn't need your milk
+anymore
+ 
+<ICE-PHI:S1B-079#81:2:A>
+Now in order that your secretion will increase all you have to do
+is let your baby suck
+ 
+<ICE-PHI:S1B-079#82:2:A>
+It 's really sucking that improves the secretion <,,> 
+ 
+<ICE-PHI:S1B-079#83:2:A>
+Yes it may be painful but that is only temporary
+ 
+<ICE-PHI:S1B-079#84:2:A>
+After some time you learn to adjust and there will be no more pain
+ 
+<ICE-PHI:S1B-079#85:2:A>
+You know it will be very unfortunate if you stop breastfeeding your
+baby now because there 's just too much too many advantages
+ 
+<ICE-PHI:S1B-079#86:2:A>
+Not only do you establish a good maternal bonding that is a close
+relationship between you and your baby it is also very economical
+ 
+<ICE-PHI:S1B-079#87:2:A>
+Although I know you can afford to buy these expensive formulas but
+that is not enough
+ 
+<ICE-PHI:S1B-079#88:2:A>
+Your baby is a human being and you are supposed to give her human
+milk not cow 's milk
+ 
+<ICE-PHI:S1B-079#89:2:A>
+Then not only that <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-079#90:2:A>
+The most important thing is your milk contains a lot of antibodies
+and these will help protect your baby from common infection
+ 
+<ICE-PHI:S1B-079#91:2:A>
+Well you know even if you have cough or colds if it is contagious
+whether or not you breastfeed your baby she will get it
+ 
+<ICE-PHI:S1B-079#92:2:A>
+But if you breastfeed her you 'll be giving her antibodies
+ 
+<ICE-PHI:S1B-079#93:2:A>
+So her resistance will improve and she will recover faster
+ 
+<ICE-PHI:S1B-079#94:2:A>
+You see I 'm speaking from experience <indig> ha </indig> 
+ 
+<ICE-PHI:S1B-079#95:2:A>
+More than a doctor I am a mother breastfeeding mother
+ 
+<ICE-PHI:S1B-079#96:2:A>
+I have five kids and I breastfeed all of them
+ 
+<ICE-PHI:S1B-079#97:2:A>
+Funny <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-079#98:2:A>
+You know every time I get pregnant a lot of these uhm medical
+representatives offer me their their formulas
+ 
+<ICE-PHI:S1B-079#99:2:A>
+They 're giving it for free
+ 
+<ICE-PHI:S1B-079#100:2:A>
+And yet I still breastfeed my baby
+ 
+<ICE-PHI:S1B-079#101:2:A>
+And you know the feeling is terrific
+ 
+<ICE-PHI:S1B-079#102:2:A>
+There is a feeling of contentment <,,> 
+ 
+<ICE-PHI:S1B-079#103:2:A>
+You know another thing
+ 
+<ICE-PHI:S1B-079#104:2:A>
+If you are breastfeeding you don't have to sterilize bottles
+ 
+<ICE-PHI:S1B-079#105:2:A>
+You don't have to worry about formulas getting out of stock or
+your source of water
+ 
+<ICE-PHI:S1B-079#106:2:A>
+You know a lot of mothers now are already using this what do you
+call this mineral water and it 's quite expensive you know
+ 
+<ICE-PHI:S1B-079#107:2:A>
+And not only that
+ 
+<ICE-PHI:S1B-079#108:2:A>
+You don't even have to get up at night to to prepare formulas
+ 
+<ICE-PHI:S1B-079#109:2:A>
+Your milk is there safe and ready available any time you need it
+ 
+<ICE-PHI:S1B-079#110:2:A>
+But of course you you also have to take care of yourself
+ 
+<ICE-PHI:S1B-079#111:2:A>
+You have to eat and drink a lot
+ 
+<ICE-PHI:S1B-079#112:2:A>
+And take note <indig> ha </indig> it is not true that
+breastfeeding while you 're you 're depressed or you 're tired is bad
+ 
+<ICE-PHI:S1B-079#113:2:A>
+There 's no such thing <,,> 
+ 
+<ICE-PHI:S1B-079#114:2:A>
+Well have I convinced you
+ 
+<ICE-PHI:S1B-079#115:2:A>
+Say <mention> yes </mention> because if not I will not stop unless
+you do okay
+ 
+<ICE-PHI:S1B-079#116:2:A>
+Oh by the way do you have a baby book <,,> 
+ 
+<ICE-PHI:S1B-079#117:2:A>
+Not yet okay I will give you one
+ 
+<ICE-PHI:S1B-079#118:2:A>
+You know you 're really lucky <indig> ha </indig> 
+ 
+<ICE-PHI:S1B-079#119:2:A>
+I just got it yesterday it 's been out of stock for several months
+already
+ 
+<ICE-PHI:S1B-079#120:2:A>
+Hmm she 's alright
+ 
+<ICE-PHI:S1B-079#121:2:A>
+You can start with her vitamins now and be sure to burp your baby
+after each feeding <indig> ha </indig> and give sterile water in between
+feeding <,,> 
+ 
+<ICE-PHI:S1B-079#122:2:A>
+Gas pains
+ 
+<ICE-PHI:S1B-079#123:2:A>
+Hmm you know you will minimize gas pains if you let her burp every
+after feeding
+ 
+<ICE-PHI:S1B-079#124:2:A>
+And if she still does you may try turning her on her abdomen like
+this okay like that and then gently pat or stroke her back like this okay and
+later on she will pass out air
+ 
+<ICE-PHI:S1B-079#125:2:A>
+Good <,,> okay bring her back on July eight oh July five for her
+immunization
+ 
+<ICE-PHI:S1B-079#126:2:A>
+She will start with B C G
+ 
+<ICE-PHI:S1B-079#127:2:A>
+Then at two months O P V and D P T and so on okay </I> 

@@ -1,0 +1,691 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-002#1:1:A>
+The reason of Immanuel Kant
+ 
+<ICE-PHI:S1B-002#2:1:A>
+Thus far we have seen the uhm two kinds of knowledge <,,> or judgement according to source <,> namely
+
+ <$B> 
+<ICE-PHI:S1B-002#3:1:B>
+<&> a student answers with a very faint voice </&> <foreign> A priori </foreign> and <foreign> a posteriori </foreign> 
+
+ <$A> 
+<ICE-PHI:S1B-002#4:1:A>
+Alright <foreign> a priori </foreign> and <foreign> a posteriori </foreign> <,,> 
+ 
+<ICE-PHI:S1B-002#5:1:A>
+If you were asked to <.> de </.> to define the two types of knowledge how would you
+ 
+<ICE-PHI:S1B-002#6:1:A>
+What is an <foreign> a priori </foreign> knowledge against an <foreign> a posteriori </foreign> knowledge <,,> 
+ 
+<ICE-PHI:S1B-002#7:1:A>
+Yes Mister <unclear> word </unclear> 
+
+ <$C> 
+<ICE-PHI:S1B-002#8:1:C>
+<foreign> A priori </foreign> knowledge is <unclear> words </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-002#9:1:A>
+Alright so it has something to do with what is the source of that knowledge where we uhm acquire this knowledge either from experience in which case it is <foreign> a posteriori </foreign> or from reason from the mind itself in which case it is <foreign> a priori </foreign> 
+ 
+<ICE-PHI:S1B-002#10:1:A>
+We have also uhm seen that there are two kinds of judgement according to the relationship <,> of a subject and a predicate
+ 
+<ICE-PHI:S1B-002#11:1:A>
+And what are they <,> 
+ 
+<ICE-PHI:S1B-002#12:1:A>
+Yes
+
+ <$D> 
+<ICE-PHI:S1B-002#13:1:Z> Either synthetic or analytic
+
+ <$A> 
+<ICE-PHI:S1B-002#14:1:A>
+Alright it could either be synthetic or analytic
+ 
+<ICE-PHI:S1B-002#15:1:A>
+And how would you differentiate them
+ 
+<ICE-PHI:S1B-002#16:1:A>
+Uh yes
+
+ <$E> 
+<ICE-PHI:S1B-002#17:1:Z> Synthetic the predicate is <unclear> words </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-002#18:1:A>
+Alright
+ 
+<ICE-PHI:S1B-002#19:1:A>
+So if the predicate is already contained in the subject you call it <,> 
+
+ <$Z> 
+<ICE-PHI:S1B-002#20:1:Z> <X> <&> students answer in chorus </&> Analytic </X> 
+
+ <$A> 
+<ICE-PHI:S1B-002#21:1:A>
+And if the predicate is not yet contained in the subject you call it synthetic
+ 
+<ICE-PHI:S1B-002#22:1:A>
+Could you give me examples
+ 
+<ICE-PHI:S1B-002#23:1:A>
+First of an analytic proposition <,> where the predicate is already contained in the subject
+ 
+<ICE-PHI:S1B-002#24:1:A>
+Yes
+
+ <$E> 
+<ICE-PHI:S1B-002#25:1:E>
+A square has four equal sides
+
+ <$A> 
+<ICE-PHI:S1B-002#26:1:A>
+Pardon
+
+ <$E> 
+<ICE-PHI:S1B-002#27:1:E>
+A square
+
+ <$A> 
+<ICE-PHI:S1B-002#28:1:A>
+A square has four equal sides
+ 
+<ICE-PHI:S1B-002#29:1:A>
+Could you give me an example of a synthetic judgement <,,> 
+ 
+<ICE-PHI:S1B-002#30:1:A>
+Yes
+
+ <$F> 
+<ICE-PHI:S1B-002#31:1:F>
+The triangle is small
+
+ <$A> 
+<ICE-PHI:S1B-002#32:1:A>
+The triangle is small
+ 
+<ICE-PHI:S1B-002#33:1:A>
+No matter how hard you look at the triangle you would study the concept of triangle it wouldn't tell you that whether it is uh big or small and so you must have gotten the idea of <mention> small </mention> somewhere else
+ 
+<ICE-PHI:S1B-002#34:1:A>
+Fine
+ 
+<ICE-PHI:S1B-002#35:1:A>
+Then combining the two the two classifications of knowledge we have uh the kinds of judgement
+ 
+<ICE-PHI:S1B-002#36:1:A>
+How many kinds of judgement are there altogether
+ 
+<ICE-PHI:S1B-002#37:1:A>
+There are three kinds of judgements namely
+ 
+<ICE-PHI:S1B-002#38:1:A>
+Yes
+
+ <$G> 
+<ICE-PHI:S1B-002#39:1:G>
+<&> very faint voice </&> Uhm analytic <foreign> a priori </foreign> synthetic <foreign> a posteriori </foreign> and synthetic <foreign> a priori </foreign> 
+
+ <$A> 
+<ICE-PHI:S1B-002#40:1:A>
+Good
+ 
+<ICE-PHI:S1B-002#41:1:A>
+So analytic <foreign> a priori </foreign> <,> synthetic <foreign> a posteriori </foreign> <,> and synthetic <,> <foreign> a priori </foreign> <,,> 
+ 
+<ICE-PHI:S1B-002#42:1:A>
+Could you give me an example of the first <,> an analytic <foreign> a priori </foreign> judgement <,,> <&> utters the name of a student but unclear </&> yes
+
+ <$H> 
+<ICE-PHI:S1B-002#43:1:H>
+<&> very faint voice </&> <?> A circle is round </?> 
+
+ <$A> 
+<ICE-PHI:S1B-002#44:1:A>
+Alright
+ 
+<ICE-PHI:S1B-002#45:1:A>
+If I say a circle is round <,> that is analytic <foreign> a priori </foreign> 
+ 
+<ICE-PHI:S1B-002#46:1:A>
+Could you explain why <,,> 
+ 
+<ICE-PHI:S1B-002#47:1:A>
+First explain why it is <foreign> a priori </foreign> and not <foreign> a posteriori </foreign> then explain why it is synthetic or analytic or you can do it the other way around
+ 
+<ICE-PHI:S1B-002#48:1:A>
+You can first start with why it is analytic and then why it is <foreign> a priori </foreign> <,> 
+ 
+<ICE-PHI:S1B-002#49:1:A>
+No one <,,> 
+ 
+<ICE-PHI:S1B-002#50:1:A>
+Yes
+
+ <$I> 
+<ICE-PHI:S1B-002#51:1:I>
+Uh Sir uhm what do you call this uhm analytic because uh the predicate is is contained already in the subject
+
+ <$A> 
+<ICE-PHI:S1B-002#52:1:A>
+Alright the predicate is already contained in the subject
+ 
+<ICE-PHI:S1B-002#53:1:A>
+True
+ 
+<ICE-PHI:S1B-002#54:1:A>
+Even if you remove the predicate just by looking at the subject <mention> circle </mention> you know right away it should be round
+ 
+<ICE-PHI:S1B-002#55:1:A>
+Okay so the predicate is already contained in the subject <,> 
+ 
+<ICE-PHI:S1B-002#56:1:A>
+Then why is it <foreign> a priori </foreign> 
+
+ <$I> 
+<ICE-PHI:S1B-002#57:1:I>
+Uhm Sir because uhm we already know that a circle is round
+
+ <$A> 
+<ICE-PHI:S1B-002#58:1:A>
+From reason we don't have to go beyond reason beyond the concept itself okay
+ 
+<ICE-PHI:S1B-002#59:1:A>
+We don't need experience to know that a circle is round
+ 
+<ICE-PHI:S1B-002#60:1:A>
+The very concept the concept is uh is uh from the mind okay
+ 
+<ICE-PHI:S1B-002#61:1:A>
+The very concept is close to the idea that it is round
+ 
+<ICE-PHI:S1B-002#62:1:A>
+And so the source is uh not necessarily from from experience
+ 
+<ICE-PHI:S1B-002#63:1:A>
+Of course when I draw a circle on the board and I say look that circle
+ 
+<ICE-PHI:S1B-002#64:1:A>
+It 's not really a circle is it
+ 
+<ICE-PHI:S1B-002#65:1:A>
+That circle is small
+ 
+<ICE-PHI:S1B-002#66:1:A>
+Then it is from experience
+ 
+<ICE-PHI:S1B-002#67:1:A>
+It is <foreign> a posteriori </foreign> 
+ 
+<ICE-PHI:S1B-002#68:1:A>
+But if I just say a circle is round I don't mean any any circle in particular
+ 
+<ICE-PHI:S1B-002#69:1:A>
+The circle is round
+ 
+<ICE-PHI:S1B-002#70:1:A>
+The very definition of a circle
+ 
+<ICE-PHI:S1B-002#71:1:A>
+Then the source is reason itself
+ 
+<ICE-PHI:S1B-002#72:1:A>
+It is <foreign> a priori </foreign> okay
+ 
+<ICE-PHI:S1B-002#73:1:A>
+So uh we have the first type of judgement an analytic <foreign> a priori </foreign> judgement
+ 
+<ICE-PHI:S1B-002#74:1:A>
+I don't think there is there is any uh great problem about analytic <foreign> a priori </foreign> judgement
+ 
+<ICE-PHI:S1B-002#75:1:A>
+Usually our definitions <,> are analytic <foreign> a priori </foreign> judgements okay
+ 
+<ICE-PHI:S1B-002#76:1:A>
+I don't think there is any much problem here
+ 
+<ICE-PHI:S1B-002#77:1:A>
+There 's also not much problem about the second one synthetic <foreign> a posteriori </foreign> judgement
+ 
+<ICE-PHI:S1B-002#78:1:A>
+Could you uhm explain it
+
+ <$J> 
+<ICE-PHI:S1B-002#79:1:J>
+Uhm Sir uhm right now the wall is green
+
+ <$A> 
+<ICE-PHI:S1B-002#80:1:A>
+The wall is green okay
+ 
+<ICE-PHI:S1B-002#81:1:A>
+The wall is green
+ 
+<ICE-PHI:S1B-002#82:1:A>
+Could you explain
+
+ <$J> 
+<ICE-PHI:S1B-002#83:1:J>
+Sir the predicate <unclear> words <unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-002#84:1:A>
+Uh uhm so and why is it correct
+
+ <$J> 
+<ICE-PHI:S1B-002#85:1:J>
+Uhm <unclear> words </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-002#86:1:A>
+Yes so you don't if I cross out <mention> green </mention> if you just look at the concept <mention> wall </mention> you would never have guessed that it 's green
+ 
+<ICE-PHI:S1B-002#87:1:A>
+So this is an expanding judgement
+ 
+<ICE-PHI:S1B-002#88:1:A>
+You add something new to your subject <mention> wall </mention> 
+ 
+<ICE-PHI:S1B-002#89:1:A>
+So this is synthetic okay
+ 
+<ICE-PHI:S1B-002#90:1:A>
+And if the concept of <mention> green </mention> is not derived only from the subject then where could we have gotten it
+ 
+<ICE-PHI:S1B-002#91:1:A>
+From experience and so the source is <foreign> a posteriori </foreign> not <foreign> a priori </foreign> <,> okay
+ 
+<ICE-PHI:S1B-002#92:1:A>
+So this an example of a synthetic judgement which is at the same time <foreign> a posteriori </foreign> 
+ 
+<ICE-PHI:S1B-002#93:1:A>
+Okay any questions
+ 
+<ICE-PHI:S1B-002#94:1:A>
+Now let me uhm could you give me examples of synthetic <foreign> a priori </foreign> <foreign> a posteriori </foreign> judgements
+ 
+<ICE-PHI:S1B-002#95:1:A>
+There should be many
+ 
+<ICE-PHI:S1B-002#96:1:A>
+Synthetic <foreign> a posteriori </foreign> judgements
+
+ <$K> 
+<ICE-PHI:S1B-002#97:1:K>
+Sir the bag is full
+
+ <$A> 
+<ICE-PHI:S1B-002#98:1:A>
+The bag is full yes
+ 
+<ICE-PHI:S1B-002#99:1:A>
+Another
+ 
+<ICE-PHI:S1B-002#100:1:A>
+Yes
+
+ <$L> 
+<ICE-PHI:S1B-002#101:1:L>
+The car is red
+
+ <$A> 
+<ICE-PHI:S1B-002#102:1:A>
+The car is red
+ 
+<ICE-PHI:S1B-002#103:1:A>
+Fine
+ 
+<ICE-PHI:S1B-002#104:1:A>
+Another <,,> 
+ 
+<ICE-PHI:S1B-002#105:1:A>
+Yes
+
+ <$M> 
+<ICE-PHI:S1B-002#106:1:M>
+The room is big
+
+ <$A> 
+<ICE-PHI:S1B-002#107:1:A>
+The room is big
+ 
+<ICE-PHI:S1B-002#108:1:A>
+Okay
+ 
+<ICE-PHI:S1B-002#109:1:A>
+Almost anything at at all that we talk about in everyday life I suppose is synthetic <foreign> a posteriori </foreign> judgement
+ 
+<ICE-PHI:S1B-002#110:1:A>
+Your our examples are very very basic examples
+ 
+<ICE-PHI:S1B-002#111:1:A>
+But when you are for example talking about talking about somebody else if you know what I mean by that
+ 
+<ICE-PHI:S1B-002#112:1:A>
+Uhm you are murmuring something or well
+ 
+<ICE-PHI:S1B-002#113:1:A>
+Whenever you are indulging in that you are uhm actually forming synthetic <foreign> a posteriori </foreign> judgements okay
+ 
+<ICE-PHI:S1B-002#114:1:A>
+So many judgements we do in ordinary life is synthetic <foreign> a posteriori </foreign> okay
+ 
+<ICE-PHI:S1B-002#115:1:A>
+When we are trying to define a concept most likely we are doing analytic <foreign> a priori </foreign> judgement okay
+ 
+<ICE-PHI:S1B-002#116:1:A>
+So these two are not problematic and so Immanuel Kant would center would focus his attention on the third type of judgement namely synthetic <foreign> a priori </foreign> judgement
+ 
+<ICE-PHI:S1B-002#117:1:A>
+Synthetic and so the predicate is not contained in the subject but <foreign> a priori </foreign> because the source of the expanding judgement the source of the new information is remarkably not experience but reason itself okay
+ 
+<ICE-PHI:S1B-002#118:1:A>
+Do you see the difference
+ 
+<ICE-PHI:S1B-002#119:1:A>
+I would not be surprised if the source is experience okay
+ 
+<ICE-PHI:S1B-002#120:1:A>
+But here the source is not experience the source is the mind itself
+ 
+<ICE-PHI:S1B-002#121:1:A>
+How is it that the mind is able from itself to give rise forth knowledge
+ 
+<ICE-PHI:S1B-002#122:1:A>
+A knowledge which is not taken from the subject only but rather is <,> outside of it added to it
+ 
+<ICE-PHI:S1B-002#123:1:A>
+Expanding making our knowledge grow and yet the source is the mind itself
+ 
+<ICE-PHI:S1B-002#124:1:A>
+Remarkable okay
+ 
+<ICE-PHI:S1B-002#125:1:A>
+But according to Immanuel Kant there are lots of examples of synthetic <foreign> a priori </foreign> judgement and in fact no theoretical science is ever without it
+ 
+<ICE-PHI:S1B-002#126:1:A>
+If you care to open your text once again on page eight <,,> 
+ 
+<ICE-PHI:S1B-002#127:1:A>
+Roman number five <,,> 
+ 
+<ICE-PHI:S1B-002#128:1:A>
+<quote> In all theoretical sciences of reason synthetical judgements <foreign> a priori </foreign> are contained as principles </quote> 
+ 
+<ICE-PHI:S1B-002#129:1:A>
+So you cannot encounter any science any theoretical discipline which does not have anything to do with synthetic <foreign> a priori </foreign> judgement
+ 
+<ICE-PHI:S1B-002#130:1:A>
+And so his examples are all from different disciplines
+ 
+<ICE-PHI:S1B-002#131:1:A>
+So the first one is from mathematics <,> <&> starts writing on the board </&> 
+ 
+<ICE-PHI:S1B-002#132:1:A>
+The second one is from the natural sciences <,> 
+ 
+<ICE-PHI:S1B-002#133:1:A>
+And finally the third one is from metaphysics
+ 
+<ICE-PHI:S1B-002#134:1:A>
+The intent of Immanuel Kant is to exhaust all sciences beyond the mathematical sciences mathematical mathematics beyond the mathematical sciences the natural sciences and metaphysics what other science is there
+ 
+<ICE-PHI:S1B-002#135:1:A>
+This second one is supposed to include uh such disciplines as uh biology zoology astronomy physics all of them are incorporated in number letter B okay
+ 
+<ICE-PHI:S1B-002#136:1:A>
+So let 's start with uh mathematics
+ 
+<ICE-PHI:S1B-002#137:1:A>
+His example is
+ 
+<ICE-PHI:S1B-002#138:1:A>
+Okay, explain what his example is
+
+ <$Z> 
+<ICE-PHI:S1B-002#139:1:Z> <X> <&> students answer in chorus </&> Seven plus five </X> 
+
+ <$A> 
+<ICE-PHI:S1B-002#140:1:A>
+Alright seven plus five is equal to twelve
+ 
+<ICE-PHI:S1B-002#141:1:A>
+Now before we uhm we uhm judge the correctness of Immanuel Kant 's intention let 's first try to find out for ourselves whether this is really a synthetic <foreign> a priori </foreign> judgement
+ 
+<ICE-PHI:S1B-002#142:1:A>
+First is this synthetic
+
+ <$N> 
+<ICE-PHI:S1B-002#143:1:N>
+Yes
+
+ <$A> 
+<ICE-PHI:S1B-002#144:1:A>
+Why <,,> 
+ 
+<ICE-PHI:S1B-002#145:1:A>
+Why
+ 
+<ICE-PHI:S1B-002#146:1:A>
+Yes
+
+ <$O> 
+<ICE-PHI:S1B-002#147:1:O>
+Because the predicate is not contained in the subject
+
+ <$A> 
+<ICE-PHI:S1B-002#148:1:A>
+Because the predicate is not contained in the subject
+ 
+<ICE-PHI:S1B-002#149:1:A>
+Could you tell me which is the subject
+
+ <$O> 
+<ICE-PHI:S1B-002#150:1:O>
+Seven plus five
+
+ <$A> 
+<ICE-PHI:S1B-002#151:1:A>
+<mention> Seven plus five </mention> is the subject and which is the predicate
+
+ <$Z> 
+<ICE-PHI:S1B-002#152:1:Z> <X> <&> students answer in chorus </&> Twelve </X> 
+
+ <$A> 
+<ICE-PHI:S1B-002#153:1:A>
+Twelve
+ 
+<ICE-PHI:S1B-002#154:1:A>
+<mention> Twelve </mention> is not contained in the subject <mention> seven plus five </mention> 
+ 
+<ICE-PHI:S1B-002#155:1:A>
+What is contained in the subject
+ 
+<ICE-PHI:S1B-002#156:1:A>
+<mention> Seven </mention> okay is contained in the subject <mention> plus </mention> is contained in the subject <mention> five </mention> is contained in the subject but not <mention> twelve </mention> 
+ 
+<ICE-PHI:S1B-002#157:1:A>
+So that if I say <mention> seven plus five contains seven </mention> then that 's an analytic judgement
+ 
+<ICE-PHI:S1B-002#158:1:A>
+If I say <mention> seven plus five </mention> has <mention> plus </mention> that 's an analytic judgement
+ 
+<ICE-PHI:S1B-002#159:1:A>
+If I say <mention> seven plus five </mention> has <mention> five </mention> that 's an analytic judgement
+ 
+<ICE-PHI:S1B-002#160:1:A>
+I just get it from the subject itself
+ 
+<ICE-PHI:S1B-002#161:1:A>
+But when I say <mention> seven plus five is equal to twelve </mention> according to Immanuel Kant I will need intuition
+ 
+<ICE-PHI:S1B-002#162:1:A>
+I will need intuition for me to be able to know that seven plus five is equal to twelve
+ 
+<ICE-PHI:S1B-002#163:1:A>
+We are so used to seven plus five is equal to twelve that we don't think about it anymore
+ 
+<ICE-PHI:S1B-002#164:1:A>
+But take the first that the child who is learning this mathematical formula for the first time okay
+ 
+<ICE-PHI:S1B-002#165:1:A>
+When presented with seven plus five is equal to question mark the child who is facing this problem for the first time would not have guessed that the answer is <mention> twelve </mention> 
+ 
+<ICE-PHI:S1B-002#166:1:A>
+I suppose he would use his fingers
+ 
+<ICE-PHI:S1B-002#167:1:A>
+I suppose he would use sticks
+ 
+<ICE-PHI:S1B-002#168:1:A>
+I suppose he would use dots or dashes okay and then afterwards he would count and counting them all he would arrive finally at the concept twelve okay
+ 
+<ICE-PHI:S1B-002#169:1:A>
+So <mention> twelve </mention> does not come from the subject itself
+ 
+<ICE-PHI:S1B-002#170:1:A>
+It is therefore synthetic judgement
+ 
+<ICE-PHI:S1B-002#171:1:A>
+But is it <foreign> a priori </foreign> or <foreign> a posteriori </foreign> <,,> 
+ 
+<ICE-PHI:S1B-002#172:1:A>
+Yes Mister <unclear> word </unclear> 
+
+ <$P> 
+<ICE-PHI:S1B-002#173:1:P>
+Sir uhm it is initially <foreign> a posteriori </foreign> 
+
+ <$A> 
+<ICE-PHI:S1B-002#174:1:A>
+It is initially <foreign> a posteriori </foreign> 
+ 
+<ICE-PHI:S1B-002#175:1:A>
+Very good
+
+ <$P> 
+<ICE-PHI:S1B-002#176:1:P>
+But then time goes on it it becomes it later evolves into <foreign> a priori </foreign> 
+
+ <$A> 
+<ICE-PHI:S1B-002#177:1:A>
+Alright but later it evolves into <foreign> a priori </foreign> 
+ 
+<ICE-PHI:S1B-002#178:1:A>
+When was it when it was still <foreign> a posteriori </foreign> 
+ 
+<ICE-PHI:S1B-002#179:1:A>
+When I was counting with my fingers when I was using sticks or apples or pebbles in counting them
+ 
+<ICE-PHI:S1B-002#180:1:A>
+But later on when I don't use any more of these and I just say seven plus five is equal to twelve this is already <foreign> a priori </foreign> judgement <,> okay
+ 
+<ICE-PHI:S1B-002#181:1:A>
+So all knowledge begins with experience but it does not necessarily follow that it arises from experience
+ 
+<ICE-PHI:S1B-002#182:1:A>
+Initially in the beginning I need experience but look at the power of our mind sooner or later we we draw from all that we experience and we generalize we universalize <,> we make our judgement necessary every time that you have seven added to five you will always have twelve
+ 
+<ICE-PHI:S1B-002#183:1:A>
+Necessity and universality and therefore you have an <foreign> a priori </foreign> and no longer an <foreign> a posteriori </foreign> judgement okay
+ 
+<ICE-PHI:S1B-002#184:1:A>
+So far so good <,> 
+ 
+<ICE-PHI:S1B-002#185:1:A>
+Now can we now move on to the natural sciences <,> 
+ 
+<ICE-PHI:S1B-002#186:1:A>
+Can you give me the first example of Kant <,,> 
+ 
+<ICE-PHI:S1B-002#187:1:A>
+What is Kant 's first example <,,> 
+ 
+<ICE-PHI:S1B-002#188:1:A>
+Yes <&> unclear answer by a student </&> 
+ 
+<ICE-PHI:S1B-002#189:1:A>
+Yes but how is it uh expressed in our text <,> 
+ 
+<ICE-PHI:S1B-002#190:1:A>
+Have you found it
+ 
+<ICE-PHI:S1B-002#191:1:A>
+Yes
+
+ <$Q> 
+<ICE-PHI:S1B-002#192:1:Q> <&> very faint voice </&> <quote> In all changes of the material world the quantity of matter always remains unchanged </quote> 
+
+ <$A> 
+<ICE-PHI:S1B-002#193:1:A>
+Do you see that class <,> okay
+ 
+<ICE-PHI:S1B-002#194:1:A>
+<quote> In all changes of the material world the quantity of matter always remains unchanged </quote> 
+ 
+<ICE-PHI:S1B-002#195:1:A>
+Or in other words the more popular version of it is
+ 
+<ICE-PHI:S1B-002#196:1:A>
+Could you repeat that
+
+ <$Q> 
+<ICE-PHI:S1B-002#197:1:Q> <quote> Matter can neither be created nor destroyed </quote> 
+
+ <$A> 
+<ICE-PHI:S1B-002#198:1:A>
+<quote> Matter can neither be created nor destroyed </quote> 
+ 
+<ICE-PHI:S1B-002#199:1:A>
+Okay class that 's our first example
+ 
+<ICE-PHI:S1B-002#200:1:A>
+<quote> Matter can neither be <,> created nor destroyed </quote> <,> 
+ 
+<ICE-PHI:S1B-002#201:1:A>
+Let us test this judgement
+ 
+<ICE-PHI:S1B-002#202:1:A>
+First is it synthetic or analytic <,,> 
+ 
+<ICE-PHI:S1B-002#203:1:A>
+Why synthetic <unclear> words </unclear> 
+ 
+<ICE-PHI:S1B-002#204:1:A>
+Prove it prove it
+ 
+<ICE-PHI:S1B-002#205:1:A>
+Is it synthetic or analytic yes
+
+ <$?> 
+<ICE-PHI:S1B-002#206:1:?> Sir because if you take off the predicate you 're just going to <unclear> words </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-002#207:1:A>
+Alright fine so if you remove the predicate what is your <.> predi </.> what is your subject anyway
+ 
+<ICE-PHI:S1B-002#208:1:A>
+Your subject is <mention> matter </mention> 
+ 
+<ICE-PHI:S1B-002#209:1:A>
+Does the idea of <mention> matter </mention> tell you immediately that it can neither be created nor destroyed
+ 
+<ICE-PHI:S1B-002#210:1:A>
+No it cannot reveal to you the predicate the subject does not reveal to you the predicate and so the predicate you must have taken from elsewhere not from the subject
+ 
+<ICE-PHI:S1B-002#211:1:A>
+Okay so it is not analytic
+ 
+<ICE-PHI:S1B-002#212:1:A>
+It is synthetic
+ 
+<ICE-PHI:S1B-002#213:1:A>
+Very good 
+
+ </I> 

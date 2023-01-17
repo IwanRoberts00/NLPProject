@@ -1,0 +1,1629 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-030#1:1:A>
+<&> missing words </&> Yesterday <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-030#2:1:B>
+Nothing <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#3:1:A>
+Nothing
+
+ <$B> 
+<ICE-PHI:S1A-030#4:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#5:1:A>
+Did you watch T V
+
+ <$B> 
+<ICE-PHI:S1A-030#6:1:B>
+Yeah I watched uh <mention> You 've Got Mail </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-030#7:1:A>
+Really
+ 
+<ICE-PHI:S1A-030#8:1:A>
+Me too
+
+ <$B> 
+<ICE-PHI:S1A-030#9:1:B>
+That 's good
+
+ <$A> 
+<ICE-PHI:S1A-030#10:1:A>
+That was one P M yesterday right
+
+ <$B> 
+<ICE-PHI:S1A-030#11:1:B>
+Yeah uh H B O <{> <[> right </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#12:1:A>
+<[> Yeah </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-030#13:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#14:1:A>
+I love that movie
+
+ <$B> 
+<ICE-PHI:S1A-030#15:1:B>
+Yeah actually I remembered you <O> laughter </O> while I was watching that movie
+
+ <$A> 
+<ICE-PHI:S1A-030#16:1:A>
+Yeah we watched it together when was this
+
+ <$B> 
+<ICE-PHI:S1A-030#18:1:B>
+Uh that <{> <[> was </[> like
+
+ <$A> 
+<ICE-PHI:S1A-030#19:1:A>
+<[> More </[> </{> 
+ 
+<ICE-PHI:S1A-030#20:1:A>
+More than a year ago I think
+
+ <$B> 
+<ICE-PHI:S1A-030#21:1:B>
+Yeah more than a year ago and then we cried remember <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#22:1:A>
+Yeah but I still cried yesterday
+
+ <$B> 
+<ICE-PHI:S1A-030#23:1:B>
+Really
+
+ <$A> 
+<ICE-PHI:S1A-030#24:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#25:1:B>
+<{> <[> There </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#26:1:A>
+<[> It 's a </[> </{> touching movie
+
+ <$B> 
+<ICE-PHI:S1A-030#27:1:B>
+Yeah
+ 
+<ICE-PHI:S1A-030#28:1:B>
+So you like Meg Ryan and
+
+ <$A> 
+<ICE-PHI:S1A-030#29:1:A>
+Tom Hanks
+
+ <$B> 
+<ICE-PHI:S1A-030#30:1:B>
+Tom Hanks
+
+ <$A> 
+<ICE-PHI:S1A-030#31:1:A>
+Well well they 're okay
+ 
+<ICE-PHI:S1A-030#32:1:A>
+I like Meg Ryan
+ 
+<ICE-PHI:S1A-030#33:1:A>
+She 's a good actress
+
+ <$B> 
+<ICE-PHI:S1A-030#34:1:B>
+Uh yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#35:1:A>
+Well Tom Hanks is a good actor too but he 's not really my favorite
+
+ <$B> 
+<ICE-PHI:S1A-030#36:1:B>
+Oh how come
+
+ <$A> 
+<ICE-PHI:S1A-030#37:1:A>
+I don't know
+ 
+<ICE-PHI:S1A-030#38:1:A>
+I think he 's too old
+
+ <$B> 
+<ICE-PHI:S1A-030#39:1:B>
+Really 
+
+
+
+<ICE-PHI:S1A-030#> I don't know
+
+ <$A> 
+<ICE-PHI:S1A-030#40:1:A>
+For Meg Ryan
+
+ <$B> 
+<ICE-PHI:S1A-030#41:1:B>
+Oh yeah for Meg Ryan
+ 
+<ICE-PHI:S1A-030#42:1:B>
+But you know
+
+ <$A> 
+<ICE-PHI:S1A-030#43:1:A>
+But
+
+ <$B> 
+<ICE-PHI:S1A-030#44:1:B>
+<{1> <[1> He can play </[1> any role <{2> <[2> right </2> 
+
+ <$A> 
+<ICE-PHI:S1A-030#45:1:A>
+<[1> He </[1> </{1> 
+ 
+<ICE-PHI:S1A-030#46:1:A>
+<[2> Yeah </[2> </{2> 
+ 
+<ICE-PHI:S1A-030#47:1:A>
+And they make a good couple
+ 
+<ICE-PHI:S1A-030#48:1:A>
+I don't know they I don't know they <{> <[> just </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#49:1:B>
+<[> But </[> </{> I really don't like the way Meg Ryan walks
+
+ <$A> 
+<ICE-PHI:S1A-030#50:1:A>
+Yeah she she walks like a guy
+
+ <$B> 
+<ICE-PHI:S1A-030#51:1:B>
+Yeah <{> <{> I know </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#52:1:A>
+<[> She doesn't </[> </{> have <{> <[> any </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#53:1:B>
+<[> The </[> </{> grace
+
+ <$A> 
+<ICE-PHI:S1A-030#54:1:A>
+Yeah
+ 
+<ICE-PHI:S1A-030#55:1:A>
+She should go to an etiquette school
+
+ <$B> 
+<ICE-PHI:S1A-030#56:1:B>
+Oh yes <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#57:1:A>
+And learn how to walk <{> <[> properly </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#58:1:B>
+<[> You wanna </[> </{> teach her how
+
+ <$A> 
+<ICE-PHI:S1A-030#59:1:A>
+But I like her clothes I mean <{1> <[1> the way </[1> she she dresses <{2> <[2> up </[2> and
+
+ <$B> 
+<ICE-PHI:S1A-030#60:1:B>
+<[1> Uh yeah </[1> </{1> 
+ 
+<ICE-PHI:S1A-030#61:1:B>
+<[2> Up </[2> </{2> 
+ 
+<ICE-PHI:S1A-030#62:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#63:1:A>
+You know I mean <{> <[> she 's slim anyway </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#64:1:B>
+<[> Or is it like </[> </{> 
+ 
+<ICE-PHI:S1A-030#65:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#66:1:A>
+So she could wear anything she wants
+
+ <$B> 
+<ICE-PHI:S1A-030#67:1:B>
+Comfy clothes
+
+ <$A> 
+<ICE-PHI:S1A-030#68:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#69:1:B>
+Actually <,> we 've watched a lot of movie together right
+
+ <$A> 
+<ICE-PHI:S1A-030#70:1:A>
+Yeah <,> 
+ 
+<ICE-PHI:S1A-030#71:1:A>
+I like her hair
+
+ <$B> 
+<ICE-PHI:S1A-030#72:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-030#73:1:A>
+I mean even if she doesn't brush <{> <[> her hair </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#74:1:B>
+<[> Yeah I know </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-030#75:1:A>
+It 's the <{> <[> I don't know </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#76:1:B>
+<[> It looks </[> </{> good on her
+
+ <$A> 
+<ICE-PHI:S1A-030#77:1:A>
+Yeah
+ 
+<ICE-PHI:S1A-030#78:1:A>
+She 's the only actress I know who doesn't really
+
+ <$B> 
+<ICE-PHI:S1A-030#79:1:B>
+Comb her hair
+
+ <$A> 
+<ICE-PHI:S1A-030#80:1:A>
+<{> <[> Yeah <O> laughter </O> </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#81:1:B>
+<[> Not really </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-030#82:1:A>
+I don't know
+ 
+<ICE-PHI:S1A-030#83:1:A>
+I just like the way she dresses up and you know her hairstyle
+
+ <$B> 
+<ICE-PHI:S1A-030#84:1:B>
+But uh compared to what 's the first movie they 've done together
+
+ <$A> 
+<ICE-PHI:S1A-030#85:1:A>
+Uhm <mention> Sleepless in <{> <[> Seattle </[> </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-030#86:1:B>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-030#87:1:B>
+Which one do you like
+
+ <$A> 
+<ICE-PHI:S1A-030#88:1:A>
+I don't know uh I think I forgot the <{> <[> story </[> of <mention> Sleepless </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-030#89:1:B>
+<[> Story </[> </{> 
+ 
+<ICE-PHI:S1A-030#90:1:B>
+No it 's like uh <mention> Love Affair </mention> right
+ 
+<ICE-PHI:S1A-030#91:1:B>
+Is that
+
+ <$A> 
+<ICE-PHI:S1A-030#92:1:A>
+No but I think that uhm yeah I think that Tom Hanks already had a kid
+
+ <$B> 
+<ICE-PHI:S1A-030#93:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-030#94:1:A>
+And his wife passed away and I think his son wrote uhm wrote a letter to Meg Ryan
+
+ <$B> 
+<ICE-PHI:S1A-030#95:1:B>
+Was it <,> wrote a letter or called <,> called the station or whatever
+
+ <$A> 
+<ICE-PHI:S1A-030#96:1:A>
+Oh yeah yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#97:1:B>
+Right
+
+ <$A> 
+<ICE-PHI:S1A-030#98:1:A>
+That 's right <{> <[> and then and then </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#99:1:B>
+<[> And then it was like </[> </{> that old movie right <mention> Love Affair </mention> 
+ 
+<ICE-PHI:S1A-030#100:1:B>
+You watched <{> <[> that </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#101:1:A>
+<[> Uhm </[> </{> yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#102:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#103:1:A>
+Uhm Warren Beatty <{> <[> or whatever </[> and Annette Bening
+
+ <$B> 
+<ICE-PHI:S1A-030#104:1:B>
+<[> Uh-huh </[> </{> 
+ 
+<ICE-PHI:S1A-030#105:1:B>
+Bening
+
+ <$A> 
+<ICE-PHI:S1A-030#106:1:A>
+But I like the <mention> Love Affair </mention> better
+
+ <$B> 
+<ICE-PHI:S1A-030#107:1:B>
+Better
+
+ <$A> 
+<ICE-PHI:S1A-030#108:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#109:1:B>
+Original
+ 
+<ICE-PHI:S1A-030#110:1:B>
+<{> <[> Still </[> the best
+
+ <$A> 
+<ICE-PHI:S1A-030#111:1:A>
+<[> Yes </[> </{> 
+ 
+<ICE-PHI:S1A-030#112:1:A>
+And the ending is like it 's the same thing because they they were supposed to meet at the <,> no <{> <[> at the </[> <.> Empi </.> Empire State Building 
+
+ <$B> 
+<ICE-PHI:S1A-030#113:1:B>
+<[> At the </[> </{> 
+ 
+<ICE-PHI:S1A-030#114:1:B>
+Was it <.> ye </.> yeah <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#115:1:A>
+I don't know
+
+ <$B> 
+<ICE-PHI:S1A-030#116:1:B>
+Emperor or was it <,> 
+
+ <$A> 
+<ICE-PHI:S1A-030#117:1:A>
+<{> <[> Which one </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#118:1:B>
+<[> I don't </[> </{> know
+ 
+<ICE-PHI:S1A-030#119:1:B>
+No no yeah I think <{> <[> Emperor </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#120:1:A>
+<[> It was </[> </{> in New York
+
+ <$B> 
+<ICE-PHI:S1A-030#121:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#122:1:A>
+So I <{> <[> don't know </[> <,> 
+
+ <$B> 
+<ICE-PHI:S1A-030#123:1:B>
+<[> Emperor State Building </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-030#124:1:A>
+I don't remember it that much because it was like years ago
+ 
+<ICE-PHI:S1A-030#125:1:A>
+I think Sea uhm <{> <[> <mention> Sleepless in Seattle </mention> </[> was shown uhm in nineteen ninety-three
+
+ <$B> 
+<ICE-PHI:S1A-030#126:1:B>
+<[> <mention> Sleepless </mention> yeah </[> </{> 
+ 
+<ICE-PHI:S1A-030#127:1:B>
+Really
+
+ <$A> 
+<ICE-PHI:S1A-030#128:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#129:1:B>
+I uh where
+
+ <$A> 
+<ICE-PHI:S1A-030#130:1:A>
+I <&> glitch sound </&> 
+
+ <$B> 
+<ICE-PHI:S1A-030#131:1:B>
+H B O
+
+ <$A> 
+<ICE-PHI:S1A-030#132:1:A>
+No the the first screening
+
+ <$B> 
+<ICE-PHI:S1A-030#133:1:B>
+Uh okay
+
+ <$A> 
+<ICE-PHI:S1A-030#134:1:A>
+Was shown in nineteen ninety-three
+
+ <$B> 
+<ICE-PHI:S1A-030#135:1:B>
+That was a long time ago
+
+ <$A> 
+<ICE-PHI:S1A-030#136:1:A>
+Yeah seven years ago
+ 
+<ICE-PHI:S1A-030#137:1:A>
+So what else did you do yesterday
+
+ <$B> 
+<ICE-PHI:S1A-030#138:1:B>
+Nothing much <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#139:1:A>
+Nothing much
+
+ <$B> 
+<ICE-PHI:S1A-030#140:1:B>
+Ate slept
+
+ <$A> 
+<ICE-PHI:S1A-030#141:1:A>
+Did you have you watched <mention> Erin Brockovich </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-030#142:1:B>
+Not yet
+
+ <$A> 
+<ICE-PHI:S1A-030#143:1:A>
+Not yet
+
+ <$B> 
+<ICE-PHI:S1A-030#144:1:B>
+Yeah
+ 
+<ICE-PHI:S1A-030#145:1:B>
+Is it a good movie
+
+ <$A> 
+<ICE-PHI:S1A-030#146:1:A>
+Yeah I watched it already but it 's kinda dragging
+
+ <$B> 
+<ICE-PHI:S1A-030#147:1:B>
+It is
+
+ <$A> 
+<ICE-PHI:S1A-030#148:1:A>
+<{> <[> Yeah </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#149:1:B>
+<[> Do you </[> </{> like Julia Roberts
+
+ <$A> 
+<ICE-PHI:S1A-030#150:1:A>
+She 's a good actress yeah but <,> the story of <mention> Erin Brockovich </mention> was for me uh you know boring
+
+ <$B> 
+<ICE-PHI:S1A-030#151:1:B>
+As in boring
+
+ <$A> 
+<ICE-PHI:S1A-030#152:1:A>
+Because they featured
+
+ <$B> 
+<ICE-PHI:S1A-030#153:1:B>
+So bland was it
+
+ <$A> 
+<ICE-PHI:S1A-030#154:1:A>
+No it was too detailed
+
+ <$B> 
+<ICE-PHI:S1A-030#155:1:B>
+Uh okay
+
+ <$A> 
+<ICE-PHI:S1A-030#156:1:A>
+So it was like they showed every detail <{> <[> and </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#157:1:B>
+<[> As it </[> </{> happened
+
+ <$A> 
+<ICE-PHI:S1A-030#158:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#159:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#160:1:A>
+I don't know I found it dragging and boring
+
+ <$B> 
+<ICE-PHI:S1A-030#161:1:B>
+Compared to her other movies
+
+ <$A> 
+<ICE-PHI:S1A-030#162:1:A>
+Yeah I guess because it 's not a love <{> <[> story or something </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#163:1:B>
+<[> Story yeah I know </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-030#164:1:A>
+It wasn't really amusing or whatever so but that was okay
+ 
+<ICE-PHI:S1A-030#165:1:A>
+I just can't believe that it 's one of the it it was number one <,> <{1> <[1> in the States for a couple </[1> of weeks <{2> <[2> yeah </[2> 
+
+ <$B> 
+<ICE-PHI:S1A-030#166:1:B>
+<[1> In the States uh in U S </[1> </{1> 
+ 
+<ICE-PHI:S1A-030#167:1:B>
+<[2> Uh-huh </[2> </{2> 
+
+ <$A> 
+<ICE-PHI:S1A-030#168:1:A>
+I couldn't imagine it to be that I mean I guess she played a good she portrayed a good role or whatever
+
+ <$B> 
+<ICE-PHI:S1A-030#169:1:B>
+Uh uhm
+ 
+<ICE-PHI:S1A-030#170:1:B>
+Was it was she sexy there
+
+ <$A> 
+<ICE-PHI:S1A-030#171:1:A>
+Yeah more of slutty
+
+ <$B> 
+<ICE-PHI:S1A-030#172:1:B>
+Oh okay <O> chuckle </O> slutty type
+
+ <$A> 
+<ICE-PHI:S1A-030#173:1:A>
+Yeah 'cause she was like wearing really skimpy clothes
+
+ <$B> 
+<ICE-PHI:S1A-030#174:1:B>
+Why
+ 
+<ICE-PHI:S1A-030#175:1:B>
+Her
+
+ <$A> 
+<ICE-PHI:S1A-030#176:1:A>
+I don't know maybe that that 's how <{1> <[1> the real Erin </[1> Brockovich <{2> <[2> dresses </[2> up
+
+ <$B> 
+<ICE-PHI:S1A-030#177:1:B>
+<[1> How Erin </[1> </{1> 
+ 
+<ICE-PHI:S1A-030#178:1:B>
+<[2> <.> Dres </.> yeah </[2> </{2> 
+
+ <$A> 
+<ICE-PHI:S1A-030#179:1:A>
+But then I don't know <,> and I guess it was in the eighties <{> <[> so </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#180:1:B>
+<[> Uh-huh </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-030#181:1:A>
+The colors were like <{> <[> she wore pink </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#182:1:B>
+<[> Striking </[> </{> flashing
+
+ <$A> 
+<ICE-PHI:S1A-030#183:1:A>
+Yeah she <.> wo </.> I remember she wore a pink-top I think
+
+ <$B> 
+<ICE-PHI:S1A-030#184:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#185:1:A>
+And I don't know it 's just too colorful to <,> yeah I don't know
+
+ <$B> 
+<ICE-PHI:S1A-030#186:1:B>
+Colorful to look at
+
+ <$A> 
+<ICE-PHI:S1A-030#187:1:A>
+Uh yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#188:1:B>
+So are you going to watch uh M I Two 
+
+ <$A> 
+<ICE-PHI:S1A-030#189:1:A>
+What 's that
+
+ <$B> 
+<ICE-PHI:S1A-030#190:1:B>
+Is it <mention> Mission Impossible </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-030#191:1:A>
+Oh yeah that one yeah I think it 's a good movie
+
+ <$B> 
+<ICE-PHI:S1A-030#192:1:B>
+It is
+
+ <$A> 
+<ICE-PHI:S1A-030#193:1:A>
+I saw the preview in M T V
+
+ <$B> 
+<ICE-PHI:S1A-030#194:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#195:1:A>
+How did how they did the movie
+
+ <$B> 
+<ICE-PHI:S1A-030#196:1:B>
+When is it going to be shown
+
+ <$A> 
+<ICE-PHI:S1A-030#197:1:A>
+I don't know probably in two weeks or something
+
+ <$B> 
+<ICE-PHI:S1A-030#198:1:B>
+Uh okay I might watch the premiere night
+
+ <$A> 
+<ICE-PHI:S1A-030#199:1:A>
+I think it 's a good movie because well Tom Cruise really looks <{> <[> good </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#200:1:B>
+<[> Good </[> </{> <O> laughter </O> understatement
+
+ <$A> 
+<ICE-PHI:S1A-030#201:1:A>
+And he really prepared <{> <[> for </[> it <,> 
+
+ <$B> 
+<ICE-PHI:S1A-030#202:1:B>
+<[> Uh-huh </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-030#203:1:A>
+I saw the preview and it was really you know okay
+
+ <$B> 
+<ICE-PHI:S1A-030#204:1:B>
+Uh-huh I think the director is uh Asian
+
+ <$A> 
+<ICE-PHI:S1A-030#205:1:A>
+Oh yeah he 's <,> like Chinese
+
+ <$B> 
+<ICE-PHI:S1A-030#206:1:B>
+Chinese yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#207:1:A>
+He was the director of <mention> Face Off </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-030#208:1:B>
+<mention> Face Off </mention> uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#209:1:A>
+And I mean <mention> Face Off </mention> was really <{> <[> good </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#210:1:B>
+<[> Good </[> </{> uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#211:1:A>
+I mean I really liked it
+ 
+<ICE-PHI:S1A-030#212:1:A>
+I watched it <,> <{> <[> for like </[> four times already
+
+ <$B> 
+<ICE-PHI:S1A-030#213:1:B>
+<[> I think </[> </{> five times
+
+ <$A> 
+<ICE-PHI:S1A-030#215:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#216:1:B>
+Even in H B O it was on <{> <[> right </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#217:1:A>
+<[> Yeah </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-030#218:1:B>
+Yeah I think <,> uh Tom Cruise really uh had him as his <.> pers </.> personal choice
+
+ <$A> 
+<ICE-PHI:S1A-030#219:1:A>
+Yeah
+ 
+<ICE-PHI:S1A-030#220:1:A>
+Well he 's I mean it 's really I think it 's really good
+ 
+<ICE-PHI:S1A-030#221:1:A>
+It 's like uhm James Bond or something
+
+ <$B> 
+<ICE-PHI:S1A-030#222:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-030#223:1:A>
+You know
+ 
+<ICE-PHI:S1A-030#224:1:A>
+I 'm probably going to watch it also
+ 
+<ICE-PHI:S1A-030#225:1:A>
+Let 's watch it together
+
+ <$B> 
+<ICE-PHI:S1A-030#226:1:B>
+Uh no I might watch the premiere so you know
+
+ <$A> 
+<ICE-PHI:S1A-030#227:1:A>
+Oh you 've got a lot of money <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-030#228:1:A>
+I wouldn't watch a premiere
+
+ <$B> 
+<ICE-PHI:S1A-030#229:1:B>
+I know I have a date actually
+
+ <$A> 
+<ICE-PHI:S1A-030#230:1:A>
+Oh so he 's going to pay for the ticket okay
+
+ <$B> 
+<ICE-PHI:S1A-030#231:1:B>
+So there
+ 
+<ICE-PHI:S1A-030#232:1:B>
+Why don't you watch it with Kerwin <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-030#233:1:B>
+I 'm just kidding
+
+ <$A> 
+<ICE-PHI:S1A-030#234:1:A>
+Well I don't know
+ 
+<ICE-PHI:S1A-030#235:1:A>
+We don't really watch premiere nights
+ 
+<ICE-PHI:S1A-030#236:1:A>
+I think that you know why should I why should I <{1> <[1> spend </[1> like three times <{2> <[2> the </[2> uh the
+
+ <$B> 
+<ICE-PHI:S1A-030#237:1:B>
+<[1> Spend </[1> </{1> 
+ 
+<ICE-PHI:S1A-030#238:1:B>
+<[2> Yeah </[2> </{2> 
+ 
+<ICE-PHI:S1A-030#239:1:B>
+Amount
+
+ <$A> 
+<ICE-PHI:S1A-030#240:1:A>
+Yeah amount
+
+ <$B> 
+<ICE-PHI:S1A-030#241:1:B>
+Uh-huh <,> when you can
+
+ <$A> 
+<ICE-PHI:S1A-030#242:1:A>
+When I can <{1> <[1> watch </[1> the movie <{2> <[2> after </[2> like a week
+
+ <$B> 
+<ICE-PHI:S1A-030#243:1:B>
+<[1> Watch </[1> </{1> 
+ 
+<ICE-PHI:S1A-030#244:1:B>
+<[2> Cheaper </[2> </{2> 
+ 
+<ICE-PHI:S1A-030#245:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#246:1:A>
+Like sometimes they the premiere night is just you know one week away from the original
+
+ <$B> 
+<ICE-PHI:S1A-030#247:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-030#248:1:A>
+Date of uhm
+
+ <$B> 
+<ICE-PHI:S1A-030#249:1:B>
+Showing
+
+ <$A> 
+<ICE-PHI:S1A-030#250:1:A>
+Showing <O> chuckle </O> 
+
+ <$B> 
+<ICE-PHI:S1A-030#251:1:B>
+Uh-huh <,> showing <indig> e </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-030#252:1:A>
+Yeah <O> chuckle </O> 
+
+ <$B> 
+<ICE-PHI:S1A-030#253:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#254:1:A>
+So you know I think that it 's better to wait <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-030#255:1:B>
+<{> <[> Well </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#256:1:A>
+<[> So that </[> </{> you could save some money
+
+ <$B> 
+<ICE-PHI:S1A-030#257:1:B>
+Oh yeah <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-030#258:1:B>
+So what else uh
+
+ <$A> 
+<ICE-PHI:S1A-030#259:1:A>
+I don't know
+ 
+<ICE-PHI:S1A-030#260:1:A>
+Have you watched did you watch <mention> Hanging Up </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-030#261:1:B>
+Uh nope
+ 
+<ICE-PHI:S1A-030#262:1:B>
+Was it nice
+
+ <$A> 
+<ICE-PHI:S1A-030#263:1:A>
+I heard that it 's it was kinda boring also
+
+ <$B> 
+<ICE-PHI:S1A-030#264:1:B>
+<mention> Hanging Up </mention> starring <,> 
+
+ <$A> 
+<ICE-PHI:S1A-030#265:1:A>
+Meg <{> <[> Ryan </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#266:1:B>
+<[> Meg </[> </{> Ryan and
+
+ <$A> 
+<ICE-PHI:S1A-030#267:1:A>
+Diane <{> <[> Keaton </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#268:1:B>
+<[> Liza </[> </{> <indig> ay </indig> no
+
+ <$A> 
+<ICE-PHI:S1A-030#269:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#270:1:B>
+Liza Kudrow
+
+ <$A> 
+<ICE-PHI:S1A-030#271:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#272:1:B>
+Uh okay
+
+ <$A> 
+<ICE-PHI:S1A-030#273:1:A>
+The three of them
+
+ <$B> 
+<ICE-PHI:S1A-030#274:1:B>
+Uh oh yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#275:1:A>
+A friend of mine told me that <{> <[> uhm </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#276:1:B>
+<[> Uh uhm </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-030#277:1:A>
+It it was it was too much it it focused too much on Meg Ryan
+
+ <$B> 
+<ICE-PHI:S1A-030#278:1:B>
+Uh-huh why
+
+ <$A> 
+<ICE-PHI:S1A-030#279:1:A>
+I don't know
+
+ <$B> 
+<ICE-PHI:S1A-030#280:1:B>
+What is the plot all about
+
+ <$A> 
+<ICE-PHI:S1A-030#281:1:A>
+Uh I have no idea just some I don't know I have no idea
+
+ <$B> 
+<ICE-PHI:S1A-030#282:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-030#283:1:A>
+And so I didn't really want to watch it
+
+ <$B> 
+<ICE-PHI:S1A-030#284:1:B>
+I think it 's more like a drama type not really a comedy type
+
+ <$A> 
+<ICE-PHI:S1A-030#285:1:A>
+Oh yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#286:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#287:1:A>
+Probably
+
+ <$B> 
+<ICE-PHI:S1A-030#288:1:B>
+So <{> <[> there </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#289:1:A>
+<[> I </[> </{> don't know
+ 
+<ICE-PHI:S1A-030#290:1:A>
+I 'll ask my friend how it was <,> 
+
+ <$B> 
+<ICE-PHI:S1A-030#291:1:B>
+So what else would you like to watch this coming <,> <{> <[> July </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#292:1:A>
+<[> Wednesday </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-030#293:1:B>
+Yeah Wednesday June I don't know
+
+ <$A> 
+<ICE-PHI:S1A-030#294:1:A>
+I don't know
+ 
+<ICE-PHI:S1A-030#295:1:A>
+What else is good
+ 
+<ICE-PHI:S1A-030#296:1:A>
+What else is coming out
+
+ <$B> 
+<ICE-PHI:S1A-030#297:1:B>
+<mention> Gladiator </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-030#298:1:A>
+I heard I heard <{> <[> that </[> is good
+
+ <$B> 
+<ICE-PHI:S1A-030#299:1:B>
+<[> Was it </[> </{> 
+ 
+<ICE-PHI:S1A-030#300:1:B>
+Uh-huh it is
+
+ <$A> 
+<ICE-PHI:S1A-030#301:1:A>
+Yeah <{> <[> it 's not yet showing right </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#302:1:B>
+<[> How about <mention> Battlefield </[> </{> Earth </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-030#303:1:A>
+Which one is that
+
+ <$B> 
+<ICE-PHI:S1A-030#304:1:B>
+Starring I 'm not sure starring Arnold is it
+
+ <$A> 
+<ICE-PHI:S1A-030#305:1:A>
+Arnold
+
+ <$B> 
+<ICE-PHI:S1A-030#306:1:B>
+I 'm not sure
+
+ <$A> 
+<ICE-PHI:S1A-030#307:1:A>
+No it 's John <{> <[> Travolta </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#308:1:B>
+<[> John Travolta </[> </{> yeah yeah <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#309:1:A>
+I don't know
+ 
+<ICE-PHI:S1A-030#310:1:A>
+I just heard it over the radio
+
+ <$B> 
+<ICE-PHI:S1A-030#311:1:B>
+Yeah and also U Five Seven One 
+
+ <$A> 
+<ICE-PHI:S1A-030#312:1:A>
+<{> <[> What 's that </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#313:1:B>
+<[> I think </[> </{> that 's a good movie too
+ 
+<ICE-PHI:S1A-030#314:1:B>
+I don't know Mo Twister just said that over the radio <&> speaker A laughs </&> 
+
+ <$A> 
+<ICE-PHI:S1A-030#315:1:A>
+My friend watched uhm
+
+ <$B> 
+<ICE-PHI:S1A-030#316:1:B>
+How about Tagalog films <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#317:1:A>
+Oh no I don't watch Tagalog films I mean not in the movies
+
+ <$B> 
+<ICE-PHI:S1A-030#318:1:B>
+Movie house
+
+ <$A> 
+<ICE-PHI:S1A-030#319:1:A>
+Yeah not in the movie house
+ 
+<ICE-PHI:S1A-030#320:1:A>
+I 'd <{> <[> I </[> rather rent it
+
+ <$B> 
+<ICE-PHI:S1A-030#321:1:B>
+<[> Uh-huh </[> </{> 
+ 
+<ICE-PHI:S1A-030#322:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#323:1:A>
+I mean <,> what do you watch
+
+ <$B> 
+<ICE-PHI:S1A-030#324:1:B>
+Uh-huh uh-huh
+ 
+<ICE-PHI:S1A-030#325:1:B>
+Same old plot right
+
+ <$A> 
+<ICE-PHI:S1A-030#326:1:A>
+Yeah and you know not that I I don't patronize uhm <{> <[> Filipino movies </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#327:1:B>
+<[> Filipino movies </[> </{> <indig> ek </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-030#328:1:A>
+It 's just that you know <,> sometimes
+
+ <$B> 
+<ICE-PHI:S1A-030#329:1:B>
+It 's <{> <[> not </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#330:1:A>
+<[> I </[> </{> mean most of the time
+
+ <$B> 
+<ICE-PHI:S1A-030#331:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#332:1:A>
+The movies which the Filipino movies which come out are not that good
+ 
+<ICE-PHI:S1A-030#333:1:A>
+They 're not worth seeing you know
+
+ <$B> 
+<ICE-PHI:S1A-030#334:1:B>
+Uh uhm I know what you mean
+
+ <$A> 
+<ICE-PHI:S1A-030#335:1:A>
+It 's like <,> it 's like the same story all <{> <[> over again </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#336:1:B>
+<[> Same theme </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-030#337:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#338:1:B>
+Same plot
+
+ <$A> 
+<ICE-PHI:S1A-030#339:1:A>
+There 's always action
+
+ <$B> 
+<ICE-PHI:S1A-030#340:1:B>
+Yeah action
+
+ <$A> 
+<ICE-PHI:S1A-030#341:1:A>
+There 's <{> <[> always a love </[> love interest
+
+ <$B> 
+<ICE-PHI:S1A-030#342:1:B>
+<[> Drama </[> </{> 
+ 
+<ICE-PHI:S1A-030#343:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#344:1:A>
+<{> <[> What else </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#345:1:B>
+<[> Have you </[> </{> seen the trailer the one of Angelu and Diether
+
+ <$A> 
+<ICE-PHI:S1A-030#346:1:A>
+Oh <{> <[> my God </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#347:1:B>
+<[> Oh my gosh </[> </{> <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#348:1:A>
+I can't believe it
+ 
+<ICE-PHI:S1A-030#349:1:A>
+It 's I don't know I just saw it last night
+
+ <$B> 
+<ICE-PHI:S1A-030#350:1:B>
+Yikes
+
+ <$A> 
+<ICE-PHI:S1A-030#351:1:A>
+I I couldn't believe it
+ 
+<ICE-PHI:S1A-030#352:1:A>
+I saw them on T V that 's <,> <{> <[> that 's <.> wh </.> </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#353:1:B>
+<[> But I </[> </{> think the plot is kinda <,> 
+
+ <$A> 
+<ICE-PHI:S1A-030#354:1:A>
+I don't know
+ 
+<ICE-PHI:S1A-030#355:1:A>
+<{> <[> I should </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#356:1:B>
+<[> Surreal </[> </{> isn't it 
+
+ <$A> 
+<ICE-PHI:S1A-030#357:1:A>
+Probably but I don't really know what it 's about so you know I can't <,> judge the movie <{> <[> yet </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#358:1:B>
+<[> Yeah </[> </{> we 're not really <{> <[> critic types </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#359:1:A>
+<[> Yeah but </[> </{> I don't know <,> I I I don't think that I 'm going to watch it
+ 
+<ICE-PHI:S1A-030#360:1:A>
+Probably when it comes out in the V H S
+
+ <$B> 
+<ICE-PHI:S1A-030#361:1:B>
+What else
+ 
+<ICE-PHI:S1A-030#362:1:B>
+<mention> Madam X </mention> <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#363:1:A>
+<mention> Madam X </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-030#364:1:B>
+Oh my gosh
+
+ <$A> 
+<ICE-PHI:S1A-030#365:1:A>
+R-eighteen I don't think so
+ 
+<ICE-PHI:S1A-030#366:1:A>
+I don't like <{> <[> Ina Raymundo </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#367:1:B>
+<[> I don't like Ina </[> </{> Raymundo
+ 
+<ICE-PHI:S1A-030#368:1:B>
+Yeah I don't like her hair
+
+ <$A> 
+<ICE-PHI:S1A-030#369:1:A>
+Ina she has really really really short hair
+
+ <$B> 
+<ICE-PHI:S1A-030#370:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-030#371:1:A>
+But she still looks sexy
+
+ <$B> 
+<ICE-PHI:S1A-030#372:1:B>
+<{> <[> Whatever </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#373:1:A>
+<[> Even if she has </[> </{> I mean her face is pretty
+
+ <$B> 
+<ICE-PHI:S1A-030#374:1:B>
+Yeah <,> uh uhm <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-030#375:1:B>
+Fair complexion right
+
+ <$A> 
+<ICE-PHI:S1A-030#376:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#377:1:B>
+Uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#378:1:A>
+I mean her yeah <,> even if she has long hair or <{> <[> short hair </[> it doesn't really matter because her face is pretty
+
+ <$B> 
+<ICE-PHI:S1A-030#379:1:B>
+<[> Short hair </[> </{> 
+Yeah <,> 
+
+ <$A> 
+<ICE-PHI:S1A-030#380:1:A>
+So
+
+ <$B> 
+<ICE-PHI:S1A-030#381:1:B>
+Pretty
+
+ <$A> 
+<ICE-PHI:S1A-030#382:1:A>
+But I won't watch her movie <{> <[> you know </[> I 'm not into those stuff
+
+ <$B> 
+<ICE-PHI:S1A-030#383:1:B>
+<[> Of course </[> </{> 
+ 
+<ICE-PHI:S1A-030#384:1:B>
+Yeah right <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#385:1:A>
+What about comedy <,> the the new one
+
+ <$B> 
+<ICE-PHI:S1A-030#386:1:B>
+Which one <,> Dolphy
+
+ <$A> 
+<ICE-PHI:S1A-030#387:1:A>
+<unclear> word </unclear> Yeah <O> laughter </O> 
+ 
+<ICE-PHI:S1A-030#388:1:A>
+Well I think it 's uh I think <{1> <[1> <.> al </.> a lot </[1> of people are going to <{2> <[2> watch it because </[2> yeah because a lot of people like Dolphy and you know
+
+ <$B> 
+<ICE-PHI:S1A-030#389:1:B>
+<[1> Funny yeah </[1> </{1> 
+ 
+<ICE-PHI:S1A-030#390:1:B>
+<[2> Watch it definitely </[2> </{2> 
+
+ <$C> 
+<ICE-PHI:S1A-030#391:1:C>
+Excuse me <,> <&> break in the recording </&> 
+
+ <$A> 
+<ICE-PHI:S1A-030#392:1:A>
+No we were oh we were talking about
+
+ <$B> 
+<ICE-PHI:S1A-030#393:1:B>
+Dolphy
+
+ <$A> 
+<ICE-PHI:S1A-030#394:1:A>
+Yeah Dolphy
+
+ <$B> 
+<ICE-PHI:S1A-030#395:1:B>
+Yeah <,> because it 's an entertaining movie so you know
+
+ <$A> 
+<ICE-PHI:S1A-030#396:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-030#397:1:B>
+With all our problems <O> laughter </O> 
+ 
+<ICE-PHI:S1A-030#398:1:B>
+<{> <[> I </[> think you should you know
+
+ <$A> 
+<ICE-PHI:S1A-030#399:1:A>
+<[> And </[> </{> 
+ 
+<ICE-PHI:S1A-030#400:1:A>
+And then <{> <[> it seems </[> they really timed it for Father 's Day
+
+ <$B> 
+<ICE-PHI:S1A-030#401:1:B>
+<[> Unwind </[> </{> 
+ 
+<ICE-PHI:S1A-030#402:1:B>
+Oh yeah yeah uh-huh
+
+ <$A> 
+<ICE-PHI:S1A-030#403:1:A>
+Because
+
+ <$B> 
+<ICE-PHI:S1A-030#404:1:B>
+I didn't realize that <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-030#405:1:A>
+Because remember before <indig> Anak </indig> <&> title of a movie </&> that was shown <{> <[> before Mother 's </[> Day
+
+ <$B> 
+<ICE-PHI:S1A-030#406:1:B>
+<[> Mother 's Day </[> </{> 
+ 
+<ICE-PHI:S1A-030#407:1:B>
+Yeah you 're right
+ 
+<ICE-PHI:S1A-030#408:1:B>
+Have you watched that
+
+ <$A> 
+<ICE-PHI:S1A-030#409:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1A-030#410:1:B>
+No me <{> <[> neither </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#411:1:A>
+<[> I </[> </{> I heard that it 's really a tear <{> <[> jerker </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#412:1:B>
+<[> Yeah </[> </{> touching <{> <[> very </[> 
+
+ <$A> 
+<ICE-PHI:S1A-030#413:1:A>
+<[> I mean </[> </{> even tough guys <,> 
+
+ <$B> 
+<ICE-PHI:S1A-030#414:1:B>
+They like or cried <{> <[> they didn't cry </[> but
+
+ <$A> 
+<ICE-PHI:S1A-030#415:1:A>
+<[> They cry </[> </{> 
+ 
+<ICE-PHI:S1A-030#416:1:A>
+They cry
+
+ <$B> 
+<ICE-PHI:S1A-030#417:1:B>
+They did
+ 
+<ICE-PHI:S1A-030#418:1:B>
+<{> <[> Oh </[> my God
+
+ <$A> 
+<ICE-PHI:S1A-030#419:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-030#420:1:A>
+Because uhm my neighbor she went with <,> her niece
+
+ <$B> 
+<ICE-PHI:S1A-030#421:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-030#422:1:A>
+And then <,> uhm they didn't know that their driver also <{1> <[1> watched </[1> the movie <{2> <[2> okay </[2> 
+
+ <$B> 
+<ICE-PHI:S1A-030#423:1:B>
+<[1> <O> chuckle </O> </[1> </{1> 
+ 
+<ICE-PHI:S1A-030#424:1:B>
+<[2> Uh-huh </[2> </{2> 
+
+ <$A> 
+<ICE-PHI:S1A-030#425:1:A>
+So their driver is like a tough guy <{> <[> okay </[> 
+
+ <$B> 
+<ICE-PHI:S1A-030#426:1:B>
+<[> Uh-huh </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-030#427:1:A>
+And then after the movie they were surprised when they saw the driver crying <{> <[> outside </[> the theater
+
+ <$B> 
+<ICE-PHI:S1A-030#428:1:B>
+<[> Oh my God </[> </{> 
+
+ </I> 

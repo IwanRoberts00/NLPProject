@@ -1,262 +1,416 @@
-<I>
-uh welcome to the gis seminar and three d visualization
-uh in this session we ' ll simply introduce uh what gis and
-what kind of uh service that we can do and uh we also specialize in three
+""
+""
+uh welcome to the    gis seminar and three d visualization
+""
+uh    in this session we  ' ll simply introduce uh    what gis and
+what kind of uh service that we can do and uh    we also specialize in three
 d presentation if one day you think you want to present your idea in three d
-you can come to us or you can come to us to learn or we can learn
+you can come to us    or you can come to us to learn    or we can learn
 together okay
+""
 uh first of all uh i would like to welcome everybody to this seminar
+""
 uh uh we are from rising more limited
-my name is vincent chan and the guy is who ' s go going to do the demonstration is yves dehouck
-is he he ' s also one of the gis consultant in our company 
+""
+my name is vincent chan and the    guy is who  ' s    go    going to do the demonstration is yves dehouck
+""
+is he    he  ' s also one of the gis consultant in our company  
+""
 i want to know how many of you have been working with gis or you are
-really interested in gis 
-please raise your hand 
-just one okay
+really interested in gis  
+""
+please raise your hand  
+""
+just one    okay
+""
 so the rest is for three d
-so maybe we talk in private and we have three d
-demonstration okay
+""
+so maybe we talk    in private and    we have three d
+demonstration    okay
+""
 but anyway we register to have this seminar so we would like to
-start with the gis first
-but before i start i would like to let you know uh 
-what ' s rising more
+start with the gis    first
+""
+but before i    start i would like to    let you know uh  
+what  ' s rising more
+""
 it seems the name is strange right
-it ' s doesn't like a cad expert or nothing related to cad
-the name is irrelevant and actually rising more limited is
-expert in providing cad solution uh and we are working closely with
-lots of great company to do uh cad system
-and also we provide cad and database linkage okay
-so actually uh we ' ll have a concept of the gis explain to you 
-that ' s what we are expert in 
-that ' s the topic 
-okay actually uh we are a group of people who are really uh
+""
+it  ' s doesn't like a    cad expert or    nothing related to cad
+""
+the name is irrelevant    and actually rising more limited is
+expert in providing cad solution    uh and    we are working closely with
+lots of great company to do uh    cad system
+""
+and also    we provide cad and database linkage    okay
+""
+so actually uh we  ' ll have a concept of the gis explain to you  
+""
+that  ' s what we are expert in  
+""
+that  ' s the topic  
+""
+okay actually uh we are a group of people who are really    uh
 keen in gis
-we want to do more on on cad
-that ' s why uh we provide all the services related to cad
-and we organize a group of a user group call cad role
-if you got the information brochure you ' ll see we organize a 
+""
+we want to do more on    on cad
+""
+that  ' s why uh we provide    all the services related to cad
+""
+and we organize a    group of a user group    call cad role
+""
+if you got the information brochure you  ' ll see we organize a  
 user group call cad role
-and we have almost sixty members uh now
+""
+and we have almost sixty members    uh    now
+""
 we start our first meeting on on on first of may and we now have
 sixty members
+""
 uh some of them from corporation some of them from individual
-actually we work together to see how can we improve the cad
-status in hong kong or if you are draughtsman or you ' re cad people
-how can we make more recogni nition for us in this society okay
-and uhm we also uh provide service in doing the gis okay
-now i would like to explain what ' s the concept of gis 
+""
+actually we work together to see    how can we improve the cad
+status in hong kong or    if you are draughtsman or you  ' re    cad people
+how can we make more       recogni       nition    for us in this society    okay
+""
+and uhm we also uh    provide service in doing the gis okay
+""
+now    i would like to explain what  ' s the concept of gis  
+""
 actually gis is not a mystery
-it ' s really easy and simple 
-before i start gis uh i think some course in university
-about cadography i thought it ' s not so difficult
-but after i touch the gis too i found it ' s interesting and it ' s
+""
+it  ' s really easy and simple  
+""
+before i    start gis uh    i think some course in university
+about cadography i thought it  ' s    not    so difficult
+""
+but after i    touch the gis too i found it  ' s interesting and it  ' s
 not that difficult
+""
 actually the
-gis is two things combine together the cadd and
+gis is two things combine together    the cadd and
 dbi
+""
 the cadd is computer-aided design and draughting okay
-we usually have uh in old in the past people usually have
+""
+we usually have uh    in old in the past    people usually have
 their own display system
-they would their they would have their graphic engine for the
-gis okay 
-that ' s why they always have problem because uh usually if you are
-specialize in database you may not specialize in computer graphics
-so you when you update the database you may not update the
-graphic engine or up update the other part
-so uhm in the early eighties people try to use the stated
+""
+they would their    they would have their graphic engine for the
+gis    okay  
+""
+that  ' s why they always have problem because uh usually if you are
+specialize in    database you may not specialize in computer graphics
+""
+so    you when you update the database you may not update the
+graphic engine or    up    update the other part
+""
+so uhm    in the early eighties people try to use the stated
 graphic engine like autocad to develop their gis package
+""
 so they use autocad as their graphic engine to display all the
 visualization thing in autocad
-and they can link up with different database management program
-like oracle uh even uh dbase four uh informake different
+""
+and    they can link up with different database management program
+like oracle uh even uh dbase four    uh    informake    different
 kind of database can be linked together
-especially uhm autocad has their ase okay
-uh autocad sico extension that you can link your cad
-drawing in a with a database okay
-actually gis is this ju just the concept okay
-what ' s the common operation in gis okay
-first is to locate okay
-for example if i got an application to do uh just for
-example to do uh chain store management or i am the boss of seven-eleven
- i want to know how many store i have in tsim sha tsui or in
+""
+especially uhm    autocad has their ase    okay
+""
+uh    autocad sico    extension that you can link    your cad
+drawing in a with a database    okay
+""
+actually gis is this       ju    just the concept    okay
+""
+what  ' s the common operation in gis    okay
+""
+first is to locate    okay
+""
+for example if i got an application    to do uh    just for
+example to do uh    chain store management or i am the boss of seven-eleven
+  i want to know    how many store i have in tsim sha tsui    or    in
 certain area okay
-maybe i live in uh tsim sha tsui i want to know where can
-where ' s the closest uh seven-eleven store or how many alternative that
+""
+maybe i live in    uh tsim sha tsui i want to know    where can
+where  ' s the closest    uh seven-eleven store or how many    alternative that
 i have
-or where ' s my competitor okay
+""
+or where  ' s my competitor    okay
+""
 i can locate it on the map
-if you have a directory you can go through the directory but
-you don't know where ' s the exact location
-if you look at nathan road okay maybe you just turn around in a
-side street in next to nathan road and you don't know where it 
+""
+if you have a    directory you can go through the directory but
+you don't know where  ' s the exact location
+""
+if you look at nathan road    okay maybe you just turn around in a
+side street in    next to nathan road and you don't know    where it  
 is
-but in a map they can connect with the database then you can
+""
+but    in a map they can connect with the database then you can
 see
-and later on yves will demonstrate you how can we put
-two things together okay
+""
+and later on yves will    demonstrate you how    can we    put
+two things together    okay
+""
 and you may have conditional search okay
-if i ' m a jimage people i want to see uh how ' s
-the jimage system in my area or how ' s the jimage system
-near the governor ' s area
-i don't want he got problem and complain to my department
-so i would like to fix all the jimage within one mile
- in his house around his house so i can have conditional search
- search provide me all the information about the jimage 
-within one mile around the governor ' s house
-so you can set the conditional okay
-uh maybe give me all the inform uh all the information
-about the jimage system that haven't been maintained for last five
-years okay
-you can have give you can give condition on the date on the
-time or on the cause of anything okay
-at the annotation uh there ' re some text that ' s not related
-with the database okay
- may maybe there are symbol of the some uh texts uh say
-this is a line three or whatever okay
-some annotation is also put it there
-or spatial analysis okay
+""
+if i  ' m a       jimage    people i want to see    uh    how  ' s
+the    jimage    system in my area or how  ' s the       jimage    system
+near the governor  ' s    area
+""
+i don't want he got problem    and complain to my department
+""
+so i would like to    fix all the    jimage    within one mile
+  in his house    around his house so    i can have conditional search
+  search    provide me all the information about the    jimage  
+within one mile    around the governor  ' s house
+""
+so you can set the conditional    okay
+""
+uh maybe    give me all the    inform    uh all the information
+about the    jimage    system that haven't been maintained for last five
+years    okay
+""
+you can have give    you can give condition    on the date on the
+time or on the cause of anything    okay
+""
+at the annotation    uh    there  ' re some text that  ' s not related
+with the database    okay
+""
+  may    maybe there are symbol of the some    uh texts uh say
+this is a line three or whatever    okay
+""
+some annotation    is also put it there
+""
+or spatial analysis    okay
+""
 the spatial analysis is uh spatial is something like a space
+""
 maybe two d or three d
-i want to check uh where the closet hospital in my area
-or if i ' m a airline management people 
-accidentally there ' s uh we have to put on another airline to
+""
+i want to check uh    where the closet    hospital    in my area
+""
+or if i  ' m a    airline management people  
+""
+accidentally there  ' s uh we have to    put on another airline to
 vancouver because so much people going there
-so where ' s the closest crew that i can call them back to
-the office okay
+""
+so    where  ' s the closest    crew that i can call them back to
+the office    okay
+""
 you can have a spatial analysis
-tell me give me all the lists of my our employee that ' s 
-near the airport within five mile so they can be there maybe in ten
+""
+tell me    give me all the lists of my our employee that  ' s  
+near the airport within five mile    so they can be there    maybe in ten
 minute
-so there ' s a spatial analysis
-you can do some analysis 
+""
+so    there  ' s a spatial analysis
+""
+you can do some analysis  
+""
 or network analysis
-for example, i i ' m controlling all the uh water supply okay
-if the some water pipe damage in nathan road who will be in uh
- affected and which area should i turn off the all the water supply in
+""
+for example, i i  ' m controlling all the    uh water supply    okay
+""
+if the some water pipe damage in nathan road    who will be in uh
+  affected and which area should i turn off the all the water supply in
 order to fix the water pipe okay
-actually if you want to evaluate a gis system it ' s all
+""
+actually    if you want to evaluate a gis system    it  ' s all
 these included okay
-uhm there ' s a basic concept and i want to show you a
-drawing 
-this is a cad data model uhm if you use autocad before you
+""
+uhm    there  ' s a    basic concept    and i want to show you a
+drawing  
+""
+this is a cad data model    uhm    if you use autocad before you
 know that autocad has different layer system
-actually when they display or when they display uh visually
-visual information they ' ll put different information in different layers
-in autocad or even in artcad or in other gis system they ' ll do the same
+""
+actually    when they display or when they display uh    visually
+visual information they  ' ll put    different information in different layers
+in autocad or even in artcad or in other    gis system they  ' ll do the same
 thing
-for example i ' ll have uh the sports 1-word 
+""
+for example i  ' ll have uh    the sports    1-word  
 street name or the utilities on different colour on different layer so you can
-view it directly okay
-and in the in the demonstration you ' ll see how we put different
+view it    directly    okay
+""
+and in the    in the demonstration you  ' ll see how we put different
 things together in different layer
-where ' s the building where ' s the utility okay
-where ' s the tip of the 1-word okay
-or how ' s the land use 
+""
+where  ' s the building where  ' s the    utility    okay
+""
+where  ' s the    tip of the    1-word    okay
+""
+or how  ' s the land use  
+""
 and then oh you can do all these in cad
-why we need a gis system okay
+""
+why we need a gis system    okay
+""
 we do all these in cad but they have link directly to a database
-then it will have a gis data model okay
-all this is cad okay and this is database okay
-for example 1-word is a 1-word
- uh a building or a a lot of of land how can it 
+""
+then it will have a    gis data model    okay
+""
+all this is cad okay and this is database    okay
+""
+for example    1-word    is a    1-word
+  uh    a building or a    a lot of    of land how can it  
 connected to my database
-usually they will have a reference number or identifier you ' ll
+""
+usually they will have a reference number or    identifier you  ' ll
 see
-so in the screen you ' ll see this
-but actually this area is linked up to record in a in the
-database file or they in the database they will interlink with other
+""
+so    in the screen you  ' ll see this
+""
+but actually this area is linked up to record in a    in the
+database file    or they in the database    they will interlink with other
 information
-sometimes you may have more than one database model maybe up
+""
+sometimes you may have more than one database model    maybe up
 to ten or twenty
-uh in our application we have more than ten database link
+""
+uh in our    application we have    more than ten database link
 up together
-so maybe uhm this is the 2 words but 
-you may have another database holding all the people ' s income or the land
-value or different information
-you can have different database link up together with the same 
+""
+so maybe    uhm this is the    2 words    but  
+you may have another database holding all the people  ' s income or the land
+value or    different information
+""
+you can have different database link up together with the same  
 identifier
-so uhm this is a really typical gis what i what does it
+""
+so    uhm this is a really typical gis    what i what does it
 mean by typical gis
-when they start the gis they usually apply it to land
-information system or something like that okay
-but actually uhm for rising more we didn't do anything on
-this so we are not in gis field
+""
+when    they start the gis they usually apply it to    land
+information system    or something like that okay
+""
+but actually uhm    for rising more    we didn't do anything on
+this    so    we are not in gis field
+""
 no we are
-because we feel that uh the gis is not only for big system
+""
+because    we feel that uh the gis    is not only for big system
 like this
-it may be for example this what i explained before uhm 
-do some management on rendering machine or 1-word uh
+""
+it may be    for example this    what i explained before uhm  
+do some management on    rendering machine or    1-word    uh
 management system or a chain store management
+""
 so we can apply to different vertical market with the same concept
-this drawing can clearly explain what we see in autocad and
-what it represent actually okay
-for this part is you what you see in autocad some land
-some arch some pattern 
-but you can't see what ' s in
-actually uh the autocad drawing represent a real area or real
+""
+""
+this drawing can clearly explain    what we see in autocad and
+what it represent actually    okay
+""
+for this part    is you what you see in autocad    some land
+some arch some pattern  
+""
+but you can't see what  ' s in
+""
+actually    uh the autocad drawing represent a real area or real
 site uh as gis okay
-you ' ve may have building area okay
-uh maybe here ' s here ' s a 1-word that
-holding all the information about that piece of land who ' s the landlord who ' s
-the owner what ' s the value of the piec piece of land okay
-for example here is a pipeline actually is is
-a pipeline here 
-so the pipeline may be uh electrical line or it ' s a 
-telephone line or it ' s a water pipe supply or drainage or sewage
-it ' s different information can be kept
-so what you see in the drawing is represent this
-but all this information you may keep it in a database 
+""
+you  ' ve may have building area    okay
+""
+uh maybe here  ' s here  ' s a    1-word       that
+holding all the information about that piece of land who  ' s the landlord who  ' s
+the owner    what  ' s the value of the    piec    piece of land    okay
+""
+for example    here       is a pipeline    actually is    is
+a pipeline here  
+""
+so the pipeline may be uh    electrical    line or it  ' s a  
+telephone line or it  ' s a water pipe supply or drainage or sewage
+""
+it  ' s different information can be kept
+""
+so    what you see in the drawing is represent this
+""
+but    all this information    you may keep it in a database  
 okay
+""
 but when we load up the drawing they interlink each other together
- and it widely used worldwide
-people use all this they start using gis more and more because
- we not only want to visualize it we want the information okay
-in the past we may have two thing a drawing paper and a
+  and it widely used    worldwide
+""
+people use all this    they start using gis more and more because
+  we not only want to visualize it we want the information    okay
+""
+in the past we may have two thing    a drawing paper    and a
 list of the data they will merge okay
-then you don't know what ' s going on after 5 minute looking at
+""
+then you don't know what  ' s going on after 5 minute looking at
 different files
-but the the same thing we have pick the information
-for example pick the pipe in the drawing where is when was the
-pipe make or when ' s the last maintenance i don't know okay
-then quit autocad go into database look at the information
+""
+but the    the same thing    we have pick the information
+""
+for example pick the pipe in the drawing    where is when was the
+pipe make or when  ' s the last maintenance i don't know okay
+""
+then quit autocad go into database    look at the    information
 of the pipe
+""
 but now we integrate two things together
-we just pick the point we will see all the information of
-the pipeline because they link directly to the database file
-actually that ' s the concept of gis 
-because we don't have too much time i don't want to go through
-all my slides so uh i think yves has been waiting for long for his
+""
+we just pick the point    we will see all the information    of
+the pipeline because they link    directly to the    database file
+""
+actually that  ' s the concept of gis  
+""
+because we don't have too much time    i don't want to go through
+all my slides so    uh i think yves has been waiting for long    for his
 demonstration
-uhm in nineteen ninety one we start a project for 
+""
+uhm    in nineteen ninety one we start a project for  
 hutchison paging
-that ' s our first uh i think is yes nineteen ninety one
+""
+that  ' s our first    uh    i think is    yes nineteen ninety one
 we start the project for hutchison
-they said we need the system within three month finish all the
-map of hong kong for me finish the whole application design the database
+""
+they said we need the system within three month    finish all the
+map of hong kong for me    finish the whole application design the database
+""
 and within three months time we deliver them a system
+""
 they are using it now
-they ' re really happy about it
-this system manage all the ct two station in hong kong
-yes do do you know what ct two
-the uh tien dey sien 
-he speak chinese i speak sort of english okay
-uhm and this system is integrated with database management and
+""
+they  ' re really happy about it
+""
+this system manage all the ct two    station    in hong kong
+""
+yes do    do you know what ct two
+""
+the    uh    tien dey sien  
+""
+he speak chinese i speak    sort of english    okay
+""
+uhm    and this system is integrated with database management and
 autocad and gis together
-maybe i pass the time to yves
-maybe you have you can brief your system a little bit 
-demonstration-by-yves 
-okay thank you yves 
-actually uh what you think about gis is not only uh 
-traditional uh geographic management or information system should be
+""
+maybe    i pass the time to yves
+""
+maybe you have    you can brief    your system a little bit  
+demonstration-by-yves  
+""
+""
+okay thank you yves  
+""
+actually uh what you think about gis is not only uh  
+traditional    uh geographic management or information system    should be
 something more vertical
-i always think about ver the vertical market 
-not the land building and land user but the some of the
-commercial people maybe to the cathay pacific how to manage their staff 
-uh or coca-cola how to manage their rendering machine
-that ' s what kind of our vertical market that we concentrate on
-rather than the traditional uh gis application 
-okay uhm this uh if you got any question you can ask later or
- you can go to the next room we ' ll be there for better full demonstration
-because what you see is around uh may be twenty percent of the system
-there ' s still lots of function that we don't have time to show 
-okay 
+""
+i always think about    ver    the vertical market  
+""
+not the land building and land    user but the    some of the
+commercial people maybe to the cathay pacific how to manage their staff  
+uh    or coca-cola how to manage their rendering machine
+""
+that  ' s what    kind of our vertical market that we concentrate on
+rather than the traditional uh gis application  
+""
+okay uhm this uh if you got    any question you can ask later or
+  you can go to the next room we  ' ll be there for better full demonstration
+because what you see    is around uh may be twenty percent of the system
+""
+there  ' s still lots of function that we don't have time to show  
+okay     

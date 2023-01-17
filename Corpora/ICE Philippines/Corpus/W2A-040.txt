@@ -1,0 +1,635 @@
+<I>
+
+<ICE-PHI:W2A-040#1:1>
+<h> <bold> A Domain Theory Extension of a Student Modeling System for
+Pascal Programming </bold> </h>
+
+<ICE-PHI:W2A-040#2:1>
+<bold> Rhodora L. Reyes </bold>
+
+<p> 
+<ICE-PHI:W2A-040#3:1>
+<h> <bold> Abstract </bold> </h> .
+
+<ICE-PHI:W2A-040#4:1>
+Student models play an important part in intelligent tutoring systems.
+
+<ICE-PHI:W2A-040#5:1>
+Its primary objective is to understand the student behavior,
+especially erroneous behavior.
+
+<ICE-PHI:W2A-040#6:1>
+However, it is difficult to determine all possible errors that a
+student commit while solving problems for a particular domain.
+
+<ICE-PHI:W2A-040#7:1>
+Thus, there is a need to extend the domain theory of the Student
+Modeling System ( SMS).
+
+<ICE-PHI:W2A-040#8:1>
+This paper discusses the design of the extension algorithm using
+Pascal programming as its domain. </p>
+
+<ICE-PHI:W2A-040#9:1>
+<h> <bold> 1. Introduction </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-040#10:1>
+An <mention> <it> Intelligent Tutoring System </it> ( ITS)
+</mention> is a computer-based tutor that qualitatively models the cognitive
+process of its learners in order to effectively diagnose and correct their
+errors and misconceptions <fnr> [ 12] </fnr> .
+
+<ICE-PHI:W2A-040#11:1>
+Although many architectures have been proposed for Intelligent
+Tutoring Systems, a few components seem to be present in all.
+
+<ICE-PHI:W2A-040#12:1>
+These are the student model, tutor model, domain model and the
+interface.
+
+<ICE-PHI:W2A-040#13:1>
+<mention> The <it> student model </it> </mention> , which is one of
+the major components of an ITS, assesses a student 's performance by
+determining what the student knows, his or her misconceptions and the causes
+of these misconceptions.
+
+<ICE-PHI:W2A-040#14:1>
+Thus, the primary function of the student model is to interpret the
+learner 's behavior. </p>
+
+<p> 
+<ICE-PHI:W2A-040#15:1>
+Clancey, in his tutorial survey of ITSs, presented <mention> <it>
+Turtle </it> , <it> Meno </it> and <it> Proust </it> </mention> which are
+some of the existing tutors concerned with teaching computer programming
+<fnr> [ 5] </fnr> .
+
+<ICE-PHI:W2A-040#16:1>
+Other student simulation programs are <mention> <it> Marcel </it>
+</mention> and <mention> <it> Grapes </it> </mention> <fnr> [ 14] </fnr> .
+
+<ICE-PHI:W2A-040#17:1>
+Despite the success of these existing programming tutors, there still
+is a need for domain extension.
+
+<ICE-PHI:W2A-040#18:1>
+These tutors all rely on a static library of misconceptions.
+
+<ICE-PHI:W2A-040#19:1>
+If the errors committed by the student are not in the library, these
+tutoring systems will no longer be able to determine the misconceptions
+underlying their errant behavior. </p>
+
+<p> 
+<ICE-PHI:W2A-040#20:1>
+Student modeling systems form models of the student 's ability
+based on the observed behavior of the student, which in the case of this
+paper, is usually in the form of student solutions ( i.e., programs) to a
+given programming problem.
+
+<ICE-PHI:W2A-040#21:1>
+It is impossible to determine all students ' programming errors and
+preprogram these in the student model.
+
+<ICE-PHI:W2A-040#22:1>
+This paper focuses on the design of an extension algorithm for a
+domain theory for Pascal programming.
+
+<ICE-PHI:W2A-040#23:1>
+This helps determine the cause ( or causes) of the student 's error
+even if it is not preprogrammed in the student model. </p>
+
+<ICE-PHI:W2A-040#24:1>
+<h> <bold> 2. The Domain Theory Structure <fnr> </bold> </h> <sp> 1
+</sp> </fnr>
+
+<p> 
+<ICE-PHI:W2A-040#25:1>
+A major prerequisite in developing a student model is to identify
+the errors students commit and the origin of these errors.
+
+<ICE-PHI:W2A-040#26:1>
+Anderson [ 1] stated that it is important to identify the errors
+student make, to understand the origin of these errors, and code the inferred
+buggy productions one by one into the system. </p>
+
+<p> 
+<ICE-PHI:W2A-040#27:1>
+An analysis of the non-syntactic errors found in programs written
+by novice Pascal programmers ' errors was performed.
+
+<ICE-PHI:W2A-040#28:1>
+Six programming problems were given to the students.
+
+<ICE-PHI:W2A-040#29:1>
+These are <mention> functions, for-do, while-do, repeat-until,
+if-then and arrays </mention> <fnr> [ 11] </fnr> .
+
+<ICE-PHI:W2A-040#30:1>
+A domain theory subnetwork was created for each of these problems.
+
+<ICE-PHI:W2A-040#31:1>
+The set of programming plans and codes, both correct and incorrect,
+taken from the analysis form the initial domain theory. </p>
+
+<ICE-PHI:W2A-040#32:1>
+<h> <bold> 2. 1 Levels, Frames and Slots </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-040#33:1>
+In this design, the domain theory is represented as a <it>
+network </it> .
+
+<ICE-PHI:W2A-040#34:1>
+Each state in the network is represented using <it> frame-based
+structure </it> and each frame has <it> slots </it> . </p>
+
+<p> 
+<ICE-PHI:W2A-040#35:1>
+The domain network structure has four levels: the <it> root level
+</it> , the <it> plan level </it> , the <it> subplan level </it> and the <it>
+instance level </it> ( Fig. 1 shows an example).
+
+<ICE-PHI:W2A-040#36:1>
+The root level has only one frame which represents the <it> start
+state </it> .
+
+<ICE-PHI:W2A-040#37:1>
+All frames in all four levels have a <it> name slot </it> which
+contains the name ( or description) of the frame.
+
+<ICE-PHI:W2A-040#38:1>
+In addition to the <it> name slot </it> , the start state has a <it>
+plan slot </it> for the alternative plans that the domain theory has for
+solving a given programming problem.
+
+<ICE-PHI:W2A-040#39:1>
+The connections from the start state to the <it> plan frames </it>
+are <it> disjunctive </it> . </p>
+
+<p> 
+<ICE-PHI:W2A-040#40:1>
+At the <it> plan level </it> , each state ( called a <it> plan
+frame </it> ) is used to represent programming plans.
+
+<ICE-PHI:W2A-040#41:1>
+<it> Plans </it> are stereotypic methods for implementing the problem
+requirements that appear in the problem descriptions.
+
+<ICE-PHI:W2A-040#42:1>
+Each of these frames has <it> constant slot </it> and <it> variable
+slot </it> for the constants and variables used in the plan, respectively.
+
+<ICE-PHI:W2A-040#43:1>
+The variables placed in the <it> variable slot </it> are also called
+<it> pattern variables </it> , that is, variables used in the student program
+will be used to substitute these pattern variables.
+
+<ICE-PHI:W2A-040#44:1>
+The plan frame also have a slot for the set of subplans in
+implementing the plan called the <it> subplan slot </it> .
+
+<ICE-PHI:W2A-040#45:1>
+Since all these plans are necessary to carry out a plan, the links
+from the plan frames to the <it> subplan frames </it> are <it> conjunctive
+</it> .
+
+<ICE-PHI:W2A-040#46:1>
+These subplans must also be checked in the order they were placed in
+the <it> subplan slot </it> . </p>
+
+<p> 
+<ICE-PHI:W2A-040#47:1>
+The <it> subplan frames </it> also have <it> constant </it> and
+<it> variable slots </it> .
+
+<ICE-PHI:W2A-040#48:1>
+The constant and variable slots have the same definition as those
+defined in the plan frame.
+
+<ICE-PHI:W2A-040#49:1>
+Only, these slots identify the constants and variables used in the
+subplan.
+
+<ICE-PHI:W2A-040#50:1>
+The <it> instance slot </it> identifies alternative code
+implementation of the subplan.
+
+<ICE-PHI:W2A-040#51:1>
+This indicates that the subplan is implemented similarly ( i.e., have
+the same meaning) but appears differently in code.
+
+<ICE-PHI:W2A-040#52:1>
+Fig. 2 shows an example of a subplan that adds two numbers with two
+<it> instances </it> .
+
+<ICE-PHI:W2A-040#53:1>
+Both implementations have the same meaning but appears differently in
+code.
+
+<ICE-PHI:W2A-040#54:1>
+At the subplan level, <it> subplan frames </it> may have the same
+value for the <it> name slot </it> but different values in other slots.
+
+<ICE-PHI:W2A-040#55:1>
+In this situation, the intention of the subplans is the same but is
+implemented differently.
+
+<ICE-PHI:W2A-040#56:1>
+Fig. 2 shows an example of subplans with the same name, one is
+correct and the other is not. </p>
+
+<p> 
+<ICE-PHI:W2A-040#57:1>
+In addition, both the <it> subplan </it> and <it> plan frames
+</it> have a type slot for determining if it is the correct or incorrect
+implementation of the plan/subplan.
+
+<ICE-PHI:W2A-040#58:1>
+This will serve as a guide in determining the errors in the student
+programs. </p>
+
+<p> 
+<ICE-PHI:W2A-040#59:1>
+The last level is the <it> instance level </it> .
+
+<ICE-PHI:W2A-040#60:1>
+The states in this level are called <it> instance frames </it> .
+
+<ICE-PHI:W2A-040#61:1>
+The three slots in this frame are the <it> name slot </it> , <it>
+general error slot </it> and the <it> code pattern slot </it> .
+
+<ICE-PHI:W2A-040#62:1>
+The most important slot is the <it> code pattern slot </it> which
+describes the form the Pascal code has in implementing the subplan.
+
+<ICE-PHI:W2A-040#63:1>
+The <it> general error slot </it> indicates the general error or type
+statement categories to which the code belongs. </p>
+
+<p> 
+<ICE-PHI:W2A-040#64:1>
+A subplan frame can have a link to one or more plan frames but an
+instance frame can only have a single link to a subplan frame ( i.e., subplan
+frames can not have the same value for their instance slots). </p>
+
+<ICE-PHI:W2A-040#65:1>
+<h> <bold> 3. The Domain Theory Extension </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-040#66:1>
+The impossibility of pre-enumerating all student 's errors and
+represent these in the domain theory creates the need for extending the
+domain theory.
+
+<ICE-PHI:W2A-040#67:1>
+This section discusses the design of an algorithm that uses both
+induction and deduction to infer missing operators from the initial
+formulation of the domain theory. </p>
+
+<ICE-PHI:W2A-040#68:1>
+<h> <bold> 3. 1 The Extension Algorithm </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-040#69:1>
+Learning occurs at the plan, subplan and instance level.
+
+<ICE-PHI:W2A-040#70:1>
+Learning at the instance level implies that the programming plans and
+subplans used by the student are present in the domain theory but are written
+differently in code.
+
+<ICE-PHI:W2A-040#71:1>
+Learning at the subplan level, on the other hand, implies that the
+programming plan is present in the domain theory but the subplans are
+implemented differently and are logically different.
+
+<ICE-PHI:W2A-040#72:1>
+In this case, there is also learning at the instance level.
+
+<ICE-PHI:W2A-040#73:1>
+Learning at the plan level indicates that the student 's programming
+plan is not present in the domain theory.
+
+<ICE-PHI:W2A-040#74:1>
+Table 1 states the summary of the extension algorithm <fnr> [ 10]
+</fnr> . </p>
+
+<ICE-PHI:W2A-040#75:1>
+<h> <bold> 3. 2 Deduction </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-040#76:1>
+Deductive inference <fnr> [ 2], [ 3], [ 4] </fnr> in this
+algorithm can be classified into three categories: <mention> <it> valid
+sentence transformation </it> , <it> valid program transformation </it> and
+<it> perturbation </it> </mention> . </p>
+
+<ICE-PHI:W2A-040#77:1>
+<h> <bold> Valid Sentence Transformation </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-040#78:1>
+The first step in the algorithm requires the forward traversal of
+the network towards the goal state.
+
+<ICE-PHI:W2A-040#79:1>
+During the matching of the plan instances to the student 's program
+statements, <it> valid sentence transformations </it> are applied to the <it>
+instance frame </it> if the expected Pascal code differ from the statement in
+the student program.
+
+<ICE-PHI:W2A-040#80:1>
+Valid sentence transformations are legal Pascal transformation rules.
+
+<ICE-PHI:W2A-040#81:1>
+They are applied in the first instance that the student code does not
+match with the database code. </p>
+
+<p> 
+<ICE-PHI:W2A-040#82:1>
+The following are the valid sentence transformation:
+
+<p> 
+<ICE-PHI:W2A-040#83:1>
+1. If the statement contains a Pascal expression then alter the
+expression using the commutative, associative and distributive law.
+
+<ICE-PHI:W2A-040#84:1>
+A Pascal expression may be an arithmetic or Boolean expression.
+
+<ICE-PHI:W2A-040#85:1>
+For example: <O> formula </O> </p>
+
+<p> 
+<ICE-PHI:W2A-040#86:1>
+2. If the statement is a Pascal input/output statement then
+interchange the position of the variables. </p>
+
+<ICE-PHI:W2A-040#87:1>
+<h> <bold> Valid Program Transformation </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-040#88:1>
+The purpose of the <it> valid transformation </it> is to generate
+all possible sequences of the statements without altering the programming
+plan.
+
+<ICE-PHI:W2A-040#89:1>
+Table 2 shows the summary of the rules for valid program
+transformation. </p>
+
+<p> 
+<ICE-PHI:W2A-040#90:1>
+The <mention> read and write sets </mention> of the instances in
+the database were first generated, followed by the level of each statement
+with respect to its depth in the program ( i.e., if it belongs to a block).
+</p>
+
+<ICE-PHI:W2A-040#91:1>
+<h> <bold> Perturbation </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-040#92:1>
+<mention> Perturbation </mention> <fnr> [ 13] </fnr> is applied
+only after the first two classifications of deductive inference fail to reach
+the goal.
+
+<ICE-PHI:W2A-040#93:1>
+In <mention> perturbation </mention> , each instance frame of the
+plans is matched to its corresponding statement in the student program.
+
+<ICE-PHI:W2A-040#94:1>
+If an impasse occurs, perturbations are implemented to the instance
+frame. </p>
+
+<p> 
+<ICE-PHI:W2A-040#95:1>
+The design was to generate all possible combinations.
+
+<ICE-PHI:W2A-040#96:1>
+However, it is only up to the point where the expressions did not
+match.
+
+<ICE-PHI:W2A-040#97:1>
+For example, if the expression did not match at an operator, it will
+be perturbed by modifying only that operator, thus generating all possible
+combinations of expressions where different operators are involved at that
+particular point/node.
+
+<ICE-PHI:W2A-040#98:1>
+If it did not match on an operand, it will be perturbed to produce a
+list of the same expression but with different operands at the point where
+the statement did not match.
+
+<ICE-PHI:W2A-040#99:1>
+If a match is not found after the perturbation, the original
+statement will be used for succeeding perturbations.
+
+<ICE-PHI:W2A-040#100:1>
+Approaches to perturbation are as follows:
+
+<ICE-PHI:W2A-040#101:1>
+<h> 1. Modifying operators </h>
+
+<p> 
+<ICE-PHI:W2A-040#102:1>
+The mathematical and logical operators are modified.
+
+<ICE-PHI:W2A-040#103:1>
+All possible permutations of operators are applied.
+
+<ICE-PHI:W2A-040#104:1>
+The rules for modification are as follows:
+
+<ICE-PHI:W2A-040#105:1>
+a. If the operator is a mathematical operator ( i.e., +, - , *, / ,
+div, mod) or a logical operator ( i.e., &gt;,&lt;,=,&gt;=,&lt;=,&lt; &gt;),
+choose a new mathematical/logical operator ( e.g., the new operator is
+different from the original operator).
+
+<ICE-PHI:W2A-040#106:1>
+b. If the operator is a logical connective ( i.e., <mention> and
+</mention> , <mention> or </mention> ) , choose a new operator different from
+the original operator.
+
+<ICE-PHI:W2A-040#107:1>
+If the operator is <mention> &ldquo; not &rdquo; </mention> , remove
+the operator </p>
+
+<ICE-PHI:W2A-040#108:1>
+<h> 2. Delete sub-expressions </h>
+
+<p> 
+<ICE-PHI:W2A-040#109:1>
+This type of perturbation removes a mathematical operator and an
+operand ( e.g., constants or variables) to the expression.
+
+<ICE-PHI:W2A-040#110:1>
+For example, given the statement x:=y/12/100, one valid perturbation
+is x:=y/12. </p>
+
+<ICE-PHI:W2A-040#111:1>
+<h> 3. Exchange operands </h>
+
+<p> 
+<ICE-PHI:W2A-040#112:1>
+Another type of perturbation is to swap operands.
+
+<ICE-PHI:W2A-040#113:1>
+Operands may be in the form of variables or constants.
+
+<ICE-PHI:W2A-040#114:1>
+For example, a:=b/c+10 can be perturbed to a:=c/b+10 or a:=b/10+c;
+</p>
+
+<ICE-PHI:W2A-040#115:1>
+<h> 4. Alter variables </h>
+
+<p> 
+<ICE-PHI:W2A-040#116:1>
+When assigning values to the <it> pattern variables </it> in the
+domain theory, one policy is that only variables in the student program are
+allowed to be substituted to the pattern variables.
+
+<ICE-PHI:W2A-040#117:1>
+Two ways of altering the variables are to allow constants to be
+bound to the free variables and to allow substitution of variables in the
+student program to the bound variables in the domain theory.
+
+<ICE-PHI:W2A-040#118:1>
+The bound variable is converted to a pattern variable so that a
+different variable can be substituted to it.
+
+<ICE-PHI:W2A-040#119:1>
+If the goal is reached after this alteration then this implies that
+the student used a variable different from what is expected in the domain
+theory. </p>
+
+<ICE-PHI:W2A-040#120:1>
+<h> 5. Alter Constants </h>
+
+<p> 
+<ICE-PHI:W2A-040#121:1>
+Constants used in the expression are changed to other constant
+values.
+
+<ICE-PHI:W2A-040#122:1>
+The constant values that are used as substitution are taken from the
+list of constants used in the plan. </p>
+
+<ICE-PHI:W2A-040#123:1>
+<h> 6. Delete input/output arguments </h>
+
+<p> 
+<ICE-PHI:W2A-040#124:1>
+Some of the arguments in the input/output statements are deleted
+as part of the perturbation.
+
+<ICE-PHI:W2A-040#125:1>
+For example, readln(a); readln(b) can be perturbed to readln(a); or
+readln(b); </p>
+
+<ICE-PHI:W2A-040#126:1>
+<h> 7. Modify Construct </h>
+
+<p> 
+<ICE-PHI:W2A-040#127:1>
+Statements that have almost the same purpose are used as basis
+for modifying the construct.
+
+<ICE-PHI:W2A-040#128:1>
+An example of modification is to change the <mention> <it> if-then
+statement </it> </mention> to <mention> <it> while-do statement </it>
+</mention> and vice versa.
+
+<ICE-PHI:W2A-040#129:1>
+<mention> If-then and while-do statement </mention> have almost the
+same objective, that is, to check first its condition before executing the
+statement after it.
+
+<ICE-PHI:W2A-040#130:1>
+Their only difference is that <mention> if-then </mention> executes
+the statement after it once, whereas <mention> while-do statement </mention>
+executes the statement after it several times ( depending on the happening of
+an event). <fnr> <sp> 2 </sp> </fnr>
+
+<ICE-PHI:W2A-040#131:1>
+Other statements that may be interchanged are <it> writeln </it> and
+<it> readln. </it> </p>
+
+<p> 
+<ICE-PHI:W2A-040#132:1>
+If the perturbations applied results to the attainment of a
+match in the program statement in the goal then the perturbation is learned
+as a rule at the subplan level and the program code is learned as a rule at
+the instance level. </p>
+
+<ICE-PHI:W2A-040#133:1>
+<h> <bold> 3. 3 Induction </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-040#134:1>
+If after applying deductive inference the goal is still not
+reached then inductive inference <fnr> [ 2],[3],[4] </fnr> is applied.
+
+<ICE-PHI:W2A-040#135:1>
+This means that the student program ( or goal) have a different
+programming plan.
+
+<ICE-PHI:W2A-040#136:1>
+The following states how a plan is learned: </p>
+
+<p> 
+<ICE-PHI:W2A-040#137:1>
+1. Inductive inferencing uses <it> backward chaining </it> .
+
+<ICE-PHI:W2A-040#138:1>
+From the goal, each statement is matched to the instance frames.
+</p>
+
+<p> 
+<ICE-PHI:W2A-040#139:1>
+a. If the statement matches the instance frame, then the subplan
+is determined.
+
+<ICE-PHI:W2A-040#140:1>
+It is possible that the subplans used by the student are in the
+domain theory but they are used differently. </p>
+
+<p> 
+<ICE-PHI:W2A-040#141:1>
+b. Otherwise, apply perturbations to the code pattern slot.
+
+<ICE-PHI:W2A-040#142:1>
+If the perturbed statement matches the student 's statement,
+determine its subplan.
+
+<ICE-PHI:W2A-040#143:1>
+Learn this as a new subplan ( with the same subplan name). </p>
+
+<p> 
+<ICE-PHI:W2A-040#144:1>
+c. Otherwise, learn an entirely new subplan.
+
+<ICE-PHI:W2A-040#145:1>
+This involves inductive inference of a new subplan. </p>
+
+<p> 
+<ICE-PHI:W2A-040#146:1>
+2. The subplan that has been determined at ( 1) will be included
+in the list of subplans of the new plan while the variables and constants
+used will be included in the list of constants and variables for the plan.
+</p>
+
+<p> 
+<ICE-PHI:W2A-040#147:1>
+In learning a new value for the code pattern in the instance
+slot, the variables in the student program statement must be converted to
+pattern variables.
+
+<ICE-PHI:W2A-040#148:1>
+This pattern variables to be used is determined by specifying which
+pattern variables were the program variables substituted to. </p> </I>

@@ -1,0 +1,505 @@
+<I>
+
+<ICE-PHI:W2A-018#1:1>
+<h> <bold> Language Format and Analogical Transfer among Bilingual
+Problem Solvers in the Philippines </bold> </h>
+
+<ICE-PHI:W2A-018#2:1>
+<bold> Allan B. I. Bernardo </bold>
+
+<p> 
+<ICE-PHI:W2A-018#3:1>
+Is analogical problem solving of bilinguals affected by the
+language in which the problem is given?
+
+<ICE-PHI:W2A-018#4:1>
+Three experiments study whether the language used for the problem
+affects analogical transfer between word problems among Filipino-English
+bilinguals.
+
+<ICE-PHI:W2A-018#5:1>
+Subjects were given a set of study problems all of which were either
+in Filipino or English.
+
+<ICE-PHI:W2A-018#6:1>
+They were then given a set of analogous transfer-test problems either
+in Filipino or in English.
+
+<ICE-PHI:W2A-018#7:1>
+Experiment 1 showed a language-compatibility effect; transfer was
+better when the language of the study and transfer-test problems were the
+same.
+
+<ICE-PHI:W2A-018#8:1>
+Experiments 2 to 3 studied the locus of the effect.
+
+<ICE-PHI:W2A-018#9:1>
+The data suggest that language compatibility facilitates the retrieval
+of relevant, superficially similar problem information but does not affect
+the process of applying the same problem information to the new problem.
+
+<ICE-PHI:W2A-018#10:1>
+The results are discussed in terms of their implications to
+problem-solving behaviour of bilinguals and to the education of bilingual
+students. </p>
+
+<ICE-PHI:W2A-018#11:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-018#12:1>
+In a growing global community, the proportion of bilinguals and
+multilinguals in the world 's population is increasing fast.
+
+<ICE-PHI:W2A-018#13:1>
+More and more people are being required to think about information in
+different language formats, by choice or out of necessity.
+
+<ICE-PHI:W2A-018#14:1>
+Cognitive psychologists have long been studying bilingual memory and
+language processing.
+
+<ICE-PHI:W2A-018#15:1>
+Yet not much has been done to explore how bilinguals engage
+higher-level cognitive processes like problem solving and reasoning in
+different domains.
+
+<ICE-PHI:W2A-018#16:1>
+How do bilingual people think when they are given problems to solve?
+
+<ICE-PHI:W2A-018#17:1>
+Is their problem-solving behaviour affected by whether the problem
+information is presented in their first or their second language?
+
+<ICE-PHI:W2A-018#18:1>
+Does his or her mind store and process the problem-solving
+information in a manner that is indifferent to the language format?
+
+<ICE-PHI:W2A-018#19:1>
+Is the processing affected only by the structural elements of the
+problem, or does the difference in language format affect problem solving?
+</p>
+
+<p> 
+<ICE-PHI:W2A-018#20:1>
+Answers to these questions have practical significance for
+educators of bilingual students; these educators ' success might be affected
+greatly by whether their materials and instructions are in the bilingual
+student 's first or second language.
+
+<ICE-PHI:W2A-018#21:1>
+However, such answers are also important to those who study thinking,
+particularly as the question relates to how the mind stores and processes
+physically different but structurally and functionally similar information.
+</p>
+
+<ICE-PHI:W2A-018#22:1>
+<h> <bold> Language and Transfer among Bilinguals </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-018#23:1>
+One important aspect of problem solving is the ability to
+transfer concepts and procedures acquired for one problem in one setting to
+new problems in new settings.
+
+<ICE-PHI:W2A-018#24:1>
+This ability is particularly useful when new problems that arise have
+similar elements to previous problems that have been solved.
+
+<ICE-PHI:W2A-018#25:1>
+In such cases of analogous problems, the problem solver can
+effectively solve the new problem by importing or transferring the solution
+from the previous problem.
+
+<ICE-PHI:W2A-018#26:1>
+Research has shown that analogical transfer of this sort is not easy
+for most problem solvers.
+
+<ICE-PHI:W2A-018#27:1>
+Transfer seems to be constrained by numerous elements of the problem,
+the problem-solving context, and the problem solver. </p>
+
+<p> 
+<ICE-PHI:W2A-018#28:1>
+Among bilinguals, one factor that might constrain transfer is the
+language format of the problem.
+
+<ICE-PHI:W2A-018#29:1>
+Some anecdotal evidence of bilinguals in the Philippines seems to
+suggest that language format can in fact influence the transfer of
+information.
+
+<ICE-PHI:W2A-018#30:1>
+Many Filipinos, who learn numerous concepts and skills after 16 or so
+years of formal schooling in English, find it difficult to read, write, and
+talk about the same concepts in Filipino, which is their native language.
+
+<ICE-PHI:W2A-018#31:1>
+It is not uncommon to see students who have learned a lot of very
+specific problem-solving information in English, who also have a great deal
+of difficulty in expressing and understanding the same information in
+Filipino.
+
+<ICE-PHI:W2A-018#32:1>
+Similarly, in scholarly meetings where Filipino is used as the medium
+of discussion, we often find American- or British-trained Filipino scholars,
+whose first language is Filipino, but who hesitate and fumble when talking in
+Filipino and then slip comfortably into English.
+
+<ICE-PHI:W2A-018#33:1>
+Among these bilinguals, there seems to be some degree of language
+specificity when it comes to processing information in certain domains.
+
+<ICE-PHI:W2A-018#34:1>
+This language specificity could be studied as a problem of transfer.
+
+<ICE-PHI:W2A-018#35:1>
+It is possible that the difficulty in using the Filipino language for
+information that is learned in English is a demonstration of lack of transfer
+of knowledge from one language context to another. </p>
+
+<p> 
+<ICE-PHI:W2A-018#36:1>
+Previous research on analogical problem solving has shown how
+superficial problem elements that are totally unrelated to the problem
+structure can facilitate transfer.
+
+<ICE-PHI:W2A-018#37:1>
+For example, Reed ( 1987) found that students rated a particular
+problem 's solution as being useful for an analogical problem only when there
+was a very high level of transparency between the problems; that is, when it
+was easy for problem solvers to match the corresponding concepts between the
+analogous problems.
+
+<ICE-PHI:W2A-018#38:1>
+In Reed 's study, transparency was highest among problems that had
+similar superficial features ( i.e. story contexts) in addition to having
+analogous problem structures.
+
+<ICE-PHI:W2A-018#39:1>
+Several others ( <foreign> e.g. </foreign> Bassok, 1990; Bassok, Wu,
+& Olseth, 1995; Catambrone & Holyoak, 1989; Haloyoak & Koh, 1987; Novick,
+1988; Ross, 1987, 1989) have also found facilitation of analogical transfer
+due to factors related to superficial similarities.
+
+<ICE-PHI:W2A-018#40:1>
+For bilingual problem solvers, one can think of the problem 's
+language format as a superficial problem-solving element that can affect
+analogical transfer.
+
+<ICE-PHI:W2A-018#41:1>
+It is within this general framework that the relationship between
+language and analogical transfer was studied. </p>
+
+<p> 
+<ICE-PHI:W2A-018#42:1>
+This study is an enquiry into effects of using the bilingual 's
+first or second language in the transfer of information between analogous
+word problems in mathematics.
+
+<ICE-PHI:W2A-018#43:1>
+In particular, it is an enquiry into the effects of using Filipino or
+English on the transfer of analogical information between word problems in
+probability among Filipino-English bilinguals.
+
+<ICE-PHI:W2A-018#44:1>
+The study does not look into how structural differences between two
+languages affect analogical problem solving.
+
+<ICE-PHI:W2A-018#45:1>
+Rather, the study focuses on the effects of language format
+differences on transfer of information.
+
+<ICE-PHI:W2A-018#46:1>
+The study further addresses the matter of the locus of the effect of
+language format on analogical transfer.
+
+<ICE-PHI:W2A-018#47:1>
+There are several components in the process of transfer ( see,
+<foreign> e.g. </foreign> , the models of Hoyoak, Novick, & Melz, 1994; Reed,
+1987), and language similarity can affect any or all of these components.
+
+<ICE-PHI:W2A-018#48:1>
+In particular, language can affect the access and the use of
+analogous problem information.
+
+<ICE-PHI:W2A-018#49:1>
+<mention> Access </mention> refers to the retrieval of the prior
+problem-solving episode from which the analogous problem information can be
+derived.
+
+<ICE-PHI:W2A-018#50:1>
+On the other hand, <mention> use </mention> refers to the
+instantiation or adaptation of the retrieved analogous information to the new
+problem.
+
+<ICE-PHI:W2A-018#51:1>
+Although these two components are related, they are very distinct
+processes.
+
+<ICE-PHI:W2A-018#52:1>
+For example, it is possible that the problem solver correctly
+accessed the prior analogous problem but could not correctly use the problem
+information to solve the new problem.
+
+<ICE-PHI:W2A-018#53:1>
+Likewise, a problem solver could have difficulty accessing prior
+problem information that is otherwise easy to adapt to the new problem.
+
+<ICE-PHI:W2A-018#54:1>
+Indeed, Ross ( 1987, 1989) earlier showed that specific types of
+superficial similarity ( e.g., story lines, object correspondences, etc.)
+have distinct effects on the components of access and use.
+
+<ICE-PHI:W2A-018#55:1>
+In this regard, it is possible that language format affects transfer
+by way of facilitating either easier retrieval of the appropriate prior
+problem or the adaptation of the problem information for the new problem.
+</p>
+
+<ICE-PHI:W2A-018#56:1>
+<h> <bold> Overview of Experiments </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-018#57:1>
+In the three experiments reported, Filipino-English bilingual
+subjects were given problems in basic probability.
+
+<ICE-PHI:W2A-018#58:1>
+Subjects were first given a set of study problems followed by a set
+of transfer-test problems.
+
+<ICE-PHI:W2A-018#59:1>
+The study problems included the text of the problem, a description of
+the quantitative relations in the problem and of the relevant principles,
+concepts, and equations, and a worked-out solution for the problem.
+
+<ICE-PHI:W2A-018#60:1>
+The transfer-text problems consisted of a set of analogous problems
+that were very similar in surface content to the corresponding study
+problems.
+
+<ICE-PHI:W2A-018#61:1>
+The subjects were instructed to solve these transfer-test problems
+without directly referring to the study problems. </p>
+
+<p> 
+<ICE-PHI:W2A-018#62:1>
+The subjects were given study problems and transfer-text problems
+either in Filipino or in English.
+
+<ICE-PHI:W2A-018#63:1>
+Subjects ' performance in the transfer-test problems was coded in
+terms of whether there was transfer of information from the corresponding
+study problem.
+
+<ICE-PHI:W2A-018#64:1>
+Experiment 1 was designed to demonstrate whether the language used to
+express the study and transfer-test problems has any effect on analogical
+transfer.
+
+<ICE-PHI:W2A-018#65:1>
+In particular, the experiment was designed to demonstrate a
+language-compatibility effect.
+
+<ICE-PHI:W2A-018#66:1>
+Experiments 2 and 3 were designed to determine the locus of the
+language-compatibility effect; that is, whether using the same language to
+express the study and transfer-test problems facilitates either the access or
+the use of the analogous problem information. </p>
+
+<ICE-PHI:W2A-018#67:1>
+<h> <bold> EXPERIMENT 1 </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-018#68:1>
+Experiment 1 is basically a replication of an earlier study (
+Bernardo, 1994a) that showed trends suggesting a language-compatibility
+effect in analogical transfer with word problems.
+
+<ICE-PHI:W2A-018#69:1>
+For the study phase, some subjects were given the set of study
+problems in Filipino and the rest were given the problem in English.
+
+<ICE-PHI:W2A-018#70:1>
+For the transfer-test phase, all subjects were given half of the
+problems in Filipino and the other half in English. </p>
+
+<ICE-PHI:W2A-018#71:1>
+<h> <bold> Method </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-018#72:1>
+<h> <it> Subjects. </it> </h>
+
+<ICE-PHI:W2A-018#73:1>
+Sixty-four General Psychology students at the University of the
+Philippines, Diliman participated in this experiment as part of a class
+requirement.
+
+<ICE-PHI:W2A-018#74:1>
+All subjects were bilingual in Filipino and English, reporting
+Filipino as the language used at home and English as the main language used
+in mathematics education.
+
+<ICE-PHI:W2A-018#75:1>
+Half of the subjects were randomly assigned to the Filipino-study
+condition, and the rest to the English-study condition. </p>
+
+<p> 
+<ICE-PHI:W2A-018#76:1>
+The subjects were asked to rate their proficiency in speaking,
+reading, and writing in Filipino and in English in a scale of 1 to 7 ( 1 =
+not at all proficient; 7 = very proficient).
+
+<ICE-PHI:W2A-018#77:1>
+The self-ratings in the three language skills were combined to create
+a composite proficiency self-rating score in the two languages.
+
+<ICE-PHI:W2A-018#78:1>
+The mean proficiency scores of the subjects in the Filipino-study
+condition were 5.08 ( <it> SE </it> = 0.14) in Filipino and 5.31 ( <it> SE
+</it> = 0.11) in English.
+
+<ICE-PHI:W2A-018#79:1>
+For the subjects in the English study condition the corresponding
+means were 5.29 ( <it> SE </it> = 0.16) and 5.45 ( <it> SE </it> = 0.14),
+respectively.
+
+<ICE-PHI:W2A-018#80:1>
+The scores for both study-condition groups were analyzed using a 2x2
+ANOVA for mixed-factorial designs with study condition as between-group
+factor and language as within-group factor.
+
+<ICE-PHI:W2A-018#81:1>
+The analysis revealed no systematic differences in proficiency
+between the two groups, <it> F </it> ( 1, 62) = 1.13, <it> MSe </it> = 0.84,
+<it> P </it> &gt; .10; neither was there any advantage in proficiency in
+either language, <it> F </it> ( 1,62) = 2.67, <it> MSe </it> = 0.45, <it> P
+</it> &gt; .10.
+
+<ICE-PHI:W2A-018#82:1>
+There was also no interaction effect between the two factors, <it> F
+</it> &lt; 1.0.
+
+<ICE-PHI:W2A-018#83:1>
+These null results suggest that there were no gross differences in
+the perceived proficiency in Filipino and in English across the two study
+conditions. </p>
+
+<p> 
+<ICE-PHI:W2A-018#84:1>
+<h> <it> Materials </it> </h> .
+
+<ICE-PHI:W2A-018#85:1>
+Word problems in probability were created in four problem types:
+conjunction problem with independent events, conjunction problem with
+dependent events, disjunction problems with exclusive events, disjunction
+problems with intersecting events ( see Appendix A for examples of problems).
+
+<ICE-PHI:W2A-018#86:1>
+Probability problems were chosen to ensure that subjects had no
+extensive prior experience in the problem domain ( this was verified in the
+background questionnaire), yet the problems were easy enough for those with a
+background in algebra.
+
+<ICE-PHI:W2A-018#87:1>
+Four versions of each problem type were created; each version had a
+different surface content.
+
+<ICE-PHI:W2A-018#88:1>
+One version of each of the four problem types was combined to form a
+study set, making four sets of four study problems. </p>
+
+<p> 
+<ICE-PHI:W2A-018#89:1>
+All study problems were first written in English.
+
+<ICE-PHI:W2A-018#90:1>
+The English problems were than translated into Filipino by a research
+assistant who was proficient in both languages.
+
+<ICE-PHI:W2A-018#91:1>
+To ensure that the Filipino and English versions were equivalent, the
+Filipino translations were translated back into English by another research
+assistant. </p>
+
+<p> 
+<ICE-PHI:W2A-018#92:1>
+For the transfer-test problems, a superficially similar analogous
+problem was created for each of the study problems ( see Appendix B for an
+example).
+
+<ICE-PHI:W2A-018#93:1>
+Half of these problems were written in Filipino and half were in
+English.
+
+<ICE-PHI:W2A-018#94:1>
+Using a counter-balancing procedure, it was ensured that across the
+four sets of study problems each problem type had an equal probability of
+having a transfer-test problem in Filipino or in English. </p>
+
+<p> 
+<ICE-PHI:W2A-018#95:1>
+Each study problem was typed on a separate sheet.
+
+<ICE-PHI:W2A-018#96:1>
+Each transfer-test problem was also typed on a separate sheet, with
+the problem on the top portion, and the rest of the page left blank for the
+solutions.
+
+<ICE-PHI:W2A-018#97:1>
+The study problems and the test problems were arranged in a random
+order and combined to form a test booklet.
+
+<ICE-PHI:W2A-018#98:1>
+The test booklet included instructions for the study and test phases,
+and a questionnaire on subjects ' language and mathematics backgrounds.
+
+<ICE-PHI:W2A-018#99:1>
+The instructions and questionnaire were written in Filipino for the
+Filipino-study condition, and in English for the English-study condition.
+
+<ICE-PHI:W2A-018#100:1>
+The two language versions were prepared following the procedures
+described earlier. </p>
+
+<p> 
+<ICE-PHI:W2A-018#101:1>
+<h> <it> Procedure </it> </h> .
+
+<ICE-PHI:W2A-018#102:1>
+The subjects were run in groups not larger than 10.
+
+<ICE-PHI:W2A-018#103:1>
+Subjects in one session were randomly assigned to either the
+Filipino-study or English-study condition and given the appropriate test
+booklet.
+
+<ICE-PHI:W2A-018#104:1>
+They were instructed to read each study problem and to try to learn
+the material as best they could.
+
+<ICE-PHI:W2A-018#105:1>
+They were encouraged to work through the problems themselves; each
+subject was given a calculator for this purpose.
+
+<ICE-PHI:W2A-018#106:1>
+They were given 3 minutes to study each problem and they were told
+when they had 30 seconds left for each problem.
+
+<ICE-PHI:W2A-018#107:1>
+After studying the four study problems, the subjects were then asked
+to solve the transfer-test problems without directly referring to the study
+problems; they could also use the calculators.
+
+<ICE-PHI:W2A-018#108:1>
+They were given 3 minutes for each problem and were informed when
+they had 30 seconds left.
+
+<ICE-PHI:W2A-018#109:1>
+After completing the transfer-test problems, they filled out the
+background questionnaire.
+
+<ICE-PHI:W2A-018#110:1>
+</I>

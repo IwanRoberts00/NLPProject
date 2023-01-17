@@ -1,0 +1,700 @@
+<I>
+
+<$A> 
+<ICE-PHI:S1A-089#1:1:A>
+How are you
+
+<$B> 
+<ICE-PHI:S1A-089#2:1:B>
+I 'm fine
+
+
+<ICE-PHI:S1A-089#3:1:B>
+I 'm always fine
+
+<$A> 
+<ICE-PHI:S1A-089#4:1:A>
+Oh really
+
+
+<ICE-PHI:S1A-089#5:1:A>
+Nice of you to be fine
+
+
+<ICE-PHI:S1A-089#6:1:A>
+You don't have a class anymore
+
+<$B> 
+<ICE-PHI:S1A-089#7:1:B>
+I don't have a class since it is my break time
+
+<$A> 
+<ICE-PHI:S1A-089#8:1:A>
+Oh is that so
+
+<ICE-PHI:S1A-089#9:1:A>
+So what was your last class
+
+<$B> 
+<ICE-PHI:S1A-089#10:1:B>
+My last class well <mention> Technical Writing </mention>
+
+<$A> 
+<ICE-PHI:S1A-089#11:1:A>
+Oh what is it all about
+
+<$B> 
+<ICE-PHI:S1A-089#12:1:B>
+What is it all about
+
+<ICE-PHI:S1A-089#13:1:B>
+Isn't it that you are teaching <mention> Technical Writing
+</mention>
+
+<ICE-PHI:S1A-089#14:1:B>
+So why do you still have to ask me
+
+<$A> 
+<ICE-PHI:S1A-089#15:1:A>
+Oh yeah just kidding
+
+<ICE-PHI:S1A-089#16:1:A>
+You know I 'm almost <unclear> words </unclear> exhausted <O>
+laughter </O> <{> <[> <unclear> words </unclear> </[>
+
+<ICE-PHI:S1A-089#17:1:A>
+Sorry
+
+<$B> 
+<ICE-PHI:S1A-089#18:1:B>
+<[> You 're joking me </[> </{>
+
+<ICE-PHI:S1A-089#19:1:B>
+If there is somebody who is going to ask about <mention> Technical
+Writing </mention> it should be me since sometime uh uh <indig> ano </indig>
+so that I could even <{> <[> <unclear> words </unclear> </[>
+
+<$A> <[> Yeah yeah yeah yeah I understand that </[> </{>
+
+<ICE-PHI:S1A-089#20:1:A>
+But anyway what part of <mention> Technical Writing </mention> I
+mean uh the course outline have you tackled already
+
+<$B> 
+<ICE-PHI:S1A-089#21:1:B>
+I 've tackled already so far we have talked about uhm the
+definition
+
+<$A> 
+<ICE-PHI:S1A-089#22:1:A>
+<{> <[> Okay </[>
+
+<$B> 
+<ICE-PHI:S1A-089#23:1:B>
+<[> We talked about </[> </{> the properties
+
+<$A> 
+<ICE-PHI:S1A-089#24:1:A>
+Uh-huh
+
+<ICE-PHI:S1A-089#25:1:A>
+How many properties did you talk about
+
+<$B> 
+<ICE-PHI:S1A-089#26:1:B>
+Well I could not remember everything anymore but I made sure
+that I was able to talk about the properties starting with <mention> A
+</mention> up to mention> Z </mention>
+
+<$A> 
+<ICE-PHI:S1A-089#27:1:A>
+Oh I believe that well in my own understanding since you know
+I 'm also teaching the subject right
+
+<ICE-PHI:S1A-089#28:1:A>
+I think the properties are very important isn't it
+
+<ICE-PHI:S1A-089#29:1:A>
+What do you think
+
+<$B> 
+<ICE-PHI:S1A-089#30:1:B>
+It is very important that 's why I told them that they 're not
+supposed to memorize it only but you also have to apply all the things that
+you have learned from the properties
+
+<$A> 
+<ICE-PHI:S1A-089#31:1:A>
+Me too
+
+<ICE-PHI:S1A-089#32:1:A>
+We have the same you know you know okay
+
+<$B> 
+<ICE-PHI:S1A-089#33:1:B>
+What else well what we are going to talk about right now
+
+<$A> 
+<ICE-PHI:S1A-089#34:1:A>
+<unclear> words </unclear>
+
+<$B> 
+<ICE-PHI:S1A-089#35:1:B>
+<unclear> words </unclear> ask questions about pertaining this
+subject because I 'm not that knowledgeable
+
+<$A> 
+<ICE-PHI:S1A-089#36:1:A>
+Sure anything
+
+<$B> 
+<ICE-PHI:S1A-089#37:1:B>
+Well I 'm gonna we are going to talk about properties what
+else other things that we are supposed to talk
+
+<$A> 
+<ICE-PHI:S1A-089#38:1:A>
+ Well I believe that you have to proceed now with the basic uh
+techniques because these basic techniques support your lesson in properties
+
+<ICE-PHI:S1A-089#39:1:A>
+You know uhm properties actually the concept of studying the
+properties is <,> to achieve appropriateness
+
+<ICE-PHI:S1A-089#40:1:A>
+Now in line with appropriateness we have to see to it that the
+students may also know how to achieve appropriateness
+
+<ICE-PHI:S1A-089#41:1:A>
+So I advise you <indig> ha </indig> I advise you to tackle the
+basic techniques before the prelim exam
+
+<$B> 
+<ICE-PHI:S1A-089#42:1:B>
+Okay so
+
+<$A> 
+<ICE-PHI:S1A-089#43:1:A>
+Do you have do you have a note on that
+
+<$B> 
+<ICE-PHI:S1A-089#44:1:B>
+I don't have a note but then whatever are the things that I 'm
+teaching about <mention> Technical Writing </mention> I usually refer it to
+<,> from from my two sources which are uhm the <mention> Basic Technical
+Communication </mention>
+
+<$A> 
+<ICE-PHI:S1A-089#45:1:A>
+Uh-hmmmh
+
+<ICE-PHI:S1A-089#46:1:A>
+Oh yeah
+
+<ICE-PHI:S1A-089#47:1:A>
+That 's like a book that 's <{> <[> that 's a nice book </[>
+
+<ICE-PHI:S1A-089#48:1:A>
+Sorry
+
+<$B> 
+<ICE-PHI:S1A-089#49:1:B>
+<[> <unclear> words </unclear> </[> </{>
+
+<ICE-PHI:S1A-089#50:1:B>
+So I consider that to be a reference book in this subject
+
+<$A> 
+<ICE-PHI:S1A-089#51:1:A>
+Yes yes sure
+
+<ICE-PHI:S1A-089#52:1:A>
+The other one how about the other one
+
+<$B> 
+<ICE-PHI:S1A-089#53:1:B>
+The other one I forgot the title uh <,>
+
+<$A> 
+<ICE-PHI:S1A-089#54:1:A>
+It 's here <{> <[> <mention> Technical Writing </mention> </[>
+
+<$B> 
+<ICE-PHI:S1A-089#55:1:B>
+<[> <mention> Technical Writing </mention> </[> </{> by
+<unclear> word </unclear> <?> Soria and Mogol </?> <unclear> word </unclear>
+
+<ICE-PHI:S1A-089#56:1:B>
+That 's also nice
+
+<$A> 
+<ICE-PHI:S1A-089#57:1:A>
+Yeah it seems complete
+
+<$B> 
+<ICE-PHI:S1A-089#58:1:B>
+Well so far I don't have any difficulty teaching yet because
+we haven't tackled yet those uhm difficult things that need to be tackled
+about
+
+<$A> 
+<ICE-PHI:S1A-089#59:1:A>
+<{> <[> Okay </[>
+
+<$B> 
+<ICE-PHI:S1A-089#60:1:B>
+<[> So </[> </{> at this point in time I 'm still having some
+time uh teaching about that because it 's quite easy at this very moment
+
+<$A> 
+<ICE-PHI:S1A-089#61:1:A>
+Well if you find some difficulties in the future just <,> if
+you need my help just approach me okay
+
+<ICE-PHI:S1A-089#62:1:A>
+Who knows I may able to help you with that okay
+
+<ICE-PHI:S1A-089#63:1:A>
+So let 's help one another
+
+<$B> 
+<ICE-PHI:S1A-089#64:1:B>
+One one more thing apart from apart from uhm those things that
+I 'm supposed to teach them
+
+<ICE-PHI:S1A-089#65:1:B>
+What do you think are the best projects that I should require the
+students <{1> <[1> <unclear> words </unclear> </[1> to apply the properties
+that they have learned <{2> <[2> from this </[2> subject
+
+<$A> 
+<ICE-PHI:S1A-089#66:1:A>
+Oh <[1> that 's a nice question </[1> </{1>
+
+<ICE-PHI:S1A-089#67:1:A>
+<[2> Okay </[2> </{2>
+
+<ICE-PHI:S1A-089#68:1:A>
+Uh for me uhm they have only one project for that subject
+
+<ICE-PHI:S1A-089#69:1:A>
+They 're going to bring a finished product
+
+<ICE-PHI:S1A-089#70:1:A>
+A finished product which they did not buy from the market
+
+<$B> 
+<ICE-PHI:S1A-089#71:1:B>
+What do you mean by that
+
+<$A> 
+<ICE-PHI:S1A-089#72:1:A>
+Okay uh one of the basic techniques that we will tackle is
+about description of a process
+
+<$B> 
+<ICE-PHI:S1A-089#73:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-089#74:1:A>
+Okay now in that description of a process you will be learning
+the different procedures to finish something
+
+<ICE-PHI:S1A-089#75:1:A>
+Now uh in line with that I am requiring my students to bring with
+them a finished product but this finished product which will be their project
+is related to their course like for instance uh <,,> uh <,> a <,> wall
+decoration or a lamp
+
+<$B> 
+<ICE-PHI:S1A-089#76:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-089#77:1:A>
+And they could try to assemble that using the so called
+materials so our agreement is this they can buy the materials from the market
+but they need to produce their own
+
+<ICE-PHI:S1A-089#78:1:A>
+They have to come up with a lamp or they may have to come up with a
+wall decoration or they should come up with an electrical project anything
+that has something to do with reports and this may be the application of all
+the things that they learned in <mention> Technical Writing </mention>
+
+<ICE-PHI:S1A-089#79:1:A>
+Why
+
+<ICE-PHI:S1A-089#80:1:A>
+Because in the matter of presentation they have to apply unity
+coherence organization and of course logic
+
+<$B> 
+<ICE-PHI:S1A-089#81:1:B>
+Okay so
+
+<$A> 
+<ICE-PHI:S1A-089#82:1:A>
+That is one project that actually I only require them to
+submit one project <indig> e </indig>
+
+<$B> 
+<ICE-PHI:S1A-089#83:1:B>
+But apart from uhm apart from the requirement that they are to
+supposed to pass
+
+<$A> 
+<ICE-PHI:S1A-089#84:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-089#85:1:B>
+Are are they supposed to also explain about that particular
+<{> <[> project </[>
+
+<$A> 
+<ICE-PHI:S1A-089#86:1:A>
+<[> Yes </[> </{> definitely they have they have to explain it
+they have to to present to the class the methods that they followed the
+materials that they used okay and then the way they <.> assem </.> assembled
+that particular project
+
+<$B> 
+<ICE-PHI:S1A-089#87:1:B>
+What about the proposals
+
+<ICE-PHI:S1A-089#88:1:B>
+What can you say about that
+
+<$A> 
+<ICE-PHI:S1A-089#89:1:A>
+In terms of proposal because you know there is already this uh
+this trend right now that they are not making their own proposal
+
+<ICE-PHI:S1A-089#90:1:A>
+They just they are just asking somebody else to do it for them
+
+<ICE-PHI:S1A-089#91:1:A>
+So in terms of proposal I am not sure whether they can finish that
+or they do this all by themselves or they just ask somebody else to do it for
+them
+
+<$B> 
+<ICE-PHI:S1A-089#92:1:B>
+So you you feel then that it is not good for you to require
+them to make a proposal
+
+<$A> 
+<ICE-PHI:S1A-089#93:1:A>
+It 's not that it is not good but I think it 's not the best
+way of knowing whether they learn something from <mention> Technical Writing
+</mention> or not
+
+<ICE-PHI:S1A-089#94:1:A>
+But you can also do that provided provided <indig> ha </indig> take
+note of this provided that these students will be doing their proposal inside
+the classroom
+
+<ICE-PHI:S1A-089#95:1:A>
+But the problem is how can they gather data <,>
+
+<$B> 
+<ICE-PHI:S1A-089#96:1:B>
+So meaning you still have to send them out <{> <[> for for
+data gathering </[>
+
+<$A> 
+<ICE-PHI:S1A-089#97:1:A>
+<[> Yes </[> </{>
+
+<ICE-PHI:S1A-089#98:1:A>
+And then they have to show me the gathered data
+
+<$B> 
+<ICE-PHI:S1A-089#99:1:B>
+But then from my own point of view uh if there 's one thing
+that they should really learn about is on how to make a proposal
+
+<$A> 
+<ICE-PHI:S1A-089#100:1:A>
+<{> <[> Yes of course </[>
+
+<$B> 
+<ICE-PHI:S1A-089#101:1:B>
+<[> Because </[> </{> once they become professional uh they
+would be required to <{> <[> make a proposal </[> and that 's one way of
+generating money for their uhm for their boss
+
+<$A> 
+<ICE-PHI:S1A-089#102:1:A>
+<[> Uh-hmmmh </[> </{>
+
+<ICE-PHI:S1A-089#103:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-089#104:1:B>
+Because if ever they come out with a big proposal they might
+be assured of a business that would yield profit to the company that they are
+working for
+
+<$A> 
+<ICE-PHI:S1A-089#105:1:A>
+I uhm you have a point you have a point and I would like you
+to think about that you know because you have a point okay
+
+<ICE-PHI:S1A-089#106:1:A>
+Now the the problem is you know I I would like to require them to
+make a proposal but the problem you know is that <,> perhaps they have to
+defend the title present the title and defend it otherwise I will not be sure
+whether that particular proposal is <,> had been written by somebody else or
+they just bought it somewhere
+
+<ICE-PHI:S1A-089#107:1:A>
+So perhaps the best way that we can do right now if you want them
+to make submit a proposal is that they have to present a certain title
+
+<$B> 
+<ICE-PHI:S1A-089#108:1:B>
+Okay now uh I scanned the syllabus and I found out that uh
+you did not include <unclear> words </unclear>
+
+<ICE-PHI:S1A-089#109:1:B>
+I found out that you did not include <mention> Report Writing
+</mention> as part of the uh syllabus
+
+<$A> 
+<ICE-PHI:S1A-089#110:1:A>
+Is that so
+
+<ICE-PHI:S1A-089#111:1:A>
+That 's the last part of the
+
+<$B> 
+<ICE-PHI:S1A-089#112:1:B>
+There are there are some portions there <,> there 's a
+portion there wherein uh there is a need for you for them to uhm study about
+report
+
+<$A> 
+<ICE-PHI:S1A-089#113:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-089#114:1:B>
+But then I found out that uh there was no specified report
+that they are supposed to <unclear> words </unclear>
+
+<$A> 
+<ICE-PHI:S1A-089#115:1:A>
+Okay
+
+<$B> 
+<ICE-PHI:S1A-089#116:1:B>
+Like for instance <mention> annual report </mention> <{> <[>
+<unclear> word </unclear> </[> report
+
+<$A> 
+<ICE-PHI:S1A-089#117:1:A>
+<[> Okay </[> </{>
+
+<ICE-PHI:S1A-089#118:1:A>
+You know the reason for this is I was thinking of the time the
+time frame that I think that for me <indig> ha </indig> for me what I 'm
+doing is that after I have already finished discussing the steps the tendency
+is I usually let them make a scope but that is not a project it 's just an
+assignment
+
+<ICE-PHI:S1A-089#119:1:A>
+It 's the application of the five steps
+
+<$B> 
+<ICE-PHI:S1A-089#120:1:B>
+And you feel that uhm you 're not you 're not supposed to
+dwell on that particular topic
+
+<$A> 
+<ICE-PHI:S1A-089#121:1:A>
+I can
+
+<$B> 
+<ICE-PHI:S1A-089#122:1:B>
+Because you feel it is not that important compared to other
+
+<$A> 
+<ICE-PHI:S1A-089#123:1:A>
+No no no no
+
+<ICE-PHI:S1A-089#124:1:A>
+I am not saying that it is not important but what I 'm telling you
+is it 's not supposed to be treated as a project
+
+<ICE-PHI:S1A-089#125:1:A>
+It is supposed to be a uh an assignment
+
+<$B> 
+<ICE-PHI:S1A-089#126:1:B>
+An exercise
+
+<$A> 
+<ICE-PHI:S1A-089#127:1:A>
+An exercise yes because if it is a project you know they are
+good <indig> e </indig> they are very good in in buying copying something
+especially now that we have the internet
+
+<ICE-PHI:S1A-089#128:1:A>
+They all they just get it from somebody else but I I require I
+require them to do a proposal I require them to present a progress report a
+preliminary report in the sense that it is just an exercise
+
+<$B> 
+<ICE-PHI:S1A-089#129:1:B>
+Okay one more thing
+
+<$A> 
+<ICE-PHI:S1A-089#130:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-089#131:1:B>
+Uhm I 've noticed from my students that they are not that
+motivated in studying <mention> Technical Writing </mention> maybe because
+they felt that it is not uhm useful to them
+
+<$A> 
+<ICE-PHI:S1A-089#132:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-089#133:1:B>
+Now in what way could I be able to motivate my students in
+such a way that uhm they are going to study and be interested in the subject
+matter
+
+<$A> 
+<ICE-PHI:S1A-089#134:1:A>
+Uh okay so that 's the point
+
+<ICE-PHI:S1A-089#135:1:A>
+Now let 's see
+
+<ICE-PHI:S1A-089#136:1:A>
+In the introductory part of the subject I always pinpoint the
+significance of <mention> Technical Writing </mention> in their chosen field
+of specialization
+
+<ICE-PHI:S1A-089#137:1:A>
+And I always tell them that actually <mention> Technical Writing
+</mention> is a boring subject
+
+<$B> 
+<ICE-PHI:S1A-089#138:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-089#139:1:A>
+Why because you need to well let 's say they 're not gonna
+memorize it but they have to understand everything by heart
+
+<ICE-PHI:S1A-089#140:1:A>
+Isn't it because we 're talking about the principles
+
+<ICE-PHI:S1A-089#141:1:A>
+Now but to motivate them <,> okay to like the subject so that <,>
+I have to I always emphasize to them the importance of this because they
+cannot perform their work in the future without knowing how to prepare
+technical reports because this is half of their their lives when they become
+professionals
+
+<ICE-PHI:S1A-089#142:1:A>
+This will be half of the profession that they 're going to tackle
+and the work that they 're going to do
+
+<ICE-PHI:S1A-089#143:1:A>
+And another thing is that I always tell them that <mention>
+Technical Writing </mention> is a preparation of the <mention> Thesis Writing
+</mention> they will have when they will be in a <?> year </?>
+
+<ICE-PHI:S1A-089#144:1:A>
+And I always emphasize to them that they cannot graduate unless
+they have to write a thesis
+
+<ICE-PHI:S1A-089#145:1:A>
+And for them to come up with an effective and complete thesis they
+need to study <mention> Technical Writing </mention>
+
+<$B> 
+<ICE-PHI:S1A-089#146:1:B>
+And that 's good <indig> ano </indig> you
+
+<$A> 
+<ICE-PHI:S1A-089#147:1:A>
+<{> <[> Yes </[>
+
+<$B> 
+<ICE-PHI:S1A-089#148:1:B>
+<[> You </[> </{> you require them the uh proposal in
+accordance with <unclear> words </unclear> in accordance with their courses
+
+<ICE-PHI:S1A-089#149:1:B>
+ But then since we are talking about <mention> Technical Writing
+</mention> we at times encounter students who are having difficulty writing
+
+<$A> 
+<ICE-PHI:S1A-089#150:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-089#151:1:B>
+So naturally uh since some of the problem that they are
+encountering uh deals with grammars
+
+<$A> 
+<ICE-PHI:S1A-089#152:1:A>
+Okay
+
+<$B> 
+<ICE-PHI:S1A-089#153:1:B>
+We at times go back to the basic <{> <[> <,> </[> which
+sometimes eat most of our time
+
+<$A> 
+<ICE-PHI:S1A-089#154:1:A>
+<[> Yes </[> </{>
+
+<ICE-PHI:S1A-089#155:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-089#156:1:B>
+Now what do you do with those students who dos not even know
+how to write simple English or sentence
+
+<$A> 
+<ICE-PHI:S1A-089#157:1:A>
+Well well that 's a problem but you know sometimes if that 's
+the case uh I have to I have experienced tutoring students
+
+<$B> 
+<ICE-PHI:S1A-089#158:1:B>
+That 's a good <unclear> word </unclear>
+
+<$A> 
+<ICE-PHI:S1A-089#159:1:A>
+It 's very very hard but you know I cannot blame the teachers
+in in their previous English subjects because you know he cannot cater to all
+right to all sixty students right
+
+
+<ICE-PHI:S1A-089#160:1:A>
+So there will always be this problem but you know sometimes we
+have to spend extra hour and extra patience you know not only teaching their
+subject but also going back to this particular uh grammar thing because they
+cannot write without knowing their <unclear> word </unclear> so that 's the
+only thing I can offer them
+
+
+<ICE-PHI:S1A-089#161:1:A>
+It 's just to tutor them with <unclear> word </unclear> past
+subjects especially in grammar </I> 

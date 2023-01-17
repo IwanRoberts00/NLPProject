@@ -1,0 +1,532 @@
+<I>
+
+<ICE-PHI:W2A-037#1:1>
+<h> <bold> Routing Broadcast Packets Along a Minimum Diameter Tree
+</bold> </h>
+
+<ICE-PHI:W2A-037#2:1>
+<bold> Efren F. Abaya </bold>
+
+<ICE-PHI:W2A-037#3:1>
+<h> <bold> ABSTRACT </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-037#4:1>
+In traditional computer networks, such as X.25 and TCP/IP
+networks, packets generally traverse the lowest cost route going from one
+source to one destination.
+
+<ICE-PHI:W2A-037#5:1>
+In recent years, new classes of computer and video services have
+emerged that transfer multiple copies of a packet from one source to many
+destinations ( multicast or broadcast). </p>
+
+<p> 
+<ICE-PHI:W2A-037#6:1>
+This paper models the broadcast routing problem in a mesh computer
+network as a graph theory problem with a cost function that has to be
+minimized.
+
+<ICE-PHI:W2A-037#7:1>
+The paper proposes a new criterion for routing broadcast packets when
+each node in the network may be a source of broadcast packets directed to the
+other nodes.
+
+<ICE-PHI:W2A-037#8:1>
+Constraining broadcast packets to follow a single spanning tree, it is
+shown that a minimum diameter spanning tree is a suitable choice for routing
+purposes.
+
+<ICE-PHI:W2A-037#9:1>
+A heuristic for generating a minimum diameter spanning tree is
+presented. </p>
+
+<ICE-PHI:W2A-037#10:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-037#11:1>
+In traditional computer networks, such as X.25 and TCP/IP
+networks, packets generally traverse the lowest cost route going from one
+source to one destination.
+
+<ICE-PHI:W2A-037#12:1>
+The routing strategy has proven effective for services such as batch
+file transfer and interactive remote login.
+
+<ICE-PHI:W2A-037#13:1>
+In recent years, new classes or computer and video services have
+emerged that transfer multiple copies of a packet from one source to many
+destinations.
+
+<ICE-PHI:W2A-037#14:1>
+Applications such as videoconferencing, parallel search of
+distributed databases, multiple address email, and email distribution lists
+can flood a computer network with multiple copies of a single packet that
+will consume the capacity or the resources of the network.
+
+<ICE-PHI:W2A-037#15:1>
+This situation is similar to broadcasting or flooding algorithms.
+</p>
+
+<p> 
+<ICE-PHI:W2A-037#16:1>
+Transmission of a packet from one to many destinations is called
+<mention> multicasting [ COM, TANb], or multipoint routing, or multiple
+destination routing ( MDR) [ TANa] </mention> .
+
+<ICE-PHI:W2A-037#17:1>
+The extreme case, where the packet is sent to all possible
+destinations ( except the source), is called <mention> broadcasting
+</mention> .
+
+<ICE-PHI:W2A-037#18:1>
+The objective of routing strategies is to conserve network bandwidth
+or lower the cost of transmitting packets. </p>
+
+<p> 
+<ICE-PHI:W2A-037#19:1>
+In networks with broadcast media such as IEEE 802.3 ( Ethernet)
+or VSAT networks broadcasting of packets is achieved by the normal operation
+of the medium.
+
+<ICE-PHI:W2A-037#20:1>
+However, in networks with a mesh topology, broadcasting strategies
+have to be deliberately defined.
+
+<ICE-PHI:W2A-037#21:1>
+Otherwise, packets may loop or return to the sender.
+
+<ICE-PHI:W2A-037#22:1>
+A popular choice is to route broadcast packets along a spanning tree.
+</p>
+
+<p> 
+<ICE-PHI:W2A-037#23:1>
+This paper models the broadcast routing problem in a mesh
+computer network as a group theory problem with a cost function that has to
+be minimized.
+
+<ICE-PHI:W2A-037#24:1>
+The purpose of this paper is to propose a new criterion for routing
+broadcast packets if each node in the network may be a source of broadcast
+packets directed to the other nodes.
+
+<ICE-PHI:W2A-037#25:1>
+Constraining broadcast packets to follow a single spanning tree, it
+will be shown that a minimum diameter spanning tree is a suitable choice for
+routing purposes.
+
+<ICE-PHI:W2A-037#26:1>
+A heuristic for generating a minimum diameter spanning tree is
+presented. </p>
+
+<ICE-PHI:W2A-037#27:1>
+<h> <bold> SPANNING TREES </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-037#28:1>
+A network is modeled by a weighted non-directed graph consisting
+of nodes v and links 1 <sb> j </sb> .
+
+<ICE-PHI:W2A-037#29:1>
+For the j-th link, a link weight w <sb> j </sb> represents some
+general cost of transporting one packet across the link, such as physical
+distance between nodes, average transmit time, time delay or economic cost.
+
+<ICE-PHI:W2A-037#30:1>
+Alternatively, the link weight may be made inversely proportional to
+the transmission capacity ( bandwidth) so that a higher weight implies a less
+desirable link.
+
+<ICE-PHI:W2A-037#31:1>
+Figure 1 shows an example of a network with link weights. </p>
+
+<p> 
+<ICE-PHI:W2A-037#32:1>
+A path from a source node to a destination node is a connected
+sequence of nodes and links in which no node appears more than once ( i. e.
+that has no loops).
+
+<ICE-PHI:W2A-037#33:1>
+The weight or cost of the path is defined as the sum of weights w
+<sb> j </sb> for the links l <sb> i </sb> in the path. </p>
+
+<p> 
+<ICE-PHI:W2A-037#34:1>
+The shortest path between two nodes v <sb> A </sb> and v <sb> B
+</sb> is that path that has the smallest path weight among all paths
+connecting the two nodes.
+
+<ICE-PHI:W2A-037#35:1>
+The distance d(v <sb> A </sb> , v <sb> B </sb> ) between the two
+nodes is defined as the weight of the shortest path.
+
+<ICE-PHI:W2A-037#36:1>
+The shortest path, as well as the distance, are easily obtained with
+standard graph theory algorithms such as Dijkstra 's algorithm [ DEO]. </p>
+
+<p> 
+<ICE-PHI:W2A-037#37:1>
+The shortest paths from a given source node v <sb> A </sb> to all
+other nodes form a rooted spanning tree that we shall call a shortest path
+tree ( sometimes called a <mention> Dijkstra tree </mention> ) . </p>
+
+<p> 
+<ICE-PHI:W2A-037#38:1>
+Alternatively, routing algorithms can also use a minimum spanning
+tree ( MST) or shortest spanning tree, defined as the spanning tree having
+the smallest weight.
+
+<ICE-PHI:W2A-037#39:1>
+( The weight of a spanning tree is defined as the sum of the link
+weights of all the links in the tree.
+
+<ICE-PHI:W2A-037#40:1>
+) The minimum spanning tree is constructed using either Prim 's
+algorithm or Kruskal 's algorithm [ DEO]. </p>
+
+<p> 
+<ICE-PHI:W2A-037#41:1>
+Given a mesh network such as Figure 1, a spanning tree can be
+chosen for purposes of routing broadcast packets from one node to the other
+nodes.
+
+<ICE-PHI:W2A-037#42:1>
+Routing along a tree is simple and attractive since from any source
+node there is exactly one path to every destination node.
+
+<ICE-PHI:W2A-037#43:1>
+The tree ensures that every destination will be reached, and that no
+loops will exist for packets to circulate.
+
+<ICE-PHI:W2A-037#44:1>
+Various broadcast strategies are discussed in [ TAN]. </p>
+
+<p> 
+<ICE-PHI:W2A-037#45:1>
+In some protocols used by LAN bridges, nodes cooperate in
+handling broadcast packets so that only one packet is sent along each link.
+
+<ICE-PHI:W2A-037#46:1>
+When a node with two or more outgoing links receives a broadcast
+packet, it will forward one copy along each outgoing direction.
+
+<ICE-PHI:W2A-037#47:1>
+With this strategy, the total cost of routing packets from one source
+to all destinations is the tree weight. </p>
+
+<p> 
+<ICE-PHI:W2A-037#48:1>
+<O> formula </O> where the summation is taken over all links i in
+the tree.
+
+<ICE-PHI:W2A-037#49:1>
+Clearly, the sum is minimized by routing packets along a minimum
+spanning tree. </p>
+
+<p> 
+<ICE-PHI:W2A-037#50:1>
+However, there are cases where a separate packet must be sent
+from the source to each destination.
+
+<ICE-PHI:W2A-037#51:1>
+For example, blind courtesy copies ( typically called <mention> bcc
+</mention> ) of email carry a different address in the mail header for each
+destination, although the body of the mail will be identical for all copies.
+
+<ICE-PHI:W2A-037#52:1>
+Mass mailing, or mailing lists, also typically send one separate copy
+of mail for each addressee. </p>
+
+<p> 
+<ICE-PHI:W2A-037#53:1>
+In this case, the cost of routing packets from one source node S
+is given by the total weight of all paths originating from S ( i.e. the total
+distance of all nodes from S): <O> formula </O> where the summation is taken
+over all nodes j.
+
+<ICE-PHI:W2A-037#54:1>
+The cost c(s, v <sb> j </sb> ) is the weight of the path taken by
+packets going from node S to node v <sb> j </sb> .
+
+<ICE-PHI:W2A-037#55:1>
+Then, the lowest cost is obtained by routing along a shortest path
+tree rooted at node S so that c(S, v <sb> j </sb> ) = d(S, v <sb> j </sb> ) .
+
+<ICE-PHI:W2A-037#56:1>
+Such a tree can be constructed using Dijkstra 's algorithm to
+simultaneously find the shortest paths to all nodes.
+
+<ICE-PHI:W2A-037#57:1>
+For example, the Open Shortest Path First ( OSPF) routing algorithm
+is based on Dijkstra tree [ PER]. </p>
+
+<p> 
+<ICE-PHI:W2A-037#58:1>
+We observe that in general, the shortest spanning tree and the
+shortest path tree are different.
+
+<ICE-PHI:W2A-037#59:1>
+This is illustrated by Figure 2 for a source node S at the lower left
+corner of the path.
+
+<ICE-PHI:W2A-037#60:1>
+Secondly, we observe that there will be different shortest path trees
+from different source routes in the graph.
+
+<ICE-PHI:W2A-037#61:1>
+For example, if the tree in Figure 2(b) were used for the source at
+the lower right node, the total distance of all nodes would be C = 34, which
+is obviously not the lowest possible cost. </p>
+
+<ICE-PHI:W2A-037#62:1>
+<h> <bold> BROADCASTING FROM MANY SOURCES </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-037#63:1>
+In future applications envisioned for high speed networks, every
+node can potentially be a source of broadcast packets.
+
+<ICE-PHI:W2A-037#64:1>
+For example, in future distributed databases, one way for a client to
+locate data may be to broadcast a query to all databases servers.
+
+<ICE-PHI:W2A-037#65:1>
+( The alternative is to query each database sequentially.) </p>
+
+<p> 
+<ICE-PHI:W2A-037#66:1>
+Assume that each destination is sent a separate copy of the
+broadcast packet.
+
+<ICE-PHI:W2A-037#67:1>
+Suppose that we would like the broadcast packets to traverse a single
+tree in order to simplify the routing.
+
+<ICE-PHI:W2A-037#68:1>
+Given a network graph with a mesh topology, the issue is how to pick
+the best spanning tree for this purpose. </p>
+
+<p> 
+<ICE-PHI:W2A-037#69:1>
+In a network in which each of N nodes can be a broadcast source,
+the average cost per source of routing packets along a single tree is <O>
+formula </O>
+
+<ICE-PHI:W2A-037#70:1>
+Here the distance d(v <sb> i </sb> , v <sb> j </sb> ) between source
+v <sb> i </sb> and the destination v <sb> j </sb> is taken as the weight of
+the unique path along the tree. </p>
+
+<p> 
+<ICE-PHI:W2A-037#71:1>
+Therefore, the best spanning tree for routing broadcast packets
+is that which minimizes the cost criterion <O> formula </O>
+
+<ICE-PHI:W2A-037#72:1>
+This cost represents the sum of distances taken between all pairs of
+nodes in the spanning tree. </p>
+
+<p> 
+<ICE-PHI:W2A-037#73:1>
+In this cost criterion, the i-th link contributes the link weight
+w <sb> i </sb> multiplied by the number of paths that traverse the link, when
+paths between all pairs of nodes are counted.
+
+<ICE-PHI:W2A-037#74:1>
+Consider a representative tree shown in Figure 3.
+
+<ICE-PHI:W2A-037#75:1>
+For link i of this tree, the number of paths is equal to the product
+of the number of nodes on the left side of the link ( 3) and the number of
+nodes on the right side ( 6).
+
+<ICE-PHI:W2A-037#76:1>
+Thus, a total of 18 broadcast paths can pass through link i. </p>
+
+<p> 
+<ICE-PHI:W2A-037#77:1>
+For link i of a tree, let N <sb> iL </sb> be the number of nodes
+to the left of the link, and N <sb> iR </sb> be the number of nodes to the
+right of the link.
+
+<ICE-PHI:W2A-037#78:1>
+Then the cost ( Equation 3) can be expressed alternatively as <O>
+formula </O> </p>
+
+<p> 
+<ICE-PHI:W2A-037#79:1>
+Observe that the more dissimilar the terms are, the smaller is
+the product N <sb> iL </sb> N <sb> iR </sb> ( where the sum N <sb> iL </sb> +
+N <sb> iR </sb> = N, a constant).
+
+<ICE-PHI:W2A-037#80:1>
+As the terms become closer, the larger the product becomes.
+
+<ICE-PHI:W2A-037#81:1>
+Thus, this product N <sb> iL </sb> N <sb> iR </sb> is minimized by
+making one term equal to units and the other equal to N-1, if possible. </p>
+
+<p> 
+<ICE-PHI:W2A-037#82:1>
+Based on this consideration, the ideal spanning tree is a star (
+see Figure 4).
+
+<ICE-PHI:W2A-037#83:1>
+Notice that the distance between nodes in a star network are as short
+as possible, so that the cost ( 3) is also made smaller.
+
+<ICE-PHI:W2A-037#84:1>
+However, it is not always possible to find a spanning tree with a
+star topology.
+
+<ICE-PHI:W2A-037#85:1>
+Then a two-level ( or multi-level) star such as that shown in Figure
+5 may be the best. </p>
+
+<p> 
+<ICE-PHI:W2A-037#86:1>
+In networks with sparse connections, we cannot always hope to
+find a spanning tree with a multi-level star topology.
+
+<ICE-PHI:W2A-037#87:1>
+So we come back to the question of constructing a spanning tree to
+minimize the cost criterion Equation 3 and Equation 4. </p>
+
+<ICE-PHI:W2A-037#88:1>
+<h> <bold> MINIMUM DIAMETER SPANNING TREE </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-037#89:1>
+Given a network graph with a mesh topology, we would like to
+construct a spanning tree that minimizes the cost criterion Equation 3 or
+Equation 4.
+
+<ICE-PHI:W2A-037#90:1>
+Note that this cost is the sum of distances taken between all pairs
+of nodes in the spanning tree.
+
+<ICE-PHI:W2A-037#91:1>
+Thus it makes sense to select a tree in which the longest path is as
+small as possible. </p>
+
+<p> 
+<ICE-PHI:W2A-037#92:1>
+We define the diameter of a graph as the largest distance between
+two nodes [ DEO].
+
+<ICE-PHI:W2A-037#93:1>
+It follows that the diameter of a spanning tree is the longest path
+along the tree. </p>
+
+<p> 
+<ICE-PHI:W2A-037#94:1>
+We conjecture that a minimum diameter spanning tree minimizes, or
+approaches the minimum of, the cost ( 3).
+
+<ICE-PHI:W2A-037#95:1>
+Therefore, we seek to construct a tree that achieves where the
+minimum is taken over all spanning trees of the graph.
+
+<ICE-PHI:W2A-037#96:1>
+Observe that in a graph with a mesh topology, the minimum tree
+diameter D <sb> t </sb> is lower bounded by the diameter of the graph D <sb>
+g </sb> .
+
+<ICE-PHI:W2A-037#97:1>
+For suppose this were not true and the diameter of the spanning tree
+D <sb> t </sb> is less than the diameter of the graph D <sb> g </sb> .
+
+<ICE-PHI:W2A-037#98:1>
+Then the largest distance between two nodes is D <sb> t </sb> and
+this contradicts the assumption that the largest distance between two nodes
+in the graph is D <sb> g </sb> .
+
+<ICE-PHI:W2A-037#99:1>
+On the other hand, it is easy to produce examples for which the
+minimum tree diameter is larger than the graph diameter.
+
+<ICE-PHI:W2A-037#100:1>
+A common example is a graph with ring topology ( " ring &rdquo; or
+&ldquo; loop &rdquo; network). </p>
+
+<p> 
+<ICE-PHI:W2A-037#101:1>
+To illustrate the above ideas, the graph in Figure 1 has a
+diameter of 6.
+
+<ICE-PHI:W2A-037#102:1>
+The minimum diameter tree is shown in Figure 2a, with a cost of 116
+computed from either Equation ( 3) or Equation ( 4).
+
+<ICE-PHI:W2A-037#103:1>
+The shortest path tree in Figure 2b is inferior because its diameter
+is 10 and the cost by Equation 3 is 154. </p>
+
+<p> 
+<ICE-PHI:W2A-037#104:1>
+Since there are not many algorithms for finding the minimum
+diameter tree in the literature we use the following heuristic:
+
+<p> 
+<ICE-PHI:W2A-037#105:1>
+1. Find the shortest path between the two nodes that are
+furthest apart in the graph, and call this the starting subtree.
+
+<ICE-PHI:W2A-037#106:1>
+That is, find the path that determines the diameter of the graph.
+
+<ICE-PHI:W2A-037#107:1>
+( Intuitively, this seems to be a logical choice.
+
+<ICE-PHI:W2A-037#108:1>
+Suppose the two nodes that are furthest apart are denoted by v <sb>
+l </sb> and v <sb> N </sb> ; they are connected by a path having weight D
+<sb> g </sb> .
+
+<ICE-PHI:W2A-037#109:1>
+If the path is not included in the minimum diameter tree, then for
+sure D <sb> t </sb> is strictly greater than D <sb> g </sb> .) </p>
+
+<p> 
+<ICE-PHI:W2A-037#110:1>
+2. For each node not in the starting subtree, connect the node
+to the starting subtree in such a way that the increase in tree diameter is
+minimized.
+
+<ICE-PHI:W2A-037#111:1>
+If there are several connecting paths that satisfy this condition,
+use the one with the shortest path to the starting subtree. </p>
+
+<p> 
+<ICE-PHI:W2A-037#112:1>
+This algorithm produced the spanning tree in Figure 2a. </p>
+
+<ICE-PHI:W2A-037#113:1>
+<h> <bold> CONCLUSION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-037#114:1>
+This paper has presented a new criterion for routing broadcast
+packets in a computer network if each node in the network may be a source of
+broadcast packets directed to the other nodes.
+
+<ICE-PHI:W2A-037#115:1>
+Constraining broadcast packets to follow a single spanning tree, it
+is shown that a minimum diameter spanning tree is a suitable choice for
+routing purposes.
+
+<ICE-PHI:W2A-037#116:1>
+A heuristic for generating a minimum diameter spanning tree is
+presented. </p>
+
+<p> 
+<ICE-PHI:W2A-037#117:1>
+The discussion should motivate a search for good algorithms to
+generate minimum diameter spanning trees.
+
+<ICE-PHI:W2A-037#118:1>
+The heuristic algorithm presented can also be further investigated
+to determine how close its solutions are to the desired minimum diameter
+tree. </p> </I>

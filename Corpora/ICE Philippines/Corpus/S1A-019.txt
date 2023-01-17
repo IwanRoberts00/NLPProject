@@ -1,0 +1,910 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-019#1:1:A>
+Hi Issa
+
+ <$B> 
+<ICE-PHI:S1A-019#2:1:B>
+How are you
+
+ <$A> 
+<ICE-PHI:S1A-019#3:1:A>
+I 'm fine
+ 
+<ICE-PHI:S1A-019#4:1:A>
+How about you
+
+ <$B> 
+<ICE-PHI:S1A-019#5:1:B>
+I 'm fine
+ 
+<ICE-PHI:S1A-019#6:1:B>
+Where did you come from
+
+ <$A> 
+<ICE-PHI:S1A-019#7:1:A>
+Well I just had lunch with Lala
+ 
+<ICE-PHI:S1A-019#8:1:A>
+How about you
+
+ <$B> 
+<ICE-PHI:S1A-019#9:1:B>
+I just had my FINAMA One <&> course code for Financial Management </&> class
+ 
+<ICE-PHI:S1A-019#10:1:B>
+<.> Wha </.> yeah you had lunch with Lala
+ 
+<ICE-PHI:S1A-019#11:1:B>
+How is she
+
+ <$A> 
+<ICE-PHI:S1A-019#12:1:A>
+She 's fine
+ 
+<ICE-PHI:S1A-019#13:1:A>
+Well she just got sick the other day
+ 
+<ICE-PHI:S1A-019#14:1:A>
+But right now she 's feeling okay
+ 
+<ICE-PHI:S1A-019#15:1:A>
+We just had lunch in Aristocrat
+
+ <$B> 
+<ICE-PHI:S1A-019#16:1:B>
+That 's good
+ 
+<ICE-PHI:S1A-019#17:1:B>
+Hey guys you never told me about your love story
+ 
+<ICE-PHI:S1A-019#18:1:B>
+You tell me about it
+
+ <$A> 
+<ICE-PHI:S1A-019#19:1:A>
+Well our love story is kinda long
+ 
+<ICE-PHI:S1A-019#20:1:A>
+If it 's
+ 
+<ICE-PHI:S1A-019#21:1:A>
+Is it your break right now
+
+ <$B> 
+<ICE-PHI:S1A-019#22:1:B>
+Yes it is
+
+ <$A> 
+<ICE-PHI:S1A-019#23:1:A>
+Well if you have time maybe you can listen to it
+
+ <$A> 
+<ICE-PHI:S1A-019#24:1:A>
+Yeah I have all the time in the world
+
+ <$A> 
+<ICE-PHI:S1A-019#25:1:A>
+Well <,> so when where do you want me to start
+
+ <$B> 
+<ICE-PHI:S1A-019#26:1:B>
+From the beginning of course
+
+ <$A> 
+<ICE-PHI:S1A-019#27:1:A>
+Well <,> okay
+ 
+<ICE-PHI:S1A-019#28:1:A>
+It all started when I was second year college
+ 
+<ICE-PHI:S1A-019#29:1:A>
+It was the first week since classes start
+ 
+<ICE-PHI:S1A-019#30:1:A>
+I was trying to enjoy school
+ 
+<ICE-PHI:S1A-019#31:1:A>
+I thought things didn't go my way because I had to take a leave of absence
+ 
+<ICE-PHI:S1A-019#32:1:A>
+Since I didn't want to accumulate failed units and I couldn't coordinate my studies <,> and my football practices <,> friends kept me company and all I did was to have fun with them <,> and play football
+ 
+<ICE-PHI:S1A-019#33:1:A>
+I liked some girls but I always found something wrong in each of them that made me stop liking them
+ 
+<ICE-PHI:S1A-019#34:1:A>
+Usually because they don't meet up to my standards
+ 
+<ICE-PHI:S1A-019#35:1:A>
+Since I already wanted to have an inspiration and get my life fixed there 's this girl in her first year <,> a new fresh face in school
+ 
+<ICE-PHI:S1A-019#36:1:A>
+Her name was Lala
+ 
+<ICE-PHI:S1A-019#37:1:A>
+I liked her right away
+ 
+<ICE-PHI:S1A-019#38:1:A>
+But I didn't have the guts to show her
+ 
+<ICE-PHI:S1A-019#39:1:A>
+We had common friends and I eventually got to be with her quite often
+ 
+<ICE-PHI:S1A-019#40:1:A>
+I realized that she was easy to get along
+ 
+<ICE-PHI:S1A-019#41:1:A>
+She was funny <,> easy to talk to <,> and of course attractive
+ 
+<ICE-PHI:S1A-019#42:1:A>
+I never thought I 'd get close to her
+ 
+<ICE-PHI:S1A-019#43:1:A>
+I still didn't have the guts to show her that I liked her
+ 
+<ICE-PHI:S1A-019#44:1:A>
+One day during the second term <,> it was the first day of class <,> I saw Lala in the classroom where I was enrolled
+ 
+<ICE-PHI:S1A-019#45:1:A>
+I realized that I didn't need that to take that subject <,> only to find out that I took it already
+ 
+<ICE-PHI:S1A-019#46:1:A>
+There was a mistake somewhere I don't know
+ 
+<ICE-PHI:S1A-019#47:1:A>
+The teacher spoke to me and asked me to drop the class
+ 
+<ICE-PHI:S1A-019#48:1:A>
+But I didn't want to because I felt so lucky and happy to be with to be her classmate
+ 
+<ICE-PHI:S1A-019#49:1:A>
+I decided to stay and sat <.> behi </.> sit behind her
+ 
+<ICE-PHI:S1A-019#50:1:A>
+The class was so boring and she was all I looked at
+ 
+<ICE-PHI:S1A-019#51:1:A>
+She was just smiling at me the whole time <O> chuckles </O> 
+ 
+<ICE-PHI:S1A-019#52:1:A>
+And <,> it lit up my day somehow
+ 
+<ICE-PHI:S1A-019#53:1:A>
+She was really bored and <,> she didn't know anyone in class
+ 
+<ICE-PHI:S1A-019#54:1:A>
+So she turned to me and taught me funny songs of April Boys Rico Rico J Puno and other songs
+
+ <$B> 
+<ICE-PHI:S1A-019#55:1:B>
+April Boys
+
+ <$A> 
+<ICE-PHI:S1A-019#56:1:A>
+Yup <,> and <,> those days that was like the hit song
+
+ <$B> 
+<ICE-PHI:S1A-019#57:1:B>
+Yuck <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-019#58:1:A>
+She made me sing with her <,> and laugh so hard
+ 
+<ICE-PHI:S1A-019#59:1:A>
+The teacher always caught our attention
+ 
+<ICE-PHI:S1A-019#60:1:A>
+And we enjoyed PHILHIS <&> course code for Philippine History </&> from then on
+ 
+<ICE-PHI:S1A-019#61:1:A>
+Weeks later she asked for my seatmate 's telephone number
+ 
+<ICE-PHI:S1A-019#62:1:A>
+And I said how come me you never ask my phone number
+ 
+<ICE-PHI:S1A-019#63:1:A>
+She said Oh yeah <,> what 's your number 
+ 
+<ICE-PHI:S1A-019#64:1:A>
+Then <,> I gave it to her
+ 
+<ICE-PHI:S1A-019#65:1:A>
+She called me over the weekend and I said hello
+ 
+<ICE-PHI:S1A-019#66:1:A>
+She sang she sang our favorite song we used to sing in PHILHIS which was <,> the song by <,> <.> Fug </.> The Fugees called Fugeela 
+ 
+<ICE-PHI:S1A-019#67:1:A>
+Then I started laughing <,> 
+ 
+<ICE-PHI:S1A-019#68:1:A>
+I didn't have to ask who it was
+ 
+<ICE-PHI:S1A-019#69:1:A>
+After that I found that her friends didn't have the same break as her so I called
+ 
+<ICE-PHI:S1A-019#70:1:A>
+So from then on I kept her company for lunch
+
+ <$B> 
+<ICE-PHI:S1A-019#71:1:B>
+And that 's how it started
+
+ <$A> 
+<ICE-PHI:S1A-019#72:1:A>
+Yeah <,> that 's how it kind of started
+ 
+<ICE-PHI:S1A-019#73:1:A>
+We got closer and closer until I felt that I wanted to be with her more often
+ 
+<ICE-PHI:S1A-019#74:1:A>
+She even invited me to her birthday party
+ 
+<ICE-PHI:S1A-019#75:1:A>
+And I was really excited and nervous about it
+ 
+<ICE-PHI:S1A-019#76:1:A>
+Weren't you there
+
+ <$B> 
+<ICE-PHI:S1A-019#77:1:B>
+Yeah I think I was and I saw you
+
+ <$A> 
+<ICE-PHI:S1A-019#78:1:A>
+Yeah that that was our first uhm acquaintance if you might <,> want to call it that way
+
+ <$B> 
+<ICE-PHI:S1A-019#79:1:B>
+Yeah but <,> when did you start really falling for her
+
+ <$A> 
+<ICE-PHI:S1A-019#80:1:A>
+Uhm let me see <,,> 
+ 
+<ICE-PHI:S1A-019#81:1:A>
+I fell I really fell for her when we started to get close to each other
+ 
+<ICE-PHI:S1A-019#82:1:A>
+And we started sharing our secrets
+ 
+<ICE-PHI:S1A-019#83:1:A>
+We started to know more about each other
+ 
+<ICE-PHI:S1A-019#84:1:A>
+And that 's when I realized that she 's the kind of girl who I 'd love to be with and spend most of the time with
+
+ <$B> 
+<ICE-PHI:S1A-019#85:1:B>
+And the rest of your life with
+
+ <$A> 
+<ICE-PHI:S1A-019#86:1:A>
+Probably <&> speaker B chuckles </&> 
+ 
+<ICE-PHI:S1A-019#87:1:A>
+I don't know
+ 
+<ICE-PHI:S1A-019#88:1:A>
+How about you
+ 
+<ICE-PHI:S1A-019#89:1:A>
+Why don't you tell me something about your boyfriend if you
+ 
+<ICE-PHI:S1A-019#90:1:A>
+Do you have one
+
+ <$B> 
+<ICE-PHI:S1A-019#91:1:B>
+Yes I do
+
+ <$A> 
+<ICE-PHI:S1A-019#92:1:A>
+Yeah what 's his name
+
+ <$B> 
+<ICE-PHI:S1A-019#93:1:B>
+Uh his name is Thomas
+ 
+<ICE-PHI:S1A-019#94:1:B>
+But you still haven't told me how you asked her
+
+ <$A> 
+<ICE-PHI:S1A-019#95:1:A>
+How I asked Lala
+
+ <$B> 
+<ICE-PHI:S1A-019#96:1:B>
+Yeah you have to tell me that
+
+ <$A> 
+<ICE-PHI:S1A-019#97:1:A>
+Well it was <,> a Saturday night
+ 
+<ICE-PHI:S1A-019#98:1:A>
+Before that I invited her to my friend 's birthday party which was in Dasma 
+ 
+<ICE-PHI:S1A-019#99:1:A>
+And so <,> we spent the whole night together
+ 
+<ICE-PHI:S1A-019#100:1:A>
+And when the day end uh when the night ended excuse me <,,> before I <,> dropped her to her car <,,> I gave her uh a goodnight kiss
+
+ <$B> 
+<ICE-PHI:S1A-019#101:1:B>
+<{> <[> Where </[> 
+
+ <$A> 
+<ICE-PHI:S1A-019#102:1:A>
+<[> In the </[> </{> in the lips of course
+
+ <$B> 
+<ICE-PHI:S1A-019#103:1:B>
+Yeah and and she she made you kiss <{> <[> her </[> 
+
+ <$A> 
+<ICE-PHI:S1A-019#104:1:A>
+<[> Yeah </[> </{> it was <,> more of a friendly smack <,> in that that night
+ 
+<ICE-PHI:S1A-019#105:1:A>
+Then after <,> uh <,,> 
+ 
+<ICE-PHI:S1A-019#106:1:A>
+So I felt that night wasn't complete without saying what I felt for her
+
+ <$B> 
+<ICE-PHI:S1A-019#107:1:B>
+Oh my God
+
+ <$A> 
+<ICE-PHI:S1A-019#108:1:A>
+<O> chuckles </O> And then after I called
+ 
+<ICE-PHI:S1A-019#109:1:A>
+When she got home I called her up
+ 
+<ICE-PHI:S1A-019#110:1:A>
+And eventually I told her that I loved her and <{> <[> she 's </[> 
+
+ <$B> 
+<ICE-PHI:S1A-019#111:1:B>
+<[> And </[> <{> what did she say
+
+ <$A> 
+<ICE-PHI:S1A-019#112:1:A>
+She said yeah me too 
+ 
+<ICE-PHI:S1A-019#113:1:A>
+But then that love was more like I love you as a friend something like that
+ 
+<ICE-PHI:S1A-019#115:1:A>
+So <,> now that I got to say how I felt it made me feel better
+ 
+<ICE-PHI:S1A-019#116:1:A>
+Then the next day we talked about it
+ 
+<ICE-PHI:S1A-019#117:1:A>
+And then after <,> we kinda <,> exchanged thoughts about each other <,> 
+ 
+<ICE-PHI:S1A-019#118:1:A>
+And <,> I don't know <,> 
+ 
+<ICE-PHI:S1A-019#119:1:A>
+Love took its course from then on
+
+ <$B> 
+<ICE-PHI:S1A-019#120:1:B>
+Wow what a very inspiring story
+
+ <$A> 
+<ICE-PHI:S1A-019#121:1:A>
+Thank you Issa
+ 
+<ICE-PHI:S1A-019#122:1:A>
+How about you
+ 
+<ICE-PHI:S1A-019#123:1:A>
+Can you tell me something about your boyfriend
+
+ <$B> 
+<ICE-PHI:S1A-019#124:1:B>
+About Tommy
+
+ <$A> 
+<ICE-PHI:S1A-019#125:1:A>
+Yeah
+ 
+<ICE-PHI:S1A-019#126:1:A>
+What 's his real name
+
+ <$B> 
+<ICE-PHI:S1A-019#127:1:B>
+Uhm Thomas <@> Skiden </@> 
+
+ <$A> 
+<ICE-PHI:S1A-019#128:1:A>
+<{> <[> Oh </[> 
+
+ <$B> 
+<ICE-PHI:S1A-019#129:1:B>
+<[> Well </[> </{> he 's Swedish that 's why he has that family name
+
+ <$A> 
+<ICE-PHI:S1A-019#130:1:A>
+I see
+ 
+<ICE-PHI:S1A-019#131:1:A>
+Uhm how did you meet
+
+ <$B> 
+<ICE-PHI:S1A-019#132:1:B>
+Tommy well
+ 
+<ICE-PHI:S1A-019#133:1:B>
+Tommy and I we met at a friend 's party at the Hard Rock Cafe <O> laughter </O> last August of nineteen ninety-six
+
+ <$A> 
+<ICE-PHI:S1A-019#134:1:A>
+Yeah I 'm always there
+
+ <$B> 
+<ICE-PHI:S1A-019#135:1:B>
+Oh yeah
+ 
+<ICE-PHI:S1A-019#136:1:B>
+How come I didn't see you that night
+
+ <$A> 
+<ICE-PHI:S1A-019#137:1:A>
+Probably because I was out with my Lala
+
+ <$B> 
+<ICE-PHI:S1A-019#138:1:B>
+Wow <O> laughter </O> 
+ 
+<ICE-PHI:S1A-019#139:1:B>
+Anyway I didn't really expect to meet someone like him
+
+ <$A> 
+<ICE-PHI:S1A-019#140:1:A>
+<{> <[> Yeah </[> 
+
+ <$B> 
+<ICE-PHI:S1A-019#141:1:B>
+<[> 'Cause </[> </{> that time <,> my my mind was pretty <.> oc </.> preoccupied
+ 
+<ICE-PHI:S1A-019#142:1:B>
+It was I was thinking about someone else
+ 
+<ICE-PHI:S1A-019#143:1:B>
+And that time <,> uhm we weren't really in good terms
+
+ <$A> 
+<ICE-PHI:S1A-019#144:1:A>
+Really
+
+ <$B> 
+<ICE-PHI:S1A-019#145:1:B>
+And so when I met him I just decided what the heck just talk to him and entertain him the whole night since it was my friend 's party anyway
+
+ <$A> 
+<ICE-PHI:S1A-019#146:1:A>
+Yeah <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-019#147:1:B>
+And we started talking
+ 
+<ICE-PHI:S1A-019#148:1:B>
+And then we found that we had so much things in common
+ 
+<ICE-PHI:S1A-019#149:1:B>
+And then he asked me to dance
+ 
+<ICE-PHI:S1A-019#150:1:B>
+And so I danced with him
+
+ <$A> 
+<ICE-PHI:S1A-019#151:1:A>
+Yeah you danced
+
+ <$B> 
+<ICE-PHI:S1A-019#152:1:B>
+<{> <[> And </[> 
+
+ <$A> 
+<ICE-PHI:S1A-019#153:1:A>
+<[> What song </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-019#154:1:B>
+I remember we danced to Let 's Groove by <{> <[> Earth </[> Wind and Fire
+
+ <$A> 
+<ICE-PHI:S1A-019#155:1:A>
+<[> Oh </[> </{> 
+ 
+<ICE-PHI:S1A-019#156:1:A>
+I like that song
+
+ <$B> 
+<ICE-PHI:S1A-019#157:1:B>
+Yeah it it 's a cool song
+
+ <$A> 
+<ICE-PHI:S1A-019#158:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-019#159:1:B>
+And after that night it became one of our songs for each other <{> <[> 'cause it 's so </[> memorable
+
+ <$A> 
+<ICE-PHI:S1A-019#160:1:A>
+<[> Cool <,> so that night </[> </{> 
+ 
+<ICE-PHI:S1A-019#161:1:A>
+So that that was a night to remember
+
+ <$B> 
+<ICE-PHI:S1A-019#162:1:B>
+Oh yeah you bet
+ 
+<ICE-PHI:S1A-019#164:1:B>
+It if it weren't for that night we wouldn't have met
+
+ <$A> 
+<ICE-PHI:S1A-019#165:1:A>
+Oh
+
+ <$B> 
+<ICE-PHI:S1A-019#166:1:B>
+So after that night uhm he asked he started calling me up <,> 'cause he asked for my number from my friend
+
+ <$A> 
+<ICE-PHI:S1A-019#168:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-019#169:1:B>
+And so of course I gave it 'cause I kinda <,> liked him in a way
+
+ <$A> 
+<ICE-PHI:S1A-019#170:1:A>
+In a friendly way or
+
+ <$B> 
+<ICE-PHI:S1A-019#171:1:B>
+In a friendly way because he was such a sweet person
+ 
+<ICE-PHI:S1A-019#172:1:B>
+And then <,> before I knew it <,> he started <.> court </.> not not courting but <,> showing signs of <{> <[> <,> </[> liking me already
+ 
+<ICE-PHI:S1A-019#175:1:B>
+But at that time I liked someone else 
+
+ <$A> 
+<ICE-PHI:S1A-019#173:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-019#176:1:A>
+Really
+
+ <$B> 
+<ICE-PHI:S1A-019#177:1:B>
+Yes <,> I think he 's your I think he 's your friend <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-019#178:1:A>
+Uh what 's his name
+
+ <$B> 
+<ICE-PHI:S1A-019#179:1:B>
+<@> Tonio </@> <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-019#180:1:A>
+<@> Tonio </@> yeah he 's my friend
+ 
+<ICE-PHI:S1A-019#181:1:A>
+He plays football with me
+
+ <$B> 
+<ICE-PHI:S1A-019#182:1:B>
+Yeah uh I know that <O> chuckles </O> 
+ 
+<ICE-PHI:S1A-019#183:1:B>
+Anyway
+
+ <$A> 
+<ICE-PHI:S1A-019#184:1:A>
+So what happened between you and <@> Tonio </@> before <,> you and Tommy
+
+ <$B> 
+<ICE-PHI:S1A-019#185:1:B>
+Uhm <@> Tonio </@> and I were have been friends for <,> two years
+
+ <$A> 
+<ICE-PHI:S1A-019#186:1:A>
+Two years
+ 
+<ICE-PHI:S1A-019#187:1:A>
+That 's too <{> <[> long </[> 
+
+ <$B> 
+<ICE-PHI:S1A-019#188:1:B>
+<[> And </[> </{> during that time we knew that we liked each other but nothing happened
+
+ <$A> 
+<ICE-PHI:S1A-019#189:1:A>
+Oh really
+
+ <$B> 
+<ICE-PHI:S1A-019#190:1:B>
+And that frustrated me because I thought he liked me
+ 
+<ICE-PHI:S1A-019#191:1:B>
+And if he had liked me then he would have
+
+ <$A> 
+<ICE-PHI:S1A-019#192:1:A>
+But I think <{> <[> he </[> 
+
+ <$B> 
+<ICE-PHI:S1A-019#193:1:B>
+<[> Started </[> </{> calling me up already
+
+ <$A> 
+<ICE-PHI:S1A-019#194:1:A>
+But I think he really liked you then
+
+ <$B> 
+<ICE-PHI:S1A-019#195:1:B>
+Yeah but then <,> he <{> <[> didn't show </[> signs
+
+ <$A> 
+<ICE-PHI:S1A-019#196:1:A>
+<[> He was just </[> </{> he was just too shy probably
+
+ <$B> 
+<ICE-PHI:S1A-019#198:1:B>
+Yeah anyway
+
+ <$A> 
+<ICE-PHI:S1A-019#199:1:A>
+Anyway back to your story
+
+ <$B> 
+<ICE-PHI:S1A-019#200:1:B>
+Yeah uhm when I started getting to know Tommy better <,> I started thinking to myself why not give him a chance and drop <@> Tonio </@> 
+
+ <$A> 
+<ICE-PHI:S1A-019#201:1:A>
+Exactly
+
+ <$B> 
+<ICE-PHI:S1A-019#202:1:B>
+Yeah that was what I did <,> last
+
+ <$A> 
+<ICE-PHI:S1A-019#203:1:A>
+Was that a difficult decision
+
+ <$B> 
+<ICE-PHI:S1A-019#204:1:B>
+It was one of the most difficult decisions in my life but it was the best that I 've made so far
+
+ <$A> 
+<ICE-PHI:S1A-019#205:1:A>
+So it was a blessing
+
+ <$B> 
+<ICE-PHI:S1A-019#206:1:B>
+Yes it was a blessing in disguise
+ 
+<ICE-PHI:S1A-019#207:1:B>
+I met uh we started talking we started really talking to each other last October of nineteen ninety-six and then uhm which means we 'd start going out
+ 
+<ICE-PHI:S1A-019#208:1:B>
+He 'd asked me out on dates
+ 
+<ICE-PHI:S1A-019#209:1:B>
+He 'd call me up every day
+ 
+<ICE-PHI:S1A-019#210:1:B>
+Then if
+
+ <$A> 
+<ICE-PHI:S1A-019#211:1:A>
+Wow
+ 
+<ICE-PHI:S1A-019#212:1:A>
+He 's so sweet
+
+ <$B> 
+<ICE-PHI:S1A-019#213:1:B>
+Yeah he 's very sweet and if I couldn't go out on a weekend he would insist that he 'd see me
+ 
+<ICE-PHI:S1A-019#214:1:B>
+So he 'd tell me he 'd ask me if I if he could visit me at home
+
+ <$A> 
+<ICE-PHI:S1A-019#215:1:A>
+He really showed his emotions for you
+
+ <$B> 
+<ICE-PHI:S1A-019#216:1:B>
+Yes like he was very open about it he wasn't shy
+ 
+<ICE-PHI:S1A-019#218:1:B>
+There is no pride in him like he he fully expressed his likeness for me
+
+ <$A> 
+<ICE-PHI:S1A-019#219:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-019#220:1:B>
+And I and I and I <.> ful </.> and I accepted it 'cause I like the feeling that it was giving me
+ 
+<ICE-PHI:S1A-019#221:1:B>
+I 'd have butterflies in my stomach
+
+ <$A> 
+<ICE-PHI:S1A-019#222:1:A>
+It made you feel like a girl
+
+ <$B> 
+<ICE-PHI:S1A-019#223:1:B>
+Well I am a girl <O> chuckles </O> 
+ 
+<ICE-PHI:S1A-019#224:1:B>
+Well yeah it made he made me feel like a lady like a woman there
+ 
+<ICE-PHI:S1A-019#225:1:B>
+And then <,> uhm <,,> he asked me <,> December twenty of he asked me last December twenty-one nineteen ninety-six
+
+ <$A> 
+<ICE-PHI:S1A-019#226:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-019#227:1:B>
+I remember that day
+ 
+<ICE-PHI:S1A-019#228:1:B>
+I 'll never forget that day that he asked me
+ 
+<ICE-PHI:S1A-019#229:1:B>
+<{> <[> And it was such a shock </[> because it was fast
+
+ <$A> 
+<ICE-PHI:S1A-019#230:1:A>
+<[> So that was your like </[> 
+
+ <$B> 
+<ICE-PHI:S1A-019#231:1:B>
+He would he was just calling me up for barely two months
+
+ <$A> 
+<ICE-PHI:S1A-019#232:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-019#233:1:B>
+And he asked me already that night
+
+ <$A> 
+<ICE-PHI:S1A-019#234:1:A>
+No way
+
+ <$B> 
+<ICE-PHI:S1A-019#235:1:B>
+Yeah and that
+
+ <$A> 
+<ICE-PHI:S1A-019#236:1:A>
+So were you shocked
+
+ <$B> 
+<ICE-PHI:S1A-019#237:1:B>
+I was shocked I
+
+ <$A> 
+<ICE-PHI:S1A-019#238:1:A>
+Surprised
+
+ <$B> 
+<ICE-PHI:S1A-019#239:1:B>
+Yes I was so surprised
+
+ <$A> 
+<ICE-PHI:S1A-019#240:1:A>
+Speechless
+
+ <$B> 
+<ICE-PHI:S1A-019#241:1:B>
+Very speechless because I didn't I didn't love him yet that time I just liked him a lot
+
+ <$A> 
+<ICE-PHI:S1A-019#242:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-019#243:1:B>
+But he told me already that he loved me so what I did was that I just took the chance risked it I risked I risked it
+
+ <$A> 
+<ICE-PHI:S1A-019#244:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-019#245:1:B>
+I mean I won't it 's not as if I 'm gonna end up marrying him anyway and I was young then so might as well
+
+ <$A> 
+<ICE-PHI:S1A-019#246:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-019#247:1:B>
+And then so I answered him yes
+
+ <$A> 
+<ICE-PHI:S1A-019#248:1:A>
+Wow
+
+ <$B> 
+<ICE-PHI:S1A-019#249:1:B>
+And ever since that night <,> I I I 've become the happiest girl here you know like in the world
+
+ <$A> 
+<ICE-PHI:S1A-019#250:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-019#251:1:B>
+'Cause he 'd always be so nice to <{> <[> me </[> 
+
+ <$A> 
+<ICE-PHI:S1A-019#252:1:A>
+<[> So it all </[> </{> paid off eventually
+
+ <$B> 
+<ICE-PHI:S1A-019#253:1:B>
+Oh yeah it it all paid off
+ 
+<ICE-PHI:S1A-019#254:1:B>
+But there 's one big problem Pete
+
+ <$A> 
+<ICE-PHI:S1A-019#255:1:A>
+What 's that Issa
+
+ <$B> 
+<ICE-PHI:S1A-019#256:1:B>
+Uhm <,> right now we 're <.> hav </.> it 's a long distance relationship that we 're having
+
+ <$A> 
+<ICE-PHI:S1A-019#257:1:A>
+Don't tell me he 's in Sweden
+
+ <$B> 
+<ICE-PHI:S1A-019#258:1:B>
+No he 's in San Francisco
+
+ <$A> 
+<ICE-PHI:S1A-019#259:1:A>
+No way
+ 
+<ICE-PHI:S1A-019#260:1:A>
+So how does that work
+
+ <$B> 
+<ICE-PHI:S1A-019#261:1:B>
+Well he calls me up thrice a week and he comes here every break time 
+
+ </I> 

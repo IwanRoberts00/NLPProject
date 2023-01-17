@@ -1,0 +1,1148 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-074#1:1:A>
+Uh okay <,> 
+ 
+<ICE-PHI:S1A-074#2:1:A>
+Yo Ricky what 's the news
+ 
+<ICE-PHI:S1A-074#3:1:A>
+Uh know anything
+
+ <$B> 
+<ICE-PHI:S1A-074#4:1:B>
+Actually I don't read the newspaper <{> <[> so </[> 
+
+ <$A> 
+<ICE-PHI:S1A-074#5:1:A>
+<[> Okay </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-074#6:1:B>
+Any comics <,> 
+
+ <$A> 
+<ICE-PHI:S1A-074#7:1:A>
+Comics
+
+ <$B> 
+<ICE-PHI:S1A-074#8:1:B>
+<indig> Uy </indig> look at this <mention> Venus claims crown over fatigue with Kournikova </mention> <,> Kournikova
+
+ <$A> 
+<ICE-PHI:S1A-074#9:1:A>
+What 's that
+
+ <$B> 
+<ICE-PHI:S1A-074#10:1:B>
+Nice dress <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-074#11:1:A>
+Venus what
+
+ <$B> 
+<ICE-PHI:S1A-074#12:1:B>
+Venus claims crown over fatigue with Kournikova
+
+ <$A> 
+<ICE-PHI:S1A-074#13:1:A>
+<{> <[> Uh tennis </[> player
+
+ <$B> 
+<ICE-PHI:S1A-074#14:1:B>
+<[> Player </[> </{> 
+ 
+<ICE-PHI:S1A-074#15:1:B>
+Yeah I like what they 're wearing mini skirt <O> laughter </O> 
+ 
+<ICE-PHI:S1A-074#16:1:B>
+Yeah look <,> look it 's very nice <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-074#17:1:A>
+Okay what 's the news <,> 
+ 
+<ICE-PHI:S1A-074#18:1:A>
+Uhm not much interesting news
+
+ <$B> 
+<ICE-PHI:S1A-074#19:1:B>
+<{> <[> Where are we going </[> 
+
+ <$A> 
+<ICE-PHI:S1A-074#20:1:A>
+<[> Hey look </[> </{> look at this
+ 
+<ICE-PHI:S1A-074#21:1:A>
+<mention> Zamboanga Lake Monster a harbinger of death </mention> 
+ 
+<ICE-PHI:S1A-074#22:1:A>
+There 's a Lake Monster
+
+ <$B> 
+<ICE-PHI:S1A-074#23:1:B>
+<indig> E </indig> they just they just imitated the Loch Ness Monster
+
+ <$A> 
+<ICE-PHI:S1A-074#24:1:A>
+The <.> Zamboang </.> Zamboanga Monster
+
+ <$B> 
+<ICE-PHI:S1A-074#25:1:B>
+<indig> 'di ba </indig> Loch Ness Monster <{1> <[1> was named </[1> after the <{2> <[2> the place </[2> 
+
+ <$A> 
+<ICE-PHI:S1A-074#26:1:A>
+<[1> Uh yeah </[1> </{1> 
+ 
+<ICE-PHI:S1A-074#27:1:A>
+<[2> The place </[2> </{2> I think the place is called Loch Ness Lake
+ 
+<ICE-PHI:S1A-074#29:1:A>
+The lake I think
+
+ <$B> 
+<ICE-PHI:S1A-074#30:1:B>
+In the future we 'll call it <,> Zam Ness <O> laughter </O> Zamboanga Ness <{> <[> Zamboanga </[> Zamboanga Monster
+
+ <$A> 
+<ICE-PHI:S1A-074#31:1:A>
+<[> Uhm <,> </[> </{> what 's this
+
+ <$B> 
+<ICE-PHI:S1A-074#32:1:B>
+He looks like Holyfield
+
+ <$A> 
+<ICE-PHI:S1A-074#33:1:A>
+<mention> Sixty-three year old widow shoots intruder dead in Makati </mention> 
+ 
+<ICE-PHI:S1A-074#34:1:A>
+Oh war freak
+
+ <$B> 
+<ICE-PHI:S1A-074#35:1:B>
+Sixty-three <{> <[> year old </[> shoots intruder
+
+ <$A> 
+<ICE-PHI:S1A-074#36:1:A>
+<[> Sixty-three year old </[> </{> 
+ 
+<ICE-PHI:S1A-074#37:1:A>
+Wow
+
+ <$B> 
+<ICE-PHI:S1A-074#38:1:B>
+<indig> Lola pa </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-074#39:1:A>
+<indig> Grabe 'no </indig> 
+ 
+<ICE-PHI:S1A-074#40:1:A>
+Uhm what other hey wait where 's the <{> <[> comics </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#41:1:B>
+<[> Super </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-074#42:1:A>
+Yeah <{> <[> super grandma </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#43:1:B>
+<[> Super grandma </[> </{> 
+ 
+<ICE-PHI:S1A-074#44:1:B>
+The comics is on the other section I think
+
+ <$A> 
+<ICE-PHI:S1A-074#45:1:A>
+Uhm no comics
+
+ <$B> 
+<ICE-PHI:S1A-074#46:1:B>
+No comics
+
+ <$A> 
+<ICE-PHI:S1A-074#47:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-074#48:1:B>
+Ahhh comics
+
+ <$A> 
+<ICE-PHI:S1A-074#49:1:A>
+Comics
+
+ <$B> 
+<ICE-PHI:S1A-074#50:1:B>
+Yey comics comics <,> 
+
+ <$A> 
+<ICE-PHI:S1A-074#51:1:A>
+Nothing
+
+ <$B> 
+<ICE-PHI:S1A-074#52:1:B>
+Comics
+
+ <$A> 
+<ICE-PHI:S1A-074#53:1:A>
+No interesting news
+ 
+<ICE-PHI:S1A-074#54:1:A>
+Uh wait <,> do we have the same final schedule
+
+ <$B> 
+<ICE-PHI:S1A-074#55:1:B>
+I think so
+
+ <$A> 
+<ICE-PHI:S1A-074#56:1:A>
+Yeah you know I was thinking how about we watch a movie <,> like Good Will Hunting or As Good <{> <[> As It Gets </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#58:1:B>
+<[> As Good </[> </{> As Good As It Gets I wanna watch that
+
+ <$A> 
+<ICE-PHI:S1A-074#60:1:A>
+Uh let 's watch
+
+ <$B> 
+<ICE-PHI:S1A-074#61:1:B>
+I As Good As It Gets 
+
+ <$A> 
+<ICE-PHI:S1A-074#62:1:A>
+But do you know if it 's still showing
+
+ <$B> 
+<ICE-PHI:S1A-074#63:1:B>
+Uh <.> show </.> I guess it 'll still be shown by that time
+ 
+<ICE-PHI:S1A-074#64:1:B>
+Titanic is still showing
+
+ <$A> 
+<ICE-PHI:S1A-074#65:1:A>
+Huh still <{> <[> showing </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#66:1:B>
+<[> How </[> </{> many weeks
+
+ <$A> 
+<ICE-PHI:S1A-074#67:1:A>
+Uh <{> <[> I don't know </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#68:1:B>
+<[> Three weeks </[> </{> it 's on its third week
+
+ <$A> 
+<ICE-PHI:S1A-074#69:1:A>
+<{> <[> More than </[> a month
+
+ <$B> 
+<ICE-PHI:S1A-074#70:1:B>
+No <[> more more </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-074#71:1:A>
+It 's more than a month yeah
+
+ <$B> 
+<ICE-PHI:S1A-074#72:1:B>
+<unclear> words </unclear> uh two weeks
+
+ <$A> 
+<ICE-PHI:S1A-074#73:1:A>
+<indig> Ay </indig> wait wait
+ 
+<ICE-PHI:S1A-074#74:1:A>
+You know I told a joke once
+ 
+<ICE-PHI:S1A-074#75:1:A>
+You know these signs that says uhm <mention> Coming Soon Now Showing <{1> <[1> Next Picture </[1> </mention> <{2> <[2> in cinemas </[2> right
+
+ <$B> 
+<ICE-PHI:S1A-074#76:1:B>
+<[1> Oh yeah </[1> </{1> 
+ 
+<ICE-PHI:S1A-074#77:1:B>
+<[2> Yeah yeah </[2> </{2> 
+
+ <$A> 
+<ICE-PHI:S1A-074#78:1:A>
+I said Titanic should should be under the sign which says <mention> Still Showing </mention> instead of <mention> Now Showing </mention> <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-074#79:1:B>
+<mention> Still Showing </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-074#80:1:A>
+<.> Sti </.> <mention> Still Showing </mention> <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-074#81:1:B>
+Yeah <{> <[> it 's almost </[> 
+
+ <$A> 
+<ICE-PHI:S1A-074#82:1:A>
+<[> <unclear> word </unclear> Ghost remember Ghost </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-074#83:1:B>
+Uh yeah Ghost was shown for for two straight months
+
+ <$A> 
+<ICE-PHI:S1A-074#84:1:A>
+<{> <[> Two straight months </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#85:1:B>
+<[> Titanic Titanic </[> </{> is gonna beat that soon
+
+ <$A> 
+<ICE-PHI:S1A-074#86:1:A>
+Oh I think two more weeks and it would be two months
+
+ <$B> 
+<ICE-PHI:S1A-074#87:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-074#88:1:A>
+Oh <,> 
+
+ <$B> 
+<ICE-PHI:S1A-074#89:1:B>
+There was there was a point I think they showed yesterday
+ 
+<ICE-PHI:S1A-074#90:1:B>
+Remember channel nine
+
+ <$A> 
+<ICE-PHI:S1A-074#91:1:A>
+Uh yeah
+
+ <$B> 
+<ICE-PHI:S1A-074#92:1:B>
+Did you watch it
+
+ <$A> 
+<ICE-PHI:S1A-074#93:1:A>
+Oh I missed it
+
+ <$B> 
+<ICE-PHI:S1A-074#94:1:B>
+They were supposed to show that special <,> uh
+
+ <$A> 
+<ICE-PHI:S1A-074#95:1:A>
+Documentary something
+
+ <$B> 
+<ICE-PHI:S1A-074#96:1:B>
+<.> Docu </.> documentary about the the actual survivors of the Titanic
+
+ <$A> 
+<ICE-PHI:S1A-074#97:1:A>
+Uh yeah <indig> ay <indig> wait
+ 
+<ICE-PHI:S1A-074#98:1:A>
+You know I watched I watched this channel uhm what was that uhm Time and Again I think it was N B C <,> Time and <{> <[> Again </[> and they featured Titanic
+
+ <$B> 
+<ICE-PHI:S1A-074#101:1:B>
+<[> Yeah </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-074#102:1:A>
+First they featured the movies
+ 
+<ICE-PHI:S1A-074#103:1:A>
+The first movie was <,> uh Titanic in the nineteen thirties and then there was the nineteen fifties version
+
+ <$B> 
+<ICE-PHI:S1A-074#104:1:B>
+<{> <[> <unclear> word </unclear> </[> 
+
+ <$A> 
+<ICE-PHI:S1A-074#105:1:A>
+<[> There were </[> </{> I forgot how many versions there were but the most accurate <,> uh at that time was <,> entitled A Night to Remember <{> <[> based on </[> a novel
+
+ <$B> 
+<ICE-PHI:S1A-074#106:1:B>
+<[> Uh </[> </{> 
+ 
+<ICE-PHI:S1A-074#107:1:B>
+Yeah I remember that
+ 
+<ICE-PHI:S1A-074#108:1:B>
+I went I visited their homepage
+
+ <$A> 
+<ICE-PHI:S1A-074#109:1:A>
+You visit their homepage
+
+ <$B> 
+<ICE-PHI:S1A-074#110:1:B>
+I visited the homepage of Titanic the Movie
+
+ <$A> 
+<ICE-PHI:S1A-074#111:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-074#112:1:B>
+And uh it says there the complete details of the Titanic directed by James Cameron blah blah blah
+ 
+<ICE-PHI:S1A-074#113:1:B>
+But there they show us the history of the Titanic <{> <[> and the </[> past movies the predecessor movies of the Titanic where this <.> curr </.> this current <indig> ano </indig> this current version uh followed 
+
+ <$A> 
+<ICE-PHI:S1A-074#114:1:A>
+<[> Oh yeah </[> </{> 
+ 
+<ICE-PHI:S1A-074#116:1:A>
+Uh hey you know what what 's interesting
+ 
+<ICE-PHI:S1A-074#117:1:A>
+The first few movies of the Titanic showed the Titanic sinking and then leaving something like smoke <{> <[> and then </[> they believe that Titanic did not break
+
+ <$B> 
+<ICE-PHI:S1A-074#118:1:B>
+<[> Yeah </[> </{> yeah
+
+ <$A> 
+<ICE-PHI:S1A-074#120:1:A>
+<{> <[> It </[> was only
+
+ <$B> 
+<ICE-PHI:S1A-074#121:1:B>
+<[> It only </[> </{> Titanic broke only when it reached the bottom
+
+ <$A> 
+<ICE-PHI:S1A-074#123:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-074#124:1:B>
+Because maybe because of uh uh
+
+ <$A> 
+<ICE-PHI:S1A-074#125:1:A>
+Pressure
+
+ <$B> 
+<ICE-PHI:S1A-074#126:1:B>
+Yes strong water pressure
+
+ <$A> 
+<ICE-PHI:S1A-074#127:1:A>
+Yeah hey it was only this version the Titanic James Cameron that he featured the Titanic the Titanic <{> <[> breaking into </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#128:1:B>
+<[> Actually breaking into </[> </{> two
+
+ <$A> 
+<ICE-PHI:S1A-074#129:1:A>
+Yeah and then the survivors actually claim that before it even sank it broke in two <,> so
+
+ <$B> 
+<ICE-PHI:S1A-074#130:1:B>
+Wow
+
+ <$A> 
+<ICE-PHI:S1A-074#131:1:A>
+They didn't they didn't do much of a research before
+
+ <$B> 
+<ICE-PHI:S1A-074#132:1:B>
+Uh yeah
+
+ <$A> 
+<ICE-PHI:S1A-074#133:1:A>
+They just maybe they just sank into <unclear> word </unclear> 
+
+ <$B> 
+<ICE-PHI:S1A-074#134:1:B>
+Uh yeah
+
+ <$A> 
+<ICE-PHI:S1A-074#135:1:A>
+And then and then there was this theory
+ 
+<ICE-PHI:S1A-074#136:1:A>
+Uhm they said when that was before nineteen eighty-five
+ 
+<ICE-PHI:S1A-074#137:1:A>
+Nineteen eighty-five was the time when the Titanic was found at the <.> O </.> at the bottom of the ocean
+ 
+<ICE-PHI:S1A-074#138:1:A>
+Uhm they they believe that the Titanic sank because the iceberg uhm made a three hundred foot gash <,> yeah
+
+ <$B> 
+<ICE-PHI:S1A-074#139:1:B>
+I guess it 's the other way round
+ 
+<ICE-PHI:S1A-074#140:1:B>
+The boat was the one that
+
+ <$A> 
+<ICE-PHI:S1A-074#141:1:A>
+Uh no no
+ 
+<ICE-PHI:S1A-074#142:1:A>
+Uh actually they believe that uhm the iceberg was able to was able to cut through the steel of the Titanic producing a three hundred foot damage uh a gash
+
+ <$B> 
+<ICE-PHI:S1A-074#143:1:B>
+Oh
+
+ <$A> 
+<ICE-PHI:S1A-074#144:1:A>
+Uh but then when in nineteen eighty-five the Titanic was found they found that it wasn't a three hundred foot gash but only a twelve square meter uh a twelve square meter hole
+ 
+<ICE-PHI:S1A-074#145:1:A>
+<{> <[> And </[> then it was shocking because it was only as big as a refrigerator and based on you know comparison of size that 's very small
+ 
+<ICE-PHI:S1A-074#146:1:A>
+Then then how come the Titanic sank
+ 
+<ICE-PHI:S1A-074#147:1:A>
+And then one explanation was because of water pressure
+
+ <$B> 
+<ICE-PHI:S1A-074#148:1:B>
+<[> Hole </[> </{> 
+
+
+
+<ICE-PHI:S1A-074#> Yeah
+
+ <$A> 
+<ICE-PHI:S1A-074#149:1:A>
+Too much pressure on the <.> wa </.> water that causes how many <indig> ano </indig> uhm uh <{> <[> thousands </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#150:1:B>
+<[> Gallons of water </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-074#151:1:A>
+Yeah thousands of gallons of water per <{> <[> second </[> based on research
+
+ <$B> 
+<ICE-PHI:S1A-074#152:1:B>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-074#153:1:B>
+Yeah and remember the movie itself where uhm they were showing the evidence of how the Titanic sank
+ 
+<ICE-PHI:S1A-074#154:1:B>
+They were showing the old lady
+ 
+<ICE-PHI:S1A-074#155:1:B>
+They they showed the the the lowest level of the Titanic
+
+ <$A> 
+<ICE-PHI:S1A-074#156:1:A>
+Uh yeah
+
+ <$B> 
+<ICE-PHI:S1A-074#157:1:B>
+I think I think it was the engine room
+ 
+<ICE-PHI:S1A-074#158:1:B>
+It turned out at the engine room <{1> <[1> <,> </[1> that 's where the water <?> pressured </?> in
+ 
+<ICE-PHI:S1A-074#161:1:B>
+It was the water uh somehow hit hit the hit the boat at strategic points <{2> <[2> as if </[2> it wanted to sink it 
+
+ <$A> 
+<ICE-PHI:S1A-074#159:1:A>
+<[1> Uh-huh </[1> </{1> 
+ 
+<ICE-PHI:S1A-074#162:1:A>
+<[2> Yeah </[2> </{2> 
+ 
+<ICE-PHI:S1A-074#163:1:A>
+Oh
+
+ <$B> 
+<ICE-PHI:S1A-074#164:1:B>
+It 's started from the engine slowly sinking to the second and third level so it was adding weight to the front to the dorsal part of the boat
+
+ <$A> 
+<ICE-PHI:S1A-074#165:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-074#166:1:B>
+Is that correct <mention> dorsal </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-074#167:1:A>
+Uh I don't know
+ 
+<ICE-PHI:S1A-074#168:1:A>
+No I think I 'm not sure I think the dorsal
+
+ <$B> 
+<ICE-PHI:S1A-074#169:1:B>
+How do you call it
+ 
+<ICE-PHI:S1A-074#170:1:B>
+Dorsal part of the boat adding more weight to the front
+ 
+<ICE-PHI:S1A-074#171:1:B>
+That 's what caused it to <{> <[> break </[> 
+
+ <$A> 
+<ICE-PHI:S1A-074#172:1:A>
+<[> Uh yeah </[> </{> yeah
+
+ <$B> 
+<ICE-PHI:S1A-074#173:1:B>
+Yeah only the recent researchers
+
+ <$A> 
+<ICE-PHI:S1A-074#174:1:A>
+Yeah interesting
+
+ <$B> 
+<ICE-PHI:S1A-074#175:1:B>
+Yeah and there was actually a safe there was actually a safe found by a by a I think the Russian Russian uh research team
+ 
+<ICE-PHI:S1A-074#176:1:B>
+They they actually I I saw it in the Discovery Channel I think
+
+ <$A> 
+<ICE-PHI:S1A-074#177:1:A>
+They opened it
+
+ <$B> 
+<ICE-PHI:S1A-074#178:1:B>
+They tried to but they can't because of the jam
+
+ <$A> 
+<ICE-PHI:S1A-074#179:1:A>
+Really jammed
+
+ <$B> 
+<ICE-PHI:S1A-074#180:1:B>
+Yeah although they found the safe uhm they they vowed never to touch any of the debris of the Titanic
+
+ <$A> 
+<ICE-PHI:S1A-074#181:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-074#182:1:B>
+Of course as uh paying their respects <{> <[> to the dead </[> there until they found upon finding the safe they found the safe
+ 
+<ICE-PHI:S1A-074#185:1:B>
+That 's where they broke their promise <&> speaker A laughs </&> uh well this is a uh a robotic like a submersible
+ <$A> 
+<ICE-PHI:S1A-074#183:1:A>
+<[> Uh-huh </[> </{> 
+ 
+<ICE-PHI:S1A-074#186:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-074#187:1:B>
+Complete with robotic arms just like in the movie
+
+ <$A> 
+<ICE-PHI:S1A-074#188:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-074#189:1:B>
+They tried to open the safe although it was still it 's still rusted it 's supposed to be weak right
+
+ <$A> 
+<ICE-PHI:S1A-074#190:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-074#191:1:B>
+And that should have been weakened
+ 
+<ICE-PHI:S1A-074#192:1:B>
+They could not they couldn't get it to open
+
+ <$A> 
+<ICE-PHI:S1A-074#193:1:A>
+Uh they didn't bring the <{> <[> it </[> to the surface 
+
+ <$B> 
+<ICE-PHI:S1A-074#194:1:B>
+<[> They didn't bring </[> </{> 
+ 
+<ICE-PHI:S1A-074#196:1:B>
+No they just left it there because according to <indig> ano </indig> according to some survivors they said that that it 's useless to open it because the crew left it empty anyway before it sank
+
+ <$A> 
+<ICE-PHI:S1A-074#197:1:A>
+Uh <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-074#198:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-074#199:1:A>
+Was it empty
+
+ <$B> 
+<ICE-PHI:S1A-074#200:1:B>
+What if it 's true
+
+ <$A> 
+<ICE-PHI:S1A-074#201:1:A>
+Oh <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-074#202:1:B>
+What if inside there was really the Heart of the Ocean <&> speaker A laughs </&> 
+ 
+<ICE-PHI:S1A-074#203:1:B>
+You know what wait uh <,,> 
+ 
+<ICE-PHI:S1A-074#204:1:B>
+Imagine <indig> kung Pinoy yung naka-diskubre </indig> <&> speaker A laughs </&> Filipino crew member you can turn off our destiny <?> toward the States </?> <unclear> word </unclear> it just takes one blue diamond
+
+ <$A> 
+<ICE-PHI:S1A-074#206:1:A>
+Whoa
+
+ <$B> 
+<ICE-PHI:S1A-074#207:1:B>
+The moment it is found there 's really the Heart of Ocean we will set up I will find we will buy the whole set of James Cameron <&> speaker A laughs </&> with his you know
+
+ <$A> 
+<ICE-PHI:S1A-074#208:1:A>
+Wait wait wait I I read this paper and the article Manila Bulletin uh it states that the Heart of the Ocean is a fictitious <{> <[> gem </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#209:1:B>
+<[> Yeah </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-074#210:1:A>
+But some American and I think British uh British jewelers uhm
+
+ <$B> 
+<ICE-PHI:S1A-074#211:1:B>
+They did make one
+
+ <$A> 
+<ICE-PHI:S1A-074#212:1:A>
+Yeah they did make one out of a fictitious jewel they made a real jewel
+
+ <$B> 
+<ICE-PHI:S1A-074#214:1:B>
+Heart of the Ocean
+
+ <$A> 
+<ICE-PHI:S1A-074#215:1:A>
+Yeah the Heart of the Ocean uh except that the title is French but the same title Heart of the Ocean in French
+
+ <$B> 
+<ICE-PHI:S1A-074#216:1:B>
+Maybe that 's what Celine Dion was wearing in the Academy Awards
+
+ <$A> 
+<ICE-PHI:S1A-074#217:1:A>
+I don't know but well it cost three <{> <[> million </[> U S dollars that was the estimate
+
+ <$B> 
+<ICE-PHI:S1A-074#218:1:B>
+<[> Million dollars </[> </{> whoa
+
+ <$A> 
+<ICE-PHI:S1A-074#220:1:A>
+And uh exact specification they used sapphires diamonds and something else
+
+ <$B> 
+<ICE-PHI:S1A-074#221:1:B>
+Perfect engagement present <&> speaker A laughs </&> 
+
+ <$A> 
+<ICE-PHI:S1A-074#222:1:A>
+Three million <{> <[> dollars </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#223:1:B>
+<[> Perfect </[> </{> engagement present <&> speaker A laughs </&> 
+ 
+<ICE-PHI:S1A-074#224:1:B>
+Do you agree with me <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-074#225:1:A>
+Yeah <O> laughter </O> 
+ 
+<ICE-PHI:S1A-074#226:1:A>
+Hey Jo
+
+ <$B> 
+<ICE-PHI:S1A-074#227:1:B>
+Take your seat
+
+ <$A> 
+<ICE-PHI:S1A-074#228:1:A>
+<indig> Ganon </indig> 
+
+ <$Z> 
+<ICE-PHI:S1A-074#229:1:Z> <X> Hi </X> 
+
+ <$B> 
+<ICE-PHI:S1A-074#230:1:B>
+Okay
+
+ <$A> 
+<ICE-PHI:S1A-074#231:1:A>
+Oops <{> <[> uhm </[> 
+
+ <$B> 
+<ICE-PHI:S1A-074#232:1:B>
+<[> Make my </[> </{> day
+
+ <$A> 
+<ICE-PHI:S1A-074#233:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-074#234:1:B>
+I can buy this for like five years
+
+ <$A> 
+<ICE-PHI:S1A-074#235:1:A>
+Five years
+
+ <$B> 
+<ICE-PHI:S1A-074#236:1:B>
+Five years I can buy that
+
+ <$A> 
+<ICE-PHI:S1A-074#237:1:A>
+Nah uhm
+
+ <$B> 
+<ICE-PHI:S1A-074#238:1:B>
+<unclear> word </unclear> any date
+
+ <$A> 
+<ICE-PHI:S1A-074#239:1:A>
+Uh
+
+ <$B> 
+<ICE-PHI:S1A-074#240:1:B>
+Any date
+
+ <$A> 
+<ICE-PHI:S1A-074#241:1:A>
+Yeah uhm what other news do we have new
+
+ <$B> 
+<ICE-PHI:S1A-074#242:1:B>
+<mention> Hope for hair loss </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-074#243:1:A>
+What
+
+ <$B> 
+<ICE-PHI:S1A-074#244:1:B>
+<mention> Hope for hair loss </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-074#245:1:A>
+Uh an ad
+
+ <$B> 
+<ICE-PHI:S1A-074#246:1:B>
+Excessive falling hair Dennis <?> Patris </?> impending baldness 
+
+ <$A> 
+<ICE-PHI:S1A-074#247:1:A>
+Hey hey hey
+
+ <$B> 
+<ICE-PHI:S1A-074#248:1:B>
+They 'll definitely hope for all these hair problems
+
+ <$A> 
+<ICE-PHI:S1A-074#249:1:A>
+Hey hey hey wait what 's this <mention> a plea for justice from Cultural Center of the Philippines </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-074#250:1:B>
+What
+
+ <$Z> 
+<ICE-PHI:S1A-074#251:1:Z> <X> Why </X> 
+
+ <$A> 
+<ICE-PHI:S1A-074#252:1:A>
+I don't know
+
+ <$B> 
+<ICE-PHI:S1A-074#253:1:B>
+Only the other Senate <unclear> word </unclear> 
+
+ <$A> 
+<ICE-PHI:S1A-074#254:1:A>
+C C P this is C C P right
+
+ <$B> 
+<ICE-PHI:S1A-074#255:1:B>
+Blah blah blah yeah
+
+ <$A> 
+<ICE-PHI:S1A-074#257:1:A>
+What happened what 's their case
+
+ <$B> 
+<ICE-PHI:S1A-074#259:1:B>
+Uh
+
+ <$A> 
+<ICE-PHI:S1A-074#260:1:A>
+Afraid of anything
+
+ <$B> 
+<ICE-PHI:S1A-074#261:1:B>
+No <,> <O> burps </O> excuse me
+
+ <$A> 
+<ICE-PHI:S1A-074#263:1:A>
+It 's alright <unclear> word </unclear> there is she
+
+ <$B> 
+<ICE-PHI:S1A-074#264:1:B>
+I 'm so full
+
+ <$A> 
+<ICE-PHI:S1A-074#265:1:A>
+Uhm <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-074#266:1:B>
+<mention> Hope for hair loss </mention> I could use it for my brother <&> speakers A and C laugh </&> my brother my father <,> I found <unclear> word </unclear> uh yeah we 're we 're all bound to be bald <&> speaker A laughs </&> when we grow old
+
+ <$Z> 
+<ICE-PHI:S1A-074#267:1:Z> <X> Someday </X> 
+
+ <$A> 
+<ICE-PHI:S1A-074#268:1:A>
+Someday
+
+ <$B> 
+<ICE-PHI:S1A-074#269:1:B>
+Except me except me
+ 
+<ICE-PHI:S1A-074#270:1:B>
+According to my Mom I 'm the only person who won't be bald in the family
+
+ <$A> 
+<ICE-PHI:S1A-074#271:1:A>
+Why
+ 
+<ICE-PHI:S1A-074#272:1:A>
+How
+
+ <$Z> 
+<ICE-PHI:S1A-074#273:1:C>
+<X> How come </X> 
+
+ <$B> 
+<ICE-PHI:S1A-074#274:1:B>
+I have a thick scalp
+
+ <$A> 
+<ICE-PHI:S1A-074#275:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-074#276:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-074#277:1:A>
+Lucky you
+
+ <$B> 
+<ICE-PHI:S1A-074#278:1:B>
+Lucky me I have a hard head <O> laughter </O> <indig> tigas ng ulo ko e </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-074#280:1:A>
+Yeah uh someday your brothers will say uh Ricky has hair
+ <$B> 
+<ICE-PHI:S1A-074#281:1:B>
+Yeah when they grow old how come how come he has hair we don't <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-074#282:1:A>
+Uhm <,> Ricky <,,> uhm what 's this
+
+ <$B> 
+<ICE-PHI:S1A-074#283:1:B>
+What is it
+
+ <$A> 
+<ICE-PHI:S1A-074#284:1:A>
+Uh uh look at this <O> laughter </O> uh there 's a picture here De Venecia shaking hands with oh jeepney passengers oh look at <.> tho </.> look at the caption it says where is my card Speaker Jose de Venecia Jr eyes on opposition sticker on a jeep as he campaigns in San Juan traditional <.> baili </.> bailiwick what 's that huh
+
+ <$B> 
+<ICE-PHI:S1A-074#285:1:B>
+May I see
+
+ <$A> 
+<ICE-PHI:S1A-074#286:1:A>
+<mention> Traditional bailiwick of his rival for the presidency Vice-President Joseph Estrada </mention> 
+ 
+<ICE-PHI:S1A-074#287:1:A>
+Oh look at the picture <,> ha ha <,> he 's hand-shaking with passengers on a jeep on a jeep with a sticker Erap and Edong
+ 
+<ICE-PHI:S1A-074#288:1:A>
+Wow <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-074#289:1:B>
+Wow
+
+ <$A> 
+<ICE-PHI:S1A-074#290:1:A>
+Oh <O> interruption </O> 
+ 
+<ICE-PHI:S1A-074#291:1:A>
+It 's a gimmick
+
+ <$B> 
+<ICE-PHI:S1A-074#292:1:B>
+Yeah <{> <[> gimmick </[> 
+ 
+<ICE-PHI:S1A-074#293:1:B>
+They 're just telling all the people there okay smile for the camera <O> laughter </O> though I 'm sure I 'm sure you don't know his name <O> laughter </O> let him shake your hand
+ 
+<ICE-PHI:S1A-074#294:1:B>
+Just smile and then we 'll just pay you uh five pesos each
+
+ <$Z> 
+<ICE-PHI:S1A-074#296:1:Z> <X> <[> Gimmick </[> </{> 
+
+
+
+<ICE-PHI:S1A-074#> Oh yeah </X> 
+
+ <$A> 
+<ICE-PHI:S1A-074#297:1:A>
+Five <.> pes </.> hey wait
+
+ <$B> 
+<ICE-PHI:S1A-074#298:1:B>
+Uh to make up for your <indig> pamasahe </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-074#299:1:A>
+Uh I remember something Ronnie said Tyson is going to wrestle
+
+ <$B> 
+<ICE-PHI:S1A-074#300:1:B>
+Yeah <,> 
+
+ <$A> 
+<ICE-PHI:S1A-074#301:1:A>
+He 's
+
+ <$B> 
+<ICE-PHI:S1A-074#302:1:B>
+Uh because well I 'm not sure because he 's now a member of the T Generation X
+
+ <$A> 
+<ICE-PHI:S1A-074#303:1:A>
+He is with Sean
+
+ <$B> 
+<ICE-PHI:S1A-074#304:1:B>
+Sean Michaels and <unclear> word </unclear> 
+
+ <$A> 
+<ICE-PHI:S1A-074#305:1:A>
+The <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-074#306:1:B>
+Yeah <,,> weird <,> 
+
+ <$A> 
+<ICE-PHI:S1A-074#307:1:A>
+I don't think he belongs there you know
+
+ <$B> 
+<ICE-PHI:S1A-074#308:1:B>
+Tyson
+
+ <$A> 
+<ICE-PHI:S1A-074#309:1:A>
+Tyson wrestling and then
+
+ <$B> 
+<ICE-PHI:S1A-074#310:1:B>
+His only his only career left his last his last chance for a healthy living
+
+ <$A> 
+<ICE-PHI:S1A-074#312:1:A>
+Yeah he 's banned forever in boxing
+
+ <$B> 
+<ICE-PHI:S1A-074#313:1:B>
+In boxing
+ 
+<ICE-PHI:S1A-074#314:1:B>
+They never said anything about professional wrestling
+
+ <$A> 
+<ICE-PHI:S1A-074#315:1:A>
+Oh and
+
+ <$B> 
+<ICE-PHI:S1A-074#316:1:B>
+What kind of <?> moves </?> can he make
+
+ <$A> 
+<ICE-PHI:S1A-074#317:1:A>
+Biting <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-074#318:1:B>
+The Tysonflex
+
+ <$A> 
+<ICE-PHI:S1A-074#319:1:A>
+Tysonflex the Tysonbite
+
+ <$B> 
+<ICE-PHI:S1A-074#320:1:B>
+The Tysonbite
+
+ <$A> 
+<ICE-PHI:S1A-074#321:1:A>
+<O> laughter </O> Uhm and what if Tyson was banned in wrestling and then they said they never said I 'm banned in golf <O> laughter </O> 
+
+ </I> 

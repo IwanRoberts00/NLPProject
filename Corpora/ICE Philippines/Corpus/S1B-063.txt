@@ -1,0 +1,540 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-063#1:1:A>
+Swear in the witness uh Mr Secretary <&> secretary swears in the witness </&> 
+
+ <$B> 
+<ICE-PHI:S1B-063#2:1:B>
+I do
+
+ <$A> 
+<ICE-PHI:S1B-063#3:1:A>
+Take your seat uh Mr Witness
+ 
+<ICE-PHI:S1B-063#4:1:A>
+Prosecutor Rodriguez
+
+ <$C> 
+<ICE-PHI:S1B-063#5:1:C>
+With the kind permission of the Honorable Chief Justice and uh the members of the impeachment court <,> Mr Witness uh kindly state your name and other personal circumstances
+
+ <$B> 
+<ICE-PHI:S1B-063#6:1:B>
+I am uh Jose Luis Yulo Jr
+ 
+<ICE-PHI:S1B-063#7:1:B>
+I am fifty-three years old residing at nineteen Don Jesus Boulevard
+ 
+<ICE-PHI:S1B-063#8:1:B>
+I 'm a business executive and I was formerly the president and chief executive officer of the Philippine Stock Exchange Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#9:1:C>
+For a start Mr Witness uh what is your educational background
+
+ <$B> 
+<ICE-PHI:S1B-063#10:1:B>
+I graduated college from uh the University of the Philippines as an entrance scholar and I have a Master 's in Business Management from A I M and I also finished uh an advanced management course from Stanford University in California Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#11:1:C>
+You said that uh you were formerly president and chief executive officer of the Philippine Stock Exchange
+ 
+<ICE-PHI:S1B-063#12:1:C>
+Uh for what period
+
+ <$B> 
+<ICE-PHI:S1B-063#13:1:B>
+My I had a three-year contract uh Your Honor from uh May of nineteen ninety-seven until April of the year two thousand
+
+ <$C> 
+<ICE-PHI:S1B-063#14:1:C>
+Can you tell us what other positions did you hold in conjunction with your being president and chief executive <.> of </.> officer of the Philippine Stock Exchange
+
+ <$B> 
+<ICE-PHI:S1B-063#15:1:B>
+Uh there were several other uh subsidiaries and organizations Your Honor that was uh uh that I was also an officer of
+ 
+<ICE-PHI:S1B-063#16:1:B>
+To summarize I was chairman of the Securities Clearing Corporation of the Philippines
+ 
+<ICE-PHI:S1B-063#17:1:B>
+I was also vice-chairman and eventually chairman of the Philippine Central Depository
+ 
+<ICE-PHI:S1B-063#18:1:B>
+I was also chairman of the Philippine Stock Exchange uh Foundation and uh chairman of the Capital Market Development Center Inc
+ 
+<ICE-PHI:S1B-063#19:1:B>
+I also uh represented the Philippine Stock Exchange in the International Federation of Stock Exchanges based in Paris
+ 
+<ICE-PHI:S1B-063#20:1:B>
+And I also became chairman of the General Assembly of the East Asia Oceania Stock Exchange Federation in uh nineteen ninety-nine 
+ 
+<ICE-PHI:S1B-063#21:1:B>
+And also uh in nineteen ninety-eight I was appointed by President Estrada as the Philippine Business Representative to the APEC Business Advisory Council Mr Chairman <{> <[> Your Honor </[> 
+
+ <$C> 
+<ICE-PHI:S1B-063#22:1:C>
+<[> Thank you </[> </{> 
+ 
+<ICE-PHI:S1B-063#23:1:C>
+Mr Chief Justice and Honorable Senator-Judges we are offering the testimony of the witness to prove number one that during the incumbency of this witness as president and chief executive officer of the Philippine Stock Exchange its Compliance and Surveillance Group or C S G conducted an investigation in the price manipulation and insider trading by Dante Tan and his associates regarding the B W Resources Corporation one of the listed companies in the Philippine Stock Exchange
+ 
+<ICE-PHI:S1B-063#24:1:C>
+Number two that while the said investigation was on-going President Joseph Ejercito Estrada called the witness several times for the purpose of intervening in an independent investigation by the Philippine Stock Exchange trying to influence the outcome thereof by keeping on reminding the witness that Mr Dante Tan is a good friend who has helped him since he was a Senator
+ 
+<ICE-PHI:S1B-063#25:1:C>
+That uh number three that after the conclusion of the investigation by the Philippine Stock Exchange a copy of the final report entitled <mention> Investigation Report on the B W Resources Price Manipulation Insider Trading </mention> was given to President Joseph Ejercito Estrada in Malaca&ntilde;ang on February fourteen year two thousand by the witness Mr Yulo in the company of Atty Ruben Almadro then vice-president of the Philippine Stock Exchange and head of its Compliance and Surveillance Group which conducted the investigation and that in said meeting the President tried anew to defend Dante Tan showed displeasure and anger against then SEC Chairman Perfecto Yasay Jr by describing him to be and I quote <quote> <indig> Hindi lalaking kausap at walang hiya </indig> </quote> close quote and even intimating that Yasay had been paid by Dante Tan to clear the latter <,,> 
+ 
+<ICE-PHI:S1B-063#26:1:C>
+May I proceed Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-063#27:1:A>
+You may now proceed
+
+ <$C> 
+<ICE-PHI:S1B-063#28:1:C>
+Mr Witness you stated that you used to be the president and chief executive <.> of </.> officer of the Philippine Stock Exchange
+ 
+<ICE-PHI:S1B-063#29:1:C>
+Uh what is uh this Philippine Stock Exchange about
+
+ <$B> 
+<ICE-PHI:S1B-063#30:1:B>
+The Philippine Stock Exchange is similar to other stock exchanges in other country Your Honor
+ 
+<ICE-PHI:S1B-063#31:1:B>
+It is a market for the trading uh buying and selling in effect of equity shares and fixed income instruments like bonds and warrants of companies that are listed therein
+ 
+<ICE-PHI:S1B-063#32:1:B>
+It is therefore a place where companies can uh take money from the investing public for their capital requirements Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#33:1:C>
+As president and chief executive officer of the Philippine Stock Exchange at that time can you tell us what were your functions and responsibilities
+
+ <$B> 
+<ICE-PHI:S1B-063#34:1:B>
+Well the functions of a president or chief executive officer of an exchange among others now Your Honor is number one you are the spokesman of the Exchange
+ 
+<ICE-PHI:S1B-063#35:1:B>
+Number two uh you 're in charge of managing the personnel and the resources of the Exchange
+ 
+<ICE-PHI:S1B-063#36:1:B>
+You 're also in charge of executing policy directions uh and rules uh of the Exchange and uh this was uh very unique to the to Exchanges Your Honor and to the Philippine Stock Exchange
+ 
+<ICE-PHI:S1B-063#37:1:B>
+The president is also in charge of ensuring that all the personnel of the Exchange can perform their regulatory functions in an independent manner
+
+ <$C> 
+<ICE-PHI:S1B-063#38:1:C>
+You mentioned likewise earlier that uh you held other positions in conjunction with your being president and chief executive officer of the Philippine Stock Exchange uh with the following subsidiaries 
+ 
+<ICE-PHI:S1B-063#39:1:C>
+One <,> Securities Clearing Corporation do you remember having said that
+
+ <$B> 
+<ICE-PHI:S1B-063#40:1:B>
+Yes Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#41:1:C>
+Can you tell us in brief uh what are uh what is this Securities Clearing Corporation about
+
+ <$B> 
+<ICE-PHI:S1B-063#42:1:B>
+Well the Securities Clearing Corporation Your Honor is a subsidiary of the Philippine Stock Exchange
+ 
+<ICE-PHI:S1B-063#43:1:B>
+It is fifty-one percent owned by the Exchange and the other <.> own </.> owners are the clearing banks <.> Equitab </.> Equitable Bank and uh R C B C were also owners thereof and Citibank is also an owner
+ 
+<ICE-PHI:S1B-063#44:1:B>
+The function of the clearinghouse is to act like a traffic regulator uh between the uh before cash and or equity shares can exchange ownership uh to ensure that these exchanges are done on what we called D V P or a Delivery Versus Payment or in Tagalog <indig> Kaliwaan </indig> Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#45:1:C>
+What about Philippine Central Depository where you were a chairman
+
+ <$B> 
+<ICE-PHI:S1B-063#46:1:B>
+The Philippine Central Depository uh as the name uh says is a depository of all the equity shares that are actively traded in the Philippine Stock Exchange that had been demobilized
+ 
+<ICE-PHI:S1B-063#47:1:B>
+Meaning that uh the shares are no longer in paper certificates but are now uh in the computer form
+ 
+<ICE-PHI:S1B-063#48:1:B>
+It 's entered in the computer forms and the names of the participants thereto I E brokers uh and therefore the buying and selling and transferring of ownership of the shares are therefore done on a debit-credit basis uh on the computer format Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#50:1:C>
+<indig> Ito naman pong </indig> Capital Market Development Center Incorporated uh <indig> na na kung saan naging </indig> chairman <indig> din kayo ano ho ba ito </indig> 
+
+ <$D> 
+<ICE-PHI:S1B-063#51:1:D>
+We we have to object to this question Your Honor because I I we see no materiality to this question
+
+ <$C> 
+<ICE-PHI:S1B-063#52:1:C>
+Preliminary Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-063#53:1:A>
+The Presiding Officer sees it merely as to qualify the witness on uh his uh knowledge about the stock market and uh <{> <[> <,> </[> any matter related thereto
+
+ <$D> 
+<ICE-PHI:S1B-063#54:1:D>
+<[> We submit </[> </{> 
+ 
+<ICE-PHI:S1B-063#56:1:D>
+We submit Sir
+
+ <$A> 
+<ICE-PHI:S1B-063#57:1:A>
+The witness may answer
+
+ <$C> 
+<ICE-PHI:S1B-063#58:1:C>
+<indig> Ito hong </indig> Capital Marketing Development Center Incorporated
+
+ <$B> 
+<ICE-PHI:S1B-063#59:1:B>
+The Capital Market Development Center Inc is a research institution Your Honor that was set up in the later part of I think nineteen ninety-nine uh as a policy uh study group uh Your Honor
+ 
+<ICE-PHI:S1B-063#60:1:B>
+And the members thereof is the Financial Executives of the Philippines the Bankers Association of the Philippines and the Investment Houses Association of the Philippines
+ 
+<ICE-PHI:S1B-063#61:1:B>
+In effect all the participants in the financial markets in the Philippines are are part thereof Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#62:1:C>
+<indig> Nasabi ho naman ninyo na kayo 'y naging representante ng </indig> Philippine Stock Exchange <indig> sa </indig> International Federation of Stock Exchanges in Paris
+
+ <$B> 
+<ICE-PHI:S1B-063#63:1:B>
+Yes Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#64:1:C>
+<indig> Ano ho ba ang naging gawain ninyo doon bilang representante ng ating bansa </indig> 
+
+ <$D> 
+<ICE-PHI:S1B-063#65:1:D>
+Immaterial Mr Chief Justice
+
+ <$C> 
+<ICE-PHI:S1B-063#66:1:C>
+The same reason Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-063#67:1:A>
+Yes you may answer
+
+ <$B> 
+<ICE-PHI:S1B-063#68:1:B>
+The International Federation of Stock Exchanges or in French is called F I B D <foreign> name of organization given in French </foreign> is an international organization of the world 's uh better known stock exchanges Your Honor
+ 
+<ICE-PHI:S1B-063#69:1:B>
+At that time there were about fifty-one members of stock exchanges worldwide
+ 
+<ICE-PHI:S1B-063#70:1:B>
+And to qualify you must have the proper computerized systems the proper rules and regulations
+ 
+<ICE-PHI:S1B-063#71:1:B>
+You must be a self-regulating organization
+ 
+<ICE-PHI:S1B-063#72:1:B>
+And the country uh must have also uh acceptable uh rules and regulations and an acceptable securities and exchange commission Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#73:1:C>
+<indig> Nasabi rin ho ninyo na kayo 'y na-appoint ng ating mahal na Presidente noong </indig> <.> nine </.> uh nineteen ninety-eight uh <indig> sa </indig> Philippine business to APEC business
+ 
+<ICE-PHI:S1B-063#74:1:C>
+<indig> Ano ho ba 'yun </indig> 
+
+ <$B> 
+<ICE-PHI:S1B-063#75:1:B>
+Uh uh there were three <indig> ho ganito ho 'yun sa </indig> APEC uh economic community <indig> po </indig> uh the governments are represented there <indig> 'no </indig> the heads of state and the ministers of finance and trade
+ 
+<ICE-PHI:S1B-063#76:1:B>
+On the business side the private sector side each country of APEC member of APEC is allotted three business representatives to be member of the APEC Business Advisory Council of ABAC or A B A C
+ 
+<ICE-PHI:S1B-063#77:1:B>
+<indig> Doon ho sa ABAC na 'yun ang pinag-uusapan ay </indig> all the businessmen of the member economies get together at least four times a year to discuss policy matters on uh the integration of the economies of APEC and these uh uh decisions or agreements are then forwarded to heads of state for the governments then to uh discuss and therefore if policy matters will be issued uh uh it can be issued uh and the members of ABAC would report directly to the heads of state Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#78:1:C>
+<indig> Nasabi ho ninyo na kayo ay presidente </indig> chief executive officer <indig> ng </indig> P S E <indig> 
+ 
+<ICE-PHI:S1B-063#79:1:C>
+Uh sino ho ang miyembro ng P S E </indig> 
+
+ <$D> 
+<ICE-PHI:S1B-063#80:1:D>
+Immaterial Mr Chief Justice
+
+ <$C> 
+<ICE-PHI:S1B-063#81:1:C>
+Preliminary again Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-063#82:1:A>
+Are you referring to the members now or during his time
+
+ <$C> 
+<ICE-PHI:S1B-063#83:1:C>
+Member during his time members during his time Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-063#84:1:A>
+And what would be the purpose of the question
+
+ <$C> 
+<ICE-PHI:S1B-063#85:1:C>
+Just to uh uh <{> <[> <,> </[> inform and further qualify Your Honor preparatory to my succeeding question with respect uh to the Philippine Stock Exchange
+
+ <$A> 
+<ICE-PHI:S1B-063#86:1:A>
+<[> To <.> fur </.> further qualify him </[> </{> 
+
+ <$D> 
+<ICE-PHI:S1B-063#88:1:D>
+From the answers given by the witness he is overqualified as uh expert on the stock trading
+ 
+<ICE-PHI:S1B-063#89:1:D>
+He 's an international figure uh in the field of uh stock trading
+
+ <$A> 
+<ICE-PHI:S1B-063#90:1:A>
+I think you can end the preliminaries and you can start now the main purpose of uh the presentation of this witness
+
+ <$C> 
+<ICE-PHI:S1B-063#91:1:C>
+What is the relation of the Philippine Stock Exchange with the Securities and Exchange Commission if any
+
+ <$B> 
+<ICE-PHI:S1B-063#92:1:B>
+Uh well the Philippine Stock Exchange is a private organization as it is in most other countries 
+ 
+<ICE-PHI:S1B-063#> Uh however the Securities and Exchange Commission is a government regulatory body that supervises all the operations of the stock exchange uh Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#93:1:C>
+Now uh is the Philippine Stock Exchange is it a private or a public entity
+
+ <$B> 
+<ICE-PHI:S1B-063#94:1:B>
+Well uh the Philippine Stock Exchange is privately organized but it has quasi-public interest Your Honor uh and this is the situation for all stock exchanges worldwide
+ 
+<ICE-PHI:S1B-063#95:1:B>
+It is a quasi-public entity although they are mostly private Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#96:1:C>
+Why do you say that it has a quasi quasi-public <{> <[> interest </[> 
+
+ <$B> 
+<ICE-PHI:S1B-063#97:1:B>
+<[> Well because </[> </{> because uh the equity stock that is invested therein is open to the investing public so anybody or the general public whether you 're poor medium class or high class or international uh you are allowed to buy and sell shares thereat Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#98:1:C>
+Do I understand that uh the Philippine Stock Exchange is composed of uh member brokers
+
+ <$B> 
+<ICE-PHI:S1B-063#99:1:B>
+Yes Your Honor <,> who are also owners of the Exchange
+
+ <$C> 
+<ICE-PHI:S1B-063#101:1:C>
+I see and you made mention earlier that there are listed companies in the Philippine Stock Exchange is that correct
+
+ <$B> 
+<ICE-PHI:S1B-063#103:1:B>
+Uh yes Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#104:1:C>
+Now uh in nineteen ninety-seven up to the year two thousand when you were president and chief executive officer of the P S E can you recall some of these uh listed companies with the Philippine Stock Exchange
+
+ <$B> 
+<ICE-PHI:S1B-063#105:1:B>
+Yes Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#106:1:C>
+Can you name some
+
+ <$B> 
+<ICE-PHI:S1B-063#107:1:B>
+They 're all in the papers every day Your Honor uh Metrobank Equitable Bank uh B P I S M uh B W
+
+ <$C> 
+<ICE-PHI:S1B-063#108:1:C>
+Can you tell us in brief how uh the Philippine Stock Exchange uh operate manage and uh control
+
+ <$D> 
+<ICE-PHI:S1B-063#109:1:D>
+Immaterial Mr Chief Justice
+
+ <$C> 
+<ICE-PHI:S1B-063#110:1:C>
+Very material Mr Chief Justice 
+
+ <$E> 
+<ICE-PHI:S1B-063#> Mr Chief Justice
+
+ <$A> 
+<ICE-PHI:S1B-063#111:1:A>
+With the permission with the permission of the gentleman the Honorable Senator-Judge uh Enrile is recognized 
+
+ <$E> 
+<ICE-PHI:S1B-063#> Mr Chief Justice uh this this is a house of Congress
+ 
+<ICE-PHI:S1B-063#> We take judicial notice of all all of these things
+ 
+<ICE-PHI:S1B-063#> We write the laws that created all of this we know this
+ 
+<ICE-PHI:S1B-063#> These are no longer subject to proof
+ 
+<ICE-PHI:S1B-063#> Why don't we just go direct to the point so that we can finish this case
+
+ 
+<ICE-PHI:S1B-063#112:1:A>
+As a matter of fact these points could have been the subject of stipulation
+
+ <$C> 
+<ICE-PHI:S1B-063#113:1:C>
+I now go direct to the point Your Honor
+ 
+<ICE-PHI:S1B-063#114:1:C>
+In fact that question was uh going to that point uh uh
+ 
+<ICE-PHI:S1B-063#115:1:C>
+Do you know what this C S G is <{> <[> what is this C S G </[> 
+
+ <$D> 
+<ICE-PHI:S1B-063#117:1:D>
+</[> Already answered </[> </{> 
+ 
+<ICE-PHI:S1B-063#118:1:D>
+The witness says it is the Surveillance Group of the P S E
+
+ <$C> 
+<ICE-PHI:S1B-063#119:1:C>
+<{> <[> Compliance and Surveillance Group </[> 
+
+ <$D> 
+<ICE-PHI:S1B-063#120:1:D>
+<[> Compliance and Surveillance Group of the P S E </[> </{> 
+
+ <$C> 
+<ICE-PHI:S1B-063#121:1:C>
+Can you tell us what is what are the functions of the Compliance and the Surveillance Group
+
+ <$B> 
+<ICE-PHI:S1B-063#122:1:B>
+There were three departments under that group Your Honor
+ 
+<ICE-PHI:S1B-063#123:1:B>
+Uh the first department is called the Market Surveillance Department the second is called the Special Investigation Department and the third is called the Compliance Audit Department Your Honor
+ 
+<ICE-PHI:S1B-063#125:1:B>
+And so with the name uh what what they really do is number one they monitor and survey uh the prices of stocks of the trading on a daily basis
+ 
+<ICE-PHI:S1B-063#126:1:B>
+They also perform a regular annual audits and they also do special investigations and special audits Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#127:1:C>
+Who is who was at that time uh the head of the Compliance and Surveillance <{> <[> Group if </[> you know
+
+ <$B> 
+<ICE-PHI:S1B-063#128:1:B>
+<[> Atty Ruben Almadro </[> </{> Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#129:1:C>
+Now uh <,,> did you come to know if B W Resources Corporation was one of the listed companies with the P S E at that time
+
+ <$B> 
+<ICE-PHI:S1B-063#130:1:B>
+Yes Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#131:1:C>
+Now uh <,,> if you know can you tell us uh uh some of the stockholders of the B W Resources Corporation
+
+ <$B> 
+<ICE-PHI:S1B-063#132:1:B>
+Uh I 'm not privy to all the details of it Your Honor
+ 
+<ICE-PHI:S1B-063#133:1:B>
+I knew as everybody else knew that uh one of the main shareholders aside from the President uh was uh Dante Tan Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#134:1:C>
+Had there been an instance or occasion when your attention as president and chief executive officer of the Philippine Stock Exchange was called regarding the B W Resources corporation
+
+ <$D> 
+<ICE-PHI:S1B-063#135:1:D>
+Objection for lack of basis Mr Chief Justice
+
+ <$A> 
+<ICE-PHI:S1B-063#136:1:A>
+Overruled
+ 
+<ICE-PHI:S1B-063#137:1:A>
+Witness may answer
+
+ <$B> 
+<ICE-PHI:S1B-063#138:1:B>
+Uh at the later part of uh nineteen ninety-nine uh sometime in July and then later uh I was informed by both uh Atty Almadro and also the Securities and Exchange Commission also Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-063#139:1:C>
+What were you informed about uh B W Resources Corporation by Atty Almadro
+
+ <$B> 
+<ICE-PHI:S1B-063#140:1:B>
+Yes Your Honor that they were doing an investigation uh of BW
+
+ <$C> 
+<ICE-PHI:S1B-063#141:1:C>
+Regarding what
+
+ <$B> 
+<ICE-PHI:S1B-063#142:1:B>
+Well they were trying to find out whether because at that time the prices of B W were fluctuating very widely uh so it was quite abnormal
+ 
+<ICE-PHI:S1B-063#144:1:B>
+So they were trying to find out whether the fluctuation of prices was caused by normal market forces or whether it was uh done because of insider trading and or uh price manipulation and to find out the causes thereof Your Honor
+
+ <$D> 
+<ICE-PHI:S1B-063#145:1:D>
+Move to strike Mr Chief Justice for being hearsay
+
+ <$C> 
+<ICE-PHI:S1B-063#141:1:C>
+He is the he was the <{> <[> president and </[> chief executive officer 
+
+ <$A> 
+<ICE-PHI:S1B-063#:1:A>
+There was already an answer given 
+ 
+<ICE-PHI:S1B-063#> You 're asking to strike out the answer on the ground that it is hearsay
+
+ <$D> 
+<ICE-PHI:S1B-063#:1:D>
+Yes Mr Chief Justice
+
+ <$A> 
+<ICE-PHI:S1B-063#:1:A>
+The motion is dismissed 
+ 
+<ICE-PHI:S1B-063#> He was talking to Almadro
+
+ </I> 

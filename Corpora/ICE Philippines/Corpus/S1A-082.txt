@@ -1,0 +1,1076 @@
+<I> 
+
+ <$A>  
+<ICE-PHI:S1A-082#1:1:A>
+What would you want to talk about
+
+ <$B>  
+<ICE-PHI:S1A-082#2:1:B>
+Music
+
+ <$A>  
+<ICE-PHI:S1A-082#3:1:A>
+Music what particular music do you want to talk about
+
+ <$B>  
+<ICE-PHI:S1A-082#5:1:B>
+Folk music
+
+ <$A>  
+<ICE-PHI:S1A-082#6:1:A>
+Let 's see where could we start
+ 
+<ICE-PHI:S1A-082#7:1:A>
+How about the most recent what would be the most recent music that you have listened to
+
+ <$B>  
+<ICE-PHI:S1A-082#9:1:B>
+Reggae music
+
+ <$A>  
+<ICE-PHI:S1A-082#10:1:A>
+Reggae what in particular what would which one
+
+ <$B>  
+<ICE-PHI:S1A-082#12:1:B>
+ <{>  <[> Well </[> 
+
+ <$A>  
+<ICE-PHI:S1A-082#13:1:A>
+ <[> Which </[>  </{> artist
+
+ <$B>  
+<ICE-PHI:S1A-082#14:1:B>
+Well <mention> Tropical Depression </mention> 
+
+ <$A>  
+<ICE-PHI:S1A-082#15:1:A>
+ <mention> Tropical Depression </mention> Papa Dom and his group
+
+ <$C>  
+<ICE-PHI:S1A-082#16:1:C>
+Maris
+
+ <$B>  
+<ICE-PHI:S1A-082#17:1:B>
+Yes
+
+ <$A>  
+<ICE-PHI:S1A-082#18:1:A>
+Why Papa Dom and his group I 've met him
+ 
+<ICE-PHI:S1A-082#20:1:A>
+He 's this huge character that you see on campus at U P sometimes
+
+ <$B>  
+<ICE-PHI:S1A-082#21:1:B>
+Well where are you going
+
+ <$C>  
+<ICE-PHI:S1A-082#22:1:C>
+C R <&> = comfort room, i.e. restroom </&> 
+
+ <$A>  
+<ICE-PHI:S1A-082#23:1:A>
+Why do you have to go to the C R
+ 
+<ICE-PHI:S1A-082#24:1:A>
+There 's just the two of us here just talking about music
+ 
+<ICE-PHI:S1A-082#25:1:A>
+What about <mention> Tropical Depression </mention> 
+
+ <$B>  
+<ICE-PHI:S1A-082#26:1:B>
+Well you know you know me
+ 
+<ICE-PHI:S1A-082#27:1:B>
+I 'm fond of listening to original Filipino music and I I I I I find the music of Papa Dom an interesting one
+
+ <$A>  
+<ICE-PHI:S1A-082#28:1:A>
+Have they come up with a recent album
+
+ <$B>  
+<ICE-PHI:S1A-082#29:1:B>
+Uhm not yet
+
+ <$A>  
+<ICE-PHI:S1A-082#30:1:A>
+Not yet not yet <mention> Tropical Depression </mention> 
+ 
+<ICE-PHI:S1A-082#31:1:A>
+Then you also listen to groups like <mention> Coco Jam </mention> 
+
+ <$B>  
+<ICE-PHI:S1A-082#32:1:B>
+Yes
+ 
+<ICE-PHI:S1A-082#33:1:B>
+Would you like to listen
+
+ <$A>  
+<ICE-PHI:S1A-082#34:1:A>
+To <mention> Coco Jam </mention> 
+ 
+<ICE-PHI:S1A-082#35:1:A>
+No not now I would not want to listen to <mention> Coco Jam </mention> right now
+
+ <$B>  
+<ICE-PHI:S1A-082#37:1:B>
+ <unclear> words </unclear>  <O> laughter </O> 
+
+ <$A>  
+<ICE-PHI:S1A-082#38:1:A>
+Oh really
+ 
+<ICE-PHI:S1A-082#39:1:A>
+Maybe you 'd like to sing one of their uh English songs for us
+
+ <$B>  
+<ICE-PHI:S1A-082#40:1:B>
+English song
+ 
+<ICE-PHI:S1A-082#41:1:B>
+Unfortunately I do not know any English song of <mention> Coco Jam </mention> 
+
+ <$A>  
+<ICE-PHI:S1A-082#42:1:A>
+Oh I see then <mention> Tropical Depression Coco Jam </mention> 
+ 
+<ICE-PHI:S1A-082#43:1:A>
+What else what other what other music
+
+ <$B>  
+<ICE-PHI:S1A-082#45:1:B>
+John Denver
+
+ <$A>  
+<ICE-PHI:S1A-082#46:1:A>
+John Denver
+
+ <$B>  
+<ICE-PHI:S1A-082#47:1:B>
+Folk songs
+
+ <$A>  
+<ICE-PHI:S1A-082#48:1:A>
+Folk songs
+
+ <$B>  
+<ICE-PHI:S1A-082#49:1:B>
+This time
+
+ <$A>  
+<ICE-PHI:S1A-082#50:1:A>
+Armageddon the movie
+
+ <$B>  
+<ICE-PHI:S1A-082#51:1:B>
+Yes <&> starts singing John Denver song </&>  <O> laughter </O> 
+
+ <$A>  
+<ICE-PHI:S1A-082#52:1:A>
+Were you able to watch that movie
+
+ <$B>  
+<ICE-PHI:S1A-082#53:1:B>
+ <indig> Oo </indig> 
+
+ <$A>  
+<ICE-PHI:S1A-082#54:1:A>
+Isn't that kind of old an old song <&> speaker B laughs </&> 
+ 
+<ICE-PHI:S1A-082#55:1:A>
+Who revived that song who revived that song
+ 
+<ICE-PHI:S1A-082#57:1:A>
+This girl what 's her name
+
+ <$B>  
+<ICE-PHI:S1A-082#58:1:B>
+I do not know the name of the girl
+
+ <$A>  
+<ICE-PHI:S1A-082#59:1:A>
+The skinny girl who shows herself on M T V
+ 
+<ICE-PHI:S1A-082#60:1:A>
+Uh what else
+ 
+<ICE-PHI:S1A-082#61:1:A>
+What other folk song do you listen to
+
+ <$B>  
+<ICE-PHI:S1A-082#62:1:B>
+Jim Croce
+
+ <$A>  
+<ICE-PHI:S1A-082#63:1:A>
+Jim Croce <&> speaker B starts playing the guitar </&> 
+ 
+<ICE-PHI:S1A-082#64:1:A>
+What particular song is that <mention> Time in a Bottle </mention> 
+
+ <$B>  
+<ICE-PHI:S1A-082#66:1:B>
+Very good <mention> Time in a Bottle </mention> 
+ 
+<ICE-PHI:S1A-082#68:1:B>
+Speaking of time how can we how can we control time how can we
+
+ <$A>  
+<ICE-PHI:S1A-082#70:1:A>
+How can we control time
+
+ <$B>  
+<ICE-PHI:S1A-082#71:1:B>
+How can we maximize time
+
+ <$A>  
+<ICE-PHI:S1A-082#72:1:A>
+How can we maximize time
+ 
+<ICE-PHI:S1A-082#73:1:A>
+Uhm there 's this concept called <mention> minimalism </mention> have you heard of that
+
+ <$B>  
+<ICE-PHI:S1A-082#75:1:B>
+No
+
+ <$A>  
+<ICE-PHI:S1A-082#76:1:A>
+This concept that deals with uhm trying to do the most number of things in the least amount of time in order to do more with the time that you have
+
+ <$B>  
+<ICE-PHI:S1A-082#77:1:B>
+And what 's the barometer by <.> whi </.> by which you can say that that you were able to use that time
+
+ <$A>  
+<ICE-PHI:S1A-082#78:1:A>
+Uh it 's really relative
+ 
+<ICE-PHI:S1A-082#79:1:A>
+It depends on the person so it adjusts <{>  <[> to the person </[> 
+
+ <$B>  
+<ICE-PHI:S1A-082#80:1:B>
+ <[> It depends </[>  </{> on the objectives
+
+ <$A>  
+<ICE-PHI:S1A-082#81:1:A>
+Yeah the objectives the person whatever
+
+ <$B>  
+<ICE-PHI:S1A-082#82:1:B>
+So it may appear that you are doing nothing <{>  <[> but </[> 
+
+ <$A>  
+<ICE-PHI:S1A-082#83:1:A>
+ <[> But </[>  </{> you 're doing something
+
+ <$B>  
+<ICE-PHI:S1A-082#84:1:B>
+Yeah that 's the irony of time
+
+ <$A>  
+<ICE-PHI:S1A-082#85:1:A>
+ <{>  <[> Right the irony of time </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#86:1:C>
+ <[> What are you talking about </[>  </{> 
+
+ <$A>  
+<ICE-PHI:S1A-082#87:1:A>
+How to maximize time
+
+ <$C>  
+<ICE-PHI:S1A-082#88:1:C>
+Uh I see
+
+ <$A>  
+<ICE-PHI:S1A-082#89:1:A>
+I already mentioned this idea called <mention> minimalism </mention> 
+ 
+<ICE-PHI:S1A-082#90:1:A>
+May I know is there something that you 'd like to share
+
+ <$C>  
+<ICE-PHI:S1A-082#91:1:C>
+What about
+
+ <$A>  
+<ICE-PHI:S1A-082#92:1:A>
+The group
+
+ <$B>  
+<ICE-PHI:S1A-082#93:1:B>
+About the topic about time
+
+ <$C>  
+<ICE-PHI:S1A-082#94:1:C>
+About time
+ 
+<ICE-PHI:S1A-082#95:1:C>
+Then uhm time is precious so you have you have to make the most out of it
+
+ <$A>  
+<ICE-PHI:S1A-082#96:1:A>
+How do you make the most out of it in your case
+
+ <$C>  
+<ICE-PHI:S1A-082#98:1:C>
+My case uh being a mom being a mom of course I 've got a lot of things to do
+ 
+<ICE-PHI:S1A-082#99:1:C>
+Uh at home alone uh you know taking care of all the kids
+ 
+<ICE-PHI:S1A-082#100:1:C>
+I just I I I 'm just wondering how can I uhm how can I budget I mean how can I put everything in a day all the day I mean all the work all the load of work in a day
+
+ <$A>  
+<ICE-PHI:S1A-082#101:1:A>
+Yeah that 's a problem <{>  <[> of most people <unclear> word </unclear>  </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#102:1:C>
+ <[> Of being a teacher </[>  </{> at the same time being a mother
+
+ <$A>  
+<ICE-PHI:S1A-082#103:1:A>
+How about you uh Joel how do you how do you handle time
+
+ <$B>  
+<ICE-PHI:S1A-082#105:1:B>
+I want to say I want to say my stuff through a song
+
+ <$A>  
+<ICE-PHI:S1A-082#106:1:A>
+Through a song another song
+
+ <$C>  
+<ICE-PHI:S1A-082#108:1:C>
+About time <indig> ha </indig>  <&> speaker B starts playing the guitar again </&> is that about time
+
+ <$B>  
+<ICE-PHI:S1A-082#110:1:B>
+Yes it 's <mention> Time in a Bottle </mention> 
+
+ <$C>  
+<ICE-PHI:S1A-082#112:1:C>
+ <mention> Time in a Bottle </mention>  <O> laughter </O> okay okay
+
+ <$A>  
+<ICE-PHI:S1A-082#114:1:A>
+So that 's it
+ 
+<ICE-PHI:S1A-082#115:1:A>
+That 's how you
+
+ <$B>  
+<ICE-PHI:S1A-082#116:1:B>
+Yes <&> speaker A chuckles </&> 
+
+ <$A>  
+<ICE-PHI:S1A-082#117:1:A>
+C 'mon that 's over simplistic
+
+ <$B>  
+<ICE-PHI:S1A-082#118:1:B>
+You like another one
+
+ <$A>  
+<ICE-PHI:S1A-082#119:1:A>
+Another one
+ 
+<ICE-PHI:S1A-082#120:1:A>
+No no I think I think I 've had enough of uh <mention> Time in a Bottle </mention> 
+ 
+<ICE-PHI:S1A-082#121:1:A>
+What else uhm
+
+ <$B>  
+<ICE-PHI:S1A-082#123:1:B>
+What time is it by the way
+ 
+<ICE-PHI:S1A-082#124:1:B>
+I 've got to go
+
+ <$A>  
+<ICE-PHI:S1A-082#125:1:A>
+Time is uh it 's five twenty-five
+ 
+<ICE-PHI:S1A-082#126:1:A>
+Do you have to go we have to uhm
+
+ <$B>  
+<ICE-PHI:S1A-082#128:1:B>
+Yes because I need to maximize my time as you were saying a while ago <&> speaker A laughs </&> 
+
+ <$C>  
+<ICE-PHI:S1A-082#129:1:C>
+We need to talk for thirty minutes
+
+ <$A>  
+<ICE-PHI:S1A-082#130:1:A>
+And if we need to do that we must make good use of the time given us then
+ 
+<ICE-PHI:S1A-082#131:1:A>
+So Ma'am how many more minutes do we have around uhm fifteen
+
+ <$B>  
+<ICE-PHI:S1A-082#133:1:B>
+ <{>  <[> Yes yes yes </[> 
+
+ <$A>  
+<ICE-PHI:S1A-082#134:1:A>
+ <[> We still have fifteen minutes </[>  </{> so
+
+ <$B>  
+<ICE-PHI:S1A-082#135:1:B>
+Let 's talk about minutes
+
+ <$A>  
+<ICE-PHI:S1A-082#136:1:A>
+About minutes <O> laughter </O>  <&> another song </&> 
+
+ <$B>  
+<ICE-PHI:S1A-082#137:1:B>
+You know that song <mention> Twenty-Five Minutes </mention> 
+
+ <$A>  
+<ICE-PHI:S1A-082#138:1:A>
+No I haven't heard of that <O> laughter </O> who sang that
+
+ <$B>  
+<ICE-PHI:S1A-082#140:1:B>
+I do not know
+
+ <$A>  
+<ICE-PHI:S1A-082#141:1:A>
+You do not know
+
+ <$B>  
+<ICE-PHI:S1A-082#142:1:B>
+But then it 's a nice song
+ 
+<ICE-PHI:S1A-082#143:1:B>
+It 's about a man who decided to court the girl <,> when he found out that he loves the girl
+ 
+<ICE-PHI:S1A-082#144:1:B>
+Unfortunately the time is no longer
+
+ <$C>  
+<ICE-PHI:S1A-082#145:1:C>
+No have you ever thought that those people who who say that they are very busy are the would you say they 're more successful in
+
+ <$A>  
+<ICE-PHI:S1A-082#146:1:A>
+In what they do
+
+ <$C>  
+<ICE-PHI:S1A-082#147:1:C>
+In what they do right
+
+ <$A>  
+<ICE-PHI:S1A-082#148:1:A>
+I don't think so
+ 
+<ICE-PHI:S1A-082#149:1:A>
+Those who are busy
+
+ <$C>  
+<ICE-PHI:S1A-082#150:1:C>
+Uh uhm
+
+ <$A>  
+<ICE-PHI:S1A-082#151:1:A>
+You can be successful by doing nothing
+ 
+<ICE-PHI:S1A-082#152:1:A>
+You see people who just call on the phone and watch their stocks <{>  <[> and do nothing </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#153:1:C>
+ <[> Just killing their time </[>  </{> but at the same time earning <{>  <[> money </[> 
+
+ <$B>  
+<ICE-PHI:S1A-082#154:1:B>
+ <[> I suggest </[>  </{> that
+
+ <$A>  
+<ICE-PHI:S1A-082#155:1:A>
+Yeah
+
+ <$B>  
+<ICE-PHI:S1A-082#156:1:B>
+We should put a parameter on how are we going to define success
+ 
+<ICE-PHI:S1A-082#157:1:B>
+So this time perhaps that 's <{>  <[>  <.> approp </.>  </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#158:1:C>
+ <[> Time </[>  </{> and success <indig> 'yan </indig> 
+
+ <$A>  
+<ICE-PHI:S1A-082#159:1:A>
+Time and <{>  <[> success </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#160:1:C>
+ <[> Time and </[>  </{> success
+
+ <$A>  
+<ICE-PHI:S1A-082#161:1:A>
+It 's very dangerous
+ 
+<ICE-PHI:S1A-082#162:1:A>
+I don't want <{>  <[> to talk about </[> that
+
+ <$C>  
+<ICE-PHI:S1A-082#163:1:C>
+ <[> Time and success </[>  </{> 
+
+ <$A>  
+<ICE-PHI:S1A-082#164:1:A>
+But do you want to talk about it <{>  <[> go ahead </[> 
+
+ <$B>  
+<ICE-PHI:S1A-082#165:1:B>
+ <[> Success </[>  </{> what 's success by the way
+
+ <$A>  
+<ICE-PHI:S1A-082#167:1:A>
+Success is getting what you want when you want it
+
+ <$B>  
+<ICE-PHI:S1A-082#168:1:B>
+Getting what you want when you want it
+
+ <$A>  
+<ICE-PHI:S1A-082#169:1:A>
+That 's it
+
+ <$B>  
+<ICE-PHI:S1A-082#170:1:B>
+That 's it
+
+ <$A>  
+<ICE-PHI:S1A-082#171:1:A>
+That 's it
+
+ <$B>  
+<ICE-PHI:S1A-082#172:1:B>
+How about if you were not able to get it and your objective is not to get it
+
+ <$A>  
+<ICE-PHI:S1A-082#174:1:A>
+It 's a problem then
+ 
+<ICE-PHI:S1A-082#175:1:A>
+You 're not successful I suppose
+
+ <$B>  
+<ICE-PHI:S1A-082#176:1:B>
+You 're successful
+ 
+<ICE-PHI:S1A-082#177:1:B>
+You were not able to get what you want <{>  <[> and what you want </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#178:1:C>
+ <[> That 's putting </[>  </{> aside morality <indig> ha </indig> because you can be successful in bad things
+
+ <$A>  
+<ICE-PHI:S1A-082#179:1:A>
+That 's a logical fantasy <&> speaker C laughs </&> that thing you brought up
+
+ <$C>  
+<ICE-PHI:S1A-082#180:1:C>
+See
+
+ <$B>  
+<ICE-PHI:S1A-082#181:1:B>
+What come again come again
+
+ <$C>  
+<ICE-PHI:S1A-082#183:1:C>
+You can be successful in bad things in doing bad things like if you 're a robber then and then you try robbing a bank then you 're successful if you happen to do that
+ 
+<ICE-PHI:S1A-082#184:1:C>
+But would you say that is success
+
+ <$A>  
+<ICE-PHI:S1A-082#185:1:A>
+Like I said it 's a negative <{>  <[> argument </[> 
+
+ <$B>  
+<ICE-PHI:S1A-082#186:1:B>
+ <[> To the good one </[>  </{> to the good ones of course
+
+ <$A>  
+<ICE-PHI:S1A-082#187:1:A>
+That 's another big problem
+ 
+<ICE-PHI:S1A-082#188:1:A>
+Don't don't bring that in that 's morality
+
+ <$C>  
+<ICE-PHI:S1A-082#190:1:C>
+Morality
+ 
+<ICE-PHI:S1A-082#191:1:C>
+More more delicate topic to talk about <,,> than time <O> chuckle </O> 
+
+ <$A>  
+<ICE-PHI:S1A-082#192:1:A>
+Let 's get rid of time because
+
+ <$B>  
+<ICE-PHI:S1A-082#193:1:B>
+Death
+
+ <$A>  
+<ICE-PHI:S1A-082#194:1:A>
+It 's a deep concept
+ 
+<ICE-PHI:S1A-082#195:1:A>
+Let 's try something else
+
+ <$B>  
+<ICE-PHI:S1A-082#196:1:B>
+Death
+ 
+<ICE-PHI:S1A-082#197:1:B>
+You <{>  <[> want to </[> 
+
+ <$A>  
+<ICE-PHI:S1A-082#198:1:A>
+ <[> How </[>  </{> 
+ 
+<ICE-PHI:S1A-082#199:1:A>
+Death you want to talk about death why death
+
+ <$B>  
+<ICE-PHI:S1A-082#202:1:B>
+Because it 's the end of time
+
+ <$A>  
+<ICE-PHI:S1A-082#203:1:A>
+It 's the end of time so we 're still back in time
+
+ <$C>  
+<ICE-PHI:S1A-082#205:1:C>
+Death
+ 
+<ICE-PHI:S1A-082#206:1:C>
+It 's not it may be the end of time but it <{>  <[> may be a beginning </[> of something else
+
+ <$B>  
+<ICE-PHI:S1A-082#207:1:B>
+ <[> No particular </[>  </{> 
+ 
+<ICE-PHI:S1A-082#208:1:B>
+Actually time will continue time will continue <.> whe </.> whether we are here or not but to for a particular person
+
+ <$A>  
+<ICE-PHI:S1A-082#209:1:A>
+Time will end
+
+ <$B>  
+<ICE-PHI:S1A-082#210:1:B>
+Yes
+
+ <$A>  
+<ICE-PHI:S1A-082#211:1:A>
+That 's true
+ 
+<ICE-PHI:S1A-082#212:1:A>
+But I don't want to talk about death
+
+ <$B>  
+<ICE-PHI:S1A-082#213:1:B>
+Why
+
+ <$A>  
+<ICE-PHI:S1A-082#214:1:A>
+It 's one of those things that
+
+ <$B>  
+<ICE-PHI:S1A-082#215:1:B>
+You 're talking to it right now
+
+ <$A>  
+<ICE-PHI:S1A-082#216:1:A>
+ <O> laughter </O> Yes you could actually say that but let 's change the topic
+
+ <$B>  
+<ICE-PHI:S1A-082#217:1:B>
+Okay
+
+ <$A>  
+<ICE-PHI:S1A-082#218:1:A>
+Let 's get rid of that altogether
+ 
+<ICE-PHI:S1A-082#219:1:A>
+Why don't we just talk about the kids here
+
+ <$B>  
+<ICE-PHI:S1A-082#220:1:B>
+The kids
+
+ <$A>  
+<ICE-PHI:S1A-082#221:1:A>
+Let 's talk about the kids here
+ 
+<ICE-PHI:S1A-082#222:1:A>
+If you were to leave this place which kids would <{>  <[> you miss </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#223:1:C>
+ <[> The school the school </[>  </{> you mean the school
+
+ <$A>  
+<ICE-PHI:S1A-082#224:1:A>
+Yes
+ 
+<ICE-PHI:S1A-082#225:1:A>
+Which kids would you miss
+
+ <$B>  
+<ICE-PHI:S1A-082#226:1:B>
+Uhm no definite
+
+ <$A>  
+<ICE-PHI:S1A-082#227:1:A>
+Theoretically speaking <,> 
+
+ <$C>  
+<ICE-PHI:S1A-082#228:1:C>
+The good ones or the bad ones
+
+ <$A>  
+<ICE-PHI:S1A-082#229:1:A>
+Oh it doesn't matter <,> who would you miss
+
+ <$C>  
+<ICE-PHI:S1A-082#230:1:C>
+Again
+
+ <$A>  
+<ICE-PHI:S1A-082#231:1:A>
+Who would you miss
+
+ <$C>  
+<ICE-PHI:S1A-082#232:1:C>
+Sir Joel
+
+ <$B>  
+<ICE-PHI:S1A-082#233:1:B>
+Grade six students
+
+ <$A&$C>  
+<ICE-PHI:S1A-082#234:1:A>
+Grade six students
+
+ <$A>  
+<ICE-PHI:S1A-082#235:1:A>
+Why
+
+ <$B>  
+<ICE-PHI:S1A-082#236:1:B>
+Well as far as I 'm concerned they are the ones who the first time that I taught in this school they are the ones whom I deal with
+ 
+<ICE-PHI:S1A-082#237:1:B>
+That 's why I believe
+
+ <$C>  
+<ICE-PHI:S1A-082#238:1:C>
+I 'd like to think about how how uh preschoolers though I 'm not teaching preschoolers now I 'd like to think about how preschoolers would appreciate your teaching them
+ 
+<ICE-PHI:S1A-082#239:1:C>
+If I 'm to compare it with high school students
+
+ <$A>  
+<ICE-PHI:S1A-082#240:1:A>
+I don't think that I would be able to handle <{>  <[> preschoolers </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#241:1:C>
+ <[> Well </[>  </{> because because because <{>  <[> preschoolers </[> are very showy 
+
+ <$B>  
+<ICE-PHI:S1A-082#242:1:B>
+ <[> It 's just </[>  </{> it 's just like
+
+ <$C>  
+<ICE-PHI:S1A-082#245:1:C>
+They would hug you <{>  <[> be with you kiss you </[> 
+
+ <$B>  
+<ICE-PHI:S1A-082#246:1:B>
+ <[> Comparing the game of Benjie Paras </[>  </{> from from that of of
+
+ <$C>  
+<ICE-PHI:S1A-082#247:1:C>
+Who 's Benjie Paras
+
+ <$A&$B>  
+<ICE-PHI:S1A-082#248:1:A>
+Johnny Abarrientos
+
+ <$A>  
+<ICE-PHI:S1A-082#249:1:A>
+Yes yes
+
+ <$B>  
+<ICE-PHI:S1A-082#250:1:B>
+Playing playing different positions
+
+ <$A>  
+<ICE-PHI:S1A-082#251:1:A>
+Yes they 're playing different positions
+ 
+<ICE-PHI:S1A-082#252:1:A>
+You cannot say that Johnny Abarrientos is a good player but if you put him in the center position he 'll play the same game
+
+ <$C>  
+<ICE-PHI:S1A-082#253:1:C>
+ <{>  <[> Hey are we still talking about time </[> 
+
+ <$B>  
+<ICE-PHI:S1A-082#254:1:B>
+ <[> No we 're now talking about basketball </[>  </{> 
+
+ <$C>  
+<ICE-PHI:S1A-082#255:1:C>
+Now we 're discussing basketball
+
+ <$B>  
+<ICE-PHI:S1A-082#256:1:B>
+Basketball basketball is life life is basketball we play the balls
+ 
+<ICE-PHI:S1A-082#257:1:B>
+The <.> ref </.> in in the school the referees are the teachers the students are the ones who make their their careers they are the ones who are making their playing time
+
+ <$A>  
+<ICE-PHI:S1A-082#259:1:A>
+So maybe we could go back again to the students
+
+ <$B>  
+<ICE-PHI:S1A-082#260:1:B>
+Yes yes
+
+ <$A>  
+<ICE-PHI:S1A-082#261:1:A>
+To the students
+ 
+<ICE-PHI:S1A-082#262:1:A>
+We 're deviating from the topic
+
+ <$B>  
+<ICE-PHI:S1A-082#263:1:B>
+We can as as referees we can also throw the students out of the playing court which is their room and we set rules
+ 
+<ICE-PHI:S1A-082#264:1:B>
+We set everything to to put everything in proper perspective so teaching is basketball
+
+ <$C>  
+<ICE-PHI:S1A-082#265:1:C>
+Teaching is basketball
+
+ <$B>  
+<ICE-PHI:S1A-082#266:1:B>
+The points the points we grade are the statistics
+
+ <$A>  
+<ICE-PHI:S1A-082#267:1:A>
+Yes statistics
+
+ <$B>  
+<ICE-PHI:S1A-082#268:1:B>
+Those students who raise their hands get the high grades
+
+ <$A>  
+<ICE-PHI:S1A-082#269:1:A>
+They get the chance to shoot the ball
+
+ <$B>  
+<ICE-PHI:S1A-082#270:1:B>
+Yeah <{>  <[> and the ball </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#271:1:C>
+ <[> And it 's their own </[>  </{> game and they don't blame anybody
+ 
+<ICE-PHI:S1A-082#272:1:C>
+It 's their own game they 're <{>  <[> playing </[> 
+
+ <$B>  
+<ICE-PHI:S1A-082#273:1:B>
+ <[>  <.> Unfortunate </.>  </[>  </{> unfortunately the parents will will blame the teachers blame them upon knowing that they had paid the tuition fees and and suddenly they were the students must go to another school
+
+ <$A>  
+<ICE-PHI:S1A-082#274:1:A>
+That 's their right that 's their right to criticize
+
+ <$B>  
+<ICE-PHI:S1A-082#276:1:B>
+And it 's our right to
+
+ <$C>  
+<ICE-PHI:S1A-082#277:1:C>
+To
+
+ <$A>  
+<ICE-PHI:S1A-082#278:1:A>
+Yes
+
+ <$B>  
+<ICE-PHI:S1A-082#279:1:B>
+To remove their children especially when they <{>  <[> are </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#280:1:C>
+ <[> Those </[>  </{> those are the narrow-minded parents
+
+ <$B>  
+<ICE-PHI:S1A-082#281:1:B>
+And
+
+ <$C>  
+<ICE-PHI:S1A-082#282:1:C>
+They put the blame
+
+ <$B>  
+<ICE-PHI:S1A-082#283:1:B>
+So the referee the referee going back to basketball the referee will will give technical technical penalty for Tim Cone so Tim Cone gets out of the playing court just
+
+ <$A>  
+<ICE-PHI:S1A-082#285:1:A>
+So Tim Cone would be representing the parents <unclear> 2 words </unclear> or
+
+ <$B>  
+<ICE-PHI:S1A-082#286:1:B>
+The parents or the students
+
+ <$A>  
+<ICE-PHI:S1A-082#287:1:A>
+Uh okay
+
+ <$B>  
+<ICE-PHI:S1A-082#288:1:B>
+And we teachers
+
+ <$C>  
+<ICE-PHI:S1A-082#289:1:C>
+If we 're to compare it to basketball then it 's going to be limited also like it 's only basketball here in Metro Manila
+
+ <$B>  
+<ICE-PHI:S1A-082#290:1:B>
+M B A is that
+
+ <$C>  
+<ICE-PHI:S1A-082#291:1:C>
+What if what if what if the students uh sooner or later would decide to go abroad <indig> o </indig> 
+
+ <$B>  
+<ICE-PHI:S1A-082#292:1:B>
+ <{>  <[> That 's the Olympics the Olympics the Olympics </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#293:1:C>
+ <[> You can't compare it to basketball the Olympics </[>  </{>  <O> laughter </O> 
+
+ <$B>  
+<ICE-PHI:S1A-082#294:1:B>
+It 's the Olympics
+
+ <$A>  
+<ICE-PHI:S1A-082#295:1:A>
+It 's a different game it 's a <{>  <[> bigger </[> game
+
+ <$B>  
+<ICE-PHI:S1A-082#297:1:B>
+ <[> Now </[>  </{> now now I would like you to listen very <.> care </.> 
+
+ <$C>  
+<ICE-PHI:S1A-082#299:1:C>
+That 's exactly what we 're doing
+ 
+<ICE-PHI:S1A-082#300:1:C>
+ <{1>  <[1> As teachers </[1> we 're preparing them for a <{2>  <[2> bigger world </[2> 
+
+ <$B>  
+<ICE-PHI:S1A-082#301:1:B>
+ <[1> Carefully about this </[1>  </{1> 
+
+ <$A>  
+<ICE-PHI:S1A-082#302:1:A>
+ <[2> A bigger game </[2>  </{2> 
+
+ <$C>  
+<ICE-PHI:S1A-082#303:1:C>
+Yes
+
+ <$B>  
+<ICE-PHI:S1A-082#304:1:B>
+Now teachers are like basketball players
+ 
+<ICE-PHI:S1A-082#305:1:B>
+Once
+
+ <$C>  
+<ICE-PHI:S1A-082#306:1:C>
+This time it 's us <{>  <[> not the students anymore </[> 
+
+ <$B>  
+<ICE-PHI:S1A-082#307:1:B>
+ <[> Yes yes </[>  </{> 
+ 
+<ICE-PHI:S1A-082#308:1:B>
+Once once the the owner of the school no <.> long </.> she she 's not not the teacher 's no longer competent suddenly it can put me
+
+ <$C>  
+<ICE-PHI:S1A-082#309:1:C>
+Kick them out
+
+ <$A>  
+<ICE-PHI:S1A-082#310:1:A>
+Can we get can we get rid of the basketball
+ 
+<ICE-PHI:S1A-082#311:1:A>
+It 's getting old try something else
+ 
+<ICE-PHI:S1A-082#313:1:A>
+Let 's go back to the kids
+ 
+<ICE-PHI:S1A-082#314:1:A>
+I was asking a while ago which kids would you miss if in case you left here
+
+ <$B>  
+<ICE-PHI:S1A-082#315:1:B>
+ <{>  <[> Okay okay the kids who play good basketball </[> 
+
+ <$C>  
+<ICE-PHI:S1A-082#316:1:C>
+ <[> I told you I told you I told you for me it 's the preschoolers </[>  </{> for you it 's the grade six
+
+ <$B>  
+<ICE-PHI:S1A-082#318:1:B>
+Mr Caibal Mr Marvin Caibal he plays basketball very well
+ 
+<ICE-PHI:S1A-082#320:1:B>
+That 's why I believe even if I I I gave him seventy-three in his card still he shoots the ball
+
+ <$A>  
+<ICE-PHI:S1A-082#321:1:A>
+We 're mentioning grades and kids now here
+ 
+<ICE-PHI:S1A-082#322:1:A>
+I hope this does not <.> incrimin </.> incriminate us with or I hope this thing is not used against us 
+
+ </I> 
+

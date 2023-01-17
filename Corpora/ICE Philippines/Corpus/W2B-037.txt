@@ -1,0 +1,685 @@
+<I>
+
+<ICE-PHI:W2B-037#1:1>
+<h> <bold> Microsoft marches on </bold> </h>
+
+<ICE-PHI:W2B-037#2:1>
+<bold> Manuel A. Alcuaz, Jr. </bold>
+
+<p> 
+<ICE-PHI:W2B-037#3:1>
+For all intents and purposes the Office Suite wars are over.
+
+<ICE-PHI:W2B-037#4:1>
+Microsoft has won with an overwhelming 80 to 90% market shares.
+
+<ICE-PHI:W2B-037#5:1>
+Novell is now shopping around for someone to buy its WordPerfect
+Office business unit.
+
+<ICE-PHI:W2B-037#6:1>
+And Lotus, now owned by IBM, is looking for market niches for the
+Lotus Office suite.
+
+<ICE-PHI:W2B-037#7:1>
+Microsoft Office consists of Word, Excel, PowerPoint and Schedule.
+
+<ICE-PHI:W2B-037#8:1>
+Microsoft Office Pro consist of the above plus Access. </p>
+
+<p> 
+<ICE-PHI:W2B-037#9:1>
+Just a few years ago WordPerfect was the number one word processor
+and Lotus 1-2-3 was the number one electronic spread sheet.
+
+<ICE-PHI:W2B-037#10:1>
+Harvard Graphics was the leading presentation software, Lotus
+Organizer was the leading personal information manager. </p>
+
+<p> 
+<ICE-PHI:W2B-037#11:1>
+Microsoft Word, Excel and PowerPoint were good products but they
+were not the market leaders.
+
+<ICE-PHI:W2B-037#12:1>
+If Microsoft has gone one on one against the leaders in each
+productivity tool category it would have been a long bloody war with no
+assurance of victory much less dominance. </p>
+
+<p> 
+<ICE-PHI:W2B-037#13:1>
+Microsoft 's strategists saw that its major strength was in
+having a combination of products to meet office productivity needs.
+
+<ICE-PHI:W2B-037#14:1>
+The competitors had excellent individual products but did not have a
+full set of tools to meet office productivity needs. </p>
+
+<p> 
+<ICE-PHI:W2B-037#15:1>
+Microsoft saw the opportunity and launched the Microsoft Office
+suite at a price that no one else could afford.
+
+<ICE-PHI:W2B-037#16:1>
+Microsoft Office did not cost two or three times the price of an
+individual tool.
+
+<ICE-PHI:W2B-037#17:1>
+It cost only slightly more than any one tool ( Word, Excel, or
+PowerPoint).
+
+<ICE-PHI:W2B-037#18:1>
+Thus buyers opted for Microsoft Office over combinations of its
+competitor tools.
+
+<ICE-PHI:W2B-037#19:1>
+Furthermore, when WordPerfect and Lotus responded with their own
+office suites they came in multicolored boxes.
+
+<ICE-PHI:W2B-037#20:1>
+A situation which would make it very hard to give the impression of
+seamless integration between the tool categories. </p>
+
+<p> 
+<ICE-PHI:W2B-037#21:1>
+Microsoft has made seamless integration its major competitive
+weapon.
+
+<ICE-PHI:W2B-037#22:1>
+It always fascinates me to watch a Microsoft demo of Project.
+
+<ICE-PHI:W2B-037#23:1>
+The emphasis of the demo is not the scheduling of activities on the
+Gantt or PERT charts.
+
+<ICE-PHI:W2B-037#24:1>
+The emphasis is on how the project manager can quickly prepare a
+progress letter to the project owners and seamlessly embed a summary project
+schedule chart using OLE ( object linking and embedding) or how the project
+cost data can be transferred to an Excel spread sheet to do a budget analysis
+and show the varieties using Excel 's charting capabilities. </p>
+
+<p> 
+<ICE-PHI:W2B-037#25:1>
+Now that Microsoft has established dominance in office
+productivity tools, it is now ready to take on the MIS market which has long
+been the turf of system vendors and database and application development tool
+vendors. </p>
+
+<p> 
+<ICE-PHI:W2B-037#26:1>
+Microsoft has a two-pronged strategy to conquer this market.
+
+<ICE-PHI:W2B-037#27:1>
+To attack the database segment Microsoft has the Back Office.
+
+<ICE-PHI:W2B-037#28:1>
+The Back Office consists of six servers - - Windows NT Server, SQL
+Server, SNA Server, Mail Server, and coming soon, Exchange Server. </p>
+
+<p> 
+<ICE-PHI:W2B-037#29:1>
+Windows NT Server is Microsoft 's multipurpose network operating
+system.
+
+<ICE-PHI:W2B-037#30:1>
+It provides a combination of file print, client/server database and
+communications services.
+
+<ICE-PHI:W2B-037#31:1>
+It combines the functionality of Novell NetWare and UNIX in a single
+system.
+
+<ICE-PHI:W2B-037#32:1>
+Windows NT can coexist with existing NetWare and/or UNIX system.
+
+<ICE-PHI:W2B-037#33:1>
+It is rapidly eroding Novell 's NetWare installed base and the UNIX
+vendor 's market base. </p>
+
+<p> 
+<ICE-PHI:W2B-037#34:1>
+Digital Equipment seems to be back.
+
+<ICE-PHI:W2B-037#35:1>
+It had a very strong presence at COMDEX.
+
+<ICE-PHI:W2B-037#36:1>
+Almost all their systems were running Windows 95 or Windows NT.
+
+<ICE-PHI:W2B-037#37:1>
+I kidded the Digital sales people at the booth about what happened to
+VX/VMS, Ultrix, and Open VMS.
+
+<ICE-PHI:W2B-037#38:1>
+They pointed out that somewhere in the many booths they had an Alpha
+running VMS.
+
+<ICE-PHI:W2B-037#39:1>
+It is quite clear that the Digital comeback is anchored on the fact
+that the Alpha is the most powerful processor running on NT. </p>
+
+<p> 
+<ICE-PHI:W2B-037#40:1>
+SQL Server is Microsoft 's scalable high-performance relational
+database management system designed for distributed client/server computing.
+
+<ICE-PHI:W2B-037#41:1>
+SQL Server was originally identical to Sybase SQL Server.
+
+<ICE-PHI:W2B-037#42:1>
+A few years back Microsoft and Sybase agreed to part ways and
+differentiate their products because Sybase could not follow Microsoft
+high-volume, low-cost market strategy. </p>
+
+<p> 
+<ICE-PHI:W2B-037#43:1>
+SQL Server Version 6.0 is definitely an in-house Microsoft
+enhancement.
+
+<ICE-PHI:W2B-037#44:1>
+Among its key enhancements are: built in data replication; parallel
+processing enhancements; GUI distributed management tools; and superior
+integration with Windows NT and other back office products. </p>
+
+<p> 
+<ICE-PHI:W2B-037#45:1>
+A number of market analysts expect Microsoft SQL Server to
+overtake Oracle by 1998. </p>
+
+<p> 
+<ICE-PHI:W2B-037#46:1>
+SNA Server provides connectivity to IBM AS/400 and mainframe
+systems.
+
+<ICE-PHI:W2B-037#47:1>
+System Management Server supports e-mail and Microsoft Exchange
+Support workgroup computing. </p>
+
+<p> 
+<ICE-PHI:W2B-037#48:1>
+The other segment which Microsoft is now attacking is application
+development.
+
+<ICE-PHI:W2B-037#49:1>
+Microsoft 's key business palliation development products are Access
+and Visual BASIC. </p>
+
+<p> 
+<ICE-PHI:W2B-037#50:1>
+Access and FoxPro are Microsoft 's leading desktop database
+products.
+
+<ICE-PHI:W2B-037#51:1>
+FoxPro was the industry leading DBMS.
+
+<ICE-PHI:W2B-037#52:1>
+Access is Microsoft 's product for the future.
+
+<ICE-PHI:W2B-037#53:1>
+While FoxPro had market share, Access had a newer relational DBMS
+architecture.
+
+<ICE-PHI:W2B-037#54:1>
+Microsoft built up ACCESS market share by making it a part of
+Microsoft Office Pro. </p>
+
+<p> 
+<ICE-PHI:W2B-037#55:1>
+<mention> Access </mention> is actually a multi - purpose
+product.
+
+<ICE-PHI:W2B-037#56:1>
+It is now the best PC and LAN database management system because it
+combines ease of use and relational DBMS functionality.
+
+<ICE-PHI:W2B-037#57:1>
+It was <it> PC Magazine </it> 's Editor 's Choice in the last review
+of PC DBMS, a position formerly occupied by MicroRim 's R:Base.
+
+<ICE-PHI:W2B-037#58:1>
+It is also an excellent query and reporting tool for accessing data
+stored in its own files or in other database.
+
+<ICE-PHI:W2B-037#59:1>
+And now an excellent application development tool for client/server
+solutions. </p>
+
+<p> 
+<ICE-PHI:W2B-037#60:1>
+The Access Developer 's Toolkit presents a serious threat to
+Power Builder.
+
+<ICE-PHI:W2B-037#61:1>
+Among its key features are: OLE Controls; Replication Manager; Office
+Compatibility kit; Visual BASIC for Applications; Forms Design; Performance
+and Table Analyzer Wizards; and Enhanced Jet Engine. </p>
+
+<p> 
+<ICE-PHI:W2B-037#62:1>
+Visual BASIC has grown from being a GUI version of Quick Base.
+
+<ICE-PHI:W2B-037#63:1>
+Visual BASIC is now the common programming language for three key
+Microsoft products--Excel, Project and ACCESS.
+
+<ICE-PHI:W2B-037#64:1>
+Visual Basic for applications is bundled with each of these products.
+</p>
+
+<p> 
+<ICE-PHI:W2B-037#65:1>
+Visual Basic is an object-based programming language.
+
+<ICE-PHI:W2B-037#66:1>
+Although OOP purists will not accept it as a full object-oriented
+language, it boasts the world 's largest and fastest growing library of
+rebuilt VBX and OLE components. </p>
+
+<p> 
+<ICE-PHI:W2B-037#67:1>
+<mention> Visual Basic </mention> comes in three versions:
+Standard Edition, Professional Edition and Enterprise Edition.
+
+<ICE-PHI:W2B-037#68:1>
+All three versions provide an easy to learn and use visual
+environment-based programming language and data access capabilities including
+an integrated database engine. </p>
+
+<p> 
+<ICE-PHI:W2B-037#69:1>
+<mention> Standard Edition </mention> is designed for power users
+who want to quickly build Windows 95 applications.
+
+<ICE-PHI:W2B-037#70:1>
+<mention> Professional Edition </mention> is designed for developers
+to build 16-bit and 32-bit applications and to build libraries of OLE
+components. </p>
+
+<p> 
+<ICE-PHI:W2B-037#71:1>
+<mention> Enterprise Edition </mention> is designed for teams
+building large client/server applications.
+
+<ICE-PHI:W2B-037#72:1>
+It supports the creation of three-tier applications.
+
+<ICE-PHI:W2B-037#73:1>
+It includes <mention> Source Safe </mention> , which manages source
+code and enables multiple programmers to work together.
+
+<ICE-PHI:W2B-037#74:1>
+Full ODBC support enables Visual BASIC applications to run with
+ACCESS SQL Server and Oracle Databases. </p>
+
+<p> 
+<ICE-PHI:W2B-037#75:1>
+The Microsoft steam roller is gathering momentum.
+
+<ICE-PHI:W2B-037#76:1>
+I don't think that the Network Centric vision will stop it. </p> </I>
+
+
+<I>
+
+<ICE-PHI:W2B-037#77:2>
+<h> <bold> New techno uses blood analysis as diet tool </bold> </h>
+
+<ICE-PHI:W2B-037#78:2>
+<bold> Susan A. de Guzman </bold>
+
+<p> 
+<ICE-PHI:W2B-037#79:2>
+BLOOD is blood--that red liquid flowing in your veins.
+
+<ICE-PHI:W2B-037#80:2>
+But scrutinized under a microscope and magnified on screen, it 's a
+much more interesting sight.
+
+<ICE-PHI:W2B-037#81:2>
+This up-close and personal view of so-called &ldquo; live blood
+&rdquo; shows organisms of varying shapes and sizes moving ceaselessly about.
+</p>
+
+<p> 
+<ICE-PHI:W2B-037#82:2>
+To the untrained eye, this image may be nothing more than a
+jumble of odd shapes and figures.
+
+<ICE-PHI:W2B-037#83:2>
+But to the health expert, this specimen is a valuable tool in
+assessing a person 's physical condition. </p>
+
+<p> 
+<ICE-PHI:W2B-037#84:2>
+A nutritional supplements company is now using this technology
+from the US--called <mention> live blood microscopy </mention> - - to analyze
+a patient 's nutritional deficiencies or excesses.
+
+<ICE-PHI:W2B-037#85:2>
+This way, the nutritive problem can be easily identified and
+addressed with the help of enzyme-based supplements. </p>
+
+<p> 
+<ICE-PHI:W2B-037#86:2>
+Unlike an ordinary blood analysis which is quantitative, blood
+microscopy is qualitative.
+
+<ICE-PHI:W2B-037#87:2>
+The former keeps track of the number of the person 's white blood
+cells, red blood cells and platelets.
+
+<ICE-PHI:W2B-037#88:2>
+The latter indicates what condition those blood components are in.
+
+<ICE-PHI:W2B-037#89:2>
+The live blood demonstration, however, is for nutritional information
+only and is not to be considered medical diagnosis. </p>
+
+<ICE-PHI:W2B-037#90:2>
+<h> <bold> Simple procedure </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-037#91:2>
+The procedure itself is simple.
+
+<ICE-PHI:W2B-037#92:2>
+Blood is obtained from the person through a finger prick.
+
+<ICE-PHI:W2B-037#93:2>
+This sample is placed on a slide.
+
+<ICE-PHI:W2B-037#94:2>
+When examined under the microscope, the magnified version of the
+blood is projected on a TV screen. </p>
+
+<p> 
+<ICE-PHI:W2B-037#95:2>
+<quote> &ldquo; There is a big impact when people see for
+themselves how their own blood looks like.
+
+<ICE-PHI:W2B-037#96:2>
+When they see all these moving forms, they become curious and ask
+questions about it.
+
+<ICE-PHI:W2B-037#97:2>
+Through microscopy, we can explain better what 's going on inside
+their body on a cellular level, &rdquo; </quote> said Richard Glenn Ortega of
+Bio-Enzyme Inc., which distributes the Infinity2 brand of nutritional
+supplements. </p>
+
+<p> 
+<ICE-PHI:W2B-037#98:2>
+<mention> Bio-Enzyme </mention> has a chart indicating the normal
+appearance of various cells and cell groupings.
+
+<ICE-PHI:W2B-037#99:2>
+Any aberrations are said to be symptoms of a particular affliction.
+</p>
+
+<p> 
+<ICE-PHI:W2B-037#100:2>
+To drive home their point, they ask the patient to take enzyme
+tablets upon consultation.
+
+<ICE-PHI:W2B-037#101:2>
+After a few minutes, a blood sample is taken again.
+
+<ICE-PHI:W2B-037#102:2>
+What was shown before as a build-up of undigested food, for example,
+gradually disappears reportedly as a direct result of enzyme intake. </p>
+
+<ICE-PHI:W2B-037#103:2>
+<h> <bold> Enzyme supplement </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-037#104:2>
+In another demonstration, Ortega breaks a capsule of enzyme
+supplement into a cup of chocolate pudding.
+
+<ICE-PHI:W2B-037#105:2>
+He stirs it in, and in a matter of minutes, the jelly-like substance
+transforms into almost liquid form--an indication that the enzyme helps
+quicken food digestion. </p>
+
+<p> 
+<ICE-PHI:W2B-037#106:2>
+<quote> &ldquo; We have a natural supply of enzymes in the body.
+
+<ICE-PHI:W2B-037#107:2>
+There are metabolic enzymes the body needs to run itself.
+
+<ICE-PHI:W2B-037#108:2>
+Then there 's a limited supply of digestive enzymes which is put in
+your 'enzyme bank account' at birth, &rdquo; </quote> says Victor Chua, also
+of Bio-Enzyme Inc. </p>
+
+<p> 
+<ICE-PHI:W2B-037#109:2>
+Enzymes needed for proper digestion and absorption ideally comes
+from food.
+
+<ICE-PHI:W2B-037#110:2>
+Unfortunately, research has proven that cooking, processing,
+irradiating, microwaving and other preservation techniques kill almost all of
+the natural enzymes in food.
+
+<ICE-PHI:W2B-037#111:2>
+Also, it has been found that many raw foods today are
+enzyme-deficient, owing to the use of pesticides and other chemicals. </p>
+
+<p> 
+<ICE-PHI:W2B-037#112:2>
+<quote> &ldquo; Your body has to 'rob' enzymes from your
+personal enzyme bank account and even use some of your metabolic enzymes, to
+attempt the digestive process.
+
+<ICE-PHI:W2B-037#113:2>
+This reduces the amount of these enzymes available for body
+functions, &rdquo; </quote> Chua says. </p>
+
+<p> 
+<ICE-PHI:W2B-037#114:2>
+Ortega also notes the existence of &ldquo; free radicals &rdquo;
+in the body that, while essential particularly to the immune system, must be
+controlled by antioxidants.
+
+<ICE-PHI:W2B-037#115:2>
+The free radicals cause rapid oxidation of tissues and fats,
+resulting in tissue damage and premature aging if not controlled. </p>
+
+<ICE-PHI:W2B-037#116:2>
+<h> <bold> Dietary habits </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-037#117:2>
+<quote> &ldquo; It is very important that antioxidants be
+complete so that when they do their job opposing free radicals, the process
+does not result in the creation of more free radicals.
+
+<ICE-PHI:W2B-037#118:2>
+Now, there 's a coordinated approach of using both vitamin and
+enzyme antioxidants together to prevent further free radical damage, &rdquo;
+</quote> says Ortega. </p>
+
+<p> 
+<ICE-PHI:W2B-037#119:2>
+Aside from live blood microscopy, <mention> Bio-Enzyme
+</mention> asks the patient to fill up a questionnaire to assess his health
+based on dietary habits, exercise routines and previous ailments.
+
+<ICE-PHI:W2B-037#120:2>
+<quote> &ldquo; This health evaluation profile will help give a
+total picture of the patient 's lifestyle.
+
+<ICE-PHI:W2B-037#121:2>
+Based on this, we can recommend a specific program suited to his
+condition, &rdquo; </quote> says Ortega. </p>
+
+<p> 
+<ICE-PHI:W2B-037#122:2>
+The questionnaire is very detailed.
+
+<ICE-PHI:W2B-037#123:2>
+For starters, the person is asked what food he ate the day before
+and what his normal diet consists of.
+
+<ICE-PHI:W2B-037#124:2>
+There are over a hundred questions the person may answer <mention>
+no/never </mention> , <mention> yes/sometimes </mention> or <mention> often
+</mention> .
+
+<ICE-PHI:W2B-037#125:2>
+These queries include: Do you feel sleepy or have low energy after
+eating?
+
+<ICE-PHI:W2B-037#126:2>
+Do you have varicose veins or bruise too easily?
+
+<ICE-PHI:W2B-037#127:2>
+Do you have trouble sleeping?
+
+<ICE-PHI:W2B-037#128:2>
+Do you have cravings for sweets or sugars?
+
+<ICE-PHI:W2B-037#129:2>
+Are you moody?
+
+<ICE-PHI:W2B-037#130:2>
+Have you undergone any surgery within the last 90 days?
+
+<ICE-PHI:W2B-037#131:2>
+Do you have ridges in your fingernails?
+
+<ICE-PHI:W2B-037#132:2>
+Do you eat red meats?
+
+<ICE-PHI:W2B-037#133:2>
+Do you smoke or are you exposed to second hand smoke or smog?
+
+<ICE-PHI:W2B-037#134:2>
+Do you have excessive wrinkling of the skin?
+
+<ICE-PHI:W2B-037#135:2>
+Do you experience bloating? </p>
+
+<p> 
+<ICE-PHI:W2B-037#136:2>
+Ortega singles out that feeling sluggish after eating is already
+an indication that something 's wrong inside.
+
+<ICE-PHI:W2B-037#137:2>
+<quote> &ldquo; When you eat food, you should be energized.
+
+<ICE-PHI:W2B-037#138:2>
+If the opposite happens, you have to find out why. &rdquo; </quote>
+</p>
+
+<p> 
+<ICE-PHI:W2B-037#139:2>
+Ortega says they usually advocate a combination of changes in a
+person 's diet, the implementation of an exercise program and the intake of
+nutritional supplements.
+
+<ICE-PHI:W2B-037#140:2>
+He enumerates, <quote> &ldquo; One of the main principles is to eat
+a minimum of 50 percent raw food.
+
+<ICE-PHI:W2B-037#141:2>
+Ideally, there should be five servings of fruit a day and three
+vegetable servings a day.
+
+<ICE-PHI:W2B-037#142:2>
+As much as possible, we also encourage them not to eat fried food to
+avoid fat intake.
+
+<ICE-PHI:W2B-037#143:2>
+The alternatives are to bake, broil, steam or roast food. &rdquo;
+</quote> </p>
+
+<p> 
+<ICE-PHI:W2B-037#144:2>
+He adds, <quote> &ldquo; As much as possible, they should make
+time for exercise.
+
+<ICE-PHI:W2B-037#145:2>
+The common excuse people give is that they have no time for it.
+
+<ICE-PHI:W2B-037#146:2>
+But we tell them, they don't have to go to the gym to exercise.
+
+<ICE-PHI:W2B-037#147:2>
+They can do it right at home, even while watching television.
+&rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2B-037#148:2>
+Based also on their findings, they suggest a combination of
+supplements for the patient to take according to his needs.
+
+<ICE-PHI:W2B-037#149:2>
+The Infinity2 range has five professional products and seven
+nutritional products. </p>
+
+<p> 
+<ICE-PHI:W2B-037#150:2>
+While the aforementioned comprise the general measures they
+advise patients, Chua stresses evaluation is done on a case to case basis.
+
+<ICE-PHI:W2B-037#151:2>
+<quote> &ldquo; We go for 'customized' treatment because it 's
+really dependent on the person 's condition, &rdquo; </quote> he explains.
+
+<ICE-PHI:W2B-037#152:2>
+<quote> &ldquo; For example, he may have a health restriction which
+prevents him from eating the food we suggest or maybe from exercising.
+&rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2B-037#153:2>
+Expectedly, lifelong practices cannot be changed overnight.
+
+<ICE-PHI:W2B-037#154:2>
+Dr. Annie Damian-Relucio, <mention> Bio-Enzyme </mention> 's
+consulting physician, says, <quote> &ldquo; It takes 21 days to change a
+habit.
+
+<ICE-PHI:W2B-037#155:2>
+This is why we have to monitor the patients closely and guide them
+as they go through their specific programs.
+
+<ICE-PHI:W2B-037#156:2>
+When they strictly follow the program, they themselves notice the
+difference in a matter of days. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2B-037#157:2>
+Making the changes will reportedly improve the life span by some
+20 to 30 years, plus quality.
+
+<ICE-PHI:W2B-037#158:2>
+Not only is the life span extended, says Ortega, but those
+additional years will be lived still at optimum health. </p>
+
+<p> 
+<ICE-PHI:W2B-037#159:2>
+Chua, however, insists that the health professional can only do
+so much in improving a patient 's well-being. <mention>
+
+<ICE-PHI:W2B-037#160:2>
+<quote> &ldquo; On our part, we supply them with the information,
+help them to understand it, and let them know their options.
+
+<ICE-PHI:W2B-037#161:2>
+In other words, we give them the tools.
+
+<ICE-PHI:W2B-037#162:2>
+We educate then and motivate them.
+
+<ICE-PHI:W2B-037#163:2>
+But we may have the best products, we may give them the best advice,
+but if they don't act on it, <indig> wala rin </indig> .
+
+<ICE-PHI:W2B-037#164:2>
+So in the end, it 's really up to the person. &rdquo; </quote>
+</mention> </p> </I>

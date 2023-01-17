@@ -1,0 +1,1051 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-003#1:1:A>
+How many books are you writing Sir
+
+ <$B> 
+<ICE-PHI:S1A-003#2:1:B>
+Brother Andrew has just finished it 's now uhm being corrected <{> <[> has </[> just finished introducing the
+
+ <$A> 
+<ICE-PHI:S1A-003#5:1:A>
+<[> Yeah </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-003#6:1:B>
+Actually this book is a <,> collection of essays
+
+ <$A> 
+<ICE-PHI:S1A-003#7:1:A>
+Of your essays
+
+ <$B> 
+<ICE-PHI:S1A-003#8:1:B>
+Yeah of my essays
+
+ <$A> 
+<ICE-PHI:S1A-003#9:1:A>
+Uh-huh uh-huh <,> about time uh uh
+
+ <$B> 
+<ICE-PHI:S1A-003#10:1:B>
+And then uhm
+
+ <$A> 
+<ICE-PHI:S1A-003#11:1:A>
+In in in Linguistics and Education
+
+ <$B> 
+<ICE-PHI:S1A-003#12:1:B>
+Yeah well well <,> Education and Language
+ 
+<ICE-PHI:S1A-003#13:1:B>
+It takes uh it 's called uh the title is <mention> The Long Ago Teacher <,> Reflections on Philippine Education </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-003#14:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#15:1:B>
+Something like that
+
+ <$A> 
+<ICE-PHI:S1A-003#16:1:A>
+Uh-huh uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-003#17:1:B>
+They are uhm sort of very light-hearted essays
+
+ <$A> 
+<ICE-PHI:S1A-003#18:1:A>
+How nice
+
+ <$B> 
+<ICE-PHI:S1A-003#19:1:B>
+Something uh uhm Andrew says it 's very readable
+
+ <$A> 
+<ICE-PHI:S1A-003#20:1:A>
+How nice
+
+ <$B> 
+<ICE-PHI:S1A-003#21:1:B>
+He thinks it 's good
+ 
+<ICE-PHI:S1A-003#22:1:B>
+He wrote the Foreword
+
+ <$A> 
+<ICE-PHI:S1A-003#23:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-003#24:1:B>
+In fact I just left it there now with the <,> computer boy to make the corrections
+
+ <$A> 
+<ICE-PHI:S1A-003#25:1:A>
+Wow
+ 
+<ICE-PHI:S1A-003#26:1:A>
+Who 's printing it who 's publishing it Sir
+
+ <$B> 
+<ICE-PHI:S1A-003#28:1:B>
+Phoenix
+
+ <$A> 
+<ICE-PHI:S1A-003#29:1:A>
+Uh-huh <,> good <,,> 
+ 
+<ICE-PHI:S1A-003#30:1:A>
+<indig> O </indig> is that the first collection of <{> <[> essays </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#31:1:B>
+<[> Yes </[> </{> yes
+
+ <$A> 
+<ICE-PHI:S1A-003#32:1:A>
+Your first collection
+
+ <$B> 
+<ICE-PHI:S1A-003#33:1:B>
+My first collection
+
+ <$A> 
+<ICE-PHI:S1A-003#34:1:A>
+Unbelievable <indig> 'no </indig> it took so long <indig> ha </indig> <{> <[> for someone to </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#36:1:B>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-003#37:1:B>
+But my uh my <,,> uhm scholarly essays <{1> <[1> <,,> </[1> I think it can it can uhm they can be collected now because uhm my scholarly essays I think can can easily can including my unpublished materials <{2> <[2> <,> </[2> can uhm be put into one book 
+
+ <$A> 
+<ICE-PHI:S1A-003#38:1:A>
+<[1> Yes </[1> </{1> 
+
+
+
+<ICE-PHI:S1A-003#> <[2> Uhm </[2> </{2> 
+ 
+<ICE-PHI:S1A-003#40:1:A>
+You know I I have a collection of <,> readings in Philippine sociolinguistics because I teach that subject here
+
+ <$B> 
+<ICE-PHI:S1A-003#41:1:B>
+Uhm <{> <[> uhm </[> 
+
+ <$A> 
+<ICE-PHI:S1A-003#42:1:A>
+<[> To </[> </{> undergrads
+
+ <$B> 
+<ICE-PHI:S1A-003#43:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-003#44:1:A>
+And I 'm in the process of
+ 
+<ICE-PHI:S1A-003#45:1:A>
+It 's really just uh mimeographed <,> <{> <[> very </[> limited circulation
+
+ <$B> 
+<ICE-PHI:S1A-003#46:1:B>
+<[> Uhm </[> </{> 
+ 
+<ICE-PHI:S1A-003#47:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-003#48:1:A>
+Print run of I think two hundred or three hundred 
+
+
+
+<ICE-PHI:S1A-003#> Of your essays <,> which would you consider <,> which are your favorites <,> that should go into a readings in Philippine sociolinguistics <,> 
+
+ <$B> 
+<ICE-PHI:S1A-003#51:1:B>
+Do you include Language Planning
+
+ <$A> 
+<ICE-PHI:S1A-003#52:1:A>
+Yes yes <,> that 's a section <,> 
+ 
+<ICE-PHI:S1A-003#53:1:A>
+Because what I have now
+
+ <$B> 
+<ICE-PHI:S1A-003#54:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-003#55:1:A>
+I had to think of the needs of the students also <indig> 'no </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-003#56:1:B>
+Oh yeah yeah
+
+ <$A> 
+<ICE-PHI:S1A-003#57:1:A>
+So <,> since they don't know too much about the Philippine language situation <{1> <[1> I had </[1> to include uh the introduction to the atlas of Curt McFarland <,> as an introduction <{2> <[2> to </[2> linguistics
+
+ <$B> 
+<ICE-PHI:S1A-003#58:1:B>
+<[1> Uh-huh </[1> </{1> 
+ 
+<ICE-PHI:S1A-003#59:1:B>
+<[2> Uh </[2> </{2> 
+
+ <$A> 
+<ICE-PHI:S1A-003#60:1:A>
+And then I included your article on <,> linguistic minorities
+
+ <$B> 
+<ICE-PHI:S1A-003#61:1:B>
+Uh yeah yeah
+
+ <$A> 
+<ICE-PHI:S1A-003#62:1:A>
+Yes that one because I wanted them to know about linguistic minorities and the eight major languages <foreign> etcetera etcetera </foreign> 
+
+ <$B> 
+<ICE-PHI:S1A-003#63:1:B>
+I see
+
+ <$A> 
+<ICE-PHI:S1A-003#64:1:A>
+That one I included
+
+ <$B> 
+<ICE-PHI:S1A-003#65:1:B>
+<{> <[> linguistic minorities </[> 
+
+ <$A> 
+<ICE-PHI:S1A-003#66:1:A>
+<[> And then for </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-003#67:1:B>
+Is this the one in uh the fiftieth anniversary of uh
+
+ <$A> 
+<ICE-PHI:S1A-003#68:1:A>
+It 's <indig> ano e </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-003#69:1:B>
+<{> <[> Of uh </[> 
+
+ <$A> 
+<ICE-PHI:S1A-003#70:1:A>
+<[> You gave me </[> an offprint <indig> e </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-003#71:1:B>
+<{> <[> <indig> Ha </indig> </[> 
+
+ <$A> 
+<ICE-PHI:S1A-003#72:1:A>
+<[> I don't </[> </{> 
+ 
+<ICE-PHI:S1A-003#73:1:A>
+It was an offprint
+ 
+<ICE-PHI:S1A-003#74:1:A>
+My my copy that
+ 
+<ICE-PHI:S1A-003#75:1:A>
+It was an offprint from <,> I think a foreign magazine
+
+ <$B> 
+<ICE-PHI:S1A-003#76:1:B>
+No
+
+ <$A> 
+<ICE-PHI:S1A-003#77:1:A>
+Or a journal
+
+ <$B> 
+<ICE-PHI:S1A-003#78:1:B>
+Maybe uh it it is
+
+ <$A> 
+<ICE-PHI:S1A-003#79:1:A>
+Where you mentioned S <{> <[> I L </[> a lot
+
+ <$B> 
+<ICE-PHI:S1A-003#80:1:B>
+<[> It is </[> </{> 
+ 
+<ICE-PHI:S1A-003#81:1:B>
+Oh yeah yeah
+ 
+<ICE-PHI:S1A-003#82:1:B>
+This is in the fiftieth <,> in the golden anniversary of S I L
+
+ <$A> 
+<ICE-PHI:S1A-003#83:1:A>
+Uh maybe
+
+ <$B> 
+<ICE-PHI:S1A-003#84:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-003#85:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#86:1:B>
+Yes <{> <[> uh </[> 
+
+ <$A> 
+<ICE-PHI:S1A-003#87:1:A>
+<[> And </[> </{> then the other one I included by you
+
+ <$B> 
+<ICE-PHI:S1A-003#88:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-003#89:1:A>
+For the section on bilingual education
+
+ <$B> 
+<ICE-PHI:S1A-003#90:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-003#91:1:A>
+And language language planning bilingual education was <,> Bilingual Education in the Philippines Structure <indig> eh </indig> Strategy and Structure
+ 
+<ICE-PHI:S1A-003#92:1:A>
+<{> <[> I think that was in Georgetown </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#93:1:B>
+<[> Uh Georgetown University </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-003#94:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1A-003#95:1:B>
+Yeah maybe it 's the most comprehensive
+
+ <$A> 
+<ICE-PHI:S1A-003#96:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1A-003#97:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-003#98:1:A>
+Those those are the ones I included
+
+ <$B> 
+<ICE-PHI:S1A-003#99:1:B>
+But I 'd say my favorite <,> is the one reprinted by Fishman <,> in uh uh <mention> Advances in Language Planning </mention> <,> <{> <[> formerly </[> published in uhm <mention> Current Trends in Linguistics </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-003#100:1:A>
+<[> Uhm </[> </{> 
+ 
+<ICE-PHI:S1A-003#101:1:A>
+I see <{> <[> I think </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#102:1:B>
+<[> Have you </[> </{> not read that
+
+ <$A> 
+<ICE-PHI:S1A-003#103:1:A>
+I think I 've read that <{> <[> Sir </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#104:1:B>
+<[> Uhm </[> </{> 
+ 
+<ICE-PHI:S1A-003#105:1:B>
+<{> <[> My </[> 
+
+ <$A> 
+<ICE-PHI:S1A-003#106:1:A>
+<[> That is </[> </{> the one on <,> <{> <[> everything </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#107:1:B>
+<[> On language <.> pla </.> </[> </{> 
+ 
+<ICE-PHI:S1A-003#108:1:B>
+Yeah the <{> <[> Language Planning in the </[> Philippines
+
+ <$A> 
+<ICE-PHI:S1A-003#109:1:A>
+<[> Everything goes on </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-003#110:1:B>
+<{> <[> Yes </[> 
+
+ <$A> 
+<ICE-PHI:S1A-003#111:1:A>
+<[> Yeah </[> </{> yeah
+
+ <$B> 
+<ICE-PHI:S1A-003#112:1:B>
+An <.> over </.> and up to nineteen uh seven seventy something like <{> <[> that </[> 
+
+ <$A> 
+<ICE-PHI:S1A-003#113:1:A>
+<[> Yes </[> </{> yes yes I I read <{> <[> that </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#114:1:B>
+<[> Yeah </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-003#115:1:A>
+As your student <{> <[> I </[> read that
+
+ <$B> 
+<ICE-PHI:S1A-003#116:1:B>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-003#117:1:B>
+Yes but my favorite one of the best in my opinion in fact I have it here
+ 
+<ICE-PHI:S1A-003#118:1:B>
+Those I 'd like to give a copy I didn't think of you
+ 
+<ICE-PHI:S1A-003#120:1:B>
+I thought you were not interested
+
+ <$A> 
+<ICE-PHI:S1A-003#121:1:A>
+Huh
+
+ <$B> 
+<ICE-PHI:S1A-003#122:1:B>
+I 'd like to give Brother Andrew a copy
+ 
+<ICE-PHI:S1A-003#123:1:B>
+To me this is my favorite <,> one of my favorites
+ 
+<ICE-PHI:S1A-003#124:1:B>
+Uh I think that uhm I thought this is I was especially <,,> uhm when I wrote this I was especially brilliant <O> laughter </O> <mention> Insights from Language Planning based on the Philippine Experience </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-003#128:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#129:1:B>
+This is in the the original manuscript <,> Brother Andrew says <,> <quote> I wish that I would be as productive as you when I reach my senior years </quote> 
+
+ <$A> 
+<ICE-PHI:S1A-003#130:1:A>
+Wow
+ 
+<ICE-PHI:S1A-003#131:1:A>
+I see
+
+ <$B> 
+<ICE-PHI:S1A-003#132:1:B>
+I read that in Hong Kong
+
+ <$A> 
+<ICE-PHI:S1A-003#133:1:A>
+Uhm uhm so this this is the latest
+
+ <$B> 
+<ICE-PHI:S1A-003#134:1:B>
+No the <.> tha </.> that 's not the latest
+ 
+<ICE-PHI:S1A-003#135:1:B>
+That was nineteen eighty-nine
+
+ <$A> 
+<ICE-PHI:S1A-003#136:1:A>
+I see <,> 
+
+ <$B> 
+<ICE-PHI:S1A-003#137:1:B>
+That 's the one read in nineteen eighty-nine <,> but it is it has a nineteen ninety <,> publication date
+
+ <$A> 
+<ICE-PHI:S1A-003#138:1:A>
+<indig> Ay </indig> <,> Sir <,> 
+
+ <$B> 
+<ICE-PHI:S1A-003#139:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-003#140:1:A>
+So you 're giving Brother Andrew a copy
+
+ <$B> 
+<ICE-PHI:S1A-003#141:1:B>
+Yeah I will have it xeroxed
+
+ <$A> 
+<ICE-PHI:S1A-003#142:1:A>
+Yes have it Xeroxed
+ 
+<ICE-PHI:S1A-003#143:1:A>
+Have one copy Xeroxed for me
+
+ <$B> 
+<ICE-PHI:S1A-003#144:1:B>
+Okay I 'll have it <{> <[> <,> Xeroxed </[> by Emy 
+
+ <$A> 
+<ICE-PHI:S1A-003#145:1:A>
+<[> Please uh okay </[> </{> 
+ 
+<ICE-PHI:S1A-003#147:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1A-003#148:1:B>
+That 's one that 's my favorite one of my favorites
+
+ <$A> 
+<ICE-PHI:S1A-003#149:1:A>
+Uh how nice
+
+ <$B> 
+<ICE-PHI:S1A-003#150:1:B>
+Yes I I
+
+ <$A> 
+<ICE-PHI:S1A-003#151:1:A>
+Eighty-nine you wrote it in eighty-nine
+
+ <$B> 
+<ICE-PHI:S1A-003#152:1:B>
+In eighty-nine
+
+ <$A> 
+<ICE-PHI:S1A-003#153:1:A>
+<{> <[> Wow </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#154:1:B>
+<[> It is </[> </{> as of eighty-nine it is very good
+
+ <$A> 
+<ICE-PHI:S1A-003#156:1:A>
+Uh
+
+ <$B> 
+<ICE-PHI:S1A-003#157:1:B>
+We have uh insights from the use of Spanish and so on
+
+ <$A> 
+<ICE-PHI:S1A-003#158:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1A-003#159:1:B>
+Uh eh 
+
+ <$A> 
+<ICE-PHI:S1A-003#160:1:A>
+Philippine English
+
+ <$B> 
+<ICE-PHI:S1A-003#161:1:B>
+Philippine English
+ 
+<ICE-PHI:S1A-003#162:1:B>
+It 's on English as equalizer and stratifier <,> uh and so on in what language do people learn language rights <,> 
+ 
+<ICE-PHI:S1A-003#163:1:B>
+I have written insights from planned language change and language shift <,> and so on
+ 
+<ICE-PHI:S1A-003#164:1:B>
+Uh this is one of my better works
+ 
+<ICE-PHI:S1A-003#165:1:B>
+But <,> uh the my favorite essay I haven't given you a copy <indig> ano </indig> so I must give copies to my friends sometimes I do not
+
+ <$A> 
+<ICE-PHI:S1A-003#169:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#170:1:B>
+<unclear> words </unclear> 
+ 
+<ICE-PHI:S1A-003#171:1:B>
+My <,> the favorite essay that of uh is the one I wrote in honor of uh Fishman 's sixty-fifth birthday
+
+ <$A> 
+<ICE-PHI:S1A-003#172:1:A>
+Uh uhm I haven't seen that
+
+ <$B> 
+<ICE-PHI:S1A-003#173:1:B>
+Uhm becoming bilingual
+ 
+<ICE-PHI:S1A-003#174:1:B>
+It 's a it 's a retrospective essay <,> on how I learned English <{> <[> <,> </[> in a non-English environment where there were only three speakers of uh English 
+
+ <$A> 
+<ICE-PHI:S1A-003#175:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-003#177:1:A>
+English
+
+ <$B> 
+<ICE-PHI:S1A-003#178:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-003#179:1:A>
+Really
+
+ <$B> 
+<ICE-PHI:S1A-003#180:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-003#181:1:A>
+Wow interesting case <{> <[> study </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#183:1:B>
+<[> With me </[> </{> the teacher <,> in fact <,> Andrew says that <,,> in his remarks because I made him read the <,> manuscript
+ 
+<ICE-PHI:S1A-003#184:1:B>
+He said <,> <quote> this is a this is a first-rate essay <,> this and your uhm article on repetition will outlive you </quote> 
+ 
+<ICE-PHI:S1A-003#185:1:B>
+<{> <[> That 's what he says </[> 
+
+ <$A> 
+<ICE-PHI:S1A-003#186:1:A>
+<[> Uh uhm </[> </{> how nice
+
+ <$B> 
+<ICE-PHI:S1A-003#187:1:B>
+It 's very good maybe it 's my favorite
+
+ <$A> 
+<ICE-PHI:S1A-003#189:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#190:1:B>
+Because it is it is an intimate <,> uh documentary retrospective documentary <{> <[> <,> </[> of how I learned English 
+
+ <$A> 
+<ICE-PHI:S1A-003#191:1:A>
+<[> Uhm </[> </{> 
+ 
+<ICE-PHI:S1A-003#193:1:A>
+Uh uhm <,> 
+ 
+<ICE-PHI:S1A-003#194:1:A>
+So your <,> your best articles are coming during this period of <{> <[> your life </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#195:1:B>
+<[> Uh uhm </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-003#196:1:A>
+Fantastic Sir <indig> ha </indig> <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-003#197:1:B>
+And uh <,> well maybe it 's because I have the leisure of time now
+
+ <$A> 
+<ICE-PHI:S1A-003#198:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-003#199:1:B>
+Uhm I accept invitations that I like
+ 
+<ICE-PHI:S1A-003#200:1:B>
+Those that I don't like I just say I have <.> invita </.> I have already previous engagement <,> 
+
+ <$A> 
+<ICE-PHI:S1A-003#201:1:A>
+<indig> Sino 'yan </indig> <,,> <&> someone comes in </&> 
+
+ <$B> 
+<ICE-PHI:S1A-003#202:1:B>
+What happened to Brother Andrew
+
+ <$A> 
+<ICE-PHI:S1A-003#203:1:A>
+<indig> Oo nga e </indig> <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-003#204:1:B>
+<indig> Ano'ng nangyari kay </indig> Brother Andrew
+
+ <$A> 
+<ICE-PHI:S1A-003#205:1:A>
+<indig> Wala pang balita e
+ 
+<ICE-PHI:S1A-003#206:1:A>
+Saan kaya siya </indig> 
+ 
+<ICE-PHI:S1A-003#207:1:A>
+I have to go to the next room for my meeting
+
+ <$B> 
+<ICE-PHI:S1A-003#208:1:B>
+Don't worry
+
+ <$A> 
+<ICE-PHI:S1A-003#209:1:A>
+<indig> Hay 'naku </indig> Sir <O> laughter </O> 
+ 
+<ICE-PHI:S1A-003#210:1:A>
+You don't know people in La Salle
+
+ <$B> 
+<ICE-PHI:S1A-003#211:1:B>
+No <{> <[> what is this </[> 
+
+ <$A> 
+<ICE-PHI:S1A-003#212:1:A>
+<[> They are </[> </{> very punctual
+
+ <$B> 
+<ICE-PHI:S1A-003#213:1:B>
+What is this uh <indig> kwan </indig> uhm
+
+ <$A> 
+<ICE-PHI:S1A-003#214:1:A>
+<{> <[> Council of Deans </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#215:1:B>
+<[> No when </[> </{> when will we when we will meet
+ 
+<ICE-PHI:S1A-003#216:1:B>
+You said that twenty
+
+ <$A> 
+<ICE-PHI:S1A-003#217:1:A>
+Seven to thirty-one is bad Sir because that 's C L A Week
+
+ <$B> 
+<ICE-PHI:S1A-003#218:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-003#219:1:A>
+Is it very late already the third to the seventh anytime except Tuesdays
+
+ <$B> 
+<ICE-PHI:S1A-003#220:1:B>
+Uh in the afternoons
+
+ <$A> 
+<ICE-PHI:S1A-003#221:1:A>
+<indig> Oo </indig> yes except Tuesdays which is a good which is <,> also the bad day for you
+
+ <$B> 
+<ICE-PHI:S1A-003#222:1:B>
+Yeah
+ 
+<ICE-PHI:S1A-003#223:1:B>
+No I don't think so
+ 
+<ICE-PHI:S1A-003#224:1:B>
+I told Fe <,> that I 'm meeting you and Brother Andrew <,> 
+ 
+<ICE-PHI:S1A-003#225:1:B>
+And uh <,> after talking it over with her <,,> I said nobody will advise this in the Philippine Normal College and she said <quote> well I accepted because uhm she is a good student </quote> and you know Fe seldom accepts to advise because
+
+ <$A> 
+<ICE-PHI:S1A-003#227:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#228:1:B>
+Unless this student is very good
+ 
+<ICE-PHI:S1A-003#229:1:B>
+<quote> But I thought you were resigning </quote> 
+ 
+<ICE-PHI:S1A-003#230:1:B>
+<quote> Oh no I will be like you even if I 'm I 'm not there anymore I 'd like to advise </quote> 
+
+ <$A> 
+<ICE-PHI:S1A-003#231:1:A>
+How nice
+
+ <$B> 
+<ICE-PHI:S1A-003#232:1:B>
+That 's what she said
+
+ <$A> 
+<ICE-PHI:S1A-003#233:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#234:1:B>
+And then when I told her that you are uhm you are uh up-to-date on the literature she said <quote> we 'd better give it to Tish </quote> 
+
+ <$A> 
+<ICE-PHI:S1A-003#235:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#236:1:B>
+So what we will do is to give it to both of you you 'll be <.> co </.> <.> co </.> co-advisers
+
+ <$A> 
+<ICE-PHI:S1A-003#237:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#238:1:B>
+What I 'm interested in is the data
+
+ <$A> 
+<ICE-PHI:S1A-003#239:1:A>
+Yes yes
+
+ <$B> 
+<ICE-PHI:S1A-003#240:1:B>
+I 'm
+ 
+<ICE-PHI:S1A-003#241:1:B>
+You know this girl Teresita Fortunato
+
+ <$A> 
+<ICE-PHI:S1A-003#242:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1A-003#243:1:B>
+The one teaching here
+
+ <$A> 
+<ICE-PHI:S1A-003#244:1:A>
+Yes she 's very good
+
+ <$B> 
+<ICE-PHI:S1A-003#245:1:B>
+Uhm so I recommended her after uh she was in my class
+
+ <$A> 
+<ICE-PHI:S1A-003#246:1:A>
+<indig> Oo </indig> <{> <[> yes yes yes </[> 
+
+ <$B> 
+<ICE-PHI:S1A-003#247:1:B>
+<[> She was in my class twice </[> </{> 
+ 
+<ICE-PHI:S1A-003#248:1:B>
+I recommended her to Brother Andrew
+
+ <$A> 
+<ICE-PHI:S1A-003#249:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#250:1:B>
+<quote> So why don't you send her <,> first send me some of her her uh term papers </quote> 
+ 
+<ICE-PHI:S1A-003#251:1:B>
+So I sent term papers to to him
+ 
+<ICE-PHI:S1A-003#252:1:B>
+Then he said <quote> okay I 'd like to interview her </quote> 
+ 
+<ICE-PHI:S1A-003#253:1:B>
+So she interviewed he interviewed her and uh got him hired got her hired
+
+ <$A> 
+<ICE-PHI:S1A-003#254:1:A>
+Yes yes yes she 's valuable
+
+ <$B> 
+<ICE-PHI:S1A-003#255:1:B>
+She 's very good very good
+ 
+<ICE-PHI:S1A-003#256:1:B>
+You know <,> I don't know why the why people are so selfish
+ 
+<ICE-PHI:S1A-003#257:1:B>
+They don't want to discover people and help those you know who have promise and so on like that <,> 
+ 
+<ICE-PHI:S1A-003#258:1:B>
+That was the defect of <@> William </@> 
+
+ <$A> 
+<ICE-PHI:S1A-003#259:1:A>
+Really
+
+ <$B> 
+<ICE-PHI:S1A-003#260:1:B>
+He had a certain selfishness
+
+ <$A> 
+<ICE-PHI:S1A-003#261:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#262:1:B>
+Instead of helping people
+
+ <$A> 
+<ICE-PHI:S1A-003#263:1:A>
+Because Brother Andrew and you are the primary examples of people who help <{1> <[1> <,> </[1> people <{2> <[2> <,> </[2> who seek out excellence <{3> <[3> <,> </[3> who are not threatened by excellence 
+
+ <$B> 
+<ICE-PHI:S1A-003#264:1:B>
+<[1> Yeah </[1> </{1> 
+ 
+<ICE-PHI:S1A-003#266:1:B>
+<[2> Because </[2> </{2> 
+ 
+<ICE-PHI:S1A-003#268:1:B>
+<[3> Uhm </[3> </{3> 
+
+ <$B> 
+<ICE-PHI:S1A-003#270:1:B>
+No
+ 
+<ICE-PHI:S1A-003#271:1:B>
+But <@> William </@> is <@> William </@> somehow
+
+ <$A> 
+<ICE-PHI:S1A-003#272:1:A>
+How did that happen why
+
+ <$B> 
+<ICE-PHI:S1A-003#274:1:B>
+I don't know
+ 
+<ICE-PHI:S1A-003#275:1:B>
+Yet he 's very bright
+
+ <$A> 
+<ICE-PHI:S1A-003#276:1:A>
+Uh uhm very bright
+
+ <$B> 
+<ICE-PHI:S1A-003#277:1:B>
+<@> William </@> is very bright
+
+ <$A> 
+<ICE-PHI:S1A-003#278:1:A>
+Yes yes yes
+
+ <$B> 
+<ICE-PHI:S1A-003#279:1:B>
+In fact I was the one who discovered <@> William </@> 
+ 
+<ICE-PHI:S1A-003#280:1:B>
+How I discovered him is by accident
+ 
+<ICE-PHI:S1A-003#281:1:B>
+We both went to the Philippine without my knowing we joined the Philippine Normal College at the same time nineteen sixty-two
+
+ <$A> 
+<ICE-PHI:S1A-003#282:1:A>
+Is that right
+
+ <$B> 
+<ICE-PHI:S1A-003#283:1:B>
+July nineteen sixty-two
+
+ <$A> 
+<ICE-PHI:S1A-003#284:1:A>
+<indig> O </indig> <,> 
+
+ <$B> 
+<ICE-PHI:S1A-003#285:1:B>
+Before I went there I had a conversation with Ramirez the President
+
+ <$A> 
+<ICE-PHI:S1A-003#286:1:A>
+<indig> O </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-003#287:1:B>
+And uh Orata the dean <,> because when they requested my services I was no I in fact the U P and <indig> kwan </indig> the request for my services after I came from abroad uh both came from the U P and from the P N C
+
+ <$A> 
+<ICE-PHI:S1A-003#288:1:A>
+Uh uhm <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-003#289:1:B>
+The <.> requ </.> request from uhm the late Fred Morales
+
+ <$A> 
+<ICE-PHI:S1A-003#290:1:A>
+<indig> Oo naku </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-003#291:1:B>
+And then P N C from <indig> kwan </indig> so I went to P N C and uh because nobody said that the reason that they were not uh their people were uh not getting their degrees is that nobody were advised
+ 
+<ICE-PHI:S1A-003#292:1:B>
+And so I had the brilliant idea <,> which I thought was brilliant <,> of seeing to it <,> that I would be assigned <,> uhm and that all these people who were uh wanted to get their M A <,> after assigning their topics
+ 
+<ICE-PHI:S1A-003#293:1:B>
+We assigned we assigned somebody as the chairman and then some more some juniors some some relatively junior members of the faculty
+ 
+<ICE-PHI:S1A-003#294:1:B>
+So there we assigned five five advisers to every student three to five
+
+ <$A> 
+<ICE-PHI:S1A-003#295:1:A>
+Wow
+
+ <$B> 
+<ICE-PHI:S1A-003#296:1:B>
+Members of the faculty <{> <[> all members </[> of the faculty
+
+ <$A> 
+<ICE-PHI:S1A-003#297:1:A>
+<[> My goodness </[> </{> 
+ 
+<ICE-PHI:S1A-003#298:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-003#299:1:B>
+All members
+
+ <$A> 
+<ICE-PHI:S1A-003#300:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-003#301:1:B>
+Son of a gun
+ 
+<ICE-PHI:S1A-003#302:1:B>
+I found out <,> that many could teach but didn't know how to advise 
+
+ </I> 

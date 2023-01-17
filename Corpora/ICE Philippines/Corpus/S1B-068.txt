@@ -1,0 +1,533 @@
+<I> 
+
+
+ <$A> 
+<ICE-PHI:S1B-068#1:1:A>
+<&> Secretary swears in the witness </&> 
+Yes I do
+
+ <$B> 
+<ICE-PHI:S1B-068#2:1:B>
+Take your seat uh Mr Witness
+ 
+<ICE-PHI:S1B-068#3:1:B>
+Atty Perez
+
+ <$C> 
+<ICE-PHI:S1B-068#4:1:C>
+Uh with the permission of the Honorable Chief Justice and the Honorable Senator-Judges will you please state your name age and other personal circumstances
+
+ <$A> 
+<ICE-PHI:S1B-068#5:1:A>
+I am Atty Ruben L Almadro forty-four years old married and residing at seventy Maria Elena Street Carmel One Quezon City
+ 
+<ICE-PHI:S1B-068#6:1:A>
+<indig> Ako po ay isang inhinyero at isang abogado
+ 
+<ICE-PHI:S1B-068#7:1:A>
+Ako ay dating </indig> vice-president <indig> ng </indig> Philippine Stock Exchange <indig> at pinuno ng </indig> Compliance and Surveillance
+
+ <$B> 
+<ICE-PHI:S1B-068#8:1:B>
+The Presiding Officer would request you to testify in English <,> since you are a lawyer
+
+ <$A> 
+<ICE-PHI:S1B-068#9:1:A>
+Thank you Mr Chief Justice
+
+ <$C> 
+<ICE-PHI:S1B-068#10:1:C>
+Uh Mr Chief Justice and the Honorable Senator-Judges we are offering the testimony of this witness to prove that number one in nineteen ninety-nine there were unusual movements in the price and trading volume of B W Resources Corporation which is now known as Fairmont Holdings Incorporated one of the listed companies in the Philippine Stock Exchange <,> and that while B W Resources was incurring losses in its operation its stocks went up
+ 
+<ICE-PHI:S1B-068#12:1:C>
+Second the Compliance and Surveillance Group of the Philippine Stock Exchange investigated these unusual price and volume movements
+ 
+<ICE-PHI:S1B-068#13:1:C>
+Third that the C S G or the Compliance and Surveillance Group found that the unusual price and volume movements of B W was the result of price manipulation and insider trading by Dante Tan and his associates
+ 
+<ICE-PHI:S1B-068#14:1:C>
+Fourth the witness will explain specific acts of manipulation done by Dante Tan and show examples thereof
+ 
+<ICE-PHI:S1B-068#15:1:C>
+Fifth the results of the C S Gs investigation are contained in an investigation report on B W Resources Corporation prepared by the witness principally
+ 
+<ICE-PHI:S1B-068#16:1:C>
+Sixth a copy of the report was given to President Joseph Ejercito Estrada in Malaca&ntilde;ang by Mr Jose Luis Nonoy Yulo Jr then President of the Philippine Stock Exchange and the witness himself
+ 
+<ICE-PHI:S1B-068#17:1:C>
+Seventh the President defended Dante Tan
+ 
+<ICE-PHI:S1B-068#18:1:C>
+Eighth the President pressured then S E C Chairman Yasay and then Philippine Stock Exchange President Jose Luis Nonoy Yulo Jr to clear Dante Tan
+ 
+<ICE-PHI:S1B-068#19:1:C>
+Ninth in connection with the investigation of B W Resources President Estrada intimated to Mr Yulo and the witness during their audience with the President that Dante Tan paid then Chairman Yasay to have Dante Tan cleared in the B W scandal
+ 
+<ICE-PHI:S1B-068#20:1:C>
+And tenth the witness resigned as vice-president and head of the C S G of the Philippine Stock Exchange because he felt that the Business Conduct and Ethics Committee of the Philippine Stock Exchange was about to whitewash the results of the C S G investigation particularly the participation of the brokers in the manipulative schemes of Mr Dante Tan
+ 
+<ICE-PHI:S1B-068#21:1:C>
+Mr Witness you stated that you were former vice-president and head of the Compliance and Surveillance Group of the Philippine <.> Exch </.> Stock Exchange
+ 
+<ICE-PHI:S1B-068#22:1:C>
+When did you occupy these positions
+
+ <$A> 
+<ICE-PHI:S1B-068#23:1:A>
+Since June nineteen ninety-seven until March seven two thousand <{> <[> Your Honor </[> 
+
+ <$C> 
+<ICE-PHI:S1B-068#24:1:C>
+<[> And as </[> </{> head of the C S G or the Compliance and Surveillance Group what were your principal duties and responsibilities
+
+ <$A> 
+<ICE-PHI:S1B-068#25:1:A>
+The Compliance and Surveillance Group of the P S E serves as in a way the police the policeman of the Exchange
+ 
+<ICE-PHI:S1B-068#26:1:A>
+We make sure that trading in the stock market is fair efficient and transparent
+ 
+<ICE-PHI:S1B-068#27:1:A>
+That is my principal duty
+ 
+<ICE-PHI:S1B-068#28:1:A>
+And in these duties I was assisted by three departments under my supervision Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#29:1:C>
+What were these three departments that you mentioned
+
+ <$A> 
+<ICE-PHI:S1B-068#30:1:A>
+The Compliance Audit Department which audits the books and records of all the brokers to make sure that clients are protected
+ 
+<ICE-PHI:S1B-068#31:1:A>
+The Special Investigation Department which handles investor complaints and conducts investigations when warranted
+ 
+<ICE-PHI:S1B-068#32:1:A>
+And the Market Surveillance Department which looks at the market monitors the market on a day-to-day basis to make sure that there are no price manipulation or insider trading activities and other trading-related anomalies going on Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#33:1:C>
+Are you familiar with B W Resources Corporation
+
+ <$A> 
+<ICE-PHI:S1B-068#34:1:A>
+Yes Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#35:1:C>
+Why are you familiar with that corporation
+
+ <$A> 
+<ICE-PHI:S1B-068#36:1:A>
+Because B W Resources Corporation is one of the listed companies of the Philippine Stock Exchange
+ 
+<ICE-PHI:S1B-068#37:1:A>
+Moreover in nineteen ninety-nine when I was still head of the Compliance and Surveillance Group we conducted an investigation of transactions involving B W Resources Corporation
+
+ <$C> 
+<ICE-PHI:S1B-068#38:1:C>
+And why did you conduct such an investigation
+
+ <$A> 
+<ICE-PHI:S1B-068#39:1:A>
+In nineteen ninety-nine B W was one of the most popular if not the most popular issue in the stock exchange
+ 
+<ICE-PHI:S1B-068#40:1:A>
+Its <,> trading pattern was quite unusual
+ 
+<ICE-PHI:S1B-068#41:1:A>
+There was unusual price and volume movements
+ 
+<ICE-PHI:S1B-068#42:1:A>
+In fact it rose meteorically in <.> nine </.> in October <.> nine </.> in nineteen ninety-nine and plunged shortly thereafter
+ 
+<ICE-PHI:S1B-068#43:1:A>
+We we conducted the investigation to determine if these unusual price and volume movements was simply the result of free market forces or whether it was due to insider trading activities or price manipulation Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#44:1:C>
+Uh what power or authority did you have to conduct such investigation
+
+ <$A> 
+<ICE-PHI:S1B-068#45:1:A>
+The Philippine Stock Exchange is a self-regulatory organization which means to say that it has the power to police its own ranks and this power was vested by the Securities and Exchange Commission
+ 
+<ICE-PHI:S1B-068#46:1:A>
+In the exercise of this power it is the C S G that handles investigations whenever there are anomalies in the market
+ 
+<ICE-PHI:S1B-068#47:1:A>
+Aside from that Your Honor we received specific orders and instructions from the S E C to conduct an investigation Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#48:1:C>
+From what time to what time did you conduct this investigation
+
+ <$A> 
+<ICE-PHI:S1B-068#49:1:A>
+We started the investigation in late May nineteen ninety-nine
+ 
+<ICE-PHI:S1B-068#50:1:A>
+We completed the investigation in February two thousand
+
+ <$C> 
+<ICE-PHI:S1B-068#51:1:C>
+At this point Your Honor I will be needing the exhibits but uh apparently the exhibits
+
+ <$B> 
+<ICE-PHI:S1B-068#52:1:B>
+Not yet ready
+
+ <$C> 
+<ICE-PHI:S1B-068#53:1:C>
+Not yet ready Your Honor
+
+ <$B> 
+<ICE-PHI:S1B-068#54:1:B>
+We can probably suspend
+ 
+<ICE-PHI:S1B-068#55:1:B>
+How much time would be needed
+
+ <$C> 
+<ICE-PHI:S1B-068#> Uh
+
+ <$B> 
+<ICE-PHI:S1B-068#56:1:B>
+Try to find out
+
+ <$C> 
+<ICE-PHI:S1B-068#57:1:C>
+About fifteen minutes Your Honor
+
+ <$B> 
+<ICE-PHI:S1B-068#58:1:B>
+About fifteen minutes
+ 
+<ICE-PHI:S1B-068#59:1:B>
+So you are requesting for a suspension
+
+ <$C> 
+<ICE-PHI:S1B-068#60:1:C>
+Yes Your Honor
+ 
+<ICE-PHI:S1B-068#61:1:C>
+<{> <[> We are due for a recess </[> 
+
+ <$B> 
+<ICE-PHI:S1B-068#62:1:B>
+<[> Fifteen minutes </[> </{> 
+ 
+<ICE-PHI:S1B-068#63:1:B>
+Atty Flaminiano
+
+ <$D> 
+<ICE-PHI:S1B-068#64:1:D>
+We have no objection Mr Chief Justice
+
+ <$B> 
+<ICE-PHI:S1B-068#65:1:B>
+There being none uh the trial is suspended for fifteen minutes
+ 
+<ICE-PHI:S1B-068#66:1:B>
+We will resume at uh five fifteen <O> break </O> 
+ 
+<ICE-PHI:S1B-068#67:1:B>
+Atty Perez
+
+ <$C> 
+<ICE-PHI:S1B-068#68:1:C>
+With the permission of the Honorable Chief Justice and the Honorable Senator-Judges we have caused to be distributed Your Honors copies of our exhibits with the exception of Exhibit septuple seven which is currently being copied
+ 
+<ICE-PHI:S1B-068#69:1:C>
+That uh exhibit Your Honor will be presented later and it is estimated that by the time I reach to septuple seven we would have uh M rather we would have finished with the other exhibits
+ 
+<ICE-PHI:S1B-068#70:1:C>
+So, may I proceed Your Honor
+
+ <$B> 
+<ICE-PHI:S1B-068#71:1:B>
+You may
+
+ <$C> 
+<ICE-PHI:S1B-068#72:1:C>
+And uh for purposes Your Honor of
+
+ <$E> 
+<ICE-PHI:S1B-068#73:1:E>
+Pardon me Mr Chief Justice
+
+ <$B> 
+<ICE-PHI:S1B-068#74:1:B>
+Yes uh what is the pleasure of Atty Daza
+
+ <$E> 
+<ICE-PHI:S1B-068#75:1:E>
+Yes uh in the meantime can we be furnished uh with copies of the
+
+ <$B> 
+<ICE-PHI:S1B-068#76:1:B>
+You mean you were not given copies of the exhibits
+
+ <$E> 
+<ICE-PHI:S1B-068#77:1:E>
+No not yet
+
+ <$B> 
+<ICE-PHI:S1B-068#78:1:B>
+The defense should have been given first
+
+ <$E> 
+<ICE-PHI:S1B-068#79:1:E>
+We 've just received a copy
+ 
+<ICE-PHI:S1B-068#80:1:E>
+Thank you Mr Chief Justice
+
+ <$C> 
+<ICE-PHI:S1B-068#81:1:C>
+Uh Your Honor may we be allowed to set up the overhead <.> project </.> projector so that uh we will be able to show transparencies
+
+ <$B> 
+<ICE-PHI:S1B-068#82:1:B>
+No objection
+ 
+<ICE-PHI:S1B-068#83:1:B>
+There being none uh the request is granted
+ 
+ <$C> 
+<ICE-PHI:S1B-068#84:1:C>
+Mr Witness you stated that you started the investigation of B W Resources in May nineteen ninety-nine
+ 
+<ICE-PHI:S1B-068#85:1:C>
+What were the circumstances that led to the investigation of the said B W Resources
+
+ <$A> 
+<ICE-PHI:S1B-068#86:1:A>
+In May nineteen ninety-nine the price of B W <,> jumped from from a price of three ninety-five at uh the start of the month to eleven pesos by the end of May nineteen ninety-nine Your Honor
+ 
+<ICE-PHI:S1B-068#87:1:A>
+This was quite unusual and this was coupled by the fact that the value turnover the volume and the value turnover of B W for that month was almost twice the volume during the previous four months starting from January February March up to April Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#88:1:C>
+Do you have a table showing the price and volume movement of B W Resources from January to June of nineteen ninety-nine
+
+ <$A> 
+<ICE-PHI:S1B-068#89:1:A>
+Yes Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#90:1:C>
+I 'm showing to you this document which for purposes of identification had previously been marked as Exhibit septuple seven
+ 
+<ICE-PHI:S1B-068#91:1:C>
+What is the relation of <,> uh L rather L <,> what is the relation of Exhibit septuple L with the document that you mentioned <,,> 
+ 
+<ICE-PHI:S1B-068#93:1:C>
+May I approach the witness Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-068#94:1:A>
+This is the table which I prepared Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#95:1:C>
+May I ask that the transparency of Exhibit septuple L be shown in the overhead projector
+
+ <$B> 
+<ICE-PHI:S1B-068#96:1:B>
+Provide uh a seat to the young lady so <,> we can also see from <.> her </.> from uh this distance
+
+ <$C> 
+<ICE-PHI:S1B-068#97:1:C>
+Will you please explain to us the movement of the price and also volume of B W stocks as shown in septuple L
+
+ <$A> 
+<ICE-PHI:S1B-068#98:1:A>
+As I mentioned earlier Your Honor in May nineteen ninety-nine the price of B W which started at three ninety-five at the beginning of the month rose to eleven pesos per share at the end of the month
+ 
+<ICE-PHI:S1B-068#99:1:A>
+And this is shown in the table marked as Exhibit septuple L
+ 
+<ICE-PHI:S1B-068#100:1:A>
+As you can also see from the table the volume turnover for that month was four hundred three million four hundred two thousand two hundred sixty-five which if compared with the volume turnover for the previous four months is more or less double the volume for the previous months Your Honor
+ 
+<ICE-PHI:S1B-068#101:1:A>
+Considering that there were no corporate disclosures during that month of any developments in the company that would <,> create investor interest Your Honor the Market Surveillance Department of the C S G thought that this price movement and volume movement in May nineteen ninety-nine was unusual and indicative of possible price manipulation or insider trading Your Honor
+ 
+<ICE-PHI:S1B-068#102:1:A>
+And that is why we started conducting an investigation and reviewing transactions of B W and closely monitoring its price Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#103:1:C>
+Considering that there were no disclosures made regarding the possible change in the prices of uh B W shares what was the effect of the changes in the price on the volume value and market capitalization of B W Resources
+
+ <$D> 
+<ICE-PHI:S1B-068#104:1:D>
+Mr Chief Justice
+
+ <$B> 
+<ICE-PHI:S1B-068#105:1:B>
+Yes
+
+ <$D> 
+<ICE-PHI:S1B-068#106:1:D>
+We have to object unless the proper qualification of the witness to answer this particular question is first laid
+ 
+<ICE-PHI:S1B-068#107:1:D>
+May we inquire whether the witness is being presented as an expert witness on stock trading on stocks or is he being presented merely as an ordinary witness
+ 
+<ICE-PHI:S1B-068#108:1:D>
+Otherwise we will have to object to <{> <[> all </[> these questions
+
+ <$B> 
+<ICE-PHI:S1B-068#109:1:B>
+<[> The </[> </{> the witness was qualified earlier as to his position in the Philippine Stock Exchange and uh the the functions uh of his office
+ 
+<ICE-PHI:S1B-068#110:1:B>
+Were you not satisfied with the definition of his functions
+
+ <$D> 
+<ICE-PHI:S1B-068#111:1:D>
+I I am not really quite satisfied with uh <{> <[> his qualifications </[> 
+
+ <$B> 
+<ICE-PHI:S1B-068#112:1:B>
+<[> Then you can subject that on cross-examination later </[> </{> 
+
+ <$D> 
+<ICE-PHI:S1B-068#113:1:D>
+Thank you Mr Chief Justice
+
+ <$C> 
+<ICE-PHI:S1B-068#114:1:C>
+Uh in case the witness has forgotten the question let me rephrase uh the question
+ 
+<ICE-PHI:S1B-068#115:1:C>
+Uh because of the volume of the transaction in B W shares what was the effect of that volume in the market capitalization of B W
+
+ <$A> 
+<ICE-PHI:S1B-068#116:1:A>
+Your Honor the market capitalization of B W because of that increase in volume and value turnover also increased Your Honor
+ 
+<ICE-PHI:S1B-068#117:1:A>
+And this is shown in another table which I prepared Your Honor and which has been marked as Exhibit septuple L dash one Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#118:1:C>
+In septuple L dash one under the column <mention> volume </mention> there are figures indicated opposite the words <mention> January February March April May and June </mention> will you explain to us the meaning of those figures
+
+ <$A> 
+<ICE-PHI:S1B-068#119:1:A>
+The the figures appearing in that column Your Honor is the volume of the transactions or the shares transacted during that month Your Honor
+in millions Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#121:1:C>
+And opposite the month and under the column <mention> value </mention> open parenthesis billions close parenthesis there are figures indicated
+ 
+<ICE-PHI:S1B-068#122:1:C>
+Could you explain to us the meaning of that
+
+ <$A> 
+<ICE-PHI:S1B-068#123:1:A>
+That is the value of the transactions on B W during that month Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#124:1:C>
+And below the column <mention> rank </mention> there are figures appearing after each month from January to June
+ 
+<ICE-PHI:S1B-068#125:1:C>
+Could you explain to us the meaning of that
+
+ <$A> 
+<ICE-PHI:S1B-068#126:1:A>
+The rank that appears here is the rank of B W among the top twenty listed companies in terms of trading value Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#127:1:C>
+Uh with that as an <.> expla </.> explanation could you tell <,> could you tell us the rank of B W Resources as of January as reflected in Exhibit <.> quar </.> septuple L dash one
+
+ <$A> 
+<ICE-PHI:S1B-068#128:1:A>
+As shown in the exhibit Your Honor in January nineteen ninety-nine it was ranked sixteenth Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#129:1:C>
+How about in the month of June nineteen ninety-nine what was the ranking of B W Resources
+
+ <$A> 
+<ICE-PHI:S1B-068#130:1:A>
+In June it suddenly became rank number one Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#131:1:C>
+Did you examine if there was a reason for this unusual movement of shares
+
+ <$A> 
+<ICE-PHI:S1B-068#132:1:A>
+That was precisely Your Honor the subject of our investigation
+ 
+<ICE-PHI:S1B-068#133:1:A>
+We wanted to find out if this unusual movement in the volume and price of B W was the result of simply free market forces or whether it was due to possible insider trading or price manipulation Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#134:1:C>
+In the course of your investigation did you come across the financial statements of B W Resources Corporation for the first quarter of nineteen ninety-nine
+
+ <$A> 
+<ICE-PHI:S1B-068#135:1:A>
+Yes Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#136:1:C>
+I 'm showing to you Exhibit septuple L dash two which has been which is consisting of <,,> eight pages
+ 
+<ICE-PHI:S1B-068#137:1:C>
+Will you please tell us if what is the relation of this document with the one that you have examined
+
+ <$A> 
+<ICE-PHI:S1B-068#138:1:A>
+This uh document marked as Exhibit septuple L dash two is the quarterly report of B W Resources Corporation as of the period ended March thirty-one nineteen ninety-nine which we got from the records of the Philippine Stock Exchange in the course of our investigation Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#139:1:C>
+And did you come across the financial statements of the said corporation for the quarter ending June thirty nineteen ninety-nine
+
+ <$A> 
+<ICE-PHI:S1B-068#140:1:A>
+Yes Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#141:1:C>
+I 'm showing to you Exhibit septuple L dash ten up to Exhibit septuple L dash sixteen
+ 
+<ICE-PHI:S1B-068#142:1:C>
+What is the relation of this document with the financial statements that you have examined
+
+ <$A> 
+<ICE-PHI:S1B-068#143:1:A>
+This document which has been marked as Exhibit septuple L dash ten is the second quarterly report of B W Resources Corporation for the month ended June thirty nineteen ninety-nine Your Honor which we got from the records of the Philippine Stock Exchange when we conducted our investigation Your Honor
+
+ <$C> 
+<ICE-PHI:S1B-068#144:1:C>
+So that we may be able to understand the impact of the profit and loss statement contained in the financial statements for the first quarter of nineteen ninety-nine of B W Resources did you prepare the corresponding table showing the profit and loss statements of B W Resources
+
+ <$A> 
+<ICE-PHI:S1B-068#145:1:A>
+Yes Your Honor we prepared the table showing the profit and loss statement of B W for the first quarter which we obtained from the exhibit marked as Exhibit quintuple L dash two
+
+ <$C> 
+<ICE-PHI:S1B-068#147:1:C>
+I 'm showing to you this document which has been previously marked as uh Exhibit septuple L dash seventeen <,,> 
+ 
+<ICE-PHI:S1B-068#148:1:C>
+What is the relation of this document with the profit and loss statement of B W for the first quarter of nineteen ninety-nine
+
+ <$A> 
+<ICE-PHI:S1B-068#149:1:A>
+That is the profit and loss statement of B W which we obtained from the first quarterly report Your Honor
+ 
+ </I> 

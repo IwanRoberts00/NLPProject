@@ -1,0 +1,784 @@
+ <I> 
+
+ <$A> 
+<ICE-PHI:S1B-038#1:1:A>
+<O> music </O> Hello out there on this overcast and rather cloudy day
+ 
+<ICE-PHI:S1B-038#2:1:A>
+Oh I hope the the traffic situation is not as uh hazy
+ 
+<ICE-PHI:S1B-038#3:1:A>
+It was not it was not that bad in front of the office right
+
+ <$B> 
+<ICE-PHI:S1B-038#4:1:B>
+Absolutely
+
+ <$A> 
+<ICE-PHI:S1B-038#5:1:A>
+So you came in
+ 
+<ICE-PHI:S1B-038#6:1:A>
+You zipped in
+
+ <$B> 
+<ICE-PHI:S1B-038#7:1:B>
+In a breeze
+
+ <$A> 
+<ICE-PHI:S1B-038#8:1:A>
+In a breeze <O> laughter </O> 
+ 
+<ICE-PHI:S1B-038#9:1:A>
+Folks uh welcome to <mention> <indig> Kalikasan Vigilante </indig> </mention> again
+ 
+<ICE-PHI:S1B-038#10:1:A>
+As we keep telling you we come right after <mention> Broadcasters Bureau </mention> 
+ 
+<ICE-PHI:S1B-038#11:1:A>
+This is Vic Milan and here is Emily Mercado Marcelo <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1B-038#12:1:B>
+Thank you Vic
+ 
+<ICE-PHI:S1B-038#13:1:B>
+I 'm Emily Marcelo
+ 
+<ICE-PHI:S1B-038#14:1:B>
+And thank you for the plug of Bobby Amor <O> laughter </O> 
+ 
+<ICE-PHI:S1B-038#15:1:B>
+Bobby I just want to tell you I married Levy Marcelo not Orly Mercado okay <O> laughter </O> 
+ 
+<ICE-PHI:S1B-038#16:1:B>
+Thanks Bobby
+ 
+<ICE-PHI:S1B-038#17:1:B>
+And uh thank you uh friends for listening
+ 
+<ICE-PHI:S1B-038#18:1:B>
+True it 's not it 's very overcast this morning
+ 
+<ICE-PHI:S1B-038#19:1:B>
+But you know Vic Vic I love this weather
+
+ <$A> 
+<ICE-PHI:S1B-038#20:1:A>
+You like this weather
+
+ <$B> 
+<ICE-PHI:S1B-038#21:1:B>
+I like this weather
+ 
+<ICE-PHI:S1B-038#22:1:B>
+It 's not hot
+ 
+<ICE-PHI:S1B-038#23:1:B>
+And but I wish there were <,> there were something in the morning I could take so my my muscles would not ache so much
+ 
+<ICE-PHI:S1B-038#24:1:B>
+That 's old age of course <indig> 'no </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-038#25:1:A>
+And what about I was listening to the closing remarks of A D A at <mention> Broadcasters Bureau </mention> 
+ 
+<ICE-PHI:S1B-038#26:1:A>
+And she said happy weekend 
+ 
+<ICE-PHI:S1B-038#27:1:A>
+It 's it 's only Thursday A D A
+
+ <$B> 
+<ICE-PHI:S1B-038#28:1:B>
+For for some people it 's already weekend uh Vic
+
+ <$A> 
+<ICE-PHI:S1B-038#29:1:A>
+Yes it 's <O> laughter </O> 
+ 
+<ICE-PHI:S1B-038#30:1:A>
+Is it <O> laughter </O> 
+ 
+<ICE-PHI:S1B-038#31:1:A>
+Anyway folks uh environment-wise Emily what attracted my attention this morning was still uh these friends of ours across the wall
+
+ <$B> 
+<ICE-PHI:S1B-038#32:1:B>
+The D E N R people
+
+ <$A> 
+<ICE-PHI:S1B-038#33:1:A>
+The D E N R people
+
+ <$B> 
+<ICE-PHI:S1B-038#34:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1B-038#35:1:A>
+Uh there is still the story about the nurses and the dentists uh appointed to take care of <{> <[> of the Pasig River </[> 
+
+ <$B> 
+<ICE-PHI:S1B-038#36:1:B>
+<[> There 's only one explanation for that Vic </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1B-038#37:1:A>
+Uh it looks like uh <,> the there are some people who have been feeding uh news bits
+
+ <$B> 
+<ICE-PHI:S1B-038#38:1:B>
+This is media frenzy now hey
+
+ <$A> 
+<ICE-PHI:S1B-038#39:1:A>
+To the reporters that not only are they are these supposedly uh these these appointees are supposedly not qualified I mean you know they 're dentists
+ 
+<ICE-PHI:S1B-038#40:1:A>
+What what are they doing for in a Pasig River movement
+
+ <$B> 
+<ICE-PHI:S1B-038#41:1:B>
+Hey dentists pull out something you know and they 're gonna pull out the debris
+ 
+<ICE-PHI:S1B-038#42:1:B>
+He he he <&> =sarcastic laughter </&> 
+ 
+<ICE-PHI:S1B-038#43:1:B>
+You know
+
+ <$A> 
+<ICE-PHI:S1B-038#44:1:A>
+Uh and uh the issue now is that all of these appointees have been uh uh given uh <.> ov </.> not I mean residences or they 've converted official cottages into residences right at the Parks and Wildlife Bureau
+
+ <$B> 
+<ICE-PHI:S1B-038#45:1:B>
+Really
+
+ <$A> 
+<ICE-PHI:S1B-038#46:1:A>
+area area just near where we are
+
+ <$B> 
+<ICE-PHI:S1B-038#47:1:B>
+And what is that supposed to be
+ 
+<ICE-PHI:S1B-038#48:1:B>
+I mean what are what is the purpose of those the <{> <[> cottages </[> 
+
+ <$A> 
+<ICE-PHI:S1B-038#49:1:A>
+<[> There </[> </{> there are cottages there that are used for official functions
+
+ <$B> 
+<ICE-PHI:S1B-038#50:1:B>
+Just official and not for uh lodging
+
+ <$A> 
+<ICE-PHI:S1B-038#51:1:A>
+Not for residence
+
+ <$B> 
+<ICE-PHI:S1B-038#52:1:B>
+Oh okay
+
+ <$A> 
+<ICE-PHI:S1B-038#53:1:A>
+Uh it 's supposed to be sometimes
+
+ <$B> 
+<ICE-PHI:S1B-038#54:1:B>
+And how many of those
+
+ <$A> 
+<ICE-PHI:S1B-038#55:1:A>
+A halfway house
+
+ <$B> 
+<ICE-PHI:S1B-038#56:1:B>
+Supposed to be
+
+ <$A> 
+<ICE-PHI:S1B-038#57:1:A>
+For provincial officials
+
+ <$B> 
+<ICE-PHI:S1B-038#58:1:B>
+Uh okay
+
+ <$A> 
+<ICE-PHI:S1B-038#59:1:A>
+Staying in Manila
+
+ <$B> 
+<ICE-PHI:S1B-038#60:1:B>
+Well it 's been it 's been functioning as a hotel also uh apparently
+
+ <$A> 
+<ICE-PHI:S1B-038#61:1:A>
+Uh
+
+ <$B> 
+<ICE-PHI:S1B-038#62:1:B>
+Occasionally
+
+ <$A> 
+<ICE-PHI:S1B-038#63:1:A>
+As overnight accommodations for for <{> <[> official purposes </[> 
+
+ <$B> 
+<ICE-PHI:S1B-038#64:1:B>
+<[> So how many people </[> </{> are staying there now
+
+ <$A> 
+<ICE-PHI:S1B-038#65:1:A>
+Uh no exact count but uh this batch appointed by the D E N R Secretary uh is over twenty
+ 
+<ICE-PHI:S1B-038#66:1:A>
+So that 's about two dozen people
+ 
+<ICE-PHI:S1B-038#67:1:A>
+And uh what is what I find significant is that for two days now this has been appearing in media in print in broadcast and there has been no reaction from the Office of the Secretary
+ 
+<ICE-PHI:S1B-038#68:1:A>
+For one we know that Secretary Cerilles is in the Netherlands oh <{> <[> signing signing </[> a document uh on behalf of the Philippine government
+
+ <$B> 
+<ICE-PHI:S1B-038#69:1:B>
+<[> No wonder no wonder </[> </{> 
+ 
+<ICE-PHI:S1B-038#70:1:B>
+Oh well that explains it
+
+ <$C> 
+<ICE-PHI:S1B-038#71:1:C>
+But the public affairs people have no reaction either
+
+ <$B> 
+<ICE-PHI:S1B-038#72:1:B>
+Because it was the Secretary apparently who uh appointed these people so what can they say
+
+ <$A> 
+<ICE-PHI:S1B-038#73:1:A>
+And so they have to they have to wait for the Secretary
+
+ <$B> 
+<ICE-PHI:S1B-038#74:1:B>
+Of course
+
+ <$A> 
+<ICE-PHI:S1B-038#75:1:A>
+To come back
+ 
+<ICE-PHI:S1B-038#76:1:A>
+Although some other officials are are issuing justifications that uh these these appointments are uh there 's nothing illegal about the appointments
+ 
+<ICE-PHI:S1B-038#77:1:A>
+They are contractual and so on and so forth
+ 
+<ICE-PHI:S1B-038#78:1:A>
+But I I sense that uh there is a group within the bureaucracy within the old-timers possibly who are who might be jealous because maybe the salaries are bigger or whatever
+
+ <$B> 
+<ICE-PHI:S1B-038#79:1:B>
+There 's only one explanation as I said
+ 
+<ICE-PHI:S1B-038#80:1:B>
+These people probably need jobs
+
+ <$A> 
+<ICE-PHI:S1B-038#81:1:A>
+We need uh a reaction from the Secretary we 'll try to get that when he comes back
+ 
+<ICE-PHI:S1B-038#82:1:A>
+In the interest of you know good journalism we get the other side when we can
+
+ <$B> 
+<ICE-PHI:S1B-038#83:1:B>
+Of course <O> music </O> 
+
+ <$A> 
+<ICE-PHI:S1B-038#84:1:A>
+Of course we 'd like to remind you you are tuned in to D W B R one o four point three
+ 
+<ICE-PHI:S1B-038#85:1:A>
+The program is <mention> <indig> Kalikasan Vigilante </indig> </mention> 
+ 
+<ICE-PHI:S1B-038#86:1:A>
+This is Vic Milan with Emily Marcelo
+
+ <$B> 
+<ICE-PHI:S1B-038#87:1:B>
+Friends as usual please uh beep us your suggestion comments
+ 
+<ICE-PHI:S1B-038#88:1:B>
+My beeper number is one five two five zero zero six eight eight
+
+ <$A> 
+<ICE-PHI:S1B-038#89:1:A>
+Our
+
+ <$B> 
+<ICE-PHI:S1B-038#90:1:B>
+Vic 's office is nine two zero
+
+ <$A> 
+<ICE-PHI:S1B-038#91:1:A>
+Nine nine one five
+
+ <$B> 
+<ICE-PHI:S1B-038#92:1:B>
+Nine nine one five
+ 
+<ICE-PHI:S1B-038#93:1:B>
+Or the <{> <[> office </[> 
+
+ <$A> 
+<ICE-PHI:S1B-038#94:1:A>
+<[> Our studio phone </[> </{> is nine two zero eight nine two eight <,> 
+ 
+<ICE-PHI:S1B-038#95:1:A>
+We still haven't heard from Fe Hidalgo
+ 
+<ICE-PHI:S1B-038#96:1:A>
+She 's probably very busy now with her new responsibilities at the Department of Education Culture and Sports if my recollection is correct about an item I read in the newspapers about Fe Hidalgo being appointed to some important position in the department which I 'm sure she deserves
+ 
+<ICE-PHI:S1B-038#97:1:A>
+A great lady like like Fe Hidalgo
+ 
+<ICE-PHI:S1B-038#98:1:A>
+Emily I was telling you while we were playing that musical <mention> Bee is a Bug </mention> 
+ 
+<ICE-PHI:S1B-038#99:1:A>
+Uh I 've been thinking a lot about Howie Severino 's piece that I saw in the <mention> Probe Team </mention> 
+ 
+<ICE-PHI:S1B-038#100:1:A>
+This feature on <foreign> muro ami </foreign> in uh Palawan
+
+ <$B> 
+<ICE-PHI:S1B-038#111:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1B-038#112:1:A>
+We can discuss <foreign> muro ami </foreign> uh on another uh plane
+ 
+<ICE-PHI:S1B-038#113:1:A>
+But right now I 'm I 'm thinking more of uh this uh in terms of from from the journalistic point of view
+
+ <$B> 
+<ICE-PHI:S1B-038#114:1:B>
+As a backgrounder Howie Severino was interviewed by us yesterday <{> <[> yesterday morning </[> 
+
+ <$A> 
+<ICE-PHI:S1B-038#115:1:A>
+<[> Yesterday morning </[> </{> uh
+
+ <$B> 
+<ICE-PHI:S1B-038#116:1:B>
+Regarding his uh
+
+ <$A> 
+<ICE-PHI:S1B-038#117:1:A>
+The segment that he produced for the <mention> Probe uh Team </mention> <,> 
+ 
+<ICE-PHI:S1B-038#118:1:A>
+And uh the way how he put it he went to Northern Palawan in search of <foreign> muro ami </foreign> because there were they got tips that <foreign> muro ami </foreign> a banned fishing method was still being used by certain influential businessmen in in that area
+ 
+<ICE-PHI:S1B-038#119:1:A>
+And uh it turns out as how he himself said <,> they went there pretending to be scuba diving tourists
+ 
+<ICE-PHI:S1B-038#120:1:A>
+And uh the question that came to my mind is is a journalist obligated to tell uh someone he is interviewing that he may be using this for a television broadcast 
+
+ <$B> 
+<ICE-PHI:S1B-038#121:1:B>
+That 's the <{> <[> American way </[> 
+
+ <$A> 
+<ICE-PHI:S1B-038#122:1:A>
+<[> What what </[> </{> do you think
+
+ <$B> 
+<ICE-PHI:S1B-038#123:1:B>
+That 's the American way
+ 
+<ICE-PHI:S1B-038#124:1:B>
+I don't think that is uh uh practiced in the Philippines <,> because otherwise they will they will clam up you know these interviewees will uh clam up
+
+ <$A> 
+<ICE-PHI:S1B-038#125:1:A>
+And so
+
+ <$B> 
+<ICE-PHI:S1B-038#126:1:B>
+And so you have to use pretences or you have to pretend that you are somebody else when you 're not <,> 
+ 
+<ICE-PHI:S1B-038#127:1:B>
+<indig> Hindi ba </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-038#128:1:A>
+Well uh
+
+ <$B> 
+<ICE-PHI:S1B-038#129:1:B>
+And I 'm sure as you said
+
+ <$A> 
+<ICE-PHI:S1B-038#130:1:A>
+You are you are sure of that in the U S
+
+ <$B> 
+<ICE-PHI:S1B-038#131:1:B>
+Of course you have of course even if even while you are talking on the phone <{1> <[1> and you want </[1> to tape the conversation <{2> <[2> you have to </[2> tell the person the other person you 're talking with that you you 're taping the conversation
+
+ <$A> 
+<ICE-PHI:S1B-038#132:1:A>
+<[1> But how about </[1> </{1> 
+ 
+<ICE-PHI:S1B-038#133:1:A>
+<[2> You have to tell him </[2> </{2> 
+ 
+<ICE-PHI:S1B-038#134:1:A>
+Hold it
+
+ <$B> 
+<ICE-PHI:S1B-038#135:1:B>
+I don't think that happened here
+
+ <$A> 
+<ICE-PHI:S1B-038#136:1:A>
+But hold it
+ 
+<ICE-PHI:S1B-038#137:1:A>
+I have seen television documentaries where uh the commentator himself said this was taken by hidden camera <,> and if it was a hidden camera it means the the subjects did not know they were being filmed
+
+ <$B> 
+<ICE-PHI:S1B-038#138:1:B>
+They were not allowed to but and uh of course they the subjects did not allow it I I mean the subjects did not know it at all
+
+ <$A> 
+<ICE-PHI:S1B-038#139:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1B-038#140:1:B>
+Probably and possibly they were not allowed in uh to be interviewed in the first place
+
+ <$A> 
+<ICE-PHI:S1B-038#141:1:A>
+And so they the footage was taken <{> <[> anyway </[> and it was aired anyway
+
+ <$B> 
+<ICE-PHI:S1B-038#142:1:B>
+<[> And they have to squeeze </[> </{> 
+ 
+<ICE-PHI:S1B-038#143:1:B>
+And they have to squeeze uh something from
+
+ <$A> 
+<ICE-PHI:S1B-038#144:1:A>
+And uh uhm the television station was not taken into court
+
+ <$B> 
+<ICE-PHI:S1B-038#145:1:B>
+Uh uhm yeah that 's true
+
+ <$A> 
+<ICE-PHI:S1B-038#146:1:A>
+Oh <{> <[> anyway </[> 
+
+ <$B> 
+<ICE-PHI:S1B-038#147:1:B>
+<[> But </[> </{> I don't think that 's the the problem is I don't think that that will be used uh in a court of law
+ 
+<ICE-PHI:S1B-038#148:1:B>
+You must get a lawyer for this you know
+
+ <$A> 
+<ICE-PHI:S1B-038#149:1:A>
+<O> laughter </O> Okay anyone out there with uh
+
+ <$B> 
+<ICE-PHI:S1B-038#150:1:B>
+<{> <[> Comments </[> 
+
+ <$A> 
+<ICE-PHI:S1B-038#151:1:A>
+<[> With an <.> ope </.> </[> </{> <{> <[> with an opinion </[> 
+
+ <$B> 
+<ICE-PHI:S1B-038#152:1:B>
+<[> Who 's a lawyer </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1B-038#153:1:A>
+And with uh relevant uh to what we are discussing here uhm I am interested because sometimes we go out to the field <{> <[> and we do interviews and </[> 
+
+ <$B> 
+<ICE-PHI:S1B-038#154:1:B>
+<[> So what what you 're saying is uh </[> </{> Howie should have identified himself
+
+ <$A> 
+<ICE-PHI:S1B-038#155:1:A>
+<mention> Should should </mention> 
+ 
+<ICE-PHI:S1B-038#156:1:A>
+Is the journalist is the reporter <,> uh required to tell the interviewee that it is going it may be used
+
+ <$B> 
+<ICE-PHI:S1B-038#157:1:B>
+<indig> Siguro </indig> come to think of it <indig> siguro <indig> in this case a hidden camera is uh is is good enough <indig> kasi walang ano e walang </indig> uh I don't think the the this uh <unclear> word </unclear> this uh
+ 
+<ICE-PHI:S1B-038#158:1:B>
+How do you call it these companies would want their executives to be uh interviewed on camera <indig> kaya </indig> Howie had to resort to that
+
+ <$A> 
+<ICE-PHI:S1B-038#159:1:A>
+No but uh Howie did not use a hidden camera
+ 
+<ICE-PHI:S1B-038#160:1:A>
+The the camera was not <{> <[> hidden at all </[> 
+
+ <$B> 
+<ICE-PHI:S1B-038#161:1:B>
+<[> Because </[> </{> he was supposed to be <{> <[> a scuba-diver </[> 
+
+ <$A> 
+<ICE-PHI:S1B-038#162:1:A>
+<[> He just </[> </{> 
+ 
+<ICE-PHI:S1B-038#163:1:A>
+He just used uh what you might call false pretenses <O> chuckle </O> 
+ 
+<ICE-PHI:S1B-038#164:1:A>
+Another musical break please Boy <O> music </O> 
+ 
+<ICE-PHI:S1B-038#165:1:A>
+Actually Howie Severino <,> his topic was on <foreign> muro ami </foreign> 
+ 
+<ICE-PHI:S1B-038#166:1:A>
+Uh I
+
+ <$B> 
+<ICE-PHI:S1B-038#167:1:B>
+What about <foreign> muro ami </foreign> specifically this fishing part
+
+ <$A> 
+<ICE-PHI:S1B-038#168:1:A>
+I had I had uh <,> two two people asked me what really is <foreign> muro ami </foreign> 
+ 
+<ICE-PHI:S1B-038#169:1:A>
+And I think Emilia is also asking what what really is <foreign> muro ami </foreign> all about
+
+ <$B> 
+<ICE-PHI:S1B-038#170:1:B>
+Yes what really is <foreign> muro ami </foreign> Vic
+
+ <$A> 
+<ICE-PHI:S1B-038#171:1:A>
+Uh this is the way I I I got it from way way back we were fighting the <foreign> muro ami </foreign> uh thing in in media and in all fronts until it was finally banned
+ 
+<ICE-PHI:S1B-038#172:1:A>
+<mention> <foreign> Muro ami </foreign> </mention> is actually a Japanese term 
+
+ <$B> 
+<ICE-PHI:S1B-038#173:1:B>
+Meaning
+
+ <$A> 
+<ICE-PHI:S1B-038#174:1:A>
+You know you know <indig> dalagang bukid </indig> <,> the the species of fish
+ 
+<ICE-PHI:S1B-038#175:1:A>
+Anyway it 's it 's coral coral reef dwellers
+
+ <$B> 
+<ICE-PHI:S1B-038#176:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1B-038#177:1:A>
+They come in large numbers and you 've you 've seen television footages underwater
+
+ <$B> 
+<ICE-PHI:S1B-038#178:1:B>
+Oh yes
+
+ <$A> 
+<ICE-PHI:S1B-038#179:1:A>
+You you imagine a coral reef plenty of fish and at the edge of the reef you drop a long long huge net
+ 
+<ICE-PHI:S1B-038#180:1:A>
+But how do you get the fish to go into the net <,> so that they get entangled in the net
+ 
+<ICE-PHI:S1B-038#181:1:A>
+You drive them into the net
+
+ <$B> 
+<ICE-PHI:S1B-038#182:1:B>
+Bodily
+
+ <$A> 
+<ICE-PHI:S1B-038#183:1:A>
+But in <foreign> muro ami </foreign> they use children <,> to drive
+
+ <$B> 
+<ICE-PHI:S1B-038#184:1:B>
+So they submerge children
+
+ <$A> 
+<ICE-PHI:S1B-038#185:1:A>
+No you see the children are actually <.> fly </.> uh swimming on on the surface of the water
+
+ <$B> 
+<ICE-PHI:S1B-038#186:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1B-038#187:1:A>
+But they are holding what they call <mention> scare lines </mention> 
+
+ <$B> 
+<ICE-PHI:S1B-038#188:1:B>
+Scare lines
+
+ <$A> 
+<ICE-PHI:S1B-038#189:1:A>
+Goads
+
+ <$B> 
+<ICE-PHI:S1B-038#190:1:B>
+Uh huh
+
+ <$A> 
+<ICE-PHI:S1B-038#191:1:A>
+But at the end of the scare line are heavy things like steel or rocks or lead
+ 
+<ICE-PHI:S1B-038#192:1:A>
+And they pull <{> <[> this </[> up and down
+
+ <$B> 
+<ICE-PHI:S1B-038#193:1:B>
+<[> And down </[> </{> to scare the
+
+ <$A> 
+<ICE-PHI:S1B-038#194:1:A>
+So that it hits <{> <[> it hits </[> the corals
+
+ <$B> 
+<ICE-PHI:S1B-038#195:1:A>
+<[> Uh huh </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1B-038#196:1:A>
+And sound is magnified many times when it 's under water
+
+ <$B> 
+<ICE-PHI:S1B-038#197:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1B-038#198:1:A>
+It reverberates
+ 
+<ICE-PHI:S1B-038#199:1:A>
+So you can imagine how scared this <{> <[> this fish </[> are they they scamper in all directions but there there is no escape
+
+ <$B> 
+<ICE-PHI:S1B-038#200:1:B>
+<[> <indig> Dalagang bukid </indig> </[> </{> 
+ 
+<ICE-PHI:S1B-038#201:1:B>
+Because the net is there already
+
+ <$A> 
+<ICE-PHI:S1B-038#202:1:A>
+Because this is this is a long line of children abreast 
+
+ <$B> 
+<ICE-PHI:S1B-038#203:1:B>
+Huh
+
+ <$A> 
+<ICE-PHI:S1B-038#204:1:A>
+Moving towards the net
+ 
+<ICE-PHI:S1B-038#205:1:A>
+Am I giving you a <{> <[> good enough </[> a good enough picture
+
+ <$B> 
+<ICE-PHI:S1B-038#206:1:B>
+<[> Oh sure </[> </{> yeah clear as mud
+
+ <$A> 
+<ICE-PHI:S1B-038#207:1:A>
+But in the process the corals are broken and uh
+
+ <$B> 
+<ICE-PHI:S1B-038#208:1:B>
+But the end result is what they want <,> <{> <[> the <indig> dalagang bukid </indig> </[> 
+
+ <$A> 
+<ICE-PHI:S1B-038#209:1:A>
+<[> The end result </[> </{> is they <{> <[> get a lot of fish </[> okay
+
+ <$B> 
+<ICE-PHI:S1B-038#210:1:B>
+<[> They get the <indig> dalagang bukid </indig> </[> </{> yeah 
+
+ <$A> 
+<ICE-PHI:S1B-038#211:1:A>
+Uh fast track a little bit
+ 
+<ICE-PHI:S1B-038#212:1:A>
+Sometime in the mid eighties we succeeded in having uh the the this method banned in the Philippines
+ 
+<ICE-PHI:S1B-038#213:1:A>
+But the operators of <foreign> muro ami </foreign> and one of the names very closely associated with <foreign> muro ami </foreign> was a Congressman-politican from Cebu
+
+ <$B> 
+<ICE-PHI:S1B-038#214:1:B>
+Whose name is 
+
+ <$A> 
+<ICE-PHI:S1B-038#215:1:A>
+Whose name is <@> Amante </@> 
+ 
+<ICE-PHI:S1B-038#216:1:A>
+And what made this controversial was that uh most of the <foreign> muro ami </foreign> ships were employing children as young as ten eleven twelve thirteen fourteen years old
+
+ <$B> 
+<ICE-PHI:S1B-038#217:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1B-038#218:1:A>
+And uh if a kid suddenly got entangled in a net because sometimes the net gets entangled and kids had to dive to untangle the net <,> and if they
+
+ <$B> 
+<ICE-PHI:S1B-038#219:1:B>
+That that gets entangled in the coral
+
+ <$A> 
+<ICE-PHI:S1B-038#220:1:A>
+Yes and if and if the current suddenly changes in the direction of the diving kid he can get he himself can get entangled in the net
+
+ <$B> 
+<ICE-PHI:S1B-038#221:1:B>
+And there have been instances like this
+
+ <$A> 
+<ICE-PHI:S1B-038#222:1:A>
+<indig> Ay </indig> there were plenty of deaths
+ 
+<ICE-PHI:S1B-038#223:1:A>
+And uh in that segment and in that segment of uh Howie Severino there were graves the graves of the kids were shown 
+
+ </I> 
+
+
+

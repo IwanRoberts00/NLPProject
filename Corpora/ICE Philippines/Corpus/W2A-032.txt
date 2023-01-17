@@ -1,0 +1,649 @@
+<I>
+
+<ICE-PHI:W2A-032#1:1>
+<h> <bold> A Preliminary Study of the Performance of On-Off Control in
+a Batch Reactor </bold> </h>
+
+<ICE-PHI:W2A-032#2:1>
+<bold> Leonila C. Abella and Armando T. Quintain </bold>
+
+<p> 
+<ICE-PHI:W2A-032#3:1>
+<it> This study aims to verify the performance of ON-OFF control
+in an agitated batch reactor and to determine the effect of temperature on
+its reaction rate.
+
+<ICE-PHI:W2A-032#4:1>
+The reactive system studied is Calcium Hydroxide ( Ca(OH) <sb> 2 </sb> )
+with Sulfuric Acid ( H <sb> 2 </sb> SO <sb> 4 </sb> ) .
+
+<ICE-PHI:W2A-032#5:1>
+The temperature of the system is controlled using an ON-OFF mode of
+control.
+
+<ICE-PHI:W2A-032#6:1>
+The concentration of the reactants are 0.05M, 0.10M, and 0.20M at
+reaction temperature of 40&degree;C, 50&degree;C and 60&degree;C. </p>
+
+<p> 
+<ICE-PHI:W2A-032#7:1>
+The temperature of the system was controlled by the flow of the
+hot water entering the jacket of the batch reactor using a solenoid valve.
+
+<ICE-PHI:W2A-032#8:1>
+When the temperature of the reactive system deviates from the desired
+temperature, the controller sends a signal to the valve.
+
+<ICE-PHI:W2A-032#9:1>
+Then, the solenoid valve turns ON if the temperature of the reactive
+system is lower than the desired temperature and it turns OFF if the
+temperature is higher. </it> </p>
+
+<p> 
+<ICE-PHI:W2A-032#10:1>
+The use of computers in control systems can be traced back to the
+early fifties, that is the application in missile and aircraft control.
+
+<ICE-PHI:W2A-032#11:1>
+Since mid-fifties, computers have been used in industrial process
+control which is marked by the design and implementation of the computer
+controlled system of polymerization units <fnr> ( 1) </fnr> . </p>
+
+<p> 
+<ICE-PHI:W2A-032#12:1>
+Today, chemical engineers have approach studies on reaction
+kinetics focusing on the factors affecting the rates of reaction.
+
+<ICE-PHI:W2A-032#13:1>
+To attain a more favorable result, the process which a system
+undergoes must be controlled.
+
+<ICE-PHI:W2A-032#14:1>
+Processes may be controlled to give uniform and higher quality
+products by the application of automatic control.
+
+<ICE-PHI:W2A-032#15:1>
+Also, processes which respond too rapidly to be controlled by human
+operator can be controlled automatically.
+
+<ICE-PHI:W2A-032#16:1>
+This results to a better quality of products.
+
+<ICE-PHI:W2A-032#17:1>
+This therefore would increase productivity and lower production cost.
+
+<ICE-PHI:W2A-032#18:1>
+In this study, the temperature of the system is controlled using an
+ON-OFF mode of control. </p>
+
+<p> 
+<ICE-PHI:W2A-032#19:1>
+The ON-OFF control mode is frequently used due to its simplicity
+and low cost.
+
+<ICE-PHI:W2A-032#20:1>
+It is sometimes called the <mention> &ldquo; Two-Position Control
+&rdquo; </mention> or <mention> &ldquo; Bang-bang &rdquo; system </mention>
+and as the name implies, the output signal is only two, either zero or 100% (
+4).
+
+<ICE-PHI:W2A-032#21:1>
+When the measured variable is above the set point, the output signal
+is zero and when the measured variable is below the set point, the output
+signal is at its maximum value.
+
+<ICE-PHI:W2A-032#22:1>
+The output signal will serve as an actuator to the valve and the
+valve will position either fully open or completely closed. </p>
+
+<ICE-PHI:W2A-032#23:1>
+<h> <bold> OBJECTIVE OF THE STUDY: </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-032#24:1>
+The main objective of this research project is to study the
+performance of ON-OFF control in an agitated batch reactor.
+
+<ICE-PHI:W2A-032#25:1>
+The effect of the temperature on the rate of reaction, which is
+Calcium Hydroxide ( Ca(OH) <sb> 2 </sb> ) with Sulfuric Acid ( H <sb> 2 </sb>
+SO <sb> 4 </sb> ) , was also determined. </p>
+
+<ICE-PHI:W2A-032#26:1>
+<h> <bold> THEORY </bold> </h>
+
+<ICE-PHI:W2A-032#27:1>
+<h> <bold> SOLENOID VALVE </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-032#28:1>
+A solenoid valve is composed of an armature, solenoid coil and a
+valve.
+
+<ICE-PHI:W2A-032#29:1>
+In the absence of current through the solenoid coil, there will be no
+magnetic field to pull the armature up, so the compression spring will push
+the armature down.
+
+<ICE-PHI:W2A-032#30:1>
+The valve stem which is attached to the armature, pushes the valve
+plug tight against the valve seat.
+
+<ICE-PHI:W2A-032#31:1>
+When the solenoid coil is energized, a magnetic field is established
+which pulls the armature up.
+
+<ICE-PHI:W2A-032#32:1>
+As the armature moves up, it lifts the valve plug off the valve seat
+and opens the passageway from inlet to outlet.
+
+<ICE-PHI:W2A-032#33:1>
+Solenoid valves are two-position devices, either ON or OFF.
+
+<ICE-PHI:W2A-032#34:1>
+Figure 1 shows the cross-sectional view of a solenoid valve <fnr> (
+12) </fnr> . </p>
+
+<ICE-PHI:W2A-032#35:1>
+<h> <bold> ON-OFF CONTROL </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-032#36:1>
+To maintain the desired temperature of the reaction, the system
+was automatically controlled using an ON-OFF mode of control through a
+computer.
+
+<ICE-PHI:W2A-032#37:1>
+A program written in Turbo C language converts the milli-voltage
+signals of the thermocouple to their corresponding temperatures.
+
+<ICE-PHI:W2A-032#38:1>
+The program then compares the temperature with the desired
+temperature.
+
+<ICE-PHI:W2A-032#39:1>
+If the temperature is less than the desired temperature, it sends
+signal to the solenoid valve to turn it ON.
+
+<ICE-PHI:W2A-032#40:1>
+On the other hand, computer turns the valve OFF, when the temperature
+is higher than the desired set point. </p>
+
+<p> 
+<ICE-PHI:W2A-032#41:1>
+The characteristics of ON-OFF control mode is shown in Figure 2
+wherein the actual temperature tends to oscillate around the set point.
+
+<ICE-PHI:W2A-032#42:1>
+An overshoot occurs in the positive direction and undershoot in the
+negative direction.
+
+<ICE-PHI:W2A-032#43:1>
+Since the process cannot respond instantly to the change in the valve
+position, an overshoot occurs <fnr> ( 12) </fnr> .
+
+<ICE-PHI:W2A-032#44:1>
+If the temperature rises, the rate of heat input is greater than the
+rate of heat loss in the process.
+
+<ICE-PHI:W2A-032#45:1>
+Shutting off the control valve cannot lower the temperature instantly
+because there are still heat energy built up in and around the heating
+device.
+
+<ICE-PHI:W2A-032#46:1>
+This residual heat energy temporarily continues to raise the
+temperature.
+
+<ICE-PHI:W2A-032#47:1>
+The same way happens when the temperature decreases.
+
+<ICE-PHI:W2A-032#48:1>
+In general, a quantity controlled by an ON-OFF system has a tendency
+to undershoot and overshoot the desired value. </p>
+
+<ICE-PHI:W2A-032#49:1>
+<h> <bold> METHODOLOGY </bold> </h>
+
+<ICE-PHI:W2A-032#50:1>
+<h> <bold> Experimental Set-up </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-032#51:1>
+The experimental set-up is shown in Figure 3.
+
+<ICE-PHI:W2A-032#52:1>
+It is composed of a reactor, a solenoid valve and a heater which are
+connected by 1/2 inch galvanized iron pipe.
+
+<ICE-PHI:W2A-032#53:1>
+The design of the reactor is the same as that of the existing
+laboratory scale non-isothermal CSTR of Olano, S. ( 1990).
+
+<ICE-PHI:W2A-032#54:1>
+This reactor is equipped with a motor on top where the propeller is
+connected to.
+
+<ICE-PHI:W2A-032#55:1>
+The motor is also connected to the variac in order that the rate of
+agitation can be controlled.
+
+<ICE-PHI:W2A-032#56:1>
+In between the heater and the control valve, a by-pass is provided to
+avoid an overload when the control valve is in its OFF position. </p>
+
+<ICE-PHI:W2A-032#57:1>
+<h> <bold> Experimental Procedure </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-032#58:1>
+Preliminary tests were conducted to determine the concentration
+of the reactants and the temperature ranges to be used in the
+experimentation.
+
+<ICE-PHI:W2A-032#59:1>
+The concentrations were 0.05 M, 0.10 M and 0.20M while the
+temperatures were 40&degree; , 50&degree; , and 60&degree;C.
+
+<ICE-PHI:W2A-032#60:1>
+The flowrate of hot water was 270m1/sec and the volume of the
+reactive system was 1000 ml and these were held constant. </p>
+
+<p> 
+<ICE-PHI:W2A-032#61:1>
+The temperature of the reaction was first set to 40&degree; C
+using 0.05 M concentration of the reactants.
+
+<ICE-PHI:W2A-032#62:1>
+Water entering the jacket of the reaction was controlled by a
+solenoid valve.
+
+<ICE-PHI:W2A-032#63:1>
+The reactants were then poured into the reactor at the same time the
+temperature of the reactor was 2 to 3 degrees lower than that of the set
+temperature.
+
+<ICE-PHI:W2A-032#64:1>
+The temperature readings from the computer and fluke thermometer were
+recorded at an interval of one minute.
+
+<ICE-PHI:W2A-032#65:1>
+Samples withdrawn were analyzed every two minutes to monitor the rate
+of reaction with time. </p>
+
+<p> 
+<ICE-PHI:W2A-032#66:1>
+The Adsorption Indicator Method was employed in determining the
+rate of reaction.
+
+<ICE-PHI:W2A-032#67:1>
+In this method, the sample was filtered to separate the solid Ca(SO)
+<sb> 4 </sb> products from the solution.
+
+<ICE-PHI:W2A-032#68:1>
+The filtrate was analyzed for amounts of unreacted H <sb> 2 </sb> SO
+<sb> 4 </sb> after every two minutes by titrating it with BaCl <sb> 2 </sb> .
+
+<ICE-PHI:W2A-032#69:1>
+The volume of the filtrate was recorded before it was transferred to
+an Erlenmeyer 's flask which contains 1 ml of distilled water and 1 ml of
+methanol.
+
+<ICE-PHI:W2A-032#70:1>
+Two drops of 0.2% of Alizarin Red S indicator was added which turned
+the solution yellowish.
+
+<ICE-PHI:W2A-032#71:1>
+This change in color from transparent to yellowish proved the
+presence of sulfates, SO <sb> 4 </sb> <sp> - 2 </sp> .
+
+<ICE-PHI:W2A-032#72:1>
+Titrating with BaCl <sb> 2 </sb> , the solution would eventually turn
+light pink at its end point because of the formation of BaSO <sb> 4 </sb> .
+
+<ICE-PHI:W2A-032#73:1>
+Then, the volume of the BaCl <sb> 2 </sb> used was recorded. </p>
+
+<p> 
+<ICE-PHI:W2A-032#74:1>
+This procedure was repeated for concentrations of 0.05 M, 0.10 M
+and 0.20 M of the reactants at temperature of 40&degree; C, 50&degree; C, and
+60&degree; C. </p>
+
+<ICE-PHI:W2A-032#75:1>
+<h> <bold> RESULTS AND ANALYSIS </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-032#76:1>
+The temperature readings through the use of the computer were
+compared with the temperature readings through the use of a fluke
+thermometer.
+
+<ICE-PHI:W2A-032#77:1>
+At a set point of 40&degree;C, the comparison of the temperature
+readings is shown in Figure 4a and 4b at different concentrations of 0.05 M
+and 0.20 M respectively.
+
+<ICE-PHI:W2A-032#78:1>
+The graphs show that there is a slight deviation between every
+temperature reading obtained from the computer and the corresponding reading
+from the fluke thermometer.
+
+<ICE-PHI:W2A-032#79:1>
+This deviation can be attributed to the error caused by noise or
+disturbances affecting thermocouple signals.
+
+<ICE-PHI:W2A-032#80:1>
+The same behavior was observed when the set point was 50&degree; C as
+shown in Figure 5.
+
+<ICE-PHI:W2A-032#81:1>
+Increasing the set point to 60&degree; C showed almost the same trend
+as shown in Figure 6.
+
+<ICE-PHI:W2A-032#82:1>
+The oscillation of the temperatures with reference to the desired
+temperature clearly depicts the behavior of an ON-OFF control action.
+
+<ICE-PHI:W2A-032#83:1>
+The temperature readings oscillate from as low as 40.2&degree; C to
+as high as 41.8&degree; C with a differential gap of about 1.6&degree; C when
+the set point was at 40&degree;C.
+
+<ICE-PHI:W2A-032#84:1>
+Likewise, a differential gap of about 1.0&degree; C was observed when
+the set point was at 50&degree; C and 1.8&degree; C when the set point was at
+60&degree;C.
+
+<ICE-PHI:W2A-032#85:1>
+The differential gap is common to all control systems using ON-OFF
+mode of control.
+
+<ICE-PHI:W2A-032#86:1>
+The same behavior was observed at different concentrations of the
+reactants. </p>
+
+<p> 
+<ICE-PHI:W2A-032#87:1>
+Mean temperature readings through the use of the computer were
+compared with the mean temperature readings through the use of the fluke
+thermometer.
+
+<ICE-PHI:W2A-032#88:1>
+Two approaches in the computation of mean were used ( i. e.
+arithmetic mean and mean-value theorem).
+
+<ICE-PHI:W2A-032#89:1>
+Results of comparison show that mean temperature readings for both
+fluke and computer has a relatively small deviation of about 1.0&degree; C as
+shown in Table 1. </p>
+
+<p> 
+<ICE-PHI:W2A-032#90:1>
+The effect of temperature on the rate of reaction expressed in
+percentage sulfuric acid converted was determined.
+
+<ICE-PHI:W2A-032#91:1>
+It was observed that when the temperature was increased from
+40&degree; C to 60&degree; C, there was also an increase in the percentage
+conversion of sulfuric acid from 68% to 87% as shown in Figure 7.
+
+<ICE-PHI:W2A-032#92:1>
+The same trend was observed at different concentrations of the
+reactants. </p>
+
+<ICE-PHI:W2A-032#93:1>
+<h> <bold> CONCLUSIONS </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-032#94:1>
+ON-OFF mode of control can effectively control to within
+reasonably prescribed limits of temperature variations of the system to the
+desired temperature.
+
+<ICE-PHI:W2A-032#95:1>
+It is reasonable enough to conclude that temperatures oscillate at
+the desired temperature, even though the system has a differential gap of
+about 1.0&degree; C to 1.8&degree; C.
+
+<ICE-PHI:W2A-032#96:1>
+It was also found out that the rate of reaction increases with
+temperature. </p> </I> <subtext.2>
+
+
+<I>
+
+<ICE-PHI:W2A-032#97:2>
+<h> <bold> Present Level of Technology Utilized in Teaching and
+Learning in Philippine IHLs <&> =Institutions of Higher Learning </&> </bold>
+</h>
+
+<ICE-PHI:W2A-032#98:2>
+<bold> Zelinna Cynthia Pablo </bold>
+
+<p> 
+<ICE-PHI:W2A-032#99:2>
+In the aspect of using Information Technology in teaching and
+learning in IHLs, the Philippines is, on the whole, still at its infancy
+stage.
+
+<ICE-PHI:W2A-032#100:2>
+Late in the last decade, a study of the status of technology in
+education revealed that <quote> &ldquo; [ gauging on educational software and
+hardware, as well as research inputs so far] it would seem we are way below
+the technology required for quality education in the context of developed
+countries". <X> These observations are testimony to the fact that in so far
+as quality education and the new technologies are concerned, very much is to
+be done in this direction </X> . &rdquo; </quote> [ SUTA89]
+
+<ICE-PHI:W2A-032#101:2>
+To date, a number of key educational administrations uphold the same
+view. </p>
+
+<p> 
+<ICE-PHI:W2A-032#102:2>
+For purposes of this study, it must be noted that this <mention>
+&ldquo; infancy stage &rdquo; </mention> has three implications:
+
+<p> 
+<ICE-PHI:W2A-032#103:2>
+First, due to the relative &ldquo; newness &rdquo; of the call
+for technology in education, statistical data remains unavailable, even at a
+national level, with respect to the exact level of utilization of technology
+in IHLs.
+
+<ICE-PHI:W2A-032#104:2>
+For this reason, this paper deals with a focal system that is more
+manageable, and for which data is obtainable.
+
+<ICE-PHI:W2A-032#105:2>
+For the most part, it focuses primarily on De La Salle University.
+
+<ICE-PHI:W2A-032#106:2>
+Efforts of other institutions are mentioned sporadically. </p>
+
+<p> 
+<ICE-PHI:W2A-032#107:2>
+Second, because of the <mention> &ldquo; infancy &rdquo; stage
+</mention> that IHLs are in, non-statistical information exchanges have
+revealed that only a small number of IHLs are in a position to incorporate IT
+tools into their method of educational delivery. </p>
+
+<p> 
+<ICE-PHI:W2A-032#108:2>
+Third, due to the small number of IHLs ready to carry out
+incorporation, most efforts are channeled towards planning, and less on
+implementation, for the use of technology in teaching and learning.
+
+<ICE-PHI:W2A-032#109:2>
+Hence, for chapters 4 and 5, the tone of the study will focus more
+on <quote> &ldquo; tools which we plan to use" </quote> ; limited discussion
+is devoted to <quote> &ldquo; tools already in use." </quote> </p>
+
+<p> 
+<ICE-PHI:W2A-032#110:2>
+An overview of the technological scenario in the Philippine
+higher learning sector reveals the following:
+
+<ICE-PHI:W2A-032#111:2>
+- the country currently has a pool of 50,000 IT professionals
+
+<ICE-PHI:W2A-032#112:2>
+- 50% of colleges and universities offer IT as a degree program, but
+there is no data on how many use IT as a tool for educational delivery
+
+<ICE-PHI:W2A-032#113:2>
+- 60% of the population is IT literate
+
+<ICE-PHI:W2A-032#114:2>
+- there are an estimated 100,000 Internet users
+
+<ICE-PHI:W2A-032#115:2>
+- 20 universities have web sites, along with 8 other (
+non-university) educational institutions [ CABA97] </p>
+
+<p> 
+<ICE-PHI:W2A-032#116:2>
+Highlights of its current status on the use of technology in
+teaching and learning are as follows:
+
+<p> 
+<ICE-PHI:W2A-032#117:2>
+<h> 1 <it> Unified top management planning for use of technology
+in education. </it> </h>
+
+<ICE-PHI:W2A-032#118:2>
+Long Term missions, goals, and objectives have been developed by top
+administration, and have been documented ( in the form of the NITP).
+
+<ICE-PHI:W2A-032#119:2>
+Strategic plans have been translated into operational goals (
+strategies and action plans). </p>
+
+<p> 
+<ICE-PHI:W2A-032#120:2>
+<h> 2. <it> Fragmented implementation of use of technology in
+education </it> </h> .
+
+<ICE-PHI:W2A-032#121:2>
+Implementation efforts in support of the strategic plans mentioned
+in ( 1) are taking place on a per-institution basis, not through a
+synchronized national effort.
+
+<ICE-PHI:W2A-032#122:2>
+The First National Workshop for IT in Education, an attempt to
+synchronize efforts on a national level, was completed only in April of this
+year.
+
+<ICE-PHI:W2A-032#123:2>
+Major institutions such as UP, Ateneo, and De La Salle adopt the
+national vision of using IT in education, and incorporate global standards in
+generating their plans.
+
+<ICE-PHI:W2A-032#124:2>
+However, inter-institutional coordination is minimal. </p>
+
+<p> 
+<ICE-PHI:W2A-032#125:2>
+<h> 3. <it> Unavailability of scientific data </it> </h> .
+
+<ICE-PHI:W2A-032#126:2>
+As mentioned earlier, strategic statistical data on the level of
+technology use in teaching and learning is not available; the Department of
+Science and Technology has recently identified the need for such data, but
+efforts for its collection and analysis are still in the planning stage.
+
+<ICE-PHI:W2A-032#127:2>
+At present, information has been gathered through non-statistical
+methods: that is, through interaction and exchange with administrators of
+selected institutions, primarily through the First IT-Ed Workshop.
+
+<ICE-PHI:W2A-032#128:2>
+No attempt has yet been made to determine a statistically sound
+sample.
+
+<ICE-PHI:W2A-032#129:2>
+<it> Because of this, the prescribed table has not been put into use
+</it> . </p>
+
+<p> 
+<ICE-PHI:W2A-032#130:2>
+<h> 4. <it> Pyramidal distribution of technology use </it> </h> .
+
+<ICE-PHI:W2A-032#131:2>
+Based on available data, the use of technology in teaching and
+learning appears to be pyramidal in nature: i.e., it is estimated that a
+small number of IHLs ( the top tier of the pyramid) are <it> ready to
+incorporate </it> technology into the delivery of education.
+
+<ICE-PHI:W2A-032#132:2>
+A smattering of faculty members may have already attempted to use
+the technologies. </p>
+
+<p> 
+<ICE-PHI:W2A-032#133:2>
+DLSU is perceived to be one of the institutions which is ready
+to incorporate technology into teaching and learning, and it is this scenario
+that is explored in depth in this study.
+
+<ICE-PHI:W2A-032#134:2>
+The bulk of IHLs ( the lower tiers), however, still support a
+dominantly traditional learning environment.
+
+<ICE-PHI:W2A-032#135:2>
+In fact, one issue that was discussed during the First IT-Ed
+Workshop was the inequitable status of various educational institutions;
+i.e., was it right to plan for IT in education, given that certain
+institutions lacked basic resources such as chalk? </p>
+
+<p> 
+<ICE-PHI:W2A-032#136:2>
+<h> 5. <it> Rake effect of technology use </it> </h> .
+
+<ICE-PHI:W2A-032#137:2>
+IHLs are not progressing towards greater technology used at a
+uniform rate.
+
+<ICE-PHI:W2A-032#138:2>
+Some are far ahead; the bulk gets left behind.
+
+<ICE-PHI:W2A-032#139:2>
+Technology experts do not advocate a &ldquo; catch-up &rdquo;
+strategy for this inequity in technological use and resources among IHLs.
+
+<ICE-PHI:W2A-032#140:2>
+In other words, more advanced institutions do not have to constrain
+their advancements for the sake of smaller institutions catching up.
+
+<ICE-PHI:W2A-032#141:2>
+Instead, the <mention> &ldquo; rake effect &rdquo; </mention> ( some
+segments moving forward, others getting left behind) is taken as a given, and
+technology use is expected to permeate from more advanced institutions to the
+less advanced ones.
+
+<ICE-PHI:W2A-032#142:2>
+One avenue for this would be the ESEP program, which allows masteral
+students from smaller institutions to fulfill their residency in larger ones,
+allowing for transfer of expertise. </p>
+
+<p> 
+<ICE-PHI:W2A-032#143:2>
+<h> 6. <it> Inequity of technology use even among feeder schools
+</it> </h> .
+
+<ICE-PHI:W2A-032#144:2>
+The inequity that prevails among IHLs is also felt among the primary
+and secondary schools that feed into IHLs.
+
+<ICE-PHI:W2A-032#145:2>
+Certain institutions incorporate the use of computers and the
+Internet as early as Kindergarten; others do not.
+
+<ICE-PHI:W2A-032#146:2>
+This inequity may result in two possible mismatches for students
+upon reaching the IHL level: some students who have significant usage of
+technology in learning during their early years may find themselves in an IHL
+that has minimal use of it.
+
+<ICE-PHI:W2A-032#147:2>
+The reverse may also be true. </p> </I>

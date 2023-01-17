@@ -1,0 +1,950 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-046#1:1:A>
+Yo yo Bles
+
+ <$B> 
+<ICE-PHI:S1A-046#2:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-046#3:1:A>
+You know I talked with Honey last night
+
+ <$B> 
+<ICE-PHI:S1A-046#4:1:B>
+So what time did Honey call you up
+
+ <$A> 
+<ICE-PHI:S1A-046#5:1:A>
+I called her at around maybe eleven at night
+
+ <$B> 
+<ICE-PHI:S1A-046#6:1:B>
+Uh okay
+
+ <$A> 
+<ICE-PHI:S1A-046#7:1:A>
+Why what 's about that
+
+ <$B> 
+<ICE-PHI:S1A-046#8:1:B>
+Nothing it 's just that she called me up to ask me about our plans for today
+
+ <$A> 
+<ICE-PHI:S1A-046#9:1:A>
+Well Honey told me that she was offended by Sharina 's comment <indig> kasi </indig> you know
+
+ <$B> 
+<ICE-PHI:S1A-046#10:1:B>
+About the Ginger Spice issue
+
+ <$A> 
+<ICE-PHI:S1A-046#11:1:A>
+Yes about the Ginger issue
+
+ <$B> 
+<ICE-PHI:S1A-046#12:1:B>
+What 's so offensive about that
+
+ <$A> 
+<ICE-PHI:S1A-046#13:1:A>
+Well <&> clears throat </&> Honey said that
+
+ <$B> 
+<ICE-PHI:S1A-046#14:1:B>
+She doesn't like Ginger is that it
+
+ <$A> 
+<ICE-PHI:S1A-046#15:1:A>
+No I mean she told me that she wished she said that Scary is kinda sexy and Sharina is not
+
+ <$B> 
+<ICE-PHI:S1A-046#16:1:B>
+But that would be cruel
+
+ <$A> 
+<ICE-PHI:S1A-046#17:1:A>
+I don't know so Honey just shut her mouth
+
+ <$B> 
+<ICE-PHI:S1A-046#18:1:B>
+Why did she get offended by Sharina 's comment that she could be Ginger Spice
+
+ <$A> 
+<ICE-PHI:S1A-046#19:1:A>
+Uh uh I don't know
+
+ <$B> 
+<ICE-PHI:S1A-046#20:1:B>
+What 's wrong with Geri <,> I like Geri
+
+ <$A> 
+<ICE-PHI:S1A-046#21:1:A>
+I hate Geri
+
+ <$B> 
+<ICE-PHI:S1A-046#22:1:B>
+You hate Geri I like Geri
+ 
+<ICE-PHI:S1A-046#23:1:B>
+She 's nice
+
+ <$A> 
+<ICE-PHI:S1A-046#24:1:A>
+No she 's not
+
+ <$B> 
+<ICE-PHI:S1A-046#25:1:B>
+She 's not nice
+ 
+<ICE-PHI:S1A-046#26:1:B>
+How can you prove that
+
+ <$A> 
+<ICE-PHI:S1A-046#27:1:A>
+I hate what she wears <,> always
+
+ <$B> 
+<ICE-PHI:S1A-046#28:1:B>
+She wears almost nothing
+
+ <$A> 
+<ICE-PHI:S1A-046#29:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-046#30:1:B>
+And you hate that
+
+ <$A> 
+<ICE-PHI:S1A-046#31:1:A>
+Of course I hate that well I like Sporty better
+
+ <$B> 
+<ICE-PHI:S1A-046#32:1:B>
+Sporty
+
+ <$A> 
+<ICE-PHI:S1A-046#33:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-046#34:1:B>
+Well she 's too sporty for me
+ 
+<ICE-PHI:S1A-046#35:1:B>
+I like Posh more
+
+ <$A> 
+<ICE-PHI:S1A-046#36:1:A>
+I also don't like Posh <,> she is too too too too too posh for me
+
+ <$B> 
+<ICE-PHI:S1A-046#37:1:B>
+That 's why they call her Posh
+ 
+<ICE-PHI:S1A-046#38:1:B>
+Hey I have a story to tell you
+
+ <$A> 
+<ICE-PHI:S1A-046#39:1:A>
+Uhm what 's that <&> clears throat </&> 
+
+ <$B> 
+<ICE-PHI:S1A-046#40:1:B>
+I got it from a magazine
+ 
+<ICE-PHI:S1A-046#41:1:B>
+Well <,> it 's a distorted version of one of <,> the most <,> famous fairy tales
+
+ <$A> 
+<ICE-PHI:S1A-046#42:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-046#43:1:B>
+But I won't tell you what the fairy tale is <,> you 've got to guess
+
+ <$A> 
+<ICE-PHI:S1A-046#44:1:A>
+What 's that
+
+ <$B> 
+<ICE-PHI:S1A-046#45:1:B>
+Okay <,> so <,> here it is <,> 
+ 
+<ICE-PHI:S1A-046#46:1:B>
+There is this kingdom <,> see of course when you say kingdom there is a king and there 's a queen right
+
+ <$A> 
+<ICE-PHI:S1A-046#47:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-046#48:1:B>
+And it so happens that this King and Queen they have this little cutie cutie pie baby
+ 
+<ICE-PHI:S1A-046#49:1:B>
+It
+
+ <$A> 
+<ICE-PHI:S1A-046#50:1:A>
+Boy or girl
+
+ <$B> 
+<ICE-PHI:S1A-046#51:1:B>
+It 's a baby girl
+
+ <$A> 
+<ICE-PHI:S1A-046#52:1:A>
+Okay
+
+ <$B> 
+<ICE-PHI:S1A-046#53:1:B>
+And <,> so during birth <,> the Queen died <,> so natural tendency for a male the King remarried
+ 
+<ICE-PHI:S1A-046#54:1:B>
+So he married this <,> beautiful peasant woman
+ 
+<ICE-PHI:S1A-046#55:1:B>
+So the King and Queen <,> and the new Queen that is <,> they took care of the baby
+ 
+<ICE-PHI:S1A-046#56:1:B>
+Uhm the Queen kinda raised <,> the Princess as her own
+ 
+<ICE-PHI:S1A-046#57:1:B>
+So for a while the <{> <[> King </[> 
+
+ <$A> 
+<ICE-PHI:S1A-046#58:1:A>
+<[> Wait wait </[> </{> wait is that Cinderella
+
+ <$B> 
+<ICE-PHI:S1A-046#59:1:B>
+Nah not Cinderella <,> <{> <[> bad </[> guess
+
+ <$A> 
+<ICE-PHI:S1A-046#60:1:A>
+<[> Okay </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-046#61:1:B>
+Okay so <,> the King and Queen hey I said King and Queen
+ 
+<ICE-PHI:S1A-046#62:1:B>
+There 's no King there 's no Queen in Cinderella <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-046#63:1:A>
+But there 's a mother a stepmother
+
+ <$B> 
+<ICE-PHI:S1A-046#64:1:B>
+Yeah but I never mentioned that they had two stepsisters with them
+
+ <$A> 
+<ICE-PHI:S1A-046#65:1:A>
+Uh okay continue with your story
+
+ <$B> 
+<ICE-PHI:S1A-046#66:1:B>
+Okay so <,> for a while the King and Queen <,> were happy with their lives
+ 
+<ICE-PHI:S1A-046#67:1:B>
+So the kingdom was peaceful as in there was no war <,> no fighting etcetera
+ 
+<ICE-PHI:S1A-046#68:1:B>
+So the child grew up
+ 
+<ICE-PHI:S1A-046#69:1:B>
+The little Princess she grew up to become very pretty
+
+ <$A> 
+<ICE-PHI:S1A-046#70:1:A>
+Wait wait <,> where 's the Prince
+
+ <$B> 
+<ICE-PHI:S1A-046#71:1:B>
+What Prince <,,> 
+
+ <$A> 
+<ICE-PHI:S1A-046#72:1:A>
+Do you think <&> clears throat </&> if there 's a Princess so <,> there should be a Prince
+
+ <$B> 
+<ICE-PHI:S1A-046#73:1:B>
+Okay so the Prince comes in later in her life
+
+ <$A> 
+<ICE-PHI:S1A-046#74:1:A>
+Oh okay okay
+
+ <$B> 
+<ICE-PHI:S1A-046#75:1:B>
+Okay so <,,> the King <,> grew weak as the child grew up
+ 
+<ICE-PHI:S1A-046#76:1:B>
+Do you get <,> what I mean okay
+ 
+<ICE-PHI:S1A-046#77:1:B>
+So the King started to age <,> so <,> as time went on as in years passed by the King became bedridden
+
+ <$A> 
+<ICE-PHI:S1A-046#78:1:A>
+What
+
+ <$B> 
+<ICE-PHI:S1A-046#79:1:B>
+Bedridden as in <,> he couldn't do things for himself
+ 
+<ICE-PHI:S1A-046#80:1:B>
+He had to be in bed all the time have servants take care of him
+
+ <$A> 
+<ICE-PHI:S1A-046#81:1:A>
+Paralyzed
+
+ <$B> 
+<ICE-PHI:S1A-046#82:1:B>
+Sort of paralyzed
+ 
+<ICE-PHI:S1A-046#83:1:B>
+So he had <,> no she noticed scars all over the King 's body and stuff <,> <&> break in the recording </&> and blah blah blah blah blah blah blah he knows stuff like that <&> break in recording </&> actually healed
+ 
+<ICE-PHI:S1A-046#84:1:B>
+But then there were lots of them all over his body
+ 
+<ICE-PHI:S1A-046#85:1:B>
+After a few months <,> the King died
+ 
+<ICE-PHI:S1A-046#86:1:B>
+So
+
+ <$A> 
+<ICE-PHI:S1A-046#87:1:A>
+Uh
+
+ <$B> 
+<ICE-PHI:S1A-046#88:1:B>
+The whole kingdom was sorrowful because their King was already gone
+
+ <$A> 
+<ICE-PHI:S1A-046#89:1:A>
+So <,> 
+
+ <$B> 
+<ICE-PHI:S1A-046#90:1:B>
+What 's that noise
+
+ <$A> 
+<ICE-PHI:S1A-046#91:1:A>
+I don't know
+
+ <$B> 
+<ICE-PHI:S1A-046#92:1:B>
+This building is too much
+ 
+<ICE-PHI:S1A-046#93:1:B>
+Okay so <,> after the King 's death <,> of course the child the Princess <,> the tendency of the child is to become <,> sad <{> <[> because </[> <,> her father is already dead right
+
+ <$A> 
+<ICE-PHI:S1A-046#94:1:A>
+<[> Uh-huh </[> </{> <,> 
+ 
+<ICE-PHI:S1A-046#95:1:A>
+Uh-huh okay
+
+ <$B> 
+<ICE-PHI:S1A-046#96:1:B>
+So the the child the little Princess she came to <,> the Queen 's bedroom
+
+ <$A> 
+<ICE-PHI:S1A-046#97:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-046#98:1:B>
+So the Queen understanding the situation that the child is in <,> she openly comforted the child
+ 
+<ICE-PHI:S1A-046#99:1:B>
+Uhm she hugged the Princess you know comforted her
+ 
+<ICE-PHI:S1A-046#100:1:B>
+But then <,> you know what happened
+
+ <$A> 
+<ICE-PHI:S1A-046#101:1:A>
+Uhm what
+
+ <$B> 
+<ICE-PHI:S1A-046#102:1:B>
+Well <,> the Princess bit her
+
+ <$A> 
+<ICE-PHI:S1A-046#103:1:A>
+Why
+
+ <$B> 
+<ICE-PHI:S1A-046#104:1:B>
+Don't know <,> it 's just said in the story that the Princess bit her <,> 
+ 
+<ICE-PHI:S1A-046#105:1:B>
+And then you know what the Princess did
+
+ <$A> 
+<ICE-PHI:S1A-046#106:1:A>
+What
+
+ <$B> 
+<ICE-PHI:S1A-046#107:1:B>
+Well <,> she just sucked blood from the wound
+
+ <$A> 
+<ICE-PHI:S1A-046#108:1:A>
+The Queen sucked blood from the wound
+
+ <$B> 
+<ICE-PHI:S1A-046#109:1:B>
+No the child
+
+ <$A> 
+<ICE-PHI:S1A-046#110:1:A>
+Why <,> is she a Dracula or something
+
+ <$B> 
+<ICE-PHI:S1A-046#111:1:B>
+I don't know <,> but then the child kept on sucking blood from <,> the Queen 's wound
+ 
+<ICE-PHI:S1A-046#112:1:B>
+So the Queen fainted at the sight that the <.> ch </.> the little child was sucking blood from her arm
+ 
+<ICE-PHI:S1A-046#113:1:B>
+So next morning <,> when the Queen woke up uhm she was at the foot of her bed <,> 
+
+ <$A> 
+<ICE-PHI:S1A-046#114:1:A>
+The Queen
+
+ <$B> 
+<ICE-PHI:S1A-046#115:1:B>
+Yeah <,> because she fainted right
+ 
+<ICE-PHI:S1A-046#117:1:B>
+So when she woke up she saw that there was a faint scar
+
+ <$A> 
+<ICE-PHI:S1A-046#118:1:A>
+Where
+
+ <$B> 
+<ICE-PHI:S1A-046#119:1:B>
+At her arm where the little child the Princess was sucking last night <,> 
+
+ <$A> 
+<ICE-PHI:S1A-046#120:1:A>
+How old is that Princess
+
+ <$B> 
+<ICE-PHI:S1A-046#121:1:B>
+The Princess is about <,> fourteen fifteen <,> or sixteen
+
+ <$A> 
+<ICE-PHI:S1A-046#122:1:A>
+Uh okay
+
+ <$B> 
+<ICE-PHI:S1A-046#123:1:B>
+So <,> when the Queen saw that scar at her arm she was scared because she remembered that the the King remember the King
+
+ <$A> 
+<ICE-PHI:S1A-046#124:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-046#125:1:B>
+He had scars all over his body before he became bedridden
+
+ <$A> 
+<ICE-PHI:S1A-046#126:1:A>
+Oh
+
+ <$B> 
+<ICE-PHI:S1A-046#127:1:B>
+So what she concluded was that the little child was responsible for the King 's death
+ 
+<ICE-PHI:S1A-046#128:1:B>
+So uhm <,> she steered clear of the Princess
+ 
+<ICE-PHI:S1A-046#129:1:B>
+<{> <[> She <,> </[> 
+
+ <$A> 
+<ICE-PHI:S1A-046#130:1:A>
+<[> Wait </[> </{> wait wait is the Queen also bedridden by then
+
+ <$B> 
+<ICE-PHI:S1A-046#131:1:B>
+No
+ 
+<ICE-PHI:S1A-046#132:1:B>
+Remember she was only bitten once
+
+ <$A> 
+<ICE-PHI:S1A-046#133:1:A>
+Oh
+
+ <$B> 
+<ICE-PHI:S1A-046#134:1:B>
+So what she did was she stayed away from the Princess
+ 
+<ICE-PHI:S1A-046#135:1:B>
+She tried avoiding avoiding the Princess because she didn't want to end up like the King as in dead
+ 
+<ICE-PHI:S1A-046#136:1:B>
+Okay so she barricaded her doors at night so that the Princess couldn't get in and suck more blood from her
+
+ <$A> 
+<ICE-PHI:S1A-046#137:1:A>
+Where did the Princess go
+
+ <$B> 
+<ICE-PHI:S1A-046#138:1:B>
+Well the Princess stayed at her quarters at her bedroom of course
+ 
+<ICE-PHI:S1A-046#139:1:B>
+But then they always found these animals as in deers <,> uhm <,> little birds dead without <,> a trace of blood in their body left
+
+ <$A> 
+<ICE-PHI:S1A-046#140:1:A>
+Okay
+
+ <$B> 
+<ICE-PHI:S1A-046#141:1:B>
+So one day <,> the Queen <,> as scared as frightened as she was <,> because she has power like in <{> <[> POLIGOV </[> <&> course code for Politics and Government </&> 
+
+ <$A> 
+<ICE-PHI:S1A-046#142:1:A>
+<[> Wait wait </[> wait that 's a fairy tale right
+
+ <$B> 
+<ICE-PHI:S1A-046#143:1:B>
+Yeah <,> I told you it was a twisted version <,> okay
+ 
+<ICE-PHI:S1A-046#144:1:B>
+So one day <,> <{> <[> she <.> ord </.> </[> <,,> 
+
+ <$A> 
+<ICE-PHI:S1A-046#145:1:A>
+<[> Oh oh </[> </{> it 's raining
+
+ <$B> 
+<ICE-PHI:S1A-046#146:1:B>
+Uh uh I hate the rain <,> because my <,,> cupcake gets wet <indig> 'no </indig> 
+ 
+<ICE-PHI:S1A-046#147:1:B>
+Okay back to the fairy tale okay so one day she ordered a huntsman to take the Princess to the forest
+
+ <$A> 
+<ICE-PHI:S1A-046#148:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-046#149:1:B>
+Because she has power right
+
+ <$A> 
+<ICE-PHI:S1A-046#150:1:A>
+Uh okay
+
+ <$B> 
+<ICE-PHI:S1A-046#151:1:B>
+So so she ordered the huntsman to take the heart of the Princess you know take it back to her after he kills her
+
+ <$A> 
+<ICE-PHI:S1A-046#152:1:A>
+You know I think I heard about that <,> you know the taking of the heart <{> <[> and then </[> 
+
+ <$B> 
+<ICE-PHI:S1A-046#153:1:B>
+<[> Okay so </[> </{> what fairy tale is it
+
+ <$A> 
+<ICE-PHI:S1A-046#154:1:A>
+I don't know <&> speaker B laughs </&> 
+
+ <$B> 
+<ICE-PHI:S1A-046#155:1:B>
+Uh you don't know <,> uh how can you be like that
+ 
+<ICE-PHI:S1A-046#156:1:B>
+Okay let 's continue with the story
+ 
+<ICE-PHI:S1A-046#157:1:B>
+So the huntsman <,> of course he will do the job for a price <{> <[> <,> </[> as in lots of gold jewelry
+
+ <$A> 
+<ICE-PHI:S1A-046#158:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-046#160:1:A>
+Wait wait I know the <.> hunts </.> the huntsman <{> <[> right </[> the huntsman didn't <,> get the heart of the Princess
+
+ <$B> 
+<ICE-PHI:S1A-046#161:1:B>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-046#163:1:B>
+Uh that was in the other story
+ 
+<ICE-PHI:S1A-046#164:1:B>
+This is the twisted version remember
+ 
+<ICE-PHI:S1A-046#165:1:B>
+So the huntsman took the Princess to the forest and then he did take the heart <,> and then <,> he brought it back to the Queen and then the Queen <,> well <,> she hung the heart <,> over her dresser
+
+ <$A> 
+<ICE-PHI:S1A-046#166:1:A>
+<{> <[> She 's </[> so cruel
+
+ <$B> 
+<ICE-PHI:S1A-046#167:1:B>
+<[> So she 's </[> </{> 
+ 
+<ICE-PHI:S1A-046#168:1:B>
+Uhm <,> you might say that
+ 
+<ICE-PHI:S1A-046#169:1:B>
+So she hung the heart at her dresser and then <,> the funny thing <,> the horrifying thing is <,> the heart continued beating <,> even without the body
+
+ <$A> 
+<ICE-PHI:S1A-046#170:1:A>
+Without a blood
+
+ <$B> 
+<ICE-PHI:S1A-046#171:1:B>
+Without blood <,> it just continued beating and beating and beating for years
+ 
+<ICE-PHI:S1A-046#172:1:B>
+Okay let 's go back to <,> okay so <,> the huntsman killed the Princess right
+ 
+<ICE-PHI:S1A-046#173:1:B>
+So <,> there were <,> dwarfs who found the body of the Princess
+
+ <$A> 
+<ICE-PHI:S1A-046#174:1:A>
+Uh it 's like Snow White
+
+ <$B> 
+<ICE-PHI:S1A-046#175:1:B>
+Yeah you finally got it okay
+ 
+<ICE-PHI:S1A-046#176:1:B>
+So <,> it is a twisted version of Snow White
+ 
+<ICE-PHI:S1A-046#177:1:B>
+So <,> there were dwarfs who found the body of the Princess and you know what they did
+
+ <$A> 
+<ICE-PHI:S1A-046#178:1:A>
+What
+
+ <$B> 
+<ICE-PHI:S1A-046#179:1:B>
+They built a coffin
+
+ <$A> 
+<ICE-PHI:S1A-046#180:1:A>
+Huh <{> <[> then </[> 
+
+ <$B> 
+<ICE-PHI:S1A-046#181:1:B>
+<[> Okay </[> </{> so <,> they built a coffin for the dead Princess <,> <{> <[> and </[> 
+
+ <$A> 
+<ICE-PHI:S1A-046#182:1:A>
+<[> I know </[> </{> what happened next
+
+ <$B> 
+<ICE-PHI:S1A-046#183:1:B>
+Okay
+
+ <$A> 
+<ICE-PHI:S1A-046#184:1:A>
+And then after that uh maybe a year later or something something and then the Prince will come
+
+ <$B> 
+<ICE-PHI:S1A-046#185:1:B>
+Okay so uhm it goes like that but you missed a lot of details
+ 
+<ICE-PHI:S1A-046#186:1:B>
+Okay so here it is
+ 
+<ICE-PHI:S1A-046#187:1:B>
+So they built this coffin for the Princess
+ 
+<ICE-PHI:S1A-046#188:1:B>
+It was made of glass as in all glass
+ 
+<ICE-PHI:S1A-046#189:1:B>
+So they <,> carried her coffin <,> up to a hill
+ 
+<ICE-PHI:S1A-046#190:1:B>
+So they left their coffin there so that <,> uhm people could see her
+ 
+<ICE-PHI:S1A-046#191:1:B>
+So after a few years as you said after a few <.> re </.> a few years a Prince came
+
+ <$A> 
+<ICE-PHI:S1A-046#192:1:A>
+Wait wait wait <,> this is I think the dwarfs don't know Snow White
+
+ <$B> 
+<ICE-PHI:S1A-046#193:1:B>
+Yeah they don't know Snow White in this story in my story okay
+
+ <$A> 
+<ICE-PHI:S1A-046#194:1:A>
+Well <,> why did they build a coffin for her
+
+ <$B> 
+<ICE-PHI:S1A-046#195:1:B>
+Because they pitied her because she was dead
+
+ <$A> 
+<ICE-PHI:S1A-046#196:1:A>
+Uh okay
+
+ <$B> 
+<ICE-PHI:S1A-046#197:1:B>
+Okay so a prince came to the Kingdom
+ 
+<ICE-PHI:S1A-046#198:1:B>
+So what happened was that this Prince he was a weird Prince <,> 
+ 
+<ICE-PHI:S1A-046#199:1:B>
+You know why
+
+ <$A> 
+<ICE-PHI:S1A-046#200:1:A>
+Why
+
+ <$B> 
+<ICE-PHI:S1A-046#201:1:B>
+Because <,> he didn't
+
+ <$A> 
+<ICE-PHI:S1A-046#202:1:A>
+Wait wait wait <,> is he like your cupcake
+
+ <$B> 
+<ICE-PHI:S1A-046#203:1:B>
+No he 's not like my cupcake
+
+ <$A> 
+<ICE-PHI:S1A-046#204:1:A>
+<{> <[> Oh okay </[> 
+
+ <$B> 
+<ICE-PHI:S1A-046#205:1:B>
+<[> He 's </[> </{> weird okay <,> weird okay <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-046#206:1:A>
+Okay
+
+ <$B> 
+<ICE-PHI:S1A-046#207:1:B>
+So what <,> what happened was hey stop it okay I 'm losing my concentration here
+ 
+<ICE-PHI:S1A-046#208:1:B>
+I 'm trying to tell a <{> <[> beautiful story </[> 
+
+ <$A> 
+<ICE-PHI:S1A-046#209:1:A>
+<[> Wait wait wait <,> </[> </{> you know <,> I think Prince Prince a Prince look like <indig> ano </indig> tall and then white and then have uh long hair and then you know everything kind of like
+
+ <$B> 
+<ICE-PHI:S1A-046#210:1:B>
+So what so he <{> <[> smiles </[> 
+
+ <$A> 
+<ICE-PHI:S1A-046#211:1:A>
+<[> But </[> </{> but but he 's not cute okay
+
+ <$B> 
+<ICE-PHI:S1A-046#212:1:B>
+Oh my
+
+ <$A> 
+<ICE-PHI:S1A-046#213:1:A>
+Okay continue with your <{> <[> story </[> 
+
+ <$B> 
+<ICE-PHI:S1A-046#214:1:B>
+<[> Okay </[> </{> let 's continue
+ 
+<ICE-PHI:S1A-046#215:1:B>
+I 'll get back <,> at you later
+ 
+<ICE-PHI:S1A-046#216:1:B>
+Okay so <,> the Prince he was weird because <,> he was like what you mentioned a Dracula
+
+ <$A> 
+<ICE-PHI:S1A-046#217:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-046#218:1:B>
+No not really a Dracula but he was extremely pale <,> and
+
+ <$A> 
+<ICE-PHI:S1A-046#219:1:A>
+Is he the Dracula
+
+ <$B> 
+<ICE-PHI:S1A-046#220:1:B>
+No he 's not the Dracula
+ 
+<ICE-PHI:S1A-046#221:1:B>
+He is extremely pale and he 's <,> eerily silent he 's always silent <{> <[> and then </[> 
+
+ <$A> 
+<ICE-PHI:S1A-046#222:1:A>
+<[> Yeah yeah </[> </{> like my prince who 's always
+
+ <$B> 
+<ICE-PHI:S1A-046#223:1:B>
+Silent
+ 
+<ICE-PHI:S1A-046#224:1:B>
+So what happened was like this <,> uhm the Prince and the Queen had an affair <,> 
+ 
+<ICE-PHI:S1A-046#225:1:B>
+But the weird thing is the Prince didn't want any motion
+
+ <$A> 
+<ICE-PHI:S1A-046#226:1:A>
+Uhm
+ 
+<ICE-PHI:S1A-046#227:1:A>
+What motion
+
+ <$B> 
+<ICE-PHI:S1A-046#228:1:B>
+<O> sigh </O> Motion <,> he didn't want the Queen <,> to move <,> as <,> they were
+ <$A> 
+<ICE-PHI:S1A-046#229:1:A>
+Uh okay
+
+ <$B> 
+<ICE-PHI:S1A-046#230:1:B>
+<indig> <.> dali </.> </indig> as they were <&> whispers </&> having intercourse
+
+ <$A> 
+<ICE-PHI:S1A-046#231:1:A>
+Uh okay <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-046#232:1:B>
+Okay so that 's the weird part okay
+
+ <$A> 
+<ICE-PHI:S1A-046#233:1:A>
+The Prince
+
+ <$B> 
+<ICE-PHI:S1A-046#234:1:B>
+The Prince didn't want the Queen to move
+
+ <$A> 
+<ICE-PHI:S1A-046#235:1:A>
+So the Prince and the Queen did something
+
+ <$B> 
+<ICE-PHI:S1A-046#236:1:B>
+Yeah they had an affair
+
+ <$A> 
+<ICE-PHI:S1A-046#237:1:A>
+Oh
+
+ <$B> 
+<ICE-PHI:S1A-046#238:1:B>
+Okay so <,> the Queen
+
+ <$A> 
+<ICE-PHI:S1A-046#239:1:A>
+Wait wait how old how old is that Prince
+
+ <$B> 
+<ICE-PHI:S1A-046#240:1:B>
+The Prince is about twenty
+
+ <$A> 
+<ICE-PHI:S1A-046#241:1:A>
+And then the Queen
+
+ <$B> 
+<ICE-PHI:S1A-046#242:1:B>
+The Queen is about <,> twenty-eight
+
+ <$A> 
+<ICE-PHI:S1A-046#243:1:A>
+Oh
+
+ <$B> 
+<ICE-PHI:S1A-046#244:1:B>
+Because she 's a stepmother remember
+
+ <$A> 
+<ICE-PHI:S1A-046#245:1:A>
+Oh stepmother <{> <[> yeah </[> 
+
+ <$B> 
+<ICE-PHI:S1A-046#246:1:B>
+<[> Okay </[> </{> so <,> the Queen kept on squirming
+ 
+<ICE-PHI:S1A-046#247:1:B>
+She kept on moving so the Prince <,> he was <,,> angry
+ 
+<ICE-PHI:S1A-046#248:1:B>
+He became angry because the Queen didn't follow his orders <{> <[> you know </[> to keep still so what he did was he left the castle so he left the castle
+
+ <$A> 
+<ICE-PHI:S1A-046#249:1:A>
+<[> Uhm </[> </{> 
+ 
+<ICE-PHI:S1A-046#250:1:A>
+Wait wait wait a while ago it is raining but now it 's not
+
+ <$B> 
+<ICE-PHI:S1A-046#251:1:B>
+Good for us
+
+ <$A> 
+<ICE-PHI:S1A-046#252:1:A>
+Okay
+
+ <$B> 
+<ICE-PHI:S1A-046#253:1:B>
+Okay so he left the castle and he <,> he traveled the kingdom as in he went through the forest and then that 's where he found the Princess Princess Snow White
+
+ <$A> 
+<ICE-PHI:S1A-046#254:1:A>
+Oh Snow White
+
+ <$B> 
+<ICE-PHI:S1A-046#255:1:B>
+So he was shall we say enchanted by the beauty of Snow White so what he did was <,> he he made love with her and because Snow White 's dead she kept still
+
+ <$A> 
+<ICE-PHI:S1A-046#256:1:A>
+Uh oh
+
+ <$B> 
+<ICE-PHI:S1A-046#257:1:B>
+Okay so she kept still because she was already dead 
+
+ </I> 

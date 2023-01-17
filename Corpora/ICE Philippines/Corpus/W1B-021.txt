@@ -1,0 +1,684 @@
+<I>
+
+<ICE-PHI:W1B-021#1:1>
+Date: Mon, 15 May 2000 17:08:01 +0800
+
+<ICE-PHI:W1B-021#2:1>
+From: Gigi Rapadas <O> email address </O>
+
+<ICE-PHI:W1B-021#3:1>
+To: <O> Numerous recipients and email addresses </O>
+
+<ICE-PHI:W1B-021#4:1>
+CC: Peter Cooper <O> email address </O>
+
+<ICE-PHI:W1B-021#5:1>
+ssimek <O> email address </O>
+
+<ICE-PHI:W1B-021#6:1>
+Subject: <h> Important: Non-billable Mandays Policy in Effect </h>
+
+<ICE-PHI:W1B-021#7:1>
+Hi all,
+
+<p> 
+<ICE-PHI:W1B-021#8:1>
+This is to remind everyone that the non-billable mandays policy is
+now in effect. </p>
+
+<p> 
+<ICE-PHI:W1B-021#9:1>
+Please make sure that all projects with days falling under any of
+the five categories in the policy have approvals from the right management
+levels, and that the register for non-billable mandays in DMS is updated
+accordingly. </p>
+
+<p> 
+<ICE-PHI:W1B-021#10:1>
+To repeat, these categories are:
+
+<ICE-PHI:W1B-021#11:1>
+a. Work-at-risk
+
+<ICE-PHI:W1B-021#12:1>
+b. Unfunded &ldquo; referenceability &rdquo; projects
+
+<ICE-PHI:W1B-021#13:1>
+c. Project Overruns
+
+<ICE-PHI:W1B-021#14:1>
+d. Internal projects
+
+<ICE-PHI:W1B-021#15:1>
+e. Free prototypes </p>
+
+<p> 
+<ICE-PHI:W1B-021#16:1>
+During the recent financial year-end reviews, some projects were
+found to be work-at-risk.
+
+<ICE-PHI:W1B-021#17:1>
+Unless the status has changed, we expect that these projects now have
+approvals or pending requests for approval.
+
+<ICE-PHI:W1B-021#18:1>
+We are also aware of significant overruns in fixed price projects
+that also require approval. </p>
+
+<p> 
+<ICE-PHI:W1B-021#19:1>
+Thank you for your usual support and cooperation. </p>
+
+<ICE-PHI:W1B-021#20:1>
+Regards,
+
+<ICE-PHI:W1B-021#21:1>
+Gigi </I>
+
+
+<I>
+
+<ICE-PHI:W1B-021#22:2>
+Date: Wed, 29 Nov 2000 17:19:46 +0800
+
+<ICE-PHI:W1B-021#23:2>
+From: Gigi Rapadas <O> email address </O>
+
+<ICE-PHI:W1B-021#24:2>
+To: <O> Numerous recipients and email addresses </O>
+
+<ICE-PHI:W1B-021#25:2>
+CC: <O> Numerous recipients and email addresses </O>
+
+<ICE-PHI:W1B-021#26:2>
+Subject: <h> URGENT: PPR Summary Sheet Needed by Division </h>
+
+<ICE-PHI:W1B-021#27:2>
+Hi all,
+
+<p> 
+<ICE-PHI:W1B-021#28:2>
+PSCentre has mandated that all PPRs be accompanied by a summary
+sheet that will be standard across the division.
+
+<ICE-PHI:W1B-021#29:2>
+This is of similar format to the summary currently being prepared by
+the PSCentre. </p>
+
+<p> 
+<ICE-PHI:W1B-021#30:2>
+In order for our Project Managers to comply with the request
+which will be required henceforth with the monthly submission, the region 's
+deadline for this month 's PPRs has been moved from Monday, December 4 to
+Friday, December 8. </p>
+
+<p> 
+<ICE-PHI:W1B-021#31:2>
+I have attached a document with the summary for all the projects
+currently being reported by South Asia to the division, as extracted from the
+October PSCentre report.
+
+<ICE-PHI:W1B-021#32:2>
+Please get your country 's projects and distribute as needed.
+
+<ICE-PHI:W1B-021#33:2>
+All your PMs need to do is to update their project with progress for
+November, and then to make sure that all required metrics are supplied. </p>
+
+<p> 
+<ICE-PHI:W1B-021#34:2>
+This summary sheet is to be appended to the External and Internal
+PPRs as the last sheet. </p>
+
+<p> 
+<ICE-PHI:W1B-021#35:2>
+Basically, the updates needed will be:
+
+<ICE-PHI:W1B-021#36:2>
+a. project assessment ( color) for the current period and the last
+period
+
+<ICE-PHI:W1B-021#37:2>
+b. progress for the current period
+
+<ICE-PHI:W1B-021#38:2>
+c. Key issues ( about 3-5) for the project.
+
+<ICE-PHI:W1B-021#39:2>
+Please indicate any payment issues ( <foreign> i.e. </foreign> , if
+any invoices outstanding for over 90 days) in this section.
+
+<ICE-PHI:W1B-021#40:2>
+d. Key metrics defined as follows:
+
+<ICE-PHI:W1B-021#41:2>
+<h> <it> Percent complete % </it> </h>
+
+<p> 
+<ICE-PHI:W1B-021#42:2>
+This is the total number of mandays expended on the project from
+project Start to the end of the current month ( = actual to date) divided by
+the Current estimated total days for the entire project. </p>
+
+<ICE-PHI:W1B-021#43:2>
+<h> <it> Approved days </it> </h>
+
+<p> 
+<ICE-PHI:W1B-021#44:2>
+This is the number of days that would have been approved by
+bidapp or the practice as the total estimated days for the project (
+inclusive of contingency) at the time we started plus any approved change
+request mandays that the client will pay for. </p>
+
+<ICE-PHI:W1B-021#45:2>
+<h> <it> Current Plan Days </it> </h>
+
+<p> 
+<ICE-PHI:W1B-021#46:2>
+This is, as of the current plan, how many total days the project
+is forecast to take.
+
+<ICE-PHI:W1B-021#47:2>
+This will give a good indication of any slippage in the project and
+possible missed milestones. </p>
+
+<ICE-PHI:W1B-021#48:2>
+<h> <it> Actual Days to Date </it> </h>
+
+<p> 
+<ICE-PHI:W1B-021#49:2>
+Number of days recorded against this project from start until and
+Including the current month. </p>
+
+<ICE-PHI:W1B-021#50:2>
+<h> <it> Budget Margin % </it> </h>
+
+<p> 
+<ICE-PHI:W1B-021#51:2>
+The approved margin % for the project. </p>
+
+<ICE-PHI:W1B-021#52:2>
+<h> <it> Forecast margin % </it> </h>
+
+<p> 
+<ICE-PHI:W1B-021#53:2>
+Our current best estimate of the total margin for the entire
+project. </p>
+
+<p> 
+<ICE-PHI:W1B-021#54:2>
+Once again, the deadline will be Friday, December 8.
+
+<ICE-PHI:W1B-021#55:2>
+This summary sheet is to follow the client and internal PPRs as the
+last page in the same Word file for the project. </p>
+
+<p> 
+<ICE-PHI:W1B-021#56:2>
+For compliance please.
+
+<ICE-PHI:W1B-021#57:2>
+Thank you. </p>
+
+<ICE-PHI:W1B-021#58:2>
+Regards,
+
+<ICE-PHI:W1B-021#59:2>
+Gigi </I>
+
+
+<I>
+
+<ICE-PHI:W1B-021#60:3>
+Date: Wed, 16 Jan 2002 11:54:54 +0800
+
+<ICE-PHI:W1B-021#61:3>
+From: Gigi Rapadas <O> email address </O>
+
+<ICE-PHI:W1B-021#62:3>
+Organization: Oracle Corporation
+
+<ICE-PHI:W1B-021#63:3>
+To: <O> eight recipients and email addresses </O>
+
+<ICE-PHI:W1B-021#64:3>
+CC: <O> ten recipients and email addresses </O>
+
+<ICE-PHI:W1B-021#65:3>
+Subject: <h> Raising the Bar: PPRs </h>
+
+<ICE-PHI:W1B-021#66:3>
+Hi all,
+
+<p> 
+<ICE-PHI:W1B-021#67:3>
+Majority of the PPRs in the region obtained a GREEN rating for
+PPR quality last month, and I would like to commend all the PMs and
+Operations Managers on your efforts to achieve this.
+
+<ICE-PHI:W1B-021#68:3>
+( The rating of all December PPRs in the region will be published to
+all of you this Friday, after a review of any requests for reconsideration.)
+</p>
+
+<p> 
+<ICE-PHI:W1B-021#69:3>
+What this shows is that we all now know how to fill in the
+template, where to get our figures, how to document project progress,
+<foreign> etc. </foreign>
+
+<ICE-PHI:W1B-021#70:3>
+We have all displayed the discipline required to get all of these
+accomplished before the deadline, including having a PPR meeting.
+
+<ICE-PHI:W1B-021#71:3>
+This is a great achievement, and we should all be proud.
+
+<ICE-PHI:W1B-021#72:3>
+But it should not stop us from striving to hit a higher goal:
+achieving a BLUE rating. </p>
+
+<p> 
+<ICE-PHI:W1B-021#73:3>
+How then do we now move from a GREEN to a BLUE?
+
+<ICE-PHI:W1B-021#74:3>
+The answer to this question directly relates to your answer to this
+question:
+
+<ICE-PHI:W1B-021#75:3>
+<quote> &ldquo; If a healthcheck were to be done today on your
+project, would any risk or issue be uncovered that is not written somewhere
+in your PPR, whether external or internal?
+
+<ICE-PHI:W1B-021#76:3>
+And would you have written down some mitigation or plan for
+resolution of the same?
+
+<ICE-PHI:W1B-021#77:3>
+Would the healthchecker recommend that you raise a Change Request
+immediately for something? &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W1B-021#78:3>
+If your answer to all of the above questions is NO, then your PPR
+probably can qualify for a BLUE rating.
+
+<ICE-PHI:W1B-021#79:3>
+If your answer to any of the above is YES, then you need to improve
+not just how you write your PPR, but maybe even how you are managing your
+project. </p>
+
+<p> 
+<ICE-PHI:W1B-021#80:3>
+If you are an Operations Manager or a PM SLL, and one of your PMs
+answered YES to the above, then your PPR meetings are not as effective as
+they should be. </p>
+
+<p> 
+<ICE-PHI:W1B-021#81:3>
+The PPR needs to reflect not just the current status of the
+project; it also needs to show that you as PM are fully in control of your
+project.
+
+<ICE-PHI:W1B-021#82:3>
+You are managing not just the deliverables, resources and financials,
+but you are also managing the risks and issues in the project.
+
+<ICE-PHI:W1B-021#83:3>
+Going a step further, you see the opportunities for additional
+business with the client, and are able to maximize these opportunities. </p>
+
+<p> 
+<ICE-PHI:W1B-021#84:3>
+The section on Issues and Problems should contain not just
+product problems and TARs.
+
+<ICE-PHI:W1B-021#85:3>
+More importantly, it needs to contain project risks and issues that
+may or are already impacting project success.
+
+<ICE-PHI:W1B-021#86:3>
+Change Requests should be raised not just for matters that entail an
+increase in mandays or costs - - PMs need to be conscious of any change that
+is significant: client delays or initiatives that will affect schedules, CRs
+that will impact cash flow, data problems that can cause delays, <foreign>
+etc. </foreign>
+
+<ICE-PHI:W1B-021#87:3>
+These Change Requests can be raised against the client, against
+another LOB, or even against the practice.
+
+<ICE-PHI:W1B-021#88:3>
+And as you all know, having an external and internal PPR gives us the
+opportunity to raise sensitive issues/risks/matters internally - - and these
+are matters that we can bring up for discussion and escalation during the
+monthly PPR meetings. </p>
+
+<p> 
+<ICE-PHI:W1B-021#89:3>
+So next time you write a PPR, look at your project with the eyes
+of a healthchecker, and write down what you see.
+
+<ICE-PHI:W1B-021#90:3>
+And hopefully the person who will read your PPR will see BLUE. </p>
+
+<ICE-PHI:W1B-021#91:3>
+Regards,
+
+<ICE-PHI:W1B-021#92:3>
+Gigi </I>
+
+
+<I>
+
+<ICE-PHI:W1B-021#93:4>
+Date: Tue, 06 Mar 2001 15:53:22 +0800
+
+<ICE-PHI:W1B-021#94:4>
+From: Gigi Rapadas <O> email address </O>
+
+<ICE-PHI:W1B-021#95:4>
+To: Peter Cooper <O> email address </O>
+
+<ICE-PHI:W1B-021#96:4>
+Subject: <h> URGENT: Request for Approval to Hire Replacement HC:
+Project Accountant </h>
+
+<ICE-PHI:W1B-021#97:4>
+Hi Peter,
+
+<p> 
+<ICE-PHI:W1B-021#98:4>
+I am requesting your approval to hire xxxxxxxx xxxxxxxxxxxxx,
+CPA, to fill the dual roles of:
+
+<ICE-PHI:W1B-021#99:4>
+a. Project Accountant for ADB
+
+<ICE-PHI:W1B-021#100:4>
+b. Financial Administrator for the Philippine practice. </p>
+
+<p> 
+<ICE-PHI:W1B-021#101:4>
+This headcount had been previously approved and a candidate
+hired ( yyyyy yyyyyyy).
+
+<ICE-PHI:W1B-021#102:4>
+She was supposed to start in February but tendered her resignation
+before she even reported for work, as she suddenly had to go to the US. </p>
+
+<p> 
+<ICE-PHI:W1B-021#103:4>
+As you know, this headcount is urgently needed.
+
+<ICE-PHI:W1B-021#104:4>
+Given the current hiring restrictions, I hope you can help us get
+the necessary approvals to get xxxxxxxxxxx on board.
+
+<ICE-PHI:W1B-021#105:4>
+She is available to start March 15 if we are able to give an offer
+quickly. </p>
+
+<p> 
+<ICE-PHI:W1B-021#106:4>
+Thank you. </p>
+
+<ICE-PHI:W1B-021#107:4>
+Regards,
+
+<ICE-PHI:W1B-021#108:4>
+Gigi </I>
+
+
+<I>
+
+<ICE-PHI:W1B-021#109:5>
+Date: Fri, 27 Apr 2001 11:54:21 +0800
+
+<ICE-PHI:W1B-021#110:5>
+From: Gigi Rapadas <O> email address </O>
+
+<ICE-PHI:W1B-021#111:5>
+To: smt_ph <O> email address </O>
+
+<ICE-PHI:W1B-021#112:5>
+CC: &ldquo; La'O,Rufino &rdquo; <O> email address </O>
+
+<ICE-PHI:W1B-021#113:5>
+&ldquo; jpsianghio &rdquo; <O> email address </O>
+
+<ICE-PHI:W1B-021#114:5>
+Subject: <h> Session on OCS Processes </h>
+
+<ICE-PHI:W1B-021#115:5>
+Hi all,
+
+<p> 
+<ICE-PHI:W1B-021#116:5>
+Continuing from this morning 's SMT discussion on Process
+Improvements, we are available to give you a presentation on OCS 's own tools
+and processes related to bid development as well as project delivery.
+
+<ICE-PHI:W1B-021#117:5>
+It would be good if you could get a better understanding of &ldquo;
+how we do things &rdquo; and perhaps we can also come up with suggestions on
+better ways of doing things, from lessons learned in the past ( inside or
+outside Oracle). </p>
+
+<p> 
+<ICE-PHI:W1B-021#118:5>
+Some of the things we can discuss are:
+
+<ICE-PHI:W1B-021#119:5>
+Risk Assessment Sheet
+
+<ICE-PHI:W1B-021#120:5>
+Estimating Tools
+
+<ICE-PHI:W1B-021#121:5>
+Bid Review/Approval Process
+
+<ICE-PHI:W1B-021#122:5>
+The Project Management Plan
+
+<ICE-PHI:W1B-021#123:5>
+Our Project Startup Checklist
+
+<ICE-PHI:W1B-021#124:5>
+Resource Sharing Processes ( in the region)
+
+<ICE-PHI:W1B-021#125:5>
+Quality Initiatives </p>
+
+<p> 
+<ICE-PHI:W1B-021#126:5>
+We can also share with you some of the plans/thrusts of South
+Asia OCS going into FY02.
+
+<ICE-PHI:W1B-021#127:5>
+If there is anything else you wish discussed, please suggest as
+well. </p>
+
+<p> 
+<ICE-PHI:W1B-021#128:5>
+The suggested dates were Wednesday-Thursday next week.
+
+<ICE-PHI:W1B-021#129:5>
+Please indicate whether you would like to join the meeting, and
+whether you are free Wednesday am, Wednesday pm ( before the Q3 update) or
+Thursday pm. </p>
+
+<ICE-PHI:W1B-021#130:5>
+Thanks and regards,
+
+<ICE-PHI:W1B-021#131:5>
+Gigi </I>
+
+
+<I>
+
+<ICE-PHI:W1B-021#132:6>
+Date: Fri, 07 Jul 2000 19:30:20 +0800
+
+<ICE-PHI:W1B-021#133:6>
+From: Gigi Rapadas <O> email address </O>
+
+<ICE-PHI:W1B-021#134:6>
+To: &ldquo; LY,Marie &rdquo; <O> email address </O>
+
+<ICE-PHI:W1B-021#135:6>
+CC: Peter Cooper <O> email address </O>
+
+<ICE-PHI:W1B-021#136:6>
+Subject: <h> Updates on South Asia Training </h>
+
+<ICE-PHI:W1B-021#137:6>
+Hi Marie,
+
+<p> 
+<ICE-PHI:W1B-021#138:6>
+We had our meeting with Peter Cooper and the South Asia PDs
+yesterday, and I had some time to present to them our training plans as well
+as a brief section on the OU initiatives this year.
+
+<ICE-PHI:W1B-021#139:6>
+I think it was a good discussion, as we reached decisions going
+forward.
+
+<ICE-PHI:W1B-021#140:6>
+The presentation you gave Steve and myself a few weeks back really
+helped a great deal in concretizing what we had to do ( thanks again). </p>
+
+<p> 
+<ICE-PHI:W1B-021#141:6>
+Basically, we are proceeding with getting our training
+requirements in two ways:
+
+<ICE-PHI:W1B-021#142:6>
+<h> a. Bottom Up </h>
+
+<ICE-PHI:W1B-021#143:6>
+1. PDs have been given a deadline of end-July to finish the
+OPAS/Training Development Plans for all their staff.
+
+<ICE-PHI:W1B-021#144:6>
+2. Staff will have till end-July to enter these Training Plans into
+OUWeb ( as future demand deposit), as agreed in their OPAS session.
+
+<ICE-PHI:W1B-021#145:6>
+3. Staff also have to update their Training Histories by end-July.
+
+<ICE-PHI:W1B-021#146:6>
+<h> b. Top Down </h>
+
+<ICE-PHI:W1B-021#147:6>
+1. RPD to appoint all SLLs on a full-time basis by this month.
+
+<ICE-PHI:W1B-021#148:6>
+2. These SLLs will coordinate with the divisional and global SLLs on
+PRP demands.
+
+<ICE-PHI:W1B-021#149:6>
+They will also coordinate with country SLLs on special requirements.
+
+<ICE-PHI:W1B-021#150:6>
+3. RPD to provide major focus areas ( business plans) and
+communicate to me.
+
+<ICE-PHI:W1B-021#151:6>
+4. PDs and SLLs to communicate any special training needs to me
+based on their own business plans and the PRP process, if these have not been
+filtered down to the consultant demand deposit level yet. </p>
+
+<p> 
+<ICE-PHI:W1B-021#152:6>
+Some agreements:
+
+<ICE-PHI:W1B-021#153:6>
+1. We will fully utilize the OUWeb features and facilities.
+
+<ICE-PHI:W1B-021#154:6>
+2. All courses will now go through OUWeb: registrations,
+cancellations, costing, <foreign> etc. </foreign>
+
+<ICE-PHI:W1B-021#155:6>
+Demand will also be derived from OUWeb.
+
+<ICE-PHI:W1B-021#156:6>
+3. Ownership of the training responsibility must be the individual 's,
+and this message must be constantly communicated.
+
+<ICE-PHI:W1B-021#157:6>
+4. The country SLLs will track accomplishment of training plans.
+
+<ICE-PHI:W1B-021#158:6>
+5. The country PDs will follow up the status of Learning Labs in
+their subs.
+
+<ICE-PHI:W1B-021#159:6>
+6. I will serve as the primary contact person with OU. </p>
+
+<p> 
+<ICE-PHI:W1B-021#160:6>
+I need your assistance in the following areas ( please direct me
+to the right person to liaise with):
+
+<ICE-PHI:W1B-021#161:6>
+1. How to find out what standard reports are available and how we
+can have some new reports developed in case we have any special requirements
+( best if we can do it ourselves).
+
+<ICE-PHI:W1B-021#162:6>
+Is self-service reporting already available? </p>
+
+<p> 
+<ICE-PHI:W1B-021#163:6>
+We need the reports by end-July to monitor compliance with our
+deadlines as well as to provide feedback to the PDs on our training profile.
+
+<ICE-PHI:W1B-021#164:6>
+And of course, we would hope we can get decision support info as
+well on a continuing basis through these reports. </p>
+
+<p> 
+<ICE-PHI:W1B-021#165:6>
+2. In case we need to post a training demand but have not
+identified the attendees yet, is there a way to post this onto OUWeb through
+using say, a &ldquo; dummy &rdquo; name/s?
+
+<ICE-PHI:W1B-021#166:6>
+We would want this demand to be consolidated with the individual
+future demand deposits of our staff. </p>
+
+<p> 
+<ICE-PHI:W1B-021#167:6>
+In addition, we feel strongly as a group that the policy on
+replacements should be revised.
+
+<ICE-PHI:W1B-021#168:6>
+We accept that cancellations with less than 10 working days notice
+should incur penalties, but replacements from the same practice must be
+allowed.
+
+<ICE-PHI:W1B-021#169:6>
+We feel that replacements can be done without sacrificing the
+quality of attendees, as we now have enough consultants in all our practices
+to do this.
+
+<ICE-PHI:W1B-021#170:6>
+Please reconsider. </p>
+
+<p> 
+<ICE-PHI:W1B-021#171:6>
+By the way, I will be in Singapore again next week.
+
+<ICE-PHI:W1B-021#172:6>
+If you are there Wednesday afternoon ( July 12), it would be good to
+meet with you again. </p>
+
+<ICE-PHI:W1B-021#173:6>
+Regards,
+
+<ICE-PHI:W1B-021#174:6>
+Gigi </I>

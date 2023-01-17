@@ -1,0 +1,1422 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-053#1:1:A>
+Hi Rez
+ 
+<ICE-PHI:S1A-053#2:1:A>
+What are you doing
+
+ <$B> 
+<ICE-PHI:S1A-053#3:1:B>
+Chatting on line
+
+ <$A> 
+<ICE-PHI:S1A-053#4:1:A>
+Why
+
+ <$B> 
+<ICE-PHI:S1A-053#5:1:B>
+Well I need to find a lot of friends right now
+ 
+<ICE-PHI:S1A-053#6:1:B>
+I need something to do
+
+ <$A> 
+<ICE-PHI:S1A-053#7:1:A>
+You need something to do
+ 
+<ICE-PHI:S1A-053#8:1:A>
+Why <,> don't you have anything to do right now
+
+ <$B> 
+<ICE-PHI:S1A-053#10:1:B>
+Well I just wanted to do it right now because I planned other things tonight
+
+ <$A> 
+<ICE-PHI:S1A-053#11:1:A>
+Like what
+
+ <$B> 
+<ICE-PHI:S1A-053#12:1:B>
+Like doing a lot of lessons lesson plans for next week
+
+ <$A> 
+<ICE-PHI:S1A-053#13:1:A>
+For next week
+ 
+<ICE-PHI:S1A-053#14:1:A>
+Oh my goodness you 're so industrious
+
+ <$B> 
+<ICE-PHI:S1A-053#15:1:B>
+Just this week because I will be observed next week
+
+ <$A> 
+<ICE-PHI:S1A-053#16:1:A>
+Uh <{> <[> who </[> will observe you
+
+ <$B> 
+<ICE-PHI:S1A-053#17:1:B>
+<[> But </[> </{> 
+ 
+<ICE-PHI:S1A-053#18:1:B>
+Uhm well our coordinator
+
+ <$A> 
+<ICE-PHI:S1A-053#19:1:A>
+Your coordinator
+ 
+<ICE-PHI:S1A-053#20:1:A>
+What 's a coordinator
+
+ <$B> 
+<ICE-PHI:S1A-053#21:1:B>
+You should know my friend <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-053#22:1:A>
+I don't know
+
+ <$B> 
+<ICE-PHI:S1A-053#23:1:B>
+That means the one in charge with a a with a couple of teachers like you do
+
+ <$A> 
+<ICE-PHI:S1A-053#24:1:A>
+Like me
+
+ <$B> 
+<ICE-PHI:S1A-053#25:1:B>
+Are you also being observed with your <.> coordina </.> 
+ 
+<ICE-PHI:S1A-053#26:1:B>
+Uh do you have a coordinator anyway
+
+ <$A> 
+<ICE-PHI:S1A-053#27:1:A>
+Uhm yes sort of
+ 
+<ICE-PHI:S1A-053#28:1:A>
+We have a year a year level coordinator
+ 
+<ICE-PHI:S1A-053#29:1:A>
+Is that what you call that
+
+ <$B> 
+<ICE-PHI:S1A-053#30:1:B>
+A grade level I think
+
+ <$A> 
+<ICE-PHI:S1A-053#31:1:A>
+Year level and what 's the other one subject coordinator
+
+ <$C> 
+<ICE-PHI:S1A-053#33:1:C>
+Subject coordinator
+
+ <$A> 
+<ICE-PHI:S1A-053#34:1:A>
+Just one
+
+ <$B> 
+<ICE-PHI:S1A-053#35:1:B>
+So how was it
+ 
+<ICE-PHI:S1A-053#36:1:B>
+Are they observing you once in a while
+
+ <$A> 
+<ICE-PHI:S1A-053#37:1:A>
+She 's observing us every once in a while
+ 
+<ICE-PHI:S1A-053#38:1:A>
+I 've been observed about two times one is informal and the other is formal
+
+ <$C> 
+<ICE-PHI:S1A-053#40:1:C>
+In the first quarter
+
+ <$A> 
+<ICE-PHI:S1A-053#41:1:A>
+That 's yeah that 's about it
+ 
+<ICE-PHI:S1A-053#42:1:A>
+First quarter and then second quarter she 'll be observing us again
+ 
+<ICE-PHI:S1A-053#43:1:A>
+I don't know when maybe next week
+
+ <$C> 
+<ICE-PHI:S1A-053#45:1:C>
+People from Colegio San Agustin will come August twenty-five
+
+ <$A> 
+<ICE-PHI:S1A-053#46:1:A>
+Where
+ 
+<ICE-PHI:S1A-053#47:1:A>
+<{> <[> Here </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#48:1:C>
+<[> Here </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-053#49:1:B>
+Here
+
+ <$C> 
+<ICE-PHI:S1A-053#50:1:C>
+They 'll visit <.> s </.> uhm students in grades six and seven
+
+ <$A> 
+<ICE-PHI:S1A-053#51:1:A>
+Uh okay
+
+ <$B> 
+<ICE-PHI:S1A-053#52:1:B>
+Good thing they will not be coming here
+
+ <$C> 
+<ICE-PHI:S1A-053#53:1:C>
+They will
+
+ <$A> 
+<ICE-PHI:S1A-053#54:1:A>
+<{> <[> They will </[> 
+
+ <$B> 
+<ICE-PHI:S1A-053#55:1:B>
+<[> They will </[> </{> be visiting our classrooms
+
+ <$C> 
+<ICE-PHI:S1A-053#56:1:C>
+Yes just the campus <,> maybe
+
+ <$A> 
+<ICE-PHI:S1A-053#57:1:A>
+I think just the corridors not really inside the classroom
+
+ <$B> 
+<ICE-PHI:S1A-053#58:1:B>
+Thank God
+
+ <$A> 
+<ICE-PHI:S1A-053#59:1:A>
+So they 'll be observing you
+
+ <$C> 
+<ICE-PHI:S1A-053#60:1:C>
+Yes classrooms
+ 
+<ICE-PHI:S1A-053#61:1:C>
+<{> <[> Classes </[> in grade six and grade seven
+
+ <$A> 
+<ICE-PHI:S1A-053#62:1:A>
+<[> For </[> </{> 
+ 
+<ICE-PHI:S1A-053#63:1:A>
+For a period
+
+ <$C> 
+<ICE-PHI:S1A-053#64:1:C>
+I 'm not sure <,> 
+ 
+<ICE-PHI:S1A-053#65:1:C>
+There are teachers who are assigned
+
+ <$A> 
+<ICE-PHI:S1A-053#66:1:A>
+Assigned to be observed
+
+ <$C> 
+<ICE-PHI:S1A-053#67:1:C>
+I do not know
+ 
+<ICE-PHI:S1A-053#68:1:C>
+They were mentioning about that a while ago in the faculty room
+
+ <$A> 
+<ICE-PHI:S1A-053#69:1:A>
+Okay <&> clears throat </&> that 's on August <{> <[> twenty- </[> five
+
+ <$C> 
+<ICE-PHI:S1A-053#70:1:C>
+<[> Twenty-five </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-053#71:1:A>
+Friday that 's Friday
+
+ <$B> 
+<ICE-PHI:S1A-053#72:1:B>
+This Friday already
+
+ <$C> 
+<ICE-PHI:S1A-053#73:1:C>
+Twenty
+
+ <$A> 
+<ICE-PHI:S1A-053#74:1:A>
+Five
+ 
+<ICE-PHI:S1A-053#75:1:A>
+That 's on Friday already
+
+ <$C> 
+<ICE-PHI:S1A-053#76:1:C>
+Uh yeah <{> <[> that 's on Friday </[> 
+
+ <$B> 
+<ICE-PHI:S1A-053#77:1:B>
+<[> You should </[> </{> prepare then
+
+ <$C> 
+<ICE-PHI:S1A-053#78:1:C>
+I 'll be absent <&> speaker A laughs </&> 
+
+ <$B> 
+<ICE-PHI:S1A-053#79:1:B>
+That 's a good idea
+
+ <$C> 
+<ICE-PHI:S1A-053#80:1:C>
+I 'm not feeling well
+ 
+<ICE-PHI:S1A-053#81:1:C>
+I 'll be absent on Friday
+
+ <$A> 
+<ICE-PHI:S1A-053#82:1:A>
+<O> laughter </O> I think so too
+ 
+<ICE-PHI:S1A-053#83:1:A>
+Your voice is not that good
+
+ <$C> 
+<ICE-PHI:S1A-053#84:1:C>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-053#85:1:A>
+So that would be your excuse
+ 
+<ICE-PHI:S1A-053#86:1:A>
+So who will <{> <[> handle your class </[> 
+ <$C> 
+<ICE-PHI:S1A-053#87:1:C>
+<[> So tomorrow I 'm not </[> </{> uh on Friday
+
+ <$A> 
+<ICE-PHI:S1A-053#88:1:A>
+Yes
+ 
+<ICE-PHI:S1A-053#89:1:A>
+Who 'll handle your class
+
+ <$C> 
+<ICE-PHI:S1A-053#90:1:C>
+I guess Jet will
+
+ <$A> 
+<ICE-PHI:S1A-053#91:1:A>
+Which one
+
+ <$C> 
+<ICE-PHI:S1A-053#92:1:C>
+Jet Jet the Filipino teacher
+
+ <$A> 
+<ICE-PHI:S1A-053#93:1:A>
+Uh Jet
+ 
+<ICE-PHI:S1A-053#94:1:A>
+He doesn't have any advisory class
+
+ <$C> 
+<ICE-PHI:S1A-053#95:1:C>
+None
+
+ <$A> 
+<ICE-PHI:S1A-053#96:1:A>
+Good for him
+
+ <$B> 
+<ICE-PHI:S1A-053#97:1:B>
+Good thing they are not uhm asking us to to substitute for them anymore <{> <[> because last time </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#98:1:C>
+<[> Imagine you would </[> </{> travel from here to
+
+ <$B> 
+<ICE-PHI:S1A-053#99:1:B>
+Not to the main building <{> <[> <,> </[> that 's so far 
+ 
+<ICE-PHI:S1A-053#102:1:B>
+Really
+ 
+<ICE-PHI:S1A-053#103:1:B>
+Yeah
+ 
+<ICE-PHI:S1A-053#104:1:B>
+That was the what do you call that the procedure before
+
+ <$C> 
+<ICE-PHI:S1A-053#100:1:C>
+<[> To the new kingdom </[> </{> 
+ 
+<ICE-PHI:S1A-053#105:1:C>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-053#106:1:A>
+But now it changed
+
+ <$C> 
+<ICE-PHI:S1A-053#107:1:C>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-053#108:1:B>
+Good thing
+
+ <$C> 
+<ICE-PHI:S1A-053#109:1:C>
+By the subject
+
+ <$A> 
+<ICE-PHI:S1A-053#110:1:A>
+By the subject and by the level
+
+ <$C> 
+<ICE-PHI:S1A-053#111:1:C>
+I think no
+ 
+<ICE-PHI:S1A-053#112:1:C>
+Uh if there will be nobody who 's going to substitute from the subject areas that 's the time they get from the level other levels
+
+ <$A> 
+<ICE-PHI:S1A-053#113:1:A>
+It 's a form it 's a different procedure here right
+ 
+<ICE-PHI:S1A-053#114:1:A>
+We get substitute teachers by the level not <{> <[> by the subject </[> area
+
+ <$C> 
+<ICE-PHI:S1A-053#115:1:C>
+<[> Uh by the level </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-053#116:1:A>
+Like if there 's an absentee from the senior prep you cannot <,> right prep
+ 
+<ICE-PHI:S1A-053#117:1:A>
+Actually junior prep because they don't have classes in the morning
+ 
+<ICE-PHI:S1A-053#118:1:A>
+In the afternoon when we have absentees or absent teachers the senior prep substitutes for them
+
+ <$C> 
+<ICE-PHI:S1A-053#119:1:C>
+Uh so only the prep substituting for the prep
+
+ <$A> 
+<ICE-PHI:S1A-053#120:1:A>
+Yeah prep for prep and then grade one two and three I think
+
+ <$C> 
+<ICE-PHI:S1A-053#121:1:C>
+So you have the same subjects anyway
+
+ <$A> 
+<ICE-PHI:S1A-053#122:1:A>
+Yeah because it 's self-contained
+
+ <$C> 
+<ICE-PHI:S1A-053#123:1:C>
+Same thing with grade one
+
+ <$A> 
+<ICE-PHI:S1A-053#124:1:A>
+Uh uhm grade one is also self- <{> <[> contained </[> but grade two and grade three they are semi-departmental right
+
+ <$B> 
+<ICE-PHI:S1A-053#125:1:B>
+<[> Grade one </[> </{> 
+ 
+<ICE-PHI:S1A-053#126:1:B>
+Yeah
+
+ <$C> 
+<ICE-PHI:S1A-053#127:1:C>
+So they substitute by the level by the subject
+
+ <$A> 
+<ICE-PHI:S1A-053#129:1:A>
+I think by the <.> lev </.> 
+
+ <$B> 
+<ICE-PHI:S1A-053#130:1:B>
+By the level
+
+ <$C> 
+<ICE-PHI:S1A-053#131:1:C>
+Just the same thing
+
+ <$A> 
+<ICE-PHI:S1A-053#132:1:A>
+There
+
+ <$C> 
+<ICE-PHI:S1A-053#133:1:C>
+So how about your LET
+
+ <$A> 
+<ICE-PHI:S1A-053#134:1:A>
+Oh <O> chuckle </O> <{> <[> don't remind </[> me
+
+ <$C> 
+<ICE-PHI:S1A-053#135:1:C>
+<[> It 's coming by </[> </{> 
+ 
+<ICE-PHI:S1A-053#136:1:C>
+<{> <[> It 's coming by </[> this August
+
+ <$A> 
+<ICE-PHI:S1A-053#137:1:A>
+<[> This uhm </[> </{> this August twenty-seven
+
+ <$C> 
+<ICE-PHI:S1A-053#138:1:C>
+Sunday
+
+ <$A> 
+<ICE-PHI:S1A-053#139:1:A>
+Yes whole day because I got secondary could you believe that
+ 
+<ICE-PHI:S1A-053#141:1:A>
+I 'm in prep and they gave me secondary
+
+ <$C> 
+<ICE-PHI:S1A-053#142:1:C>
+But your training is in high school
+
+ <$A> 
+<ICE-PHI:S1A-053#143:1:A>
+Yeah
+ 
+<ICE-PHI:S1A-053#144:1:A>
+I graduated B S Biology
+
+ <$B> 
+<ICE-PHI:S1A-053#145:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-053#146:1:A>
+So that 's why
+
+ <$B> 
+<ICE-PHI:S1A-053#147:1:B>
+Good thing it 's only for it will only last for the whole day because last time <{> <[> <,> </[> when we took the test 
+
+ <$C> 
+<ICE-PHI:S1A-053#148:1:C>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-053#150:1:C>
+Two days
+
+ <$B> 
+<ICE-PHI:S1A-053#151:1:B>
+Right yeah we took it for about two days
+
+ <$A> 
+<ICE-PHI:S1A-053#152:1:A>
+Two days
+
+ <$C> 
+<ICE-PHI:S1A-053#153:1:C>
+Uh uhm uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-053#154:1:B>
+One whole day for all the general education thing and then the second day which is half day
+
+ <$C> 
+<ICE-PHI:S1A-053#155:1:C>
+For specialization
+
+ <$B> 
+<ICE-PHI:S1A-053#156:1:B>
+Yeah for our <{> <[> specialization </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#157:1:C>
+<[> Specialization </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-053#158:1:A>
+So you mean
+
+ <$B> 
+<ICE-PHI:S1A-053#159:1:B>
+That 's two years ago
+
+ <$A> 
+<ICE-PHI:S1A-053#160:1:A>
+You mean for the general you have one day and then another half-day for the major
+
+ <$B> 
+<ICE-PHI:S1A-053#161:1:B>
+Yeah your <{> <[> major subjects </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#162:1:C>
+<[> Major subjects </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-053#163:1:A>
+Oh my goodness
+
+ <$C> 
+<ICE-PHI:S1A-053#164:1:C>
+But it 's different in the elementary
+
+ <$A> 
+<ICE-PHI:S1A-053#165:1:A>
+Why
+
+ <$C> 
+<ICE-PHI:S1A-053#166:1:C>
+We only have one day
+
+ <$A> 
+<ICE-PHI:S1A-053#167:1:A>
+Uhm even today
+ 
+<ICE-PHI:S1A-053#168:1:A>
+Uh no half-day
+
+ <$C> 
+<ICE-PHI:S1A-053#169:1:C>
+Uh for the <{> <[> elementary </[> 
+
+ <$A> 
+<ICE-PHI:S1A-053#170:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-053#171:1:A>
+For the elementary they have half-day
+ 
+<ICE-PHI:S1A-053#172:1:A>
+Secondary we have a whole day <{> <[> <,> </[> <{> <[> to do the test </[> 
+ 
+<ICE-PHI:S1A-053#175:1:A>
+I think it 's draining
+ 
+<ICE-PHI:S1A-053#176:1:A>
+Is it draining
+
+ <$C> 
+<ICE-PHI:S1A-053#173:1:C>
+<[> So it 's the same thing </[> </{> 
+ 
+<ICE-PHI:S1A-053#177:1:C>
+Training for
+
+ <$A> 
+<ICE-PHI:S1A-053#178:1:A>
+Draining for us
+
+ <$C> 
+<ICE-PHI:S1A-053#179:1:C>
+Uh okay
+
+ <$A> 
+<ICE-PHI:S1A-053#180:1:A>
+'Cause we have to do the test for the whole day
+ 
+<ICE-PHI:S1A-053#181:1:A>
+What do you think
+
+ <$C> 
+<ICE-PHI:S1A-053#182:1:C>
+<{> <[> Maybe a bit </[> 
+
+ <$B> 
+<ICE-PHI:S1A-053#183:1:B>
+<[> You can manage </[> </{> 
+
+ <$C> 
+<ICE-PHI:S1A-053#184:1:C>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-053#185:1:B>
+That 's what you 're here <{> <[> for <O> laughter </O> </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#186:1:C>
+<[> With Grace </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-053#187:1:A>
+No <O> laughter </O> 
+
+ <$C> 
+<ICE-PHI:S1A-053#188:1:C>
+With Grace I doubt
+
+ <$A> 
+<ICE-PHI:S1A-053#189:1:A>
+Oh my goodness
+ 
+<ICE-PHI:S1A-053#190:1:A>
+It 's <{> <[> quite scary </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#191:1:C>
+<[> But don't worry </[> </{> you 're going to pass
+
+ <$A> 
+<ICE-PHI:S1A-053#192:1:A>
+I hope so
+ 
+<ICE-PHI:S1A-053#193:1:A>
+We 're praying for that
+ 
+<ICE-PHI:S1A-053#194:1:A>
+<{> <[> That 's what </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#195:1:C>
+<[> I saw you reviewing with </[> </{> uh
+
+ <$A> 
+<ICE-PHI:S1A-053#196:1:A>
+With <{> <[> whom </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#197:1:C>
+<[> With </[> </{> Chloe
+
+ <$A> 
+<ICE-PHI:S1A-053#198:1:A>
+With Chloe and Anne
+
+ <$C> 
+<ICE-PHI:S1A-053#199:1:C>
+Uh Anne
+
+ <$A> 
+<ICE-PHI:S1A-053#200:1:A>
+Yes because we 're all secondary <.> Sc </.> Natural Science <{> <[> majors </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#201:1:C>
+<[> Uh uhm </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-053#202:1:A>
+So that 's why
+
+ <$C> 
+<ICE-PHI:S1A-053#203:1:C>
+You 'll be taking the same things
+
+ <$A> 
+<ICE-PHI:S1A-053#204:1:A>
+Yeah the same school we 'll be taking in P U P
+
+ <$C> 
+<ICE-PHI:S1A-053#206:1:C>
+Uh P U P
+
+ <$A> 
+<ICE-PHI:S1A-053#207:1:A>
+Yes P U P Santa Mesa
+
+ <$C> 
+<ICE-PHI:S1A-053#208:1:C>
+Santa Mesa
+
+ <$A> 
+<ICE-PHI:S1A-053#209:1:A>
+Our rooms are adjacent so we can see each other
+
+ <$C> 
+<ICE-PHI:S1A-053#210:1:C>
+Did you <{> <[> check </[> the place already
+
+ <$A> 
+<ICE-PHI:S1A-053#211:1:A>
+<[> After </[> </{> 
+ 
+<ICE-PHI:S1A-053#212:1:A>
+No but they did
+
+ <$C> 
+<ICE-PHI:S1A-053#213:1:C>
+Find time <,> so you can uhm look for your classroom and if you really belong to that school
+
+ <$A> 
+<ICE-PHI:S1A-053#214:1:A>
+I actually went to the P R C because my notice didn't what do you call it didn't arrive I wasn't given notice 
+
+ <$C> 
+<ICE-PHI:S1A-053#215:1:C>
+<{> <[> About what </[> 
+
+ <$A> 
+<ICE-PHI:S1A-053#216:1:A>
+<[> Given the notice </[> </{> about the room assignment
+
+ <$C> 
+<ICE-PHI:S1A-053#218:1:C>
+Uh the room assignment
+
+ <$A> 
+<ICE-PHI:S1A-053#219:1:A>
+So I had to go to P R C to get my room assignment
+
+ <$B> 
+<ICE-PHI:S1A-053#220:1:B>
+Yeah I did that too when I had to take the test
+
+ <$A> 
+<ICE-PHI:S1A-053#221:1:A>
+Uh really
+
+ <$B> 
+<ICE-PHI:S1A-053#222:1:B>
+Yeah I wasn't able to uh to receive the mail that they
+
+ <$A> 
+<ICE-PHI:S1A-053#223:1:A>
+Yeah the notice
+
+ <$C> 
+<ICE-PHI:S1A-053#224:1:C>
+Uh uhm uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-053#225:1:A>
+Okay so
+
+ <$C> 
+<ICE-PHI:S1A-053#226:1:C>
+In my case I did not receive any because uh mine was during the P-BET
+
+ <$A> 
+<ICE-PHI:S1A-053#227:1:A>
+Uh-huh
+
+ <$C> 
+<ICE-PHI:S1A-053#228:1:C>
+So just the notice but I did not get anything from the P R C
+ 
+<ICE-PHI:S1A-053#229:1:C>
+P R C is nothing yet before it 's uh what was it
+
+ <$A> 
+<ICE-PHI:S1A-053#230:1:A>
+What institution
+
+ <$C> 
+<ICE-PHI:S1A-053#231:1:C>
+The commission something <,> Civil Service Commission
+
+ <$A> 
+<ICE-PHI:S1A-053#232:1:A>
+Uh
+
+ <$C> 
+<ICE-PHI:S1A-053#233:1:C>
+Not P not uh P R C yet
+ 
+<ICE-PHI:S1A-053#234:1:C>
+That time I went to Batasan
+
+ <$A> 
+<ICE-PHI:S1A-053#235:1:A>
+Batasan in
+
+ <$C> 
+<ICE-PHI:S1A-053#236:1:C>
+In Quezon <{> <[> City </[> 
+
+ <$A> 
+<ICE-PHI:S1A-053#237:1:A>
+<[> Quezon </[> </{> City
+ 
+<ICE-PHI:S1A-053#238:1:A>
+So far <O> laughter </O> 
+
+ <$C> 
+<ICE-PHI:S1A-053#239:1:C>
+That 's where I got my uh results
+
+ <$A> 
+<ICE-PHI:S1A-053#240:1:A>
+That 's where you got your results too
+
+ <$C> 
+<ICE-PHI:S1A-053#241:1:C>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-053#242:1:A>
+They didn't mail you
+
+ <$C> 
+<ICE-PHI:S1A-053#243:1:C>
+They did but they only gave me the a notice of passing <{> <[> not the real thing </[> 
+
+ <$A> 
+<ICE-PHI:S1A-053#244:1:A>
+<[> Without the percentage </[> </{> 
+ 
+<ICE-PHI:S1A-053#245:1:A>
+So you want to see the percentage
+
+ <$C> 
+<ICE-PHI:S1A-053#246:1:C>
+Of course
+
+ <$A> 
+<ICE-PHI:S1A-053#247:1:A>
+<O> laughter </O> So how did you <{> <[> fare </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#248:1:C>
+<[> The yellow </[> </{> the yellow card
+
+ <$A> 
+<ICE-PHI:S1A-053#249:1:A>
+How did you fare
+
+ <$C> 
+<ICE-PHI:S1A-053#250:1:C>
+Don't ask <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-053#251:1:A>
+Why
+ 
+<ICE-PHI:S1A-053#252:1:A>
+I bet you got high
+
+ <$C> 
+<ICE-PHI:S1A-053#253:1:C>
+Uh nah <{> <[> just average </[> 
+
+ <$A> 
+<ICE-PHI:S1A-053#254:1:A>
+<[> Maybe you 're even </[> </{> the topnotcher <O> laughter </O> 
+
+ <$C> 
+<ICE-PHI:S1A-053#255:1:C>
+How I wish
+
+ <$A> 
+<ICE-PHI:S1A-053#256:1:A>
+Yee
+ 
+<ICE-PHI:S1A-053#257:1:A>
+<{> <[> You even made a </[> courtesy call in Metro Bank <O> laughter </O> 
+
+ <$C> 
+<ICE-PHI:S1A-053#258:1:C>
+<[> It 's not possible </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-053#259:1:A>
+I bet you received fifty thousand pesos <O> laughter </O> 
+
+ <$C> 
+<ICE-PHI:S1A-053#260:1:C>
+If only those things are true I would probably uh buy you what hamburger <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-053#262:1:A>
+<indig> Ay </indig> so cheap
+
+ <$C> 
+<ICE-PHI:S1A-053#263:1:C>
+Plus coke
+
+ <$A> 
+<ICE-PHI:S1A-053#264:1:A>
+Uh hamburger plus coke
+
+ <$C> 
+<ICE-PHI:S1A-053#265:1:C>
+Plus uh
+
+ <$A> 
+<ICE-PHI:S1A-053#266:1:A>
+Add French fries and I 'll be happy
+
+ <$C> 
+<ICE-PHI:S1A-053#267:1:C>
+Fries what fries the curly
+
+ <$A> 
+<ICE-PHI:S1A-053#270:1:A>
+No the regular ones
+
+ <$C> 
+<ICE-PHI:S1A-053#271:1:C>
+The regular ones <,> 
+ 
+<ICE-PHI:S1A-053#272:1:C>
+What else
+
+ <$A> 
+<ICE-PHI:S1A-053#273:1:A>
+What else
+ 
+<ICE-PHI:S1A-053#274:1:A>
+Well right now
+
+ <$C> 
+<ICE-PHI:S1A-053#275:1:C>
+Are you going there by
+
+ <$A> 
+<ICE-PHI:S1A-053#276:1:A>
+Carpool
+
+ <$C> 
+<ICE-PHI:S1A-053#277:1:C>
+Uh okay
+
+ <$A> 
+<ICE-PHI:S1A-053#278:1:A>
+We 'll be going there by carpool
+
+ <$C> 
+<ICE-PHI:S1A-053#279:1:C>
+With the others
+
+ <$A> 
+<ICE-PHI:S1A-053#280:1:A>
+Yes with <{> <[> Anne and Chloe </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#281:1:C>
+<[> How many of you are taking the tests </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-053#282:1:A>
+At P U P we 'll be three <{> <[> Anne </[> Chloe and I
+
+ <$C> 
+<ICE-PHI:S1A-053#283:1:C>
+<[> Chloe </[> </{> 
+ 
+<ICE-PHI:S1A-053#284:1:C>
+Okay
+
+ <$A> 
+<ICE-PHI:S1A-053#285:1:A>
+And then in Lyceum there 'll be <{1> <[1> I think </[1> four no three Ruby uhm B J <{2> <[2> and Olive </[2> 
+
+ <$C> 
+<ICE-PHI:S1A-053#286:1:C>
+<[1> Uh Lyceum </[1> </{1> 
+ 
+<ICE-PHI:S1A-053#287:1:C>
+<[2> Ruby will </[2> </{2> still take the test
+ 
+<ICE-PHI:S1A-053#288:1:C>
+<{> <[> I thought she had </[> 
+
+ <$A> 
+<ICE-PHI:S1A-053#289:1:A>
+<[> Yes </[> </{> Secondary English
+
+ <$C> 
+<ICE-PHI:S1A-053#290:1:C>
+No I thought she had already taken one last year
+
+ <$A> 
+<ICE-PHI:S1A-053#291:1:A>
+No she didn't
+
+ <$C> 
+<ICE-PHI:S1A-053#292:1:C>
+Uh
+
+ <$A> 
+<ICE-PHI:S1A-053#293:1:A>
+Because she already uh no she didn't have the education units then so that 's why
+
+ <$C> 
+<ICE-PHI:S1A-053#294:1:C>
+Uh that 's uh okay
+ 
+<ICE-PHI:S1A-053#295:1:C>
+So she has to complete first the <{> <[> eighteen units </[> 
+
+ <$A> 
+<ICE-PHI:S1A-053#296:1:A>
+<[> Eighteen units </[> </{> of education which we finished last summer actually
+
+ <$C> 
+<ICE-PHI:S1A-053#297:1:C>
+For the T C P
+
+ <$A> 
+<ICE-PHI:S1A-053#298:1:A>
+Yeah T C P
+
+ <$C> 
+<ICE-PHI:S1A-053#299:1:C>
+And you 're done with your T C P
+
+ <$A> 
+<ICE-PHI:S1A-053#300:1:A>
+Almost because we specialized
+
+ <$C> 
+<ICE-PHI:S1A-053#301:1:C>
+What do you mean
+
+ <$A> 
+<ICE-PHI:S1A-053#302:1:A>
+We took uhm six units for the major because it 's Teacher 's Certificate Program right
+ 
+<ICE-PHI:S1A-053#303:1:A>
+And then you can get six more units so that you 'll have specialization like we got six units of Early Childhood
+
+ <$C> 
+<ICE-PHI:S1A-053#305:1:C>
+Uh that 's why you 're taking Early Childhood with Ruby also
+
+ <$A> 
+<ICE-PHI:S1A-053#306:1:A>
+Yes
+ 
+<ICE-PHI:S1A-053#307:1:A>
+We 'll finish this term
+
+ <$C> 
+<ICE-PHI:S1A-053#308:1:C>
+So how many units have you earned already
+ 
+<ICE-PHI:S1A-053#309:1:C>
+Eighteen plus six
+
+ <$A> 
+<ICE-PHI:S1A-053#310:1:A>
+Actually we got nineteen because of PROFE one unit
+ 
+<ICE-PHI:S1A-053#311:1:A>
+PROFE 's just one unit
+
+ <$C> 
+<ICE-PHI:S1A-053#312:1:C>
+What 's that
+
+ <$A> 
+<ICE-PHI:S1A-053#313:1:A>
+Uh Professional Ethics
+
+ <$C> 
+<ICE-PHI:S1A-053#314:1:C>
+In Education
+
+ <$A> 
+<ICE-PHI:S1A-053#315:1:A>
+Yes and then nineteen plus six so that 's twenty-five
+
+ <$C> 
+<ICE-PHI:S1A-053#316:1:C>
+Uh okay <,> twenty-five units for the T C P
+
+ <$A> 
+<ICE-PHI:S1A-053#317:1:A>
+Yeah T C P with special <{> <[> training in Early Childhood </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#318:1:C>
+<[> That 's before you take </[> </{> the uh board exams
+
+ <$A> 
+<ICE-PHI:S1A-053#319:1:A>
+Before uhm before we take the board exam you have to get eighteen units right
+
+ <$C> 
+<ICE-PHI:S1A-053#320:1:C>
+But that 's more than eighteen units already
+
+ <$A> 
+<ICE-PHI:S1A-053#321:1:A>
+Yeah that 's more than eighteen units already but we opted to take specialization so that it will jive with our present job
+
+ <$C> 
+<ICE-PHI:S1A-053#322:1:C>
+But if you have only eighteen units
+
+ <$A> 
+<ICE-PHI:S1A-053#323:1:A>
+It 's okay
+
+ <$C> 
+<ICE-PHI:S1A-053#324:1:C>
+It 's okay
+
+ <$A> 
+<ICE-PHI:S1A-053#325:1:A>
+It 's fine
+ 
+<ICE-PHI:S1A-053#326:1:A>
+As long as you get the requirements
+
+ <$C> 
+<ICE-PHI:S1A-053#327:1:C>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-053#328:1:A>
+We have these requirements in the P R C so
+
+ <$C> 
+<ICE-PHI:S1A-053#329:1:C>
+For Secondary Education
+
+ <$A> 
+<ICE-PHI:S1A-053#330:1:A>
+No no for licensure
+
+ <$C> 
+<ICE-PHI:S1A-053#331:1:C>
+Uh okay <,> for the exams
+
+ <$A> 
+<ICE-PHI:S1A-053#332:1:A>
+Yeah for the exams <,,> 
+ 
+<ICE-PHI:S1A-053#333:1:A>
+That 's it
+
+ <$C> 
+<ICE-PHI:S1A-053#334:1:C>
+I hope you 're going to uh <,,> to bring the bacon <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-053#335:1:A>
+No that 's pressure already
+ 
+<ICE-PHI:S1A-053#336:1:A>
+You know what
+ 
+<ICE-PHI:S1A-053#337:1:A>
+Did you <,> have packed lunch during that time
+
+ <$C> 
+<ICE-PHI:S1A-053#338:1:C>
+Uh <,> what <,> I didn't have
+
+ <$A> 
+<ICE-PHI:S1A-053#339:1:A>
+Why
+
+ <$C> 
+<ICE-PHI:S1A-053#340:1:C>
+But we were asked to buy because there was a canteen anyway in the school
+
+ <$A> 
+<ICE-PHI:S1A-053#341:1:A>
+Uh <{> <[> is </[> it open
+
+ <$C> 
+<ICE-PHI:S1A-053#342:1:C>
+<[> So </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-053#343:1:A>
+It 's Sunday <,> 
+
+ <$C> 
+<ICE-PHI:S1A-053#344:1:C>
+There was one in our school uh in the in that was I forgot the name of the school but it 's in Quezon City also
+ 
+<ICE-PHI:S1A-053#345:1:C>
+So we were allowed to take the lunch outside
+
+ <$A> 
+<ICE-PHI:S1A-053#346:1:A>
+Uh-huh
+
+ <$C> 
+<ICE-PHI:S1A-053#347:1:C>
+Then uh we were asked to come back one o'clock I guess or one thirty
+
+ <$A> 
+<ICE-PHI:S1A-053#348:1:A>
+For the test
+
+ <$C> 
+<ICE-PHI:S1A-053#349:1:C>
+For the remaining tests
+
+ <$A> 
+<ICE-PHI:S1A-053#350:1:A>
+Uh uhm I think we 'll not be allowed to go outside
+
+ <$C> 
+<ICE-PHI:S1A-053#351:1:C>
+Just bring your own <indig> baon </indig> so <,> it will not be a big problem
+
+ <$A> 
+<ICE-PHI:S1A-053#352:1:A>
+You know I don't think I 'll be able to eat anyway
+
+ <$C> 
+<ICE-PHI:S1A-053#353:1:C>
+Anyway you 'll have what uh eight o'clock
+ 
+<ICE-PHI:S1A-053#354:1:C>
+You 'll be starting at eight o'clock
+
+ <$A> 
+<ICE-PHI:S1A-053#355:1:A>
+No we have to be there before six thirty
+
+ <$C> 
+<ICE-PHI:S1A-053#356:1:C>
+Uh it 's too early
+
+ <$A> 
+<ICE-PHI:S1A-053#357:1:A>
+Maybe it 's seven o'clock
+
+ <$C> 
+<ICE-PHI:S1A-053#358:1:C>
+Seven
+
+ <$A> 
+<ICE-PHI:S1A-053#359:1:A>
+I think it will start at seven o'clock and
+
+ <$C> 
+<ICE-PHI:S1A-053#360:1:C>
+The test itself
+
+ <$A> 
+<ICE-PHI:S1A-053#361:1:A>
+It will end about four <,> maybe or three
+
+ <$C> 
+<ICE-PHI:S1A-053#362:1:C>
+Uh okay
+
+ <$A> 
+<ICE-PHI:S1A-053#363:1:A>
+I don't know yet because I didn't have the notice
+
+ <$C> 
+<ICE-PHI:S1A-053#364:1:C>
+So you will have uhm seven to maybe eleven thirty
+
+ <$A> 
+<ICE-PHI:S1A-053#365:1:A>
+I think so and then twelve
+
+ <$C> 
+<ICE-PHI:S1A-053#366:1:C>
+To
+
+ <$A> 
+<ICE-PHI:S1A-053#367:1:A>
+I think one to three or one to four
+ 
+<ICE-PHI:S1A-053#368:1:A>
+It depends <{> <[> I think it depends on the proctor </[> 
+
+ <$C> 
+<ICE-PHI:S1A-053#370:1:C>
+<[> Just bring your packed lunch </[> </{> <,> and <indig> merienda </indig> maybe
+
+ <$A> 
+<ICE-PHI:S1A-053#371:1:A>
+Uh-huh candies
+
+ <$C> 
+<ICE-PHI:S1A-053#372:1:C>
+I can't remember we were given time to have <indig> merienda </indig> that time
+ 
+<ICE-PHI:S1A-053#373:1:C>
+What I remember is we only had lunch
+
+ <$A> 
+<ICE-PHI:S1A-053#374:1:A>
+I think you can take
+
+ <$C> 
+<ICE-PHI:S1A-053#375:1:C>
+I think yeah
+
+ <$A> 
+<ICE-PHI:S1A-053#376:1:A>
+You can take <indig> merienda </indig> during the test
+
+ <$B> 
+<ICE-PHI:S1A-053#377:1:B>
+But since you 're so nervous
+
+ <$A> 
+<ICE-PHI:S1A-053#378:1:A>
+Engrossed
+
+ <$B> 
+<ICE-PHI:S1A-053#379:1:B>
+Or engrossed with the test you won't have the appetite to eat
+
+ <$C> 
+<ICE-PHI:S1A-053#380:1:C>
+In my case I didn't remember any <indig> merienda </indig> I just remember the lunch
+
+ <$A> 
+<ICE-PHI:S1A-053#382:1:A>
+Okay
+
+ <$C> 
+<ICE-PHI:S1A-053#383:1:C>
+That was nineteen <indig> kopong-kopong </indig> <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-053#384:1:A>
+In my case I can't take drinks during the exam because by that time I will go outside to go to the comfort room
+
+ <$C> 
+<ICE-PHI:S1A-053#385:1:C>
+No don't take it so seriously
+ 
+<ICE-PHI:S1A-053#386:1:C>
+Anyway you know yourself if uh you 'll be able to make it or what
+ 
+<ICE-PHI:S1A-053#387:1:C>
+And with the kind of review you 're doing my goodness
+
+ <$A> 
+<ICE-PHI:S1A-053#389:1:A>
+Because we 're panicking
+
+ <$C> 
+<ICE-PHI:S1A-053#390:1:C>
+That 's it
+ 
+<ICE-PHI:S1A-053#391:1:C>
+That 's the very point
+ 
+<ICE-PHI:S1A-053#392:1:C>
+Don't panic 
+
+ </I> 

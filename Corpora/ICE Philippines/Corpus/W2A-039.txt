@@ -1,0 +1,445 @@
+<I>
+
+<ICE-PHI:W2A-039#1:1>
+<h> <bold> Effect of Tempering of Milled Rice on Some Properties of
+Dry-Milled Flour </bold> </h>
+
+<ICE-PHI:W2A-039#2:1>
+<bold> James A. Patindol and Bienvenido O. Juliano </bold>
+
+<p> 
+<ICE-PHI:W2A-039#3:1>
+<h> Key Words: </h> Tempering, dry-milled rice flour, amylose
+content, particle size index, steamed cake <it> <indig> puto </indig> </it> ,
+white layer cake, cake volume, softness index, wet-milled flour. </p>
+
+<p> 
+<ICE-PHI:W2A-039#4:1>
+Tempering milled rice at 20% moisture content for 3-6 hr prior to
+grinding with the Philrice flour mill improved flour fineness ( indexed by
+particle size index [ PSI]) of IR24 ( 15.8% amylose content [ AC]), PSB Rc 12
+( 23.4% AC) and PSB Rc 10 ( 26.8% AC) without effect on damaged starch in all
+except PSB Rc 12.
+
+<ICE-PHI:W2A-039#5:1>
+PSB Rc 10 had the lowest damaged starch.
+
+<ICE-PHI:W2A-039#6:1>
+Wet-milled flour had less damaged starch and steamed rice cake ( <it>
+<indig> puto </indig> </it> ) volume but greater white layer cake volume, and
+higher softness index ( SI) than dry-milled flour.
+
+<ICE-PHI:W2A-039#7:1>
+PSI correlated negatively with <it> <indig> puto </indig> </it> volume
+and SI, and positively with layer cake volume and SI for the 60 samples.
+
+<ICE-PHI:W2A-039#8:1>
+Damaged starch correlated negatively with <it> <indig> puto </indig>
+</it> and layer cake volume.
+
+<ICE-PHI:W2A-039#9:1>
+Volume and SI correlated positively for both <it> <indig> puto
+</indig> </it> and layer cake. </p>
+
+<ICE-PHI:W2A-039#10:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-039#11:1>
+Philippine rice flours are either dry-milled or wet-milled ( Tua,
+1980).
+
+<ICE-PHI:W2A-039#12:1>
+Semidry-milled rice is also processed in Taiwan ( Lu <foreign> et al.
+</foreign> , 1988).
+
+<ICE-PHI:W2A-039#13:1>
+Dry-milled and semidry-milled flour particles are fragments of rice
+grains and wet-milled flour particles are clusters of starch granules ( Lu
+<foreign> et al. </foreign> , 1988; Arisaka <foreign> et al. </foreign> ,
+1992).
+
+<ICE-PHI:W2A-039#14:1>
+Starch damage is higher in dry-milled flour. </p>
+
+<p> 
+<ICE-PHI:W2A-039#15:1>
+The availability of a dry-milled rice flour that can be used for
+all applications for which dry-milled and wet-milled rice flour are used
+would be desirable.
+
+<ICE-PHI:W2A-039#16:1>
+Milled rice had been replaced by corn starch in the manufacture of
+rice noodles ( <it> <indig> bihon </indig> </it> ) in the Philippines (
+Carpio and Aco, 1990).
+
+<ICE-PHI:W2A-039#17:1>
+Contributing factors are the need to prepare beforehand wet-milled
+rice batter and the poor shelf life of the batter.
+
+<ICE-PHI:W2A-039#18:1>
+By contrast, corn starch can substitute for wet-milled rice flour and
+production of noodles can be proceed immediately on sunny days.
+
+<ICE-PHI:W2A-039#19:1>
+Corn starch noodles are also whiter and cheaper than rice noodles.
+
+<ICE-PHI:W2A-039#20:1>
+Thai wet-milled rice flours are available in the market and can
+compete with corn starch and local wet-milled waxy rice. </p>
+
+<p> 
+<ICE-PHI:W2A-039#21:1>
+Commercial U.S. dry-milled flours ( Riviana and California
+Natural Products) have 95-100%&lt;300 um ( &gt;50-mesh), 60-70% or
+75-85%&lt;150 um ( &gt;100-mesh), and 45-55% or 60-70%&lt;106 um (
+&gt;140-mesh), whereas a Belgian rice flour ( Remy) has 75-85%&lt;150 um (
+&gt;100-mesh).
+
+<ICE-PHI:W2A-039#22:1>
+The Philippines National Grains Authority dry-milled flour in 1980
+was either &lt;75 um ( &gt;200-mesh) or &lt;50 um ( &gt;300-mesh) ( Tua,
+1980).
+
+<ICE-PHI:W2A-039#23:1>
+Wet-milled spray-dried U. S. rice flour form aggregates of 30-50 um
+spheres ( Mitchell, 1994).
+
+<ICE-PHI:W2A-039#24:1>
+Wet-milled waxy flour has mean particle size of 48 um ( Juliano and
+Sakurai, 1985) and 50-60 um ( Yeh <foreign> et al. </foreign> , 1991).
+
+<ICE-PHI:W2A-039#25:1>
+Recently, the PhilRice ( 1994) flourmill has been used for the
+preparation of dry-milled rice flour.
+
+<ICE-PHI:W2A-039#26:1>
+Mean flour particle size was 280 um with a 500 um screen.
+
+<ICE-PHI:W2A-039#27:1>
+To remove the grittiness of baked product from this 280 um flour, a
+finer screen is installed to obtain a finer flour ( PhilRice, 1994). </p>
+
+<p> 
+<ICE-PHI:W2A-039#28:1>
+In the dry-milling of wheat and corn, conditioning or tempering
+by adding moisture to soften the cereal endosperm is an integral part of the
+process.
+
+<ICE-PHI:W2A-039#29:1>
+Tempering should crack and soften the milled rice and increase flour
+fineness without increasing starch damage during milling ( Saito, 1980; KFRI,
+1994).
+
+<ICE-PHI:W2A-039#30:1>
+Thus, we studied the optimum conditions for milled rice tempering
+prior to milling in the PhilRice flourmill, identified some physical and
+physicochemical properties of the flour and their effect on the volume and
+softness of a typical wet-milled flour product, baking powder-leavened
+steamed rice cake ( <indig> <it> puto </it> </indig> ) , and a typical
+dry-milled flour product, high-ratio white layer cake, as compared with
+dry-milled and wet-milled flours, using three nonwaxy varieties representing
+the three amylose types ( Patindol, 1995). </p>
+
+<ICE-PHI:W2A-039#31:1>
+<h> <bold> MATERIALS AND METHODS </bold> </h>
+
+<ICE-PHI:W2A-039#32:1>
+<h> <bold> Materials </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-039#33:1>
+Rough rice samples were obtained from the seed production and
+seed health units of PhilRice.
+
+<ICE-PHI:W2A-039#34:1>
+Moisture content was measured with a Dole 400 moisture tester.
+
+<ICE-PHI:W2A-039#35:1>
+After at least 6 months in storage ( aging), they were dehulled by a
+Satake TH-35A dehuller, milled by a McGill miller No. 2, and then stored at -
+20 C. </p>
+
+<ICE-PHI:W2A-039#36:1>
+<h> <bold> Rice Flours </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-039#37:1>
+Tempering was done by gradual spraying of three milled rices (
+IR24, PSB Rc 10 and PSB Rc 12) with a calculated amount of distilled water
+using a hand atomizer to adjust moisture content to 16, 18 and 20% wet basis.
+
+<ICE-PHI:W2A-039#38:1>
+Moistened samples were tempered in sealed plastic bags for 1, 3, 6
+and 12 hr and then ground into Flour using the PhilRice ( 1994) flourmill (
+Renien fan mill model) with 150-um ( 100-mesh) screen.
+
+<ICE-PHI:W2A-039#39:1>
+The mill had to be cooled every one hour run to avoid over-heating
+the sample.
+
+<ICE-PHI:W2A-039#40:1>
+Temperature of the freshly milled flour ranged from 30 to 45 C. </p>
+
+<p> 
+<ICE-PHI:W2A-039#41:1>
+Preliminary tempering trials were performed up to 26% moisture
+content.
+
+<ICE-PHI:W2A-039#42:1>
+Milled rice cracked and became opaque at high moisture levels.
+
+<ICE-PHI:W2A-039#43:1>
+At 26% moisture, the flour particles clogged the perforated screen of
+the flour mill and were mostly retained in the cyclone separator.
+
+<ICE-PHI:W2A-039#44:1>
+Storage of the flours, without drying, in airtight glass jars for 1
+week resulted in molds and yellowing in flours tempered at 22, 24 and 26%
+moisture, whereas those tempered at 16, 18, and 20% moisture were visually
+free of molds.
+
+<ICE-PHI:W2A-039#45:1>
+Based on these trials, tempering was then limited to 16, 18 and 20%
+moisture and after milling, flours were dried in an air oven at 30 C for 6
+hr. </p>
+
+<p> 
+<ICE-PHI:W2A-039#46:1>
+In addition to a dry-milled rice flour check ( nontempered),
+milled rice was also soaked in twice its weight of water for 1, 3, 6 and 12
+hr and ground ( wet-milled) with a motorized coffee grinder.
+
+<ICE-PHI:W2A-039#47:1>
+The flour slurry was poured into a cheesecloth bag and excess water
+was allowed to drain by gravity for 2 hr.
+
+<ICE-PHI:W2A-039#48:1>
+The wet-milled batter was dried in an air oven at 30 C for 12 hr and
+pulverized with a mortar and pestle. </p>
+
+<ICE-PHI:W2A-039#49:1>
+<h> <bold> Physicochemical Analyses of Flours </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-039#50:1>
+Starting milled rices were analyzed for crude protein, apparent
+amylose content ( AC) ( Juliano <foreign> et al. </foreign> , 1981) and total
+lipids ( Mani&ntilde;gat and Juliano, 1980).
+
+<ICE-PHI:W2A-039#51:1>
+Flour whiteness was measured with a Kett whiteness meter model C4.
+
+<ICE-PHI:W2A-039#52:1>
+Particle size index was determined according to AACC ( 1983) as the
+percentage of flour passing through a 200-mesh screen from 10 g flour shaken
+10 min on a Ro-Tap sieve shaker.
+
+<ICE-PHI:W2A-039#53:1>
+Damaged starch was determined by dispersing 500 mg flour in 50 ml o.
+25N HCL for 2 hr at 55 C ( Arisaka <foreign> et al. </foreign> , 1992),
+centrifuging at 100 g for 20 min and the dispersed starch measured in the
+supernate by phenol-sulfuric acid method ( Dubois <foreign> et al. </foreign>
+, 1956) with glucose as standard.
+
+<ICE-PHI:W2A-039#54:1>
+Rapid Vico Analyzer ( RVA) curves were obtained in 3 g rice flour in
+25 ml of water held for 1.0 min at 50 C, heated to 95 C at 12 C/min, held for
+2.5 min at 95 C, and then cooled to 50 C at 12 C/min ( Blakeney <foreign> et
+al. </foreign> , 1991). </p>
+
+<ICE-PHI:W2A-039#55:1>
+<h> <bold> Rice Cakes </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-039#56:1>
+<indig> <it> Puto </it> </indig> was prepared according to Perez
+and Juliano ( 1988).
+
+<ICE-PHI:W2A-039#57:1>
+Flour ( 100 g) was soaked for 1 hr in 140 ml water in a mixing bowl
+and mixed in a National electric mixer at speed 1 for 5 min.
+
+<ICE-PHI:W2A-039#58:1>
+Sugar ( 40 g) was added and the batter nixed for 2 min at speed 1.
+
+<ICE-PHI:W2A-039#59:1>
+Double-acting baking powder ( 4,5 g) was then added and the batter
+mixed for 1 min. batter ( 40 g) was poured into ungreased round aluminum pans
+( 40 mm bottom diam, 67 mm top diam, 25 mm height) and immediately steamed
+for 30 min, cooled 1 hr in the open, and placed in self-sealing plastic bags.
+
+<ICE-PHI:W2A-039#60:1>
+<indig> <it> Puto </it> </indig> volume was measured by the rapeseed
+displacement method.
+
+<ICE-PHI:W2A-039#61:1>
+Softness index ( in mm) was determined on 4- x 4-cm and 2.5-mm-thick
+samples by a digital penetrometer ( Petrotest PNR 10, Mitamura Riken Kogyo,
+Inc.) using a 98-g plunger with 50-g weight and a 50-g calottetipped piston.
+
+<ICE-PHI:W2A-039#62:1>
+Penetration time was 5 sec and penetration depth ( softness index)
+was measured. </p>
+
+<p> 
+<ICE-PHI:W2A-039#63:1>
+High-ratio white layer cake formulation was employed with some
+modification ( AACC, 1993).
+
+<ICE-PHI:W2A-039#64:1>
+The formula ( in % flour basis) consisted of 100% rice flour, 90%
+sucrose, 20% baking soda and 3% cream nonfat dry milk, 60% water, 1.5% NaCl,
+2% baking soda and 3% cream tartar.
+
+<ICE-PHI:W2A-039#65:1>
+The dry ingredients except cream of tartar were combined and sifted
+well and transferred to a National electric mixer mixing bowl containing the
+liquid ingredients previously beaten for 2 min at speed 1.
+
+<ICE-PHI:W2A-039#66:1>
+The ingredients were mixed for 5 min at speed 1, the batter scraped
+down from the sides, the cream of tartar added, and the batter beaten further
+for 2 min.
+
+<ICE-PHI:W2A-039#67:1>
+Two 150-g batter portions were transferred into round pans lined with
+parchment paper at the bottom and baked in a preheated oven at 177 C for 30
+min.
+
+<ICE-PHI:W2A-039#68:1>
+The cake was cooled in the open for 2 hr and its volume and softness
+determined by the method used on <indig> <it> puto </it> </indig> . </p>
+
+<ICE-PHI:W2A-039#69:1>
+<h> <bold> Statistical Treatment </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-039#70:1>
+The study was laid out in a 5 x 4 x 3 factor-factorial completely
+randomized design.
+
+<ICE-PHI:W2A-039#71:1>
+The factors considered were tempering moisture ( dry, 16%, 18%, 20%,
+and wet), tempering time ( 1, 3, 6 and 12 hr) and variety ( IR24, PSB Rc 10,
+and PSB Rc 12).
+
+<ICE-PHI:W2A-039#72:1>
+Each treatment combination was replicated twice.
+
+<ICE-PHI:W2A-039#73:1>
+Analysis of variance was used to detect any significant effect of the
+treatment variables on the properties of the flour.
+
+<ICE-PHI:W2A-039#74:1>
+Duncan 's ( 1955) multiple range test was calculated to identify
+significant treatment means or combinations. </p>
+
+<ICE-PHI:W2A-039#75:1>
+<h> <bold> RESULTS AND DISCUSSION </bold> </h>
+
+<ICE-PHI:W2A-039#76:1>
+<h> <bold> Dry-milled Flour Properties and Cakes </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-039#77:1>
+The three milled rices had their expected AC ( low AC for IR24,
+intermediate AC for PSB Rc 12, and high AC for PSB Rc 10) and gelatinization
+temperature ( GT), but PSB Rc 12 had intermediate rather than low GT ( Table
+1).
+
+<ICE-PHI:W2A-039#78:1>
+PSB Rc 12 had higher protein content than the others but the total
+lipid content was higher in PSB Rc 12 than in IR24.
+
+<ICE-PHI:W2A-039#79:1>
+Gel consistency was softest for IR24. </p> <O>
+
+<ICE-PHI:W2A-039#80:1>
+<h> <it> Table 1.
+
+<ICE-PHI:W2A-039#81:1>
+Properties of three milled rices used in tempering experiments and
+their dry-milled flour ( without tempering). </it> </h> </O>
+
+<p> 
+<ICE-PHI:W2A-039#82:1>
+Dry-milling using the PhilRice flourmill produced flours with
+particle size index ( PSI) of 51-53% passing through 75 um ( 200-mesh) sieve
+( Table 1).
+
+<ICE-PHI:W2A-039#83:1>
+This was finer than the reported particle size of 280 um for the
+PhilRice mill with 500-um sieve ( PhilRice 1994) and comparable to that of
+commercial dry-milled flour.
+
+<ICE-PHI:W2A-039#84:1>
+Damaged starch was lower in the high-AC PSB Rc 10 than in the others.
+
+<ICE-PHI:W2A-039#85:1>
+IR24 had the highest RVA peak viscosity and the lowest RVA
+consistency.
+
+<ICE-PHI:W2A-039#86:1>
+PSB Rc 12 had the lowest RVA peak viscosity and PSB Rc 10 had the
+highest consistency. </p>
+
+<p> 
+<ICE-PHI:W2A-039#87:1>
+<indig> <it> Puto </it> </indig> volume was higher for the
+high-AC PSB Rc 10, but PSB Rc 12 had the lower softness index of the three
+flours ( Table 1).
+
+<ICE-PHI:W2A-039#88:1>
+Perez and Juliano ( 1988) reported that AC correlates positively with
+<indig> <it> puto </it> </indig> height and hardness, but the hardest <indig>
+<it> puto </it> </indig> was low-GT intermediate Ac rice, just like PSB Rc
+12, rather than high AC rice.
+
+<ICE-PHI:W2A-039#89:1>
+By contrast, volume of white layer cake was similar but softness
+index was highest for low-AC IR24 and lowest for high-AC PSB Rc 10.
+
+<ICE-PHI:W2A-039#90:1>
+The intermediate GT of high-AC PSB Rc 10 probably contributed to its
+harder layer cake due to incomplete starch gelatinization as the batters had
+similar water contents ( Perez and Juliano, 1988). </p>
+
+<ICE-PHI:W2A-039#91:1>
+<h> <bold> Wet-milled and Tempered Dry-milled Flours and Cakes
+</bold> </h>
+
+<p> 
+<ICE-PHI:W2A-039#92:1>
+Tempering the three milled rices at 16%, 18% and 20% moisture for
+1, 3, 6 and 12 hr before dry-milling can improve PSI of the flour ( Table 2).
+
+<ICE-PHI:W2A-039#93:1>
+Tempering at 20% moisture for 3 or 6 hr significantly improved PSI of
+flour in the three rices.
+
+<ICE-PHI:W2A-039#94:1>
+Damaged starch levels in the pretempered flours were similar to those
+of the dry milled flours: 3.1-3.9% for PSB Rc 10, 8.0-9.4% for PSB Rc 12, and
+9.2-9.8% in IR24.
+
+<ICE-PHI:W2A-039#95:1>
+Thus, tempering did not aggravate the damaged starch content of the
+flour and remained higher in IR24 and PSB Rc 12 than in PSB Rc 10.
+
+<ICE-PHI:W2A-039#96:1>
+Tempering of milled rice at 20% moisture for 3 or 6 hr before
+dry-milling resulted in flours with similar PSI as wet-milled flour ( Table
+2).
+
+<ICE-PHI:W2A-039#97:1>
+The improvement in flour fineness from tempering was less than those
+reported by Saito ( 1980, 1987) for Japanese rice, probably because the
+dry-milled flour was already fine as indexed by PSI ( Table 1).
+
+<ICE-PHI:W2A-039#98:1>
+Wet-milled flours had similar PSI as 20%-moisture-tempered dry-milled
+flours ( Table 1): 0.4-0.9% for PSB Rc 10, 0.9-1.2% for PSB Rc 12, and
+1.1-1.4% for IR24, because of milder milling conditions, and since damaged
+starch swell in water and is removed with the supernate during centrifugation
+of wet-milled flour. </p> </I>

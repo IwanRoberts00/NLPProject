@@ -1,0 +1,481 @@
+<I>
+
+<ICE-PHI:W2B-035#1:1>
+<h> <bold> The millennium humbug </bold> </h>
+
+<ICE-PHI:W2B-035#2:1>
+<bold> Dean Jorge Bocobo </bold>
+
+<p> 
+<ICE-PHI:W2B-035#3:1>
+IT 's the ultimate revenge of the nerds scenario: a world utterly
+disdainful of the thick eyeglasses-clad, pocket-protected tribe becomes
+totally dependent on computers that only they know how to design and program;
+then, at the stroke of midnight on Dec. 31, 1999 planes start falling out of
+the sky, life support systems in hospitals bog down, power plants black out,
+elevators grind to a halt, cars won't start, banks and businesses are unable
+to issue checks and invoices, government fails, even toasters stay on and
+burn down houses. </p>
+
+<p> 
+<ICE-PHI:W2B-035#4:1>
+The end of civilization as we know it?
+
+<ICE-PHI:W2B-035#5:1>
+It is, if one is to believe the worldwide media hype over the
+so-called <mention> &ldquo; Millennium or Y2K ( Year 2000) computer bug.
+&rdquo; </mention> </p>
+
+<p> 
+<ICE-PHI:W2B-035#6:1>
+This refers to a problem projected to affect millions of computer
+systems and networks when their internal clocks tick off the end of the
+millennium next year on New Year 's Eve and the date goes from the year 1999
+to 2000.
+
+<ICE-PHI:W2B-035#7:1>
+It seems that software programmers at the dawn of the computer age in
+the ' 60s and ' 70s developed the bad habit of leaving off the <mention>
+&ldquo; 19 &rdquo; </mention> in references to the year, never thinking that
+their programs would still be in use by century 's end.
+
+<ICE-PHI:W2B-035#8:1>
+Confused by what the true year will be in 2000, those programs
+represent a legacy that threatens to bring chaos to a world in which
+computers have become not only ubiquitous but essential to all sorts of
+operations and services. </p>
+
+<p> 
+<ICE-PHI:W2B-035#9:1>
+Or so the doom-saying Cassandras would have us believe.
+
+<ICE-PHI:W2B-035#10:1>
+After all even the United States has formed a Presidential Task Force
+to go after the problem, right?
+
+<ICE-PHI:W2B-035#11:1>
+Here in the Philippines the cries of fire in the theater are being
+heard from no less than Amable Aguiluz, chair of our own President 's
+Commission on the Y2K Problem and founder of the AMA computer schools.
+
+<ICE-PHI:W2B-035#12:1>
+Newspapers have been echoing his claim that as much as &peso;270
+billion will be required to properly address the problem in the form of
+programmers, consultants, managers and other experts on Y2K, and of course,
+replacement costs for affected software and hardware. </p>
+
+<ICE-PHI:W2B-035#13:1>
+<h> <bold> Disaster </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-035#14:1>
+He is joined in dire warnings of impending disaster by the head
+honchos of computer departments in government financial institutions like the
+<indig> Bangko Central </indig> , GSIS and SSS.
+
+<ICE-PHI:W2B-035#15:1>
+At hearings on the matter before Congress, they have been spooking
+computer-illiterate and befuddled legislators with the enormity of the
+problem by pointing to the <quote> &ldquo; millions of lines of computer
+code" </quote> and the thousands of banks and businesses that will be
+affected.
+
+<ICE-PHI:W2B-035#16:1>
+Little in the way of enlightened interpolation and demands for proof
+and cold hard facts about the local situation are in evidence at these
+hearings.
+
+<ICE-PHI:W2B-035#17:1>
+Only awed silence or proddings for more gory predictions regurgitated
+from the foreign press or the Internet bulletin boards. </p>
+
+<p> 
+<ICE-PHI:W2B-035#18:1>
+The other bit of impressive <foreign> arcana </foreign> being
+trotted out is to be found in the term <mention> &ldquo; embedded systems,
+&rdquo; </mention> which refers to the computer chips to be found in many
+common electronic appliances such as toasters, telephones, VCRs and in many
+other things like power plants, automobiles, elevators, security systems,
+etc.
+
+<ICE-PHI:W2B-035#19:1>
+Since many of these chips and the &ldquo; firmware &rdquo; associated
+with them are also deemed to be &ldquo; non Y2K-compliant, &rdquo; there is
+said to be danger lurking everywhere, come 2000. </p>
+
+<p> 
+<ICE-PHI:W2B-035#20:1>
+The recent spate of doom-saying and alarmism closely tracks
+Y2K-related hyperventilation in the United States, where survivalists are
+urging people to stock up on foodstuffs, ammunition, fuel and to move their
+families into caves, mountains or other havens safe from the coming
+technological disintegration of society.
+
+<ICE-PHI:W2B-035#21:1>
+Since Dec. 31, 1999 will arrive on a Friday and usher in possibly the
+wildest weekend in a thousand years, those convinced that Y2K spells the end
+of the world are getting ready for megabyte mayhem. </p>
+
+<p> 
+<ICE-PHI:W2B-035#22:1>
+But before you unplug your PC and exchange the Toyota for an
+old-style <foreign> <it> karetela </it> </foreign> , consider a simple fact:
+the most rabid Y2K prophets-of-doom are also somehow those who would profit
+from gloom: software consultants, hardware resellers, computer magazine
+editors and such.
+
+<ICE-PHI:W2B-035#23:1>
+As usual, the truth about Y2K lies somewhere between their hype and
+those who might deny there is even a problem; but it is certainly farther
+away from the former.
+
+<ICE-PHI:W2B-035#24:1>
+At least for the Philippines, our retarded growth into the computer
+age may be a real blessing. </p>
+
+<ICE-PHI:W2B-035#25:1>
+<h> <bold> Mainframe </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-035#26:1>
+Some reliable facts to console the fearful are as follows.
+
+<ICE-PHI:W2B-035#27:1>
+Most of the problem is confined to the so-called mainframe world of
+big clunky machines running ages old legacy software, like rural banks and
+the government and its various institutions.
+
+<ICE-PHI:W2B-035#28:1>
+Here the problem is one of management, not a technical one, since the
+computer clocks can be set forward to the doomsday date and the system
+checked out for apocalyptic Armageddon. </p>
+
+<p> 
+<ICE-PHI:W2B-035#29:1>
+You have a real problem if you truly rely on government computers
+for anything, but that 's true with or without Y2K.
+
+<ICE-PHI:W2B-035#30:1>
+There 's no real problem if you use personal computers and
+commercially available software, unless you inherited it all from your
+grandfather 's accountant.
+
+<ICE-PHI:W2B-035#31:1>
+As for your toaster burning the house down just as you 're popping
+champagne bottles two New Year 's Eves from now, you really need to get a
+life if you 're worrying about that. </p>
+
+<p> 
+<ICE-PHI:W2B-035#32:1>
+Another thing to consider is that the world is already up to its
+ears in computer-related snafus.
+
+<ICE-PHI:W2B-035#33:1>
+One doesn't have to wait till the end of the millennium to suffer
+from the scourges of incompetent software, non-complying firmware and errant
+hardware.
+
+<ICE-PHI:W2B-035#34:1>
+Just visit your local bank or ATM on any given day.
+
+<ICE-PHI:W2B-035#35:1>
+Y2K may be just a convenient way for the information technology
+department to justify bloating its staff, hiring outside consultants,
+expanding its power and management covering up all the buggy, substandard
+software they 've allowed to be produced. </p>
+
+<p> 
+<ICE-PHI:W2B-035#36:1>
+Just watch, everything that goes wrong with computers after 1999
+will be blamed on this Y2K humbug.
+
+<ICE-PHI:W2B-035#37:1>
+Something like this happened at the end of every century.
+
+<ICE-PHI:W2B-035#38:1>
+It 's our <foreign> <it> fin de siecle </it> </foreign> (
+end-of-cycle) reincarnation of the Antichrist, wearing a pocket-protector.
+</p> </I>
+
+
+<I>
+
+<ICE-PHI:W2B-035#39:2>
+<h> <bold> Caught in the Web: An unfinished history of the Internet
+</bold> </h>
+
+<ICE-PHI:W2B-035#40:2>
+<bold> Herminio L. Santos Jr. </bold>
+
+<p> 
+<ICE-PHI:W2B-035#41:2>
+THE Internet was founded in 1969 by the Pentagon as a secure
+communications system in case of a nuclear war.
+
+<ICE-PHI:W2B-035#42:2>
+Computers of one establishment were connected - - or networked - - to
+computers in another establishment, thus providing a two-way exchange of
+data. </p>
+
+<p> 
+<ICE-PHI:W2B-035#43:2>
+But even before the cold war ended, Internet ( <mention> " the
+Net &rdquo; </mention> ) not only provided information for defensive
+purposes, it also provided information to anyone interested.
+
+<ICE-PHI:W2B-035#44:2>
+It now links more than 20 million computers in more than 100
+countries, and the number is doubling every year.
+
+<ICE-PHI:W2B-035#45:2>
+For some, the Net is a black hole of information, viruses, hackers,
+and perverts.
+
+<ICE-PHI:W2B-035#46:2>
+For many users though, it 's a lifeline, a living web, a highway to
+the rest of the world. </p>
+
+<p> 
+<ICE-PHI:W2B-035#47:2>
+Tapping to the Net 's vast resources can lead to a sudden
+information glut.
+
+<ICE-PHI:W2B-035#48:2>
+Many of the information providers are individuals, and most of the
+time, there 's no telling if what you find are hard facts, mere opinions, or
+outright lies.
+
+<ICE-PHI:W2B-035#49:2>
+To list all the databases available online would use up the rest of
+this column, but a few examples might give you a hint of the capabilities:
+more than 4,000 medical journals with more than seven million references, the
+full text of several encyclopedias, items on rap music, and more than 800
+business magazines and newsletters.
+
+<ICE-PHI:W2B-035#50:2>
+However, news about Internet buying rights to the Pope and sleazy
+X-rated graphics also abound. </p>
+
+<ICE-PHI:W2B-035#51:2>
+<h> <bold> Messages </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-035#52:2>
+In the Net, virtual communities exist.
+
+<ICE-PHI:W2B-035#53:2>
+You can exchange electronic mail ( e-mail) with other people.
+
+<ICE-PHI:W2B-035#54:2>
+Instead of calling people and getting infuriating busy signals and
+voice-mail boxes you simply send them messages through the phone lines, and
+you 're assured that person will have a written copy of your message.
+
+<ICE-PHI:W2B-035#55:2>
+You can, for example, send questions and opinions to the president of
+the United States.
+
+<ICE-PHI:W2B-035#56:2>
+( Whether or not he answers them is another matter altogether). </p>
+
+<p> 
+<ICE-PHI:W2B-035#57:2>
+You can also chat online, that is, send and receive messages in
+the keyboard equivalent of a conversation.
+
+<ICE-PHI:W2B-035#58:2>
+Topics range from business deals to setting up blind dates.
+
+<ICE-PHI:W2B-035#59:2>
+One popular news group, alt.support.depression only posts topics that
+talk about - - you guessed it - - depression.
+
+<ICE-PHI:W2B-035#60:2>
+Subjects covered are dubious therapists, insurance claims, and
+dreaded family reunions. </p>
+
+<ICE-PHI:W2B-035#61:2>
+<h> <bold> Marriage </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-035#62:2>
+This new mode of communication is brought about by the
+technological advances in, and the marriage of, telephone, television, and
+computers.
+
+<ICE-PHI:W2B-035#63:2>
+All three contain the essentials for building the data network.
+
+<ICE-PHI:W2B-035#64:2>
+Soon, the fine line dividing the three may no longer be visible. </p>
+
+<p> 
+<ICE-PHI:W2B-035#65:2>
+The telephone system provides a switched, two-way form of
+communication that enables users to communicate with other users.
+
+<ICE-PHI:W2B-035#66:2>
+Television has multiple video channels with high-capacity bandwidth
+necessary to carry huge amounts of information such as video and audio.
+
+<ICE-PHI:W2B-035#67:2>
+A new cable developed by AT&T can carry 80 gigabytes per second, or
+about 2000 TV channels simultaneously per fiber.
+
+<ICE-PHI:W2B-035#68:2>
+Computers provide the nerve center for everything.
+
+<ICE-PHI:W2B-035#69:2>
+They control storage, manipulation and distribution of the data.
+
+<ICE-PHI:W2B-035#70:2>
+Powerful computers with speed, lots of memory, and huge amounts of
+storage space are already being developed, if not already here with us. </p>
+
+<p> 
+<ICE-PHI:W2B-035#71:2>
+The trick, however, lies not in combining these technologies, but
+in making these available to the most number of people.
+
+<ICE-PHI:W2B-035#72:2>
+Problems arise. </p>
+
+<ICE-PHI:W2B-035#73:2>
+<h> <bold> Issues </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-035#74:2>
+First, logistics.
+
+<ICE-PHI:W2B-035#75:2>
+Not many telecommunication companies worldwide have the capability to
+set up the satellites and the billions of kilometers of optical fibers needed
+by the Net.
+
+<ICE-PHI:W2B-035#76:2>
+Even if the technology is here with us, the capital isn't.
+
+<ICE-PHI:W2B-035#77:2>
+Moreover, going online is not cheap.
+
+<ICE-PHI:W2B-035#78:2>
+The hardware needed ( computer, telephone line, modem, the works),
+although still expensive, is fast becoming more affordable.
+
+<ICE-PHI:W2B-035#79:2>
+You can buy decent machines for less than US&dollar;2,000.
+
+<ICE-PHI:W2B-035#80:2>
+But the long distance charges are murder.
+
+<ICE-PHI:W2B-035#81:2>
+And once you get caught in the Net, the phone charges pile up quite
+fast. </p>
+
+<p> 
+<ICE-PHI:W2B-035#82:2>
+Fear brought about by lack of training is also a problem.
+
+<ICE-PHI:W2B-035#83:2>
+For most people, computers still bring images of nerdy hackers
+wrestling with serpent-like technology.
+
+<ICE-PHI:W2B-035#84:2>
+Although some people say that the computer has virtually become just
+another household appliance, it 's still not as every day and as easy to use
+as a toaster.
+
+<ICE-PHI:W2B-035#85:2>
+Too often, computers gather dust because people don't know what to do
+with them.
+
+<ICE-PHI:W2B-035#86:2>
+Most computers are still being used as overqualified calculators and
+typewriters.
+
+<ICE-PHI:W2B-035#87:2>
+In schools, computers are still kept in a separate room, which is
+usually called the <mention> &ldquo; computer lab, &rdquo; </mention> thus
+further isolating the machines from the mainstream learning environment.
+
+<ICE-PHI:W2B-035#88:2>
+Computers are still thought of as an end to itself, and not as a
+powerful tool for discovering other things. </p>
+
+<ICE-PHI:W2B-035#89:2>
+<h> <bold> Fear </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-035#90:2>
+Moreover, many people fear that computers will render them, and
+the current technologies they 're comfortable with, useless.
+
+<ICE-PHI:W2B-035#91:2>
+But will computers render teachers and television obsolete?
+
+<ICE-PHI:W2B-035#92:2>
+Probably not.
+
+<ICE-PHI:W2B-035#93:2>
+Whoever thinks that students can be left caught in the Net and learn
+everything by themselves is in for a rude awakening because as in any trip to
+an unknown land, guides are necessary.
+
+<ICE-PHI:W2B-035#94:2>
+As for television, it 's a matter of taste: While some may prefer
+television they can talk back to, others either simply can't afford the new
+technology, or will still want current TV 's passive mode of entertainment.
+</p>
+
+<p> 
+<ICE-PHI:W2B-035#95:2>
+Roles and responsibilities, however, will definitely be
+redefined.
+
+<ICE-PHI:W2B-035#96:2>
+The Net, for example, will do to TV what TV did to radio a couple of
+decades ago.
+
+<ICE-PHI:W2B-035#97:2>
+</p>
+
+<ICE-PHI:W2B-035#98:2>
+Last November 1994, in Tokyo, I attended NHK 's 21st Japan Prize
+Contest, which is a competition for educational TV programs from all over the
+world.
+
+<ICE-PHI:W2B-035#99:2>
+In one of the seminars I attended, participants discussed television 's
+future.
+
+<ICE-PHI:W2B-035#100:2>
+Some said that multimedia and the Information Superhighway will not
+radically change television.
+
+<ICE-PHI:W2B-035#101:2>
+Television will remain the same dictatorial medium it has been for
+the past decade: here are the programs, take it or leave it.
+
+<ICE-PHI:W2B-035#102:2>
+No interaction.
+
+<ICE-PHI:W2B-035#103:2>
+The only choice the audience makes is switching stations. </p>
+
+<p> 
+<ICE-PHI:W2B-035#104:2>
+But the contest used to have a category for educational radio
+programs.
+
+<ICE-PHI:W2B-035#105:2>
+In 1969, Professor Schramm of Stanford University said the rapid
+development of TV did not mean that radio as an educational tool has faded
+away.
+
+<ICE-PHI:W2B-035#106:2>
+He added that TV 's popularity does not change the fact that radio
+still served as one of the important educational media in any country.
+
+<ICE-PHI:W2B-035#107:2>
+In 1991, due to lack of entries, the radio category was abolished.
+</p> </I>

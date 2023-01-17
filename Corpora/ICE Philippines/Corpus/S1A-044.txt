@@ -1,0 +1,1151 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-044#1:1:A>
+I 've heard of this restaurant where they serve uhm California pizza
+ 
+<ICE-PHI:S1A-044#2:1:A>
+What exactly are California pizzas
+
+ <$B> 
+<ICE-PHI:S1A-044#3:1:B>
+I suppose they are pizzas that are made from ingredients taken from California or they 're pizzas based on California recipes
+
+ <$A> 
+<ICE-PHI:S1A-044#4:1:A>
+It 's not because of the size
+
+ <$B> 
+<ICE-PHI:S1A-044#5:1:B>
+I don't <.> kno </.> 
+
+ <$A> 
+<ICE-PHI:S1A-044#6:1:A>
+Maybe it 's larger
+
+ <$B> 
+<ICE-PHI:S1A-044#7:1:B>
+Is there a California size <,,> 
+
+ <$A> 
+<ICE-PHI:S1A-044#8:1:A>
+What about in California Pizza Kitchen
+ 
+<ICE-PHI:S1A-044#9:1:A>
+You ate there the other day right <,> 
+ 
+<ICE-PHI:S1A-044#10:1:A>
+How were their pizzas
+
+ <$B> 
+<ICE-PHI:S1A-044#11:1:B>
+Well I think it it it 's mostly about the California lifestyle or
+
+ <$A> 
+<ICE-PHI:S1A-044#12:1:A>
+So it 's the flavor of the pizza
+
+ <$B> 
+<ICE-PHI:S1A-044#13:1:B>
+I think it 's the flavor of the pizza
+
+ <$A> 
+<ICE-PHI:S1A-044#14:1:A>
+<{> <[> What do they have </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#15:1:B>
+<[> Or the character </[> </{> of of a Californian which is I suppose ambiguous because it 's a mix of Western and Asian <unclear> 1 word </unclear> 
+
+ <$A> 
+<ICE-PHI:S1A-044#16:1:A>
+Rowdy bunch <O> chuckle </O> 
+
+ <$B> 
+<ICE-PHI:S1A-044#17:1:B>
+A rowdy bunch it 's a rowdy bunch of ingredients
+ 
+<ICE-PHI:S1A-044#18:1:B>
+So uh I think that 's that 's why they call it California pizza it 's uh it 's a hodgepodge of of of of of influences
+
+ <$A> 
+<ICE-PHI:S1A-044#20:1:A>
+And where do pizzas really come from anyway
+
+ <$B> 
+<ICE-PHI:S1A-044#21:1:B>
+I think they originated from <{> <[> Italy </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#22:1:A>
+<[> From Italy </[> </{> <O> chuckle </O> 
+
+ <$B> 
+<ICE-PHI:S1A-044#23:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-044#24:1:A>
+But
+
+ <$B> 
+<ICE-PHI:S1A-044#25:1:B>
+Pizza what 's what 's the what 's the root word of <mention> pizza </mention> 
+ 
+<ICE-PHI:S1A-044#26:1:B>
+Is pizza like a piazza
+
+ <$A> 
+<ICE-PHI:S1A-044#27:1:A>
+No I don't think so
+
+ <$B> 
+<ICE-PHI:S1A-044#28:1:B>
+Uh <{> <[> okay </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#29:1:A>
+<[> Pizza </[> </{> 
+ 
+<ICE-PHI:S1A-044#30:1:A>
+What does <mention> pizza </mention> mean
+ 
+<ICE-PHI:S1A-044#31:1:A>
+Is it a piece
+
+ <$B> 
+<ICE-PHI:S1A-044#32:1:B>
+Does <mention> pizza </mention> mean
+
+ <$A> 
+<ICE-PHI:S1A-044#33:1:A>
+<.> Piz </.> <{> <[> it 's a piece </[> of a pie
+
+ <$B> 
+<ICE-PHI:S1A-044#34:1:B>
+<[> A round </[> </{> 
+ 
+<ICE-PHI:S1A-044#35:1:B>
+It 's a piece of a pie
+
+ <$A> 
+<ICE-PHI:S1A-044#36:1:A>
+I I don't know
+ 
+<ICE-PHI:S1A-044#37:1:A>
+I 'm just guessing
+
+ <$B> 
+<ICE-PHI:S1A-044#38:1:B>
+Uh okay well <.> ma </.> maybe it 's because I think it 's it 's uh well it 's probably the the uh the way Italians would do the uh like to have their round bread I suppose
+
+ <$A> 
+<ICE-PHI:S1A-044#39:1:A>
+But I 've eaten Italian pizzas and they 're not round
+ 
+<ICE-PHI:S1A-044#40:1:A>
+<{> <[> They 're actually </[> square
+
+ <$B> 
+<ICE-PHI:S1A-044#41:1:B>
+<[> Oh really </[> </{> 
+ 
+<ICE-PHI:S1A-044#42:1:B>
+Okay <{> <[> so </[> I guess
+
+ <$A> 
+<ICE-PHI:S1A-044#43:1:A>
+<[> Or </[> </{> <{> <[> sort of rectangular </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#45:1:B>
+<[> But the popular </[> </{> 
+ 
+<ICE-PHI:S1A-044#46:1:B>
+Well does it also depend on the the location or the the place where it originated
+ 
+<ICE-PHI:S1A-044#47:1:B>
+I mean there are
+
+ <$A> 
+<ICE-PHI:S1A-044#48:1:A>
+I 'm not too sure because of the many regions in Italy
+
+ <$B> 
+<ICE-PHI:S1A-044#49:1:B>
+Yeah there are many uh there should be many types of pizzas according to the different regions
+
+ <$A> 
+<ICE-PHI:S1A-044#50:1:A>
+I know there are different types of pizzas in terms of what you put inside the pizza or what you put on <{> <[> a pizza </[> on top of a pizza
+
+ <$B> 
+<ICE-PHI:S1A-044#51:1:B>
+<[> On top </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-044#52:1:A>
+But in terms of shape
+
+ <$B> 
+<ICE-PHI:S1A-044#53:1:B>
+I think <mention> pizza </mention> means simply means the type of bread
+ 
+<ICE-PHI:S1A-044#54:1:B>
+It 's like a pita flour-based <{> <[> bread </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#55:1:A>
+<[> Actually </[> </{> it 's flat <indig> nga e </indig> 
+ 
+<ICE-PHI:S1A-044#56:1:A>
+<{> <[> It 's </[> your thin crust not the thick one
+
+ <$B> 
+<ICE-PHI:S1A-044#57:1:B>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-044#58:1:B>
+Yeah so uh <{> <[> it 's more of the bread </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#59:1:A>
+<[> Maybe the Americans </[> </{> made uh did the <,> uh
+
+ <$B> 
+<ICE-PHI:S1A-044#60:1:B>
+Popularized some form of
+
+ <$A> 
+<ICE-PHI:S1A-044#61:1:A>
+Yes <.> piz </.> another yeast another bread to make pizza another kind of dough
+ 
+<ICE-PHI:S1A-044#63:1:A>
+That 's why we have our pizzas right now
+
+ <$B> 
+<ICE-PHI:S1A-044#64:1:B>
+And I guess it 's also the the kind of of of treating the dough
+ 
+<ICE-PHI:S1A-044#65:1:B>
+Don't they throw the dough in the air and <{1> <[1> clip it </[1> in and <{2> <[2> punch it in </[2> 
+
+ <$A> 
+<ICE-PHI:S1A-044#66:1:A>
+<[1> Yeah </[1> </{1> 
+ 
+<ICE-PHI:S1A-044#67:1:A>
+<[2> But they usually roll it out </[2> </{2> thinly
+
+ <$B> 
+<ICE-PHI:S1A-044#68:1:B>
+<{> <[> And </[> twirl it
+
+ <$A> 
+<ICE-PHI:S1A-044#69:1:A>
+<[> But </[> </{> 
+ 
+<ICE-PHI:S1A-044#70:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#71:1:B>
+Don't they do that with pizzas
+ 
+<ICE-PHI:S1A-044#72:1:B>
+I mean <{> <[> do you </[> do you remember the the the that restaurant the Italian Village
+
+ <$A> 
+<ICE-PHI:S1A-044#73:1:A>
+<[> Pizza dough </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#74:1:B>
+<{> <[> Uhm </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#75:1:A>
+<[> In </[> </{> Quezon Avenue
+
+ <$B> 
+<ICE-PHI:S1A-044#76:1:B>
+Quezon Avenue <{> <[> and also </[> one in I think in in EDSA
+
+ <$A> 
+<ICE-PHI:S1A-044#77:1:A>
+<[> Uh uhm </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#78:1:B>
+They they originated Italian pizza here
+
+ <$A> 
+<ICE-PHI:S1A-044#79:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#80:1:B>
+They popularized Italian pizzas <{> <[> before Shakey 's came out here </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#81:1:A>
+<[> But they </[> </{> they serve thick crust pizzas
+
+ <$B> 
+<ICE-PHI:S1A-044#82:1:B>
+They serve all kinds of pizzas
+ 
+<ICE-PHI:S1A-044#83:1:B>
+But the point is they popularized pizza in the Philippines
+
+ <$A> 
+<ICE-PHI:S1A-044#84:1:A>
+Uh I didn't know even before Shakey 's
+
+ <$B> 
+<ICE-PHI:S1A-044#85:1:B>
+Yeah even before Shakey 's even before Shakey shook
+
+ <$A> 
+<ICE-PHI:S1A-044#86:1:A>
+What 's Shakey shook
+
+ <$B> 
+<ICE-PHI:S1A-044#87:1:B>
+Shakey shook the pizza
+
+ <$A> 
+<ICE-PHI:S1A-044#88:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-044#89:1:B>
+<unclear> 1 word </unclear> Shakey 's <&> speaker A chuckles </&> 
+ 
+<ICE-PHI:S1A-044#90:1:B>
+Okay so what else
+
+ <$A> 
+<ICE-PHI:S1A-044#91:1:A>
+Uhm about pizzas
+
+ <$B> 
+<ICE-PHI:S1A-044#92:1:B>
+Pizzas and uh <,,> 
+
+ <$A> 
+<ICE-PHI:S1A-044#93:1:A>
+What else
+
+ <$B> 
+<ICE-PHI:S1A-044#94:1:B>
+Well the Italians also have aside from
+ 
+<ICE-PHI:S1A-044#95:1:B>
+Don't pasta come from flour as well
+
+ <$A> 
+<ICE-PHI:S1A-044#96:1:A>
+Yeah they do
+
+ <$B> 
+<ICE-PHI:S1A-044#97:1:B>
+Okay so
+
+ <$A> 
+<ICE-PHI:S1A-044#98:1:A>
+But did you know that pasta originated from China
+ 
+<ICE-PHI:S1A-044#99:1:A>
+It didn't <{> <[> really </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#100:1:B>
+<[> Yes </[> </{> 
+ 
+<ICE-PHI:S1A-044#101:1:B>
+I think <{> <[> Marco Polo </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#102:1:A>
+<[> As noodles </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#103:1:B>
+Yeah <{> <[> Marco Polo </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#104:1:A>
+<[> As noodles </[> </{> and then Marco Polo brought the same concept <{> <[> but </[> instead of using
+
+ <$B> 
+<ICE-PHI:S1A-044#105:1:B>
+<[> To </[> </{> 
+ 
+<ICE-PHI:S1A-044#106:1:B>
+Is Marco Polo Italian <,> 
+
+ <$A> 
+<ICE-PHI:S1A-044#107:1:A>
+No he was Portuguese
+
+ <$B> 
+<ICE-PHI:S1A-044#108:1:B>
+Was he <.> Por </.> 
+ 
+<ICE-PHI:S1A-044#109:1:B>
+<{> <[> He was </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#110:1:A>
+<[> Portuguese </[> </{> <indig> di ba </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-044#111:1:B>
+He was Portuguese
+
+ <$A> 
+<ICE-PHI:S1A-044#112:1:A>
+Okay I think he was Portugese
+ 
+<ICE-PHI:S1A-044#113:1:A>
+So what were we what were we talking about
+
+ <$B> 
+<ICE-PHI:S1A-044#114:1:B>
+I think we were talking about pastas
+
+ <$A> 
+<ICE-PHI:S1A-044#115:1:A>
+Pastas uhm it originally came from <{> <[> Italy </[> <indig> ay </indig> China as noodles right
+
+ <$B> 
+<ICE-PHI:S1A-044#116:1:B>
+<[> China </[> </{> 
+ 
+<ICE-PHI:S1A-044#117:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-044#118:1:A>
+And then Marco Polo brought it to Italy
+
+ <$B> 
+<ICE-PHI:S1A-044#119:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-044#120:1:A>
+And they used flour instead of using
+
+ <$B> 
+<ICE-PHI:S1A-044#121:1:B>
+Rice
+
+ <$A> 
+<ICE-PHI:S1A-044#122:1:A>
+Rice yeah
+
+ <$B> 
+<ICE-PHI:S1A-044#123:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-044#124:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#125:1:B>
+Well and then the Italians popularized it
+ 
+<ICE-PHI:S1A-044#126:1:B>
+But I think I suppose well there are the Chinese also <{> <[> have been </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#127:1:A>
+<[> Popularized </[> </{> noodles
+
+ <$B> 
+<ICE-PHI:S1A-044#128:1:B>
+Yeah and I think they also have uh different recipes for different kinds of noodles
+
+ <$A> 
+<ICE-PHI:S1A-044#129:1:A>
+Yes they have <{> <[> it </[> in soup
+
+ <$B> 
+<ICE-PHI:S1A-044#130:1:B>
+<[> There </[> </{> there there are rice noodles glass noodles
+
+ <$A> 
+<ICE-PHI:S1A-044#131:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#132:1:B>
+Uhm egg noodles
+
+ <$A> 
+<ICE-PHI:S1A-044#133:1:A>
+Uh uhm okay I thought it was how you use them
+
+ <$B> 
+<ICE-PHI:S1A-044#134:1:B>
+Yeah but but they have different kinds of recipes for that <{> <[> don't they </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#135:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-044#136:1:A>
+Yes they do
+
+ <$B> 
+<ICE-PHI:S1A-044#137:1:B>
+Uhm I think the Chinese are more adventurous and more innovative in terms of their recipes in the world
+ 
+<ICE-PHI:S1A-044#138:1:B>
+I think they are
+
+ <$A> 
+<ICE-PHI:S1A-044#139:1:A>
+The Chinese
+
+ <$B> 
+<ICE-PHI:S1A-044#140:1:B>
+I think so
+ 
+<ICE-PHI:S1A-044#141:1:B>
+I mean they have different recipes for <,> different kinds of of of of uh food or ingredient
+ 
+<ICE-PHI:S1A-044#142:1:B>
+They almost they use almost everything in uh
+
+ <$A> 
+<ICE-PHI:S1A-044#143:1:A>
+Can't you say the same for Filipinos
+ 
+<ICE-PHI:S1A-044#144:1:A>
+<{> <[> For example in </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#145:1:B>
+<[> Not really </[> </{> 
+ 
+<ICE-PHI:S1A-044#146:1:B>
+If you look at <{> <[> the recipe yeah you </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#147:1:A>
+<[> If you have your <?> pig </?> you can eat </[> </{> everything
+
+ <$B> 
+<ICE-PHI:S1A-044#148:1:B>
+Yes but if you look at the Chinese recipe or the Chinese if you go to a Chinese restaurant for example they have more choices rather than Filipinos in terms of of their uhm food
+ 
+<ICE-PHI:S1A-044#149:1:B>
+Like uh and I think they I think
+
+ <$A> 
+<ICE-PHI:S1A-044#150:1:A>
+But they only
+
+ <$B> 
+<ICE-PHI:S1A-044#151:1:B>
+They are equally as as uh as uh <,> uhm <,,> they 're equally as as uh adventurous in terms of their recipes compared to the Thais
+ 
+<ICE-PHI:S1A-044#153:1:B>
+Well the Thais have Chinese influences as well
+
+ <$A> 
+<ICE-PHI:S1A-044#154:1:A>
+But they usually use the same cooking <{> <[> method </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#155:1:B>
+<[> They use </[> </{> 
+ 
+<ICE-PHI:S1A-044#156:1:B>
+No <{> <[> no not really </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#157:1:A>
+<[> Where they </[> </{> stir-fry steam
+
+ <$B> 
+<ICE-PHI:S1A-044#158:1:B>
+Not really
+ 
+<ICE-PHI:S1A-044#159:1:B>
+But the ingredients they use are the Chinese are more <{> <[> have more </[> ingredients
+
+ <$A> 
+<ICE-PHI:S1A-044#160:1:A>
+<[> Adventurous </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#161:1:B>
+They they uh they uh they <,> they 're tastier
+ 
+<ICE-PHI:S1A-044#162:1:B>
+They have <.> var </.> varieties of of of uh of ways of cooking things like uh
+
+ <$A> 
+<ICE-PHI:S1A-044#163:1:A>
+I I can also say the same thing for Italians
+ 
+<ICE-PHI:S1A-044#164:1:A>
+I think it depends <{> <[> on </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#165:1:B>
+<[> Not </[> </{> really
+ 
+<ICE-PHI:S1A-044#166:1:B>
+I <{1> <[1> don't think </[1> Italians are the <.> sa </.> the same as uh <{2> <[2> the Chinese </[2> I think
+
+ <$A> 
+<ICE-PHI:S1A-044#167:1:A>
+<[1> Why </[1> </{1> 
+ 
+<ICE-PHI:S1A-044#169:1:A>
+<[2> Yes </[2> </{2> 
+
+ <$B> 
+<ICE-PHI:S1A-044#170:1:B>
+Chinese have more ingredients rather than the Italians
+ 
+<ICE-PHI:S1A-044#171:1:B>
+The Italians are well they 're typically
+
+ <$A> 
+<ICE-PHI:S1A-044#172:1:A>
+They have their olive oil <{> <[> there 's tomatoes </[> the garlic
+
+ <$B> 
+<ICE-PHI:S1A-044#173:1:B>
+<[> Western meals </[> </{> 
+ 
+<ICE-PHI:S1A-044#174:1:B>
+Exactly they have that
+
+ <$A> 
+<ICE-PHI:S1A-044#175:1:A>
+The anchovies the capers but that 's basically it
+ 
+<ICE-PHI:S1A-044#176:1:A>
+<{> <[> Yeah </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#177:1:B>
+<[> Yes </[> </{> but Chinese have <foreign> wansoy </foreign> 
+
+ <$A> 
+<ICE-PHI:S1A-044#178:1:A>
+<[> I can see your point </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#179:1:B>
+They have uh they use ginger a lot
+ 
+<ICE-PHI:S1A-044#180:1:B>
+They use garlic they use onions a lot
+ 
+<ICE-PHI:S1A-044#181:1:B>
+They use cornstarch a lot
+ 
+<ICE-PHI:S1A-044#182:1:B>
+They use uh soy sauce sesame seed oil uhm
+
+ <$A> 
+<ICE-PHI:S1A-044#183:1:A>
+But don't <{> <[> they usually </[> taste the same
+
+ <$B> 
+<ICE-PHI:S1A-044#184:1:B>
+<[> <unclear> 1 word </unclear> oil </[> </{> 
+ 
+<ICE-PHI:S1A-044#185:1:B>
+No I don't know
+ 
+<ICE-PHI:S1A-044#186:1:B>
+I don't think so I don't think so
+ 
+<ICE-PHI:S1A-044#187:1:B>
+There 's this Szechwan style of cooking
+ 
+<ICE-PHI:S1A-044#188:1:B>
+There 's a Mandarin style of <{> <[> cooking </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#189:1:A>
+<[> What 's </[> </{> the Szechwan style of <{> <[> cooking </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#190:1:B>
+<[> Szechwan </[> </{> I think is more uh spicy
+
+ <$A> 
+<ICE-PHI:S1A-044#191:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#192:1:B>
+And more <,> darker in color presentation as compared to the Cantonese which is more based on cornstarch
+ 
+<ICE-PHI:S1A-044#193:1:B>
+And I think it is more uh
+
+ <$A> 
+<ICE-PHI:S1A-044#194:1:A>
+You mean the sauce is like
+
+ <$B> 
+<ICE-PHI:S1A-044#195:1:B>
+The one <{> <[> that is very </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#196:1:A>
+<[> Sauce-based </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#197:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-044#198:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#199:1:B>
+Very sauce-based
+ 
+<ICE-PHI:S1A-044#200:1:B>
+The Mandarin I think is is is uh is with I think the Mandarin is because
+
+ <$A> 
+<ICE-PHI:S1A-044#201:1:A>
+Steamed the dumplings 
+
+ <$B> 
+<ICE-PHI:S1A-044#204:1:B>
+<[> The Mandarin </[> </{> cooking I think is primarily served for kings and therefore they 're more <{> <[> uh </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#205:1:A>
+<[> Really </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#206:1:B>
+I think so
+
+ <$A> 
+<ICE-PHI:S1A-044#207:1:A>
+I 've never really read anything about <{> <[> Chinese cooking </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#208:1:B>
+<[> It 's very interesting </[> </{> if you if you look into
+
+ <$A> 
+<ICE-PHI:S1A-044#209:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#210:1:B>
+Chinese cooking
+ 
+<ICE-PHI:S1A-044#211:1:B>
+The way they prepare uh their their food uh it 's sort of a ritual uhm because there 's a certain uh cultural value attached to on their <{> <[> <,> </[> their food 
+
+ <$A> 
+<ICE-PHI:S1A-044#212:1:A>
+<[> Well </[> </{> 
+ 
+<ICE-PHI:S1A-044#214:1:A>
+Aren't the French supposedly the the the <indig> parang </indig> the father of all cuisines
+
+ <$B> 
+<ICE-PHI:S1A-044#215:1:B>
+I don't think so
+ 
+<ICE-PHI:S1A-044#216:1:B>
+Uh well that 's because you know Westerners they they tend to they 're very ethnocentric
+ 
+<ICE-PHI:S1A-044#218:1:B>
+They think that they are the the superior race <{> <[> or </[> superior culture
+
+ <$A> 
+<ICE-PHI:S1A-044#219:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-044#220:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#221:1:B>
+I don't think so
+ 
+<ICE-PHI:S1A-044#222:1:B>
+But when it comes I think to food I think it 's the Chinese that are more more uh adroit
+
+ <$A> 
+<ICE-PHI:S1A-044#223:1:A>
+What do you mean
+
+ <$B> 
+<ICE-PHI:S1A-044#224:1:B>
+They 're more adaptive
+ 
+<ICE-PHI:S1A-044#225:1:B>
+They 're more uh innovative
+ 
+<ICE-PHI:S1A-044#226:1:B>
+They 're uh they they <,> they tend to use ingredients in so many ways
+ 
+<ICE-PHI:S1A-044#227:1:B>
+They they easily modify their their recipes <,> plus the fact also that the Chinese enjoy their food a lot
+ 
+<ICE-PHI:S1A-044#228:1:B>
+I think
+ 
+<ICE-PHI:S1A-044#229:1:B>
+Rather than the than the French <,> uh they have the classic recipes but that 's about it I think uh
+
+ <$A> 
+<ICE-PHI:S1A-044#230:1:A>
+Any deviations they usually do
+
+ <$B> 
+<ICE-PHI:S1A-044#231:1:B>
+And I think it 's because also of a certain form of an elite culture or class attributed the French to be the uh the world class cuisine which I I really don't uh agree or subscribe to
+ 
+<ICE-PHI:S1A-044#232:1:B>
+I think it 's the Chinese
+ 
+<ICE-PHI:S1A-044#233:1:B>
+And I think what we know here in the Philippines is is uh is nothing compared to to what the Chinese really can do in terms of their food or in terms of real Chinese cooking
+ 
+<ICE-PHI:S1A-044#234:1:B>
+I suppose that when one goes to Beijing or or Peking or Hunan or or any other Chinese <{> <[> province </[> they discover a whole different world of cooking
+
+ <$A> 
+<ICE-PHI:S1A-044#235:1:A>
+<[> Uh uhm </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#236:1:B>
+I can't say that for Filipinos because you tend to see the same thing wherever you go
+
+ <$A> 
+<ICE-PHI:S1A-044#237:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#238:1:B>
+Although it 's the Kapampangans that are known to be more of the cuisine type
+
+ <$A> 
+<ICE-PHI:S1A-044#239:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#240:1:B>
+But that 's about it
+ 
+<ICE-PHI:S1A-044#241:1:B>
+For example can you <{> <[> think of any </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#242:1:A>
+<[> How about the </[> </{> Bicolanos
+
+ <$B> 
+<ICE-PHI:S1A-044#243:1:B>
+For the Bicolanos it 's like this
+ 
+<ICE-PHI:S1A-044#244:1:B>
+You go to the north you <{> <[> the Ilocos region </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#245:1:A>
+<[> The Ilocanos </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#246:1:B>
+You have the <{> <[> you have you have </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#247:1:A>
+<[> <indig> Pinak- </[> </{> pakbet </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-044#248:1:B>
+You have signature recipes
+
+ <$A> 
+<ICE-PHI:S1A-044#249:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#250:1:B>
+<indig> Pinakbet </indig> uhm <indig> dinengdeng </indig> uh <{> <[> <indig> pinikpikan </indig> </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#251:1:A>
+<[> That pork one </[> </{> that pork
+
+ <$B> 
+<ICE-PHI:S1A-044#252:1:B>
+<indig> Bagnet </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-044#253:1:A>
+<indig> Bagnet </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-044#254:1:B>
+You have those
+ 
+<ICE-PHI:S1A-044#255:1:B>
+When you go to Pampanga oh you have a lot of recipes
+
+ <$A> 
+<ICE-PHI:S1A-044#256:1:A>
+What do you call those crickets that they eat <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-044#257:1:B>
+<foreign> cucaracha </foreign> no <indig> kutkut <.> ku </.> </indig> I don't know
+ 
+<ICE-PHI:S1A-044#258:1:B>
+Uh you go to Bicol
+ 
+<ICE-PHI:S1A-044#259:1:B>
+You talk about Bicol express
+
+ <$A> 
+<ICE-PHI:S1A-044#260:1:A>
+What exactly is Bicol express
+
+ <$B> 
+<ICE-PHI:S1A-044#261:1:B>
+I think it 's chili peppers
+
+ <$A> 
+<ICE-PHI:S1A-044#262:1:A>
+So it 's any kind of
+
+ <$B> 
+<ICE-PHI:S1A-044#263:1:B>
+It 's chili peppers <{> <[> cooked </[> in in ground pork and uh
+
+ <$A> 
+<ICE-PHI:S1A-044#264:1:A>
+<[> Ingredient </[> </{> 
+ 
+<ICE-PHI:S1A-044#265:1:A>
+It 's always <{> <[> ground pork </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#266:1:B>
+<[> Coconut milk </[> </{> 
+ 
+<ICE-PHI:S1A-044#267:1:B>
+I think ground pork because uh pork is the more <{> <[> popular </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#268:1:A>
+<[> It 's like </[> </{> your <indig> sisig </indig> but it 's with <{> <[> <indig> gata </indig> </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#269:1:B>
+<[> No </[> </{> yeah but no this is ground pork is just the the secondary ingredient
+ 
+<ICE-PHI:S1A-044#271:1:B>
+It 's really the chopped chilies that 's the main ingredient
+
+ <$A> 
+<ICE-PHI:S1A-044#272:1:A>
+So you 're eating chilies
+
+ <$B> 
+<ICE-PHI:S1A-044#273:1:B>
+You 're actually eating chilies
+
+ <$A> 
+<ICE-PHI:S1A-044#274:1:A>
+I thought it was <{> <[> just like </[> 
+
+ <$B> 
+<ICE-PHI:S1A-044#275:1:B>
+<[> And the oil </[> </{> that 's coming <.> ou </.> the oil used for saut&eacute;ing comes from the pork
+ 
+<ICE-PHI:S1A-044#276:1:B>
+That 's simply it
+
+ <$A> 
+<ICE-PHI:S1A-044#277:1:A>
+Oh
+
+ <$B> 
+<ICE-PHI:S1A-044#278:1:B>
+And then you <{> <[> put that </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#279:1:A>
+<[> I always </[> </{> thought Bicol express was
+
+ <$B> 
+<ICE-PHI:S1A-044#280:1:B>
+You put that away you mix it with <{> <[> uh </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#281:1:A>
+<[> Like </[> </{> <indig> pinakbet </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-044#282:1:B>
+With uh coconut milk <{1> <[1> which is the signature </[1> Bicol uh <{2> <[2> <,> </[2> ingredient 
+
+ <$A> 
+<ICE-PHI:S1A-044#283:1:A>
+<[1> Uhm </[1> </{1> 
+ 
+<ICE-PHI:S1A-044#284:1:A>
+<[2> Okay </[2> </{2> 
+ 
+<ICE-PHI:S1A-044#286:1:A>
+So if you don't want pork you can put shrimps if that 's what you want
+
+ <$B> 
+<ICE-PHI:S1A-044#287:1:B>
+You could put shrimps yes you could put beef
+
+ <$A> 
+<ICE-PHI:S1A-044#288:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#289:1:B>
+You can put uh
+
+ <$A> 
+<ICE-PHI:S1A-044#290:1:A>
+Vegetables if that 's what I want
+
+ <$B> 
+<ICE-PHI:S1A-044#291:1:B>
+Other vegetables <{1> <[1> or </[1> you can put uh chopped fish squid but uh the basic ingredient is chopped chili <{2> <[2> and </[2> and coconut milk
+
+ <$A> 
+<ICE-PHI:S1A-044#292:1:A>
+<[1> Uh uhm </[1> </{1> 
+ 
+<ICE-PHI:S1A-044#293:1:A>
+<[2> Uh uhm </[2> </{2> 
+ 
+<ICE-PHI:S1A-044#294:1:A>
+Uhm getting back to what we were talking about
+
+ <$B> 
+<ICE-PHI:S1A-044#295:1:B>
+Back to the Chinese and pasta
+
+ <$A> 
+<ICE-PHI:S1A-044#296:1:A>
+No we were talking about uhm
+
+ <$B> 
+<ICE-PHI:S1A-044#297:1:B>
+California pizza
+
+ <$A> 
+<ICE-PHI:S1A-044#298:1:A>
+Because you told me that in the Philippines you have in each region you have this signature dish
+
+ <$B> 
+<ICE-PHI:S1A-044#299:1:B>
+Yes apparently if you go to Mindanao there isn't really any signature dish
+
+ <$A> 
+<ICE-PHI:S1A-044#300:1:A>
+In Mindanao
+
+ <$B> 
+<ICE-PHI:S1A-044#301:1:B>
+In Mindanao
+ 
+<ICE-PHI:S1A-044#302:1:B>
+You stop in and you actually stop in in the <{> <[> Visayas </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#303:1:A>
+<[> Bacolod </[> </{> 
+ 
+<ICE-PHI:S1A-044#304:1:A>
+The Visayas
+
+ <$B> 
+<ICE-PHI:S1A-044#305:1:B>
+Where you get the uh grilled <{> <[> uh </[> food
+
+ <$A> 
+<ICE-PHI:S1A-044#306:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-044#307:1:A>
+And the dried fish
+
+ <$B> 
+<ICE-PHI:S1A-044#308:1:B>
+The dried fish
+
+ <$A> 
+<ICE-PHI:S1A-044#309:1:A>
+What 's the what 's the one you usually buy from Cebu
+
+ <$B> 
+<ICE-PHI:S1A-044#310:1:B>
+<indig> Danggit </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-044#311:1:A>
+<indig> Danggit </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-044#312:1:B>
+But that 's about it
+ 
+<ICE-PHI:S1A-044#313:1:B>
+I mean there isn't much uh uhm <,,> innovative recipes or uh different <{> <[> recipes or a variety of </[> recipes
+
+ <$A> 
+<ICE-PHI:S1A-044#314:1:A>
+<[> And why is that </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-044#315:1:B>
+One thing I think is because we have very little ingredients to
+ 
+<ICE-PHI:S1A-044#316:1:B>
+Well we have a lot of ingredients but they 're mostly used in in in uh the same manner
+ 
+<ICE-PHI:S1A-044#317:1:B>
+If you compare to <.> Chin </.> China is such a big country and uh they have <{> <[> different seasons </[> 
+
+ <$A> 
+<ICE-PHI:S1A-044#318:1:A>
+<[> I can see </[> </{> 
+ 
+<ICE-PHI:S1A-044#319:1:A>
+I can see you love Chinese food
+
+ <$B> 
+<ICE-PHI:S1A-044#320:1:B>
+Yes I do <&> speaker A laughs </&> 
+ 
+<ICE-PHI:S1A-044#321:1:B>
+It 's because it it it 's always something different 
+
+ </I> 

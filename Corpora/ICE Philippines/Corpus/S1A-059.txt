@@ -1,0 +1,1222 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-059#1:1:A>
+How was your lunch
+
+ <$B> 
+<ICE-PHI:S1A-059#2:1:B>
+Mine was not very fine I just had a sandwich
+
+ <$A> 
+<ICE-PHI:S1A-059#4:1:A>
+You just had a <{> <[> sandwich </[> 
+
+ <$B> 
+<ICE-PHI:S1A-059#5:1:B>
+<[> Yeah I 'm </[> </{> I 'm not feeling very well right now
+
+ <$A> 
+<ICE-PHI:S1A-059#6:1:A>
+Uh right now
+ 
+<ICE-PHI:S1A-059#7:1:A>
+What are you sick of
+
+ <$B> 
+<ICE-PHI:S1A-059#8:1:B>
+Dysmenorrhea <{> <[> it 's </[> my first day
+
+ <$A> 
+<ICE-PHI:S1A-059#9:1:A>
+<[> <.> Dys </.> </[> </{> 
+ 
+<ICE-PHI:S1A-059#10:1:A>
+Uh really yeah okay
+
+ <$B> 
+<ICE-PHI:S1A-059#11:1:B>
+How about you have you had lunch already
+
+ <$A> 
+<ICE-PHI:S1A-059#13:1:A>
+Yes plus I already had a nap
+
+ <$B> 
+<ICE-PHI:S1A-059#14:1:B>
+Uhm <{> <[> lucky </[> 
+
+ <$A> 
+<ICE-PHI:S1A-059#15:1:A>
+<[> So my </[> </{> my afternoon has started perfectly <,> all right yes
+ 
+<ICE-PHI:S1A-059#16:1:A>
+So <.> wha </.> what time is your next class
+
+ <$B> 
+<ICE-PHI:S1A-059#17:1:B>
+Two thirty
+
+ <$A> 
+<ICE-PHI:S1A-059#18:1:A>
+Two thirty <.> bu </.> what subject is that
+
+ <$B> 
+<ICE-PHI:S1A-059#19:1:B>
+Chemistry laboratory
+
+ <$A> 
+<ICE-PHI:S1A-059#20:1:A>
+Uh-huh and how many hours will you spend in the lab
+
+ <$B> 
+<ICE-PHI:S1A-059#21:1:B>
+Three hours
+ 
+<ICE-PHI:S1A-059#22:1:B>
+It 's gonna be 'till five thirty <{1> <[1> <,> </[1> but sometimes we we go home a little early <{2> <[2> earlier </[2> 
+
+ <$A> 
+<ICE-PHI:S1A-059#23:1:A>
+<[1> Uh </[1> </{1> 
+ 
+<ICE-PHI:S1A-059#25:1:A>
+<[2> Uh uhm </[2> </{2> 
+ 
+<ICE-PHI:S1A-059#26:1:A>
+So what do you do in the lab
+
+ <$B> 
+<ICE-PHI:S1A-059#27:1:B>
+We mix chemicals <{1> <[1> and </[1> study the reactions <{2> <[2> basically </[2> last week we we made soap
+
+ <$A> 
+<ICE-PHI:S1A-059#28:1:A>
+<[1> Uh uhm </[1> </{1> 
+ 
+<ICE-PHI:S1A-059#29:1:A>
+<[2> Uh uhm </[2> </{2> 
+ 
+<ICE-PHI:S1A-059#30:1:A>
+Soap
+
+ <$B> 
+<ICE-PHI:S1A-059#31:1:B>
+We made a soap yeah
+
+ <$A> 
+<ICE-PHI:S1A-059#32:1:A>
+Oh what kind of soap <.> ba </.> 
+
+ <$B> 
+<ICE-PHI:S1A-059#33:1:B>
+Well uh <,> just like the commercial soap
+
+ <$A> 
+<ICE-PHI:S1A-059#34:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-059#35:1:B>
+The commercial soaps
+
+ <$A> 
+<ICE-PHI:S1A-059#36:1:A>
+And then
+
+ <$B> 
+<ICE-PHI:S1A-059#37:1:B>
+Uhm but we 'll see the results today <indig> pa lang </indig> 'cause one the processing is one week
+
+ <$A> 
+<ICE-PHI:S1A-059#38:1:A>
+Uh-huh <,> I see
+
+ <$B> 
+<ICE-PHI:S1A-059#39:1:B>
+Uhm today we 'll be making uh no we 'll just study acids and bases
+
+ <$A> 
+<ICE-PHI:S1A-059#40:1:A>
+Uh acids and bases
+ 
+<ICE-PHI:S1A-059#41:1:A>
+Do you enjoy the lab work
+
+ <$B> 
+<ICE-PHI:S1A-059#42:1:B>
+Uhm compared to our our two other our past laboratories Biology and Earth Science <{> <[> I </[> enjoy this less 
+
+ <$A> 
+<ICE-PHI:S1A-059#43:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#45:1:A>
+Uh really
+ 
+<ICE-PHI:S1A-059#46:1:A>
+So how many are you in the in this class
+ 
+<ICE-PHI:S1A-059#47:1:A>
+Like I understand <{> <[> you 're forty </[> 
+
+ <$B> 
+<ICE-PHI:S1A-059#48:1:B>
+<[> Half half </[> </{> 
+ 
+<ICE-PHI:S1A-059#49:1:B>
+Yeah <{> <[> forty </[> the whole class is forty
+
+ <$A> 
+<ICE-PHI:S1A-059#50:1:A>
+<[> So </[> </{> 
+ 
+<ICE-PHI:S1A-059#51:1:A>
+<indig> Oo </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-059#52:1:B>
+Half half so about twenty to twenty-five
+
+ <$A> 
+<ICE-PHI:S1A-059#53:1:A>
+And you meet just once a week
+
+ <$B> 
+<ICE-PHI:S1A-059#54:1:B>
+Once a week and three <{> <[> hours </[> per meeting
+
+ <$A> 
+<ICE-PHI:S1A-059#55:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#56:1:A>
+Wow once a week and three hours per meeting
+ 
+<ICE-PHI:S1A-059#57:1:A>
+Okay uh so what <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-059#58:1:A>
+Uh until what time is your <,> class I mean your next class
+ 
+<ICE-PHI:S1A-059#59:1:A>
+Two thirty 'till
+
+ <$B> 
+<ICE-PHI:S1A-059#60:1:B>
+Five thirty and then I have to
+
+ <$A> 
+<ICE-PHI:S1A-059#61:1:A>
+You mean two thirty to five thirty
+ 
+<ICE-PHI:S1A-059#62:1:A>
+That 's about three hours
+
+ <$B> 
+<ICE-PHI:S1A-059#63:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-059#64:1:A>
+Uh that 's that 's the lab
+
+ <$B> 
+<ICE-PHI:S1A-059#65:1:B>
+That 's the lab
+
+ <$A> 
+<ICE-PHI:S1A-059#66:1:A>
+Okay
+
+ <$B> 
+<ICE-PHI:S1A-059#67:1:B>
+And then after that I go home <indig> na </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-059#68:1:A>
+Uh uhm where do you go home
+
+ <$B> 
+<ICE-PHI:S1A-059#69:1:B>
+Las Pi&ntilde;as <{> <[> It 's just one </[> bus ride away
+
+ <$A> 
+<ICE-PHI:S1A-059#70:1:A>
+<[> Las Pi&ntilde;as </[> </{> 
+ 
+<ICE-PHI:S1A-059#71:1:A>
+Uh-huh and how many hours travel
+
+ <$B> 
+<ICE-PHI:S1A-059#72:1:B>
+Uh if there 's no traffic about forty to forty-five minutes only
+ 
+<ICE-PHI:S1A-059#73:1:B>
+<{> <[> But </[> usually uhm one and one half hours
+
+ <$A> 
+<ICE-PHI:S1A-059#74:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#75:1:A>
+One and one half hours
+ 
+<ICE-PHI:S1A-059#76:1:A>
+Okay
+ 
+<ICE-PHI:S1A-059#77:1:A>
+Do you do you have subjects every day
+
+ <$B> 
+<ICE-PHI:S1A-059#78:1:B>
+I go to school every day
+ 
+<ICE-PHI:S1A-059#79:1:B>
+Uhm <,> what uhm Wednesdays I have it whole day till five thirty but the rest <{> <[> until </[> one only 
+
+ <$A> 
+<ICE-PHI:S1A-059#80:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#82:1:A>
+Just one
+ 
+<ICE-PHI:S1A-059#83:1:A>
+On a Saturday
+
+ <$B> 
+<ICE-PHI:S1A-059#84:1:B>
+I don't have classes
+
+ <$A> 
+<ICE-PHI:S1A-059#85:1:A>
+You don't have classes but I think the gentlemen have
+
+ <$B> 
+<ICE-PHI:S1A-059#86:1:B>
+R O T C <&> Reserve Officers' Training Corps </&> 
+
+ <$A> 
+<ICE-PHI:S1A-059#87:1:A>
+They have R O T C
+
+ <$B> 
+<ICE-PHI:S1A-059#88:1:B>
+But <{> <[> half day </[> 
+
+ <$A> 
+<ICE-PHI:S1A-059#89:1:A>
+<[> Half day </[> </{> 
+ 
+<ICE-PHI:S1A-059#90:1:A>
+<{> <[> Morning right </[> 
+
+ <$B> 
+<ICE-PHI:S1A-059#91:1:B>
+<[> Seven to twelve </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-059#92:1:A>
+Seven to twelve uhm
+ 
+<ICE-PHI:S1A-059#93:1:A>
+So how are you with your classmates
+
+ <$B> 
+<ICE-PHI:S1A-059#94:1:B>
+Fine
+ 
+<ICE-PHI:S1A-059#95:1:B>
+Right now uhm I don't know this semester seems very busy <{> <[> and </[> we have lots of things to do 
+
+ <$A> 
+<ICE-PHI:S1A-059#96:1:A>
+<[> Uh-huh </[> </{> 
+ 
+<ICE-PHI:S1A-059#98:1:A>
+Yeah
+ 
+<ICE-PHI:S1A-059#99:1:A>
+Okay uhm are you enjoying the Lasallian education
+
+ <$B> 
+<ICE-PHI:S1A-059#100:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-059#101:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1A-059#102:1:B>
+So far yes <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-059#103:1:A>
+So far yes
+ 
+<ICE-PHI:S1A-059#104:1:A>
+Have you adjusted already
+
+ <$B> 
+<ICE-PHI:S1A-059#105:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-059#106:1:A>
+The pace is rather fast <{> <[> right </[> 
+
+ <$B> 
+<ICE-PHI:S1A-059#107:1:B>
+<[> It 's </[> </{> very fast
+
+ <$A> 
+<ICE-PHI:S1A-059#108:1:A>
+So how many how many units are you enrolled in
+
+ <$B> 
+<ICE-PHI:S1A-059#109:1:B>
+Twenty
+
+ <$A> 
+<ICE-PHI:S1A-059#110:1:A>
+Twenty
+
+ <$B> 
+<ICE-PHI:S1A-059#111:1:B>
+Twenty I think yeah
+
+ <$A> 
+<ICE-PHI:S1A-059#112:1:A>
+How about next term
+ 
+<ICE-PHI:S1A-059#113:1:A>
+Do you have any idea how many units <{> <[> you 'll have to take </[> 
+
+ <$B> 
+<ICE-PHI:S1A-059#114:1:B>
+<[> Maybe <.> twen </.> </[> </{> maybe it 's
+
+ <$A> 
+<ICE-PHI:S1A-059#115:1:A>
+Twenty also
+
+ <$B> 
+<ICE-PHI:S1A-059#116:1:B>
+Twenty because we are <.> pre </.> we are still pre-enrolled
+
+ <$A> 
+<ICE-PHI:S1A-059#117:1:A>
+Uh uhm uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-059#118:1:B>
+We we will have to make our own schedule second sem <{> <[> of </[> next year 
+
+ <$A> 
+<ICE-PHI:S1A-059#119:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#121:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-059#122:1:B>
+Of next school year
+
+ <$A> 
+<ICE-PHI:S1A-059#123:1:A>
+Right okay and then uh what are you majoring in
+
+ <$B> 
+<ICE-PHI:S1A-059#124:1:B>
+International Studies <,> European
+
+ <$A> 
+<ICE-PHI:S1A-059#125:1:A>
+European
+
+ <$B> 
+<ICE-PHI:S1A-059#126:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-059#127:1:A>
+Uh uhm so what is in store for you you know <{> <[> like after </[> three years four years
+ 
+<ICE-PHI:S1A-059#128:1:A>
+Do you have any idea
+
+ <$B> 
+<ICE-PHI:S1A-059#129:1:B>
+<[> Well uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#130:1:B>
+We have had many talks about it already
+
+ <$A> 
+<ICE-PHI:S1A-059#131:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-059#132:1:B>
+Uhm and one of the the persons that who talked with us <{> <[> said </[> that it 's a very broad career 
+
+ <$A> 
+<ICE-PHI:S1A-059#133:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#135:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-059#136:1:B>
+We can go into politics uhm foreign service <{> <[> <,> </[> business as well 
+
+ <$A> 
+<ICE-PHI:S1A-059#137:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#139:1:A>
+Business
+
+ <$B> 
+<ICE-PHI:S1A-059#140:1:B>
+Yeah <{> <[> he said </[> uh actually uhm we had a class in International Studies Introduction to International Studies and yeah it 's really broad
+
+ <$A> 
+<ICE-PHI:S1A-059#141:1:A>
+<[> Oh yeah okay </[> </{> broad
+
+ <$B> 
+<ICE-PHI:S1A-059#143:1:B>
+Yeah but if I 'd be able to choose <{1> <[1> <,> </[1> what profession I would like to have uhm I don't know I just want to travel and get to know people <{2> <[2> that 's it </[2> 
+
+ <$A> 
+<ICE-PHI:S1A-059#144:1:A>
+<[1> Uh uhm </[1> </{1> 
+ 
+<ICE-PHI:S1A-059#146:1:A>
+<[2> So </[2> </{2> maybe you will have to apply in the Department of Foreign Affairs
+ 
+<ICE-PHI:S1A-059#147:1:A>
+<{1> <[1> Or </[1> maybe Department of Tourism <{2> <[2> <unclear> word </unclear> to travel </[2> 
+
+ <$B> 
+<ICE-PHI:S1A-059#148:1:B>
+<[1> Maybe </[1> </{1> <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-059#149:1:B>
+<[2> But uhm </[2> </{2> uhm one of my friend his Dad works <,> oh in <indig> basta </indig> he 's in he 's in the same field of <{> <[> foreign services as well </[> 
+
+ <$A> 
+<ICE-PHI:S1A-059#150:1:A>
+<[> Uh uhm uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#151:1:A>
+Who 's this do I know him her
+
+ <$B> 
+<ICE-PHI:S1A-059#153:1:B>
+Father of Fritz father of Fritz
+
+ <$A> 
+<ICE-PHI:S1A-059#154:1:A>
+Uh yeah okay
+
+ <$B> 
+<ICE-PHI:S1A-059#155:1:B>
+Uhm he said that his father told him that if you work here in the Philippines you 're <.> go </.> you 're going to have a low salary
+ 
+<ICE-PHI:S1A-059#156:1:B>
+But when you work abroad <{> <[> <,> </[> you really have a higher chance of earning big bucks 
+
+ <$A> 
+<ICE-PHI:S1A-059#157:1:A>
+<[> Uh-huh </[> </{> 
+ 
+<ICE-PHI:S1A-059#159:1:A>
+Big bucks and that 's what you want
+
+ <$B> 
+<ICE-PHI:S1A-059#161:1:B>
+<O> laughter </O> Of course
+
+ <$A> 
+<ICE-PHI:S1A-059#162:1:A>
+Okay all right uhm and then what <,,> what okay <,> uhm <,> what else
+ 
+<ICE-PHI:S1A-059#163:1:A>
+So how many semesters more will you have to <{1> <[1> <,> </[1> <{2> <[2> stay in La Salle </[2> 
+
+ <$B> 
+<ICE-PHI:S1A-059#164:1:B>
+<[1> Uhm </[1> </{1> 
+ 
+<ICE-PHI:S1A-059#166:1:B>
+<[2> As far as I know </[2> </{2> uhm so my course will only take me three years
+
+ <$A> 
+<ICE-PHI:S1A-059#167:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-059#168:1:B>
+I 'm done with almost three sems
+
+ <$A> 
+<ICE-PHI:S1A-059#169:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-059#170:1:B>
+So maybe six more <{> <[> seven more </[> 
+
+ <$A> 
+<ICE-PHI:S1A-059#171:1:A>
+<[> Six more </[> </{> terms
+
+ <$B> 
+<ICE-PHI:S1A-059#172:1:B>
+Right
+
+ <$A> 
+<ICE-PHI:S1A-059#173:1:A>
+Uh yeah because we yeah most probably 'cause we 're <.> tri </.> <{> <[> trimester </[> <indig> oo oo </indig> okay yeah
+ 
+<ICE-PHI:S1A-059#174:1:A>
+Ask questions
+
+ <$B> 
+<ICE-PHI:S1A-059#175:1:B>
+<[> Trimester </[> </{> 
+ 
+<ICE-PHI:S1A-059#176:1:B>
+Okay uhm how 's your checking going on <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-059#177:1:A>
+Uh well I 'm used to checking stuffs like this so no problem
+ 
+<ICE-PHI:S1A-059#178:1:A>
+My it 's just that you know I have to have time
+
+ <$B> 
+<ICE-PHI:S1A-059#179:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-059#180:1:A>
+Yes and at times I find it difficult to you know divide my time 'cause I I engage in a lot of activities
+ 
+<ICE-PHI:S1A-059#181:1:A>
+I study also
+
+ <$B> 
+<ICE-PHI:S1A-059#182:1:B>
+Uh you study also
+
+ <$A> 
+<ICE-PHI:S1A-059#183:1:A>
+Yes I 'm taking up Linguistics
+
+ <$B> 
+<ICE-PHI:S1A-059#184:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-059#185:1:A>
+And this is one of our requirements actually
+ 
+<ICE-PHI:S1A-059#186:1:A>
+So what else uhm
+
+ <$B> 
+<ICE-PHI:S1A-059#187:1:B>
+Isn't it hard Linguistics
+
+ <$A> 
+<ICE-PHI:S1A-059#189:1:A>
+No it 's interesting actually it 's interesting
+
+ <$B> 
+<ICE-PHI:S1A-059#190:1:B>
+What what particular do you study
+ 
+<ICE-PHI:S1A-059#191:1:B>
+Everything
+
+ <$A> 
+<ICE-PHI:S1A-059#192:1:A>
+Well uh at the moment I 'm enrolled in <,> Readings in World Englishes
+
+ <$B> 
+<ICE-PHI:S1A-059#193:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-059#194:1:A>
+So yeah so we get to discuss what varieties of English are flourishing at the moment
+ 
+<ICE-PHI:S1A-059#195:1:A>
+So we have Philippine English for example Indian English Korean English Japanese English and all that stuff
+
+ <$B> 
+<ICE-PHI:S1A-059#196:1:B>
+Can it get confusing at times
+
+ <$A> 
+<ICE-PHI:S1A-059#197:1:A>
+No 'cause our professor is great
+ 
+<ICE-PHI:S1A-059#198:1:A>
+She 's one of the experts in the field
+
+ <$B> 
+<ICE-PHI:S1A-059#199:1:B>
+How 's your schedule with it every day as well
+
+ <$A> 
+<ICE-PHI:S1A-059#201:1:A>
+No just Saturday <{1> <[1> <,> </[1> from twelve to three o'clock
+ 
+<ICE-PHI:S1A-059#204:1:A>
+So in the morning of Saturdays I usually prepare for the class 'cause we are given a quiz every time y'know we meet <{2> <[2> yeah so </[2> 
+
+ <$B> 
+<ICE-PHI:S1A-059#202:1:B>
+<[1> Uh uhm </[1> </{1> 
+ 
+<ICE-PHI:S1A-059#205:1:B>
+<[2> You argue </[2> </{2> 
+
+ <$A> 
+<ICE-PHI:S1A-059#206:1:A>
+No we we we are given a quiz <{> <[> so we take a quiz </[> 
+
+ <$B> 
+<ICE-PHI:S1A-059#207:1:B>
+<[> Uh you 're given a quiz </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-059#208:1:A>
+Yes so we really have to read
+
+ <$B> 
+<ICE-PHI:S1A-059#209:1:B>
+So when will you be graduating from it
+
+
+ <$A> 
+<ICE-PHI:S1A-059#210:1:A>
+Oh I don't know
+
+ <$B> 
+<ICE-PHI:S1A-059#211:1:B>
+It 's gonna be long <indig> pa 'no </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-059#212:1:A>
+I I I hope not
+
+ <$B> 
+<ICE-PHI:S1A-059#213:1:B>
+No 'cause
+
+ <$A> 
+<ICE-PHI:S1A-059#214:1:A>
+'Cause I
+
+ <$B> 
+<ICE-PHI:S1A-059#215:1:B>
+Once a week three hours
+
+ <$A> 
+<ICE-PHI:S1A-059#216:1:A>
+Uh uhm uh uhm
+ 
+<ICE-PHI:S1A-059#217:1:A>
+I hope not uhm I don't know
+ 
+<ICE-PHI:S1A-059#218:1:A>
+I am thinking about whether <.> finish </.> to really finish it or just enroll in <{> <[> <,> </[> two or more subjects and that 's it 
+
+ <$B> 
+<ICE-PHI:S1A-059#219:1:B>
+<[> Another class </[> </{> 
+ 
+<ICE-PHI:S1A-059#221:1:B>
+Well <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-059#222:1:A>
+Some of my friends tell me why do I have to enroll in another P H D <{> <[> course </[> when I already have one
+ 
+<ICE-PHI:S1A-059#225:1:A>
+Uh at first 'cause I was uhm what I I stopped for a while you know teaching
+ 
+<ICE-PHI:S1A-059#226:1:A>
+I worked in the Department of Foreign Affairs 
+
+ <$B> 
+<ICE-PHI:S1A-059#223:1:B>
+<[> Uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#227:1:B>
+You have been teaching since you graduated
+
+ <$A> 
+<ICE-PHI:S1A-059#228:1:A>
+Uh uhm uh uhm for about seven years and then I worked in the Department of Foreign Affairs
+ 
+<ICE-PHI:S1A-059#229:1:A>
+It was then when I <.> reali </.> when I learned to value teaching 'cause it 's difficult uh I mean teaching is a great job like I don't have to stay for example in school for eight hours a day
+ 
+<ICE-PHI:S1A-059#230:1:A>
+And then I get to meet a lot more people than when I 'm just in the office
+
+ <$B> 
+<ICE-PHI:S1A-059#231:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-059#232:1:A>
+You know things like these benefits like these I don't find in just just being <{> <[> in the office yeah </[> 
+
+ <$B> 
+<ICE-PHI:S1A-059#233:1:B>
+<[> Office work </[> 
+
+ <$A> 
+<ICE-PHI:S1A-059#234:1:A>
+It 's more exciting
+ 
+<ICE-PHI:S1A-059#235:1:A>
+The interaction with youth is very enriching
+
+ <$B> 
+<ICE-PHI:S1A-059#236:1:B>
+You also get to learn from us <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-059#237:1:A>
+Yes that 's true
+ 
+<ICE-PHI:S1A-059#238:1:A>
+Meeting a lot of personalities <O> laughter </O> it 's fun it 's fun <,> 
+
+ <$B> 
+<ICE-PHI:S1A-059#239:1:B>
+So you just imagine yourself teaching or
+
+ <$A> 
+<ICE-PHI:S1A-059#240:1:A>
+Teaching uhm well right now yes
+
+ <$B> 
+<ICE-PHI:S1A-059#241:1:B>
+Right at the moment
+
+ <$A> 
+<ICE-PHI:S1A-059#242:1:A>
+At the moment I love love teaching
+
+ <$B> 
+<ICE-PHI:S1A-059#243:1:B>
+Okay
+
+ <$A> 
+<ICE-PHI:S1A-059#244:1:A>
+It 's challenging it 's exciting
+ 
+<ICE-PHI:S1A-059#245:1:A>
+I don't know though what would happen when I if I decide to get married
+
+ <$B> 
+<ICE-PHI:S1A-059#246:1:B>
+Yeah uhm
+
+ <$A> 
+<ICE-PHI:S1A-059#247:1:A>
+What
+
+ <$B> 
+<ICE-PHI:S1A-059#248:1:B>
+You don't have plans plans yet
+
+ <$A> 
+<ICE-PHI:S1A-059#249:1:A>
+Uhm I have but seems like I 'm <,> I 'm what <,> I 'm a lil afraid <{> <[> <,> </[> to take the risk 
+
+ <$B> 
+<ICE-PHI:S1A-059#250:1:B>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#252:1:B>
+Yeah there are <{> <[> many failed marriages around </[> 
+
+ <$A> 
+<ICE-PHI:S1A-059#253:1:A>
+<[> I need more time </[> </{> yeah I need more time yeah and I need more time to consider to whether I 'm ready to take the risk <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-059#254:1:B>
+Good luck
+
+ <$A> 
+<ICE-PHI:S1A-059#255:1:A>
+Thank you
+ 
+<ICE-PHI:S1A-059#256:1:A>
+How about you you have a boyfriend
+ 
+<ICE-PHI:S1A-059#258:1:A>
+If you don't mind
+
+ <$B> 
+<ICE-PHI:S1A-059#259:1:B>
+I have a boyfriend
+
+ <$A> 
+<ICE-PHI:S1A-059#260:1:A>
+You have a boyfriend
+
+ <$B> 
+<ICE-PHI:S1A-059#261:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-059#262:1:A>
+So how was your Valentine
+
+ <$B> 
+<ICE-PHI:S1A-059#263:1:B>
+Oh we we didn't went out
+
+ <$A> 
+<ICE-PHI:S1A-059#264:1:A>
+Oh yeah
+
+ <$B> 
+<ICE-PHI:S1A-059#265:1:B>
+We just went to my place and we stayed there
+
+ <$A> 
+<ICE-PHI:S1A-059#266:1:A>
+Is he from here
+
+ <$B> 
+<ICE-PHI:S1A-059#267:1:B>
+Yeah he 's also from La Salle he 's taking up Advertising
+
+ <$A> 
+<ICE-PHI:S1A-059#269:1:A>
+Uh so what department is that Communications
+
+ <$B> 
+<ICE-PHI:S1A-059#271:1:B>
+Business and Economics
+
+ <$A> 
+<ICE-PHI:S1A-059#272:1:A>
+Uh really
+
+
+ <$B> 
+<ICE-PHI:S1A-059#273:1:B>
+College of Business and Economics
+
+ <$A> 
+<ICE-PHI:S1A-059#274:1:A>
+I don't see him with you or I didn't see you with him
+
+ <$B> 
+<ICE-PHI:S1A-059#275:1:B>
+<indig> Siguro </indig> you just don't get to notice us
+
+ <$A> 
+<ICE-PHI:S1A-059#276:1:A>
+Uh really
+ 
+<ICE-PHI:S1A-059#277:1:A>
+Uhm what uh who was the one who gave Sheila this big pillow <{> <[> in </[> class
+ 
+<ICE-PHI:S1A-059#280:1:A>
+Mike
+ 
+<ICE-PHI:S1A-059#281:1:A>
+It was so funny 
+
+ <$B> 
+<ICE-PHI:S1A-059#278:1:B>
+<[> Mike </[> </{> 
+ 
+<ICE-PHI:S1A-059#282:1:B>
+Mike <,> we well we weren't expecting Mike to be very expressive and <{> <[> <,> </[> you know to do that kind of thing 
+
+ <$A> 
+<ICE-PHI:S1A-059#283:1:A>
+<[> Uh-huh </[> </{> 
+ 
+<ICE-PHI:S1A-059#285:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-059#286:1:B>
+'Cause if you look at him he 's so quiet 
+
+ <$A> 
+
+
+<ICE-PHI:S1A-059#> he 's so he 's more of the serious type
+
+ <$B> 
+<ICE-PHI:S1A-059#287:1:B>
+Yeah he 's like that
+ 
+<ICE-PHI:S1A-059#288:1:B>
+And we were shocked <indig> na </indig> he gave flowers and a big heart pillow to Sheila
+
+ <$A> 
+<ICE-PHI:S1A-059#289:1:A>
+Sheila
+
+ <$B> 
+<ICE-PHI:S1A-059#290:1:B>
+After that I think they they ate out <{> <[> <,> </[> at McDonald 's at McDonalds 's <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-059#291:1:A>
+<[> Really </[> </{> 
+ 
+<ICE-PHI:S1A-059#293:1:A>
+McDonald 's <O> laughter </O> on Valentine 's Day
+
+ <$B> 
+<ICE-PHI:S1A-059#294:1:B>
+On Valentine 's Day
+
+ <$A> 
+<ICE-PHI:S1A-059#295:1:A>
+Well for me I had <indig> puto </indig> on <.> pa </.> on Valentine 's Day for dinner <O> laughter </O> 
+ 
+<ICE-PHI:S1A-059#296:1:A>
+So <,> uhm well what else
+
+ <$B> 
+<ICE-PHI:S1A-059#297:1:B>
+What else
+
+ <$A> 
+<ICE-PHI:S1A-059#298:1:A>
+What else can we talk about <O> laughter </O> 
+ 
+<ICE-PHI:S1A-059#299:1:A>
+Your family
+
+ <$B> 
+<ICE-PHI:S1A-059#300:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-059#301:1:A>
+Can we talk about your family
+
+ <$B> 
+<ICE-PHI:S1A-059#302:1:B>
+Oh sure why not
+ 
+<ICE-PHI:S1A-059#303:1:B>
+Uh I 'm the eldest
+
+ <$A> 
+<ICE-PHI:S1A-059#304:1:A>
+You 're the eldest
+
+ <$B> 
+<ICE-PHI:S1A-059#305:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-059#306:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-059#307:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-059#308:1:A>
+Uh no wonder I I see a lot of what a sense of responsibility <{> <[> very strong sense of responsibility </[> 
+
+ <$B> 
+<ICE-PHI:S1A-059#309:1:B>
+<[> I have three other sisters </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-059#310:1:A>
+Oh yeah <{> <[> so you 're all </[> 
+
+ <$B> 
+<ICE-PHI:S1A-059#311:1:B>
+<[> We 're all girls </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-059#312:1:A>
+Girls
+
+ <$B> 
+<ICE-PHI:S1A-059#313:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-059#314:1:A>
+Four girls
+
+ <$B> 
+<ICE-PHI:S1A-059#315:1:B>
+My Dad would often joke when he 's asked I have two girls and two women <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-059#316:1:A>
+Who are the two women you and your Mom
+
+ <$B> 
+<ICE-PHI:S1A-059#318:1:B>
+No and my <,> what 's this uhm my fourteen year-old <{> <[> <,> </[> sister 
+
+ <$A> 
+<ICE-PHI:S1A-059#319:1:A>
+<[> Uh-huh </[> </{> 
+ 
+<ICE-PHI:S1A-059#321:1:A>
+I see
+
+ <$B> 
+<ICE-PHI:S1A-059#322:1:B>
+Yeah we have three years gap
+
+ <$A> 
+<ICE-PHI:S1A-059#323:1:A>
+Oh <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-059#324:1:B>
+It 's fun
+
+ <$A> 
+<ICE-PHI:S1A-059#325:1:A>
+It 's fun
+
+ <$B> 
+<ICE-PHI:S1A-059#326:1:B>
+I ah I uhm although before it 's I find it <,> I find it much uhm difficult 'cause I have <.> be </.> uh aside from my responsibilities in my studies I have to take care of my sisters as well 'cause both my Mom and my Dad they work <{1> <[1> <,> </[1> so I have to tend I have to tend to my sisters' needs <{2> <[2> you know </[2> 
+
+ <$A> 
+<ICE-PHI:S1A-059#327:1:A>
+<[1> Uh uhm </[1> </{1> 
+ 
+<ICE-PHI:S1A-059#329:1:A>
+<[2> Uh uhm uh uhm </[2> </{2> 
+
+ <$B> 
+<ICE-PHI:S1A-059#330:1:B>
+I have to help them with their assignments <{> <[> and everything </[> but now I 'm I 'm enjoying it actually
+
+ <$A> 
+<ICE-PHI:S1A-059#331:1:A>
+<[> Oh yeah </[> </{> 
+ 
+<ICE-PHI:S1A-059#332:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-059#333:1:B>
+I don't know why why I seem to enjoy it now <{> <[> <,> </[> than before 
+
+ <$A> 
+<ICE-PHI:S1A-059#334:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#336:1:A>
+Maybe because they 're not that young anymore <{> <[> <,> </[> like you don't have to cuddle them <indig> di ba </indig> 
+ 
+<ICE-PHI:S1A-059#339:1:A>
+And what else <,> in <,> your your <indig> barkadas </indig> they 're all in that class that I handle 
+
+ <$B> 
+<ICE-PHI:S1A-059#337:1:B>
+<[> Uh uhm yeah </[> </{> 
+ 
+<ICE-PHI:S1A-059#340:1:B>
+Yeah uhm Nadia then you know <{> <[> Kerstin Kerstin </[> Chaz and Fritz
+
+ <$A> 
+<ICE-PHI:S1A-059#341:1:A>
+<[> Nadia uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#342:1:A>
+Uh I see
+
+ <$B> 
+<ICE-PHI:S1A-059#343:1:B>
+I just met them now <{> <[> college </[> college days
+
+ <$A> 
+<ICE-PHI:S1A-059#344:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#345:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-059#346:1:B>
+But my high school friends uhm only one of them <{> <[> <,> </[> is from La Salle 
+
+ <$A> 
+<ICE-PHI:S1A-059#347:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-059#349:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-059#350:1:B>
+All the other all the other five <{> <[> <,> </[> they 're at different schools 
+
+ <$A> 
+<ICE-PHI:S1A-059#351:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-059#353:1:A>
+Where did you graduate <{> <[> in high school </[> 
+
+ <$B> 
+<ICE-PHI:S1A-059#354:1:B>
+<[> Elizabeth Seton </[> </{> School
+
+ <$A> 
+<ICE-PHI:S1A-059#355:1:A>
+Where 's that
+
+ <$B> 
+<ICE-PHI:S1A-059#356:1:B>
+It 's it 's in our community
+ 
+<ICE-PHI:S1A-059#357:1:B>
+It 's in B F Las Pi&ntilde;as
+
+ <$A> 
+<ICE-PHI:S1A-059#358:1:A>
+I see B F
+
+ <$B> 
+<ICE-PHI:S1A-059#359:1:B>
+It 's just a fifteen-minute drive from our house 
+
+ <$A> 
+<ICE-PHI:S1A-059#360:1:A>
+Uh uhm
+
+ </I> 

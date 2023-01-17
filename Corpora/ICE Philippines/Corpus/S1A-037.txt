@@ -1,0 +1,1293 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-037#1:1:A>
+Talk louder talk louder <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-037#2:1:B>
+Okay <,> my weekend 's very boring
+ 
+<ICE-PHI:S1A-037#3:1:B>
+I 've been studying and studying and teaching my little brother his <,> how to study for his exams
+ 
+<ICE-PHI:S1A-037#4:1:B>
+And you <,> 
+
+ <$A> 
+<ICE-PHI:S1A-037#5:1:A>
+Okay <,> I watched have you seen The Negotiator
+
+ <$B> 
+<ICE-PHI:S1A-037#6:1:B>
+No
+
+ <$A> 
+<ICE-PHI:S1A-037#7:1:A>
+It 's nice
+
+ <$B> 
+<ICE-PHI:S1A-037#8:1:B>
+<{> <[> Really </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#9:1:A>
+<[> It 's </[> </{> it looks boring in the trailer but it 's nice
+ 
+<ICE-PHI:S1A-037#10:1:A>
+The one with Kevin Spacey and <.> Ja </.> Samuel Jackson
+
+ <$B> 
+<ICE-PHI:S1A-037#11:1:B>
+<{> <[> Oh </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#12:1:A>
+<[> It 's </[> </{> really mind boggling and this is so weird you know <{> <[> talking </[> about nothing <O> chuckle </O> 
+
+ <$B> 
+<ICE-PHI:S1A-037#13:1:B>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-037#14:1:B>
+And our friends are looking at us
+ 
+<ICE-PHI:S1A-037#15:1:B>
+We are like a couple of clowns <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#16:1:A>
+Yeah you know <O> laughter </O> I was
+ 
+<ICE-PHI:S1A-037#17:1:A>
+What did you study for INVESMA <&> course code for Mathematics of Investment </&> 
+
+ <$B> 
+<ICE-PHI:S1A-037#18:1:B>
+Of course all of it <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#19:1:A>
+Oh that 's <{> <[> that 's so </[> profound
+
+ <$B> 
+<ICE-PHI:S1A-037#20:1:B>
+<[> All of it </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-037#21:1:A>
+Yeah <O> laughter </O> 
+ 
+<ICE-PHI:S1A-037#22:1:A>
+Have you <,> <&> clears throat </&> what do you call this
+ 
+<ICE-PHI:S1A-037#23:1:A>
+Uhm have you done your <,,> reaction
+
+ <$B> 
+<ICE-PHI:S1A-037#24:1:B>
+No I <{> <[> haven't </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#25:1:A>
+<[> How many </[> </{> pages
+
+ <$B> 
+<ICE-PHI:S1A-037#26:1:B>
+The teacher said that it should be two pages
+
+ <$A> 
+<ICE-PHI:S1A-037#27:1:A>
+Maximum
+
+ <$B> 
+<ICE-PHI:S1A-037#28:1:B>
+No minimum
+
+ <$A> 
+<ICE-PHI:S1A-037#29:1:A>
+Minimum
+
+ <$B> 
+<ICE-PHI:S1A-037#30:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-037#31:1:A>
+You could go beyond two pages
+
+ <$B> 
+<ICE-PHI:S1A-037#32:1:B>
+Yes <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#33:1:A>
+Is that all you can say
+
+ <$B> 
+<ICE-PHI:S1A-037#34:1:B>
+Yes <O> laughter </O> 
+ 
+<ICE-PHI:S1A-037#35:1:B>
+What have you done did
+
+
+ <$A> 
+<ICE-PHI:S1A-037#36:1:A>
+Nothing
+
+ <$B> 
+<ICE-PHI:S1A-037#37:1:B>
+In the weekend
+
+ <$A> 
+<ICE-PHI:S1A-037#38:1:A>
+I tried to read POLIGOV <&> course code for Politics and Government </&> but it was so boring
+ 
+<ICE-PHI:S1A-037#39:1:A>
+I was <,> I only reached the first <O> laughter </O> page and I slept
+ 
+<ICE-PHI:S1A-037#40:1:A>
+Huh <,> nothing is as boring as POLIGOV
+
+ <$B> 
+<ICE-PHI:S1A-037#41:1:B>
+Do you know why me and my sister why we had a quarrel
+ 
+<ICE-PHI:S1A-037#42:1:B>
+Do you know why
+
+ <$A> 
+<ICE-PHI:S1A-037#43:1:A>
+What do you think <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-037#44:1:B>
+No you don't know
+
+ <$A> 
+<ICE-PHI:S1A-037#45:1:A>
+Good
+
+ <$B> 
+<ICE-PHI:S1A-037#46:1:B>
+It 's very very shallow and it 's very very petty <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#47:1:A>
+Uh what about it
+
+ <$B> 
+<ICE-PHI:S1A-037#48:1:B>
+And you know while we were watching H B O I said oh the Negro looks so pitiful 
+ 
+<ICE-PHI:S1A-037#49:1:B>
+And then you know what <{> <[> my </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#50:1:A>
+<[> Pitiful </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-037#51:1:B>
+Yes <,> and you know
+ 
+<ICE-PHI:S1A-037#52:1:B>
+Why
+ 
+<ICE-PHI:S1A-037#53:1:B>
+Is it wrong
+
+ <$A> 
+<ICE-PHI:S1A-037#54:1:A>
+No I didn't I thought beautiful
+
+ <$B> 
+<ICE-PHI:S1A-037#55:1:B>
+Uh and then you know what my self righteous holier than thou sister told me
+ 
+<ICE-PHI:S1A-037#56:1:B>
+She said you should not say <mention> Negro </mention> 
+ 
+<ICE-PHI:S1A-037#57:1:B>
+You are so racial <.> pred </.> racially prejudiced
+ 
+<ICE-PHI:S1A-037#58:1:B>
+You are so <,> 
+ 
+<ICE-PHI:S1A-037#59:1:B>
+<indig> Ano 'yon </indig> 
+ 
+<ICE-PHI:S1A-037#60:1:B>
+Uhm you you should say uh <mention> Afro-American </mention> and not <mention> Negro </mention> 
+ 
+<ICE-PHI:S1A-037#61:1:B>
+And then I said why
+ 
+<ICE-PHI:S1A-037#62:1:B>
+I didn't mean it to I didn't mean it to be negative
+ 
+<ICE-PHI:S1A-037#63:1:B>
+I said <mention> Negro </mention> to say that I am pertaining to black black people and it 's just that 
+ 
+<ICE-PHI:S1A-037#64:1:B>
+And then she doesn't want to talk with me anymore <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#65:1:A>
+Really that 's nice <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-037#66:1:A>
+Me uh we went I went to my grandmother yesterday and we ate <indig> adobo </indig> and <indig> kare-kare </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-037#67:1:B>
+<indig> Adobo </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-037#68:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-037#69:1:B>
+Your grandmother 's place
+ 
+<ICE-PHI:S1A-037#70:1:B>
+Where
+
+ <$A> 
+<ICE-PHI:S1A-037#71:1:A>
+Yes in Bulacan
+
+ <$B> 
+<ICE-PHI:S1A-037#72:1:B>
+Uh in Bulacan
+
+ <$A> 
+<ICE-PHI:S1A-037#73:1:A>
+We go there every Sunday to eat
+
+ <$B> 
+<ICE-PHI:S1A-037#74:1:B>
+Oh my God
+
+ <$A> 
+<ICE-PHI:S1A-037#75:1:A>
+Lunch
+
+ <$B> 
+<ICE-PHI:S1A-037#76:1:B>
+That 's why you 're gaining weight
+
+ <$A> 
+<ICE-PHI:S1A-037#77:1:A>
+Yeah my grandmother cooks very very very well <,> better than Aristo <&> referring to Aristocrat Restaurant </&> <O> chuckle </O> 
+
+ <$B> 
+<ICE-PHI:S1A-037#78:1:B>
+Good that some of our classmates didn't call you up last night and said <mention> Blessy Blessy </mention> 
+
+ <$A> 
+<ICE-PHI:S1A-037#79:1:A>
+You <{> <[> study <indig> ha </indig> </[> 
+
+ <$B> 
+<ICE-PHI:S1A-037#80:1:B>
+<[> Blessy Blessy </[> </{> let 's study let 's study <indig> ha </indig> for for INVESMA
+
+ <$A> 
+<ICE-PHI:S1A-037#81:1:A>
+Yeah like that that 's what 's her name <&> speaker B chuckles </&> our classmate who is so parasitic to me
+
+ <$B> 
+<ICE-PHI:S1A-037#82:1:B>
+Parasitic to you
+
+ <$A> 
+<ICE-PHI:S1A-037#83:1:A>
+Is there such a word <mention> parasitic </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-037#84:1:B>
+I don't know <,> maybe in Philippine English there is
+
+ <$A> 
+<ICE-PHI:S1A-037#85:1:A>
+Now they have something to think about if there is such a word as <mention> parasitic </mention> <&> speaker B chuckles </&> 
+ 
+<ICE-PHI:S1A-037#86:1:A>
+Is there <&> speaker B chuckles </&> 
+ 
+<ICE-PHI:S1A-037#87:1:A>
+<indig> Hay </indig> huh I 'm supposed to be sleeping right now <,,> sleeping in a world of my own
+
+ <$B> 
+<ICE-PHI:S1A-037#88:1:B>
+Anyway just think about it you 'll get ten additional points for <{> <[> doing </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#89:1:A>
+<[> We will </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-037#90:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-037#91:1:A>
+We will
+
+ <$B> 
+<ICE-PHI:S1A-037#92:1:B>
+Yes of course we will
+
+ <$A> 
+<ICE-PHI:S1A-037#93:1:A>
+Okay you said it <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-037#94:1:A>
+Uhm why does this world have to be <unclear> word </unclear> 
+
+ <$B> 
+<ICE-PHI:S1A-037#95:1:B>
+Are we going to the L V R tomorrow for POLIGOV
+
+ <$A> 
+<ICE-PHI:S1A-037#96:1:A>
+Yeah
+ 
+<ICE-PHI:S1A-037#97:1:A>
+Have you read the chapters <{> <[> three four </[> five
+
+ <$B> 
+<ICE-PHI:S1A-037#98:1:B>
+<[> No </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-037#99:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1A-037#100:1:B>
+No
+ 
+<ICE-PHI:S1A-037#101:1:B>
+<{> <[> Not one word </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#102:1:A>
+<[> What are we supposed </[> </{> to study there the notes
+
+ <$B> 
+<ICE-PHI:S1A-037#103:1:B>
+For POLIGOV
+
+ <$A> 
+<ICE-PHI:S1A-037#104:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-037#105:1:B>
+I don't know <{> <[> maybe </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#106:1:A>
+<[> Mr Teehankee </[> </{> said he will give us a surprise quiz
+
+ <$B> 
+<ICE-PHI:S1A-037#107:1:B>
+But I was thinking that how can he give surprise quizzes when we are going to the L V R
+
+ <$A> 
+<ICE-PHI:S1A-037#108:1:A>
+Still <,> he could
+
+ <$B> 
+<ICE-PHI:S1A-037#109:1:B>
+He could
+
+ <$A> 
+<ICE-PHI:S1A-037#110:1:A>
+Of course
+
+ <$B> 
+<ICE-PHI:S1A-037#111:1:B>
+Goodness <,> and then have you done the resum&eacute; <,> the letter <{> <[> of </[> application
+
+ <$A> 
+<ICE-PHI:S1A-037#112:1:A>
+<[> No </[> </{> 
+ 
+<ICE-PHI:S1A-037#113:1:A>
+I 'm just going to get the one <,> my sister has
+ 
+<ICE-PHI:S1A-037#114:1:A>
+It 's already typewritten except <,> the names there are are her name and <,> I 'll just replace it with my name and then <,,> that 's it
+ 
+<ICE-PHI:S1A-037#115:1:A>
+Anyway Sir didn't give us any directions about <unclear> word </unclear> 
+ 
+<ICE-PHI:S1A-037#116:1:A>
+He told us to prepare a summary a resum&eacute; uh what 's the other one <,> application letter and story
+ 
+<ICE-PHI:S1A-037#117:1:A>
+That 's all
+
+ <$B> 
+<ICE-PHI:S1A-037#118:1:B>
+<indig> Ha </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-037#119:1:A>
+That 's all
+
+ <$B> 
+<ICE-PHI:S1A-037#120:1:B>
+I guess that 's it
+
+ <$A> 
+<ICE-PHI:S1A-037#121:1:A>
+Have you bought a disc
+
+ <$B> 
+<ICE-PHI:S1A-037#122:1:B>
+Disc no
+ 
+<ICE-PHI:S1A-037#123:1:B>
+You know don't look but the guy across our view <,> that 's the captain ball of our varsity team
+
+ <$A> 
+<ICE-PHI:S1A-037#124:1:A>
+Where <,> 
+
+ <$B> 
+<ICE-PHI:S1A-037#125:1:B>
+The Chinese
+
+ <$A> 
+<ICE-PHI:S1A-037#126:1:A>
+Across <{> <[> me </[> 
+
+ <$B> 
+<ICE-PHI:S1A-037#127:1:B>
+<[> The </[> </{> Chinese guy <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-037#128:1:B>
+He has a crush on you
+
+ <$A> 
+<ICE-PHI:S1A-037#129:1:A>
+I don't see any Chinese guy oh that <.> we </.> the one seated
+
+ <$B> 
+<ICE-PHI:S1A-037#130:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-037#131:1:A>
+Uhm
+ 
+<ICE-PHI:S1A-037#132:1:A>
+Congratulations <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-037#133:1:B>
+So <,> and you know there is this guy <O> chuckle </O> <{> <[> to </[> your right
+
+ <$A> 
+<ICE-PHI:S1A-037#134:1:A>
+<[> What </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-037#135:1:B>
+And he 's looking at us <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#136:1:A>
+Really
+
+ <$B> 
+<ICE-PHI:S1A-037#137:1:B>
+Yes <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#138:1:A>
+Well if he wants to join us <&> speaker B chuckles </&> 
+ 
+<ICE-PHI:S1A-037#139:1:A>
+No nobody is looking
+
+ <$B> 
+<ICE-PHI:S1A-037#140:1:B>
+<indig> Ha </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-037#141:1:A>
+Nobody is looking
+
+ <$B> 
+<ICE-PHI:S1A-037#142:1:B>
+There <indig> 'o </indig> <,> across from you <,> the guy
+
+ <$A> 
+<ICE-PHI:S1A-037#143:1:A>
+Where <,> 
+ 
+<ICE-PHI:S1A-037#144:1:A>
+At the corner
+
+ <$B> 
+<ICE-PHI:S1A-037#145:1:B>
+Yes <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#146:1:A>
+Yihee oh my God <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-037#147:1:A>
+He 's so nice
+ 
+<ICE-PHI:S1A-037#148:1:A>
+Maybe we look so weird that 's why <{> <[> they 're </[> looking at us
+
+ <$B> 
+<ICE-PHI:S1A-037#149:1:B>
+<[> Yes </[> </{> 
+ 
+<ICE-PHI:S1A-037#150:1:B>
+There 's a black thing in between us <&> referring to the mike </&> and you know the captain ball is my classmate and it 's so embarrassing
+ 
+<ICE-PHI:S1A-037#151:1:B>
+He knows me <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#152:1:A>
+No the fact that you 're Jacqueline Sy <&> speaker B chuckles </&> it 's already embarrassing <{> <[> I know </[> 
+
+ <$B> 
+<ICE-PHI:S1A-037#153:1:B>
+<[> Argh </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-037#154:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-037#155:1:B>
+You 're so cruel <{> <[> you 're really </[> <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#156:1:A>
+<[> No I 'm </[> </{> not
+ 
+<ICE-PHI:S1A-037#157:1:A>
+I 'm just being brutally frank
+
+ <$B> 
+<ICE-PHI:S1A-037#158:1:B>
+You know we look like lovers in the park <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#159:1:A>
+Well <,> too bad for <,> me too good for you
+ 
+<ICE-PHI:S1A-037#161:1:A>
+Which one the one <,> doing like this
+
+ <$B> 
+<ICE-PHI:S1A-037#162:1:B>
+Yeah right
+
+ <$A> 
+<ICE-PHI:S1A-037#163:1:A>
+He 's covered uhm <{1> <[1> the one </[1> wearing <,> kind of yellowish 
+
+ <$B> 
+<ICE-PHI:S1A-037#164:1:B>
+<[1> Yeah </[1> </{1> 
+
+ <$A> 
+<ICE-PHI:S1A-037#165:1:A>
+Look at that girl in yellow
+ 
+<ICE-PHI:S1A-037#166:1:A>
+Don't you think she looks very crazy <{> <[> in that </[> yellow thing
+
+ <$B> 
+<ICE-PHI:S1A-037#167:1:B>
+<[> Yes </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-037#168:1:A>
+And with that face my gosh
+ 
+<ICE-PHI:S1A-037#169:1:A>
+Isn't her <,> name <@> Litz </@> <O> chuckle </O> <@> Felicity Chan </@> <O> chuckle </O> 
+
+ <$B> 
+<ICE-PHI:S1A-037#170:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-037#171:1:A>
+Oh look there 's somebody coming <,> it 's her block mate
+
+ <$B> 
+<ICE-PHI:S1A-037#172:1:B>
+Oh
+
+ <$A> 
+<ICE-PHI:S1A-037#173:1:A>
+And we have the same name <{> <[> <mention> Bless </mention> </[> 
+
+ <$B> 
+<ICE-PHI:S1A-037#174:1:B>
+<[> <mention> Bless </mention> </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-037#175:1:A>
+Of all the names her parents would give her <,> <mention> Bless </mention> what a name
+ 
+<ICE-PHI:S1A-037#176:1:A>
+It 's the same as mine <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-037#177:1:B>
+You have the same name as <mention> Blesses </mention> and <,> we have the same birthday
+
+ <$A> 
+<ICE-PHI:S1A-037#178:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-037#179:1:B>
+Don't you have anything original <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#180:1:A>
+Of course I do
+
+ <$B> 
+<ICE-PHI:S1A-037#181:1:B>
+What
+
+ <$A> 
+<ICE-PHI:S1A-037#182:1:A>
+You don't
+
+ <$B> 
+<ICE-PHI:S1A-037#183:1:B>
+Oh <,> me
+
+ <$A> 
+<ICE-PHI:S1A-037#184:1:A>
+I was first remember <,> <{> <[> I was </[> first and I was the first person who was named <mention> Bless </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-037#185:1:B>
+<[> Uh-huh </[> </{> 
+ 
+<ICE-PHI:S1A-037#186:1:B>
+Really huh
+
+ <$A> 
+<ICE-PHI:S1A-037#187:1:A>
+Is there <.> anybo </.> any other people looking at us
+
+ <$B> 
+<ICE-PHI:S1A-037#188:1:B>
+I do hope they are not laughing at us because I 'm going to kill you <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#189:1:A>
+Me
+
+ <$B> 
+<ICE-PHI:S1A-037#190:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-037#191:1:A>
+Why
+
+ <$B> 
+<ICE-PHI:S1A-037#192:1:B>
+<indig> Ha </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-037#193:1:A>
+Why
+
+ <$B> 
+<ICE-PHI:S1A-037#194:1:B>
+Remember <,> remember the guy that I told you
+
+ <$A> 
+<ICE-PHI:S1A-037#195:1:A>
+The one
+
+ <$B> 
+<ICE-PHI:S1A-037#196:1:B>
+The captain ball
+ 
+<ICE-PHI:S1A-037#197:1:B>
+I
+
+ <$A> 
+<ICE-PHI:S1A-037#198:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-037#199:1:B>
+I don't know why he 's laughing and they are all looking here <{> <[> right </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#200:1:A>
+<[> They 're </[> </{> not looking here
+
+ <$B> 
+<ICE-PHI:S1A-037#201:1:B>
+They 're not looking here
+ 
+<ICE-PHI:S1A-037#202:1:B>
+I 'm just being paranoid <{> <[> right </[> okay
+
+ <$A> 
+<ICE-PHI:S1A-037#203:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-037#204:1:A>
+'Cause you think everybody 's looking at you
+ 
+<ICE-PHI:S1A-037#205:1:A>
+You 're so
+
+ <$B> 
+<ICE-PHI:S1A-037#206:1:B>
+I 'm so vain
+
+ <$A> 
+<ICE-PHI:S1A-037#207:1:A>
+Righteous <O> chuckle </O> 
+ 
+<ICE-PHI:S1A-037#208:1:A>
+<indig> Ay </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-037#209:1:B>
+You 're <{> <[> so vain </[> <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#210:1:A>
+<[> You 're so </[> </{> vain <,> no not vain
+ 
+<ICE-PHI:S1A-037#211:1:A>
+Vain is not the <,> 
+
+ <$B> 
+<ICE-PHI:S1A-037#212:1:B>
+What
+
+ <$A> 
+<ICE-PHI:S1A-037#213:1:A>
+You 're so <,,> feeling
+
+ <$B> 
+<ICE-PHI:S1A-037#214:1:B>
+<indig> Ha </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-037#215:1:A>
+Feeling that everybody is looking at <{1> <[1> you </[1> when nobody really pays so much <{2> <[2> attention </[2> to you
+
+ <$B> 
+<ICE-PHI:S1A-037#216:1:B>
+<[1> No </[1> </{1> 
+ 
+<ICE-PHI:S1A-037#217:1:B>
+<[2> <indig> Ha </indig> </[2> </{2> 
+ 
+<ICE-PHI:S1A-037#218:1:B>
+I 'm just self-conscious <indig> 'no </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-037#219:1:A>
+No <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-037#220:1:B>
+You 're really set to fight me <indig> ha </indig> <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#221:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1A-037#222:1:B>
+No <,> no
+
+ <$A> 
+<ICE-PHI:S1A-037#223:1:A>
+This is my normal <,> me <,> 
+ 
+<ICE-PHI:S1A-037#224:1:A>
+Then would you kindly please remove this girl away from this place
+
+ <$B> 
+<ICE-PHI:S1A-037#225:1:B>
+You know Honey looks like she 's just you know she just woke up from a nightmare
+
+ <$A> 
+<ICE-PHI:S1A-037#226:1:A>
+From a nightmare
+
+ <$B> 
+<ICE-PHI:S1A-037#227:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-037#228:1:A>
+Just like me <,> I just woke up from a very nice dream although I can't remember what it was
+ 
+<ICE-PHI:S1A-037#229:1:A>
+I ate today my breakfast is honey stars cereal with banana <,> and I also ate <indig> asado </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-037#230:1:B>
+I think Mr Dayag will fall asleep you know listening to your food <{> <[> to the </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#231:1:A>
+<[> Mr </[> </{> Dayag won't be listening to this another teacher <indig> e </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-037#232:1:B>
+Uh another teacher <{> <[> not </[> him
+
+ <$A> 
+<ICE-PHI:S1A-037#233:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-037#234:1:A>
+But maybe Mr Dayag is at the back
+ 
+<ICE-PHI:S1A-037#235:1:A>
+I would like to take this opportunity to say hi to Mr Dayag and her <.> co </.> his his co-teachers sorry <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-037#236:1:B>
+Sing a song Blessy
+
+ <$A> 
+<ICE-PHI:S1A-037#237:1:A>
+Sing a song
+
+ <$B> 
+<ICE-PHI:S1A-037#238:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-037#239:1:A>
+Could that be is that allowed
+ 
+<ICE-PHI:S1A-037#240:1:A>
+Is that allowed
+
+ <$B> 
+<ICE-PHI:S1A-037#241:1:B>
+I don't know maybe not
+
+ <$A> 
+<ICE-PHI:S1A-037#242:1:A>
+We 'll see
+ 
+<ICE-PHI:S1A-037#243:1:A>
+I want to watch The Truman Show 
+
+ <$B> 
+<ICE-PHI:S1A-037#244:1:B>
+Well I 'm going to ask you a question
+
+ <$A> 
+<ICE-PHI:S1A-037#245:1:A>
+What
+
+ <$B> 
+<ICE-PHI:S1A-037#246:1:B>
+Do you think that young people today have it easy
+
+ <$A> 
+<ICE-PHI:S1A-037#247:1:A>
+What
+
+ <$B> 
+<ICE-PHI:S1A-037#248:1:B>
+Do you think that young people today have it easy you know have life so easy
+
+ <$A> 
+<ICE-PHI:S1A-037#249:1:A>
+What do you mean by <mention> easy </mention> 
+
+ <$B> 
+<ICE-PHI:S1A-037#250:1:B>
+<mention> Easy </mention> as in their they did not have to exert any effort to get
+
+ <$A> 
+<ICE-PHI:S1A-037#251:1:A>
+To
+
+ <$B> 
+<ICE-PHI:S1A-037#252:1:B>
+They do not the young people they do not have to exert any effort to get what they want
+ 
+<ICE-PHI:S1A-037#253:1:B>
+Either parents just hand it to them you know spoon-feed them
+
+ <$A> 
+<ICE-PHI:S1A-037#254:1:A>
+Of course that 's the way it 's supposed to be
+ 
+<ICE-PHI:S1A-037#255:1:A>
+Young people don't work yet
+ 
+<ICE-PHI:S1A-037#256:1:A>
+<{> <[> How do you </[> expect them to get anything
+
+ <$B> 
+<ICE-PHI:S1A-037#257:1:B>
+<[> No </[> </{> 
+ 
+<ICE-PHI:S1A-037#258:1:B>
+I heard in a radio station they are asking if young people today have it easy because <,> <indig> di ba </indig> uhm our parents our grandparents they had witnessed the world war our parents the EDSA Revolution and now we don't have you know we we just sit back and relax
+ 
+<ICE-PHI:S1A-037#259:1:B>
+What do you think
+
+ <$A> 
+<ICE-PHI:S1A-037#260:1:A>
+Well that 's <,> the reason why our parents uhm fought the world war and all those things to give us an easy life and a better life
+
+ <$B> 
+<ICE-PHI:S1A-037#261:1:B>
+So do you think that we have it easier than them <,> 
+
+ <$A> 
+<ICE-PHI:S1A-037#262:1:A>
+Not really easier
+
+ <$B> 
+<ICE-PHI:S1A-037#263:1:B>
+But we have a more comfortable <{> <[> life </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#264:1:A>
+<[> No </[> </{> it 's not saying that we have an easier life we are more fortunate
+
+ <$B> 
+<ICE-PHI:S1A-037#265:1:B>
+And <,> maybe <,,> 
+
+ <$A> 
+<ICE-PHI:S1A-037#267:1:A>
+Have you done your
+
+ <$B> 
+<ICE-PHI:S1A-037#268:1:B>
+What else
+
+ <$A> 
+<ICE-PHI:S1A-037#269:1:A>
+What other assignments do we have
+
+ <$B> 
+<ICE-PHI:S1A-037#270:1:B>
+Many <,> we have many <{> <[> assignments </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#271:1:A>
+<[> When are we </[> </{> going to do our <indig> ano </indig> our note cards
+
+ <$B> 
+<ICE-PHI:S1A-037#272:1:B>
+Note cards
+
+ <$A> 
+<ICE-PHI:S1A-037#273:1:A>
+Wednesday
+
+ <$B> 
+<ICE-PHI:S1A-037#274:1:B>
+No Friday
+
+ <$A> 
+<ICE-PHI:S1A-037#275:1:A>
+Friday when are we going to do it on Friday
+
+ <$B> 
+<ICE-PHI:S1A-037#276:1:B>
+No we 're going to submit it
+
+ <$A> 
+<ICE-PHI:S1A-037#277:1:A>
+Yeah I know that <indig> pero </indig> when are we going to do it
+
+ <$B> 
+<ICE-PHI:S1A-037#278:1:B>
+I don't know <,> maybe the day before Friday
+
+ <$A> 
+<ICE-PHI:S1A-037#279:1:A>
+When are we going to the library
+
+ <$B> 
+<ICE-PHI:S1A-037#280:1:B>
+We as a as a class
+
+ <$A> 
+<ICE-PHI:S1A-037#281:1:A>
+No <{> <[> we </[> 
+
+ <$B> 
+<ICE-PHI:S1A-037#282:1:B>
+<[> What </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-037#283:1:A>
+As a friend <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-037#284:1:B>
+As a friend
+
+ <$A> 
+<ICE-PHI:S1A-037#285:1:A>
+Yeah as a friend
+
+ <$B> 
+<ICE-PHI:S1A-037#286:1:B>
+Oh my God <,,> maybe tomorrow
+ 
+<ICE-PHI:S1A-037#287:1:B>
+Why you haven't researched anything yet
+ 
+<ICE-PHI:S1A-037#288:1:B>
+You haven't photocopied anything yet
+
+ <$A> 
+<ICE-PHI:S1A-037#289:1:A>
+None
+
+ <$B> 
+<ICE-PHI:S1A-037#290:1:B>
+None
+ 
+<ICE-PHI:S1A-037#291:1:B>
+Really
+
+ <$A> 
+<ICE-PHI:S1A-037#292:1:A>
+Yeah I <.> hav </.> I plan to do it on Wednesday
+ 
+<ICE-PHI:S1A-037#293:1:A>
+We have a long break
+
+ <$B> 
+<ICE-PHI:S1A-037#294:1:B>
+Wednesday we don't have any classes
+ 
+<ICE-PHI:S1A-037#295:1:B>
+<{> <[> Janet </[> told me that we don't have any classes
+
+ <$A> 
+<ICE-PHI:S1A-037#296:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-037#297:1:A>
+<{> <[> You know this </[> is so embarrassing
+
+ <$B> 
+<ICE-PHI:S1A-037#298:1:B>
+<[> You know this </[> </{> 
+ 
+<ICE-PHI:S1A-037#299:1:B>
+You know this black thing between us can you please lower it down
+
+ <$A> 
+<ICE-PHI:S1A-037#300:1:A>
+Black thing
+
+ <$B> 
+<ICE-PHI:S1A-037#301:1:B>
+Yes that black mike
+
+ <$A> 
+<ICE-PHI:S1A-037#302:1:A>
+I don't mind
+
+ <$B> 
+<ICE-PHI:S1A-037#303:1:B>
+'Cause you know we look like
+
+ <$A> 
+<ICE-PHI:S1A-037#304:1:A>
+We may be heard
+
+ <$B> 
+<ICE-PHI:S1A-037#305:1:B>
+You know in a T V studio the big <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-037#306:1:A>
+What big
+
+ <$B> 
+<ICE-PHI:S1A-037#307:1:B>
+The big microphone <,> <indig> di ba </indig> and then with the phone and then directors holding it like that
+
+ <$A> 
+<ICE-PHI:S1A-037#308:1:A>
+Well so nobody will recognize us after
+
+ <$B> 
+<ICE-PHI:S1A-037#309:1:B>
+You do hope so
+
+ <$A> 
+<ICE-PHI:S1A-037#310:1:A>
+What were we talking about
+ 
+<ICE-PHI:S1A-037#311:1:A>
+Uh the note cards
+ 
+<ICE-PHI:S1A-037#312:1:A>
+What are we going to do on Wednesday
+ 
+<ICE-PHI:S1A-037#313:1:A>
+We 're not going to go out <,> are we
+
+ <$B> 
+<ICE-PHI:S1A-037#314:1:B>
+I don't know <,> I don't know <,> 
+ 
+<ICE-PHI:S1A-037#316:1:B>
+I told you <indig> di ba </indig> that Janet told us then there 's not going going to be any classes on Wednesday
+
+ <$A> 
+<ICE-PHI:S1A-037#317:1:A>
+No classes on Wednesday <,> 
+ 
+<ICE-PHI:S1A-037#318:1:A>
+Why
+
+ <$B> 
+<ICE-PHI:S1A-037#319:1:B>
+Uhm I don't know it 's for because we won in the championship
+
+ <$A> 
+<ICE-PHI:S1A-037#320:1:A>
+On Wednesday
+
+ <$B> 
+<ICE-PHI:S1A-037#321:1:B>
+Yes twenty-one
+
+ <$A> 
+<ICE-PHI:S1A-037#322:1:A>
+Really
+
+ <$B> 
+<ICE-PHI:S1A-037#323:1:B>
+Janet told me
+ 
+<ICE-PHI:S1A-037#324:1:B>
+Don't blame me
+
+ <$A> 
+<ICE-PHI:S1A-037#325:1:A>
+Where did she hear it <,> 
+ 
+<ICE-PHI:S1A-037#326:1:A>
+I just
+
+ <$B> 
+<ICE-PHI:S1A-037#327:1:B>
+I don't know
+ 
+<ICE-PHI:S1A-037#328:1:B>
+She heard it from May and Irene and uh I also heard about it but I don't know if it 's official yet
+
+ <$A> 
+<ICE-PHI:S1A-037#329:1:A>
+Nah I don't think so
+ 
+<ICE-PHI:S1A-037#330:1:A>
+Well uhm <,> are you are you still going to May 's house tomorrow
+
+ <$B> 
+<ICE-PHI:S1A-037#331:1:B>
+I don't know
+ 
+<ICE-PHI:S1A-037#332:1:B>
+Maybe I 'm going to the Gokongwei <&> name of Computer Science Building </&> and download the animation animated
+
+ <$A> 
+<ICE-PHI:S1A-037#333:1:A>
+But you can also do it tomorrow
+
+ <$B> 
+<ICE-PHI:S1A-037#334:1:B>
+No because it 'll it it takes so long just to go into a <&> clears throat </&> site
+
+ <$A> 
+<ICE-PHI:S1A-037#335:1:A>
+The site
+
+ <$B> 
+<ICE-PHI:S1A-037#336:1:B>
+Yes it takes so long just to go in in a site inside the site
+ 
+<ICE-PHI:S1A-037#337:1:B>
+So I I <.> hav </.> I haven't found the site yet
+ 
+<ICE-PHI:S1A-037#338:1:B>
+Have you
+
+ <$A> 
+<ICE-PHI:S1A-037#339:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-037#340:1:B>
+I haven't found any <{> <[> thing yet </[> 
+
+ <$A> 
+<ICE-PHI:S1A-037#341:1:A>
+<[> Cardmaster </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-037#342:1:B>
+What <,> can I download from Blue Mountain
+
+ <$A> 
+<ICE-PHI:S1A-037#343:1:A>
+I don't know I haven't tried it
+
+ <$B> 
+<ICE-PHI:S1A-037#345:1:B>
+You haven't tried it yet
+ 
+<ICE-PHI:S1A-037#346:1:B>
+But isn't Cardmaster and Blue Mountain the same
+
+ <$A> 
+<ICE-PHI:S1A-037#347:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1A-037#348:1:B>
+No <,,> I 'll find the site <,> 
+ 
+<ICE-PHI:S1A-037#349:1:B>
+Tiffany is laughing at me 
+
+ </I> 

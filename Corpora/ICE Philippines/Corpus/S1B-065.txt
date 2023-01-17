@@ -1,0 +1,477 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-065#1:1:A>
+The witness please rise
+
+ <$B> 
+<ICE-PHI:S1B-065#2:1:B>
+Raise your right hand
+ 
+<ICE-PHI:S1B-065#3:1:B>
+<X> You Rufo Colayco do swear that the evidence you shall give in the case now pending between the Philippines and Joseph Ejercito Estrada President of the Philippines shall be the truth the whole truth and nothing but the truth so help you God </X> 
+
+ <$C> 
+<ICE-PHI:S1B-065#4:1:C>
+Yes
+
+ <$B> 
+<ICE-PHI:S1B-065#5:1:B>
+Please sit down
+
+ <$A> 
+<ICE-PHI:S1B-065#6:1:A>
+Take your seat 
+ 
+<ICE-PHI:S1B-065#7:1:A>
+Prosecutor Libarios your witness
+
+ <$D> 
+<ICE-PHI:S1B-065#8:1:D>
+Mr Mr Chief Justice Your Honors uh we are offering uh in evidence the testimony of this witness to establish and prove the following
+ 
+<ICE-PHI:S1B-065#9:1:D>
+Number one that some time in February nineteen ninety-nine the witness was called by the President to Malaca&ntilde;ang to discuss about the plan to set up a gambling casino in Clark
+ 
+<ICE-PHI:S1B-065#10:1:D>
+Number two that it was the President who introduced Governor Chavit Singson to Jesus Pineda for them to establish a casino in Fontana Resort known as the Fontainebleau
+ 
+<ICE-PHI:S1B-065#11:1:D>
+Number three that Jesus Pineda became involved with Governor Chavit Singson in the Fontainebleau gambling casino project at the instance of the President
+ 
+<ICE-PHI:S1B-065#12:1:D>
+And number four that the President is the beneficial owner of the Fontainebleau a corporation organized and operated and funded from the proceeds of the <indig> jueteng </indig> collections
+ 
+<ICE-PHI:S1B-065#13:1:D>
+Number five that Fontainebleau entered into a lease agreement with Fontana Resort through its owner R N Development Corporation for the use of its convention center as the site of the proposed gambling casino
+ 
+<ICE-PHI:S1B-065#14:1:D>
+Number six that Fontainebleau transferred its assets which were actually acquired from <indig> jueteng </indig> collections and waived its right to operate a casino in favor of Fontana through the owner R N Development Corporation
+ 
+<ICE-PHI:S1B-065#15:1:D>
+Number seven that Charlie Atong Ang a known presidential crony brokered the deal between Fontainebleau and Fontana through its owner R N Development Corporation
+ 
+<ICE-PHI:S1B-065#16:1:D>
+And number eight that Fontana Resort including the casino was eventually acquired by the President through Lucio Co a known presidential crony
+ 
+<ICE-PHI:S1B-065#17:1:D>
+And we are further offering the testimony of this witness Your Honor to corroborate the previous testimony of Governor Chavit Singson and uh Carmencita Itchon that <indig> jueteng </indig> collections were used to fund the Fontainebleau project casino project and that the assets of Fontainebleau were later on transferred to Fontana and that Fontana was later on acquired by the President through Lucio Co
+
+ <$A> 
+<ICE-PHI:S1B-065#18:1:A>
+The witness is now yours 
+ 
+<ICE-PHI:S1B-065#> uh Atty Mendoza
+
+ <$E> 
+<ICE-PHI:S1B-065#19:1:E>
+Mr Chief Justice may I inquire whether this evidence is being offered uh in connection with uh Article One first charge
+
+ <$D> 
+<ICE-PHI:S1B-065#20:1:D>
+Yes Your Honor it is in connection with Article One particularly the involvement of the President in the <indig> jueteng </indig> collections under Charge Number One
+
+ <$E> 
+<ICE-PHI:S1B-065#21:1:E>
+There are overtones in the offer that this evidence uh may have implications on Article Two
+ 
+<ICE-PHI:S1B-065#22:1:E>
+I would like therefore to make it clear that this evidence uh is being offered uh solely and exclusively in connection with Article One of the charges
+
+ <$D> 
+<ICE-PHI:S1B-065#23:1:D>
+May I <{> <[> have the </[> 
+
+ <$A> 
+<ICE-PHI:S1B-065#24:1:A>
+<[> Do you agree </[> </{> to that uh Prosecutor Libarios <{> <[> <,> </[> that is the testimony of this witness would be solely and exclusively for the Article One of the Articles of Impeachment 
+
+ <$D> 
+<ICE-PHI:S1B-065#25:1:D>
+<[> Your Honor please this </[> </{> 
+ 
+<ICE-PHI:S1B-065#27:1:D>
+Your Honor please I think uh it should be without prejudice to the possible adoption <{> <[> by the prosecution </[> 
+
+ <$A> 
+<ICE-PHI:S1B-065#28:1:A>
+<[> Later on </[> </{> when you will call the witness just like in the case of Governor Singson then
+ 
+<ICE-PHI:S1B-065#29:1:A>
+So for the moment it would be exclusively and solely to prove Article One
+
+ <$E> 
+<ICE-PHI:S1B-065#30:1:E>
+Because uh we have this problem uh uh whether we could object to questions for example ownership of a certain asset uh not necessarily in connection with <indig> jueteng </indig> then later on the prosecution may say this is one of the assets which was not declared in the Statement of Assets and Liabilities which would be a charge under Article Two
+
+ <$A> 
+<ICE-PHI:S1B-065#31:1:A>
+Then you can object to the question
+
+ <$E> 
+<ICE-PHI:S1B-065#32:1:E>
+<{> <[> So we we 'll have to object </[> 
+
+ <$A> 
+<ICE-PHI:S1B-065#33:1:A>
+<[> And I think that the counsel counsel </[> </{> for the prosecution should see to it that as promised by him the evidence to be elicited must only be for Article One
+
+ <$D> 
+<ICE-PHI:S1B-065#34:1:D>
+We agree uh Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-065#35:1:A>
+You may now proceed
+
+ <$D> 
+<ICE-PHI:S1B-065#36:1:D>
+Uh thank you Mr Chief Justice 
+ 
+<ICE-PHI:S1B-065#37:1:D>
+Mr uh Witness can you please uh state uh your name
+
+ <$C> 
+<ICE-PHI:S1B-065#38:1:C>
+I am Rufo Colayco 
+
+ <$D> 
+<ICE-PHI:S1B-065#39:1:C>
+How about your civil status are you married
+
+ <$C> 
+<ICE-PHI:S1B-065#41:1:C>
+Married
+
+ <$D> 
+<ICE-PHI:S1B-065#42:1:D>
+Your address
+
+ <$C> 
+<ICE-PHI:S1B-065#43:1:C>
+Fourteenth Floor Sixty-Seven Sixty Ayala Avenue
+
+ <$D> 
+<ICE-PHI:S1B-065#44:1:D>
+Can you also state your uh educational attainment
+
+ <$C> 
+<ICE-PHI:S1B-065#45:1:C>
+I have a bachelor 's degree in History and Government from Ateneo and a Master of Business Administration from Harvard
+
+ <$D> 
+<ICE-PHI:S1B-065#46:1:D>
+For the record uh can you also uh tell us your professional background
+
+ <$C> 
+<ICE-PHI:S1B-065#47:1:C>
+I was a partner in S G V and Company for thirteen years after which I was a partner in the Arthur Andersen regional office in Hong Kong for two years and thereafter for the next eight years I was the chief executive of the Kuok Group of Companies in the Philippines which are best known as the owners and operators of the Shangri-La Hotels and finally in nineteen ninety-eight I became the the president of Clark
+
+ <$D> 
+<ICE-PHI:S1B-065#48:1:D>
+What do you mean by <mention> Clark </mention> 
+
+ <$C> 
+<ICE-PHI:S1B-065#49:1:C>
+The Clark Development Corporation
+
+ <$D> 
+<ICE-PHI:S1B-065#50:1:D>
+Can you tell us what is this Clark Development Corporation
+
+ <$C> 
+<ICE-PHI:S1B-065#51:1:C>
+Uh Clark Development Corporation is the uhm entity by which the government uh implemented its uh program to convert the former United States Air Force Base into a special economic zone and it continues to be the entity that administers that zone
+
+ <$D> 
+<ICE-PHI:S1B-065#52:1:D>
+Now how did you become uh the president of Clark Development Corporation
+
+ <$C> 
+<ICE-PHI:S1B-065#53:1:C>
+I was appointed the president of Clark Development Corporation in nineteen ninety-eight shortly after President Estrada took office
+
+ <$D> 
+<ICE-PHI:S1B-065#54:1:D>
+Now as president of Clark Development Corporation can you tell us what was your primary duty or responsibility
+
+ <$C> 
+<ICE-PHI:S1B-065#55:1:C>
+Uhm as president of C D C or Clark Development Corporation my basic task was is to was to oversee the administration of the entire zone
+ 
+<ICE-PHI:S1B-065#56:1:C>
+Uh I I wish to note that an important aspect to that task was to deal with prospective investors to uh evaluate their suitability and ultimately to enter into agreements with them so that they could operate in the zone
+
+ <$D> 
+<ICE-PHI:S1B-065#57:1:D>
+Uh Mr Colayco do you know uh Governor Luis Chavit Singson
+
+ <$C> 
+<ICE-PHI:S1B-065#58:1:C>
+Yes I do
+
+ <$D> 
+<ICE-PHI:S1B-065#59:1:D>
+How did you come to know Governor uh Chavit Singson
+
+ <$C> 
+<ICE-PHI:S1B-065#60:1:C>
+In mid-February nineteen ninety-nine I was summoned by the President to Malaca&ntilde;ang for a meeting and uh when I arrived there at his office in the <.> Presi </.> Presidential Residence uh he was uh with uh Governor Chavit Singson
+ 
+<ICE-PHI:S1B-065#61:1:C>
+He introduced me to Governor Chavit Singson
+
+ <$D> 
+<ICE-PHI:S1B-065#62:1:D>
+And uh what happened in that meeting in Malaca&ntilde;ang
+
+ <$C> 
+<ICE-PHI:S1B-065#63:1:C>
+The President started out by saying that uhm the governor had been extremely helpful during the past election and that he therefore felt it was appropriate to reciprocate
+
+ <$D> 
+<ICE-PHI:S1B-065#64:1:D>
+And uh can you recall uh what did you take up during that meeting in Malaca&ntilde;ang
+
+ <$C> 
+<ICE-PHI:S1B-065#65:1:C>
+Yes the President wanted to discuss the uh proposed gambling casino project of uh that that was to be started in the Fontana resort in Clark
+ 
+<ICE-PHI:S1B-065#66:1:C>
+And it was for that purpose that he wished to provide Governor Singson with a gambling casino license
+
+ <$D> 
+<ICE-PHI:S1B-065#67:1:D>
+And what else uh did the President tell you if any
+
+ <$C> 
+<ICE-PHI:S1B-065#68:1:C>
+Yeah he also told me that he had introduced Governor Singson to Mr Jesus Pineda or Susing Pineda as he 's known to uh well who was connected with the uh Fontana Leisure Park
+ 
+<ICE-PHI:S1B-065#69:1:C>
+He said that he it was his desire that Governor Singson and Mr Pineda be partners in the gambling casino venture in Clark
+
+ <$D> 
+<ICE-PHI:S1B-065#70:1:D>
+You you mentioned about uh Fontana
+ 
+<ICE-PHI:S1B-065#71:1:D>
+Can you please describe to us what is this Fontana and where it is located
+
+ <$C> 
+<ICE-PHI:S1B-065#72:1:C>
+Fontana you might say is the other major resort in Clark the the more famous and larger one being Mimosa
+ 
+<ICE-PHI:S1B-065#73:1:C>
+But Fontana is a two-hundred hectare uh resort which features uh sports and recreation facilities as well as residential villas
+
+ <$D> 
+<ICE-PHI:S1B-065#74:1:D>
+Now at that time can you tell us the owner or operator of uh the Fontana resort
+
+ <$C> 
+<ICE-PHI:S1B-065#75:1:C>
+At that time the owner of the resort was Robin Tan and his family through a holding company called R N Development Corporation
+
+ <$D> 
+<ICE-PHI:S1B-065#76:1:D>
+You earlier said that uh in a meeting in Malaca&ntilde;ang the President mentioned to you the name of Jesus Pineda who was supposed to be the partner of uh Chavit Singson in that casino project
+ 
+<ICE-PHI:S1B-065#77:1:D>
+Do you know this uh person Jesus Pineda
+
+ <$C> 
+<ICE-PHI:S1B-065#78:1:C>
+Yes I had known Susing Pineda for many years before that meeting and uhm I was aware that he was a classmate of the President a good friend of the President
+
+ <$D> 
+<ICE-PHI:S1B-065#79:1:D>
+Why do you know that he is a good friend this uh Pineda is a good friend of the President
+
+ <$C> 
+<ICE-PHI:S1B-065#80:1:C>
+Well I I I had knowledge of that directly and in fact I recall that about the same time that I was appointed as president of Clark uh Susing Pineda was appointed as a director of the National Power Corporation
+ 
+<ICE-PHI:S1B-065#82:1:C>
+And more recently I think in July of this year he was also appointed as a director of Clark Development Corporation and now serves as well as a member of the Executive Committee of the Company
+
+ <$D> 
+<ICE-PHI:S1B-065#83:1:D>
+Now after that meeting uh in Malaca&ntilde;ang can you recall if you have uh a discussion with Susing Pineda or Jesus Pineda regarding the casino project
+
+ <$C> 
+<ICE-PHI:S1B-065#84:1:C>
+Well of course he he we had to have meetings uh in order to implement the project
+
+ <$E> 
+<ICE-PHI:S1B-065#85:1:E>
+Uh Your Honor please at this point all of these testimonies appear to be immaterial
+ 
+<ICE-PHI:S1B-065#86:1:E>
+May I inquire whether at some point uh uh this testimony will be linked to <indig> jueteng </indig> collections
+
+ <$A> 
+<ICE-PHI:S1B-065#87:1:A>
+I think counsel is just trying to lay the basis uh and uh the objection might be premature at this stage
+
+ <$D> 
+<ICE-PHI:S1B-065#88:1:D>
+This is only a preliminary Your Honor and uh the uh testimony of this witness now will be very very significant in the course of the proceedings Your Honor particularly in relation to the establishment of the uh Fontainebleau casino project which according to the previous testimonies was being funded through the use of <indig> jueteng </indig> collections
+
+ <$A> 
+<ICE-PHI:S1B-065#89:1:A>
+So the questions should lead toward that that objective to avoid any objection
+
+ <$D> 
+<ICE-PHI:S1B-065#90:1:D>
+So you uh you said you had a discussion with uh Jesus Pineda after the meeting in Malaca&ntilde;ang
+
+ <$C> 
+<ICE-PHI:S1B-065#91:1:C>
+<{> <[> Yes </[> 
+
+ <$D> 
+<ICE-PHI:S1B-065#92:1:D>
+<[> Can you </[> </{> please recall that
+
+ <$C> 
+<ICE-PHI:S1B-065#93:1:C>
+Well we had certainly had more than one meeting
+ 
+<ICE-PHI:S1B-065#94:1:C>
+We met frequently in Clark Susing Pineda was more or less resident in in Fontana
+ 
+<ICE-PHI:S1B-065#96:1:C>
+And so in the course of those many meetings uh well first of all he had he had told me that they were forming a corporation called uh Fontainebleau which was to implement the gambling casino project
+ 
+<ICE-PHI:S1B-065#98:1:C>
+And that in fact the casino itself would bear the same name <mention> Fontainebleau </mention> 
+
+ <$D> 
+<ICE-PHI:S1B-065#99:1:D>
+And uh what else did you discuss if any
+
+ <$C> 
+<ICE-PHI:S1B-065#100:1:C>
+Uh yes I mentioned that we had frequent conversations and uh uh at a couple of those uh he disclosed to me that he had a serious misgiving and extreme discomfort about becoming the business partner of Governor Chavit Singson uh to the extent that I suggested to him that he ask his friend and classmate the President if it indeed was a requirement that for him to have a casino that he would be in partnership with the Governor
+
+ <$E> 
+<ICE-PHI:S1B-065#101:1:E>
+<{> <[> Your Honor </[> 
+
+ <$A> 
+<ICE-PHI:S1B-065#102:1:A>
+<[> Atty Mendoza </[> </{> 
+
+ <$E> 
+<ICE-PHI:S1B-065#103:1:E>
+May I request that the witness answer only the questions directed and he does not make a narration because that would not enable us to make objections
+ 
+<ICE-PHI:S1B-065#104:1:E>
+For example many of the <.> test </.> much of the testimony of the witness is hearsay and we are unable to make an objection because the witness simply made a narration
+
+ <$A> 
+<ICE-PHI:S1B-065#105:1:A>
+The witness is advised to answer the question and not to make a narration of facts because that could anyway be elicited by succeeding questions
+
+ <$C> 
+<ICE-PHI:S1B-065#106:1:C>
+Yes <{> <[> Your Honor </[> 
+
+ <$D> 
+<ICE-PHI:S1B-065#107:1:D>
+<[> So so </[> </{> what else happened after that
+
+ <$C> 
+<ICE-PHI:S1B-065#108:1:C>
+Uhm well he went to ask the President because he came back to me and said uh <indig> Mukhang ano talagang kailangan kong maging partner si Chavit e yun ang gusto ng Presidente mag-partner kami </indig> 
+
+ <$E> 
+<ICE-PHI:S1B-065#109:1:E>
+I move to strike out the answer is hearsay
+
+ <$D> 
+<ICE-PHI:S1B-065#110:1:D>
+Your Honor please
+
+ <$A> 
+<ICE-PHI:S1B-065#111:1:A>
+What must be the ground what 's the ground of the objection
+
+ <$E> 
+<ICE-PHI:S1B-065#112:1:E>
+Hearsay
+
+ <$D> 
+<ICE-PHI:S1B-065#113:1:D>
+Your Honor please with all due respect uh the the testimony of <{> <[> the witness is </[> 
+
+ <$A> 
+<ICE-PHI:S1B-065#114:1:A>
+<[> The objection </[> </{> is overruled
+ 
+<ICE-PHI:S1B-065#115:1:A>
+It cannot be hearsay insofar as the witness 's testimony is concerned because he was there
+
+ <$E> 
+<ICE-PHI:S1B-065#116:1:E>
+Uh this is in connection with what Mr Pineda told him as to what the President stated
+
+ <$A> 
+<ICE-PHI:S1B-065#117:1:A>
+To that part probably but not insofar as that portion in connection with which he was himself a participant
+
+ <$E> 
+<ICE-PHI:S1B-065#118:1:E>
+Yes Your Honor
+ 
+<ICE-PHI:S1B-065#119:1:E>
+As far as matters of his personal knowledge but not as far as to matters which he states were narrated to him by Mr Pineda as in regard conversations with the President
+
+ <$D> 
+<ICE-PHI:S1B-065#120:1:D>
+Can I now proceed Your Honor
+
+ <$A> 
+<ICE-PHI:S1B-065#121:1:A>
+You must proceed
+
+ <$D> 
+<ICE-PHI:S1B-065#122:1:D>
+Now aside from that meeting in Malaca&ntilde;ang with the President uhm where you discussed about the casino project did you have on any other occasion discuss also with the President the same casino project
+
+ <$C> 
+<ICE-PHI:S1B-065#123:1:C>
+I can recall at least one other occasion
+
+ <$D> 
+<ICE-PHI:S1B-065#124:1:D>
+When was that
+
+ <$C> 
+<ICE-PHI:S1B-065#125:1:C>
+When uhm it was in June nineteen ninety-nine
+
+ <$D> 
+<ICE-PHI:S1B-065#126:1:D>
+Where
+
+ <$C> 
+<ICE-PHI:S1B-065#127:1:C>
+In Tokyo
+
+ <$D> 
+<ICE-PHI:S1B-065#128:1:D>
+And uh why were you in Tokyo why were you in Tokyo at that time
+
+ <$C> 
+<ICE-PHI:S1B-065#129:1:C>
+I was there because the President was there
+ 
+<ICE-PHI:S1B-065#130:1:C>
+He he was on a presidential visit to Tokyo and I took advantage as as it were of the occasion to promote Clark to Japanese investors by scheduling meetings with them in Tokyo during the time when the President was there
+ 
+<ICE-PHI:S1B-065#131:1:C>
+I flew there separately but I was there at the same time
+ 
+ </I> 

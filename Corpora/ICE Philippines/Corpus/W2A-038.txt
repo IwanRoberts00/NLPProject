@@ -1,0 +1,561 @@
+<I>
+
+<ICE-PHI:W2A-038#1:1>
+<h> <bold> A survey of distributed object-oriented programming
+languages and systems </bold> </h>
+
+<ICE-PHI:W2A-038#2:1>
+<bold> Jonathan Dayao </bold>
+
+<p> 
+<ICE-PHI:W2A-038#3:1>
+<mention> Distributed Object-Oriented Programming ( DOOP)
+</mention> is becoming a trend in the implementation of distributed computing
+systems.
+
+<ICE-PHI:W2A-038#4:1>
+This claim can be substantiated by the proliferation of concurrent
+object-oriented programming languages that have potential for distribution
+and distributed object oriented programming languages and systems.
+
+<ICE-PHI:W2A-038#5:1>
+<mention> &ldquo; Appendix A &rdquo; </mention> lists published
+research relating to these programming languages and systems.
+
+<ICE-PHI:W2A-038#6:1>
+We do not claim the list to be exhaustive but it reflects the growing
+interest in the field.
+
+<ICE-PHI:W2A-038#7:1>
+Also, this trend is evident not only in official standards
+organizations, such as ISO and CCITT, but also in industry consortia, such as
+the Open Software Foundation and the Object Management Group in the US, and
+Architecture Projects Management in the UK [ NICOL93]. </p>
+
+<p> 
+<ICE-PHI:W2A-038#8:1>
+The goal of this paper is to identify current research in
+distributed object-oriented programming.
+
+<ICE-PHI:W2A-038#9:1>
+To accomplish this general goal, we first identify the issues related
+to distributed object-oriented programming languages and systems.
+
+<ICE-PHI:W2A-038#10:1>
+Next, we survey some of the most important implementations in this
+area using the issues identified as the basis.
+
+<ICE-PHI:W2A-038#11:1>
+The list of issues presented here may not be exhaustive, but, we hope
+that it will give a general view of the areas that concern the application of
+the object-oriented paradigm to programming distributed systems. </p>
+
+<p> 
+<ICE-PHI:W2A-038#12:1>
+We hope to benefit from the survey by identifying the strategies
+used by different researchers, thus, identifying the <mention> &ldquo;
+state-of-the-art &rdquo; </mention> in distributed object-oriented
+programming.
+
+<ICE-PHI:W2A-038#13:1>
+Also, this paper will assist in identifying research areas that can
+be further investigated to realize environments that support distributed
+object-oriented programming.
+
+<ICE-PHI:W2A-038#14:1>
+Lastly, this survey will serve as an overview of the field and so
+serve as a guide to researchers interested in this area. </p>
+
+<p> 
+<ICE-PHI:W2A-038#15:1>
+The paper is organized as follows.
+
+<ICE-PHI:W2A-038#16:1>
+Section 1.0 gives a definition of a distributed computing system.
+
+<ICE-PHI:W2A-038#17:1>
+Section 2.0 provides our view of the object model.
+
+<ICE-PHI:W2A-038#18:1>
+Sections 1.0 and 2.0 are provided to determine the scope of the
+survey.
+
+<ICE-PHI:W2A-038#19:1>
+By defining distributed computing systems we have limited the number
+of programming languages in our survey to a manageable proportion.
+
+<ICE-PHI:W2A-038#20:1>
+However, we do not find this restrictive and feel that our definition
+agrees with the other definitions found in the literature.
+
+<ICE-PHI:W2A-038#21:1>
+Our definition of the object model allowed us to include different
+computational models that structure their problem domain as groups of
+cooperating objects.
+
+<ICE-PHI:W2A-038#22:1>
+Issues in distributed object-oriented programming languages are found
+in section 3.0.
+
+<ICE-PHI:W2A-038#23:1>
+Section 4.0 gives the survey of 18 programming languages and systems
+based on the issues identified in section 3.0.
+
+<ICE-PHI:W2A-038#24:1>
+In section 5.0 we give some conclusions and section 6.0 illustrates
+some further work. </p>
+
+<ICE-PHI:W2A-038#25:1>
+<h> 1.0 Distributed Computing Systems </h>
+
+<p> 
+<ICE-PHI:W2A-038#26:1>
+We adhere to the definition of <mention> <it> distributed
+computing systems </it> </mention> as systems that have several autonomous
+processors with local and unshared primary memory, and cooperate by passing
+messages with the use of a communications network.
+
+<ICE-PHI:W2A-038#27:1>
+We share this definition with [ GOSCI91] and [ BAL89]. </p>
+
+<p> 
+<ICE-PHI:W2A-038#28:1>
+Processors in a distributed computing system have independent
+processing flows and manipulate their own local data.
+
+<ICE-PHI:W2A-038#29:1>
+Processing happens in parallel among different processors and these
+processes may interact to accomplish a single goal.
+
+<ICE-PHI:W2A-038#30:1>
+Process interaction among processes in different processors is done
+by passing messages via a communications network.
+
+<ICE-PHI:W2A-038#31:1>
+It is also possible for each processor to have several processes
+running in true- or pseudoparallel.
+
+<ICE-PHI:W2A-038#32:1>
+These processes are scheduled by their local time-sharing kernel and
+may cooperate using message passing or shared data. </p>
+
+<p> 
+<ICE-PHI:W2A-038#33:1>
+There are parallel computer architectures with central control
+units ( e.g., pipelined vector processors, SIMD - - single instruction
+multiple data streams - - architectures, systolic architectures) and MIMD - -
+multiple instruction multiple data streams - - architectures that cooperate
+using shared memory [ DUNCA90].
+
+<ICE-PHI:W2A-038#34:1>
+Our definition of distributed computing system is different from
+these computer architectures because of the absence of central controllers
+and shared memory.
+
+<ICE-PHI:W2A-038#35:1>
+Our definition categorically distinguishes itself as having
+autonomous processors, unshared memory, and process interaction through
+message passing.
+
+<ICE-PHI:W2A-038#36:1>
+This view is similar to Duncan 's definition of MIMD- distributed
+memory architectures [ DUNCA90]. </p>
+
+<p> 
+<ICE-PHI:W2A-038#37:1>
+The speed of the communications network may vary according to
+whether the distributed computing system is <it> closely coupled </it> , <it>
+loosely coupled </it> , or <it> very loosely coupled </it> .
+
+<ICE-PHI:W2A-038#38:1>
+<it> Closely coupled </it> distributed systems are characterized as
+those with fast and reliable communications network.
+
+<ICE-PHI:W2A-038#39:1>
+The processors are physically close to each other and possible in a
+&ldquo; box. &rdquo;
+
+<ICE-PHI:W2A-038#40:1>
+The communication speed of these systems is in the order of
+microseconds. </p>
+
+<p> 
+<ICE-PHI:W2A-038#41:1>
+A <it> loosely coupled </it> distributed system has its
+communication speed in the order of milliseconds.
+
+<ICE-PHI:W2A-038#42:1>
+The communications network is not totally reliable because messages
+may be damaged, delivered in the wrong order, or may not arrive at all.
+
+<ICE-PHI:W2A-038#43:1>
+Higher level software must be designed and implemented to guarantee
+reliable communication.
+
+<ICE-PHI:W2A-038#44:1>
+An example of this is a workstation-LAN, where the local-area network
+( LAN) facilitates the communication among processes. </p>
+
+<p> 
+<ICE-PHI:W2A-038#45:1>
+In <it> very loosely coupled </it> distributed systems, the
+processors are located geographically far and are connected by the use of a
+wide-area network ( WAN).
+
+<ICE-PHI:W2A-038#46:1>
+Communication is of the order of seconds and less reliable than a
+loosely coupled system.
+
+<ICE-PHI:W2A-038#47:1>
+As discussed, there are several possibilities for the computer
+architecture of a distributed computing system.
+
+<ICE-PHI:W2A-038#48:1>
+But the theme of our definition is clear - - autonomous processors (
+with unshared primary memory) that cooperate by passing messages. </p>
+
+<p> 
+<ICE-PHI:W2A-038#49:1>
+There are several reasons why building distributed computing
+systems are so attractive.
+
+<ICE-PHI:W2A-038#50:1>
+This attraction exists because of the following reasons: <ul> sharing
+</ul> , <ul> parallelism </ul> , <ul> fault-tolerance </ul> , and <ul>
+inherent distribution </ul> of some applications. </p>
+
+<p> 
+<ICE-PHI:W2A-038#51:1>
+The primary reason for the attractiveness of distributed
+computing systems is its capability for <it> sharing </it> .
+
+<ICE-PHI:W2A-038#52:1>
+Resources ( e.g. program files, data files, processors, primary
+memory, printers, etc.) can be shared by the different processes running in
+the system.
+
+<ICE-PHI:W2A-038#53:1>
+These resources are open to those that are authorized to access them.
+
+<ICE-PHI:W2A-038#54:1>
+This sharing is possible because of the existence of the
+communications network.
+
+<ICE-PHI:W2A-038#55:1>
+A remote user can simply present a resource with an authorization
+permit if access to that resource is required.
+
+<ICE-PHI:W2A-038#56:1>
+If the access permit is determined to be legal, access is therefore
+allowed.
+
+<ICE-PHI:W2A-038#57:1>
+Any system that is connected by some form of a communications network
+can achieve some level of sharing.
+
+<ICE-PHI:W2A-038#58:1>
+However, distributed computing systems are designed in such a way
+that the sharing ( to some extent) is transparent.
+
+<ICE-PHI:W2A-038#59:1>
+This requirement provides the users with a single system abstraction.
+</p>
+
+<p> 
+<ICE-PHI:W2A-038#60:1>
+Invoking processes in parallel has been one of the earliest
+methods for computation speedup.
+
+<ICE-PHI:W2A-038#61:1>
+This is not unique of distributed computing systems because shared
+memory multiprocessor systems were originally conceived to increase
+processing speed by running several processes in parallel.
+
+<ICE-PHI:W2A-038#62:1>
+Although not unique, <it> parallelism </it> in distributed computing
+systems offer greater advantage in that it provides the possibility of
+dynamic growth.
+
+<ICE-PHI:W2A-038#63:1>
+As the demand for more processing power increases, distributed
+computing systems offer a simple solution of connecting extra processors (
+typically a workstation) to the network.
+
+<ICE-PHI:W2A-038#64:1>
+This power of scaling to larger numbers of processors makes a
+distributed computing system a big contender for parallelism.
+
+<ICE-PHI:W2A-038#65:1>
+[ CHAND91] provides a review of how parallelism will affect the
+discipline of computing in the coming decade. </p>
+
+<p> 
+<ICE-PHI:W2A-038#66:1>
+Processors in distributed computing systems may be called on
+demand to accomplish a certain task.
+
+<ICE-PHI:W2A-038#67:1>
+Processors are given messages indicating the task to be performed and
+the result is returned as soon as a processor completes its task.
+
+<ICE-PHI:W2A-038#68:1>
+Distributed computing systems consist of processors that are
+geographically dispersed.
+
+<ICE-PHI:W2A-038#69:1>
+This geographic distribution can make distributed computing systems
+more reliable.
+
+<ICE-PHI:W2A-038#70:1>
+The autonomous nature of the processors isolates problems in case one
+processor fails.
+
+<ICE-PHI:W2A-038#71:1>
+Failure of one or a number of processors does not affect the others,
+enabling the system to possess a property called partial failure [ BAL89].
+
+<ICE-PHI:W2A-038#72:1>
+With the existence of multiple processors, processes may be
+replicated so that when a processor fails, other processors may be summoned
+to take the place of the failed processor.
+
+<ICE-PHI:W2A-038#73:1>
+The partial failure property and the possibility to replicate
+processes make distributed computing systems a good candidate for programming
+<it> fault-tolerant </it> applications.
+
+<ICE-PHI:W2A-038#74:1>
+[ CRIST91] gives an excellent review of the fundamental concepts in
+fault-tolerant distributed computing systems. </p>
+
+<p> 
+<ICE-PHI:W2A-038#75:1>
+The last motivation for programming distributed computing systems
+comes from the observation that some applications are <it> inherently
+distributed </it> .
+
+<ICE-PHI:W2A-038#76:1>
+For example, an automobile assembly line may consist of several
+sections, each performing a defined task.
+
+<ICE-PHI:W2A-038#77:1>
+Each section is independent of the others but coordinates to trigger
+the others to perform their task.
+
+<ICE-PHI:W2A-038#78:1>
+Another example is a patient monitoring system where readings from
+different sensors ( e. g. temperature, pulse, blood pressure) connected to a
+patient are sent to the nurse station where they are analyzed.
+
+<ICE-PHI:W2A-038#79:1>
+There are still other applications of this nature and distributed
+computing systems, by their character, fit well to the implementation of such
+systems. </p>
+
+<ICE-PHI:W2A-038#80:1>
+<h> 2. 0 The Object Model </h>
+
+<p> 
+<ICE-PHI:W2A-038#81:1>
+The term <mention> object-oriented </mention> is probably one of
+the most confusing terms encountered in the computer industry today.
+
+<ICE-PHI:W2A-038#82:1>
+Novice researchers of object-oriented technology will easily get lost
+in a maze of different programming languages, environments, and design
+methodologies that have created their own vocabulary to describe the same
+concept.
+
+<ICE-PHI:W2A-038#83:1>
+In our effort to avoid this confusion, we present a higher-level
+abstraction of &ldquo; object-orientation. &rdquo;
+
+<ICE-PHI:W2A-038#84:1>
+Our concept of object orientation is embodied in our definition of
+the object model.
+
+<ICE-PHI:W2A-038#85:1>
+Our use of the phrase <mention> object model </mention> may conflict
+with some of the published literature ( [ BOOCH91], [ BOOCH94]), but our
+presentation shows those concepts that we feel are basic.
+
+<ICE-PHI:W2A-038#86:1>
+This approach will put into perspective the discussions that ensue.
+</p>
+
+<p> 
+<ICE-PHI:W2A-038#87:1>
+Objects are basic to the object oriented model.
+
+<ICE-PHI:W2A-038#88:1>
+They are entities that model problem domain items as communicating
+agents that possess a unique behavior.
+
+<ICE-PHI:W2A-038#89:1>
+This concept may be traced back to the 1940s as tools used for
+digital simulation [ NYGAA86].
+
+<ICE-PHI:W2A-038#90:1>
+Later, this concept was used in the first object-oriented programming
+language, <mention> Simula </mention> , in the 1960s [ EGE92].
+
+<ICE-PHI:W2A-038#91:1>
+Another important development that led to its popularity is the
+release of the <mention> Smalltalk Language </mention> in the 1970s.
+
+<ICE-PHI:W2A-038#92:1>
+<mention> Smalltalk </mention> opened the flood gate for the release
+of other object-oriented languages such as <mention> Smalltalk-80, C++,
+Eiffel, Objective-C </mention> , <foreign> etc. </foreign> </p>
+
+<p> 
+<ICE-PHI:W2A-038#93:1>
+An <it> object </it> embodies an abstraction of the services that
+it can provide to its users.
+
+<ICE-PHI:W2A-038#94:1>
+The services provided by the object defines its behavior.
+
+<ICE-PHI:W2A-038#95:1>
+The behavior of the object can be realized by passing a message to
+the object.
+
+<ICE-PHI:W2A-038#96:1>
+An object that receives a valid message performs some action
+specified by that message.
+
+<ICE-PHI:W2A-038#97:1>
+Objects encapsulate information that is not pertinent to the
+understanding of the services that it provides.
+
+<ICE-PHI:W2A-038#98:1>
+Objects may have services and data that are important only to itself
+and these are hidden from the users of the object.
+
+<ICE-PHI:W2A-038#99:1>
+Objects may be organized in modules to enhance the understanding of
+the system being modelled.
+
+<ICE-PHI:W2A-038#100:1>
+In some languages, there is no concept of module, but, we feel that
+a module is an important requirement for programming-in-the-large.
+
+<ICE-PHI:W2A-038#101:1>
+Objects in the system may run concurrently and an object may exhibit
+concurrent behavior.
+
+<ICE-PHI:W2A-038#102:1>
+In the following discussions, we elaborate on the elements of the
+object model.
+
+<ICE-PHI:W2A-038#103:1>
+These elements are <it> abstraction </it> , <it> encapsulation </it>
+, <it> modularity </it> , and <it> concurrency </it> . </p>
+
+<p> 
+<ICE-PHI:W2A-038#104:1>
+<it> Abstraction </it> is how we deal with the complexities of
+problem domain animate and inanimate objects.
+
+<ICE-PHI:W2A-038#105:1>
+We understand a great deal of things around us by simply
+understanding how it affects our lives.
+
+<ICE-PHI:W2A-038#106:1>
+Our understanding of real-world objects may be different from that
+of others.
+
+<ICE-PHI:W2A-038#107:1>
+The degree of our understanding depends so much on how a particular
+object affects our profession, our daily routine and responsibilities, our
+personality, and even our character.
+
+<ICE-PHI:W2A-038#108:1>
+This real-life interpretation of objects can transcend to computer
+systems. </p>
+
+<p> 
+<ICE-PHI:W2A-038#109:1>
+Abstraction presents a view of how an object may be interpreted
+and used.
+
+<ICE-PHI:W2A-038#110:1>
+It provides a boundary to the information that an object can provide
+to its clients and how these are made available.
+
+<ICE-PHI:W2A-038#111:1>
+The interpretation of information in this context is not limited to
+data but extends to the services.
+
+<ICE-PHI:W2A-038#112:1>
+This is a good way of separating concerns between the clients of the
+object and the object itself.
+
+<ICE-PHI:W2A-038#113:1>
+The client need not concern itself with how data and services are
+made available nor how these are implemented.
+
+<ICE-PHI:W2A-038#114:1>
+The clients ' concern is simply to see what information is available
+and to be able to use this for its purpose.
+
+<ICE-PHI:W2A-038#115:1>
+For example, clients can get information from an object without
+bothering about how this information is made available. </p>
+
+<p> 
+<ICE-PHI:W2A-038#116:1>
+Abstraction avoids misinterpretation of a client 's
+understanding of an object because the object specifically identifies what it
+can and cannot provide.
+
+<ICE-PHI:W2A-038#117:1>
+An object 's abstraction is seen in the object 's <it> interface
+</it> .
+
+<ICE-PHI:W2A-038#118:1>
+The interface of the object allows it to show the services and data
+that are available.
+
+<ICE-PHI:W2A-038#119:1>
+Clients of the object cannot get information other than through its
+interface.
+
+<ICE-PHI:W2A-038#120:1>
+In the object model, objects communicate only by passing messages.
+
+<ICE-PHI:W2A-038#121:1>
+If an object requires some service from another, this object will
+pass a message saying what information is required.
+
+<ICE-PHI:W2A-038#122:1>
+Once this request is received by the object, it performs some
+operation on itself, and returns ( if any) some value as a result of the
+request.
+
+<ICE-PHI:W2A-038#123:1>
+This implies that an object is allowed to manipulate only itself.
+
+<ICE-PHI:W2A-038#124:1>
+It is true that an object can require another to perform some task,
+but, the actual manipulation of the required data or service is done in the
+called object. </p>
+
+<p> 
+<ICE-PHI:W2A-038#125:1>
+<it> Encapsulation </it> , also called <mention> <it>
+information hiding </it> </mention> , is the process of hiding the
+implementation of the objects ' behavior.
+
+<ICE-PHI:W2A-038#126:1>
+An object is encapsulated if the clients of the object are
+restricted by the definition of the programming language to access the object
+only via its defined external interface [ SNYDE86].
+
+<ICE-PHI:W2A-038#127:1>
+The concepts of abstraction and encapsulation are complementary.
+
+<ICE-PHI:W2A-038#128:1>
+Abstraction focuses on the external view of the object and
+encapsulation prevents clients from seeing the internal view, where the
+behavior of the abstraction is implemented [ BOOCH91], [ BOOCH94]. </p> </I>

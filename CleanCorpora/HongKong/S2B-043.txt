@@ -1,276 +1,412 @@
-<I>
+""
+""
 can they keep their customers satisfied
-from a system administrator ' s office to the users ' desktops
+""
+from a system administrator  ' s office to the users  '  desktops
 messaging systems have promises to keep
+""
 it won't be easy to live up to the promise lan-base e-mail products
 systems that let lan users send and receive electronic messages must gain
 acceptance from two group that rarely see anything eye to eye end users and
 system administrators
+""
 walk into any organization and ask about what kind of e-mail system
 to buy and you would likely to find users and administrators in a face-off
  waving their individual agendas
+""
 end users have straightforward needs
-they want a quick and easy way of exchanging messages messages
-and files with colleagues from the desktops
+""
+they want a quick and easy way of exchanging messages  messages
+and files with colleagues  from the desktops
+""
 they want to store and organize those messages in folders or
 compressed archives
+""
 and once the messages are stored they need to be able to search and
 retrieve quickly the information they need for that monday morning meeting
+""
 finally they don't want to devote entire week workdays to becoming
 proficient at managing their mail
+""
 by contrast system administrators the people who sit behind the
 glass door and make the mail system work favor packages that are easy to
 install configure maintain and manage
+""
 what administrators think is important
+""
 efficient use of disc storage providing a reasonable level of
 security and managing connections to other e-mail systems is usually of
 little interest to end users as long as the system works smoothly
-in this round-up on e-mail packages we ' ll look at the issue form
-both perspectives assigning two reviewers to look at each package
-one approach it from an end user ' s point of view performing a
-series of task from the desk desktop while the other concentrate on
+""
+in this round-up on e-mail packages we  ' ll look at the issue form
+both  perspectives assigning two reviewers to look at each package
+""
+one approach it from an end user  ' s point of view performing a
+series of task from the  desk  desktop while the other concentrate on
 installing maintaining and optimizing the system together the perspective and
 administrator would have from behind the glass door
+""
 the products reviewed here or run on intel-based pc mail 
-service across no novell ' s netware version three dot eleven
+service  across  no  novell  ' s netware version three dot eleven
+""
 they offer interfaces to both dos and windows users
-support at least an mhs gateway and offer remote user access to
-the company ' s e-mail system via a dial-up program that can be installed
+""
+support at least an mhs gateway and offer remote  user access to
+the company  ' s e-mail system  via a dial-up program that can be installed
 at a distance site
-the products we reviewed here include beyond ' s beyondmail for dos
-and beyondmail for windows lotus development corp ' s ccmail for dos and
-ccmail for windows da vinci system corp ' s da vinci email for dos and da
-vinci uh da vinci email for windows futurus corp ' s futurus team dos
-windows combo microsoft corp ' s microsoft mail for pc networks no 
-notework corp ' s notework windows dos combo and wordperfect corp ' s
+""
+the products we reviewed here include beyond  ' s beyondmail for dos
+and beyondmail for windows lotus development corp  ' s ccmail for dos and
+ccmail for windows da vinci system corp  ' s da vinci email for dos and da
+vinci  uh  da vinci email for windows futurus corp  ' s futurus team dos
+windows combo microsoft corp  ' s microsoft mail for pc networks  no 
+notework corp  ' s notework windows dos combo and wordperfect corp  ' s
 wordperfect office
-all of this products have mastered the basic of me 
-messaging but in the battle for the hearts and miles and minds of
+""
+all of this products have mastered the basic of  me 
+messaging but in the battle for the hearts and  miles  and minds of
 both system administrators and end users none were universally embraced by
 both
+""
 the engine that drive an e-mail system must have two basic
 components
+""
 a specialized data-based to store and forward messages and a
 mechanism to route that messages to the appropriate address on the network
+""
 each e-mail message is actually a record in the message database
+""
 its address message content subject line and other elements are
 fields in that record
+""
 in practice the data-base often stores only the message headers
 along with pointers to the message text which is stored like a database memo
- field in an external file
+ field  in an external file
+""
 behind the glass door
+""
 acting as a sort of postmaster general the administrator manages
 the database and creates the and maintains a global address directory that
 leads the e-mail addresses of everyone on the system
+""
 the administrators the administrator also creates and manages the
-user profiles which are re records that includes such informations
-such information as where each user ' s individual post office is located and
+user profiles which are  re  records that includes such informations
+such information as where each user  ' s individual post office is located and
 how much disc storage spaces are located to each user
+""
 the routing mechanism transports the mail
+""
 it can be a proprietary system build into a specific e-mail product
 or modular one like mhs that pick it back onto the network operating system
-there are advanta there are advantages and disadvantages
+""
+there are  advanta  there are advantages and disadvantages
 to both
+""
 beyondmail and da vinci email are examples of a program that have
 no transport mechanism of their own
+""
 they rely exclusively on mhs for message routing
+""
 for the administrator the inconvenience of installing novell ms
-novell ' s mhs on a network is offset by convenient features such as ability
+novell  ' s mhs on a network is offset by convenient features such as ability
 to encrypt messages during transport
+""
 the more complex the e-mail system the bigger the convenience
-dividends in using in m in using mhs
+dividends in using  in  m  in using mhs
+""
 for example mhs-based system can read the mhs directory to create a
 post office address book in seamless transparent manner
+""
 ccmail which uses a proprietary transport system is the first non
- m mhs system to read the netware bindery the operating system ' s own
+ m  mhs system to read the netware bindery the operating system  ' s own
 database of user and enter the information into its own directory
+""
 this spares the administrators from doing it
+""
 but when you depend on mhs you can offer only those features that
 mhs supports
-microsoft mail three dot zero ' s sophisticated transfer transport
+""
+microsoft mail three dot zero  ' s sophisticated transfer transport
 layer can include more complex files types in messages
-this free the user from having to use binary attachment
+""
+this  free the user from having to use binary  attachment
  if for instance they would like to include a worksheet with the message
+""
 as graphics sound and even video become an integral part of e-mail
-communications microsoft mail will have a jump on the com 
+communications microsoft mail will have a jump on the  com 
 competition
+""
 user will be able to launch applications and view the files from
 within their messages
+""
 quotidian tasks
+""
  of all the day to day jobs that a system administrator must
 perform deleting old messages to free storage space is one of the most
 essential and tedious
-any help from the software can provide is a boon is a boon
-beyondmail assists with a ma ma with a macro that warns
-both administrator and end user when the latter ' s mailbox when the when the
- la when the latter ' s mailbox is full
+""
+any help from the  software can provide is a boon  is a boon
+""
+beyondmail assists with a  ma ma  with a macro that warns
+both administrator and end user when the latter  ' s mailbox when the when the
+ la  when the latter  ' s mailbox is full
+""
 and ccmail features a reclaim utility an administrator can run to
 consolidate message-storing space in the same way that a disc optimizer 
-defragments files
-another major administrator ' s task although it only occur during
+defragments  files
+""
+another major administrator  ' s task although it only occur during
 set up is creating the global address book for the system
+""
 any automated way of doing it such as importing user data from the
 netware bindery or another external database is a big plus
+""
 more than half of the packages we reviewed feature some sort of
 utility to migrate the data from the netware bindery
+""
 but perhaps most important in the ongoing maintenance of the system
-is the administrator ' s ability to back up the mail system and repair the
+is the administrator  ' s ability to back up the mail system and repair the
 message database when its integrity is violated
+""
 the e-mail universe
+""
 privacy is always a concern in a shared environment and this is
 especially true of a e-mail
-most e-mail system offer at least ru rudimentary
+""
+most e-mail system offer at least   ru  rudimentary
 password-base security
+""
 but this rarely protects messages from the eyes of those who have
 supervisory rights to the system
+""
 microsoft mail encrypts messages and when run under microsoft lan
 manager also hides the data files
+""
 wordperfect office allow users to encrypt files by assigning
 messages one of five level of privacy from normal to for your eyes only
-single products running on single lans often one-word
- encompass linked services other e-mails other e-mail
+""
+single products running on single lans often  one-word
+ encompass linked  services  other e-mails other e-mail
 systems and communication with remote sites
-as the e-mail universe expands connectivity increases but
+""
+as the e-mail universe expands  connectivity  increases but
 administrative problems multiply
+""
 most systems allow several file servers to be linked together into
 one large mail system
+""
 this complicates addressing
+""
 multiple servers require more precise naming schemes than the
-two-part scheme many system used earlier on a onto route the mail
-in that the address contained a user ' s name and the name of the
+two-part scheme many system used earlier on a  onto  route the mail
+""
+in that the address contained a user  ' s name and the name of the
 post office or server
+""
 most of the systems we reviewed use a three-part scheme that allows
 a single local network to have several post offices
-in this instances directory propagation where new users are
+""
+in this instances directory  propagation  where new users are
 automatically added to attach the post offices is a desirable feature
+""
 but the complexities grow
+""
 in many corporations today different work groups choose their own
 e-mail products without regard to what other groups are using
+""
 this poses no problem until the different groups need to
 communicate
+""
 the problem is reminiscent of those days when various department
- ch chose different word processors and then found that they could
+ ch  chose different word processors and then found that they could
 not read the incompatible formats when they wanted to share documents
+""
 in the case of e-mail the standard solution is that dedicated
 translator call a gateway
+""
 most gateways are system-specific
+""
 that is they link to specific e-mail systems such as ccmail and
 wordperfect office
+""
 when more than two or three systems are being connected setting up
-the links can become an administrator ' s nightmare
+the links can become an administrator  ' s nightmare
+""
 mhs can ease communications difference difficulties among
 incompatible e- mail systems because it serve as a common intermediary
 language
+""
 developed by action technology and subsequently bought and marketed
 by novell mhs is the oldest and most widely use e-mail standard we have
+""
 any e-mail product that can talk to mhs either at its own transport
 system or through the mhs gateway can link to any other such system
+""
 but there are competing standards
+""
 microsoft has implemented its messaging application programming
 interface mapi in microsoft mail and its schedule plus scheduler
+""
 and last year lotus announced its open messaging interface which
 this year evolved into the vendor independent messaging standard
+""
 lotus is jointly developing vim with apple computer borland borland
 international and novell
+""
 see the sidebar mail-enabled applications help groups work together
+""
 the desktop perspective
+""
 the transport mechanism is at the back-end mail system
-each package which we reviewed has at least four front
-ends a dos version a tsr version to pull into the background and
+""
+each package  which  we reviewed has at least four front
+ends a dos version a tsr version to  pull  into the background and
 notify users of incoming messages a window version with a graphical interface
 and a remote dial-in version
+""
 ideally this version should all offer the same functionality
+""
 but that is not always the case
-da vinci ' s dos version for example was one release ahead of its
+""
+da vinci  ' s dos version for example was one release ahead of its
 window version at window version at the time of our review
+""
 it had more features
-a situation da vinci pl plans to correct
-all of the pack packages reviewed here are on a equal
+""
+a situation da vinci  pl  plans to correct
+""
+all of the  pack  packages reviewed here are on a equal
 footing when it becomes to basic addressing tasks
-in each you ' ll find pick lists from which user can select
+""
+in each you  ' ll find pick lists from which user can select
 addresses
-all have speed search capability that will ma match a
-name in the database to the first few letters the user types
+""
+all have speed search capability  that will  ma  match a
+name in the database to the first  few  letters the user types
+""
 but the similarity ends there
+""
 some like ccmail allow both user and administrators to create
 personal address list
+""
 other allow only administrators to do this
+""
 microsoft mail offers send folders to log the messages you send
+""
 but few others do
+""
 without a send folder you have to remember to copy yourself on
 every message or else you miss half the point of e-mail keeping track of what
 you you have send to others
+""
 creating messages
+""
 creating e-mail messages should be easy as writing letters in your
 favorite word processor
+""
 cut and paste search and replace tabs fonts rulers and all the
 others standbys of modern text processing ought to be available
+""
 and you ought to be able to use your own word processor to compose
 an e-mail message
+""
 but except for wordperfect office which is closely tied to
 wordperfect itself
+""
 none of the packages have this option yet
+""
 the new dos version of ccmail and da vinci email however do
 include conveniences such as spell-checks spell-checkers
-for now if you want to send a graphic or an executable file
+""
+for now if you want to send a graphic or an  executable file
 you are forced to attach binary files
+""
 a well-designed e-mail package should facilitate this with point
 and shot attachment point and shoot attachment procedures that allow for
 multiple attachments
+""
 futurus team allows sixty-four attachments per message
+""
 the cc mail and microsoft mail front ends for windows workstations
-call the window client window ' s clients do it one better which
+call the window client  window  ' s  clients do it one better which
 drag-and-drop attachment
+""
 all a user needs to do is click on a filename and drag it into
 their message
+""
 but attachment should become less of an issue in the future as
 more and more applications allow you to send rich compound compound documents
 that incorporate graphics sound and video
+""
 information overflow
+""
 as the number of messages increases storage space on the server
 diminishes and information becomes hard to find in the clutters in the
 clutter
+""
 if end users fail to archives archive or delete their messages the
 task falls to the administrator
-an organized system-wide approach to storing and
-archiving solves both problems
+""
+an organized  system-wide  approach to storing and
+archiving  solves both problems
+""
 an e-mail package should allow user to store active message thread
 in folders and archive older inactive messages on the local machines
+""
 most of the reviewed packages let user create personal storage
 folders
-some allow users to ne nest folders as subtopics for more
+""
+some allow users to  ne  nest folders as subtopics for more
 detailed message organization
+""
 da vinci email for example allow up to thirty-two subfolders
 within a primary folder
+""
 but archiving information is only useful if it is easy to retrieve
+""
 and unfortunately finding needed information remain difficult at
 best
+""
 the programs we review let users search the to from subject date
 and priority fields
+""
 but it is tough to get at keyboard in the content of the message
-microsoft mail ' s message finder allows you to search text and
+""
+microsoft mail  ' s message finder  allows you to search text and
 provides the luxury of letting you conduct a global search
+""
 ccmail includes a search feature but you can only search one
 folder at a time
+""
 grouping toward groupware
-today ' s e-mail packages need considerable refinement before they ' ll
+""
+today  ' s e-mail packages need considerable refinement before they  ' ll
 become all that they can be
+""
 but they provide a promising foundation for that shadowy
 futuristic concept call groupware
+""
 groupware is evolving in the form of networked workgroup
 scheduling document management and shared databases
+""
 usually accompanied by a programming languages language or system
 or rules for managing and automating the way the components work together
+""
 e-mail system are already beginning to take on a groupware look
-microsoft mail for example is bundled with microsoft ' s schedule
-plus a group schedule sche a group scheduling module that is fully
+""
+microsoft mail for example is bundled with microsoft  ' s schedule
+plus a group schedule  sche  a group scheduling module that is fully
 integrated with the windows e-mail client
+""
 ccmail da vinci email and futurus team have their own schedulers
 developed by third parties
+""
 wordperfect office four dot zero goes one step further and
 includes scheduling as an integral part of the package
-office office pursue workgroup computing by allowing users to
+""
+office  office pursue workgroup computing by allowing users to
 launch wordperfect applications and other selected applications including
 microsoft excel from within the mail program
-to do this it uses a ma macro language with dde dynamic
+""
+to do this it uses a  ma  macro language with dde dynamic
 data exchange linked to the applications 

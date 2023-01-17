@@ -1,0 +1,1172 @@
+<I>
+
+<$A> 
+<ICE-PHI:S1A-099#1:1:A>
+Yeah hello <@> Jimmy </@>
+
+<$B> 
+<ICE-PHI:S1A-099#2:1:B>
+How are you
+
+<$A> 
+<ICE-PHI:S1A-099#3:1:A>
+Hello
+
+<ICE-PHI:S1A-099#4:1:A>
+What are you doing
+
+<ICE-PHI:S1A-099#5:1:A>
+I 'm fine
+
+<$B> 
+<ICE-PHI:S1A-099#6:1:B>
+I 'm just sitting here doing nothing
+
+<$A> 
+<ICE-PHI:S1A-099#7:1:A>
+Uh-hmmmh uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-099#8:1:B>
+Uh-hmmmh
+
+<$A> 
+<ICE-PHI:S1A-099#9:1:A>
+Uhm I called up just to you know ask you something
+
+<ICE-PHI:S1A-099#10:1:A>
+<.> I </.> is that fine with you
+
+<$B> 
+<ICE-PHI:S1A-099#11:1:B>
+That 's okay with me
+
+<$A> 
+<ICE-PHI:S1A-099#12:1:A>
+Uh okay
+
+<ICE-PHI:S1A-099#13:1:A>
+Because you see last time we saw each other where is that in uhm
+what 's the name of that coffee shop again
+
+<$B> 
+<ICE-PHI:S1A-099#14:1:B>
+Uh Starbucks
+
+<$A> 
+<ICE-PHI:S1A-099#15:1:A>
+No it 's not Starbucks
+
+<ICE-PHI:S1A-099#16:1:A>
+The other one uhm in <.> Ha </.> in <,> where is that <,> Figaro
+
+<$B> 
+<ICE-PHI:S1A-099#17:1:B>
+Uh yeah <{> <[> Figaro </[>
+
+<$A> 
+<ICE-PHI:S1A-099#18:1:A>
+<[> Yeah </[> </{> Figaro
+
+<ICE-PHI:S1A-099#19:1:A>
+And I I told myself I really wanna sit down with <@> Jimmy </@> one
+day and just ask him anything under the sun you know
+
+<$B> 
+<ICE-PHI:S1A-099#20:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-099#21:1:A>
+I find you very interesting <O> giggle </O>
+
+<$B> 
+<ICE-PHI:S1A-099#22:1:B>
+Same here
+
+<$A> 
+<ICE-PHI:S1A-099#23:1:A>
+Okay so uh-hmmmh
+
+<ICE-PHI:S1A-099#24:1:A>
+What are you busy of these days
+
+<$B> 
+<ICE-PHI:S1A-099#25:1:B>
+Nothing really except that I 'm working on my paper and my
+thesis
+
+<$A> 
+<ICE-PHI:S1A-099#26:1:A>
+Oh yeah I heard
+
+<ICE-PHI:S1A-099#27:1:A>
+So when will be your colloquium
+
+<$B> 
+<ICE-PHI:S1A-099#28:1:B>
+Well supposedly this term I think next month that is in August
+
+<$A> 
+<ICE-PHI:S1A-099#29:1:A>
+Oh good luck then huh
+
+<$B> 
+<ICE-PHI:S1A-099#30:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-099#31:1:A>
+Good luck
+
+<$B> 
+<ICE-PHI:S1A-099#32:1:B>
+Thank you very much I need that
+
+<$A> 
+<ICE-PHI:S1A-099#33:1:A>
+Okay I know you can do that I 'm sure
+
+<ICE-PHI:S1A-099#34:1:A>
+You 're very good and with Sterling around <{> <[> <,> </[> I 'm sure
+you can do it okay
+
+<ICE-PHI:S1A-099#35:1:A>
+Anyway and of course after that one what 's your plan
+
+<$B> 
+<ICE-PHI:S1A-099#36:1:B>
+<[> Uh-huh uh-huh </[> </{>
+
+<ICE-PHI:S1A-099#37:1:B>
+Well I plan to conduct it already so that I would have the results
+by <,> by December <{> <[> <,> </[>
+
+<ICE-PHI:S1A-099#38:1:B>
+And I 'll start writing
+
+<ICE-PHI:S1A-099#39:1:B>
+Hopefully submit the final paper by March of next year
+
+<$A> 
+<ICE-PHI:S1A-099#40:1:A>
+<[> Uh-huh </[> </{>
+
+<ICE-PHI:S1A-099#41:1:A>
+Oh that 's good
+
+<ICE-PHI:S1A-099#42:1:A>
+<{> <[> So you are </[> very focused
+
+<$B> 
+<ICE-PHI:S1A-099#43:1:B>
+<[> Thank you </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-099#44:1:A>
+Oh as always you are very organized
+
+<$B> 
+<ICE-PHI:S1A-099#45:1:B>
+<{> <[> Thank you </[>
+
+<$A> 
+<ICE-PHI:S1A-099#46:1:A>
+<[> Systematic </[> </{> and focused
+
+<ICE-PHI:S1A-099#47:1:A>
+So that means by next school year we will be classmates in the P H
+D
+
+<$B> 
+<ICE-PHI:S1A-099#48:1:B>
+I still don 't have any plans
+
+<$A> 
+<ICE-PHI:S1A-099#49:1:A>
+For P H D you mean
+
+<$B> 
+<ICE-PHI:S1A-099#50:1:B>
+Not for now
+
+<$A> 
+<ICE-PHI:S1A-099#51:1:A>
+Uh-hmmmh uhm what about <unclear> words </unclear>
+
+<$B> 
+<ICE-PHI:S1A-099#52:1:B>
+Uh I just I 'll see what will happen
+
+<$A> 
+<ICE-PHI:S1A-099#53:1:A>
+Uh-hmmmh so you want to what spend perhaps your life with more
+exciting things
+
+<$B> 
+<ICE-PHI:S1A-099#54:1:B>
+Uh nothing exciting for the moment
+
+<ICE-PHI:S1A-099#55:1:B>
+<{> <[> Not </[> no no no ideas for now
+
+<$A> 
+<ICE-PHI:S1A-099#56:1:A>
+<[> Uh-hmmmh </[> </{>
+
+<ICE-PHI:S1A-099#57:1:A>
+Uh okay
+
+<$B> 
+<ICE-PHI:S1A-099#58:1:B>
+So what would you like to ask me
+
+<$A> 
+<ICE-PHI:S1A-099#59:1:A>
+<&> chuckle </&> I I saw one time all about your what 's that
+arts
+
+<ICE-PHI:S1A-099#60:1:A>
+What 's that your drawings sketches <{> <[> sketches </[>
+
+<$B> 
+<ICE-PHI:S1A-099#61:1:B>
+<[> Yes </[> </{> oh yes
+
+<$A> 
+<ICE-PHI:S1A-099#62:1:A>
+So why why aren 't you doing sketches anymore this time
+
+<$B> 
+<ICE-PHI:S1A-099#63:1:B>
+To be quite honest with you my schedule is very busy
+
+<$A> 
+<ICE-PHI:S1A-099#64:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-099#65:1:B>
+And uh it requires a lot of uh focus <{> <[> <,> </[> time and
+hard work
+
+<ICE-PHI:S1A-099#66:1:B>
+So it 's almost impossible to release it down to sketch
+
+<$A> 
+<ICE-PHI:S1A-099#67:1:A>
+<[> Uh-hmmmh </[> </{>
+
+<ICE-PHI:S1A-099#68:1:A>
+I see
+
+<$B> 
+<ICE-PHI:S1A-099#69:1:B>
+Plus the fact that I have a lot of papers to check and a lot
+of students to meet
+
+<$A> 
+<ICE-PHI:S1A-099#70:1:A>
+Oh I understand
+
+<$B> 
+<ICE-PHI:S1A-099#71:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-099#72:1:A>
+Usually what mood do you need so that you can start any sketch
+
+<$B> 
+<ICE-PHI:S1A-099#73:1:B>
+I I can 't exactly define the mood but it 's it 's just when it
+occurs it 's there and then you you sort of sit down but it 's it comes
+regularly when when <,> when uh you you start doing it
+
+<ICE-PHI:S1A-099#74:1:B>
+So it goes on and on for a month or so
+
+<$A> 
+<ICE-PHI:S1A-099#75:1:A>
+I see
+
+<$B> 
+<ICE-PHI:S1A-099#76:1:B>
+But if you talk about mood in terms of days and any time of
+the year it 's almost impossible
+
+<$A> 
+<ICE-PHI:S1A-099#77:1:A>
+I see I see
+
+<ICE-PHI:S1A-099#78:1:A>
+But do you need let us say uhm do you need say a bottle of beer or
+a cup of coffee <{> <[> to keep you </[> going or something like that
+
+<$B> 
+<ICE-PHI:S1A-099#79:1:B>
+<[> No </[> </{>
+
+<ICE-PHI:S1A-099#80:1:B>
+Not necessarily
+
+<$A> 
+<ICE-PHI:S1A-099#81:1:A>
+Oh not necessarily
+
+<ICE-PHI:S1A-099#82:1:A>
+So what prompts you to let 's say get your paper and pencil and uh
+start sketching
+
+<$B> 
+<ICE-PHI:S1A-099#83:1:B>
+Sometimes I see other people 's work and uh <,,>
+
+<$A> 
+<ICE-PHI:S1A-099#84:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-099#85:1:B>
+Something comes up in my head and uh sometimes I say oh I can
+do something like this or I can I think I can do something better than this
+or I think I have an idea brewing somewhere
+
+<ICE-PHI:S1A-099#86:1:B>
+So <{> <[> that 's it </[>
+
+<$A> 
+<ICE-PHI:S1A-099#87:1:A>
+<[> I see </[> </{>
+
+<ICE-PHI:S1A-099#88:1:A>
+What about love
+
+<ICE-PHI:S1A-099#89:1:A>
+Is it a good motivator you think
+
+<ICE-PHI:S1A-099#90:1:A>
+Love
+
+<$B> 
+<ICE-PHI:S1A-099#91:1:B>
+Uhm it 's never worked for me
+
+<$A> 
+<ICE-PHI:S1A-099#92:1:A>
+Oh oh why <,,>
+
+<ICE-PHI:S1A-099#93:1:A>
+Uhm that 's something unusual uh I thought for artists <{> <[> it 's
+</[>
+
+<$B> 
+<ICE-PHI:S1A-099#94:1:B>
+<[> Sometimes </[> </{>
+
+<ICE-PHI:S1A-099#95:1:B>
+I cannot recall any instance in the past where love was really an
+inspiration for <{> <[> <,> </[> you know a force in my work
+
+<ICE-PHI:S1A-099#96:1:B>
+But it 's very hard to really explain what what would be an
+inspiration
+
+<ICE-PHI:S1A-099#97:1:B>
+It 's just that you have an itch inside you and you wanna do it you
+wanna sketch and that 's it
+
+<ICE-PHI:S1A-099#98:1:B>
+It doesn 't have to come from anyone
+
+<ICE-PHI:S1A-099#99:1:B>
+It doesn 't have to come from anywhere
+
+<ICE-PHI:S1A-099#100:1:B>
+It just occurs
+
+<$A> 
+<ICE-PHI:S1A-099#101:1:A>
+<[> Uh really </[> </{>
+
+<ICE-PHI:S1A-099#102:1:A>
+I see I see
+
+<ICE-PHI:S1A-099#103:1:A>
+What about if you are depressed
+
+<$B> 
+<ICE-PHI:S1A-099#104:1:B>
+I 'm sorry
+
+<$A> 
+<ICE-PHI:S1A-099#105:1:A>
+If if you are depressed <{> <[> depressed </[>
+
+<$B> 
+<ICE-PHI:S1A-099#106:1:B>
+<[> Sometimes </[> </{> depression yes
+
+<$A> 
+<ICE-PHI:S1A-099#107:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-099#108:1:B>
+Depression is <,> is uh is a driving force
+
+<ICE-PHI:S1A-099#109:1:B>
+It 's quite powerful in fact because <{> <[> you </[>
+
+<$A> 
+<ICE-PHI:S1A-099#110:1:A>
+<[> Even more powerful than </[> </{> love
+
+<$B> 
+<ICE-PHI:S1A-099#111:1:B>
+You find a way of expressing the you know the frustrations
+the depression the negative feeling and sometimes they come out in in work
+either in sketches so oh yeah if you could consider you could consider it uh
+a force as well to reckon with
+
+<$A> 
+<ICE-PHI:S1A-099#112:1:A>
+Oh so <{> <[> <,> </[> have you sketched uh anything before
+in which you were depressed
+
+<$B> 
+<ICE-PHI:S1A-099#113:1:B>
+<[> Uhm </[> </{> Yes
+
+<ICE-PHI:S1A-099#114:1:B>
+In fact when I was raped
+
+<$A> 
+<ICE-PHI:S1A-099#115:1:A>
+When you were raped <O> laughter </O> you were raped
+
+<ICE-PHI:S1A-099#116:1:A>
+I want you to expound on that what do you mean <,> uh physically
+emotionally
+
+<$B> 
+<ICE-PHI:S1A-099#117:1:B>
+When you are when you are violated
+
+<$A> 
+<ICE-PHI:S1A-099#118:1:A>
+Oh that 's what you mean
+
+<$B> 
+<ICE-PHI:S1A-099#119:1:B>
+For the first time you cannot sleep
+
+<ICE-PHI:S1A-099#120:1:B>
+You wake up at three in the morning staring at the ceiling
+
+<$A> 
+<ICE-PHI:S1A-099#121:1:A>
+Wow
+
+<ICE-PHI:S1A-099#122:1:A>
+I can imagine uh-huh
+
+<$B> 
+<ICE-PHI:S1A-099#123:1:B>
+And it 's hard to talk to people because people are not always
+<,> you think people are not always understanding and open to your you know
+experiences and you just keep to yourself and you don 't know where to run for
+help
+
+<$A> 
+<ICE-PHI:S1A-099#124:1:A>
+Oh oh you <{> <[> sound </[> very emotional
+
+<$B> 
+<ICE-PHI:S1A-099#125:1:B>
+<[> So </[> </{>
+
+<ICE-PHI:S1A-099#126:1:B>
+Drawing and sketching can be a very good release
+
+<$A> 
+<ICE-PHI:S1A-099#127:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-099#128:1:B>
+Some of the negative vibes vibrations that you get from very
+unpleasant experiences
+
+<$A> 
+<ICE-PHI:S1A-099#129:1:A>
+I understand
+
+<$B> 
+<ICE-PHI:S1A-099#130:1:B>
+Uh-hmmmh
+
+<$A> 
+<ICE-PHI:S1A-099#131:1:A>
+You sound very emotional today <O> speaker B laughs </O> <@>
+Jimmy </@> huh
+
+<$B> 
+<ICE-PHI:S1A-099#132:1:B>
+Well I 'm just a little bit serious today that 's all
+
+<ICE-PHI:S1A-099#133:1:B>
+I have a back that 's killing me
+
+<$A> 
+<ICE-PHI:S1A-099#134:1:A>
+<O> laughter </O> Oh yeah
+
+<ICE-PHI:S1A-099#135:1:A>
+I understand
+
+<ICE-PHI:S1A-099#136:1:A>
+So when do you plan to I mean get another sheet of paper and start
+<{> <[> uh </[>
+
+<$B> 
+<ICE-PHI:S1A-099#137:1:B>
+<[> Uhm </[> </{> maybe when I retire that 's about ten years
+from now
+
+<$A> 
+<ICE-PHI:S1A-099#138:1:A>
+Oh don 't tell me you 'll go back to sketching only when you
+retire
+
+<$B> 
+<ICE-PHI:S1A-099#139:1:B>
+Yes because I want to sit comfortably in a nice house
+
+<$A> 
+<ICE-PHI:S1A-099#140:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-099#141:1:B>
+In a garden perhaps <{> <[> where I </[> don 't have to think
+about checking papers
+
+<$A> 
+<ICE-PHI:S1A-099#142:1:A>
+<O> laughter </O> <[> Wow </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-099#143:1:B>
+Talking to students who are begging me to change their grades
+<O> speaker A chuckles </O> or I have to put up with with a P H D you know P
+H D courses none of those things
+
+<$A> 
+<ICE-PHI:S1A-099#144:1:A>
+Uh so are you telling me that you don 't really consider
+taking P H D course
+
+<$B> 
+<ICE-PHI:S1A-099#145:1:B>
+<{> <[> I 'm not saying </[> <,>
+
+<$A> 
+<ICE-PHI:S1A-099#146:1:A>
+<[> I mean in the years </[> </{> to come
+
+<$B> 
+<ICE-PHI:S1A-099#147:1:B>
+I 'm closing my doors to that
+
+<ICE-PHI:S1A-099#148:1:B>
+It could be
+
+<$A> 
+<ICE-PHI:S1A-099#149:1:A>
+Okay
+
+<$B> 
+<ICE-PHI:S1A-099#150:1:B>
+I can consider that as an option
+
+<$A> 
+<ICE-PHI:S1A-099#151:1:A>
+Okay
+
+<$B> 
+<ICE-PHI:S1A-099#152:1:B>
+But it 's not like it 's not like it 's number one in my list
+
+<$A> 
+<ICE-PHI:S1A-099#153:1:A>
+Uhm
+
+<ICE-PHI:S1A-099#154:1:A>
+What about love life
+
+<$B> 
+<ICE-PHI:S1A-099#155:1:B>
+Love life
+
+<ICE-PHI:S1A-099#156:1:B>
+I haven 't had one in a long time
+
+<ICE-PHI:S1A-099#157:1:B>
+You have any suggestions
+
+<$A> 
+<ICE-PHI:S1A-099#158:1:A>
+<&> chuckle </&> Oh <O> speaker B chuckles </O>
+
+<ICE-PHI:S1A-099#159:1:A>
+You want uh what a blunt answer to that
+
+<$B> 
+<ICE-PHI:S1A-099#160:1:B>
+Well <,> I 'm not too sure it 's good to discuss that on the
+phone
+
+<ICE-PHI:S1A-099#161:1:B>
+Maybe over a cup <{1> <[1> of </[1> coffee <{2> <[2> sometime
+</[2> <&> chuckle </&>
+
+<$A> 
+<ICE-PHI:S1A-099#162:1:A>
+<[1> Yeah </[1> </{1>
+
+<ICE-PHI:S1A-099#163:1:A>
+<[2> True true </[2> </{2>
+
+<ICE-PHI:S1A-099#164:1:A>
+Yeah I look forward to that
+
+<ICE-PHI:S1A-099#165:1:A>
+I look forward to that
+
+<ICE-PHI:S1A-099#166:1:A>
+Okay that 's interesting you know
+
+<ICE-PHI:S1A-099#167:1:A>
+Uh-hmmmh uh <{> <[> what about <.> you </.> </[>
+
+<$B> 
+<ICE-PHI:S1A-099#168:1:B>
+<[> Talking about </[> </{> love life I I think it 's nice to
+have one
+
+<$A> 
+<ICE-PHI:S1A-099#169:1:A>
+Yeah you were telling me you have not had that love life for
+quite sometime already
+
+<ICE-PHI:S1A-099#170:1:A>
+What about
+
+<$B> 
+<ICE-PHI:S1A-099#171:1:B>
+Well how can you have a love life if you sit on a desk <{>
+<[> facing </[> a lot of books a lot of people who talk about theories
+
+<$A> 
+<ICE-PHI:S1A-099#172:1:A>
+<[> Uhm </[> </{>
+
+<ICE-PHI:S1A-099#173:1:A>
+But you can always insert that in your busy schedule dear
+
+<$B> 
+<ICE-PHI:S1A-099#174:1:B>
+Yes but if you 're so busy you have no time to go to the
+<indig> burol </indig> or the funeral or you have no time to go to the malls
+and you have no time to gimmick so <{> <[> <,> </[> how do you expect to meet
+people
+
+<$A> 
+<ICE-PHI:S1A-099#175:1:A>
+<[> Uhm </[> </{>
+
+<ICE-PHI:S1A-099#176:1:A>
+So how do you
+
+<$B> 
+<ICE-PHI:S1A-099#177:1:B>
+But I 'm trying to think about that now lately
+
+<ICE-PHI:S1A-099#178:1:B>
+It 's been it 's probably time for me to start you know <{> <[>
+relaxing </[> a bit
+
+<$A> 
+<ICE-PHI:S1A-099#179:1:A>
+Uh-hmmmh uh-hmmmh so <[> finally </[> </{>
+
+<ICE-PHI:S1A-099#180:1:A>
+Okay so what prompted you to at least have that idea again
+
+<$B> 
+<ICE-PHI:S1A-099#181:1:B>
+Well <,> I think I need some time for myself
+
+<$A> 
+<ICE-PHI:S1A-099#182:1:A>
+Any <unclear> 1 word </unclear>
+
+<$B> 
+<ICE-PHI:S1A-099#183:1:B>
+Not could you suggest one
+
+<$A> 
+<ICE-PHI:S1A-099#184:1:A>
+Oh I 'll tell you over a cup of coffee as I said a while ago
+
+<$B> 
+<ICE-PHI:S1A-099#185:1:B>
+Yes I think that cup of coffee is is is well anticipated
+
+<$A> 
+<ICE-PHI:S1A-099#186:1:A>
+Uh true true
+
+<ICE-PHI:S1A-099#187:1:A>
+Uh anyway uh so what will you do after this one
+
+<$B> 
+<ICE-PHI:S1A-099#188:1:B>
+After what
+
+<$A> 
+<ICE-PHI:S1A-099#189:1:A>
+After <{> <[> <.> aft </.> </[> uh yeah our conversation
+
+<$B> 
+<ICE-PHI:S1A-099#190:1:B>
+<[> After </[>
+
+<ICE-PHI:S1A-099#191:1:B>
+Well I 'm going straight to the hospital and get my examination
+because my back has been killing me for three or four days <{> <[> <,> </[> I
+can hardly move and it 's painful
+
+<$A> 
+<ICE-PHI:S1A-099#192:1:A>
+<[> I see </[> </{>
+
+<ICE-PHI:S1A-099#193:1:A>
+Yeah last Saturday you also complained about that right
+
+<$B> 
+<ICE-PHI:S1A-099#194:1:B>
+Exactly it 's been chronic
+
+<$A> 
+<ICE-PHI:S1A-099#195:1:A>
+Uh
+
+<$B> 
+<ICE-PHI:S1A-099#196:1:B>
+Which is why I went to see a doctor yesterday
+
+<$A> 
+<ICE-PHI:S1A-099#197:1:A>
+Uh I hope that 's not because of old age <&> chuckle </&>
+
+<$B> 
+<ICE-PHI:S1A-099#198:1:B>
+Well it definitely has nothing to do with old age I think
+
+<$A> 
+<ICE-PHI:S1A-099#199:1:A>
+I see
+
+<$B> 
+<ICE-PHI:S1A-099#200:1:B>
+Probably something else
+
+<$A> 
+<ICE-PHI:S1A-099#201:1:A>
+Fatigue overwork perhaps
+
+<$B> 
+<ICE-PHI:S1A-099#202:1:B>
+I I can 't tell
+
+<ICE-PHI:S1A-099#203:1:B>
+I don 't really know
+
+<$A> 
+<ICE-PHI:S1A-099#204:1:A>
+That 's already a sign that you have to give yourself a break
+
+<$B> 
+<ICE-PHI:S1A-099#205:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-099#206:1:A>
+Relax wind up go somewhere
+
+<$B> 
+<ICE-PHI:S1A-099#207:1:B>
+Uh-hmmmh
+
+<$A> 
+<ICE-PHI:S1A-099#208:1:A>
+So uhm tomorrow uhm is Thursday
+
+<ICE-PHI:S1A-099#209:1:A>
+<indig> O </indig> Saturday what do you plan to do on Saturday
+
+<$B> 
+<ICE-PHI:S1A-099#210:1:B>
+Saturday I have work to do
+
+<$A> 
+<ICE-PHI:S1A-099#211:1:A>
+Again work
+
+<$B> 
+<ICE-PHI:S1A-099#212:1:B>
+Yes I have to teach a group of students
+
+<$A> 
+<ICE-PHI:S1A-099#213:1:A>
+Uh <{> <[> so </[>
+
+<$B> 
+<ICE-PHI:S1A-099#214:1:B>
+<[> So </[> </{> we have to make a little our ends meet
+
+<$A> 
+<ICE-PHI:S1A-099#215:1:A>
+I see
+
+<ICE-PHI:S1A-099#216:1:A>
+<{> <[> What students </[>
+
+<$B> 
+<ICE-PHI:S1A-099#217:1:B>
+<[> Well actually </[> </{>
+
+<ICE-PHI:S1A-099#218:1:B>
+We have to earn a little spending money
+
+<$A> 
+<ICE-PHI:S1A-099#219:1:A>
+Uh what students from here from <{> <[> La Salle </[>
+
+<$B> 
+<ICE-PHI:S1A-099#220:1:B>
+<[> No </[> </{> they 're from they 're Filipinos actually
+professionals
+
+<$A> 
+<ICE-PHI:S1A-099#221:1:A>
+Oh <{> <[> I see </[>
+
+<$B> 
+<ICE-PHI:S1A-099#222:1:B>
+<[> They want </[> </{> to gain some confidence in speaking
+English
+
+<$A> 
+<ICE-PHI:S1A-099#223:1:A>
+Oh I see
+
+<$B> 
+<ICE-PHI:S1A-099#224:1:B>
+My job is just you know give them well practice opportunities
+to speak English and give them some strategies and teach them how to convey
+ideas in a very systematic way
+
+<$A> 
+<ICE-PHI:S1A-099#225:1:A>
+Oh so these are all professionals
+
+<$B> 
+<ICE-PHI:S1A-099#226:1:B>
+Yes that 's correct
+
+<$A> 
+<ICE-PHI:S1A-099#227:1:A>
+Oh so you are making money <{> <[> during weekends </[>
+
+<$B> 
+<ICE-PHI:S1A-099#228:1:B>
+<[> Not really </[> </{>
+
+<ICE-PHI:S1A-099#229:1:B>
+Actually just barely enough to make ends meet
+
+<$A> 
+<ICE-PHI:S1A-099#230:1:A>
+I see
+
+<ICE-PHI:S1A-099#231:1:A>
+I <{> <[> see </[>
+
+<$B> 
+<ICE-PHI:S1A-099#232:1:B>
+<[> I 'm </[> </{> not really after so much money <{> <[> pay
+my </[> bills yes
+
+<$A> 
+<ICE-PHI:S1A-099#233:1:A>
+Oh oh uh <[> Sundays </[> </{>
+
+<ICE-PHI:S1A-099#234:1:A>
+<{> <[> <.> Sun </.> </[>
+
+<$B> 
+<ICE-PHI:S1A-099#235:1:B>
+<[> Sundays </[> </{>
+
+<ICE-PHI:S1A-099#236:1:B>
+I don 't know
+
+<ICE-PHI:S1A-099#237:1:B>
+Usually I just stay home
+
+<$A> 
+<ICE-PHI:S1A-099#238:1:A>
+But that ' s the perfect <{> <[> time to </[> relax
+
+<$B> 
+<ICE-PHI:S1A-099#239:1:B>
+<[> I </[> </{> usually go to the malls
+
+<$A> 
+<ICE-PHI:S1A-099#240:1:A>
+You don 't go to the malls did you say that
+
+<$B> 
+<ICE-PHI:S1A-099#241:1:B>
+I do go to the <{> <[> malls </[> and look for books
+
+<$A> 
+<ICE-PHI:S1A-099#242:1:A>
+<[> Uh </[> <{> I see
+
+<ICE-PHI:S1A-099#243:1:A>
+Books
+
+<$B> 
+<ICE-PHI:S1A-099#244:1:B>
+Yes books
+
+<ICE-PHI:S1A-099#245:1:B>
+I like books
+
+<$A> 
+<ICE-PHI:S1A-099#246:1:A>
+Uh-hmmmh
+
+<ICE-PHI:S1A-099#247:1:A>
+Uh what about movies
+
+<$B> 
+<ICE-PHI:S1A-099#248:1:B>
+Do you do you ever do do you ever look for books yourself
+
+<$A> 
+<ICE-PHI:S1A-099#249:1:A>
+Yeah I do I do
+
+<ICE-PHI:S1A-099#250:1:A>
+But lately you know I 've been reading this children 's lit
+
+<ICE-PHI:S1A-099#251:1:A>
+I enjoy it because of my son
+
+<$B> 
+<ICE-PHI:S1A-099#252:1:B>
+<{> <[> I see </[>
+
+<$A> 
+<ICE-PHI:S1A-099#253:1:A>
+<[> It 's all </[> </{> about <{> <[> Harry Potter </[>
+
+<$B> 
+<ICE-PHI:S1A-099#254:1:B>
+<[> So does he </[> </{> read already
+
+<$A> 
+<ICE-PHI:S1A-099#255:1:A>
+Pardon
+
+<$B> 
+<ICE-PHI:S1A-099#256:1:B>
+Does he read already
+
+<$A> 
+<ICE-PHI:S1A-099#257:1:A>
+Yeah yeah he he reads but for now I I read it for him
+
+<$B> 
+<ICE-PHI:S1A-099#258:1:B>
+<{> <[> Uh-hmmmh </[>
+
+<$A> 
+<ICE-PHI:S1A-099#259:1:A>
+<[> Okay </[> </{> because it 's all about Harry Potter but
+
+<$B> 
+<ICE-PHI:S1A-099#260:1:B>
+How young is your son
+
+<$A> 
+<ICE-PHI:S1A-099#261:1:A>
+Four and a half going to five actually
+
+<$B> 
+<ICE-PHI:S1A-099#262:1:B>
+Four and a half <{> <[> going </[> to five
+
+<$A> 
+<ICE-PHI:S1A-099#263:1:A>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-099#264:1:B>
+<{> <[> I see </[>
+
+<$A> 
+<ICE-PHI:S1A-099#265:1:A>
+<[> <.> Go </.> going to </[> </{> five
+
+<$B> 
+<ICE-PHI:S1A-099#266:1:B>
+Okay so
+
+<$A> 
+<ICE-PHI:S1A-099#267:1:A>
+He loves actually stories like like that of Harry Potter so I
+need to know actually the whole story so I can tell him I can <{> <[> relate
+to him </[>
+
+<$B> 
+<ICE-PHI:S1A-099#268:1:B>
+You mean you read him Harry Potter
+
+<$A> 
+<ICE-PHI:S1A-099#269:1:A>
+Yeah he likes it
+
+<$B> 
+<ICE-PHI:S1A-099#270:1:B>
+Even without pictures
+
+<$A> 
+<ICE-PHI:S1A-099#271:1:A>
+Without pictures
+
+<ICE-PHI:S1A-099#272:1:A>
+He loves actually the names you know
+
+<ICE-PHI:S1A-099#273:1:A>
+He would you know repeat the names when I say say
+
+<$B> 
+<ICE-PHI:S1A-099#274:1:B>
+I see
+
+<$A> 
+<ICE-PHI:S1A-099#275:1:A>
+Hermione Granger and then he would also say Hermione Granger
+
+<ICE-PHI:S1A-099#276:1:A>
+Actually just the names of the characters and the names of the
+places he you know he is fascinated with them
+
+<$B> 
+<ICE-PHI:S1A-099#277:1:B>
+I see
+
+<ICE-PHI:S1A-099#278:1:B>
+Oh that 's interesting to know
+
+<$A> 
+<ICE-PHI:S1A-099#279:1:A>
+Yeah uhm I like my son to be uhm what uhm a book worm later
+<&> chuckle </&>
+
+<ICE-PHI:S1A-099#280:1:A>
+Okay oh what about Sundays
+
+<ICE-PHI:S1A-099#281:1:A>
+You mean you go to the malls just to look for books
+
+<ICE-PHI:S1A-099#282:1:A>
+<{> <[> What about relaxing </[>
+
+<$B> 
+<ICE-PHI:S1A-099#283:1:B>
+<[> Yes sometimes </[> </{> I I I like to walk around
+
+<ICE-PHI:S1A-099#284:1:B>
+That 's my my <.> mean </.> my my form of exercise
+
+<$A> 
+<ICE-PHI:S1A-099#285:1:A>
+Where do you usually walk around
+
+<$B> 
+<ICE-PHI:S1A-099#286:1:B>
+Well anywhere in the malls
+
+<$A> 
+<ICE-PHI:S1A-099#287:1:A>
+Also in the mall
+
+<$B> 
+<ICE-PHI:S1A-099#288:1:B>
+Makati sometimes
+
+<$A> 
+<ICE-PHI:S1A-099#289:1:A>
+Uh-hmmmh
+
+<ICE-PHI:S1A-099#290:1:A>
+<{> <[> What 's your favorite </[> mall
+
+<$B> 
+<ICE-PHI:S1A-099#291:1:B>
+<[> When there 's no trouble </[> </{> I go as far as South
+Mall in <.> Laon </.> in in uh
+
+<$A> 
+<ICE-PHI:S1A-099#292:1:A>
+Las Pinas
+
+<$B> 
+<ICE-PHI:S1A-099#293:1:B>
+Las Piñas
+
+<$A> 
+<ICE-PHI:S1A-099#294:1:A>
+Ah true
+
+<ICE-PHI:S1A-099#295:1:A>
+So what 's your favorite mall
+
+<$B> 
+<ICE-PHI:S1A-099#296:1:B>
+My favorite is Robinson 's Place
+
+<$A> 
+<ICE-PHI:S1A-099#297:1:A>
+Robinson 's Place
+
+<ICE-PHI:S1A-099#298:1:A>
+What is in Robinson 's that 's not in
+
+<$B> 
+<ICE-PHI:S1A-099#299:1:B>
+It 's the people <{> <[> that </[> are there
+
+<$A> 
+<ICE-PHI:S1A-099#300:1:A>
+<[> Uh yeah </[> </{> true
+
+<ICE-PHI:S1A-099#301:1:A>
+The people </I> 

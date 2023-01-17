@@ -1,0 +1,1195 @@
+<I>
+
+<$A> 
+<ICE-PHI:S1A-100#1:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-100#2:1:B>
+Are you there
+
+<$A> 
+<ICE-PHI:S1A-100#3:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-100#4:1:B>
+Oh how are you doing
+
+<$A> 
+<ICE-PHI:S1A-100#5:1:A>
+I 'm fine thank you
+
+<ICE-PHI:S1A-100#6:1:A>
+How about you
+
+<$B> 
+<ICE-PHI:S1A-100#7:1:B>
+Uhm I 'm not not not really fine
+
+<$A> 
+<ICE-PHI:S1A-100#8:1:A>
+Why
+
+<$B> 
+<ICE-PHI:S1A-100#9:1:B>
+So exhausted you know
+
+<$A> 
+<ICE-PHI:S1A-100#10:1:A>
+Why what did you do
+
+<$B> 
+<ICE-PHI:S1A-100#11:1:B>
+Uhm just through with our last subject with Semantic Analysis
+dear
+
+<$A> 
+<ICE-PHI:S1A-100#12:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-100#13:1:B>
+And we had a quiz
+
+<ICE-PHI:S1A-100#14:1:B>
+After that uh I was the presenter
+
+<ICE-PHI:S1A-100#15:1:B>
+I had a report
+
+<$A> 
+<ICE-PHI:S1A-100#16:1:A>
+Uh-hmmmh how was your report
+
+<$B> 
+<ICE-PHI:S1A-100#17:1:B>
+Uhm quite good quite well just alright
+
+<ICE-PHI:S1A-100#18:1:B>
+I was not able to finish the presentation I had to cut it because
+it was already time
+
+<$A> 
+<ICE-PHI:S1A-100#19:1:A>
+Uh
+
+<$B> 
+<ICE-PHI:S1A-100#20:1:B>
+I was able to present only about half of of all the slides
+that I prepared
+
+<$A> 
+<ICE-PHI:S1A-100#21:1:A>
+Oh really
+
+<$B> 
+<ICE-PHI:S1A-100#22:1:B>
+And you know the L C D didn’t work
+
+<ICE-PHI:S1A-100#23:1:B>
+You know you really can’t count on these I T gadgets and all these
+stuffs
+
+<ICE-PHI:S1A-100#24:1:B>
+It didn’t work and so I asked my my classmates or good we were only
+around nine <{> <[> nine or </[> ten to just compress around the laptop
+
+<$A> 
+<ICE-PHI:S1A-100#25:1:A>
+<[> Uh-huh </[> </{>
+
+<ICE-PHI:S1A-100#26:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-100#27:1:B>
+And then they were they were actually craning just to see the
+the screen <{> <[> okay </[>
+
+<$A> 
+<ICE-PHI:S1A-100#28:1:A>
+<[> Uh-huh </[> </{>
+
+<ICE-PHI:S1A-100#29:1:A>
+So they had difficulty <{> <[> looking at </[> your visuals
+
+<$B> 
+<ICE-PHI:S1A-100#30:1:B>
+<[> Yeah </[> </{> true true
+
+<ICE-PHI:S1A-100#31:1:B>
+But at least they enjoyed
+
+<ICE-PHI:S1A-100#32:1:B>
+They enjoyed the presentation I guess
+
+<ICE-PHI:S1A-100#33:1:B>
+<{> <[> Well I guess </[>
+
+<$A> 
+<ICE-PHI:S1A-100#34:1:A>
+<[> Yeah well dear </[> </{> you 're a total performer
+
+<$B> 
+<ICE-PHI:S1A-100#35:1:B>
+Oh thank you dear
+
+<ICE-PHI:S1A-100#36:1:B>
+<{> <[> Anyway </[>
+
+<$A> 
+<ICE-PHI:S1A-100#37:1:A>
+<[> You 're welcome </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-100#38:1:B>
+And so that 's why at this very moment I I 'm so exhausted
+
+<ICE-PHI:S1A-100#39:1:B>
+I really wanna eat or wind up or go somewhere
+
+<$A> 
+<ICE-PHI:S1A-100#40:1:A>
+Uh-huh I think I 'm kinda hungry too
+
+<$B> 
+<ICE-PHI:S1A-100#41:1:B>
+Oh what about uh Robinson 's uh Cinnzeo
+
+<$A> 
+<ICE-PHI:S1A-100#42:1:A>
+Yes <unclear> words </unclear>
+
+<$B> 
+<ICE-PHI:S1A-100#43:1:B>
+Yeah I wanna indulge <,> ice cream or cake or coffee or just
+plain coffee
+
+<$A> 
+<ICE-PHI:S1A-100#44:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-100#45:1:B>
+What do you think
+
+<$A> 
+<ICE-PHI:S1A-100#46:1:A>
+That would be great
+
+<$B> 
+<ICE-PHI:S1A-100#47:1:B>
+Oh yeah
+
+<$A> 
+<ICE-PHI:S1A-100#48:1:A>
+I love their cinnamon roll
+
+<$B> 
+<ICE-PHI:S1A-100#49:1:B>
+Oh <,> I I kinda uh what I 'm smelling it already the the
+cinnamon
+
+<ICE-PHI:S1A-100#50:1:B>
+Wow
+
+<$A> 
+<ICE-PHI:S1A-100#51:1:A>
+Yeah the butter <{> <[> and the chocolate </[> the nuts
+
+<$B> 
+<ICE-PHI:S1A-100#52:1:B>
+<[> And the butter </[> </{>
+
+<ICE-PHI:S1A-100#53:1:B>
+And <.> the </.> and then while while drinking coffee we 'll talk
+about semantics <O> giggle </O>
+
+<$A> 
+<ICE-PHI:S1A-100#54:1:A>
+Oh yeah
+
+<$B> 
+<ICE-PHI:S1A-100#55:1:B>
+And pragmatics
+
+<$A> 
+<ICE-PHI:S1A-100#56:1:A>
+Yeah your presentation about Semantics
+
+<$B> 
+<ICE-PHI:S1A-100#57:1:B>
+Yeah uhm okay you know what 's that
+
+<ICE-PHI:S1A-100#58:1:B>
+I wanna I wanna <.> wa </.> watch a film but oh my God it 's what
+'s this it 's still Metro Manila Week right
+
+<$A> 
+<ICE-PHI:S1A-100#59:1:A>
+Yeah it 's the Manila Film Fest
+
+<$B> 
+<ICE-PHI:S1A-100#60:1:B>
+Uh the Manila Film Festival
+
+<$A> 
+<ICE-PHI:S1A-100#61:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-100#62:1:B>
+And no English films being shown
+
+<$A> 
+<ICE-PHI:S1A-100#63:1:A>
+<foreign> Nada </foreign> none
+
+<$B> 
+<ICE-PHI:S1A-100#64:1:B>
+<indig> Ha </indig>
+
+<ICE-PHI:S1A-100#65:1:B>
+So of course I wouldn’t watch Volta or whatever
+
+<$A> 
+<ICE-PHI:S1A-100#66:1:A>
+<O> chuckle </O> But I heard it 's the top grosser so far
+
+<$B> 
+<ICE-PHI:S1A-100#67:1:B>
+Which one Volta
+
+<$A> 
+<ICE-PHI:S1A-100#68:1:A>
+Yeah Volta
+
+<$B> 
+<ICE-PHI:S1A-100#69:1:B>
+Oh <,> okay so pathetic
+
+<ICE-PHI:S1A-100#70:1:B>
+Anyway uhm <,> hey uhm speaking about films which reminds me you
+know what I I where where did I see that
+
+<ICE-PHI:S1A-100#71:1:B>
+I think it 's in the internet I I I read something like a review of
+the Troy the movie
+
+<ICE-PHI:S1A-100#72:1:B>
+Remember that Brad Pitt Troy
+
+<$A> 
+<ICE-PHI:S1A-100#73:1:A>
+Yeah yeah I 've watched it too
+
+<$B> 
+<ICE-PHI:S1A-100#74:1:B>
+Oh but of course
+
+<ICE-PHI:S1A-100#75:1:B>
+I was a bit confused with the you know uhm the introduction or
+something about Troy actually the background
+
+<ICE-PHI:S1A-100#76:1:B>
+Perhaps you can shed light you know you 're the authority here when
+it comes to literature
+
+<$A> 
+<ICE-PHI:S1A-100#77:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-100#78:1:B>
+Uh-hmmmh uh
+
+<$A> 
+<ICE-PHI:S1A-100#79:1:A>
+Well actually that movie is a compressed version of different
+literary works
+
+<$B> 
+<ICE-PHI:S1A-100#80:1:B>
+What what different
+
+<ICE-PHI:S1A-100#81:1:B>
+You mean it was not only based from Iliad
+
+<$A> 
+<ICE-PHI:S1A-100#82:1:A>
+No the Iliad talks about the tenth year of the war up to the
+death of Hector
+
+<$B> 
+<ICE-PHI:S1A-100#83:1:B>
+Oh oh
+
+<ICE-PHI:S1A-100#84:1:B>
+That 's something new huh
+
+<$A> 
+<ICE-PHI:S1A-100#85:1:A>
+Oh yeah
+
+<$B> 
+<ICE-PHI:S1A-100#86:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-100#87:1:A>
+But even prior to that there were already works that pertained
+to the gods the goddesses and the heroes of Troy and Greece
+
+<$B> 
+<ICE-PHI:S1A-100#88:1:B>
+Uh-hmmmh uh-hmmmh
+
+<$A> 
+<ICE-PHI:S1A-100#89:1:A>
+Maybe what the producers of the movie Troy did was they
+compressed everything into a single commercialized film with a romantic plot
+and all the works
+
+<$B> 
+<ICE-PHI:S1A-100#90:1:B>
+Oh yes oh yes
+
+<$A> 
+<ICE-PHI:S1A-100#91:1:A>
+<unclear> words </unclear> to impress viewers so they would
+enjoy it
+
+<$B> 
+<ICE-PHI:S1A-100#92:1:B>
+Uh-hmmmh uh-hmmmh
+
+<$A> 
+<ICE-PHI:S1A-100#93:1:A>
+And there were a lot of differences <{> <[> <unclear> words
+</unclear> </[>
+
+<$B> 
+<ICE-PHI:S1A-100#94:1:B>
+<[> Yeah actually </[> </{> there were a lot of what <,>
+differences okay
+
+<ICE-PHI:S1A-100#95:1:B>
+Well what I know only is the Iliad
+
+<ICE-PHI:S1A-100#96:1:B>
+I I don’t know the one you were telling me is that it was based
+from many works so aside from Iliad
+
+<$A> 
+<ICE-PHI:S1A-100#97:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-100#98:1:B>
+Uhm so what there were there are some confusing parts there
+like uh uh a lot of them were able to escape from Troy is that true
+
+<$A> 
+<ICE-PHI:S1A-100#99:1:A>
+No that 's not true because
+
+<$B> 
+<ICE-PHI:S1A-100#100:1:B>
+Isn’t it it 's only <.> Ae </.> what 's that Aeneas right
+
+<$A> 
+<ICE-PHI:S1A-100#101:1:A>
+Aeneas
+
+<$B> 
+<ICE-PHI:S1A-100#102:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-100#103:1:A>
+The father and his son were the only men who escaped from
+Troy
+
+<$B> 
+<ICE-PHI:S1A-100#104:1:B>
+That 's according to Iliad
+
+<$A> 
+<ICE-PHI:S1A-100#105:1:A>
+No no not that 's not in the Iliad
+
+<$B> 
+<ICE-PHI:S1A-100#106:1:B>
+Uh-hmmmh
+
+<$A> 
+<ICE-PHI:S1A-100#107:1:A>
+The later work by a Greek poet
+
+<$B> 
+<ICE-PHI:S1A-100#108:1:B>
+Oh I see
+
+<ICE-PHI:S1A-100#109:1:B>
+But according to Iliad it was only Aeneas who was able to escape
+right
+
+<$A> 
+<ICE-PHI:S1A-100#110:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-100#111:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-100#112:1:A>
+The women they were the women they all became concubines of
+the Greeks
+
+<$B> 
+<ICE-PHI:S1A-100#113:1:B>
+Oh Briseis
+
+<ICE-PHI:S1A-100#114:1:B>
+Briseis became also a concubine you mean
+
+<$A> 
+<ICE-PHI:S1A-100#115:1:A>
+Briseis
+
+<$B> 
+<ICE-PHI:S1A-100#116:1:B>
+Briseis
+
+<$A> 
+<ICE-PHI:S1A-100#117:1:A>
+I forgot
+
+<$B> 
+<ICE-PHI:S1A-100#118:1:B>
+The love interest of of Achilles Achilles
+
+<$A> 
+<ICE-PHI:S1A-100#119:1:A>
+Uh
+
+<$B> 
+<ICE-PHI:S1A-100#120:1:B>
+Did she die <,> at the end I don’t remember anymore
+
+<ICE-PHI:S1A-100#121:1:B>
+Uh Briseis
+
+<$A> 
+<ICE-PHI:S1A-100#122:1:A>
+In the movie she didn’t die
+
+<$B> 
+<ICE-PHI:S1A-100#123:1:B>
+Uh-hmmmh she escaped right
+
+<$A> 
+<ICE-PHI:S1A-100#124:1:A>
+Yeah she was able to escape <{> <[> <,> </[> the pillaging of
+the <.> troo </.> of the Greeks
+
+<ICE-PHI:S1A-100#125:1:A>
+But in the in Greek literature I forgot what happened to her
+
+<$B> 
+<ICE-PHI:S1A-100#126:1:B>
+<[> Uh-huh </[> </{>
+
+<ICE-PHI:S1A-100#127:1:B>
+Oh I see okay and what what else
+
+<ICE-PHI:S1A-100#128:1:B>
+Uhm who who is now the character of Legolas
+
+<ICE-PHI:S1A-100#129:1:B>
+What was the character being
+
+<$A> 
+<ICE-PHI:S1A-100#130:1:A>
+Paris
+
+<$B> 
+<ICE-PHI:S1A-100#131:1:B>
+Paris Paris what about Paris
+
+<ICE-PHI:S1A-100#132:1:B>
+Wasn’t that the start actually the start of the Troy like uhm of
+course he abducted Helen right
+
+<$A> 
+<ICE-PHI:S1A-100#133:1:A>
+He abducted Helen and uh took her to Troy
+
+<$B> 
+<ICE-PHI:S1A-100#134:1:B>
+Yeah
+
+<ICE-PHI:S1A-100#135:1:B>
+Was it was it like that in in Iliad
+
+<$A> 
+<ICE-PHI:S1A-100#136:1:A>
+Yeah it was also like that
+
+<$B> 
+<ICE-PHI:S1A-100#137:1:B>
+No because in the film I remember in the film uh uh like uh
+Paris and Helen were like romantically linked right
+
+<ICE-PHI:S1A-100#138:1:B>
+But in the original version in Iliad Helen was actually given to
+Paris as a gift
+
+<$A> 
+<ICE-PHI:S1A-100#139:1:A>
+Oh yeah <{> <[> by </[> Aphrodite
+
+<$B> 
+<ICE-PHI:S1A-100#140:1:B>
+<[> Yeah </[> </{>
+
+<ICE-PHI:S1A-100#141:1:B>
+By Aphrodite
+
+<$A> 
+<ICE-PHI:S1A-100#142:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-100#143:1:B>
+Okay or or what 's this it 's not actually a gift or a bribe
+<,> for choosing her as the
+
+<$A> 
+<ICE-PHI:S1A-100#144:1:A>
+For choosing her as the most
+
+<$B> 
+<ICE-PHI:S1A-100#145:1:B>
+As the fairest woman
+
+<$A> 
+<ICE-PHI:S1A-100#146:1:A>
+Yeah her <unclear> words </unclear> Hera and Athena
+
+<$B> 
+<ICE-PHI:S1A-100#147:1:B>
+Yeah Athena
+
+<ICE-PHI:S1A-100#148:1:B>
+But in the film okay uhm it it looks like Paris and Helen had what
+had an affair an illicit affair and so
+
+<$A> 
+<ICE-PHI:S1A-100#149:1:A>
+Yeah because in the <,> in Greek literature when Paris came
+to <,> Sparta
+
+<$B> 
+<ICE-PHI:S1A-100#150:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-100#151:1:A>
+Menelaus wasn’t there so he had the chance to abduct Helen
+
+<$B> 
+<ICE-PHI:S1A-100#152:1:B>
+Uh-hmmmh
+
+<$A> 
+<ICE-PHI:S1A-100#153:1:A>
+But in the movie he saw there Menelaus <{> <[> and Hector
+</[>
+
+<$B> 
+<ICE-PHI:S1A-100#154:1:B>
+<[> Yeah </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-100#155:1:A>
+They were all in Sparta but actually it 's not true
+
+<$B> 
+<ICE-PHI:S1A-100#156:1:B>
+Oh
+
+<$A> 
+<ICE-PHI:S1A-100#157:1:A>
+It didn’t really happen
+
+<$B> 
+<ICE-PHI:S1A-100#158:1:B>
+Oh I see
+
+<ICE-PHI:S1A-100#159:1:B>
+Okay uhm another part in the film that which I enjoyed not really
+I enjoyed or which I remember
+
+<$A> 
+<ICE-PHI:S1A-100#160:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-100#161:1:B>
+Based from the Iliad is the fight between Hector and Achilles
+
+<$A> 
+<ICE-PHI:S1A-100#162:1:A>
+Oh yeah
+
+<$B> 
+<ICE-PHI:S1A-100#163:1:B>
+How did you find that
+
+<$A> 
+<ICE-PHI:S1A-100#164:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-100#165:1:B>
+That <{> <[> was sexy right </[>
+
+<$A> 
+<ICE-PHI:S1A-100#166:1:A>
+<[> It 's a very realistic </[> </{> portrayal
+
+<$B> 
+<ICE-PHI:S1A-100#167:1:B>
+What about the what about the performance of Achilles there
+like or or Achilles or he was he was kinda dancing
+
+<$A> 
+<ICE-PHI:S1A-100#168:1:A>
+Yeah they were like dancing flamingoes <O> chuckle </O>
+
+<$B> 
+<ICE-PHI:S1A-100#169:1:B>
+Okay it was like what
+
+<$A> 
+<ICE-PHI:S1A-100#170:1:A>
+It was like a choreographed fight
+
+<$B> 
+<ICE-PHI:S1A-100#171:1:B>
+A choreographed fight
+
+<ICE-PHI:S1A-100#172:1:B>
+I I was supposed to say that <quote> a choreographed fight
+</quote>
+
+<$A> 
+<ICE-PHI:S1A-100#173:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-100#174:1:B>
+Uh-huh okay
+
+<ICE-PHI:S1A-100#175:1:B>
+And then in the original version Achilles was supposed to drag the
+body of Hector inside uh Troy right inside the walls of Troy right
+
+<$A> 
+<ICE-PHI:S1A-100#176:1:A>
+No it was uh when Patroclus was killed by Hector they created
+a funeral pyre for him
+
+<$B> 
+<ICE-PHI:S1A-100#177:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-100#178:1:A>
+And then when Achilles killed Hector he dragged
+
+<$B> 
+<ICE-PHI:S1A-100#179:1:B>
+The body of
+
+<$A> 
+<ICE-PHI:S1A-100#180:1:A>
+The body to their camp to the Greek camp
+
+<$B> 
+<ICE-PHI:S1A-100#181:1:B>
+That 's already in the film but in the original version
+around Troy
+
+<$A> 
+<ICE-PHI:S1A-100#182:1:A>
+No no not around Troy
+
+<$B> 
+<ICE-PHI:S1A-100#183:1:B>
+Around the walls
+
+<$A> 
+<ICE-PHI:S1A-100#184:1:A>
+Dragged Hector 's body around Patroclus ' funeral fire
+
+<$B> 
+<ICE-PHI:S1A-100#185:1:B>
+Oh I <{> <[> see </[>
+
+<$A> 
+<ICE-PHI:S1A-100#186:1:A>
+<[> Funeral </[> </{> pyre for eleven days
+
+<$B> 
+<ICE-PHI:S1A-100#187:1:B>
+I see I see
+
+<ICE-PHI:S1A-100#188:1:B>
+Okay uh-huh
+
+<ICE-PHI:S1A-100#189:1:B>
+But originally I mean did the did the father of <,> Priam did King
+Priam really retrieve the body of Hector in the original version
+
+<$A> 
+<ICE-PHI:S1A-100#190:1:A>
+He was able to go to the Greek camps because Hermes helped
+them Hermes is the messenger of the gods
+
+<$B> 
+<ICE-PHI:S1A-100#191:1:B>
+Yeah yeah Hermes of course I remember
+
+<$A> 
+<ICE-PHI:S1A-100#192:1:A>
+Yeah he was able to cloak Priam
+
+<$B> 
+<ICE-PHI:S1A-100#193:1:B>
+Oh
+
+<$A> 
+<ICE-PHI:S1A-100#194:1:A>
+<?> Disguise him so </?> he was able to go to Achilles ' camp
+
+<$B> 
+<ICE-PHI:S1A-100#195:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-100#196:1:A>
+But in the movie the gods were absent none of them were there
+
+<$B> 
+<ICE-PHI:S1A-100#197:1:B>
+Yes yes yes which makes the movie realistic right
+
+<ICE-PHI:S1A-100#198:1:B>
+Okay because there were no gods or or goddesses in the film right
+
+<ICE-PHI:S1A-100#199:1:B>
+There <.> wa </.> there was a uh mention of it okay but just a
+mention right
+
+<ICE-PHI:S1A-100#200:1:B>
+They didn’t appear
+
+<$A> 
+<ICE-PHI:S1A-100#201:1:A>
+That 's the liberty of the director to do what he wants so
+that the movie will be commercially viable
+
+<$B> 
+<ICE-PHI:S1A-100#202:1:B>
+Uh-hmmmh
+
+<ICE-PHI:S1A-100#203:1:B>
+Oh true uhm okay so that 's all about Troy
+
+<ICE-PHI:S1A-100#204:1:B>
+I 'm waiting actually for the Spiderman Two
+
+<$A> 
+<ICE-PHI:S1A-100#205:1:A>
+I am waiting for that one <{> <[> too </[>
+
+<$B> 
+<ICE-PHI:S1A-100#206:1:B>
+<[> Oh </[> </{> what about uh watching it together or with
+Tina perhaps what about that
+
+<$A> 
+<ICE-PHI:S1A-100#207:1:A>
+Oh sure
+
+<$B> 
+<ICE-PHI:S1A-100#208:1:B>
+Uhm
+
+<$A> 
+<ICE-PHI:S1A-100#209:1:A>
+I 'm sure we 'll enjoy watching it
+
+<$B> 
+<ICE-PHI:S1A-100#210:1:B>
+Well that is of course if we don’t have assignment in our
+subjects or <{> <[> if I won’t be preparing </[>
+
+<$A> 
+<ICE-PHI:S1A-100#211:1:A>
+<[> Or we have no paper to check </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-100#212:1:B>
+Yeah no paper to check or if we have no reports or no
+research work you know
+
+<$A> 
+<ICE-PHI:S1A-100#213:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-100#214:1:B>
+Uhm uhm okay
+
+<ICE-PHI:S1A-100#215:1:B>
+What is this
+
+<ICE-PHI:S1A-100#216:1:B>
+Where 's Tina
+
+<ICE-PHI:S1A-100#217:1:B>
+Do you know where Tina is
+
+<$A> 
+<ICE-PHI:S1A-100#218:1:A>
+I think she 's reading a book
+
+<$B> 
+<ICE-PHI:S1A-100#219:1:B>
+Oh book all about
+
+<$A> 
+<ICE-PHI:S1A-100#220:1:A>
+I don’t know I can’t
+
+<$B> 
+<ICE-PHI:S1A-100#221:1:B>
+She 's reading a book again
+
+<ICE-PHI:S1A-100#222:1:B>
+We just came from our classes and we read uh a great deal again of
+of what all about concepts and ideas
+
+<ICE-PHI:S1A-100#223:1:B>
+And she 's reading a book again
+
+<ICE-PHI:S1A-100#224:1:B>
+What could that be
+
+<$A> 
+<ICE-PHI:S1A-100#225:1:A>
+Uh she wants <unclear> words </unclear>
+
+<$B> 
+<ICE-PHI:S1A-100#226:1:B>
+Actually I haven’t I haven’t started the Harry Potter Five
+
+<$A> 
+<ICE-PHI:S1A-100#227:1:A>
+<{> <[> Uh-huh </[>
+
+<$B> 
+<ICE-PHI:S1A-100#228:1:B>
+<[> As much as I </[> </{> want to
+
+<ICE-PHI:S1A-100#229:1:B>
+It 's there on my table have you seen it
+
+<$A> 
+<ICE-PHI:S1A-100#230:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-100#231:1:B>
+It 's so thick
+
+<ICE-PHI:S1A-100#232:1:B>
+How can I start it
+
+<ICE-PHI:S1A-100#233:1:B>
+I still have what I still have one report to do in Semantics
+
+<ICE-PHI:S1A-100#234:1:B>
+I still have to do a paper in Corpus
+
+<ICE-PHI:S1A-100#235:1:B>
+Oh I can’t afford to read anymore Book Five of Harry Potter <{>
+<[> although I really want to </[>
+
+<$A> 
+<ICE-PHI:S1A-100#236:1:A>
+<[> So reading for you </[> </{> has become <{> <[> reading
+</[> has become a luxury for you
+
+<$B> 
+<ICE-PHI:S1A-100#237:1:B>
+<[> Harry Potter is </[> </{>
+
+<ICE-PHI:S1A-100#238:1:B>
+Oh yeah yeah <O> chuckle </O>
+
+<ICE-PHI:S1A-100#239:1:B>
+I do it while I 'm in the bus you know
+
+<$A> 
+<ICE-PHI:S1A-100#240:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-100#241:1:B>
+Or while I 'm inside the C R yeah
+
+<$A> 
+<ICE-PHI:S1A-100#242:1:A>
+<{> <[> Oh </[>
+
+<$B> 
+<ICE-PHI:S1A-100#243:1:B>
+<[> That 's </[> </{> when I can read okay
+
+<$A> 
+<ICE-PHI:S1A-100#244:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-100#245:1:B>
+But when I 'm here in school or in the class oh I have to
+check paper or read assignments or review or what do a paper oh or stuff like
+those
+
+<$A> 
+<ICE-PHI:S1A-100#246:1:A>
+Well my friends also collect Harry Potter books and they
+think they enjoy it
+
+<ICE-PHI:S1A-100#247:1:A>
+I don’t know why because I haven’t read any <{> <[> of the Harry
+Potter </[>
+
+<$B> 
+<ICE-PHI:S1A-100#248:1:B>
+<[> I was telling </[> </{> you already to start reading them
+
+<$A> 
+<ICE-PHI:S1A-100#249:1:A>
+Maybe you can convince me to read them <unclear> words
+</unclear>
+
+<$B> 
+<ICE-PHI:S1A-100#250:1:B>
+Oh I 'm always doing that one dear <O> laughter </O>
+
+<ICE-PHI:S1A-100#251:1:B>
+I 'm just telling you to start reading <O> laughter </O> okay
+
+<$A> 
+<ICE-PHI:S1A-100#252:1:A>
+I don’t know I can’t find any reason <{> <[> to read </[>
+
+<$B> 
+<ICE-PHI:S1A-100#253:1:B>
+<[> You have to start </[> </{> with Harry Potter One
+
+<$A> 
+<ICE-PHI:S1A-100#254:1:A>
+What about the first book
+
+<$B> 
+<ICE-PHI:S1A-100#255:1:B>
+Or what you can do perhaps is to watch the film first
+
+<ICE-PHI:S1A-100#256:1:B>
+I can lend you One and Two I have them with me One and Two the
+film and then uh read Books One and Two and then you compare
+
+<ICE-PHI:S1A-100#257:1:B>
+And you 'd love also Three Harry Potter Three
+
+<$A> 
+<ICE-PHI:S1A-100#258:1:A>
+Uhm
+
+<$B> 
+<ICE-PHI:S1A-100#259:1:B>
+The Harry Potter Four is already very thick
+
+<ICE-PHI:S1A-100#260:1:B>
+<{> <[> But have you </[>
+
+<$A> 
+<ICE-PHI:S1A-100#261:1:A>
+<[> I have seen </[> </{> Harry Potter One but I haven’t seen
+Harry Potter Two
+
+<$B> 
+<ICE-PHI:S1A-100#262:1:B>
+But you have watched uh Harry Potter One
+
+<$A> 
+<ICE-PHI:S1A-100#263:1:A>
+Yeah <{> <[> yeah </[>
+
+<$B> 
+<ICE-PHI:S1A-100#264:1:B>
+<[> That 's still </[> </{> the best version of all uh in my
+own perception
+
+<ICE-PHI:S1A-100#265:1:B>
+The Harry Potter Two uhm not really the Three I hate it
+
+<$A> 
+<ICE-PHI:S1A-100#266:1:A>
+<{> <[> Uh-huh </[>
+
+<$B> 
+<ICE-PHI:S1A-100#267:1:B>
+<[> The Three </[> </{> I think is the worst version
+
+<ICE-PHI:S1A-100#268:1:B>
+The Harry Potter One is still the best
+
+<$A> 
+<ICE-PHI:S1A-100#269:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-100#270:1:B>
+Yeah that 's my own perception
+
+<ICE-PHI:S1A-100#271:1:B>
+Anyway what else uh so when when will the regular showing resume
+
+<ICE-PHI:S1A-100#272:1:B>
+Like after this week we can already have English films
+
+<$A> 
+<ICE-PHI:S1A-100#273:1:A>
+Maybe after Gloria 's proclamation
+
+<$B> 
+<ICE-PHI:S1A-100#274:1:B>
+Oh that means uh uh what July one <.> un </.> until uh
+Thursday you mean
+
+<$A> 
+<ICE-PHI:S1A-100#275:1:A>
+Maybe June thirty June thirty or July one
+
+<$B> 
+<ICE-PHI:S1A-100#276:1:B>
+Uhm when is the what about the Manila Film Festival uh what
+'s this now award awards awards night something like that
+
+<$A> 
+<ICE-PHI:S1A-100#277:1:A>
+I don’t know
+
+<ICE-PHI:S1A-100#278:1:A>
+I don’t know the schedule but I think it will be held at the P I C
+C or C C P
+
+<$B> 
+<ICE-PHI:S1A-100#279:1:B>
+But uh when will that be
+
+<ICE-PHI:S1A-100#280:1:B>
+What I 'm after actually is the Star Talk version of that <O>
+laughter </O> <{> <[> <,> </[> the <title> Tigbak Authority </title> that 's
+why I 'm interested because if if the awards night is already finished that
+means I 'll I 'll have to watch the the Star Talk
+
+<ICE-PHI:S1A-100#281:1:B>
+Hey that 's today right the Star Talk is Saturday
+
+<$A> 
+<ICE-PHI:S1A-100#282:1:A>
+<[> Uh <O> laughter </O> </[> </{>
+
+<ICE-PHI:S1A-100#283:1:A>
+Yeah today
+
+<$B> 
+<ICE-PHI:S1A-100#284:1:B>
+Oh then I missed it
+
+<ICE-PHI:S1A-100#285:1:B>
+I was <,> oh my God
+
+<$A> 
+<ICE-PHI:S1A-100#286:1:A>
+You won’t even be able to watch it next week because you also
+have a class
+
+<$B> 
+<ICE-PHI:S1A-100#287:1:B>
+Oh I see oh yeah
+
+<ICE-PHI:S1A-100#288:1:B>
+Okay because I enjoy the <indig> kuwan </indig> you know <title>
+Tigbak Authority </title> you know of the Star Talk okay especially when
+
+<$A> 
+<ICE-PHI:S1A-100#289:1:A>
+Yeah I also enjoy the <title> Tigbak Authority </title> you
+know
+
+<$B> 
+<ICE-PHI:S1A-100#290:1:B>
+If the subject is all about the outfit during awards night I
+love that
+
+<$A> 
+<ICE-PHI:S1A-100#291:1:A>
+Yeah <O> chuckle </O>
+
+<$B> 
+<ICE-PHI:S1A-100#292:1:B>
+I 'm waiting for that and I was saying I was saying hey there
+'s another awards night
+
+<ICE-PHI:S1A-100#293:1:B>
+And I look forward to the <title> Tigbak Authority </title>
+version of this one
+
+<$A> 
+<ICE-PHI:S1A-100#294:1:A>
+Yeah it 's really very funny
+
+<$B> 
+<ICE-PHI:S1A-100#295:1:B>
+Uhm and I like the you know <indig> okray okrayan </indig>
+part
+
+<$A> 
+<ICE-PHI:S1A-100#296:1:A>
+Oh yeah
+
+<$B> 
+<ICE-PHI:S1A-100#297:1:B>
+Anyway <O> chuckle </O> hey you wanna eat now
+
+<$A> 
+<ICE-PHI:S1A-100#298:1:A>
+Okay
+
+<$B> 
+<ICE-PHI:S1A-100#299:1:B>
+Oh where <,> Starbucks
+
+<ICE-PHI:S1A-100#300:1:B>
+It 's it 's nearer than Harrison </I> 

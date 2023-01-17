@@ -1,0 +1,742 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-018#1:1:A>
+What skills can you claim to take <,> 
+
+ <$B> 
+<ICE-PHI:S1B-018#2:1:B>
+Shooting
+
+ <$A> 
+<ICE-PHI:S1B-018#3:1:A>
+Shooting in terms of what <&> inaudible answer </&> 
+ 
+<ICE-PHI:S1B-018#4:1:A>
+Composition
+ 
+<ICE-PHI:S1B-018#5:1:A>
+What else <,,> 
+
+ <$B> 
+<ICE-PHI:S1B-018#6:1:B>
+Timing and editing
+
+ <$A> 
+<ICE-PHI:S1B-018#7:1:A>
+Composition <,> timing possibility
+ 
+<ICE-PHI:S1B-018#8:1:A>
+Another one is editing
+ 
+<ICE-PHI:S1B-018#9:1:A>
+Okay another skill is what
+
+ <$C> 
+<ICE-PHI:S1B-018#10:1:C>
+Sound-mixing
+
+ <$D> 
+<ICE-PHI:S1B-018#11:1:D>
+Sound-mixing
+
+ <$A> 
+<ICE-PHI:S1B-018#12:1:A>
+Sound-mixing okay
+ 
+<ICE-PHI:S1B-018#13:1:A>
+So in the <unclear> word </unclear> project we 've sort of summarized these skills
+ 
+<ICE-PHI:S1B-018#14:1:A>
+So we 're moving into two other important skills for shooting which is lighting and recording
+ 
+<ICE-PHI:S1B-018#15:1:A>
+Today we 're going to discuss <,> just the basics about lighting
+ 
+<ICE-PHI:S1B-018#16:1:A>
+The more advanced <,> uhm discussion of lighting will be the cinematic course next term
+ 
+<ICE-PHI:S1B-018#17:1:A>
+Then next week will be recording okay
+ 
+<ICE-PHI:S1B-018#18:1:A>
+We 'll do a little bit of recording today but we 'll talk more about recording next week
+ 
+<ICE-PHI:S1B-018#19:1:A>
+That 's March thirteen okay <,> 
+ 
+<ICE-PHI:S1B-018#20:1:A>
+I 'm presuming in this course this talk on lighting between now and before we have the break you had already some idea of lighting in your FOTOGRA <&> course code for Photography </&> courses right
+
+ <$C> 
+<ICE-PHI:S1B-018#21:1:C>
+Yes
+
+ <$A> 
+<ICE-PHI:S1B-018#22:1:A>
+FOTOUP <&> course code </&> 
+ 
+<ICE-PHI:S1B-018#23:1:A>
+Some of you took up FOTOUP <&> course code </&> 
+ 
+<ICE-PHI:S1B-018#24:1:A>
+So a lot of this is basic
+ 
+<ICE-PHI:S1B-018#25:1:A>
+It 's a review and because it 's basically a review I can ask you to demonstrate already certain concepts
+ 
+<ICE-PHI:S1B-018#26:1:A>
+How many have taken FOTOGRA <&> course code </&> here okay
+ 
+<ICE-PHI:S1B-018#27:1:A>
+And some of you have taken additional FOTOUP <&> course code </&> 
+ 
+<ICE-PHI:S1B-018#28:1:A>
+So what we 'll do is review and the best way to review is to do a hands-on review okay
+ 
+<ICE-PHI:S1B-018#29:1:A>
+Much also of this discussion is taken from this reading which I will give you
+ 
+<ICE-PHI:S1B-018#30:1:A>
+Hodgeton pages eighty-nine to one o six
+ 
+<ICE-PHI:S1B-018#31:1:A>
+Please take that down
+ 
+<ICE-PHI:S1B-018#32:1:A>
+You 've got to read that
+ 
+<ICE-PHI:S1B-018#33:1:A>
+Hodgeton page eighty-nine to one o six <,,> 
+ 
+<ICE-PHI:S1B-018#34:1:A>
+Your basic material for producing images is light right
+ 
+<ICE-PHI:S1B-018#35:1:A>
+Okay <,> without light then you could not be able to produce a subject the image
+ 
+<ICE-PHI:S1B-018#36:1:A>
+Light interacts with the chemicals light interacts with print
+ 
+<ICE-PHI:S1B-018#37:1:A>
+In all stages light is critical
+ 
+<ICE-PHI:S1B-018#38:1:A>
+For that was as far as still photography is concerned
+ 
+<ICE-PHI:S1B-018#39:1:A>
+What do you think is going to be now the major difference between light for still photography and light for moving pictures the cinematography
+ 
+<ICE-PHI:S1B-018#40:1:A>
+What is it about light that is different <,> light as we see in reality with light that we see in film or in pictures <,> 
+ 
+<ICE-PHI:S1B-018#41:1:A>
+And what do we do about that difference in the medium of film or video
+ 
+<ICE-PHI:S1B-018#42:1:A>
+Flores
+
+ <$E> 
+<ICE-PHI:S1B-018#43:1:E>
+Sir the light varies so you have to always uhm fix the setting of the light with the uhm <unclear> word </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-018#44:1:A>
+Okay what is the basic difference between light as we see all around us and light that you see in pictures in film
+
+ <$F> 
+<ICE-PHI:S1B-018#45:1:F>
+Artificial <,,> 
+
+ <$A> 
+<ICE-PHI:S1B-018#46:1:A>
+Is it totally artificial
+ 
+<ICE-PHI:S1B-018#47:1:A>
+Even if you use artificial light sources what is your aim
+
+ <$F> 
+<ICE-PHI:S1B-018#48:1:F>
+You highlight the subject
+
+ <$A> 
+<ICE-PHI:S1B-018#49:1:A>
+Whereas light in real life
+
+ <$G> 
+<ICE-PHI:S1B-018#50:1:G>
+Uncontrollable
+
+ <$A> 
+<ICE-PHI:S1B-018#51:1:A>
+Yes
+
+ <$G> 
+<ICE-PHI:S1B-018#52:1:G>
+Beyond control
+
+ <$A> 
+<ICE-PHI:S1B-018#53:1:A>
+Alright very good
+ 
+<ICE-PHI:S1B-018#54:1:A>
+Light in real life is uncontrollable
+ 
+<ICE-PHI:S1B-018#55:1:A>
+Light in real life is dispersed
+ 
+<ICE-PHI:S1B-018#56:1:A>
+Light in real life has no direction
+ 
+<ICE-PHI:S1B-018#57:1:A>
+Light in real life just falls and surrounds you whereas light in film and pictures has a certain control
+ 
+<ICE-PHI:S1B-018#58:1:A>
+You are after a certain effect
+ 
+<ICE-PHI:S1B-018#59:1:A>
+And usually the effects would be number one to make the subject visible number two to be able to separate the subject foreground from background so to create effect number three to accentuate certain features of the subject
+ 
+<ICE-PHI:S1B-018#60:1:A>
+For example you want to accentuate texture you want to accentuate form you want to accentuate uh tone of a subject
+ 
+<ICE-PHI:S1B-018#61:1:A>
+And fourthly the most important characteristic of light in film or video would be to create a certain <,> mood okay
+ 
+<ICE-PHI:S1B-018#62:1:A>
+So you have those four basic purposes of light in film
+ 
+<ICE-PHI:S1B-018#63:1:A>
+Could you run that again
+ 
+<ICE-PHI:S1B-018#64:1:A>
+What 's the first one
+ 
+<ICE-PHI:S1B-018#65:1:A>
+Sales
+
+ <$H> 
+<ICE-PHI:S1B-018#66:1:H>
+Uhm make the subject visible
+
+ <$A> 
+<ICE-PHI:S1B-018#67:1:A>
+Uh to make the subject visible
+ 
+<ICE-PHI:S1B-018#68:1:A>
+Okay number two Cuison
+
+ <$I> 
+<ICE-PHI:S1B-018#69:1:I>
+To differentiate <unclear> words </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-018#70:1:A>
+Okay in other words creative depth
+ 
+<ICE-PHI:S1B-018#71:1:A>
+Number three Lim
+
+ <$J> 
+<ICE-PHI:S1B-018#72:1:J>
+Accentuate texture tone
+
+ <$A> 
+<ICE-PHI:S1B-018#73:1:A>
+Okay then number four Paragao
+
+ <$K> 
+<ICE-PHI:S1B-018#74:1:K>
+To create a certain mood
+
+ <$A> 
+<ICE-PHI:S1B-018#75:1:A>
+To create a certain mood okay
+ 
+<ICE-PHI:S1B-018#76:1:A>
+So with these four purposes in mind our question now is how do we control the light
+ 
+<ICE-PHI:S1B-018#77:1:A>
+What is our guideline in controlling the light
+ 
+<ICE-PHI:S1B-018#78:1:A>
+First let 's talk about basic quote and unquote rules in lighting <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-018#79:1:A>
+As with editing <,> camera movement <,> sound-mixing <,> what do you think is going to be our basic guideline in lighting
+ 
+<ICE-PHI:S1B-018#80:1:A>
+I mentioned certain three things editing camera movement sound-mixing
+ 
+<ICE-PHI:S1B-018#81:1:A>
+What was our guideline in the three in order for it to look good <,,> 
+ 
+<ICE-PHI:S1B-018#82:1:A>
+How do we know editing a good cut is is well done
+ 
+<ICE-PHI:S1B-018#83:1:A>
+How do we know that sound-mixing is well done
+ 
+<ICE-PHI:S1B-018#84:1:A>
+How do we know that the camera movement is very well done
+
+ <$?> 
+<ICE-PHI:S1B-018#85:1:?> Continuous
+
+ <$A> 
+<ICE-PHI:S1B-018#86:1:A>
+What is the key word we 've been operating on <&> inaudible answers </&> 
+ 
+<ICE-PHI:S1B-018#87:1:A>
+No <,,> 
+ 
+<ICE-PHI:S1B-018#88:1:A>
+Of course there are those are ways of achieving continuity
+ 
+<ICE-PHI:S1B-018#89:1:A>
+It should be <,,> 
+ 
+<ICE-PHI:S1B-018#90:1:A>
+It should be invisible
+ 
+<ICE-PHI:S1B-018#91:1:A>
+In other words lighting does not call attention to itself in the same way that editing camera movement and sound-mixing does not call attention to themselves okay
+ 
+<ICE-PHI:S1B-018#92:1:A>
+So what do we mean by <mention> invisible lighting </mention> 
+ 
+<ICE-PHI:S1B-018#93:1:A>
+Does that mean there will be no lighting <O> chuckle </O> <,> 
+ 
+<ICE-PHI:S1B-018#94:1:A>
+Montalban
+
+ <$L> 
+<ICE-PHI:S1B-018#95:1:L>
+The better uhm they don't see that we 're uhm since it 's not natural they don't see it as not natural
+ 
+<ICE-PHI:S1B-018#96:1:L>
+It looks like it 's part of the whole scene
+
+ <$A> <90> Alright so light when you say <mention> invisible lighting </mention> lighting should be as realistic as possible or approximating the natural light that we would find in the scene <,> 
+ 
+<ICE-PHI:S1B-018#97:1:A>
+Lacson you have a question
+
+ <$M> 
+<ICE-PHI:S1B-018#98:1:M>
+Yeah but can it be possible like you want let 's say you want to exaggerate light so you want to make it more to look fancier you could play with the lights so it would look
+
+ <$A> 
+<ICE-PHI:S1B-018#99:1:A>
+There is a certain context where that is acceptable <unclear> words </unclear> okay
+ 
+<ICE-PHI:S1B-018#100:1:A>
+Like for example a a scene wherein the whole style of the film is purposely expressionistic
+ 
+<ICE-PHI:S1B-018#101:1:A>
+When we say something is <mention> expressionistic </mention> you want to show your feelings for the subject
+ 
+<ICE-PHI:S1B-018#102:1:A>
+So you want to show distortion
+ 
+<ICE-PHI:S1B-018#103:1:A>
+You want to show exaggeration
+ 
+<ICE-PHI:S1B-018#104:1:A>
+If that style is consistent throughout the film then the lighting should go with that style okay
+ 
+<ICE-PHI:S1B-018#105:1:A>
+Nevertheless you still don't notice the lighting working that way <,> okay
+ 
+<ICE-PHI:S1B-018#106:1:A>
+Because you would say that for that kind of a situation that would be the right lighting
+ 
+<ICE-PHI:S1B-018#107:1:A>
+If you use a realistic lighting in an expressionistic setting
+ 
+<ICE-PHI:S1B-018#108:1:A>
+What happens
+ 
+<ICE-PHI:S1B-018#109:1:A>
+You notice the difference you notice the lighting
+ 
+<ICE-PHI:S1B-018#110:1:A>
+So as much as possible you try to notice it okay
+ 
+<ICE-PHI:S1B-018#111:1:A>
+So that should be the first rule
+ 
+<ICE-PHI:S1B-018#112:1:A>
+Lighting should be as realistic in a scene as possible
+ 
+<ICE-PHI:S1B-018#113:1:A>
+The second thing would be never state what you can imply 
+ 
+<ICE-PHI:S1B-018#114:1:A>
+Never state what you can imply 
+ 
+<ICE-PHI:S1B-018#115:1:A>
+What do we mean by this
+
+ <$N> 
+<ICE-PHI:S1B-018#116:1:N>
+Do not be so literal
+
+ <$A> 
+<ICE-PHI:S1B-018#117:1:A>
+Batac
+
+ <$N> 
+<ICE-PHI:S1B-018#118:1:N>
+Do not be so literal
+
+ <$A> 
+<ICE-PHI:S1B-018#119:1:A>
+Okay how can lighting be literal and how can be lighting how can lighting be implicit
+ 
+<ICE-PHI:S1B-018#120:1:A>
+So we can talk of literal lighting
+ 
+<ICE-PHI:S1B-018#121:1:A>
+We can talk of implied lighting
+ 
+<ICE-PHI:S1B-018#122:1:A>
+Actually <mention> implied lighting </mention> is not the term
+ 
+<ICE-PHI:S1B-018#123:1:A>
+The term is <mention> indirect lighting </mention> 
+ 
+<ICE-PHI:S1B-018#124:1:A>
+When does lighting become literal
+ 
+<ICE-PHI:S1B-018#125:1:A>
+When does lighting become uh implicit in the scene
+ 
+<ICE-PHI:S1B-018#126:1:A>
+Batac since you mentioned it <,,> 
+
+ <$N> 
+<ICE-PHI:S1B-018#127:1:N>
+I can't <unclear> word </unclear> the word
+
+ <$A> 
+<ICE-PHI:S1B-018#128:1:A>
+<indig> O </indig> Lacson
+
+ <$M> 
+<ICE-PHI:S1B-018#129:1:M>
+I think it 's <unclear> word </unclear> time <unclear> words </unclear> 
+ 
+<ICE-PHI:S1B-018#130:1:M>
+It 's artificial
+
+ <$A> 
+<ICE-PHI:S1B-018#131:1:A>
+So you 're saying implicit lighting is like artificial
+
+ <$M> 
+<ICE-PHI:S1B-018#132:1:M>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1B-018#133:1:A>
+You don't have to use real sources
+
+ <$M> 
+<ICE-PHI:S1B-018#134:1:M>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1B-018#135:1:A>
+Okay <,> in a sense <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-018#136:1:A>
+But what we mean here is that when we say yes Ballesteros
+
+ <$O> 
+<ICE-PHI:S1B-018#137:1:O>
+Not necessarily
+ 
+<ICE-PHI:S1B-018#138:1:O>
+Like uhm combination of everything the script and everything
+ 
+<ICE-PHI:S1B-018#139:1:O>
+Let 's say uhm it 's dark something like that and then the becomes dark so
+
+ <$A> 
+<ICE-PHI:S1B-018#140:1:A>
+Okay let us look at an example from uh <indig> Kisapmata </indig> <,,> 
+ 
+<ICE-PHI:S1B-018#141:1:A>
+<indig> O </indig> you notice right we have a poster here uh Charito Solis Charo Santos and Vic Silayan okay
+ 
+<ICE-PHI:S1B-018#142:1:A>
+This is an example of lighting which is not direct but implied
+ 
+<ICE-PHI:S1B-018#143:1:A>
+So tell me what you think that is
+ 
+<ICE-PHI:S1B-018#144:1:A>
+I 'll be turning off the volume so you can concentrate on lighting <,,> 
+ 
+<ICE-PHI:S1B-018#145:1:A>
+Okay so what did you see on the screen Rocha
+ 
+<ICE-PHI:S1B-018#146:1:A>
+What did you see on the screen
+
+ <$P> 
+<ICE-PHI:S1B-018#147:1:P>
+Well it 's dark and the faces are just <indig> ano </indig> lightened
+
+ <$A> 
+<ICE-PHI:S1B-018#148:1:A>
+Okay do we see every detail on the face
+
+ <$P> 
+<ICE-PHI:S1B-018#149:1:P>
+No
+
+ <$A> 
+<ICE-PHI:S1B-018#150:1:A>
+Do we also see every detail in the room
+
+ <$Z> 
+<ICE-PHI:S1B-018#151:1:Z> <X> <&> the students answer in chorus </&> No </X> 
+
+ <$A> 
+<ICE-PHI:S1B-018#152:1:A>
+Okay so how how do you connect that example with the rule that we just talked about or with the guideline
+ 
+<ICE-PHI:S1B-018#153:1:A>
+The second one never state what you can imply 
+ 
+<ICE-PHI:S1B-018#154:1:A>
+Sales <O> long response from the student unclear </O> 
+
+ <$A> 
+<ICE-PHI:S1B-018#155:1:A>
+Alright so you don't have to light everything in order for a scene to be completely visible
+ 
+<ICE-PHI:S1B-018#156:1:A>
+You can choose to light and emphasize certain parts of a scene okay
+ 
+<ICE-PHI:S1B-018#157:1:A>
+Also you notice the way the light is manipulated makes use of a lot of shadows
+ 
+<ICE-PHI:S1B-018#158:1:A>
+In FOTOGRA <&> course code </&> what do you call this
+ 
+<ICE-PHI:S1B-018#159:1:A>
+When you do portraiture with a lot of shadows
+ 
+<ICE-PHI:S1B-018#160:1:A>
+You took your FOTOGRA <&> course code </&> 
+ 
+<ICE-PHI:S1B-018#161:1:A>
+What do you do to the subject if you select certain parts of the face to be lit
+ 
+<ICE-PHI:S1B-018#162:1:A>
+You allow the shadow to form part of the shape of the face of the person
+ 
+<ICE-PHI:S1B-018#163:1:A>
+What do you call that technique <,> <O> students answer inaudible </O> 
+ 
+<ICE-PHI:S1B-018#164:1:A>
+What there 's a word you mold <mention> molding </mention> okay
+ 
+<ICE-PHI:S1B-018#165:1:A>
+You mold the face
+ 
+<ICE-PHI:S1B-018#166:1:A>
+In other words you let the light and shadow interact so as to reveal the shape or the texture or the figure of the subject okay
+ 
+<ICE-PHI:S1B-018#167:1:A>
+So in that particular case we did not have to see the entire room
+ 
+<ICE-PHI:S1B-018#168:1:A>
+We knew they were in the room
+ 
+<ICE-PHI:S1B-018#169:1:A>
+We did not have to see every detail on the face
+ 
+<ICE-PHI:S1B-018#170:1:A>
+Of course for that particular situation the important thing was the dialogue
+ 
+<ICE-PHI:S1B-018#171:1:A>
+So the lighting could have gone that way
+ 
+<ICE-PHI:S1B-018#172:1:A>
+Otherwise if the situation changed maybe the lighting could have been different okay
+ 
+<ICE-PHI:S1B-018#173:1:A>
+Third one would be a third guideline would be determine and motivate the placement of the source of light 
+ 
+<ICE-PHI:S1B-018#174:1:A>
+We usually call the source of light the <mention> key light </mention> <,> 
+ 
+<ICE-PHI:S1B-018#175:1:A>
+The major source of light the key light
+ 
+<ICE-PHI:S1B-018#176:1:A>
+Some cinematographers when they light a scene they would usually start with the major source of light because around that light they would build other lights
+ 
+<ICE-PHI:S1B-018#177:1:A>
+So for example if two people are talking by the window as was happening here in <indig> Kisapmata </indig> <,> if we see the window in the scene then naturally if it 's morning we would expect that the light the key light would be placed by the window because naturally there would be that would be the source okay
+ 
+<ICE-PHI:S1B-018#178:1:A>
+If it 's a night interior where would you put the light
+ 
+<ICE-PHI:S1B-018#179:1:A>
+If the set is interior and night time where would be the natural <{> <[> source </[> of light
+
+ <$?> 
+<ICE-PHI:S1B-018#180:1:?> <[> Outside </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1B-018#181:1:A>
+Let 's say I don't see the windows I just want to see the room
+
+ <$?> 
+<ICE-PHI:S1B-018#182:1:?> The lamp
+
+ <$A> 
+<ICE-PHI:S1B-018#183:1:A>
+The lamp okay
+ 
+<ICE-PHI:S1B-018#184:1:A>
+So the lamp the table lamp would be the source of light
+
+ <$?> 
+<ICE-PHI:S1B-018#185:1:?> Can there also be an <{1> <[1> outside </[1> <,> meaning from outside I mean <{2> <[2> say the </[2> moon
+
+ <$A> 
+<ICE-PHI:S1B-018#186:1:A>
+<[1> Okay </[1> </{1> 
+ 
+<ICE-PHI:S1B-018#187:1:A>
+<[2> Example </[2> </{2> 
+ 
+<ICE-PHI:S1B-018#188:1:A>
+So for example if the scene would show the window <indig> 'no </indig> or you want to suggest there 's a window then you would make
+
+ <$?> 
+<ICE-PHI:S1B-018#189:1:?> Put light
+
+ <$A> 
+<ICE-PHI:S1B-018#190:1:A>
+Put light there
+ 
+<ICE-PHI:S1B-018#191:1:A>
+But that would not be the major source of light you 're just highlighting that
+ 
+<ICE-PHI:S1B-018#192:1:A>
+However if the action happens by the window and you see the window that would be the major source of light okay
+ 
+<ICE-PHI:S1B-018#193:1:A>
+Otherwise if you don't show it you can always suggest it
+ 
+<ICE-PHI:S1B-018#194:1:A>
+But if it 's happening at night you can have the table lamp as the main source of window which means that the brightness of the lamp should be bright enough to cover the entire scene and you would add other lights around in the room to boost up that major source of light okay
+ 
+<ICE-PHI:S1B-018#195:1:A>
+A fourth uh guideline would then be plan the lighting of the film in advance <,> 
+ 
+<ICE-PHI:S1B-018#196:1:A>
+Since you 're only not you 're working not only with the single source of light you have to figure out then how to coordinate the other lights
+ 
+<ICE-PHI:S1B-018#197:1:A>
+One good practice would be to go to a place and observe <,> the kind of lighting that goes on
+ 
+<ICE-PHI:S1B-018#198:1:A>
+You know
+ 
+<ICE-PHI:S1B-018#199:1:A>
+Uh for example going to a place at sunset
+ 
+<ICE-PHI:S1B-018#200:1:A>
+How do the shadows fall
+ 
+<ICE-PHI:S1B-018#201:1:A>
+How bright
+ 
+<ICE-PHI:S1B-018#202:1:A>
+How fast does the light go
+ 
+<ICE-PHI:S1B-018#203:1:A>
+Or morning
+ 
+<ICE-PHI:S1B-018#204:1:A>
+You 'll notice if you go to a specific room like your own room
+ 
+<ICE-PHI:S1B-018#205:1:A>
+How many have locked themselves up in their own room
+ 
+<ICE-PHI:S1B-018#206:1:A>
+The whole day <O> students laugh </O> 
+ 
+<ICE-PHI:S1B-018#207:1:A>
+Have you ever noticed the changes of light <,> natural light in the room
+ 
+<ICE-PHI:S1B-018#208:1:A>
+I 'm talking about light through the window
+ 
+<ICE-PHI:S1B-018#209:1:A>
+The quality of light in the morning is different from the quality of light at noon and as it goes into evening
+ 
+<ICE-PHI:S1B-018#210:1:A>
+And even at night there are different changes of light at night
+ 
+<ICE-PHI:S1B-018#211:1:A>
+The light at twilight is different from the light at midnight is different from the light at around two or three in the morning
+ 
+<ICE-PHI:S1B-018#212:1:A>
+Or the light at moon night full moon night or the light on a half-moon night
+ 
+<ICE-PHI:S1B-018#213:1:A>
+There 's still some relation <indig> 'no </indig> 
+ 
+<ICE-PHI:S1B-018#214:1:A>
+And a good cinematographer like a designer is able to give you those shades of difference <indig> 'no </indig> <,> 
+ 
+<ICE-PHI:S1B-018#215:1:A>
+As for yourselves since you 're starting we 're not after those subtle shades of difference
+ 
+<ICE-PHI:S1B-018#216:1:A>
+What we 're after first is that you can make the subject visible
+ 
+<ICE-PHI:S1B-018#217:1:A>
+We know who 's in the frame
+ 
+<ICE-PHI:S1B-018#218:1:A>
+You can make the subject look interesting
+ 
+<ICE-PHI:S1B-018#219:1:A>
+And when you place the lights there 's a reason for placing the lights that way
+ 
+<ICE-PHI:S1B-018#220:1:A>
+Any question for those four guidelines
+ 
+<ICE-PHI:S1B-018#221:1:A>
+Okay let 's go now to uh sources of light and properties of light
+ 
+<ICE-PHI:S1B-018#222:1:A>
+Basically we only really have two sources of light
+ 
+<ICE-PHI:S1B-018#223:1:A>
+In fact for every scene there 's always one key light <,> 
+ 
+<ICE-PHI:S1B-018#224:1:A>
+Why is that so
+ 
+<ICE-PHI:S1B-018#225:1:A>
+Why can't we have two key lights
+ 
+<ICE-PHI:S1B-018#226:1:A>
+What are we trying to duplicate in real life
+ 
+<ICE-PHI:S1B-018#227:1:A>
+Remember we said lighting should be as realistic as possible so why is it that in every scene no matter what the source of light is there 's only one key light 
+
+ </I> 

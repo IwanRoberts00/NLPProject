@@ -1,0 +1,608 @@
+<I>
+
+<ICE-PHI:W2A-031#1:1>
+<h> <bold> Textile Cement Composite: A Potential Lightweight Building
+Material </bold> </h>
+
+<ICE-PHI:W2A-031#2:1>
+<bold> Joseph Ramil I. Manalo </bold>
+
+<p> 
+<ICE-PHI:W2A-031#3:1>
+<it> Textile waste cuttings mixed with cement as binder produce a
+unique kind of composite material that looks like concrete but can be cut or
+nailed like wood.
+
+<ICE-PHI:W2A-031#4:1>
+It exhibits certain physical and mechanical properties indicating its
+potential for low-cost lightweight construction. </p>
+
+<p> 
+<ICE-PHI:W2A-031#5:1>
+The result of the laboratory tests indicate a sturdy
+lighter-than-concrete building material with various potential uses--for
+ceilings, walls, wooden board substitute, or as an economical alternative
+concrete block. </it> </p>
+
+<p> 
+<ICE-PHI:W2A-031#6:1>
+The research conducted shows that textile waste cuttings when
+mixed with cement as binder produces a unique kind of composite material that
+can be used for low-cost lightweight construction.
+
+<ICE-PHI:W2A-031#7:1>
+The composite material looks very much like an ordinary &ldquo;
+concrete product &rdquo; but weighs like an ordinary lumber. </p>
+
+<p> 
+<ICE-PHI:W2A-031#8:1>
+The research is timely and relevant for statistics show that the
+disposal of textile waste cuttings will soon become a major problem.
+
+<ICE-PHI:W2A-031#9:1>
+The textile cuttings are usually disposed of as waste product which
+become an environmental nuisance because of its non-biodegradability, or
+burned in heaps thus releasing highly toxic fumes in the surrounding air.
+
+<ICE-PHI:W2A-031#10:1>
+Due to the influx of these voluminous wastes in our environment, we
+ought to find ways of turning it into useful materials.
+
+<ICE-PHI:W2A-031#11:1>
+This study explores the possible ways to warrant the production of
+new products from waste materials - - textile cuttings. </p>
+
+<p> 
+<ICE-PHI:W2A-031#12:1>
+This focuses on the technical aspect of making test samples and
+the determination of textile-cement material 's specific weight, water and
+moisture absorptions, compressive, tensile and flexural strengths. </p>
+
+<p> 
+<ICE-PHI:W2A-031#13:1>
+An economic feasibility study of the said research is of much
+importance as the technical aspect.
+
+<ICE-PHI:W2A-031#14:1>
+An in-place cost comparison of textile-cement material and commonly
+used plyboards and lumber for ceiling and partitions supply the needed data
+for its market feasibility analysis. </p>
+
+<p> 
+<ICE-PHI:W2A-031#15:1>
+Its physical and mechanical properties indicate its potential as
+a substitute material for some concrete products yet lighter and more
+economical than concrete, as substitute for wooden board yet sturdier and
+more fire resistant than wood. </p>
+
+<ICE-PHI:W2A-031#16:1>
+<h> <bold> MATERIAL COMPONENTS </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-031#17:1>
+The composite material is produced from a mixture of textile
+waste cuttings, portland cement and water.
+
+<ICE-PHI:W2A-031#18:1>
+In the study, the textile waste cuttings are taken from a shirt
+manufacturing firm and from a garment factory.
+
+<ICE-PHI:W2A-031#19:1>
+The textile consists of cotton, polyester, silk and rayon.
+
+<ICE-PHI:W2A-031#20:1>
+A homogenous single type of textile usually consists of a combination
+of these materials in various percentages. </p>
+
+<p> 
+<ICE-PHI:W2A-031#21:1>
+Portland cement mixed with water is used as binder.
+
+<ICE-PHI:W2A-031#22:1>
+As in all concrete materials using hydraulic cement, the cement paste
+or binder is actually the result of a chemical reaction between cement and
+water.
+
+<ICE-PHI:W2A-031#23:1>
+The said chemical reaction, characterized by hydration, continues
+even for many days until the binding medium plus any embedded particles in it
+is said to have sufficiently hardened, usually for a period of 28 days. </p>
+
+<p> 
+<ICE-PHI:W2A-031#24:1>
+In the textile-cement composite material under study the textile
+cuttings may not be conceived as either an aggregate or reinforcement.
+
+<ICE-PHI:W2A-031#25:1>
+However, they contribute to the increase in volume of the mixture (
+which is the major function of an aggregate) less the weight, and contribute
+to the increase in the tensile resistance ( which is the major function of
+the reinforcement) due to its fibrous nature. </p>
+
+<ICE-PHI:W2A-031#26:1>
+<h> <bold> FABRICATION OF SAMPLES </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-031#27:1>
+The textile waste cuttings are trimmed into average lengths of 2
+cm. and 6 cm., and mixed with portland cement in textile-cement ratios of
+1:3, 1:4 and 1:5 by weight.
+
+<ICE-PHI:W2A-031#28:1>
+Water is added in amounts corresponding to water-cement ratios
+ranging from 0.53 to 0.85. </p>
+
+<p> 
+<ICE-PHI:W2A-031#29:1>
+Experimental blocks with dimensions of 2.5 cm. x 9.5 cm. x 14.5
+cm. are fabricated and tested for tension and flexure, while cubes of 5 cm. x
+5 cm. are used for compression tests. </p>
+
+<p> 
+<ICE-PHI:W2A-031#30:1>
+The different steps in fabrication are shown in Figure 1. </p>
+
+<ICE-PHI:W2A-031#31:1>
+<h> <bold> LABORATORY TESTS </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-031#32:1>
+The 54 samples tested represent the 18 design mixes, that is, 3
+replicates per design mix.
+
+<ICE-PHI:W2A-031#33:1>
+The number of design mixes resulted from varying the quantities of
+the 3 material components: textile, cement and water.
+
+<ICE-PHI:W2A-031#34:1>
+The variations were expressed in terms of fiber-cement ratio by
+weight, water-cement ratio by weight and textile length.
+
+<ICE-PHI:W2A-031#35:1>
+Two textile lengths were used: 2 cm. ( designated as S for short
+fibers) and 6 cm. ( designated as L for long fibers).
+
+<ICE-PHI:W2A-031#36:1>
+The mix combinations are shown in Figure 2. </p>
+
+<p> 
+<ICE-PHI:W2A-031#37:1>
+The samples were evaluated for unit weight, water and moisture
+absorption, biodegradability, flammability, compressive, tensile and flexural
+strengths.
+
+<ICE-PHI:W2A-031#38:1>
+In the study, evaluation on biodegradability was done, not by
+laboratory test, but by analyzing the chemical composition and properties of
+the fiber based on data obtained from the Department of Science and
+Technology and from the Philippine Textile Research Institute.
+
+<ICE-PHI:W2A-031#39:1>
+Tests on flammability consisted of subjecting the samples to open
+flame from a gas stove for a period of 30 minutes. </p>
+
+<p> 
+<ICE-PHI:W2A-031#40:1>
+Physical tests for the determination of its density, water and
+moisture absorption were conducted at <indig> Pamantasan ng Lungsod ng
+Maynila </indig> <&> trans., University of the City of Manila </&> -
+Engineering Laboratory.
+
+<ICE-PHI:W2A-031#41:1>
+An oven was used to determine the oven-dry weights of the samples.
+</p>
+
+<p> 
+<ICE-PHI:W2A-031#42:1>
+Mechanical tests to find the flexural, tensile and compressive
+strengths of the samples were done using the Universal Testing Machine ( UTM)
+of the Construction Manpower Development Foundation ( CMDF) at Bo. <&>
+abbreviation for <foreign> Barrio </foreign> </&> Salawag, Dasmari&ntilde;as,
+Cavite.
+
+<ICE-PHI:W2A-031#43:1>
+The UTM used has a 50 ton-force capacity. </p>
+
+<p> 
+<ICE-PHI:W2A-031#44:1>
+The above mentioned tests are in accordance with the ASTM
+standards for testing materials. </p>
+
+<ICE-PHI:W2A-031#45:1>
+<h> <bold> TEST RESULTS </h>
+
+<p> 
+<ICE-PHI:W2A-031#46:1>
+Laboratory results from tests conducted, are presented in Table 1
+and 2.
+
+<ICE-PHI:W2A-031#47:1>
+Results show that the textile-cement materials behaved differently
+for every controlled variable.
+
+<ICE-PHI:W2A-031#48:1>
+Nevertheless, these data have been analyzed for their possible
+variances.
+
+<ICE-PHI:W2A-031#49:1>
+This is to determine the accuracy of the experiment through the
+results obtained. </p>
+
+<p> 
+<ICE-PHI:W2A-031#50:1>
+The reliability of the experiment was evaluated using analysis of
+variance ( ANOVA) and regression analysis as the curve fitting tool to show
+the trend of effects of different controlled variables using Table A shown.
+</p>
+
+<p> 
+<ICE-PHI:W2A-031#51:1>
+In general the reliability of the experimental data can be
+accepted at 99% confidence interval being it not random samples of a bigger
+sample size.
+
+<ICE-PHI:W2A-031#52:1>
+The relation between the dependent and independent variables is given
+by the correlation coefficients which register greater than 90% showing a
+very good relation.
+
+<ICE-PHI:W2A-031#53:1>
+The relatively high values of correlation coefficient indicate that a
+linear regression analysis can be used as a tool in projecting values of Y
+for certain values of X. </p>
+
+<p> 
+<ICE-PHI:W2A-031#54:1>
+A tabular summary of the findings is shown to clearly present the
+effects of the different variables to the physical and mechanical properties
+of the textile-cement material.
+
+<ICE-PHI:W2A-031#55:1>
+This presents the possible trends of effects these variables give on
+the properties of textile-cement material. </p>
+
+<p> 
+<ICE-PHI:W2A-031#56:1>
+Water-cement ratio varies inversely with the specific weight,
+compressive, tensile and flexural strengths of the material.
+
+<ICE-PHI:W2A-031#57:1>
+Also it varies proportionately with the water and moisture
+absorption. </p>
+
+<p> 
+<ICE-PHI:W2A-031#58:1>
+Cement-fiber ratio varies proportionately with the specific
+weight, compressive, tensile and flexural strengths.
+
+<ICE-PHI:W2A-031#59:1>
+Furthermore, it varies inversely with the water and moisture
+absorption of the material. </p>
+
+<p> 
+<ICE-PHI:W2A-031#60:1>
+The size of the textile fiber affects the properties of the
+material.
+
+<ICE-PHI:W2A-031#61:1>
+Long fibers produce better results than that of the short fibers.
+</p>
+
+<p> 
+<ICE-PHI:W2A-031#62:1>
+Upon evaluation of the chemical compositions of the fibers used,
+the material shows a high degree of non-biodegradability and after being
+subjected to direct open fire, shows zero flammability making it a good
+fire-resisting material. </p>
+
+<p> 
+<ICE-PHI:W2A-031#63:1>
+From the standpoint of economics, an in-place analysis of the
+different material and specification combination for ceiling and partitions
+shows that a savings ranging from 59.81 to 97.97 pesos per square meter and
+172.63 and 253.48 pesos for ceiling and partitions, respectively, can be
+obtained utilizing the TCM as substitute material for plywood, as shown in
+Tables 6 and 7.
+
+<ICE-PHI:W2A-031#64:1>
+TCM at different fiber-cement ratios combined with ordinary 50 cm. by
+50 cm. ceiling joists and wall studs at various spacing is compared with an
+ordinary plyboard ceiling and walling.
+
+<ICE-PHI:W2A-031#65:1>
+Savings are derived mainly from the substitution of TCM for plywood.
+
+<ICE-PHI:W2A-031#66:1>
+Differences in the in-place cost of the two materials at various
+combinations show big savings if TCM is used. </p>
+
+<p> 
+<ICE-PHI:W2A-031#67:1>
+This clearly indicates that TCM is a money saving material for
+the construction industry. </p>
+
+<ICE-PHI:W2A-031#68:1>
+<h> <bold> CONCLUSION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-031#69:1>
+The textile cuttings, when mixed with hydraulic cement as binder,
+produce a composite material that can be used for low-cost lightweight
+construction. </p>
+
+<p> 
+<ICE-PHI:W2A-031#70:1>
+The composite material has physical and mechanical properties
+that make it a potential substitute for some concrete products as well as a
+substitute for wooden boards. </p>
+
+<p> 
+<ICE-PHI:W2A-031#71:1>
+Consequently, the use of textile waste cuttings in construction
+may solve two problems, namely, elimination of an environmental pollutant and
+provision of an alternative material for the construction industry. </p>
+
+<ICE-PHI:W2A-031#72:1>
+<h> <bold> RECOMMENDATION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-031#73:1>
+It is therefore recommended that the use of textile-cement
+material be encouraged to provide people with new class of construction
+material of comparable strengths and other potential properties as
+lightweightness, non-biodegradability and fire-resistant. </p> </I>
+
+
+<I>
+
+<ICE-PHI:W2A-031#74:2>
+<h> <bold> Production Line Balancing ( Or Why 1 + 1 Is Not Equal to 2
+or 3) </bold> </h>
+
+<ICE-PHI:W2A-031#75:2>
+<bold> Rumel V. Atienza </bold>
+
+<ICE-PHI:W2A-031#76:2>
+<h> <it> > Abstract </h>
+
+<p> 
+<ICE-PHI:W2A-031#77:2>
+LINE BALANCING is among the basic concepts in production and
+operations management which are often misunderstood.
+
+<ICE-PHI:W2A-031#78:2>
+This article explains, through the use of simulation, why bottleneck,
+idle capacity, and delay occur due to production line imbalance. </it> </p>
+
+<p> 
+<ICE-PHI:W2A-031#79:2>
+With the advent of the synergy concept, the expression 1 + 1 is
+no longer solely equal to the mathematically correct answer of 2, but is also
+equal to 3.
+
+<ICE-PHI:W2A-031#80:2>
+Management scientists and behavioral psychologists believe and have
+proven that the concerted effort of two human beings can result in an output
+much greater than the combined outputs of the two working separately. </p>
+
+<p> 
+<ICE-PHI:W2A-031#81:2>
+But the idea that 1 + 1 is not equal to 2 has for long been
+common knowledge among production managers and engineers, only this time, the
+answer is not equal to 3; instead it is equal to less than 1. </p>
+
+<p> 
+<ICE-PHI:W2A-031#82:2>
+To illustrate: consider a continuous production line composed of
+eight sewing operators ( sewers) producing pants.
+
+<ICE-PHI:W2A-031#83:2>
+If it takes 20 minutes to produce one pair of pants, how many pants
+can be produced by the production line in an eight-hour working day?
+
+<ICE-PHI:W2A-031#84:2>
+Supposedly, the answer is 192 pairs ( = 8 hr/man-day x 60 min/hr x 8
+man/day / 20 min/pair).
+
+<ICE-PHI:W2A-031#85:2>
+In a majority of cases, however, the production line produces much
+less than 192 per day, even if men and machines are efficient.
+
+<ICE-PHI:W2A-031#86:2>
+This happens because the production line is imbalanced. </p>
+
+<p> 
+<ICE-PHI:W2A-031#87:2>
+In almost all production set-ups, whether continuous, batch or
+job shop, products are processed through work sections, each section
+producing or attaching one component of the product rather than each section
+producing one complete unit of the product.
+
+<ICE-PHI:W2A-031#88:2>
+Balance in the production line refers to the equality of the rates of
+output ( called capacity) of the work sections.
+
+<ICE-PHI:W2A-031#89:2>
+When imbalance exists, the maximum capacity for the whole line is
+equal to the capacity of the slowest section, termed as the <mention> &ldquo;
+bottleneck &rdquo; operation </mention> , and idle capacity exists in all
+other sections, except in the bottleneck. </p>
+
+<ICE-PHI:W2A-031#90:2>
+<h> <bold> A Simulation of the Production Process </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-031#91:2>
+To better appreciate the meaning of line balance, capacity and
+bottleneck, let us take a look at this simulation of a simple production
+system.
+
+<ICE-PHI:W2A-031#92:2>
+This production process is composed of six activities, namely: A, B,
+C, D, E and F.
+
+<ICE-PHI:W2A-031#93:2>
+Activity A has to be performed before B, C, or D can be performed,
+i.e., A is a precedent of B, C, and D.
+
+<ICE-PHI:W2A-031#94:2>
+Similarly, activity E cannot be performed until B, C and D are
+completed.
+
+<ICE-PHI:W2A-031#95:2>
+Activity F, on the other hand, must be preceded by E.
+
+<ICE-PHI:W2A-031#96:2>
+Table 1 shows this necessary precedence between activities and the
+time required to finish each activity.
+
+<ICE-PHI:W2A-031#97:2>
+Figure 1 shows the precedence chart of this production system. </p>
+
+<p> 
+<ICE-PHI:W2A-031#98:2>
+Suppose that each activity is assigned to one section composed of
+one man ( or man-and-machine).
+
+<ICE-PHI:W2A-031#99:2>
+We will simulate the production process to determine the following
+parameters:
+
+<ICE-PHI:W2A-031#100:2>
+a. Time it takes to finish one unit of output with minimum delay
+
+<ICE-PHI:W2A-031#101:2>
+b. Capacity or the output per given time of this line
+
+<ICE-PHI:W2A-031#102:2>
+c. Idle capacity available </p>
+
+<p> 
+<ICE-PHI:W2A-031#103:2>
+With a simulation interval of 10 seconds, let us take a look at
+the first stage of the simulation, corresponding to the first 200 seconds (
+see Table 2). </p>
+
+<p> 
+<ICE-PHI:W2A-031#104:2>
+It can be observed from this simulation that unit 1 has been
+completed without any delay ( start at t = 0 and end at t = 180).
+
+<ICE-PHI:W2A-031#105:2>
+Unit 2, however, incurred a 10 sec. delay after t = 140 since all
+sections were loaded with work.
+
+<ICE-PHI:W2A-031#106:2>
+Completion time is expected to be equal to 190 seconds.
+
+<ICE-PHI:W2A-031#107:2>
+Unit 3 incurred a delay of 50 seconds, thus expected completion time
+is at least 230 ( =180+50) seconds. </p>
+
+<p> 
+<ICE-PHI:W2A-031#108:2>
+Observe that from the 90th second upward, section A was idle.
+
+<ICE-PHI:W2A-031#109:2>
+Activities were temporarily stopped in A since the other sections
+were still loaded.
+
+<ICE-PHI:W2A-031#110:2>
+Section A can afford to be idle.
+
+<ICE-PHI:W2A-031#111:2>
+This move is logical, especially if the product or raw materials are
+perishable, or if management wishes to minimize work-in-process inventory, or
+minimize processing time in the production line, among other reasons.
+
+<ICE-PHI:W2A-031#112:2>
+For simulation purposes, we impose this policy to be more realistic
+about the average earliest completion time of one unit of output.
+
+<ICE-PHI:W2A-031#113:2>
+This &ldquo; constraint, &rdquo; however, can be removed if we are
+not at all interested in measuring parameter ( a). </p>
+
+<p> 
+<ICE-PHI:W2A-031#114:2>
+Since the first stage of any simulation process may not be
+indicative of the actual trends of the production parameters we want to
+measure, let us continue with the simulation until 1000 seconds.
+
+<ICE-PHI:W2A-031#115:2>
+( Please see Table 3 and Table 3a for the simulations).
+
+<ICE-PHI:W2A-031#116:2>
+Table 3 simulation will be used to measure the capacity, bottleneck
+and idle capacity.
+
+<ICE-PHI:W2A-031#117:2>
+Table 3a will be used to determine the time for a unit to be
+completed with minimum delay.
+
+<ICE-PHI:W2A-031#118:2>
+From these tables we can conclude the following about the parameters
+we want to measure:
+
+<p> 
+<ICE-PHI:W2A-031#119:2>
+a. <h> <it> Completion time of each unit </it> </h> .
+
+<ICE-PHI:W2A-031#120:2>
+Longer simulation will result in average completion time approaching
+the limit equal to 180 seconds ( as can be observed from the later units
+produced).
+
+<ICE-PHI:W2A-031#121:2>
+This 180 seconds is merely the sum total of the time of all the
+activities ( 20 + 60 + 40 + 30 + 20 + 10) combined.
+
+<ICE-PHI:W2A-031#122:2>
+Thus, if one worker does all the activities, he can complete one
+unit in 180 seconds or three ( 3) minutes.
+
+<ICE-PHI:W2A-031#123:2>
+This is equivalent to 20 units per hour or 160 units per day.
+
+<ICE-PHI:W2A-031#124:2>
+In this example, with 6 workers, 6 x 160 = 960 units can be
+completed in one day. </p>
+
+<p> 
+<ICE-PHI:W2A-031#125:2>
+b. <h> <it> Capacity of the line </it> </h> .
+
+<ICE-PHI:W2A-031#126:2>
+The simulated capacity of this line is 16 units for the first 1000
+seconds, equal to 63 seconds/unit.
+
+<ICE-PHI:W2A-031#127:2>
+Longer simulation will approach the limit of 60 seconds per unit.
+
+<ICE-PHI:W2A-031#128:2>
+This is nothing but the capacity of the slowest section, which is B,
+the &ldquo; bottleneck &rdquo; operation.
+
+<ICE-PHI:W2A-031#129:2>
+This capacity can also be interpreted as 1 unit per minute or 60
+units per hour.
+
+<ICE-PHI:W2A-031#130:2>
+With eight hours a day, the whole line of 6 workers can complete 480
+units per day.
+
+<ICE-PHI:W2A-031#131:2>
+This is half of what can be done if they worked separately! </p>
+
+<p> 
+<ICE-PHI:W2A-031#132:2>
+c. <h> <it> Idle capacity </it> </h> .
+
+<ICE-PHI:W2A-031#133:2>
+It is expected that the idle time for each of the activities is as
+follows: <O> table </O>
+
+<p> 
+<ICE-PHI:W2A-031#134:2>
+Thus, in a day, 1440 minutes ( equivalent to 3 workers) are
+unproductive! </p> </I>

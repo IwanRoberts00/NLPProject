@@ -1,0 +1,1254 @@
+<I>
+
+<$A> 
+<ICE-PHI:S1A-093#1:1:A>
+Hello Sir
+
+<$B> 
+<ICE-PHI:S1A-093#2:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-093#3:1:A>
+Yes
+
+<ICE-PHI:S1A-093#4:1:A>
+Uhm good afternoon Sir uhm
+
+<$B> 
+<ICE-PHI:S1A-093#5:1:B>
+Good afternoon
+
+<$A> 
+<ICE-PHI:S1A-093#6:1:A>
+So Sir how are you
+
+<$B> 
+<ICE-PHI:S1A-093#7:1:B>
+I 'm fine I 'm I 'm okay
+
+<$A> 
+<ICE-PHI:S1A-093#8:1:A>
+Uh that 's good uhm <indig> ay </indig> anyway before I forget
+
+<$B> 
+<ICE-PHI:S1A-093#9:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-093#10:1:A>
+Uhm Happy Father 's Day belated
+
+<$B> 
+<ICE-PHI:S1A-093#11:1:B>
+Uh yes uh thank you very much
+
+<$A> 
+<ICE-PHI:S1A-093#12:1:A>
+<indig> Ha </indig> <{> <[> you 're welcome </[>
+
+<$B> 
+<ICE-PHI:S1A-093#13:1:B>
+<[> That is </[> </{> uhm <&> chuckle </&> that is a a
+greeting that uh we fathers <{> <[> highly </[> appreciate
+
+<$A> 
+<ICE-PHI:S1A-093#14:1:A>
+<[> Yes </[> </{> yes of course
+
+<ICE-PHI:S1A-093#15:1:A>
+Well how was your day yesterday
+
+<ICE-PHI:S1A-093#16:1:A>
+How was it celebrating Father 's Day
+
+<$B> 
+<ICE-PHI:S1A-093#17:1:B>
+Yesterday was a good day
+
+<$A> 
+<ICE-PHI:S1A-093#18:1:A>
+<{> <[> Oh </[>
+
+<$B> 
+<ICE-PHI:S1A-093#19:1:B>
+<[> Uh </[> </{> we were in the province
+
+<ICE-PHI:S1A-093#20:1:B>
+We had visited my in-laws and <{1> <[1> uh </[1> I had a I had a
+good time because I was with my family and <{2> <[2> uh </[2>
+
+<$A> 
+<ICE-PHI:S1A-093#21:1:A>
+<[1> Yeah </[1> </{1>
+
+<ICE-PHI:S1A-093#22:1:A>
+<[2> Uh </[2> </{2> oh
+
+<$B> 
+<ICE-PHI:S1A-093#23:1:B>
+Uh <,> I ate a lot
+
+<$A> 
+<ICE-PHI:S1A-093#24:1:A>
+Yeah ha ha
+
+<ICE-PHI:S1A-093#25:1:A>
+Oh really
+
+<$B> 
+<ICE-PHI:S1A-093#26:1:B>
+And it was a good day
+
+<$A> 
+<ICE-PHI:S1A-093#27:1:A>
+Oh lucky are you you were with your family
+
+<ICE-PHI:S1A-093#28:1:A>
+Me my Dad is not here
+
+<$B> 
+<ICE-PHI:S1A-093#29:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-093#30:1:A>
+He 's abroad
+
+<$B> 
+<ICE-PHI:S1A-093#31:1:B>
+Really
+
+<$A> 
+<ICE-PHI:S1A-093#32:1:A>
+So he just uhm gives us a call <{> <[> and then </[> he just
+does the usual
+
+<$B> 
+<ICE-PHI:S1A-093#33:1:B>
+<[> Uh-hmmmh </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-093#34:1:A>
+He uhm what do you call this
+
+<ICE-PHI:S1A-093#35:1:A>
+Uh and we just greeted him and you know say some things
+
+<ICE-PHI:S1A-093#36:1:A>
+And and yesterday it 's really an <.> emotiona </.> it 's really uhm
+what do you call this
+
+<ICE-PHI:S1A-093#37:1:A>
+It 's really become very emotional
+
+<$B> 
+<ICE-PHI:S1A-093#38:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-093#39:1:A>
+Because you know uhm being far from your father is really
+really difficult especially for me
+
+<ICE-PHI:S1A-093#40:1:A>
+I 'm an Accounting student <{> <[> and </[>
+
+<$B> 
+<ICE-PHI:S1A-093#41:1:B>
+<[> Yes </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-093#42:1:A>
+You know if I 'm dealing with very hard problems regarding my
+uh my course I could not ask anyone because he 's the only Accounting in the
+family uh and also my <indig> lola </indig> but then she 's not here with us
+
+<$B> 
+<ICE-PHI:S1A-093#43:1:B>
+<{> <[> Oh </[>
+
+<$A> 
+<ICE-PHI:S1A-093#44:1:A>
+<[> So </[> </{> it 's very very difficult for me <{> <[> and
+</[>
+
+<$B> 
+<ICE-PHI:S1A-093#45:1:B>
+<[> So </[> </{> your father is an accountant <{> <[> working
+</[> abroad
+
+<$A> 
+<ICE-PHI:S1A-093#46:1:A>
+<[> Yes </[> </{>
+
+<ICE-PHI:S1A-093#47:1:A>
+Yes Sir
+
+<$B> 
+<ICE-PHI:S1A-093#48:1:B>
+Where is he working
+
+<ICE-PHI:S1A-093#49:1:B>
+<{1> <[1> <.> Wha </.> </[1> what uh uh and how long has he been
+<{2> <[2> working </[2> abroad
+
+<$A> 
+<ICE-PHI:S1A-093#50:1:A>
+<[1> Uhm </[1> </{1>
+
+<ICE-PHI:S1A-093#51:1:A>
+<[2> Uhm </[2> </{2>
+
+<ICE-PHI:S1A-093#52:1:A>
+He 's been working at I M F and World Bank for <{> <[> two </[> <.>
+yea </.> two years now
+
+<$B> 
+<ICE-PHI:S1A-093#53:1:B>
+<[> Wow </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-093#54:1:A>
+Yes <&> chuckle </&>
+
+<$B> 
+<ICE-PHI:S1A-093#55:1:B>
+That 's a good that 's a very nice that 's a great institution
+huh
+
+<$A> 
+<ICE-PHI:S1A-093#56:1:A>
+Yes Sir
+
+<ICE-PHI:S1A-093#57:1:A>
+Actually I was also <indig> ano e </indig> uhm what do you call
+this
+
+<ICE-PHI:S1A-093#58:1:A>
+I was also aiming for that kind of uhm <,> uhm profession that he
+that he 's having <{> <[> right now </[>
+
+<$B> 
+<ICE-PHI:S1A-093#59:1:B>
+<[> Okay </[> </{>
+
+<ICE-PHI:S1A-093#60:1:B>
+But but you are in Accountancy
+
+<$A> 
+<ICE-PHI:S1A-093#61:1:A>
+Yes of course but but then you know the the the what do you
+call <{> <[> this </[>
+
+<$B> 
+<ICE-PHI:S1A-093#62:1:B>
+<[> The </[> </{> demands of the
+
+<$A> 
+<ICE-PHI:S1A-093#63:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-093#64:1:B>
+The difficulties of uh being an Accounting Accounting <{> <[>
+student </[> are pretty how shall we put it <&> speaker A chuckles </&>
+
+<$A> 
+<ICE-PHI:S1A-093#65:1:A>
+<[> Yeah yeah </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-093#66:1:B>
+Uh demanding very demanding
+
+<$A> 
+<ICE-PHI:S1A-093#67:1:A>
+Yes yes very demanding because you know all companies need <.>
+accounti </.> accountants right
+
+<ICE-PHI:S1A-093#68:1:A>
+They cannot run the business without accountants because who would
+take care of their resources but the accountants
+
+<$B> 
+<ICE-PHI:S1A-093#69:1:B>
+Uh-hmmmh
+
+<$A> 
+<ICE-PHI:S1A-093#70:1:A>
+And it is where with the with the uhm papers that accountants
+are are making it is where they get their uhm uh what do you call this
+<indig> ano nga ‘yun </indig> <&> laughter </&>
+
+<ICE-PHI:S1A-093#71:1:A>
+Oh my God
+
+<$B> 
+<ICE-PHI:S1A-093#72:1:B>
+Why
+
+<$A> 
+<ICE-PHI:S1A-093#73:1:A>
+Oh my God
+
+<ICE-PHI:S1A-093#74:1:A>
+I 'm I 'm so nervous
+
+<$B> 
+<ICE-PHI:S1A-093#75:1:B>
+Why are you nervous
+
+<$A> 
+<ICE-PHI:S1A-093#76:1:A>
+Because I 'm with Attorney Bautista
+
+<ICE-PHI:S1A-093#77:1:A>
+I 'm going to talk to him <{> <[> about anything </[>
+
+<$B> 
+<ICE-PHI:S1A-093#78:1:B>
+<[> But you 've </[> </{> never been my student
+
+<ICE-PHI:S1A-093#79:1:B>
+We 've <{> <[> never been </[> I 've never had the privilege of
+teaching you
+
+<$A> 
+<ICE-PHI:S1A-093#80:1:A>
+Uh yes Sir
+
+<$B> 
+<ICE-PHI:S1A-093#81:1:B>
+So don 't feel nervous
+
+<$A> 
+<ICE-PHI:S1A-093#82:1:A>
+<&> chuckle </&> I 'm really sorry
+
+<ICE-PHI:S1A-093#83:1:A>
+I mean oh my God I mean I don 't know what to say oh my God
+
+<$B> 
+<ICE-PHI:S1A-093#84:1:B>
+<&> laughter </&> Let 's talk about your uh your family
+
+<ICE-PHI:S1A-093#85:1:B>
+How many brothers and sisters do you have
+
+<$A> 
+<ICE-PHI:S1A-093#86:1:A>
+Oh we are only two
+
+<$B> 
+<ICE-PHI:S1A-093#87:1:B>
+Uh
+
+<$A> 
+<ICE-PHI:S1A-093#88:1:A>
+Yes I only have one sister
+
+<ICE-PHI:S1A-093#89:1:A>
+We 're both girls
+
+<ICE-PHI:S1A-093#90:1:A>
+<{> <[> Yes </[>
+
+<$B> 
+<ICE-PHI:S1A-093#91:1:B>
+<[> I see </[> </{>
+
+<ICE-PHI:S1A-093#92:1:B>
+And you are the elder or the <.> young </.>
+
+<$A> 
+<ICE-PHI:S1A-093#93:1:A>
+I 'm the eldest
+
+<$B> 
+<ICE-PHI:S1A-093#94:1:B>
+You 're the elder <{> <[> daughter </{> of your uh <,> of Mr
+<@> Valenzuela </@> <&> speaker A chuckles </&>
+
+<$A> 
+<ICE-PHI:S1A-093#95:1:A>
+<[> Yes </[> </{>
+
+<ICE-PHI:S1A-093#96:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-093#97:1:B>
+Uh-huh and what does your mom do
+
+<$A> 
+<ICE-PHI:S1A-093#98:1:A>
+Uhm my mom <unclear> words </unclear> she 's a housewife but
+uhm she can sometimes she can can uhm what do you call this teach <indig> ay
+</indig> she does some tutorial jobs something like that yes to high school
+students because
+
+<$B> 
+<ICE-PHI:S1A-093#99:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-093#100:1:A>
+She <indig> ano </indig> when she <.> wa </.> she was in
+college she was taking liberal arts
+
+<$B> 
+<ICE-PHI:S1A-093#101:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-093#102:1:A>
+But then unluckily she she she did not uhm make it to the uh
+what do you call this to the last year of her studies because she got married
+
+<$B> 
+<ICE-PHI:S1A-093#103:1:B>
+Oh
+
+<$A> 
+<ICE-PHI:S1A-093#104:1:A>
+Yes
+
+<ICE-PHI:S1A-093#105:1:A>
+But then then it 's okay with her because well being a plain
+housewife and being a very good mom is you know
+
+<$B> 
+<ICE-PHI:S1A-093#106:1:B>
+Well don 't I don 't think we should uh <,> uh use the
+adjective <mention> plain </mention> <{1> <[1> when </[1> it comes to
+<mention> housewife </mention> <{2> <[2> because </[2> it sounds a bit
+derogatory <{3> <[3> you know </[3>
+
+<$A> 
+<ICE-PHI:S1A-093#107:1:A>
+<[1> Uh okay </[1> </{1> so
+
+<ICE-PHI:S1A-093#108:1:A>
+<[2> Uh okay </[2> </{2>
+
+<ICE-PHI:S1A-093#109:1:A>
+<[3> Yeah yeah </[3> </{3>
+
+<$B> 
+<ICE-PHI:S1A-093#110:1:B>
+It doesn 't sound right but well of course that 's what we hear
+<indig> ‘no </indig>
+
+<ICE-PHI:S1A-093#111:1:B>
+We always have that impression when uh when a a mother does not
+work she is just a plain housewife
+
+<$A> 
+<ICE-PHI:S1A-093#112:1:A>
+Yes oh
+
+<$B> 
+<ICE-PHI:S1A-093#113:1:B>
+But in reality <{1> <[1> <,> </[1> uh they <.> the </.> these
+these individuals are these are the silent and the <foreign> bonafide
+</foreign> <{2> <[2> heroes </[2> of of our uh of our community
+
+<$A> 
+<ICE-PHI:S1A-093#114:1:A>
+<[1> Uh-huh </[1> </{1>
+
+<ICE-PHI:S1A-093#115:1:A>
+<[2> Uh-hmmmh </[2> </{2>
+
+<$B> 
+<ICE-PHI:S1A-093#116:1:B>
+Had it not been for your mom <indig> di ba </indig> <{1> <[1>
+<,> </[1> there would be a a I mean you would not be where you are today and
+uh you really owe her a lot in the sense that uh her <,> she has given you
+the her gift of presence
+
+<ICE-PHI:S1A-093#117:1:B>
+That 's one thing that working moms and working dads cannot give
+their children
+
+<ICE-PHI:S1A-093#118:1:B>
+And their children as you have just pointed out <{2> <[2> you 're
+</[2> already you 're already a young lady and yet you miss your father
+
+<$A> 
+<ICE-PHI:S1A-093#119:1:A>
+<[1> Uh-huh </[1> </{1>
+
+<ICE-PHI:S1A-093#120:1:A>
+<[2> Yes </[2> </{2>
+
+<ICE-PHI:S1A-093#121:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-093#122:1:B>
+You 're already I believe of voting age <,> are you not
+
+<$A> 
+<ICE-PHI:S1A-093#123:1:A>
+Uhm <{> <[> uh </[>
+
+<$B> 
+<ICE-PHI:S1A-093#124:1:B>
+<[> Not </[> </{> yet
+
+<$A> 
+<ICE-PHI:S1A-093#125:1:A>
+Not yet but actually I 'll be turning eighteen in July <indig>
+na </indig>
+
+<$B> 
+<ICE-PHI:S1A-093#126:1:B>
+Oh so, you 're going to celebrate your debut
+
+<ICE-PHI:S1A-093#127:1:B>
+Anyway as I was saying uh well children need the presence of at
+least one parent <.> whi </.> while
+
+<$A> 
+<ICE-PHI:S1A-093#128:1:A>
+Yes that 's true
+
+<$B> 
+<ICE-PHI:S1A-093#129:1:B>
+But of course uh the reality is that uh our uh demands our uh
+our milieu our environment is is such a way that uh we no longer have the
+presence of in some cases <indig> ‘no </indig> both parents because both are
+either working abroad <{> <[> <,> </[> or they send their children to the <.>
+prov </.> uh to to Manila and they are province-based
+
+<ICE-PHI:S1A-093#130:1:B>
+Therefore they don 't see their children because of these certain
+uh <,> uh realities whether they are economic realities or social uh <,> uh
+realities
+
+<ICE-PHI:S1A-093#131:1:B>
+Some things we just have to accept
+
+<$A> 
+<ICE-PHI:S1A-093#132:1:A>
+<[> Uh-hmmmh </[> </{>
+
+<ICE-PHI:S1A-093#133:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-093#134:1:B>
+But I guess in your case you can still be thankful because
+
+<$A> 
+<ICE-PHI:S1A-093#135:1:A>
+Of course
+
+<$B> 
+<ICE-PHI:S1A-093#136:1:B>
+Because your mom is around and your father while he is
+working abroad
+
+<ICE-PHI:S1A-093#137:1:B>
+By the way <{> <[> uh </[> is he is he working in the States
+
+<$A> 
+<ICE-PHI:S1A-093#138:1:A>
+<[> Yes </[> </{>
+
+<ICE-PHI:S1A-093#139:1:A>
+Yes he is
+
+<$B> 
+<ICE-PHI:S1A-093#140:1:B>
+Uh so he is working in the World Bank
+
+<ICE-PHI:S1A-093#141:1:B>
+Is that in New York or is it in uh is it in uh <{> <[> Washington
+</[> D C
+
+<$A> 
+<ICE-PHI:S1A-093#142:1:A>
+<[> Washington </[> </{> D C
+
+<$B> 
+<ICE-PHI:S1A-093#143:1:B>
+<indig> Ayan </indig> Washington D C
+
+<$A> 
+<ICE-PHI:S1A-093#144:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-093#145:1:B>
+So when is he scheduled to come back and pay you a visit
+
+<$A> 
+<ICE-PHI:S1A-093#146:1:A>
+Actually he doesn 't have any plans of coming back here in the
+Philippines because he he he wants to uh bring millions of dollars first <&>
+chuckle </&>
+
+<$B> 
+<ICE-PHI:S1A-093#147:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-093#148:1:A>
+Here and uh he wants me to finish first my studies
+
+<$B> 
+<ICE-PHI:S1A-093#149:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-093#150:1:A>
+Yes
+
+<ICE-PHI:S1A-093#151:1:A>
+He he has his personal uhm uh he he has his personal what do you
+call it
+
+<ICE-PHI:S1A-093#152:1:A>
+<indig> Nawala na ‘ko </indig>
+
+<$B> 
+<ICE-PHI:S1A-093#153:1:B>
+<quote> He has his personal </quote>
+
+<$A> 
+<ICE-PHI:S1A-093#154:1:A>
+Uhm plans for yes for the future
+
+<ICE-PHI:S1A-093#155:1:A>
+So I don 't know
+
+<ICE-PHI:S1A-093#156:1:A>
+I 'm always asking him <{> <[> but </[>
+
+<$B> 
+<ICE-PHI:S1A-093#157:1:B>
+<[> So </[> </{> he 's not coming back to you let 's say
+Christmas visit
+
+<$A> 
+<ICE-PHI:S1A-093#158:1:A>
+No no he 's not
+
+<$B> 
+<ICE-PHI:S1A-093#159:1:B>
+Oh
+
+<$A> 
+<ICE-PHI:S1A-093#160:1:A>
+Yes that 's very actually that 's very sad but then it 's okay
+
+<$B> 
+<ICE-PHI:S1A-093#161:1:B>
+Are you sure about this
+
+<$A> 
+<ICE-PHI:S1A-093#162:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-093#163:1:B>
+How do you know that he has no plans of paying you a visit
+this Christmas
+
+<$A> 
+<ICE-PHI:S1A-093#164:1:A>
+Uhm we were always talking about it <indig> e </indig> and
+actually every time he 's telling me that thing I 'm always crying because I
+really really miss him a lot
+
+<$B> 
+<ICE-PHI:S1A-093#165:1:B>
+Uh you are a mama 's <.> gir </.> uh a <.> ma </.> uh a papa 's
+girl
+
+<$A> 
+<ICE-PHI:S1A-093#166:1:A>
+Actually no
+
+<ICE-PHI:S1A-093#167:1:A>
+<{> <[> When he </[>
+
+<$B> 
+<ICE-PHI:S1A-093#168:1:B>
+<[> Oh </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-093#169:1:A>
+Here 's the story
+
+<ICE-PHI:S1A-093#170:1:A>
+When he was still here in the Philippines I used to hate him <{>
+<[> because </[> of some things that I don 't understand
+
+<$B> 
+<ICE-PHI:S1A-093#171:1:B>
+<[> Uh-huh </[> </{>
+
+<ICE-PHI:S1A-093#172:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-093#173:1:A>
+But then when he 's gone <,> <{> <[> uhm </[>
+
+<$B> 
+<ICE-PHI:S1A-093#174:1:B>
+<[> When </[> </{> he 's out
+
+<$A> 
+<ICE-PHI:S1A-093#175:1:A>
+Yes when he went there <{> <[> I </[> understand all of those
+things why why he 's doing that thing
+
+<$B> 
+<ICE-PHI:S1A-093#176:1:B>
+<[> Okay </[> </{>
+
+<ICE-PHI:S1A-093#177:1:B>
+Oh
+
+<$A> 
+<ICE-PHI:S1A-093#178:1:A>
+Or it 's just because of for us it 's because of us it 's all
+for us
+
+<$B> 
+<ICE-PHI:S1A-093#179:1:B>
+Okay okay
+
+<ICE-PHI:S1A-093#180:1:B>
+Wait
+
+<ICE-PHI:S1A-093#181:1:B>
+What is your nickname
+
+<$A> 
+<ICE-PHI:S1A-093#182:1:A>
+<@> Pat </@>
+
+<$B> 
+<ICE-PHI:S1A-093#183:1:B>
+<@> Pat </@>
+
+<$A> 
+<ICE-PHI:S1A-093#184:1:A>
+You can call me <@> Pat </@> or <@> Patis </@>
+
+<ICE-PHI:S1A-093#185:1:A>
+My parents used to call me <@> Patis </@> <&> chuckle </&>
+
+<$B> 
+<ICE-PHI:S1A-093#186:1:B>
+Okay <@> Pat </@>
+
+<ICE-PHI:S1A-093#187:1:B>
+Take a deep breath <&> speaker A takes a deep breath </&>
+
+<ICE-PHI:S1A-093#188:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-093#189:1:A>
+Okay
+
+<$B> 
+<ICE-PHI:S1A-093#190:1:B>
+Now you are more relaxed
+
+<ICE-PHI:S1A-093#191:1:B>
+Are you relaxed
+
+<$A> 
+<ICE-PHI:S1A-093#192:1:A>
+<&> speaker A takes a deep breath </&> Okay
+
+<$B> 
+<ICE-PHI:S1A-093#193:1:B>
+You have to take uh a deep breath when you are uh nervous or
+agitated or when you 're made to speak before an audience of two thousand
+three thousand people
+
+<$A> 
+<ICE-PHI:S1A-093#194:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-093#195:1:B>
+You know you have to take a deep breath
+
+<ICE-PHI:S1A-093#196:1:B>
+That <{> <[> is one </[> thing that we should remember <&> speaker
+A chuckles </&> when we especially when we speak in front of an audience
+
+<$A> 
+<ICE-PHI:S1A-093#197:1:A>
+<[> Uh-hmmmh </[> </{>
+
+<ICE-PHI:S1A-093#198:1:A>
+Yes thank you <{> <[> so much </[>
+
+<$B> 
+<ICE-PHI:S1A-093#199:1:B>
+<[> Remember </[> </{> that while while you cannot see me
+visually
+
+<$A> 
+<ICE-PHI:S1A-093#200:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-093#201:1:B>
+Uh and that 's why I see no reason why you have to be nervous
+<&> speaker A chuckles </&> or or anxious
+
+<ICE-PHI:S1A-093#202:1:B>
+Uh these these uh tips that I give you when you speak before an
+audience you have to produce this uh aura of control of of confidence of
+strength and we can only do this if you know if we are uh how can we put it
+<indig> ‘no </indig> if we are in a state of relaxation
+
+<$A> 
+<ICE-PHI:S1A-093#203:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-093#204:1:B>
+It 's it actually it 's a how would you it 's a you draw a fine
+line between a relaxed uh mode and a tense mode
+
+<$A> 
+<ICE-PHI:S1A-093#205:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-093#206:1:B>
+But you got to be more on the relaxed mode
+
+<ICE-PHI:S1A-093#207:1:B>
+That way you can produce that aura uh
+
+<ICE-PHI:S1A-093#208:1:B>
+So that 's one thing that you need to remember when you when Mr
+Flores is going to ask you to speak in front of an audience or conduct an
+interview <,>
+
+<ICE-PHI:S1A-093#209:1:B>
+Exhale inhale exhale
+
+<$A> 
+<ICE-PHI:S1A-093#210:1:A>
+Exhale
+
+<$B> 
+<ICE-PHI:S1A-093#211:1:B>
+Now let 's go back to the topic
+
+<$A> 
+<ICE-PHI:S1A-093#212:1:A>
+Okay
+
+<$B> 
+<ICE-PHI:S1A-093#213:1:B>
+You said you hated your father
+
+<ICE-PHI:S1A-093#214:1:B>
+I am pretty <{> <[> surprised </[>
+
+<$A> 
+<ICE-PHI:S1A-093#215:1:A>
+<[> Yes because </[> </{> before
+
+<$B> 
+<ICE-PHI:S1A-093#216:1:B>
+Why did you hate your father
+
+<ICE-PHI:S1A-093#217:1:B>
+Your father is your father
+
+<ICE-PHI:S1A-093#218:1:B>
+How can you hate your father
+
+<$A> 
+<ICE-PHI:S1A-093#219:1:A>
+Uhm <,> uh it 's just that before before he 's not that close
+to me and you know uhm <,> I mean <,> nothing
+
+<ICE-PHI:S1A-093#220:1:A>
+It 's just he was working
+
+<ICE-PHI:S1A-093#221:1:A>
+He 's always at work
+
+<$B> 
+<ICE-PHI:S1A-093#222:1:B>
+Uh-huh
+
+<ICE-PHI:S1A-093#223:1:B>
+Was he working for a bank before he <{> <[> got his job at the
+World Bank </[>
+
+<$A> 
+<ICE-PHI:S1A-093#224:1:A>
+<[> He 's working </[> </{> at Commission on Audit before
+
+<$B> 
+<ICE-PHI:S1A-093#225:1:B>
+Oh
+
+<$A> 
+<ICE-PHI:S1A-093#226:1:A>
+Yes he worked there for I think five years
+
+<$B> 
+<ICE-PHI:S1A-093#227:1:B>
+<{> <[> Wow and before </[> that where did he where did he
+work
+
+<$A> 
+<ICE-PHI:S1A-093#228:1:A>
+<[> Yes and then </[> </{> uhm only there he started uh his
+work there <indig> sa </indig> in COA
+
+<$B> 
+<ICE-PHI:S1A-093#229:1:B>
+In COA
+
+<$A> 
+<ICE-PHI:S1A-093#230:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-093#231:1:B>
+But he he 's only been in World Bank for two years
+
+<$A> 
+<ICE-PHI:S1A-093#232:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-093#233:1:B>
+Wow
+
+<ICE-PHI:S1A-093#234:1:B>
+So there was a time when your dad didn 't work
+
+<$A> 
+<ICE-PHI:S1A-093#235:1:A>
+Yes yes
+
+<ICE-PHI:S1A-093#236:1:A>
+Uhm when I <.> wa </.> that was then two years
+
+<$B> 
+<ICE-PHI:S1A-093#237:1:B>
+Oh
+
+<$A> 
+<ICE-PHI:S1A-093#238:1:A>
+He he decided to just you know stop working and take a rest
+for a while
+
+<$B> 
+<ICE-PHI:S1A-093#239:1:B>
+And how did he how how how was he able to support you in
+terms of education your <{> <[> your </[> your daily sustenance
+
+<$A> 
+<ICE-PHI:S1A-093#240:1:A>
+Uh he has his savings
+
+<$B> 
+<ICE-PHI:S1A-093#241:1:B>
+Uh <{> <[> he has </[>
+
+<$A> 
+<ICE-PHI:S1A-093#242:1:A>
+<[> Already </[> </{>
+
+<ICE-PHI:S1A-093#243:1:A>
+Yes of which uhm enough for my high school
+
+<ICE-PHI:S1A-093#244:1:A>
+Actually that was only two years so my third year and my fourth
+year
+
+<$B> 
+<ICE-PHI:S1A-093#245:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-093#246:1:A>
+It 's okay
+
+<ICE-PHI:S1A-093#247:1:A>
+I I lived uhm you know I graduated in graduated in a private
+school so
+
+<$B> 
+<ICE-PHI:S1A-093#248:1:B>
+Where was this
+
+<$A> 
+<ICE-PHI:S1A-093#249:1:A>
+Uhm at Roosevelt College San Mateo Branch
+
+<$B> 
+<ICE-PHI:S1A-093#250:1:B>
+Uh yes I think I I know that that school
+
+<ICE-PHI:S1A-093#251:1:B>
+That is along J P Rizal
+
+<$A> 
+<ICE-PHI:S1A-093#252:1:A>
+Uh yes
+
+<$B> 
+<ICE-PHI:S1A-093#253:1:B>
+Correct
+
+<$A> 
+<ICE-PHI:S1A-093#254:1:A>
+Actually that was Lamuan Lamuan Branch <{> <[> the one </[>
+in the
+
+<$B> 
+<ICE-PHI:S1A-093#255:1:B>
+<[> That 's Marikina </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-093#256:1:A>
+Yes yes that 's it
+
+<ICE-PHI:S1A-093#257:1:A>
+Uh my school is near us it 's in San Mateo
+
+<$B> 
+<ICE-PHI:S1A-093#258:1:B>
+Uh I I think opposite that 's in the opposite because I think
+there 's also a Roosevelt uh School in Marikina
+
+<$A> 
+<ICE-PHI:S1A-093#259:1:A>
+Uh-huh yes
+
+<$B> 
+<ICE-PHI:S1A-093#260:1:B>
+Is there is there a school
+
+<$A> 
+<ICE-PHI:S1A-093#261:1:A>
+There is that is that is Lamuan
+
+<$B> 
+<ICE-PHI:S1A-093#262:1:B>
+Uh-hmmmh
+
+<$A> 
+<ICE-PHI:S1A-093#263:1:A>
+Roosevelt Lamuan
+
+<$B> 
+<ICE-PHI:S1A-093#264:1:B>
+So uh what other things are you required to improve your
+English communication skills aside from uh uh talking uh or rather conversing
+with your teachers over the phone
+
+<ICE-PHI:S1A-093#265:1:B>
+What other exercise did Mr Flores ask you
+
+<$A> 
+<ICE-PHI:S1A-093#266:1:A>
+I think uhm reading
+
+<$B> 
+<ICE-PHI:S1A-093#267:1:B>
+Reading
+
+<$A> 
+<ICE-PHI:S1A-093#268:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-093#269:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-093#270:1:A>
+But I do love reading
+
+<$B> 
+<ICE-PHI:S1A-093#271:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-093#272:1:A>
+But then you know we we can uh uh develop our speaking <{>
+<[> skills </[> through reading right
+
+<$B> 
+<ICE-PHI:S1A-093#273:1:B>
+<{> <[> <@> Pat </@> </[>
+
+<ICE-PHI:S1A-093#274:1:B>
+<@> Pat </@> hold it uh
+
+<$A> 
+<ICE-PHI:S1A-093#275:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-093#276:1:B>
+<&> interruption </&> That is the the occupational hazard
+
+<$A> 
+<ICE-PHI:S1A-093#277:1:A>
+Ha ha ha
+
+<$B> 
+<ICE-PHI:S1A-093#278:1:B>
+<indig> Ayan </indig>
+
+<ICE-PHI:S1A-093#279:1:B>
+Wait
+
+<ICE-PHI:S1A-093#280:1:B>
+So where are you now
+
+<$A> 
+<ICE-PHI:S1A-093#281:1:A>
+What do you mean where am I now
+
+<$B> 
+<ICE-PHI:S1A-093#282:1:B>
+Are you in are you in uh S P C
+
+<$A> 
+<ICE-PHI:S1A-093#283:1:A>
+Uh yes <,> yes
+
+<ICE-PHI:S1A-093#284:1:A>
+I am now in second year college
+
+<$B> 
+<ICE-PHI:S1A-093#285:1:B>
+No I mean <{> <[> I mean </[> the phone
+
+<$A> 
+<ICE-PHI:S1A-093#286:1:A>
+Ahh I 'm I 'm at home
+
+<$B> 
+<ICE-PHI:S1A-093#287:1:B>
+Oh
+
+<$A> 
+<ICE-PHI:S1A-093#288:1:A>
+Oh yes
+
+<$B> 
+<ICE-PHI:S1A-093#289:1:B>
+And this is <.> ne </.> near San Mateo
+
+<$A> 
+<ICE-PHI:S1A-093#290:1:A>
+Yes Sir
+
+<$B> 
+<ICE-PHI:S1A-093#291:1:B>
+I see <&> speaker A chuckles </&>
+
+<ICE-PHI:S1A-093#292:1:B>
+How long do you do you spend uh your uh waking hours on the phone
+<&> laughter </&>
+
+<$A> 
+<ICE-PHI:S1A-093#293:1:A>
+Uhm actually I 'm not you know I 'm not fond of uh talking on
+the phone
+
+<$B> 
+<ICE-PHI:S1A-093#294:1:B>
+Good
+
+<ICE-PHI:S1A-093#295:1:B>
+That 's good
+
+<$A> 
+<ICE-PHI:S1A-093#296:1:A>
+Because because you know I do I uh uh I mean I prefer to do a
+lot more things in school
+
+<ICE-PHI:S1A-093#297:1:A>
+I mean I mean reading like doing my assignments than rather than
+speaking with someone else on the <{> <[> phone </[>
+
+<$B> 
+<ICE-PHI:S1A-093#298:1:B>
+<[> Correct </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-093#299:1:A>
+Because it 's not worth you know it 's not worth doing
+
+<$B> 
+<ICE-PHI:S1A-093#300:1:B>
+Did did were you provided a reading list this semester a list
+of uh literature of books that uh <,> uh you have to <,> uh
+
+<$A> 
+<ICE-PHI:S1A-093#301:1:A>
+Uh uh yeah
+
+<ICE-PHI:S1A-093#302:1:A>
+Uh no actually uhm <,> uhm <,> uhm most of our teachers they
+didn 't <indig> ano </indig> they don 't assign books
+
+<ICE-PHI:S1A-093#303:1:A>
+I mean <{1> <[1> <,> </[1> they don 't give us some uh list of
+books of which we can use <,> no
+
+<ICE-PHI:S1A-093#304:1:A>
+They just you know let us they will just ask us to read uhm or to
+find a book which fits the topic that he is giving us but not necessarily
+<{2> <[2> <,> </[2> he is giving this particular book for us to read
+
+<ICE-PHI:S1A-093#305:1:A>
+Aside from Mr Flores he gave <{3> <[3> <,> </[3> he always he is
+always giving us references
+
+<ICE-PHI:S1A-093#306:1:A>
+So that is good for us I I uh at least we can uhm you know we can
+have these references with us unlike you know cramming and looking for <{>
+<[> something </[>
+
+<$B> 
+<ICE-PHI:S1A-093#307:1:B>
+<[1> Uh </[1> </{1>
+
+<ICE-PHI:S1A-093#308:1:B>
+<[2> Uh-hmmmh </[2> </{2>
+
+<ICE-PHI:S1A-093#309:1:B>
+<[3> Okay </[3> </{3>
+
+<ICE-PHI:S1A-093#310:1:B>
+<[> Have you </[> </{> ever checked any of those references
+
+<$A> 
+<ICE-PHI:S1A-093#311:1:A>
+Yes I did
+
+<ICE-PHI:S1A-093#312:1:A>
+Actually I just bought the other one
+
+<ICE-PHI:S1A-093#313:1:A>
+What was that </I> 

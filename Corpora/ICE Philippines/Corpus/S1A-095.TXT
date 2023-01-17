@@ -1,0 +1,1667 @@
+<I>
+
+<$A> 
+<ICE-PHI:S1A-095#1:1:A>
+Hello
+
+<ICE-PHI:S1A-095#2:1:A>
+Who 's on the line
+
+<$B> 
+<ICE-PHI:S1A-095#3:1:B>
+This is Hannah your former student
+
+<$A> 
+<ICE-PHI:S1A-095#4:1:A>
+Hi Hannah
+
+<ICE-PHI:S1A-095#5:1:A>
+How are you
+
+<$B> 
+<ICE-PHI:S1A-095#6:1:B>
+I 'm fine Ma'am
+
+<ICE-PHI:S1A-095#7:1:B>
+And you
+
+<$A> 
+<ICE-PHI:S1A-095#8:1:A>
+What a surprise call
+
+<ICE-PHI:S1A-095#9:1:A>
+Where are you right now
+
+<ICE-PHI:S1A-095#10:1:A>
+Are you home
+
+<$B> 
+<ICE-PHI:S1A-095#11:1:B>
+Yes Ma'am I 'm at home
+
+<$A> 
+<ICE-PHI:S1A-095#12:1:A>
+Ahh how 's how 's U P
+
+<ICE-PHI:S1A-095#13:1:A>
+You 're in U P right <indig> 'no </indig> right
+
+<$B> 
+<ICE-PHI:S1A-095#14:1:B>
+Yeah I 'm in U P Manila Political Science
+
+<$A> 
+<ICE-PHI:S1A-095#15:1:A>
+Ahh U P Manila
+
+<ICE-PHI:S1A-095#16:1:A>
+I thought you 're in Quezon City
+
+<$B> 
+<ICE-PHI:S1A-095#17:1:B>
+No Ma'am because U P Diliman is very far from us <{> <[> it 's
+not </[> practical for me
+
+<$A> 
+<ICE-PHI:S1A-095#18:1:A>
+<[> Oh good </[> </{>
+
+<ICE-PHI:S1A-095#19:1:A>
+Uhm I 'm so happy uh you really pursue your choice of career
+
+<ICE-PHI:S1A-095#20:1:A>
+Is it really your own choice
+
+<$B> 
+<ICE-PHI:S1A-095#21:1:B>
+Yes yes
+
+<$A> 
+<ICE-PHI:S1A-095#22:1:A>
+Uh
+
+<$B> 
+<ICE-PHI:S1A-095#23:1:B>
+My choice
+
+<$A> 
+<ICE-PHI:S1A-095#24:1:A>
+Do you go to U P every day
+
+<$B> 
+<ICE-PHI:S1A-095#25:1:B>
+No Ma'am
+
+<ICE-PHI:S1A-095#26:1:B>
+We have no classes on Wednesdays
+
+<$A> 
+<ICE-PHI:S1A-095#27:1:A>
+Uh every Wednesday you 're free
+
+<ICE-PHI:S1A-095#28:1:A>
+So tomorrow you 'll be home
+
+<$B> 
+<ICE-PHI:S1A-095#29:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#30:1:A>
+So what do you usually do on Wednesday
+
+<$B> 
+<ICE-PHI:S1A-095#31:1:B>
+Normal things
+
+<$A> 
+<ICE-PHI:S1A-095#32:1:A>
+Normal things
+
+<$B> 
+<ICE-PHI:S1A-095#33:1:B>
+I clean the house
+
+<$A> 
+<ICE-PHI:S1A-095#34:1:A>
+Ahh you do
+
+<ICE-PHI:S1A-095#35:1:A>
+Do you really help
+
+<$B> 
+<ICE-PHI:S1A-095#36:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#37:1:A>
+Uh uh I forgot
+
+<ICE-PHI:S1A-095#38:1:A>
+Are you the only child in the family
+
+<$B> 
+<ICE-PHI:S1A-095#39:1:B>
+No Ma'am <{> <[> I have </[> a brother an older brother
+
+<$A> 
+<ICE-PHI:S1A-095#40:1:A>
+<[> Uh-huh </[> </{>
+
+<ICE-PHI:S1A-095#41:1:A>
+Ahh older brother
+
+<ICE-PHI:S1A-095#42:1:A>
+Is is he married
+
+<$B> 
+<ICE-PHI:S1A-095#43:1:B>
+No he 's a junior in U P Manila
+
+<$A> 
+<ICE-PHI:S1A-095#44:1:A>
+Ahh junior
+
+<$B> 
+<ICE-PHI:S1A-095#45:1:B>
+Political Science
+
+<$A> 
+<ICE-PHI:S1A-095#46:1:A>
+So two years older than you
+
+<$B> 
+<ICE-PHI:S1A-095#47:1:B>
+No only one year
+
+<$A> 
+<ICE-PHI:S1A-095#48:1:A>
+Ahh only one year
+
+<$B> 
+<ICE-PHI:S1A-095#49:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#50:1:A>
+Uh was he accelerated
+
+<$B> 
+<ICE-PHI:S1A-095#51:1:B>
+No no he is not
+
+<$A> 
+<ICE-PHI:S1A-095#52:1:A>
+You 're you 're a froshie right a first year student
+
+<$B> 
+<ICE-PHI:S1A-095#53:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#54:1:A>
+Uhm how are your classmates
+
+<$B> 
+<ICE-PHI:S1A-095#55:1:B>
+My classmates they 're okay
+
+<$A> 
+<ICE-PHI:S1A-095#56:1:A>
+They 're okay
+
+<ICE-PHI:S1A-095#57:1:A>
+Are you still seeing each other
+
+<$B> 
+<ICE-PHI:S1A-095#58:1:B>
+Ahh my classmates in V Mapa
+
+<$A> 
+<ICE-PHI:S1A-095#59:1:A>
+In V Mapa
+
+<$B> 
+<ICE-PHI:S1A-095#60:1:B>
+Ahh
+
+<ICE-PHI:S1A-095#61:1:B>
+We haven’t seen each other
+
+<ICE-PHI:S1A-095#62:1:B>
+The last time we saw each other was during uhm uh two <,> two weeks
+
+<$A> 
+<ICE-PHI:S1A-095#63:1:A>
+Ahh two weeks ago
+
+<$B> 
+<ICE-PHI:S1A-095#64:1:B>
+Yes yes two weeks ago Ma'am
+
+<$A> 
+<ICE-PHI:S1A-095#65:1:A>
+Where did you meet
+
+<$B> 
+<ICE-PHI:S1A-095#66:1:B>
+We went to S M Manila
+
+<$A> 
+<ICE-PHI:S1A-095#67:1:A>
+Oh
+
+<$B> 
+<ICE-PHI:S1A-095#68:1:B>
+We watched the opening of Harry Potter Three
+
+<$A> 
+<ICE-PHI:S1A-095#69:1:A>
+Wow
+
+<ICE-PHI:S1A-095#70:1:A>
+How many were you
+
+<$B> 
+<ICE-PHI:S1A-095#71:1:B>
+Uhm Don-don Janal Ahrold Jescel Sienna Maybelle Ningning eight
+
+<ICE-PHI:S1A-095#72:1:B>
+There were eight of us
+
+<$A> 
+<ICE-PHI:S1A-095#73:1:A>
+Ahh so you were eight
+
+<ICE-PHI:S1A-095#74:1:A>
+How did you find the movie
+
+<$B> 
+<ICE-PHI:S1A-095#75:1:B>
+It was disappointing
+
+<$A> 
+<ICE-PHI:S1A-095#76:1:A>
+Why
+
+<$B> 
+<ICE-PHI:S1A-095#77:1:B>
+Very disappointing
+
+<$A> 
+<ICE-PHI:S1A-095#78:1:A>
+How come many went to see that film
+
+<$B> 
+<ICE-PHI:S1A-095#79:1:B>
+Because the story the story in the movie was very different
+from the story in the book
+
+<$A> 
+<ICE-PHI:S1A-095#80:1:A>
+Ahh in the book
+
+<ICE-PHI:S1A-095#81:1:A>
+So it means you have read the book .
+
+<$B> 
+<ICE-PHI:S1A-095#82:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#83:1:A>
+Is it right that there are three books
+
+<$B> 
+<ICE-PHI:S1A-095#84:1:B>
+No Ma'am
+
+<ICE-PHI:S1A-095#85:1:B>
+There there are five books now
+
+<$A> 
+<ICE-PHI:S1A-095#86:1:A>
+Ahh five books
+
+<$B> 
+<ICE-PHI:S1A-095#87:1:B>
+Five books
+
+<$A> 
+<ICE-PHI:S1A-095#88:1:A>
+I guess uh I think it 's the other story
+
+<ICE-PHI:S1A-095#89:1:A>
+What story is that that there are three books
+
+<$B> 
+<ICE-PHI:S1A-095#90:1:B>
+Uh uh Lord of the Rings
+
+<$A> 
+<ICE-PHI:S1A-095#91:1:A>
+Yeah I remember
+
+<ICE-PHI:S1A-095#92:1:A>
+Ahh yeah right Lord of the Rings
+
+<ICE-PHI:S1A-095#93:1:A>
+It 's already complete right
+
+<ICE-PHI:S1A-095#94:1:A>
+The three the three books are were already shown yes in the movies
+
+<ICE-PHI:S1A-095#95:1:A>
+Have you seen all the three
+
+<$B> 
+<ICE-PHI:S1A-095#96:1:B>
+No because I didn’t I don’t like Lord of the Rings <{> <[> <,>
+</[> I think it 's too dark
+
+<$A> 
+<ICE-PHI:S1A-095#97:1:A>
+<[> Uh </[> </{>
+
+<ICE-PHI:S1A-095#98:1:A>
+Uh why did you say you were disappointed in Harry Potter
+
+<$B> 
+<ICE-PHI:S1A-095#99:1:B>
+Because the story was very unlike the story in the book
+
+<$A> 
+<ICE-PHI:S1A-095#100:1:A>
+Ahh <{> <[> so </[>
+
+<$B> 
+<ICE-PHI:S1A-095#101:1:B>
+<[> There were </[> </{> many changes
+
+<$A> 
+<ICE-PHI:S1A-095#102:1:A>
+Ahh there are many changes
+
+<$B> 
+<ICE-PHI:S1A-095#103:1:B>
+If you haven’t read the book you wouldn’t understand the
+movie
+
+<$A> 
+<ICE-PHI:S1A-095#104:1:A>
+Uh-huh
+
+<ICE-PHI:S1A-095#105:1:A>
+So that 's it
+
+<ICE-PHI:S1A-095#106:1:A>
+What about Troy
+
+<ICE-PHI:S1A-095#107:1:A>
+Have you seen it
+
+<$B> 
+<ICE-PHI:S1A-095#108:1:B>
+Troy
+
+<ICE-PHI:S1A-095#109:1:B>
+Uhm not yet
+
+<$A> 
+<ICE-PHI:S1A-095#110:1:A>
+Not yet
+
+<ICE-PHI:S1A-095#111:1:A>
+Anyway you know the story
+
+<ICE-PHI:S1A-095#112:1:A>
+But if you are a fan of Brad Pitt <{1> <[1> for sure </[1> you 'll
+go <{2> <[2> to see </[2> the movie
+
+<$B> 
+<ICE-PHI:S1A-095#113:1:B>
+<[1> <&> chuckle </&> </[1> </{1>
+
+<ICE-PHI:S1A-095#114:1:B>
+<[2> I 'm not </[2> </{2>
+
+<$A> 
+<ICE-PHI:S1A-095#115:1:A>
+You 're not
+
+<ICE-PHI:S1A-095#116:1:A>
+Okay
+
+<ICE-PHI:S1A-095#117:1:A>
+You see my co-teachers went to see that movie
+
+<ICE-PHI:S1A-095#118:1:A>
+<{> <[> I think there were </[>
+
+<$B> 
+<ICE-PHI:S1A-095#119:1:B>
+<[> Have you seen it Ma'am </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-095#120:1:A>
+Ten of them your former teachers
+
+<ICE-PHI:S1A-095#121:1:A>
+Teachers in the Old Building
+
+<ICE-PHI:S1A-095#122:1:A>
+They went to see that movie last last week <,>
+
+<ICE-PHI:S1A-095#123:1:A>
+Tell me about your classmates
+
+<$B> 
+<ICE-PHI:S1A-095#124:1:B>
+My new classmates
+
+<$A> 
+<ICE-PHI:S1A-095#125:1:A>
+Yeah your new classmates
+
+<$B> 
+<ICE-PHI:S1A-095#126:1:B>
+Most of my classmates came from private schools
+
+<$A> 
+<ICE-PHI:S1A-095#127:1:A>
+Ahh private schools
+
+<$B> 
+<ICE-PHI:S1A-095#128:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#129:1:A>
+How would you assess your performance <,>
+
+<$B> 
+<ICE-PHI:S1A-095#130:1:B>
+Uhm <,> I 'm just starting to get the feel of college life
+
+<$A> 
+<ICE-PHI:S1A-095#131:1:A>
+Uhm <{> <[> or </[>
+
+<$B> 
+<ICE-PHI:S1A-095#132:1:B>
+<[> So </[> </{> I haven’t haven’t recited that much yet <{>
+<[> in my </[> class
+
+<$A> 
+<ICE-PHI:S1A-095#133:1:A>
+<[> Uhm </[> </{>
+
+<ICE-PHI:S1A-095#134:1:A>
+How do you find it
+
+<ICE-PHI:S1A-095#135:1:A>
+Is it really different from high school
+
+<$B> 
+<ICE-PHI:S1A-095#136:1:B>
+In a way it 's different
+
+<$A> 
+<ICE-PHI:S1A-095#137:1:A>
+In what way
+
+<$B> 
+<ICE-PHI:S1A-095#138:1:B>
+'Coz you 're not really pressured to recite
+
+<$A> 
+<ICE-PHI:S1A-095#139:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-095#140:1:B>
+Unlike in high school <{> <[> the teacher would call </[> one
+by one and you have to recite
+
+<ICE-PHI:S1A-095#141:1:B>
+In college if you don’t want to recite you don’t have to
+
+<$A> 
+<ICE-PHI:S1A-095#142:1:A>
+<[> Unlike in high school </[> </{>
+
+<ICE-PHI:S1A-095#143:1:A>
+You don’t have <{> <[> to </[>
+
+<$B> 
+<ICE-PHI:S1A-095#144:1:B>
+<[> Yes </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-095#145:1:A>
+But how will you be evaluated as a student
+
+<$B> 
+<ICE-PHI:S1A-095#146:1:B>
+<{> <[> Uh </[>
+
+<$A> 
+<ICE-PHI:S1A-095#147:1:A>
+<[> Is </[> </{> it not a part of the grading system
+
+<$B> 
+<ICE-PHI:S1A-095#148:1:B>
+I think mostly it 's the test
+
+<$A> 
+<ICE-PHI:S1A-095#149:1:A>
+The test
+
+<$B> 
+<ICE-PHI:S1A-095#150:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#151:1:A>
+Uhm how many units did you enroll
+
+<$B> 
+<ICE-PHI:S1A-095#152:1:B>
+Uh fifteen units only
+
+<$A> 
+<ICE-PHI:S1A-095#153:1:A>
+Why fifteen
+
+<ICE-PHI:S1A-095#154:1:A>
+Are you not underload
+
+<$B> 
+<ICE-PHI:S1A-095#155:1:B>
+No
+
+<$A> 
+<ICE-PHI:S1A-095#156:1:A>
+<{> <[> Why </[>
+
+<$B> 
+<ICE-PHI:S1A-095#157:1:B>
+<[> Uh </[> </{> the load in U P is very unlike the load of
+La Salle and Ateneo <{> <[> because it 's </[> lower
+
+<$A> 
+<ICE-PHI:S1A-095#158:1:A>
+<[> Ahh </[> </{> ahh it 's lower
+
+<ICE-PHI:S1A-095#159:1:A>
+So fifteen units is the regular load
+
+<$B> 
+<ICE-PHI:S1A-095#160:1:B>
+Uh yes
+
+<$A> 
+<ICE-PHI:S1A-095#161:1:A>
+Ahh okay
+
+<$B> 
+<ICE-PHI:S1A-095#162:1:B>
+<unclear> word </unclear> high school
+
+<$A> 
+<ICE-PHI:S1A-095#163:1:A>
+Unlike in uh the other universities I think there
+
+<$B> 
+<ICE-PHI:S1A-095#164:1:B>
+Unlike in La Salle it 's twenty-nine
+
+<$A> 
+<ICE-PHI:S1A-095#165:1:A>
+Twenty-nine yeah
+
+<ICE-PHI:S1A-095#166:1:A>
+It 's twenty-nine and in some universities I think the regular
+load for students is twenty-six
+
+<$B> 
+<ICE-PHI:S1A-095#167:1:B>
+Ma'am <{> <[> I </[> can’t hear you
+
+<$A> 
+<ICE-PHI:S1A-095#168:1:A>
+<[> Twenty-six </[> </{>
+
+<ICE-PHI:S1A-095#169:1:A>
+Ahh you can’t hear me
+
+<ICE-PHI:S1A-095#170:1:A>
+I think the the regular load for other universities is twenty-six
+twenty-four something like that
+
+<$B> 
+<ICE-PHI:S1A-095#171:1:B>
+I think it 's in P L M it 's twenty-nine
+
+<$A> 
+<ICE-PHI:S1A-095#172:1:A>
+Uh twenty-nine also
+
+<$B> 
+<ICE-PHI:S1A-095#173:1:B>
+Yeah because Jescel 's course in P L M is Nursing
+
+<$A> 
+<ICE-PHI:S1A-095#174:1:A>
+Uh-hum
+
+<$B> 
+<ICE-PHI:S1A-095#175:1:B>
+And her load is twenty-nine units
+
+<$A> 
+<ICE-PHI:S1A-095#176:1:A>
+Twenty-nine units
+
+<$B> 
+<ICE-PHI:S1A-095#177:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#178:1:A>
+What are your courses or subjects
+
+<$B> 
+<ICE-PHI:S1A-095#179:1:B>
+Uh Natural Science
+
+<$A> 
+<ICE-PHI:S1A-095#180:1:A>
+Wow
+
+<$B> 
+<ICE-PHI:S1A-095#181:1:B>
+History Communications Math Math One Social Science P E and N
+S D P
+
+<$A> 
+<ICE-PHI:S1A-095#182:1:A>
+How many subjects all in all
+
+<ICE-PHI:S1A-095#183:1:A>
+Does each subject have three units each
+
+<ICE-PHI:S1A-095#184:1:A>
+No
+
+<$B> 
+<ICE-PHI:S1A-095#185:1:B>
+No
+
+<$A> 
+<ICE-PHI:S1A-095#186:1:A>
+How many
+
+<ICE-PHI:S1A-095#187:1:A>
+Only two
+
+<$B> 
+<ICE-PHI:S1A-095#188:1:B>
+Uhm I think it 's Math and Science has have three units
+
+<$A> 
+<ICE-PHI:S1A-095#189:1:A>
+Ahh three units
+
+<ICE-PHI:S1A-095#190:1:A>
+The others
+
+<$B> 
+<ICE-PHI:S1A-095#191:1:B>
+One or two
+
+<$A> 
+<ICE-PHI:S1A-095#192:1:A>
+Ahh really
+
+<ICE-PHI:S1A-095#193:1:A>
+You mean to say even the subject I I what 's that uh Communication
+
+<$B> 
+<ICE-PHI:S1A-095#194:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-095#195:1:A>
+It it you mean there 's only one unit for that subject
+
+<$B> 
+<ICE-PHI:S1A-095#196:1:B>
+Yes Ma'am
+
+<$A> 
+<ICE-PHI:S1A-095#197:1:A>
+Uhm how come it 's different from the other universities
+
+<ICE-PHI:S1A-095#198:1:A>
+I think
+
+<$B> 
+<ICE-PHI:S1A-095#199:1:B>
+I 'm not sure
+
+<$A> 
+<ICE-PHI:S1A-095#200:1:A>
+Uh you 're not sure
+
+<ICE-PHI:S1A-095#201:1:A>
+<{> <[> Anyway </[>
+
+<$B> 
+<ICE-PHI:S1A-095#202:1:B>
+<[> <indig> Pero </indig> </[> </{> I I know it 's only one
+unit
+
+<$A> 
+<ICE-PHI:S1A-095#203:1:A>
+It 's only one unit and how much did you pay
+
+<$B> 
+<ICE-PHI:S1A-095#204:1:B>
+For my course it 's five thousand twelve
+
+<$A> 
+<ICE-PHI:S1A-095#205:1:A>
+Five thousand
+
+<$B> 
+<ICE-PHI:S1A-095#206:1:B>
+Yes five thousand twelve
+
+<$A> 
+<ICE-PHI:S1A-095#207:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-095#208:1:B>
+For for the first sem
+
+<$A> 
+<ICE-PHI:S1A-095#209:1:A>
+For the first sem you have two semesters
+
+<$B> 
+<ICE-PHI:S1A-095#210:1:B>
+Yes Ma'am
+
+<$A> 
+<ICE-PHI:S1A-095#211:1:A>
+Uh-huh
+
+<ICE-PHI:S1A-095#212:1:A>
+By the way somebody asked me this morning <indig> 'no </indig>
+some students in V Mapa regarding uh UPCAT
+
+<$B> 
+<ICE-PHI:S1A-095#213:1:B>
+UPCAT
+
+<$A> 
+<ICE-PHI:S1A-095#214:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-095#215:1:B>
+The deadline for the submission is on June eighteen
+
+<$A> 
+<ICE-PHI:S1A-095#216:1:A>
+June eighteen
+
+<ICE-PHI:S1A-095#217:1:A>
+So that is on <,> what date is today
+
+<$B> 
+<ICE-PHI:S1A-095#218:1:B>
+Friday
+
+<$A> 
+<ICE-PHI:S1A-095#219:1:A>
+Fifteen sixteen
+
+<$B> 
+<ICE-PHI:S1A-095#220:1:B>
+I think it 's a Friday
+
+<$A> 
+<ICE-PHI:S1A-095#221:1:A>
+Friday
+
+<ICE-PHI:S1A-095#222:1:A>
+Uh-huh
+
+<ICE-PHI:S1A-095#223:1:A>
+By the way how much is the application form
+
+<$B> 
+<ICE-PHI:S1A-095#224:1:B>
+Uh three hundred three hundred pesos
+
+<$A> 
+<ICE-PHI:S1A-095#225:1:A>
+Ahh so when you took the UPCAT it was three hundred pesos
+
+<ICE-PHI:S1A-095#226:1:A>
+<{> <[> But I </[> heard a different number
+
+<$B> 
+<ICE-PHI:S1A-095#227:1:B>
+<[> Yes </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-095#228:1:A>
+I think it 's three fifty now
+
+<$B> 
+<ICE-PHI:S1A-095#229:1:B>
+Three fifty now
+
+<$A> 
+<ICE-PHI:S1A-095#230:1:A>
+Yeah three fifty
+
+<ICE-PHI:S1A-095#231:1:A>
+That 's why some students you see they they 're having problem now
+with you see three fifty that 's already big amount <indig> 'no </indig>
+
+<$B> 
+<ICE-PHI:S1A-095#232:1:B>
+I thought that sections one and two have already done their
+forms
+
+<$A> 
+<ICE-PHI:S1A-095#233:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-095#234:1:B>
+I heard from <indig> Ninang </indig> that since last May <{>
+<[> they </[> were there and they were arranging for their forms to be
+finished
+
+<$A> 
+<ICE-PHI:S1A-095#235:1:A>
+<[> Uh-huh </[> </{>
+
+<ICE-PHI:S1A-095#236:1:A>
+Ahh so they 're they 're almost done <{> <[> with their forms </[>
+
+<$B> 
+<ICE-PHI:S1A-095#237:1:B>
+Yeah <[> I heard from </[> </{> <indig> Ninang </indig>
+
+<$A> 
+<ICE-PHI:S1A-095#238:1:A>
+
+<ICE-PHI:S1A-095#239:1:A>
+How did you find the test last year
+
+<$B> 
+<ICE-PHI:S1A-095#240:1:B>
+It was easier
+
+<$A> 
+<ICE-PHI:S1A-095#241:1:A>
+<indig> Ow </indig>
+
+<$B> 
+<ICE-PHI:S1A-095#242:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-095#243:1:A>
+Compared with
+
+<$B> 
+<ICE-PHI:S1A-095#244:1:B>
+Compared to that of La Salle and Ateneo
+
+<$A> 
+<ICE-PHI:S1A-095#245:1:A>
+Ahh so
+
+<$B> 
+<ICE-PHI:S1A-095#246:1:B>
+Because the Math in in the UPCAT it 's in Filipino
+
+<$A> 
+<ICE-PHI:S1A-095#247:1:A>
+Ahh it 's in Filipino
+
+<$B> 
+<ICE-PHI:S1A-095#248:1:B>
+<{> <[> Yes </[> it has two forms
+
+<$A> 
+<ICE-PHI:S1A-095#249:1:A>
+<[> Uhm </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-095#250:1:B>
+The <,> one part is in English and the other part is in
+Filipino
+
+<$A> 
+<ICE-PHI:S1A-095#251:1:A>
+<indig> Uy </indig> that 's good
+
+<$B> 
+<ICE-PHI:S1A-095#252:1:B>
+<{> <[> Hmmmh </[>
+
+<$A> 
+<ICE-PHI:S1A-095#253:1:A>
+<[> They really uh </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-095#254:1:B>
+<[> So those who 're not that </[> </{> good in Math they 'll
+really understand
+
+<$A> 
+<ICE-PHI:S1A-095#255:1:A>
+Hmmmh
+
+<ICE-PHI:S1A-095#256:1:A>
+U P is really promoting <indig> 'no </indig> the Filipino language
+
+<ICE-PHI:S1A-095#257:1:A>
+Actually I think <indig> 'no </indig> uh Mathematics now is really
+taught in Filipino
+
+<ICE-PHI:S1A-095#258:1:A>
+Is it in U P or
+
+<$B> 
+<ICE-PHI:S1A-095#259:1:B>
+No Ma'am it 's in English
+
+<$A> 
+<ICE-PHI:S1A-095#260:1:A>
+Uh it 's in English
+
+<$B> 
+<ICE-PHI:S1A-095#261:1:B>
+The only subjects that are that is in Filipino in our school
+is <indig> Kasaysayan </indig>
+
+<$A> 
+<ICE-PHI:S1A-095#262:1:A>
+<indig> Kasaysayan </indig>
+
+<$B> 
+<ICE-PHI:S1A-095#263:1:B>
+<indig> Kasaysayan </indig>
+
+<$A> 
+<ICE-PHI:S1A-095#264:1:A>
+<indig> Kasaysayan </indig> uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-095#265:1:B>
+We 're encouraged to speak Filipino instead of English
+
+<$A> 
+<ICE-PHI:S1A-095#266:1:A>
+How do you find your professors
+
+<$B> 
+<ICE-PHI:S1A-095#267:1:B>
+My favorite professor uhm I think will be my History prof
+
+<$A> 
+<ICE-PHI:S1A-095#268:1:A>
+Really
+
+<$B> 
+<ICE-PHI:S1A-095#269:1:B>
+Because she 's very lively
+
+<$A> 
+<ICE-PHI:S1A-095#270:1:A>
+Lively
+
+<$B> 
+<ICE-PHI:S1A-095#271:1:B>
+And she makes <indig> Kasaysayan ng Pilipinas </indig>
+interesting
+
+<$A> 
+<ICE-PHI:S1A-095#272:1:A>
+Interesting <{> <[> by </[>
+
+<$B> 
+<ICE-PHI:S1A-095#273:1:B>
+<[> You won’t </[> </{> be bored
+
+<$A> 
+<ICE-PHI:S1A-095#274:1:A>
+Ahh you won’t be bored
+
+<$B> 
+<ICE-PHI:S1A-095#275:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-095#276:1:A>
+Uh how what 's the approach
+
+<ICE-PHI:S1A-095#277:1:A>
+She just takes it as as if she 's only telling a story
+
+<$B> 
+<ICE-PHI:S1A-095#278:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#279:1:A>
+<indig> Ha </indig>
+
+<$B> 
+<ICE-PHI:S1A-095#280:1:B>
+As if she 's only telling stories
+
+<$A> 
+<ICE-PHI:S1A-095#281:1:A>
+Hmmmh
+
+<$B> 
+<ICE-PHI:S1A-095#282:1:B>
+Unlike in high school my favorite teachers were English
+teachers <&> speaker A chuckles </&> <{> <[> my <.> En </.> </[> my English
+teacher she 's very strict
+
+<$A> 
+<ICE-PHI:S1A-095#283:1:A>
+<[> Really </[> </{>
+
+<ICE-PHI:S1A-095#284:1:A>
+Strict
+
+<$B> 
+<ICE-PHI:S1A-095#285:1:B>
+I 'm very sorry but she 's very strict
+
+<$A> 
+<ICE-PHI:S1A-095#286:1:A>
+Really
+
+<$B> 
+<ICE-PHI:S1A-095#287:1:B>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-095#288:1:B>
+She 's very <.> bo </.> boring she 's boring
+
+<$A> 
+<ICE-PHI:S1A-095#289:1:A>
+Really
+
+<$B> 
+<ICE-PHI:S1A-095#290:1:B>
+Yes Ma'am
+
+<$A> 
+<ICE-PHI:S1A-095#291:1:A>
+<.> Wh </.> why did you say that she 's boring
+
+<$B> 
+<ICE-PHI:S1A-095#292:1:B>
+I don’t know because
+
+<$A> 
+<ICE-PHI:S1A-095#293:1:A>
+Is she bookish I mean does she depend on books
+
+<$B> 
+<ICE-PHI:S1A-095#294:1:B>
+No
+
+<$A> 
+<ICE-PHI:S1A-095#295:1:A>
+Why
+
+<$B> 
+<ICE-PHI:S1A-095#296:1:B>
+Very unlike very unlike
+
+<$A> 
+<ICE-PHI:S1A-095#297:1:A>
+Hmmmh
+
+<ICE-PHI:S1A-095#298:1:A>
+Is she old
+
+<$B> 
+<ICE-PHI:S1A-095#299:1:B>
+No she 's not that old
+
+<$A> 
+<ICE-PHI:S1A-095#300:1:A>
+Hmmmh I I think many U P <.> profes </.> professors are very
+young right
+
+<$B> 
+<ICE-PHI:S1A-095#301:1:B>
+She 's very young actually Ma'am
+
+<ICE-PHI:S1A-095#302:1:B>
+She 's very young
+
+<$A> 
+<ICE-PHI:S1A-095#303:1:A>
+Uh very young because the last time I attended a seminar at
+La Salle our speaker then was a very young professor and <{> <[> at that time
+</[>
+
+<$B> 
+<ICE-PHI:S1A-095#304:1:B>
+<[> She doesn’t smile that much </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-095#305:1:A>
+<indig> Ha </indig>
+
+<$B> 
+<ICE-PHI:S1A-095#306:1:B>
+She doesn’t smile that much
+
+<$A> 
+<ICE-PHI:S1A-095#307:1:A>
+Ahh really
+
+<ICE-PHI:S1A-095#308:1:A>
+She doesn’t smile
+
+<$B> 
+<ICE-PHI:S1A-095#309:1:B>
+She doesn’t smile at all I think
+
+<$A> 
+<ICE-PHI:S1A-095#310:1:A>
+Really
+
+<$B> 
+<ICE-PHI:S1A-095#311:1:B>
+And <{1> <[1> for the </[1> whole period <{2> <[2> uh uh
+</[2> just like today
+
+<$A> 
+<ICE-PHI:S1A-095#312:1:A>
+<[1> Why </[1> </{1>
+
+<ICE-PHI:S1A-095#313:1:A>
+<[2> Uhm uhm </[2> </{2> <,> uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-095#314:1:B>
+We did so many activities
+
+<$A> 
+<ICE-PHI:S1A-095#315:1:A>
+So you had English today
+
+<$B> 
+<ICE-PHI:S1A-095#316:1:B>
+Yeah
+
+<ICE-PHI:S1A-095#317:1:B>
+<{> <[> Today </[> is my day for English
+
+<$A> 
+<ICE-PHI:S1A-095#318:1:A>
+<[> Uhm </[> </{> uh-hmmmh
+
+<ICE-PHI:S1A-095#319:1:A>
+Does she give regular quizzes
+
+<$B> 
+<ICE-PHI:S1A-095#320:1:B>
+Yeah she does Ma'am
+
+<$A> 
+<ICE-PHI:S1A-095#321:1:A>
+Uh she does
+
+<$B> 
+<ICE-PHI:S1A-095#322:1:B>
+And everything is graded
+
+<$A> 
+<ICE-PHI:S1A-095#323:1:A>
+Everything is graded
+
+<$B> 
+<ICE-PHI:S1A-095#324:1:B>
+Everything is graded from homeworks to <{> <[> seatworks </[>
+
+<$A> 
+<ICE-PHI:S1A-095#325:1:A>
+<[> Really </[> </{>
+
+<ICE-PHI:S1A-095#326:1:A>
+Just like in the high school <&> laughter </&>
+
+<ICE-PHI:S1A-095#327:1:A>
+It 's like in the high school
+
+<$B> 
+<ICE-PHI:S1A-095#328:1:B>
+At least in college we don’t have to write
+
+<$A> 
+<ICE-PHI:S1A-095#329:1:A>
+Yeah
+
+<ICE-PHI:S1A-095#330:1:A>
+Really you 're right
+
+<ICE-PHI:S1A-095#331:1:A>
+Uh actually in college you will not be forced to take down notes
+no you will not be forced to recite
+
+<ICE-PHI:S1A-095#332:1:A>
+You said you write but you see uh reciting or recitation helps a
+lot in
+
+<$B> 
+<ICE-PHI:S1A-095#333:1:B>
+But in Math <{> <[> we </[> are obliged to write
+
+<$A> 
+<ICE-PHI:S1A-095#334:1:A>
+<[> Uh-hmmmh </[> </{>
+
+<ICE-PHI:S1A-095#335:1:A>
+Uh you are obliged to write
+
+<$B> 
+<ICE-PHI:S1A-095#336:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#337:1:A>
+Uh-hmmmh uh so you 're enjoying your Math <&> laughter </&>
+
+<$B> 
+<ICE-PHI:S1A-095#338:1:B>
+<{> <[> No </[>
+
+<$A> 
+<ICE-PHI:S1A-095#339:1:A>
+<[> Why did you <.> lau </.> </[> </{>
+
+<ICE-PHI:S1A-095#340:1:A>
+No you still don’t <,> so <{> <[> they </[>
+
+<$B> 
+<ICE-PHI:S1A-095#341:1:B>
+<[> My professor </[> </{> my professor in Math was the
+professor of my brother when he was a freshie
+
+<$A> 
+<ICE-PHI:S1A-095#342:1:A>
+Ahh <{> <[> so </[>
+
+<$B> 
+<ICE-PHI:S1A-095#343:1:B>
+<[> And he </[> </{> knows my brother
+
+<ICE-PHI:S1A-095#344:1:B>
+<{> <[> And he </[> </{> expects that I will be good in Math as
+well
+
+<ICE-PHI:S1A-095#345:1:B>
+I would like to raise my hand and tell him <quote> Sir don’t
+expect anything from me
+
+<ICE-PHI:S1A-095#346:1:B>
+I 'm not good in Math <&> chuckle </&> at all </unquote>
+
+<$A> 
+<ICE-PHI:S1A-095#347:1:A>
+<[> So </[> </{>
+
+<ICE-PHI:S1A-095#348:1:A>
+At all <&> speaker B laughs </&>
+
+<ICE-PHI:S1A-095#349:1:A>
+So you already have uh enough background about the professor
+through your brother
+
+<$B> 
+<ICE-PHI:S1A-095#350:1:B>
+Actually my brother said he 's nice
+
+<$A> 
+<ICE-PHI:S1A-095#351:1:A>
+Uh he 's nice
+
+<$B> 
+<ICE-PHI:S1A-095#352:1:B>
+I think he 's our relative
+
+<$A> 
+<ICE-PHI:S1A-095#353:1:A>
+Again
+
+<$B> 
+<ICE-PHI:S1A-095#354:1:B>
+He 's our relative
+
+<$A> 
+<ICE-PHI:S1A-095#355:1:A>
+Relative
+
+<$B> 
+<ICE-PHI:S1A-095#356:1:B>
+<indig> Daw </indig>
+
+<$A> 
+<ICE-PHI:S1A-095#357:1:A>
+Oh <&> speaker B laughs </&>
+
+<ICE-PHI:S1A-095#358:1:A>
+Really
+
+<$B> 
+<ICE-PHI:S1A-095#359:1:B>
+I 'm not sure
+
+<ICE-PHI:S1A-095#360:1:B>
+According to my brother my <indig> Lola </indig> told him that
+Mister Regaspi that 's the name of my professor
+
+<$A> 
+<ICE-PHI:S1A-095#361:1:A>
+Mister Legaspi
+
+<$B> 
+<ICE-PHI:S1A-095#362:1:B>
+Regaspi
+
+<$A> 
+<ICE-PHI:S1A-095#363:1:A>
+<{> <[> Re </[>
+
+<$B> 
+<ICE-PHI:S1A-095#364:1:B>
+<[> <.> Re </.> </[> </{> Regaspi
+
+<ICE-PHI:S1A-095#365:1:B>
+Yes
+
+<$A> 
+<ICE-PHI:S1A-095#366:1:A>
+Uh-huh
+
+<$B> 
+<ICE-PHI:S1A-095#367:1:B>
+His name is George Allen
+
+<ICE-PHI:S1A-095#368:1:B>
+Regaspi is our relative from from my in my father 's side
+
+<$A> 
+<ICE-PHI:S1A-095#369:1:A>
+Uh-hmmmh
+
+<ICE-PHI:S1A-095#370:1:A>
+What time do you usually leave your house
+
+<$B> 
+<ICE-PHI:S1A-095#371:1:B>
+It depends Ma'am 'coz uhm Mondays and Thursdays my first
+class would be eight thirty
+
+<ICE-PHI:S1A-095#372:1:B>
+So normally I would leave the house at seven ten
+
+<$A> 
+<ICE-PHI:S1A-095#373:1:A>
+Uhm
+
+<$B> 
+<ICE-PHI:S1A-095#374:1:B>
+But on Tuesdays and Fridays my class starts at ten o’clock so
+I leave at nine nine ten
+
+<$A> 
+<ICE-PHI:S1A-095#375:1:A>
+Are your rooms at U P air-conditioned
+
+<$B> 
+<ICE-PHI:S1A-095#376:1:B>
+Yes
+
+<ICE-PHI:S1A-095#377:1:B>
+All of our rooms in U P are air-conditioned
+
+<$A> 
+<ICE-PHI:S1A-095#378:1:A>
+Hmmmh
+
+<$B> 
+<ICE-PHI:S1A-095#379:1:B>
+Although some do not work
+
+<$A> 
+<ICE-PHI:S1A-095#380:1:A>
+Uh-huh by the way how 's your mom
+
+<$B> 
+<ICE-PHI:S1A-095#381:1:B>
+My mom
+
+<ICE-PHI:S1A-095#382:1:B>
+<{> <[> She 's </[> okay
+
+<$A> 
+<ICE-PHI:S1A-095#383:1:A>
+<[> Yeah </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-095#384:1:B>
+She 's breathing <&> chuckle </&>
+
+<$A> 
+<ICE-PHI:S1A-095#385:1:A>
+Uh so no one in the family got sick these past few days
+
+<$B> 
+<ICE-PHI:S1A-095#386:1:B>
+Uh fortunately none Ma'am
+
+<$A> 
+<ICE-PHI:S1A-095#387:1:A>
+Oh that 's a blessing because many people got sick these past
+few days because of the weather right
+
+<$B> 
+<ICE-PHI:S1A-095#388:1:B>
+We 're very healthy people <&> laughter </&>
+
+<$A> 
+<ICE-PHI:S1A-095#389:1:A>
+Actually even if you 're <.> heal </.> healthy with the kind
+of weather we 're having these days you see you will really be sick
+
+<ICE-PHI:S1A-095#390:1:A>
+In the morning till noon it 's very hot
+
+<ICE-PHI:S1A-095#391:1:A>
+Then at night when people are about to to go home suddenly it
+would rain right
+
+<ICE-PHI:S1A-095#392:1:A>
+Uhm
+
+<$B> 
+<ICE-PHI:S1A-095#393:1:B>
+Classes will start on June twenty-one right Ma'am
+
+<$A> 
+<ICE-PHI:S1A-095#394:1:A>
+Yeah uh on Monday
+
+<ICE-PHI:S1A-095#395:1:A>
+<indig> Hay </indig> Hannah we 're so bored in school
+
+<ICE-PHI:S1A-095#396:1:A>
+<{> <[> You know </[>
+
+<$B> 
+<ICE-PHI:S1A-095#397:1:B>
+<[> I 'm guessing </[> </{> that your high school students
+are bored
+
+<$A> 
+<ICE-PHI:S1A-095#398:1:A>
+We teachers are bored
+
+<ICE-PHI:S1A-095#399:1:A>
+I mean
+
+<$B> 
+<ICE-PHI:S1A-095#400:1:B>
+What do you do at school
+
+<$A> 
+<ICE-PHI:S1A-095#401:1:A>
+Aw would you believe we were required to to clean last week
+Monday and Tuesday
+
+<ICE-PHI:S1A-095#402:1:A>
+And then just these past two days we had a seminar
+
+<$B> 
+<ICE-PHI:S1A-095#403:1:B>
+Uh yeah I <.> hea </.> I heard from <indig> Ninang </indig>
+that you had a seminar <indig> nga </indig>
+
+<$A> 
+<ICE-PHI:S1A-095#404:1:A>
+Oh what did your <indig> Ninang </indig> tell about the
+seminar
+
+<$B> 
+<ICE-PHI:S1A-095#405:1:B>
+She was very inspired by the talks
+
+<$A> 
+<ICE-PHI:S1A-095#406:1:A>
+Ahh <{> <[> inspired </[>
+
+<$B> 
+<ICE-PHI:S1A-095#407:1:B>
+<[> By the Mass </[> </{> even by the priest because she she
+said that <indig> ano </indig> it teaches the teachers to have a better
+relationship with students
+
+<$A> 
+<ICE-PHI:S1A-095#408:1:A>
+Okay really that 's good
+
+<ICE-PHI:S1A-095#409:1:A>
+Actually of the two speakers yesterday I really liked the the
+second one it 's Doctor Sayo
+
+<ICE-PHI:S1A-095#410:1:A>
+Uh her talk is really inspiring
+
+<ICE-PHI:S1A-095#411:1:A>
+It 's about professionalism and actually I I got much from her
+sharing
+
+<ICE-PHI:S1A-095#412:1:A>
+You see the experiences she had when she was an elementary and
+high school teacher
+
+<$B> 
+<ICE-PHI:S1A-095#413:1:B>
+Ahh yeah
+
+<ICE-PHI:S1A-095#414:1:B>
+The one who was given the scholarship
+
+<$A> 
+<ICE-PHI:S1A-095#415:1:A>
+Ahh really
+
+<$B> 
+<ICE-PHI:S1A-095#416:1:B>
+By the nun
+
+<$A> 
+<ICE-PHI:S1A-095#417:1:A>
+By the nun
+
+<$B> 
+<ICE-PHI:S1A-095#418:1:B>
+The nun or the teacher
+
+<ICE-PHI:S1A-095#419:1:B>
+Oh I 'm not sure
+
+<$A> 
+<ICE-PHI:S1A-095#420:1:A>
+Uh but you see uh some teachers just didn’t mind the seminar
+
+<ICE-PHI:S1A-095#421:1:A>
+I mean some teachers didn’t uh take the seminar seriously
+
+<ICE-PHI:S1A-095#422:1:A>
+It 's a pity
+
+<ICE-PHI:S1A-095#423:1:A>
+To think that the staff planned an activity like this and still
+they wouldn’t mind at all
+
+<$B> 
+<ICE-PHI:S1A-095#424:1:B>
+They wouldn’t
+
+<$A> 
+<ICE-PHI:S1A-095#425:1:A>
+Yeah
+
+<ICE-PHI:S1A-095#426:1:A>
+Some teachers kept on talking at the back even if they 're seated
+in front they would just talk <&> speaker B chuckles </&>
+
+<ICE-PHI:S1A-095#427:1:A>
+<{> <[> It 's a shame </[>
+
+<ICE-PHI:S1A-095#428:1:A>
+It 's a shame
+
+<ICE-PHI:S1A-095#429:1:A>
+That 's why this afternoon when Mrs Bernardo closed uh I think
+before she closed during the evaluation she really <indig> 'no </indig> can’t
+help it but
+
+<$B> 
+<ICE-PHI:S1A-095#430:1:B>
+<[> They didn’t appreciate the talk </[> </{>
+
+<ICE-PHI:S1A-095#431:1:B>
+She told them
+
+<$A> 
+<ICE-PHI:S1A-095#432:1:A>
+She told the group
+
+<$B> 
+<ICE-PHI:S1A-095#433:1:B>
+That most teachers were not listening </I> 

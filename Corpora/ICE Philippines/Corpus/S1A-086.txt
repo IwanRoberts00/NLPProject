@@ -1,0 +1,1453 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-086#1:1:A>
+How are you
+
+ <$B> 
+<ICE-PHI:S1A-086#2:1:B>
+I 'm fine thank you <&> speaker A chuckles </&> 
+
+ <$A> 
+<ICE-PHI:S1A-086#3:1:A>
+Really how are you
+
+ <$B> 
+<ICE-PHI:S1A-086#4:1:B>
+Uhm tired
+
+ <$A> 
+<ICE-PHI:S1A-086#5:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-086#6:1:B>
+Because <,> I haven't got a decent sleep last night <{> <[> or </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#7:1:A>
+<[> Uh </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-086#8:1:B>
+Or should I say <,> one <.> we </.> for one week
+
+ <$A> 
+<ICE-PHI:S1A-086#9:1:A>
+How come
+
+ <$B> 
+<ICE-PHI:S1A-086#10:1:B>
+Uhm I was uhm <,,> 
+
+ <$A> 
+<ICE-PHI:S1A-086#11:1:A>
+What
+ 
+<ICE-PHI:S1A-086#12:1:A>
+You 're busy with <{> <[> your </[> work school work
+
+ <$B> 
+<ICE-PHI:S1A-086#13:1:B>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-086#14:1:B>
+I 'm working on my thesis work on my on our thesis program
+
+ <$A> 
+<ICE-PHI:S1A-086#15:1:A>
+Uh okay so what have you done so far
+
+ <$B> 
+<ICE-PHI:S1A-086#16:1:B>
+So far I have <,> well tsk so far I <.> ha </.> I have incorporated our animation in our program which is my primary goal
+
+ <$A> 
+<ICE-PHI:S1A-086#17:1:A>
+Oh that 's nice at least you 're going somewhere
+
+ <$B> 
+<ICE-PHI:S1A-086#18:1:B>
+Yeah but <&> clears throat </&> <,> I have I have some other plans in that in that program like
+
+ <$A> 
+<ICE-PHI:S1A-086#19:1:A>
+Like what
+
+ <$B> 
+<ICE-PHI:S1A-086#20:1:B>
+Uhm <,> I 'd like to add some multimedia functions in our program
+
+ <$A> 
+<ICE-PHI:S1A-086#21:1:A>
+What 's that
+
+ <$B> 
+<ICE-PHI:S1A-086#22:1:B>
+Uhm multimedia functions like I 'll add some voice on it
+
+ <$A> 
+<ICE-PHI:S1A-086#23:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-086#24:1:B>
+Yeah we 're going to record uh uh uh voice specs <{> <[> to </[> </{> to explain the mechanisms in our P Cs 
+
+ <$A> 
+<ICE-PHI:S1A-086#25:1:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-086#27:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-086#28:1:B>
+Yeah <,> so
+
+ <$A> 
+<ICE-PHI:S1A-086#29:1:A>
+That would be nice
+
+ <$B> 
+<ICE-PHI:S1A-086#30:1:B>
+You 're so sweet
+
+ <$A> 
+<ICE-PHI:S1A-086#31:1:A>
+<O> sigh </O> Yeah right <&> speaker B chuckles </&> you 're right
+
+ <$B> 
+<ICE-PHI:S1A-086#33:1:B>
+How are you
+
+ <$A> 
+<ICE-PHI:S1A-086#34:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-086#35:1:B>
+How are you now
+
+ <$A> 
+<ICE-PHI:S1A-086#36:1:A>
+Very tired
+
+ <$B> 
+<ICE-PHI:S1A-086#37:1:B>
+<{> <[> Very tired </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#38:1:A>
+<[> I 'm so </[> </{> tired
+
+ <$B> 
+<ICE-PHI:S1A-086#39:1:B>
+Why
+
+ <$A> 
+<ICE-PHI:S1A-086#40:1:A>
+I only got <.> ha </.> uhm one and half hours of sleep last night <{> <[> <indig> e </indig> this morning </[> actually
+
+ <$B> 
+<ICE-PHI:S1A-086#41:1:B>
+<[> One and a half </[> </{> 
+ 
+<ICE-PHI:S1A-086#42:1:B>
+Uhm <{> <[> that 's <[> bad
+
+ <$A> 
+<ICE-PHI:S1A-086#43:1:A>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-086#44:1:A>
+<{> <[> I know </[> 
+
+ <$B> 
+<ICE-PHI:S1A-086#45:1:B>
+<[> It 's </[> </{> <,> one-fifth hell of mine <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-086#46:1:A>
+Okay but I have to do it 'cause I have uh I have papers to submit for today
+
+ <$B> 
+<ICE-PHI:S1A-086#47:1:B>
+For today
+
+ <$A> 
+<ICE-PHI:S1A-086#48:1:A>
+Yeah <{> <[> I have to </[> 
+
+ <$B> 
+<ICE-PHI:S1A-086#49:1:B>
+<[> But I thought </[> </{> you
+
+ <$A> 
+<ICE-PHI:S1A-086#50:1:A>
+Take home written exam in EUROECO <&> course code for European Economics </&> and <{> <[> I have this essay </[> paper in FILIRET <&> course code for Filipino Rhetoric </&> 
+
+ <$B> 
+<ICE-PHI:S1A-086#51:1:B>
+<[> Why didn't you </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-086#52:1:A>
+So I really have to finish those <,,> things
+
+ <$B> 
+<ICE-PHI:S1A-086#53:1:B>
+You can do it <,> <{> <[> right here </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#54:1:A>
+<[> Yeah </[> </{> I already did them yeah
+
+ <$B> 
+<ICE-PHI:S1A-086#55:1:B>
+Okay <indig> ba't ganon </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-086#56:1:A>
+Well that 's life I 'm a student
+
+ <$B> 
+<ICE-PHI:S1A-086#57:1:B>
+Not that 's life <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-086#58:1:A>
+<indig> Di ba </indig> <,> that 's how it works
+
+ <$B> 
+<ICE-PHI:S1A-086#59:1:B>
+Do you think life sucks
+
+ <$A> 
+<ICE-PHI:S1A-086#60:1:A>
+Not so much
+
+ <$B> 
+<ICE-PHI:S1A-086#61:1:B>
+Why
+
+ <$A> 
+<ICE-PHI:S1A-086#62:1:A>
+Up up up well there 're ups and downs but
+
+ <$B> 
+<ICE-PHI:S1A-086#63:1:B>
+Ups and downs like what
+
+ <$A> 
+<ICE-PHI:S1A-086#64:1:A>
+I mean what I mean is you have sad moments you have happy moments <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-086#65:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-086#66:1:A>
+But that 's part of life <,> 
+
+ <$B> 
+<ICE-PHI:S1A-086#67:1:B>
+Okay
+
+ <$A> 
+<ICE-PHI:S1A-086#68:1:A>
+Right
+
+ <$B> 
+<ICE-PHI:S1A-086#69:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-086#70:1:A>
+How about you do you think life sucks
+
+ <$B> 
+<ICE-PHI:S1A-086#72:1:B>
+No <,> I think <{> <[> life </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#73:1:A>
+<[> Why </[> </{> <,> 
+
+ <$B> 
+<ICE-PHI:S1A-086#74:1:B>
+<indig> Wala lang </indig> <,,> life <,> life for me is <,,> is <,> I can't explain
+
+ <$A> 
+<ICE-PHI:S1A-086#76:1:A>
+You can't
+
+ <$B> 
+<ICE-PHI:S1A-086#77:1:B>
+It 's <,> so beautiful <indig> ewan ko </indig> <,,> 
+
+ <$A> 
+<ICE-PHI:S1A-086#78:1:A>
+Okay it 's yeah it 's beautiful yeah it 's beautiful
+
+ <$B> 
+<ICE-PHI:S1A-086#79:1:B>
+Even though there is so many problems
+
+ <$A> 
+<ICE-PHI:S1A-086#80:1:A>
+That can't be avoided really
+
+ <$B> 
+<ICE-PHI:S1A-086#81:1:B>
+It 's like the more problem <,> there is
+
+ <$A> 
+<ICE-PHI:S1A-086#82:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-086#83:1:B>
+The more <.> sp </.> the more spicier life gets
+
+ <$A> 
+<ICE-PHI:S1A-086#84:1:A>
+Whoa where did you get that
+
+ <$B> 
+<ICE-PHI:S1A-086#85:1:B>
+I don't know <,> <indig> parang </indig> <,> I don't know
+
+ <$A> 
+<ICE-PHI:S1A-086#86:1:A>
+You don't <,> <{> <[> uhm </[> 
+
+ <$B> 
+<ICE-PHI:S1A-086#87:1:B>
+<[> Think of </[> </{> think of your life without any problems
+
+ <$A> 
+<ICE-PHI:S1A-086#88:1:A>
+Uhm that would be really boring
+
+ <$B> 
+<ICE-PHI:S1A-086#89:1:B>
+See
+
+ <$A> 
+<ICE-PHI:S1A-086#90:1:A>
+Right because I won't be able to think
+ <$B> 
+<ICE-PHI:S1A-086#91:1:B>
+There 's no challenge
+
+ <$A> 
+<ICE-PHI:S1A-086#92:1:A>
+Yeah there 's no challenge but well <,,> yeah true that 's true there will be no challenge
+
+ <$B> 
+<ICE-PHI:S1A-086#93:1:B>
+Maybe <&> break in the recording </&> 
+ 
+<ICE-PHI:S1A-086#94:1:B>
+What do you think is your purpose in life
+ <$A> 
+<ICE-PHI:S1A-086#95:1:A>
+Uhm <,> I believe I need <.> th </.> the time to think about that question
+ 
+<ICE-PHI:S1A-086#96:1:A>
+But <,> I I think my purpose here is <,,> is simply to be with the people that I love <,> for me to be able to share my life with them and for me to help them in any way that I can
+ 
+<ICE-PHI:S1A-086#97:1:A>
+I think that 's my those are my <.> purp </.> that 's my <.> pur </.> purpose I mean in life
+ 
+<ICE-PHI:S1A-086#98:1:A>
+I don't know but yeah
+ 
+<ICE-PHI:S1A-086#99:1:A>
+How about you <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-086#100:1:B>
+Me 
+ 
+<ICE-PHI:S1A-086#101:1:B>
+Purpose in life
+
+ <$A> 
+<ICE-PHI:S1A-086#102:1:A>
+What <,,> 
+ 
+<ICE-PHI:S1A-086#103:1:A>
+You 're so serious <O> chuckle </O> <,> it 's not like us
+
+ <$B> 
+<ICE-PHI:S1A-086#104:1:B>
+Uh what 's my purpose in life well <,> I don't know <O> laughter </O> 
+ 
+<ICE-PHI:S1A-086#105:1:B>
+<indig> Hindi </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-086#106:1:A>
+You don't know
+
+ <$B> 
+<ICE-PHI:S1A-086#107:1:B>
+Uh uhm I think what <&> break in the recording </&> I I have so many I I uhm I know that I I know that I am talented
+
+ <$A> 
+<ICE-PHI:S1A-086#108:1:A>
+Uhm yeah that 's true
+
+ <$B> 
+<ICE-PHI:S1A-086#109:1:B>
+Yeah I don't know where to to excel or to put my my priority
+
+ <$A> 
+<ICE-PHI:S1A-086#110:1:A>
+Yeah your attention
+
+ <$B> 
+<ICE-PHI:S1A-086#111:1:B>
+My attention because <,> 
+
+ <$A> 
+<ICE-PHI:S1A-086#112:1:A>
+You 're like doing all those things
+
+ <$B> 
+<ICE-PHI:S1A-086#113:1:B>
+Uh uhm yeah <,> <indig> pero </indig> <,> uhm but <,> I think my priority right now is to finish my studies and I think to excel in mechanical engineering <{> <[> being </[> </{> being a mechanical engineering student <,,> 
+
+
+ <$A> 
+<ICE-PHI:S1A-086#114:1:A>
+<[> Of course </[> </{> 
+ 
+<ICE-PHI:S1A-086#116:1:A>
+Yeah <,> you should do that
+
+ <$B> 
+<ICE-PHI:S1A-086#117:1:B>
+Well my purpose in life <,> uhm <,,> still <&> break in the recording </&> but
+
+ <$A> 
+<ICE-PHI:S1A-086#118:1:A>
+But <&> break in the recording </&> 
+
+ <$B> 
+<ICE-PHI:S1A-086#119:1:B>
+I 've got an idea of what what the future has in store for me
+
+ <$A> 
+<ICE-PHI:S1A-086#120:1:A>
+Okay if I may ask what is it
+
+ <$B> 
+<ICE-PHI:S1A-086#121:1:B>
+Uhm <,,> of course uhm
+
+ <$A> 
+<ICE-PHI:S1A-086#122:1:A>
+Oh we 're getting mushy
+
+ <$B> 
+<ICE-PHI:S1A-086#123:1:B>
+Hihihihihihi hahahahaha hehehe 
+ <$A> 
+<ICE-PHI:S1A-086#124:1:A>
+You 're funny
+
+ <$B> 
+<ICE-PHI:S1A-086#125:1:B>
+Hehehehehe
+
+ <$A> 
+<ICE-PHI:S1A-086#126:1:A>
+Stop it
+
+ <$B> 
+<ICE-PHI:S1A-086#127:1:B>
+No uhm well uhm in the near future I I 'm planning to <,> finish my studies
+
+ <$A> 
+<ICE-PHI:S1A-086#128:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1A-086#129:1:B>
+Take the board and hopefully to pass it
+
+ <$A> 
+<ICE-PHI:S1A-086#130:1:A>
+You will
+
+ <$B> 
+<ICE-PHI:S1A-086#131:1:B>
+Yeah to <,> to manage our family business and hopefully <,> four to six years <,> to marry the one I love
+
+ <$A> 
+<ICE-PHI:S1A-086#132:1:A>
+Uhm <,> she 's so lucky <O> chuckle </O> 
+
+ <$B> 
+<ICE-PHI:S1A-086#133:1:B>
+Really 
+
+ <$A> 
+<ICE-PHI:S1A-086#134:1:A>
+Well stop doing that stop
+
+ <$B> 
+<ICE-PHI:S1A-086#135:1:B>
+Why
+
+ <$A> 
+<ICE-PHI:S1A-086#136:1:A>
+You 're like a monkey <,> you 're a monkey <,> stop stop it
+
+ <$B> 
+<ICE-PHI:S1A-086#137:1:B>
+Yeah
+ 
+<ICE-PHI:S1A-086#138:1:B>
+I love you
+
+ <$A> 
+<ICE-PHI:S1A-086#139:1:A>
+Aren't you going to ask me <,> something like
+
+ <$B> 
+<ICE-PHI:S1A-086#140:1:B>
+Do you love me
+
+ <$A> 
+<ICE-PHI:S1A-086#141:1:A>
+No <O> chuckle </O> you know
+
+ <$B> 
+<ICE-PHI:S1A-086#142:1:B>
+Will you marry me <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-086#143:1:A>
+Uh <,> if you pay me one million dollars yes I will
+ 
+<ICE-PHI:S1A-086#144:1:A>
+No just kidding just kidding
+
+ <$B> 
+<ICE-PHI:S1A-086#145:1:B>
+No just kidding so you 're gonna marry me right now
+
+ <$A> 
+<ICE-PHI:S1A-086#146:1:A>
+No I won't <O> chuckle </O> uhm so
+
+ <$B> 
+<ICE-PHI:S1A-086#148:1:B>
+Don't touch that
+
+ <$A> 
+<ICE-PHI:S1A-086#149:1:A>
+Oh you 're so <,> I only touched your nose
+ 
+<ICE-PHI:S1A-086#150:1:A>
+You 're so green-minded
+
+ <$B> 
+<ICE-PHI:S1A-086#151:1:B>
+Why
+
+ <$A> 
+<ICE-PHI:S1A-086#152:1:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-086#153:1:B>
+Sir <indig> o </indig> <&> talking to the teacher who assigned the taping </&> 
+
+ <$A> 
+<ICE-PHI:S1A-086#154:1:A>
+Uh you 're so bad
+ 
+<ICE-PHI:S1A-086#155:1:A>
+Sir no don't believe him <,> 
+
+ <$B> 
+<ICE-PHI:S1A-086#156:1:B>
+<indig> Aray ko </indig> <,> 
+
+ <$A> 
+<ICE-PHI:S1A-086#157:1:A>
+So what are your plans for this summer
+
+ <$B> 
+<ICE-PHI:S1A-086#158:1:B>
+Well I 'm planning to finish my my computer program for our thesis
+ 
+<ICE-PHI:S1A-086#159:1:B>
+Hopefully I 'm giving myself one month to finish all of it and I can do it I know I can do it <{> <[> so that </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#160:1:A>
+<[> Well </[> </{> that 's the spirit that 's the <{> <[> Lasallian spirit </[> 
+
+ <$B> 
+<ICE-PHI:S1A-086#161:1:B>
+<[> That 's the spirit </[> </{> the spirit the spirit oh that 's not the spirit
+
+ <$A> 
+<ICE-PHI:S1A-086#162:1:A>
+<indig> O </indig> what 's the spirit
+
+ <$B> 
+<ICE-PHI:S1A-086#163:1:B>
+It 's this Christmas spirit
+
+ <$A> 
+<ICE-PHI:S1A-086#164:1:A>
+Ha ha ha ha ha <{> <[> ha ha </[> 
+
+ <$B> 
+<ICE-PHI:S1A-086#165:1:B>
+<[> No no </[> </{> uhm <,,> uh Baby
+
+ <$A> 
+<ICE-PHI:S1A-086#166:1:A>
+Hey let 's not get personal okay <,> remember
+
+ <$B> 
+<ICE-PHI:S1A-086#167:1:B>
+What are your plans for this summer
+
+ <$A> 
+<ICE-PHI:S1A-086#168:1:A>
+Well
+
+ <$B> 
+<ICE-PHI:S1A-086#169:1:B>
+To spend time with me
+
+ <$A> 
+<ICE-PHI:S1A-086#170:1:A>
+Uhm aside from that I want to <,> sleep sleep sleep and sleep eat eat and eat and <,> hopefully I <.> cou </.> no hopefully I want to get involved in tennis again
+ 
+<ICE-PHI:S1A-086#172:1:A>
+I want to go swimming and I 'm going to review my lessons in Spanish <,> you know <&> break in the recording </&> 
+ 
+<ICE-PHI:S1A-086#173:1:A>
+Yeah and hopefully uh and of course ESA <&> European Studies Association </&> I have to go to school or you know we have to meet and plan for the organization <{> <[> next school year </[> right
+
+ <$B> 
+<ICE-PHI:S1A-086#174:1:B>
+<[> Wow that 's nice </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-086#175:1:A>
+So I have no no choice
+
+ <$B> 
+<ICE-PHI:S1A-086#176:1:B>
+Well
+
+ <$A> 
+<ICE-PHI:S1A-086#177:1:A>
+And I have to attend seminars for that
+
+ <$B> 
+<ICE-PHI:S1A-086#178:1:B>
+That 's <{> <[> good </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#179:1:A>
+<[> The leadership </[> </{> seminars
+
+ <$B> 
+<ICE-PHI:S1A-086#180:1:B>
+That 's very good
+
+ <$A> 
+<ICE-PHI:S1A-086#181:1:A>
+And very expensive also I have to spend money
+
+ <$B> 
+<ICE-PHI:S1A-086#182:1:B>
+Thousands of money thousands of pesos
+
+ <$A> 
+<ICE-PHI:S1A-086#183:1:A>
+Uh
+
+ <$B> 
+<ICE-PHI:S1A-086#184:1:B>
+<indig> Ano'ng </indig> uh uhm uh
+
+ <$A> 
+<ICE-PHI:S1A-086#185:1:A>
+Uhm shut up
+ 
+<ICE-PHI:S1A-086#186:1:A>
+Don't speak <,,> until I ask you something and you should answer me <&> break in the recording </&> 
+ 
+<ICE-PHI:S1A-086#187:1:A>
+Are you tired
+
+ <$B> 
+<ICE-PHI:S1A-086#188:1:B>
+Uhm no
+
+ <$A> 
+<ICE-PHI:S1A-086#189:1:A>
+Why are you <?> peeking </?> at me <&> break in the recording </&> 
+ 
+<ICE-PHI:S1A-086#190:1:A>
+<indig> Ha </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-086#191:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-086#192:1:A>
+Your nose is bleeding <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-086#193:1:B>
+<O> cough </O> <,> So
+
+ <$A> 
+<ICE-PHI:S1A-086#194:1:A>
+So <,> where are we eating later for lunch
+
+ <$B> 
+<ICE-PHI:S1A-086#195:1:B>
+I don't want to eat
+
+ <$A> 
+<ICE-PHI:S1A-086#196:1:A>
+You <{> <[> don't </[> but I want to eat
+
+ <$B> 
+<ICE-PHI:S1A-086#197:1:B>
+<[> Alone </[> </{> 
+ 
+<ICE-PHI:S1A-086#198:1:B>
+I don't wanna eat alone
+
+ <$A> 
+<ICE-PHI:S1A-086#199:1:A>
+That 's why I 'm asking you where are we going to eat together
+ 
+<ICE-PHI:S1A-086#200:1:A>
+Where where do you want to eat
+
+ <$B> 
+<ICE-PHI:S1A-086#201:1:B>
+You like Henry 's <&> the restaurant near De La Salle University </&> 
+
+ <$A> 
+<ICE-PHI:S1A-086#202:1:A>
+Uh I 'm just suggesting it
+
+ <$B> 
+<ICE-PHI:S1A-086#203:1:B>
+So Henry 's <&> break in the recording </&> 
+
+ <$A> 
+<ICE-PHI:S1A-086#204:1:A>
+Are you sure you want to eat there are you sure definitely sure
+
+ <$B> 
+<ICE-PHI:S1A-086#207:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-086#208:1:A>
+Are you sure <,> sure very sure
+
+ <$B> 
+<ICE-PHI:S1A-086#211:1:B>
+Very sure I 'm sure very sure
+
+ <$A> 
+<ICE-PHI:S1A-086#214:1:A>
+Hey
+
+ <$B> 
+<ICE-PHI:S1A-086#215:1:B>
+Very sure
+
+ <$A> 
+<ICE-PHI:S1A-086#216:1:A>
+Are we going with my sister tomorrow
+
+ <$B> 
+<ICE-PHI:S1A-086#217:1:B>
+Your sister is going tomorrow
+
+ <$A> 
+<ICE-PHI:S1A-086#218:1:A>
+No what I mean is they 're going to the mall
+
+ <$B> 
+<ICE-PHI:S1A-086#219:1:B>
+Uh we 're going to the mall tomorrow
+
+ <$A> 
+<ICE-PHI:S1A-086#220:1:A>
+So I what
+
+ <$B> 
+<ICE-PHI:S1A-086#221:1:B>
+Come on
+
+ <$A> 
+<ICE-PHI:S1A-086#222:1:A>
+Can you make it
+
+ <$B> 
+<ICE-PHI:S1A-086#223:1:B>
+Yeah let 's make it
+
+ <$A> 
+<ICE-PHI:S1A-086#224:1:A>
+What
+
+ <$B> 
+<ICE-PHI:S1A-086#225:1:B>
+Let 's go right now
+
+ <$A> 
+<ICE-PHI:S1A-086#227:1:A>
+<{> <[> It 's </[> for tomorrow 
+
+ <$B> 
+<ICE-PHI:S1A-086#228:1:B>
+<[> No </[> </{> 
+ 
+<ICE-PHI:S1A-086#230:1:B>
+Yeah yeah
+
+ <$A> 
+<ICE-PHI:S1A-086#231:1:A>
+<indig> O </indig> what do you think I I
+
+ <$B> 
+<ICE-PHI:S1A-086#232:1:B>
+<indig> Oo tara </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-086#233:1:A>
+I feel so tired but I want to go out
+
+ <$B> 
+<ICE-PHI:S1A-086#234:1:B>
+Yeah come
+
+ <$A> 
+<ICE-PHI:S1A-086#235:1:A>
+For <.> th </.> this weekend
+
+ <$B> 
+<ICE-PHI:S1A-086#236:1:B>
+Let 's go out
+
+ <$A> 
+<ICE-PHI:S1A-086#237:1:A>
+You know I won't study yet
+
+ <$B> 
+<ICE-PHI:S1A-086#238:1:B>
+Yeah <&> break in the recording </&> 
+
+ <$A> 
+<ICE-PHI:S1A-086#239:1:A>
+Smoke do you smoke
+
+ <$B> 
+<ICE-PHI:S1A-086#240:1:B>
+No
+
+ <$A> 
+<ICE-PHI:S1A-086#241:1:A>
+Did you smoke
+
+ <$B> 
+<ICE-PHI:S1A-086#242:1:B>
+No I hate smoke
+
+ <$A> 
+<ICE-PHI:S1A-086#243:1:A>
+But you tried smoking
+
+ <$B> 
+<ICE-PHI:S1A-086#244:1:B>
+Yeah <,> when I was second year high school
+
+ <$A> 
+<ICE-PHI:S1A-086#245:1:A>
+And how did you find it
+
+ <$B> 
+<ICE-PHI:S1A-086#246:1:B>
+I hate it
+
+ <$A> 
+<ICE-PHI:S1A-086#247:1:A>
+How come
+
+ <$B> 
+<ICE-PHI:S1A-086#248:1:B>
+It tastes bad and <,> and it affects my my breathing especially when I 'm playing basketball
+
+ <$A> 
+<ICE-PHI:S1A-086#249:1:A>
+Wow okay so good at least you realized that it 's not good for your health <&> break in the recording </&> 
+ 
+<ICE-PHI:S1A-086#250:1:A>
+I want to eat something salty <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-086#251:1:B>
+Wait <{> <[> I have </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#252:1:A>
+<[> Like fried chicken </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-086#253:1:B>
+I have a question
+
+ <$A> 
+<ICE-PHI:S1A-086#254:1:A>
+What
+
+ <$B> 
+<ICE-PHI:S1A-086#255:1:B>
+What are your plans in the ESA being <O> chuckle </O> the President of the European Studies Association <.> tion </.> <.> tion </.> <.> tion </.> 
+
+ <$A> 
+<ICE-PHI:S1A-086#256:1:A>
+Okay <,,> well
+
+ <$B> 
+<ICE-PHI:S1A-086#257:1:B>
+Well
+
+ <$A> 
+<ICE-PHI:S1A-086#258:1:A>
+I have
+
+ <$B> 
+<ICE-PHI:S1A-086#259:1:B>
+I have
+
+ <$A> 
+<ICE-PHI:S1A-086#260:1:A>
+Lots
+
+ <$B> 
+<ICE-PHI:S1A-086#261:1:B>
+Lots
+
+ <$A> 
+<ICE-PHI:S1A-086#262:1:A>
+Of plans
+
+ <$B> 
+<ICE-PHI:S1A-086#263:1:B>
+Uh okay
+
+ <$A> 
+<ICE-PHI:S1A-086#264:1:A>
+Seriously speaking
+
+ <$B> 
+<ICE-PHI:S1A-086#265:1:B>
+Okay
+
+ <$A> 
+<ICE-PHI:S1A-086#266:1:A>
+For ESA
+
+ <$B> 
+<ICE-PHI:S1A-086#267:1:B>
+What are your plans
+
+ <$A> 
+<ICE-PHI:S1A-086#268:1:A>
+Do I really have to <{> <[> say </[> 
+
+ <$B> 
+<ICE-PHI:S1A-086#269:1:B>
+<[> Yeah </[> </{> yeah you have to
+
+ <$A> 
+<ICE-PHI:S1A-086#270:1:A>
+Do I really <{> <[> have to </[> 
+
+ <$B> 
+<ICE-PHI:S1A-086#271:1:B>
+<[> You have </[> </{> to you have to let it linger <&> speaker utters the previous statement through singing </&> <O> laughter </O> 
+ 
+<ICE-PHI:S1A-086#272:1:B>
+Okay sorry
+
+ <$A> 
+<ICE-PHI:S1A-086#273:1:A>
+Oh please oh please oh please
+
+ <$B> 
+<ICE-PHI:S1A-086#274:1:B>
+<indig> Plataporma </indig> <&> break in the recording </&> 
+
+ <$A> 
+<ICE-PHI:S1A-086#275:1:A>
+What
+
+ <$B> 
+<ICE-PHI:S1A-086#276:1:B>
+What are your platforms
+
+ <$A> 
+<ICE-PHI:S1A-086#277:1:A>
+Well uhm I have <,> you know I I still have to coordinate with the other officers though but I have my own ideas already
+
+ <$B> 
+<ICE-PHI:S1A-086#278:1:B>
+What are <{> <[> they </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#279:1:A>
+<[> And </[> </{> I 'm going to share them with my colleagues so that we 'll be able to plan a good program for ESA next school year
+
+ <$B> 
+<ICE-PHI:S1A-086#280:1:B>
+Will you share them
+
+ <$A> 
+<ICE-PHI:S1A-086#281:1:A>
+I can't it 's very confidential <,,> <&> break in the recording </&> 
+ 
+<ICE-PHI:S1A-086#282:1:A>
+No just kidding <O> laughter </O> 
+ 
+<ICE-PHI:S1A-086#283:1:A>
+Hey you look like a <indig> lolo </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-086#284:1:B>
+What
+
+ <$A> 
+<ICE-PHI:S1A-086#285:1:A>
+You look like a <indig> lolo </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-086#286:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-086#287:1:A>
+When you do that
+
+ <$B> 
+<ICE-PHI:S1A-086#288:1:B>
+I like it I like it <,,> 
+
+ <$A> 
+<ICE-PHI:S1A-086#289:1:A>
+Well one plan for ESA is <,> my information dissemination program
+
+ <$B> 
+<ICE-PHI:S1A-086#290:1:B>
+Oh my God what 's that what 's that
+
+ <$A> 
+<ICE-PHI:S1A-086#291:1:A>
+Hey
+
+ <$B> 
+<ICE-PHI:S1A-086#292:1:B>
+What is that
+
+ <$A> 
+<ICE-PHI:S1A-086#293:1:A>
+It includes the lecture series and the company and career talks and what else Europolitan <&> ESA 's newsletter </&> an issue of Europolitan yeah
+
+ <$B> 
+<ICE-PHI:S1A-086#295:1:B>
+Okay then
+
+ <$A> 
+<ICE-PHI:S1A-086#296:1:A>
+That 's one program
+
+ <$B> 
+<ICE-PHI:S1A-086#297:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-086#298:1:A>
+Uhm we have the we 're planning to have the Euro-tour for next summer <,> but <,> 
+
+ <$B> 
+<ICE-PHI:S1A-086#299:1:B>
+But
+
+ <$A> 
+<ICE-PHI:S1A-086#300:1:A>
+We 're still planning on it
+
+ <$B> 
+<ICE-PHI:S1A-086#301:1:B>
+Okay <,> so what about the Euro-tour
+
+ <$A> 
+<ICE-PHI:S1A-086#302:1:A>
+<indig> O </indig> what
+
+ <$B> 
+<ICE-PHI:S1A-086#303:1:B>
+How much will it cost <{> <[> how </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#304:1:A>
+<[> My God </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-086#305:1:B>
+For how long for
+
+ <$A> 
+<ICE-PHI:S1A-086#306:1:A>
+It 's
+
+ <$B> 
+<ICE-PHI:S1A-086#307:1:B>
+How many are
+
+ <$A> 
+<ICE-PHI:S1A-086#308:1:A>
+It depends on the package that we are going to get that we 're going to get <,> 
+ 
+<ICE-PHI:S1A-086#309:1:A>
+I 'm not sure if I 'm going if I 'll be able to go with them
+
+ <$B> 
+<ICE-PHI:S1A-086#310:1:B>
+Why
+
+ <$A> 
+<ICE-PHI:S1A-086#311:1:A>
+If you have money during that time yes I would but if you don't well
+
+ <$B> 
+<ICE-PHI:S1A-086#312:1:B>
+Well
+
+ <$A> 
+<ICE-PHI:S1A-086#313:1:A>
+Sorry <indig> na lang </indig> <&> break in the recording </&> <&> the following conversation was recorded on a different day </&> 
+
+ <$B> 
+<ICE-PHI:S1A-086#314:1:B>
+Hi Michelle how are you
+
+ <$A> 
+<ICE-PHI:S1A-086#316:1:A>
+<O> sigh </O> Hi again
+ 
+<ICE-PHI:S1A-086#317:1:A>
+Wait a minute <{> <[> uhm </[> 
+
+ <$B> 
+<ICE-PHI:S1A-086#318:1:B>
+<[> How are you </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-086#319:1:A>
+Wait a minute
+ 
+<ICE-PHI:S1A-086#320:1:A>
+I 'm okay I 'm still alive and kicking and I 'm surviving I guess
+ 
+<ICE-PHI:S1A-086#321:1:A>
+How about you
+
+ <$B> 
+<ICE-PHI:S1A-086#322:1:B>
+Uhm well I 'm fine
+
+ <$A> 
+<ICE-PHI:S1A-086#323:1:A>
+You are fine
+
+ <$B> 
+<ICE-PHI:S1A-086#324:1:B>
+Yeah I think so but <{> <[> I 'm </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#325:1:A>
+<[> That 's </[> </{> good
+
+ <$B> 
+<ICE-PHI:S1A-086#326:1:B>
+Quite tired and
+
+ <$A> 
+<ICE-PHI:S1A-086#327:1:A>
+I can see that
+
+ <$B> 
+<ICE-PHI:S1A-086#328:1:B>
+Sleepy
+
+ <$A> 
+<ICE-PHI:S1A-086#329:1:A>
+<{> <[> Yeah </[> 
+
+ <$B> 
+<ICE-PHI:S1A-086#330:1:B>
+<[> I need </[> </{> some rest <{> <[> because </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#331:1:A>
+<[> You </[> </{> should
+
+ <$B> 
+<ICE-PHI:S1A-086#332:1:B>
+Why
+
+ <$A> 
+<ICE-PHI:S1A-086#333:1:A>
+Because you 've been working for almost <,> days and
+
+ <$B> 
+<ICE-PHI:S1A-086#334:1:B>
+And
+
+ <$A> 
+<ICE-PHI:S1A-086#335:1:A>
+You don't even rest or sleep properly
+
+ <$B> 
+<ICE-PHI:S1A-086#336:1:B>
+Uh uhm
+
+ <$A> 
+<ICE-PHI:S1A-086#337:1:A>
+I know I 'm sounding like a mother but you know you should rest <{> <[> <,> </[> after you work so that you 'll regain your energy and all that
+
+ <$B> 
+<ICE-PHI:S1A-086#338:1:B>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1A-086#340:1:B>
+Okay
+
+ <$A> 
+<ICE-PHI:S1A-086#341:1:A>
+So what 's been happening <{> <[> with </[> your thesis <&> speaker A coughs </&> 
+
+ <$B> 
+<ICE-PHI:S1A-086#342:1:B>
+<[> <O> cough </O> </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-086#343:1:A>
+What 's your topic again
+
+ <$B> 
+<ICE-PHI:S1A-086#344:1:B>
+Our topic is Computer Aided <&> break in the recording </&> 
+
+ <$A> 
+<ICE-PHI:S1A-086#345:1:A>
+You forgot it
+
+ <$B> 
+<ICE-PHI:S1A-086#346:1:B>
+Uh Computer Aided <O> cough </O> 
+
+ <$A> 
+<ICE-PHI:S1A-086#347:1:A>
+Kinematics
+
+ <$B> 
+<ICE-PHI:S1A-086#348:1:B>
+Instructions or Kinematics of Machine and Machine Elements 
+
+ <$A> 
+<ICE-PHI:S1A-086#349:1:A>
+Wow that 's really something
+
+ <$B> 
+<ICE-PHI:S1A-086#351:1:B>
+It 's a teaching aid <{> <[> <,> </[> to you know uhm <&> break in the recording </&> to
+
+ <$A> 
+<ICE-PHI:S1A-086#352:1:A>
+<[> Uh-huh </[> </{> 
+ 
+<ICE-PHI:S1A-086#354:1:A>
+For Mechanical students
+
+ <$B> 
+<ICE-PHI:S1A-086#355:1:B>
+Yeah for them <&> speakers A and B sigh </&> 
+
+ <$A> 
+<ICE-PHI:S1A-086#356:1:A>
+That 's why I never really took up any engineering course
+ 
+<ICE-PHI:S1A-086#357:1:A>
+I know I 'll just flunk in all my subjects
+
+ <$B> 
+<ICE-PHI:S1A-086#358:1:B>
+Why
+
+ <$A> 
+<ICE-PHI:S1A-086#359:1:A>
+Because I 'm not good in Math
+
+ <$B> 
+<ICE-PHI:S1A-086#360:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-086#361:1:A>
+That 's why I thank God we don't have any Math subjects anymore <,> for this term <,> 
+
+ <$B> 
+<ICE-PHI:S1A-086#362:1:B>
+Uhm <,,> anyway uhm anyway we 're <.> al </.> anyway we 're almost done in our thesis and
+
+ <$A> 
+<ICE-PHI:S1A-086#363:1:A>
+That 's good
+
+ <$B> 
+<ICE-PHI:S1A-086#364:1:B>
+Yeah <,,> seventy-five percent
+
+ <$A> 
+<ICE-PHI:S1A-086#365:1:A>
+Was finished
+
+ <$B> 
+<ICE-PHI:S1A-086#366:1:B>
+Is finished
+
+ <$A> 
+<ICE-PHI:S1A-086#367:1:A>
+Uhm <,> good for you
+ 
+<ICE-PHI:S1A-086#368:1:A>
+At least you 're quite assured already of uhm graduating this October
+
+ <$B> 
+<ICE-PHI:S1A-086#369:1:B>
+I hope
+
+ <$A> 
+<ICE-PHI:S1A-086#370:1:A>
+You hope what
+
+ <$B> 
+<ICE-PHI:S1A-086#371:1:B>
+Yeah I hope
+
+ <$A> 
+<ICE-PHI:S1A-086#372:1:A>
+You hope what <&> break in the recording </&> 
+ 
+<ICE-PHI:S1A-086#373:1:A>
+You know what this term we 're already asked to uhm to think about a topic for our thesis and we 're having a difficult time in choosing a topic
+ 
+<ICE-PHI:S1A-086#374:1:A>
+Is it really hard to choose one
+
+ <$B> 
+<ICE-PHI:S1A-086#375:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-086#376:1:A>
+In our case I I don't know 'cause we have different line we have a different line of studies so <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-086#377:1:B>
+Ask Mr Sandil <O> chuckle </O> 
+
+ <$A> 
+<ICE-PHI:S1A-086#378:1:A>
+I 'll ask him yeah I can
+
+ <$B> 
+<ICE-PHI:S1A-086#379:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-086#380:1:A>
+<O> chuckle </O> So <&> break in the recording </&> what else
+ 
+<ICE-PHI:S1A-086#381:1:A>
+So what 's keeping you <.> bu </.> busy nowadays <,> what have you been doing
+
+ <$B> 
+<ICE-PHI:S1A-086#383:1:B>
+I 'm preparing my resum&eacute;
+
+ <$A> 
+<ICE-PHI:S1A-086#384:1:A>
+Wow yeah I know
+
+ <$B> 
+<ICE-PHI:S1A-086#385:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-086#386:1:A>
+So were you able to finish it
+
+ <$B> 
+<ICE-PHI:S1A-086#387:1:B>
+Not yet
+ 
+<ICE-PHI:S1A-086#388:1:B>
+I am making <.> ano </.> a new one <{> <[> I <.> list </.> </[> 
+
+ <$A> 
+<ICE-PHI:S1A-086#389:1:A>
+<[> How </[> </{> come
+
+ <$B> 
+<ICE-PHI:S1A-086#390:1:B>
+I listed all all my seminars attended
+
+ <$A> 
+<ICE-PHI:S1A-086#391:1:A>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-086#392:1:B>
+And later I 'll type it so that by tomorrow my resum&eacute; is ready
+
+ <$A> 
+<ICE-PHI:S1A-086#393:1:A>
+Uhm that 's nice
+ 
+<ICE-PHI:S1A-086#394:1:A>
+<{> <[> I 'll </[> be doing that in a year 's time I guess
+
+ <$B> 
+<ICE-PHI:S1A-086#395:1:B>
+<[> Yeah </[> </{> I 'd like to apply in Intel
+
+ </I> 

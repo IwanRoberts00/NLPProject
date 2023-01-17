@@ -1,0 +1,604 @@
+<I>
+
+<ICE-PHI:W2B-039#1:1>
+<h> <bold> Can libraries stay up to date? </bold> </h>
+
+<ICE-PHI:W2B-039#2:1>
+<bold> Veronica C. Silva </bold>
+
+<p> 
+<ICE-PHI:W2B-039#3:1>
+Author Nicholas Negroponte called his book <mention> &ldquo; Being
+Digital &rdquo; </mention> as being already obsolete the minute a reader gets
+hold of it. </p>
+
+<p> 
+<ICE-PHI:W2B-039#4:1>
+What Mr. Negroponte wanted to point out is the &ldquo; exponential
+&rdquo; change that is happening in society where &ldquo; bits, &rdquo;
+instead of atoms like books, are becoming <quote> &ldquo; dominant units of
+human interaction. &rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2B-039#5:1>
+Does this mean then, that library books are already obsolete, too?
+</p>
+
+<p> 
+<ICE-PHI:W2B-039#6:1>
+Not atoms, but the lack of funds and resources are keeping books
+obsolete in Philippine libraries. </p>
+
+<p> 
+<ICE-PHI:W2B-039#7:1>
+A random check of libraries in Metro Manila indicate that the
+computerization or automation of the library system is in its infancy stage
+as admitted by some of the librarians interviewed by <mention> <it> Business
+World Online </it> </mention> .
+
+<ICE-PHI:W2B-039#8:1>
+These libraries include academic, specialized and public libraries.
+</p>
+
+<p> 
+<ICE-PHI:W2B-039#9:1>
+In the book <mention> &ldquo; The Electronic Trail:
+Computer-Assisted Research and Reporting in the Philippines, &rdquo;
+</mention> the Philippine Center for Investigative Journalism listed the
+so-called electronic libraries which are either on-line libraries that can be
+accessed remotely, or libraries that use library software for their
+operations. </p>
+
+<p> 
+<ICE-PHI:W2B-039#10:1>
+But upon inspection, <mention> <it> Business World Online </it>
+</mention> found that not many libraries have fully automated their
+operations to make it easier for researchers to retrieve the information
+gathered.
+
+<p>
+
+<p> 
+<ICE-PHI:W2B-039#11:1>
+Many of the Philippine libraries are electronic in the sense that
+they use electronic access tools like CD-ROM databases or the Online Public
+Access Catalog ( OPAC). </p>
+
+<p> 
+<ICE-PHI:W2B-039#12:1>
+CD-ROM databases and OPAC can be easily implemented with
+stand-alone computers like the case of the University of the Philippines (
+UP) Diliman Main Library. </p>
+
+<p> 
+<ICE-PHI:W2B-039#13:1>
+De La Salle University ( DLSU), on the other hand, recently
+opened its CD-ROM network where researchers can simultaneously access some
+CD-ROM databases. </p>
+
+<p> 
+<ICE-PHI:W2B-039#14:1>
+Both libraries and many other libraries in the Philippines are
+using the UNESCO ( United Nations Educational, Scientific and Cultural
+Organization)-distributed CDS-ISIS ( Computerized Documentation
+System-Integrated Set of Information Systems), currently a text-based
+searchable database of bibliographic information. </p>
+
+<p> 
+<ICE-PHI:W2B-039#15:1>
+In these libraries, researchers still need to go physically to
+each library to access their collections. </p>
+
+<p> 
+<ICE-PHI:W2B-039#16:1>
+Only a few are on-line with the bibliographic databases
+accessible via the Internet. </p>
+
+<p> 
+<ICE-PHI:W2B-039#17:1>
+The more notable on-line library network is the science and
+technology ( S&T) electronic library network of eight universities nationwide
+under the World Bank-funded Department of Science and Technology-Engineering
+and Science Education Program ( DoST-ESEP). </p>
+
+<p> 
+<ICE-PHI:W2B-039#18:1>
+The ESEP schools include UP Diliman, UP Los Ba&ntilde;os, UP
+Manila, DLSU, Ateneo de Manila University, University of Sto. Tomas,
+University of San Carlos and Mindanao State University-Iligan Institute of
+Technology. </p>
+
+<p> 
+<ICE-PHI:W2B-039#19:1>
+Using CD-ISIS and sometimes an integrated library system software
+like the TINLIB ( The Information Navigator for Libraries System), the
+bibliographic information under the ESEP network can be accessed via the
+Internet. </p>
+
+<p> 
+<ICE-PHI:W2B-039#20:1>
+Through documentation services available from these libraries,
+researchers can access the actual materials for a fee. </p>
+
+<p> 
+<ICE-PHI:W2B-039#21:1>
+The trend towards the computerization or automation of library
+systems has been noted in the Philippines and worldwide since the 1980s. </p>
+
+<p> 
+<ICE-PHI:W2B-039#22:1>
+A 1986 UP thesis pointed out this observation in the country
+while foreign literature support this observation. </p>
+
+<p> 
+<ICE-PHI:W2B-039#23:1>
+The UP study revealed that 29 out of 223 libraries and
+information centers studied have developed or have been using computerized
+systems while 55 are planning to use computers.
+
+<ICE-PHI:W2B-039#24:1>
+However, the <quote> &ldquo; general trend is computerization &rdquo;
+</quote> with the number of libraries using computers &ldquo; doubling
+&rdquo; within one to two years, the study added. </p>
+
+<p> 
+<ICE-PHI:W2B-039#25:1>
+This study indicates that the Philippine library system is not
+bad considering that an American observer also noted that online library
+systems have become a &ldquo; reality &rdquo; only in the 1980s after eluding
+<quote> &ldquo; library automators for two decades, &rdquo; </quote> said
+David C. Genaway in his 1984 book on online library systems. </p>
+
+<p> 
+<ICE-PHI:W2B-039#26:1>
+The culprit, as in the case these days, are the resources. </p>
+
+<p> 
+<ICE-PHI:W2B-039#27:1>
+However, Philippine libraries are not far behind other sectors or
+organizations that are only getting automated in a world where everything is
+going bits and electronic.
+
+<ICE-PHI:W2B-039#28:1>
+In fact, some companies have only started computerizing lately. </p>
+
+<p> 
+<ICE-PHI:W2B-039#29:1>
+Financial and personnel problems were identified in the UP study
+as the factors that affect the implementation of library automation plans.
+</p>
+
+<p> 
+<ICE-PHI:W2B-039#30:1>
+Mr. Genaway described it as <quote> &ldquo; sporadic,
+unsystematic efforts &rdquo; </quote> as early as the 1960s. </p>
+
+<p> 
+<ICE-PHI:W2B-039#31:1>
+Said Richard De Gennaro in 1976: <quote> &ldquo; There are
+indications that the advent of powerful and inexpensive minicomputers and
+storage capabilities will lead to the revival of this concept ( of library
+automation) in the next few years. &rdquo; </quote> </p>
+
+<ICE-PHI:W2B-039#32:1>
+<h> <bold> ATTEMPTS </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-039#33:1>
+DLSU director Perla S. Garcia recounted that the earlier attempts
+of DLSU to computerize in the 1980s involved a minicomputer which gave them
+technical and maintenance problems. </p>
+
+<p> 
+<ICE-PHI:W2B-039#34:1>
+The same goes for the UP Diliman Main Library which used two
+mainframe computers in the 1970s, said UP College of Science ( CS) librarian
+Lourdes T. David in an interview with <mention> <it> Business World Online
+</it> </mention> . </p>
+
+<p> 
+<ICE-PHI:W2B-039#35:1>
+The savior is the microcomputer or the personal computer ( PC)
+that was introduced in the 1970s. </p>
+
+<p> 
+<ICE-PHI:W2B-039#36:1>
+The successful implementation of the UP Diliman and DLSU library
+systems are now being run in PCs or mid-range systems such as Unix-based
+systems. </p>
+
+<p> 
+<ICE-PHI:W2B-039#37:1>
+Given the limited resources, the librarians themselves will be
+the first to tear down the walls that keep researchers distant from the
+sources of information. </p>
+
+<p> 
+<ICE-PHI:W2B-039#38:1>
+In UP, it was not until ESEP, UNESCO and the first Internet
+access facility in the Philippines that the UP Diliman CS and College of
+Engineering ( CoE) became automated and on-line. </p>
+
+<p> 
+<ICE-PHI:W2B-039#39:1>
+Through UNESCO funds, the UP Diliman CS and CoE installed a fiber
+optic cable network to interconnect the two libraries, said Ms. David. </p>
+
+<p> 
+<ICE-PHI:W2B-039#40:1>
+Later, through the PHNet, the first Internet connection of the
+Philippines supported by the DOST, the two UP libraries got on the Internet.
+
+<ICE-PHI:W2B-039#41:1>
+This network is now known in UP as the DilNet. </p>
+
+<p> 
+<ICE-PHI:W2B-039#42:1>
+However, the UP Diliman Main Library, the &ldquo; mother &rdquo;
+of all libraries in one of UP 's autonomous universities, only started its
+Internet connection early this year, said Africa Castillo, Main Library head
+of cataloging and computer services. </p>
+
+<p> 
+<ICE-PHI:W2B-039#43:1>
+The National Library ( TNL), the mandated repository of
+Philippine collections and the &ldquo; mother &rdquo; of all public
+libraries, is awaiting telephone lines to enable them to connect to the
+Internet, said its director Adoracion Mendoza-Bolos. </p>
+
+<p> 
+<ICE-PHI:W2B-039#44:1>
+Many of the librarians interviewed by <mention> <it> Business
+World Online </it> </mention> admitted that they are just starting out with
+their computerization such that only a few components of the on-line library
+system or minimal computerization is already in place. </p>
+
+<p> 
+<ICE-PHI:W2B-039#45:1>
+While TNL has started its computerization in 1995, it is using
+its TINLIB ( The Information Navigator for Libraries) for cataloging and
+retrieval. </p>
+
+<p> 
+<ICE-PHI:W2B-039#46:1>
+TINLIB is an integrated library system that incorporates the
+library functions in a fully automated system.
+
+<ICE-PHI:W2B-039#47:1>
+The components of TINLIB are cataloging and retrieval, acquisition,
+circulation and serials management. </p>
+
+<p> 
+<ICE-PHI:W2B-039#48:1>
+National Library data furnished <mention> <it> Business World
+Online </it> </mention> showed the TINLIB database contains 100,845 records.
+</p>
+
+<ICE-PHI:W2B-039#49:1>
+<h> <bold> PRIORITIES </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-039#50:1>
+Ms. Bolos added that TNL is prioritizing 1995 to current data to
+be included in the databases.
+
+<ICE-PHI:W2B-039#51:1>
+Considering that the Philippine national library system has been
+existing since the 1900s, then TNL still has a long way to go. </p>
+
+<p> 
+<ICE-PHI:W2B-039#52:1>
+TNL recently launched its Public Information Library Network (
+PUBLIN) which will interconnect the public libraries in the country.
+
+<ICE-PHI:W2B-039#53:1>
+The implementation started with the distribution of PCs with library
+software to 20 public libraries in Luzon and the training of librarians from
+18 of these recipient libraries, said Ms. Bolos. </p>
+
+<p> 
+<ICE-PHI:W2B-039#54:1>
+TNL is currently facilitating the bidding of PCs for distribution
+to public libraries in Mindanao. </p>
+
+<p> 
+<ICE-PHI:W2B-039#55:1>
+But these initiatives are meager considering that the number of
+public libraries nationwide is less than two percent of the number of
+libraries that are supposed to be established in the different <indig>
+barangays </indig> , municipalities, cities and provinces. </p>
+
+<p> 
+<ICE-PHI:W2B-039#56:1>
+Republic Act 7743 of 1994 mandates the establishment of
+congressional, city, municipal libraries and <indig> barangay </indig>
+reading centers. </p>
+
+<p> 
+<ICE-PHI:W2B-039#57:1>
+TNL data showed that of the 41,139 <indig> barangays </indig> ,
+there are only 206 reading centers and out of the 1,526 municipalities, there
+are only 474 municipal libraries. </p>
+
+<p> 
+<ICE-PHI:W2B-039#58:1>
+Funding government-run libraries is obviously a problem. </p>
+
+<p> 
+<ICE-PHI:W2B-039#59:1>
+TNL being an attached agency of the Department of Education,
+Culture and Sports ( DECS), it is not surprising to find out that it has
+financial problems even when it comes to upgrading its resources into
+automated systems. </p>
+
+<p> 
+<ICE-PHI:W2B-039#60:1>
+Even with the DECS ' public school computerization program, which
+had been getting legislative support by way of special appropriations, DECS
+officials consider these appropriations a drop in the bucket. </p>
+
+<p> 
+<ICE-PHI:W2B-039#61:1>
+For instance, for the 1996 computerization program, only 624
+public high schools out of the 40,000 public elementary and high schools are
+expected to benefit. </p>
+
+<p> 
+<ICE-PHI:W2B-039#62:1>
+Equally having financial difficulties are the National Economic
+and Development Authority ( NEDA) Library in Pasig and the UP Diliman Main
+Library. </p>
+
+<p> 
+<ICE-PHI:W2B-039#63:1>
+The NEDA library only started this year the computerization of
+its operations using the UNESCO CDS-ISIS ( Computerized Documentation
+System-Integrated Set of Information Systems), said library services chief
+Ellen Salvatierra. </p>
+
+<p> 
+<ICE-PHI:W2B-039#64:1>
+Ms. Salvatierra cited the lack of funds as the reason why it is
+automating late because the NEDA library does not get additional funds aside
+from the regular budget. </p>
+
+<p> 
+<ICE-PHI:W2B-039#65:1>
+Recently, the NEDA library acquired several computers with its
+own funds and some from additional funds from a project. </p>
+
+<p> 
+<ICE-PHI:W2B-039#66:1>
+Even then, economic statistics from NEDA can be accessed online
+through the NEDA Web site at <http://www.neda.gov.ph> . </p>
+
+<p> 
+<ICE-PHI:W2B-039#67:1>
+Aside from this, other attached NEDA agencies like the National
+Statistics Coordination Board have automated library systems, said Ms.
+Salvatierra. </p>
+
+<p> 
+<ICE-PHI:W2B-039#68:1>
+The UP Diliman Main Library is also having financial problems
+which is partly why its CD-ROM and OPAC services are not yet locally
+networked. </p>
+
+<p> 
+<ICE-PHI:W2B-039#69:1>
+<mention> <it> Business World Online </it> </mention> learned of
+a campus-wide proposal done in 1995 to network the UP Diliman library system
+composed of 24 unit libraries. </p>
+
+<p> 
+<ICE-PHI:W2B-039#70:1>
+For around &peso;38 million, the 1995 proposal called for the
+automation of the operations and services of each unit library, their
+interoperability, and accessibility via the Internet through the DilNet. </p>
+
+<p> 
+<ICE-PHI:W2B-039#71:1>
+<mention> <it> Business World Online </it> </mention> has
+attempted gathering data from the UP Diliman libraries and, based on
+interviews with students, faculty and librarians themselves, this networked
+library system is not yet operational. </p>
+
+<p> 
+<ICE-PHI:W2B-039#72:1>
+Ms. David, head of the committee that drafted the 1995 plan, said
+the UP administration has asked for an expanded proposal to include the other
+library systems within the UP nationwide system composed of six autonomous
+universities from Luzon to Mindanao. </p>
+
+<p> 
+<ICE-PHI:W2B-039#73:1>
+An estimated &peso;100 million is needed for the UP system-wide
+computerization.
+
+<ICE-PHI:W2B-039#74:1>
+By order of priority, an estimated &peso;10 million is needed in the
+first year to set up a hub in the UP Diliman Main Library to house a server
+and the TINLIB software, said Ms. David. </p>
+
+<p> 
+<ICE-PHI:W2B-039#75:1>
+The system-wide library proposal is seen to be part of the
+ongoing system-wide electronic networking of the State University. </p>
+
+<p> 
+<ICE-PHI:W2B-039#76:1>
+In an earlier interview, UP vice-president for information and
+communication systems Emmanuel T. Velasco said UP is currently laying the
+physical infrastructure to intercampus networking of the entire university
+system. </p>
+
+<p> 
+<ICE-PHI:W2B-039#77:1>
+The wiring up of the UP Diliman Main Library building has been
+identified as priority for the building 's local area networking ( LAN). </p>
+
+<p> 
+<ICE-PHI:W2B-039#78:1>
+The LAN will network its on-line public access catalog ( OPAC)
+which will eventually be accessed from a central database server, said Ms.
+Castillo. </p>
+
+<ICE-PHI:W2B-039#79:1>
+<h> <bold> ISLANDS </bold> </h>
+
+<p> 
+<ICE-PHI:W2B-039#80:1>
+Currently, the Main Library has islands of databases being
+maintained by the different sections of the library.
+
+<ICE-PHI:W2B-039#81:1>
+But the contents of the databases are still far from being complete
+as Ms. Castillo admitted they still have more records to automate.
+
+<ICE-PHI:W2B-039#82:1>
+For instance, data obtained from the UP Diliman Main Library showed
+the book database contains 122,352 records out of the more than one million
+volumes of books in their collection. </p>
+
+<p> 
+<ICE-PHI:W2B-039#83:1>
+The financial problem is shared by librarians nationwide, noted
+Rod Tarlit, president of the Philippine Librarians Association, Inc. ( PLAI),
+the association of professional librarians in the country. </p>
+
+<p> 
+<ICE-PHI:W2B-039#84:1>
+He told <mention> <it> Business World Online </it> </mention>
+that while PLAI members are aware of the need to computerize and even conduct
+seminars about this, the librarians are generally agreeable that their
+libraries do not have enough funds to computerize operations. </p>
+
+<p> 
+<ICE-PHI:W2B-039#85:1>
+Aside from lack of funding, the lack of expertise on automation
+among librarians and government policies likewise hinder the automation of
+libraries. </p>
+
+<p> 
+<ICE-PHI:W2B-039#86:1>
+While the UP study revealed that librarians do not have negative
+attitudes about the automation of library operations, other experts in the
+field of information science are concerned over the lack of training and
+expertise in implementing automation, and the lack of a government policy to
+support the information specialists like librarians. </p>
+
+<p> 
+<ICE-PHI:W2B-039#87:1>
+In an S&T forum last year, Science and Technology Information
+Institute director Jose L. Guerrero noted that while librarians have great
+potentials and are important in the development of S&T in the country, they
+are also <quote> &ldquo; underrated professionals &rdquo; </quote> that have
+yet to catch up with the latest developments in computer hardware and
+software. </p>
+
+<p> 
+<ICE-PHI:W2B-039#88:1>
+Taking off from Mr. Negroponte 's argument, Mr. Guerrero said the
+information keepers/custodians like librarians <quote> &ldquo; can lead to
+the gradual transformation ( of society) from the book to the digital era.
+&rdquo; </quote> </p>
+
+<p> 
+<ICE-PHI:W2B-039#89:1>
+On the other hand, UP Institute of Library Science dean Josephine
+Sison noted that the lack of a clearly stated policy on S&T information (
+STI), however, is hampering the type of service these custodians can deliver
+to the information users. </p>
+
+<p> 
+<ICE-PHI:W2B-039#90:1>
+In the same forum, Ms. Sison suggested the STI policy should be a
+government priority included in the National Information Technology Plan (
+NITP), the former Ramos administration 's blueprint for IT in the country.
+</p>
+
+<p> 
+<ICE-PHI:W2B-039#91:1>
+<quote> &ldquo; Drastic measures must be taken to prepare S&T
+librarians for the emerging competition from other professions for a bigger
+and bigger slice of the information pie, &rdquo; </quote> said Ms. Sison
+while emphasizing that these professions should develop their skills in the
+new information technologies. </p>
+
+<p> 
+<ICE-PHI:W2B-039#92:1>
+<quote> &ldquo; It would also be ideal if DTI services provision
+is guided by a national information policy included in the NITP in the very
+near future to lend focus and direction in this very important area, &rdquo;
+</quote> she added. </p>
+
+<p> 
+<ICE-PHI:W2B-039#93:1>
+In the recent interview, Ms. Castillo said even with the updated
+NITP, dubbed as <mention> IT 21 </mention> , there is no library component,
+although there is an education component. </p>
+
+<p> 
+<ICE-PHI:W2B-039#94:1>
+But library administrators are not the only hindrance to the
+computerization of libraries. </p>
+
+<p> 
+<ICE-PHI:W2B-039#95:1>
+At the UP Diliman Main Library and the National Library, computer
+services heads told tales of tampering with the computers. </p>
+
+<p> 
+<ICE-PHI:W2B-039#96:1>
+The National Library, for instance, already started using a
+Windows-based OPAC for its information navigator.
+
+<ICE-PHI:W2B-039#97:1>
+However, library staff and Information Technology Center head Mercy
+L. Roberto said they had to remove the Windows-based program because the
+researchers allegedly got into other software programs in the computers aside
+from the on-line public access catalog. </p>
+
+<p> 
+<ICE-PHI:W2B-039#98:1>
+Similarly, Ms. Castillo told of cases where the OPAC databases
+were deleted by the researchers.
+
+<ICE-PHI:W2B-039#99:1>
+This problem caused the UP Diliman Main Library to settle for
+stand-alone PCs such that if one PC 's database is deleted, the other units
+can be used by the other researchers. </p>
+
+<p> 
+<ICE-PHI:W2B-039#100:1>
+With the UP Diliman on-line catalog becoming available in a
+network by end August, Ms. Castillo is now getting concerned about securing
+the network. </p>
+
+<p> 
+<ICE-PHI:W2B-039#101:1>
+To remedy the problem about experts, Ms. David suggested forming
+a team composed of a librarian, technical experts in computer system
+administration or networking and hardware and software, and a database or
+records management expert.
+
+<ICE-PHI:W2B-039#102:1>
+This team can work on a plan to establish the automated system. </p>
+
+<p> 
+<ICE-PHI:W2B-039#103:1>
+While bigger libraries have to cope with many problems, smaller
+and specialized libraries are saved from administrative and resource
+problems. </p>
+
+<p> 
+<ICE-PHI:W2B-039#104:1>
+One specialized library that has hurdled the financial problems
+is Ayala Foundation, Inc. 's Filipinas Heritage Library. </p>
+
+<p> 
+<ICE-PHI:W2B-039#105:1>
+Library director Emelina Soriano Almario told <mention> <it>
+Business World Online </it> </mention> the two-year-old library housing
+<indig> Filipiniana </indig> collection is their implementation of an
+electronic resource center. </p> </I>

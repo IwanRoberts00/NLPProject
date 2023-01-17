@@ -1,0 +1,390 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S2B-018#1:1:A>
+<&> missing words </&> no need to assess the President since she believes they won't succeed <&> a five second news clip </&> 
+ 
+<ICE-PHI:S2B-018#2:1:A>
+The President says there 's no reason for people to back her ouster
+ 
+<ICE-PHI:S2B-018#3:1:A>
+The economy she claims is improving and supposedly so is the government 's anti-crime campaign
+ 
+<ICE-PHI:S2B-018#4:1:A>
+She 's also confident of having the support of the Catholic Church the <foreign> El Shaddai </foreign> and the <indig> Iglesia ni Cristo </indig> 
+ 
+<ICE-PHI:S2B-018#5:1:A>
+The President also insists no one has proven any anomalies linked to her family <&> a three second news clip </&> 
+ 
+<ICE-PHI:S2B-018#6:1:A>
+She likewise believes opposition lawmakers won't support any armed take- over <&> a ten second news clip </&> 
+ 
+<ICE-PHI:S2B-018#7:1:A>
+The President dismisses allegations her own military intelligence people have been spreading the cruel rumors
+ 
+<ICE-PHI:S2B-018#8:1:A>
+There 's no need she says to reprimand them especially after they supposedly uncovered and blocked bomb attacks planned for Metro Manila <&> a three second news clip </&> 
+ 
+<ICE-PHI:S2B-018#9:1:A>
+The alleged threats of a coup have made the President more determined to finish her term by twenty o four but she refuses to confirm her election plans for that year insisting it 's a topic that should be avoided for now <&> a five second new clip </&> 
+ 
+<ICE-PHI:S2B-018#10:1:A>
+Reporting for <mention> News Central </mention> Tony Velasquez A B S - C B N News
+
+ <$B> 
+<ICE-PHI:S2B-018#11:1:B>
+Malaca&ntilde;ang isn't taking any chances and has set security measures in place to prevent the outbreak of violence during the first anniversary of EDSA <foreign> Dos </foreign> 
+ 
+<ICE-PHI:S2B-018#12:1:B>
+Intelligence officials have given the President a briefing on the alleged plan by various groups to disrupt the celebration
+ 
+<ICE-PHI:S2B-018#13:1:B>
+Sources say the Palace was given names of those behind the alleged destabilization plot
+ 
+<ICE-PHI:S2B-018#14:1:B>
+Those who were named are reportedly the same persons who were blamed for the siege on Malaca&ntilde;ang in May of last year
+ 
+<ICE-PHI:S2B-018#15:1:B>
+As part of the security measures police will not allow unauthorized groups to go near the EDSA Shrine
+ 
+<ICE-PHI:S2B-018#16:1:B>
+Police contingents from Central and Southern Luzon will be deployed to beef up troops in Metro Manila <&> an eight second news clip </&> 
+ 
+<ICE-PHI:S2B-018#17:1:B>
+Militant group <indig> Bayan </indig> will stay away from any government affairs during the first anniversary of EDSA Two but neither will they join efforts to oust President Arroyo
+ 
+<ICE-PHI:S2B-018#18:1:B>
+<indig> Bayan </indig> had backed the President in her climb to power but the group now says she has failed to live up to the ideals of EDSA <foreign> Dos </foreign> 
+ 
+<ICE-PHI:S2B-018#19:1:B>
+But <indig> Bayan </indig> has also distanced itself from calls for a coup <foreign> d' état </foreign> saying this goes against the spirit of People Power
+ 
+<ICE-PHI:S2B-018#20:1:B>
+<indig> Bayan </indig> accused those uh behind the alleged coup of merely wanting to secure positions in government <&> a twenty second news clip </&> 
+ 
+<ICE-PHI:S2B-018#21:1:B>
+Since Gloria Macapagal-Arroyo rose to power rumors of a coup have refused to die down
+ 
+<ICE-PHI:S2B-018#22:1:B>
+Political observers or some political observers offer their own take on the phenomenon as well as solutions for putting an end to such talk
+ 
+<ICE-PHI:S2B-018#23:1:B>
+This report from Nadia Trinidad
+
+ <$C> 
+<ICE-PHI:S2B-018#24:1:C>
+Political analysts say almost ninety percent of all coup rumors in Asia originate from the Philippines
+ 
+<ICE-PHI:S2B-018#25:1:C>
+Analysts say destabilization threats are probably triggered by the Filipino 's peculiar penchant for personalities over ideas <&> a five second news clip </&> 
+ 
+<ICE-PHI:S2B-018#26:1:C>
+But those close to President Arroyo say gripers are usually just after political favors <&> a ten second news clip </&> 
+ 
+<ICE-PHI:S2B-018#27:1:C>
+Militant groups are up in arms
+ 
+<ICE-PHI:S2B-018#28:1:C>
+They challenge the President and her men to delve on issues and not on rhetorics <&> a twenty second news clip </&> 
+ 
+<ICE-PHI:S2B-018#29:1:C>
+Analysts say mounting another rebellion may not be advantageous for the country
+ 
+<ICE-PHI:S2B-018#30:1:C>
+It has only been a year since governments have changed
+ 
+<ICE-PHI:S2B-018#31:1:C>
+In the end they say the best defense for the present administration is to have a good offense
+ 
+<ICE-PHI:S2B-018#32:1:C>
+Critics from the left and right all agree that the best antidote for government 's paranoia against political destabilizers is to begin delivering on its promises
+ 
+<ICE-PHI:S2B-018#33:1:C>
+Reporting for <mention> News Central </mention> Nadia Trinidad A B S - C B N News
+
+ <$B> 
+<ICE-PHI:S2B-018#34:1:B>
+Still ahead on <mention> News Central </mention> the lawyers of Nur Misuari file a petition for writ of <foreign> habeas corpus </foreign> and the Estradas wash their hands of alleged plots against the Arroyo government
+ 
+<ICE-PHI:S2B-018#35:1:B>
+These stories and more when News Central returns
+ 
+<ICE-PHI:S2B-018#36:1:B>
+Welcome back
+ 
+<ICE-PHI:S2B-018#37:1:B>
+The lawyers of Nur Misuari have filed a petition for writ of <foreign> habeas corpus </foreign> to compel government to release the renegade governor
+ 
+<ICE-PHI:S2B-018#38:1:B>
+They 've also advised their client not to take part on his own trial since they believe he will never get a fair shake
+ 
+<ICE-PHI:S2B-018#39:1:B>
+This as the clamor for his transfer out of Laguna gets louder
+ 
+<ICE-PHI:S2B-018#40:1:B>
+More from Ni&ntilde;a Corpus
+
+ <$D> 
+<ICE-PHI:S2B-018#41:1:D>
+The clamor for Misuari to leave Santa Rosa is getting louder
+ 
+<ICE-PHI:S2B-018#42:1:D>
+Mayors of the different towns in Laguna have signed a manifesto against Misuari 's detention in Fort Santo Domingo
+ 
+<ICE-PHI:S2B-018#43:1:D>
+They fear his presence there will result in more harm than good
+ 
+<ICE-PHI:S2B-018#44:1:D>
+Aside from security concerns business sentiment in Laguna 's industrial zone is also being affected
+ 
+<ICE-PHI:S2B-018#45:1:D>
+Local officials say they fear investors might think twice before investing their money in Laguna <&> a twelve second news clip </&> 
+ 
+<ICE-PHI:S2B-018#46:1:D>
+More than a hundred Muslim supporters of Misuari also trooped to the site
+ 
+<ICE-PHI:S2B-018#47:1:D>
+They demanded that Misuari be brought to Jolo and face charges there <&> a three second news clip </&> 
+ 
+<ICE-PHI:S2B-018#48:1:D>
+They claim if there 's one person who really wants to leave Santa Rosa it 's no other than Misuari himself <&> a ten second news clip </&> 
+ 
+<ICE-PHI:S2B-018#49:1:D>
+Misuari 's counsel Eli Pamatong says he will recommend Misuari to boycott the case since he believes Misuari will never get a fair trial anywhere in this country <&> a ten second news clip </&> 
+ 
+<ICE-PHI:S2B-018#50:1:D>
+Reporting for <mention> News Central </mention> Ni&ntilde;a Corpus
+
+ <$B> 
+<ICE-PHI:S2B-018#51:1:B>
+Task Force Cervantes continues its efforts to get in touch with a possible witness in the murder of Y O U member Baron Cervantes
+ 
+<ICE-PHI:S2B-018#52:1:B>
+Police say RAM Y O U member Rafael Carde&ntilde;o could prove to be a key witness in the investigation if and when they are able to find him
+ 
+<ICE-PHI:S2B-018#53:1:B>
+Melo del Prado with this report
+
+ <$E> 
+<ICE-PHI:S2B-018#54:1:E>
+Task Force Cervantes has received no word from Superintendent Rafael Carde&ntilde;o
+ 
+<ICE-PHI:S2B-018#55:1:E>
+He is among the RAM Y O U members whom police had invited to shed light on the murder of ex-army officer Baron Cervantes <&> a fifteen second news clip </&> 
+ 
+<ICE-PHI:S2B-018#56:1:E>
+Carde&ntilde;o has been transferred to P N P Recom six after he was removed from the L T O on suspicion he might have a hand in the alleged coup plot against the Arroyo government several months ago
+ 
+<ICE-PHI:S2B-018#58:1:E>
+He was even temporarily detained at Camp Crame <&> a ten second news clip </&> 
+ 
+<ICE-PHI:S2B-018#59:1:E>
+Authorities suspect Carde&ntilde;o has gone into hiding after he was tagged by the C I D G as a possible suspect in the murder of Cervantes 
+ 
+<ICE-PHI:S2B-018#> But while police are looking for him probers will examine Cervantes 's personal computer which he used to download text messages <&> a ten second news clip </&> 
+ 
+<ICE-PHI:S2B-018#60:1:E>
+Some journalists whose names also appeared on Cervantes 's cell phone will be invited together with certain personalities whom Navy Captain Proceso Maligalig and Colonel Romeo Lim have said they also know something about the murder
+ 
+<ICE-PHI:S2B-018#62:1:E>
+Reporting for <mention> News Central </mention> Melo del Prado A B S - C B N News
+
+ <$B> 
+<ICE-PHI:S2B-018#63:1:B>
+Former President Fidel Ramos again denies reports that he is behind a destabilization plot against the Arroyo government
+ 
+<ICE-PHI:S2B-018#64:1:B>
+Mr Ramos insists he has no desire to return to Malaca&ntilde;ang
+ 
+<ICE-PHI:S2B-018#65:1:B>
+Maricar Bautista reports
+
+ <$F> 
+<ICE-PHI:S2B-018#66:1:F>
+Fidel Ramos says it 's not unusual for him to be handing out advice to the country 's Presidents
+ 
+<ICE-PHI:S2B-018#67:1:F>
+He shared nuggets of wisdom with ousted President Joseph Estrada and he 's doing the same thing with President Gloria Macapagal-Arroyo <&> a twenty second news clip </&> 
+ 
+<ICE-PHI:S2B-018#68:1:F>
+But that is the extent of his involvement with government
+ 
+<ICE-PHI:S2B-018#69:1:F>
+Ramos insists he is not interested in seeking another term <&> a twenty second news clip </&> 
+ 
+<ICE-PHI:S2B-018#70:1:F>
+He believes it 's still too early to judge President Arroyo 's performance <&> a seven second news clip </&> 
+ 
+<ICE-PHI:S2B-018#71:1:F>
+He also defended government 's move to put renegade Governor Nur Misuari behind bars and charge him with rebellion <&> a fifteen second news clip </&> 
+ 
+<ICE-PHI:S2B-018#72:1:F>
+Reporting for <mention> News Central </mention> Maricar Bautista A B S - C B N News
+
+ <$B> 
+<ICE-PHI:S2B-018#73:1:B>
+San Juan Mayor J V Ejercito brushes off allegations that his family is behind reported plots against the Arroyo administration
+ 
+<ICE-PHI:S2B-018#74:1:B>
+J V says no group should be blamed for government 's problems since these problems were created by Malaca&ntilde;ang itself
+ 
+<ICE-PHI:S2B-018#75:1:B>
+He also denies his family 's financing destabilization moves against Arroyo saying they no <.> long </.> they no longer have money
+ 
+<ICE-PHI:S2B-018#76:1:B>
+But he warns not granting the perks his father and brother want in detention may lead to an uprising by Estrada 's supporters
+ 
+<ICE-PHI:S2B-018#77:1:B>
+He says it is unfair of government to limit the right of his father to entertain visitors <&> a fifteen second news clip </&> <O> music </O> 
+ 
+<ICE-PHI:S2B-018#78:1:B>
+Up next on News Central nineteen <foreign> Aquila Legis </foreign> members are acquitted in the nineteen ninety-one death of neophyte Leny Villa and former actress Lita Gutierrez dies of cancer in California
+ 
+<ICE-PHI:S2B-018#79:1:B>
+These stories and more when <mention> News Central </mention> returns <&> break in recording </&> 
+ 
+<ICE-PHI:S2B-018#80:1:B>
+Nineteen of the twenty-six suspects in the death of Leny Villa were acquitted by the Court of Appeals
+ 
+<ICE-PHI:S2B-018#81:1:B>
+The Court said it did not find enough evidence against them
+ 
+<ICE-PHI:S2B-018#82:1:B>
+Villa died in a fatal hazing of the <foreign> Aquila Legis </foreign> fraternity in nineteen ninety-one
+ 
+<ICE-PHI:S2B-018#83:1:B>
+Only two were found guilty of homicide
+ 
+<ICE-PHI:S2B-018#84:1:B>
+Josie Sison reports
+
+ <$G> 
+<ICE-PHI:S2B-018#85:1:G>
+It has been more than eight years since the Caloocan Regional Trial Court found twenty-six <foreign> Aquila Legis </foreign> fraternity members guilty of homicide in the fatal hazing of Leny Villa in February nineteen ninety-one
+ 
+<ICE-PHI:S2B-018#86:1:G>
+But today the Court of Appeals acquitted nineteen of the accused
+ 
+<ICE-PHI:S2B-018#87:1:G>
+In a decision written by Justice Yugolo Berzola the appellate court reversed the decision of the Caloocan R T C
+ 
+<ICE-PHI:S2B-018#88:1:G>
+Only two were found guilty of homicide
+ 
+<ICE-PHI:S2B-018#89:1:G>
+Fidelito Dizon and Artemio Villareal have been sentenced to seventeen years of imprisonment
+ 
+<ICE-PHI:S2B-018#90:1:G>
+They were also ordered to pay Villa 's family one million fifty thousand pesos in damages
+ 
+<ICE-PHI:S2B-018#91:1:G>
+Four other <foreign> Aquila Legis </foreign> fraternity members were found guilty of slight physical injuries
+ 
+<ICE-PHI:S2B-018#92:1:G>
+The appellate court said there is no sufficient evidence to prove there was conspiracy
+ 
+<ICE-PHI:S2B-018#93:1:G>
+But it believes Dizon and Villareal had an axe to grind against Villa and another hazing victim Bienvenido Marquez
+ 
+<ICE-PHI:S2B-018#94:1:G>
+The two were the ones who asked for the extension of the initiation rites and Dizon while reportedly beating up Villa kept saying that Villa 's father stole the parking space of his dad
+ 
+<ICE-PHI:S2B-018#95:1:G>
+Villareal on the other hand suspected the family of Marquez as having a hand in the death of his brother
+ 
+<ICE-PHI:S2B-018#96:1:G>
+Villa 's family is disappointed with the decision <&> a fifteen second news clip </&> 
+ 
+<ICE-PHI:S2B-018#97:1:G>
+The Court of Appeals admits its decision may not be popular but the justices stand firm saying they will never be swayed by public opinion
+ 
+<ICE-PHI:S2B-018#98:1:G>
+Reporting for <mention> News Central </mention> Josie Sison A B S - C B N News
+
+ <$B> 
+<ICE-PHI:S2B-018#99:1:B>
+The N B I continues to explore different angles in the Nida Blanca murder case as original leads have so far come up empty
+ 
+<ICE-PHI:S2B-018#100:1:B>
+The Bureau claims evidence-gathering activities continue despite the lack of credible leads
+ 
+<ICE-PHI:S2B-018#101:1:B>
+We have this report from Aladdin Bacolodan
+
+ <$H> 
+<ICE-PHI:S2B-018#102:1:H>
+After exploring several angles in the Nida Blanca murder probe the N B I has yet to come up with clear results and so for the meantime N B I spokesman Atty Ricardo Diaz will keep silent but the evidence-gathering continues
+ 
+<ICE-PHI:S2B-018#103:1:H>
+Seven N B I teams are working on the case
+ 
+<ICE-PHI:S2B-018#104:1:H>
+One team is in Cavite to look for another probable witness
+ 
+<ICE-PHI:S2B-018#105:1:H>
+Other agents will look into the bank accounts of the actress to determine her total assets at the time of her death
+ 
+<ICE-PHI:S2B-018#106:1:H>
+The N B I is also looking into the alleged involvement of former actress Laarni Enriquez following reports deposed President Joseph Estrada had entrusted millions of pesos to Blanca for a joint film venture with Laarni
+ 
+<ICE-PHI:S2B-018#107:1:H>
+But Estrada 's son J V Ejercito laughed off such claims <&> a fifteen second news clip </&> 
+ 
+<ICE-PHI:S2B-018#108:1:H>
+Reporting for <mention> News Central </mention> Aladdin Bacolodan A B S - C B N News
+
+ <$B> 
+<ICE-PHI:S2B-018#109:1:B>
+The L V N golden girls lose another member 
+ 
+<ICE-PHI:S2B-018#> Actress Lita Gutierrez died last night at the age of sixty-three
+ 
+<ICE-PHI:S2B-018#110:1:B>
+Gutierrez was one of the first sex symbols in Philippine cinema
+ 
+<ICE-PHI:S2B-018#111:1:B>
+She died last night in her home in Huntington Beach California after a long battle against cervical cancer
+ 
+<ICE-PHI:S2B-018#112:1:B>
+Gutierrez 's remains will be buried in California tomorrow
+ 
+<ICE-PHI:S2B-018#113:1:B>
+The Las Pi&ntilde;as fiscal 's office will determine within sixty days if it will file an <unclear> 1 word </unclear> murder case against John Mark Doromal boyfriend of former child actress Strawberry
+ 
+<ICE-PHI:S2B-018#114:1:B>
+The complaint was filed by the Picar family against Doromal in connection with a traffic altercation they had last month which resulted in Strawberry 's death
+ 
+<ICE-PHI:S2B-018#115:1:B>
+The fiscal 's office says it needs more time to determine if the complaint should be elevated to the courts
+ 
+<ICE-PHI:S2B-018#116:1:B>
+Police have yet to file charges against anyone in Strawberry 's death
+ 
+<ICE-PHI:S2B-018#117:1:B>
+They say they have yet to collect evidence <&> a twenty-five second news clip </&> 
+ 
+<ICE-PHI:S2B-018#118:1:B>
+The Senate will probe the alleged pyramid scam involving a company owned by Japanese businessman Genta Ogami and Jollibee acquires a Japanese fast food restaurant in the United States
+ 
+<ICE-PHI:S2B-018#119:1:B>
+These stories and more when we return <&> break in recording </&> 
+ 
+<ICE-PHI:S2B-018#120:1:B>
+Around the globe U S President George W Bush has ordered the review of pension and corporate disclosure rules prompted by the collapse of the Enron Corporation
+ 
+<ICE-PHI:S2B-018#121:1:B>
+Bush 's comments came the day after the Justice Department announced the criminal investigation into Enron 's dealings
+ 
+<ICE-PHI:S2B-018#122:1:B>
+Bush 's move seems aimed at distancing his administration from the energy trading firm
+ 
+<ICE-PHI:S2B-018#123:1:B>
+Once the world 's largest energy trader Enron stocks slid in mere weeks going from Wall Street stardom to being the largest company to go bankrupt in U S history
+ 
+<ICE-PHI:S2B-018#124:1:B>
+Its downfall devastated investors and threw thousands out of work
+ 
+<ICE-PHI:S2B-018#125:1:B>
+You can read more world news in the <mention> International Herald Tribune </mention> <O> music </O> 
+ 
+ </I> 

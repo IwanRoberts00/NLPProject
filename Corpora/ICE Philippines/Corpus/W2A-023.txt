@@ -1,0 +1,413 @@
+<I>
+
+<ICE-PHI:W2A-023#1:1>
+<h> <bold> Influenza as Zoonosis: an Overview </bold> </h>
+
+<ICE-PHI:W2A-023#2:1>
+<bold> Celestina G. Robles </bold>
+
+<ICE-PHI:W2A-023#3:1>
+<h> <bold> ABSTRACT </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-023#4:1>
+<it> Influenza is endemic in the Philippines occasionally flaring
+up in sharp periodic outbreaks.
+
+<ICE-PHI:W2A-023#5:1>
+The National Intelligence Health Service of the Philippine Health
+Department has consistently listed it as one of the top three leading causes
+of morbidity among Filipinos.
+
+<ICE-PHI:W2A-023#6:1>
+Pandemic influenza is attributed to the ability of the influenza A
+virus to undergo antigenic drift and antigenic shift resulting in new
+subtypes which escape the neutralizing effect of antibodies induced by
+previous infections or vaccination.
+
+<ICE-PHI:W2A-023#7:1>
+Genetic reassortment and recombination between human and animal
+influenza viruses have also given rise to new subtypes.
+
+<ICE-PHI:W2A-023#8:1>
+Surveillance among human and animal populations to monitor currently
+circulating strains and to detect emerging variants is therefore important in
+determining correct control measures including the appropriate composition of
+influenza vaccines to be produced for the current season.
+
+<ICE-PHI:W2A-023#9:1>
+Extensive serological studies are needed to determine the ecology of
+human and animal influenza viruses in the Philippines, and phylogenetic
+studies of more recent isolates may help trace the evolution of some local
+strains.
+
+<ICE-PHI:W2A-023#10:1>
+A review of literature showed the lack of current information on
+influenza in the Philippines and this all the more emphasizes the need to
+conduct new researches on the virus and its epidemiology in the local
+setting. </it> </p>
+
+<ICE-PHI:W2A-023#11:1>
+<h> <bold> History and epidemiology </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-023#12:1>
+Influenza has been responsible for pandemics, epidemics,
+localized outbreaks as well as sporadic cases resulting in excess deaths and
+substantial mobidity. <fnr> <sp> 1,2 </sp> </fnr>
+
+<ICE-PHI:W2A-023#13:1>
+Epidemics that were probably influenza have been reported throughout
+recorded history.
+
+<ICE-PHI:W2A-023#14:1>
+As early as 1170 and 1500 in England, mention has already been made
+in the medical literature of epidemics of a disease similar to influenza.
+
+<ICE-PHI:W2A-023#15:1>
+But it was only in 1510 that a more authentic epidemic has been
+described.
+
+<ICE-PHI:W2A-023#16:1>
+Since then up to the 19th century, 11 influenza pandemics ( those of
+1510, 1559, 1580, 1593, 1729, 1788, 1830, 1833, 1836, 1847, and 1889) have
+been documented. <fnr> <sp> 3 </sp> </fnr>
+
+<ICE-PHI:W2A-023#17:1>
+In the 20th century there have already been 4 pandemics ( 1918/19,
+1957/58, 1968/69 and 1977).
+
+<ICE-PHI:W2A-023#18:1>
+The great pandemic of 1918/19 caused an estimated 20 million deaths.
+
+<ICE-PHI:W2A-023#19:1>
+Between pandemics usually there have been epidemics of varying
+severity at intervals of one to three years and a trickle of sporadic cases
+every winter. <fnr> <sp> 4 </sp> </fnr>
+
+<ICE-PHI:W2A-023#20:1>
+In the United States during the 1954 epidemic, 70,000 deaths were
+attributed to the Asian strain circulating at the time.
+
+<ICE-PHI:W2A-023#21:1>
+Between 1957 to 1986 the Centers for Disease Control ( CDC) in
+Atlanta, Georgia, documented more than 10,000 excess deaths in each of the 19
+epidemics in the USA, with more than 40,000 deaths in several of them. </p>
+
+<p> 
+<ICE-PHI:W2A-023#22:1>
+In the Philippines the first recorded influenza outbreak occurred
+in 1918 in Manila and nearby provinces ( Bataan, Bulacan, Batangas, Rizal,
+Laguna, Tayabas ( now Quezon), Pampanga, and Nueva Ecija).
+
+<ICE-PHI:W2A-023#23:1>
+The period of April to July of that year saw a high morbidity rate
+but only slight mortality of the affected populations.
+
+<ICE-PHI:W2A-023#24:1>
+However, in the second phase of the epidemic ( October to December),
+mortality was established at 2.5 to 3% ( 71 243 deaths) in the provinces.
+
+<ICE-PHI:W2A-023#25:1>
+In Manila there was an average of 843 cases per day at the height of
+the epidemic, and there were 3.85 deaths per 1000 population.
+
+<ICE-PHI:W2A-023#26:1>
+In 1957, heightened influenza activity was again observed starting in
+April, peaking in May, and finally subsiding in June.
+
+<ICE-PHI:W2A-023#27:1>
+During the period of the epidemic, 10,306 cases were reported with
+216 deaths.
+
+<ICE-PHI:W2A-023#28:1>
+<fnr> <sp> 3 </sp> </fnr> Complement-fixation test and
+hemagglutination-inhibition test results of specimens taken from clinically
+diagnosed influenza patients at that time were highly suggestive of a type A
+( A/PR8/34 and A/FMI/47) influenza infection. <fnr> <sp> 6 </sp> </fnr>
+
+<ICE-PHI:W2A-023#29:1>
+A similar serological evaluation of specimens collected during a
+reported 1960-61 outbreak in Manila also showed 11 of 35 paired samples
+having a significant antibody titre rise against A/Phil/57. <fnr> <sp> 7
+</sp> </fnr>
+
+<ICE-PHI:W2A-023#30:1>
+Isolation of the A/Victoria/3/75 strain of influenza virus and
+serological testing of unpaired sera documented the influenza outbreak during
+June to August of 1975. </p>
+
+<ICE-PHI:W2A-023#31:1>
+<h> <bold> Antigenic drift and antigenic shift </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-023#32:1>
+Although the last severe pandemic was over 20 years ago,
+influenza remains an important viral epidemic disease because of its
+potential to return to its former magnitude. <fnr> <sp> 5 </sp> </fnr>
+
+<ICE-PHI:W2A-023#33:1>
+A major concern is the rapidity with which epidemics evolve because
+of the influenza A virus ' ability to undergo antigenic shift and antigenic
+drift resulting in new strains.
+
+<ICE-PHI:W2A-023#34:1>
+Influenza virus B mutates at a much lesser degree. <fnr> <sp> 9 </sp>
+</fnr>
+
+<ICE-PHI:W2A-023#35:1>
+Emergence of new subtypes and their introduction to a nonimmune
+population results in universal susceptibility. <fnr> <sp> 1,10 </sp> </fnr>
+
+<ICE-PHI:W2A-023#36:1>
+It has therefore become imperative to establish an extensive
+surveillance system for influenza.
+
+<ICE-PHI:W2A-023#37:1>
+The World Health Organization ( WHO) Influenza Surveillance Programme
+has long been a model of international collaboration and rapid exchange of
+information as will be discussed later.
+
+<ICE-PHI:W2A-023#38:1>
+Influenza surveillance not only provides an assessment of the real
+impact of outbreaks but also enables the identification of currently
+circulating variants.
+
+<ICE-PHI:W2A-023#39:1>
+This is especially important since new variants with different
+antigenic determinants can escape the neutralizing antibodies that were
+developed through previous vaccinations or infections.
+
+<ICE-PHI:W2A-023#40:1>
+Thus, in vaccine production, some strains are changed every one or
+two years. </p>
+
+<p> 
+<ICE-PHI:W2A-023#41:1>
+The influenza virus is classified under Family <foreign>
+Orthomyxoviridae </foreign> , Genus Influenzavirus with Species
+Influenzavirus A and Influenzavirus B, and probable Genus Influenzavirus C
+with Species Influenzavirus C.
+
+<ICE-PHI:W2A-023#42:1>
+It is a pleomorphic or filamentous virion with a diameter of 80 to
+120 nm.
+
+<ICE-PHI:W2A-023#43:1>
+From the exterior surface of the lipid envelope project the
+rod-shaped <it> hemagglutinin </it> ( H) and the mushroom-shaped <it>
+neuraminidase </it> ( N) peplomers, both of which carry the subtype-specific
+antigenic determinants.
+
+<ICE-PHI:W2A-023#44:1>
+The genome occurs as 8 separate molecules and reassortment of the
+genes in the 8 RNA segments for hemagglutinin and neuraminidase gives rise to
+<it> antigenic shift </it> .
+
+<ICE-PHI:W2A-023#45:1>
+In antigenic shift there is a change of the epidemic strain to a
+virus having hemagglutinin of a subtype different from previously prevalent
+strains. <fnr> <sp> 9 </sp> </fnr>
+
+<ICE-PHI:W2A-023#46:1>
+The emergence of completely new subtypes due to this antigenic shift,
+and which appear at irregular intervals, are responsible for the pandemics.
+</p>
+
+<p> 
+<ICE-PHI:W2A-023#47:1>
+More gradual antigenic variations or mutations within each
+subtype is known as antigenic drift. <fnr> <sp> 9 </sp> </fnr>
+
+<ICE-PHI:W2A-023#48:1>
+These continuous minor antigenic changes in the strains are
+responsible for interpandemic epidemics. <fnr> <sp> 1 </sp> </fnr>
+
+<ICE-PHI:W2A-023#49:1>
+Results of sub-typing influenza A viruses by immunodiffusion has
+indicated the presence of 12 hemagglutinin subtypes ( designated as H1 to
+H12) and 9 neuraminidase subtypes ( N1 to N9) as based on the 1980 system.
+<fnr> <sp> 9 </sp> </fnr>
+
+<ICE-PHI:W2A-023#50:1>
+However, Ghendon describes 13 H subtypes identified in man and
+several animal species. <fnr> <sp> 2 </sp> </fnr>
+
+<ICE-PHI:W2A-023#51:1>
+Influenza A viruses are responsible for widespread epidemics while
+the influenza B viruses, which are not differentiated into subtypes, are
+responsible mainly for localized outbreaks and the resulting mortality is not
+quite as high as with the A viruses.
+
+<ICE-PHI:W2A-023#52:1>
+Influenza C viruses are also not differentiated into subtypes and are
+rarely isolated from epidemics or outbreaks.
+
+<ICE-PHI:W2A-023#53:1>
+Based on serosurveys C viruses are known to infect the majority of
+persons during childhood causing a mild illness resembling the common cold.
+<fnr> <sp> 9 </sp> </fnr>
+
+<ICE-PHI:W2A-023#54:1>
+Only influenza A viruses are known to infect species other than man
+and are responsible for epizootics of swine influenza, equine influenza, and
+avian influenza ( also called fowl plague). </p>
+
+<p> 
+<ICE-PHI:W2A-023#55:1>
+Theoretically, any combination of H and N is possible but only
+limited ranges of subtypes have actually been found in each species of
+animal. <fnr> <sp> 2 </sp> </fnr>
+
+<ICE-PHI:W2A-023#56:1>
+For human influenza viruses, a large number of antigenically
+distinguishable strains have been identified for the H1, H2, H3, and N1 and
+N2 subtypes.
+
+<ICE-PHI:W2A-023#57:1>
+Nomenclature of influenza virus strains include: ( 1) the letter A,
+B, or C ( to describe the virus species), ( 2) the animal species ( except
+for isolates from man), ( 3) the geographic location of the isolation, ( 4) a
+serial number, and ( 5) for influenza A virus, the subtype of hemagglutinin
+and neuraminidase are added in parenthesis.
+
+<ICE-PHI:W2A-023#58:1>
+Final comparison of the relationship of isolates to reference strains
+within each subtype ( A) or within each type ( B and C) is done by HI and NI
+using highly specific sera from animals.
+
+<ICE-PHI:W2A-023#59:1>
+Some examples of reference strains are : A/Singapore/6/86 ( H1N1),
+A/Singapore/1/57 ( H2N2), A/Port Chalmers/1/77 ( H3N2), B/Panama/45/90, C/Ann
+Arbor/1/50, A/swine/New Jersey/8/76 ( H1N1), and A/equine2/Berlin/5/89 (
+H3N8). <fnr> <sp> 1-2,9 </sp> </fnr> </p>
+
+<p> 
+<ICE-PHI:W2A-023#60:1>
+The clinical manifestation of the disease in man is similar
+whether it is caused by the influenzavirus A, B or C.
+
+<ICE-PHI:W2A-023#61:1>
+Serological tests are needed to establish etiologic diagnosis.
+
+<ICE-PHI:W2A-023#62:1>
+However, influenza A viruses have been implicated in widespread
+epidemics with excess mortality, the B viruses with localized outbreaks and
+with mortality not quite as high as with the A viruses, and the C virus is
+rarely isolated from epidemics and outbreaks but is known to infect the
+majority of persons during childhood causing a mild illness resembling the
+common cold. <fnr> <sp> 9 </sp> </fnr>
+
+<ICE-PHI:W2A-023#63:1>
+Influenza in man is characterized by fever, chilliness, headache,
+myalgia, prostration, coryza and mild sore throat.
+
+<ICE-PHI:W2A-023#64:1>
+Cough is severe and protracted.
+
+<ICE-PHI:W2A-023#65:1>
+It is usually limited and recovery can be expected in 2 to 7 days.
+
+<ICE-PHI:W2A-023#66:1>
+Death is usually due to pneumonia and/or the exacerbation of
+cardiopulmonary and other conditions. <fnr> <sp> 1 </sp> </fnr> </p>
+
+<p> 
+<ICE-PHI:W2A-023#67:1>
+Virological surveillance reveals that analogues of
+A/Philippines/2/82 ( H3N2) were isolated from different parts of the world (
+such as Finland, Czechoslovakia, USSR ( Leningrad), USA ( New York), and
+Papua New Guinea) including the Philippines during the period 1980 to 1985.
+<fnr> <sp> 13-21 </sp> </fnr>
+
+<ICE-PHI:W2A-023#68:1>
+The biological activities of this variant ( or its recombinant
+forms), as demonstrated by <it> <foreign> in vitro </foreign> </it> studies,
+may indicate a rather high level of pathogenicity. <fnr> <sp> 22-24 </sp>
+</fnr>
+
+<ICE-PHI:W2A-023#69:1>
+A case of a pregnant woman who died from pneumonia caused by
+influenza ( A/Philippines/2/82) has been reported. <fnr> <sp> 25 </sp> </fnr>
+
+<ICE-PHI:W2A-023#70:1>
+The influenza ( A/Philippines/2/82) strain was incorporated in the
+1984-1985 human and animal influenza vaccine formulations and was determined
+to elicit satisfactory antibody response with minimal side effects. <fnr>
+<sp> 14,26-36 </sp> </fnr> </p>
+
+<p> 
+<ICE-PHI:W2A-023#71:1>
+Figure 1 illustrates the theory of the &ldquo; recycling &rdquo;
+of the human influenza A virus whereby the three subtypes H1N1, H2N2, and
+H3N2, seem to emerge in succession in more or less periodic intervals. </p>
+
+<ICE-PHI:W2A-023#72:1>
+<h> <bold> A unique zoonosis </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-023#73:1>
+By definition a zoonosis is a disease that is transmissible from
+animals to man and <foreign> vice versa </foreign> .
+
+<ICE-PHI:W2A-023#74:1>
+The influenza A virus does not simply directly infect man and
+animals; most pandemic strains or new subtypes have been found to emerge from
+genetic reassortment between subtypes in animal hosts and human viruses.
+
+<ICE-PHI:W2A-023#75:1>
+Phylogenetic studies have demonstrated that aquatic birds are the
+primordial source of all influenza viruses in other species, and that pigs
+serve as intermediate hosts in the genetic exchange between influenza viruses
+in avian and human species. <fnr> <sp> 37-39 </sp> </fnr> </p>
+
+<p> 
+<ICE-PHI:W2A-023#76:1>
+The earliest known influenza viruses were those of the fowl
+plague viruses but their relationship to human influenza virus was not yet
+known at the time.
+
+<ICE-PHI:W2A-023#77:1>
+Antigenic analysis of many isolates of animal influenza viruses have
+shown that among avian isolates, H and N antigens exist that cross-react with
+each of the subtypes found for human influenza viruses, e. g. A/Hong
+Kong/1/68 ( H3N2) reacting with A/duck/Germany/1215 ( H3N2), or
+A/Japan/305/57 ( H2N2) reacting with A/turkey/Mass/3740/65 ( H6N2). <fnr>
+<sp> 9 </sp> </fnr>
+
+<ICE-PHI:W2A-023#78:1>
+Avian influenza is worldwide and reported outbreaks had occurred in
+chickens, turkeys, ducks, pheasants, quails, pigeons, geese and various wild
+species.
+
+<ICE-PHI:W2A-023#79:1>
+All 13 H subtypes and all 9 N subtypes of the virus have been
+isolated in all species of birds. <fnr> <sp> 12 </sp> </fnr>
+
+<ICE-PHI:W2A-023#80:1>
+Substantial economic losses are incurred during an epizootic in a
+commercial farm due to high mortality rate, drastic drop in egg production,
+and costs of control measures including depopulation.
+
+<ICE-PHI:W2A-023#81:1>
+For example, the Pennsylvania and Virginia epidemics of 1983-84,
+caused by subtype H5N2, resulted in the slaughter of over 17 million birds
+costing approximately 40 million US dollars in indemnity. <fnr> <sp> 12,40
+</sp> </fnr>
+
+<ICE-PHI:W2A-023#82:1>
+Mixed infections of birds with several subtypes may occur, leading to
+recombination. <fnr> <sp> 9 </sp> </fnr>
+
+<ICE-PHI:W2A-023#83:1>
+Avian influenza is characterized mainly by respiratory signs but the
+disease signs range from only a slight decrease in egg production or
+fertility to a high fatal fulminating infection.
+
+<ICE-PHI:W2A-023#84:1>
+In severely affected hosts, cyanosis and edema of the head, comb and
+wattle with blood-stained oral and nasal discharges are common.
+
+<ICE-PHI:W2A-023#85:1>
+Sinusitis is not uncommon in ducks, quail and turkeys. <fnr> <sp> 41
+</sp> </fnr> </p> </I>

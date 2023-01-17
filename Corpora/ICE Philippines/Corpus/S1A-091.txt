@@ -1,0 +1,821 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-091#1:1:A>
+Uh hello
+
+ <$B> 
+<ICE-PHI:S1A-091#2:1:B>
+Hello
+
+ <$A> 
+<ICE-PHI:S1A-091#3:1:A>
+Hi
+ 
+<ICE-PHI:S1A-091#4:1:A>
+Can I talk to Cherry
+
+ <$B> 
+<ICE-PHI:S1A-091#5:1:B>
+Yeah this is Cherry speaking
+
+ <$A> 
+<ICE-PHI:S1A-091#7:1:A>
+Oh Cherry this is Chris
+
+ <$B> 
+<ICE-PHI:S1A-091#8:1:B>
+Oh Chris yes
+
+ <$A> 
+<ICE-PHI:S1A-091#9:1:A>
+How are you
+
+ <$B> 
+<ICE-PHI:S1A-091#10:1:B>
+Uh yes I 'm fine
+
+ <$A> 
+<ICE-PHI:S1A-091#11:1:A>
+Well uhm just called to ask you something
+
+ <$B> 
+<ICE-PHI:S1A-091#12:1:B>
+Uh about what <O> laughter </O> 
+ 
+<ICE-PHI:S1A-091#13:1:B>
+You 're so straight to the point <{> <[> <,> </[> 
+ 
+<ICE-PHI:S1A-091#14:1:B>
+So how are you
+
+ <$A> 
+<ICE-PHI:S1A-091#15:1:A>
+<[> Straight to the point </[> </{> 
+ 
+<ICE-PHI:S1A-091#16:1:A>
+Well I 'm doing fine I 'm doing okay
+
+ <$B> 
+<ICE-PHI:S1A-091#17:1:B>
+Doing <{> <[> okay </[> 
+ 
+<ICE-PHI:S1A-091#18:1:B>
+Uh so you 're in the bank right now
+
+ <$A> 
+<ICE-PHI:S1A-091#19:1:A>
+<[> Yeah </[> </{> 
+
+
+
+<ICE-PHI:S1A-091#> <{> <[> Yes </[> I 'm doing some work
+
+ <$B> 
+<ICE-PHI:S1A-091#20:1:B>
+<[> Uhm </[> </{> still working at this time
+
+ <$A> 
+<ICE-PHI:S1A-091#21:1:A>
+Of course it is the only time that I can really work freely you know
+
+ <$B> 
+<ICE-PHI:S1A-091#22:1:B>
+Uh you 're really working hard <indig> ha </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-091#23:1:A>
+Yeah you know you know us we have to earn some money
+
+ <$B> 
+<ICE-PHI:S1A-091#25:1:B>
+Some money for what for your future
+ 
+<ICE-PHI:S1A-091#26:1:B>
+Are you getting married
+
+ <$A> 
+<ICE-PHI:S1A-091#27:1:A>
+No for my vices <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-091#28:1:B>
+For your vices
+
+ <$A> 
+<ICE-PHI:S1A-091#29:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1A-091#30:1:B>
+Uhm you 're you 're not telling the truth
+
+ <$A> 
+<ICE-PHI:S1A-091#31:1:A>
+Not telling the truth
+
+ <$B> 
+<ICE-PHI:S1A-091#32:1:B>
+Yes because I know that you don't have any vices
+
+ <$A> 
+<ICE-PHI:S1A-091#33:1:A>
+Oh
+
+ <$B> 
+<ICE-PHI:S1A-091#34:1:B>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-091#35:1:A>
+So it shows that you don't know me real well <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-091#36:1:B>
+Oh <O> speakers A and B laugh </O> 
+
+
+
+<ICE-PHI:S1A-091#> So how are you
+
+ <$A> 
+<ICE-PHI:S1A-091#37:1:A>
+Yeah again
+
+ <$B> 
+<ICE-PHI:S1A-091#38:1:B>
+<indig> Ha </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-091#39:1:A>
+Again I 'm doing okay
+
+ <$B> 
+<ICE-PHI:S1A-091#40:1:B>
+Doing okay uhm okay
+
+ <$A> 
+<ICE-PHI:S1A-091#41:1:A>
+Well how are your sisters are they there
+
+ <$B> 
+<ICE-PHI:S1A-091#43:1:B>
+No uh Rica 's uhm in a meeting at church with Arlene
+
+ <$A> 
+<ICE-PHI:S1A-091#44:1:A>
+Church
+
+ <$B> 
+<ICE-PHI:S1A-091#45:1:B>
+<indig> Oo </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-091#46:1:A>
+Hey why are you not with them
+
+ <$B> 
+<ICE-PHI:S1A-091#47:1:B>
+Uh because I I don't need to be there
+ 
+<ICE-PHI:S1A-091#48:1:B>
+Uhm it 's just their business <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-091#49:1:A>
+Oh I see
+ 
+<ICE-PHI:S1A-091#50:1:A>
+It 's not because you 're excommunicated already
+
+ <$B> 
+<ICE-PHI:S1A-091#51:1:B>
+No I 'm not
+
+ <$A> 
+<ICE-PHI:S1A-091#52:1:A>
+Not yet <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-091#53:1:B>
+Not yet <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-091#54:1:A>
+You still don't know it yet <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-091#55:1:B>
+Yeah that I have uh you know some kind of <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-091#56:1:A>
+<unclear> words </unclear> 
+ 
+<ICE-PHI:S1A-091#57:1:A>
+Well hey I 'm wondering about the school you 're in right now
+
+ <$B> 
+<ICE-PHI:S1A-091#58:1:B>
+A T S you mean Asian Theological Seminary
+
+ <$A> 
+<ICE-PHI:S1A-091#59:1:A>
+Yes I would like to ask well I 'd like to inquire about some questions
+
+ <$B> 
+<ICE-PHI:S1A-091#61:1:B>
+Uh you 're interested to uh enroll
+
+ <$A> 
+<ICE-PHI:S1A-091#62:1:A>
+I 'm considering if you 're if that 's what you mean yes I 'm considering
+
+ <$B> 
+<ICE-PHI:S1A-091#63:1:B>
+Uh you 're considering uh
+
+ <$A> 
+<ICE-PHI:S1A-091#64:1:A>
+Well uh first of all it 's you know well uh like I have told you before
+
+ <$B> 
+<ICE-PHI:S1A-091#65:1:B>
+Uh huh
+
+ <$A> 
+<ICE-PHI:S1A-091#66:1:A>
+I really want to enter uh seminary
+ 
+<ICE-PHI:S1A-091#67:1:A>
+It 's just that I don't have that uh it 's not yet the right time 
+ 
+<ICE-PHI:S1A-091#69:1:A>
+Well I think now uhm I can uhm uh although I 'm still working I think I can uhm include studying <{> <[> there </[> as part of my routine
+
+ <$B> 
+<ICE-PHI:S1A-091#70:1:B>
+<[> Uh-huh </[> </{> uh I see
+
+ <$A> 
+<ICE-PHI:S1A-091#71:1:A>
+So uhm where is it located again A T S
+
+ <$B> 
+<ICE-PHI:S1A-091#72:1:B>
+That 's in uh Timog
+
+ <$A> 
+<ICE-PHI:S1A-091#73:1:A>
+Timog
+
+ <$B> 
+<ICE-PHI:S1A-091#74:1:B>
+Yeah it 's in Scout Madri&ntilde;an in Quezon City
+
+ <$A> 
+<ICE-PHI:S1A-091#75:1:A>
+Oh I see
+
+ <$B> 
+<ICE-PHI:S1A-091#76:1:B>
+It 's near Timog area you know uh the circle Timog circle
+
+ <$A> 
+<ICE-PHI:S1A-091#77:1:A>
+I 'm sorry I 'm not that I 'm not that familiar
+
+ <$B> 
+<ICE-PHI:S1A-091#78:1:B>
+Uh you 're not familiar uh but uhm I can show you uh I can show you the way or I can come with you I can go with you I mean
+
+ <$A> 
+<ICE-PHI:S1A-091#79:1:A>
+Oh really
+
+ <$B> 
+<ICE-PHI:S1A-091#80:1:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1A-091#81:1:A>
+Oh that 's very nice of you <O> laughter </O> quite unlike you
+
+ <$B> 
+<ICE-PHI:S1A-091#82:1:B>
+Oh what do you mean uh you mean I 'm so <O> laughter </O> I 'm not a good person <indig> ha </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-091#83:1:A>
+No hey you said it not me <O> laughter </O> <indig> 'no </indig> I 'm just I 'm just teasing you uh well
+
+ <$B> 
+<ICE-PHI:S1A-091#84:1:B>
+Yeah but you have uh a future plan to be a pastor right
+
+ <$A> 
+<ICE-PHI:S1A-091#85:1:A>
+That 's what I tell myself yes uhm
+ 
+<ICE-PHI:S1A-091#86:1:A>
+Well uhm how about the tuition is it how much how much uh
+
+ <$B> 
+<ICE-PHI:S1A-091#87:1:B>
+Tuition fee you mean
+
+ <$A> 
+<ICE-PHI:S1A-091#88:1:A>
+Yes how much is it per per unit
+ 
+<ICE-PHI:S1A-091#89:1:A>
+I mean is it affordable or
+
+ <$B> 
+<ICE-PHI:S1A-091#90:1:B>
+Yeah it is <indig> 'no </indig> 
+ 
+<ICE-PHI:S1A-091#91:1:B>
+Uhm I just spend around four thousand uh plus or yeah about four thousand or less than five thousand I mean for a nine-unit uh course
+
+ <$A> 
+<ICE-PHI:S1A-091#92:1:A>
+Nine-unit course
+
+ <$B> 
+<ICE-PHI:S1A-091#93:1:B>
+Yeah nine-unit subject
+
+ <$A> 
+<ICE-PHI:S1A-091#94:1:A>
+Uh-huh I see okay
+ 
+<ICE-PHI:S1A-091#95:1:A>
+Well uhm do they have a dorm there so that I
+
+ <$B> 
+<ICE-PHI:S1A-091#96:1:B>
+No I don't they don't have uh a dorm in which you can stay but they have a lounge <O> laughter </O> a student lounge I mean but uh you cannot cannot stay there overnight <{> <[> <,> </[> 
+ 
+<ICE-PHI:S1A-091#97:1:B>
+It 's just a small uh uh bed bed space something like that uh but you cannot uh stay there overnight but some of our uh classmates or uh schoolmates I mean who are foreigners they stayed uh near near the campus area uhm
+
+ <$A> 
+<ICE-PHI:S1A-091#98:1:A>
+<[> Oh </[> </{> 
+
+
+
+<ICE-PHI:S1A-091#> So it 's like a boarding house I mean
+
+ <$B> 
+<ICE-PHI:S1A-091#99:1:B>
+Yeah they they board near that area uh along Quezon City yeah
+
+ <$A> 
+<ICE-PHI:S1A-091#100:1:A>
+Well how long are you planning to study there
+ 
+<ICE-PHI:S1A-091#101:1:A>
+How long have you been there already
+
+ <$B> 
+<ICE-PHI:S1A-091#102:1:B>
+Actually I 'm taking up a three-year <indig> ay </indig> no it 's a two-year course
+
+ <$A> 
+<ICE-PHI:S1A-091#103:1:A>
+Okay
+
+ <$B> 
+<ICE-PHI:S1A-091#104:1:B>
+<indig> 'No </indig> two-year course degree program
+ 
+<ICE-PHI:S1A-091#105:1:B>
+It 's Master of Arts in Christian Education uh that 's uhm a total of I think fifty fifty plus something units <indig> 'no </indig> uh and then uh I 'm planning to finish it at uh March year two thousand two
+
+ <$A> 
+<ICE-PHI:S1A-091#106:1:A>
+Two thousand two
+
+ <$B> 
+<ICE-PHI:S1A-091#107:1:B>
+Yeah it 's a two-year course but I 'm gonna finish it by in three years I mean uh <{> <[> in three years' time uhm </[> 
+
+ <$A> 
+<ICE-PHI:S1A-091#108:1:A>
+<[> In three years' time </[> </{> 
+ 
+<ICE-PHI:S1A-091#109:1:A>
+So how long have you been there
+
+ <$B> 
+<ICE-PHI:S1A-091#110:1:B>
+I started last uh June nineteen ninety-nine and then I 'm taking nine units uh per sem
+
+ <$A> 
+<ICE-PHI:S1A-091#111:1:A>
+Okay per semester
+
+ <$B> 
+<ICE-PHI:S1A-091#112:1:B>
+<indig> Oo </indig> yeah per semester so uh uhm right now I 'm almost half way done thank God <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-091#114:1:A>
+Oh I see <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-091#115:1:B>
+I I just finished three semesters <indig> 'no </indig> then uh the following year there 're going to be another two semesters plus this coming sem so that 's a total of three semesters with nine nine units per semester
+
+ <$A> 
+<ICE-PHI:S1A-091#116:1:A>
+Uh hey you mentioned earlier that there are foreigners also studying there
+ 
+<ICE-PHI:S1A-091#117:1:A>
+Well how how 's the atmosphere over there uhm meaning the locals and the foreigners
+
+ <$B> 
+<ICE-PHI:S1A-091#118:1:B>
+Yeah there are we 're doing fine with with the foreigners you know they 're uh they 're friendly also and uh you know you can learn from them uh the way their culture are the way they they value things and they uh the way they uhm treat us you know uh yeah you can you can uh be friends with them <indig> oo <indig> 
+
+ <$A> 
+<ICE-PHI:S1A-091#119:1:A>
+Yeah like what kind of foreigners are there
+
+ <$B> 
+<ICE-PHI:S1A-091#120:1:B>
+Uh most of them are the Koreans and uh uh Malaysians the Burmese yeah we also have uh Americans Argentineans
+ 
+<ICE-PHI:S1A-091#121:1:B>
+<{> <[> It 's like uh uh </[> an international school that you 're in
+
+ <$A> 
+<ICE-PHI:S1A-091#122:1:A>
+<[> Oh I see </[> </{> <O> laughter </O> ha ha I 'm in
+
+ <$B> 
+<ICE-PHI:S1A-091#123:1:B>
+That you 're in if you 're there <O> laughter </O> <indig> o </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-091#124:1:A>
+Well all of you talk in English you mean that 's the common language that you use
+
+ <$B> 
+<ICE-PHI:S1A-091#126:1:B>
+That 's the common language to use in in the class but uh if you 're talking with fellow uh Filipinos then you can you can converse in Tagalog
+
+ <$A> 
+<ICE-PHI:S1A-091#127:1:A>
+Oh I see
+
+ <$B> 
+<ICE-PHI:S1A-091#128:1:B>
+But if you 're talking to a foreigner but some of them you know uh the foreigners can also understand uh Filipino so uhm they they would like to learn also our language so yeah they you can talk to them in English then with uh some Filipino words to help them also to learn
+
+ <$A> 
+<ICE-PHI:S1A-091#129:1:A>
+Well how about how about the age I mean <{1> <[1> are they all the same age as you <[1> 
+ 
+<ICE-PHI:S1A-091#131:1:A>
+<{2> <[2> You 're still quite young </[2> 
+
+ <$B> 
+<ICE-PHI:S1A-091#132:1:B>
+<[1> The age </[1> </{1> 
+ 
+<ICE-PHI:S1A-091#133:1:B>
+<[2> Oh you mean you </[2> </{2> 
+ 
+<ICE-PHI:S1A-091#134:1:B>
+Yeah you know uhm uhm some of them maybe I can say that they are around forties the thirties the
+ 
+<ICE-PHI:S1A-091#135:1:B>
+From thirties forties to fifties uh only a few are uh in the line of twenties <indig> <{> <[> oo </[> </indig> I
+
+ <$A> 
+<ICE-PHI:S1A-091#136:1:A>
+<[> Oh I see </[> </{> 
+ 
+<ICE-PHI:S1A-091#137:1:A>
+So some can pass as your grandfather <unclear> words </unclear> 
+
+ <$B> 
+<ICE-PHI:S1A-091#138:1:B>
+<O> laughter </O> Yeah you know the first time I was in the class uh the the first day of my class in A T S uh they thought I was the youngest in the class
+
+ <$A> 
+<ICE-PHI:S1A-091#139:1:A>
+Yeah looks can be deceiving
+
+ <$B> 
+<ICE-PHI:S1A-091#140:1:B>
+Looks can be deceiving <O> laughter </O> and my height too
+
+ <$A> 
+<ICE-PHI:S1A-091#141:1:A>
+Yeah you can pass as a <indig> 'no </indig> just cute
+
+ <$B> 
+<ICE-PHI:S1A-091#142:1:B>
+As a what as a grade schooler
+
+ <$A> 
+<ICE-PHI:S1A-091#143:1:A>
+Yeah a grade schooler
+ 
+<ICE-PHI:S1A-091#144:1:A>
+It 's a compliment by the way <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-091#145:1:B>
+Yeah that 's a compliment okay thank you <O> laughter </O> 
+ 
+<ICE-PHI:S1A-091#146:1:B>
+<indig> O </indig> so you are planning to enroll this sem this coming sem
+
+ <$A> 
+<ICE-PHI:S1A-091#147:1:A>
+Yes well actually I have here a brochure or a catalogue of another school
+
+ <$B> 
+<ICE-PHI:S1A-091#148:1:B>
+Of another school
+
+ <$A> 
+<ICE-PHI:S1A-091#149:1:A>
+Yes it 's quite near our office it 's around it is also in Makati
+ 
+<ICE-PHI:S1A-091#152:1:A>
+Uhm I 'm kind of thinking which school would be best suited for me
+
+ <$B> 
+<ICE-PHI:S1A-091#153:1:B>
+Of course our school is the best <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-091#154:1:A>
+Well of course <O> laughter </O> whatever you say
+
+ <$B> 
+<ICE-PHI:S1A-091#155:1:B>
+But you know what uh what kind of uh degree program would you like to be into 
+
+
+
+<ICE-PHI:S1A-091#> I mean would you like to be a missionary or a pastor maybe you can get uhm M Div <&> Masters in Divinity </&> in Mission or M Div in Pastoral Studies something like Biblical Studies
+
+ <$A> 
+<ICE-PHI:S1A-091#156:1:A>
+Well uhm well I really like to work in a school <{> <[> as a counselor </[> or even as a teacher even a seminary teacher you know I enjoy I enjoy teaching 
+
+ <$B> 
+<ICE-PHI:S1A-091#157:1:B>
+<[> A school </[> </{> 
+ 
+<ICE-PHI:S1A-091#160:1:B>
+Teaching maybe you can get the same uhm degree program as I am uh as I am into
+
+ <$A> 
+<ICE-PHI:S1A-091#161:1:A>
+Okay which is
+
+ <$B> 
+<ICE-PHI:S1A-091#162:1:B>
+Uh that 's M A in Christian Education but you can get the the M Div in Christian Education which is uh a higher you know a higher program because you you learn uh Greek the Hebrew
+
+ <$A> 
+<ICE-PHI:S1A-091#163:1:A>
+Oh you learn the Greek language you mean they teach Greek
+
+ <$B> 
+<ICE-PHI:S1A-091#164:1:B>
+Yeah they teach Greek and Hebrew in M Div courses but in M A courses they don't teach
+ 
+<ICE-PHI:S1A-091#165:1:B>
+We don't have to uh we don't require to get that uh subject
+
+ <$A> 
+<ICE-PHI:S1A-091#166:1:A>
+Oh I see okay
+
+ <$B> 
+<ICE-PHI:S1A-091#167:1:B>
+Uh yeah but uh you know M Div is much uh uh it 's much difficult but uh it 's more challenging if you are in that uh course
+
+ <$A> 
+<ICE-PHI:S1A-091#168:1:A>
+So those courses uhm mold you into a pastor or
+
+ <$B> 
+<ICE-PHI:S1A-091#169:1:B>
+Uh more likely yeah more likely into a uh pastor or a church church leader type yeah
+
+ <$A> 
+<ICE-PHI:S1A-091#170:1:A>
+Church leader <{> <[> <,> </[> sounds interesting
+ 
+<ICE-PHI:S1A-091#171:1:A>
+Well what other courses do your school offer
+
+ <$B> 
+<ICE-PHI:S1A-091#172:1:B>
+<[> Yeah </[> </{> 
+
+
+
+<ICE-PHI:S1A-091#> We also have uhm Master of Arts in <O> laughter </O> <&> interruption by another person </&> 
+ 
+<ICE-PHI:S1A-091#173:1:B>
+Hold it <indig> ha </indig> 
+
+ <$A> 
+<ICE-PHI:S1A-091#174:1:A>
+Sure 
+
+ <$B> 
+<ICE-PHI:S1A-091#175:1:B>
+<O> laughter </O> Chris Chris
+ 
+<ICE-PHI:S1A-091#176:1:B>
+So uhm
+
+ <$A> 
+<ICE-PHI:S1A-091#177:1:A>
+Yes where were we
+
+ <$B> 
+<ICE-PHI:S1A-091#179:1:B>
+Where were we <O> laughter </O> 
+
+ <$A> 
+<ICE-PHI:S1A-091#180:1:A>
+You were talking about
+
+ <$B> 
+<ICE-PHI:S1A-091#181:1:B>
+We were talking about the uh M Div in Counseling right
+ 
+<ICE-PHI:S1A-091#182:1:B>
+I 'm telling you about another degree program called counseling
+
+ <$A> 
+<ICE-PHI:S1A-091#183:1:A>
+Oh hey that sounds very interesting
+
+ <$B> 
+<ICE-PHI:S1A-091#184:1:B>
+Yeah you can enroll in that uh field if you want to if you have if you feel you have the gift of being a counselor
+
+ <$A> 
+<ICE-PHI:S1A-091#185:1:A>
+Oh you know I always imagine myself talking to uh high schoolers teenagers about matters of you know the heart or whatever their schooling
+ 
+<ICE-PHI:S1A-091#186:1:A>
+I really enjoy their company you know that might be a very good field for me
+
+ <$B> 
+<ICE-PHI:S1A-091#187:1:B>
+Yeah maybe you can you can uh enroll in that course
+
+ <$A> 
+<ICE-PHI:S1A-091#188:1:A>
+The thing that uh your school and this school that I have a brochure with offers the same courses
+
+ <$B> 
+<ICE-PHI:S1A-091#189:1:B>
+Does it offer uh counseling program also in that school you uh the one that you 'are saying
+
+ <$A> 
+<ICE-PHI:S1A-091#190:1:A>
+Counseling program yes I think so
+
+ <$B> 
+<ICE-PHI:S1A-091#191:1:B>
+They have
+
+ <$A> 
+<ICE-PHI:S1A-091#192:1:A>
+Yeah it says here that they have actually they already have a schedule a schedule for the year
+
+ <$B> 
+<ICE-PHI:S1A-091#193:1:B>
+Yeah uh-huh
+
+
+
+<ICE-PHI:S1A-091#> Uh uh is it uh the schedule is uh uh only in A M
+ 
+<ICE-PHI:S1A-091#194:1:B>
+I mean in morning and afternoon
+
+ <$A> 
+<ICE-PHI:S1A-091#195:1:A>
+Well I 'm planning to go to that school tomorrow tomorrow morning
+
+ <$B> 
+<ICE-PHI:S1A-091#196:1:B>
+To inquire about
+
+ <$A> 
+<ICE-PHI:S1A-091#197:1:A>
+To inquire more about it
+
+ <$B> 
+<ICE-PHI:S1A-091#198:1:B>
+Okay
+
+ <$A> 
+<ICE-PHI:S1A-091#199:1:A>
+It 's quite interesting
+
+ <$B> 
+<ICE-PHI:S1A-091#200:1:B>
+Because in our school we also have evening classes in some subjects particularly the the Old Testament survey or New Testament survey
+
+ <$A> 
+<ICE-PHI:S1A-091#201:1:A>
+But it 's very quite far from where I am
+
+ <$B> 
+<ICE-PHI:S1A-091#202:1:B>
+Yeah it 's quite far from your place of work in Makati right <indig> 'no </indig> but uh uh the joy of seeing me there <O> speakers A and B laugh </O> the joy of seeing me there and uh with uh some of my classmates you know we can make you happy
+
+ <$A> 
+<ICE-PHI:S1A-091#203:1:A>
+That definitely makes me feel <?> wholesome </?> <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-091#204:1:B>
+What it makes you feel what
+
+ <$A> 
+<ICE-PHI:S1A-091#206:1:A>
+<?> Wholesome </?> 
+
+ <$B> 
+<ICE-PHI:S1A-091#207:1:B>
+Handsome
+
+ <$A> 
+<ICE-PHI:S1A-091#208:1:A>
+No
+ 
+<ICE-PHI:S1A-091#209:1:A>
+Well yeah that too <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-091#210:1:B>
+Ahhh so uh it 's nice that you are planning to enroll <indig> 'no </indig> 
+ 
+<ICE-PHI:S1A-091#211:1:B>
+Hopefully that in five years time you 'll be a pastor
+
+ <$A> 
+<ICE-PHI:S1A-091#212:1:A>
+Five years <{> <[> <,> </[> oh that long
+
+ <$B> 
+<ICE-PHI:S1A-091#213:1:A>
+<[> Yeah </[> </{> 
+
+
+
+<ICE-PHI:S1A-091#> That 's long
+
+ <$A> 
+<ICE-PHI:S1A-091#214:1:A>
+I can't wait for that long
+
+ <$B> 
+<ICE-PHI:S1A-091#215:1:B>
+You can't wait <indig> ha </indig> so if you are going to study you should uh resign from your job
+
+ <$A> 
+<ICE-PHI:S1A-091#216:1:A>
+I can't I 'm sorry but I can't
+
+ <$B> 
+<ICE-PHI:S1A-091#218:1:B>
+You can't also so how is that
+
+ <$A> 
+<ICE-PHI:S1A-091#219:1:A>
+Well I 'm planning to uh take my classes during lunch break <O> laughter </O> 
+
+ <$B> 
+<ICE-PHI:S1A-091#220:1:B>
+Oh that 's not possible <{1> <[1> <,> </[1> <O> laughter </O> because uh one or a subject is uh most of the subjects are three-unit courses uh uh three-unit subjects I mean and uh you need three hours <{2> <[2> <,> </[2> per subject
+
+ <$A> 
+
+
+<ICE-PHI:S1A-091#> <[1> I know </[1> </{1> 
+
+
+
+<ICE-PHI:S1A-091#> <[2> Yeah just kidding just kidding </[2> </{2> 
+ 
+ </I> 

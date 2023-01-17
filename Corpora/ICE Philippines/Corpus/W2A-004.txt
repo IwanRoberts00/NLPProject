@@ -1,0 +1,501 @@
+<I>
+
+<ICE-PHI:W2A-004#1:1>
+<h> <bold> DO FILIPINO FEMALES TELL NARRATIVES THE WAY FILIPINO MALES
+DO? </bold> </h>
+
+<ICE-PHI:W2A-004#2:1>
+<bold> Cecilia M. Mendiola </bold>
+
+<ICE-PHI:W2A-004#3:1>
+<bold> Philippine Normal University </bold>
+
+<ICE-PHI:W2A-004#4:1>
+<h> <bold> 1. INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-004#5:1>
+Gender has long been recognized as a sociolinguistic variable (
+Wolfson 1982, 1989; Librando 1972; Trudgill 1974, 1984; Labov 1972) that
+conditions the way language is used in everyday social interactions.
+
+<ICE-PHI:W2A-004#6:1>
+To illustrate, Labov observes that women use preferred, socially 'correct',
+non-stigmatized phonological variants more than men.
+
+<ICE-PHI:W2A-004#7:1>
+Their tendency to use more 'correct forms' than men is upheld in
+Trudgill 's Norwich study.
+
+<ICE-PHI:W2A-004#8:1>
+On the other hand, Wolfson 's investigation of compliments in American
+society reveals the interaction of topic of compliment with the status and
+the sex of the addressee.
+
+<ICE-PHI:W2A-004#9:1>
+The effect of status as a variable, she asserts, is very strong when
+the sex of the addressee is male.
+
+<ICE-PHI:W2A-004#10:1>
+Her study shows that upper-status males seldom receive compliments
+which have nearly nothing to do with appearance. </p>
+
+<p> 
+<ICE-PHI:W2A-004#11:1>
+In linguistic anthropological research, it is commonly assumed
+that <quote> &ldquo; sexual differentiation of speech is expected to occur
+whenever there is a social division that exists between the roles of men and
+women - - that is, universally &rdquo; </quote> ( Gal 1984).
+
+<ICE-PHI:W2A-004#12:1>
+The underlying definition and differentiation of gender roles,
+ingrained in boys and girls as early as the socialization process, nourished
+by cultural norms and expectations, in turn, explains gender-related speech
+differences ( Millet 1970).
+
+<ICE-PHI:W2A-004#13:1>
+To be feminine in the Philippine context, Mendez <foreign> et al.
+</foreign> ( cited by Medina 1991) hold, girls are expected to be modest and
+reserved, while to manifest masculine behavior, boys must demonstrate
+courtesy to girls and sportsmanship.
+
+<ICE-PHI:W2A-004#14:1>
+To a large extent, these behaviors are equally reflected in the
+differential speech of boys and girls. </p>
+
+<p> 
+<ICE-PHI:W2A-004#15:1>
+While there have been studies of linguistic differences between
+men and women at various levels of language - - phonology, lexicon, discourse
+even - - to this researcher 's knowledge there are no existing empirical
+studies on the similarities and differences in men 's and women 's telling of
+stories.
+
+<ICE-PHI:W2A-004#16:1>
+This study, therefore, attempts to fill that gap.
+
+<ICE-PHI:W2A-004#17:1>
+Specifically, this study purports to answer this question: Are there
+gender differences related to the telling of first-person narratives with
+reference to age, role relationship, topic, intimacy of interaction,
+familiarity of interaction, and number of interlocutors? </p>
+
+<ICE-PHI:W2A-004#18:1>
+<h> <bold> 2. RELATED STUDIES </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-004#19:1>
+Studies on gender distinctions in language use and form spring
+from three angles of vision: the structuralist, variationist, and
+ethnographic perspectives. </p>
+
+<p> 
+<ICE-PHI:W2A-004#20:1>
+Sapir 's paper on <mention> &ldquo; Abnormal Types of Speech in
+Nootka &rdquo; </mention> ( Philips et al. 1987) singles out sex and rank as
+variables of social identity most likely to be signaled by linguistic form.
+
+<ICE-PHI:W2A-004#21:1>
+His subsequent paper centers on phonological variants of the same
+morpheme and on the presence or absence of specific morphemes as means of
+signaling gender and other aspects of social identity.
+
+<ICE-PHI:W2A-004#22:1>
+In effect, he is suggesting that gender is <quote> &ldquo; marked
+indexically into the morphology of a language &rdquo; </quote> .
+
+<ICE-PHI:W2A-004#23:1>
+Jespersen ( in Philips <foreign> et al. </foreign> 1987), on the
+other hand, claims that lexical differences mark the linguistic distinction
+between women and men.
+
+<ICE-PHI:W2A-004#24:1>
+This notion has subsequently influenced Lakoff 's research which
+reveals that both English and Japanese women are more polite than men and
+that they have maintained conservatism in language structure ( in Philips
+<foreign> et al. </foreign> 1987). </p>
+
+<p> 
+<ICE-PHI:W2A-004#25:1>
+Earlier, Lakoff ( 1975, in Wolfson 1989) has characterized women 's
+language as <quote> &ldquo; language of the powerless", </quote> based on
+observations and introspection.
+
+<ICE-PHI:W2A-004#26:1>
+She observes that women use almost exclusively certain words such as
+<mention> <it> mauve </it> </mention> , <mention> <it> divine </it>
+</mention> , even <mention> <it> cute </it> </mention> , emphatic modifiers
+like <mention> <it> so </it> </mention> , <mention> <it> such </it>
+</mention> , <mention> <it> very </it> </mention> .
+
+<ICE-PHI:W2A-004#27:1>
+Women 's non-assertive behavior is encoded in questions and hedges.
+
+<ICE-PHI:W2A-004#28:1>
+Furthermore, they tend to use 'hypercorrect' grammar and punctuation,
+that is, the use of more formal syntax and pronunciation closer to the
+prestige form than men.
+
+<ICE-PHI:W2A-004#29:1>
+The use of excessively polite forms to express requests distinguishes
+women 's speech as <quote> &ldquo; less convincing, less intelligent, less
+competent, less trustworthy" </quote> . </p>
+
+<p> 
+<ICE-PHI:W2A-004#30:1>
+To determine whether all the features identified as elements of
+Japanese women 's speech are part of a Japanese women speech register,
+Shibamoto ( 1987) sampled speech data from situations in which women
+typically emphasize femininity and those in which they do not.
+
+<ICE-PHI:W2A-004#31:1>
+Results reveal that lexical and morphological features seem to be
+directly related to the impression of femininity, while syntactic features
+like deletion and postposing do not.
+
+<ICE-PHI:W2A-004#32:1>
+She asserts that <quote> &ldquo; socially patterned syntactic
+differences will generally be less subject to awareness than morphological
+differences &rdquo; </quote> . </p>
+
+<p> 
+<ICE-PHI:W2A-004#33:1>
+While accepting that linguistic differences between men 's and
+women 's speech exist in Samoan society, Ochs ( 1987) considers this marginal
+to what is shared by the speakers.
+
+<ICE-PHI:W2A-004#34:1>
+In complex ways, she reports, social rank interacts with gender.
+
+<ICE-PHI:W2A-004#35:1>
+For other contexts, relative age and political status are better
+indicators of usage patterns than gender.
+
+<ICE-PHI:W2A-004#36:1>
+Men and women of relatively higher rank speak differently from men
+and women of lower tank, as shown in the expressions of sympathy in
+narratives and the use of case markings in family conversations.
+
+<ICE-PHI:W2A-004#37:1>
+The use of case markings in conversations outside one 's family is
+conditioned by gender, age, and political status. </p>
+
+<p> 
+<ICE-PHI:W2A-004#38:1>
+Labov 's study ( in Milroy 1987; Philips <foreign> et al.
+</foreign> 1987; Trudgill 1974; Labov 1972) of gender differences in language
+use stems from the variationist perspective.
+
+<ICE-PHI:W2A-004#39:1>
+Using language samples from actual speech of American English
+speakers during taped interviews, Labov claims that women use preferred,
+socially 'correct', non-stigmatized phonological variants more than men.
+
+<ICE-PHI:W2A-004#40:1>
+Women, in effect, engage in hyper-correction, that is, speaking more
+like the middle class speakers than what they really are - - working class
+members. </p>
+
+<p> 
+<ICE-PHI:W2A-004#41:1>
+Trudgill 's ( 1974, 1984) Norwich study corroborates Labov 's
+findings that women 's speech leans toward the more 'correct' and 'standard'
+variety than men 's.
+
+<ICE-PHI:W2A-004#42:1>
+Contrastingly, men 's preferred speech behavior slants toward the
+working class non-standard variety, perceived to be higher in status and more
+prestigious.
+
+<ICE-PHI:W2A-004#43:1>
+This working class speech carries masculine connotations associated
+with toughness and roughness, bestowing on its users 'covert prestige'. </p>
+
+<p> 
+<ICE-PHI:W2A-004#44:1>
+On the function of <mention> 'you know' </mention> in women 's
+and men 's speech, Holmes ' ( 1986) investigations reveals a pattern of use
+which runs counter to the stereotype of women as unconfident
+conversationalists.
+
+<ICE-PHI:W2A-004#45:1>
+Utilizing naturally occurring spontaneous speech, Holmes asserts that
+while men use <mention> ' you know' </mention> more frequently than women to
+signal the fact that the message is imprecisely and unsatisfactorily encoded,
+women use it more often for positive functions, such as emphasis and as a
+positive politeness strategy, as in expressing solidarity by generally
+attributing relevant knowledge to their addressee. </p>
+
+<p> 
+<ICE-PHI:W2A-004#46:1>
+In Adams and Edelsky 's ( 1989) preliminary study on male and
+female styles in political debates, it appears that gender has interactive
+relationship with the persona, the experience of the candidate, the structure
+of the event, the region, ethnicity, and probably other factors.
+
+<ICE-PHI:W2A-004#47:1>
+In other words, the differential language forms and discourse styles
+used by men and women political debaters are inseparable from those
+variables. </p>
+
+<p> 
+<ICE-PHI:W2A-004#48:1>
+To assess the interaction of variable syntax and discourse in
+women 's and men 's speech, Philips and Reynolds ( 1987) have analyzed
+prospective jurors ' speech, focusing on the rate of contraction and deletion
+of subject pronouns and auxiliary/main verb.
+
+<ICE-PHI:W2A-004#49:1>
+In this discourse-based approach, they have found that <quote>
+&ldquo; men 's speech is less redundant than women 's in the context where
+there is a relatively high degree of redundancy in information delivery
+&rdquo; </quote> .
+
+<ICE-PHI:W2A-004#50:1>
+Data show that men delete subject pronouns and auxiliary/main verbs
+more often then women.
+
+<ICE-PHI:W2A-004#51:1>
+Methodologically, the study is significant because it views gender
+distinctions in language use in the context of naturally occurring speech
+rather than in the context of sociolinguistic interviews. </p>
+
+<p> 
+<ICE-PHI:W2A-004#52:1>
+The third approach to gender distinctions is ethnographic, in
+which language is studied as <quote> &ldquo; it occurs naturally and normally
+with particular attention to the ways in which the social features of the
+context in which speech occurs interact with the forms of speech &rdquo;
+</quote> . </p>
+
+<p> 
+<ICE-PHI:W2A-004#53:1>
+Investigating non-Western societies and using whole speech
+genres, Sherzer ( 1987) suggests that gender differences in language use are
+most likely to be governed by speaking roles and discourse genres associated
+with those roles.
+
+<ICE-PHI:W2A-004#54:1>
+In Kuna Indian society, for instance, men dominate the activities
+related to public political meetings and illness-curing rituals.
+
+<ICE-PHI:W2A-004#55:1>
+By contrast, women perform lullabies and tuneful weeping during
+keening which are private genres.
+
+<ICE-PHI:W2A-004#56:1>
+He claims that in relatively small-scale, homogeneous and
+non-literate societies in which gender distinctions are well defined, it is
+<quote> &ldquo; verbal genres, speaking roles and patterns of speaking that
+are the primary linguistic manifestations of these gender distinctions
+&rdquo; </quote> .
+
+<ICE-PHI:W2A-004#57:1>
+This view contradicts the notion that variable grammatical
+differences, not verbal genre differences, mark gender distinctions. </p>
+
+<p> 
+<ICE-PHI:W2A-004#58:1>
+Sex differences exist in Koasati, a Muskogean language spoken in
+southwest Louisiana where women 's speech is considered archaic and 'better'
+than men 's ( Haas, in Trudgill 1974).
+
+<ICE-PHI:W2A-004#59:1>
+At the present time, though, the women 's forms are used only by
+older women and preserved in tales where a female character is speaking. </p>
+
+<p> 
+<ICE-PHI:W2A-004#60:1>
+In Malagasy, Keenan ( 1974) reports, open or direct confrontation
+is avoided.
+
+<ICE-PHI:W2A-004#61:1>
+One is expected not to put another in an uncomfortable or unpleasant
+situation.
+
+<ICE-PHI:W2A-004#62:1>
+However, when a great need for direct speech arises, it is the women,
+not the men, who break the norm and engage in confrontational talk. </p>
+
+<p> 
+<ICE-PHI:W2A-004#63:1>
+Librando 's ( 1987) ethnographic investigation of requesting
+suggests that in the Philippine office setting, females tend to make more
+requests than males.
+
+<ICE-PHI:W2A-004#64:1>
+This finding implies that requesting must be gender-dependent. </p>
+
+<p> 
+<ICE-PHI:W2A-004#65:1>
+Probing into gender-linked differences in language change in a
+Hungarian-German bilingual town in Austria, Gal ( 1984) holds that women are
+leading the shift from the use of Hungarian to German which is associated
+with urban opportunity.
+
+<ICE-PHI:W2A-004#66:1>
+Her ethnographic study shows that young women 's rejection of peasant
+life, coupled by their refusal to marry local peasant men, preferring
+industrial workers instead, explains the decline of stable bilingualism and
+the use of only one language in all interactions in Oberwart, Austria.
+
+<ICE-PHI:W2A-004#67:1>
+Gal further argues that women 's language choices and their
+linguistic innovativeness indicate women 's greater contribution to social
+change. </p>
+
+<ICE-PHI:W2A-004#68:1>
+<h> <bold> 3. METHODOLOGY </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-004#69:1>
+In collecting naturally occurring speech for this study,
+sociolinguistic fieldwork was employed through participant observation and
+non-participant or anonymous observation.
+
+<ICE-PHI:W2A-004#70:1>
+Stretches of everyday conversations laced with personal narratives
+formed the corpus of the study. </p>
+
+<p> 
+<ICE-PHI:W2A-004#71:1>
+The language samples consisted of first-person narratives
+recounted by Tagalog speakers in their conversations.
+
+<ICE-PHI:W2A-004#72:1>
+A total of 60 narratives, 30 per gender, were generated by a variety
+of narrators.
+
+<ICE-PHI:W2A-004#73:1>
+The females were represented by students, housewives, professors,
+teachers, a bookkeeper, nurses, an overseas contract worker, a <it> <indig>
+balikbayan </indig> </it> or Filipino expatriate in the U.S., a fish vendor,
+househelp, a hotel cashier, on NGO director, and a grandmother.
+
+<ICE-PHI:W2A-004#74:1>
+On the other hand, the male tellers were college students, engineers,
+a mechanic, a machinist, factory workers, an overseas contract worker,
+policemen, a police officer, professors, drivers, PMA cadets, a veterinarian,
+a newspaper vendor, and a <indig> barangay </indig> official.
+
+<ICE-PHI:W2A-004#75:1>
+Their ages ranged from 12 to 80 among the females, 17 to 55 among the
+males. </p>
+
+<p> 
+<ICE-PHI:W2A-004#76:1>
+A large number of speech situations in which the conversation was
+interspersed with stories were sampled.
+
+<ICE-PHI:W2A-004#77:1>
+These included family encounters during reunions, barrio fiestas,
+Christmases, death anniversaries, birthdays, All Saints ' Day celebrations,
+arrival of <indig> balikbayans </indig> , and home visits.
+
+<ICE-PHI:W2A-004#78:1>
+Conversations containing stories and exchanged during social visits
+after a woman 's childbirth; on New Year 's Eve; at the workplace such as the
+faculty room, a police station; in school, at boarding houses, in private and
+public transportation, during drinking sessions, even in service encounters
+were represented in the corpus.
+
+<ICE-PHI:W2A-004#79:1>
+Metro Manila was the research site of the communicative events and
+situations. </p>
+
+<p> 
+<ICE-PHI:W2A-004#80:1>
+What stories get told by Tagalog narrators in conversations?
+
+<ICE-PHI:W2A-004#81:1>
+As shown in Table 1 both female and male tellers can talk freely
+about their weaknesses.
+
+<ICE-PHI:W2A-004#82:1>
+They are not embarrassed to disclose experiences that highlight their
+flaws, ignorance, inadequacy, mistakes, failures, carelessness such as losing
+things, being had by someone, being caught by authorities, fumbling in the
+kitchen, etc.
+
+<ICE-PHI:W2A-004#83:1>
+As if to strike a balance between negative and positive, they equally
+share &ldquo; success &rdquo; stories like overcoming a phobia, displaying
+&ldquo; survival &rdquo; skills, topping a board exam, bluffing their way,
+landing a job, licking an incurable illness, refusing bribes, etc.
+
+<ICE-PHI:W2A-004#84:1>
+Further, events beyond one 's control such as accidents and natural
+phenomena are exchanged during conversations.
+
+<ICE-PHI:W2A-004#85:1>
+Stories that dwell on relationships and family-related topics also
+appear in the corpus.
+
+<ICE-PHI:W2A-004#86:1>
+'Exploits' and 'adventures', including chance meetings with movie
+stars, are found infrequently in the data. </p>
+
+<p> 
+<ICE-PHI:W2A-004#87:1>
+On topics beyond one 's control, Tagalog male narrators talk
+about experiences on how they have been inconvenienced by unexpected delays
+in trips or changed schedules, both of which are non-threatening to their
+persons.
+
+<ICE-PHI:W2A-004#88:1>
+Female tellers, on the other hand, share personal experiences that do
+not only inconvenience them but also directly jeopardize their safety, such
+as being victimized by holduppers and pickpockets.
+
+<ICE-PHI:W2A-004#89:1>
+They also talk about natural phenomena like earthquake and fire which
+endanger property, life, and limb.
+
+<ICE-PHI:W2A-004#90:1>
+One may ask: When women tell such stories, are they making a
+statement about their helplessness before the might of others?
+
+<ICE-PHI:W2A-004#91:1>
+Does this reflect how society views women - - weak, fragile,
+therefore, prone to being victims?
+
+<ICE-PHI:W2A-004#92:1>
+Why don't male tellers narrate what is expected of men - - alert,
+agile, always in control of the situation, and exempted from &ldquo; falling
+from grace"? </p>
+
+<p> 
+<ICE-PHI:W2A-004#93:1>
+Even if there are only three occurrences of 'exploit' and 'adventure'
+stories, they differ significantly in content.
+
+<ICE-PHI:W2A-004#94:1>
+The female narrator 's story centers on her first experience of
+manipulating the slot machine at a Reno casino, seemingly a 'harmless'
+exercise by a Filipino tourist on American soil.
+
+<ICE-PHI:W2A-004#95:1>
+By contrast, the 'exploits' in male stories carry sexual overtones.
+
+<ICE-PHI:W2A-004#96:1>
+Exchanged in an all-male context ( i.e., drinking session and
+male-room talk) by participants of almost the same age, who have been
+roommates for a long time or who belong to the same peer group, sex, a taboo
+topic of conversation ( Andres 1989), surfaces in the narrators ' voyeurism
+stories.
+
+<ICE-PHI:W2A-004#97:1>
+No such subject emerges in all-female contexts nor in contexts of
+males narrating to a mixed-gender audience.
+
+<ICE-PHI:W2A-004#98:1>
+This clearly illustrates the interaction of gender, topic, age, and
+familiarity of interaction in the telling of personal narratives.
+
+<ICE-PHI:W2A-004#99:1>
+The all-male context seems to nurture the telling of a taboo story,
+told with <foreign> braggadocio </foreign> .
+
+<ICE-PHI:W2A-004#100:1>
+Possibly, the presence of liquor may also have loosened up
+inhibitions. </p> </I>

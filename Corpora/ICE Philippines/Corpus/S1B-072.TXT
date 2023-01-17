@@ -1,0 +1,1134 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1B-072#1:1:A>
+Good afternoon Doctor
+
+ <$B> 
+<ICE-PHI:S1B-072#2:1:B>
+Good afternoon Mr Gonzales
+ 
+<ICE-PHI:S1B-072#3:1:B>
+Uh is there anything I can do for you today
+
+ <$A> 
+<ICE-PHI:S1B-072#4:1:A>
+Yes Doctor <,> I have this bad cough
+
+ <$B> 
+<ICE-PHI:S1B-072#5:1:B>
+I see uh okay <,> why don't we start up with how old are you
+right at this moment
+
+ <$A> 
+<ICE-PHI:S1B-072#6:1:A>
+I 'm eighteen years old
+
+ <$B> 
+<ICE-PHI:S1B-072#7:1:B>
+Okay eighteen and are you married
+
+ <$A> 
+<ICE-PHI:S1B-072#8:1:A>
+No not yet
+
+ <$B> 
+<ICE-PHI:S1B-072#9:1:B>
+Are you uh what religion do you belong to
+
+ <$A> 
+<ICE-PHI:S1B-072#10:1:A>
+I 'm a Catholic
+
+ <$B> 
+<ICE-PHI:S1B-072#11:1:B>
+Okay and uh where do you reside
+
+ <$A> 
+<ICE-PHI:S1B-072#12:1:A>
+Uh I reside at <,> B F Homes Para&ntilde;aque
+
+ <$B> 
+<ICE-PHI:S1B-072#13:1:B>
+Is this your first time you ever sought consult with me
+
+ <$A> 
+<ICE-PHI:S1B-072#14:1:A>
+Yes Doctor
+
+ <$B> 
+<ICE-PHI:S1B-072#15:1:B>
+Okay so what 's your chief complaint
+ 
+<ICE-PHI:S1B-072#16:1:B>
+What 's wrong
+ 
+<ICE-PHI:S1B-072#17:1:B>
+What do you feel right now
+
+ <$A> 
+<ICE-PHI:S1B-072#18:1:A>
+I have been coughing for a week now and I am having a hard
+time talking 'cause there 's this phlegm in my throat
+
+ <$B> 
+<ICE-PHI:S1B-072#19:1:B>
+Okay so your chief complaint is cough
+ 
+<ICE-PHI:S1B-072#20:1:B>
+And okay let 's move on to your uhm the history of your present
+illness and according to you it 's been for a week now
+ 
+<ICE-PHI:S1B-072#21:1:B>
+Could you <,> could you go through this uh <,> uh on detail
+ 
+<ICE-PHI:S1B-072#22:1:B>
+What happened first
+ 
+<ICE-PHI:S1B-072#23:1:B>
+Did you have cough at first <,> or did you have any fever back then
+
+ <$A> 
+<ICE-PHI:S1B-072#24:1:A>
+I first had this cold
+
+ <$B> 
+<ICE-PHI:S1B-072#25:1:B>
+Okay
+
+ <$A> 
+<ICE-PHI:S1B-072#26:1:A>
+Yeah and then a slight fever
+
+ <$B> 
+<ICE-PHI:S1B-072#27:1:B>
+So you had a low-grade fever a week ago
+ 
+<ICE-PHI:S1B-072#28:1:B>
+Let 's start <,> okay seven days ago you had colds
+
+ <$A> 
+<ICE-PHI:S1B-072#29:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1B-072#30:1:B>
+Uhm did you have any cough with this at that time
+
+ <$A> 
+<ICE-PHI:S1B-072#31:1:A>
+Uhm no not that time
+ 
+<ICE-PHI:S1B-072#32:1:A>
+It was around two days after
+
+ <$B> 
+<ICE-PHI:S1B-072#33:1:B>
+Okay did you have a sore throat with it
+
+ <$A> 
+<ICE-PHI:S1B-072#34:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1B-072#35:1:B>
+Okay you had difficulty swallowing
+
+ <$A> 
+<ICE-PHI:S1B-072#36:1:A>
+Uh-huh I had a hard time eating
+
+ <$B> 
+<ICE-PHI:S1B-072#37:1:B>
+Okay and uh any fever
+
+ <$A> 
+<ICE-PHI:S1B-072#38:1:A>
+Not then <,> no
+
+ <$B> 
+<ICE-PHI:S1B-072#39:1:B>
+No fever okay now six days ago <,> uh the same symptoms
+persisted right
+
+ <$A> 
+<ICE-PHI:S1B-072#40:1:A>
+Yes Doctor
+
+ <$B> 
+<ICE-PHI:S1B-072#41:1:B>
+Did you have any uh cough then
+
+ <$A> 
+<ICE-PHI:S1B-072#42:1:A>
+No no
+
+ <$B> 
+<ICE-PHI:S1B-072#43:1:B>
+So you just had cough five days ago
+
+ <$A> 
+<ICE-PHI:S1B-072#44:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1B-072#45:1:B>
+Okay let 's say five days ago
+ 
+<ICE-PHI:S1B-072#46:1:B>
+Was the cough dry or was it productive of phlegm
+
+ <$A> 
+<ICE-PHI:S1B-072#47:1:A>
+Yeah it was I had phlegm
+
+ <$B> 
+<ICE-PHI:S1B-072#48:1:B>
+Did the fever persist until this day
+
+ <$A> 
+<ICE-PHI:S1B-072#49:1:A>
+No not much just the cough
+
+ <$B> 
+<ICE-PHI:S1B-072#50:1:B>
+So you didn't have any fever anymore
+ 
+<ICE-PHI:S1B-072#51:1:B>
+Did your fever <,> so your fever <unclear> word </unclear> but you
+had cough and phlegm
+
+ <$A> 
+<ICE-PHI:S1B-072#52:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1B-072#53:1:B>
+What was the color of the phlegm would you say
+
+ <$A> 
+<ICE-PHI:S1B-072#54:1:A>
+At first it was white
+
+ <$B> 
+<ICE-PHI:S1B-072#55:1:B>
+Okay whitish
+
+ <$A> 
+<ICE-PHI:S1B-072#56:1:A>
+Then after two days it turned into green
+
+ <$B> 
+<ICE-PHI:S1B-072#57:1:B>
+Okay so uhm <,> three days ago you noticed your phlegm to have
+changed to green and uh I suppose you had fever at this time
+
+ <$A> 
+<ICE-PHI:S1B-072#58:1:A>
+Uh-huh yeah
+
+ <$B> 
+<ICE-PHI:S1B-072#59:1:B>
+Okay it was how would you say it was high-grade or
+moderate-grade low-grade
+
+ <$A> 
+<ICE-PHI:S1B-072#60:1:A>
+It was a high grade
+
+ <$B> 
+<ICE-PHI:S1B-072#61:1:B>
+Okay was it persistent
+ 
+<ICE-PHI:S1B-072#62:1:B>
+Did it persist the whole day or uh did it go down
+
+ <$A> 
+<ICE-PHI:S1B-072#63:1:A>
+It went down
+
+ <$B> 
+<ICE-PHI:S1B-072#64:1:B>
+Did you take any uh medications with this
+
+ <$A> 
+<ICE-PHI:S1B-072#65:1:A>
+Yes Doctor
+
+ <$B> 
+<ICE-PHI:S1B-072#66:1:B>
+For fever I suppose
+
+ <$A> 
+<ICE-PHI:S1B-072#67:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1B-072#68:1:B>
+Okay <,> so that 's the reason why it went down
+ 
+<ICE-PHI:S1B-072#69:1:B>
+Okay uhm <,> so you 're presenting here with cough of a week 's
+duration <,> <?> enunciated </?> by colds fever uh moderate to high grade and
+you 'd say that the cough is productive of greenish phlegm
+
+ <$A> 
+<ICE-PHI:S1B-072#70:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#71:1:B>
+Okay based on this alone I could tell you that you 've had a
+bacterial bacterial infection which most probably would be causing your fever
+and that will be persistent and the only reason why your fever had gone down
+first time was because of the analgesic you took and uh anti-pyretic <,> 
+ 
+<ICE-PHI:S1B-072#72:1:B>
+So let 's move on to your past history <,> uh would you have any
+hypertension
+
+ <$A> 
+<ICE-PHI:S1B-072#73:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1B-072#74:1:B>
+Diabetes
+
+ <$A> 
+<ICE-PHI:S1B-072#75:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1B-072#76:1:B>
+Asthma
+
+ <$A> 
+<ICE-PHI:S1B-072#77:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1B-072#78:1:B>
+Were you ever hospitalized before
+
+ <$A> 
+<ICE-PHI:S1B-072#79:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1B-072#80:1:B>
+How about operated on
+
+ <$A> 
+<ICE-PHI:S1B-072#81:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1B-072#82:1:B>
+Okay uhm do you have any smoking history
+
+ <$A> 
+<ICE-PHI:S1B-072#83:1:A>
+Yes
+
+ <$B> 
+<ICE-PHI:S1B-072#84:1:B>
+Uh <,> how much do you smoke
+
+ <$A> 
+<ICE-PHI:S1B-072#85:1:A>
+I smoke around five sticks a day
+
+ <$B> 
+<ICE-PHI:S1B-072#86:1:B>
+For how long now
+
+ <$A> 
+<ICE-PHI:S1B-072#87:1:A>
+Uhm <,> three years
+
+ <$B> 
+<ICE-PHI:S1B-072#88:1:B>
+Three years <,> okay and do you have any alcoholic beverage
+intake
+
+ <$A> 
+<ICE-PHI:S1B-072#89:1:A>
+No not much just a bit
+ 
+<ICE-PHI:S1B-072#90:1:A>
+I drink occasionally when there 's you know
+
+ <$B> 
+<ICE-PHI:S1B-072#91:1:B>
+Okay occasionally for how long now
+
+ <$A> 
+<ICE-PHI:S1B-072#92:1:A>
+Uhm <,> about four five years
+
+ <$B> 
+<ICE-PHI:S1B-072#93:1:B>
+Uh uhm <,> so I presume you 're a college student
+
+ <$A> 
+<ICE-PHI:S1B-072#94:1:A>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1B-072#95:1:B>
+Okay and in your family history do you have any <?> heredity
+ </?> familial diseases like asthma
+
+ <$A> 
+<ICE-PHI:S1B-072#96:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1B-072#97:1:B>
+Is there any diabetes
+
+ <$A> 
+<ICE-PHI:S1B-072#98:1:A>
+Yes there is
+
+ <$B> 
+<ICE-PHI:S1B-072#99:1:B>
+Uh who has diabetes in the family
+
+ <$A> 
+<ICE-PHI:S1B-072#100:1:A>
+My mother
+
+ <$B> 
+<ICE-PHI:S1B-072#101:1:B>
+Okay uh hypertension
+
+ <$A> 
+<ICE-PHI:S1B-072#102:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1B-072#103:1:B>
+Any uh any family member with <.> tub </.> uh tuberculosis
+
+ <$A> 
+<ICE-PHI:S1B-072#104:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1B-072#105:1:B>
+Okay <,> how about heart diseases
+
+ <$A> 
+<ICE-PHI:S1B-072#106:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1B-072#107:1:B>
+Cancer
+
+ <$A> 
+<ICE-PHI:S1B-072#108:1:A>
+No none of that
+
+ <$B> 
+<ICE-PHI:S1B-072#109:1:B>
+Seizures
+
+ <$A> 
+<ICE-PHI:S1B-072#110:1:A>
+No
+
+ <$B> 
+<ICE-PHI:S1B-072#111:1:B>
+Uhm <,> okay <,> so I guess I just have to do a little
+physical examination on you now
+
+ <$A> 
+<ICE-PHI:S1B-072#112:1:A>
+Yeah <,> would it be hard for me
+
+ <$B> 
+<ICE-PHI:S1B-072#113:1:B>
+No uh that 's no problem
+ 
+<ICE-PHI:S1B-072#114:1:B>
+So I would just be seated for a while and I 'll proceed with my
+examination
+
+ <$A> 
+<ICE-PHI:S1B-072#115:1:A>
+Thank you Doctor
+
+ <$B> 
+<ICE-PHI:S1B-072#116:1:B>
+Okay uh <,> would you please take a deep breath <&> speaker A
+takes a deep breath </&> 
+ 
+<ICE-PHI:S1B-072#117:1:B>
+Okay uhm I see that uh <,> your <?> sclera </?> aren't uh
+yellowish your conjunctiva are pink
+ 
+<ICE-PHI:S1B-072#118:1:B>
+Uhm <,> you have some lymph nodes here on your neck
+ 
+<ICE-PHI:S1B-072#119:1:B>
+And please open your mouth
+
+ <$A> 
+<ICE-PHI:S1B-072#120:1:A>
+Uh <&> opens his mouth </&> 
+
+ <$B> 
+<ICE-PHI:S1B-072#121:1:B>
+Okay that 's good and uh I could see that your tonsils are
+inflamed and they 're <unclear> word </unclear> so that 's another sign of
+infection plus the lymph nodes on your neck
+
+ <$A> 
+<ICE-PHI:S1B-072#122:1:A>
+What is the lymph nodes mean I mean uh
+
+ <$B> 
+<ICE-PHI:S1B-072#123:1:B>
+Uh it 's just a <,> it just accounts more for uh the fact
+that you have a bacterial infection and the lymph nodes are swollen at this
+moment
+ 
+<ICE-PHI:S1B-072#124:1:B>
+So you have an active infection going on right now
+ 
+<ICE-PHI:S1B-072#125:1:B>
+Okay uh take another deep breath please <&> speaker A takes a deep
+breath </&> 
+ 
+<ICE-PHI:S1B-072#126:1:B>
+Okay that 's good
+ 
+<ICE-PHI:S1B-072#127:1:B>
+Now you 're <,> you have uh equal and symmetrical expansion of
+your chest <,> and you don't have any retractions in your <?> inter-coastal
+ </?> spaces
+ 
+<ICE-PHI:S1B-072#128:1:B>
+Uh apparently I hear some fine rals in the base in your lung bases
+ 
+<ICE-PHI:S1B-072#129:1:B>
+Uhm this could be <,> this could be the reason for your production
+of phlegm
+ 
+<ICE-PHI:S1B-072#130:1:B>
+Okay I 'll just listen to your heart
+
+ <$A> 
+<ICE-PHI:S1B-072#131:1:A>
+Uh uhm <,,> 
+
+ <$B> 
+<ICE-PHI:S1B-072#132:1:B>
+Well the it 's normal <,> rate regular rhythm
+ 
+<ICE-PHI:S1B-072#133:1:B>
+You don't seem to have any murmurs
+
+ <$A> 
+<ICE-PHI:S1B-072#134:1:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#135:1:B>
+Okay uhm <,> let me just palpate your stomach for a while
+ <,,> listen to it <,,> 
+ 
+<ICE-PHI:S1B-072#136:1:B>
+Okay as I 've observed that your abdomen is flat it 's firm
+ 
+<ICE-PHI:S1B-072#137:1:B>
+You don't have any organo- <unclear> word </unclear> 
+ 
+<ICE-PHI:S1B-072#138:1:B>
+I don't see any organo- <unclear> word </unclear> 
+ 
+<ICE-PHI:S1B-072#139:1:B>
+I don't feel any organo- <unclear> word </unclear> no masses and
+apparently it 's not tender
+
+ <$A> 
+<ICE-PHI:S1B-072#140:1:A>
+Organo- <,> what
+
+ <$B> 
+<ICE-PHI:S1B-072#141:1:B>
+Well it just means that you don't have any enlarged uh organs
+abnormally enlarged organs
+ 
+<ICE-PHI:S1B-072#142:1:B>
+Ah your pulses are full and equal and you don't have any edema
+ 
+<ICE-PHI:S1B-072#143:1:B>
+Okay that 's good <,> well with uh based on my history and
+physical examination Mr Gonzales uh I would say you <,> have an upper
+respiratory tract infection prior to which you had an acute tonsil or
+pharyngitis
+ 
+<ICE-PHI:S1B-072#144:1:B>
+Uh I 'd advise you to definitely stop smoking and uh kind of
+abstain from the alcohol uhm and I 'll just have to prescribe you some
+antibiotics <,> some anti-pyretics for this and uh <,> I 'll just have to ask
+you to follow up in a week
+ 
+<ICE-PHI:S1B-072#145:1:B>
+Okay Sir
+
+ <$A> 
+<ICE-PHI:S1B-072#146:1:A>
+Yeah sure Doctor <{> <[> <,> </[> if you say so
+
+ <$B> 
+<ICE-PHI:S1B-072#147:1:B>
+<[> Okay </[> </{> 
+ 
+<ICE-PHI:S1B-072#148:1:B>
+It 's just an upper respiratory tract infection
+ 
+<ICE-PHI:S1B-072#149:1:B>
+But uh make sure you don't take it for granted you might have uh
+pneumonia later on
+
+ <$A> 
+<ICE-PHI:S1B-072#150:1:A>
+Oh
+
+ <$B> 
+<ICE-PHI:S1B-072#151:1:B>
+Okay
+
+ <$A> 
+<ICE-PHI:S1B-072#152:1:A>
+Okay <,> thank you very much Doctor
+
+ <$B> 
+<ICE-PHI:S1B-072#153:1:B>
+Good day Sir
+
+ <$A> 
+<ICE-PHI:S1B-072#154:1:A>
+Yeah have a nice day too </I> 
+
+
+ <I> 
+
+ <$A> 
+<ICE-PHI:S1B-072#155:2:A>
+Could you explain to me the use of this F R solution for uh
+canal filling
+
+ <$B> 
+<ICE-PHI:S1B-072#156:2:B>
+Uh yes I think I have uh tried it to my patient already and
+uh it seems that the uh the prognosis was very good and uh I would like to
+orient you with this also
+ 
+<ICE-PHI:S1B-072#157:2:B>
+You see when we use uh antiphormine instead of oxidol we
+neutralize it with oxidol because uh it might cause degeneration of F R
+ 
+<ICE-PHI:S1B-072#158:2:B>
+And secondly we have to take note that uh F R calcium hardens more
+quickly when the temperature and humidity is high in the operatory
+ 
+<ICE-PHI:S1B-072#159:2:B>
+Uh that is also the reason why uh <,> why F R solution are kept in
+uh in uh dark bottles
+ 
+<ICE-PHI:S1B-072#160:2:B>
+Because of the alcohol content of this uh F R solution there is a
+possibility that it will then evaporate quickly
+ 
+<ICE-PHI:S1B-072#161:2:B>
+So we have to be sure that uh uh when we use it be sure that uh
+when you cover it again the cap should be tightly closed
+ 
+<ICE-PHI:S1B-072#162:2:B>
+And the uh because of air or moisture which causes degeneration of
+F R powder you should see to it also that uh the cap of the powder is uh
+thoroughly closed
+
+ <$A> 
+<ICE-PHI:S1B-072#163:2:A>
+Does this harden the F R with the powder if you if you mix
+the F R with powder and liquid does it harden how many minutes or seconds
+
+ <$B> 
+<ICE-PHI:S1B-072#164:2:B>
+Well it would take around uh five minutes inside the uh the
+uh pulp canal <{> <[> before it hardens </[> 
+
+ <$A> 
+<ICE-PHI:S1B-072#165:2:A>
+<[> Uhm </[> </{> uh uhm and uh
+
+ <$B> 
+<ICE-PHI:S1B-072#166:2:B>
+And anyway it does not harden really that hard but uh you can
+uh uhm if you want to clean again the canal <{> <[> you can </[> easily
+scrape it out
+
+ <$A> 
+<ICE-PHI:S1B-072#167:2:A>
+<[> Uh uhm </[> </{> 
+ 
+<ICE-PHI:S1B-072#168:2:A>
+Uh you can remove it
+
+ <$B> 
+<ICE-PHI:S1B-072#169:2:B>
+Yeah using the uhm what do you call this the uh <?> ribber
+ </?> 
+
+ <$A> 
+<ICE-PHI:S1B-072#170:2:A>
+How do you how do you mix this
+ 
+<ICE-PHI:S1B-072#171:2:A>
+Do you use metal or uh
+
+ <$B> 
+<ICE-PHI:S1B-072#172:2:B>
+Well in my case I just use uhm
+
+ <$A> 
+<ICE-PHI:S1B-072#173:2:A>
+Metal and glass slab
+
+ <$B> 
+<ICE-PHI:S1B-072#174:2:B>
+Yeah metal and uh metal spatula
+
+ <$A> 
+<ICE-PHI:S1B-072#175:2:A>
+Uhm metal
+
+ <$B> 
+<ICE-PHI:S1B-072#176:2:B>
+Then mix the powder in the liquid in the glass slab
+
+ <$A> 
+<ICE-PHI:S1B-072#177:2:A>
+Uh uhm how long will it take <,> for the for mixing
+
+ <$B> 
+<ICE-PHI:S1B-072#178:2:B>
+Maybe uh three seconds
+
+ <$A> 
+<ICE-PHI:S1B-072#179:2:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#180:2:B>
+It is very easy to mix such a solution <,,> 
+ 
+<ICE-PHI:S1B-072#181:2:B>
+Do you know already the the direction uh for use
+
+ <$A> 
+<ICE-PHI:S1B-072#182:2:A>
+How 's the ratio <,> uh-huh <,> the ratio for using the
+powder and liquid
+
+ <$B> 
+<ICE-PHI:S1B-072#183:2:B>
+One is to one
+
+ <$A> 
+<ICE-PHI:S1B-072#184:2:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#185:2:B>
+Then you mix it uniformly either in the mixing <?> pan </?> 
+or in the glass slab
+ 
+<ICE-PHI:S1B-072#186:2:B>
+But in my case I use I use the glass slab for mixing
+
+ <$A> 
+<ICE-PHI:S1B-072#187:2:A>
+How do you apply it to the canal you
+
+ <$B> 
+<ICE-PHI:S1B-072#188:2:B>
+You make use of the uh <unclear> word </unclear> and then uh
+fill the canal and uh tightly <,> and be sure that the canal is uh well
+filled up
+ 
+<ICE-PHI:S1B-072#189:2:B>
+<unclear> word </unclear> is uh what I am using
+ 
+<ICE-PHI:S1B-072#190:2:B>
+I don't know in your case
+ 
+<ICE-PHI:S1B-072#191:2:B>
+You can uh use the the instrument of your choice
+
+ <$A> 
+<ICE-PHI:S1B-072#192:2:A>
+Uhm either <.> liqui </.> <.> ei </.> either metal or uh what 's
+this
+
+ <$B> 
+<ICE-PHI:S1B-072#193:2:B>
+Plastic
+
+ <$A> 
+<ICE-PHI:S1B-072#194:2:A>
+Plastic uh uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#195:2:B>
+We usually use <unclear> word </unclear> which is made of
+metal
+
+ <$A> 
+<ICE-PHI:S1B-072#196:2:A>
+Metal uh uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#197:2:B>
+Spring type metal
+
+ <$A> 
+<ICE-PHI:S1B-072#198:2:A>
+Like a carrier
+
+ <$B> 
+<ICE-PHI:S1B-072#199:2:B>
+Uh uhm yeah like that <,,> 
+ 
+<ICE-PHI:S1B-072#200:2:B>
+And by the way you 'd be you don't have any problem regarding the
+overflowing of the uh acetyl solution or of the of the said mixture in the
+apical foramen
+
+ <$A> 
+<ICE-PHI:S1B-072#201:2:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#202:2:B>
+Because it will uh just uh serve as <unclear> 2 words
+ </unclear> 
+
+ <$A> 
+<ICE-PHI:S1B-072#203:2:A>
+Uh just like the Vitatex
+
+ <$B> 
+<ICE-PHI:S1B-072#204:2:B>
+Yeah like Vitatex
+
+ <$A> 
+<ICE-PHI:S1B-072#205:2:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#206:2:B>
+The only difference of that is Vitatex is <{> <[> more on
+ </[> uh it is premixed already
+
+ <$A> 
+<ICE-PHI:S1B-072#207:2:A>
+<[> In the mixing </[> </{> 
+ 
+<ICE-PHI:S1B-072#208:2:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#209:2:B>
+And it has what we call an antibiotic property
+
+ <$A> 
+<ICE-PHI:S1B-072#210:2:A>
+How about this F uh F R no antibiotics
+
+ <$B> 
+<ICE-PHI:S1B-072#211:2:B>
+It 's more of a bactericidal and the essence of this the the
+essence itself of the solution is enough to to clean the gangrenous canal
+
+ <$A> 
+<ICE-PHI:S1B-072#212:2:A>
+Uhm how about in cases where uh there is a severe pain can we
+use this uh liquid F R for uh treatment
+
+ <$B> 
+<ICE-PHI:S1B-072#213:2:B>
+I don't think so because it does not have any analgesic
+effect
+
+ <$A> 
+<ICE-PHI:S1B-072#214:2:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#215:2:B>
+So I did not try using it to my patient
+
+ <$A> 
+<ICE-PHI:S1B-072#216:2:A>
+Uhm this is only totally for
+
+ <$B> 
+<ICE-PHI:S1B-072#217:2:B>
+Root canal
+
+ <$A> 
+<ICE-PHI:S1B-072#218:2:A>
+Root canal treatment <,,> 
+
+ <$B> 
+<ICE-PHI:S1B-072#219:2:B>
+We use it mostly we also use it both for vital and non-vital
+pulp
+
+ <$A> 
+<ICE-PHI:S1B-072#220:2:A>
+How about in gangrenous pulp
+
+ <$B> 
+<ICE-PHI:S1B-072#221:2:B>
+Yeah
+
+ <$A> 
+<ICE-PHI:S1B-072#222:2:A>
+Same
+
+ <$B> 
+<ICE-PHI:S1B-072#223:2:B>
+It is uh effective in in <.> gang </.> both gangrenous and
+non-gangrenous pulp
+ 
+<ICE-PHI:S1B-072#224:2:B>
+In the case of <.> gang </.> of uh vital uh pulp you uh sterilize
+the canal first
+
+ <$A> 
+<ICE-PHI:S1B-072#225:2:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#226:2:B>
+Then you let it dry like what you are using the same
+procedure when you uhm use the other medicines of your choice <indig> 'no
+ </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-072#227:2:A>
+Uh uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#228:2:B>
+But since you are asking me regarding F R maybe it I might as
+well tell you also the the uhm procedure
+
+ <$A> 
+<ICE-PHI:S1B-072#229:2:A>
+Okay uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#230:2:B>
+Then after sterilizing you make use of the <unclear> word
+ </unclear> again and then half fill the the uh rim portion of the canal
+ 
+<ICE-PHI:S1B-072#231:2:B>
+Cover it with the solution of uh F R
+ 
+<ICE-PHI:S1B-072#232:2:B>
+Then after that you seal it with the cement
+
+ <$A> 
+<ICE-PHI:S1B-072#233:2:A>
+Uh can you seal it immediately after putting the F R or after
+a few days
+
+ <$B> 
+<ICE-PHI:S1B-072#234:2:B>
+After you have maybe after uhm a <{> <[> few days </[> 
+
+ <$A> 
+<ICE-PHI:S1B-072#235:2:A>
+<[> Twenty-four hours </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-072#236:2:B>
+First you let the cement dry
+
+ <$A> 
+<ICE-PHI:S1B-072#237:2:A>
+To settle <{> <[> first </[> 
+
+ <$B> 
+<ICE-PHI:S1B-072#238:2:B>
+<[> <indig> Oo </indig> </[> </{> 
+ 
+<ICE-PHI:S1B-072#239:2:B>
+And then put the permanent filling
+
+ <$A> 
+<ICE-PHI:S1B-072#240:2:A>
+Yes
+ 
+<ICE-PHI:S1B-072#241:2:A>
+Any permanent filling can be used
+
+ <$B> 
+<ICE-PHI:S1B-072#242:2:B>
+As long as you have the <{> <[> uh </[> 
+
+ <$A> 
+<ICE-PHI:S1B-072#243:2:A>
+<[> <unclear> word </unclear> </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-072#244:2:B>
+Yeah as long as you have the uhm base <,> you put base
+
+ <$A> 
+<ICE-PHI:S1B-072#245:2:A>
+Uh I think the uh after the F R if it dries you can put the
+permanent filling
+
+ <$B> 
+<ICE-PHI:S1B-072#246:2:B>
+Uh uh uh uhm
+
+ <$A> 
+<ICE-PHI:S1B-072#247:2:A>
+Uh uh <.> ei </.> <.> ei </.> either there is no base
+
+ <$B> 
+<ICE-PHI:S1B-072#248:2:B>
+Uh no no no you have to put first the the
+
+ <$A> 
+<ICE-PHI:S1B-072#249:2:A>
+Base
+
+ <$B> 
+<ICE-PHI:S1B-072#250:2:B>
+The base before you make use of your <{> <[> uh permanent
+filling </[> 
+
+ <$A> 
+<ICE-PHI:S1B-072#251:2:A>
+<[> Composite or </[> </{> amalgam
+
+ <$B> 
+<ICE-PHI:S1B-072#252:2:B>
+Maybe with with amalgam <,,> 
+ 
+<ICE-PHI:S1B-072#253:2:B>
+Uh no no no both composite and amalgam there is a need for a base
+ <{> <[> just to </[> be sure
+
+ <$A> 
+<ICE-PHI:S1B-072#254:2:A>
+<[> Uhm </[> </{> 
+ 
+<ICE-PHI:S1B-072#255:2:A>
+Like <?> bicarb </?> 
+
+ <$B> 
+<ICE-PHI:S1B-072#256:2:B>
+That is if we are referring to a vital <?> porchotomy </?> 
+
+ <$A> 
+<ICE-PHI:S1B-072#257:2:A>
+<indig> Oo </indig> 
+
+ <$B> 
+<ICE-PHI:S1B-072#258:2:B>
+But for for non-vital it 's okay you can use it <{> <[> 
+directly </[> 
+
+ <$A> 
+<ICE-PHI:S1B-072#259:2:A>
+<[> Directly </[> </{> <,,> uh uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#260:2:B>
+What else <,> uh <,> I also have a case here
+ 
+<ICE-PHI:S1B-072#261:2:B>
+Uh I would like also to ask your opinion <,> about my uh uhm case
+wherein there is what we call uh an impacted uh tooth <indig> 'no </indig> 
+
+ <$A> 
+<ICE-PHI:S1B-072#262:2:A>
+Was that upper lower molar
+
+ <$B> 
+<ICE-PHI:S1B-072#263:2:B>
+Upper <,> and then uh
+
+ <$A> 
+<ICE-PHI:S1B-072#264:2:A>
+Wisdom
+
+ <$B> 
+<ICE-PHI:S1B-072#265:2:B>
+It is uh yeah it is bothering now my patient
+ 
+<ICE-PHI:S1B-072#266:2:B>
+Since you are more uh uhm well-versed in surgery I would like to
+ask your opinion also regarding this
+ 
+<ICE-PHI:S1B-072#267:2:B>
+And in fact this is the x-ray
+
+ <$A> 
+<ICE-PHI:S1B-072#268:2:A>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1B-072#269:2:B>
+So maybe can you orient me with the treatment <,,> 
+ 
+<ICE-PHI:S1B-072#270:2:B>
+Uh that is the x-ray
+
+ <$A> 
+<ICE-PHI:S1B-072#271:2:A>
+Uh this is <,> is this upper
+
+ <$B> 
+<ICE-PHI:S1B-072#272:2:B>
+Yeah upper <,> upper first molar
+
+ <$A> 
+<ICE-PHI:S1B-072#273:2:A>
+<{> <[> Upper </[> 
+
+ <$B> 
+<ICE-PHI:S1B-072#274:2:B>
+<[> Uh no </[> </{> upper third molar <{> <[> impacted </[> 
+
+ <$A> 
+<ICE-PHI:S1B-072#275:2:A>
+<[> Upper third molar </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-072#276:2:B>
+But you see there is <indig> eh </indig> second uh molar
+overlapping the the the uh <,> what you call this the <{> <[> <.> wis </.> 
+ </[> yeah the wisdom tooth
+
+ <$A> 
+<ICE-PHI:S1B-072#277:2:A>
+<[> Wisdom </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1B-072#278:2:B>
+So how are you going to manage it <,,> </I> 

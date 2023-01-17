@@ -1,0 +1,732 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S1A-050#1:1:A>
+Good morning Lulu
+ 
+<ICE-PHI:S1A-050#2:1:A>
+Good morning <.> Li </.> uh Lito
+ 
+<ICE-PHI:S1A-050#3:1:A>
+How are you today
+
+ <$B> 
+<ICE-PHI:S1A-050#4:1:B>
+Well I 'm fine thank you
+ 
+<ICE-PHI:S1A-050#6:1:B>
+But the rains are quite bad
+
+ <$A> 
+<ICE-PHI:S1A-050#7:1:A>
+Uh did you experience any traffic problems on the way to the office
+
+ <$B> 
+<ICE-PHI:S1A-050#8:1:B>
+Apparently there are less people traveling now because of the weather
+
+ <$A> 
+<ICE-PHI:S1A-050#9:1:A>
+Uh I heard in the news that uh this morning the elementary and high school uh students uh are are excused to go to the school right now <,> but in certain areas I think only
+ 
+<ICE-PHI:S1A-050#11:1:A>
+Not not in the entire uh N C R <&> = National Capital Region </&> but in certain areas like Manila Malabon Navotas Marikina
+ 
+<ICE-PHI:S1A-050#12:1:A>
+But I think in Para&ntilde;aque there is still school
+
+ <$B> 
+<ICE-PHI:S1A-050#13:1:B>
+Quezon City also has school
+
+ <$A> 
+<ICE-PHI:S1A-050#14:1:A>
+Well last night the weather the the rain was so hard and uh it caused a lot of flood
+ 
+<ICE-PHI:S1A-050#15:1:A>
+Our street was flooded again
+
+ <$B> 
+<ICE-PHI:S1A-050#16:1:B>
+I think this is basically because of the typhoon that got stuck in uh the Balintang Channel
+ 
+<ICE-PHI:S1A-050#17:1:B>
+It hasn't moved and it has been uh triggering the monsoon in Manila even though we are not covered by typhoon signal number one
+
+ <$A> 
+<ICE-PHI:S1A-050#18:1:A>
+But this weather disturbance uh uh is quite quite uh much better compared to last year <indig> 'no </indig> 
+ 
+<ICE-PHI:S1A-050#19:1:A>
+I think last year we experienced much much worse uh uh rainfall <indig> 'no </indig> when we had a lot of big floods 
+
+ <$B> 
+<ICE-PHI:S1A-050#21:1:B>
+But I think this one is also a major disaster because so many towns in Bulacan are under water up to now
+ 
+<ICE-PHI:S1A-050#22:1:B>
+And many believe that the water will stay there for some time
+ 
+<ICE-PHI:S1A-050#23:1:B>
+It has not receded
+
+ <$A> 
+<ICE-PHI:S1A-050#24:1:A>
+Well in uh Pampanga also I think there is again uh a report about a problem on road road uh uh <.> prob </.> uh you know the the water is uh the bridges are you know are almost <{> <[> being </[> overflowed overflowed uh
+
+ <$C> 
+<ICE-PHI:S1A-050#25:1:C>
+<[> All the roads are flooded </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-050#26:1:B>
+Washed away
+
+ <$A> 
+<ICE-PHI:S1A-050#27:1:A>
+Yeah
+
+ <$C> 
+<ICE-PHI:S1A-050#28:1:C>
+<foreign> Lahar </foreign> has been washed away again <,,> 
+
+ <$A> 
+<ICE-PHI:S1A-050#29:1:A>
+Any problems on your uh
+
+ <$C> 
+<ICE-PHI:S1A-050#30:1:C>
+What about your farm Lits
+ 
+<ICE-PHI:S1A-050#31:1:C>
+It 's under water
+
+ <$A> 
+<ICE-PHI:S1A-050#32:1:A>
+<O> laughter </O> Well uh in Zambales I think it 's a high high area
+ 
+<ICE-PHI:S1A-050#34:1:A>
+Do you do we experience uh flooding in that area
+
+ <$B> 
+<ICE-PHI:S1A-050#35:1:B>
+Well my area is in the mountains so there 's no flooding
+ 
+<ICE-PHI:S1A-050#36:1:B>
+But uh if the rains continue the <.> la </.> you know the land becomes very soaked in water and we could say it 's water-logged
+ 
+<ICE-PHI:S1A-050#37:1:B>
+And some of the <,> it 's not stable anymore
+ 
+<ICE-PHI:S1A-050#38:1:B>
+Some of the loose soil uh slide down in the slope
+
+ <$C> 
+<ICE-PHI:S1A-050#39:1:C>
+Too much water will destroy your crops
+
+ <$A> 
+<ICE-PHI:S1A-050#40:1:A>
+You mean to say that there are a lot of cut trees also in your area
+
+ <$B> 
+<ICE-PHI:S1A-050#41:1:B>
+No actually we are planting trees
+ 
+<ICE-PHI:S1A-050#42:1:B>
+We are allocating one hectare just for the forest
+ 
+<ICE-PHI:S1A-050#43:1:B>
+We are reforesting the place and uh it will be a very it will be high density
+ 
+<ICE-PHI:S1A-050#44:1:B>
+Uh we are putting hardwood trees in that uh particular hectare
+
+ <$A> 
+<ICE-PHI:S1A-050#45:1:A>
+But uh is it difficult to reach your area when it 's uh rainy season or
+
+ <$B> 
+<ICE-PHI:S1A-050#46:1:B>
+Well there 's a road
+ 
+<ICE-PHI:S1A-050#47:1:B>
+You can reach the area but it 's difficult to walk in the farm because of the
+ 
+<ICE-PHI:S1A-050#48:1:B>
+It 's a slope so you could slide
+
+ <$A> 
+<ICE-PHI:S1A-050#49:1:A>
+But the problem is uh you have to pass Pampanga in order to reach <{> <[> <,> </[> Zambales 
+
+ <$B> 
+<ICE-PHI:S1A-050#50:1:B>
+<[> Uh </[> </{> 
+ 
+<ICE-PHI:S1A-050#52:1:B>
+We go via Pangasinan
+
+ <$A> 
+<ICE-PHI:S1A-050#53:1:A>
+Pangasinan
+ 
+<ICE-PHI:S1A-050#54:1:A>
+But it 's a long way <indig> e </indig> 
+
+ <$B> 
+<ICE-PHI:S1A-050#55:1:B>
+Uh you add one and a half hours to the trip
+
+ <$C> 
+<ICE-PHI:S1A-050#56:1:C>
+Just to reach your place
+
+ <$B> 
+<ICE-PHI:S1A-050#57:1:B>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-050#58:1:A>
+But uh during this time I don't think the fruits uh prices are down because of uh of this weather
+
+ <$B> 
+<ICE-PHI:S1A-050#59:1:B>
+Many crops will be damaged so I assume uh you have to pay a high price for your vegetables
+
+ <$A> 
+<ICE-PHI:S1A-050#60:1:A>
+I think even fishponds uh have problems right now
+
+ <$C> 
+<ICE-PHI:S1A-050#61:1:C>
+Overflowing
+
+ <$A> 
+<ICE-PHI:S1A-050#62:1:A>
+<.> Overf </.> yeah
+
+ <$B> 
+<ICE-PHI:S1A-050#63:1:B>
+So many many of the neighbors will be very happy because they can get fish for free <indig> ha </indig> 
+
+ <$C> 
+<ICE-PHI:S1A-050#64:1:C>
+Uhm
+
+ <$A> 
+<ICE-PHI:S1A-050#65:1:A>
+Did you see uh Mr the the President uh looking at the uh Manila Bay area
+ 
+<ICE-PHI:S1A-050#66:1:A>
+<{> <[> There is </[> so much garbage <indig> ha </indig> 
+
+ <$C> 
+<ICE-PHI:S1A-050#67:1:C>
+<[> Yeah yeah </[> </{> 
+ 
+<ICE-PHI:S1A-050#68:1:C>
+Yeah that 's right
+
+ <$B> 
+<ICE-PHI:S1A-050#69:1:B>
+Well uh a year ago they had this advertisement saying that if you throw your garbage it 's gonna come back <{> <[> to you </[> 
+
+ <$C> 
+<ICE-PHI:S1A-050#70:1:C>
+<[> Come back </[> </{> 
+ 
+<ICE-PHI:S1A-050#71:1:C>
+It will come back to you
+
+ <$B> 
+<ICE-PHI:S1A-050#72:1:B>
+So today uh <{> <[> <,> </[> that has become a reality and the garbage has come back to us 
+
+ <$C> 
+<ICE-PHI:S1A-050#73:1:C>
+<[> It 's gonna come back to you </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-050#75:1:A>
+I didn't know that uh some of the uh garbage guys are disposing their garbage in the sea <indig> ha </indig> 
+
+ <$C> 
+<ICE-PHI:S1A-050#76:1:C>
+People along the squatter area they just dispose their garbage
+
+ <$B> 
+<ICE-PHI:S1A-050#77:1:B>
+Basically the main problem is the attitude
+ 
+<ICE-PHI:S1A-050#78:1:B>
+This they want to keep themselves clean but they don't take the responsibility of cleaning their environment
+ 
+<ICE-PHI:S1A-050#79:1:B>
+The I think it 's very typical of Filipinos
+ 
+<ICE-PHI:S1A-050#80:1:B>
+They are very clean with themselves but outside around them they don't maintain it clean
+
+ <$C> 
+<ICE-PHI:S1A-050#81:1:C>
+You mean they clean themselves without cleaning their surroundings Lits
+ 
+<ICE-PHI:S1A-050#82:1:C>
+It follows sometimes that
+
+ <$B> 
+<ICE-PHI:S1A-050#83:1:B>
+They don't care whether
+
+ <$C> 
+<ICE-PHI:S1A-050#84:1:C>
+It reflects your personality
+ 
+<ICE-PHI:S1A-050#85:1:C>
+Once you keep yourself clean you also keep your surroundings clean
+
+ <$B> 
+<ICE-PHI:S1A-050#86:1:B>
+Not really
+ 
+<ICE-PHI:S1A-050#87:1:B>
+Uh they will throw their garbage at their neighbor 's place
+
+ <$C> 
+<ICE-PHI:S1A-050#88:1:C>
+It is because they live in a surrounding which is not really that clean so naturally it comes you know <O> laughter </O> in the way they live
+
+ <$B> 
+<ICE-PHI:S1A-050#89:1:B>
+But Filipinos normally are clean with themselves
+ 
+<ICE-PHI:S1A-050#90:1:B>
+They know how to take a bath every day even though they are in the squatter area
+
+ <$C> 
+<ICE-PHI:S1A-050#91:1:C>
+Uh-huh
+
+ <$B> 
+<ICE-PHI:S1A-050#92:1:B>
+But where they dispose their garbage God knows
+
+ <$C> 
+<ICE-PHI:S1A-050#94:1:C>
+Because the garbage problem is not really a problem that you keep to yourself
+ 
+<ICE-PHI:S1A-050#95:1:C>
+It 's an it 's an economic and social problem
+ 
+<ICE-PHI:S1A-050#96:1:C>
+It 's a problem of the the city <indig> di ba </indig> 
+ 
+<ICE-PHI:S1A-050#97:1:C>
+How how you dispose of your garbage <{> <[> <,> </[> that 's one reason 
+
+ <$B> 
+<ICE-PHI:S1A-050#98:1:B>
+<[> Talking of </[> </{> 
+ 
+<ICE-PHI:S1A-050#100:1:B>
+Speaking of uh disposing of garbage I think they have opened again the uh this <{> <[> garbage dump </[> in Tondo
+
+ <$C> 
+<ICE-PHI:S1A-050#101:1:C>
+<[> Landfill </[> </{> 
+ 
+<ICE-PHI:S1A-050#102:1:C>
+Smokey
+
+ <$B> 
+<ICE-PHI:S1A-050#103:1:B>
+Smokey Mountain
+
+ <$C> 
+<ICE-PHI:S1A-050#104:1:C>
+Smokey Mountain
+
+ <$A> 
+<ICE-PHI:S1A-050#105:1:A>
+Yeah
+
+ <$C> 
+<ICE-PHI:S1A-050#106:1:C>
+<{> <[> They 're dumping again </[> 
+
+ <$A> 
+<ICE-PHI:S1A-050#107:1:A>
+<[> Because I think uh </[> </{> the the current uh dumping ground in Payatas I think is scheduled to be closed so
+
+ <$B> 
+<ICE-PHI:S1A-050#108:1:B>
+<{> <[> Yes </[> 
+
+ <$A> 
+<ICE-PHI:S1A-050#109:1:A>
+<[> The </[> </{> one that 's in uh the one that is located in uh near Antipolo
+
+ <$C> 
+<ICE-PHI:S1A-050#110:1:C>
+Uhm
+
+ <$B> 
+<ICE-PHI:S1A-050#111:1:B>
+It 's going to be closed by the end of the year and I think uh the Metro Manila Authority has not found a suitable replacement up to this point in time
+ 
+<ICE-PHI:S1A-050#112:1:B>
+They were thinking of Cavite but uh the I think the local government people there does not allow this to happen because it will cause a lot of environmental problems
+
+ <$C> 
+<ICE-PHI:S1A-050#113:1:C>
+I think no one nobody
+
+ <$B> 
+<ICE-PHI:S1A-050#114:1:B>
+Likes garbage
+
+ <$C> 
+<ICE-PHI:S1A-050#115:1:C>
+Likes garbage
+
+ <$A> 
+<ICE-PHI:S1A-050#116:1:A>
+How could they do it in other countries
+ 
+<ICE-PHI:S1A-050#117:1:A>
+Do you do you know of any of the systems that is being done in the other countries
+
+ <$B> 
+<ICE-PHI:S1A-050#118:1:B>
+Well most uh countries they do they have a recycling program where bottles or plastics are stored in or thrown in a special uh disposal area
+ 
+<ICE-PHI:S1A-050#119:1:B>
+Let 's say all bottles are consolidated uh all papers are also consolidated in one area and then these are all recycled
+ 
+<ICE-PHI:S1A-050#120:1:B>
+And then let 's say organic garbage such as uh kitchen refuse
+ 
+<ICE-PHI:S1A-050#121:1:B>
+Normally it goes to their sewage system because they have what we call uhm digester in their sinks
+ 
+<ICE-PHI:S1A-050#122:1:B>
+Well in the Philippines our sewage system exists only in Manila and especially in the old part of Manila and the rest they don't have the sewage system
+
+ <$A> 
+<ICE-PHI:S1A-050#123:1:A>
+And the system in Manila is an old system way way back pre-war years I think
+
+ <$B> 
+<ICE-PHI:S1A-050#124:1:B>
+Yes it 's pre-war years and that 's why in certain uh houses in Malate Ermita they don't have uhm septic tanks because it 's all disposed in the sewage system separate
+ 
+<ICE-PHI:S1A-050#125:1:B>
+The rest of us the rest of the areas make use of the septic tank
+
+ <$A> 
+<ICE-PHI:S1A-050#126:1:A>
+Another thing that uh the problem of Manila is the transportation <indig> ano </indig> 
+ 
+<ICE-PHI:S1A-050#127:1:A>
+They could not organize themselves in such a way that uh it will be advantageous to the people you know like for example in in other countries they have this uh well organized uh
+
+ <$C> 
+<ICE-PHI:S1A-050#129:1:C>
+Mass transport system
+
+ <$A> 
+<ICE-PHI:S1A-050#130:1:A>
+Mass transport
+ 
+<ICE-PHI:S1A-050#131:1:A>
+Of course we have already started the M T R <&> should be M R T which stands for Metro Rail Transit </&> the L R T <&> Light Railway Transit </&> but uh we need to have more
+
+ <$C> 
+<ICE-PHI:S1A-050#132:1:C>
+Hopefully
+
+ <$A> 
+<ICE-PHI:S1A-050#133:1:A>
+I think we need to have more
+ 
+<ICE-PHI:S1A-050#134:1:A>
+I think we have to have good links with this uh rail system when after the people are going down in their station they have connections
+
+ <$C> 
+<ICE-PHI:S1A-050#135:1:C>
+Yeah
+ 
+<ICE-PHI:S1A-050#136:1:C>
+You know Jun how I wish they they had you know built a train along along the South Super Highway rather than built that Skyway because it will be more advantageous if they ever did the train thing
+
+ <$A> 
+<ICE-PHI:S1A-050#137:1:A>
+Yeah but they
+
+ <$C> 
+<ICE-PHI:S1A-050#138:1:C>
+Then I won't be able to bring my car to Makati <{> <[> anymore </[> 
+
+ <$B> 
+<ICE-PHI:S1A-050#139:1:B>
+<[> No need </[> </{> to bring
+
+ <$A> 
+<ICE-PHI:S1A-050#140:1:A>
+Yeah but the other thing I heard that uh Ayala is <{> <[> uh </[> thinking of that
+
+ <$C> 
+<ICE-PHI:S1A-050#141:1:C>
+<[> Yeah </[> </{> 
+ 
+<ICE-PHI:S1A-050#142:1:C>
+Supposed to be
+
+ <$A> 
+<ICE-PHI:S1A-050#143:1:A>
+That uh that that that <.> pro </.> project
+
+ <$C> 
+<ICE-PHI:S1A-050#144:1:C>
+Yeah supposed to be
+ 
+<ICE-PHI:S1A-050#145:1:C>
+But I 'd I hope Ayala will not change its mind
+
+ <$A> 
+<ICE-PHI:S1A-050#146:1:A>
+Especially now <{> <[> that uh </[> the the oil prices are uncontrollable <indig> ha </indig> 
+
+ <$C> 
+<ICE-PHI:S1A-050#147:1:C>
+<[> Its mind </[> </{> 
+ 
+<ICE-PHI:S1A-050#148:1:C>
+Yes
+
+ <$B> 
+<ICE-PHI:S1A-050#150:1:B>
+You know it 's so expensive
+
+ <$C> 
+<ICE-PHI:S1A-050#151:1:C>
+It 's not easy to bring your
+
+ <$A> 
+<ICE-PHI:S1A-050#152:1:A>
+I think the <{> <[> the more they raise it </[> the more our economy will be affected uh negatively because it might cause some recession
+
+ <$C> 
+<ICE-PHI:S1A-050#153:1:C>
+<[> Your car every day </[> </{> 
+
+ <$A> 
+<ICE-PHI:S1A-050#154:1:A>
+And uh you you can also notice our economy our economic situation right now is not in at its best
+ 
+<ICE-PHI:S1A-050#155:1:A>
+You can see that the Philippine peso has gone down to
+
+ <$C> 
+<ICE-PHI:S1A-050#156:1:C>
+Yes
+
+ <$A> 
+<ICE-PHI:S1A-050#157:1:A>
+Forty-four to one again
+ 
+<ICE-PHI:S1A-050#158:1:A>
+One U S dollar is in fact uh some of them are projecting that this will go up up to forty-six pesos
+
+ <$B> 
+<ICE-PHI:S1A-050#159:1:B>
+And this will affect the cost of fuel <indig> 'no </indig> 
+
+ <$C> 
+<ICE-PHI:S1A-050#160:1:C>
+Yeah
+
+ <$B> 
+<ICE-PHI:S1A-050#161:1:B>
+Because first the cost of money and then the cost also of the oil
+ 
+<ICE-PHI:S1A-050#162:1:B>
+It 's quite the oil has increased in cost although Saudi Arabia is trying to produce more to bring down the cost of the oil
+
+ <$A> 
+<ICE-PHI:S1A-050#163:1:A>
+This will be a domino effect again
+ 
+<ICE-PHI:S1A-050#164:1:A>
+Now when we increase the oil prices prices of goods will go up and then uh the workers will demand
+
+ <$C> 
+<ICE-PHI:S1A-050#165:1:C>
+Then people will demand for more wages
+
+ <$A> 
+<ICE-PHI:S1A-050#166:1:A>
+Right
+ 
+<ICE-PHI:S1A-050#167:1:A>
+And then what will be the result
+ 
+<ICE-PHI:S1A-050#168:1:A>
+We will not be competitive in the world market anymore
+
+ <$B> 
+<ICE-PHI:S1A-050#169:1:B>
+I think we no longer are competitive
+ 
+<ICE-PHI:S1A-050#170:1:B>
+We 're only good for <,> expensive items <,> or specialty items that can be only produced here but if they cannot be produced here
+ 
+<ICE-PHI:S1A-050#171:1:B>
+Normally the other countries like Thailand China Indonesia and especially maybe the former communist countries like Burma and maybe in the near future North Korea will be <,> uh benefiting from the the world market because of the they have lower prices
+
+ <$A> 
+<ICE-PHI:S1A-050#172:1:A>
+Because in the year two zero zero four it 's going to be a global uh world market uh there will be no more import restrictions
+ 
+<ICE-PHI:S1A-050#173:1:A>
+<{> <[> Whoever can </[> produce <.> th </.> the cheapest and high quality uh will will be able to be the successful one
+
+ <$C> 
+<ICE-PHI:S1A-050#174:1:C>
+<[> No more quotas </[> </{> 
+
+ <$B> 
+<ICE-PHI:S1A-050#175:1:B>
+But I think that 's a very myopic view from the point of view of the <,> of the rich countries
+
+ <$A> 
+<ICE-PHI:S1A-050#176:1:A>
+What do you mean <mention> myopic </mention> why
+
+ <$B> 
+<ICE-PHI:S1A-050#177:1:B>
+Because they only look from their own point of view
+ 
+<ICE-PHI:S1A-050#178:1:B>
+Actually the ones who benefit are the rich countries
+
+ <$A> 
+<ICE-PHI:S1A-050#179:1:A>
+Do you mean <{> <[> do you mean </[> 
+
+ <$B> 
+<ICE-PHI:S1A-050#180:1:B>
+<[> Poor countries </[> </{> will become poorer
+
+ <$A> 
+<ICE-PHI:S1A-050#181:1:A>
+Do you mean to say that we should still impose uh import restrictions
+
+ <$B> 
+<ICE-PHI:S1A-050#182:1:B>
+I believe so
+
+ <$C> 
+<ICE-PHI:S1A-050#183:1:C>
+<{> <[> In a way </[> 
+
+ <$A> 
+<ICE-PHI:S1A-050#184:1:A>
+<[> To protect </[> </{> the local industries
+
+ <$C> 
+<ICE-PHI:S1A-050#185:1:C>
+In a way that will help us
+ 
+<ICE-PHI:S1A-050#186:1:C>
+That 's a commitment <,,> 
+
+ <$B> 
+<ICE-PHI:S1A-050#187:1:B>
+What do you mean <mention> commitment </mention> 
+
+ <$C> 
+<ICE-PHI:S1A-050#188:1:C>
+Commitment
+ 
+<ICE-PHI:S1A-050#189:1:C>
+If there are quotas I am committed to <{> <[> share </[> this much 
+
+ <$B> 
+<ICE-PHI:S1A-050#190:1:B>
+<[> Uh </[> </{> yes
+ 
+<ICE-PHI:S1A-050#192:1:B>
+Of course
+
+ <$C> 
+<ICE-PHI:S1A-050#193:1:C>
+Because there are still restrictions restraints quantitative limits but if there are no <.> res </.> it 's a global market so everybody is fighting for for his own product
+ 
+<ICE-PHI:S1A-050#194:1:C>
+Who buys the best who buys the cheapest
+
+ <$B> 
+<ICE-PHI:S1A-050#195:1:B>
+That 's true
+
+ <$A> 
+<ICE-PHI:S1A-050#196:1:A>
+And uh you can see the development in the uh in the I T <indig> ha </indig> in the Information Technology
+ 
+<ICE-PHI:S1A-050#197:1:A>
+A lot of people are using now the what is called the E commerce the electronic commerce
+ 
+<ICE-PHI:S1A-050#198:1:A>
+And it 's very popular that uh a lot of companies are putting up their own web websites or web browsers or something like that <,,> 
+ 
+<ICE-PHI:S1A-050#199:1:A>
+Uh what do you think
+ 
+<ICE-PHI:S1A-050#200:1:A>
+Do you think
+ 
+<ICE-PHI:S1A-050#201:1:A>
+Even our company I think is uh going to come up with this kind of uh operations wherein the we will put up a <.> web </.> website and then interlink it with our uh business partners like uh
+
+ <$C> 
+<ICE-PHI:S1A-050#202:1:C>
+Like our suppliers
+
+ <$A> 
+<ICE-PHI:S1A-050#203:1:A>
+Like our suppliers and then accessory suppliers
+ 
+<ICE-PHI:S1A-050#204:1:A>
+You know they can put these goods suppliers they can put input there the latest uh <{> <[> prices </[> 
+
+ <$C> 
+<ICE-PHI:S1A-050#205:1:C>
+<[> Products </[> </{> that they have
+
+ <$A> 
+<ICE-PHI:S1A-050#206:1:A>
+Prices and then the suppliers can uh immediately come up with their own uh selling prices based on those things
+
+ <$C> 
+<ICE-PHI:S1A-050#207:1:C>
+So you can actually do your shopping using the Internet
+
+ <$A> 
+<ICE-PHI:S1A-050#208:1:A>
+Yeah shopping I think is now now more feasible in by using the Internet
+
+ <$B> 
+<ICE-PHI:S1A-050#209:1:B>
+Is that what they call <mention> on-line shopping </mention> 
+
+ <$C> 
+<ICE-PHI:S1A-050#210:1:C>
+Yeah that 's <{> <[> on-line shopping </[> 
+
+ <$A> 
+<ICE-PHI:S1A-050#211:1:A>
+<[> And it 's cheaper </[> </{> 
+
+ </I> 

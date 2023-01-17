@@ -1,0 +1,1731 @@
+<I>
+
+<$A> 
+<ICE-PHI:S1A-098#1:1:A>
+Hello
+
+<$B> 
+<ICE-PHI:S1A-098#2:1:B>
+Hello <@> Tanya </@>
+
+<$A> 
+<ICE-PHI:S1A-098#3:1:A>
+Hello you
+
+<$B> 
+<ICE-PHI:S1A-098#4:1:B>
+I 'm back
+
+<$A> 
+<ICE-PHI:S1A-098#5:1:A>
+What
+
+<ICE-PHI:S1A-098#6:1:A>
+What
+
+<$B> 
+<ICE-PHI:S1A-098#7:1:B>
+I 'm back
+
+<$A> 
+<ICE-PHI:S1A-098#8:1:A>
+You 're back
+
+<$B> 
+<ICE-PHI:S1A-098#9:1:B>
+Yeah
+
+<ICE-PHI:S1A-098#10:1:B>
+How are you
+
+<$A> 
+<ICE-PHI:S1A-098#11:1:A>
+<O> laughter </O> <indig> Hay </indig> okay
+
+<$B> 
+<ICE-PHI:S1A-098#12:1:B>
+Can you hear me fine
+
+<$A> 
+<ICE-PHI:S1A-098#13:1:A>
+Yes yes
+
+<$B> 
+<ICE-PHI:S1A-098#14:1:B>
+Yeah
+
+<ICE-PHI:S1A-098#15:1:B>
+I I just hope <indig> ano </indig> it 's recording well
+
+<ICE-PHI:S1A-098#16:1:B>
+So what have you been doing
+
+<$A> 
+<ICE-PHI:S1A-098#17:1:A>
+My God
+
+<$B> 
+<ICE-PHI:S1A-098#18:1:B>
+What <O> laughter </O>
+
+<ICE-PHI:S1A-098#19:1:B>
+Your God
+
+<$A> 
+<ICE-PHI:S1A-098#20:1:A>
+God hey wait
+
+<ICE-PHI:S1A-098#21:1:A>
+<@> Arnel </@> don’t please <O> laughter </O>
+
+<ICE-PHI:S1A-098#22:1:A>
+<indig> Hay </indig> I had a I had the weekend yeah it we had the
+weekend to recuperate
+
+<$B> 
+<ICE-PHI:S1A-098#23:1:B>
+<indig> Talaga </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#24:1:A>
+And I had a <,> massage and I was thinking wow
+
+<$B> 
+<ICE-PHI:S1A-098#25:1:B>
+<indig> Ay sarap </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#26:1:A>
+Ready to go <indig> na 'ko </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#27:1:B>
+Wow
+
+<$A> 
+<ICE-PHI:S1A-098#28:1:A>
+I 'm ready to go for the next week
+
+<$B> 
+<ICE-PHI:S1A-098#29:1:B>
+<indig> Ay </indig> my golly you know I 've been wanting to
+have a massage but <,> can you believe it no time
+
+<$A> 
+<ICE-PHI:S1A-098#30:1:A>
+After day one <O> laughter </O> I 'm like <indig> kulang
+</indig>
+
+<$B> 
+<ICE-PHI:S1A-098#31:1:B>
+<{> <[> Yeah </[>
+
+<$A> 
+<ICE-PHI:S1A-098#32:1:A>
+<[> <indig> Kulang </[> </{> ang masahe </indig> <&> chuckle
+</&>
+
+<$B> 
+<ICE-PHI:S1A-098#33:1:B>
+<.> Whe </.> where 'd you go <mention> The Spa </mention>
+
+<$A> 
+<ICE-PHI:S1A-098#34:1:A>
+Actually yeah yeah
+
+<$B> 
+<ICE-PHI:S1A-098#35:1:B>
+Where
+
+<$A> 
+<ICE-PHI:S1A-098#36:1:A>
+In <indig> ano </indig> across <mention> Gold </mention>
+
+<$B> 
+<ICE-PHI:S1A-098#37:1:B>
+Across school <indig> lang </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#38:1:A>
+Across <mention> Gold </mention>
+
+<$B> 
+<ICE-PHI:S1A-098#39:1:B>
+Where
+
+<$A> 
+<ICE-PHI:S1A-098#40:1:A>
+Gold 's Gym
+
+<$B> 
+<ICE-PHI:S1A-098#41:1:B>
+Uh okay
+
+<ICE-PHI:S1A-098#42:1:B>
+Yeah yeah yeah
+
+<$A> 
+<ICE-PHI:S1A-098#43:1:A>
+<unclear> word </unclear> <mention> Spa </mention>
+
+<$B> 
+<ICE-PHI:S1A-098#44:1:B>
+I think I think I know that
+
+<ICE-PHI:S1A-098#45:1:B>
+There was this one in <indig> ano e </indig> there was this one in
+front of school in front of <.> At </.> Ateneo along Katipunan
+
+<$A> 
+<ICE-PHI:S1A-098#46:1:A>
+<indig> Oo </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#47:1:B>
+But they closed down
+
+<$A> 
+<ICE-PHI:S1A-098#48:1:A>
+Correct yes
+
+<$B> 
+<ICE-PHI:S1A-098#49:1:B>
+<indig> 'Yung </indig> <mention> Phenomena </mention> <,>
+although I don’t know why they closed down
+
+<ICE-PHI:S1A-098#50:1:B>
+So I have to look for another one
+
+<$A> 
+<ICE-PHI:S1A-098#51:1:A>
+Hey <@> Arnel </@>
+
+<$B> 
+<ICE-PHI:S1A-098#52:1:B>
+What
+
+<$A> 
+<ICE-PHI:S1A-098#53:1:A>
+There 's a <,> rumor going around
+
+<ICE-PHI:S1A-098#54:1:A>
+And you can either <,> you can confirm it or <O> laughter </O> set
+it straight
+
+<$B> 
+<ICE-PHI:S1A-098#55:1:B>
+Rumor
+
+<$A> 
+<ICE-PHI:S1A-098#56:1:A>
+Yes
+
+<$B> 
+<ICE-PHI:S1A-098#57:1:B>
+Okay
+
+<$A> 
+<ICE-PHI:S1A-098#58:1:A>
+I said <@> Arnel </@> I 'm getting this rumor
+
+<$B> 
+<ICE-PHI:S1A-098#59:1:B>
+Yeah I think I know
+
+<$A> 
+<ICE-PHI:S1A-098#60:1:A>
+<O> laughter </O> So
+
+<$B> 
+<ICE-PHI:S1A-098#61:1:B>
+What 's this about
+
+<$A> 
+<ICE-PHI:S1A-098#62:1:A>
+Are you Buddhist
+
+<$B> 
+<ICE-PHI:S1A-098#63:1:B>
+<O> laughter </O> <indig> Ay naku </indig>
+
+<ICE-PHI:S1A-098#64:1:B>
+That 's the funniest <O> speaker A laughs </O>
+
+<ICE-PHI:S1A-098#65:1:B>
+<indig> Di ba </indig> I <indig> di ba </indig> I took a ten-day
+leave
+
+<$A> 
+<ICE-PHI:S1A-098#66:1:A>
+Oh
+
+<$B> 
+<ICE-PHI:S1A-098#67:1:B>
+Remember that
+
+<$A> 
+<ICE-PHI:S1A-098#68:1:A>
+<indig> Oo </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#69:1:B>
+There
+
+<ICE-PHI:S1A-098#70:1:B>
+I then then when I came back students were asking they were all
+asking <quote> Sir why were you gone
+
+<ICE-PHI:S1A-098#71:1:B>
+Why were you gone </unquote>
+
+<ICE-PHI:S1A-098#72:1:B>
+I was going like <,> <indig> ’no </indig>
+
+<ICE-PHI:S1A-098#73:1:B>
+I came up with you know many different stories and I think that 's
+the one that got stuck to their heads
+
+<$A> 
+<ICE-PHI:S1A-098#74:1:A>
+Oh <O> speaker B laughs </O>
+
+<ICE-PHI:S1A-098#75:1:A>
+As in <@> Misty </@> comes home Monday and she 's like
+
+<$B> 
+<ICE-PHI:S1A-098#76:1:B>
+What 's that
+
+<ICE-PHI:S1A-098#77:1:B>
+What 's that
+
+<$A> 
+<ICE-PHI:S1A-098#78:1:A>
+<@> Misty </@> comes home Monday
+
+<$B> 
+<ICE-PHI:S1A-098#79:1:B>
+Oh
+
+<$A> 
+<ICE-PHI:S1A-098#80:1:A>
+Okay and says <quote> <@> Tanya </@> guess what
+
+<ICE-PHI:S1A-098#81:1:A>
+What
+
+<ICE-PHI:S1A-098#82:1:A>
+<@> Arnel </@> 's Buddhist </unquote> <O> laughter </O>
+
+<$B> 
+<ICE-PHI:S1A-098#83:1:B>
+<{> <[> No </[>
+
+<$A> 
+<ICE-PHI:S1A-098#84:1:A>
+<[> What </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-098#85:1:B>
+But I no but I I I really used to go to <indig> ano yung yung
+</indig> Zen meditation
+
+<$A> 
+<ICE-PHI:S1A-098#86:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#87:1:B>
+There
+
+<ICE-PHI:S1A-098#88:1:B>
+I really used to go
+
+<ICE-PHI:S1A-098#89:1:B>
+<indig> E </indig> well I you know I had nothing better to say and
+I was getting tired of the students asking me why I was gone for ten days
+
+<ICE-PHI:S1A-098#90:1:B>
+I go like <,> ok <,> one story was <,> uh <,> I converted to
+Buddhism
+
+<$A> 
+<ICE-PHI:S1A-098#91:1:A>
+Oh my God <O> laughter </O>
+
+<$B> 
+<ICE-PHI:S1A-098#92:1:B>
+I said <,> <quote> Sir why were you gone
+
+<ICE-PHI:S1A-098#93:1:B>
+Uh I converted to Buddhism
+
+<ICE-PHI:S1A-098#94:1:B>
+So I 'm a Buddhist now
+
+<ICE-PHI:S1A-098#95:1:B>
+So I had to spend ten days at the temple </unquote>
+
+<ICE-PHI:S1A-098#96:1:B>
+I was going like that <{> <[> <O> laughter </O> </[>
+
+<$A> 
+<ICE-PHI:S1A-098#97:1:A>
+<[> Oh my God </[> </{> <,>
+
+<ICE-PHI:S1A-098#98:1:A>
+<{> <[> Well </[>
+
+<$B> 
+<ICE-PHI:S1A-098#99:1:B>
+<[> And then </[> </{>
+
+<$A> 
+<ICE-PHI:S1A-098#100:1:A>
+It 's true
+
+<ICE-PHI:S1A-098#101:1:A>
+It starts spreading all over
+
+<$B> 
+<ICE-PHI:S1A-098#102:1:B>
+Yeah
+
+<ICE-PHI:S1A-098#103:1:B>
+Exactly
+
+<ICE-PHI:S1A-098#104:1:B>
+And then the other one was the <.> othe </.> the other the other
+story I I came up with <indig> wala lang </indig> just to for the heck of
+giving them some sort of some something to talk about I go like <quote> Uh
+<,> I I I went I went to <indig> ano </indig> I went to this girl 's house
+</unquote>
+
+<$A> 
+<ICE-PHI:S1A-098#105:1:A>
+Oh
+
+<$B> 
+<ICE-PHI:S1A-098#106:1:B>
+<quote> And and and <indig> ano </indig> and and proposed
+marriage to her
+
+<ICE-PHI:S1A-098#107:1:B>
+<indig> Parang ganon pero </indig> it didn’t work out </unquote>
+
+<$A> 
+<ICE-PHI:S1A-098#108:1:A>
+<{> <[> Oh </[>
+
+<$B> 
+<ICE-PHI:S1A-098#109:1:B>
+<quote> <[> So </[> </{> so I had to I had to uh <indig>
+parang </indig> you know lay low and then and go on a sort of a retreat
+because I was so depressed </quote>
+
+<$A> 
+<ICE-PHI:S1A-098#110:1:A>
+<indig> Oo </indig> <O> laughter </O>
+
+<ICE-PHI:S1A-098#111:1:A>
+And I 'm sure they 've stopped
+
+<$B> 
+<ICE-PHI:S1A-098#112:1:B>
+<O> laughter </O> And then <indig> ano </indig> and then the
+other the other one 's like I just wanted to rest <indig> sabi ko lang gano’n
+</indig>
+
+<ICE-PHI:S1A-098#113:1:B>
+<{> <[> That was funny </[>
+
+<$A> 
+<ICE-PHI:S1A-098#114:1:A>
+<[> Oh my God </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-098#115:1:B>
+<indig> Hay naku </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#116:1:A>
+I was like <indig> ha </indig> <unclear> words </unclear>
+
+<$B> 
+<ICE-PHI:S1A-098#117:1:B>
+So what else has been going on with you
+
+<$A> 
+<ICE-PHI:S1A-098#118:1:A>
+Well
+
+<ICE-PHI:S1A-098#119:1:A>
+Oh I 've sad news for you
+
+<$B> 
+<ICE-PHI:S1A-098#120:1:B>
+Sad news
+
+<ICE-PHI:S1A-098#121:1:B>
+Why
+
+<$A> 
+<ICE-PHI:S1A-098#122:1:A>
+Yeah Guggenheim died
+
+<$B> 
+<ICE-PHI:S1A-098#123:1:B>
+<indig> Ay </indig> oh my God
+
+<$A> 
+<ICE-PHI:S1A-098#124:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#125:1:B>
+Guggenheim died <indig> na </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#126:1:A>
+Yeah I thought <{> <[> I </[>
+
+<$B> 
+<ICE-PHI:S1A-098#127:1:B>
+<[> Yikes </[> </{>
+
+<ICE-PHI:S1A-098#128:1:B>
+<indig> E </indig> how about how about Vanderbilt
+
+<$A> 
+<ICE-PHI:S1A-098#129:1:A>
+<indig> Ay </indig>
+
+<ICE-PHI:S1A-098#130:1:A>
+You know what
+
+<ICE-PHI:S1A-098#131:1:A>
+Vanderbilt is I think an <indig> askal </indig> dog
+
+<$B> 
+<ICE-PHI:S1A-098#132:1:B>
+He 's an <indig> askal </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#133:1:A>
+I think <indig> ha </indig> I suspect
+
+<$B> 
+<ICE-PHI:S1A-098#134:1:B>
+He doesn’t look he doesn’t look like a Labrador
+
+<$A> 
+<ICE-PHI:S1A-098#135:1:A>
+<O> sigh </O> No not not quite
+
+<$B> 
+<ICE-PHI:S1A-098#136:1:B>
+Why
+
+<$A> 
+<ICE-PHI:S1A-098#137:1:A>
+And he <indig> ano parang </indig> his teeth are sharp
+
+<$B> 
+<ICE-PHI:S1A-098#138:1:B>
+The teeth are sharp
+
+<$A> 
+<ICE-PHI:S1A-098#139:1:A>
+Yeah
+
+<ICE-PHI:S1A-098#140:1:A>
+<indig> Di ba </indig> Labs their teeth are like dull
+
+<$B> 
+<ICE-PHI:S1A-098#141:1:B>
+Not really
+
+<$A> 
+<ICE-PHI:S1A-098#142:1:A>
+No but if you if they nick you you 're not exactly you know
+bleeding or anything
+
+<$B> 
+<ICE-PHI:S1A-098#143:1:B>
+Oh oh oh what does he look like
+
+<ICE-PHI:S1A-098#144:1:B>
+I mean <{> <[> describe his head </[>
+
+<$A> 
+<ICE-PHI:S1A-098#145:1:A>
+<[> <unclear> words </unclear> gonna look like </[> </{> a
+Lab
+
+<ICE-PHI:S1A-098#146:1:A>
+The dog 's trainer Vanderbilt 's trainer thinks that she 's a Lab
+
+<$B> 
+<ICE-PHI:S1A-098#147:1:B>
+<indig> O </indig> and then
+
+<$A> 
+<ICE-PHI:S1A-098#148:1:A>
+But <indig> alam mo 'yung </indig> she has these <indig>
+topak </indig> moments
+
+<$B> 
+<ICE-PHI:S1A-098#149:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-098#150:1:A>
+<indig> Na </indig> she suddenly just lunges at you as in
+ferocious <indig> ha </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#151:1:B>
+<indig> Talaga </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#152:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#153:1:B>
+<{> <[> Strange </[>
+
+<$A> 
+<ICE-PHI:S1A-098#154:1:A>
+<[> Labs </[> </{> don’t do that
+
+<$B> 
+<ICE-PHI:S1A-098#155:1:B>
+Oh then you should meet Lancelot
+
+<$A> 
+<ICE-PHI:S1A-098#156:1:A>
+<indig> Ha </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#157:1:B>
+You should meet my dog
+
+<$A> 
+<ICE-PHI:S1A-098#158:1:A>
+Why
+
+<$B> 
+<ICE-PHI:S1A-098#159:1:B>
+Lancelot
+
+<$A> 
+<ICE-PHI:S1A-098#160:1:A>
+Oh
+
+<$B> 
+<ICE-PHI:S1A-098#161:1:B>
+<indig> 'Yon </indig> pure breed <indig> 'yon </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#162:1:A>
+<indig> Di ba </indig> I mean they 're they 're not like that
+
+<$B> 
+<ICE-PHI:S1A-098#163:1:B>
+I 've been looking for a mate I 've been telling you
+
+<$A> 
+<ICE-PHI:S1A-098#164:1:A>
+<indig> Hay naku </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#165:1:B>
+It 's so hard to it 's so hard to find a <unclear> word
+</unclear> for my dog
+
+<$A> 
+<ICE-PHI:S1A-098#166:1:A>
+<indig> Ay naku </indig> you know what
+
+<$B> 
+<ICE-PHI:S1A-098#167:1:B>
+What
+
+<$A> 
+<ICE-PHI:S1A-098#168:1:A>
+Uhm <,,> not mate-wise <indig> ha pero </indig> I found the
+best vet ever
+
+<$B> 
+<ICE-PHI:S1A-098#169:1:B>
+Where
+
+<$A> 
+<ICE-PHI:S1A-098#170:1:A>
+Mandaluyong
+
+<$B> 
+<ICE-PHI:S1A-098#171:1:B>
+Where in Mandaluyong
+
+<$A> 
+<ICE-PHI:S1A-098#172:1:A>
+Ah <,> you know what <,> I can’t remember exactly where
+
+<ICE-PHI:S1A-098#173:1:A>
+But what 's the <unclear> word </unclear> Mandaluyong
+
+<$B> 
+<ICE-PHI:S1A-098#174:1:B>
+What 's the name of the <indig> ano </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#175:1:A>
+The name of the vet is Doggie Land
+
+<$B> 
+<ICE-PHI:S1A-098#176:1:B>
+Doggie Land
+
+<$A> 
+<ICE-PHI:S1A-098#177:1:A>
+Yes
+
+<ICE-PHI:S1A-098#178:1:A>
+And you know what <,> as in when Guggenheim was like really bad we
+brought him <indig> lang </indig> to our vet here in the village
+
+<$B> 
+<ICE-PHI:S1A-098#179:1:B>
+<indig> Oo </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#180:1:A>
+And <indig> talagang </indig> I really felt so bad
+
+<ICE-PHI:S1A-098#181:1:A>
+It was so strange <indig> ha </indig> because our whole family was
+sick including Guggen
+
+<$B> 
+<ICE-PHI:S1A-098#182:1:B>
+What
+
+<$A> 
+<ICE-PHI:S1A-098#183:1:A>
+Ás in Jason was sick I was sick
+
+<$B> 
+<ICE-PHI:S1A-098#184:1:B>
+Why
+
+<$A> 
+<ICE-PHI:S1A-098#185:1:A>
+Karen was sick
+
+<$B> 
+<ICE-PHI:S1A-098#186:1:B>
+Why
+
+<$A> 
+<ICE-PHI:S1A-098#187:1:A>
+The maid the cook wasn’t feeling well
+
+<$B> 
+<ICE-PHI:S1A-098#188:1:B>
+<indig> O </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#189:1:A>
+And Guggenheim was sick
+
+<ICE-PHI:S1A-098#190:1:A>
+As in the whole family
+
+<ICE-PHI:S1A-098#191:1:A>
+And then we brought him to the vet
+
+<$B> 
+<ICE-PHI:S1A-098#192:1:B>
+<indig> O </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#193:1:A>
+<indig> Pina-confine namin kasi </indig> high fever
+
+<$B> 
+<ICE-PHI:S1A-098#194:1:B>
+Oh my God
+
+<ICE-PHI:S1A-098#195:1:B>
+<indig> O </indig> and then
+
+<$A> 
+<ICE-PHI:S1A-098#196:1:A>
+So <{> <[> when I </[> was feeling better
+
+<$B> 
+<ICE-PHI:S1A-098#197:1:B>
+<[> Pssst </[> </{>
+
+<ICE-PHI:S1A-098#198:1:B>
+My dogs are barking
+
+<$A> 
+<ICE-PHI:S1A-098#199:1:A>
+Oh I heard I hear
+
+<ICE-PHI:S1A-098#200:1:A>
+I was feeling better <indig> na </indig> and then Guggen all
+<indig> parang </indig> he was deteriorating
+
+<$B> 
+<ICE-PHI:S1A-098#201:1:B>
+<indig> Baka naman </indig> he 's old now
+
+<ICE-PHI:S1A-098#202:1:B>
+How old is Guggenheim
+
+<$A> 
+<ICE-PHI:S1A-098#203:1:A>
+Well he 's only what seven <{> <[> eight </[>
+
+<$B> 
+<ICE-PHI:S1A-098#204:1:B>
+<[> Pssst </[> </{> <,> only what
+
+<$A> 
+<ICE-PHI:S1A-098#205:1:A>
+He 's like seven years old
+
+<$B> 
+<ICE-PHI:S1A-098#206:1:B>
+That 's old
+
+<$A> 
+<ICE-PHI:S1A-098#207:1:A>
+No but by <O> dog barking </O> <unclear> word </unclear> live
+to like thirteen
+
+<$B> 
+<ICE-PHI:S1A-098#208:1:B>
+Well yeah eleven to thirteen
+
+<$A> 
+<ICE-PHI:S1A-098#209:1:A>
+<indig> Di ba </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#210:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-098#211:1:A>
+So we brought him uh we moved him out of my vet because I was
+so dissatisfied and I brought him to this Doggie Land <indig> nga </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#212:1:B>
+<{> <[> <indig> O </indig> </[>
+
+<$A> 
+<ICE-PHI:S1A-098#213:1:A>
+<[> Wow </[> </{> <indig> alam mo 'yung </indig> when you
+watch on <mention> Animal Planet </mention>
+
+<$B> 
+<ICE-PHI:S1A-098#214:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-098#215:1:A>
+In the
+
+<$B> 
+<ICE-PHI:S1A-098#216:1:B>
+It 's really like that
+
+<$A> 
+<ICE-PHI:S1A-098#217:1:A>
+Vet
+
+<$B> 
+<ICE-PHI:S1A-098#218:1:B>
+Well
+
+<$A> 
+<ICE-PHI:S1A-098#219:1:A>
+<indig> Ganon </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#220:1:B>
+Maybe I should go there
+
+<$A> 
+<ICE-PHI:S1A-098#221:1:A>
+As in they have complete with pure oxygen for your dog
+
+<$B> 
+<ICE-PHI:S1A-098#222:1:B>
+<indig> Talaga </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#223:1:A>
+They intubated him
+
+<$B> 
+<ICE-PHI:S1A-098#224:1:B>
+Really
+
+<$A> 
+<ICE-PHI:S1A-098#225:1:A>
+Pure oxygen
+
+<ICE-PHI:S1A-098#226:1:A>
+They gave him all sorts of you know uh drugs to help you know
+stabilize him
+
+<ICE-PHI:S1A-098#227:1:A>
+They gave him a cold drip because high fever he had high fever
+
+<$B> 
+<ICE-PHI:S1A-098#228:1:B>
+Uh-huh
+
+<$A> 
+<ICE-PHI:S1A-098#229:1:A>
+They gave him sponge <indig> parang 'yung </indig> ice bath
+
+<$B> 
+<ICE-PHI:S1A-098#230:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-098#231:1:A>
+As in
+
+<$B> 
+<ICE-PHI:S1A-098#232:1:B>
+<indig> Galing </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#233:1:A>
+<indig> Talagang galing galing </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#234:1:B>
+So what what was he sick with
+
+<$A> 
+<ICE-PHI:S1A-098#235:1:A>
+You know they they told us that
+
+<$B> 
+<ICE-PHI:S1A-098#236:1:B>
+I can hear Karen
+
+<$A> 
+<ICE-PHI:S1A-098#237:1:A>
+Yeah it seems like kidney failure
+
+<$B> 
+<ICE-PHI:S1A-098#238:1:B>
+<indig> Ay </indig> my God did you give him <indig> ano
+</indig>
+
+<$A> 
+<ICE-PHI:S1A-098#239:1:A>
+He had Pedigree before
+
+<$B> 
+<ICE-PHI:S1A-098#240:1:B>
+Did you give him Pedigree
+
+<$A> 
+<ICE-PHI:S1A-098#241:1:A>
+We gave him Pedigree before
+
+<$B> 
+<ICE-PHI:S1A-098#242:1:B>
+<indig> Ay </indig> you know I 'm scared <indig> na </indig>
+because I gave my dog also that <indig> e </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#243:1:A>
+Yeah
+
+<ICE-PHI:S1A-098#244:1:A>
+And apparently before that that scare <indig> nga </indig> with
+Pedigree came out there were already dogs who were dying because of kidney
+failure
+
+<$B> 
+<ICE-PHI:S1A-098#245:1:B>
+Yeah <indig> 'yun na nga </indig>
+
+<ICE-PHI:S1A-098#246:1:B>
+I 'm scared <indig> na e </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#247:1:A>
+Yeah
+
+<ICE-PHI:S1A-098#248:1:A>
+Don’t don’t <indig> na </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#249:1:B>
+No I I I stopped <indig> na </indig> after <indig> pero
+</indig> he 's had like you know one or two sacks already
+
+<$A> 
+<ICE-PHI:S1A-098#250:1:A>
+Oh and <indig> eto ha </indig>
+
+<ICE-PHI:S1A-098#251:1:A>
+What the vet said was it 's very difficult to diagnose <,> so just
+keep your eyes open for <,> <indig> 'yung </indig> symptoms
+
+<$B> 
+<ICE-PHI:S1A-098#252:1:B>
+<indig> Oo </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#253:1:A>
+Parang </indig> Guggen had the symptoms we just didn’t know
+
+<ICE-PHI:S1A-098#254:1:A>
+Like he 's always thirsty
+
+<$B> 
+<ICE-PHI:S1A-098#255:1:B>
+Always thirsty
+
+<$A> 
+<ICE-PHI:S1A-098#256:1:A>
+Always thirsty
+
+<$B> 
+<ICE-PHI:S1A-098#257:1:B>
+Oh my dog 's not always thirsty
+
+<$A> 
+<ICE-PHI:S1A-098#258:1:A>
+The and <indig> parang </indig> they lose their their desire
+to play
+
+<$B> 
+<ICE-PHI:S1A-098#259:1:B>
+Well no
+
+<ICE-PHI:S1A-098#260:1:B>
+Well not my dog yet
+
+<$A> 
+<ICE-PHI:S1A-098#261:1:A>
+<indig> 'Yung </indig> oh no no not not not lose their desire
+but the their tolerance for activity exercise gets diminished
+
+<$B> 
+<ICE-PHI:S1A-098#262:1:B>
+<indig> Talaga </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#263:1:A>
+Yeah
+
+<ICE-PHI:S1A-098#264:1:A>
+So look out for that
+
+<$B> 
+<ICE-PHI:S1A-098#265:1:B>
+Oh no
+
+<$A> 
+<ICE-PHI:S1A-098#266:1:A>
+And and oh my God he had those
+
+<$B> 
+<ICE-PHI:S1A-098#267:1:B>
+Oh no
+
+<$A> 
+<ICE-PHI:S1A-098#268:1:A>
+<indig> Pero ang yung kay </indig> Guggen what was really
+strange <indig> pa </indig> about it was the night before he got sick
+
+<$B> 
+<ICE-PHI:S1A-098#269:1:B>
+<indig> Oo </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#270:1:A>
+He was jumping around
+
+<$B> 
+<ICE-PHI:S1A-098#271:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-098#272:1:A>
+Yeah
+
+<ICE-PHI:S1A-098#273:1:A>
+Like
+
+<$B> 
+<ICE-PHI:S1A-098#274:1:B>
+<{> <[> Oh no <[>
+
+<$A> 
+<ICE-PHI:S1A-098#275:1:A>
+<[> <unclear> word </unclear> </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-098#276:1:B>
+Well I 've been wanting to <indig> ano </indig> I 've been
+wanting to have my dog checked but my my vet <indig> naman </indig> said you
+know it 's not really that <indig> ano naman </indig> it wasn’t that uhm what
+do you call that they 're not sure of that really
+
+<$A> 
+<ICE-PHI:S1A-098#277:1:A>
+Uh-uhm
+
+<$B> 
+<ICE-PHI:S1A-098#278:1:B>
+That it it that the food was really causing the <indig> ano
+</indig>
+
+<$A> 
+<ICE-PHI:S1A-098#279:1:A>
+And like you know my my vet was like you know uh the the
+shots that you <,> like the anti-rabies <indig> di ba </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#280:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-098#281:1:A>
+Distemper whatever <indig> yung ganon </indig> apparently
+there are other injections that my dog wasn’t getting
+
+<$B> 
+<ICE-PHI:S1A-098#282:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-098#283:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#284:1:B>
+Like what
+
+<$A> 
+<ICE-PHI:S1A-098#285:1:A>
+Like there 's this thing for the <.> gleptospiro </.>
+leptospirosis
+
+<$B> 
+<ICE-PHI:S1A-098#286:1:B>
+Yeah yeah
+
+<$A> 
+<ICE-PHI:S1A-098#287:1:A>
+Yeah
+
+<ICE-PHI:S1A-098#288:1:A>
+There 's a shot for that
+
+<$B> 
+<ICE-PHI:S1A-098#289:1:B>
+Why not
+
+<ICE-PHI:S1A-098#290:1:B>
+Who 's
+
+<ICE-PHI:S1A-098#291:1:B>
+What what 's that vet doing
+
+<$A> 
+<ICE-PHI:S1A-098#292:1:A>
+I don’t know
+
+<$B> 
+<ICE-PHI:S1A-098#293:1:B>
+What what my vet has that my vet 's incredible
+
+<$A> 
+<ICE-PHI:S1A-098#294:1:A>
+That 's so sad
+
+<$B> 
+<ICE-PHI:S1A-098#295:1:B>
+This this little woman <{> <[> <,> </[> who who can like
+stick her hands inside the dog 's mouth
+
+<$A> 
+<ICE-PHI:S1A-098#296:1:A>
+<[> <indig> Oo </indig> </[> </{>
+
+<ICE-PHI:S1A-098#297:1:A>
+Oh my God
+
+<$B> 
+<ICE-PHI:S1A-098#298:1:B>
+No as in I was shocked
+
+<ICE-PHI:S1A-098#299:1:B>
+He was giving he was giving Lancelot <indig> ano </indig> what do
+you call that <indig> yung </indig> heart guard
+
+<$A> 
+<ICE-PHI:S1A-098#300:1:A>
+<indig> Oo </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#301:1:B>
+Or or <indig> yung </indig> and and <indig> yung </indig> for
+<.> de </.> for deworming <{> <[> and stuff like </[> that
+
+<$A> 
+<ICE-PHI:S1A-098#302:1:A>
+<[> Yes yes </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-098#303:1:B>
+So she she gets she gets the tablet breaks it into into
+little pieces
+
+<$A> 
+<ICE-PHI:S1A-098#304:1:A>
+<indig> Oo </indig> okay and slams it down you know Lancelot
+'s throat
+
+<ICE-PHI:S1A-098#305:1:A>
+As in like <quote> Oh my God
+
+<ICE-PHI:S1A-098#306:1:A>
+Won’t he bite you </unquote>
+
+<ICE-PHI:S1A-098#307:1:A>
+Then then she said it depends on the dog
+
+<ICE-PHI:S1A-098#308:1:A>
+She doesn’t do that for Pitbulls and Dobermans
+
+<$A> 
+<ICE-PHI:S1A-098#309:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#310:1:B>
+Dobermen <&> chuckle </&> Dobermans
+
+<ICE-PHI:S1A-098#311:1:B>
+<indig> Ayun </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#312:1:A>
+<indig> Hay sobra kaming </indig> depressed when <indig> ano
+</indig> when that happened as in
+
+<$B> 
+<ICE-PHI:S1A-098#313:1:B>
+<indig> Oo </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#314:1:A>
+I cried
+
+<$B> 
+<ICE-PHI:S1A-098#315:1:B>
+So you have a new dog
+
+<$A> 
+<ICE-PHI:S1A-098#316:1:A>
+Not yet
+
+<$B> 
+<ICE-PHI:S1A-098#317:1:B>
+I 'll give you one when when this one gives birth
+
+<$A> 
+<ICE-PHI:S1A-098#318:1:A>
+What
+
+<ICE-PHI:S1A-098#319:1:A>
+How many do you have <indig> na ba </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#320:1:B>
+No I have I have uh I have I have Lancelot
+
+<ICE-PHI:S1A-098#321:1:B>
+<{> <[> He 's more </[> he 's about almost two years old now one
+and a half years old
+
+<$A> 
+<ICE-PHI:S1A-098#322:1:A>
+<[> <indig> Oo </indig> </[> </{>
+
+<$B> 
+<ICE-PHI:S1A-098#323:1:B>
+And then J J remember JJ the <{> <[> askal </[>
+
+<$A> 
+<ICE-PHI:S1A-098#324:1:A>
+<[> Yeah </[> </{> <indig> si </indig> J J
+
+<$B> 
+<ICE-PHI:S1A-098#325:1:B>
+Yeah Pammy uh Pammy no not Pammy Pat 's <indig> askal
+</indig> <{> <[> <,> </[> that she gave me still alive here
+
+<$A> 
+<ICE-PHI:S1A-098#326:1:A>
+<[> Yeah </[> </{>
+
+<ICE-PHI:S1A-098#327:1:A>
+Oh my God
+
+<$B> 
+<ICE-PHI:S1A-098#328:1:B>
+And then he 's a dominant dog <indig> ha </indig>
+
+<ICE-PHI:S1A-098#329:1:B>
+I mean Lance is bigger than he is but J J 's the dominant dog
+
+<$A> 
+<ICE-PHI:S1A-098#330:1:A>
+<&> chuckle </&> <{> <[> <indig> Matapang </indig> </[>
+
+<$B> 
+<ICE-PHI:S1A-098#331:1:B>
+<[> <indig> Grabe </indig> </[> </{> <O> laughter </O>
+
+<$B> 
+<ICE-PHI:S1A-098#332:1:B>
+And then and then Lance mated a year ago no not a year ago
+but <.> bu </.> uh sometime December
+
+<$A> 
+<ICE-PHI:S1A-098#333:1:A>
+Uh-uhm
+
+<$B> 
+<ICE-PHI:S1A-098#334:1:B>
+With this this Lab that my <indig> ano </indig> from from my
+sister 's village
+
+<$A> 
+<ICE-PHI:S1A-098#335:1:A>
+Uh-uhm
+
+<$B> 
+<ICE-PHI:S1A-098#336:1:B>
+And then they gave uh she gave birth <indig> nung </indig>
+Feb twenty-eight so now I have a puppy
+
+<$A> 
+<ICE-PHI:S1A-098#337:1:A>
+Cute
+
+<$B> 
+<ICE-PHI:S1A-098#338:1:B>
+Female
+
+<ICE-PHI:S1A-098#339:1:B>
+<indig> Pero ano rin </indig> ugly <indig> rin e </indig>
+
+<ICE-PHI:S1A-098#340:1:B>
+It doesn’t look when when I saw the dog again
+
+<$A> 
+<ICE-PHI:S1A-098#341:1:A>
+Uh-hmmmh
+
+<$B> 
+<ICE-PHI:S1A-098#342:1:B>
+<indig> Mukha ring </indig> she you know she looked <indig>
+askal </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#343:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#344:1:B>
+She looked like <indig> askal </indig> also so I 'm not sure
+
+<ICE-PHI:S1A-098#345:1:B>
+I 'm not sure if this puppy is gonna turn out cute
+
+<$A> 
+<ICE-PHI:S1A-098#346:1:A>
+<indig> Hay </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#347:1:B>
+Or turn out like uh looking like a Lab
+
+<$A> 
+<ICE-PHI:S1A-098#348:1:A>
+Well
+
+<$B> 
+<ICE-PHI:S1A-098#349:1:B>
+<indig> Kasi </indig> he 's you know the head 's beginning to
+change shape <indig> e </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#350:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#351:1:B>
+It 's not the squarish cut type anymore <indig> e </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#352:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#353:1:B>
+But then I 've I have other I have other friends who have
+female dogs so
+
+<$A> 
+<ICE-PHI:S1A-098#354:1:A>
+<indig> Oo </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#355:1:B>
+In the future
+
+<$A> 
+<ICE-PHI:S1A-098#356:1:A>
+<indig> Hoy </indig> if you know anyone selling <indig> ha
+</indig>
+
+<$B> 
+<ICE-PHI:S1A-098#357:1:B>
+<O> cough </O> Uh a Labrador
+
+<$A> 
+<ICE-PHI:S1A-098#358:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#359:1:B>
+You want I 'll ask
+
+<$A> 
+<ICE-PHI:S1A-098#360:1:A>
+<{> <[> <indig> Ha </indig> </[>
+
+<$B> 
+<ICE-PHI:S1A-098#361:1:B>
+<[> <indig> Yung </indig> </[> </{> where I where I bought
+Lance
+
+<$A> 
+<ICE-PHI:S1A-098#362:1:A>
+Yeah find out
+
+<$B> 
+<ICE-PHI:S1A-098#363:1:B>
+They 're really breeders as in champion
+
+<$A> 
+<ICE-PHI:S1A-098#364:1:A>
+How much
+
+<$B> 
+<ICE-PHI:S1A-098#365:1:B>
+Uh I I got Lance for about nine
+
+<ICE-PHI:S1A-098#366:1:B>
+I don’t know how how much they would sell uh
+
+<$A> 
+<ICE-PHI:S1A-098#367:1:A>
+Because my God you know my my sister 's friend is selling
+Labradors with papers
+
+<$B> 
+<ICE-PHI:S1A-098#368:1:B>
+Who
+
+<$A> 
+<ICE-PHI:S1A-098#369:1:A>
+Uh I forget who
+
+<ICE-PHI:S1A-098#370:1:A>
+But like can you believe twenty-five
+
+<$B> 
+<ICE-PHI:S1A-098#371:1:B>
+<indig> Ha </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#372:1:A>
+<O> laughter </O> I 'm like forget it
+
+<$B> 
+<ICE-PHI:S1A-098#373:1:B>
+What uh you you as in direct from U S
+
+<$A> 
+<ICE-PHI:S1A-098#374:1:A>
+<indig> Hindi dito na
+
+<ICE-PHI:S1A-098#375:1:A>
+Dito na siya na-breed
+
+<ICE-PHI:S1A-098#376:1:A>
+Pero </indig> supposed to be top <indig> yung </indig> line with
+papers with <indig> kung anu-ano </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#377:1:B>
+That 's too expensive
+
+<ICE-PHI:S1A-098#378:1:B>
+But you know hello twenty-five
+
+<ICE-PHI:S1A-098#379:1:B>
+That 's for a male
+
+<$B> 
+<ICE-PHI:S1A-098#380:1:B>
+Yeah
+
+<$A> 
+<ICE-PHI:S1A-098#381:1:A>
+It 's thirty for a female
+
+<$B> 
+<ICE-PHI:S1A-098#382:1:B>
+The the highest I know is twelve for a female
+
+<$A> 
+<ICE-PHI:S1A-098#383:1:A>
+<indig> Di ba </indig> <.> th </.> uhm that 's already that
+'s bordering on the absurd
+
+<$B> 
+<ICE-PHI:S1A-098#384:1:B>
+Uh is she able to sell
+
+<$A> 
+<ICE-PHI:S1A-098#385:1:A>
+I don’t know
+
+<$B> 
+<ICE-PHI:S1A-098#386:1:B>
+My God twenty-five thousand
+
+<$A> 
+<ICE-PHI:S1A-098#387:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#388:1:B>
+Never mind 'cause there are like uh well uh they they don’t
+have papers
+
+<ICE-PHI:S1A-098#389:1:B>
+There are Labs going for four
+
+<$A> 
+<ICE-PHI:S1A-098#390:1:A>
+<indig> Hay </indig> crazy it 's really crazy
+
+<$B> 
+<ICE-PHI:S1A-098#391:1:B>
+<indig> Ayun </indig> I was telling Rina puppy exchange
+<indig> e </indig> <O> speaker A laughs </O>
+
+<ICE-PHI:S1A-098#392:1:B>
+I was looking for a mate for her dog
+
+<$A> 
+<ICE-PHI:S1A-098#393:1:A>
+<indig> Oo </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#394:1:B>
+She has a Beagle <indig> di ba
+
+<ICE-PHI:S1A-098#395:1:B>
+Si George </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#396:1:A>
+Yeah that 's right
+
+<ICE-PHI:S1A-098#397:1:A>
+<indig> Si George </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#398:1:B>
+<indig> Ang </indig> cute
+
+<ICE-PHI:S1A-098#399:1:B>
+I I saw this Beagle in <indig> ano </indig> uhm where 's that
+
+<ICE-PHI:S1A-098#400:1:B>
+There was this dog show yesterday
+
+<$A> 
+<ICE-PHI:S1A-098#401:1:A>
+<indig> Oo </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#402:1:B>
+P C C I sponsored in in Riverbanks in Marikina
+
+<$A> 
+<ICE-PHI:S1A-098#403:1:A>
+<indig> Oo </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#404:1:B>
+<indig> Ay </indig> my golly
+
+<ICE-PHI:S1A-098#405:1:B>
+The dogs are all the dogs are so cute
+
+<ICE-PHI:S1A-098#406:1:B>
+There was this really huge Great Dane
+
+<$A> 
+<ICE-PHI:S1A-098#407:1:A>
+Yeah
+
+<$B> 
+<ICE-PHI:S1A-098#408:1:B>
+I mean it wasn’t a dog anymore
+
+<ICE-PHI:S1A-098#409:1:B>
+It was a small horse <O> laughter </O>
+
+<$A> 
+<ICE-PHI:S1A-098#410:1:A>
+I can imagine
+
+<$B> 
+<ICE-PHI:S1A-098#411:1:B>
+And there was this Newfoundland for crying out loud it was so
+big it was like a refrigerator lying down <O> speaker A laughs </O>
+
+<ICE-PHI:S1A-098#412:1:B>
+It was so big
+
+<ICE-PHI:S1A-098#413:1:B>
+And then also they had the Pembroke then Pomeranians then American
+Bull Dogs and and Labs and then there was this Lab the Lab won second best in
+show
+
+<$A> 
+<ICE-PHI:S1A-098#414:1:A>
+<indig> Hay </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#415:1:B>
+And then this humongous Rottweiler <,> <indig> ganun </indig>
+
+<$A> 
+<ICE-PHI:S1A-098#416:1:A>
+Oh you should see Karen now
+
+<ICE-PHI:S1A-098#417:1:A>
+She 's trying to climb the computer chair
+
+<ICE-PHI:S1A-098#418:1:A>
+<{> <[> She 's </[> making <indig> pasimple </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#419:1:B>
+<[> <indig> Ha </indig> </[> </{>
+
+<ICE-PHI:S1A-098#420:1:B>
+What 's that
+
+<$A> 
+<ICE-PHI:S1A-098#421:1:A>
+Karen <indig> kasi </indig> wants to play with the computer
+<O> speaker B laughs </O>
+
+<ICE-PHI:S1A-098#422:1:A>
+So she 's
+
+<$B> 
+<ICE-PHI:S1A-098#423:1:B>
+She 's playing with the computer now
+
+<$A> 
+<ICE-PHI:S1A-098#424:1:A>
+You know trying to set the chair you know climb it
+
+<ICE-PHI:S1A-098#425:1:A>
+<{> <[> So </[>
+
+<$B> 
+<ICE-PHI:S1A-098#426:1:B>
+<[> Same </[> thing with Thea
+
+<$A> 
+<ICE-PHI:S1A-098#427:1:A>
+<indig> Hay </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#428:1:B>
+You know Thea every time uhm every time I 'm I 'm at my
+sister 's
+
+<$A> 
+<ICE-PHI:S1A-098#429:1:A>
+<indig> Oo </indig>
+
+<$B> 
+<ICE-PHI:S1A-098#430:1:B>
+<indig> Di </indig> that 's the only place I can access
+Friendster <indig> e </indig>
+
+<ICE-PHI:S1A-098#431:1:B>
+It 's blocked in Saint Scho
+
+<ICE-PHI:S1A-098#432:1:B>
+<{> <[> So </[>
+
+<$A> 
+<ICE-PHI:S1A-098#433:1:A>
+<[> Oh </[> </{> yeah
+
+<$B> 
+<ICE-PHI:S1A-098#434:1:B>
+It is
+
+<ICE-PHI:S1A-098#435:1:B>
+<indig> Si </indig> John
+
+<$A> 
+<ICE-PHI:S1A-098#436:1:A>
+Oh my
+
+<$B> 
+<ICE-PHI:S1A-098#437:1:B>
+John blocked it
+
+<ICE-PHI:S1A-098#438:1:B>
+I was asking him <indig> nga </indig> to <indig> ano e </indig> to
+activate mine and <indig> sabi niya </indig> he has to activate <indig> daw
+</indig> I don’t know what he has to do to to have it done
+
+<ICE-PHI:S1A-098#439:1:B>
+So I go to my sister 's to access </I> 

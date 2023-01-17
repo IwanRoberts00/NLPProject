@@ -1,0 +1,451 @@
+<I>
+
+<ICE-PHI:W2A-036#1:1>
+<h> <bold> A DSP-Based Solution to the Early Identification of Hearing
+Impairment </bold> </h>
+
+<ICE-PHI:W2A-036#2:1>
+<bold> Vincent Peter C. Valentus </bold>
+
+<ICE-PHI:W2A-036#3:1>
+<h> <bold> ABSTRACT </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-036#4:1>
+This paper describes the development of a low cost DSP solution
+for the early identification of hearing impairment.
+
+<ICE-PHI:W2A-036#5:1>
+The desire is to develop a cost-effective, highly sensitive, and
+easily administered screening system for the evaluation of human hearing
+acuity. </p>
+
+<p> 
+<ICE-PHI:W2A-036#6:1>
+The proposed system is called <mention> EARTEST </mention> .
+
+<ICE-PHI:W2A-036#7:1>
+<mention> EARTEST </mention> is basically a DSP-based screening
+audiometer capable of performing pure tone air conduction testing. </p>
+
+<ICE-PHI:W2A-036#8:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-036#9:1>
+There is a clear need for the early identification of hearing
+impairment in infants and children.
+
+<ICE-PHI:W2A-036#10:1>
+Studies have shown that reduced hearing acuity during infancy and
+early childhood interferes with the development of speech and language skills
+of the child, which if not immediately detected and if no appropriate
+intervention has been done, could cause adverse effects on the child 's
+social, emotional, cognitive and academic development, as well as, on the
+person 's vocational and economic potential <fnr> [ 1] </fnr> . </p>
+
+<p> 
+<ICE-PHI:W2A-036#11:1>
+Although methods exist that allow universal screening of
+hearing-impaired infants <fnr> [ 2] </fnr> , still it must be recognized that
+not all hearing impairments will be present and can be detected at birth.
+
+<ICE-PHI:W2A-036#12:1>
+A significant number of them will develop hearing impairment during
+their early years.
+
+<ICE-PHI:W2A-036#13:1>
+Such losses may be acquired as a result of medical conditions or of
+hereditary causes.
+
+<ICE-PHI:W2A-036#14:1>
+Since new cases of hearing impairment can arise in early childhood,
+additional screening methods should be executed.
+
+<ICE-PHI:W2A-036#15:1>
+As a practical matter, however, the cost of universal screening has
+been prohibitive, the biggest part of the problem being the huge expense that
+will be spent in operating a universal screening system.
+
+<ICE-PHI:W2A-036#16:1>
+Another issue is the manageability of administering such testings at
+this large extent.
+
+<ICE-PHI:W2A-036#17:1>
+For a universal screening procedure to be feasible, this should be
+fast, reliable and easily administered by trained individuals. </p>
+
+<p> 
+<ICE-PHI:W2A-036#18:1>
+On these accounts, we proposed a system called <mention> EARTEST
+</mention> for the early detection of hearing impairment in children.
+
+<ICE-PHI:W2A-036#19:1>
+The system is a DSP-based screening audiometer capable of performing
+pure tone air-conduction testing.
+
+<ICE-PHI:W2A-036#20:1>
+Note that the system is intended only for screening children who
+exhibit difficulty of hearing.
+
+<ICE-PHI:W2A-036#21:1>
+As such, the system could not provide accurate prognosis of the
+patient 's hearing problems.
+
+<ICE-PHI:W2A-036#22:1>
+However, results of the test provides sufficient information for the
+conducting specialist to recommend whether or not a patient needs to undergo
+a more thorough audiologic evaluation.
+
+<ICE-PHI:W2A-036#23:1>
+An advantage of the system is that it interfaces to any
+IBM-compatible PC.
+
+<ICE-PHI:W2A-036#24:1>
+A graphical user interface is provided that allows the user of the
+system to easily control the conduct of the audiologic examination.
+
+<ICE-PHI:W2A-036#25:1>
+Moreover, a database system that handles records of patient
+audiograms is included in the system which allows important statistical data,
+e. g., mean level of hearing acuity pertaining to a certain locality or
+population, to be easily generated. </p>
+
+<ICE-PHI:W2A-036#26:1>
+<h> <bold> SYSTEM OVERVIEW </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-036#27:1>
+Pure tone audiometry is the standard measure of hearing acuity.
+
+<ICE-PHI:W2A-036#28:1>
+A complete pure tone audiometry includes both air conduction and bone
+conduction testing.
+
+<ICE-PHI:W2A-036#29:1>
+Air conduction testing evaluates the patient 's sensitivity to pure
+tones via hearing from the auricle to the cochlea.
+
+<ICE-PHI:W2A-036#30:1>
+Bone conduction testing, on the other hand, evaluates hearing acuity
+by direct stimulation of the cochlea through a bone oscillator placed on the
+patient 's mastoid or forehead.
+
+<ICE-PHI:W2A-036#31:1>
+Testing by both air conduction and bone conduction provides an
+indication of how much of a hearing loss is due to the transmission or
+conduction of sound and how much is due to inner ear or nerve damage <fnr> [
+3] </fnr> . </p>
+
+<p> 
+<ICE-PHI:W2A-036#32:1>
+Ideally, a screening audiometer should include both air
+conduction and bone conduction testings.
+
+<ICE-PHI:W2A-036#33:1>
+However, cost constraints limit us to design the system for air
+conduction testing alone.
+
+<ICE-PHI:W2A-036#34:1>
+Although air conduction testing by itself will not provide enough
+information to determine the patent 's exact hearing condition, its test
+results will suffice for a specialist to note if a patient needs to be
+referred for a more thorough audiologic evaluation. </p>
+
+<p> 
+<ICE-PHI:W2A-036#35:1>
+Air conduction testing involves the playing of pure tones of
+varying degrees of intensity levels on one of the patient 's ear to determine
+his/her threshold hearing level across selected frequencies in the audible
+sound spectrum.
+
+<ICE-PHI:W2A-036#36:1>
+The generation of a pure tone is done digitally using a TMS320C10
+digital signal processor.
+
+<ICE-PHI:W2A-036#37:1>
+The algorithm used is the linear interpolation table-lookup method of
+sine wave generation. </p>
+
+<p> 
+<ICE-PHI:W2A-036#38:1>
+Sometimes, it is necessary to introduce masking noise to the
+patient 's non-test ear to prevent it from participating in the test of the
+other ear.
+
+<ICE-PHI:W2A-036#39:1>
+This is necessary due to the occurrence of cross-over - - a condition
+in which sound introduced to the other ear may be perceived by the other ear
+since sound can travel from one side of the head to the other.
+
+<ICE-PHI:W2A-036#40:1>
+Masking the patient 's non-test ear is usually done when performing
+bone conduction testing.
+
+<ICE-PHI:W2A-036#41:1>
+Nonetheless, this feature is included in the design of the EARTEST
+system.
+
+<ICE-PHI:W2A-036#42:1>
+A pseudo-random bit sequence generator algorithm is assembled for the
+TMS320C10 processor to simulate the random noise source. </p>
+
+<p> 
+<ICE-PHI:W2A-036#43:1>
+EARTEST has a software interface program, which runs on Windows
+3.1 ( see Figure 1), that controls the operation of the hardware.
+
+<ICE-PHI:W2A-036#44:1>
+The hardware and software modules communicate through the PC 's
+parallel port.
+
+<ICE-PHI:W2A-036#45:1>
+Using this software, the person that conducts the examination will be
+able to change the frequency of the test tone, vary its intensity, and modify
+how the tone is played ( i.e., continuous or interrupted play).
+
+<ICE-PHI:W2A-036#46:1>
+It can also select whether masking is enabled on one ear and change
+where the test tone is played ( <foreign> i.e. </foreign> , right or left
+ear).
+
+<ICE-PHI:W2A-036#47:1>
+It has a plotting function for displaying the patient audiograms
+on-screen, as well as, a database system that manages the collection and
+retrieval of patient audiogram records.
+
+<ICE-PHI:W2A-036#48:1>
+A block diagram of the EARTEST system is shown in Figure 2: </p> <O>
+<h> <bold> Figure 2.
+
+<ICE-PHI:W2A-036#49:1>
+Block diagram of the EARTEST system </bold> </h> </O>
+
+<ICE-PHI:W2A-036#50:1>
+<h> <bold> SINE WAVE GENERATION ALGORITHM </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-036#51:1>
+Pure tone used for testing is digitally generated using the
+TMS320C10 digital signal processor.
+
+<ICE-PHI:W2A-036#52:1>
+The algorithm implemented to synthesize precise pure tones is the
+linear interpolation table-lookup method <fnr> [ 4] </fnr> .
+
+<ICE-PHI:W2A-036#53:1>
+The implementation of the routine is based on a 256-point sine and
+slope tables.
+
+<ICE-PHI:W2A-036#54:1>
+Each time this routine is called, the next sample point is evaluated
+and written to one of the selected digital-to-analog ports in the EARTEST
+board for conversion to the desired continuous waveform. </p>
+
+<p> 
+<ICE-PHI:W2A-036#55:1>
+The values in the sine table are all scaled and represented in
+Q14 format.
+
+<ICE-PHI:W2A-036#56:1>
+In Q14 format the decimal values, +1.0 and - 1.0, are represented by
+the two 's complement hexadecimal values 4000 and C000, respectively.
+
+<ICE-PHI:W2A-036#57:1>
+All the other values are scaled and rounded to the nearest
+hexadecimal number to reduce signal distortion. </p>
+
+<p> 
+<ICE-PHI:W2A-036#58:1>
+The linear interpolation method is an enhancement of the
+table-lookup method of sine wave generation.
+
+<ICE-PHI:W2A-036#59:1>
+Just as in the table lookup algorithm, a sine wave is generated by
+successively accessing the sine table at a constant rate, wrapping around at
+the end of the table whenever 360 angle is exceeded.
+
+<ICE-PHI:W2A-036#60:1>
+The table index is used as the angle parameter, denoted by ALPHA.
+
+<ICE-PHI:W2A-036#61:1>
+ALPHA is regarded as having an integer and fractional part with the
+format: <O> format </O> </p>
+
+<p> 
+<ICE-PHI:W2A-036#62:1>
+DELTA denotes the step size for this routine and has the same
+format as ALPHA.
+
+<ICE-PHI:W2A-036#63:1>
+Every time this routine is called, the contents of DELTA is added to
+the contents of ALPHA.
+
+<ICE-PHI:W2A-036#64:1>
+The integer pointer of ALPHA is the pointer to the sine table.
+
+<ICE-PHI:W2A-036#65:1>
+Sample points falling between samples in the table are evaluated
+using the linear approximation formula given by: <O> formula </O> </p>
+
+<p> 
+<ICE-PHI:W2A-036#66:1>
+The method of calculating the stepsize, DELTA, for a given
+sampling interval, t, and frequency can be obtained using the equation: <O>
+equation </O> </p>
+
+<p> 
+<ICE-PHI:W2A-036#67:1>
+At a sampling rate of 32768 Hz, the frequency resolution of the
+sine waveform generated is <O> formula </O>
+
+<p> 
+<ICE-PHI:W2A-036#68:1>
+A flowchart of the table-lookup method of sine generation with
+linear interpolation is shown in Figure 3. </p> <O> <h> <bold> Figure 3.
+
+<ICE-PHI:W2A-036#69:1>
+Flowchart of the table-lookup method of sinewave generation with
+linear interpolation. </bold> </h> </O>
+
+<ICE-PHI:W2A-036#70:1>
+<h> <bold> NOISE GENERATION ALGORITHM </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-036#71:1>
+Masking noise is also digitally generated using the TMS320C10
+processor.
+
+<ICE-PHI:W2A-036#72:1>
+A pseudorandom bit sequence generator algorithm <fnr> [ 5] </fnr> is
+used to simulate the digital noise source which is then passed through a band
+limiter to obtain the desired analog noise waveform.
+
+<ICE-PHI:W2A-036#73:1>
+The PRBS algorithm is described by the logic circuitry in Figure 4.
+</p>
+
+<p> 
+<ICE-PHI:W2A-036#74:1>
+The maximum length of the sequence that will be generated by a
+31-bit register is K = 2 <sp> 31 </sp> - 1, i.e., the number of binary
+combinations of 31 bits minus the all zeros state.
+
+<ICE-PHI:W2A-036#75:1>
+With the 31-bit register clocked at 500 Khz, the cycle time ( time
+for the sequence to repeat itself) would be over 1 hour.
+
+<ICE-PHI:W2A-036#76:1>
+The output spectrum generated by this filter consists of noise
+extending from the repeat frequency of the entire sequence, f <sb> clock
+</sb> / K, up to the clock frequency and beyond.
+
+<ICE-PHI:W2A-036#77:1>
+It is flat within 0.1dB up to 12% of the clock frequency, dropping
+rapidly beyond its - 3dB point of 44%f <sb> clock </sb> .
+
+<ICE-PHI:W2A-036#78:1>
+Thus a low-pass filter with a high-frequency cut-off of 5%-10% of the
+clock frequency will convert the unfiltered shift register output to a
+bandlimited analog noise voltage. </p>
+
+<ICE-PHI:W2A-036#79:1>
+<h> <bold> DISCUSSION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-036#80:1>
+The cost of performing a screening procedure has always been a
+very taxing and expensive endeavor because of the large number of testings
+that need to be executed.
+
+<ICE-PHI:W2A-036#81:1>
+For a screening procedure to be feasible, it should be simple,
+low-cost, highly-sensitive and readily implementable.
+
+<ICE-PHI:W2A-036#82:1>
+The EARTEST system we proposed for detecting hearing impairment seeks
+to satisfy these requirements. </p>
+
+<p> 
+<ICE-PHI:W2A-036#83:1>
+The EARTEST system screens individuals who exhibit difficulty of
+hearing by testing for pure tone air conduction hearing.
+
+<ICE-PHI:W2A-036#84:1>
+This procedure is the usual first step for identifying hearing
+impairments.
+
+<ICE-PHI:W2A-036#85:1>
+It provides a profile of the patient 's hearing acuity across the
+audible sound spectrum by eliciting feedback from the patients themselves.
+
+<ICE-PHI:W2A-036#86:1>
+Hence, the data that are generated can be considered highly sensitive
+of the patient 's hearing condition.
+
+<ICE-PHI:W2A-036#87:1>
+Patient 's response to this test are usually immediate.
+
+<ICE-PHI:W2A-036#88:1>
+A complete audiogram can be performed in roughly three minutes which
+is ideal if you want the screening procedure to cover a large number of
+patients in a short time period. </p>
+
+<p> 
+<ICE-PHI:W2A-036#89:1>
+The EARTEST system is easy to use and is readily implementable.
+
+<ICE-PHI:W2A-036#90:1>
+Setting up the system takes only two steps - - 1) install the
+software interface program in the PC and 2) connect the accompanying hardware
+to the PC 's parallel port.
+
+<ICE-PHI:W2A-036#91:1>
+The layout of the software interface has been patterned after the
+front panel of a commercial audiometer <fnr> [ 6] </fnr> so that the
+audiologist that would be using the system could easily get familiarized with
+its operation.
+
+<ICE-PHI:W2A-036#92:1>
+The GUI automatically performs system diagnostics so that if there
+are problems in the set-up, the user will be appropriately notified. </p>
+
+<p> 
+<ICE-PHI:W2A-036#93:1>
+The EARTEST hardware component has been designed with cheap
+electronic ICs and a low-cost digital signal processor.
+
+<ICE-PHI:W2A-036#94:1>
+This is done to lessen the cost of the system, without compromising
+the precision of the test tones generated by the system.
+
+<ICE-PHI:W2A-036#95:1>
+It was designed to be as compact and as light as possible to bring to
+remote test sites. </p>
+
+<p> 
+<ICE-PHI:W2A-036#96:1>
+The EARTEST system will be tested by a group of volunteer
+audiologists in one of the local schools in the country.
+
+<ICE-PHI:W2A-036#97:1>
+The system shall be evaluated on the ease of its use, sensitivity of
+the system based on the number of misreferrals, and other points pertinent to
+the conduct of the screening procedure. </p>
+
+<ICE-PHI:W2A-036#98:1>
+<h> <bold> CONCLUSION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-036#99:1>
+A low-cost DSP-based solution for detecting hearing impairment
+has been described.
+
+<ICE-PHI:W2A-036#100:1>
+The system is called <mention> EARTEST </mention> and is primarily
+used in performing pure tone air conduction hearing tests.
+
+<ICE-PHI:W2A-036#101:1>
+The system is presently being evaluated for its operability and
+feasibility as a screening procedure for detecting hearing impairment. </p>
+</I>

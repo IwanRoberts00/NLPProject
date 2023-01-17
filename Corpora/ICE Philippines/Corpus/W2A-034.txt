@@ -1,0 +1,582 @@
+<I>
+
+<ICE-PHI:W2A-034#1:1>
+<h> <bold> A Glimpse of Image Processing and Neural Networks </bold>
+</h>
+
+<ICE-PHI:W2A-034#2:1>
+<bold> Arnel Andres </bold>
+
+<p> 
+<ICE-PHI:W2A-034#3:1>
+<it> The author attended a course on image processing and neural
+networks, held in Kuala Lumpur, Malaysia from June 21-26, 1992, along with
+other ASEAN delegates involved in the AAECP ( ASEAN-Australian Economic
+Cooperation Programme) project in Microelectronics.
+
+<ICE-PHI:W2A-034#4:1>
+Participation in this course, along with the ongoing theses projects
+of most graduate students in the College of Engineering, especially under the
+ECE Department led to the conduct of this research paper.
+
+<ICE-PHI:W2A-034#5:1>
+Discussed in this paper are the underlying logorithms and mathematics
+in image processing and neural networks.
+
+<ICE-PHI:W2A-034#6:1>
+Some of their major applications are mentioned in the conclusion.
+
+<ICE-PHI:W2A-034#7:1>
+Details on this subject will be dealt with in subsequent papers for
+publication. </it> </p>
+
+<ICE-PHI:W2A-034#8:1>
+<h> <bold> IMAGE PROCESSING </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-034#9:1>
+First on the list are enhancement image for user interaction and
+image restoration.
+
+<ICE-PHI:W2A-034#10:1>
+Here, images have to be digitized for further processing.
+
+<ICE-PHI:W2A-034#11:1>
+This implies that they are spatially quantized into pixels, and that
+the grey value ( light intensity) is quantized into bits.
+
+<ICE-PHI:W2A-034#12:1>
+This can be based on a single input pixel ( point operation), a set
+of neighboring input pixels ( local or neighborhood operation) or on all
+input pixels ( global operations). </p>
+
+<p> 
+<ICE-PHI:W2A-034#13:1>
+After the enhancement come segmentation of the image in objects
+and background followed by some logic processing.
+
+<ICE-PHI:W2A-034#14:1>
+For full color images, are usually constituted by red, green, and
+blue.
+
+<ICE-PHI:W2A-034#15:1>
+Look up tables ( LUT) can be displayed by different display
+functions.
+
+<ICE-PHI:W2A-034#16:1>
+These involve linear and nonlinear operations.
+
+<ICE-PHI:W2A-034#17:1>
+These are computationally heavy ( e.g. Fourier Transform) and can be
+avoided by implementing a series of local operations.
+
+<ICE-PHI:W2A-034#18:1>
+One local operation is point operation and is either defined by
+classical arithmetic operations ( addition, multiplication, etc.) or by table
+look up defining the output value for each input value.
+
+<ICE-PHI:W2A-034#19:1>
+Such tables can be based on image histograms.
+
+<ICE-PHI:W2A-034#20:1>
+A linear time shift invariant filter is equivalent to the convolution
+operation.
+
+<ICE-PHI:W2A-034#21:1>
+This can be used for smoothing ( low pass filtering) and edge
+enhancement ( high pass filtering).
+
+<ICE-PHI:W2A-034#22:1>
+The important set of nonlinear filters can be described as data
+dependent filters.
+
+<ICE-PHI:W2A-034#23:1>
+Being close to edges, their behavior differs from those in more
+homogenous areas.
+
+<ICE-PHI:W2A-034#24:1>
+The extreme percentile filters, the min-and-max-filters are important
+for background estimation and may thereby be used for shading correction.
+
+<ICE-PHI:W2A-034#25:1>
+A restored image ( no noise, no blurring, no shading) can be
+segmented into objects and background by thresholding.
+
+<ICE-PHI:W2A-034#26:1>
+Image statistics can be used for finding optimal threshold value.
+
+<ICE-PHI:W2A-034#27:1>
+The thresholding result is a binary image with just black and white (
+0/1) values.
+
+<ICE-PHI:W2A-034#28:1>
+The goal of binary image processing is to locate connected pixels (
+blobs or components), the most truthful representation of an object.
+
+<ICE-PHI:W2A-034#29:1>
+However, the definition of connected pixels is not trivial.
+
+<ICE-PHI:W2A-034#30:1>
+It appears that they have to be different for object and background
+pixels in order to avoid paradoxes.
+
+<ICE-PHI:W2A-034#31:1>
+Pixel operations involve simple arithmetic or logical combinations of
+zeros and ones.
+
+<ICE-PHI:W2A-034#32:1>
+Neighborhood operations are usually based on a series of 3x3 windows,
+so 9-bit in, 1-bit out.
+
+<ICE-PHI:W2A-034#33:1>
+The elementary ones are dilation ( growing) and erosion ( shrinking).
+
+<ICE-PHI:W2A-034#34:1>
+Combinations result in opening, closing and contour finding.
+
+<ICE-PHI:W2A-034#35:1>
+By setting conditions on the erosion, several types of skeleton
+operations result.
+
+<ICE-PHI:W2A-034#36:1>
+A <mention> skeleton </mention> is a one-pixel thick object, located
+somewhere in the middle of the original object which has the same topology (
+branches and holes).
+
+<ICE-PHI:W2A-034#37:1>
+A strict definition appears to be impossible, resulting in a set of
+different solutions.
+
+<ICE-PHI:W2A-034#38:1>
+A similar set of conditions on the dilation yields a background
+skeleton. </p>
+
+<p> 
+<ICE-PHI:W2A-034#39:1>
+The <mention> propagation </mention> is a conditional dilation
+using a mask image.
+
+<ICE-PHI:W2A-034#40:1>
+It is thereby a dyadic operation.
+
+<ICE-PHI:W2A-034#41:1>
+It can be used for removing image-edge connected objects, closing
+holes and retrieving objects for which some pixels are given.
+
+<ICE-PHI:W2A-034#42:1>
+The anchor skeleton is a conditional dyadic erosion that can be used
+by skeletonizing images part by part. </p>
+
+<ICE-PHI:W2A-034#43:1>
+<h> <bold> IMAGE ANALYSIS </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-034#44:1>
+Distances in images can be computed by counting pixel steps, only
+horizontally and vertically ( city-block distance, 4- connected) or also
+vertically ( chess-board distance, 8- connected).
+
+<ICE-PHI:W2A-034#45:1>
+By weighing these two types of steps with 5 and 7, a pseudo-euclidean
+distance measure is made.
+
+<ICE-PHI:W2A-034#46:1>
+This can be improved by also using the knight 's move step, weighed
+with 11.
+
+<ICE-PHI:W2A-034#47:1>
+Using such a measure, the distance between object boundaries can be
+computed, or that between an object and a point or between two objects.
+
+<ICE-PHI:W2A-034#48:1>
+The computation has to be performed in a distance ordered way and can
+be stopped as soon as the goal is reached. </p>
+
+<p> 
+<ICE-PHI:W2A-034#49:1>
+Computations in and on images are only truthful if the image is
+restored correctly.
+
+<ICE-PHI:W2A-034#50:1>
+Some discretization errors, however, can hardly be corrected, like
+missing points or missing areas.
+
+<ICE-PHI:W2A-034#51:1>
+An important artifact is the aspect ratio introduced by many
+digitizers related to the 4:3 field dimensions of the standard video sensors
+and monitors.
+
+<ICE-PHI:W2A-034#52:1>
+This influences all 3x3 filters and pixel weighing as well as all
+distance computations.
+
+<ICE-PHI:W2A-034#53:1>
+it is thereby advisable to use square pixel digitizers.
+
+<ICE-PHI:W2A-034#54:1>
+The spread in grey levels of objects and background may result in
+inaccurately computed object dimensions.
+
+<ICE-PHI:W2A-034#55:1>
+Many object features are based on area and contour length estimates.
+
+<ICE-PHI:W2A-034#56:1>
+These are influenced by the square digitized grid for the length of
+straight lines where closed contours correction terms are known.
+
+<ICE-PHI:W2A-034#57:1>
+Position estimates of the objects with known shape can be very
+accurate ( sub-pixel accuracy) if the object has non-straight edges.
+
+<ICE-PHI:W2A-034#58:1>
+Otherwise the interference with the grid may cause a large
+inaccuracy.
+
+<ICE-PHI:W2A-034#59:1>
+Several types of object features can be computed using a mix of the
+above measures combined with edge detectors and histogram estimates. </p>
+
+<ICE-PHI:W2A-034#60:1>
+<h> <bold> OBJECT RECOGNITION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-034#61:1>
+If object models are given, artificial images can be studied
+using graphical techniques that can be matched with the real observed image.
+
+<ICE-PHI:W2A-034#62:1>
+The best match out of a set of models yields a recognition.
+
+<ICE-PHI:W2A-034#63:1>
+For this approach, image analysis is not needed, but it is necessary
+to have knowledge on object position, light, sensor characteristics, etc., in
+order to generate realistic images.
+
+<ICE-PHI:W2A-034#64:1>
+Moreover, the image generation and matching procedures can be
+computation heavy. </p>
+
+<p> 
+<ICE-PHI:W2A-034#65:1>
+The second approach is the computation of a set of possible
+models out of the image analysis results.
+
+<ICE-PHI:W2A-034#66:1>
+Matching is done in the model domain.
+
+<ICE-PHI:W2A-034#67:1>
+While this type of match may be more simple, a combinatorial
+explosion may result due to all possible object positions and orientation.
+</p>
+
+<p> 
+<ICE-PHI:W2A-034#68:1>
+A third possible approach is to extract characteristic
+measurements from both models and observed images.
+
+<ICE-PHI:W2A-034#69:1>
+Matching retrieved feature vectors can be done quickly, but finding
+the right features and matching measures can be a problem.
+
+<ICE-PHI:W2A-034#70:1>
+If no models are given, they may be learned from a set of examples.
+
+<ICE-PHI:W2A-034#71:1>
+In this learning stage, images have to be sensed, processed and
+analyzed similarly as in the operational stage afterwards.
+
+<ICE-PHI:W2A-034#72:1>
+Finding the right features, match measures and accuracy predictions
+are the goals of pattern recognition. </p>
+
+<ICE-PHI:W2A-034#73:1>
+<h> <bold> PATTERN RECOGNITION </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-034#74:1>
+Pattern recognition starts with gathering a set of representative
+object examples and possible features.
+
+<ICE-PHI:W2A-034#75:1>
+In the probabilistic approach, the optimal decision function for
+future objects is found by estimating the object class densities in the
+feature space.
+
+<ICE-PHI:W2A-034#76:1>
+Objects are optimally classified by assigning them to the class with
+the highest a posterior probability--the Bayes method.
+
+<ICE-PHI:W2A-034#77:1>
+Alternative approaches are the estimation of a minimum error decision
+boundary on the learning set and the <mention> nearest neighbor strategy
+</mention> .
+
+<ICE-PHI:W2A-034#78:1>
+Implicitly, however, they are based on the same probabilistic
+approach: minimizing the expected classification error. </p>
+
+<p> 
+<ICE-PHI:W2A-034#79:1>
+All pattern recognition techniques suffer from the curse of
+dimensions, also called the <mention> peaking phenomenon </mention> .
+
+<ICE-PHI:W2A-034#80:1>
+For large feature sizes ( and constant sample sizes as well), the
+classification accuracy deteriorates due to a cumulation of estimation
+errors.
+
+<ICE-PHI:W2A-034#81:1>
+This implies that the feature size k has to be small compared to the
+sample size ( e.g. k=n/10).
+
+<ICE-PHI:W2A-034#82:1>
+This phenomenon also holds more generally: from a certain point the
+classification deteriorates if the decision boundary complexity ( linear,
+quadratic, etc.) or the density estimation complexity is increased further.
+
+<ICE-PHI:W2A-034#83:1>
+This implies that with increasing computational complexity, the
+feature size has to be reduced.
+
+<ICE-PHI:W2A-034#84:1>
+The consequence for feature selection is that large feature sets have
+to be reduced by simple methods, that smaller feature sets can be reduced
+further by more complex methods, etc.
+
+<ICE-PHI:W2A-034#85:1>
+In feature selection one has to realize that the two best features (
+according to individual ranking) are not the best two ( according to combined
+evaluation). </p>
+
+<p> 
+<ICE-PHI:W2A-034#86:1>
+Selection of features and classifiers has to be done by a
+learning set.
+
+<ICE-PHI:W2A-034#87:1>
+A testing set is needed for estimating the obtained classification
+result.
+
+<ICE-PHI:W2A-034#88:1>
+Together the learning set and testing set constitute the design set.
+
+<ICE-PHI:W2A-034#89:1>
+Large learning sets produce better classifiers.
+
+<ICE-PHI:W2A-034#90:1>
+A large testing set results in a more accurate error estimate.
+
+<ICE-PHI:W2A-034#91:1>
+The best compromise is the rotation method.
+
+<ICE-PHI:W2A-034#92:1>
+The design set is split up into a number of parts.
+
+<ICE-PHI:W2A-034#93:1>
+One part is taken apart and saved for testing.
+
+<ICE-PHI:W2A-034#94:1>
+The remaining part is used for learning.
+
+<ICE-PHI:W2A-034#95:1>
+This is repeated for all parts. </p>
+
+<p> 
+<ICE-PHI:W2A-034#96:1>
+Each time, a different part is used for testing and the remaining
+part for learning.
+
+<ICE-PHI:W2A-034#97:1>
+Finally, all test results are averaged.
+
+<ICE-PHI:W2A-034#98:1>
+If a part is as small as one sample this is called the <mention> n-1
+or leave-one-out method </mention> .
+
+<ICE-PHI:W2A-034#99:1>
+For good classifiers, feature dependencies have to be taken into
+account.
+
+<ICE-PHI:W2A-034#100:1>
+However, this may necessitate the use of a large set of parameters.
+
+<ICE-PHI:W2A-034#101:1>
+Especially for large feature sizes, the Bayes model may thereby be
+unrealistic. </p>
+
+<p> 
+<ICE-PHI:W2A-034#102:1>
+Often, a restriction is made to linear classifiers.
+
+<ICE-PHI:W2A-034#103:1>
+In a Bayes optimal way the logistic model produces a linear decision
+function over a large set of class densities.
+
+<ICE-PHI:W2A-034#104:1>
+However, there exists no analytical solution. </p>
+
+<p> 
+<ICE-PHI:W2A-034#105:1>
+The Parzen method can be used if no knowledge is available on
+the class densities.
+
+<ICE-PHI:W2A-034#106:1>
+It builds class density estimates out of elementary kernels,
+positioned on the learning set sample points.
+
+<ICE-PHI:W2A-034#107:1>
+The kernel width has to be optimized.
+
+<ICE-PHI:W2A-034#108:1>
+Parzen estimators can be simplified to a reduced set of kernels or
+to linear decision boundaries.
+
+<ICE-PHI:W2A-034#109:1>
+The simplest way of measuring the performance of a classifier or a
+feature set is to count the errors.
+
+<ICE-PHI:W2A-034#110:1>
+Other techniques are sometimes more feasible in relation to
+optimizing procedures, or give a more accurate estimate based on density
+model knowledge.
+
+<ICE-PHI:W2A-034#111:1>
+Model weighed measures may be sensitive to <it> outliers </it> .
+</p>
+
+<p> 
+<ICE-PHI:W2A-034#112:1>
+One model-free approach that is robust against large feature
+sets is the use of decision trees.
+
+<ICE-PHI:W2A-034#113:1>
+Here, the feature selection is combined with the construction of
+classifiers.
+
+<ICE-PHI:W2A-034#114:1>
+At each node of the tree a feature has to be chosen and a threshold
+has to be estimated.
+
+<ICE-PHI:W2A-034#115:1>
+If no two objects in the learning set each learning set can finally
+be classified completely correct.
+
+<ICE-PHI:W2A-034#116:1>
+This is obviously not optimal: the tree is too large ( compare the
+peaking phenomenon).
+
+<ICE-PHI:W2A-034#117:1>
+So smaller trees have to be constructed by either stopping rules, or
+by tree pruning. </p>
+
+<ICE-PHI:W2A-034#118:1>
+<h> <bold> NEURAL NETWORKS </bold> </h>
+
+<p> 
+<ICE-PHI:W2A-034#119:1>
+Neural Networks were studied intensively as early as the 1960s.
+
+<ICE-PHI:W2A-034#120:1>
+During that time, they were built up by linear threshold units (
+LTU).
+
+<ICE-PHI:W2A-034#121:1>
+If error counting is used for the performance measure, optimization
+problems are encountered.
+
+<ICE-PHI:W2A-034#122:1>
+Therefore, more smoothed functions are used ( e.g. the logistic
+function), often combined with squaring the errors.
+
+<ICE-PHI:W2A-034#123:1>
+Optimization is often done sequentially for the learning objects.
+
+<ICE-PHI:W2A-034#124:1>
+The famous <mention> perceptron </mention> has a piece-wise linear
+weight function.
+
+<ICE-PHI:W2A-034#125:1>
+If the classes are linear separable, the perceptron learning rule
+always converges to the optimal result.
+
+<ICE-PHI:W2A-034#126:1>
+Many other rules have been studied for the non-separable case.
+
+<ICE-PHI:W2A-034#127:1>
+The problem is that in practice, it is not known whether the
+learning set is separable or not, so the optimal learning strategy cannot be
+chosen.
+
+<ICE-PHI:W2A-034#128:1>
+Another important reason why the perceptron learning strategy has
+not been used was the theorem by Minsky and Papert showing one of the
+impossibilities of linear classification.
+
+<ICE-PHI:W2A-034#129:1>
+Also, multi-layer perceptrons and other cascaded classifiers have
+been studied.
+
+<ICE-PHI:W2A-034#130:1>
+They appeared to be either of limited use, or no satisfactory
+training algorithm could be found.
+
+<ICE-PHI:W2A-034#131:1>
+Nielson showed one way in which a two-layer perceptron of sufficient
+size could separate any learning set perfectly. </p>
+
+<p> 
+<ICE-PHI:W2A-034#132:1>
+However, again, the generalization of such a solution is poor.
+
+<ICE-PHI:W2A-034#133:1>
+For these reasons, around 1970 the study of multi-layer perceptrons
+was almost abandoned.
+
+<ICE-PHI:W2A-034#134:1>
+Around 1985, a new wave of interest arose.
+
+<ICE-PHI:W2A-034#135:1>
+People again realized the possible power of multi-layer machines and
+their resemblance to the human neural system.
+
+<ICE-PHI:W2A-034#136:1>
+The elementary processing unit, the artificial neuron, was redefined
+and a successful training algorithm was found.
+
+<ICE-PHI:W2A-034#137:1>
+This algorithm was not feasible earlier due to the very long
+training time it required.
+
+<ICE-PHI:W2A-034#138:1>
+Training results show a very specific character and depend on
+initial values of parameters or weights.
+
+<ICE-PHI:W2A-034#139:1>
+Moreover, special care has to be taken in order to avoid undesired
+relative minima.
+
+<ICE-PHI:W2A-034#140:1>
+In order to speed up the process or improve the denumerability of
+the results, special strategies are developed.
+
+<ICE-PHI:W2A-034#141:1>
+The point at which training should be stopped is obvious.
+
+<ICE-PHI:W2A-034#142:1>
+Overtraining ( deteriorating results) should be avoided.
+
+<ICE-PHI:W2A-034#143:1>
+On the whole, training neural networks is still an art. </p>
+
+<p> 
+<ICE-PHI:W2A-034#144:1>
+Nevertheless, the literature shows a number of fascinating
+results that seem to conflict with the large number of parameters that have
+to be set ( see <mention> peaking phenomenon </mention> ) .
+
+<ICE-PHI:W2A-034#145:1>
+How this is possible is still a subject of research.
+
+<ICE-PHI:W2A-034#146:1>
+Anyway, the neural net seems to be a very interesting step to the
+<mention> &ldquo; universal learning machine &rdquo; </mention> . </p> </I>

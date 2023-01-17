@@ -1,0 +1,382 @@
+<I> 
+
+ <$A> 
+<ICE-PHI:S2B-003#1:1:A>
+Good evening and welcome to <mention> News Central </mention> 
+ 
+<ICE-PHI:S2B-003#2:1:A>
+I 'm Mari Kaimo
+
+ <$B> 
+<ICE-PHI:S2B-003#3:1:B>
+And I 'm Alex Alikpala
+
+ <$A> 
+<ICE-PHI:S2B-003#4:1:A>
+It looks like another tough week ahead for President Estrada
+ 
+<ICE-PHI:S2B-003#5:1:A>
+Former President Corazon Aquino and Manila Archbishop Jaime Cardinal Sin are set to issue another statement against him at a Mass at the EDSA Shrine tomorrow
+ 
+<ICE-PHI:S2B-003#6:1:A>
+On Wednesday he faces another rally this time organized by various militant groups demanding his resignation
+ 
+<ICE-PHI:S2B-003#7:1:A>
+President Estrada is again blaming all this on the group of former President Fidel Ramos
+ 
+<ICE-PHI:S2B-003#8:1:A>
+A B S - C B N correspondent Tony Velasquez with tonight 's first look
+
+ <$C> 
+<ICE-PHI:S2B-003#9:1:C>
+The President initially gave no hint that anything was amiss
+ 
+<ICE-PHI:S2B-003#10:1:C>
+At the launch of the new telecommunications network he even joked about the emcee 's miscue to have lunch served instead of first having him give his speech <&> a very brief utterance of President Estrada </&> 
+ 
+<ICE-PHI:S2B-003#11:1:C>
+The reference of course was to Ilocos Sur Governor Chavit Singson the President 's erstwhile friend who has accused him of receiving <indig> jueteng </indig> payola 
+ 
+<ICE-PHI:S2B-003#12:1:C>
+The President now says this is but the start of a campaign by the former administration to destabilize the country <&> a thirty-two second interview clip of President Estrada </&> 
+ 
+<ICE-PHI:S2B-003#13:1:C>
+The President assured he is not merely laying down the basis to declare Martial Law <&> a twelve second news interview clip of President Estrada </&> 
+ 
+<ICE-PHI:S2B-003#14:1:C>
+Amid calls for the President to resign he 's found a new reason to ignore them an Asia Pulse survey in Metro Manila which shows a majority supporting his continued stay in office <&> a twelve second news interview clip of President Estrada </&> 
+ 
+<ICE-PHI:S2B-003#16:1:C>
+There were other expressions of support from eleven members of the League of Governors led by their Chairman Camarines Sur Governor Luis Villafuerte
+ 
+<ICE-PHI:S2B-003#17:1:C>
+Their move came two days after Laguna Governor Joey Lina broke ties with the President 's LAMMP Party saying he believes Singson 's allegations <&> a thirty-three second news interview clip of Governor Villafuerte and President Estrada respectively </&> 
+ 
+<ICE-PHI:S2B-003#18:1:C>
+It 's not the first time the President has blamed the previous administration for trying to create civil unrest
+ 
+<ICE-PHI:S2B-003#19:1:C>
+But without any solid proof of this the President has unwittingly aroused even more fears of disorder in the days ahead
+ 
+<ICE-PHI:S2B-003#20:1:C>
+Reporting for <mention> News Central </mention> Tony Velasquez A B S - C B N News
+
+ <$A> 
+<ICE-PHI:S2B-003#21:1:A>
+Officials of the opposition party <indig> LAKAS </indig> deny President Estrada 's allegations that they are behind an alleged plot to unseat President Estrada
+ 
+<ICE-PHI:S2B-003#22:1:A>
+Former National Security Adviser Jose Almonte blames the problem on President Estrada himself
+ 
+<ICE-PHI:S2B-003#23:1:A>
+Almonte says the President has proven time and again that he is the biggest destabilizing factor in his own administration
+ 
+<ICE-PHI:S2B-003#24:1:A>
+A B S - C B N correspondent Mon Ilagan tells us more
+
+ <$D> 
+<ICE-PHI:S2B-003#25:1:D>
+Opposition party <indig> LAKAS </indig> denies they are behind a destabilization plot against the Estrada administration
+ 
+<ICE-PHI:S2B-003#26:1:D>
+<indig> LAKAS </indig> officials say they do not have the funds to cause a stir in the government
+ 
+<ICE-PHI:S2B-003#27:1:D>
+<indig> LAKAS </indig> also clears former President Fidel Ramos and former National Security Adviser Jose Almonte <&> a thirteen second news interview clip of Senator Cayetano and Senator Barbers respectively </&> 
+ 
+<ICE-PHI:S2B-003#28:1:D>
+But Senator Francisco Tatad believes a certain group is out to ignite bloody protests similar to those in Indonesia
+ 
+<ICE-PHI:S2B-003#29:1:D>
+Tatad advises the President to meet with groups calling for his resignation <&> a ten second news interview clip of Senator Tatad </&> 
+ 
+<ICE-PHI:S2B-003#30:1:D>
+RAM founding member and Senator Gregorio Honasan meantime allays fears of another coup d' &eacute;tat but he says RAM would be supportive of the public sentiments <&> a thirteen second news interview clip of Senator Honasan </&> 
+ 
+<ICE-PHI:S2B-003#31:1:D>
+Senate President Franklin Drilon on the other hand calls for sobriety amid the raging <indig> jueteng </indig> scandal <&> a six second news interview clip of Senator Drilon </&> 
+ 
+<ICE-PHI:S2B-003#32:1:D>
+Reporting for <mention> News Central </mention> Mon Ilagan A B S - C B N News
+
+ <$A> 
+<ICE-PHI:S2B-003#33:1:A>
+Opposing signature drives at the House of Representatives 
+ 
+<ICE-PHI:S2B-003#> Opposition lawmakers are trying to gather more names on the dotted line for an impeachment case against the President
+ 
+<ICE-PHI:S2B-003#34:1:A>
+At the same time the President 's allies are working on a resolution expressing support for him
+ 
+<ICE-PHI:S2B-003#35:1:A>
+A B S - C B N correspondent Rowena Orejana tells us more
+
+ <$E> 
+<ICE-PHI:S2B-003#36:1:E>
+The move in Congress to impeach the President is gaining momentum
+ 
+<ICE-PHI:S2B-003#37:1:E>
+About forty congressmen in the minority have endorsed the petition <&> a twenty second news interview clip of two congressmen </&> 
+ 
+<ICE-PHI:S2B-003#38:1:E>
+They want at least one third of the members or about seventy-four congressmen to sign the petition
+ 
+<ICE-PHI:S2B-003#39:1:E>
+House Minority Leader Feliciano Belmonte is confident they will achieve their goal <&> a thirteen second news interview clip of Congressman Belmonte </&> 
+ 
+<ICE-PHI:S2B-003#40:1:E>
+House Speaker Manuel Villar says he will not block the petition but neither will he work for it <&> a four second news interview clip of Speaker Villar </&> 
+ 
+<ICE-PHI:S2B-003#41:1:E>
+Members of the majority promised to keep public interest foremost <&> a thirty-one second news interview clip of one congressman and Congressman Escudero respectively </&> 
+ 
+<ICE-PHI:S2B-003#42:1:E>
+But even as the minority is busy gathering signatures the majority has launched its own campaign
+ 
+<ICE-PHI:S2B-003#43:1:E>
+Quezon Congressman Danilo Suarez says he will file a resolution expressing support for the beleaguered President
+ 
+<ICE-PHI:S2B-003#44:1:E>
+He expects a bigger number to sign his resolution <&> a six second news interview clip of Congressman Suarez </&> 
+ 
+<ICE-PHI:S2B-003#45:1:E>
+Reporting for <mention> News Central </mention> Rowena Orejana A B S - C B N News
+
+ <$B> 
+<ICE-PHI:S2B-003#46:1:B>
+The political party of former presidentiable Lito Osme&ntilde;a is supporting the Catholic Church 's call for President Estrada 's resignation
+ 
+<ICE-PHI:S2B-003#47:1:B>
+In a statement signed by Osme&ntilde;a Cebu Governor Pablo Garcia and Party List Representative Joy Augustus Young the <indig> PROMDI </indig> Party claims the President has lost his mandate to lead the country
+ 
+<ICE-PHI:S2B-003#48:1:B>
+And in case the President does step down the Party is calling on all opposition parties to unite under the leadership of Vice-President Gloria Macapagal-Arroyo <O> music </O> 
+ 
+<ICE-PHI:S2B-003#49:1:B>
+But a survey done by Pulse Asia shows majority of their respondents want President Estrada to keep his post
+ 
+<ICE-PHI:S2B-003#50:1:B>
+Pulse Asia Chief Professor Felipe Miranda explains out of the three hundred ninety-seven survey respondents fifty-three percent want the President to remain in office
+ 
+<ICE-PHI:S2B-003#51:1:B>
+Majority of these belong to classes C D and E
+ 
+<ICE-PHI:S2B-003#52:1:B>
+Twenty-six percent of the respondents say they believe Singson 's revelations while only twenty-three percent say they believe President Estrada 's denials
+ 
+<ICE-PHI:S2B-003#53:1:B>
+Manila Archbishop Jaime Cardinal Sin got the most votes when it came to public figures the respondents trust
+ 
+<ICE-PHI:S2B-003#54:1:B>
+But the political analyst says the Pulse Asia survey failed to adequately address the biggest issue of the day <&> a twenty-six second news interview clip of Felipe Miranda </&> 
+
+ <$A> 
+<ICE-PHI:S2B-003#55:1:A>
+Welcome back to <mention> News Central </mention> 
+ 
+<ICE-PHI:S2B-003#56:1:A>
+President Estrada 's decision to get the government out of gambling appears to have been made without the necessary legal study
+ 
+<ICE-PHI:S2B-003#57:1:A>
+PAGCOR officials warn the government could be in for some legal battles if it turns its back on contracts it has already signed
+ 
+<ICE-PHI:S2B-003#58:1:A>
+A B S - C B N correspondent Josie Sison tells us more
+
+ <$F> 
+<ICE-PHI:S2B-003#59:1:F>
+In a bid to control the raging controversy over his alleged links to <indig> jueteng </indig> President Estrada has ordered the privatization of PAGCOR
+ 
+<ICE-PHI:S2B-003#60:1:F>
+But PAGCOR Chairman Alice Reyes points out the move would need congressional approval <&> a nine second news interview clip of Chairperson Reyes </&> 
+ 
+<ICE-PHI:S2B-003#61:1:F>
+PAGCOR also admits it will face legal impediments if it carries out President Estrada 's order and cancels its contracts for bingo <foreign> jai-alai </foreign> and online casino <&> an eight second news interview clip of Chairperson Reyes </&> 
+ 
+<ICE-PHI:S2B-003#62:1:F>
+P C S O Chairman Rosario Lopez also sees some legal problems in canceling its online lotto contracts with the Philippine Gaming and Management Corporation and with Pacific Online
+ 
+<ICE-PHI:S2B-003#63:1:F>
+They have a five-year contract with the two firms <&> a six second news interview clip of Chairperson Lopez </&> 
+ 
+<ICE-PHI:S2B-003#64:1:F>
+In nineteen ninety-nine PAGCOR earned twelve billion pesos
+ 
+<ICE-PHI:S2B-003#65:1:F>
+Eleven point five billion pesos came from the eleven casinos
+ 
+<ICE-PHI:S2B-003#66:1:F>
+<foreign> Jai-alai </foreign> contributed sixty million pesos and bingo 's share was nine hundred thirty-five million pesos
+ 
+<ICE-PHI:S2B-003#67:1:F>
+After deducting the five percent tax fifty percent of the balance goes to the National Treasury
+ 
+<ICE-PHI:S2B-003#68:1:F>
+The rest goes to different government agencies and the remaining balance is remitted to the President 's Social Fund
+ 
+<ICE-PHI:S2B-003#69:1:F>
+Despite the President 's new policy against gambling the lower house is working on the legalization of <indig> jueteng </indig> <&> an eighteen second news interview clip </&> 
+ 
+<ICE-PHI:S2B-003#70:1:F>
+Reporting for <mention> News Central </mention> Josie Sison A B S - C B N News
+
+ <$A> 
+<ICE-PHI:S2B-003#71:1:A>
+Malaca&ntilde;ang 's decision to get out of the gambling business is far from pleasing leaders of various Church groups
+ 
+<ICE-PHI:S2B-003#72:1:A>
+Manila Archbishop Jaime Cardinal Sin is scheduled to address the faithful at the EDSA Shrine tomorrow
+ 
+<ICE-PHI:S2B-003#73:1:A>
+Sources from the Catholic Church leadership say the <.> Cad </.> Cardinal will outline the Church 's stand that government and its officials should be morally upright
+ 
+<ICE-PHI:S2B-003#74:1:A>
+The Cardinal is also expected to insist on his demand for President Estrada to step down from office
+ 
+<ICE-PHI:S2B-003#75:1:A>
+Leaders of the United Church of Christ in the Philippines is are also calling for the President 's resignation or at the least for him to go on leave <&> a fifteen second news interview clip </&> 
+ 
+<ICE-PHI:S2B-003#76:1:A>
+Two powerful Church groups which backed the President in the past election are keeping their hands off the issue
+ 
+<ICE-PHI:S2B-003#77:1:A>
+The <indig> Iglesia ni Kristo </indig> says it will leave the President 's fate to the country 's legal processes while the <foreign> El Shaddai </foreign> whose leader Mike Velarde is the President 's spiritual adviser is appealing to the public not to hastily judge the President <O> music </O> 
+ 
+<ICE-PHI:S2B-003#78:1:A>
+Some other religious groups aren't asking for the President 's resignation
+ 
+<ICE-PHI:S2B-003#79:1:A>
+They are instead asking the President to repent and ask for forgiveness
+ 
+<ICE-PHI:S2B-003#80:1:A>
+Members of the Jesus is Lord Community the C B C P LAYCO and a Muslim organization held a meeting today
+ 
+<ICE-PHI:S2B-003#81:1:A>
+J I L leader Eddie Villanueva warns unless changes are made soon the country may go the way of Indonesia which is experiencing economic political and social upheaval
+ 
+<ICE-PHI:S2B-003#82:1:A>
+The group claims the President 's associates and advisers were giving him the wrong advice and direction
+ 
+<ICE-PHI:S2B-003#83:1:A>
+They are demanding that the President admit his mistakes in choosing the wrong policies <&> a thirty-three second news interview clip </&> 
+ 
+<ICE-PHI:S2B-003#84:1:A>
+Ilocos Sur Governor Luis Chavit Singson who was also at the meeting is calling on the President to face the media so it can determine who is telling the truth on the <indig> jueteng </indig> controversy <&> a ten second news interview clip of Governor Singson </&> 
+
+ <$B> 
+<ICE-PHI:S2B-003#85:1:B>
+Officials of the Organization of Islamic Conference have arrived in Manila to check on reports of discrimination against Muslims in Mindanao
+ 
+<ICE-PHI:S2B-003#86:1:B>
+For now the twenty-two member mission <unclear> 1 word </unclear> at a meeting with M I L F officials
+ 
+<ICE-PHI:S2B-003#87:1:B>
+A B S - C B N correspondent Cheri Mercado with this report
+
+ <$G> 
+<ICE-PHI:S2B-003#88:1:G>
+Twenty-two delegates from the Organization of Islamic Conference are heading for Central and Western Mindanao tomorrow to assess the implementation of the government 's agreement with the M N L F signed in nineteen ninety-six
+ 
+<ICE-PHI:S2B-003#89:1:G>
+The special mission was a result of the M N L F 's request during the Kuala Lumpur Islamic Conference last June
+ 
+<ICE-PHI:S2B-003#90:1:G>
+But during the press conference this afternoon many wanted to know if the O I C was also willing to listen to the M I L F <&> a nineteen second news interview clip of an O I C delegate </&> 
+ 
+<ICE-PHI:S2B-003#91:1:G>
+So much is expected from the O I C special mission by the <indig> Bangsa Moro </indig> people
+ 
+<ICE-PHI:S2B-003#92:1:G>
+But the O I C is careful not to cross the line between observation and intervention
+ 
+<ICE-PHI:S2B-003#93:1:G>
+Even the M N L F isn't in favor of the O I C delegates meeting with M I L F representatives <&> a five second news interview clip of an M N L F member </&> 
+ 
+<ICE-PHI:S2B-003#94:1:G>
+The representatives from Indonesia Libya Saudi Arabia Bangladesh and Senegal will be divided into two groups
+ 
+<ICE-PHI:S2B-003#95:1:G>
+The first group which includes the Indonesian Foreign Minister is heading for General Santos City tomorrow and will proceed to Sultan Kudarat Cotabato and Marawi City
+ 
+<ICE-PHI:S2B-003#96:1:G>
+The second group will head to Zamboanga Pagadian Jolo Sulu and Palawan <&> a six second news interview clip </&> 
+ 
+<ICE-PHI:S2B-003#97:1:G>
+Outside the D F A a group of Moslem N G Os are asking the O I C to urge the government to stop military operations in Mindanao
+ 
+<ICE-PHI:S2B-003#98:1:G>
+They 're also appealing to the government to show the real Mindanao situation <&> a four second news interview clip of a rallyist </&> 
+ 
+<ICE-PHI:S2B-003#99:1:G>
+Reporting for <mention> News Central </mention> Cheri Mercado A B S - C B N News
+
+ <$B> 
+<ICE-PHI:S2B-003#100:1:B>
+Something for us to be proud about in these troubled times
+ 
+<ICE-PHI:S2B-003#101:1:B>
+A Filipina has won the crown in this year 's Miss America beauty pageant
+ 
+<ICE-PHI:S2B-003#102:1:B>
+Angela Perez Baraquio is the first Asian-American to ever win the crown
+ 
+<ICE-PHI:S2B-003#103:1:B>
+Angela 's father hails from Pangasinan while her mother grew up in Manila
+ 
+<ICE-PHI:S2B-003#104:1:B>
+The new Miss America grew up in Hawaii
+ 
+<ICE-PHI:S2B-003#105:1:B>
+Angela will represent the U S in the upcoming Miss Universe beauty pageant <O> music </O> 
+
+ <$A> 
+<ICE-PHI:S2B-003#106:1:A>
+The peso continues to take a beating as it slid to a new low against the dollar
+ 
+<ICE-PHI:S2B-003#107:1:A>
+Peso skidded to forty-eight sixty-seven and even hit a low of forty-nine to the dollar
+ 
+<ICE-PHI:S2B-003#108:1:A>
+The <indig> Bangko Sentral </indig> tried to arrest its decline by unloading about fifty million dollars on the spot market
+ 
+<ICE-PHI:S2B-003#109:1:A>
+But Finance Chief Jose Pardo rules out any form of currency control to support the peso though he says the B S P 's Monetary Board is prepared to employ a new tool to prop up the sagging currency
+ 
+<ICE-PHI:S2B-003#110:1:A>
+But what that is he did not say
+ 
+<ICE-PHI:S2B-003#111:1:A>
+Pardo says the Monetary Board will meet again in the next two days to decide whether or not to implement this new tactic if the peso depreciates further
+ 
+<ICE-PHI:S2B-003#112:1:A>
+At the stock market the PHISIX slid past the thirteen hundred mark for the first time in two years as blue chips led the retreat
+ 
+<ICE-PHI:S2B-003#113:1:A>
+The main index shed two point two percent to twelve ninety-five losers lording lording it over gainers fifty-two to thirteen as turnover reached seven hundred eighteen million about half of Friday 's total
+ 
+<ICE-PHI:S2B-003#115:1:A>
+P L D T was today 's most active counter closing five pesos lower at seven hundred seventy-five
+ 
+<ICE-PHI:S2B-003#116:1:A>
+<?> Fire sold </?> down blue chips that were bought up Friday Ayala companies among those hit by profit-taking
+ 
+<ICE-PHI:S2B-003#118:1:A>
+Aside from the big upstocks shares of gaming companies slid to their lowest levels in at least a year following government 's decision to get out of the gambling business
+ 
+<ICE-PHI:S2B-003#119:1:A>
+Leisure and Resorts which runs a chain of bingo parlors dropped twenty-six percent to fifty centavos
+ 
+<ICE-PHI:S2B-003#120:1:A>
+Belle which operates betting stations for <foreign> jai-alai </foreign> lost fourteen percent to seventy-two centavos while Fairmont Holdings gave up twenty-seven percent to ninety-five centavos
+ 
+<ICE-PHI:S2B-003#121:1:A>
+But computer-related shares got a boost from gains of similar issues on Wall Street Friday
+ 
+<ICE-PHI:S2B-003#122:1:A>
+Among them Ionics which makes disk drives data processors S P I technologies and music A chip designer
+ 
+<ICE-PHI:S2B-003#123:1:A>
+Canadian insurers Manulife and Sunlife also posting gains today <O> music </O> 
+
+ </I> 
+

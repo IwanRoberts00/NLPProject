@@ -1,0 +1,502 @@
+<I>
+
+<ICE-PHI:W1A-010#1:1>
+<h> <bold> Artificial Intelligence with Emotions: A Fulfilling Human
+Dream or A Worthless Human Dream? </bold> </h>
+
+<ICE-PHI:W1A-010#2:1>
+<bold> By Emperatriz Lizalyn P. R. Gutierrez </bold>
+
+<ICE-PHI:W1A-010#3:1>
+<h> <bold> ABSTRACT </bold> </h>
+
+<p> 
+<ICE-PHI:W1A-010#4:1>
+Human technology has developed fast through several stages of
+innovations and improvements, from simple machines such as levers and pulleys
+to complex machines which have their own thinking such as personal computers
+and artificial intelligence.
+
+<ICE-PHI:W1A-010#5:1>
+Today, human technology took a greater leap by attempting to add the
+essential human quality of emotions to artificial intelligence.
+
+<ICE-PHI:W1A-010#6:1>
+This paper aimed to acquaint the readers with some of the important
+points in the budding field of emotion addition to computers.
+
+<ICE-PHI:W1A-010#7:1>
+Data were gathered from journal articles and Internet articles dated
+from 1996 up to present.
+
+<ICE-PHI:W1A-010#8:1>
+The articles provided valuable information such as the affecting
+reason of this new wave of technology, examples of recently developed systems
+and projects under this area, as well as the present problems that
+researchers and scientists encounter in pursuing these projects.
+
+<ICE-PHI:W1A-010#9:1>
+These information were then connected, combined, and presented in the
+paper. </p>
+
+<ICE-PHI:W1A-010#10:1>
+<h> <bold> INTRODUCTION </bold> </h>
+
+<p> 
+<ICE-PHI:W1A-010#11:1>
+Continuous evolution happens in every corner of our world today.
+
+<ICE-PHI:W1A-010#12:1>
+And one species has progressed more rapidly than the others, the
+human species.
+
+<ICE-PHI:W1A-010#13:1>
+Humans have developed to a great extent that they 've reached
+profound stage of knowledge.
+
+<ICE-PHI:W1A-010#14:1>
+This knowledge is powerful enough to make non-living things to
+evolve.
+
+<ICE-PHI:W1A-010#15:1>
+One of which is technology.
+
+<ICE-PHI:W1A-010#16:1>
+Technology has changed from very simple machines that humans use in
+their simple work to very complex computers, which have their own way of
+logical thinking, which they use in their now more multifaceted, thus very
+complicated activities.
+
+<ICE-PHI:W1A-010#17:1>
+The logical thinking of the present computers was successfully
+patterned from humans ' logical thinking.
+
+<ICE-PHI:W1A-010#18:1>
+And same as the evolution of living things, the technology 's
+evolution is in a continuous process.
+
+<ICE-PHI:W1A-010#19:1>
+This time, humans are trying to incorporate to computers another
+important aspect they have, emotions. </p>
+
+<p> 
+<ICE-PHI:W1A-010#20:1>
+According to Picard as cited by McCauley and Franklin ( 1999), we
+have reached a point in the development of computers where we need to study
+and utilize the abandoned role of emotion.
+
+<ICE-PHI:W1A-010#21:1>
+Scientists and researchers think that emotions should be added to
+computers because it was found out that emotions play a critical role in
+rational and intelligent behavior [ PICA, ETAL01].
+
+<ICE-PHI:W1A-010#22:1>
+Furthermore, several studies have supported the claim that emotions
+have a significant role in decision-making and performance as well [
+KORT&REIL02].
+
+<ICE-PHI:W1A-010#23:1>
+In addition, the integration of emotions to computers would help
+produce more believable artificial intelligence, which humans could use in
+their work [ PERR96]. </p>
+
+<p> 
+<ICE-PHI:W1A-010#24:1>
+Due to these findings, several projects and systems have been
+developed for this field.
+
+<ICE-PHI:W1A-010#25:1>
+However, researchers are still discontented with these models.
+
+<ICE-PHI:W1A-010#26:1>
+They attributed this production of shallow models with the
+difficulties encountered in this new field.
+
+<ICE-PHI:W1A-010#27:1>
+Despite the many difficulties in the development of artificial
+intelligence with emotions, several researchers and projects are still being
+done in this field in order to build a better relationship between humans and
+computers. </p>
+
+<p> 
+<ICE-PHI:W1A-010#28:1>
+This paper presents some of the important points in the field of
+emotion addition to computers.
+
+<ICE-PHI:W1A-010#29:1>
+This paper focuses on the purposes of emotion addition to computers.
+
+<ICE-PHI:W1A-010#30:1>
+It also discusses some of the recent systems and projects being
+developed in this field.
+
+<ICE-PHI:W1A-010#31:1>
+And also, the some of the difficulties researchers encounter in
+developing these systems and projects. </p>
+
+<ICE-PHI:W1A-010#32:1>
+<h> <bold> THE ROLE OF ARTIFICIAL INTELLIGENCE IN HUMAN-COMPUTER
+RELATIONSHIP </bold> </h>
+
+<p> 
+<ICE-PHI:W1A-010#33:1>
+Our technology has shown a great development in the past years.
+
+<ICE-PHI:W1A-010#34:1>
+This flourishing technology has a primary purpose of rendering human
+users with a more efficient and convenient work environment.
+
+<ICE-PHI:W1A-010#35:1>
+Thus, each and every step in any technological development aims to
+bring more convenience to human users. </p>
+
+<p> 
+<ICE-PHI:W1A-010#36:1>
+An example is the step-by-step development of the personal
+computers we have today.
+
+<ICE-PHI:W1A-010#37:1>
+The very first computers were built to assist humans in their
+computations.
+
+<ICE-PHI:W1A-010#38:1>
+However, humans have a wide variety of works and activities aside
+from doing computations such as photo editing, document editing, and even
+program development.
+
+<ICE-PHI:W1A-010#39:1>
+Thus, the computer systems were slowly innovated to accommodate these
+activities.
+
+<ICE-PHI:W1A-010#40:1>
+This can be clearly seen in the personal computers or desktops we
+have in our homes and offices today.
+
+<ICE-PHI:W1A-010#41:1>
+People are now really dependent on our technology.
+
+<ICE-PHI:W1A-010#42:1>
+Some may see their computers as their best friends and interact with
+them like the way they interact with humans. </p>
+
+<p> 
+<ICE-PHI:W1A-010#43:1>
+This attitude may be justified by the connection between a
+human-human relationship and human-computer relationship.
+
+<ICE-PHI:W1A-010#44:1>
+Picard ( 2000a) presents the idea that a connection exists between
+the two in the sense that the factors, which affect human-human relationship,
+are also the factors, which affect human-computer relationship.
+
+<ICE-PHI:W1A-010#45:1>
+Correspondingly, as Picard stated, one of these factors in a
+human-human relationship is emotional intelligence. </p>
+
+<p> 
+<ICE-PHI:W1A-010#46:1>
+To be emotionally intelligent, a person should be able to
+recognize the emotions of the other person and be able to give an appropriate
+response to them [ PICA00a].
+
+<ICE-PHI:W1A-010#47:1>
+The acquisition of this ability is said to play a very important role
+in the process of learning.
+
+<ICE-PHI:W1A-010#48:1>
+Also, it can influence a person 's capability of meeting important
+parts of his or her life.
+
+<ICE-PHI:W1A-010#49:1>
+Furthermore, it also has a role in the field of medicine and
+entertainment [ PICA, ETAL01].
+
+<ICE-PHI:W1A-010#50:1>
+Since emotional intelligence is a very influential factor in a
+human-human relationship, it is also considered as an important factor in a
+human-computer relationship.
+
+<ICE-PHI:W1A-010#51:1>
+This analogy drives scientists and researchers to work in the
+production of agents and systems, which are emotionally intelligent.
+
+<ICE-PHI:W1A-010#52:1>
+For them, the incorporation of emotions to artificial intelligence
+paves the way for a better interaction between human users and computers.
+</p>
+
+<p> 
+<ICE-PHI:W1A-010#53:1>
+As humans become more and more dependent on computers, they begin
+to entrust them with very important jobs.
+
+<ICE-PHI:W1A-010#54:1>
+However, some human activities produce a lot of questions when
+entrusted to computers because they are said to be for humans only.
+
+<ICE-PHI:W1A-010#55:1>
+Examples of these are babysitting and counseling. </p>
+
+<p> 
+<ICE-PHI:W1A-010#56:1>
+When a mother leaves her child in the care of a babysitter, this
+means that the mother trusts the babysitter.
+
+<ICE-PHI:W1A-010#57:1>
+Actually, in a human-human relationship, every person must have to
+trust another person if he or she leaves something valuable to him or her.
+
+<ICE-PHI:W1A-010#58:1>
+This trust may arise from the thought that the other person knows how
+to take care of something valuable meaning that the caretaker should have
+enough knowledge about it and should be able to efficiently apply this
+knowledge in his or her work.
+
+<ICE-PHI:W1A-010#59:1>
+This ability includes not only the use of intelligence but also the
+use of emotions. </p>
+
+<p> 
+<ICE-PHI:W1A-010#60:1>
+Since present systems and agents are already incorporated with
+artificial intelligence, the problem is that of emotions.
+
+<ICE-PHI:W1A-010#61:1>
+If artificially intelligent agents could show signs of emotions,
+human users might be able to entrust them with the mentioned activities
+because the users might feel that the agents have the ability to understand
+them.
+
+<ICE-PHI:W1A-010#62:1>
+In the process, trust would be built in the human-computer
+relationship. </p>
+
+<p> 
+<ICE-PHI:W1A-010#63:1>
+In interacting with computers, human users could feel different
+emotions.
+
+<ICE-PHI:W1A-010#64:1>
+Some of the most commonly felt emotions in human-computer interaction
+are negative in nature.
+
+<ICE-PHI:W1A-010#65:1>
+Examples are frustration, irritation, and other stress-related
+feelings [ PICA01a].
+
+<ICE-PHI:W1A-010#66:1>
+These negative emotions may arise from the dissatisfaction of the
+user to the computer.
+
+<ICE-PHI:W1A-010#67:1>
+The presence of these negative feelings might cause more problems in
+a human-computer relationship.
+
+<ICE-PHI:W1A-010#68:1>
+A possible solution to this problem is for the computers to have
+emotions or recognize the user 's emotions. </p>
+
+<p> 
+<ICE-PHI:W1A-010#69:1>
+An advantage of making the computer recognize the user 's emotion
+is that it can try out different possible responses to the user.
+
+<ICE-PHI:W1A-010#70:1>
+This can be done by determining which response is the most pleasing.
+
+<ICE-PHI:W1A-010#71:1>
+In this view, the computer must also be able to sense user feedbacks
+[ PICA01b]. </p>
+
+<p> 
+<ICE-PHI:W1A-010#72:1>
+These responses to the users may help the users to manage their
+emotional state.
+
+<ICE-PHI:W1A-010#73:1>
+For example, when a user suddenly experiences frustration because of
+the slow data processing of a computer, the emotionally intelligent computer
+may lessen the user 's frustration by giving an apologetic message or by
+improving the speed of its data processing.
+
+<ICE-PHI:W1A-010#74:1>
+In this process, information where the users feel frustrated may be
+collected and be sent to system developers for them to use in performance
+improvement.
+
+<ICE-PHI:W1A-010#75:1>
+The improvements made may positively contribute in building a better
+human-computer relationship. </p>
+
+<ICE-PHI:W1A-010#76:1>
+<h> <bold> RECENT DEVELOPED SYSTEMS OR PROJECTS OF COMMUNICATING
+ARTIFICIAL INTELLIGENCE WITH EMOTIONS </bold> </h>
+
+<p> 
+<ICE-PHI:W1A-010#77:1>
+In line with the challenge of successfully adding emotions to
+artificial intelligence, several recent projects and systems are being
+developed.
+
+<ICE-PHI:W1A-010#78:1>
+These include both hardware and software tools, which enables the
+computer to sense emotions and its patterns. </p>
+
+<p> 
+<ICE-PHI:W1A-010#79:1>
+The projects and systems are classified under two main
+categories.
+
+<ICE-PHI:W1A-010#80:1>
+These two main categories are the <mention> &ldquo; self-report
+system &rdquo; </mention> and <mention> &ldquo; concurrent expression system
+&rdquo; </mention> [ PICA00a]. </p>
+
+<p> 
+<ICE-PHI:W1A-010#81:1>
+The first category is the &ldquo; self-report system".
+
+<ICE-PHI:W1A-010#82:1>
+Projects and systems under this category provide the user with a set
+of choices through words or icons, or hardware input devices for the user to
+convey his or her emotions [ PICA00a].
+
+<ICE-PHI:W1A-010#83:1>
+Whenever the user feels a certain emotion, he or she can relay it to
+the system by selecting one of the choices.
+
+<ICE-PHI:W1A-010#84:1>
+Each and every item in the selection represents a certain emotion.
+</p>
+
+<p> 
+<ICE-PHI:W1A-010#85:1>
+This category primarily gives the user with awareness on the
+message he or she will give out to the computer [ PICA00a].
+
+<ICE-PHI:W1A-010#86:1>
+This ability of the system serves as its advantage over the other
+category, which will be discussed later.
+
+<ICE-PHI:W1A-010#87:1>
+If the user has a full conscious control over his or her message, the
+input emotion would be more or less accurate because the one who experienced
+it has chosen it himself or herself.
+
+<ICE-PHI:W1A-010#88:1>
+In addition, the user could just give the computer only the type of
+emotion he or she wants. </p>
+
+<p> 
+<ICE-PHI:W1A-010#89:1>
+However, this also serves as its disadvantage in the sense that
+the user 's main task being performed is interrupted [ PICA00a].
+
+<ICE-PHI:W1A-010#90:1>
+If the user needs to convey his or her emotions to the computer in a
+certain situation, the user has to stop what he or she is doing for him or
+her to be able to choose from the set of words, icons, or other input
+devices.
+
+<ICE-PHI:W1A-010#91:1>
+As a result, the user is distracted from his main activity. </p>
+
+<p> 
+<ICE-PHI:W1A-010#92:1>
+An example of a project, which uses the &ldquo; self-report
+system', is the <mention> &ldquo; thumbs-up feedback &rdquo; </mention> .
+
+<ICE-PHI:W1A-010#93:1>
+This system is attached to a machine, which provides consumers with
+ready-made coffee [ PICA00a].
+
+<ICE-PHI:W1A-010#94:1>
+This system includes two choices, namely the thumbs-up and
+thumbs-down icons.
+
+<ICE-PHI:W1A-010#95:1>
+Whenever the user is satisfied with the produced coffee of the
+system, the user can just tap the thumbs-up icon to let the computer know of
+his or her satisfaction.
+
+<ICE-PHI:W1A-010#96:1>
+On the other hand, the thumbs-down icon can be tapped whenever the
+user is dissatisfied with the system 's performance. </p>
+
+<p> 
+<ICE-PHI:W1A-010#97:1>
+Another example of a project under this category is the ASQ or
+Affective Social Quotient.
+
+<ICE-PHI:W1A-010#98:1>
+This project intends to aid autistic children in expressing and
+communicating their emotions in different situations [ PICA01a].
+
+<ICE-PHI:W1A-010#99:1>
+The system executes this by showing the children chosen videos, which
+could arouse different emotions.
+
+<ICE-PHI:W1A-010#100:1>
+For the child to communicate his or her emotion, he or she could
+pick one or more dwarfs in the choices.
+
+<ICE-PHI:W1A-010#101:1>
+Each dwarf denotes an emotion being studied. </p>
+
+<p> 
+<ICE-PHI:W1A-010#102:1>
+The other category used in the development of systems and
+projects of artificial intelligence with emotions is the &ldquo; concurrent
+expression system".
+
+<ICE-PHI:W1A-010#103:1>
+Systems under this category can sense emotions with the help of
+different sensors.
+
+<ICE-PHI:W1A-010#104:1>
+The type of sensor to be used will be up to the user 's decision or
+choice [ PICA00a]. </p>
+
+<p> 
+<ICE-PHI:W1A-010#105:1>
+As stated earlier, one disadvantage of the &ldquo; self-report
+system &rdquo; is the frequent interruption of the user 's main task just to
+communicate his or her emotion [ PICA00a].
+
+<ICE-PHI:W1A-010#106:1>
+The solution to this problem is provided by the second category.
+
+<ICE-PHI:W1A-010#107:1>
+In this category, the sensors remove the user 's impediment in
+communicating his or her emotion because the sensors perceive emotions
+independently [ PICA00a].
+
+<ICE-PHI:W1A-010#108:1>
+In this way, the user doesn't need to stop what her or she is doing
+in order to relay what he or she feels. </p>
+
+<p> 
+<ICE-PHI:W1A-010#109:1>
+However, this does not mean that the second category has no
+hindering difficulty.
+
+<ICE-PHI:W1A-010#110:1>
+This category is far from being perfect.
+
+<ICE-PHI:W1A-010#111:1>
+It still has a disadvantage for the users.
+
+<ICE-PHI:W1A-010#112:1>
+And this is connected with the issue of privacy. </p>
+
+<p> 
+<ICE-PHI:W1A-010#113:1>
+Privacy is one of the most treasured ideas of individuals.
+
+<ICE-PHI:W1A-010#114:1>
+This, however, is said to be hindered with the use of the systems
+and projects under this category.
+
+<ICE-PHI:W1A-010#115:1>
+Users might feel uneasy with the thought of having a machine sense
+his or her feelings [ PICA00a]. </p> ... </I>
