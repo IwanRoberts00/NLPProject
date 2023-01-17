@@ -1,0 +1,475 @@
+<I>
+
+<ICE-SIN:W2A-038#1:1>
+<h> Rotational microwave moulding of expandable polystyrene </h>
+
+<ICE-SIN:W2A-038#2:1>
+H.Y.
+
+<ICE-SIN:W2A-038#3:1>
+Yeong and S.W.
+
+<ICE-SIN:W2A-038#4:1>
+Lye
+
+<ICE-SIN:W2A-038#5:1>
+<h> Introduction </h>
+
+<ICE-SIN:W2A-038#6:1>
+Expandable polystyrene ( EPS), or Styrofoam as it is commonly known,
+is used widely as a packaging material for the protection of goods that are
+likely to be damaged during transportation, storage or handling.
+
+<ICE-SIN:W2A-038#7:1>
+The EPS-moulded article or cushion is produced commercially by means
+of a process quite similar to the plastic injection process, except that the
+heat required for fusion of the EPS material beads is obtained by injecting
+steam into the aluminium mould.
+
+<ICE-SIN:W2A-038#8:1>
+After fusion, the mould is cooled before the moulded cushion is
+ejected .
+
+<ICE-SIN:W2A-038#9:1>
+Such inefficient use of energy, because of the cyclic heating and
+subsequent cooling of the mould, has led to investigations using microwave
+energy as an alternative source of energy for the processing of EPS.
+
+<ICE-SIN:W2A-038#10:1>
+Earlier studies carried out using microwave energy were unable to
+produce desired quality cushions without the inclusion of
+carboxylmethylcellulose ( CMC), a binding agent to assist fusion of the beads
+[ 1], or sodium chloride, a water-soluble salt used to raise the boiling
+point of water to 110@C to enable fusion to take place [ 2].
+
+<ICE-SIN:W2A-038#11:1>
+These investigations provided an indication that microwave energy can
+be used in the processing of EPS.
+
+<ICE-SIN:W2A-038#12:1>
+However, the addition of a binding agent or surfactant is
+unacceptable in the packaging industry especially in the packaging of
+sensitive electronic products as these agents are likely to contaminate and
+corrode the finished goods.
+
+<ICE-SIN:W2A-038#13:1>
+A later study conducted by Yeong et al., [ 3] used only water as the
+medium to assist fusion of the EPS beads.
+
+<ICE-SIN:W2A-038#14:1>
+In this study, the EPS cushions were moulded using pre-expanded beads
+as in the commercial process as well raw EPS beads, thereby eliminating the
+intermediary pre-expansion stage.
+
+<ICE-SIN:W2A-038#15:1>
+Various process parameters and the quality of the moulded cushion
+were studied.
+
+<ICE-SIN:W2A-038#16:1>
+The dimensional accuracy and uniformity of the bulk density of the
+cushion were found to be comparable to those attained in commercial moulded
+products using the steam-injection process.
+
+<ICE-SIN:W2A-038#17:1>
+However, in these studies [ 3], using a custom-designed mould, two
+main problems were faced.
+
+<ICE-SIN:W2A-038#18:1>
+Firstly, fusion of the beads, especially close to the top of the
+mould, was not entirely satisfactory and secondly, the compressive strength
+of the moulded cushion was not completely explored and comparisons made with
+commercially-processed cushions.
+
+<ICE-SIN:W2A-038#19:1>
+In the present investigation, these two problems have been addressed.
+
+<ICE-SIN:W2A-038#20:1>
+Preliminary investigations were made by placing the mould in the
+horizontal and vertical planes to study the effect on the fusion of the
+moulded cushion.
+
+<ICE-SIN:W2A-038#21:1>
+Subsequently, a mechanism was designed and used to rotate the mould
+during processing in an attempt to achieve better fusion.
+
+<ICE-SIN:W2A-038#22:1>
+The compressive strength of the moulded cushions at various bulk
+densities was investigated also.
+
+<ICE-SIN:W2A-038#23:1>
+<h> 2. Experimental procedure </h>
+
+<ICE-SIN:W2A-038#24:1>
+<h> 2.1. Equipment and material </h>
+
+<ICE-SIN:W2A-038#25:1>
+In this investigation, a Goldstar microwave oven, model ER-761 ME,
+was used.
+
+<ICE-SIN:W2A-038#26:1>
+A Mettler PC440 electronic weighing machine was employed to determine
+the quantity of EPS material used and the weight of the final moulding.
+
+<ICE-SIN:W2A-038#27:1>
+To measure the compressive strength of the cushion samples; an
+Instron machine was used: this machine has a 10 kN load cell and a software
+package for interface and control.
+
+<ICE-SIN:W2A-038#28:1>
+The materials used in the experiments were from BASF and Grade 712
+from Dyno Chemical.
+
+<ICE-SIN:W2A-038#29:1>
+<h> 2.2. Bakelite mould </h>
+
+<ICE-SIN:W2A-038#30:1>
+In a microwave environment, metal moulds are not suitable.
+
+<ICE-SIN:W2A-038#31:1>
+To enable fusion of the EPS material to take place at over 100 C and
+to withstand the expansion pressure in the mould, the mould material used
+should be heat resistant to at least 120C and be pressure resistant to about
+3 bar 14].
+
+<ICE-SIN:W2A-038#32:1>
+A phenolic, bakelite, was used to fabricate the mould as it meets
+these specifications.
+
+<ICE-SIN:W2A-038#33:1>
+The mould was designed and fabricated to produce a product of
+cylindrical shape with a blind hole at the centre, as shown in Fig.
+
+<ICE-SIN:W2A-038#34:1>
+1.
+
+<ICE-SIN:W2A-038#35:1>
+The mould is slightly tapered ( at an angle of 2@) to facilitate
+easier ejection of the cushion.
+
+<ICE-SIN:W2A-038#36:1>
+The wall thickness of the moulding was designed to be 12 mm to limit
+pressure built-up during expansion and fusion of the EPS material.
+
+<ICE-SIN:W2A-038#37:1>
+<h> 3. Rotating mechanism </h>
+
+<ICE-SIN:W2A-038#38:1>
+To promote better fusion, a rotating device was designed and
+fabricated to rotate the mould about its horizontal axis during processing of
+the EPS.
+
+<ICE-SIN:W2A-038#39:1>
+The purpose of this mechanism is to rotate the mould such that the
+EPS beads were allowed to flow evenly within the mould cavity at the early
+stage of expansion of the bends.
+
+<ICE-SIN:W2A-038#40:1>
+Teflon was chosen, as the material is easily merchantable and can
+withstand the high temperature in the microwave oven.
+
+<ICE-SIN:W2A-038#41:1>
+The design of the rotating device consists basically of a rigid frame
+structure which houses the clamping device and a series of matching gears, as
+shown in Fig.
+
+<ICE-SIN:W2A-038#42:1>
+2. The working principle of the rotating device involves the
+transmission and translation of the horizontal rotary motion mechanism in the
+microwave oven turntable into a vertical rotary motion of the mould.
+
+<ICE-SIN:W2A-038#43:1>
+Flexibility in attaining different angular velocities is catered for
+within the design by incorporating a provision for the easy change of the
+bevel gear ratio and the bushing height.
+
+<ICE-SIN:W2A-038#44:1>
+In addition, the clamping device also provides the easy fastening of
+the mould to the frame structure, thereby attaining ease of operation for the
+rotating mechanism.
+
+<ICE-SIN:W2A-038#45:1>
+<h> 2.4. Moulding of the cushions </h>
+
+<ICE-SIN:W2A-038#46:1>
+Two series of experiments were carried out.
+
+<ICE-SIN:W2A-038#47:1>
+The first series was carried out to improve the uniformity in the
+fusion of the moulded cushion.
+
+<ICE-SIN:W2A-038#48:1>
+Preliminary tests were carried out by placing the mould in two other
+static orientations ( horizontally and inverted) to determine the effect ( if
+any) on the fusion.
+
+<ICE-SIN:W2A-038#49:1>
+After this the rotating mechanism was used to determine if the fusion
+of the moulded cushion could be improved.
+
+<ICE-SIN:W2A-038#50:1>
+In the second series of experiments, cushions moulded without the use
+of the rotating mechanism were used to determine the compressive strengths at
+various bulk densities of the cushions.
+
+<ICE-SIN:W2A-038#51:1>
+3.
+
+<ICE-SIN:W2A-038#52:1>
+Results and discussions Since the process parameters that affect the
+dimensional accuracy and the bulk densities of the moulded cushions had been
+determined earlier [ 3], only the uniformity of fusion and the variation of
+the compressive strength with bulk density were investigated in the present
+study.
+
+<ICE-SIN:W2A-038#53:1>
+<h> 3.1. Preliminary tests with different mould orientations </h>
+
+<ICE-SIN:W2A-038#54:1>
+Previous experimentation carried out [ 3] revealed some degree of
+poor fusion at the top of the bakelite mould.
+
+<ICE-SIN:W2A-038#55:1>
+This was probably due to the static position of the mould during
+processing.
+
+<ICE-SIN:W2A-038#56:1>
+As the EPS material beads were at the bottom of the mould, expansion
+can only proceed upwards towards the top of the mould.
+
+<ICE-SIN:W2A-038#57:1>
+However, as expansion proceeded, fusion also took place and in the
+process prevented moisture or steam from reaching the top of the mould.
+
+<ICE-SIN:W2A-038#58:1>
+Furthermore, any steam near the top of the mould would have escaped
+from the air holes provided in the mould cover.
+
+<ICE-SIN:W2A-038#59:1>
+The top EPS beads, deprived of steam, would thus not fuse
+sufficiently.
+
+<ICE-SIN:W2A-038#60:1>
+To study the effect the mould orientation may have on fusion, two
+sets of experiments were carried out.
+
+<ICE-SIN:W2A-038#61:1>
+Mould tilted sideways The results of the experiments conducted using
+the same process parameters with the mould tilted sideways ( horizontally as
+shown in Fig.
+
+<ICE-SIN:W2A-038#62:1>
+3) are provided in Table 1 ( see also Fig.
+
+<ICE-SIN:W2A-038#63:1>
+4).
+
+<ICE-SIN:W2A-038#64:1>
+Inspection of the moulded cushion revealed that again the top of the
+moulding had poorer fusion, also with smaller bead sizes than at be bottom
+side of the mould.
+
+<ICE-SIN:W2A-038#65:1>
+This observation could again be explained by the reasoning that steam
+could not be properly channelled to the top side of the mould during
+processing.
+
+<ICE-SIN:W2A-038#66:1>
+<h> 3.1.2. Mould inverted </h>
+
+<ICE-SIN:W2A-038#67:1>
+Using the same process parameters as in the mould-tilted-sideways
+experiments, the results with the mould inverted ( as shown in Fig.
+
+<ICE-SIN:W2A-038#68:1>
+5) are given in Table 2 ( see also Fig.
+
+<ICE-SIN:W2A-038#69:1>
+6).
+
+<ICE-SIN:W2A-038#70:1>
+When the cushion was inspected, it was found that the top surface of
+the inverted moulding was properly fused but over-expanded, with some
+shrinkage being observed.
+
+<ICE-SIN:W2A-038#71:1>
+The bottom portion of the mould had good fusion.
+
+<ICE-SIN:W2A-038#72:1>
+The result was probably because the outlet air holes ( now at the
+bottom, since the mould is inverted) were sealed with the initial expansion
+and the fusion of the EPS beads at the mould bottom.
+
+<ICE-SIN:W2A-038#73:1>
+The steam that had already risen to the top was now trapped at the
+top of the mould.
+
+<ICE-SIN:W2A-038#74:1>
+The presence of steam at the top probably caused the beads to fuse
+and over-expand and subsequently led to shrinkage of the cushion after
+ejection. <X>
+
+<ICE-SIN:W2A-038#X75:1>
+<h> Table 2 </h>
+
+<ICE-SIN:W2A-038#X76:1>
+Density and fusion for inverted mould ( EPS quantity =lOmg,
+expansion time = 3:30min) S/N Power level Density Fusion ( W) ( kg/m3) V1 350
+77.64 see Fig 6 V2 560 77.94 as with V1 Table 3 Density and fusion for rotary
+moulding ( microwave power = 350 W, EPS quantity = 10 mg) S/N Expansion
+Moulding Fusion period density ( min) ( kg/m3) R1 4:30 91.1 voids at sides R2
+5:00 85.9 very good R3 5:30 destroyed </X>
+
+<ICE-SIN:W2A-038#77:1>
+<h> 3.2. Moulding with rotating mechanism </h>
+
+<ICE-SIN:W2A-038#78:1>
+A set of experiments was conducted using the rotating mechanism,
+providing rotational speed of the mould of 30 rpm.
+
+<ICE-SIN:W2A-038#79:1>
+The results obtained are shown in Table 3.
+
+<ICE-SIN:W2A-038#80:1>
+Upon inspection of the moulded cushion it was found that the fusion
+of the moulding was good and uniform when compared with those moulded with
+the static-position mould.
+
+<ICE-SIN:W2A-038#81:1>
+This indicates that the rotary motion allowed the material and
+watersteam to flow in the mould during processing thereby providing
+opportunities for the beads to expand and fuse throughout the mould cavity.
+
+<ICE-SIN:W2A-038#82:1>
+3.3. Determination of the variation of compressive strength with bulk
+density The compressive strength of the EPS mouldings is one of the
+fundamental considerations in the design of packaging cushions.
+
+<ICE-SIN:W2A-038#83:1>
+For the Styrofoam industry, the compressive strength is indicated by
+the measured value at 10% deformation.
+
+<ICE-SIN:W2A-038#84:1>
+As an approximation, the design value used widely in industry to
+provide adequate protection of the finished products should not exceed
+two-thirds of the measured of the compressive strength [ 5]. <X>
+
+<ICE-SIN:W2A-038#X85:1>
+<h> Table 4 </h>
+
+<ICE-SIN:W2A-038#X86:1>
+Bulk density and compressive measurements Compressive strength in
+Density in ( kg/m3) for the 3 parts kNIm2 at 10% deformation S/N A B C Entire
+A B C S1 646.71 646.71 550.90 98.90 93.75 87.87 80.63 S2 266.90 434.56 670.67
+98.45 105.84 89.95 73.31 S3 465.36 533.80 379.82 99.31 81.40 78.40 92.16 S4
+609.07 684.35 509.84 98.41 102.80 87.32 76.03 S5 396.92 123.18 492.73 98.09
+89.59 78.19 86.49 average - - - 98.63 94.67 84.33 81.72 Table 5 Variations of
+compressive strength ( kN/m2) at different bulk densities ( kN/m3) S/N
+Density Density Compressive before after strength compression compression I1S
+66.34 105.79 413.8 I2S 84.22 134.09 699.3 I3S 89.19 142.12 725.0 I4S 93.16
+148.38 766.7 I5S 118.37 188.25 911.1 I6S 123.45 195.91 911.1 </X>
+
+<ICE-SIN:W2A-038#87:1>
+It was also found that the compressive strength varies with the
+density of the cushion.
+
+<ICE-SIN:W2A-038#88:1>
+Provided that the fusion of the moulded cushion is good and uniform,
+the compressive strength is expected to be independent of the method used for
+moulding the cushion.
+
+<ICE-SIN:W2A-038#89:1>
+As the compressive strength using microwave energy had not been
+measured in previous studies [ 3], a series of experiments and tests was
+carried out to determine the compressive strength using moulded cushions
+processed ( without the rotating mechanism) from different quantities of EPS
+material ( to obtain different bulk densities).
+
+<ICE-SIN:W2A-038#90:1>
+The Instron instrument was used to determine the compressive strength
+of the mouldings, with the cross-head speed of the equipment set at 5 mm/min
+in accordance with British Standards [ 6].
+
+<ICE-SIN:W2A-038#91:1>
+<h> 3.3.1. Measurement of compressive strength </h>
+
+<ICE-SIN:W2A-038#92:1>
+To measure the compressive strength a moulding was cut into 3
+sections with the top and centre portion each of 15 mm height and the bottom
+piece of 20 mm height.
+
+<ICE-SIN:W2A-038#93:1>
+Table 4 shows the measurement of the bulk density and the
+corresponding compressive strength in kN/m2 at 10% deformation for these
+three parts identified as A, B and C.
+
+<ICE-SIN:W2A-038#94:1>
+The load versus deformation graph for sample Sl il shown in Fig.
+
+<ICE-SIN:W2A-038#95:1>
+7.
+
+<ICE-SIN:W2A-038#96:1>
+This graph indicated that the cushion specimen undergoes an initial
+elastic characteristic.
+
+<ICE-SIN:W2A-038#97:1>
+On further compression, the material undergoes permanent deformation
+with the load increasing for the same unit deformation.
+
+<ICE-SIN:W2A-038#98:1>
+These experimentation results followed closely the results provided
+by BASF, the manufacturer of the raw EPS material [ 5].
+
+<ICE-SIN:W2A-038#99:1>
+From Table 4, it can be further noted that localised variations in
+density and compressive strength exist.
+
+<ICE-SIN:W2A-038#100:1>
+This is to be expected, as the rate of expansion and fusion
+throughout the mould would vary depending on the amount of steam passing
+through the beads.
+
+<ICE-SIN:W2A-038#101:1>
+The extreme result for compressive strength shown in sample S5
+section B is probably due to localised poor fusion as the density remained
+quite consistent with the rest of the other samples.
+
+<ICE-SIN:W2A-038#102:1>
+3.3.2.
+
+<ICE-SIN:W2A-038#103:1>
+Compressive strength at various bulk densities i Test samples were
+obtained similarly from moulded cushions of different densities and the
+compressive strengths were measured.
+
+<ICE-SIN:W2A-038#104:1>
+The results are presented in Table 5 and shown graphically in Fig.
+
+<ICE-SIN:W2A-038#105:1>
+8.
+
+<ICE-SIN:W2A-038#106:1>
+The compressive strength measured at 10% deformation versus the bulk
+density of the cushion is shown in Fig.
+
+<ICE-SIN:W2A-038#107:1>
+9 and indicates a proportional relationship between these two
+factors, with the compressive strength increasing with higher bulk density.
+
+<ICE-SIN:W2A-038#108:1>
+This graph can serve as a guide for designers by providing
+information on the compressive strength of the cushion once he/she has
+decided on the type and density of material to use for the protective
+cushion.
+
+<ICE-SIN:W2A-038#109:1>
+<h> 1. Conclusions </h>
+
+<ICE-SIN:W2A-038#110:1>
+Two series of experiments were carried out on EPS materials using
+microwave energy for processing. <X>
+
+<ICE-SIN:W2A-038#X111:1>
+The first series involved attempts to improve uniformity of the
+fusion of moulded cushion with different static mould orientations and the
+use of a rotating mould. </X> </I>

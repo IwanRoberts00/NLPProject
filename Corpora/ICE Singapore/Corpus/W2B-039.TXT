@@ -1,0 +1,449 @@
+<I>
+
+<ICE-SIN:W2B-039#1:1>
+<h> New tools drive client/server boom </h>
+
+<ICE-SIN:W2B-039#2:1>
+Users are turning to software tools to develop client/server
+applications which is seeing rapid growth from now until 1996
+
+<ICE-SIN:W2B-039#3:1>
+by Abdul Rahman b Mohd Said
+
+<ICE-SIN:W2B-039#4:1>
+Forrester Research estimates sales of client/server software and
+related services to hit US&dollar;4.7 billion ( S&dollar;7.1 billion) this year, up from
+US&dollar;2.5 billion in 1992.
+
+<ICE-SIN:W2B-039#5:1>
+By 1996, client/server software and services will account for 20
+percent of a US&dollar;100 billion international software industry.
+
+<ICE-SIN:W2B-039#6:1>
+The Gartner Group predicted that new multi-user online applications
+using a client/server architecture will account for 75 percent and 90 percent
+total applications developed by 1996 and 2000 respectively.
+
+<ICE-SIN:W2B-039#7:1>
+But it also warns that only 5 percent of current is development staff
+have the skills to develop cooperative type applications.
+
+<ICE-SIN:W2B-039#8:1>
+This will create a serious anomaly: whereas demand for client/server
+applications will boom in the next few years, the capability to develop such
+applications will be severely limited.
+
+<ICE-SIN:W2B-039#9:1>
+Using off-the-shelf client/server packages may help lighten this
+problem, but packages generally do not meet the user requirements.
+
+<ICE-SIN:W2B-039#10:1>
+Custom mission critical applications are often needed by
+organisations to gain a competitive edge.
+
+<ICE-SIN:W2B-039#11:1>
+Expertise is needed as client/server applications become complex.
+
+<ICE-SIN:W2B-039#12:1>
+They tend to be split, with different parts of the program resting in
+different computers and each performing a differing part of the processing.
+
+<ICE-SIN:W2B-039#13:1>
+Yet they all have to work together as one.
+
+<ICE-SIN:W2B-039#14:1>
+Some of the common client/server development tools tend to provide
+users with an easy to use interface to extract data from the server.
+
+<ICE-SIN:W2B-039#15:1>
+But client/server development must be seen as an enterprise-wide
+effort.
+
+<ICE-SIN:W2B-039#16:1>
+Development must be coordinated between departments to prevent any
+integration problems.
+
+<ICE-SIN:W2B-039#17:1>
+The solution to enterprise-wide client/server development can be
+found in the tools now being used to develop mainframe type solutions.
+
+<ICE-SIN:W2B-039#18:1>
+Integrated CASE ( Computer Aided Software Engineering) tools such as
+Texas Instruments' Information Engineering Facility ( IEF) and Oracle's
+Cooperative Development Environment ( CDE) are designed to automate the
+entire software development life-cycle.
+
+<ICE-SIN:W2B-039#19:1>
+Both have grown from the mainframe computing model, and now support
+the split processing required in client/server environments.
+
+<ICE-SIN:W2B-039#20:1>
+Although integrated CASE has faced some resistance because of the
+discipline and methodology it imposes upon software developers, this is
+precisely what is needed for an enterprise-wide development effort.
+
+<ICE-SIN:W2B-039#21:1>
+" Client/server developments in an organisation can easily become
+uncoordinated, unless developers enforce strict rules on the definitions and
+relationships between different data groups," says Mr Teng Cheng Chong,
+General Manager ( Asia) for TI's Advanced Information Management ( AIM)
+Division.
+
+<ICE-SIN:W2B-039#22:1>
+The heart of the integrated case approach lies in the concept of the
+shared repository around which different processes of the development life
+cycle - - software planning, analysis, design and code generation - -
+revolve.
+
+<ICE-SIN:W2B-039#23:1>
+The repository also helps increase developer productivity by allowing
+common program components and objects to be shared and reused.
+
+<ICE-SIN:W2B-039#24:1>
+Developing client/server applications requires the program to be
+split and run across different hardware platforms.
+
+<ICE-SIN:W2B-039#25:1>
+By breaking up the application into its data, logic and presentation
+components, it can be deployed at both the client ( workstation) and servers
+to be processed separately but cooperatively.
+
+<ICE-SIN:W2B-039#26:1>
+The various components can then communicate with one another
+transparently across different hardware platforms.
+
+<ICE-SIN:W2B-039#27:1>
+Best of all, these tools support a wide range of client, server, and
+communications systems so that users can mix and match their hardware.
+
+<ICE-SIN:W2B-039#28:1>
+They need not learn the specifics of each database or communication
+protocol as the Case tools will integrate these for them. </I>
+
+<I>
+
+<ICE-SIN:W2B-039#29:2>
+<h> New modes of working </h>
+
+<ICE-SIN:W2B-039#30:2>
+Sharing processing tasks in client/server models have resulted in
+users finding new ways of working more productively
+
+<ICE-SIN:W2B-039#31:2>
+by Abdul Rahman b Mohd Said
+
+<ICE-SIN:W2B-039#32:2>
+Client/server computing is not the be-all and end-all of computing.
+
+<ICE-SIN:W2B-039#33:2>
+Even as the desktop and server computers begin to work cooperatively,
+sharing the processing tasks, this new mode is spawning other new forms of
+getting information across the organisation.
+
+<ICE-SIN:W2B-039#34:2>
+Much of the " split personality" of a client/server system comes from
+a set of functions contained in popular relational databases such as Oracle,
+Sybase and Informix.
+
+<ICE-SIN:W2B-039#35:2>
+Features such as remote procedure calls and triggers enable a user
+using his terminal to issue a command to the database which then
+independently executes the procedures and sends back the results to the user.
+
+<ICE-SIN:W2B-039#36:2>
+Many organisations maintain separate databases, either on a
+departmental or regional level.
+
+<ICE-SIN:W2B-039#37:2>
+But distributed processing cannot support split processing on
+multiple servers at the same time without complex programming.
+
+<ICE-SIN:W2B-039#38:2>
+All this changed in 1992, when Oracle launched what it called the
+first cooperative-server database in its Oracle7 product.
+
+<ICE-SIN:W2B-039#39:2>
+A cooperative-server database hides the complexity of a computer
+network by allowing applications to access data located on multiple computers
+just as if all the data were stored on a single computer.
+
+<ICE-SIN:W2B-039#40:2>
+In this way, a cooperative-server database simplifies application
+building and improves decisions by making access to information easier.
+
+<ICE-SIN:W2B-039#41:2>
+Many experts agree that the distributed database model is the
+ultimate form of client/server computing.
+
+<ICE-SIN:W2B-039#42:2>
+Users can extract the latest information from across the
+organisation, integrate it and make more meaningful analyses.
+
+<ICE-SIN:W2B-039#43:2>
+Another rapidly emerging trend is to embed a new technology called
+workflow automation into a client/server application.
+
+<ICE-SIN:W2B-039#44:2>
+Workflow simply means getting the computer to pass information from
+one person in a work chain to another.
+
+<ICE-SIN:W2B-039#45:2>
+For example, approvals for loan applications which involve a chain of
+people checking on information, risks and other issues.
+
+<ICE-SIN:W2B-039#46:2>
+It takes as long as two weeks to complete the process manually
+whereas on the computer - - with embedded workflow - it takes only two to
+three hours to process the application.
+
+<ICE-SIN:W2B-039#47:2>
+According to a leading US research and analysis company, The Meta
+Group, embedded workflow will be the norm in client/server offerings in the
+next two years.
+
+<ICE-SIN:W2B-039#48:2>
+Leading the pack are companies like Computron and Dun & Bradstreet
+Software.
+
+<ICE-SIN:W2B-039#49:2>
+One key element of workflow automation is the intelligent agent or
+software robot which can filter and route information.
+
+<ICE-SIN:W2B-039#50:2>
+For example, you can program the agent to read your electronic mail
+and automatically reroute the messages to wherever you are.
+
+<ICE-SIN:W2B-039#51:2>
+You can also instruct the agent to arrange your messages according to
+a set of priorities that you define.
+
+<ICE-SIN:W2B-039#52:2>
+Any user of electronic mail will appreciate this, as it saves a lot
+of time wading through the messages. </I>
+
+<I>
+
+<ICE-SIN:W2B-039#53:3>
+<h> Less fuss at NUS </h>
+
+<ICE-SIN:W2B-039#54:3>
+Subject registration at NUS is now easier because of a
+client/server-based registration system
+
+<ICE-SIN:W2B-039#55:3>
+By Kevin Lim
+
+<ICE-SIN:W2B-039#56:3>
+First year students at five National University of Singapore
+faculties chose their subjects via computer when they were admitted this
+year, thanks to a software developed by the NUS Computer Centre.
+
+<ICE-SIN:W2B-039#57:3>
+Based on a client/server model, the new subject registration provides
+students with a " one-stop shopping destination" and reduces time spent on
+queuing and applying separately for each subject.
+
+<ICE-SIN:W2B-039#58:3>
+The new system was introduced to tie in with the modular system
+adopted by the Arts and Social Sciences, Business Administration, Building
+and Estate Management, Engineering, and Science Faculties.
+
+<ICE-SIN:W2B-039#59:3>
+Over 4000 students were affected.
+
+<ICE-SIN:W2B-039#60:3>
+A trial involving Business Admin students was carried out a year
+earlier.
+
+<ICE-SIN:W2B-039#61:3>
+Mrs Wong Ai Luen, deputy-director of NUS' Computer Centre and Head of
+its Planning Services Unit, said the Centre chose client-server, primarily
+because it had to design an easy-to-use graphical user interface for
+registration.
+
+<ICE-SIN:W2B-039#62:3>
+This was necessary as earlier surveys had indicated that about half
+the incoming students were computer-literate.
+
+<ICE-SIN:W2B-039#63:3>
+" NUS wants to take advantage of the full power of the PC and
+Windows.
+
+<ICE-SIN:W2B-039#64:3>
+We wanted to use colourful screens which host-based mainframe
+systems have difficulty providing," she said.
+
+<ICE-SIN:W2B-039#65:3>
+The Computer Centre developed its subject registration system using
+Oracle's relational database and development tools and an IBM RS/6000 Unix
+server.
+
+<ICE-SIN:W2B-039#66:3>
+The project stretched over several months and also involved the
+Registrar's Office, Centre for Education Technology, Estate Office, and the
+NUS Student's Union.
+
+<ICE-SIN:W2B-039#67:3>
+The registration for the Science and Arts faculties took place at the
+gym where 40 of NUS' mostly Digital PCs were transported to, while students
+in the other faculties registered for subjects at their respective faculties'
+computer rooms.
+
+<ICE-SIN:W2B-039#68:3>
+NUS made separate arrangements for Arts and Science because they were
+the biggest faculties with intakes of about l,500 students each.
+
+<ICE-SIN:W2B-039#69:3>
+The introduction of the modular system - which allows students to
+choose which courses they want to take during each semester, as well as
+during a special term if they wish to graduate earlier made registration more
+difficult.
+
+<ICE-SIN:W2B-039#70:3>
+Citing the Arts Faculty as an example, Mrs Wong said the manual
+process was tedious since the faculty's 12 departments offered a wide choice
+of subjects.
+
+<ICE-SIN:W2B-039#71:3>
+In addition, there are four special programmes like European Studies
+and Mass Communications which students can opt for.
+
+<ICE-SIN:W2B-039#72:3>
+First-year Arts students must select three subjects comprising two
+units each.
+
+<ICE-SIN:W2B-039#73:3>
+In most cases, they had to do one of the two units in the first
+semester and the second in the second semester.
+
+<ICE-SIN:W2B-039#74:3>
+But now that computers are being used for the first time, Arts can
+key in their choices within 10 minutes instead of applying for each unit one
+at a time over a one to two week period.
+
+<ICE-SIN:W2B-039#75:3>
+For Science students, the system works even better since they will
+know straight away whether or not they have been allocated the subject, since
+the faculty's policy is to let students study what they want as long as they
+meet the prerequisites.
+
+<ICE-SIN:W2B-039#76:3>
+There is also an additional facility in the registration process for
+Science students in that the PC will display only those major subjects which
+the student can apply for, based on his " A" level results.
+
+<ICE-SIN:W2B-039#77:3>
+The Computer Centre developed different registration procedures for
+different students using the same client/server system, owing to the diverse
+needs of the five faculties.
+
+<ICE-SIN:W2B-039#78:3>
+Describing how the system works, Mrs Wong said that a student will
+have to key in his matriculation number and smart card pin number to enter
+the system.
+
+<ICE-SIN:W2B-039#79:3>
+The system then displays his name and the course he is pursuing.
+
+<ICE-SIN:W2B-039#80:3>
+From here, the student selects his choice of major subjects and the
+units he wants to pursue.
+
+<ICE-SIN:W2B-039#81:3>
+The system will prompt the student when he keys in too many or too
+few options or when he is expected to sign up for a compulsory unit.
+
+<ICE-SIN:W2B-039#82:3>
+Mrs Wong said NUS will extend its computerised subject registration
+system to include undergraduates in their second, third and fourth years when
+the next academic year begins in July next year, as this is in line with NUS'
+computerisation plans and Singapore's IT2000 goals. </I>
+
+<I>
+
+<ICE-SIN:W2B-039#83:4>
+The Straits Times Saturday June 26 1999
+
+<ICE-SIN:W2B-039#84:4>
+<h> Hybrid Cars: What a Gas </h>
+
+<ICE-SIN:W2B-039#85:4>
+by Leow Ju-Len
+
+<ICE-SIN:W2B-039#86:4>
+It is no joke.
+
+<ICE-SIN:W2B-039#87:4>
+The future of motoring is in alternative fuel technologies.
+
+<ICE-SIN:W2B-039#88:4>
+This week, we take a peek at what drives Toyota's Prius and other
+green cars.
+
+<ICE-SIN:W2B-039#89:4>
+Tomorrow's car is here - today.
+
+<ICE-SIN:W2B-039#90:4>
+The Toyota Prius is the world's first petrol-electric hybrid car to
+be rolled out for sale.
+
+<ICE-SIN:W2B-039#91:4>
+It runs on two power systems - a 1.5-litre petrol engine or an
+electric motor, or both at once.
+
+<ICE-SIN:W2B-039#92:4>
+The result: It can double the distance you could get out of a full
+tank of petrol with a comparable car.
+
+<ICE-SIN:W2B-039#93:4>
+With an outstanding fuel economy rating of 28 km per litre and a
+50-litre petrol capacity, the Prius can travel an amazing 1,400 km between
+fill-ups.
+
+<ICE-SIN:W2B-039#94:4>
+With that sort of efficiency, the average Singaporean driver, who
+covers 20,000 km annually, would in theory need to fill up the tank just 14
+times a year.
+
+<ICE-SIN:W2B-039#95:4>
+But it has more tricks up its sleeve.
+
+<ICE-SIN:W2B-039#96:4>
+It also emits only half the carbon-dioxide emissions of a comparable
+car and its toxic emissions are just 10 per cent of Japan's legal limits.
+
+<ICE-SIN:W2B-039#97:4>
+Plus, it seats five comfortably and has a proper boot that will
+swallow luggage or golf bags easily.
+
+<ICE-SIN:W2B-039#98:4>
+In fact, its tall design means that although it is the same size as a
+Corona on the outside, its interior volume matches that of the larger Camry.
+
+<ICE-SIN:W2B-039#99:4>
+What makes its efficiency possible is the Toyota Hybrid System (
+THS).
+
+<ICE-SIN:W2B-039#100:4>
+This complex arrangement of several key components work in concert
+to drive the car in various modes ( see graphic) to cut fuel consumption.
+
+<ICE-SIN:W2B-039#101:4>
+The heart of the system is the Prius' engine, a low-revving,
+low-friction 1.5-litre petrol four cylinder.
+
+<ICE-SIN:W2B-039#102:4>
+It develops just 58 bhp, but is tuned for optimum fuel efficiency
+rather than power.
+
+<ICE-SIN:W2B-039#103:4>
+Other key components include a 41-bhp electric motor, which
+supplements the engine; a sealed nickel-metal hydride battery; an on-board
+generator that tops up the batteries; a water-cooled AC/DC inverter; and an
+ingenious power-split device which takes the place of a conventional
+transmission. <X>
+
+<ICE-SIN:W2B-039#X104:4>
+The latter is able to vary the amount of engine power used to drive
+the car or charge the batteries, or it can combine the driving force from
+both the engine and motor when extra performance is required. </X> </I>

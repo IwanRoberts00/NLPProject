@@ -1,0 +1,487 @@
+<I>
+
+<ICE-SIN:W2D-014#1:1>
+Local Enterpries Computerisation
+
+<ICE-SIN:W2D-014#2:1>
+National Computer Board
+
+<ICE-SIN:W2D-014#3:1>
+<h> Specifying your requirements </h>
+
+<ICE-SIN:W2D-014#4:1>
+Before you can start building your computer system, you need to
+specify your requirements.
+
+<ICE-SIN:W2D-014#5:1>
+In computer jargon, these requirements are called functional
+specifications.
+
+<ICE-SIN:W2D-014#6:1>
+These are the " blue-prints" that are prepared to show exactly how the
+computer system is intended to function, and it is paramount that this first
+step is done properly.
+
+<ICE-SIN:W2D-014#7:1>
+Before we go into the first step, a few preliminary comments are in
+order.
+
+<ICE-SIN:W2D-014#8:1>
+<h> Computerising Versus Automating a Manual System </h>
+
+<ICE-SIN:W2D-014#9:1>
+Computers and humans are different.
+
+<ICE-SIN:W2D-014#10:1>
+You cannot just look at what your manual system is presently doing,
+and automate that.
+
+<ICE-SIN:W2D-014#11:1>
+Your manual system may be good for your existing needs because it is
+designed to take into account the strengths and weaknesses of people.
+
+<ICE-SIN:W2D-014#12:1>
+It may feature error prevention procedures ( eg double entry
+accounting) and contain opportunities for " fixes" and " creativity" ( eg
+special discounts for selected clients) and so on.
+
+<ICE-SIN:W2D-014#13:1>
+A computer system must be designed to take into account the strengths
+and weaknesses of computers, and these are entirely different from those of
+human beings.
+
+<ICE-SIN:W2D-014#14:1>
+For example, computers never get tired, and never make mistakes on
+repetitive tasks ( unless the program is wrong).
+
+<ICE-SIN:W2D-014#15:1>
+However, computers cannot make judgements and may not be as flexible
+as humans are.
+
+<ICE-SIN:W2D-014#16:1>
+These differences demand new ways of looking at your operations so
+that the computer system you are going to put in place will be appropriate
+and effective. <h> Can I Do It On My Own? </h>
+
+<ICE-SIN:W2D-014#17:1>
+Do not be tempted to purchase computers prematurely.
+
+<ICE-SIN:W2D-014#18:1>
+Conduct a thorough information systems requirement analysis with the
+assistance of an experienced analyst.
+
+<ICE-SIN:W2D-014#19:1>
+If you have no in-house computerisation expertise, and you do not
+wish to re-invent the wheel, it may be wise to engage the help of an IT
+consultant.
+
+<ICE-SIN:W2D-014#20:1>
+But you have to be sure that this outside IT consultant has the
+specialised skills, knowledge and experience that is appropriate for YOUR
+environment, as ultimately, the responsibility for the project is still
+yours.
+
+<ICE-SIN:W2D-014#21:1>
+The IT consultant should have a clear idea of the computerisation
+process and be able to guide you through the procedural steps discussed in
+Chapter 3.
+
+<ICE-SIN:W2D-014#22:1>
+For a detailed discussion on the services of IT consultants, please
+refer to Chapter 4 on " The IT consultant".
+
+<ICE-SIN:W2D-014#23:1>
+There are various technical and financial schemes available to
+eligible local enterprises for computerisation.
+
+<ICE-SIN:W2D-014#24:1>
+Details of these are available in chapter 9 " Government Incentive
+Schemes."
+
+<ICE-SIN:W2D-014#25:1>
+<h> Are the Right People Involved? </h>
+
+<ICE-SIN:W2D-014#26:1>
+For your computerisation project to be successful, you must ensure
+end-user involvement.
+
+<ICE-SIN:W2D-014#27:1>
+End-users are the people who would ultimately use the system.
+
+<ICE-SIN:W2D-014#28:1>
+The end users are probably the best people who can help identify
+problems early through ongoing review.
+
+<ICE-SIN:W2D-014#29:1>
+And most of these problems, when identified, can be readily
+addressed.
+
+<ICE-SIN:W2D-014#30:1>
+It is rare for IT consultants to know your business and " business
+experience", Furthermore, IT consultants and business people conceptualise
+the world in different ways.
+
+<ICE-SIN:W2D-014#31:1>
+A good working relationship between the consultant and the end-user
+should be established.
+
+<ICE-SIN:W2D-014#32:1>
+Therefore, ensure that at least one end-user is involved in the
+meetings with the consultant.
+
+<ICE-SIN:W2D-014#33:1>
+<h> Who Should Take Charge? </h>
+
+<ICE-SIN:W2D-014#34:1>
+Whether you decide on using in-house expertise or an external IT
+consultant, someone or some committee has to be set up to oversee the
+computerisation project.
+
+<ICE-SIN:W2D-014#35:1>
+Computerisation is a cooperative effort between the users and the
+consultant, and this effort needs to be guided to ensure a smooth
+implementation.
+
+<ICE-SIN:W2D-014#36:1>
+To emphasise the importance of the effort being made by the company
+to computerise, active involvement and commitment of top management is often
+necessary.
+
+<ICE-SIN:W2D-014#37:1>
+It is usually recommended that the Chief Executive Officer ( CEO) of
+the company chairs a committee comprising the heads of departments affected
+by computerisation.
+
+<ICE-SIN:W2D-014#38:1>
+The committee should meet regularly to keep track of the progress of
+the project, make the necessary important decisions along the way, and review
+the post-implementation process.
+
+<ICE-SIN:W2D-014#39:1>
+Having said all these, we can now get down to the details of
+specifying your requirements.
+
+<ICE-SIN:W2D-014#40:1>
+<h> What Are Your Computerisation Needs? </h>
+
+<ICE-SIN:W2D-014#41:1>
+This is the first step of the feasibility study.
+
+<ICE-SIN:W2D-014#42:1>
+It aims to determine the computerisation needs of your company by
+identifying and documenting the areas to computerise and to prioritise them
+based on your business strategies.
+
+<ICE-SIN:W2D-014#43:1>
+<h> Things to do </h>
+
+<ICE-SIN:W2D-014#44:1>
+What you need to do during this first step is to: Review your
+organisation's goals and priorities.
+
+<ICE-SIN:W2D-014#45:1>
+By refreshing yourself on this, you will be better able to focus on
+how computerisation can help you attain these goals.
+
+<ICE-SIN:W2D-014#46:1>
+Determine how computerisation can benefit your company strategically.
+
+<ICE-SIN:W2D-014#47:1>
+Here, you may be able to work on getting strategic advantage out of
+computerisation rather than just looking at how to get a job done faster.
+
+<ICE-SIN:W2D-014#48:1>
+Determine which application systems offer the greatest potential
+benefits to the company.
+
+<ICE-SIN:W2D-014#49:1>
+This will help you to prioritise the areas you want to computerise,
+taking into consideration your strategic plans and costs.
+
+<ICE-SIN:W2D-014#50:1>
+Assess your company's existing environment and structure.
+
+<ICE-SIN:W2D-014#51:1>
+Are you ready to computerise?
+
+<ICE-SIN:W2D-014#52:1>
+Have you establish your fundamentals?
+
+<ICE-SIN:W2D-014#53:1>
+If not, get everything in order.
+
+<ICE-SIN:W2D-014#54:1>
+<h> What is achieved </h>
+
+<ICE-SIN:W2D-014#55:1>
+By the end of this step, you should be able to draw up a list of
+business functions that can be computerised, as well as give some indication
+of the order of priority for computerisation.
+
+<ICE-SIN:W2D-014#56:1>
+<h> What Exactly Do You Want The Computer System to do for You? </h>
+
+<ICE-SIN:W2D-014#57:1>
+The next step involves defining the detailed requirements involves
+both the users and the IT consultants.
+
+<ICE-SIN:W2D-014#58:1>
+This process helps the company and IT consultant analyse existing
+functions and procedures in all areas of the company, and facilitates
+breaking down of these functions and procedures into smaller and more
+manageable elements.
+
+<ICE-SIN:W2D-014#59:1>
+By doing so, you are able to specify what you want out of
+computerisation for the different business functions you have identified.
+
+<ICE-SIN:W2D-014#60:1>
+<h> Things to do </h>
+
+<ICE-SIN:W2D-014#61:1>
+During this step, you need to:
+
+<ICE-SIN:W2D-014#62:1>
+1) Review and analyse your current operations.
+
+<ICE-SIN:W2D-014#63:1>
+This examines the detail functioning of the different areas of your
+operations.
+
+<ICE-SIN:W2D-014#64:1>
+By looking at how things are presently done, you may decide to
+maintain, develop new, enhance or even eliminate the work methods and
+procedures so that full advantage can be taken of the strengths of computers.
+
+<ICE-SIN:W2D-014#65:1>
+2) Gather samples of input documents for the different functions and
+review the information captured in these documents to determine whether there
+is a need for it or whether any additional information is required.
+
+<ICE-SIN:W2D-014#66:1>
+Here you must also determine the frequency of use of each of the
+documents.
+
+<ICE-SIN:W2D-014#67:1>
+3) Gather samples of all reports ( or output documents) for the
+different functions.
+
+<ICE-SIN:W2D-014#68:1>
+Again, you must take note of the content and frequency of each
+report.
+
+<ICE-SIN:W2D-014#69:1>
+4) Define and document the systems requirements.
+
+<ICE-SIN:W2D-014#70:1>
+This is the point where extra care should be taken to differentiate
+between what you must have, what would be useful to have, and what would be
+nice to have in the proposed System.
+
+<ICE-SIN:W2D-014#71:1>
+This will help you to develop a system that is appropriate and
+relevant to your needs, given the constraints of budget, hardware and
+software.
+
+<ICE-SIN:W2D-014#72:1>
+This is also the time for you to determine how the area under
+analysis should be integrated to other application areas, how much
+information to keep, for how long, and how sensitive it is.
+
+<ICE-SIN:W2D-014#73:1>
+<h> What is achieved </h>
+
+<ICE-SIN:W2D-014#74:1>
+At the end of the process, the IT consultant and the company should
+be able to come up with a document that describes the functions and
+requirements of the areas under study.
+
+<ICE-SIN:W2D-014#75:1>
+Extracts of such a document can be found in Annex
+
+<ICE-SIN:W2D-014#76:1>
+11.This document, generally known as a functional specifications
+report will be submitted to the committee for approval.
+
+<ICE-SIN:W2D-014#77:1>
+It is a very important document which once approved, will be used as
+part of the request-for-Proposal document when shopping for vendors.
+
+<ICE-SIN:W2D-014#78:1>
+Such a report will provide the committee with an idea of the scale of
+the project and a recommendation on whether customised software or
+off-the-shelf software is required for the project.
+
+<ICE-SIN:W2D-014#79:1>
+And this in turn will, to a large extent, determine the type of
+computers to purchase.
+
+<ICE-SIN:W2D-014#80:1>
+<h> Selecting Hardware and software </h>
+
+<ICE-SIN:W2D-014#81:1>
+In defining your requirements, you will already have determined your
+approach to computerisation to a large extent.
+
+<ICE-SIN:W2D-014#82:1>
+The functional specifications document should have given you an idea
+of the scope and magnitude of the project.
+
+<ICE-SIN:W2D-014#83:1>
+Based on that, and your analysis of your own resources and direction,
+you will be able to choose the kind of solution you want.
+
+<ICE-SIN:W2D-014#84:1>
+The main considerations at this stage are the kind of software
+required to process your business needs, and the hardware required to drive
+the software.
+
+<ICE-SIN:W2D-014#85:1>
+<h> Software </h>
+
+<ICE-SIN:W2D-014#86:1>
+Software requirements are determined by the areas of your business
+that you wish to have computerised.
+
+<ICE-SIN:W2D-014#87:1>
+What are the applications which are required?
+
+<ICE-SIN:W2D-014#88:1>
+Is it in the area of Accounting?
+
+<ICE-SIN:W2D-014#89:1>
+Project management?
+
+<ICE-SIN:W2D-014#90:1>
+Production control?
+
+<ICE-SIN:W2D-014#91:1>
+Or is it the provision of up-to-date management information?
+
+<ICE-SIN:W2D-014#92:1>
+Your requirements would have been specified by now, and you should be
+looking at whether the software you require can be bought off-the-shelf, or
+if you need to customise such software for your needs, or if you need someone
+to develop the software from scratch.
+
+<ICE-SIN:W2D-014#93:1>
+<h> Hardware </h>
+
+<ICE-SIN:W2D-014#94:1>
+You should start looking at hardware requirements only after you have
+decided on the kind of software required.
+
+<ICE-SIN:W2D-014#95:1>
+There is simply no point in buying the cheapest computer available if
+your software is going to run like a tortoise on it.
+
+<ICE-SIN:W2D-014#96:1>
+This is the point where you have to identify the kind of computer you
+need ( mainframe, mini or micro), how many you need, and whether you should
+network them ( ie connect them up in such a way that they can " talk" to each
+other and share peripherals such as inters, modems, etc.) You should also be
+looking at issues such as electronic storage space ( ie the size of hard
+disks required), displays required ( large screen or small screen monitors,
+colour or monochrome, VGA or CGA, etc) and memory etc.
+
+<ICE-SIN:W2D-014#97:1>
+Some of the terms used here are further explained in the Annex III,
+Common Computer Terms.
+
+<ICE-SIN:W2D-014#98:1>
+<h> Approaches to Computerisation </h>
+
+<ICE-SIN:W2D-014#99:1>
+So how are you going to approach this question of selecting your
+computers and software?
+
+<ICE-SIN:W2D-014#100:1>
+Generally you have the following alternatives in determining your
+approach to computerisation: Aiming for a turnkey system for the whole
+project.
+
+<ICE-SIN:W2D-014#101:1>
+This means you appoint a vendor or software house who will work very
+closely with you in providing a solution for your needs.
+
+<ICE-SIN:W2D-014#102:1>
+This vendor may not be the supplier of all the equipment and
+software that you need, but he will do the running around and put the package
+together, and be answerable for the whole solution so that you do not have to
+deal with countless vendors.
+
+<ICE-SIN:W2D-014#103:1>
+This can be a good solution, except you have to be careful of
+tendency to be overly dependent on the vendor.
+
+<ICE-SIN:W2D-014#104:1>
+It also restricts you somewhat to the kinds of hardware and software
+you can opt for.
+
+<ICE-SIN:W2D-014#105:1>
+2) Developing a solution using pre-packaged applications This
+approach aims at using existing software packages to meet your needs.
+
+<ICE-SIN:W2D-014#106:1>
+It is an economical way to computerise.
+
+<ICE-SIN:W2D-014#107:1>
+You would also have the flexibility of selecting hardware and
+software from a variety of vendors.
+
+<ICE-SIN:W2D-014#108:1>
+However, it may leave peculiar aspects of your business uncatered
+for, hence some degree of software customisation is often necessary when
+adopting this approach.
+
+<ICE-SIN:W2D-014#109:1>
+In addition, you must also ensure that all the software modules
+selected are integrated to meet the business needs.
+
+<ICE-SIN:W2D-014#110:1>
+3) Opting for in-house development of a solution This option can be
+taken if you have the resources to employ your own in-house systems people.
+
+<ICE-SIN:W2D-014#111:1>
+It could be the most satisfactory solution if you have highly
+specialised needs that need constant tuning, customisation and attention.
+
+<ICE-SIN:W2D-014#112:1>
+It is also probably the most expensive.
+
+<ICE-SIN:W2D-014#113:1>
+4) Using external systems services.
+
+<ICE-SIN:W2D-014#114:1>
+You may also choose to use what is commonly called a " bureau
+service" for your business needs.
+
+<ICE-SIN:W2D-014#115:1>
+This means that you use the systems and software set up by an
+external company whose business is to cater for the computer needs of
+organisations like yours.
+
+<ICE-SIN:W2D-014#116:1>
+For example, you may be the publisher of a bi-monthly magazine.
+
+<ICE-SIN:W2D-014#117:1>
+All you need is to use the computer to do the layout of your
+magazine once every two months, and for three to four days only. <X>
+
+<ICE-SIN:W2D-014#X118:1>
+You feel that you do not need to use computers in any other way.
+
+<ICE-SIN:W2D-014#X119:1>
+You may consider buying time from a bureau service to do this.
+
+<ICE-SIN:W2D-014#X120:1>
+Each of these approaches has its inherent strengths and weaknesses.
+
+<ICE-SIN:W2D-014#X121:1>
+But whatever the case, you will have to make a decision based on
+your organisation's needs and a clear understanding of the strengths and
+weaknesses of the different approaches.
+
+<ICE-SIN:W2D-014#X122:1>
+Once you have decided your approach, you can proceed with the
+nitty-gritty on this stage of the computerisation process. </X> </I>

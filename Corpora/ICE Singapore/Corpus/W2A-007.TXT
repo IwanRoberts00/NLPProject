@@ -1,0 +1,525 @@
+ <I>
+
+<ICE-SIN:W2A-007#1:1>
+<h> Task-based Testing </h>
+
+<ICE-SIN:W2A-007#2:1>
+by Teng Su Ching
+
+<ICE-SIN:W2A-007#3:1>
+English Language Proficiency Unit National University of Singapore
+
+<ICE-SIN:W2A-007#4:1>
+<h> Influences on Testing - - Linguistic and Pedagogic Theories </h>
+
+<ICE-SIN:W2A-007#5:1>
+Language tests aim to give a picture of a student's level of
+proficiency as a result of the language programme that he has undergone.
+
+<ICE-SIN:W2A-007#6:1>
+They are, therefore, directly influenced by pedagogic theories which
+in turn derive their raison d'etre from prevailing linguistic theories.
+
+<ICE-SIN:W2A-007#7:1>
+Thus, during the period when language was thought of as comprising a
+system of rules which could be learnt, language learning consisted mainly of
+learning structural forms.
+
+<ICE-SIN:W2A-007#8:1>
+Two pedagogic theories that supported this view of language were the
+structuralist-behaviourist approach, based on the work of behavioural
+psychologists like Pavlov and Skinner, and the
+generative-transformationalist approach, a cognitive and
+problem-solving approach based on the work of Chomsky.
+
+<ICE-SIN:W2A-007#9:1>
+Testing procedures that came with these methodologies consisted mainly
+of testing discrete grammatical elements.
+
+<ICE-SIN:W2A-007#10:1>
+An important development in linguistics was to revolutionalise
+pedagogic and testing theories and this is the view that the language system
+evolves from the functions it serves.
+
+<ICE-SIN:W2A-007#11:1>
+The most important proponent of this functional perspective of
+language is Halliday who sees language as inextricably a part of the
+situation in which it is used and its internal structure or form is important
+in so far as it has meaning potential in being able to communicate meaning.
+
+<ICE-SIN:W2A-007#12:1>
+In the 1970s, in line with this new orientation in linguistics,
+pedagogy moved in the direction of meaningful social experiences as the basis
+for the teaching/learning process.
+
+<ICE-SIN:W2A-007#13:1>
+This perspective is actualised in the shift from teaching language as
+an abstract system to teaching what language can do to convey meaning.
+
+<ICE-SIN:W2A-007#14:1>
+A recent and important contribution to methodology within the
+communicative paradigm came out of psycholinguistic research.
+
+<ICE-SIN:W2A-007#15:1>
+One finding is that learners have the " inherent psychological
+capability to acquire linguistic competence when this capacity acts upon
+comprehensible input" ( Breen 1987).
+
+<ICE-SIN:W2A-007#16:1>
+Another is that learners possess strategies to manage new input by
+imposing a certain kind of order on what they encounter to facilitate
+language learning.
+
+<ICE-SIN:W2A-007#17:1>
+That they use such strategies shows that learners can be
+metacommunicative when they are being communicative.
+
+<ICE-SIN:W2A-007#18:1>
+This new perspective of the learners' active intervention in the
+pedagogic process has given rise to a new process-related approach which
+addresses the strategies by which learners achieve communicative
+effectiveness.
+
+<ICE-SIN:W2A-007#19:1>
+A realization of this process-related approach is the task-based
+methodology.
+
+<ICE-SIN:W2A-007#20:1>
+This methodology requires the learner to perform tasks which mobilise
+his underlying competence such that he employs both " overt interpersonal and
+covert personal negotiations of meaning" ( Breen 1987).
+
+<ICE-SIN:W2A-007#21:1>
+These are not new strategies for the learner but merely knowledge
+systems he is already familiar with as a communicator in his own language.
+
+<ICE-SIN:W2A-007#22:1>
+If the tasks are meaningful and challenging enough, the learner will
+mobilise his underlying knowledge, however limited it may be, in order to
+communicate.
+
+<ICE-SIN:W2A-007#23:1>
+An important proponent of the task-based approach is Prabhu ( 1987)
+who sees learning a language as building holistically on a complex cognitive
+system which we do not have an explicit understanding of.
+
+<ICE-SIN:W2A-007#24:1>
+It seems to be a system that enables the learner to bring all
+available cognitive resources to his effort to communicate.
+
+<ICE-SIN:W2A-007#25:1>
+<h> Assessing Competence through Performance </h>
+
+<ICE-SIN:W2A-007#26:1>
+Testing procedures which attempt to operationalise the communicative
+ideology face many uncertainties, the most prominent being what to test and
+how to assess, especially since the notion of " communicative" has not been
+definitive though it is obvious that it should include certain criteria
+features of authentic language use.
+
+<ICE-SIN:W2A-007#27:1>
+Rea ( 1985) makes an explicit distinction between communicative
+competence and performance.
+
+<ICE-SIN:W2A-007#28:1>
+Competence is defined as knowledge in the form of an abstract system
+stored in an individual's mind and it " cannot be assessed in any direct way"
+( 1985: 21).
+
+<ICE-SIN:W2A-007#29:1>
+Performance, on the other hand, is an observable language behaviour
+which can be directly assessed.
+
+<ICE-SIN:W2A-007#30:1>
+All linguistic behaviour is performance and it is " only through
+performance that we may infer levels of competence" ( 1985: 21).
+
+<ICE-SIN:W2A-007#31:1>
+Performance can be non-communicative, for example, in test formats
+which require mere manipulation of the code and are atomistic in approach.
+
+<ICE-SIN:W2A-007#32:1>
+Communicative performance on the other hand, is meaning dependent and
+context-bound, involving the mobilisation of " grammatical, sociolinguistic,
+strategic and any other competencies" ( 1985 : 24).
+
+<ICE-SIN:W2A-007#33:1>
+It allows for the global assessment of an integrated performance.
+
+<ICE-SIN:W2A-007#34:1>
+How can all these be translated into a testing procedure?
+
+<ICE-SIN:W2A-007#35:1>
+Testing within a Context We must, first of all, bear in mind the
+multidimensional use of language, the varied communication situations in
+which language is used and, therefore, the need to narrow focus in testing to
+more specific areas.
+
+<ICE-SIN:W2A-007#36:1>
+The emergence of English for Specific Purposes ( ESP) pedagogy
+enables a more explicit definition of communicativeness within a specific
+situation where performance criteria can be identified.
+
+<ICE-SIN:W2A-007#37:1>
+One such situation is English for Academic Purposes ( EAP).
+
+<ICE-SIN:W2A-007#38:1>
+An EAP test tests a learner's communicative effectiveness in an
+academic situation.
+
+<ICE-SIN:W2A-007#39:1>
+Whereas once EAP was dominated by the concept of registers with an
+emphasis on the relative frequencies of occurrence of syntactic and lexical
+items, now the orientation is towards a holistic view of language in a
+communicative academic environment where language is a functional system
+operating within a specific discoursal framework.
+
+<ICE-SIN:W2A-007#40:1>
+Next, we must consider the operative criteria which make for an
+effective communicative test.
+
+<ICE-SIN:W2A-007#41:1>
+Morrow ( 1979) identified seven criteria features of communicative
+language use which should be considered in any test that purports to measure
+communicative competence.
+
+<ICE-SIN:W2A-007#42:1>
+These features are that language use is interaction-based,
+unpredictable in its interaction, contextual, purposive, performance-based,
+authentic and has a behavioural outcome.
+
+<ICE-SIN:W2A-007#43:1>
+To this list we might add that the test should mobilise the testee's
+underlying linguistic and cognitive systems in an integrated performance.
+
+<ICE-SIN:W2A-007#44:1>
+There is a general belief that there is no such thing as a test of
+authentic language behaviour ( Stevenson 1985, Spolsky 1985).
+
+<ICE-SIN:W2A-007#45:1>
+There are only authentic language tests.
+
+<ICE-SIN:W2A-007#46:1>
+A test with its temporal and psychological constraints is already
+compromising real-life language use.
+
+<ICE-SIN:W2A-007#47:1>
+To try to measure performance in authentic real-life situations means
+to conduct a longitudinal study of the candidate, following him around and
+observing how he functions as a student - - taking notes at lectures,
+discussing with teachers and peers at tutorials and seminars, writing reports
+and the like.
+
+<ICE-SIN:W2A-007#48:1>
+Even this mode of evaluation has a constraint: knowing that he is
+being " trailed", as it were, puts him on his guard and his performance is
+less natural, less authentic.
+
+<ICE-SIN:W2A-007#49:1>
+Bearing this caveat in mind, we may, however, choose to be satisfied
+with an authentic task which requires the holistic use of language.
+
+<ICE-SIN:W2A-007#50:1>
+<h> Task-based Testing </h>
+
+<ICE-SIN:W2A-007#51:1>
+An authentic task in the EAP context is one which a tertiary student
+is likely to perform in real life in his academic course.
+
+<ICE-SIN:W2A-007#52:1>
+Examples of authentic tasks are making notes from what he sees and
+hears, transcoding information from non-verbal ( charts, graphs, tables)
+into verbal forms or vice versa, writing reports, making oral presentations
+and participating in discussions.
+
+<ICE-SIN:W2A-007#53:1>
+The ability to perform all these real life tasks presupposes
+proficiency in certain enabling skills, mainly higher order receptive and
+productive skills.
+
+<ICE-SIN:W2A-007#54:1>
+Higher order receptive or comprehension skills comprise a dynamic
+interaction of inferencing, synthesising and critical evaluation resulting in
+the student constantly monitoring his state of understanding.
+
+<ICE-SIN:W2A-007#55:1>
+Critical evaluation is an important metacognitive strategy.
+
+<ICE-SIN:W2A-007#56:1>
+A very important component of comprehension is the processing of
+non-verbal forms of information because this is where language " ceases in
+effect to be the primary element in the communication: it takes on an
+interpretative role - - explaining, highlighting or contextualising what is
+visually observable" ( Hutchinson and Waters 1981).
+
+<ICE-SIN:W2A-007#57:1>
+Interpreting non-verbal forms also calls for the employment of the
+higher order strategies of inferencing, synthesising and critical evaluation.
+
+<ICE-SIN:W2A-007#58:1>
+Handling visual data also entails another cognitive process - -
+perceptual proficiency in order to transform the visual display into
+meaningful mental representation and eventual comprehension.
+
+<ICE-SIN:W2A-007#59:1>
+Within the testing environment, productive skills are skills
+attendant on comprehension.
+
+<ICE-SIN:W2A-007#60:1>
+They are usually demonstrated in composition and summary writing,
+note-taking and note-making and even in non-verbal forms.
+
+<ICE-SIN:W2A-007#61:1>
+Basically a test of productive skills is a test of a candidate's
+proficiency as a competent communicator.
+
+<ICE-SIN:W2A-007#62:1>
+Production presupposes reception and comprehension which is
+traditionally tested by answering comprehension questions of the open-ended
+or close-ended multiple-choice type.
+
+<ICE-SIN:W2A-007#63:1>
+However, comprehension can also be demonstrated in a more productive
+and dynamic performance, for example, the reorganisation of information into
+verbal or non-verbal forms to serve the purpose for which the information is
+elicited.
+
+<ICE-SIN:W2A-007#64:1>
+<h> Sample Questions </h>
+
+<ICE-SIN:W2A-007#65:1>
+An example of a test question that attempts to incorporate the above
+principles comes from the Joint Matriculation Board Test in English (
+Overseas) March 1979 written paper.
+
+<ICE-SIN:W2A-007#66:1>
+The JMB Test ( recently revised and renamed the University Entrance
+Test in English for Speakers of Other Languages or UETESOL) was a university
+qualifying test conducted by the northern universities of Manchester,
+Liverpool, Leeds, Sheffield and Birmingham.
+
+<ICE-SIN:W2A-007#67:1>
+( Please refer to Appendix A for guestion 1) In this question, the
+candidate is tested on his ability to understand the communicative value of a
+non-verbal device and to recode this information into a verbal form.
+
+<ICE-SIN:W2A-007#68:1>
+Here the visual stimuli is a cross section of a windmill.
+
+<ICE-SIN:W2A-007#69:1>
+Productive skills with respect to two particular core language
+functions are assessed - - general description ( Write about the appearance
+of the mill and its equipment) and description of process ( Write about how
+wheat is ground into flour).
+
+<ICE-SIN:W2A-007#70:1>
+The process is indicated by arrows.
+
+<ICE-SIN:W2A-007#71:1>
+The correctness of the steps in the process also requires perceptual
+efficiency in order to make sense of the arrows.
+
+<ICE-SIN:W2A-007#72:1>
+In the description of process, narrative padding is also necessary in
+describing the structure of the grinding stone given in the inset.
+
+<ICE-SIN:W2A-007#73:1>
+While the rubric is precise and the diagram clear, the actual outcome
+does not just involve a straightforward description of process as some
+cognitive processing is also needed to conceptualise the whole process of
+grinding wheat and to make sense of the technical principles behind energy
+generated by the wind, the mechanics of cog and wheels and the concept of
+pressure and friction for the actual grinding.
+
+<ICE-SIN:W2A-007#74:1>
+There is, thus, a certain amount of bias as the ability to do the
+question effectively presupposes knowledge of the above stated principles
+which test constructors can defend as general scientific principles which a
+technological society is familiar with ( Please refer to Appendix B for
+Question 5A) Question 5A of the JMB June 1979 paper tests comprehension of an
+extended text.
+
+<ICE-SIN:W2A-007#75:1>
+The candidate has to demonstrate his comprehension by performing a
+task using higher order comprehension skills ( eg skimming and scanning) and
+higher order cognitive skills ( eg hypothesizing, evaluating,
+problem-solving).
+
+<ICE-SIN:W2A-007#76:1>
+What is interesting about this question is that it is an attempt to
+evaluate the reading process by the very nature of the question.
+
+<ICE-SIN:W2A-007#77:1>
+The product of comprehension is the attempted task.
+
+<ICE-SIN:W2A-007#78:1>
+While the product is the operational criterion of comprehension, the
+question ensures the use of higher level strategies to arrive at the product.
+
+<ICE-SIN:W2A-007#79:1>
+So, indirectly, the efficient use of these strategies are being
+tested.
+
+<ICE-SIN:W2A-007#80:1>
+Also to arrive at the product, the candidate needs to comprehend the
+instructions and carry them out accurately.
+
+<ICE-SIN:W2A-007#81:1>
+In the process of completing the task set, the reader does not just
+reproduce information from the text but has to reorganise data to suit the
+task.
+
+<ICE-SIN:W2A-007#82:1>
+The complex and involved task tests global comprehension.
+
+<ICE-SIN:W2A-007#83:1>
+It does more than just assess the ability to locate specific
+information.
+
+<ICE-SIN:W2A-007#84:1>
+It calls for the ability to scan for particular information, extract,
+summarise and manipulate information, make inferences and apply the
+information to the solution of a related problem ( UETESOL Syllabus 1990).
+
+<ICE-SIN:W2A-007#85:1>
+Underlying the task is the reorganisation of information to gain
+insight into rhetorical relationships, even though the structure of the
+rhetorical organisation is made apparent in the question itself ( Table 1 in
+Appendix B).
+
+<ICE-SIN:W2A-007#86:1>
+It also requires the use of one's background knowledge to visualise
+the appearance of " box-like kite", " triangular-shaped bodies" or "
+bird-like wings".
+
+<ICE-SIN:W2A-007#87:1>
+Another important feature is the use of the non-verbal medium.
+
+<ICE-SIN:W2A-007#88:1>
+Here the candidate has to transcode verbal cues into a non-verbal
+medium by matching description and picture.
+
+<ICE-SIN:W2A-007#89:1>
+By requiring an identification through description of the physical
+appearance, the question calls for small pieces of information to be
+synthesised to build up an image. <X>
+
+<ICE-SIN:W2A-007#X90:1>
+The advantage of task-based testing is that it allows orientation to
+a clearly definable and purposive activity in a particular communicative
+situation, for example, the academic environment, and the assessment of the
+strategies required to perform in this environment.
+
+<ICE-SIN:W2A-007#X91:1>
+Task-based testing addresses the overall capacity to perform.
+
+<ICE-SIN:W2A-007#X92:1>
+This testing methodology is basically a problem-solving approach
+where linguistic and non-linguistic resources operate together on inputs to
+reach a solution.
+
+<ICE-SIN:W2A-007#X93:1>
+Such inputs are varied in form and content and can be graphic or
+verbal, stated or inferred.
+
+<ICE-SIN:W2A-007#X94:1>
+<h> Grammar and its Assesment in Task-based Testing </h>
+
+<ICE-SIN:W2A-007#X95:1>
+Communicative testing should not only test the conveying of meaning
+with a total disregard for form as a show of the complete rejection of the
+ideology of the structural era.
+
+<ICE-SIN:W2A-007#X96:1>
+Prabhu ( in personal communication) sees two positions that grammar
+can assume in communicative testing: first, grammar in response to linguistic
+elicitation and second, grammar in response to a task.
+
+<ICE-SIN:W2A-007#X97:1>
+The first position, as the name suggests, is very much a matter of
+the candidate's demonstration of grammatical knowledge.
+
+<ICE-SIN:W2A-007#X98:1>
+When grammar is to be elicited deliberately, the test constructor
+can choose to test particular linguistic items.
+
+<ICE-SIN:W2A-007#X99:1>
+For example, if he chooses to assess a candidate's control of the
+tenses, he would probably set a contrived situation which requires the
+student to use different tenses, a procedure unlikely to be matched in
+real-life language use.
+
+<ICE-SIN:W2A-007#X100:1>
+There is reliability in assessing the candidate's knowledge of this
+grammatical item based on how many right answers he gives.
+
+<ICE-SIN:W2A-007#X101:1>
+In communicative testing, where authentic language use is a
+premium, deliberate elicitation of grammatical knowledge has a price, namely,
+a low level of validity.
+
+<ICE-SIN:W2A-007#X102:1>
+Where grammatical competence is not elicited, but deployed
+spontaneously when a task is being performed, the ability shown is genuine.
+
+<ICE-SIN:W2A-007#X103:1>
+With grammar in deployment, there is less opportunity for testing
+the candidate's knowledge of specific grammatical items since a candidate may
+or may not employ those particular items in performing a task.
+
+<ICE-SIN:W2A-007#X104:1>
+It is, however, a valid method of testing a candidate's control of
+the code as a whole for the purpose of conveying meaning.
+
+<ICE-SIN:W2A-007#X105:1>
+It is in these two positions of grammar that the tension between
+validity and reliability becomes obvious.
+
+<ICE-SIN:W2A-007#X106:1>
+The importance that a test constructor places on grammar can be
+reflected in the weighting for the completed task and the language control.
+
+<ICE-SIN:W2A-007#X107:1>
+He may even choose to use the task to test only grammatical
+competence because the grammar that emerges out of a task performance is the
+test taker's norm and is a genuine product of his communicative competence.
+
+<ICE-SIN:W2A-007#X108:1>
+A grammar test, therefore, does not need to be a discrete point
+test.
+
+<ICE-SIN:W2A-007#X109:1>
+A task-based or holistic test can function as a test of grammatical
+competence as well as a test of naturalistic language behaviour.
+
+<ICE-SIN:W2A-007#X110:1>
+<h> Conclusion </h>
+
+<ICE-SIN:W2A-007#X111:1>
+Integrated performance approximates real-life language use more
+closely than does the perception of language use as comprising distinct
+skills.
+
+<ICE-SIN:W2A-007#X112:1>
+In integrated performance, all necessary abilities are employed
+simultaneously in the same act of communication.
+
+<ICE-SIN:W2A-007#X113:1>
+This essential holism in real-life language underlies the
+task-based testing procedure.
+
+<ICE-SIN:W2A-007#X114:1>
+Pedagogy is now concerned with teaching the learner how to do
+things with language.
+
+<ICE-SIN:W2A-007#X115:1>
+Testing must be concerned with giving the testee the opportunity to
+demonstrate what he can do with language in a purposeful manner.
+
+<ICE-SIN:W2A-007#X116:1>
+It should not only be concerned with producing a score.
+
+<ICE-SIN:W2A-007#X117:1>
+Test constructors have the responsibility to innovate on present
+procedures so that teaching and testing can move in tandem within the
+communicative paradigm. </X> </I>

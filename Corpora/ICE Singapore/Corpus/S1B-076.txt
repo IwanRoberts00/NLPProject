@@ -1,0 +1,609 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1B-076#1:1:A>
+Hi Raymond
+
+<ICE-SIN:S1B-076#2:1:A>
+Glad you can make it today
+
+<$B> 
+<ICE-SIN:S1B-076#3:1:B>
+Yes I'm glad to see you too
+
+<$A> 
+<ICE-SIN:S1B-076#4:1:A>
+Thanks for taking time to see me
+
+<ICE-SIN:S1B-076#5:1:A>
+By the way I hope you had your dinner
+
+<$B> 
+<ICE-SIN:S1B-076#6:1:B>
+Yes I had my dinner already
+
+<ICE-SIN:S1B-076#7:1:B>
+Thank you
+
+<$A> 
+<ICE-SIN:S1B-076#8:1:A>
+Good
+
+<ICE-SIN:S1B-076#9:1:A>
+Okay before we proceed do you know anything about John Hancock
+
+<$B> 
+<ICE-SIN:S1B-076#10:1:B>
+No not much other than the name
+
+<$A> 
+<ICE-SIN:S1B-076#11:1:A>
+Not much uh
+
+<ICE-SIN:S1B-076#12:1:A>
+Okay I think being a cautious investor yourself you would like to
+know more of the company before you put your money there
+
+<$B> 
+<ICE-SIN:S1B-076#13:1:B>
+Oh of course
+
+<$A> 
+<ICE-SIN:S1B-076#14:1:A>
+All right
+
+<ICE-SIN:S1B-076#15:1:A>
+John Hancock Life Assurance Company Limited is a subsidiary of
+Boston based John Hancock Manual Life Insurance Company one of the world's
+largest life insurance company with nearly one hundred and fifty million
+dollars in assets under management
+
+<ICE-SIN:S1B-076#16:1:A>
+John Hancock offers a broad range of insurance products addressing
+the savings protection and investment needs of individuals and families as
+well as business insurance
+
+<ICE-SIN:S1B-076#17:1:A>
+Uh the company's university savings plus <&>  U S P </&> programme is the
+most comprehensive university planning and savings programme in Singapore
+
+<ICE-SIN:S1B-076#18:1:A>
+In addition to its savings component U S P helps parents identify
+the university that best matches the child's goals and aptitude by providing
+info information and cost breakdown on 2600 universities worldwide
+
+<ICE-SIN:S1B-076#19:1:A>
+Our head office and the company's Asian Regional office are located
+in John Hancock Tower at Raffles Quay and where you are now is the additional
+agency office
+
+<ICE-SIN:S1B-076#20:1:A>
+We too have operations in Indonesia Malaysia Philippines and
+Thailand and is expanding to China and Vietnam
+
+<ICE-SIN:S1B-076#21:1:A>
+Oh by the way John Hancock is named after a respected American
+founding father who fought for independence of his country
+
+<ICE-SIN:S1B-076#22:1:A>
+He was the first man to sign the American Declaration of
+independence His bold and elegant signature has served as the company's
+corporate logo since 1862
+
+<ICE-SIN:S1B-076#23:1:A>
+Well that's so much for John Hancock's standing
+
+<ICE-SIN:S1B-076#24:1:A>
+Let us get back to you
+
+<ICE-SIN:S1B-076#25:1:A>
+Raymond tell me more about yourself
+
+<ICE-SIN:S1B-076#26:1:A>
+Are you married
+
+<$B> 
+<ICE-SIN:S1B-076#27:1:B>
+Yes I am married
+
+<$A> 
+<ICE-SIN:S1B-076#28:1:A>
+Oh good
+
+<ICE-SIN:S1B-076#29:1:A>
+Do you have any kids
+
+<$B> 
+<ICE-SIN:S1B-076#30:1:B>
+Ah yah currently one boy
+
+<$A> 
+<ICE-SIN:S1B-076#31:1:A>
+Uhm one boy ah
+
+<ICE-SIN:S1B-076#32:1:A>
+Uh your wife is working
+
+<$B> 
+<ICE-SIN:S1B-076#33:1:B>
+Yes she is
+
+<$A> 
+<ICE-SIN:S1B-076#34:1:A>
+Oh as what
+
+<$B> 
+<ICE-SIN:S1B-076#35:1:B>
+As a secretary
+
+<$A> 
+<ICE-SIN:S1B-076#36:1:A>
+As a secretary
+
+<ICE-SIN:S1B-076#37:1:A>
+Okay
+
+<ICE-SIN:S1B-076#38:1:A>
+Oh what about yourself
+
+<ICE-SIN:S1B-076#39:1:A>
+What do you do
+
+<$B> 
+<ICE-SIN:S1B-076#40:1:B>
+I am a software engineer
+
+<$A> 
+<ICE-SIN:S1B-076#41:1:A>
+Software engineer
+
+<ICE-SIN:S1B-076#42:1:A>
+Wow that is engineering isn't it
+
+<ICE-SIN:S1B-076#43:1:A>
+I T
+
+<ICE-SIN:S1B-076#44:1:A>
+You must be busy with the Y2 bug and the ever changing I T
+technology these days
+
+<$B> 
+<ICE-SIN:S1B-076#45:1:B>
+Yeah got to catch up with them <O> laughs </O>
+
+<$A> 
+<ICE-SIN:S1B-076#46:1:A>
+Share with me your knowledge of insurance Raymond
+
+<ICE-SIN:S1B-076#47:1:A>
+What do you know
+
+<$B> 
+<ICE-SIN:S1B-076#48:1:B>
+Uh uh
+
+<$A> 
+<ICE-SIN:S1B-076#49:1:A>
+And what you may not know or understand
+
+<ICE-SIN:S1B-076#50:1:A>
+What do you have at the moment too
+
+<$B> 
+<ICE-SIN:S1B-076#51:1:B>
+At the moment I have a small N T U C Income policy uhm uh but
+I don't really know much about insurance
+
+<ICE-SIN:S1B-076#52:1:B>
+Uh because that time I got it uh just because the N T U C Income
+agent came down to our uh army camp
+
+<$A> 
+<ICE-SIN:S1B-076#53:1:A>
+Oh I see
+
+<ICE-SIN:S1B-076#54:1:A>
+Okay
+
+<ICE-SIN:S1B-076#55:1:A>
+You may be wondering why I ask you so many questions
+
+<ICE-SIN:S1B-076#56:1:A>
+The reason is to know what actually you want and what actually you
+need
+
+<ICE-SIN:S1B-076#57:1:A>
+Oh yes just to confirm what you have shared
+
+<ICE-SIN:S1B-076#58:1:A>
+You are 27 years old right
+
+<$B> 
+<ICE-SIN:S1B-076#59:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-076#60:1:A>
+You are married and you have a six month old baby boy
+
+<ICE-SIN:S1B-076#61:1:A>
+You have an insurance programme when you were 18 years old from N T
+U C when you were in the army
+
+<ICE-SIN:S1B-076#62:1:A>
+And a small protection of fifteen thousand dollars whole life plan
+
+<$B> 
+<ICE-SIN:S1B-076#63:1:B>
+yes yes
+
+<$A> 
+<ICE-SIN:S1B-076#64:1:A>
+So what made you to consider to have more insurances now
+
+<$B> 
+<ICE-SIN:S1B-076#65:1:B>
+Well uhm ah basically I am earning much more now and uh
+besides I see a lot of people around me suffering from critical illnesses
+that really cost a bomb to the family
+
+<ICE-SIN:S1B-076#66:1:B>
+And uh in the end it will leave the family in the lurch when they
+die
+
+<ICE-SIN:S1B-076#67:1:B>
+So uhm at this moment I wish to save more as well as to provide
+more protection for my family sake
+
+<$A> 
+<ICE-SIN:S1B-076#68:1:A>
+Ok so you feel that you are older now earning a higher income
+you and you have a family now and also you wish to have the savings as well
+as protection for your family right
+
+<$B> 
+<ICE-SIN:S1B-076#69:1:B>
+Yah
+
+<$A> 
+<ICE-SIN:S1B-076#70:1:A>
+Okay now besides that what other things do you have in mind
+
+<ICE-SIN:S1B-076#71:1:A>
+You must have beard from other companies or from your friends the
+company's products
+
+<$B> 
+<ICE-SIN:S1B-076#72:1:B>
+No ah not much so far
+
+<ICE-SIN:S1B-076#73:1:B>
+As a matter of fact I didn't bother about it initially
+
+<ICE-SIN:S1B-076#74:1:B>
+So I don't really have a grasp of what insurance can offer me
+
+<$A> 
+<ICE-SIN:S1B-076#75:1:A>
+Oh I see
+
+<ICE-SIN:S1B-076#76:1:A>
+Okay
+
+<ICE-SIN:S1B-076#77:1:A>
+Now in this case since you shared with me that you do not really
+have a grasp of what's available or for the matter what kind of insurance
+there are I will start with you some basic understanding of insurance
+
+<ICE-SIN:S1B-076#78:1:A>
+Insurance is basically savings put in a certain institution called
+insurance company that will give you a higher amount of money back when the
+policy matures or where the company will take uh undertake for you certain
+responsibilities when you die permanently and totally disabled or when you
+are diagnosed of a certain critical illness
+
+<ICE-SIN:S1B-076#79:1:A>
+There are basically 3 kinds of insurannce namely
+
+<ICE-SIN:S1B-076#80:1:A>
+1 Term plan
+
+<ICE-SIN:S1B-076#81:1:A>
+2 Endowment and
+
+<ICE-SIN:S1B-076#82:1:A>
+3 Whole life plans
+
+<ICE-SIN:S1B-076#83:1:A>
+Term plans generally gives you a high coverage for death or
+permanent disability with no returns that is there will not be any money in
+return if nothing happens to you
+
+<ICE-SIN:S1B-076#84:1:A>
+It's like renting a flat where you don't own it
+
+<ICE-SIN:S1B-076#85:1:A>
+Once you leave yu have to return it to the owner
+
+<ICE-SIN:S1B-076#86:1:A>
+Endowment plans gives you a certain amount of money at a certain
+period say after 20 years
+
+<ICE-SIN:S1B-076#87:1:A>
+You will need to put aside a generally higher premium for this plan
+
+<ICE-SIN:S1B-076#88:1:A>
+It also covers you for only death and permanent disability only
+
+<ICE-SIN:S1B-076#89:1:A>
+You can add riders like hospitalisation benefits or critical
+illnesses coverage etc to this basic plan
+
+<ICE-SIN:S1B-076#90:1:A>
+Whole life is somewhat different
+
+<ICE-SIN:S1B-076#91:1:A>
+It covers you for life at a much lower premium due to death
+permanent disability as well as upon diagnosis of critical illness
+
+<ICE-SIN:S1B-076#92:1:A>
+Okay am I going too fast for you Raymond
+
+<$B> 
+<ICE-SIN:S1B-076#93:1:B>
+Ah no so far so good
+
+<$A> 
+<ICE-SIN:S1B-076#94:1:A>
+Okay
+
+<ICE-SIN:S1B-076#95:1:A>
+Good
+
+<ICE-SIN:S1B-076#96:1:A>
+I'm glad that you understand so far
+
+<ICE-SIN:S1B-076#97:1:A>
+And ah just to reinstate
+
+<ICE-SIN:S1B-076#98:1:A>
+I understand that you wish to protect yourself against illnesses
+death and to do a little savings for your old age as well as for your little
+prince's education
+
+<ICE-SIN:S1B-076#99:1:A>
+Right may I ask what is your budget for yourself and for your son
+
+<$B> 
+<ICE-SIN:S1B-076#100:1:B>
+Ah well
+
+<ICE-SIN:S1B-076#101:1:B>
+I think for myself it will be around the range of
+
+$250 and ah my uh
+
+<ICE-SIN:S1B-076#102:1:B>
+I mean
+
+<$A> 
+<ICE-SIN:S1B-076#103:1:A>
+For your son
+
+<$B> 
+<ICE-SIN:S1B-076#104:1:B>
+For myself 250 and for my son probably a hundred
+
+<$A> 
+<ICE-SIN:S1B-076#105:1:A>
+Okay
+
+<ICE-SIN:S1B-076#106:1:A>
+Now uhm as a professional in this field I always feel it is
+important to look into the welfare for our family those who are still around
+when we are gone
+
+<ICE-SIN:S1B-076#107:1:A>
+I am happy to know Raymond that you thought likewise
+
+<ICE-SIN:S1B-076#108:1:A>
+Let me print this out for you
+
+<ICE-SIN:S1B-076#109:1:A>
+Okay I'm proposing to you this plan that pays you a hundred
+thousand if premature death were to occur to you right now or when you are
+unfortunate to be diagnosed of any of the 30 illnesses
+
+<ICE-SIN:S1B-076#110:1:A>
+In this case you will also receive a paid lump sum of 20 per cent
+to the sum assured on the first year and subsequently the remaining 80 per
+cent on the second year when you are totally and permanently disabled
+
+<ICE-SIN:S1B-076#111:1:A>
+After that you will be paid a yearly amount of fifty thousand till
+you are age 65
+
+<ICE-SIN:S1B-076#112:1:A>
+Wow does this sounds good
+
+<ICE-SIN:S1B-076#113:1:A>
+The beauty of this plan is that you need to only pay for 20 years
+after which the plan will automatically grow on its own earning bonuses as it
+goes along
+
+<ICE-SIN:S1B-076#114:1:A>
+Moreover with these two plans with this plan your two kids
+including your future child will be given free critical illnesses coverage of
+ten thousand each if they are diagnosed of the illnesses
+
+<ICE-SIN:S1B-076#115:1:A>
+They must be between the age of thirty days old to eighteen years
+old
+
+<ICE-SIN:S1B-076#116:1:A>
+Ain't that good
+
+<ICE-SIN:S1B-076#117:1:A>
+What do you think of this plan
+
+<$B> 
+<ICE-SIN:S1B-076#118:1:B>
+It seems so interesting ah I mean what John Hancock can offer
+
+<ICE-SIN:S1B-076#119:1:B>
+You mean that any of my child is diagnosed for any of the 30
+illnesses I'm able to claim ten thousand from John Hancock
+
+<$A> 
+<ICE-SIN:S1B-076#120:1:A>
+Yeah yeah
+
+<$B> 
+<ICE-SIN:S1B-076#121:1:B>
+So what happen to my policy then
+
+<$A> 
+<ICE-SIN:S1B-076#122:1:A>
+Your policy still carries on till you either cancel it or
+till there is a claim made
+
+<$B> 
+<ICE-SIN:S1B-076#123:1:B>
+So you mean I can like take out some money after 20 years
+
+<$A> 
+<ICE-SIN:S1B-076#124:1:A>
+Yeah you can you can cash it out but I have a better idea
+
+<ICE-SIN:S1B-076#125:1:A>
+You don't cash it out but instead you take a loan carry on with
+the Giro deduction and you are still under cover by John Hancock
+
+<ICE-SIN:S1B-076#126:1:A>
+You need not pay back till you have the money
+
+<ICE-SIN:S1B-076#127:1:A>
+If anything does happen to you or you wish to surrender it later
+the amount at that point of time would always be higher than what you
+borrowed
+
+<ICE-SIN:S1B-076#128:1:A>
+There are lots of ideas that I can share with you that can benefit
+you and your family while you save with John Hancock
+
+<$B> 
+<ICE-SIN:S1B-076#129:1:B>
+That sure is interesting
+
+<ICE-SIN:S1B-076#130:1:B>
+And what about my son's plan then
+
+<$A> 
+<ICE-SIN:S1B-076#131:1:A>
+Now uhm he'll be going to the army when he's 20 about 18
+years old and he'll be in the university when he's 21 years old so it's about
+20 years from now
+
+<ICE-SIN:S1B-076#132:1:A>
+Now I've worked out this plan whereby you can take out a sum about
+forty thousand
+
+<ICE-SIN:S1B-076#133:1:A>
+When he's 21 years old and moreover for this kind of plan
+children's plan if anything does happen to you or your wife be it in terms of
+death permanent disability or diagnosis of illnesses the premium will be
+totally waived meaning you don't have to pay anymore
+
+<ICE-SIN:S1B-076#134:1:A>
+John Hancock will take the responsibility of paying the premium
+
+<ICE-SIN:S1B-076#135:1:A>
+You just pay for the time to come
+
+<ICE-SIN:S1B-076#136:1:A>
+When he's 21 years old and you can take out the money
+
+<$B> 
+<ICE-SIN:S1B-076#137:1:B>
+Oh there is something now whereby even if my wife is
+diagnosed of illness or what you call death of disability I don't need to pay
+anymore
+
+<$A> 
+<ICE-SIN:S1B-076#138:1:A>
+Oh yah yah
+
+<$B> 
+<ICE-SIN:S1B-076#139:1:B>
+So uhm in fact what you share with me so far I think
+
+<ICE-SIN:S1B-076#140:1:B>
+<O> car honking </O>
+
+<ICE-SIN:S1B-076#141:1:B>
+Uhm well basically will meet my needs and my family
+
+<ICE-SIN:S1B-076#142:1:B>
+Well ah looks like John Hancock do provide some good products
+
+<ICE-SIN:S1B-076#143:1:B>
+I think ah I like to sign up ah for such a plan
+
+<ICE-SIN:S1B-076#144:1:B>
+<O> rustling of papers </O>
+
+<$A> 
+<ICE-SIN:S1B-076#145:1:A>
+Well I'm glad that uhm you wish to do that but just to
+reinstate do you understand so far what I've shared what I shown to you and
+illustrated to you
+
+<$B> 
+<ICE-SIN:S1B-076#146:1:B>
+Well ah so far uhm yes
+
+<$A> 
+<ICE-SIN:S1B-076#147:1:A>
+Ok Raymond so can I have your IC so that we can start the
+process of filling in the forms and uhm make the payment too
+
+<$B> 
+<ICE-SIN:S1B-076#148:1:B>
+Uhm Okay no problem here is my IC
+
+<$A> 
+<ICE-SIN:S1B-076#149:1:A>
+Uhm all right thank you
+
+<ICE-SIN:S1B-076#150:1:A>
+Well Raymond I'm very happy for you
+
+<ICE-SIN:S1B-076#151:1:A>
+Do you know that you've actually put your family first by getting
+these plans
+
+<ICE-SIN:S1B-076#152:1:A>
+Just to recap what you've signed up
+
+<ICE-SIN:S1B-076#153:1:A>
+You've got for yourself a plan that protects you a minimum of a
+hundred thousand if you faced premature death or upon diagnosis of any of the
+30 critical illnesses and if you are totally and permanently disabled to
+receive 20 per cent of the sum assured that is twenty thousand for the first
+year and subsequently the remaining eighty thousand on the second year
+
+<ICE-SIN:S1B-076#154:1:A>
+You will also be receiving an additional twenty thousand till the
+age of sixty five
+
+<ICE-SIN:S1B-076#155:1:A>
+Moreover any two children will be covered for ten thousand upon
+diagnosis of any of the critical illnesses
+
+<ICE-SIN:S1B-076#156:1:A>
+As for your son you will receive at least forty thousand after 20
+years even if you or your wife is not around or when you are diagnosed of any
+critical illnesses or if you are totally or permanently disabled
+
+<ICE-SIN:S1B-076#157:1:A>
+Be proud of yourself Raymond </I>

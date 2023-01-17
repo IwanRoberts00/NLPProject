@@ -1,0 +1,478 @@
+<I>
+
+<ICE-SIN:W2A-003#1:1>
+Contractual arrangements and communications in construction:
+
+<ICE-SIN:W2A-003#2:1>
+A Hypothetical Framework For Further Research
+
+<ICE-SIN:W2A-003#3:1>
+Dr Low Sui Pheng
+
+<ICE-SIN:W2A-003#4:1>
+School of Building and Estate Management National University of
+Singapore.
+
+<ICE-SIN:W2A-003#5:1>
+<h> INTRODUCTION </h>
+
+<ICE-SIN:W2A-003#6:1>
+The level of communications likely to be adopted by different
+operating units within the construction procurement system can be looked at
+through the linkages that exist between different operating units for any one
+project.
+
+<ICE-SIN:W2A-003#7:1>
+These linkages, which also determine the relationship between units,
+appear to be dependent on the contractual arrangements adopted.
+
+<ICE-SIN:W2A-003#8:1>
+The evolution of different contractual arrangements have been
+noticeable in recent years in the construction industry.
+
+<ICE-SIN:W2A-003#9:1>
+Numerous works pertaining to alternative modes of procurement have
+been published, drawing attention to the wide range of possible tendering
+procedures and contractual arrangements which can be adopted in the industry.
+
+<ICE-SIN:W2A-003#10:1>
+The traditional mode of procurement was believed to be appropriate
+only for the relatively simple construction of the past.
+
+<ICE-SIN:W2A-003#11:1>
+With the advent of new technologies, new requirements, increasingly
+sophisticated organisational structures and growing magnitude and size of
+projects, the traditional mode is now considered lacking to cope with the
+multiplicity of problems inherent of such a scenario.
+
+<ICE-SIN:W2A-003#12:1>
+This has given rise to other alternative arrangements.
+
+<ICE-SIN:W2A-003#13:1>
+From both the contractual and technical point of view, conventional
+risks in construction are implicitly linked to the criteria of time, cost and
+quality when agreed and specified requirements are not fulfilled.
+
+<ICE-SIN:W2A-003#14:1>
+These, in effect, sum up succinctly the background for articulating
+who and what is at risk.
+
+<ICE-SIN:W2A-003#15:1>
+Because this paradigm has been dealt with frequently and extolled by
+others elsewhere, it is not the intention here to partake in this debate
+further from this familiar perspective.
+
+<ICE-SIN:W2A-003#16:1>
+This paper essentially seeks to examine the communication risks
+between different types of contractual arrangements in construction and, in
+the process, hypothesize the various scenarios which may occur.
+
+<ICE-SIN:W2A-003#17:1>
+Communication risks in the context of this paper refer to the
+probability of a breakdown in communication between parties to a contractual
+arrangement.
+
+<ICE-SIN:W2A-003#18:1>
+It would appear that the more communication channels which a party to
+a contractual arrangement is subject to, then correspondingly, the associated
+communication risks will also become higher.
+
+<ICE-SIN:W2A-003#19:1>
+<h> CONTRACTUAL ARRANGEMENTS </h>
+
+<ICE-SIN:W2A-003#20:1>
+It is, however, not the objective of this paper to discuss in details
+the different types of contractual arrangements adopted by the construction
+industry suffice to say that these have seemed to develop as a result of
+increasing clients' demands.
+
+<ICE-SIN:W2A-003#21:1>
+Friedman ( 1984), for example, appears to suggest that the evolution
+of different contract strategies are fundamentally modifications made in the
+marketing direction to suit the clients' requirements.
+
+<ICE-SIN:W2A-003#22:1>
+In contrast, from a more conventional perspective, Smith ( 1984) has
+expounded on the time, cost and performance requirements of the client where
+considerable emphasis was placed on the quality, flexibility, adaptability
+and functional aspects of the structure under consideration.
+
+<ICE-SIN:W2A-003#23:1>
+The development of alternative contract strategies, which seems to
+have led to a consequential erosion of the traditional mode of procurement,
+revolves around a desire to both integrate thedesign and construction
+processes and to shorten the duration required for actual construction.
+
+<ICE-SIN:W2A-003#24:1>
+Because of the division between design and construction, critics have
+dismissed the traditional mode for its lack of efficiency.
+
+<ICE-SIN:W2A-003#25:1>
+Contractors, it has frequently been argued, should have a more active
+role to play during the design phase of a project.
+
+<ICE-SIN:W2A-003#26:1>
+Inputs of construction expertise to the designers' proposals at this
+stage would serve to avoid or reduce any unorthodox practices which do not
+match the clients' objectives in achieving value for money.
+
+<ICE-SIN:W2A-003#27:1>
+The separation of design from construction would mean that the
+designers are not avail of the opportunity to benefit from the contractors'
+expertise.
+
+<ICE-SIN:W2A-003#28:1>
+Without such a knowledge, it would be more difficult to synchronise
+appropriate design schemes with the contractors' abilities and available
+resources.
+
+<ICE-SIN:W2A-003#29:1>
+Contemporary contractual arrangements therefore seek to bridge the
+gap between design and construction.
+
+<ICE-SIN:W2A-003#30:1>
+Contractual arrangements which are commonly adopted in the
+construction industry are depicted in Figures 1 to 5.
+
+<ICE-SIN:W2A-003#31:1>
+The construction system is now disaggregated into five different
+modes of procurement, each of which will be considered shortly.
+
+<ICE-SIN:W2A-003#32:1>
+These are:
+
+<ICE-SIN:W2A-003#33:1>
+1) The traditional contract arrangement.
+
+<ICE-SIN:W2A-003#34:1>
+2) Design and build contract.
+
+<ICE-SIN:W2A-003#35:1>
+3) Construction management approach.
+
+<ICE-SIN:W2A-003#36:1>
+4) Project management approach, and
+
+<ICE-SIN:W2A-003#37:1>
+5) Management contracting.
+
+<ICE-SIN:W2A-003#38:1>
+To achieve hypothetical simplicity for examining communication risks,
+other procurement methods suggested by Masterman ( 1988) such as the Design
+and management contract, Package deal, Turnkey contract and the British
+Property Federation ( BPF) system will not be considered in this paper.
+
+<ICE-SIN:W2A-003#39:1>
+An attempt will be made in each of these five strategic types to show
+the conceptual relationships between the different operating units in
+communication terms.
+
+<ICE-SIN:W2A-003#40:1>
+Operating units are used here to denote the individuals or
+organizations who participate in any one contractual arrangement.
+
+<ICE-SIN:W2A-003#41:1>
+For clarity, the operating units in Figures 1 to 5 is hierarchically
+structured to show the flow of communication.
+
+<ICE-SIN:W2A-003#42:1>
+The number of operating units is only indicative of what may actually
+be encountered in real life.
+
+<ICE-SIN:W2A-003#43:1>
+Hence, while the label " consultant" includes the various independent
+professions within the construction industry, other operating units such as
+nominated and domestic suppliers will be annotated under the heading of "
+supplier".
+
+<ICE-SIN:W2A-003#44:1>
+Likewise, nominated, domestic and labouronly subcontractors as well
+as plant hiring firms were generally included under the heading of "
+subcontractor".
+
+<ICE-SIN:W2A-003#45:1>
+Regulatory and other government agencies acting on behalf of the
+authorities are not included in this hypothetical treatise.
+
+<ICE-SIN:W2A-003#46:1>
+Several other assumptions are also made in this hypothetical approach
+to conceptualising communication flows for the construction industry.
+
+<ICE-SIN:W2A-003#47:1>
+Firstly, for the reason of clarity mentioned above, each operating
+unit is considered within the context of only one individual contract.
+
+<ICE-SIN:W2A-003#48:1>
+This may not always be the case in practice as parties frequently
+find themselves operating spontaneously in several projects all at the same
+time.
+
+<ICE-SIN:W2A-003#49:1>
+Secondly, the client is explored in this paper as a single entity
+without any supporting specialisms from within.
+
+<ICE-SIN:W2A-003#50:1>
+Clients are therefore assumed to be less than knowledgeable and have
+to rely on outside consultants for advice to safeguard their interests.
+
+<ICE-SIN:W2A-003#51:1>
+A growing number of well-informed clients, particularly the larger
+ones and most public sector organizations, however, do have their own
+in-house professional employees with comparable, if not better, expertise
+than the external consultants.
+
+<ICE-SIN:W2A-003#52:1>
+Clients' in-house staff are therefore not considered here as well.
+
+<ICE-SIN:W2A-003#53:1>
+Lastly, by referring strictly only to operating units within each
+contractual arrangement, organisations outside of the contract proper in each
+hierarchical framework shown in Figures 1 to 5 are also excluded.
+
+<ICE-SIN:W2A-003#54:1>
+The client, especially one in the private sector, is assumed to have
+the requisite financial resources to fund a project.
+
+<ICE-SIN:W2A-003#55:1>
+This may not always be the case in practice because there are always
+instances where funds are engineered from some other sources such as banks
+and in the case of construction in the less developed countries,
+international lending agencies such as the Asian Development Bank and the
+World Bank.
+
+<ICE-SIN:W2A-003#56:1>
+The client's position in each mode of procurement may not therefore
+be absolute in that sense.
+
+<ICE-SIN:W2A-003#57:1>
+Some situations will always remain where the clients, consultants and
+contractors alike need to market the feasibility and viability of their
+respective undertakings to yet other organisations outside the institutional
+frameworks considered in this paper.
+
+<ICE-SIN:W2A-003#58:1>
+<h> INTERPRETATIONS </h> The structural relationships of each of the
+procurement modes shown in Figures 1 to 5 are quantified in Tables 1 to 5
+respectively.
+
+<ICE-SIN:W2A-003#59:1>
+This crude quantification process is carried out simply by physically
+counting the number of communication flows directed towards ( ie inflows) and
+away ( ie outflows) from each operating unit.
+
+<ICE-SIN:W2A-003#60:1>
+The primary and secondary communication flows are indicated in
+Figures 1 to 5 using normal arrowed lines and broken arrowed lines
+respectively.
+
+<ICE-SIN:W2A-003#61:1>
+The orgnisational hierarchy between various operating units, as
+determined by their economic and occupational orders, is also shown.
+
+<ICE-SIN:W2A-003#62:1>
+In the context of this paper, primary communication flows are defined
+as first-order priority activities directed by one operating unit towards
+another to achieve set marketing objectives.
+
+<ICE-SIN:W2A-003#63:1>
+Secondary communication flows, on the other hand, are defined as
+second-order priority activities directed by one operating unit towards
+another to achieve set marketing objectives.
+
+<ICE-SIN:W2A-003#64:1>
+First-order priority activities are marketing activities which are
+more concentrated, rigorous and intense than second-order priority
+activities.
+
+<ICE-SIN:W2A-003#65:1>
+The former is therefore aimed at prospective clients who have direct
+and substantial influence over purchasing decisions.
+
+<ICE-SIN:W2A-003#66:1>
+As a result, it would not be unreasonable to expect the flow of
+marketing efforts to be primarily from vendors to buyers, the intensity of
+which is dependent on the authority a prospective buyer commands and exerts
+in making purchasing decisions.
+
+<ICE-SIN:W2A-003#67:1>
+Marketing intensities therefore describe the spectrum of activities
+that lies between the first-order and second-order priorities.
+
+<ICE-SIN:W2A-003#68:1>
+Nevertheless, it should be noted that a high degree of subjectivity
+will inevitably be invoked if marketing intensities were to be determined and
+measured.
+
+<ICE-SIN:W2A-003#69:1>
+<h> THE TRADITIONAL ARRANGEMENT </h>
+
+<ICE-SIN:W2A-003#70:1>
+The client, consultant, main contractor, subcontractor and supplier
+are the operating units considered in this arrangement.
+
+<ICE-SIN:W2A-003#71:1>
+As noted above, the communication flows were directed expectedly from
+sellers to buyers of products and services as shown in figure 1.
+
+<ICE-SIN:W2A-003#72:1>
+Because the supplier is predominately concerned with marketing his
+products to the consultant, main contractor and subcontractor, there is an
+intense flow of primary communication in this direction.
+
+<ICE-SIN:W2A-003#73:1>
+On the other hand, secondary marketing efforts are also directed from
+the supplier to the client who nevertheless retains an influence over the
+selection and purchase of the supplier's product offerings.
+
+<ICE-SIN:W2A-003#74:1>
+The more pertinent observations which can be derived from this
+hypothetical scenario include the following: It may be unrealistic to assume
+that marketing efforts flow only from sellers to buyers.
+
+<ICE-SIN:W2A-003#75:1>
+Circumstances could arise where the reverse may also be true.
+
+<ICE-SIN:W2A-003#76:1>
+This would appear to be the case for both the main contractor and
+subcontractor where secondary marketing efforts are channelled towards the
+supplier for the purpose of securing extended credit terms.
+
+<ICE-SIN:W2A-003#77:1>
+This would, however, be unnecessary if the supplier operates in a
+competitive environment where attractive credit terms are adopted as a
+marketing tool in a buyer's market.
+
+<ICE-SIN:W2A-003#78:1>
+Marketing efforts may, therefore, follow a two-way flow.
+
+<ICE-SIN:W2A-003#79:1>
+These can either be inflows directed towards an operating unit or
+outflows directed away from an operating unit.
+
+<ICE-SIN:W2A-003#80:1>
+The higher an operating unit is within the contractual hierarchy, the
+more marketing efforts are likely to be directed towards it.
+
+<ICE-SIN:W2A-003#81:1>
+The client, as the supreme paymaster, will inevitably receive more
+primary and secondary inflows of marketing efforts than other operating
+units.
+
+<ICE-SIN:W2A-003#82:1>
+Table 1 is an attempt to quantify the intensities of marketing flow
+efforts for the traditional contract arrangement.
+
+<ICE-SIN:W2A-003#83:1>
+As can be seen in Table 1, a systemic balance has been maintained for
+both the inflows and outflows of both primary and secondary marketing
+efforts.
+
+<ICE-SIN:W2A-003#84:1>
+A total of 24 communication flows was generated.
+
+<ICE-SIN:W2A-003#85:1>
+Hypothetically, these represent the communication channels through
+which products and services are marketed.
+
+<ICE-SIN:W2A-003#86:1>
+It would generally appear that the more channels there are, the
+higher will be the risks of communication barriers or breakdowns and the
+greater the influence these will have on the marketing of one's products and
+services.
+
+<ICE-SIN:W2A-003#87:1>
+These general observations are also applicable for the other four
+approaches to project procurement.
+
+<ICE-SIN:W2A-003#88:1>
+<h> DESIGN AND BUILD CONTRACT </h> The operating units involved in
+this approach are the client, main contractor, consultant, subcontractor and
+supplier as shown in Figure 2, which is similar in many aspects to Figure 1
+except that the hierarchical roles of both the consultant and main contractor
+have now been reversed to account for the integration of both design and
+construction.
+
+<ICE-SIN:W2A-003#89:1>
+The number of communication flows generated remain at 24 ( see Table
+2).
+
+<ICE-SIN:W2A-003#90:1>
+<h> CONSTRUCTION MANAGEMENT APPROACH </h>
+
+<ICE-SIN:W2A-003#91:1>
+The client, consultant, construction manager, main contractor,
+subcontractor and supplier are the operating units involved in this approach
+in Figure 3.
+
+<ICE-SIN:W2A-003#92:1>
+The marketing flows are now less refined than the two previous
+arrangements.
+
+<ICE-SIN:W2A-003#93:1>
+This may be attributed to the additional role of the construction
+manager who now coordinates construction and design activities.
+
+<ICE-SIN:W2A-003#94:1>
+A reciprocal flow of secondary marketing efforts between the
+construction manager and the consultant is therefore inevitable.
+
+<ICE-SIN:W2A-003#95:1>
+The number of marketing flow activities has now increased to 36 ( see
+Table 3), an increase of 50% over the preceding two contractual arrangements.
+
+<ICE-SIN:W2A-003#96:1>
+An increase in the number of operating units within any procurement
+systems would therefore lead to a spontaneous increase in the overall level
+of marketing activities and communication flows. <X>
+
+<ICE-SIN:W2A-003#X97:1>
+<h> PROJECT MANAGEMENT APPROACH </h>
+
+<ICE-SIN:W2A-003#X98:1>
+The project management approach comprises of the client, project
+manager, consultant, main contractor, subcontractor and supplier.
+
+<ICE-SIN:W2A-003#X99:1>
+The number of operating units involved is similar to the
+construction management approach and remains at 6 ( see Figure 4).
+
+<ICE-SIN:W2A-003#X100:1>
+Similarly, the number of marketing flow activities remains
+unchanged at 36 ( see Table 4), again an increase of 50% over both the
+traditional as well as design and build arrangements.
+
+<ICE-SIN:W2A-003#X101:1>
+The reciprocal flow of secondary marketing efforts now prevails
+between the consultant and the main contractor.
+
+<ICE-SIN:W2A-003#X102:1>
+<h> MANAGEMENT CONTRACTING </h>
+
+<ICE-SIN:W2A-003#X103:1>
+This procurement mode involves the client, consultant, management
+contractor, subcontractor and supplier ( see Figure 5).
+
+<ICE-SIN:W2A-003#X104:1>
+The management contractor, in contrast to the main contractor under
+the traditional arrangement, now coordinates construction works with design
+activities.
+
+<ICE-SIN:W2A-003#X105:1>
+In their respective roles, there is now a reciprocal flow of
+secondary marketing efforts between the management contractor and the
+consultant.
+
+<ICE-SIN:W2A-003#X106:1>
+As indicated in table 5, the number of communication flows is now
+26.
+
+<ICE-SIN:W2A-003#X107:1>
+This represents an increase of about 8% over both the traditional
+and design and build arrangements, but yields a reduction of nearly 40% over
+both the construction management and project management approaches.
+
+<ICE-SIN:W2A-003#X108:1>
+Based on these hypothetical measurements, management contracting
+which generates 26 marketing flow activities appears to strike a balance
+between the two extremes which display a low scale of 24 and a high scale of
+36 respectively. </X> </I>

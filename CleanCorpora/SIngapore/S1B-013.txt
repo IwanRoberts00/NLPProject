@@ -1,0 +1,343 @@
+""
+""
+uhm you can collect them
+""
+settle down okay and let's begin
+""
+tay seow ming shocked at your marks is it
+""
+okay let's begin
+""
+good morn uh good afternoon class
+""
+""
+ greetings 
+""
+""
+sit down alright
+""
+now what we will do today for the first half hour or so is i want to
+uhm go through the answers alright for the assignment questions that are
+given to you okay
+""
+you all settle down please
+""
+alright the first assignment question was question five c
+""
+okay i think most of you manage to do this question but some of you
+well i don't know what to say here ah but anyway this is the answer right
+""
+now in the question five c you were asked whether a precipitate
+will form when the ph of a point 01 mole per dm cube solution of magnesium
+chloride is adjusted to ten
+""
+now in the previous tutorial i gave you this hint right
+""
+the hint the key word is supposed to be ph ten
+""
+that means your solution is alkaline
+""
+alkaline meaning that there is an excess of oh minus for hydroxide
+ion so you have to calculate your concentration of hydroxide ion alright and
+you do this using your poh value okay
+""
+so your concentration for hydroxide will be ten to the power minus
+four mole per dm cube
+""
+now why are you interested in this hydroxide ion concentration
+because there's a possibility that your ng two plus that comes from your
+magnesium chloride and your hydroxide can come together to form your white
+solid magnesium hydroxide as a precipitate okay
+""
+right so you are not concerned about magnesium chloride your
+concentration of chloride ions
+""
+you're more concerned about these two okay
+""
+so you have a concentration of hydroxide
+""
+you have a concentration of  word 
+""
+so what you do is you calculate the ionic product okay
+""
+uhm some mistakes are you forgot to raise your oh minus expression
+to the power of two okay
+""
+now anyway your ionic product will be this value which far exceeds
+your solubility product of magnesium hydroxide
+""
+therefore you can compute that uh precipitate  word
+ four okay
+""
+so for question five c right you cannot say that since magnesium
+chloride is a soluble salt no precipitate formed
+""
+you have to bear uhm bear in mind that it is an alkaline solution
+alright
+""
+any questions
+""
+no
+""
+okay question six question six right uhm for this one what you have
+is a saturated solution of hydrogen sulphide alright
+""
+now you are given a specific concentration of metal ion and a
+specific concentration of hydrochloric acid okay
+""
+so your metal ion it's concentration equals to one mole per dm cube
+alright
+""
+now your concentration of hydrochloric acid because this is a
+strong acid it will completely dissociate
+""
+so this will be equivalent to the amount of h plus that is present
+in solution which is zero point two five mole per dm cube okay
+""
+right
+""
+now what we have to do then is to calculate the sulphide ion
+concentration
+""
+you don't know how much of it there is
+""
+so what you have to do is you write up the expression okay that has
+been given to you you can copy this from your tutorial alright
+""
+now some of you make careless mistakes here you forgot to square
+your expression
+""
+right it's been given to you that it's h plus whole thing squared
+but you didn't do that right
+""
+now what value do you substitute inside since the majority of your
+h plus comes from your hcl you use point two five mole per dm cube okay
+""
+right
+""
+now from this you can solve for your sulphide ion concentration
+""
+right the value is one point seven six plus ten to the power of
+minus twenty-two mole per dm cube alright
+""
+now the next thing that is of concern to you will the ionic product
+alright exceed the ksp for your metal sulphide or will it be less than okay
+""
+because if it is less than there will be no precipitation okay
+""
+if it is greater than then a precipitate will form
+""
+now it's necessary that you put these two statements down whether
+it's greater than or it's less than alright
+""
+you cannot straight-away cons uh uhm conclude oh the ionic product
+is equal to a particular value that's all therefore such and such will
+precipitate out and such and such will not precipitate out
+""
+okay you must give me the inequality signs here so that at least i
+know you understand what you're working out and that you did not copy from
+somebody else alright
+""
+some of you had very obvious copying uh okay next time try to copy
+more intelligently modify your answers slightly
+""
+now what's your ionic product
+""
+okay your ionic product might be this multiplied by this okay
+""
+right and all you have to do is see whether this value exceed or is
+less than the ksp for that particular salt uhm sulphide whether it's cadmium
+manganese iron or nickel okay
+""
+now in this case you probably should get uhm which one uh
+""
+calcium sulphide and nickel sulphide being precipitated whereas
+manganese and uh iron is not precipitated out as a sulphide okay
+""
+right in question seven a you're dealing with silver chromate
+""
+now silver chromate uhm what you want to do is you want to form a
+saturated solution without any of the salt precipitating out okay
+""
+so what is the maximum concentration of ag plus that you can have
+right
+""
+now how do you calculate this this means that your ionic product
+for silver chromate must be exactly equal to ksp
+""
+okay because when your ionic product is exactly equals to ksp the
+solution is saturated but there is no precipitate being formed alright
+""
+so what happens to that uhm if you write out the equilibrium you
+know that for every one mole of silver chromate that dissociates two moles of
+h plus and one mole of chromate ion are formed alright
+""
+so if your solubility of sil uh silver chromate is s alright the
+amount of uh ag plus formed will be two s and the amount of chromate formed
+will be s moles per dm cube
+""
+so you equate the two concentrations to your ksp you calculate for
+s you should get six point three times ten to the power minus five
+""
+yes
+""
+pardon
+""
+thank you
+""
+alright now you go on to the next part it's not just enough to
+calculate solubility what you want is silver ion concentration alright which
+is twice the solubility of silver chromate
+""
+oh yes another thing uh most of you always forget to put the unit
+so i deduct half a mark each time you do that alright
+""
+so your silver plus concentration is that you want to express that
+in terms of grams per dm cube you multiply by the correct atomic mass okay
+""
+you should get zero point zero one three six gram per dm cube again
+watch your unit
+""
+now for seven b there was some confusion alright
+""
+what you want to do is in this system that contains silver plus ion
+and chromate ion you want to dissolve hcl alright but you want to dissolve
+the hcl in such a way that you have a saturated solution but no precipitate
+will form
+""
+now what is this precipitate that will form
+""
+the precipitate will be silver chloride
+""
+okay because hcl will dissociate in solution to give you the ions
+alright
+""
+so what you have again like i always say it's soup of ion
+""
+okay these two will not precipitate out just saturated
+""
+now what you want to know is how much of this hydrochloric acid can
+i add such that these two can be present in solution and will not come up as
+a solid precipitate okay
+""
+right
+""
+so most of you misunderstood the question you thought that oh it's
+a completely new system i'm using a new solution that contains just silver
+chloride
+""
+no
+""
+alright you're using the same solution as in part seven a with a
+new twist now your bubbly hcl into it alright
+""
+okay so how do you calculate this part the maximum amount of hcl
+that can be added
+""
+first you need to calculate the maximum chloride concentration that
+can be dissolved alright and the only way you can do this is to equate this
+with ksp for a saturated solution of silver chloride
+""
+now where did you get this silver plus from right silver plus from
+""
+your original solution containing silver and chromate and ion right
+""
+therefore your silver plus concentration is actually your answer to
+seven a okay
+""
+right
+""
+most of you equate oh silver plus equals chloride so you just put s
+and s so it's s square equals to ksp and you square it your whole expression
+you get your chloride concentration
+""
+no
+""
+alright
+""
+that is actually misreading the question okay
+""
+so your silver plus concentration you get from part seven a and
+from this you can calculate your chloride concentration which is a very small
+value uh
+""
+right seven point nine four times ten to the power of minus seven
+mole over dm cube can you all see this
+""
+you all are speaking the answer is it okay now for the next part
+alright uhm expressing your chloride in terms of concentration is not enough
+because the question asks you for the mass you know mass of hcl that can be
+dissolved in two hundred and fifty cm cube of the solution okay
+""
+so what you have to do is actually calculate the number of moles
+hcl that can be dissolved in two hundred and fifty cm cube alright
+""
+now you know that your chloride concentration is equivalent to your
+hydrochloric acid concentration
+""
+this is because hydrochloric acid will completely dissociate into
+ions okay
+""
+so therefore your hcl concentration will also be the same value
+right
+""
+and from there you use proportion to calculate the maximum mass of
+hcl in two hundred and fifty cm cube
+""
+right you just divide the answer by four and multiply by the
+molecular mass of hcl you get a very small value okay
+""
+okay seven point two seven times ten to the power minus six square
+alright
+""
+any of you all have any questions
+""
+yes
+""
+yes
+""
+no what you're talking about is ah you're confusing number of
+moles and concentration
+""
+now whether i have two hundred and fifty cm cube or or one
+thousand cm cube solution alright a saturated solution of silver chromate
+will always have the same concentration of silver ion but the number of moles
+present in two hundred and fifty cm cube and present in one thousand cm cube
+will be different okay
+""
+alright uhm now if you see in seven a okay what is the mass of ag
+plus in one dm cube of a saturate solution of silver chromate
+""
+alright now that means your answer will be gram for every one dm
+cube correct
+""
+isn't that another way of expressing concentration gram per dm
+cube okay
+""
+or rather you can say concentration is actually how many moles of
+silver plus in one dm cube
+""
+isn't that mole per dm cube
+""
+that's also ag plus concentration alright
+""
+so it's the number of moles in one dm cube
+""
+yes yes
+""
+ya oh no no no no if you read seven b ah what is the maximum mass
+of hydrogen chloride that can dissolve in two hundred and fifty cm cube of a
+saturated solution of silver chromate saturated solution of silver chromate
+and uh for seven b and seven a also saturated solution of silver chromate
+""
+so in both cases seven a and seven b one is one dm cube the other
+one is two hundred and fifty cm cube however both are saturated solution and
+therefore no matter what the volume you have for solution your concentration
+of silver plus is still is still the same because both solutions are the same
+it's just that you have different volumes of them 
+""
+however your number of moles of silver plus will be different
+there'll be more in the one thousand cm cube than in two hundred and fifty cm
+concentration is different what no there is no dilution you don't transfer or
+what you just use the same solution and you just bubble in hcl that's all
+okay alright any other questions none  

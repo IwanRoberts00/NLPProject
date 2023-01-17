@@ -1,0 +1,314 @@
+""
+26 march 1992 how progress helps you to downsize 
+""
+uh so come to uh this session
+""
+uh i'm joseph liew
+""
+i'm from base management system
+""
+we are the distributor for progress in singapore
+""
+uh graph sizing computing application from mainframe and
+microcomputers to pc lan is one of the hottest trend in uh corporate
+computing today
+""
+okay mis challenged by uh increasing cost pressure uh accelerating
+business changes and competition
+""
+uh we are also faced with technological change and complexity uh also
+shifting management structure
+""
+all these business uh pressures have actually forced mis to rely on
+either out outside what you call outsourcing or downsizing
+""
+and according to the recent survey sixty to seventy percent of
+fortune thousand companies are in the actively in downsizing project or plan
+to get started within the next twelve months
+""
+many companies are searching for low cost computing options and a
+desire to improve the flexibility of computing application
+""
+instead of running all uhm corporate application on mainframe or
+micro mis director now find that uhm there are many application that can run
+perfectly well on small computer connected in a network environment
+""
+a well-constructed uh network can house plenty of computing power
+today
+""
+uh the components of all these uh network configuration uh people are
+using things like personal computers workstation pass server database server
+""
+and it can be if you can uh appropriate size and then uh plug in or
+plug up uhm the environment you can make your application uh run very uh
+successfully according to the needs uhm it takes
+""
+okay you can plug in or out from the environment
+""
+moving uh application to smaller computer if you have done it
+correctly you can achieve the following:
+""
+one substantially uh lower the operation cost while improving
+flexibility
+""
+second enjoy the same computing power and benefit of a mainframe or
+microcomputer at only a fraction of cost
+""
+you can also realize greater flexibility when it comes to development
+support and ongoing maintenance
+""
+you have at your disposal more flexible tool for development and
+support and also more scaleable platform for ongoing maintenance
+""
+move away you can also move away from uh this what call 
+word  computing boxes towards more open or at least uh reusable
+hardware
+""
+in some cases the server of today uh can be downsized to the
+workstation end-user workstation of tomorrow
+""
+another key to im uh improving flexibility of system is the movement
+away from the third generation development languages like cobol or c
+""
+okay so uh you are i i believe uh all of you come to this show uh you
+have more or less decided to adopt downsizing as a company strategy to
+improve your practical advantages and better leverage your information
+investment
+""
+now the challenge is uh you is on you as to how you should take
+application that were mainframe or microcomputer and uh orientated uh and
+bring it down to a uh low-end uh pc lan environment
+""
+downsizing doesn't uh equate to a reducing software development time
+and cost uh at least not automatically
+""
+uh creating software for a downsized system can entail significantly
+higher cost than for a mainframe environment especially if it's done with a
+third generation language traditionally used to develop large mainframe
+software like cobol or c
+""
+because such languages assume that an application will run on a
+single computer
+""
+they do not directly support distribution or processing and data over
+her heterogeneous network of geographically dispersed computers
+""
+the principal requirement for most application running in a downsized
+environment
+""
+consequently using a third generation language to downsize
+application entail designing and coding support for network computing into
+the application software itself which is a also a major ah undertaking
+""
+so is manager under pressure to downsize need a more powerful breed
+of uh application development tool
+""
+you need an effective downsizing environment that meets the combined
+requirements of integrity and reliability security and straightforward setup
+and maintenance
+""
+you need support from two for planning and design
+""
+that's why uhm we are trying to uh introduce you progress how
+progress can actually help you to solve the increasing business pressure in
+terms of lower the cost adapting to change business change and uh supporting
+machine uh of management structures
+""
+okay let me bring you uh to progress uh product itself
+""
+progress actually offer the complete uh application development
+system
+""
+progress has got its own fourth   4  gl with sql we also have a fast
+track what you call is a application user can actually paint screen uhm
+create menu and adhoc reports using this uh fast track
+""
+progress also had its own data dictionary and its own relational
+database
+""
+this uh progress fourth   4  gl actually is a very elegant procedural
+and now you can create procedural and non-procedural statements uh if you are
+uh using the default or the uh progress command uh you can actually uh cut
+short a lot of development time uh
+""
+inside this uh there is a enter where it will do the normal syntax
+checking for you uh while you are phototyping your application
+""
+you also have a on-line help facility within the enter
+""
+you can do what are like key-stroke level programming control
+""
+uh progress also support old uh sql and you are writing any uh things
+to communicate with your hardware uh  word  peripheral if
+you require to use c to do the communication or whatever
+""
+progress do support uh c interface for this special purpose
+""
+progress actually give you a high level support for many tasks common
+to transaction processing and information access such as database
+manipulation and screen and report processing enables creation of downsized
+application in a fraction of a time required inverted g
+""
+if you are a this uh fast track is actually a menu-driven application
+user which is very ideal for uh rapid phototyping you can paste screens
+design menu and reports
+""
+it can also perform uh ad-hoc database query and the fast track
+itself is actually written uh on progress
+""
+so uh whatever things you you are making use to do it will generate
+the reusable fourth   4  gl code for you
+""
+so you can actually make use of this fourth   4  gl code and uh bring
+it in and cut and paste into your application procedure and you can save this
+uh course in the library and as and when you can uh bring this out to uh cut
+and paste or do some modification to suit your application requirement
+""
+progress also support development of uh application distributed
+across heterogeneous computer networks
+""
+uh it automatically handle uh the distributed processing such as uh
+communication re re remote processes and accessing the ah store in uh other
+computer and progress actually support hundreds of uh hard hardware
+""
+uh we also support the operating system like dos os/2 uh in respaced
+kind of system running unix or os/2
+""
+you have also uhm workstation running unix or bms
+""
+all those uh application that is developed using progress fourth   4)
+gl you can actually port it over to any of these supported platform without
+having to change any the user interface and so on
+""
+uh actually are identical across all the platforms
+""
+in this occasion uh you can easily uh plug on or unplug the uh system
+from this network as and when uh you know information needs to  word
+""
+""
+progress has got its own interactive data dictionary which allow you
+to uh control things like file and field validation
+""
+this is very good for you to uh make use to uh checking input
+validation rules
+""
+it also support uh password only
+""
+authorized uh user can then access to these uh field level and it
+also provide database uh trigger to ensure specific processing on key events
+""
+other than that uh in the dictionary itself you also can store the
+gateway information to alternate database
+""
+for instance you may have uh other databases uh not uh third party
+one not support uh it will be sup it's uh supported by program like oracle
+rdd ims ci etceteras
+""
+okay uh you also can store the what you call network protocol
+information within the data dictionary itself
+""
+the data dictionary will then dynamically connect or disconnect uhm
+to all databases required by your application
+""
+if you do not  word  to uh have any uh transaction
+over the other databases uh progress will disconnect it for you so that you
+will enhance the power and other things like uh it will host the 
+word  import and also the export facility within this uh data
+dictionary
+""
+progress has a uh its own relational database
+""
+this actually eliminates the need to acquire or develop sep separate
+rddms interface routine and assure that application written in progress
+fourth   4  gl are able to use all of the features of the rddm ms
+""
+you can uh access from the environment menu alone with the source
+code editor compiler debugger and other tools
+""
+this will speed compiler development our database and the program
+that will use those databases
+""
+uh second it can it also provide capability to safeguard uh against
+system as well as human failure
+""
+one uh to prevent corruption of the database as a result of system
+failure data roll back is provided automatic uh purging from the database of
+all transaction left incomplete by a system failure
+""
+the next function is to uh guard against non-recoverable disk failure
+""
+you have things like roll forward can be uh you can enable locking or
+transaction to a second disk in the event of main disk uh fail the system can
+recreate the database by merging the transaction uh with the last archive uh
+copy of the database
+""
+in this relational database we also support things like uh flexible
+uh record locking control
+""
+we have uh we support multi  word  server for high
+performances you can connect say uh up to two hundred and forty databases and
+uh you have you can have transaction like two thousand four hundred and
+seventy eight records update simultaneously within the database
+""
+you can have uh things like on-line data backup
+""
+uh progress also support two face  word  this is
+for distributed database  word  and there are tool
+provided to you for performance monitoring and  word 
+""
+progress also uh support client server uh architecture
+""
+progress soft fourth   4  gl signif signifying the uh simplify the
+development of dispersed application possible by implementing a client server
+distributed computer model utilizing built-in protocol for co-ordination
+""
+a client server model actually divide an application into two types
+of uh co-operating tasks: one those specific to the application and those
+common to a group of application
+""
+a server perform the common task at the request of a client task and
+a client server model actually has uh several advantages:
+""
+one it allow client to be developed uh independently of servers and
+reduce development time by eliminating
+""
+one needs to write codes for those tasks handled by the server second
+client server model also support distributed processing by dividing an
+application into segments that can run on different processor or computers as
+long as communication can be established between them
+""
+a server for a database used by multiple application can run on a
+time-shared central computer with a client running on workstation connected
+to time-shared system via a local area network
+""
+such as uh such a configuration preserve the central control
+advantages of mainframe environment while offering uh loading application
+specific processing onto low-cost workstations
+""
+these are all the uh operating systems supported by progress
+""
+uh you can address dms ms-dos unix xenix altrix ais aus 
+word 
+""
+right now progress also uh support uh as four hundred the os four
+hundred uh okay
+""
+the application regardless where you develop the source from whether
+is it uh dos single-user or  word  system the source code
+where you are plotting to the next operating system or platform you do not
+have to rewrite any single code
+""
+progress also provide uh connectivity across all the standard uh
+network protocol such as netbio pcpip  word  net spx ibx
+or os5 
+""
+you can actually uh distribute your database across uh all other
+platforms when you are running the application progress the will 
+word  will uh automatically point to you where the data is and you
+go and retrieve and access the data on the database regardless where it is
+stored progress databases uh can be can also be independent i mean those
+fourth   4  gl uh application developed using progress can access to ei
+either progress or to other databases like oracle rdd or ims progress also uh
+give you uh robust gateway uh besides the progress oracle ims rdd uh right
+now we can also support the ci  word  and uh 
+word  will be uh releasing very soon  

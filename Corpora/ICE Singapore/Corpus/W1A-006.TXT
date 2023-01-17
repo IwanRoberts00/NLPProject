@@ -1,0 +1,446 @@
+<I>
+
+<ICE-SIN:W1A-006#1:1>
+<h> An appraisal of the Consonant Interface system </h> <h> 1.
+Preliminary comments </h> <h> 1.1 The purpose of this report </h>
+
+<ICE-SIN:W1A-006#2:1>
+The purpose of this report is twofold: first, it seeks to explain why
+simply augmenting the coverage of the components of the present Consonant
+Interface will not overcome the weaknesses of the system, and second, it
+proposes solutions for building a better interface. <h> 1.2 Parameters of the
+appraisal </h>
+
+<ICE-SIN:W1A-006#3:1>
+As we will see in the following sections, three components of the
+Consonant Interface will be discussed.
+
+<ICE-SIN:W1A-006#4:1>
+They are the linguistic component, the domain component, and the
+generator.
+
+<ICE-SIN:W1A-006#5:1>
+As the latter two do not at present exist in the system ( the role of
+the generator is played by a simple displayer, quite unequal to the
+generator), less will be said about them than about the linguistic component,
+the dissection of which forms the main part of this report.
+
+<ICE-SIN:W1A-006#6:1>
+<h> 2. A dissection of the Consonant Interface </h>
+
+<ICE-SIN:W1A-006#7:1>
+The present interface is a highly simplified version of a prototype
+interface.
+
+<ICE-SIN:W1A-006#8:1>
+For ease of comparison, the flow-charts of both interfaces are
+reproduced below.
+
+<ICE-SIN:W1A-006#9:1>
+Figure 1 shows the flow-chart of a prototypic NL-interface, while
+Figure 2 shows the flow-chart of the Consonant Interface.
+
+<ICE-SIN:W1A-006#10:1>
+Figure 1.
+
+<ICE-SIN:W1A-006#11:1>
+Figure 2
+
+<ICE-SIN:W1A-006#12:1>
+The three main simplifications seen in the Consonant Interface are (
+i) the merging of the parser with the linguistic component, ( ii) the lack of
+a domain component, and ( iii)the reduction of the generator to a simple
+displayer.
+
+<ICE-SIN:W1A-006#13:1>
+We will look at each of these parts in detail.
+
+<ICE-SIN:W1A-006#14:1>
+<h> 2.1 The linguistic component </h>
+
+<ICE-SIN:W1A-006#15:1>
+As mentioned earlier, the linguistic component is merged with the
+parser in the present system.
+
+<ICE-SIN:W1A-006#16:1>
+While this is not exactly a fault, it might be cleaner to encode the
+linguistic knowledge and the domain knowledge used be the parser in two
+separate components apart for the parser.
+
+<ICE-SIN:W1A-006#17:1>
+This is because, strictly speaking, the parser is an intermediary
+component which translates a NL input into a fomula in a formal language, and
+whatever linguistic or domain knowledge it utilises is not part of itself.
+
+<ICE-SIN:W1A-006#18:1>
+Also, if we include a generator which utilises the same linguistic
+and domain knowledge, it would be very strange indeed to see the generator
+consulting the parser for such knowledge!
+
+<ICE-SIN:W1A-006#19:1>
+A more important concern is what is in the linguistic component.
+
+<ICE-SIN:W1A-006#20:1>
+The linguistic component consists of a grammar and a lexicon.
+
+<ICE-SIN:W1A-006#21:1>
+The choice of grammar used is crucial to the ability of the
+interface.
+
+<ICE-SIN:W1A-006#22:1>
+Note that the word 'interface' has been used instead of 'parser'.
+
+<ICE-SIN:W1A-006#23:1>
+This is because the generator ( which we would like to have in our
+new, improved interface) also makes use of the linguistic component, and " in
+a dialog system, it could be logical to select a reversible grammar for both
+analysis and generation" ( Mitkov: 1991,308).
+
+<ICE-SIN:W1A-006#24:1>
+<h> 2.1.1 The present grammar used </h>
+
+<ICE-SIN:W1A-006#25:1>
+At present, the grammar used is a phrase structure ( PS) one, and
+when the parser is activated, the input goes through " conventional syntactic
+parsing from surface sentences to hierarchical ( tree-like) constituents" (
+Wilks:1983,219).
+
+<ICE-SIN:W1A-006#26:1>
+The parsing process is based purely on syntax and nothing else.
+
+<ICE-SIN:W1A-006#27:1>
+While this may work perfectly in checking the syntactic
+well-formedness of an input sentence, it reflects the fact that the
+linguistic theory on which it is based relies on a non-semantic approach to
+linguistic study ( Course notes, 119).
+
+<ICE-SIN:W1A-006#28:1>
+This is a problem discussed quite in detail in Wilks ( 1983), where
+he examines the distinctions between superficial and deep parsing.
+
+<ICE-SIN:W1A-006#29:1>
+It is important to note that from the onset, Wilks considers that "
+deep-surface opposition has nothing essentially to do with the opposition of
+syntax to semantics" ( Wilks:1983,220).
+
+<ICE-SIN:W1A-006#30:1>
+This means that it would be too simplistic, and even wrong, to
+consider a parser as superficial or deep just by looking at whether it is
+based on syntax or semantics.
+
+<ICE-SIN:W1A-006#31:1>
+In fact, if our interface is to model natural languages and the way
+the human mind analyses ( parses) and generates sentences, it would require
+both semantics as well as syntax.
+
+<ICE-SIN:W1A-006#32:1>
+The point to note is that many linguists ( and the number is growing)
+believe that in analysing or generating sentences, the human brain looks
+first at what is being ( or is to be) communicated rather than how it is
+being ( or is to be) communicated.
+
+<ICE-SIN:W1A-006#33:1>
+Hence, " the purpose of grammars is not to give rules which associate
+PS-structures with sentences but, rather, rules which explain how to
+associate a syntactic structure with a semantic structure" ( Course notes,
+119).
+
+<ICE-SIN:W1A-006#34:1>
+Before we look into the deep-superficial system opposition, Let us
+look at an alternative 'superficial' parsing method using a more
+semantics-based grammar - dependency grammar.
+
+<ICE-SIN:W1A-006#35:1>
+<h> 2.1.2 Dependency grammars: an alternative to PS-approaches </h>
+
+<ICE-SIN:W1A-006#36:1>
+In a dependency grammar ( DG), the syntactic structure of a
+linguistic utterance is not based on rules as in PS-grammars.
+
+<ICE-SIN:W1A-006#37:1>
+Instead, the syntactic structure is a system of Links between words.
+
+<ICE-SIN:W1A-006#38:1>
+These links, called syntactic dependencies, are very similar to the
+grammatical functions in traditional grammar.
+
+<ICE-SIN:W1A-006#39:1>
+What is important to note is that these dependencies are not based on
+rules of syntax but on the meaning of the words and the knowledge of how
+their relationship to each other.
+
+<ICE-SIN:W1A-006#40:1>
+Hence, " this type of approach does not only make it easier to
+Connect syntax with semantics, IT AIMS AT ESTABLISHING SUCH CONNECTIONS" (
+Course notes,123).
+
+<ICE-SIN:W1A-006#41:1>
+<h> 2.1.3 The deep-superficial parsing opposition </h>
+
+<ICE-SIN:W1A-006#42:1>
+The dependency grammar talked about in the previous section was
+described as 'superficial' because, according to Wilks' criteria of
+superficiality, a parser using a DG would have in its output items that are
+those of the surface language ( input) analysed.
+
+<ICE-SIN:W1A-006#43:1>
+For example, an input sentence like " The girl likes the blond-haired
+boy", when parsed, would become:
+s(LIKE:[v,sing],['Subject',GIRL:[cn,sing],['Determiner',
+THE:[art],'Qualifier',...:[],['Direct Object', Boy:[cn,sing], 'Determiner',The:[art],'Qualifier',BLOND-HAIRED:[adj]),
+and the lexemes LIKE, GIRL, THE etc are essentially the same words/items
+found in the input sentence, unlike, for example, the semantic representation
+of 'girl' as [ Female, Young], or something like that.
+
+<ICE-SIN:W1A-006#44:1>
+The tendency for one to think that a deep system is superior to a
+superficial one is perhaps an unfortunate one perpetuated by the connotations
+of the words deep and superficial themselves.
+
+<ICE-SIN:W1A-006#45:1>
+While there are systems that are completely superficial ( as the
+PS-parser in the Consonant Interface has proven), the existence of a
+completely deep system lies more in theory than in practice, if Wilks'
+criteria for superficiality are to be observed.
+
+<ICE-SIN:W1A-006#46:1>
+In his discussion of deep parsers, Wilks says of Riesbeck's 1975
+parser ( 'A paradigm deep system') that " the system is highly
+superficial...it is verbs that seek prepositions...rather than basic actions
+seeking cases.
+
+<ICE-SIN:W1A-006#47:1>
+This surface method naturally makes it hard to state 'significant
+semantic generalizations', and is particularly odd in a parser that claims to
+be based on Schank who abhorred all processing based on surface correlations"
+( Wilks:1983,228).
+
+<ICE-SIN:W1A-006#48:1>
+Of his own deep system, Wilks comments that " the process of matching
+such structures onto input text begins with fragmentation, a purely
+superficial process..." ( Wilks:1983,232).
+
+<ICE-SIN:W1A-006#49:1>
+He then goes on to talk about the system PHRAN by Wilensky and Arens
+1908, and says " it is deep in that it aims to produce a meaning
+representation direct from English text without passing through a syntax
+analysis...However, Wilensky and Arens do make claims about how to get to the
+representation, and these include considerations we have called superficial"
+( Wilks:1983,235).
+
+<ICE-SIN:W1A-006#50:1>
+Wilks has been quoted at length here not so much to lengthen this
+section as to support the point made that a completely deep system is quite
+impossible.
+
+<ICE-SIN:W1A-006#51:1>
+If we were to examine the three quotes, we will see that all three
+systems are superficial on the basis of method, and it is almost always at
+the onset of the parsing process.
+
+<ICE-SIN:W1A-006#52:1>
+This very likely means that no matter how deep a system may be ( or
+claim to be), it cannot escape being superficial at least in the beginning
+phase.
+
+<ICE-SIN:W1A-006#53:1>
+<h> 2.1.4 A proposal for a better linguistic component </h>
+
+<ICE-SIN:W1A-006#54:1>
+The quest for deep rather than superficial systems lies in the
+assumption that the human mind is a deep system.
+
+<ICE-SIN:W1A-006#55:1>
+We have argued above that no system can be completely deep.
+
+<ICE-SIN:W1A-006#56:1>
+From these two premises, we may conclude that what we want is a
+system that may have superficial elements in the method of parsing, but is
+essentially deep in its philosophy.
+
+<ICE-SIN:W1A-006#57:1>
+Its basis should be semantics, but syntax should not be discounted as
+a possible starting point in the parsing process.
+
+<ICE-SIN:W1A-006#58:1>
+It can easily be proven that the human mind takes information in
+little chunks, and these chunks more often than not correspond to syntactic
+structures that are complete in themselves ( constituents, eg NP, PP etc).
+
+<ICE-SIN:W1A-006#59:1>
+For example, the message " John gave Mary a rose for Valentine's Day"
+may be decoded as:
+
+<ICE-SIN:W1A-006#60:1>
+John - gave - Mary - a rose - for Valentine's Day NP V NP NP PP PersA
+Action PersB Thing Reason
+
+<ICE-SIN:W1A-006#61:1>
+ie Person A carries out Action which affects Person B using Thing
+because of Reason.
+
+<ICE-SIN:W1A-006#62:1>
+The message will very unlikely be decoded as:
+
+<ICE-SIN:W1A-006#63:1>
+John gave - Mary a - rose for Valentine's - Day because this way of
+fragmenting the sentence does not correspond to the way the human brain takes
+in information, and it is interesting to note that the fragments also do not
+correspond to any grammatical constituents.
+
+<ICE-SIN:W1A-006#64:1>
+Since we understand natural language by breaking up larger bits into
+smaller ones, we could have a system that does the same thing.
+
+<ICE-SIN:W1A-006#65:1>
+At the deep level of understanding, Wilks' system might serve as our
+model.
+
+<ICE-SIN:W1A-006#66:1>
+His idea, in a nutshell, is to fragment an input text according to
+key words, match these fragments to all possible templates ( which are
+fundamental units of meaning representation that model the intuitive
+processes of the human mind), compare competing templates, and finally decide
+on the most densely packed block of templates as the perfect representation
+of the input text.
+
+<ICE-SIN:W1A-006#67:1>
+This sounds very complicated, and in fact, its latter steps do not
+really model how our brains work.
+
+<ICE-SIN:W1A-006#68:1>
+A point of criticism is that we do not process all possible ways of
+interpreting a sentence before deciding on one.
+
+<ICE-SIN:W1A-006#69:1>
+We normally hit on one and stick to that interpretation until we are
+proven wrong, and then we 'backtrack' and try again.
+
+<ICE-SIN:W1A-006#70:1>
+Hence, our system might be as follows:
+
+<ICE-SIN:W1A-006#71:1>
+Step 1: Fragment input text according to syntactic constituents (
+perhaps using the syntactic dependency system in dependency grammar)
+
+<ICE-SIN:W1A-006#72:1>
+Step 2: Match fragments to best possible template.
+
+<ICE-SIN:W1A-006#73:1>
+The best possible part may be taken care of by the 'pragmatic' domain
+component ( how this is to be done, I haven't the faintest idea)
+
+<ICE-SIN:W1A-006#74:1>
+Step 3:Output is representation of the input text ( ! )
+
+<ICE-SIN:W1A-006#75:1>
+If proven otherwise, backtrack to Step 2
+
+<ICE-SIN:W1A-006#76:1>
+<h> 2.2 The domain component </h>
+
+<ICE-SIN:W1A-006#77:1>
+This component encodes domain knowledge, that is, knowledge on how an
+input sentence should be interpreted or generated relative to non-linguistic
+information.
+
+<ICE-SIN:W1A-006#78:1>
+The main reason for having this component is " so that there is a
+clear distinction between its understanding/generative capabilities which
+rely strictly on linguistic knowledge and those which rely on domain
+knowledge" ( Course notes, 105).
+
+<ICE-SIN:W1A-006#79:1>
+The domain component would hence take care of the pragmatic aspects
+of language.
+
+<ICE-SIN:W1A-006#80:1>
+How exactly this component is to be built is way beyond the scope of
+this report ( and I suspect, my abilities), but we might say that probably a
+separate lexicon, similar to the one in the linguistic component, will be
+necessary, and that each lexical entry will have all the essential pragmatic
+interpretations relevant to the database encoded on it.
+
+<ICE-SIN:W1A-006#81:1>
+We see some sort of domain knowledge at work in the logical evaluator
+of the present interface.
+
+<ICE-SIN:W1A-006#82:1>
+The interpretation of a yes-no query for this particular database
+gives only yes or no answers.
+
+<ICE-SIN:W1A-006#83:1>
+This is because there are no grey areas in the queries that can be
+asked.
+
+<ICE-SIN:W1A-006#84:1>
+Something is either A or not-A.
+
+<ICE-SIN:W1A-006#85:1>
+For example, the query " Is p a stop?" necessarily gives yes as the
+answer.
+
+<ICE-SIN:W1A-006#86:1>
+It could very well be no, but never anything else, like 'maybe' or 'sometimes'
+etc.
+
+<ICE-SIN:W1A-006#87:1>
+The range of answers in this sense is determined pragmatically and
+not linguistically.
+
+<ICE-SIN:W1A-006#88:1>
+<h> 2.3 The generator </h>
+
+<ICE-SIN:W1A-006#89:1>
+There is NO generator in the present Consonant Interface.
+
+<ICE-SIN:W1A-006#90:1>
+A simple displayer takes its place, and it serves the purpose of
+displaying the answer to the queries fed into the system. <X>
+
+<ICE-SIN:W1A-006#X91:1>
+A real generator, however should be able to piece together bits of
+abstract data from the database and construct them into a logical, coherent
+text.
+
+<ICE-SIN:W1A-006#X92:1>
+Just like in text analysis ( parsing), text generation also takes
+place in steps.
+
+<ICE-SIN:W1A-006#X93:1>
+First we must consider what we want to say ( ie data retrieved from
+the database), when to say it ( ie the order in which the data is to be
+presented), and finally, how to say it.
+
+<ICE-SIN:W1A-006#X94:1>
+McKeown ( 1985) discusses this, and proposes that language
+production be divided into two phases.
+
+<ICE-SIN:W1A-006#X95:1>
+" In the first phase, the content and structure of the discourse is
+determined.
+
+<ICE-SIN:W1A-006#X96:1>
+The component embodying this phase is termed the 'strategic'
+component...The second, the 'tactical' component, uses a grammar to translate
+the message into English" ( McKeown:1985,5).
+
+<ICE-SIN:W1A-006#X97:1>
+It is interesting to note that in parsing one moves from syntax to
+semantics, while in generation, one moves in the opposite direction, ie from
+semantics to syntax.
+
+<ICE-SIN:W1A-006#X98:1>
+As for the domain component, the building of the generator is beyond
+the scope of this essay, and so nothing more will be said about it.
+
+<ICE-SIN:W1A-006#X99:1>
+<h> 3. Concluding remarks </h> We have seen that the Consonant
+Interface in its present state is inadequate.
+
+<ICE-SIN:W1A-006#X100:1>
+We have also seen that merely augmenting it will not solve the
+problem; a complete overhaul of the linguistic component, along with the
+inclusion of a proper, separate domain component, and a generator that can
+generate texts based on data from the database rather than just displaying
+the answer to queries are needed. </X> </I>

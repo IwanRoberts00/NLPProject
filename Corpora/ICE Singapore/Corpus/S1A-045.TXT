@@ -1,0 +1,900 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1A-045#1:1:A>
+Peck Chuan uh
+
+<$B> 
+<ICE-SIN:S1A-045#2:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1A-045#3:1:A>
+So what's your comment about tomorrow's meeting
+
+<$B> 
+<ICE-SIN:S1A-045#4:1:B>
+Tomorrow ah
+
+<ICE-SIN:S1A-045#5:1:B>
+Ah tomorrow we're having our staff meeting and I hope Dr Teo can uh
+let us know our future direction clearer
+
+<ICE-SIN:S1A-045#6:1:B>
+Because uhm I think we're thinking of moving into a lot of new areas
+but uhm we must have a clear direction and clear commitment from the
+management
+
+<ICE-SIN:S1A-045#7:1:B>
+Otherwise is a bit difficult for people like us at the bottom
+
+<$A> 
+<ICE-SIN:S1A-045#8:1:A>
+So uhm is is the restructuring of the organisation affecting
+you anyway
+
+<$B> 
+<ICE-SIN:S1A-045#9:1:B>
+Uhm ya talking about this restructuring
+
+<ICE-SIN:S1A-045#10:1:B>
+Actually I haven't gone through the the the whole structure what's
+it's going to be like
+
+<ICE-SIN:S1A-045#11:1:B>
+Because this morning I don't have time to read the thing and the
+last meeting I wasn't there
+
+<ICE-SIN:S1A-045#12:1:B>
+But from what I know is for our team uhm we won't be affected that
+much because you know next time when our our side merge with your your team
+
+<$A> 
+<ICE-SIN:S1A-045#13:1:A>
+Ya
+
+<$B> 
+<ICE-SIN:S1A-045#14:1:B>
+We're going to merge right
+
+<$A> 
+<ICE-SIN:S1A-045#15:1:A>
+In July
+
+<$B> 
+<ICE-SIN:S1A-045#16:1:B>
+Uhm and then I think some for our side our people uh will be
+mainly doing the the back back end work uh whereas talking to users would be
+more from your your side and I I <unclear> word </unclear>
+
+<$A> 
+<ICE-SIN:S1A-045#17:1:A>
+You mean that kind of thing including the three major
+departments
+
+<$B> 
+<ICE-SIN:S1A-045#18:1:B>
+Which three
+
+<$A> 
+<ICE-SIN:S1A-045#19:1:A>
+Like Bursar's and so on
+
+<$B> 
+<ICE-SIN:S1A-045#20:1:B>
+Ya ya ya
+
+<$A> 
+<ICE-SIN:S1A-045#21:1:A>
+We'll be the frontline
+
+<$B> 
+<ICE-SIN:S1A-045#22:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1A-045#23:1:A>
+For all all the <unclear> word </unclear>
+
+<$B> 
+<ICE-SIN:S1A-045#24:1:B>
+I I I'm not so sure exactly how they're going to uh divide the
+work lah but from what I know it's uhm uhm people like Diane myself Shuefen
+
+<ICE-SIN:S1A-045#25:1:B>
+They all will be doing development work and then when users have
+problem they won't call us directly they will call I don't know who from your
+side would be but I think you're one of them uhm when the printer got problem
+they call you
+
+<$A> 
+<ICE-SIN:S1A-045#26:1:A>
+You mean you mean normal problem
+
+<ICE-SIN:S1A-045#27:1:A>
+What I'm referring to is those uhm as I said uh the accounting
+system you know
+
+<$B> 
+<ICE-SIN:S1A-045#28:1:B>
+Ya so if if there is any of uh any problems that belongs to
+say say a particular application ah they will still go to the frontline
+people and if those people cannot solve it then they will channel back to the
+back up people
+
+<$A> 
+<ICE-SIN:S1A-045#29:1:A>
+Oh I see
+
+<$B> 
+<ICE-SIN:S1A-045#30:1:B>
+So because uh if say right now uh if the user say our user the
+account user they they printer got problem they will still call us you know
+
+<$A> 
+<ICE-SIN:S1A-045#31:1:A>
+Uhm uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-045#32:1:B>
+But next time this one should be solved by the <unclear> word
+</unclear>
+
+<$A> 
+<ICE-SIN:S1A-045#33:1:A>
+What you mean is that uhm we'll sort of act as a buffer
+
+<$B> 
+<ICE-SIN:S1A-045#34:1:B>
+Uh the interface uh
+
+<$A> 
+<ICE-SIN:S1A-045#35:1:A>
+Solve the the minor minor problems we'll solve
+
+<ICE-SIN:S1A-045#36:1:A>
+But when it comes to a more the more specialised programmes we'll
+look you'll look into that
+
+<$B> 
+<ICE-SIN:S1A-045#37:1:B>
+Ya I think for you guys uh I think you'll still be involved in
+some development work lah
+
+<ICE-SIN:S1A-045#38:1:B>
+But I think most of the time you're attending to user
+
+<$A> 
+<ICE-SIN:S1A-045#39:1:A>
+I hope not because it's supposed to be twenty twenty per cent
+the most
+
+<$B> 
+<ICE-SIN:S1A-045#40:1:B>
+Ha
+
+<$A> 
+<ICE-SIN:S1A-045#41:1:A>
+Am I right
+
+<ICE-SIN:S1A-045#42:1:A>
+And uh I think we'll be also involved development work
+
+<$B> 
+<ICE-SIN:S1A-045#43:1:B>
+Ah
+
+<$A> 
+<ICE-SIN:S1A-045#44:1:A>
+For me is uh postgrad schools ya and that's already a lot of
+maintenance actually
+
+<$B> 
+<ICE-SIN:S1A-045#45:1:B>
+You expect to get other project
+
+<$A> 
+<ICE-SIN:S1A-045#46:1:A>
+Ya ya
+
+<ICE-SIN:S1A-045#47:1:A>
+In fact at the moment only one school is is having the the system
+running so there there are three more actually
+
+<ICE-SIN:S1A-045#48:1:A>
+Don't know when the
+
+<$B> 
+<ICE-SIN:S1A-045#49:1:B>
+<unclear> word </unclear>
+
+<$A> 
+<ICE-SIN:S1A-045#50:1:A>
+hopefully new
+
+<$B> 
+<ICE-SIN:S1A-045#51:1:B>
+The S Q L D S thing that you're working on
+
+<$A> 
+<ICE-SIN:S1A-045#52:1:A>
+Ha
+
+<ICE-SIN:S1A-045#53:1:A>
+What S Q L D S
+
+<$B> 
+<ICE-SIN:S1A-045#54:1:B>
+I thought I thought I thought you have to do some S Q L work
+
+<$A> 
+<ICE-SIN:S1A-045#55:1:A>
+Uhm you mean oh assessing to the database is it
+
+<$B> 
+<ICE-SIN:S1A-045#56:1:B>
+Ah
+
+<$A> 
+<ICE-SIN:S1A-045#57:1:A>
+Of course that is that's where all the records are stored
+
+<$B> 
+<ICE-SIN:S1A-045#58:1:B>
+All these while you're working on this system lah
+
+<$A> 
+<ICE-SIN:S1A-045#59:1:A>
+Yes yes but of course the system sort of like retrieve and
+manipulates the data in the database
+
+<ICE-SIN:S1A-045#60:1:A>
+By the way uh Weiying is supposed to back me up
+
+<$B> 
+<ICE-SIN:S1A-045#61:1:B>
+Who
+
+<$A> 
+<ICE-SIN:S1A-045#62:1:A>
+Weiying from your group
+
+<$B> 
+<ICE-SIN:S1A-045#63:1:B>
+Weiyan uh
+
+<$A> 
+<ICE-SIN:S1A-045#64:1:A>
+Ah Weiyan ya suppose to
+
+<ICE-SIN:S1A-045#65:1:A>
+She's suppose to uhm back me up
+
+<$B> 
+<ICE-SIN:S1A-045#66:1:B>
+In this system uh
+
+<$A> 
+<ICE-SIN:S1A-045#67:1:A>
+Ya which is a surprise to me
+
+<$B> 
+<ICE-SIN:S1A-045#68:1:B>
+Since when
+
+<$A> 
+<ICE-SIN:S1A-045#69:1:A>
+Ha
+
+<ICE-SIN:S1A-045#70:1:A>
+I mean it's going to start in July or so
+
+<$B> 
+<ICE-SIN:S1A-045#71:1:B>
+Oh oh
+
+<$A> 
+<ICE-SIN:S1A-045#72:1:A>
+So she's going to be my back up for this thing
+
+<$B> 
+<ICE-SIN:S1A-045#73:1:B>
+Oh you're the main one
+
+<$A> 
+<ICE-SIN:S1A-045#74:1:A>
+That's why I was wondering is is that what's considered as
+merging you know between the two groups that you know backing up each other
+that kind of thing
+
+<$B> 
+<ICE-SIN:S1A-045#75:1:B>
+Funny thing her system
+
+<$A> 
+<ICE-SIN:S1A-045#76:1:A>
+And I won't think of it as a front line
+
+<$B> 
+<ICE-SIN:S1A-045#77:1:B>
+Her her her system of taking over then she go and assist
+
+<$A> 
+<ICE-SIN:S1A-045#78:1:A>
+It's just like physically uh changing office now
+
+<ICE-SIN:S1A-045#79:1:A>
+Job wise also change
+
+<$B> 
+<ICE-SIN:S1A-045#80:1:B>
+Because actually uh you know I'm also working on this exam
+mark entry system right
+
+<ICE-SIN:S1A-045#81:1:B>
+Actually this one is done by done by a staff quite sometime ago lah
+and then a William took over and now I was ask to look into it further and
+
+<$A> 
+<ICE-SIN:S1A-045#82:1:A>
+Further you mean enhancement
+
+<$B> 
+<ICE-SIN:S1A-045#83:1:B>
+Ya maybe got to rewrite the whole thing lah
+
+<$A> 
+<ICE-SIN:S1A-045#84:1:A>
+Why
+
+<$B> 
+<ICE-SIN:S1A-045#85:1:B>
+Because ah because we're facing a lot of problems
+
+<ICE-SIN:S1A-045#86:1:B>
+We our there are a lot of departments using it and then they're all
+over the campus
+
+<ICE-SIN:S1A-045#87:1:B>
+And then one once they call up complain that there's a problem
+
+<ICE-SIN:S1A-045#88:1:B>
+We can't solve it on the spot we have to go down so it takes a lot
+of our time
+
+<ICE-SIN:S1A-045#89:1:B>
+So we're trying to find out ways to cut down on all this travelling
+
+<$A> 
+<ICE-SIN:S1A-045#90:1:A>
+Uhm uhm that means more or less cut down on maintenance lah
+
+<$B> 
+<ICE-SIN:S1A-045#91:1:B>
+Ya ya especially ya this thing is only used during exam time
+lah so
+
+<$A> 
+<ICE-SIN:S1A-045#92:1:A>
+Once
+
+<$B> 
+<ICE-SIN:S1A-045#93:1:B>
+During this period
+
+<$A> 
+<ICE-SIN:S1A-045#94:1:A>
+Once a year that sort of thing
+
+<$B> 
+<ICE-SIN:S1A-045#95:1:B>
+Ya and uh and also for me during this period uh is the the
+account section
+
+<ICE-SIN:S1A-045#96:1:B>
+They're having their year-end closing so it's a lot of work at us
+at the same time
+
+<ICE-SIN:S1A-045#97:1:B>
+So this one got to look into it lah
+
+<ICE-SIN:S1A-045#98:1:B>
+I'm currently looking into ways to improve and uh cut down on the
+the travelling
+
+<$A> 
+<ICE-SIN:S1A-045#99:1:A>
+Improving uh by adding on or changing the system or to cut
+completely new you know
+
+<ICE-SIN:S1A-045#100:1:A>
+language or whatever
+
+<$B> 
+<ICE-SIN:S1A-045#101:1:B>
+Or I don't know my boss was saying look into client server
+solution pos
+
+<ICE-SIN:S1A-045#102:1:B>
+That's one possibility ah but I don't think uhm this justifies
+because this
+
+<$A> 
+<ICE-SIN:S1A-045#103:1:A>
+It's too expensive
+
+<$B> 
+<ICE-SIN:S1A-045#104:1:B>
+Is going to take up too much time
+
+<ICE-SIN:S1A-045#105:1:B>
+I rather you know during uh this period you can do a bit of
+walking around rather than <unclear> word </unclear>
+
+<$A> 
+<ICE-SIN:S1A-045#106:1:A>
+<unclear> word </unclear> users uh
+
+<$B> 
+<ICE-SIN:S1A-045#107:1:B>
+Ya <unclear> word </unclear> users than to spend a months to
+redevelop to whole thing
+
+<$A> 
+<ICE-SIN:S1A-045#108:1:A>
+But then if you redevelop it'll be let me think in the long
+run it'll be beneficial to everyone
+
+<$B> 
+<ICE-SIN:S1A-045#109:1:B>
+Yes ya but the thing is when you rewrite probably five years
+later you've got to revamp the whole thing again
+
+<ICE-SIN:S1A-045#110:1:B>
+So the thing is whether spending this six months is is worth or
+not for this next five months ah sorry five years and during these five years
+is not you're not using it everyday
+
+<ICE-SIN:S1A-045#111:1:B>
+You're only using it during the exam period
+
+<$A> 
+<ICE-SIN:S1A-045#112:1:A>
+But then you must see that uhm how about personally for
+saying to think that is beneficial to you
+
+<ICE-SIN:S1A-045#113:1:A>
+I mean you'll be learning a lot of new things
+
+<$B> 
+<ICE-SIN:S1A-045#114:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1A-045#115:1:A>
+I think you find it quite interesting uhm
+
+<$B> 
+<ICE-SIN:S1A-045#116:1:B>
+Ya uh I was telling my boss lah to use it as a as a learning
+platform
+
+<ICE-SIN:S1A-045#117:1:B>
+That's very good because if you were to move into client server
+next time we need to start off with some simple project uhm
+
+<ICE-SIN:S1A-045#118:1:B>
+We need to start off with some prototypes so that we can iron out
+
+<ICE-SIN:S1A-045#119:1:B>
+We can avoid uhm committing some serious uhm mistakes in uh in the
+real system you see so this is a a a good application to start off with lah
+
+<ICE-SIN:S1A-045#120:1:B>
+So uhm but if you were to develop purely for saving time one then
+I think this is not the right approach ah probably adding or modifying the
+existing programme is better
+
+<ICE-SIN:S1A-045#121:1:B>
+Ah so so let's talk about more your work
+
+<$A> 
+<ICE-SIN:S1A-045#122:1:A>
+My my work uh
+
+<ICE-SIN:S1A-045#123:1:A>
+Uh at the moment I'm I'm doing of maintenance work and looking
+into development of uh uh some of the subsystem in addition to this
+assistance system maintenance
+
+<ICE-SIN:S1A-045#124:1:A>
+And uhm it still requires a lot of enhancement
+
+<ICE-SIN:S1A-045#125:1:A>
+And uh it seems that the system I mean the department is very
+dynamic
+
+<ICE-SIN:S1A-045#126:1:A>
+They change things uh now and then you see with new subjects you
+see with new subjects and so on coming in
+
+<ICE-SIN:S1A-045#127:1:A>
+So that requires a lot of changes to the system and that keeps me
+very busy ya
+
+<$B> 
+<ICE-SIN:S1A-045#128:1:B>
+And on top of that you still got to support what Word Perfect
+
+<$A> 
+<ICE-SIN:S1A-045#129:1:A>
+Uhm those are normal uh user supports lah located a a couple
+faculties to take I mean to take care of all the secretaries and so on for
+the O A System and general PC problem
+
+<$B> 
+<ICE-SIN:S1A-045#130:1:B>
+Actually uh actually is quite interesting and quite good to
+have exposure to to do some uhm PC work
+
+<ICE-SIN:S1A-045#131:1:B>
+Uh if it is just purely mainframe then it's quite boring at times
+
+<$A> 
+<ICE-SIN:S1A-045#132:1:A>
+Uh quite true because mainframe seems that there are much
+more restrictions than PCs
+
+<$B> 
+<ICE-SIN:S1A-045#133:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1A-045#134:1:A>
+And
+
+<$B> 
+<ICE-SIN:S1A-045#135:1:B>
+Actually now I'm also I'm looking into some uhm uhm tax
+retrieval and document management system
+
+<$A> 
+<ICE-SIN:S1A-045#136:1:A>
+Is it
+
+<$B> 
+<ICE-SIN:S1A-045#137:1:B>
+Ya it's actually for the personnel department you know
+
+<ICE-SIN:S1A-045#138:1:B>
+They have a lot of minutes
+
+<ICE-SIN:S1A-045#139:1:B>
+They keep a lot of minutes for the Senate meetings
+
+<$A> 
+<ICE-SIN:S1A-045#140:1:A>
+I think at the moment there is a existing uh system as what
+you describe uh
+
+<$B> 
+<ICE-SIN:S1A-045#141:1:B>
+You mean used by the
+
+<$A> 
+<ICE-SIN:S1A-045#142:1:A>
+Using status <unclear> word </unclear>
+
+<$B> 
+<ICE-SIN:S1A-045#143:1:B>
+Oh
+
+<$A> 
+<ICE-SIN:S1A-045#144:1:A>
+Do they consider that
+
+<ICE-SIN:S1A-045#145:1:A>
+No
+
+<$B> 
+<ICE-SIN:S1A-045#146:1:B>
+No we have to look into alternative solution we're not
+
+<$A> 
+<ICE-SIN:S1A-045#147:1:A>
+You mean exclusive of that
+
+<$B> 
+<ICE-SIN:S1A-045#148:1:B>
+Ya ya ya uhm
+
+<$A> 
+<ICE-SIN:S1A-045#149:1:A>
+I mean since it's already there
+
+<ICE-SIN:S1A-045#150:1:A>
+Why not to take a look at it and see whether it it you know it's
+useful for your department
+
+<$B> 
+<ICE-SIN:S1A-045#151:1:B>
+I'm I'm not quite sure why we're not going to use that
+
+<ICE-SIN:S1A-045#152:1:B>
+Probably because the support for it has uh uh is not there anymore
+
+<ICE-SIN:S1A-045#153:1:B>
+I'm I'm not very sure
+
+<$A> 
+<ICE-SIN:S1A-045#154:1:A>
+It's still there
+
+<$B> 
+<ICE-SIN:S1A-045#155:1:B>
+Is it
+
+<$A> 
+<ICE-SIN:S1A-045#156:1:A>
+I'm supporting it
+
+<$B> 
+<ICE-SIN:S1A-045#157:1:B>
+No no no I mean vendor support
+
+<$A> 
+<ICE-SIN:S1A-045#158:1:A>
+Oh vendor support hah uh ya
+
+<ICE-SIN:S1A-045#159:1:A>
+I'm not too sure about that
+
+<$B> 
+<ICE-SIN:S1A-045#160:1:B>
+Maybe there's no more upgrade anymore or what
+
+<ICE-SIN:S1A-045#161:1:B>
+I'm not so sure
+
+<$A> 
+<ICE-SIN:S1A-045#162:1:A>
+You mean it's a dead
+
+<$B> 
+<ICE-SIN:S1A-045#163:1:B>
+Ya ya but it's working lah
+
+<ICE-SIN:S1A-045#164:1:B>
+Future enhancement
+
+<ICE-SIN:S1A-045#165:1:B>
+Probably there isn't any
+
+<$A> 
+<ICE-SIN:S1A-045#166:1:A>
+Oh I see so you're looking into vendor <unclear> word
+</unclear> that is growing
+
+<$B> 
+<ICE-SIN:S1A-045#167:1:B>
+We're looking into PC solutions
+
+<ICE-SIN:S1A-045#168:1:B>
+Is that a PC based or mainframe based
+
+<$A> 
+<ICE-SIN:S1A-045#169:1:A>
+Mainframe
+
+<$B> 
+<ICE-SIN:S1A-045#170:1:B>
+Ya we're looking more into the PC
+
+<$A> 
+<ICE-SIN:S1A-045#171:1:A>
+But PC I thought you have uhm stoage limitations
+
+<$B> 
+<ICE-SIN:S1A-045#172:1:B>
+Oh nowadays PC can support up to quite uhm
+
+<$A> 
+<ICE-SIN:S1A-045#173:1:A>
+But talk about just
+
+<$B> 
+<ICE-SIN:S1A-045#174:1:B>
+Large capacity
+
+<$A> 
+<ICE-SIN:S1A-045#175:1:A>
+Personnel Department is okay
+
+<ICE-SIN:S1A-045#176:1:A>
+How about in future to use for other departments
+
+<$B> 
+<ICE-SIN:S1A-045#177:1:B>
+Uhm no
+
+<$A> 
+<ICE-SIN:S1A-045#178:1:A>
+Just
+
+<$B> 
+<ICE-SIN:S1A-045#179:1:B>
+Actually even in Personnel also the requirement can be very
+very high because you're talking about storing uhm uhm all documents you know
+belonging to each staff belonging to student
+
+<ICE-SIN:S1A-045#180:1:B>
+So when you apply for a job and then your resume your application
+form everything this probably got to be stored electronically lah
+
+<ICE-SIN:S1A-045#181:1:B>
+So by scanning in as an image and uh uh storing on uhm secondary
+storage devise
+
+<$A> 
+<ICE-SIN:S1A-045#182:1:A>
+Like what like what CD-Rom
+
+<$B> 
+<ICE-SIN:S1A-045#183:1:B>
+Optical disc
+
+<$A> 
+<ICE-SIN:S1A-045#184:1:A>
+Optical disc
+
+<$B> 
+<ICE-SIN:S1A-045#185:1:B>
+Ya it's something called Optical Judebox and that stores many
+optical disks but then these are very very expensive
+
+<ICE-SIN:S1A-045#186:1:B>
+So currently we are just looking into it lah
+
+<$A> 
+<ICE-SIN:S1A-045#187:1:A>
+So what's the chances how's the chance like
+
+<$B> 
+<ICE-SIN:S1A-045#188:1:B>
+Uh with that like of budget we have I think it's quite
+difficult to get uh a a very sophisticated system lah
+
+<ICE-SIN:S1A-045#189:1:B>
+We're just looking into the <unclear> word </unclear> feasibility
+lah and not not the actual product yet
+
+<ICE-SIN:S1A-045#190:1:B>
+And also the user side has not identified exactly what should be
+<unclear> word </unclear> archive into into uh uh computerised system
+
+<ICE-SIN:S1A-045#191:1:B>
+So that's why I these days I have to call up a lot of vendor <X>
+
+<ICE-SIN:S1A-045#X192:1:B>
+I got a lot of meeting go for a lot of seminars
+
+<$A> 
+<ICE-SIN:S1A-045#X193:1:A>
+Is for this purpose
+
+<$B> 
+<ICE-SIN:S1A-045#X194:1:B>
+Which is quite interesting lah
+
+<$A> 
+<ICE-SIN:S1A-045#X195:1:A>
+Oh oh oh I thought all the while is current server
+
+<$B> 
+<ICE-SIN:S1A-045#X196:1:B>
+Current server also
+
+<ICE-SIN:S1A-045#X197:1:B>
+That one is looking into uh Oracle Database Diane and myself lah
+
+<$A> 
+<ICE-SIN:S1A-045#X198:1:A>
+I thought it's Informix
+
+<$B> 
+<ICE-SIN:S1A-045#X199:1:B>
+Previously we're looking at Informix and Oracle plus some
+hardware
+
+<ICE-SIN:S1A-045#X200:1:B>
+But uhm you know there's this task force current server task
+force so they delegate the work lah
+
+<ICE-SIN:S1A-045#X201:1:B>
+So actually we're not in the task force but I don't why I got
+this got to do this also
+
+<ICE-SIN:S1A-045#X202:1:B>
+Diane and myself we got task to look into Oracle
+
+<ICE-SIN:S1A-045#X203:1:B>
+Interesting
+
+<$A> 
+<ICE-SIN:S1A-045#X204:1:A>
+Uh seems like we have talked quite a lot already uh
+
+<ICE-SIN:S1A-045#X205:1:A>
+I was thinking of uh we're talking about the just now you
+mentioned about uhm optical disk is it
+
+<ICE-SIN:S1A-045#X206:1:A>
+There are other alternatives right other than optical disk
+
+<ICE-SIN:S1A-045#X207:1:A>
+I think uhm there's this
+
+<$B> 
+<ICE-SIN:S1A-045#X208:1:B>
+What
+
+<$A> 
+<ICE-SIN:S1A-045#X209:1:A>
+Any other alternatives since you said it was expensive
+
+<$B> 
+<ICE-SIN:S1A-045#X210:1:B>
+Actually uhm if you talk about if optical disk has very very
+high storage capacity
+
+<ICE-SIN:S1A-045#X211:1:B>
+If you talk about cost per bit ah per bit of storage ah optical
+Disk is definitely cheaper than other means like magnetic tapes uh or not uh
+sorry magnetic disc our our normal uhm hard disk uhm but
+
+<$A> 
+<ICE-SIN:S1A-045#X212:1:A>
+The initial cost is high
+
+<$B> 
+<ICE-SIN:S1A-045#X213:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1A-045#X214:1:A>
+Uhm again in the long run is is
+
+<$B> 
+<ICE-SIN:S1A-045#X215:1:B>
+Cheaper actually ya because you can store a lot more
+
+<$A> 
+<ICE-SIN:S1A-045#X216:1:A>
+So it really depends on how much data you have lah
+
+<ICE-SIN:S1A-045#X217:1:A>
+Whether you real it's really necessary to get
+
+<$B> 
+<ICE-SIN:S1A-045#X218:1:B>
+Correct
+
+<$A> 
+<ICE-SIN:S1A-045#X219:1:A>
+Optical disk
+
+<$B> 
+<ICE-SIN:S1A-045#X220:1:B>
+Ya so it's for for example uhm well government department
+for example our Inland Revenue you collect so many forms right
+
+<ICE-SIN:S1A-045#X221:1:B>
+If you were to keep them you need a big warehouse so
+
+<$A> 
+<ICE-SIN:S1A-045#X222:1:A>
+And if it catch fire that's it
+
+<$B> 
+<ICE-SIN:S1A-045#X223:1:B>
+Ya ya and you cannot duplicate </X> </I>

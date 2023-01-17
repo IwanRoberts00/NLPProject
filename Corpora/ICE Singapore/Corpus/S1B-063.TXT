@@ -1,0 +1,738 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1B-063#1:1:A>
+Your name is Doctor Baratham
+
+<ICE-SIN:S1B-063#2:1:A>
+Is that correct
+
+<$B> 
+<ICE-SIN:S1B-063#3:1:B>
+That's correct
+
+<$A> 
+<ICE-SIN:S1B-063#4:1:A>
+B A R A T H A M
+
+<$B> 
+<ICE-SIN:S1B-063#5:1:B>
+That's correct
+
+<$A> 
+<ICE-SIN:S1B-063#6:1:A>
+You are a neurosurgeon by profession
+
+<$B> 
+<ICE-SIN:S1B-063#7:1:B>
+That's correct, my Lord
+
+<$A> 
+<ICE-SIN:S1B-063#8:1:A>
+Can you tell the Court some time in nineteen eighty-one which
+hospital were you attached
+
+<$B> 
+<ICE-SIN:S1B-063#9:1:B>
+I was attached to Tan Tock Seng General Hospital my Lord
+
+<$A> 
+<ICE-SIN:S1B-063#10:1:A>
+Perhaps you will tell the Court for how long a period were you
+with Tan Tock Seng
+
+<$B> 
+<ICE-SIN:S1B-063#11:1:B>
+I was with Tan Tock Seng Hospital neuro surgical department
+from the time the department was opened in nineteen seventy-three
+
+<$A> 
+<ICE-SIN:S1B-063#12:1:A>
+Until
+
+<$B> 
+<ICE-SIN:S1B-063#13:1:B>
+Until I left the government service in nineteen eighty-seven
+
+<$A> 
+<ICE-SIN:S1B-063#14:1:A>
+When did you first started practice
+
+<$B> 
+<ICE-SIN:S1B-063#15:1:B>
+I started practice as a doctor in nineteen sixty and started
+training in neuro surgery in nineteen sixty-five
+
+<$A> 
+<ICE-SIN:S1B-063#16:1:A>
+Can you tell the Court briefly what do a neurosurgeon treats
+
+<ICE-SIN:S1B-063#17:1:A>
+What type of sickness or injuries
+
+<$B> 
+<ICE-SIN:S1B-063#18:1:B>
+We treat haemorrhages tumours and especially injuries
+affecting the brain
+
+<$A> 
+<ICE-SIN:S1B-063#19:1:A>
+Do you know of another branch of doctor known as neurologist
+
+<$B> 
+<ICE-SIN:S1B-063#20:1:B>
+Yes my Lord
+
+<ICE-SIN:S1B-063#21:1:B>
+I know
+
+<$A> 
+<ICE-SIN:S1B-063#22:1:A>
+What do a neurologist does
+
+<$B> 
+<ICE-SIN:S1B-063#23:1:B>
+They treat non-surgical conditions of the nervous system
+
+<$A> 
+<ICE-SIN:S1B-063#24:1:A>
+Non-surgical
+
+<$B> 
+<ICE-SIN:S1B-063#25:1:B>
+Non-surgical
+
+<$A> 
+<ICE-SIN:S1B-063#26:1:A>
+In other words they will not operate or treat head injury
+
+<$B> 
+<ICE-SIN:S1B-063#27:1:B>
+They will not be
+
+<ICE-SIN:S1B-063#28:1:B>
+They will not treat head injuries
+
+<ICE-SIN:S1B-063#29:1:B>
+No
+
+<$A> 
+<ICE-SIN:S1B-063#30:1:A>
+Very well
+
+<ICE-SIN:S1B-063#31:1:A>
+Doctor can I show you three medical reports here written by you
+
+<ICE-SIN:S1B-063#32:1:A>
+Your honour may that be admitted and marked your Honour
+
+<ICE-SIN:S1B-063#33:1:A>
+His three medical reports on the bundle of page one two and three
+
+<$A> 
+<ICE-SIN:S1B-063#34:1:A>
+Page two
+
+<ICE-SIN:S1B-063#35:1:A>
+Ya
+
+<ICE-SIN:S1B-063#36:1:A>
+Yhe three medical report
+
+<$A> 
+<ICE-SIN:S1B-063#37:1:A>
+All three marked as page three
+
+<ICE-SIN:S1B-063#38:1:A>
+All three by the same doctor Sir
+
+<$A> 
+<ICE-SIN:S1B-063#39:1:A>
+All of them page two
+
+<ICE-SIN:S1B-063#40:1:A>
+All right
+
+<$A> 
+<ICE-SIN:S1B-063#41:1:A>
+May I refer you to the first report which is the one dated
+eighteen of May
+
+<ICE-SIN:S1B-063#42:1:A>
+No sorry twenty-seventh of July nineteen eighty-one
+
+<ICE-SIN:S1B-063#43:1:A>
+Twenty-seventh of July nineteen eighty-one that is page two
+
+<ICE-SIN:S1B-063#44:1:A>
+Can you read the statement read your report to the Court
+
+<$B> 
+<ICE-SIN:S1B-063#45:1:B>
+This patient was admitted on the twenty-seventh April nineteen
+eighty-one following a road traffic accident
+
+<ICE-SIN:S1B-063#46:1:B>
+Special x rays did not show hemorrhage inside the brain but he was
+thought to have suffered a bruising of the brain
+
+<ICE-SIN:S1B-063#47:1:B>
+The medical term for that is contusion
+
+<ICE-SIN:S1B-063#48:1:B>
+Since then he has been followed up as an outpatient
+
+<ICE-SIN:S1B-063#49:1:B>
+A final assessment can only be made after a year
+
+<$A> 
+<ICE-SIN:S1B-063#50:1:A>
+I see
+
+<ICE-SIN:S1B-063#51:1:A>
+So you confirm doctor that you examined this patient and you found
+that there is a bruising on his brain
+
+<ICE-SIN:S1B-063#52:1:A>
+Is that correct
+
+<$B> 
+<ICE-SIN:S1B-063#53:1:B>
+That is correct my Lord
+
+<$A> 
+<ICE-SIN:S1B-063#54:1:A>
+Now how severe was this injury
+
+<$B> 
+<ICE-SIN:S1B-063#55:1:B>
+It was sufficient to cause changes on the C T scan which were
+of a temporary nature
+
+<ICE-SIN:S1B-063#56:1:B>
+But not sufficient to cause bleeding inside the brain my Lord
+
+<$A> 
+<ICE-SIN:S1B-063#57:1:A>
+Now may I refer you to the second report which you made on the
+eighteenth of May eighty-two
+
+<ICE-SIN:S1B-063#58:1:A>
+You mention here that he was found to have some problem of
+co-ordination
+
+<ICE-SIN:S1B-063#59:1:A>
+Now what type of problem would you classify that as
+
+<$B> 
+<ICE-SIN:S1B-063#60:1:B>
+I don't quite understand the question
+
+<$A> 
+<ICE-SIN:S1B-063#61:1:A>
+I mean what type of
+
+<ICE-SIN:S1B-063#62:1:A>
+He had some problem of co-ordination
+
+<ICE-SIN:S1B-063#63:1:A>
+How severe and what characteristic would these problems of
+co-ordination would be
+
+<$B> 
+<ICE-SIN:S1B-063#64:1:B>
+He would have difficulty in performing a number of sequential
+actions that is moving in an ordered sequence learnt movement
+
+<ICE-SIN:S1B-063#65:1:B>
+My Lord the technical word for this is dyspraxia D Y S P R A X I A
+which means
+
+<$A> 
+<ICE-SIN:S1B-063#66:1:A>
+Now in this report you also mentioned that the C T scan did
+not show any blood clot inside the skull
+
+<ICE-SIN:S1B-063#67:1:A>
+Now this was done in nineteen eighty-two
+
+<$B> 
+<ICE-SIN:S1B-063#68:1:B>
+No
+
+<$A> 
+<ICE-SIN:S1B-063#69:1:A>
+No eighty
+
+<$B> 
+<ICE-SIN:S1B-063#70:1:B>
+No the C T scan done on at the time of admission in April
+nineteen eighty-one
+
+<$A> 
+<ICE-SIN:S1B-063#71:1:A>
+Eighty-one
+
+<ICE-SIN:S1B-063#72:1:A>
+Ya that is right
+
+<$B> 
+<ICE-SIN:S1B-063#73:1:B>
+I refer to that C T scan
+
+<$A> 
+<ICE-SIN:S1B-063#74:1:A>
+But is it possible that at the time of accident there is a
+contusion of the brain
+
+<ICE-SIN:S1B-063#75:1:A>
+I mean there is a blood clot
+
+<$B> 
+<ICE-SIN:S1B-063#76:1:B>
+There was at the time of accident a contusion of the brain
+seen on the C T scan not a blood clot
+
+<ICE-SIN:S1B-063#77:1:B>
+I want to distinguish between a contusion and a hemorrhage
+
+<$A> 
+<ICE-SIN:S1B-063#78:1:A>
+Just to reconfirm that I got what you have said
+
+<ICE-SIN:S1B-063#79:1:A>
+At the time of the accident you examined him and there was a
+contusion in the brain
+
+<$B> 
+<ICE-SIN:S1B-063#80:1:B>
+I examined the C T scan my Lord
+
+<$A> 
+<ICE-SIN:S1B-063#81:1:A>
+Ya that is right
+
+<$B> 
+<ICE-SIN:S1B-063#82:1:B>
+That showed the contusion
+
+<$A> 
+<ICE-SIN:S1B-063#83:1:A>
+Correct
+
+<ICE-SIN:S1B-063#84:1:A>
+That is all
+
+<$B> 
+<ICE-SIN:S1B-063#85:1:B>
+The patient had symptoms of a contusion
+
+<$A> 
+<ICE-SIN:S1B-063#86:1:A>
+How long will this contusion last
+
+<ICE-SIN:S1B-063#87:1:A>
+I mean does it stay on forever
+
+<$B> 
+<ICE-SIN:S1B-063#88:1:B>
+The appearance my Lord on the x-ray on the C T scan would be
+obvious for a week few weeks or few months
+
+<ICE-SIN:S1B-063#89:1:B>
+Just like a bruise it would disappear but the effects on the brain
+may last for a considerably longer period
+
+<$A> 
+<ICE-SIN:S1B-063#90:1:A>
+Now I refer you to the last report which is sixth of September
+eighty-three
+
+<ICE-SIN:S1B-063#91:1:A>
+In paragraph two you have reported that you have examined him on
+the seventh of August nineteen eighty-three and that he was found to have
+in-co-ordination of the right side of his body
+
+<ICE-SIN:S1B-063#92:1:A>
+Now can you tell the Court more about what in-co-ordination that
+you found
+
+<$B> 
+<ICE-SIN:S1B-063#93:1:B>
+We test for in-co-ordination my Lord in a very standard way
+
+<ICE-SIN:S1B-063#94:1:B>
+We ask a person to touch your finger and touch his nose and move up
+and down or to do a series of concerted actions like imitating playing the
+piano or picking up objects
+
+<ICE-SIN:S1B-063#95:1:B>
+And by observing him do this we can notice any problems with
+movement
+
+<$A> 
+<ICE-SIN:S1B-063#96:1:A>
+In your opinion doctor do you know whether such injury would
+be permanent
+
+<ICE-SIN:S1B-063#97:1:A>
+The in-co-ordination
+
+<$B> 
+<ICE-SIN:S1B-063#98:1:B>
+It was present my Lord for more than two years after the
+accident
+
+<ICE-SIN:S1B-063#99:1:B>
+And I would therefore assume that it would permanent
+
+<$A> 
+<ICE-SIN:S1B-063#100:1:A>
+From this injury to his brain doctor would you say that there
+would be any side effect like for instance loss of memory headaches relapses
+
+<$B> 
+<ICE-SIN:S1B-063#101:1:B>
+He could have mental problems but by his own testimony my
+Lord he did not complain of headaches and said he was otherwise normal
+
+<ICE-SIN:S1B-063#102:1:B>
+This is on my examination in August eighty-three
+
+<$A> 
+<ICE-SIN:S1B-063#103:1:A>
+I see
+
+<ICE-SIN:S1B-063#104:1:A>
+You also mentioned in the last paragraph that because of his
+impairment he will be unable to do his job as a welder
+
+<ICE-SIN:S1B-063#105:1:A>
+Is that correct
+
+<$B> 
+<ICE-SIN:S1B-063#106:1:B>
+That is correct my Lord
+
+<ICE-SIN:S1B-063#107:1:B>
+It's in my report
+
+<$A> 
+<ICE-SIN:S1B-063#108:1:A>
+I have no more further questions Sir
+
+<$C> 
+<ICE-SIN:S1B-063#109:1:C>
+Doctor Baratham when he was first admitted to the hospital on
+the twenty-seventh of April nineteen eighty-one the x-ray showed a mere
+contusion
+
+<ICE-SIN:S1B-063#110:1:C>
+Is that not right or is that not right
+
+<$B> 
+<ICE-SIN:S1B-063#111:1:B>
+The brain scans show the contusion my Lord
+
+<ICE-SIN:S1B-063#112:1:B>
+I don't know about mere or it showed a bruising on the surface of
+the brain
+
+<$C> 
+<ICE-SIN:S1B-063#113:1:C>
+Oh I see
+
+<ICE-SIN:S1B-063#114:1:C>
+So and he was not hospitalised
+
+<ICE-SIN:S1B-063#115:1:C>
+Was he discharged immediately on the same day
+
+<$B> 
+<ICE-SIN:S1B-063#116:1:B>
+No I am certain my Lord he was hospitalised
+
+<$C> 
+<ICE-SIN:S1B-063#117:1:C>
+For how long
+
+<$B> 
+<ICE-SIN:S1B-063#118:1:B>
+I do not have a record of that not available
+
+<$A> 
+<ICE-SIN:S1B-063#119:1:A>
+Sir with your leave
+
+<ICE-SIN:S1B-063#120:1:A>
+Sir my apologies to the Court
+
+<ICE-SIN:S1B-063#121:1:A>
+I have not submitted the medical certificate
+
+<ICE-SIN:S1B-063#122:1:A>
+May I Sir
+
+<$B> 
+<ICE-SIN:S1B-063#123:1:B>
+Sorry Sir
+
+<$A> 
+<ICE-SIN:S1B-063#124:1:A>
+Authorised by Doctor Baratham Sir
+
+<$A> 
+<ICE-SIN:S1B-063#125:1:A>
+I am obliged Sir
+
+<ICE-SIN:S1B-063#126:1:A>
+Sir may that be admitted since they've agreed
+
+<$A> 
+<ICE-SIN:S1B-063#127:1:A>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-063#128:1:A>
+I am obliged Sir
+
+<$C> 
+<ICE-SIN:S1B-063#129:1:C>
+He was according to the medical cert he was discharged on the
+seventh of May nineteen eighty-one
+
+<$B> 
+<ICE-SIN:S1B-063#130:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-063#131:1:C>
+Now what were your observations while he was warded doctor
+
+<ICE-SIN:S1B-063#132:1:C>
+I mean was there any in co-ordination in this hand
+
+<ICE-SIN:S1B-063#133:1:C>
+Or what was he suffering from while he was warded
+
+<ICE-SIN:S1B-063#134:1:C>
+Or is it just a brain contusion
+
+<$B> 
+<ICE-SIN:S1B-063#135:1:B>
+My Lord I do not recall what my observations were when he was
+warded because I would have been in charge of a very large number of cases
+
+<ICE-SIN:S1B-063#136:1:B>
+And my own observations for each individual case would not have
+been made
+
+<$B> 
+<ICE-SIN:S1B-063#137:1:B>
+My Lord I would have supervised his treatment rather than be
+in charge of his day-to-day treatment
+
+<$C> 
+<ICE-SIN:S1B-063#138:1:C>
+Doctor your medical report is brief
+
+<ICE-SIN:S1B-063#139:1:C>
+It merely states that he had a bruising of the brain and nothing
+else
+
+<$B> 
+<ICE-SIN:S1B-063#140:1:B>
+That is correct
+
+<$C> 
+<ICE-SIN:S1B-063#141:1:C>
+Then on the next page that is I mean your second medical
+report on the eighteenth of May nineteen eighty-two
+
+<ICE-SIN:S1B-063#142:1:C>
+That's at page two of the Plaintiff's bundle of documents
+
+<ICE-SIN:S1B-063#143:1:C>
+And your second medical report doctor you again merely refer to
+the original x ray taken on the twenty-seventh of April nineteen eighty-one
+
+<ICE-SIN:S1B-063#144:1:C>
+So there was no further examination as such
+
+<$B> 
+<ICE-SIN:S1B-063#145:1:B>
+There was no further x ray examination my Lord
+
+<ICE-SIN:S1B-063#146:1:B>
+No correct
+
+<$C> 
+<ICE-SIN:S1B-063#147:1:C>
+And this report merely states that he was last seen as an
+outpatient on ninth September eighty-one when he had some problems of
+co-ordination
+
+<ICE-SIN:S1B-063#148:1:C>
+He was not seen by you is that not doctor
+
+<ICE-SIN:S1B-063#149:1:C>
+He was seen by some other doctor on that date as an outpatient
+
+<$B> 
+<ICE-SIN:S1B-063#150:1:B>
+Yes he may not have been seen by me when I
+
+<$C> 
+<ICE-SIN:S1B-063#151:1:C>
+So you wouldn't be able to assist this Court as to what his
+problems of co-ordination were on that date
+
+<$B> 
+<ICE-SIN:S1B-063#152:1:B>
+Not on this date no my Lord
+
+<$C> 
+<ICE-SIN:S1B-063#153:1:C>
+Now on your third report doctor
+
+<ICE-SIN:S1B-063#154:1:C>
+On your third report you say he was reassessed for the purpose of
+this report on seventeenth August eighty-three
+
+<ICE-SIN:S1B-063#155:1:C>
+At that time he was found to have in-co-ordination of the right
+side of his body
+
+<ICE-SIN:S1B-063#156:1:C>
+Does this refer to your first paragraph which says this man was
+admitted to our unit on April nineteen eighty-one
+
+<ICE-SIN:S1B-063#157:1:C>
+Does this report refer to the earlier findings of in-
+co-ordination rather than on that date
+
+<$B> 
+<ICE-SIN:S1B-063#158:1:B>
+It refers to my own assessment of him in August eighty-three
+
+<ICE-SIN:S1B-063#159:1:B>
+The in-co-ordination refers to the situation in August nineteen
+eighty-three
+
+<ICE-SIN:S1B-063#160:1:B>
+My Lord I alter that to at the time at the time
+
+<ICE-SIN:S1B-063#161:1:B>
+The second sentence in paragraph two should read at the time
+
+<ICE-SIN:S1B-063#162:1:B>
+It's at that time
+
+<ICE-SIN:S1B-063#163:1:B>
+I think this is a typographical error or a dictation error or it
+should be at the time
+
+<$B> 
+<ICE-SIN:S1B-063#164:1:B>
+At the time of this report on the time of this examination on
+the seventeenth August nineteen eighty-three
+
+<ICE-SIN:S1B-063#165:1:B>
+My Lord I am sorry for the ambiguity
+
+<ICE-SIN:S1B-063#166:1:B>
+This is the third report my Lord
+
+<$C> 
+<ICE-SIN:S1B-063#167:1:C>
+See Doctor Baratham you seem to have in your report accepted
+this man's word rather than gone on your own observation because your
+paragraph there
+
+<ICE-SIN:S1B-063#168:1:C>
+It says prior to this accident this man was a welder
+
+<ICE-SIN:S1B-063#169:1:C>
+He was tested by the foreman of his firm and his co-ordination was
+found to be inadequate for a job of a welder
+
+<ICE-SIN:S1B-063#170:1:C>
+This is what he seems to have told you
+
+<ICE-SIN:S1B-063#171:1:C>
+This is not something you found out from the foreman of his firm
+
+<$B> 
+<ICE-SIN:S1B-063#172:1:B>
+My Lord I was not in communication with the foreman of the
+firm
+
+<ICE-SIN:S1B-063#173:1:B>
+He told me this
+
+<$C> 
+<ICE-SIN:S1B-063#174:1:C>
+He told you this
+
+<$B> 
+<ICE-SIN:S1B-063#175:1:B>
+But his in-co-ordination was something I tested for and
+observed myself
+
+<ICE-SIN:S1B-063#176:1:B>
+I did not my Lord feel competent to decide whether his in-
+co-ordination made it impossible for him to be a welder
+
+<ICE-SIN:S1B-063#177:1:B>
+I thought that was better left to his foreman
+
+<$C> 
+<ICE-SIN:S1B-063#178:1:C>
+So you were not
+
+<$B> 
+<ICE-SIN:S1B-063#179:1:B>
+I couldn't tell this my Lord
+
+<ICE-SIN:S1B-063#180:1:B>
+I could tell his in-co-ordination
+
+<ICE-SIN:S1B-063#181:1:B>
+I couldn't say whether he could do a job as a welder
+
+<ICE-SIN:S1B-063#182:1:B>
+I am unfamiliar with welding
+
+<$C> 
+<ICE-SIN:S1B-063#183:1:C>
+So that is exactly the point doctor
+
+<ICE-SIN:S1B-063#184:1:C>
+That you are unable to say whether he can work as a welder or not
+
+<$B> 
+<ICE-SIN:S1B-063#185:1:B>
+I am unable to say this
+
+<ICE-SIN:S1B-063#186:1:B>
+It is impossible for me to decide that my Lord
+
+<$C> 
+<ICE-SIN:S1B-063#187:1:C>
+Next you say in your report that he only had a moderate head
+injury
+
+<ICE-SIN:S1B-063#188:1:C>
+What do you mean by that
+
+<$B> 
+<ICE-SIN:S1B-063#189:1:B>
+That is correct my Lord
+
+<ICE-SIN:S1B-063#190:1:B>
+We classify head injuries into mild concussions moderate injuries
+
+<ICE-SIN:S1B-063#191:1:B>
+Where we have some clear cut evidence of permanent brain damage
+and severe head injuries when the brain damage and severe head injuries is
+such that the person can be totally incapacitated </I>

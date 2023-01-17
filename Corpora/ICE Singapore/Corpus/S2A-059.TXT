@@ -1,0 +1,586 @@
+<I>
+
+<$A> 
+<ICE-SIN:S2A-059#1:1:A>
+Let me open up an application and I'll explain parts of a
+window
+
+<ICE-SIN:S2A-059#2:1:A>
+We've got a bit more hands-on later on
+
+<ICE-SIN:S2A-059#3:1:A>
+Your note pad is a windows application
+
+<ICE-SIN:S2A-059#4:1:A>
+There's accessory in-built in your Windows three one
+
+<ICE-SIN:S2A-059#5:1:A>
+Okay let me go back to your page ten notes mouse pointer
+
+<ICE-SIN:S2A-059#6:1:A>
+Okay what do you see
+
+<ICE-SIN:S2A-059#7:1:A>
+This is your mouse pointer
+
+<ICE-SIN:S2A-059#8:1:A>
+That is mouse pointer
+
+<ICE-SIN:S2A-059#9:1:A>
+But when you move your mouse pointer into the note pad window it
+changes into a what you call a pin
+
+<ICE-SIN:S2A-059#10:1:A>
+That's when you click to change your insertion point from one
+location to another
+
+<ICE-SIN:S2A-059#11:1:A>
+That's your insertion point
+
+<ICE-SIN:S2A-059#12:1:A>
+The insertion point is the point that which whatever you type in
+your keyboard it will be reflected there okay
+
+<ICE-SIN:S2A-059#13:1:A>
+So if you go use your mouse pointer to click anywhere that you want
+your your uh insertion point to go
+
+<ICE-SIN:S2A-059#14:1:A>
+Okay let's go to another one control menu box
+
+<ICE-SIN:S2A-059#15:1:A>
+You see on the top left-hand corner of your note pad window this is
+your control menu box
+
+<ICE-SIN:S2A-059#16:1:A>
+When you click once on it it display the menu
+
+<ICE-SIN:S2A-059#17:1:A>
+Move size minimise maximise close switch tools
+
+<ICE-SIN:S2A-059#18:1:A>
+All these commands you could make do without using them here
+
+<ICE-SIN:S2A-059#19:1:A>
+You could make use of these commands by using the mouse and doing
+it with the mouse rather than selecting the commands from your control menu
+box
+
+<ICE-SIN:S2A-059#20:1:A>
+The only time when you think you need to use the control menu box
+is when you want to exit from the application
+
+<ICE-SIN:S2A-059#21:1:A>
+Okay later I'll teach you how to exit from note pad One of the
+fastest ways it to double click on the control menu box
+
+<ICE-SIN:S2A-059#22:1:A>
+That's when you exit note pad okay
+
+<ICE-SIN:S2A-059#23:1:A>
+This is your control menu box
+
+<ICE-SIN:S2A-059#24:1:A>
+I'll teach you how to move size minimise maximise the window later
+on
+
+<ICE-SIN:S2A-059#25:1:A>
+Let's go to the third one title bar window title
+
+<ICE-SIN:S2A-059#26:1:A>
+This is your title bar okay the one that is labelled in blue colour
+
+<ICE-SIN:S2A-059#27:1:A>
+The active one is always in blue
+
+<ICE-SIN:S2A-059#28:1:A>
+Programme manager is now running at the background
+
+<ICE-SIN:S2A-059#29:1:A>
+Programme manager here this is the title bar for programme manager
+
+<ICE-SIN:S2A-059#30:1:A>
+This is the title bar for note pad
+
+<ICE-SIN:S2A-059#31:1:A>
+Which ever one is whichever is the one that's active in the
+foreground will be labelled blue
+
+<ICE-SIN:S2A-059#32:1:A>
+The other one will be transparent
+
+<ICE-SIN:S2A-059#33:1:A>
+But it's up to you to define your colour that you want at desktop
+it's up to you
+
+<ICE-SIN:S2A-059#34:1:A>
+But default it's blue
+
+<ICE-SIN:S2A-059#35:1:A>
+Okay this is your title this is your title bar with your window
+title
+
+<ICE-SIN:S2A-059#36:1:A>
+So notepad defines this window as an application window for notepad
+okay
+
+<ICE-SIN:S2A-059#37:1:A>
+Menu bar this is your menu bar
+
+<ICE-SIN:S2A-059#38:1:A>
+You see file exit search help
+
+<ICE-SIN:S2A-059#39:1:A>
+This is common uhm uhm the best part of all the commands are common
+between Windows applications
+
+<ICE-SIN:S2A-059#40:1:A>
+You don't find just menu bar in the non Windows application
+
+<ICE-SIN:S2A-059#41:1:A>
+Okay you could only find this in any Windows application
+
+<ICE-SIN:S2A-059#42:1:A>
+What happens is you could click on any of the words any part of
+those words there to draw down the menu
+
+<ICE-SIN:S2A-059#43:1:A>
+For file you have one menu
+
+<ICE-SIN:S2A-059#44:1:A>
+Edit you have another to uh draw down menu for search another one
+and so on and so forth
+
+<ICE-SIN:S2A-059#45:1:A>
+Okay this is your menu bar with your uh menu commands
+
+<ICE-SIN:S2A-059#46:1:A>
+What you do is you click on any of the words there to drag down the
+menu bar click on anyone of them to select the commands
+
+<ICE-SIN:S2A-059#47:1:A>
+Okay let's go to next page eleven scroll bars
+
+<ICE-SIN:S2A-059#48:1:A>
+Can you here this is your scroll bar
+
+<ICE-SIN:S2A-059#49:1:A>
+This is your scroll bar
+
+<ICE-SIN:S2A-059#50:1:A>
+What happen is sometimes your document is so long the window cannot
+take the whole data
+
+<ICE-SIN:S2A-059#51:1:A>
+I mean it's it's thing WordPerfect whatever
+
+<ICE-SIN:S2A-059#52:1:A>
+So what happen is that you click on the up and down arrow to scroll
+hope you can see here
+
+<ICE-SIN:S2A-059#53:1:A>
+Then you click here then you go up and down the the page
+
+<ICE-SIN:S2A-059#54:1:A>
+Or you could click anywhere here
+
+<ICE-SIN:S2A-059#55:1:A>
+Okay to move down up and down
+
+<ICE-SIN:S2A-059#56:1:A>
+This is your scroll bar and you got a up and down scroll bar and a
+left and right scroll bar
+
+<ICE-SIN:S2A-059#57:1:A>
+This is your left and right scroll bar
+
+<ICE-SIN:S2A-059#58:1:A>
+Same light one to scroll left and right this one is to scroll up
+and down
+
+<ICE-SIN:S2A-059#59:1:A>
+Okay maximise and minimise button
+
+<ICE-SIN:S2A-059#60:1:A>
+You remember at the control menu box you have to maximise and
+minimise
+
+<ICE-SIN:S2A-059#61:1:A>
+You don't have to use your commands here
+
+<ICE-SIN:S2A-059#62:1:A>
+You can use the two small little function uh I mean boxes here
+which you could do
+
+<ICE-SIN:S2A-059#63:1:A>
+The up arrow is the maximise arrow maximise uh uh what you call the
+maximise icon
+
+<ICE-SIN:S2A-059#64:1:A>
+This one is the small one the minimise function
+
+<ICE-SIN:S2A-059#65:1:A>
+So if you click on the out arrow notepad takes over the full screen
+and you would no longer will see programme manager
+
+<ICE-SIN:S2A-059#66:1:A>
+Okay it's something like running a Dos application in full screen
+
+<ICE-SIN:S2A-059#67:1:A>
+And when you click on the maximise one it should go to the install
+button
+
+<ICE-SIN:S2A-059#68:1:A>
+<O> Question </O>
+
+<ICE-SIN:S2A-059#69:1:A>
+Can you see
+
+<ICE-SIN:S2A-059#70:1:A>
+See that one
+
+<ICE-SIN:S2A-059#71:1:A>
+The maximise the maximise button is coverted into a restore button
+right so when you click on that it restores you back to the size that you
+have had before you put in your maximise button
+
+<ICE-SIN:S2A-059#72:1:A>
+Okay and this downward arrow is the minimise button
+
+<ICE-SIN:S2A-059#73:1:A>
+You click on that notepad is minimised as application icon but
+where is the icon
+
+<ICE-SIN:S2A-059#74:1:A>
+The icon is somewhere here
+
+<ICE-SIN:S2A-059#75:1:A>
+Okay that's the notepad on the desktop
+
+<ICE-SIN:S2A-059#76:1:A>
+This is your notepad running as a minimised application icon double
+click on that to get back in notepad
+
+<ICE-SIN:S2A-059#77:1:A>
+Okay whatever size it was before you analysed it
+
+<ICE-SIN:S2A-059#78:1:A>
+You have any question so far
+
+<ICE-SIN:S2A-059#79:1:A>
+Okay I can go on eh
+
+<ICE-SIN:S2A-059#80:1:A>
+Window border
+
+<ICE-SIN:S2A-059#81:1:A>
+This is your window border
+
+<ICE-SIN:S2A-059#82:1:A>
+The double line window border and when you push your mouse pointer
+to anywhere along the border your mouse pointer is changed to a double header
+arrow
+
+<ICE-SIN:S2A-059#83:1:A>
+That is when you could resize your window
+
+<ICE-SIN:S2A-059#84:1:A>
+So if you drag and release drag and release this would have been
+resized
+
+<ICE-SIN:S2A-059#85:1:A>
+If you drag and release at the corner you're resizing from both
+sides
+
+<ICE-SIN:S2A-059#86:1:A>
+Okay if you're doing for one side you're resizing it from one side
+only
+
+<ICE-SIN:S2A-059#87:1:A>
+That's when you need to to resize it yourself
+
+<ICE-SIN:S2A-059#88:1:A>
+Okay that's why the scroll bar is is there to to to uh let you see
+the whichever path you <unclear> word </unclear> after the resizing <unclear>
+word </unclear>
+
+<ICE-SIN:S2A-059#89:1:A>
+Okay window corner window border we've touched that
+
+<ICE-SIN:S2A-059#90:1:A>
+Selection cursor insertion point this one I have explained before
+
+<ICE-SIN:S2A-059#91:1:A>
+Okay this is the point where once you see that blinking there
+whatever you type whatever you put in on the keyboard it would be reflected
+there
+
+<ICE-SIN:S2A-059#92:1:A>
+Okay that's page eleven
+
+<ICE-SIN:S2A-059#93:1:A>
+Any question on the terminology for Windows parts of the Window
+
+<ICE-SIN:S2A-059#94:1:A>
+Chapter three we have lots of hands-on so uh once we go to chapter
+three we have a few exercises to do
+
+<ICE-SIN:S2A-059#95:1:A>
+Chapter three is a very very important chapter
+
+<ICE-SIN:S2A-059#96:1:A>
+Once you get a hang of chapter three uh you know what Windows is
+all about
+
+<ICE-SIN:S2A-059#97:1:A>
+Okay let's go to chapter three
+
+<ICE-SIN:S2A-059#98:1:A>
+Uhm page thirteen you don't get to see all these things because
+you're in a different environment
+
+<ICE-SIN:S2A-059#99:1:A>
+Okay Programme manager is central to the operation of Windows
+
+<ICE-SIN:S2A-059#100:1:A>
+It starts automatically whenever you start Windows
+
+<ICE-SIN:S2A-059#101:1:A>
+It continues to run as long as you're using Windows
+
+<ICE-SIN:S2A-059#102:1:A>
+So Programme Manager is the one that I've that I've always stress
+upon
+
+<ICE-SIN:S2A-059#103:1:A>
+Programme Manager
+
+<ICE-SIN:S2A-059#104:1:A>
+Okay the Programme Manager that you see on your environment is a
+full screen Programme Manager
+
+<ICE-SIN:S2A-059#105:1:A>
+So you never ever get to see the green desktop actually
+
+<ICE-SIN:S2A-059#106:1:A>
+Okay later I'll demonstrate
+
+<ICE-SIN:S2A-059#107:1:A>
+If you resize your Programme Manager you should be able to see
+parts of the three desktop here
+
+<ICE-SIN:S2A-059#108:1:A>
+When we push it to full screen because we need as much space as
+possible for all the applications
+
+<ICE-SIN:S2A-059#109:1:A>
+Okay uhm let's skip the two lines there let's go down to the last
+paragraph
+
+<ICE-SIN:S2A-059#110:1:A>
+Notice there are technical group icons at the bottom of your
+Programme Manager
+
+<ICE-SIN:S2A-059#111:1:A>
+You've got accessories group A group servor <unclear> word
+</unclear> and group applications group
+
+<ICE-SIN:S2A-059#112:1:A>
+All this you can't see it here because we are having the NUSNET
+environment
+
+<ICE-SIN:S2A-059#113:1:A>
+Okay it's not important let's go to page fourteen
+
+<ICE-SIN:S2A-059#114:1:A>
+More definitions
+
+<ICE-SIN:S2A-059#115:1:A>
+Okay let's go to page fourteen and uh once again I want to explain
+something on the screen
+
+<ICE-SIN:S2A-059#116:1:A>
+Group Windows
+
+<ICE-SIN:S2A-059#117:1:A>
+Okay group windows
+
+<ICE-SIN:S2A-059#118:1:A>
+Group windows programme item icons
+
+<ICE-SIN:S2A-059#119:1:A>
+All these things are called group icons
+
+<ICE-SIN:S2A-059#120:1:A>
+What do you mean by group
+
+<ICE-SIN:S2A-059#121:1:A>
+Group in the sense that uhm they collect more things
+
+<ICE-SIN:S2A-059#122:1:A>
+They are not application icons in the sense that when you double
+click on this it doesn't run anything for you
+
+<ICE-SIN:S2A-059#123:1:A>
+What it does is that it opens up another windows with more icons
+this side
+
+<ICE-SIN:S2A-059#124:1:A>
+So it's called a group icon
+
+<ICE-SIN:S2A-059#125:1:A>
+And with <unclear> word </unclear> this icon opens up to a group
+window
+
+<ICE-SIN:S2A-059#126:1:A>
+For example word-processing this is your group window for
+word-processing
+
+<ICE-SIN:S2A-059#127:1:A>
+So you double click on this control menu box
+
+<ICE-SIN:S2A-059#128:1:A>
+It shrink back to a group icon or you double click on languages
+compilers
+
+<ICE-SIN:S2A-059#129:1:A>
+It opens up to a languages compilers group window showing you more
+icon inside
+
+<ICE-SIN:S2A-059#130:1:A>
+Okay what happen is inside the word-processing uh group window you
+have more icons inside and these icons are application icons in the sense
+that when you double click on them it does something for you
+
+<ICE-SIN:S2A-059#131:1:A>
+It runs the application already
+
+<ICE-SIN:S2A-059#132:1:A>
+So when you double click on WordPerfect it runs WordPerfect for
+you
+
+<ICE-SIN:S2A-059#133:1:A>
+You double click on MicroSoft Word five point five it runs that
+application for as opposed to these icons here which when you double click it
+shows you more icons that's all
+
+<ICE-SIN:S2A-059#134:1:A>
+Okay so these are programme item icons these are group icons and
+this one is a group window
+
+<ICE-SIN:S2A-059#135:1:A>
+Get it this terminologies once you are used to them you don't have
+to bother about them which is it's just very natural okay
+
+<ICE-SIN:S2A-059#136:1:A>
+And Windows three point one has its limitation in the sense it can
+take only up to two levels which means that programme manager is the group's
+level and this is group level one
+
+<ICE-SIN:S2A-059#137:1:A>
+Group level one opens up to group level two
+
+<ICE-SIN:S2A-059#138:1:A>
+And by the time you come to group level two you can't have a group
+icon inside here already
+
+<ICE-SIN:S2A-059#139:1:A>
+Maybe you can but uh what happens is that there is a limit
+
+<ICE-SIN:S2A-059#140:1:A>
+There is no such thing as putting a group icon into this another
+one opens up to another group icon this icon opens up to another window
+
+<ICE-SIN:S2A-059#141:1:A>
+Okay there comes to a time when you have to dump in programme item
+icons in that window
+
+<ICE-SIN:S2A-059#142:1:A>
+You can't go on anymore
+
+<ICE-SIN:S2A-059#143:1:A>
+That's the limitation and that's why we have so many icons here so
+many windows because NUSNET has so many applications
+
+<ICE-SIN:S2A-059#144:1:A>
+And Windows three point one up to uh only gives you up to only two
+levels in the hierachy
+
+<ICE-SIN:S2A-059#145:1:A>
+So what happens is that you've got uhm a very uhm more than
+complicated kind of <unclear> word </unclear>
+
+<ICE-SIN:S2A-059#146:1:A>
+Okay I've touched on page fourteen
+
+<ICE-SIN:S2A-059#147:1:A>
+Any problem on page fourteen
+
+<ICE-SIN:S2A-059#148:1:A>
+Group windows group icons programme item icons
+
+<ICE-SIN:S2A-059#149:1:A>
+Okay what happens is programme item icons just band in one
+programme item icons are active icons
+
+<ICE-SIN:S2A-059#150:1:A>
+If you double click on them it it will run something for you
+according to the definition you attach to that icon
+
+<ICE-SIN:S2A-059#151:1:A>
+Okay group icon and group windows are just uh what group windows
+are just window <unclear> word </unclear>
+
+<ICE-SIN:S2A-059#152:1:A>
+It's just a window <unclear> word </unclear>
+
+<ICE-SIN:S2A-059#153:1:A>
+It gives you more icons
+
+<ICE-SIN:S2A-059#154:1:A>
+Inside your group icons where you have shrunk to this Okay
+
+<ICE-SIN:S2A-059#155:1:A>
+I I'm not gonna touch accesories group games group and application
+group because our NUSNET environment doesn't <unclear> word </unclear>
+
+<ICE-SIN:S2A-059#156:1:A>
+What I what I can point out is accesories group accesories group
+which you have it on here
+
+<ICE-SIN:S2A-059#157:1:A>
+Okay in accesories group you have write paintbrush terminal
+notepad reporter and so on
+
+<ICE-SIN:S2A-059#158:1:A>
+<unclear> word </unclear> explain briefly what are the functions
+of each one
+
+<ICE-SIN:S2A-059#159:1:A>
+Write is actually a very primitive word-processing application
+
+<ICE-SIN:S2A-059#160:1:A>
+Paintbrush is also very primitive graphics application
+
+<ICE-SIN:S2A-059#161:1:A>
+Terminal is for you when you want to uh put in a a modem or
+whatever when you want to dial up to NUSNET from from your place at home you
+have to double click on terminal and <unclear> word </unclear> by <unclear>
+word </unclear> and so on and so forth <X>
+
+<ICE-SIN:S2A-059#X162:1:A>
+Notepad as I have demonstrated just now is also a primitive
+word-processor Normally we use it for text editing Recorder is a macro
+recorder in the sense that it could uhm uhm record uhm all your actions for
+you and you save it in with one with one one key uhm what you call it a a
+combination key key notes you call it So when once you just or put in the key
+notes you could run the whole series of uhm run functions That's what a
+recorder is Hard-file is your hard-file Calender is your calender Calcu is
+the calculator Clock clock tells you the time that is based on instant time
+on your on your machine I could change between digital and analog one Object
+packager later I'll explain O L E Character map media player sound recording
+and voice Sound record you need an extra sound card Character map is for you
+to install extra characters like uh Greek or whatever character Okay I'm not
+going to touch on that Maybe now I should explain something on uh O L E I
+didn't touch on O L E Could I have the lights on Thank you very much </X>
+</I>

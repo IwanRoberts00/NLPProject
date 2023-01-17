@@ -1,0 +1,492 @@
+<I>
+
+<ICE-SIN:W2B-036#1:1>
+<h> Electronic mail anywhere </h>
+
+<ICE-SIN:W2B-036#2:1>
+by Joanne Lee
+
+<ICE-SIN:W2B-036#3:1>
+A NEW super-pager device for people who need to receive electronic
+messages out in the field may be launched soon.
+
+<ICE-SIN:W2B-036#4:1>
+It will enable them to receive numerical messages from telephones (
+like a normal pager) and electronic mail from desktop PCs.
+
+<ICE-SIN:W2B-036#5:1>
+They will need a Hewlett Packard HP 95LX palmtop computer and a
+receiving device called the Motorola News Stream.
+
+<ICE-SIN:W2B-036#6:1>
+A desktop PC running a special software from Hewlett Packard will be
+able to send messages of up to 400 characters to a palmtop or a group of
+palmtops anywhere in Singapore.
+
+<ICE-SIN:W2B-036#7:1>
+The messages will be automatically directed to update appointments,
+spreadsheets, telephone directories and to-do lists in the palmtop.
+
+<ICE-SIN:W2B-036#8:1>
+One of the first target groups of users will be forex dealers, who
+will be able to receive instantaneous updates of financial information from
+Reuters Information Services, HP told Life!
+
+<ICE-SIN:W2B-036#9:1>
+It is negotiating with Singapore Telecom and Reuters Information
+Services on the details about the new service.
+
+<ICE-SIN:W2B-036#10:1>
+Forex dealers can already receive the Reuters service through a
+special pager that allows them to see the incoming information line by line.
+
+<ICE-SIN:W2B-036#11:1>
+The HP system, however, can display a whole screen of 400 characters
+at a time.
+
+<ICE-SIN:W2B-036#12:1>
+If the negotiations come through, Singapore will be one of the few
+forex markets in the world with this service, HP said.
+
+<ICE-SIN:W2B-036#13:1>
+Negotiations for a service in Hong Kong is under way.
+
+<ICE-SIN:W2B-036#14:1>
+Launched in April 1990, the HP 95LX has a list price of
+&dollar;800 for the 512 kilobyte RAM and
+&dollar;1,200 for the new 1 megabyte RAM.
+
+<ICE-SIN:W2B-036#15:1>
+But they will be on offer at
+&dollar;576 and
+&dollar;980 respectively until June 1.
+
+<ICE-SIN:W2B-036#16:1>
+The palmtop comes with built-in software such as the MS-DOS
+operating system, the Lotus 1-2-3, an advanced financial calculator, data
+communications software, a memo-editor, phone book and appointment book.
+
+<ICE-SIN:W2B-036#17:1>
+The Motorola NewsStream receiver, which costs
+&dollar;500, is sold separately. </I>
+
+<I>
+
+<ICE-SIN:W2B-036#18:2>
+<h> How safe is your system? </h>
+
+<ICE-SIN:W2B-036#19:2>
+Despite proposed laws against misuse, computers everywhere are at
+risk
+
+<ICE-SIN:W2B-036#20:2>
+by Grace Chng
+
+<ICE-SIN:W2B-036#21:2>
+On Mar 6, an electronic virus named Michelangelo struck computer
+systems around the world, wreaking untold havoc.
+
+<ICE-SIN:W2B-036#22:2>
+A fortnight ago, two hackers in the US pleaded guilty to breaking
+into computer systems in what US authorities termed " crimes of the future".
+
+<ICE-SIN:W2B-036#23:2>
+Meanwhile, a 19-year-old British youth was found not guilty for
+breaking into computer systems including those of the Ministry for Defence.
+
+<ICE-SIN:W2B-036#24:2>
+Singapore is not immune to the activities of such criminals.
+
+<ICE-SIN:W2B-036#25:2>
+And it is to protect against them that the proposed computer misuse
+law was introduced earlier this month in parliament.
+
+<ICE-SIN:W2B-036#26:2>
+The Computer Misuse Bill is intended on cracking down on computer
+crimes here as well as those crimes committed from outside the country via
+telephone lines but affect systems in Singapore.
+
+<ICE-SIN:W2B-036#27:2>
+According to Prof Chin Tet Yung, Dean of the Law Faculty, National
+University of Singapore, laws against computer misuse were not introduced
+earlier because " the problem had not become that great even on a global
+basis".
+
+<ICE-SIN:W2B-036#28:2>
+The laws are now needed here as Singapore is in an advanced stage of
+its computerisation programme.
+
+<ICE-SIN:W2B-036#29:2>
+The threat will be increased as Singapore implements IT2000, a
+blue-print that will see Singapore criss-crossed by electronic highways which
+are ultimately plugged into global networks.
+
+<ICE-SIN:W2B-036#30:2>
+These electronic links can be accessed by a hacker anywhere in the
+world equipped with only a computer.
+
+<ICE-SIN:W2B-036#31:2>
+" This seems remote," said Prof Chin, " but once we are
+electronically linked to the rest of the world, such activities can happen".
+
+<ICE-SIN:W2B-036#32:2>
+Prof Chin, who is also the chairman of the sub-committee on computer
+technology and the law at the Singapore Academy of Law, sees enormous
+security risks in the proliferation of networking in organisations.
+
+<ICE-SIN:W2B-036#33:2>
+He cited an example: " A medical database contains patients' data
+available only to doctors.
+
+<ICE-SIN:W2B-036#34:2>
+But what if someone gains unauthorised access to the data and changes
+vital information such as medication?
+
+<ICE-SIN:W2B-036#35:2>
+Lives can be endangered".
+
+<ICE-SIN:W2B-036#36:2>
+The laws, when they come into effect, will help deter misuse,
+especially by casual hackers.
+
+<ICE-SIN:W2B-036#37:2>
+But laws can do only so much to protect computer users.
+
+<ICE-SIN:W2B-036#38:2>
+Organisations need to take preventive measures to protect from data
+loss and virus attacks, and also against computer frauds and breakdowns.
+
+<ICE-SIN:W2B-036#39:2>
+Said Prof Chin: " What is more necessary than laws is the creation of
+awareness among computer professionals and users on the need for security".
+
+<ICE-SIN:W2B-036#40:2>
+Certainly, awareness has been growing in recent years, as reflected
+in the increasing number of computer security conferences here.
+
+<ICE-SIN:W2B-036#41:2>
+Media publicity on the Michelangelo and other viruses as well as
+offenders who access computer systems illegally have also helped in damage
+control.
+
+<ICE-SIN:W2B-036#42:2>
+Mr Chew Teck Soon, a partner with management consultants Coopers and
+Lybrand, believes that with the mushrooming of international data networking,
+there needs to be an authority that can police the flow of information across
+borders.
+
+<ICE-SIN:W2B-036#43:2>
+This is still a very grey area at the moment, he said.
+
+<ICE-SIN:W2B-036#44:2>
+" Countries have incorporated it into their legislation in terms of
+defining their scope of where and what they can prosecute".
+
+<ICE-SIN:W2B-036#45:2>
+The recently introduced Computer Misuse Bill has included this
+trans-border data flow crimes.
+
+<ICE-SIN:W2B-036#46:2>
+The bill covers offences on computer systems here or committed from
+outside the country via telephone lines.
+
+<ICE-SIN:W2B-036#47:2>
+Beyond that, Prof Chin of NUS's Law Faculty sees a need for a " code
+of conduct for computer professionals not only for security but also for data
+protection and privacy".
+
+<ICE-SIN:W2B-036#48:2>
+Added Coopers' Mr Chew: " The group of young adults proficient in
+computers is growing.
+
+<ICE-SIN:W2B-036#49:2>
+If the ethics of these people is not managed well, we stand a greater
+risk of a juvenile delinquent breaking into a system here".
+
+<ICE-SIN:W2B-036#50:2>
+At the end of the day, however, the toughest laws and the most
+sophisticated security system will not keep out the most determined of
+criminals.
+
+<ICE-SIN:W2B-036#51:2>
+The problem then is having people who know how to nab the electronic
+criminals.
+
+<ICE-SIN:W2B-036#52:2>
+The traditional policeman is no longer enough.
+
+<ICE-SIN:W2B-036#53:2>
+The new-age law enforcer is more likely to be the savvy computer
+wizard who understands electronic pulses and cyberspace - - the area between
+two computers - - to be a hacker. </I>
+
+<I>
+
+<ICE-SIN:W2B-036#54:3>
+<h> Inside DOS 6 </h>
+
+<ICE-SIN:W2B-036#55:3>
+DOS 6, the long-awaited update to the most widely-used operating
+software in the world, DOS 5, is now out.
+
+<ICE-SIN:W2B-036#56:3>
+Francis Chin gives it the once-over.
+
+<ICE-SIN:W2B-036#57:3>
+Microsoft's DOS version 6 is now available.
+
+<ICE-SIN:W2B-036#58:3>
+DOS, or Disk Operating System, controls the entire working of the
+personal computer, from the XT to the top-of-the-line 486/66 machine.
+
+<ICE-SIN:W2B-036#59:3>
+Currently, almost users have MS-DOS 5 in their PCs.
+
+<ICE-SIN:W2B-036#60:3>
+There is only one competitor's operating system, known as DR-DOS ( DR
+stands for Digital Research), which can replace Microsoft's system.
+
+<ICE-SIN:W2B-036#61:3>
+DR-DOS is more powerful, has more features and functions, and is no
+more difficult to use than MS-DOS.
+
+<ICE-SIN:W2B-036#62:3>
+Very few people have heard of DR-DOS because of poor or non-existent
+promotion and marketing.
+
+<ICE-SIN:W2B-036#63:3>
+MS-DOS 6 is intended to solve two common problems: insufficient
+conventional memory and a full hard disk.
+
+<ICE-SIN:W2B-036#64:3>
+<h> Conventional memory </h>
+
+<ICE-SIN:W2B-036#65:3>
+All PCs running on DOS have only 640 kilobytes of processing memory
+to access and handle application programs.
+
+<ICE-SIN:W2B-036#66:3>
+This 640K is the limit, regardless of the millions of bytes of RAM
+you may have put inside the machine.
+
+<ICE-SIN:W2B-036#67:3>
+So, you have the weird but very common situation in which you have 4
+million bytes of RAM and your computer uses only 640,000 bytes.
+
+<ICE-SIN:W2B-036#68:3>
+The other 3,380,000 bytes appear to be idle and quite useless.
+
+<ICE-SIN:W2B-036#69:3>
+Meanwhile, of the 640K, a bit goes to handling your mouse, a bit goes
+to taking care of your sound card, a bit goes to disk-caching ( faster
+transfer of data from the hard disk to the processor) and a bit goes to other
+devices hooked to the PC.
+
+<ICE-SIN:W2B-036#70:3>
+All these bits add up and usually you are left with say 550K of
+conventional memory.
+
+<ICE-SIN:W2B-036#71:3>
+When you start your favourite word processor programme or flight
+simulator game, you get this message on screen: insufficient memory.
+
+<ICE-SIN:W2B-036#72:3>
+You read the box cover of your game again and there in small print it
+says: This game requires 600K of memory.
+
+<ICE-SIN:W2B-036#73:3>
+Drat!
+
+<ICE-SIN:W2B-036#74:3>
+For a company thought to be run by pretty smart people, you wonder
+why Microsoft gives you the dumb 640K limit, leaving out those millions of
+bytes you still have in the rest of your RAM chips.
+
+<ICE-SIN:W2B-036#75:3>
+In MS-DOS 5, Microsoft tried to redeem itself by creating upper
+memory segments, expanded memory and extended memory.
+
+<ICE-SIN:W2B-036#76:3>
+All those bits of memory needed for your mouse, disk-cache, sound
+card and other devices can be taken from upper memory which is something
+above the 640K conventional memory.
+
+<ICE-SIN:W2B-036#77:3>
+With odd commands like DEVICEHIGH and LOADHIGH, you now have 610K,
+which is just adequate to fly your F-15 simulated jet over Baghdad, complete
+with the roar of the after-burners and the whistling of the wind over your
+Plexiglass cockpit.
+
+<ICE-SIN:W2B-036#78:3>
+The new MS-DOS 6 offers more of the same memory juggling feature
+which now goes by the fancy name of MemMaker.
+
+<ICE-SIN:W2B-036#79:3>
+Already in the past week since a review in Singapore, power users are
+name-dropping MemMaker in their conversation the way you toss ketchup on
+stale spaghetti.
+
+<ICE-SIN:W2B-036#80:3>
+Personally, I do not see much difference in what Memmaker can do
+compared with what MS-DOS 5 has already accomplished.
+
+<ICE-SIN:W2B-036#81:3>
+<h> Hard-Disk Capacity </h>
+
+<ICE-SIN:W2B-036#82:3>
+It is an iron-clad law that data and application programmes expand
+faster than the hard disk can store them.
+
+<ICE-SIN:W2B-036#83:3>
+Three years back, a 40MB hard disk was quite capacious; now a 200MB
+disk ( at
+&dollar;900) is barely enough.
+
+<ICE-SIN:W2B-036#84:3>
+Now Microsoft says that with MS-DOS 6, you can temporarily halt this
+madness of changing your hard disk every year.
+
+<ICE-SIN:W2B-036#85:3>
+It offers a feature, called DoubleSpace, which squeezes the data
+inside the hard disk to half their normal size, in effect doubling the
+storage.
+
+<ICE-SIN:W2B-036#86:3>
+So a 200MB disk becomes a virtual 400MB, using DoubleSpace.
+
+<ICE-SIN:W2B-036#87:3>
+The squeeze on your data is safe and you need not bother how it
+works.
+
+<ICE-SIN:W2B-036#88:3>
+Now you can throw away Stacker 3.0 ( if you are using a pirated copy
+bought for
+&dollar;5 at Katong Shopping Center), a special software from Stac Electronics that
+does basically the same thing.
+
+<ICE-SIN:W2B-036#89:3>
+There is something not quite right here: originally Microsoft wanted
+to use the Stacker technique for its DoubleSpace.
+
+<ICE-SIN:W2B-036#90:3>
+It discussed this with Stac Electronics, then said it could do it
+without Stac's assistance.
+
+<ICE-SIN:W2B-036#91:3>
+Stac has since sued Microsoft in a Los Angeles court for alleged
+stealing of its patented techniques and using them in DoubleSpace.
+
+<ICE-SIN:W2B-036#92:3>
+Microsoft officials in Singapore say what is employed inside
+DoubleSpace has nothing to do with Stac's patents.
+
+<ICE-SIN:W2B-036#93:3>
+But they declined to comment further.
+
+<ICE-SIN:W2B-036#94:3>
+<h> Other features </h>
+
+<ICE-SIN:W2B-036#95:3>
+DOS 6 throws in lots of extras to make your daily housekeeping chores
+less tedious.
+
+<ICE-SIN:W2B-036#96:3>
+* Backup facility ( in a DOS and Windows version) for fast backup of
+data from the hard disk to floppies and tapes.
+
+<ICE-SIN:W2B-036#97:3>
+* Anti-virus protection scheme to scan, detect and destroy viruses.
+
+<ICE-SIN:W2B-036#98:3>
+* Undelete to bring back to life the file you have deleted.
+
+<ICE-SIN:W2B-036#99:3>
+* Defrag for " unfragmentising" files and data that are scattered in
+a mess on the hard disk.
+
+<ICE-SIN:W2B-036#100:3>
+* Three new commands for the C prompt - - MOVE, DELTREE and CHOICE.
+
+<ICE-SIN:W2B-036#101:3>
+<h> Prices </h>
+
+<ICE-SIN:W2B-036#102:3>
+The DOS 6 package that you can buy off the shelf is for upgrading
+only.
+
+<ICE-SIN:W2B-036#103:3>
+This means that your computer must have already been running any
+earlier version of DOS.
+
+<ICE-SIN:W2B-036#104:3>
+The installation of DOS 6 will overwrite the old systems files.
+
+<ICE-SIN:W2B-036#105:3>
+DOS 6 is priced at
+&dollar;99.95. 
+
+<ICE-SIN:W2B-036#106:3>
+Microsoft Corporation says all major PC manufacturers are
+expected to pre-install DOS 6 in their new machines.
+
+<ICE-SIN:W2B-036#107:3>
+So, should you move to DOS 6?
+
+<ICE-SIN:W2B-036#108:3>
+If you have just bought a PC, definitely.
+
+<ICE-SIN:W2B-036#109:3>
+If you are already using DOS 5 plus pirated versions of utility
+software like PC tools, Norton Desktop and Stacker, definitely.
+
+<ICE-SIN:W2B-036#110:3>
+But if you have bought original copies of the above utilities (
+which can total over
+&dollar;500), do not make the switch just yet.
+
+<ICE-SIN:W2B-036#111:3>
+Wait and see. </I>
+
+<I>
+
+<ICE-SIN:W2B-036#112:4>
+<h> 3Com Palm III: Death of the Filofax? </h>
+
+<ICE-SIN:W2B-036#113:4>
+Palm Computing, Inc., a 3Com company has produced the third
+generation of its award-winning and highly popular Palmpilot: the Palm III.
+
+<ICE-SIN:W2B-036#114:4>
+With more than a million units of its predecessor the PalmPilot sold
+worldwide, this latest gadget looks set to become the preferred product for
+digital organiser users here and abroad.
+
+<ICE-SIN:W2B-036#115:4>
+The new palm III looks much sleeker, with softer edges all around
+and even a protective flip cover to make this essential gadget look like a
+Star Trek Tricoder only slimmer. <X>
+
+<ICE-SIN:W2B-036#X116:4>
+Weighing in at just 6 ounces, this " can-do" machine comes with 2
+megabytes of memory, stores 6,000 addresses, 1,500 " to-do" items, 1,500
+memos, 200 e-mail messages, and 3,000 appointments.
+
+<ICE-SIN:W2B-036#X117:4>
+what's more, it features improved handwriting recognition and
+infra-red capabilities for easy data transferral.
+
+<ICE-SIN:W2B-036#X118:4>
+The Palm III's organiser applications include a date book, address
+book, mail, " to do" list, memo pad, expense, calculator, games, and a
+HotSync feature for easy exchange of data to and from your desktop computer.
+
+<ICE-SIN:W2B-036#X119:4>
+Now all you need is a teleport device to beam you from the
+thousands of places you have to be today.
+
+<ICE-SIN:W2B-036#X120:4>
+I've thought of enquiring with 3Com but I don't think they are
+working on it yet.
+
+<ICE-SIN:W2B-036#X121:4>
+Tsk. </X> </I>

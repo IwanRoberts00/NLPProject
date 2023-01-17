@@ -1,0 +1,371 @@
+<I>
+
+<$A> 
+<ICE-SIN:S2A-027#1:1:A>
+It's the uhm latest 32 bit operating system from Microsoft
+which will offer you both uh the power and reliability but more importantly
+it is an open operating system that is uhm scalable with hardware and
+portable across multiple platform
+
+<ICE-SIN:S2A-027#2:1:A>
+Uhm in Microsoft we have this internal rating of our product uhm
+that is we have products that we develop that we think they are real cool and
+we have products that we think that they are way cool but for Windows NT we
+think they are absolutely awesome
+
+<ICE-SIN:S2A-027#3:1:A>
+Okay we are we are really thrilled with the roll out plan of Windows
+NT and particularly with the broad industries report behind Windows NT that
+you will get to see when I present my charts itself okay
+
+<ICE-SIN:S2A-027#4:1:A>
+So in the next uh thirty minutes or so I'll like to be able to just
+go through an overview of Windows NT so that you know uh what Windows NT is
+all about what are the benefits it brings to you and hopefully it'll be it
+will excite you enough to make sure that you come to my uh Windows NT launch
+which is in a couple of months
+
+<ICE-SIN:S2A-027#5:1:A>
+So stay tune and look out for the uh the press release or or the
+announcement of the launch
+
+<ICE-SIN:S2A-027#6:1:A>
+First I'll like to just share with you what is Microsoft system
+strategy and what is our key objective
+
+<ICE-SIN:S2A-027#7:1:A>
+One we really want to build the Windows uh fam into a family of
+products
+
+<ICE-SIN:S2A-027#8:1:A>
+You are quite well aware of today that Windows 3.1 is in fact the
+defacto standard
+
+<ICE-SIN:S2A-027#9:1:A>
+It's selling more than a million copies per month so what and and it
+is primarily being uh uh available uh or being run on on a desktop
+environment itself
+
+<ICE-SIN:S2A-027#10:1:A>
+So what we what to do is really to extend Windows NT's family uh or
+rather Windows family to reach the corporate mission critical computing
+environment
+
+<ICE-SIN:S2A-027#11:1:A>
+And also reach downwards to non PC devices such as office and
+consuming uh consumer environment which you will a lot about it in a couple
+of months
+
+<ICE-SIN:S2A-027#12:1:A>
+So if you will this is really a uh graphical representation of our
+system strategy okay
+
+<ICE-SIN:S2A-027#13:1:A>
+And uh there are various options by which we could uhm uhm consider
+in implementing our Win fab Windows family of products
+
+<ICE-SIN:S2A-027#14:1:A>
+One is that we're going to have taken a one size fit all kind of
+approach whereby uh we build one implementation of Windows and making sure it
+address all the requirements of the user
+
+<ICE-SIN:S2A-027#15:1:A>
+Or the another approach is what uh is is to build a single uh
+architecture such <unclear> word </unclear> such that it provide a very
+consistent look and feel a very consistent programming model
+
+<ICE-SIN:S2A-027#16:1:A>
+And also a ability to provide assistance uh consistent underlying
+network uh technology so that the idea is that you can have a single
+architecture
+
+<ICE-SIN:S2A-027#17:1:A>
+But you can implement new technology in the various uhm uh
+implement it in various ways such that it will address all the various
+specific users' needs okay
+
+<ICE-SIN:S2A-027#18:1:A>
+So we have adopted the latter approach and we think it is a uh
+unique approach in the market place <unclear> word </unclear>
+
+<ICE-SIN:S2A-027#19:1:A>
+Given the ability to spend Windows NT of products from all the way
+notebook pen-computing and all the way to a RISC work station and symmetric
+multi-processing environment itself
+
+<ICE-SIN:S2A-027#20:1:A>
+To the Windows family of products includes Windows 3.1 Windows
+workbook NT Windows NT and even the advance server
+
+<ICE-SIN:S2A-027#21:1:A>
+They are all complementary products and are not meant to replace
+one another itself
+
+<ICE-SIN:S2A-027#22:1:A>
+So if you look at Windows and Windows workgroup it is primarily uhm
+a the desktop application arena where it focus on the individual PC user uh
+enhancing its productivity and being the mainline business application for
+the user itself
+
+<ICE-SIN:S2A-027#23:1:A>
+Whereas Windows NT is directly a super set of Windows 3.1 or
+Windows for workbook if you will
+
+<ICE-SIN:S2A-027#24:1:A>
+Okay it is really targeted at the business and technical computing
+environment
+
+<ICE-SIN:S2A-027#25:1:A>
+It is designed to the client server uh a client server is designed
+to the client server operating system providing a high level of uh
+functionality and robustness in the operating system so that its needs is
+very targeted on the inset itself okay
+
+<ICE-SIN:S2A-027#26:1:A>
+So what are some of the design goals when we started the Windows NT
+
+<ICE-SIN:S2A-027#27:1:A>
+We wanted it to be a small true 32-bit multi-tasking operating
+system based upon the microkerner uh design okay
+
+<ICE-SIN:S2A-027#28:1:A>
+That it has to be portable across Intel and the RISC platform and
+it will have to support multiple subsystem such as DOS Win 16 Win 32 POSIX OS
+2 right
+
+<ICE-SIN:S2A-027#29:1:A>
+And it also has to support the very the merging multiprocessing uh
+environment itself
+
+<ICE-SIN:S2A-027#30:1:A>
+And finally huge capacities because we're talking about business
+and the technical computing environment
+
+<ICE-SIN:S2A-027#31:1:A>
+Since we started our we held our first uh Windows NT 32 developers
+conference in San Francisco the momentum for Windows NT is just tremendous
+
+<ICE-SIN:S2A-027#32:1:A>
+And I just want to take a few moments to go through a couple of
+charts to tell you what where are where are the industry support what are
+industry talking about it okay
+
+<ICE-SIN:S2A-027#33:1:A>
+Uhm we have managed to ship about sixty thousands SD case which are
+software development kit uh within seven months from the day we uh had the uh
+Windows developer conference in San Francisco
+
+<ICE-SIN:S2A-027#34:1:A>
+And we have about four hun four thousand corporate customers
+worldwide evaluating Windows NT today and I and that number is going to go up
+to twenty thousand with a <unclear> word </unclear> with a much later
+
+<ICE-SIN:S2A-027#35:1:A>
+And in fact the book Inside Windows NT and if some of you have
+attended uh the lucky three hundred customers who attended my Windows NT
+corporate preview in March you might have a copy of this book
+
+<ICE-SIN:S2A-027#36:1:A>
+In fact it has been the number two uh in the computer book uh best
+selling list
+
+<ICE-SIN:S2A-027#37:1:A>
+In fact it outsell the famous book by Madonna itself
+
+<ICE-SIN:S2A-027#38:1:A>
+And uh we have just recently completed a survey uhm we did a random
+uh sample of the people at that time who have purchased the software
+development kit to find out who they are and what they are intending to do
+with it cause that that is important to us as well as for our customer itself
+
+<ICE-SIN:S2A-027#39:1:A>
+And we find that eighty three per cent of the guys who actually
+bought it are developer so that's good news
+
+<ICE-SIN:S2A-027#40:1:A>
+And ten per cent of these guys are con consultants and seven per
+cent of them are end user
+
+<ICE-SIN:S2A-027#41:1:A>
+And when we ask what they were going to do with the developer kit
+twenty-one per cent said they were actually going to develop applications for
+resell alright
+
+<ICE-SIN:S2A-027#42:1:A>
+Twenty-seven said it was for internal use and eighteen per cent for
+consulting customers uhm
+
+<ICE-SIN:S2A-027#43:1:A>
+Obviously it's going to be a a formable forth in an environment and
+consultants have to know how to consul how to implement for their customers
+in consultancy area
+
+<ICE-SIN:S2A-027#44:1:A>
+And four per cent of that data be for personal use
+
+<ICE-SIN:S2A-027#45:1:A>
+But more but more interesting is this chart and I do apologise for
+it being very wordy and actually not very clear it's not very sharp
+
+<ICE-SIN:S2A-027#46:1:A>
+Uhm about three thousand developer says that they going have us
+develop more than nine thousand retail Windows application NT applications
+within the next twelve months
+
+<ICE-SIN:S2A-027#47:1:A>
+Excuse me
+
+<ICE-SIN:S2A-027#48:1:A>
+And that's a lot of application uh on Windows NT to be available as
+it roll out uh in in the next couple of months
+
+<ICE-SIN:S2A-027#49:1:A>
+And fifty-seven per cent of these developers said they in fact are
+developing Windows NT application for mission critical line and business
+applications
+
+<ICE-SIN:S2A-027#50:1:A>
+This is exactly what we have targeted it for and it's and we are
+develop developing mission critical line and bi business application for
+Windows NT
+
+<ICE-SIN:S2A-027#51:1:A>
+And sixty-nine per cent of the new Windows NT application in fact
+is designed in a client server environment
+
+<ICE-SIN:S2A-027#52:1:A>
+And twenty-five per cent of developers are actually beginning to
+port UNIX MBS and even BMS application uh onto Windows NT itself
+
+<ICE-SIN:S2A-027#53:1:A>
+There are a lot of developer too tools available today seventy plus
+of them and you see a lot more being available as the product being rolled
+out
+
+<ICE-SIN:S2A-027#54:1:A>
+But what is really interesting to find is that leading mainframe
+tool vendors like computer associate <unclear> word </unclear> knowledge ware
+these guys are porting their tools on Windows NT
+
+<ICE-SIN:S2A-027#55:1:A>
+And think about if you are a corporate uh or MIS developer you're
+so used to using these tools and we have the same tools running on Windows NT
+
+<ICE-SIN:S2A-027#56:1:A>
+And that would really facilitate your effort in uh trying to
+develop client server application itself
+
+<ICE-SIN:S2A-027#57:1:A>
+So who would want Windows NT
+
+<ICE-SIN:S2A-027#58:1:A>
+Definitely the Windows Power users
+
+<ICE-SIN:S2A-027#59:1:A>
+By that we mean these are the people uhm who who will buy the the
+fastest and the greatest in technology
+
+<ICE-SIN:S2A-027#60:1:A>
+They will usually be the first adopter and they very often
+<unclear> word </unclear> play a role as a Window as a leader in the Windows
+community itself
+
+<ICE-SIN:S2A-027#61:1:A>
+So we certainly think that the Windows Power user will will be out
+there to grab for Windows NT MIS and Business solution builders definitely uh
+where their role is past the developing application for their organisation
+
+<ICE-SIN:S2A-027#62:1:A>
+Or for their customers Windows NT will definitely provide a very uh
+robust environment for which they can deploy solution for customers or for
+themselves their own organisation
+
+<ICE-SIN:S2A-027#63:1:A>
+Advance business application users these are the guys that is
+probably running a claims processing application in insurance industry or it
+could be a banking application or an order processing application
+
+<ICE-SIN:S2A-027#64:1:A>
+And these guys can actually run all these <unclear> word </unclear>
+application of Windows NT given that it's a very secure environment
+
+<ICE-SIN:S2A-027#65:1:A>
+Developers definitely our target uhm you've seen with the
+anti-clave a lot of developers are in fact developing applications for
+Windows NT
+
+<ICE-SIN:S2A-027#66:1:A>
+And finally the engineering and uh technical users so wherever they
+are a CAD/CAM designer for a automative or a airline uhm industry they
+certainly will be able to use Windows NT
+
+<ICE-SIN:S2A-027#67:1:A>
+Because there are a lot of the uh leading CAD/CAM software vendors
+today are porting their application to Windows NT and one of these examples
+is intergraph
+
+<ICE-SIN:S2A-027#68:1:A>
+In fact they they gonna port quite a complete suite of their
+products to Windows NT itself
+
+<ICE-SIN:S2A-027#69:1:A>
+So what is Windows NT
+
+<ICE-SIN:S2A-027#70:1:A>
+It has a core set of features okay and uhm one of the first and
+foremost one of the most important asset that you will able to uhm uh uh to
+to advantage is that the fact that Windows NT is Windows okay
+
+<ICE-SIN:S2A-027#71:1:A>
+So whether you're running a Windows application or looks like
+Windows and so forth it is Windows it is that user interface that you you've
+grown to use uh all this while and grown to love okay
+
+<ICE-SIN:S2A-027#72:1:A>
+In addition it will also have provides you with scaleable power
+security reliability easy management compatibility with a lot of the variety
+of systems that is available today
+
+<ICE-SIN:S2A-027#73:1:A>
+And most importantly an open platform for a lot of third party
+innovations itself and we'll go into some of these in details uhm uhm in this
+couple of charts
+
+<ICE-SIN:S2A-027#74:1:A>
+Windows NT is Windows so it won't within some uh common function as
+in Windows and that's typically that it is going to be easy to use
+
+<ICE-SIN:S2A-027#75:1:A>
+You act you can see Windows NT being demonstrated behind the room
+
+<ICE-SIN:S2A-027#76:1:A>
+It is exactly like the Windows interface data workend
+
+<ICE-SIN:S2A-027#77:1:A>
+So there is very little uhm uhm time needed in uh learning to use
+the system
+
+<ICE-SIN:S2A-027#78:1:A>
+All you need to want to be concern with is how do I use my
+application cause that's what you want the system do for you not learn a new
+operating system that has that require you to learn to to go through a new
+and to rethink
+
+<ICE-SIN:S2A-027#79:1:A>
+So this a very logical migration for someone who has been used to
+Windows environment sit on the Windows NT and start being productive of their
+system today
+
+<ICE-SIN:S2A-027#80:1:A>
+We certainly have a a a a very uh rich set of applications today
+that's already on Windows 3.1 and this set of applications will run on
+Windows NT <X>
+
+<ICE-SIN:S2A-027#X81:1:A>
+The last three points are really uh fundamental addition to the
+Windows platform of products which will begin to see as a consistent
+functionality that were prevalent in the whole suite of Windows family of
+products that is uh basically the Botian networking so as you buy Windows NT
+you could actually be able to do a peer to peer networking with your
+colleagues sharing files uh and printers and also email each other okay </X>
+</I>

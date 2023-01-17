@@ -1,0 +1,652 @@
+<I>
+<$A> 
+
+<ICE-SIN:S2A-051#1:1>
+Okay it's past ten now and I don't think there're any other people
+coming
+
+<ICE-SIN:S2A-051#2:1>
+If they can and if they do come well they just come in right
+
+<ICE-SIN:S2A-051#3:1>
+Uhm my name is Dahlia
+
+<ICE-SIN:S2A-051#4:1>
+I'm a reference librarian and uh this tutorial is actually to acquaint
+all of you with Linc and the resources in the library especially our new toy
+the CD-Rom
+
+<ICE-SIN:S2A-051#5:1>
+And before I start how many of you have problems using Linc
+
+<ICE-SIN:S2A-051#6:1>
+What kind of problems do you encounter
+
+<ICE-SIN:S2A-051#7:1>
+Do you feel comfortable with it
+
+<ICE-SIN:S2A-051#8:1>
+Can you find everything that you want from Linc <X>
+
+<ICE-SIN:S2A-051#X9:1>
+student: What do you mean that we have the book but it's not in Linc
+</X>
+
+<ICE-SIN:S2A-051#10:1>
+Okay our system just started running for about about two years or so
+
+<ICE-SIN:S2A-051#11:1>
+So we're still encountering a lot of <unclear> word </unclear>
+problems
+
+<ICE-SIN:S2A-051#12:1>
+uhm all materials from 1980 onward should be in Linc
+
+<ICE-SIN:S2A-051#13:1>
+Prior to that they will be in micro on microfiche and in our old
+database so we have not fully integrated everything right now
+
+<ICE-SIN:S2A-051#14:1>
+Have you used National library's uhm OPEC system
+
+<ICE-SIN:S2A-051#15:1>
+<O> student </O>
+
+<ICE-SIN:S2A-051#16:1>
+It's almost the same 'cause it's the first version
+
+<ICE-SIN:S2A-051#17:1>
+This is the enhanced version
+
+<ICE-SIN:S2A-051#18:1>
+And if we use National Library's uhm OPEC system you can place
+reservations
+
+<ICE-SIN:S2A-051#19:1>
+You can check your borrow and records
+
+<ICE-SIN:S2A-051#20:1>
+You can find out whether that particular book is on loan or not
+
+<ICE-SIN:S2A-051#21:1>
+At the moment Linc does not cannot do that because it is not fully
+integrated
+
+<ICE-SIN:S2A-051#22:1>
+All the other parts will take time and uh because of that they don't
+seek your co-operation right
+
+<ICE-SIN:S2A-051#23:1>
+I think most of the time the problems that you have is not knowing
+which particular menu to choose from
+
+<ICE-SIN:S2A-051#24:1>
+Which particular item on the menu to choose from
+
+<ICE-SIN:S2A-051#25:1>
+Whether to use Title Personal Authors Keywords right
+
+<ICE-SIN:S2A-051#26:1>
+And when you check a journal article you check you tend to look at
+the journal title instead of the journal the title of the journal instead of
+the articles right
+
+<ICE-SIN:S2A-051#27:1>
+I have a feeling that you look at let's say okay Dr Leo Suryadinata
+wrote something on Overseas Chinese in Asian Survey
+
+<ICE-SIN:S2A-051#28:1>
+Instead of looking at Asian Survey all of you start keying in
+Overseas Chinese right
+
+<ICE-SIN:S2A-051#29:1>
+Some of you do
+
+<ICE-SIN:S2A-051#30:1>
+I mean I I I I mean a lot of students come up to me and have have
+that kind of problems okay
+
+<ICE-SIN:S2A-051#31:1>
+Basically Linc is made up of all titles
+
+<ICE-SIN:S2A-051#32:1>
+We have titles of books titles of journals in Linc
+
+<ICE-SIN:S2A-051#33:1>
+Okay the I-copies which are individual chapters from various journals
+they're not in
+
+<ICE-SIN:S2A-051#34:1>
+If you want to find out a particular article on let's say Chinese
+foreign policy Indonesian foreign policy anything like that from journals you
+have to look up Abstracts and Indexes
+
+<ICE-SIN:S2A-051#35:1>
+We have that in the reference section but I doubt if many people use
+it
+
+<ICE-SIN:S2A-051#36:1>
+Okay that's a very useful source of information because a lot of uh
+materials on political science are written in journals
+
+<ICE-SIN:S2A-051#37:1>
+They're faster
+
+<ICE-SIN:S2A-051#38:1>
+If you write a book you have to wait what at least a year before
+before it's published but journal articles you know it comes up very
+regularly
+
+<ICE-SIN:S2A-051#39:1>
+You don't have to wait through three hundred pages or eight hundred
+pages of it
+
+<ICE-SIN:S2A-051#40:1>
+You know usually it's about twenty pages or less
+
+<ICE-SIN:S2A-051#41:1>
+Everything is there
+
+<ICE-SIN:S2A-051#42:1>
+So I'm going to demonstrate Linc problems that I think students face
+well
+
+<ICE-SIN:S2A-051#43:1>
+Those are the problems that they bring to the librarians at the
+information desk
+
+<ICE-SIN:S2A-051#44:1>
+Okay
+
+<ICE-SIN:S2A-051#45:1>
+Okay titles
+
+<ICE-SIN:S2A-051#46:1>
+When you use Titles you must make sure that you use the exact title
+of the book or the journal
+
+<ICE-SIN:S2A-051#47:1>
+You can use let's say bits and pieces of it
+
+<ICE-SIN:S2A-051#48:1>
+You know you can leave out 'and' 'the' all these articles but if you
+want to retrieve very fast you use the exact title 'Writing Asian Survey' or
+maybe the title of the book is 'The rise and fall of Mao Tse Tong' write the
+whole thing
+
+<ICE-SIN:S2A-051#49:1>
+Then you can get it immediately
+
+<ICE-SIN:S2A-051#50:1>
+But if you were to type in you know only a few words the main words
+in that title then you have to go through the Keyword search
+
+<ICE-SIN:S2A-051#51:1>
+Some people when they get that Keyword search you know oh there is no
+exact match they just give up and leave
+
+<ICE-SIN:S2A-051#52:1>
+No you should not leave
+
+<ICE-SIN:S2A-051#53:1>
+You should go through the Keyword search
+
+<ICE-SIN:S2A-051#54:1>
+Combine the all the words then come up with that Title Personal
+authors do your you use uhm surnames first in most of the names but for Malay
+names you use as it is
+
+<ICE-SIN:S2A-051#55:1>
+Don't use the last name first
+
+<ICE-SIN:S2A-051#56:1>
+Organisations and Conferences
+
+<ICE-SIN:S2A-051#57:1>
+Organisations if you want to look up anything on the Ministry of
+Foreign Affairs Monetary Authority of Singapore you use that one especially
+Monetary Authority of Singapore Monthly
+
+<ICE-SIN:S2A-051#58:1>
+Statistics
+
+<ICE-SIN:S2A-051#59:1>
+We have the yearbook of Stats at the info desk but the monthly
+quarterly there're all in the uhn Serials Department or the Current
+Periodicals Department as everybody calls it
+
+<ICE-SIN:S2A-051#60:1>
+Conference Names well there are so many conferences all over the
+place
+
+<ICE-SIN:S2A-051#61:1>
+It's very very useful es especially for the engineering students
+because they depend a great deal on conferences and uhm symposiums
+
+<ICE-SIN:S2A-051#62:1>
+Subject headings
+
+<ICE-SIN:S2A-051#63:1>
+Ah ha that's the problem
+
+<ICE-SIN:S2A-051#64:1>
+I think that's the major problem
+
+<ICE-SIN:S2A-051#65:1>
+Everybody else
+
+<ICE-SIN:S2A-051#66:1>
+Subject headings are not you know Transportation that's it no tran
+
+<ICE-SIN:S2A-051#67:1>
+When you use Subject Headings you must use this Library of Congress
+Subject Headings
+
+<ICE-SIN:S2A-051#68:1>
+We use this so that you can retrieve as much information on a
+particular subject
+
+<ICE-SIN:S2A-051#69:1>
+For example you want something on MRT
+
+<ICE-SIN:S2A-051#70:1>
+Singapore calls it MRT
+
+<ICE-SIN:S2A-051#71:1>
+London it's called the tube or the underground
+
+<ICE-SIN:S2A-051#72:1>
+In New York it's called the underground
+
+<ICE-SIN:S2A-051#73:1>
+You see all
+
+<ICE-SIN:S2A-051#74:1>
+In Hong Kong it's all is called the NTRC or something like that
+
+<ICE-SIN:S2A-051#75:1>
+So all the different countries call it differently
+
+<ICE-SIN:S2A-051#76:1>
+In in San Francisco it's called Bart B-A-R-T so you call it
+differently
+
+<ICE-SIN:S2A-051#77:1>
+There are five of us alright and each of us have different names for
+it
+
+<ICE-SIN:S2A-051#78:1>
+How on earth are we going to find it
+
+<ICE-SIN:S2A-051#79:1>
+So we have Subject Headings to standardize all these terms
+
+<ICE-SIN:S2A-051#80:1>
+Another example is like battered women or abused women
+
+<ICE-SIN:S2A-051#81:1>
+You say battered women
+
+<ICE-SIN:S2A-051#82:1>
+I say abused women
+
+<ICE-SIN:S2A-051#83:1>
+If we don't see things eye to eye we don't meet each other and talk
+about the same things nobody will be able to find out anything
+
+<ICE-SIN:S2A-051#84:1>
+You won't be able to find out the articles or the books that I write
+and I won't be able to find out what you have written on that particular
+subject
+
+<ICE-SIN:S2A-051#85:1>
+So you have to standardize
+
+<ICE-SIN:S2A-051#86:1>
+So that's why we use the Library of Congress of Subject headings so
+you don't use your own uhm keywords or terms in it
+
+<ICE-SIN:S2A-051#87:1>
+Okay
+
+<ICE-SIN:S2A-051#88:1>
+Then you have the Series Title
+
+<ICE-SIN:S2A-051#89:1>
+Ah that's another tricky one because a lot of students type in the
+title of the journal under Series Title and you can't find it at all
+
+<ICE-SIN:S2A-051#90:1>
+One very good example very good illustration of umm Series Title is
+Mills and Boons
+
+<ICE-SIN:S2A-051#91:1>
+That's a Series Title
+
+<ICE-SIN:S2A-051#92:1>
+Okay
+
+<ICE-SIN:S2A-051#93:1>
+<O> laughter from the floor </O>
+
+<ICE-SIN:S2A-051#94:1>
+Some books they have to this particular series that's used but you
+know I think Mills and Boons is a very very good example okay
+
+<ICE-SIN:S2A-051#95:1>
+Keywords
+
+<ICE-SIN:S2A-051#96:1>
+Keyword is a particular word which appears in all the various fields
+meaning these are fields Titles Personal Authors
+
+<ICE-SIN:S2A-051#97:1>
+This is one field
+
+<ICE-SIN:S2A-051#98:1>
+This is second field
+
+<ICE-SIN:S2A-051#99:1>
+This is third field
+
+<ICE-SIN:S2A-051#100:1>
+Okay Keywords
+
+<ICE-SIN:S2A-051#101:1>
+Like the keyword Japan
+
+<ICE-SIN:S2A-051#102:1>
+It can appear in Title
+
+<ICE-SIN:S2A-051#103:1>
+It can appear in Organisation
+
+<ICE-SIN:S2A-051#104:1>
+It can appear in Subject Series Title
+
+<ICE-SIN:S2A-051#105:1>
+So maybe if you look under Titles Japan there are hundred titles
+
+<ICE-SIN:S2A-051#106:1>
+It says Japan and Singapore
+
+<ICE-SIN:S2A-051#107:1>
+The people of Japan
+
+<ICE-SIN:S2A-051#108:1>
+The women of Japan or something like that
+
+<ICE-SIN:S2A-051#109:1>
+All the books with titles
+
+<ICE-SIN:S2A-051#110:1>
+Japan now I don't know if anybody's anybody has been called Japan
+
+<ICE-SIN:S2A-051#111:1>
+Nah you can try
+
+<ICE-SIN:S2A-051#112:1>
+We've Organisations like uh MITI you know uhm whatever Japan trade
+and industry that sort of thing
+
+<ICE-SIN:S2A-051#113:1>
+Subject Headings Japan and then Japan is subdivided into History
+Literature uhm Economy Transportation
+
+<ICE-SIN:S2A-051#114:1>
+Okay you use Title Keywords
+
+<ICE-SIN:S2A-051#115:1>
+So when you use Keywords it picks up from all the various fields so
+altogether you might end up to a thousand
+
+<ICE-SIN:S2A-051#116:1>
+Let's say this is five hundred
+
+<ICE-SIN:S2A-051#117:1>
+This is a hundred
+
+<ICE-SIN:S2A-051#118:1>
+This is another two hundred so you know it picked up
+
+<ICE-SIN:S2A-051#119:1>
+So that's that's where you get the keyword and the danger about
+using Keywords is that you might end up retrieving information that you don't
+need
+
+<ICE-SIN:S2A-051#120:1>
+You want Japanese foreign policy
+
+<ICE-SIN:S2A-051#121:1>
+If you use Keyword you just type in Japan it lists out everything
+and anything on Japan
+
+<ICE-SIN:S2A-051#122:1>
+Japan and arts and culture
+
+<ICE-SIN:S2A-051#123:1>
+Japan Japanese History Japanese politics Japanese humour Japanese
+films
+
+<ICE-SIN:S2A-051#124:1>
+So you have to be careful you have to know what you're searching for
+
+<ICE-SIN:S2A-051#125:1>
+But that does not mean that you only stop at one
+
+<ICE-SIN:S2A-051#126:1>
+If you're going to do Japan foreign policy you just stick to Subject
+headings
+
+<ICE-SIN:S2A-051#127:1>
+When you're searching for information that's not that's not the way
+
+<ICE-SIN:S2A-051#128:1>
+Just imagine you're a detective you have to cover all the various
+angles so you have to try the Titles
+
+<ICE-SIN:S2A-051#129:1>
+You have to try Subject headings as well as Keywords
+
+<ICE-SIN:S2A-051#130:1>
+Okay I'll show you what I'll show it to you but if I do that I have
+to start this all over again
+
+<ICE-SIN:S2A-051#131:1>
+I'll just demonstrate the Title features
+
+<ICE-SIN:S2A-051#132:1>
+Okay how do you know whether that particular title is a book or a
+journal
+
+<ICE-SIN:S2A-051#133:1>
+Do you guess from the title
+
+<ICE-SIN:S2A-051#134:1>
+Okay I'll use Title alright
+
+<ICE-SIN:S2A-051#135:1>
+The Asian Survey
+
+<ICE-SIN:S2A-051#136:1>
+It's only one journal The Asian Survey but it come up comes out
+twice because this one has no full-stop and this one has full-stop
+
+<ICE-SIN:S2A-051#137:1>
+This is all part of computer technology
+
+<ICE-SIN:S2A-051#138:1>
+Okay when you get this you press A
+
+<ICE-SIN:S2A-051#139:1>
+Okay this is the full display
+
+<ICE-SIN:S2A-051#140:1>
+When you only have one title they will automatically give you the
+full display
+
+<ICE-SIN:S2A-051#141:1>
+Full display the difference is you have Subject
+
+<ICE-SIN:S2A-051#142:1>
+You have Names here
+
+<ICE-SIN:S2A-051#143:1>
+You don't have you see in a brief display you don't have all these
+things
+
+<ICE-SIN:S2A-051#144:1>
+Volume for March nineteen sixty one ecetera ecetera okay
+
+<ICE-SIN:S2A-051#145:1>
+Okay I'll show you the brief format
+
+<ICE-SIN:S2A-051#146:1>
+Just type B for brief format
+
+<ICE-SIN:S2A-051#147:1>
+This is the brief format
+
+<ICE-SIN:S2A-051#148:1>
+How do you know find how do you know whether it's a journal or not
+
+<ICE-SIN:S2A-051#149:1>
+Look at at this Copy Description Volume one nineteen sixty one dash
+
+<ICE-SIN:S2A-051#150:1>
+It does not mean we only have nineteen sixty one
+
+<ICE-SIN:S2A-051#151:1>
+We 've started buying from nineteen sixty one onwards dash that
+there're still others
+
+<ICE-SIN:S2A-051#152:1>
+If you see an asterisk that means nineteen sixty one dash nineteen
+seventy asterisk that means the last issue that we have is nineteen seventy
+
+<ICE-SIN:S2A-051#153:1>
+If you have books you're looking at books they don't have this
+
+<ICE-SIN:S2A-051#154:1>
+So that's the difference
+
+<ICE-SIN:S2A-051#155:1>
+That's how you find out
+
+<ICE-SIN:S2A-051#156:1>
+Anything can be in Tamil
+
+<ICE-SIN:S2A-051#157:1>
+It can be in in whatever in Greek or in Russian you see that you
+know
+
+<ICE-SIN:S2A-051#158:1>
+Call number
+
+<ICE-SIN:S2A-051#159:1>
+The call number is this one
+
+<ICE-SIN:S2A-051#160:1>
+Or that's uhm some of the let's say you see U asterisk whatever it
+is okay
+
+<ICE-SIN:S2A-051#161:1>
+Ah those some those are just part of our cataloging rules so that
+one that's alright you see
+
+<ICE-SIN:S2A-051#162:1>
+Oh small f means folio stands for folio
+
+<ICE-SIN:S2A-051#163:1>
+Folio means books that are not uh bigger than normal size so we
+usually shelve them at the last two shelves because we cannot accommodate
+them in the normal size shelves
+
+<ICE-SIN:S2A-051#164:1>
+You see most of the books are about what this twenty-three inches or
+something like
+
+<ICE-SIN:S2A-051#165:1>
+I think two cm then if it's uh bigger than that you think you're
+gonna have usually the last
+
+<ICE-SIN:S2A-051#166:1>
+Let's say you have DA from D to DZ so after DZ of the normal size
+books then you have the folio books
+
+<ICE-SIN:S2A-051#167:1>
+The f books okay
+
+<ICE-SIN:S2A-051#168:1>
+Okay because of system fully integrated you only see CL
+
+<ICE-SIN:S2A-051#169:1>
+That means if it's fully integrated you see CLMS which is main
+shelves main shelf meaning also open shelf
+
+<ICE-SIN:S2A-051#170:1>
+You can borrow the book
+
+<ICE-SIN:S2A-051#171:1>
+CLBP Bound Periodicals
+
+<ICE-SIN:S2A-051#172:1>
+CLCS Close Stack that means we cannot put all our materials
+especially journals on the shelf <X>
+
+<ICE-SIN:S2A-051#X173:1>
+We just don't have space so the material that's kept in Bound
+Periodicals starts from nineteen eighty to nineteen eighty-nine to nineteen
+ninety and the rest will be in our Close Stack our storeroom so you have to
+go to the query counter fill in a search card or a Close Stack slip this one
+mhm mhm then the staff will go down twice a day to hoo collect your books
+that you've requested if you come in now and ask them to do it you know you
+have to wait you know because they only go down twice a day we can't afford
+to do that all the time because we have a whole stack of slips <&>  student)
+Past year For those that are no no no no those are kept those are the uh uhm
+the the bound periodicals you can jolly well go down and get it but those
+prior to that from nineteen sixty one to let's say nineteen seventy-nine okay
+they're kept in our uh uhm storeroom okay uhm those are journals same with
+some books where especially when we have multiple copies too many copies okay
+right now it can't really tell you you can check with query counter whether
+the book is on loan or not just cannot tell Maybe if you've used National
+Library system you can see that you know each volume or each each year it
+depends on how they bound they bind it will have uhm different bar code
+number and you know then you'll have to scroll through from nineteen
+sixty-one that's assuming that nineteen six each year has been bound one
+volume so you have let's say until seventy-one there're ten so on about
+thirty volumes but there are some journals that start from eighteen something
+eighteen eighty-eight so you just have to sit down and scroll through page by
+page and page until you find out the volume you're looking for That's
+journals for you okay do you have any particular title in mind That you want
+to search <&>  student </&> Okay you want to go <&>  student </&> okay if you want to go
+back to the other page you just press R for reselect reselect <&>  student </&> you
+have uh let's say twenty items okay anytime you want to get out you either
+press uhm function eight I think you need to stop or you press full stop
+return let's see okay let's look at I mean you know when you use Keywords or
+when you use Subject Headings or Titles don't be so foolish as to type in
+let's say Indonesia because you'll get a million and one items okay you get
+you have this right If okay this is item number one and for this particular
+heading there is one alright so your main the main thing is to get this so ah
+let's say you want to look at number four which is Indonesia - a Profile If
+you press four press enter it'll show you what you just selected then let's
+say you want to look at number four number thirteen number twenty-seven okay
+anytime you want to go back you just press R okay then you have to use the
+Gather function which is G you can add another key word if you want let's say
+keyword you just press key and then you get what you want okay let's say you
+use Gather four press enter for next page press G again let's say eleven
+until fifteen after you've gathered all those things then you press L for
+List anythime you want to go back you know don't worry you know you can
+always go stan <&>  go astern </&> just press R for reselect okay In Process you've
+seen that before haven't you In Process that means we're still processing the
+book and six million dollar question is when will it arrive don't know when
+okay when will it appear okay you know this right This is Law main shelf Law
+library Central library call number one so in future everything will be like
+this and then you have the number of copies so you don't have to go round
+searching asking everybody how many copies do you have in the library one
+seven ten everything will be there okay If you want to look at the full
+format of let's say number two just press F space two Full Format okay You
+press B you get Brief Format you scan okay you want to see number three but
+you don't want to see the full format I mean it's very disjointed you want to
+go on to the next page you just press B space three number three's is at the
+top </X> </I>

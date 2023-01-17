@@ -1,0 +1,596 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1B-003#1:1:A>
+Where's your class
+
+<ICE-SIN:S1B-003#2:1:A>
+Alright let's get the attendance first
+
+<ICE-SIN:S1B-003#3:1:A>
+Ang Kiat Hin Ang Kiat Hin
+
+<ICE-SIN:S1B-003#4:1:A>
+Ang Kian Peng Ang Kian Peng
+
+<ICE-SIN:S1B-003#5:1:A>
+Malee
+
+<ICE-SIN:S1B-003#6:1:A>
+Yes you're here
+
+<$B> 
+<ICE-SIN:S1B-003#7:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-003#8:1:A>
+Raymond Goh
+
+<ICE-SIN:S1B-003#9:1:A>
+Alan Chang
+
+<ICE-SIN:S1B-003#10:1:A>
+Tan Fook Cheong
+
+<$C> 
+<ICE-SIN:S1B-003#11:1:C>
+Not here
+
+<$A> 
+<ICE-SIN:S1B-003#12:1:A>
+Chan Heng Lim
+
+<$D> 
+<ICE-SIN:S1B-003#13:1:D>
+Not here
+
+<$A> 
+<ICE-SIN:S1B-003#14:1:A>
+Chan Heng Leong
+
+<ICE-SIN:S1B-003#15:1:A>
+Chan Chee Leong Chan Chee Leong
+
+<ICE-SIN:S1B-003#16:1:A>
+Uh Charles Chan
+
+<ICE-SIN:S1B-003#17:1:A>
+Tan Heng Chee
+
+<$E> 
+<ICE-SIN:S1B-003#18:1:E>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-003#19:1:A>
+Okay
+
+<ICE-SIN:S1B-003#20:1:A>
+Chee Kia Keong not here
+
+<ICE-SIN:S1B-003#21:1:A>
+Cheng Soo Huat
+
+<ICE-SIN:S1B-003#22:1:A>
+Cheong Chee Hoo
+
+<ICE-SIN:S1B-003#23:1:A>
+Should be here by this time
+
+<ICE-SIN:S1B-003#24:1:A>
+Alright uh Chew Kian Hock
+
+<ICE-SIN:S1B-003#25:1:A>
+Chiang Kit Teong
+
+<$F> 
+<ICE-SIN:S1B-003#26:1:F>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-003#27:1:A>
+Okay Chew Chiang Seng
+
+<ICE-SIN:S1B-003#28:1:A>
+Chew Seng Kit
+
+<ICE-SIN:S1B-003#29:1:A>
+Chou Eng Hwee
+
+<ICE-SIN:S1B-003#30:1:A>
+Chou Han Yuan and Chou Yong Meng
+
+<ICE-SIN:S1B-003#31:1:A>
+Okay the rest came this morning right
+
+<ICE-SIN:S1B-003#32:1:A>
+Take the nine o'clock one is it 'cos normally it should be the
+other way round
+
+<ICE-SIN:S1B-003#33:1:A>
+You got two classes nine and ten usually it's the ten that's full
+and nine is empty
+
+<ICE-SIN:S1B-003#34:1:A>
+These people can't wake up in time
+
+<ICE-SIN:S1B-003#35:1:A>
+Yes just now the nine o'clock class is more than full about
+seventeen
+
+<ICE-SIN:S1B-003#36:1:A>
+Okay right now questions one and two any problems with those
+
+<ICE-SIN:S1B-003#37:1:A>
+Okay any problem with those
+
+<ICE-SIN:S1B-003#38:1:A>
+Question one we have the application and s matrix to <unclear> word
+</unclear>
+
+<ICE-SIN:S1B-003#39:1:A>
+Okay for question two question two we've to find the unitary
+condition
+
+<ICE-SIN:S1B-003#40:1:A>
+Any problem with that
+
+<ICE-SIN:S1B-003#41:1:A>
+No right so let's move on to questions three four and five
+
+<ICE-SIN:S1B-003#42:1:A>
+The basic uh emphasis here is to make s matrix together with all
+other known matrices
+
+<ICE-SIN:S1B-003#43:1:A>
+Okay for example you have t z you have other matrices like in y
+your h your hybrid okay
+
+<ICE-SIN:S1B-003#44:1:A>
+Now we haven't got time to cover everything so for this particular
+tutorial we'll just look at this t matrix and the z matrix right
+
+<ICE-SIN:S1B-003#45:1:A>
+I want you all to feel comfortable with s matrix
+
+<ICE-SIN:S1B-003#46:1:A>
+I know it's a very new matrix that uh forcing on you all but I hope
+that after this tutorial you'll be able to see that the s matrix is but one
+out of many matrices that you can use okay
+
+<ICE-SIN:S1B-003#47:1:A>
+And even if you start out with your s matrix and let's say you need
+to transform it to another matrix there is no problem
+
+<ICE-SIN:S1B-003#48:1:A>
+Let's say for question uh three or question four rather for
+question four you find that the t matrix actually is more suitable for
+practical application
+
+<ICE-SIN:S1B-003#49:1:A>
+There's no problem as a conversion formula between the two so you
+can always switch from one to the other okay
+
+<ICE-SIN:S1B-003#50:1:A>
+Right so come in come in
+
+<ICE-SIN:S1B-003#51:1:A>
+Right first of all we try to establish the relationship between the
+s and the t and that's our question three
+
+<ICE-SIN:S1B-003#52:1:A>
+Okay now this is your two port network
+
+<ICE-SIN:S1B-003#53:1:A>
+Now two port network you find that to assume that your symbols are
+of these four okay
+
+<ICE-SIN:S1B-003#54:1:A>
+With that you find that your sketching representation is just
+simply this okay
+
+<ICE-SIN:S1B-003#55:1:A>
+Now this way of writing things assumes that your A1 and A2 are
+independent parameters and your B1 and B2 are dependent parameters
+
+<ICE-SIN:S1B-003#56:1:A>
+This is not unreasonable okay
+
+<ICE-SIN:S1B-003#57:1:A>
+A network like this you ought to know what you are feeding your
+system with and you're interested in knowing how that system responds okay so
+for the s matrix that is our presumption
+
+<ICE-SIN:S1B-003#58:1:A>
+We know what we have as input and we want to know the response of
+the system to the input
+
+<ICE-SIN:S1B-003#59:1:A>
+Now what if your emphasis changes
+
+<ICE-SIN:S1B-003#60:1:A>
+What if you change your set of independent parameters
+
+<ICE-SIN:S1B-003#61:1:A>
+Okay so for this question we are going to look at the possibility
+that A2 and B2 are known right A2 and B2 are known and you're supposed to
+find A1 and B1
+
+<ICE-SIN:S1B-003#62:1:A>
+So in other words this becomes your independent set and this
+becomes your dependent set okay
+
+<ICE-SIN:S1B-003#63:1:A>
+So let's get that from this particular set
+
+<ICE-SIN:S1B-003#64:1:A>
+Alright uh it's awkward to have your left hand side comprising B1
+is your dependent but this B2 is independent so let's shift B2 over to the
+other side and uh shift the A1 which is supposed to be dependent over to the
+left okay
+
+<ICE-SIN:S1B-003#65:1:A>
+So you will have right so let's re-write the familiar set of
+sketching equations in this form
+
+<ICE-SIN:S1B-003#66:1:A>
+Now once I write it in this form I can then assume that this is a
+pair of pair of simultaneous equations in two nodes
+
+<ICE-SIN:S1B-003#67:1:A>
+If my nodes are B1 A1 this whole lot on the right hand side is
+assumed to be known okay so in that case how to get hold of my unknowns
+
+<ICE-SIN:S1B-003#68:1:A>
+Well simultaneous equations there are lots of ways of solving it
+
+<ICE-SIN:S1B-003#69:1:A>
+Let's use your Kramer's rule okay <unclear> word </unclear> uh
+
+<ICE-SIN:S1B-003#70:1:A>
+You all have heard of Kramer's rule is it
+
+<ICE-SIN:S1B-003#71:1:A>
+Okay so this you can solve by Kramer's rule
+
+<ICE-SIN:S1B-003#72:1:A>
+Now let's I won't go through the mechanical assume that we can
+solve it there you find that when you end up with this set of equations
+
+<ICE-SIN:S1B-003#73:1:A>
+Okay so you'll end up with this set of equations
+
+<ICE-SIN:S1B-003#74:1:A>
+Right what's so important about this set of equations <unclear>
+word </unclear>
+
+<ICE-SIN:S1B-003#75:1:A>
+First thing let's change the symbols okay
+
+<ICE-SIN:S1B-003#76:1:A>
+While you're sketching parameters we chose this set of symbols
+because they represent certain things
+
+<ICE-SIN:S1B-003#77:1:A>
+Now since I want to look at the same system but from a different
+perspective I have to change the symbols
+
+<ICE-SIN:S1B-003#78:1:A>
+I let you change it to this big A1 big B1 and on this side I have
+big A2 big B2 okay usually written in this order
+
+<ICE-SIN:S1B-003#79:1:A>
+Now here let me fit this arrows
+
+<ICE-SIN:S1B-003#80:1:A>
+For <unclear> word </unclear> matrix we normally draw in this
+<unclear> word </unclear>
+
+<ICE-SIN:S1B-003#81:1:A>
+Let me fit the arrows so that they correspond
+
+<ICE-SIN:S1B-003#82:1:A>
+Okay now what do we have here
+
+<ICE-SIN:S1B-003#83:1:A>
+Right we <unclear> word </unclear> it with a if there's a
+one-for-one correspondence so what you want you can change to big A1 small B1
+you can change to big B1 okay
+
+<ICE-SIN:S1B-003#84:1:A>
+Small B2 this red arrow here I can change to the green arrow here
+
+<ICE-SIN:S1B-003#85:1:A>
+Physically it's the same wave all I'm doing is just giving it a
+different name okay giving it a different symbol
+
+<ICE-SIN:S1B-003#86:1:A>
+So that means just a small B2 can can can be replaced by a big B2
+and this small A1 here can be represent oh this should be 2 sorry this one
+can be represented by B2 okay
+
+<ICE-SIN:S1B-003#87:1:A>
+Alright uh this whole lot here can be reformatted in another form
+as another matrix
+
+<ICE-SIN:S1B-003#88:1:A>
+Okay and we find that if we call the new matrix t then I have okay
+then I have this new matrix which is your transmission matrix in that form
+and uh I find that uh there's a one-for-one correspondence
+
+<ICE-SIN:S1B-003#89:1:A>
+Okay if I'm given my s matrix and I got one more t matrix this one
+is given by this this is given by that and so on okay
+
+<ICE-SIN:S1B-003#90:1:A>
+So here we have uh s matrix is given you want to transform it to
+the t matrix quite simple your t matrix is just simply given by one over s21
+it's all over there
+
+<ICE-SIN:S1B-003#91:1:A>
+Right any questions
+
+<ICE-SIN:S1B-003#92:1:A>
+Any questions
+
+<ICE-SIN:S1B-003#93:1:A>
+By the way this tutorial session is being recorded and if it turns
+out that engineering class students do not ask questions it's going to
+reflect badly okay
+
+<ICE-SIN:S1B-003#94:1:A>
+So any questions
+
+<ICE-SIN:S1B-003#95:1:A>
+Come on she's taking a survey of all the faculties and uh the
+result will just confirm what everybody knows engineer students okay no
+
+<ICE-SIN:S1B-003#96:1:A>
+Now let's move on
+
+<$G> 
+<ICE-SIN:S1B-003#97:1:G>
+Sir the the part three application
+
+<$A> 
+<ICE-SIN:S1B-003#98:1:A>
+Application
+
+<$G> 
+<ICE-SIN:S1B-003#99:1:G>
+Application ya
+
+<$A> 
+<ICE-SIN:S1B-003#100:1:A>
+Okay <unclear> word </unclear> part three let's go part three
+there
+
+<ICE-SIN:S1B-003#101:1:A>
+Right now let's have a look at this particular matrix here uh this
+particular statement here
+
+<ICE-SIN:S1B-003#102:1:A>
+This one here is a input A1 B1 is an input A2 B2 is output okay
+
+<ICE-SIN:S1B-003#103:1:A>
+The relationship between them is a simple t
+
+<ICE-SIN:S1B-003#104:1:A>
+Now what if I have a whole string of boxes let's just draw more
+boxes
+
+<ICE-SIN:S1B-003#105:1:A>
+Okay now this one let's say I have a t1 matrix this one has a t2
+matrix
+
+<ICE-SIN:S1B-003#106:1:A>
+Right the input here is related to this output via a t1 matrix but
+this output cannot be an input to the second system okay
+
+<ICE-SIN:S1B-003#107:1:A>
+So this one will be related to another output A3 B3 via a t2 okay
+
+<ICE-SIN:S1B-003#108:1:A>
+So the application of this is if I have a loads cascade of
+networks I find that this is a very powerful way of handling things
+
+<ICE-SIN:S1B-003#109:1:A>
+Right if there is a total of said n such boxes then all I need to
+do is take the product of all n of them and I can straightaway get hold of my
+input for whatever output regardless of the number of stages I need to
+<unclear> word </unclear>
+
+<ICE-SIN:S1B-003#110:1:A>
+Okay and for filter design you know those that uh you sometimes
+need a whole string of stages <unclear> word </unclear>
+
+<ICE-SIN:S1B-003#111:1:A>
+Filter design not amplifier design okay
+
+<$H> 
+<ICE-SIN:S1B-003#112:1:H>
+So in fact this uh is uh kind of a there's a correspondence
+to the ABC matrix in the
+
+<$A> 
+<ICE-SIN:S1B-003#113:1:A>
+Because of ABC matrix because of ABC matrix <unclear> word
+</unclear> something like ABC matrix you <unclear> word </unclear> follow the
+transmission matrix right
+
+<ICE-SIN:S1B-003#114:1:A>
+I know <unclear> word </unclear> is what textbooks like to use but
+uh it's a very clumsy of calling <unclear> word </unclear>
+
+<ICE-SIN:S1B-003#115:1:A>
+Right different matrices will have different features that is what
+is remember that for question our sub-question b okay so let's look at part b
+
+<ICE-SIN:S1B-003#116:1:A>
+Now part b asks us to look at the system when it's reciprocal okay
+
+<ICE-SIN:S1B-003#117:1:A>
+When does the system cease to be reciprocal
+
+<ICE-SIN:S1B-003#118:1:A>
+Come on I've already taught I've already asked you all during
+lecture uh plus plus any others
+
+<$I> 
+<ICE-SIN:S1B-003#119:1:I>
+Active elements
+
+<$A> 
+<ICE-SIN:S1B-003#120:1:A>
+Active elements
+
+<ICE-SIN:S1B-003#121:1:A>
+Some more
+
+<$J> 
+<ICE-SIN:S1B-003#122:1:J>
+Byrex
+
+<$A> 
+<ICE-SIN:S1B-003#123:1:A>
+Byrex okay
+
+<ICE-SIN:S1B-003#124:1:A>
+Most the majority of the systems will be reciprocal the only
+exceptions are onyl plus plus byrex active elements okay
+
+<ICE-SIN:S1B-003#125:1:A>
+If you don't have these three the likelihood of it being
+reciprocal is very strong
+
+<ICE-SIN:S1B-003#126:1:A>
+Now for the s matrix it's very easy to spot whether the system is
+reciprocal or not just look for the off diagonal elements okay
+
+<ICE-SIN:S1B-003#127:1:A>
+If the off diagonal elements are equal that's it the system is
+reciprocal T matrix however more work but t matrix you find that if you're to
+check whether your system is reciprocal you have to get hold of the
+determinant okay
+
+<ICE-SIN:S1B-003#128:1:A>
+Now why
+
+<ICE-SIN:S1B-003#129:1:A>
+Well here just go to the analysis to see why
+
+<ICE-SIN:S1B-003#130:1:A>
+Right that is your determinant
+
+<ICE-SIN:S1B-003#131:1:A>
+You have all the elements already
+
+<ICE-SIN:S1B-003#132:1:A>
+You are off here so that's perfect then
+
+<ICE-SIN:S1B-003#133:1:A>
+Right uh this okay
+
+<ICE-SIN:S1B-003#134:1:A>
+Right this is your thing that's question correct uh things that we
+cancel out so it becomes easier
+
+<ICE-SIN:S1B-003#135:1:A>
+This one cancels with this so what we're left with is this
+
+<ICE-SIN:S1B-003#136:1:A>
+It's s21 here it's s21 squared here so we'll get rid of s21 uh
+we're left with that okay
+
+<ICE-SIN:S1B-003#137:1:A>
+Now we're told that the system is reciprocal which means that the
+s12 will be equal to s1 so that means this will be one okay so this is your
+check
+
+<ICE-SIN:S1B-003#138:1:A>
+If you have a s matrix it's simple just the check is just a visual
+check okay but if you're working on t matrix there's a little bit more work
+you have to form the determinant
+
+<ICE-SIN:S1B-003#139:1:A>
+See if the determinant is one if it's given t then you can
+conclude that your system is reciprocal okay if it's not that means you have
+one of those three elements in there byrex active elements or plus plus okay
+
+<ICE-SIN:S1B-003#140:1:A>
+Any question No let's move on to question four
+
+<ICE-SIN:S1B-003#141:1:A>
+This question three sets the background and answers for it
+
+<ICE-SIN:S1B-003#142:1:A>
+Now let's actually apply it to a circuit given in question four
+
+<ICE-SIN:S1B-003#143:1:A>
+Right question four you have this system
+
+<ICE-SIN:S1B-003#144:1:A>
+The first matrix is sigma 'A'
+
+<ICE-SIN:S1B-003#145:1:A>
+sorry second matrix is sigma
+
+<ICE-SIN:S1B-003#146:1:A>
+What about sketching matrices
+
+<ICE-SIN:S1B-003#147:1:A>
+We're told that uh this your first cascade second cascade and then
+finally you have to load okay
+
+<ICE-SIN:S1B-003#148:1:A>
+These are all boxes but your load could be in this box here could
+be in the antenna right your antenna is radiating away
+
+<ICE-SIN:S1B-003#149:1:A>
+This one this box here could be uh a filter network you want to
+make sure that only certain signals get sent all the other frequencies are
+filtered out
+
+<ICE-SIN:S1B-003#150:1:A>
+This one here could be amplifier network okay
+
+<ICE-SIN:S1B-003#151:1:A>
+You want to make sure you pump enough signal uh pump enough power
+for the antenna to radiate out right <X>
+
+<ICE-SIN:S1B-003#X152:1:A>
+So all these boxes are typical things that you need to put in for
+particular system to work right Question is if here you have a load just put
+in the arrows if here you have a load such that your A just a minute A3 B3 if
+here you have a load such that B3 <unclear> word </unclear> three <unclear>
+word </unclear> gamma L you'll be very interested to know what is my gamma in
+here The gamma in is uh B1 over A1 okay A typical situation will be like this
+This is your load you go through a series of cas uuh network over here you
+want to hook it up to a source you want to check that your load is not going
+to heavily affect the source operation okay So this is a typical problem I
+want to work out what gamma in is For gamma L after it has gone through a
+series of boxes Right <unclear> word </unclear> in this case you find that uh
+your transmission matrix is not powerful than your sketching matrix okay
+Alright uh your A1 B1 which you're interested in because that is where your
+source is you want to know what is happening to it Let's say this can be
+transformed to T' this can be transformed T'' you want to know what is
+happening to <unclear> word </unclear> at the other port okay So that will
+give you this this one can then be related to your other port okay So that is
+what we have Now let's give this a composite name this is a product here
+let's give it a composite symbol of t So that means what I have is A1 is
+equals to t11 A3 plus t2 B3 B1 okay That's what I'm going to have The right
+hand side here there are two symbols two parameters A3 and B3 However we
+learn that the load is somewhere else so the two of them are related in that
+case B3 is just straightforwardly this okay So if I want gam gamma A simple
+take this row divide by that row and straightaway I have the answer okay
+Right now that's your answer in terms of the composite matrix t However we
+still got to get hold of T' and T'' okay So that's our next step get hold of
+T' and T'' Right t will be T' times uh T'' What is T' From question two uh
+sorry question three from question three we've already established that uh
+okay T' ought to be that T'' simple it's exactly the same uh except for a
+change of symbols right Now you can take the product of it uh
+straightforwardly by that but uh let's start making use of the approximations
+Okay return the product you find that you are uh you have quite a whole long
+of unwieldy string of uh terms but instead of doing that let's look at the
+situation where skk here is small okay where sigma kk here is small </X> </I>

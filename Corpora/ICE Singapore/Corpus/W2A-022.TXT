@@ -1,0 +1,487 @@
+<I>
+
+<ICE-SIN:W2A-022#1:1>
+<h> FISH BIOLOGY: FROM GENES TO ORGANISM ANATOMY OF TNE DORSAL ROOT
+GANGLION IN SOME TELEOSTS </h>
+
+<ICE-SIN:W2A-022#2:1>
+Lim, TM
+
+<ICE-SIN:W2A-022#3:1>
+Department of Zooloqy, National University of Singapore,
+
+<ICE-SIN:W2A-022#4:1>
+Kent Ridge, Singapore 0511
+
+<ICE-SIN:W2A-022#5:1>
+Sensory neurones are nerve-cells whose fibres connect with receptors,
+transmitting impulses started by receptors to central nervous system ( Hopper
+and Hart 1985).
+
+<ICE-SIN:W2A-022#6:1>
+In vertebrates, the cell body of such a neurone is attached to its
+nerve-fibres at a point along its course situated in the dorsal root ganglion
+( DRG).
+
+<ICE-SIN:W2A-022#7:1>
+The DRG is a collection of sensory neurones and glial cells.
+
+<ICE-SIN:W2A-022#8:1>
+Both cell types are derivatives of the neural crest cells ( Le Douarin
+1982).
+
+<ICE-SIN:W2A-022#9:1>
+In a typical vertebrate, each DRG is located opposite the dorsal horn
+of the spinal cord continuous with the dorsal root.
+
+<ICE-SIN:W2A-022#10:1>
+Textbook illustrations usually show the DRG being anatomically
+separated from the motor components of the peripheral nervous system.
+
+<ICE-SIN:W2A-022#11:1>
+This generalization may be true for most vertebrates, including
+mammals, avians, amphibians and elasmobranchs.
+
+<ICE-SIN:W2A-022#12:1>
+However, the same may not be applicable to teleosts since there is
+hardly any systematic study on the anatomy of teleostean DRG.
+
+<ICE-SIN:W2A-022#13:1>
+Our recent study in one bony fish, the tilapia ( Oreochromis
+mossambicus), revealed that its DRG is fused with the motor root, thus making
+it a mixed organ instead of a purely sensory one ( Laudel and Lim 1993).
+
+<ICE-SIN:W2A-022#14:1>
+This prompted us to look at more fishes and started our comparative
+study on the teleostean DRG.
+
+<ICE-SIN:W2A-022#15:1>
+Some of the recent findings from several teleosts are described in
+this paper.
+
+<ICE-SIN:W2A-022#16:1>
+<h> MATERIALS AND METHHODS </h>
+
+<ICE-SIN:W2A-022#17:1>
+The fishes studied were tilapia ( Oreochromis mossambicus), guppy (
+Poecilia reticulata), zebrafish ( Brachydanio rerio), Japanese medaka (
+Oryzias latipes), and swordtail ( Xiphomhorus helleri).
+
+<ICE-SIN:W2A-022#18:1>
+They were killed by chilling in ice and then fixed in 4%
+paraformaldehyde in phosphate-buffered saline ( pH 7.4) at 4C for at least 12
+hours.
+
+<ICE-SIN:W2A-022#19:1>
+A lipophilic fluorescent dye with the formula:
+1,1'dioctadecyl-3,3,3',3'-tetramethyl-indocarbocyanine perchlorate ( DiI,
+Molecular Probes) was used to label the peripheral nerves and DRG in the
+specimens.
+
+<ICE-SIN:W2A-022#20:1>
+The procedures have been described in Laudel and Lim ( 1993) and Lim
+et al.
+
+<ICE-SIN:W2A-022#21:1>
+( 1993).
+
+<ICE-SIN:W2A-022#22:1>
+Briefly it involved removing the muscles flanking the vertebral
+column and placing DiI crystals at where the peripheral nerves traversed.
+
+<ICE-SIN:W2A-022#23:1>
+Due to the lipophilic property of the dye, it would spread along the
+nerves and thus staining the cells in the DRG.
+
+<ICE-SIN:W2A-022#24:1>
+The dye was allowed to spread over a few days when the specimens were
+left in the fixative at 37@C.
+
+<ICE-SIN:W2A-022#25:1>
+The specimens were then scanned whole-mounted under the confocal
+laser scanning microscope ( CLSM, BioRad MRC) using the 488nm ( blue) or 514
+nm ( green) excitation.
+
+<ICE-SIN:W2A-022#26:1>
+The confocal images were captured on film with the Polaroid
+freeze-frame recorder.
+
+<ICE-SIN:W2A-022#27:1>
+<h> RESULTS AND DISCUSSION </h>
+
+<ICE-SIN:W2A-022#28:1>
+The branching pattern of the major spinal nerves in all the 5 fishes
+studied follows a general layout.
+
+<ICE-SIN:W2A-022#29:1>
+Each DRG gives rise to a dorsal, a medial, and a ventral sensory
+ramus, respectively.
+
+<ICE-SIN:W2A-022#30:1>
+The ventral root, on the other hand, gives rise to a dorsal and a
+ventral motor branch.
+
+<ICE-SIN:W2A-022#31:1>
+The ventral motor ramus usually fuses with the ventral sensory ramus,
+and together they course towards the ventral musculatures as a mixed nerve.
+
+<ICE-SIN:W2A-022#32:1>
+The dorsal motor ramus travels caudally and joins the dorsal sensory
+ramus of the caudal segment.
+
+<ICE-SIN:W2A-022#33:1>
+Although we did not study the minor branches of these peripheral
+nerves, an earlier study on the goldfish ( Fetcho 1986) suggests that the
+detailed branching patterns could be species specific.
+
+<ICE-SIN:W2A-022#34:1>
+The motor nerves branching pattern has been described in the
+zebrafish by Westerfield et al.
+
+<ICE-SIN:W2A-022#35:1>
+( 1986) and it differs in details compared to the goldfish
+descriptions.
+
+<ICE-SIN:W2A-022#36:1>
+The DRG in these 2 species were, however, not documented.
+
+<ICE-SIN:W2A-022#37:1>
+The DRG in the 5 species described here show interesting variations
+among them ( Figs.l to 5).
+
+<ICE-SIN:W2A-022#38:1>
+In terms of shape, the DRG in tilapia, guppy, medaka and swordtail
+have a roundish to a pear-shaped appearance when view laterally; whereas the
+zebrafish DRG tends to be elongated or sausage-shaped.
+
+<ICE-SIN:W2A-022#39:1>
+In terms of relative position to the spinal cord, the zebrafish again
+differs from the other 4.
+
+<ICE-SIN:W2A-022#40:1>
+It is lateral to the spinal cord while in the other 4 species, the
+DRG occupies a ventral position.
+
+<ICE-SIN:W2A-022#41:1>
+Ventral located DRG has also been recorded in the pike, Esox lucius (
+Harder 1975) and the striped bass ( Groman 1982 ) .
+
+<ICE-SIN:W2A-022#42:1>
+However, Yokote ( 1982) found in the rainbow trout dorso-laterally
+situated DRG.
+
+<ICE-SIN:W2A-022#43:1>
+The differences in shape and position of the fish DRG could be due to
+species differences in their neural crest cells migration and condensation
+pattern during development.
+
+<ICE-SIN:W2A-022#44:1>
+The dorsal root leading from the DRG to the spinal cord also shows
+variations among the 5 species studied here.
+
+<ICE-SIN:W2A-022#45:1>
+The dorsal root in the zebrafish is not very distinct when compared
+to the other 4.
+
+<ICE-SIN:W2A-022#46:1>
+The short and ill defined dorrsal root enters the spinal cord from
+the elongated, laterally situated DRG at an angle almost perpendicular to
+dorso-ventral orientation of the DRG.
+
+<ICE-SIN:W2A-022#47:1>
+Contrary to this is the dorsal root seen in the medaka.
+
+<ICE-SIN:W2A-022#48:1>
+In this fish, dorsal root tends to flatten out and becomes broaden
+morphology.
+
+<ICE-SIN:W2A-022#49:1>
+It leaves the ventrally situated DRG at oblique angle rostrally
+towards the dorsal horn.
+
+<ICE-SIN:W2A-022#50:1>
+The dorsal roots in tilapia, guppy and swordtail are also distinct
+structures.
+
+<ICE-SIN:W2A-022#51:1>
+Each dorsal root appears as a tubelike connection between the DRG and
+the dorsal horn.
+
+<ICE-SIN:W2A-022#52:1>
+In terms of seqmental origin, the dorsal and ventral roots in guppy,
+swordtail and zebrafish are found to connect the spinal cord at the same
+segmental level as the vertebra that encases them.
+
+<ICE-SIN:W2A-022#53:1>
+However, the dorsal root entrance to the spinal cord and the spinal
+cord exit of the motor root in tilapia and medaka are located one segment
+rostral to the vertebra that encases them.
+
+<ICE-SIN:W2A-022#54:1>
+This could be due to a pronounced relative shift of the muscle /
+skeletal segment to the spinal segment during growth ( cf relative shift of
+somites to spinal cord seen in Xenopus laevis tadpole tail, Nordlander 1984).
+
+<ICE-SIN:W2A-022#55:1>
+The DRG in tilapia has been shown to contain both sensory neurones
+and motor fibres ( Laudel and Lim, in press).
+
+<ICE-SIN:W2A-022#56:1>
+A similar picture is found in the DRG of the swordtail.
+
+<ICE-SIN:W2A-022#57:1>
+A careful analysis of the DRG ontogeny in the tilapia revealed that
+the mixed nature is due to the accumulation of DRG precursor cells ( i.e.,
+neural crest cells) around the ventral root during development.
+
+<ICE-SIN:W2A-022#58:1>
+Prior to hatching, the DRG and the ventral root in the tilapia embryo
+are clearly separate entities ( Laudel and Lim, in press).
+
+<ICE-SIN:W2A-022#59:1>
+The development of DRG in the swordtail is probably similar to the
+process observed in tilapia.
+
+<ICE-SIN:W2A-022#60:1>
+Sadaghiani and Vielkind ( 1990) used HNK-1 antibody to trace the
+migration of neural crest cells in swordtail embryos and noted that the HNK-1
+stained primodia of the DRG were also attached to the ventral part of the
+neural tube.
+
+<ICE-SIN:W2A-022#61:1>
+Although these authors did not state whether the crest cells
+accumulate around the ventral motor root, our study suggests that they do.
+
+<ICE-SIN:W2A-022#62:1>
+The DRG in guppy, zebrafish and medaka are purely sensory in their
+composition.
+
+<ICE-SIN:W2A-022#63:1>
+However, the DRG in guppy sometimes shows a tendency towards the
+situation seen in tilapia and swordtail.
+
+<ICE-SIN:W2A-022#64:1>
+Under the CLSM the guppy DRG sometimes appears as spreading over the
+dorsal ramus of the motor root, thus giving the impression of the motor
+nerves growing through the DRG.
+
+<ICE-SIN:W2A-022#65:1>
+The differences in the DRG arrangement in relation to the motor root
+could be due to subtle differences in the neural crest ontogeny among the
+various teleosts.
+
+<ICE-SIN:W2A-022#66:1>
+It can be concluded from this study that not all species of teleosts
+exhibit similar DRG structure.
+
+<ICE-SIN:W2A-022#67:1>
+Within the vast species diversity present in teleosts ( about 23,000
+species according to Northcutt and Davis 1983), this finding is not
+surprising.
+
+<ICE-SIN:W2A-022#68:1>
+However, in the course of reviewing literature, it was found that
+there was a dearth in accurate descriptions of the gross anatomy of the
+teleostean spinal nerves, especially the DRG.
+
+<ICE-SIN:W2A-022#69:1>
+Many textbooks tend to leave out the teleosts in their comparative
+discussions between classes of vertebrates ( eg see Vines and Rees 1972;
+Hildebrand 1988).
+
+<ICE-SIN:W2A-022#70:1>
+This study helps to fill in the gap.
+
+<ICE-SIN:W2A-022#71:1>
+Through this study we also propose that the generalization of fish
+nervous structure presented in textbooks of comparative anatomy ( eg Kent
+1987), or even in atlases of fish histology ( eg Hibiya 1982) should not be
+taken too seriously. </I>
+
+<I>
+
+<ICE-SIN:W2A-022#72:2>
+<h> HORMONES AND THE CONTROL OF GESTATION AND PARTUITION IN THE GUPPY
+( POECILIA RETICULATA) </h>
+
+<ICE-SIN:W2A-022#73:2>
+Department of Zoology, National University of Singapore,
+
+<ICE-SIN:W2A-022#74:2>
+Kent Ridge, Singapore 0511
+
+<ICE-SIN:W2A-022#75:2>
+The guppy is a life-bearer.
+
+<ICE-SIN:W2A-022#76:2>
+The male transfers sperms in bundles into the ovary of the female
+where they may be stored for up to 7 to 8 mon in a " seminal receptacle".
+
+<ICE-SIN:W2A-022#77:2>
+Unlike the oviparous teleosts, the mature oocytes are fertilized
+intrafollicularly, ie while they are still within the follicles.
+
+<ICE-SIN:W2A-022#78:2>
+Fertilization occurs between 5 and 7 days postpartum.
+
+<ICE-SIN:W2A-022#79:2>
+This is followed by a prolonged intra-follicular gestation of about
+21 d, at the end of which the fully developed embryos are ovulated just prior
+to parturition.
+
+<ICE-SIN:W2A-022#80:2>
+The mean interbrood interval is 28 d.
+
+<ICE-SIN:W2A-022#81:2>
+Very little is known about the hormonal control of gestation and
+parturition in teleosts.
+
+<ICE-SIN:W2A-022#82:2>
+In an attempt to unravel the role of steroid hormones in these
+processes, we have examined the serum profile of steroids at various stages
+of the reproductive cycle; the synthesis of steroid metabolites from
+radioactive precursors; and, the effects of specific steroids on ovulation
+and/or parturition in vivo.
+
+<ICE-SIN:W2A-022#83:2>
+The levels of estradiol-17g, testosterone, cortisol,17
+q-hydroxyproqesterone, 171-20-dihydroxy-4-pregnen-3-one ( 17,20B-P) and
+progesterone were measured simultaneously in microlitre-volumes of serum at
+different stages of gestation.
+
+<ICE-SIN:W2A-022#84:2>
+A highly specific, sensitive, precise, accurate procedure involving
+high-performance liquid chromatography and radioimmunoassay was developed for
+this purpose ( Venkatesh et al 1989).
+
+<ICE-SIN:W2A-022#85:2>
+Levels of estradic and testosterone increased during vitellogenic
+growth of oocytes, and declined during late gestation to reach
+prefertilization levels at periparturition.
+
+<ICE-SIN:W2A-022#86:2>
+Cortisol levels decreased significantly during fertilization followed
+by an increase during gestation and a sharp decline again at periparturition.
+
+<ICE-SIN:W2A-022#87:2>
+The level of 17q hydroxyprogesterone was significantly lower at
+periparturition than at other stages, while that of 20B-P was significantly
+higher at periparturition than in late gestation.
+
+<ICE-SIN:W2A-022#88:2>
+There was no significant change in the levels of progesterone at all
+stages of gestation suggesting that, unlike mammals, progesterone may nobe
+involved in maintaining gestation in this fish.
+
+<ICE-SIN:W2A-022#89:2>
+Changes in the levels of estradiol-17B and testosterone seem to be
+related to oocyte growth rather than gestation.
+
+<ICE-SIN:W2A-022#90:2>
+The elevated levels of estradiol-17B at term may also facilitate
+parturition, in addition to its stimulation of vitellogenesis during oocyte
+growth.
+
+<ICE-SIN:W2A-022#91:2>
+On the basis of the present results, none of the steroids measured
+are involved in maintaining gestation in the guppy ( Venkatesh et al - l990).
+
+<ICE-SIN:W2A-022#92:2>
+It is possible that such results reflect one major limitation of the
+procedure - overlooking the role of a hiterto unknown steroid whose level was
+not measured.
+
+<ICE-SIN:W2A-022#93:2>
+We therefore examined the metabolism of various radiolabelled
+precursors such as pregnenolone, progesterone, 17q hydroxyprogesterone, and
+testosterone, by isolated follicles ( oocytes and embryos enclosed within the
+follicle layers) and extrafollicular tissue ( EF) of the guppy.
+
+<ICE-SIN:W2A-022#94:2>
+Follicles and EF derived from ovaries at different stages of
+gestation were incubated in vitro with 1 Ci of radioactive precursors at 25C.
+
+<ICE-SIN:W2A-022#95:2>
+The radioactive metabolites were extracted and separated by 5
+different high performance liquid chromatography systems, and detected with
+the on-line radio-activity detector.
+
+<ICE-SIN:W2A-022#96:2>
+The metabolites were further characterized by thin-layer
+chromatography, microchemical reactions, and recrystallization to constant
+specific activity; Venkatesh 1992a).
+
+<ICE-SIN:W2A-022#97:2>
+With 3H-pregnenolone as precursor, vitellogenic and post-
+vitellogenic follicles synthesized mainly androstenedione, 17q-
+hydroxyprogesterone, and the 5q reduced androgens ( 5q-androstane - 3,
+17-dione, 5q-DHT).
+
+<ICE-SIN:W2A-022#98:2>
+The synthesis of these " classical" steroids were, however, switched
+off during both early and late gestation.
+
+<ICE-SIN:W2A-022#99:2>
+Instead, very polar steroids and their glucuronides were synthesized.
+
+<ICE-SIN:W2A-022#100:2>
+After gestation, synthesis of the classic steroids resumed.
+
+<ICE-SIN:W2A-022#101:2>
+Metabolism of 3H-progesterone showed a similar trend.
+
+<ICE-SIN:W2A-022#102:2>
+Vitellogenic and post-vitellogenic oocytes synthesized mainly the
+classical steroids mentioned earlier.
+
+<ICE-SIN:W2A-022#103:2>
+In addition, 17a,20-P was produced by the post-vitellogenic oocytes,
+albeit at a low level.
+
+<ICE-SIN:W2A-022#104:2>
+Strikingly, increased synthesis of polar steroids and their
+glucuronides were seen during early and late gestation.
+
+<ICE-SIN:W2A-022#105:2>
+Again, there was no synthesis of classical steroids at these stages.
+
+<ICE-SIN:W2A-022#106:2>
+Similar trends in steroid biosthesis were evident with 3H-17a -
+hydroxyprogesterone.
+
+<ICE-SIN:W2A-022#107:2>
+With 3H-testosterone, vitellogenic follicles produced estradiol-17b
+and testosterone glucuronide. <X>
+
+<ICE-SIN:W2A-022#X108:2>
+The postvitelloge follicles produced the 5-reduced androgens and
+their respective glucuronides.
+
+<ICE-SIN:W2A-022#X109:2>
+Clearly, gestation stage follicles rapidly converted the precursors
+into 5-reduced and novel polar 7-hydroxylated steroids, and their
+glucuronides.
+
+<ICE-SIN:W2A-022#X110:2>
+Postpartum follicles showed very poor potential for steroid
+metabolism.
+
+<ICE-SIN:W2A-022#X111:2>
+These results demonstrate distinct changes in the steroidogenic
+potential of the follicles during the reproductive cycle.
+
+<ICE-SIN:W2A-022#X112:2>
+Unlike in other viviparous vertebrates, no particular steroid seems
+to be involved in maintaining gestation in the guppy - all the steroid
+precursors are converted into highly polar metabolites and their conjugates
+during gestation, thereby facilitating their excretion.
+
+<ICE-SIN:W2A-022#X113:2>
+The EF ovarian tissue also synthesized 7-hydroxylated steroids and
+their glucuronides, providing evidence for the first time that the teleost
+ovarian EF is steroidoqenic.
+
+<ICE-SIN:W2A-022#X114:2>
+Having identified some of the steroids whose levels in the the
+serum showed distinct changes during reproduction, the effects in vivo of
+progesterone. </X> </I>

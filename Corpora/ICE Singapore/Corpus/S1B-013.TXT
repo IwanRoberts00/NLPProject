@@ -1,0 +1,464 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1B-013#1:1:A>
+Uhm you can collect them
+
+<ICE-SIN:S1B-013#2:1:A>
+Settle down okay and let's begin
+
+<ICE-SIN:S1B-013#3:1:A>
+Tay Seow Ming shocked at your marks is it
+
+<ICE-SIN:S1B-013#4:1:A>
+Okay let's begin
+
+<ICE-SIN:S1B-013#5:1:A>
+Good morn uh good afternoon class
+
+<$B> 
+<ICE-SIN:S1B-013#6:1:B>
+<O> greetings </O>
+
+<$A> 
+<ICE-SIN:S1B-013#7:1:A>
+Sit down alright
+
+<ICE-SIN:S1B-013#8:1:A>
+Now what we will do today for the first half hour or so is I want to
+uhm go through the answers alright for the assignment questions that are
+given to you okay
+
+<ICE-SIN:S1B-013#9:1:A>
+You all settle down please
+
+<ICE-SIN:S1B-013#10:1:A>
+Alright the first assignment question was question five c
+
+<ICE-SIN:S1B-013#11:1:A>
+Okay I think most of you manage to do this question but some of you
+well I don't know what to say here ah but anyway this is the answer right
+
+<ICE-SIN:S1B-013#12:1:A>
+Now in the question five c you were asked whether a precipitate
+will form when the pH of a point 01 mole per dm cube solution of magnesium
+chloride is adjusted to ten
+
+<ICE-SIN:S1B-013#13:1:A>
+Now in the previous tutorial I gave you this hint right
+
+<ICE-SIN:S1B-013#14:1:A>
+The hint the key word is supposed to be pH ten
+
+<ICE-SIN:S1B-013#15:1:A>
+That means your solution is alkaline
+
+<ICE-SIN:S1B-013#16:1:A>
+Alkaline meaning that there is an excess of OH minus for hydroxide
+ion so you have to calculate your concentration of hydroxide ion alright and
+you do this using your POH value okay
+
+<ICE-SIN:S1B-013#17:1:A>
+So your concentration for hydroxide will be ten to the power minus
+four mole per dm cube
+
+<ICE-SIN:S1B-013#18:1:A>
+Now why are you interested in this hydroxide ion concentration
+because there's a possibility that your NG two plus that comes from your
+magnesium chloride and your hydroxide can come together to form your white
+solid magnesium hydroxide as a precipitate okay
+
+<ICE-SIN:S1B-013#19:1:A>
+Right so you are not concerned about magnesium chloride your
+concentration of chloride ions
+
+<ICE-SIN:S1B-013#20:1:A>
+You're more concerned about these two okay
+
+<ICE-SIN:S1B-013#21:1:A>
+So you have a concentration of hydroxide
+
+<ICE-SIN:S1B-013#22:1:A>
+You have a concentration of <unclear> word </unclear>
+
+<ICE-SIN:S1B-013#23:1:A>
+So what you do is you calculate the ionic product okay
+
+<ICE-SIN:S1B-013#24:1:A>
+Uhm some mistakes are you forgot to raise your OH minus expression
+to the power of two okay
+
+<ICE-SIN:S1B-013#25:1:A>
+Now anyway your ionic product will be this value which far exceeds
+your solubility product of magnesium hydroxide
+
+<ICE-SIN:S1B-013#26:1:A>
+Therefore you can compute that uh precipitate <unclear> word
+</unclear> four okay
+
+<ICE-SIN:S1B-013#27:1:A>
+So for question five c right you cannot say that since magnesium
+chloride is a soluble salt no precipitate formed
+
+<ICE-SIN:S1B-013#28:1:A>
+You have to bear uhm bear in mind that it is an alkaline solution
+alright
+
+<ICE-SIN:S1B-013#29:1:A>
+Any questions
+
+<ICE-SIN:S1B-013#30:1:A>
+No
+
+<ICE-SIN:S1B-013#31:1:A>
+Okay question six question six right uhm for this one what you have
+is a saturated solution of hydrogen sulphide alright
+
+<ICE-SIN:S1B-013#32:1:A>
+Now you are given a specific concentration of metal ion and a
+specific concentration of hydrochloric acid okay
+
+<ICE-SIN:S1B-013#33:1:A>
+So your metal ion it's concentration equals to one mole per dm cube
+alright
+
+<ICE-SIN:S1B-013#34:1:A>
+Now your concentration of hydrochloric acid because this is a
+strong acid it will completely dissociate
+
+<ICE-SIN:S1B-013#35:1:A>
+So this will be equivalent to the amount of H plus that is present
+in solution which is zero point two five mole per dm cube okay
+
+<ICE-SIN:S1B-013#36:1:A>
+Right
+
+<ICE-SIN:S1B-013#37:1:A>
+Now what we have to do then is to calculate the sulphide ion
+concentration
+
+<ICE-SIN:S1B-013#38:1:A>
+You don't know how much of it there is
+
+<ICE-SIN:S1B-013#39:1:A>
+So what you have to do is you write up the expression okay that has
+been given to you you can copy this from your tutorial alright
+
+<ICE-SIN:S1B-013#40:1:A>
+Now some of you make careless mistakes here you forgot to square
+your expression
+
+<ICE-SIN:S1B-013#41:1:A>
+Right it's been given to you that it's H plus whole thing squared
+but you didn't do that right
+
+<ICE-SIN:S1B-013#42:1:A>
+Now what value do you substitute inside since the majority of your
+H plus comes from your HCL you use point two five mole per dm cube okay
+
+<ICE-SIN:S1B-013#43:1:A>
+Right
+
+<ICE-SIN:S1B-013#44:1:A>
+Now from this you can solve for your sulphide ion concentration
+
+<ICE-SIN:S1B-013#45:1:A>
+Right the value is one point seven six plus ten to the power of
+minus twenty-two mole per dm cube alright
+
+<ICE-SIN:S1B-013#46:1:A>
+Now the next thing that is of concern to you will the ionic product
+alright exceed the Ksp for your metal sulphide or will it be less than okay
+
+<ICE-SIN:S1B-013#47:1:A>
+Because if it is less than there will be no precipitation okay
+
+<ICE-SIN:S1B-013#48:1:A>
+If it is greater than then a precipitate will form
+
+<ICE-SIN:S1B-013#49:1:A>
+Now it's necessary that you put these two statements down whether
+it's greater than or it's less than alright
+
+<ICE-SIN:S1B-013#50:1:A>
+You cannot straight-away cons uh uhm conclude oh the ionic product
+is equal to a particular value that's all therefore such and such will
+precipitate out and such and such will not precipitate out
+
+<ICE-SIN:S1B-013#51:1:A>
+Okay you must give me the inequality signs here so that at least I
+know you understand what you're working out and that you did not copy from
+somebody else alright
+
+<ICE-SIN:S1B-013#52:1:A>
+Some of you had very obvious copying uh Okay next time try to copy
+more intelligently modify your answers slightly
+
+<ICE-SIN:S1B-013#53:1:A>
+Now what's your ionic product
+
+<ICE-SIN:S1B-013#54:1:A>
+Okay your ionic product might be this multiplied by this okay
+
+<ICE-SIN:S1B-013#55:1:A>
+Right and all you have to do is see whether this value exceed or is
+less than the Ksp for that particular salt uhm sulphide whether it's cadmium
+manganese iron or nickel okay
+
+<ICE-SIN:S1B-013#56:1:A>
+Now in this case you probably should get uhm which one uh
+
+<ICE-SIN:S1B-013#57:1:A>
+Calcium sulphide and nickel sulphide being precipitated whereas
+manganese and uh iron is not precipitated out as a sulphide okay
+
+<ICE-SIN:S1B-013#58:1:A>
+Right in question seven a you're dealing with silver chromate
+
+<ICE-SIN:S1B-013#59:1:A>
+Now silver chromate uhm what you want to do is you want to form a
+saturated solution without any of the salt precipitating out okay
+
+<ICE-SIN:S1B-013#60:1:A>
+So what is the maximum concentration of AG plus that you can have
+right
+
+<ICE-SIN:S1B-013#61:1:A>
+Now how do you calculate this This means that your ionic product
+for silver chromate must be exactly equal to Ksp
+
+<ICE-SIN:S1B-013#62:1:A>
+Okay because when your ionic product is exactly equals to Ksp the
+solution is saturated but there is no precipitate being formed alright
+
+<ICE-SIN:S1B-013#63:1:A>
+So what happens to that uhm if you write out the equilibrium you
+know that for every one mole of silver chromate that dissociates two moles of
+H plus and one mole of chromate ion are formed alright
+
+<ICE-SIN:S1B-013#64:1:A>
+So if your solubility of sil uh silver chromate is s alright the
+amount of uh AG plus formed will be two s and the amount of chromate formed
+will be s moles per dm cube
+
+<ICE-SIN:S1B-013#65:1:A>
+So you equate the two concentrations to your Ksp you calculate for
+s you should get six point three times ten to the power minus five
+
+<ICE-SIN:S1B-013#66:1:A>
+Yes
+
+<ICE-SIN:S1B-013#67:1:A>
+Pardon
+
+<ICE-SIN:S1B-013#68:1:A>
+Thank you
+
+<ICE-SIN:S1B-013#69:1:A>
+Alright now you go on to the next part it's not just enough to
+calculate solubility what you want is silver ion concentration alright which
+is twice the solubility of silver chromate
+
+<ICE-SIN:S1B-013#70:1:A>
+Oh yes another thing uh most of you always forget to put the unit
+so I deduct half a mark each time you do that alright
+
+<ICE-SIN:S1B-013#71:1:A>
+So your silver plus concentration is that you want to express that
+in terms of grams per dm cube you multiply by the correct atomic mass okay
+
+<ICE-SIN:S1B-013#72:1:A>
+You should get zero point zero one three six gram per dm cube Again
+watch your unit
+
+<ICE-SIN:S1B-013#73:1:A>
+Now for seven b there was some confusion alright
+
+<ICE-SIN:S1B-013#74:1:A>
+What you want to do is in this system that contains silver plus ion
+and chromate ion you want to dissolve HCL alright but you want to dissolve
+the HCL in such a way that you have a saturated solution but no precipitate
+will form
+
+<ICE-SIN:S1B-013#75:1:A>
+Now what is this precipitate that will form
+
+<ICE-SIN:S1B-013#76:1:A>
+The precipitate will be silver chloride
+
+<ICE-SIN:S1B-013#77:1:A>
+Okay because HCL will dissociate in solution to give you the ions
+alright
+
+<ICE-SIN:S1B-013#78:1:A>
+So what you have again like I always say it's soup of ion
+
+<ICE-SIN:S1B-013#79:1:A>
+Okay these two will not precipitate out just saturated
+
+<ICE-SIN:S1B-013#80:1:A>
+Now what you want to know is how much of this hydrochloric acid can
+I add such that these two can be present in solution and will not come up as
+a solid precipitate okay
+
+<ICE-SIN:S1B-013#81:1:A>
+Right
+
+<ICE-SIN:S1B-013#82:1:A>
+So most of you misunderstood the question you thought that oh it's
+a completely new system I'm using a new solution that contains just silver
+chloride
+
+<ICE-SIN:S1B-013#83:1:A>
+No
+
+<ICE-SIN:S1B-013#84:1:A>
+Alright you're using the same solution as in part seven a with a
+new twist now your bubbly HCL into it alright
+
+<ICE-SIN:S1B-013#85:1:A>
+Okay so how do you calculate this part the maximum amount of HCL
+that can be added
+
+<ICE-SIN:S1B-013#86:1:A>
+First you need to calculate the maximum chloride concentration that
+can be dissolved alright and the only way you can do this is to equate this
+with Ksp for a saturated solution of silver chloride
+
+<ICE-SIN:S1B-013#87:1:A>
+Now where did you get this silver plus from Right silver plus from
+
+<ICE-SIN:S1B-013#88:1:A>
+Your original solution containing silver and chromate and ion right
+
+<ICE-SIN:S1B-013#89:1:A>
+Therefore your silver plus concentration is actually your answer to
+seven a okay
+
+<ICE-SIN:S1B-013#90:1:A>
+Right
+
+<ICE-SIN:S1B-013#91:1:A>
+Most of you equate oh silver plus equals chloride so you just put s
+and s so it's s square equals to Ksp and you square it your whole expression
+you get your chloride concentration
+
+<ICE-SIN:S1B-013#92:1:A>
+No
+
+<ICE-SIN:S1B-013#93:1:A>
+Alright
+
+<ICE-SIN:S1B-013#94:1:A>
+That is actually misreading the question okay
+
+<ICE-SIN:S1B-013#95:1:A>
+So your silver plus concentration you get from part seven a and
+from this you can calculate your chloride concentration which is a very small
+value uh
+
+<ICE-SIN:S1B-013#96:1:A>
+Right seven point nine four times ten to the power of minus seven
+mole over dm cube Can you all see this
+
+<ICE-SIN:S1B-013#97:1:A>
+You all are speaking the answer is it Okay now for the next part
+alright uhm expressing your chloride in terms of concentration is not enough
+because the question asks you for the mass you know mass of HCL that can be
+dissolved in two hundred and fifty cm cube of the solution okay
+
+<ICE-SIN:S1B-013#98:1:A>
+So what you have to do is actually calculate the number of moles
+HCL that can be dissolved in two hundred and fifty cm cube alright
+
+<ICE-SIN:S1B-013#99:1:A>
+Now you know that your chloride concentration is equivalent to your
+hydrochloric acid concentration
+
+<ICE-SIN:S1B-013#100:1:A>
+This is because hydrochloric acid will completely dissociate into
+ions okay
+
+<ICE-SIN:S1B-013#101:1:A>
+So therefore your HCL concentration will also be the same value
+right
+
+<ICE-SIN:S1B-013#102:1:A>
+And from there you use proportion to calculate the maximum mass of
+HCL in two hundred and fifty cm cube
+
+<ICE-SIN:S1B-013#103:1:A>
+Right you just divide the answer by four and multiply by the
+molecular mass of HCL you get a very small value okay
+
+<ICE-SIN:S1B-013#104:1:A>
+Okay seven point two seven times ten to the power minus six square
+alright
+
+<ICE-SIN:S1B-013#105:1:A>
+Any of you all have any questions
+
+<ICE-SIN:S1B-013#106:1:A>
+Yes
+
+<ICE-SIN:S1B-013#107:1:A>
+Yes
+
+<ICE-SIN:S1B-013#108:1:A>
+No what you're talking about is ah you're confusing number of
+moles and concentration
+
+<ICE-SIN:S1B-013#109:1:A>
+Now whether I have two hundred and fifty cm cube or or one
+thousand cm cube solution alright a saturated solution of silver chromate
+will always have the same concentration of silver ion but the number of moles
+present in two hundred and fifty cm cube and present in one thousand cm cube
+will be different okay
+
+<ICE-SIN:S1B-013#110:1:A>
+Alright uhm now if you see in seven a okay what is the mass of AG
+plus in one dm cube of a saturate solution of silver chromate
+
+<ICE-SIN:S1B-013#111:1:A>
+Alright now that means your answer will be gram for every one dm
+cube correct
+
+<ICE-SIN:S1B-013#112:1:A>
+Isn't that another way of expressing concentration gram per dm
+cube okay
+
+<ICE-SIN:S1B-013#113:1:A>
+Or rather you can say concentration is actually how many moles of
+silver plus in one dm cube
+
+<ICE-SIN:S1B-013#114:1:A>
+Isn't that mole per dm cube
+
+<ICE-SIN:S1B-013#115:1:A>
+That's also AG plus concentration alright
+
+<ICE-SIN:S1B-013#116:1:A>
+So it's the number of moles in one dm cube
+
+<ICE-SIN:S1B-013#117:1:A>
+Yes yes
+
+<ICE-SIN:S1B-013#118:1:A>
+Ya oh no no no no if you read seven b ah what is the maximum mass
+of hydrogen chloride that can dissolve in two hundred and fifty cm cube of a
+saturated solution of silver chromate saturated solution of silver chromate
+and uh for seven b and seven a also saturated solution of silver chromate
+
+<ICE-SIN:S1B-013#119:1:A>
+So in both cases seven a and seven b one is one dm cube the other
+one is two hundred and fifty cm cube However both are saturated solution and
+therefore no matter what the volume you have for solution your concentration
+of silver plus is still is still the same because both solutions are the same
+it's just that you have different volumes of them <X>
+
+<ICE-SIN:S1B-013#X120:1:A>
+However your number of moles of silver plus will be different
+There'll be more in the one thousand cm cube than in two hundred and fifty cm
+Concentration is different What No there is no dilution You don't transfer or
+what you just use the same solution and you just bubble in HCL that's all
+okay Alright Any other questions None </X> </I>

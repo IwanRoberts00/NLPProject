@@ -1,0 +1,545 @@
+<I>
+
+<ICE-SIN:W2B-038#1:1>
+<h> Software Roundup Green adventure Learn about the value of a
+rainforest, and the animal and plantlife in it in this enjoyable game </h>
+
+<ICE-SIN:W2B-038#2:1>
+by Francis Chin If you have enjoyed Eco-Quest I, you will find its
+sequel, Lost Secret of the Rainforest, even better.
+
+<ICE-SIN:W2B-038#3:1>
+Filled as a learning program, it is an ecological adventure game that
+takes you into the Amazon Jungle.
+
+<ICE-SIN:W2B-038#4:1>
+The action begins at the port of Iquitos, where you, as the
+environmentally conscious boy Adam Greene, and his father have just landed.
+
+<ICE-SIN:W2B-038#5:1>
+Things immediately go awry as you face hostile customs officials,
+luggage thieves and a couple of suspicious characters.
+
+<ICE-SIN:W2B-038#6:1>
+In the rainforest, you can climb to different levels of the forest
+from floor to canopy, and find out about the animals living there.
+
+<ICE-SIN:W2B-038#7:1>
+As you progress, you must solve ecological and botanical puzzles
+blocking your path.
+
+<ICE-SIN:W2B-038#8:1>
+You can also visit strange places populated with animals that talk and
+other engaging characters, and be pursued by a group of baddies who are all
+out to loot and despoil the forest.
+
+<ICE-SIN:W2B-038#9:1>
+The game teaches the value of a forest, and the critical relationship
+between species and environmental protection.
+
+<ICE-SIN:W2B-038#10:1>
+The graphics in 256 colours are sharp and smooth, giving a
+3-dimensional realism to the scenes.
+
+<ICE-SIN:W2B-038#11:1>
+A Help feature provides clues and hints when you are stuck.
+
+<ICE-SIN:W2B-038#12:1>
+While the game is billed as for children from 10 and above, adults
+will find Lost Secrets of the Rainforest just as playable and enjoyable.
+
+<ICE-SIN:W2B-038#13:1>
+<h> RATING </h>
+
+<ICE-SIN:W2B-038#14:1>
+Playability:
+
+<ICE-SIN:W2B-038#15:1>
+Sheer enjoyment:
+
+<ICE-SIN:W2B-038#16:1>
+Graphics and animation:
+
+<ICE-SIN:W2B-038#17:1>
+Documentation: None
+
+<ICE-SIN:W2B-038#18:1>
+Price:
+&dollar;34.90 <h> Easy WordPerfect Version 6.0 for DOS is graphical </h>
+
+<ICE-SIN:W2B-038#19:1>
+Check your grammar, select all kinds of fonts, manipulate text to
+your heart's content, search for words quickly from any document in the
+system, calculate spreadsheet problems and even fax your document directly.
+
+<ICE-SIN:W2B-038#20:1>
+These are what Version 6.0 of WordPerfect, the world's top-selling
+DOS word processor, can do.
+
+<ICE-SIN:W2B-038#21:1>
+The program will be out in June, and the version reviewed is a
+pre-release one.
+
+<ICE-SIN:W2B-038#22:1>
+Although a DOS program, its graphic user interface is closer to that
+of a Windows product.
+
+<ICE-SIN:W2B-038#23:1>
+It has three editing modes: text mode, similar to that in WordPerfect
+5.1; graphics mode, that gives a graphic representation of fonts, pictures
+and colours as you edit; and page mode, like the graphics mode but with page
+numbers, footnotes and headers shown during editing.
+
+<ICE-SIN:W2B-038#24:1>
+The graphics mode has menu push buttons, like those now used in
+WordPerfect 5.2 for Windows.
+
+<ICE-SIN:W2B-038#25:1>
+You can also move, drag, drop or add buttons.
+
+<ICE-SIN:W2B-038#26:1>
+In effect, you get Windows ease of use without its sluggishness and
+high demand on RAM and hard disk space.
+
+<ICE-SIN:W2B-038#27:1>
+WP6 can also handle Windows typefaces such as ATM Type 1, Intellifont
+and Microsoft's TrueType fonts.
+
+<ICE-SIN:W2B-038#28:1>
+Hence, a WP6 document can be read by a Windows program with the same
+fonts and types displayed unchanged.
+
+<ICE-SIN:W2B-038#29:1>
+A spreadsheet will be an integral part of the program.
+
+<ICE-SIN:W2B-038#30:1>
+You use Tables to perform true spreadsheet calculation with formulas
+and functions, and cell formatting.
+
+<ICE-SIN:W2B-038#31:1>
+You can open up to nine different documents on the screen, as opposed
+to the current two.
+
+<ICE-SIN:W2B-038#32:1>
+They can be tiled ( laid out side by side so that you can glance at
+all of them) or cascaded ( stacked in a row) on screen.
+
+<ICE-SIN:W2B-038#33:1>
+WP6 will run on a 286 PC with 450 kilobyte or more of free RAM and 7
+megabyte of hard disk space.
+
+<ICE-SIN:W2B-038#34:1>
+The program is not rated since it is yet to be launched.
+
+<ICE-SIN:W2B-038#35:1>
+All bases covered Superbase 2.0 is fast and responsive Not many know
+that Superbase was the first large database program to run on Windows.
+
+<ICE-SIN:W2B-038#36:1>
+Software Publishing Corporation ( SPC) has combined two earlier
+versions, Superbase 2 and the more expensive Superbase 4, into one: Superbase
+version 2.0.
+
+<ICE-SIN:W2B-038#37:1>
+The result is a program with extensive features to handle the most
+demanding corporate database needs.
+
+<ICE-SIN:W2B-038#38:1>
+It is fast and responsive and its well-laid out menus and dialogue
+boxes are a pleasure to use.
+
+<ICE-SIN:W2B-038#39:1>
+The core of Superbase's database design is the concept of the file
+family.
+
+<ICE-SIN:W2B-038#40:1>
+When you create a new database, you are creating not a single file
+but a collection of files, each fulfilling a specific function.
+
+<ICE-SIN:W2B-038#41:1>
+You will have the basic data file and various index files ( records
+are sorted and indexed according to the fields).
+
+<ICE-SIN:W2B-038#42:1>
+You can also have the database displayed as a form or as a report.
+
+<ICE-SIN:W2B-038#43:1>
+Databases are easily and quickly created.
+
+<ICE-SIN:W2B-038#44:1>
+The many pop-up dialogue boxes will guide you through in creating
+the fields, defining the data types and formatting the data to be entered.
+
+<ICE-SIN:W2B-038#45:1>
+You can have up to 1 billion records in a single database file and an
+unlimited number of fields per record.
+
+<ICE-SIN:W2B-038#46:1>
+Also, each field can have space for up to 4,000 characters.
+
+<ICE-SIN:W2B-038#47:1>
+You can attach external text files to a field.
+
+<ICE-SIN:W2B-038#48:1>
+Superbase power comes in the filtering of records, the lookup setting
+to link one set of records to another set in another database, and the
+linking of databases.
+
+<ICE-SIN:W2B-038#49:1>
+Forms and reports can be designed as you wish, and can include
+imported graphics and bitmap images.
+
+<ICE-SIN:W2B-038#50:1>
+There is a special programming language to fine-tune and customise
+your database collection.
+
+<ICE-SIN:W2B-038#51:1>
+System requirements: You need at least a 386 PC with 4 MB of RAM,
+from 5 to 7 MB of hard disk space.
+
+<ICE-SIN:W2B-038#52:1>
+<h> RATING </h>
+
+<ICE-SIN:W2B-038#53:1>
+Ease of use:
+
+<ICE-SIN:W2B-038#54:1>
+Power features:
+
+<ICE-SIN:W2B-038#55:1>
+Documentation:
+
+<ICE-SIN:W2B-038#56:1>
+Price:
+&dollar;1,365. 
+
+<ICE-SIN:W2B-038#57:1>
+But you can buy Superbase for
+&dollar;928 plus Harvard Draw for Windows free at a seminar on SPC products in
+Meridien Hotel today at 3.30 pm.
+
+<ICE-SIN:W2B-038#58:1>
+<h> Client/servers successful but...Client/server systems are
+successful only when implemented as part of a firm's re-engineering strategy
+</h>
+
+<ICE-SIN:W2B-038#59:1>
+by Kevin Lim
+
+<ICE-SIN:W2B-038#60:1>
+More large companies are replacing their older mainframes and
+minicomputers with client/server systems.
+
+<ICE-SIN:W2B-038#61:1>
+The reasons are many.
+
+<ICE-SIN:W2B-038#62:1>
+A network of PCs and workstations - - on which client/server
+applications are built - - costs less than a mainframe of equivalent power.
+
+<ICE-SIN:W2B-038#63:1>
+Client/server solutions also involve distributed computing where work
+is shared by the client ( the PC) and the server ( either a high-end PC or
+workstation).
+
+<ICE-SIN:W2B-038#64:1>
+Hence a database or even a heavy-duty engineering program can be
+produced on the PC, with the server acting only as backup or a means of
+distributing the data.
+
+<ICE-SIN:W2B-038#65:1>
+In contrast, the old mainframe environment requires all
+number-crunching to be done at the mainframe level, as dumb terminals can
+only relay signals to and from the main computer.
+
+<ICE-SIN:W2B-038#66:1>
+This unnecessarily slows the system down.
+
+<ICE-SIN:W2B-038#67:1>
+But switching to client/server systems has not always been positive.
+
+<ICE-SIN:W2B-038#68:1>
+International Data Corporation ( IDC), a research firm, following a
+survey of large users in the US earlier this year, said: " Mainframes clearly
+involve higher capital costs.
+
+<ICE-SIN:W2B-038#69:1>
+However, we believe that it is a mistake to extrapolate that higher
+capital costs necessarily incur higher operating costs.
+
+<ICE-SIN:W2B-038#70:1>
+" Indeed, for certain complex applications, mainframes enjoy distinct
+cost advantages over local area networks ( LANs)."
+
+<ICE-SIN:W2B-038#71:1>
+Mr Klaus Wenger, Andersen Consulting's regional coordinator for its
+Asean/Greater China Technology Integration Services organisation added: "
+There are probably hundreds of client/server type systems that have failed to
+deliver.
+
+<ICE-SIN:W2B-038#72:1>
+These failures have however never been highlighted.
+
+<ICE-SIN:W2B-038#73:1>
+According to IDC, staffing costs account for a large portion of total
+running costs of complex networks.
+
+<ICE-SIN:W2B-038#74:1>
+And even if companies are prepared to pay for staff, they may not get
+enough of IT professionals who are familiar with client/server systems, said
+Mr Lionel Lim, Asean managing director of Sun Microsystems.
+
+<ICE-SIN:W2B-038#75:1>
+Added Mr Wenger: " Even though LAN flexibility improves personal
+productivity, it can dramatically increase complexity, and therefore systems
+management costs as workloads increase in sophistication." dditionally, some
+issues still plague client/server systems.
+
+<ICE-SIN:W2B-038#76:1>
+Security and maintenance of remote servers containing critical
+information are two such key issues.
+
+<ICE-SIN:W2B-038#77:1>
+So why switch to client/server?
+
+<ICE-SIN:W2B-038#78:1>
+Mr K C Lee, the National Computer Board's assistant chief executive,
+Government Systems Division, said that " by comparing cost alone, you are not
+comparing apples with apples.
+
+<ICE-SIN:W2B-038#79:1>
+You can do more on a PC than on a dumb server".
+
+<ICE-SIN:W2B-038#80:1>
+With the emphasis on service, front-end counter staff will need more
+processing power in order to respond quickly to customer enquiries.
+
+<ICE-SIN:W2B-038#81:1>
+And while he concedes that mainframes still possess several
+advantages, the government expects to spend more on client/servers over the
+next few years while mainframe related expenses will remain the same
+proportion of the total budget, he said.
+
+<ICE-SIN:W2B-038#82:1>
+The increasing emphasis on multimedia which takes up more digital
+space on networks, will also give mainframe systems more problems.
+
+<ICE-SIN:W2B-038#83:1>
+Electronic Data Systems, the systems integrator for the recent USA '
+94 World Cup, said concern about delivering multi-media type information was
+one of the main reasons that prompted the World Cup organisers to choose a
+client/server system.
+
+<ICE-SIN:W2B-038#84:1>
+This system, built on Sun Microsystems workstations, provided on-line
+and on-time information to journalists and officials involved in the World
+Cup in nine US venues and Zurich, Switzerland where FIFA ( the world soccer
+body) is based.
+
+<ICE-SIN:W2B-038#85:1>
+Mr Cheche Vidal Noya, vice-president in charge of technology for the
+World Cup USA 94, said: " We identified a client/server model right from the
+start because we knew it can overcome the geographic, logistical applications
+and information challenges presented by this event.
+
+<ICE-SIN:W2B-038#86:1>
+" And we were proven right.
+
+<ICE-SIN:W2B-038#87:1>
+All our applications were developed very quickly and easily.
+
+<ICE-SIN:W2B-038#88:1>
+More importantly, we were able to implement these applications
+rapidly in a very large network".
+
+<ICE-SIN:W2B-038#89:1>
+Users must realise that to fully benefit from client/server systems,
+they must incorporate it into the whole process of change, which covers not
+just computers but the entire business processes in their companies.
+
+<ICE-SIN:W2B-038#90:1>
+<h> Handy Computing with the PDA Smaller and lighter than a filofax
+or mobile phone, the personal digital assistant ( PDA) is finally gaining
+recognition </h>
+
+<ICE-SIN:W2B-038#91:1>
+by Cheng Chee Seng
+
+<ICE-SIN:W2B-038#92:1>
+The application that is giving hope to personal digital assistant (
+PDA) makers is wireless communications.
+
+<ICE-SIN:W2B-038#93:1>
+PDAs like the Apple Newton MessagePad allow users to send and receive
+data wirelessly.
+
+<ICE-SIN:W2B-038#94:1>
+The Newton has an infrared capability that allows users to beam data
+across to another Newton.
+
+<ICE-SIN:W2B-038#95:1>
+With many applications now available, the PDA is not only a roving
+electronic secretary but also a stocks adviser and the gateway to the
+electronic highways of information banks and communications worldwide.
+
+<ICE-SIN:W2B-038#96:1>
+Although they are commonly known as palmtop computers here, PDAs are
+not computers in the true sense of the word.
+
+<ICE-SIN:W2B-038#97:1>
+You cannot run your favourite software applications such as Windows,
+WordPerfect, or QuarkX-press on them.
+
+<ICE-SIN:W2B-038#98:1>
+Neither is it practical to prepare your company's
+&dollar;60 million budget and write a 100,000 word novel on them.
+
+<ICE-SIN:W2B-038#99:1>
+They are small - - half the size of a shorthand pad weighing under
+350 gm.
+
+<ICE-SIN:W2B-038#100:1>
+Most have either a QWERTY keyboard ( like the HP100LX) or pen-based
+design ( like the Newton MessagePad 110).
+
+<ICE-SIN:W2B-038#101:1>
+The Sharp Wizard on the other hand is a hybrid with a keyboard as
+well as an on-screen sketch-pad.
+
+<ICE-SIN:W2B-038#102:1>
+Apple's Newton blazed the trail for PDAs.
+
+<ICE-SIN:W2B-038#103:1>
+But the reception when they were launched 12 to 18 months ago was
+cold because the PDA did not live up to its expectations of being an
+electronic filofax.
+
+<ICE-SIN:W2B-038#104:1>
+One possibility is that there were insufficient applications to run
+on the Newton.
+
+<ICE-SIN:W2B-038#105:1>
+The crucial faxing, paging, connection software and other important
+utilities did not appear in time.
+
+<ICE-SIN:W2B-038#106:1>
+As a result, the Newton was seen as just a pen-based electronic
+organiser that recognises handwriting.
+
+<ICE-SIN:W2B-038#107:1>
+A more plausible explanation is that consumers were perhaps looking
+for desktop computing power in a palmtop or PDA.
+
+<ICE-SIN:W2B-038#108:1>
+New developments in the region's data communication technologies and
+infrastructure have changed this.
+
+<ICE-SIN:W2B-038#109:1>
+Also, consumers are now more aware of the true role of PDAs as a
+pocketable mobile personal information device that also provides two-way
+information exchange.
+
+<ICE-SIN:W2B-038#110:1>
+It is interesting that where Apple flounders, palmtop computer
+pioneer Hewlett-Packard ( HP) has been quietly moving towards its goal of
+being the " most connectable" PDA.
+
+<ICE-SIN:W2B-038#111:1>
+The second generation and higher-powered HP100LX offers users
+real-time stocks prices and news-flashes round-the-clock.
+
+<ICE-SIN:W2B-038#112:1>
+This new service has been put together by HP together with Singapore
+Telecom and Motorola which developed the modem for this service.
+
+<ICE-SIN:W2B-038#113:1>
+But it is with the introduction of Singapore Telecom's new public
+mobile data service, DataRoam, in late July that two-way wireless
+transmission became a reality.
+
+<ICE-SIN:W2B-038#114:1>
+By plugging the Motorola InfoTac data communicator into the HP100LX,
+a user will gain instant access into the new world of wireless two-way
+communications. <X>
+
+<ICE-SIN:W2B-038#X115:1>
+In other words, you may be working on a ship anchored at the
+Eastern Anchorage in Singapore port but you can still check your electronic
+messages in your office PC or monitor your stock portfolio.
+
+<ICE-SIN:W2B-038#X116:1>
+You can even confer with service engineers back home in your
+headquarters in the United States.
+
+<ICE-SIN:W2B-038#X117:1>
+Digital Equipment Singapore's field service engineers are using a
+DataRoam service to keep in touch with customers.
+
+<ICE-SIN:W2B-038#X118:1>
+Engineers at the customer site can access Digital's database
+located in the United States for information and recommend solutions almost
+immediately.
+
+<ICE-SIN:W2B-038#X119:1>
+Postmen from Singapore Post's Local Urgent Mail Service are
+directed to their destinations through the DataRoam service, resulting in
+faster service.
+
+<ICE-SIN:W2B-038#X120:1>
+With seven out of the 21 wireless networks in the world located in
+Asia where many areas still lack good communications infrastructure, PDAs
+could well become very popular.
+
+<ICE-SIN:W2B-038#X121:1>
+Mr Tan Kiok Siang, Marketing Manager for Hewlett Packard's mobile
+products estimated that sales for the palmtops in the last ten months jumped
+70 percent.
+
+<ICE-SIN:W2B-038#X122:1>
+" I am confident that the upward trend will continue especially
+with the tremendous opportunities offered by wireless comunication".
+
+<ICE-SIN:W2B-038#X123:1>
+A hope that will no doubt be shared by key players like Apple,
+Amstrad, Tandy, Casio and Compaq.
+
+<ICE-SIN:W2B-038#X124:1>
+PDA's success rests on software developers.
+
+<ICE-SIN:W2B-038#X125:1>
+They have to develop more applications especially in the credit
+card sized PCMCIA format.
+
+<ICE-SIN:W2B-038#X126:1>
+Already some PCMCIA-based applications are available like
+Travelling Software's Newton Connection for Windows, Ex Machina's PocketCall
+( a terminal emulation software) and Microsoft's " Microsoft At Work"
+operating system for hand-held device adopted by Compaq for their yet
+unnamed PDA.
+
+<ICE-SIN:W2B-038#X127:1>
+With the exception of a couple of companies here like Reuters
+Singapore and Associated Breweries, companies are still unconvinced about the
+benefits of palmtop devices.
+
+<ICE-SIN:W2B-038#X128:1>
+But the good news is there are more companies assessing PDAs for
+their use.
+
+<ICE-SIN:W2B-038#X129:1>
+For example, courier companies are looking into their use.
+
+<ICE-SIN:W2B-038#X130:1>
+There is also talk of developing wireless two-way communication to
+execute the buy-sell instructions for share trading.
+
+<ICE-SIN:W2B-038#X131:1>
+The attraction is instant confirmation of transaction and price.
+
+<ICE-SIN:W2B-038#X132:1>
+On the drawing board are software development efforts to tap the
+power of DataRoam for wireless faxing, 2-way messaging, wireless alphanumeric
+paging and perhaps even wireless Internet connectivity.
+
+<ICE-SIN:W2B-038#X133:1>
+So watch this slot for more news on PDAs. </X> </I>

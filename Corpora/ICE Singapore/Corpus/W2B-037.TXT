@@ -1,0 +1,456 @@
+<I>
+
+<ICE-SIN:W2B-037#1:1>
+<h> Video-on-demand: still more to be done </h>
+
+<ICE-SIN:W2B-037#2:1>
+About 500 households from different parts of Singapore will be
+involved in the video-on-demand trial conducted by Singapore Telecom
+
+<ICE-SIN:W2B-037#3:1>
+by Kevin Lim
+
+<ICE-SIN:W2B-037#4:1>
+Comfortably lounging on a sofa in his three-room HDB apartment, Mr Tan
+reaches for his TV remote control to check which Sharon Stone movies are
+available on TV.
+
+<ICE-SIN:W2B-037#5:1>
+He considers Basic Instinct but finally chooses Crocodile Dundee.
+
+<ICE-SIN:W2B-037#6:1>
+Halfway through, he presses " Pause" on the remote to stop the movie.
+
+<ICE-SIN:W2B-037#7:1>
+He calls up another function, and orders a pizza from a menu which
+appears on the TV screen.
+
+<ICE-SIN:W2B-037#8:1>
+He presses " Start" to continue watching the movie until the delivery
+boy shows up with his pizza a while later.
+
+<ICE-SIN:W2B-037#9:1>
+This is the world of video-on-demand ( VOD).
+
+<ICE-SIN:W2B-037#10:1>
+A couch potato's dream and a video rental shop operator's nightmare,
+VOD is seen as the killer application that will provide the initial impetus
+for the interactive TV industry.
+
+<ICE-SIN:W2B-037#11:1>
+With the complete digitalisation of Singapore's telephone network,
+VOD and other interactive services will soon become a reality.
+
+<ICE-SIN:W2B-037#12:1>
+The same VOD network can also be used for two-way services such as
+tele-shopping ( like in the case of ordering the pizza), long distance
+learning, and playing computer games with friends several thousand kilometres
+away.
+
+<ICE-SIN:W2B-037#13:1>
+In Singapore, VOD trials will start in June next year with 150
+households which will be increased to 500 within 18 months.
+
+<ICE-SIN:W2B-037#14:1>
+Singapore Telecom, which is conducting the trial, will initially
+offer services like movies-on-demand, customised news, home shopping and
+interactive education.
+
+<ICE-SIN:W2B-037#15:1>
+Beginning March 1996, it will introduce additional services like
+games and karaoke-on-demand, Telecom spokesman Mr Ivan Tan said.
+
+<ICE-SIN:W2B-037#16:1>
+The trials will cover a broad cross-section of Singapore households
+and will not be restricted to just a few areas.
+
+<ICE-SIN:W2B-037#17:1>
+Telecom expects to award the tender for trial VOD equipment within
+the next two months, he added.
+
+<ICE-SIN:W2B-037#18:1>
+VOD involves the conversion of movies and television shows into
+digital form so that they can be piped into homes via telephone lines.
+
+<ICE-SIN:W2B-037#19:1>
+At the household, a little " black box" converts these signals into
+pictures which are then played over the TV screen.
+
+<ICE-SIN:W2B-037#20:1>
+VOD's advantage over TV or the cinema is obvious - - subscribers can
+choose which programmes they would like to watch, when they want to watch it,
+and all from the comforts of home.
+
+<ICE-SIN:W2B-037#21:1>
+All they have to do is use a small remote control to make their
+selections which will be sent via telephone line to a computerised switch.
+
+<ICE-SIN:W2B-037#22:1>
+The switch will in turn direct the information to a computer called a
+video server which stores all the programmes.
+
+<ICE-SIN:W2B-037#23:1>
+This server will then deliver the requested programme via telephone
+line to viewers.
+
+<ICE-SIN:W2B-037#24:1>
+For VOD service to take off, the price of a movie must be no more
+than what it takes to rent a video or see a movie.
+
+<ICE-SIN:W2B-037#25:1>
+In Singapore, that price would be around
+&dollar;5 to
+&dollar;10, said Mr Anil Uberoi, Sun Microsystems Group Marketing Manager for
+Networking Products.
+
+<ICE-SIN:W2B-037#26:1>
+" More than
+&dollar;5 and consumers would think twice before signing up for VOD".
+
+<ICE-SIN:W2B-037#27:1>
+Apart from price, there are several challenges that VOD operators
+must overcome before they can implement a system.
+
+<ICE-SIN:W2B-037#28:1>
+VOD is a capital intensive project.
+
+<ICE-SIN:W2B-037#29:1>
+Apart from the " pipes" that carry the movies, games and other stuff,
+the VOD operator must have the equipment and the software to bill customers.
+
+<ICE-SIN:W2B-037#30:1>
+What about the " black boxes" - - do customers pay for them?
+
+<ICE-SIN:W2B-037#31:1>
+Then there are also technical difficulties such as standards and
+electronic storage of contents like movies.
+
+<ICE-SIN:W2B-037#32:1>
+These issues are examined in the next pages. </I>
+
+<I>
+
+<ICE-SIN:W2B-037#33:2>
+<h> Get ready to ride the movie highway </h>
+
+<ICE-SIN:W2B-037#34:2>
+Depite the many problems that persist, there is no doubt that the
+information superhighway will eventually have a tremendous impact on the way
+we live
+
+<ICE-SIN:W2B-037#35:2>
+by Kevin Lim
+
+<ICE-SIN:W2B-037#36:2>
+By this time next year, Singapore will have jumped onto the
+video-on-demand ( VOD) bandwagon with the start of the nationwide trial by
+Singapore Telecom.
+
+<ICE-SIN:W2B-037#37:2>
+Singaporeans from an initial 150 households will be able to call up
+movies at the touch of a button and watch the movie on their television set.
+
+<ICE-SIN:W2B-037#38:2>
+They will also be able to receive customised news, and have access to
+home shopping and interactive educational services.
+
+<ICE-SIN:W2B-037#39:2>
+Operating on a smaller scale, the Marina Mandarin installed recently
+a VOD service offering guests up to 60 video titles a day.
+
+<ICE-SIN:W2B-037#40:2>
+The system will be up and running by the end of the month, the
+hotel's spokesman said.
+
+<ICE-SIN:W2B-037#41:2>
+In fact, it seems just a matter of time before cinemas and video
+rental shops go the way of the dinosaur.
+
+<ICE-SIN:W2B-037#42:2>
+However, behind this seemingly unstoppable march into the 21st
+century lurks several customer, technical and business issues that need to be
+resolved.
+
+<ICE-SIN:W2B-037#43:2>
+They include the choice of the TV set as the receiving vehicle for
+VOD, which is being questioned by those who say the PC is preferable, not
+only for movies but also for all sorts of information delivered over the
+information highways.
+
+<ICE-SIN:W2B-037#44:2>
+Currently, the most pressing issues facing VOD operators seem to
+relate to technology, especially compression and storage.
+
+<ICE-SIN:W2B-037#45:2>
+Storing digitised video continues to be a struggle.
+
+<ICE-SIN:W2B-037#46:2>
+For example, a 120-minute movie eats up at least 2 GB of memory.
+
+<ICE-SIN:W2B-037#47:2>
+As such, a modest video server containing only 50 titles requires
+over 100GB of computer storage.
+
+<ICE-SIN:W2B-037#48:2>
+Piping this information through the telephone lines to homes and
+offices is another technical challenge.
+
+<ICE-SIN:W2B-037#49:2>
+Current compression technology can only send 20 frames of a movie per
+second on copper.
+
+<ICE-SIN:W2B-037#50:2>
+This gives a picture quality that is similar to what video tapes
+offer.
+
+<ICE-SIN:W2B-037#51:2>
+To achieve TV-type quality requires 30 frames per second.
+
+<ICE-SIN:W2B-037#52:2>
+As such, it does not matter how short the distance between the fibre
+optic trunk and the television set is.
+
+<ICE-SIN:W2B-037#53:2>
+Although fibre optics are used throughout Singapore, the stretch
+between the kerb and the flat or house requires another several hundred
+metres of copper wire.
+
+<ICE-SIN:W2B-037#54:2>
+Installing fibre optics would be expensive but maybe unnecessary
+because of potential future developments in compression technology.
+
+<ICE-SIN:W2B-037#55:2>
+Scientists are currently trying to reduce the strain of transmitting
+video over telephone lines by filtering out redundant information - - for
+example the mountain in the background - - between one frame and the next, so
+that the network need only carry the parts of the video that has changed.
+
+<ICE-SIN:W2B-037#56:2>
+Other issues which VOD providers and equipment vendors must look into
+include compatibility between the different equipment on the market, and
+developing systems that allow signals to be sent over a hotchpotch of
+telephone lines.
+
+<ICE-SIN:W2B-037#57:2>
+This is because even in the most advance cities like Singapore,
+telephone lines comprise copper, coaxial and optic fibre cables.
+
+<ICE-SIN:W2B-037#58:2>
+Another issue for VOD operators to ponder is ease of use.
+
+<ICE-SIN:W2B-037#59:2>
+Mr Charles Christ, the vice-president in charge of Digital Equipment
+Corporation's thrust into the interactive TV market, said: " VOD must be
+painless to use, and the response time must be instantaneous".
+
+<ICE-SIN:W2B-037#60:2>
+The same TV viewers today who still do not know how to program a
+video cassette recorder are the potential VOD customers.
+
+<ICE-SIN:W2B-037#61:2>
+No VOD system is going to have any headway if it is difficult to
+access.
+
+<ICE-SIN:W2B-037#62:2>
+The system's response time must be like that of a remote control-TV
+connection.
+
+<ICE-SIN:W2B-037#63:2>
+If VOD does not respond immediately, users will be put off, he said.
+
+<ICE-SIN:W2B-037#64:2>
+In addition, there is the billing system to consider.
+
+<ICE-SIN:W2B-037#65:2>
+It must be automatic, like using the telephone.
+
+<ICE-SIN:W2B-037#66:2>
+Currently, most cable operators charge viewers a fixed monthly
+subscription rate.
+
+<ICE-SIN:W2B-037#67:2>
+But once viewers only pay what they choose to view, VOD operators
+must be able to track usage.
+
+<ICE-SIN:W2B-037#68:2>
+Cable operators who want to provide VOD must learn quickly how to put
+in place such a system.
+
+<ICE-SIN:W2B-037#69:2>
+Other issues need to be faced by VOD operators like cost, government
+regulations and the type of movies and other services to deliver using the
+information highway.
+
+<ICE-SIN:W2B-037#70:2>
+Said Oracle Systems Singapore's marketing manager Mr Gary Winder: " A
+city-wide VOD service will take some time to take off.
+
+<ICE-SIN:W2B-037#71:2>
+There are huge investments and test-marketing to consider".
+
+<ICE-SIN:W2B-037#72:2>
+Hongkong Telecom, for example, said it probably needs a critical mass
+of 200,000 subscribers, each spending an average of around HK&dollar;350 ( S&dollar;70), if
+its project is to be successful.
+
+<ICE-SIN:W2B-037#73:2>
+Highlighting the problem of getting accurate feedback, Dr William Lo,
+Hongkong Telecom's director for strategic planning and project director for
+VOD, said: " If you stop a person on the street and ask him what he wants, he
+will say educational programmes.
+
+<ICE-SIN:W2B-037#74:2>
+Very few people will tell you what they actually want to see".
+
+<ICE-SIN:W2B-037#75:2>
+Finally, there are deeply ingrained habits that are hard to break.
+
+<ICE-SIN:W2B-037#76:2>
+For example, it is possible that many Singaporeans go out to the
+cinema not just because they want to catch that particular movie.
+
+<ICE-SIN:W2B-037#77:2>
+To them it could just be an excuse to get out of the house to do
+something and to mingle with the crowds.
+
+<ICE-SIN:W2B-037#78:2>
+As such, it seems that the light at the end of the tunnel for VOD is
+not as bright as it might first appear.
+
+<ICE-SIN:W2B-037#79:2>
+Many problems persist, but there is no doubt that the information
+superhighway will become a reality.
+
+<ICE-SIN:W2B-037#80:2>
+And it will have a tremendous impact on the way we live.
+
+<ICE-SIN:W2B-037#81:2>
+VOD equipment will become as commonplace as TV sets and radio, and
+interactive TV services will grow into a multi-billion dollar business.
+
+<ICE-SIN:W2B-037#82:2>
+The only question is how soon. </I>
+
+<I>
+
+<ICE-SIN:W2B-037#83:3>
+<h> Highway ticket </h>
+
+<ICE-SIN:W2B-037#84:3>
+The information boom will drive growth in the 90s.
+
+<ICE-SIN:W2B-037#85:3>
+There will be new jobs and services and the way we live, work and
+play will change
+
+<ICE-SIN:W2B-037#86:3>
+by Grace Chng
+
+<ICE-SIN:W2B-037#87:3>
+The information superhighway can be used for the following uses: "
+Talking" to people from all over the world via modems and PCs; more than just
+social chat, it widens one's shouting distance where others respond to
+appeals for assistance.
+
+<ICE-SIN:W2B-037#88:3>
+For work where office workers reach across the other side of the
+world electronically to look for information on on-line databases.
+
+<ICE-SIN:W2B-037#89:3>
+Discuss projects with customers through video conferencing and stay
+in touch with office through telecomputing; and Shopping where people can buy
+many things such as clothes, toys, theatre tickets and books in an electronic
+supermarket.
+
+<ICE-SIN:W2B-037#90:3>
+Investing in stocks and shares as well as personal finance
+management; the computer's ability to manipulate complex databases located in
+different parts of the world allows users to track both personal and
+corporate investments.
+
+<ICE-SIN:W2B-037#91:3>
+One example is Internet, a giant global electronic community of 20
+million users linked together by 25,000 interconnecting networks.
+
+<ICE-SIN:W2B-037#92:3>
+Internet has already transformed the way people view the world from
+their living rooms, laboratories, factories and offices.
+
+<ICE-SIN:W2B-037#93:3>
+Singapore hopes the same transformation will take place with its own
+effort, the national information infrastructure, which will see the island
+criss-crossed by several networks delivering a variety of features and
+functions.
+
+<ICE-SIN:W2B-037#94:3>
+The spectrum of applications stretches from video-on-demand to other
+more significant efforts such as emergency medical services. </I>
+
+<I>
+
+<ICE-SIN:W2B-037#95:4>
+<h> Just Cool! </h>
+
+<ICE-SIN:W2B-037#96:4>
+You've just got back from a bad day at work.
+
+<ICE-SIN:W2B-037#97:4>
+You need a cold beer, fast.
+
+<ICE-SIN:W2B-037#98:4>
+But just to complete that confounded day, the missus ( or your
+foolish self) had to forget to put new beer in the fridge and heaven knows
+you hate to mix ice in your beer.
+
+<ICE-SIN:W2B-037#99:4>
+Diluted beer is for old men who hang out at coffee-shops!
+
+<ICE-SIN:W2B-037#100:4>
+Answer?
+
+<ICE-SIN:W2B-037#101:4>
+Just Cool!
+
+<ICE-SIN:W2B-037#102:4>
+Put some ice in it, pop in your unopened can of beer ( up till
+500ml) press a button and presto!
+
+<ICE-SIN:W2B-037#103:4>
+In 90 seconds, your beer is ice-cold!
+
+<ICE-SIN:W2B-037#104:4>
+Do it for beer, do it for Coke, Pocari, anything in a can.
+
+<ICE-SIN:W2B-037#105:4>
+Great for parties, picnics or anytime you need a cold but undiluted
+drink!
+
+<ICE-SIN:W2B-037#106:4>
+Cheers to Japanese technology! </I>
+
+<I>
+
+<ICE-SIN:W2B-037#107:5>
+<h> Sensa The World's Most Comfortable Pen </h>
+
+<ICE-SIN:W2B-037#108:5>
+The pen that combines stunning beauty with unparalleled comfort and
+writing ease, the Sensa has been featured in New York City's Museum of Modern
+Art and is the winner of the Silver Industrial Design Award.
+
+<ICE-SIN:W2B-037#109:5>
+It uses an exclusive plasmium filled touch-response-gripping-system
+that forms to one's slightest touch while maintaining memory, or the ability
+to return to its original form moments following use.
+
+<ICE-SIN:W2B-037#110:5>
+What's more amazing is that it writes underwater, upside-down, over
+photos, from 40 below to 400 above zero and for over three miles!
+
+<ICE-SIN:W2B-037#111:5>
+No wonder it's used by NASA in their space programs!
+
+<ICE-SIN:W2B-037#112:5>
+It also comes in a really cool-looking, space-age art-glass resin
+case that functions as a modular pen rest and business card holder as well!
+</I>

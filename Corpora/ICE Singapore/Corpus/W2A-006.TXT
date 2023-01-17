@@ -1,0 +1,450 @@
+<I>
+
+<ICE-SIN:W2A-006#1:1>
+<h> A Cloze Question </h>
+
+<ICE-SIN:W2A-006#2:1>
+Lee Gek Ling
+
+<ICE-SIN:W2A-006#3:1>
+<h> Background To The Hypothesis </h>
+
+<ICE-SIN:W2A-006#4:1>
+I chose this project because it worries me that so much store is put
+by cloze scores in the kinds of proficiency tests I have been involved in
+like the Qualifying English Test ( QEI) at the National University of
+Singapore and the RELC English Proficiency Test.
+
+<ICE-SIN:W2A-006#5:1>
+In the former, students are exempted from having to take remedial
+English classes if their scores on the 100 item cloze section of the QET are
+above a predetermined percentage ( ie the percentage is arrived at
+intuitively and does not represent the median of the test population).
+
+<ICE-SIN:W2A-006#6:1>
+During the course of teaching the students who are given remedial
+English lessons, I have noticed that scores on cloze seem to improve with
+practice.
+
+<ICE-SIN:W2A-006#7:1>
+But, not all students who do well on the cloze ( especially by the
+exact word scoring method) necessarily write as proficiently as their cloze
+scores would indicate.
+
+<ICE-SIN:W2A-006#8:1>
+Ceteris paribus cloze scores are claimed by some researchers as being
+highly correlated to other tests of language ability including
+free-expression writing, ( Shohamy 1983; Chavez-Oller et al 1985; Hale et al
+1989).
+
+<ICE-SIN:W2A-006#9:1>
+What then is the exact nature of the validity of a cloze test of
+proficiency and what degree of proficiency does it show?
+
+<ICE-SIN:W2A-006#10:1>
+<h> My Hypothesis </h>
+
+<ICE-SIN:W2A-006#11:1>
+My hypothesis is that cloze tests are as mechanical to complete as
+they are to construct and score.
+
+<ICE-SIN:W2A-006#12:1>
+Furthermore that test scores on the cloze are not as indicative of
+actual language proficiency as has been claimed.
+
+<ICE-SIN:W2A-006#13:1>
+Relatively high scores can be obtained by testees who in actual terms
+have low language proficiency, through extra-linguistic factors such as luck
+( especially with content words in exact word scoring).
+
+<ICE-SIN:W2A-006#14:1>
+And lower scores could be obtained by testees who otherwise have high
+levels of language proficiency.
+
+<ICE-SIN:W2A-006#15:1>
+If this is so, then the validity and consequently the reliability of
+cloze procedure in proficiency testing may be questionable.
+
+<ICE-SIN:W2A-006#16:1>
+It is with this hypothesis in mind that I conducted a small scale
+experiment to illustrate my point.
+
+<ICE-SIN:W2A-006#17:1>
+This paper reviews the major work related to my hypothesis, describes
+my experiment, discusses my findings and presents some conclusions.
+
+<ICE-SIN:W2A-006#18:1>
+<h> Literature Overview </h>
+
+<ICE-SIN:W2A-006#19:1>
+This overview is divided into four sections: historical, research
+supporting cloze, research objecting to aspects of cloze and research
+suggesting variations of cloze.
+
+<ICE-SIN:W2A-006#20:1>
+Historical Overview Taylor ( 1953) developed cloze originally as an
+index for test readability, ( how accessible a text would be to readers).
+
+<ICE-SIN:W2A-006#21:1>
+The psychological traits for cloze are underpinned by the Gestalt
+notion of closure, ( the completion of pictures or shapes by subjects as an
+indication of how their mind functions).
+
+<ICE-SIN:W2A-006#22:1>
+Taylor's cloze procedure replicated this trait by requiring testees
+to replace original words which had been blanked out in a text.
+
+<ICE-SIN:W2A-006#23:1>
+The rate of accuracy at which testees could fill in the blanks with
+the exact original words would show how easy or difficult a text was to read.
+
+<ICE-SIN:W2A-006#24:1>
+Over the years cloze has become a test of " reader-ability" ( Johnson
+1981) in understanding a text, as well as an important instrument in
+placement and proficiency tests not only in the classroom but also in
+nation-wide norm referenced tests.
+
+<ICE-SIN:W2A-006#25:1>
+Much has been written about cloze validity and reliability over the
+last 37 years.
+
+<ICE-SIN:W2A-006#26:1>
+A pattern emerges of a group of researchers who are pro-cloze,
+another who are against it and a third whose research attempts to redress the
+problems raised by the second group in order to be reconciled with the merits
+of cloze proposed by the first group.
+
+<ICE-SIN:W2A-006#27:1>
+It is this pattern which I wish to discuss below.
+
+<ICE-SIN:W2A-006#28:1>
+<h> Pro-Cloze </h>
+
+<ICE-SIN:W2A-006#29:1>
+Cloze was adopted by language testers to test general proficiency in
+the ascent of the Unitary Hvpothesis Theory ( a holistic view of language
+learning and teaching) because cloze lends itself to the notion of a global
+view of language proficiency as it assesses more than two skills.
+
+<ICE-SIN:W2A-006#30:1>
+It is thought to be a good indicator of general language ability
+because the testee is required to make use of contextual clues ( which draw
+on comprehension skills) and to supply answers ( drawing on syntactic and
+semantic mastery).
+
+<ICE-SIN:W2A-006#31:1>
+Oller supports the idea of cloze as a test of general proficiency, he
+says: " the cloze procedure is sometimes construed to be a measure of reading
+ability, though it may be just as much a measure of writing, listening and
+speaking ability" ( 1979: 8).
+
+<ICE-SIN:W2A-006#32:1>
+Shohamy ( 1983) is equally pro-cloze, claiming the highest
+correlation of cloze to other language tests of proflciency.
+
+<ICE-SIN:W2A-006#33:1>
+Her study showed a significant concurrent validity of cloze to the
+oral Interview of 0.872.
+
+<ICE-SIN:W2A-006#34:1>
+Prima facie cloze seems to be integrative.
+
+<ICE-SIN:W2A-006#35:1>
+In classical cloze, a fixed deletion rate randomly deletes any part
+of speech every nth word.
+
+<ICE-SIN:W2A-006#36:1>
+Hence in a 350 word passage there should be 50 blanks at a deletion
+rate of every 7 words.
+
+<ICE-SIN:W2A-006#37:1>
+Those 50 blanks would contain both content and function words in
+whatever ratio that particular text gave rise to.
+
+<ICE-SIN:W2A-006#38:1>
+This randomness is one of the statistical advantages that cloze is
+said to have by its supporters.
+
+<ICE-SIN:W2A-006#39:1>
+Its detractors argue that it is this randomness which gives rise to
+unpredictability in the ratio of content to function words).
+
+<ICE-SIN:W2A-006#40:1>
+Another attraction of the cloze is the ease with which a test can be
+constructed since Oller states that " the cloze procedure is probably
+appropriate to just about any text" ( 1979: 364); Doer ( 1980) and
+Chavez-Oller ( 1985) agree.
+
+<ICE-SIN:W2A-006#41:1>
+Heaton ( 1989) cites studies to show that ideally only 40-50 blanks
+are needed at an optimum deletion rate of between every fifth to seventh word
+to get an adequate number of test items).
+
+<ICE-SIN:W2A-006#42:1>
+Shohamy ( 1983) suggests that every eleventh word and 25 blanks is
+equally optimal.
+
+<ICE-SIN:W2A-006#43:1>
+Therefore the cloze appears to be a very economical test to
+construct.
+
+<ICE-SIN:W2A-006#44:1>
+The cloze has high reliability in scoring when the exact word only is
+scored as correct.
+
+<ICE-SIN:W2A-006#45:1>
+This is more probably because there is a high degree of objectivity
+among raters.
+
+<ICE-SIN:W2A-006#46:1>
+However it is this very construct validity and reliability which are
+the most strongly debated issues in the work of detractors of cloze.
+
+<ICE-SIN:W2A-006#47:1>
+These debates are discussed in the next section.
+
+<ICE-SIN:W2A-006#48:1>
+<h> Anti-Cloze </h>
+
+<ICE-SIN:W2A-006#49:1>
+Some of the issues which have emerged are: the unpredictability of
+content to function words in random cloze ( Alderson 1979), the subjectivity
+of the text content ( Grotjahn 1987: Klein-Braley 1985), the insensitivity to
+cross-sentential boundaries ( Alderson 1979: Farhady 1979: Bachman 1982:
+Johnson 1982).
+
+<ICE-SIN:W2A-006#50:1>
+Alderson ( 1979) notes that changes in the deletion rate changes the
+measure of proficiency.
+
+<ICE-SIN:W2A-006#51:1>
+Hence cloze has an element of unpredictability which affects the
+reliability of the test.
+
+<ICE-SIN:W2A-006#52:1>
+He argues that randomness may be justified when cloze is used as a
+measure of text readability but not as a measure of proficiency.
+
+<ICE-SIN:W2A-006#53:1>
+Grotjahn ( 1987) writing on an idea developed by Raatz and
+Kein-Braley ( 1985), argues against the wholesale adoption of classical cloze
+for the following reasons.
+
+<ICE-SIN:W2A-006#54:1>
+Cloze is unfair because of text-specificity: there are many variables
+affecting reliability such as deletion rate, choice of text and method of
+scoring.
+
+<ICE-SIN:W2A-006#55:1>
+Furthermore the unpredictability of the ratio of content to function
+words affects the kind or degree of proficiency being measured.
+
+<ICE-SIN:W2A-006#56:1>
+Oller ( 1979) and Chavez-Oller ( 1985) claim that choice of text does
+not matter.
+
+<ICE-SIN:W2A-006#57:1>
+Johnson ( 1982) shows by illustration with a technical text on
+Chomskian grammar that the choice of text does matter and that such a text
+could not successfully be clozed except by a linguist.
+
+<ICE-SIN:W2A-006#58:1>
+Moreover even a general interest text may be culturally biased.
+
+<ICE-SIN:W2A-006#59:1>
+For example blank 94 in the 1988 QET required students to cloze the
+phrase " ...Protestant Work ( 94)"
+
+<ICE-SIN:W2A-006#60:1>
+While a careful examination of texts for readability and clozability
+could minimise such problems, texts cannot be chosen completely free of
+biased items especially in classical cloze tests.
+
+<ICE-SIN:W2A-006#61:1>
+One of the reasons why cloze is so strongly upheld by renowned
+language testers such as Oller is because of its psychological trait of
+global language skills.
+
+<ICE-SIN:W2A-006#62:1>
+Markham ( 1985: 423) suggests that " the cloze procedure may not
+yield a valid and reliable assessment of global ( complete) comprehension.
+
+<ICE-SIN:W2A-006#63:1>
+He pits second language research which shows that cloze is sensitive
+across sentences against first language research which says cloze is only
+sensitive to its immediate environment.
+
+<ICE-SIN:W2A-006#64:1>
+His argument is supported by Farhady ( 1979), Johnson ( 1982),
+Baehman ( 1982) and Klein-Braley ( 1983).
+
+<ICE-SIN:W2A-006#65:1>
+Because cloze is sensitive both to immediate environment ( function
+words such as articles) and across sentences ( anaphors), one cannot be
+certain that enough cross-essential items are present in any given text to
+claim that global language skills are truly being tested.
+
+<ICE-SIN:W2A-006#66:1>
+As Johnson ( 1982) asks, what exactly is being assessed?
+
+<ICE-SIN:W2A-006#67:1>
+What degree of proficiency is being measured?
+
+<ICE-SIN:W2A-006#68:1>
+This insensitivity to discourse cohesion leads to the issue of lack
+of discrimination.
+
+<ICE-SIN:W2A-006#69:1>
+There is no certainty about the ratio of content to function words
+because of random deletion.
+
+<ICE-SIN:W2A-006#70:1>
+This is important if content words ( adjectives, nouns, adverbs and
+verbs) are more demanding to cloze than function words which can be
+mechanically clozed, for instance the blank preceding a singular countable
+noun in the absence of an adjective has to be clozed with an article.
+
+<ICE-SIN:W2A-006#71:1>
+To some extent I have found that the mechanics of cloze can be
+taught, which in itself is a negative backwash effect ( cf.
+
+<ICE-SIN:W2A-006#72:1>
+Carrel 1985).
+
+<ICE-SIN:W2A-006#73:1>
+There is no discrimination of language skills when all the test items
+in a cloze test are scored equally although some of the items may be more
+difficult to cloze than others.
+
+<ICE-SIN:W2A-006#74:1>
+Alderson ( 1979) argues that cloze tests are not suitable for higher
+order language skills, although cloze may provide a measure of lower order
+language proficiency.
+
+<ICE-SIN:W2A-006#75:1>
+This is because cloze is more sensitive to the immediate environment
+( Bachman 1982).
+
+<ICE-SIN:W2A-006#76:1>
+Johnson in agreeing with this argument, illustrates it with an
+example of a cloze that can be completed without using global skills.
+
+<ICE-SIN:W2A-006#77:1>
+Heaton ( 1988) observes that cloze discriminates between the most and
+the least proficient cloze testees in a given population.
+
+<ICE-SIN:W2A-006#78:1>
+However, it does not discriminate within the middle band.
+
+<ICE-SIN:W2A-006#79:1>
+This means that the bulk of the population is not discriminated
+finely enough; which may be a significant drawback in placement tests.
+
+<ICE-SIN:W2A-006#80:1>
+Statistically cloze is a valid instrument within a population for
+relative measures of proficiency.
+
+<ICE-SIN:W2A-006#81:1>
+However on an individual basis in terms of actual language
+proficiency, cloze does not discriminate well enough ( Hughes 1989).
+
+<ICE-SIN:W2A-006#82:1>
+For example, a proficient candidate's score on a cloze scored by the
+exact answer method may not be an accurate reflection of his actual
+proficiency skills.
+
+<ICE-SIN:W2A-006#83:1>
+This lack of discrimination ( and fairness) leads to next issue of
+scoring methods.
+
+<ICE-SIN:W2A-006#84:1>
+Oller ( 1979) asserts that there is no significant difference in
+scores between the exact word only and acceptable synonym method of scoring.
+
+<ICE-SIN:W2A-006#85:1>
+Furthermore Hinofotis ( 1980) says that there is a difference in
+reliability between the two scoring methods.
+
+<ICE-SIN:W2A-006#86:1>
+However, Brown ( 1980) shows that accepting synonyms gives
+significantly higher scores.
+
+<ICE-SIN:W2A-006#87:1>
+Why is scoring an issue?
+
+<ICE-SIN:W2A-006#88:1>
+And is it a valid issue?
+
+<ICE-SIN:W2A-006#89:1>
+It is an issue because it involves conflicts of interests between two
+fundamentals of testing - objectivity of the markers and fairness to the
+testees.
+
+<ICE-SIN:W2A-006#90:1>
+Accepting the exact answer only appears more objective.
+
+<ICE-SIN:W2A-006#91:1>
+It is easier, but is it fair?
+
+<ICE-SIN:W2A-006#92:1>
+The original word is already a product of an author's idiosyncratic
+diction.
+
+<ICE-SIN:W2A-006#93:1>
+Is it fair to ask testees to guess at and replicate correctly this
+idiosyncrasy?
+
+<ICE-SIN:W2A-006#94:1>
+Is it valid to assume that the ability to replace the exact original
+word is indeed an irrefutable sign of proficiency?
+
+<ICE-SIN:W2A-006#95:1>
+Might not highly proficient testees cloze the blanks with acceptable
+synonyms from their large vocabularies?
+
+<ICE-SIN:W2A-006#96:1>
+Surely, it is not enough to say that the majority of any given
+population performs normally and therefore only relative proficiency is
+necessary.
+
+<ICE-SIN:W2A-006#97:1>
+Relative proficiency is only meaningful within a population: it has
+no meaning outside of it.
+
+<ICE-SIN:W2A-006#98:1>
+Relative proficiency may be enough within an institution like the NUS
+when deciding which students need remedial English classes most ( ceteris
+paribus there is validity and reliability), but in national tests such as the
+PSLE ( the Singapore Primary School Leaving Certificate) the moral dimension
+becomes much stronger.
+
+<ICE-SIN:W2A-006#99:1>
+An individual's score relative to his classmates may deprive him of a
+chance for secondary education or a place at a top secondary school. <X>
+
+<ICE-SIN:W2A-006#X100:1>
+However his actual abilities may be equal to a higher grade in
+another cohort in another year.
+
+<ICE-SIN:W2A-006#X101:1>
+A valid question may be how many such individuals exist?
+
+<ICE-SIN:W2A-006#X102:1>
+And at what cost is the negative backwash effect on them and the
+nation worth?
+
+<ICE-SIN:W2A-006#X103:1>
+Castillo ( personal communication) says that the ability to replace
+the exact original word is an indication of accurate reading and therefore
+also proficiency ( here defined as the prediction of success in any given
+course, not as elsewhere in this paper defined as language mastery).
+
+<ICE-SIN:W2A-006#X104:1>
+Two objections which arise are: what is the exact nature of the
+relationship between success on exact-word replication and success on a
+course of language testing?
+
+<ICE-SIN:W2A-006#X105:1>
+Secondly Tatlonghari ( personal communication) talked of research
+on schemata or the mental baggage brought by the reader to bear on the text.
+</X> </I>

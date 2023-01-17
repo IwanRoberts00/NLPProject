@@ -1,0 +1,479 @@
+<I>
+
+<ICE-SIN:W2A-035#1:1>
+<h> INTEGRATING CAD and MRP Il SYSTEMS </h>
+
+<ICE-SIN:W2A-035#2:1>
+Chua Tay Jin, Assoc Prof Ho Nai Choon, Dr Yeo Khim Teck,
+
+<ICE-SIN:W2A-035#3:1>
+GINTIC Institute of CIM,
+
+<ICE-SIN:W2A-035#4:1>
+Nanyang Technological Institute
+
+<ICE-SIN:W2A-035#5:1>
+<h> INTRODUCTION </h>
+
+<ICE-SIN:W2A-035#6:1>
+Over the years, technologies have been developed to increase
+productivity of the various manufacturing functions.
+
+<ICE-SIN:W2A-035#7:1>
+These independent efforts have resulted in the various 'islands of
+automation' such as: computer Aided Design ( CAD), Computer Aided
+Manufacturing tCAM), Flexible Manufacturing Systems ( FMS), Manufacturing
+Resource Planning ( MRP 11), Group Technology ( GT), Automated Materials
+Handling ( AMH), Computer Aided Process Planning ( CAPP), Artificial
+Intelligence ( Al), and others.
+
+<ICE-SIN:W2A-035#8:1>
+When properly planned, managed, and implemented, most of these systems
+will prove beneficial to their specific areas of application.
+
+<ICE-SIN:W2A-035#9:1>
+But too often, manufacturers plunge into one or more of these
+technologies without clear goals or long term plans.
+
+<ICE-SIN:W2A-035#10:1>
+This fragmented approach may produce incremental improvement to the
+manufacturing efficiency.
+
+<ICE-SIN:W2A-035#11:1>
+However, the lack of a coordinated long term plan may result in
+tremendous difficulty in integrating these various islands together.
+
+<ICE-SIN:W2A-035#12:1>
+Computer Integrated Manufacturing ( CIM) conceives manufacturing as a
+series of integrated processes and provides a strategic framework for linking
+these independent activities and information flow.
+
+<ICE-SIN:W2A-035#13:1>
+The goal of CIM is to achieve overall improvement in productivity of
+the total manufacturing enterprise through integrating all its processes into
+a coherent system.
+
+<ICE-SIN:W2A-035#14:1>
+A modular approach has to be adopted to ensure the success of CIM
+implementation due to the complexity in both the technical and organizational
+aspects.
+
+<ICE-SIN:W2A-035#15:1>
+An initial nucleus which allows gradual expansion by permitting
+interaction between it and other system's databases has to be identified.
+
+<ICE-SIN:W2A-035#16:1>
+Manufacturing Resource Planning ( MRP 11), which supports operation
+planning and execution, is best positioned to play this pivotal role.
+
+<ICE-SIN:W2A-035#17:1>
+An ideal candidate for integration with MRP 11 is Computer Aided
+Design ( CAD) system.
+
+<ICE-SIN:W2A-035#18:1>
+The basis of integration is Part Master Record ( PMR) and Bills of
+material ( BOM) information, which is essential to both systems.
+
+<ICE-SIN:W2A-035#19:1>
+This article outlines the common elements in CAD and MRP 11 systems,
+discusses the benefits of sharing information in both systems, and the
+requirements for integration.
+
+<ICE-SIN:W2A-035#20:1>
+This article also discusses the roles of CAD and MRP 11 systems in a
+CIM framework, and suggests a method of integration through the use of a
+generic interface that can easily hook onto any CAD or MRP II systems.
+
+<ICE-SIN:W2A-035#21:1>
+Finally the implementation of the methodology using Micro MAX MRP II
+system and Micro CADAM CAD package is presented.
+
+<ICE-SIN:W2A-035#22:1>
+<h> A PROPOSED CIM ARCHITECTURE </h>
+
+<ICE-SIN:W2A-035#23:1>
+Figure 1 shows a proposed model of CIM architecture.
+
+<ICE-SIN:W2A-035#24:1>
+It consists of four basic components: Computer aided design ( CAD),
+Computer Aided Process Planning ( CAPP), Computer Aided Manufacturing ( CAM)
+and Manufacturing Resource Planning ( MRP 11)12.
+
+<ICE-SIN:W2A-035#25:1>
+CAD establishes the part descriptions in a database accessible to
+other manufacturing functions, it serves as the design center of the whole
+system; CAPP translates design data information into manufacturing data in
+the form of process plan which includes selection of the appropriate
+manufacturing process, sequencing of production operations, specifying and
+acquiring tooling, detailing speeds and feeds, and estimating set-up and run
+times.
+
+<ICE-SIN:W2A-035#26:1>
+CAM converts the product data into physical parts by producing
+specific instructions for individual machines and controlling the machine
+operations.
+
+<ICE-SIN:W2A-035#27:1>
+MRP 11 is playing the role of coordinating and monitoring all the
+major functional areas of a manufacturing business, which is the natural 'hub'
+of the CIM system.
+
+<ICE-SIN:W2A-035#28:1>
+<h> APPLICATION SYSTEMS - MR Il and CAD </h>
+
+<ICE-SIN:W2A-035#29:1>
+MRP II is a closed-loop material and production planning and control
+system.
+
+<ICE-SIN:W2A-035#30:1>
+lt includes not only material planning concepts but production
+resource planning and feedback loops that report actual results against the
+plan.
+
+<ICE-SIN:W2A-035#31:1>
+MRP II provides a mechanism for checking the material plan against
+manufacturing resources and for identifying problem areas as the plan is
+executed [ 7].
+
+<ICE-SIN:W2A-035#32:1>
+Figure 2 shows the relationship between the planning and control
+elements within MRP 11.
+
+<ICE-SIN:W2A-035#33:1>
+As illustrated, the shop floor control, purchasing and accounting
+modules feed back actual results into the planning modules so that corrective
+action can be taken as needed.
+
+<ICE-SIN:W2A-035#34:1>
+MRP II is an integrated system by itself, consisting of several
+functional modules built upon a common database, and can serve as an
+important information center of CIM .
+
+<ICE-SIN:W2A-035#35:1>
+The top management creates the strategic/business plan, which sets
+the overall business objectives, including the goals for revenues.
+
+<ICE-SIN:W2A-035#36:1>
+The marketing/sales plan generates the independent demand in the form
+of customer orders and/or sales forecasts.
+
+<ICE-SIN:W2A-035#37:1>
+The production plan provides key communication links from top
+management to manufacturing.
+
+<ICE-SIN:W2A-035#38:1>
+It determines the basis for focusing the detailed production
+resources to achieve the strategic objectives of the firm.
+
+<ICE-SIN:W2A-035#39:1>
+The production plan might be in dollars or aggregate units of output
+per month.
+
+<ICE-SIN:W2A-035#40:1>
+The master production schedule ( MPS) projects the end-item
+production requirements by time period ( normally a week) and specific end
+item part numbers based on the production plan, sales forecast, customer
+orders, and planned changes in the inventory levels of finished goods.
+
+<ICE-SIN:W2A-035#41:1>
+Master production schedule is a basic input to and driving force
+behind the material requirements planning module.
+
+<ICE-SIN:W2A-035#42:1>
+MRP is considered as the key component of MRP 11, it translates gross
+requirements for end items into time phased net requirements for
+subassemblies and individual parts based on the MPS, product bills of
+material, and current inventory status.
+
+<ICE-SIN:W2A-035#43:1>
+Gross requirements are obtained by " exploding the end item product
+structure into its lower level requirements.
+
+<ICE-SIN:W2A-035#44:1>
+The exploding process is simply a multiplication of the number of end
+items by the quantity of each component required to produce a single end
+item.
+
+<ICE-SIN:W2A-035#45:1>
+The explosion identifies what components are required, as well as how
+many, to produce a given quantity of end items.
+
+<ICE-SIN:W2A-035#46:1>
+By referring to the inventory status in the inventory control module,
+the gross quantities will be netted by subtracting the available inventory
+items.
+
+<ICE-SIN:W2A-035#47:1>
+The actual order quantity for an item may be adjusted to a suitable
+lot size, or it may simply be the net requirement.
+
+<ICE-SIN:W2A-035#48:1>
+Just as important as " what" and " how many" is when.
+
+<ICE-SIN:W2A-035#49:1>
+MRP schedules time-phased orders by lead time offsetting.
+
+<ICE-SIN:W2A-035#50:1>
+For purchased components, the lead time is the time interval between
+the placement of the purchase order and its availability in inventory.
+
+<ICE-SIN:W2A-035#51:1>
+For manufactured components, it is the interval between the release
+of the work order and its completion.
+
+<ICE-SIN:W2A-035#52:1>
+The outputs of an MRP run are a series of purchase and manufacturing
+orders, which then are handled and monitored separately by the purchasing and
+shop floor control modules respectively.
+
+<ICE-SIN:W2A-035#53:1>
+Before the issue of manufacturing orders to the shop floor control
+module, the capacity requirement planning module is executed first to
+determine if MPS is feasible based on available manufacturing capacity.
+
+<ICE-SIN:W2A-035#54:1>
+Capacity planning determines how many persons, machines, and physical
+resources are required to accomplish the tasks of production based on the
+future manufactured-component requirements from MRP and released, in-process
+manufacturing order information to develop a profile of production resource
+usage.
+
+<ICE-SIN:W2A-035#55:1>
+Reports are produced showing projected production work center load
+versus capacity.
+
+<ICE-SIN:W2A-035#56:1>
+The shop floor control module develops a production schedule for
+manufacturing orders by using routing information.
+
+<ICE-SIN:W2A-035#57:1>
+It also controls manufacturing orders release to the shop floor and
+tracks production order status through work centers.
+
+<ICE-SIN:W2A-035#58:1>
+The purchasing orders are firmed, released, and tracked by purchasing
+module which also provides vendor performance information.
+
+<ICE-SIN:W2A-035#59:1>
+The accounting module supports accounts receivable, accounts payable,
+general ledger, personnel and payroll, and other accounting functions.
+
+<ICE-SIN:W2A-035#60:1>
+Using inventory information and product cost data, the value of the
+current inventory can be determined.
+
+<ICE-SIN:W2A-035#61:1>
+Using cost data, product structure, and routing information, the
+manufactured cost of any item can be calculated.
+
+<ICE-SIN:W2A-035#62:1>
+Accounts payable is also coordinated with purchasing and receiving
+and payroll is used to record labor costs with data from shop floor control.
+
+<ICE-SIN:W2A-035#63:1>
+Because of its integrated architecture and provision of a modular
+capability for integration, MRP Il is best positioned to serve a vital link
+between design and manufacturing within a Computer integrated manufacturing (
+CIM) framework [ 5],[6],[7].
+
+<ICE-SIN:W2A-035#64:1>
+Computer aided design ( CAD) is the use of computers in interactive
+engineering drawing and storage of designs.
+
+<ICE-SIN:W2A-035#65:1>
+Under operator direction via various interaction device and
+programming techniques, the computer can complete a part's layout, geometric
+transformations, projections, rotations, magnifications, and cross-section
+views [ 31].
+
+<ICE-SIN:W2A-035#66:1>
+CAD assists the designer in conceptualising and detailing a part
+design.
+
+<ICE-SIN:W2A-035#67:1>
+The role of CAD in CIM is to serve as the center for design
+information for the entire organisation.
+
+<ICE-SIN:W2A-035#68:1>
+It translates design ideas into product data from which manufacturing
+information can be generated.
+
+<ICE-SIN:W2A-035#69:1>
+CAD data can be divided into two categories: part
+specification/product structure data and geometric/design data.
+
+<ICE-SIN:W2A-035#70:1>
+The part specification/product structure data represent much of the
+same information maintained in the Bill of materials module of MRP 11,
+whereas the geometric/design data is to be interfaced with computer aided
+process planning ( CAPP) system.
+
+<ICE-SIN:W2A-035#71:1>
+FUNDAMENTAL SIMILAITIES OF CD AND MRP 11 SYSTEMS The common data
+elements shared by CAD and MRP 11 systems are maintained in the Part Master
+Record ( PMR) and Bill of Materials ( BOM).
+
+<ICE-SIN:W2A-035#72:1>
+In a MRP 11 system, PMR is the collection of basic information that
+identifies and registers a part into the system's database.
+
+<ICE-SIN:W2A-035#73:1>
+It contains information needed for all the related modules in the MRP
+1I system, which include purchasing, inventory control, material requirements
+planning etc., such as:
+
+<ICE-SIN:W2A-035#74:1>
+Part identifier,
+
+<ICE-SIN:W2A-035#75:1>
+Part description,
+
+<ICE-SIN:W2A-035#76:1>
+Item number,
+
+<ICE-SIN:W2A-035#77:1>
+Process control code ( or part type code, make/buy code),
+
+<ICE-SIN:W2A-035#78:1>
+Unit of measure, - Drawing number, - Revision level,
+
+<ICE-SIN:W2A-035#79:1>
+- Engineering Change Notice ( ECN) number,
+
+<ICE-SIN:W2A-035#80:1>
+- Effectivity start/end dates,
+
+<ICE-SIN:W2A-035#81:1>
+- Supersedes part number,
+
+<ICE-SIN:W2A-035#82:1>
+- Superseded by part number,
+
+<ICE-SIN:W2A-035#83:1>
+- Standard cost.
+
+<ICE-SIN:W2A-035#84:1>
+Most of the PMR information are also maintained in the CAD system for
+the purposes of documentation and classification of the design drawings.
+
+<ICE-SIN:W2A-035#85:1>
+A bill of materials ( BOM) is a list of the items, ingredients, or
+materials needed to produce a parent item, end item, or product.
+
+<ICE-SIN:W2A-035#86:1>
+It can take several different forms and be used in many ways.
+
+<ICE-SIN:W2A-035#87:1>
+It may be a simple parts list, or structured to indicate how a
+product is produced.
+
+<ICE-SIN:W2A-035#88:1>
+The BOM is called a product structure when it indicates how a product
+will be produced, it contains information on all materials, components, or
+sub assemblies required to produce each end item ( or master scheduled item [
+5].
+
+<ICE-SIN:W2A-035#89:1>
+In the MRP II system, while the master production schedule plans how
+much of each item must be available on particular dates to satisfy
+independent demand, the product structure records are used to derive the
+quantities of dependent components required to build the end items.
+
+<ICE-SIN:W2A-035#90:1>
+Moreover, the bill of materials is not just a simple listing of
+dependent demand items, but a structured list which describes the sequence of
+steps in manufacturing the product.
+
+<ICE-SIN:W2A-035#91:1>
+The product structure record contains the materials for the end item
+in levels representing the way they are actually placed in the manufacturing
+process.
+
+<ICE-SIN:W2A-035#92:1>
+Each level in the structure represents a distinct stage of the
+overall manufacturing process: from the conversion of raw materials into
+subassemblies at the lowest level, to the subsequent steps involved in
+building assemblies, and lastly to the final assembly of the end item at the
+highest level in the structure [ 5].
+
+<ICE-SIN:W2A-035#93:1>
+A typical product structure record may consist of the following data
+holds:
+
+<ICE-SIN:W2A-035#94:1>
+- Parent part identifier,
+
+<ICE-SIN:W2A-035#95:1>
+- Component part identifier,
+
+<ICE-SIN:W2A-035#96:1>
+- Effectivity date,
+
+<ICE-SIN:W2A-035#97:1>
+- Quantity per assembly,
+
+<ICE-SIN:W2A-035#98:1>
+- Leadtime offset,
+
+<ICE-SIN:W2A-035#99:1>
+- Engineering Change Notice ( ECN) number,
+
+<ICE-SIN:W2A-035#100:1>
+- Alternate part identifier.
+
+<ICE-SIN:W2A-035#101:1>
+The product structure information of a part is defined by the CAD
+system as the part is created.
+
+<ICE-SIN:W2A-035#102:1>
+It can only be extracted if the designer follows the methodology
+recommended by the data extraction program.
+
+<ICE-SIN:W2A-035#103:1>
+<h> BENEFITS OF CAD-MRP II INTEGRATION </h>
+
+<ICE-SIN:W2A-035#104:1>
+Substantial benefits can be realized by accessing MRP 11 system data
+during the process of product design using a CAD system.
+
+<ICE-SIN:W2A-035#105:1>
+In fact, several advantages can be obtained even without any formal
+link between the two systems.
+
+<ICE-SIN:W2A-035#106:1>
+Information such as inventory and work-in-process levels, incoming
+purchase orders, and cost data will facilitate the design process by helping
+the engineer in making a better decision.
+
+<ICE-SIN:W2A-035#107:1>
+Access to MRP 11 data will also promote better communication between
+engineering and manufacturing department by making engineers more cost
+conscious.
+
+<ICE-SIN:W2A-035#108:1>
+For example, during the design change process, the engineer would be
+able to access inventory, cost and pending order information about a
+component before determining the change's effectivity date. <X>
+
+<ICE-SIN:W2A-035#X109:1>
+Even greater benefits can be obtained when CAD and MRP 11 systems
+are integrated ' 1.
+
+<ICE-SIN:W2A-035#X110:1>
+When a part is released from a CAD system, the PMR and BOM
+information will have to be manually entered into the MRP II system, along
+with the required additional information ( eg Iead times, order policy,
+min/max order quantity etc.).
+
+<ICE-SIN:W2A-035#X111:1>
+This manual transcription of data from CAD to MRP 11 is redundant
+and time consuming, and up to 75% of the errors in product design can be
+attributed to errors in such transmission [ 4].
+
+<ICE-SIN:W2A-035#X112:1>
+The problem will be aggravated in keeping track of the inevitable
+engineering changes throughout a product's life cycle.
+
+<ICE-SIN:W2A-035#X113:1>
+Transcription errors will likely be increased at each step, due to
+the need to enter and maintain data in each system independently. </X> </I>

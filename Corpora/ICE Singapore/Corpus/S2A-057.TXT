@@ -1,0 +1,481 @@
+<I>
+
+<$A> 
+<ICE-SIN:S2A-057#1:1:A>
+Now what you see here is the workplace shelf okay
+
+<ICE-SIN:S2A-057#2:1:A>
+Uhm these are icons okay
+
+<ICE-SIN:S2A-057#3:1:A>
+What you see here are icon
+
+<ICE-SIN:S2A-057#4:1:A>
+You can move them around using your mouse buttons okay
+
+<ICE-SIN:S2A-057#5:1:A>
+You can uhm drag them and reposition them and things like the a
+shape like this meant uh folders
+
+<ICE-SIN:S2A-057#6:1:A>
+This is quite the same as Windows three dot X kind of uhm uh
+interface where you click and it open uh it's a folder or MacKintosh okay
+
+<ICE-SIN:S2A-057#7:1:A>
+Now I show you what are the differences okay
+
+<ICE-SIN:S2A-057#8:1:A>
+Let me find a scratch disk
+
+<ICE-SIN:S2A-057#9:1:A>
+Okay now for example I want to access uh my drive A the diskette
+that I've just stuck in okay
+
+<ICE-SIN:S2A-057#10:1:A>
+What normally I can do is I go to the command prompt and say A and
+let maybe fall back
+
+<ICE-SIN:S2A-057#11:1:A>
+But in in this kind of an object oriented workplace shelf what I
+can do is I open the drive folder and you can see that these are all the
+drive I have
+
+<ICE-SIN:S2A-057#12:1:A>
+I have A drive B drive is my uh tape <unclear> word </unclear> I
+have in my hard disk C D E F partition and I have a C R ROM attached on this
+this system
+
+<ICE-SIN:S2A-057#13:1:A>
+So for exmaple like I want to okay this shows what I have in the A
+drive disk
+
+<ICE-SIN:S2A-057#14:1:A>
+It's blank now
+
+<ICE-SIN:S2A-057#15:1:A>
+For example like I want to format the disk I can just click on the
+icon and I got the pop up menu
+
+<ICE-SIN:S2A-057#16:1:A>
+Okay I can just press and clicks and say format
+
+<ICE-SIN:S2A-057#17:1:A>
+Okay and it give me what are the various uh capacity I I'll like to
+format
+
+<ICE-SIN:S2A-057#18:1:A>
+Okay then I just click format
+
+<ICE-SIN:S2A-057#19:1:A>
+It'll go formatting
+
+<ICE-SIN:S2A-057#20:1:A>
+Now let's look at the other uhm stuff we have on the desk top okay
+
+<ICE-SIN:S2A-057#21:1:A>
+We have things like a shredder here
+
+<ICE-SIN:S2A-057#22:1:A>
+Okay which you can creates uh objects I mean you you can delete an
+object
+
+<ICE-SIN:S2A-057#23:1:A>
+For example uhm I want trash away this file called tic-tak-toe
+
+<ICE-SIN:S2A-057#24:1:A>
+I can just drag and drop on the shredder and guess what delete
+right
+
+<ICE-SIN:S2A-057#25:1:A>
+This is quite similar to MacKintosh
+
+<ICE-SIN:S2A-057#26:1:A>
+Anyone is a MacKintosh user over there
+
+<ICE-SIN:S2A-057#27:1:A>
+Ya it looks like MacKintosh right
+
+<ICE-SIN:S2A-057#28:1:A>
+You drag it to the I think MacKintosh is trash trash can okay
+
+<ICE-SIN:S2A-057#29:1:A>
+So this is delete and let let's look at the DOS uhm folder here
+which I have all this dull DOS icon here
+
+<ICE-SIN:S2A-057#30:1:A>
+What do I do if let's say if I want to change an icon okay
+
+<ICE-SIN:S2A-057#31:1:A>
+It's also object oriented right I just have to click the setting
+notebook for this icon and if this is Lotus and I want to use this icon for
+it I can just drag this and I drop on the current icon box here and guess
+what
+
+<ICE-SIN:S2A-057#32:1:A>
+This icon is changed okay so it's this kind of thing
+
+<ICE-SIN:S2A-057#33:1:A>
+You don't have to issue command say change icon or you don't have
+to go to the top bar there and pull down your selection ah select icon change
+this kind of thing
+
+<ICE-SIN:S2A-057#34:1:A>
+So it's object oriented in this aspects and for example like uhm
+changing the colour of your uh system object
+
+<ICE-SIN:S2A-057#35:1:A>
+For example like I want to go to the background okay
+
+<ICE-SIN:S2A-057#36:1:A>
+Uh I go to the system setup
+
+<ICE-SIN:S2A-057#37:1:A>
+What I need to do is I just open the colour palate the colours are
+<unclear> word </unclear> also object
+
+<ICE-SIN:S2A-057#38:1:A>
+What I have to do is just drag the colour and drop onto the place
+where I want to change
+
+<ICE-SIN:S2A-057#39:1:A>
+You can see that the colours change pretty nicely okay
+
+<ICE-SIN:S2A-057#40:1:A>
+And to activate programme is just by double clicking of the of the
+icon
+
+<ICE-SIN:S2A-057#41:1:A>
+And you'll see that while I was doing all those the formatting is
+done in the background
+
+<ICE-SIN:S2A-057#42:1:A>
+This is what I meant by multitasking and it's done
+
+<ICE-SIN:S2A-057#43:1:A>
+And for example I want to save a file onto drive B what do I do
+
+<ICE-SIN:S2A-057#44:1:A>
+I can just drag and drop on it
+
+<ICE-SIN:S2A-057#45:1:A>
+For example this file type A I'll drag and can see that I think the
+A drive should be blinking right
+
+<ICE-SIN:S2A-057#46:1:A>
+It's not
+
+<ICE-SIN:S2A-057#47:1:A>
+Sorry
+
+<ICE-SIN:S2A-057#48:1:A>
+Or I'll choose another file anyway
+
+<ICE-SIN:S2A-057#49:1:A>
+Uhm how about <unclear> word </unclear>
+
+<ICE-SIN:S2A-057#50:1:A>
+Ya if if in case for any reason why I can't move this file
+
+<ICE-SIN:S2A-057#51:1:A>
+You'll see that the no entry sign is there okay
+
+<ICE-SIN:S2A-057#52:1:A>
+Not to worry let me copy something from my E drive uhm let me
+<unclear> word </unclear> save file does not use the text file
+
+<ICE-SIN:S2A-057#53:1:A>
+That means I can copy
+
+<ICE-SIN:S2A-057#54:1:A>
+Can drag over drag you know hopefully
+
+<ICE-SIN:S2A-057#55:1:A>
+I think it's there
+
+<ICE-SIN:S2A-057#56:1:A>
+It's there right
+
+<ICE-SIN:S2A-057#57:1:A>
+I think so
+
+<ICE-SIN:S2A-057#58:1:A>
+So to show that it's there
+
+<ICE-SIN:S2A-057#59:1:A>
+Okay the convix save file is there so but anyway if for any Doser
+<unclear> word </unclear> common command prompt user would like to use
+command prompt die-hard
+
+<ICE-SIN:S2A-057#60:1:A>
+Those of you without without seeing the command prompt <unclear>
+word </unclear> there's also O S two command prompt you can use okay
+
+<ICE-SIN:S2A-057#61:1:A>
+And from this command prompt you can always uh set
+
+<ICE-SIN:S2A-057#62:1:A>
+For this is the O S two command prompt and you can open up a DOS
+file by just saying well then you can go to a DOS environment okay
+
+<ICE-SIN:S2A-057#63:1:A>
+I'll show more of this later
+
+<ICE-SIN:S2A-057#64:1:A>
+Okay uhm like for example like the drive folders I open up
+
+<ICE-SIN:S2A-057#65:1:A>
+You can also see that it's in a tree form and this the
+sub-directories are all organise in folders also okay
+
+<ICE-SIN:S2A-057#66:1:A>
+So it is object oriented in this ex aspect
+
+<ICE-SIN:S2A-057#67:1:A>
+Now what I want to show you next is uhm compatiblity of uhm DOS and
+Window
+
+<ICE-SIN:S2A-057#68:1:A>
+I'l I'll have you got a very clear
+
+<ICE-SIN:S2A-057#69:1:A>
+I mean at least a clear idea of what workplace shelf
+
+<ICE-SIN:S2A-057#70:1:A>
+It's this shell this moving of icon this creating of icon deleting
+by dragging pulling <unclear> word </unclear> dropping this is what I meant
+easy to use or the or the workplace shell
+
+<ICE-SIN:S2A-057#71:1:A>
+Okay the next topic that I want to go through is the compatibility
+of uhm DOS okay
+
+<ICE-SIN:S2A-057#72:1:A>
+For I can run things like Word Perfect for DOS okay and I can put
+them into the background
+
+<ICE-SIN:S2A-057#73:1:A>
+Alright this is DOS Word Perfect running in one window and I can
+run Lotus one two three and I can put this also in the window form put them
+side by side okay
+
+<ICE-SIN:S2A-057#74:1:A>
+Now by a by being able to run my DOS applications side by side onto
+on on the desk on the O S two desk top what does it buy me as a user okay
+
+<ICE-SIN:S2A-057#75:1:A>
+In the DOS environment or in the simple DOS DOS environment single
+tasking even uhm what you can do let's say you want to copy all this sales
+uhm figures all this figures onto a word processor file what you can do is
+you can only convert them to a file and then export them in Word Perfect
+
+<ICE-SIN:S2A-057#76:1:A>
+You have to read those text file in right
+
+<ICE-SIN:S2A-057#77:1:A>
+But let's say if you run can run them on the desk top side by side
+you can do simple things like cut and paste right and it hand <unclear> word
+</unclear> enhance the capability of your DOS applications
+
+<ICE-SIN:S2A-057#78:1:A>
+It's not only the DOS application you can do cut and paste
+
+<ICE-SIN:S2A-057#79:1:A>
+Uhm in our office I'm using the comms manager two okay uhm I'm able
+to
+
+<ICE-SIN:S2A-057#80:1:A>
+You see now in the in the host environment let's say if I want to
+reply to a mail somebody send me a mail okay it's in fax form
+
+<ICE-SIN:S2A-057#81:1:A>
+I want to reply to the mail and I I like to do some quoting so
+normaly if if I don't don't have O S two cut and paste facility what I have
+to do is I have to copy that mail into a file
+
+<ICE-SIN:S2A-057#82:1:A>
+Then I open up the file I use the text editor to add those arrow by
+the side
+
+<ICE-SIN:S2A-057#83:1:A>
+Then I close that file
+
+<ICE-SIN:S2A-057#84:1:A>
+I have to evoke that mail and call that file in and then I send
+that file okay
+
+<ICE-SIN:S2A-057#85:1:A>
+Now in in the host I mean if running on O S two what I can do is I
+just lift <unclear> word </unclear> up that portion of text mark it up in my
+incoming mail okay
+
+<ICE-SIN:S2A-057#86:1:A>
+It'll click and go into my O S two clip board
+
+<ICE-SIN:S2A-057#87:1:A>
+Then I just have to key into I mean uh respond
+
+<ICE-SIN:S2A-057#88:1:A>
+Then you have have another fresh uhm mailer screen to come up
+
+<ICE-SIN:S2A-057#89:1:A>
+Then I say paste paste onto the same box okay
+
+<ICE-SIN:S2A-057#90:1:A>
+In that in that case I can do a lot of manipulation and that would
+add to my capability of my using my prompt my I B M prompt
+
+<ICE-SIN:S2A-057#91:1:A>
+I don't know whether this will give you a good idea or not because
+I think in N U S you just use prompt right
+
+<ICE-SIN:S2A-057#92:1:A>
+Bitnet yah
+
+<ICE-SIN:S2A-057#93:1:A>
+For today's set up here you can see the two machine
+
+<ICE-SIN:S2A-057#94:1:A>
+Actually we're trying to do some networking in this room but it was
+not really successful so we can't do that uh
+
+<ICE-SIN:S2A-057#95:1:A>
+Therefore I just mention this okay
+
+<ICE-SIN:S2A-057#96:1:A>
+Okay cut and paste
+
+<ICE-SIN:S2A-057#97:1:A>
+Uh well this is just between the DOS applications
+
+<ICE-SIN:S2A-057#98:1:A>
+Now what I'm going to show is uhm sharing of datas uhm between O S
+two and Windows applications
+
+<ICE-SIN:S2A-057#99:1:A>
+With this I would like to show that O S two can run Windows and of
+course it can also share the Windows application data with whatever
+application that it is running on Windows platform okay
+
+<ICE-SIN:S2A-057#100:1:A>
+So I'll like to run Excel here
+
+<ICE-SIN:S2A-057#101:1:A>
+This is Microsoft Excel
+
+<ICE-SIN:S2A-057#102:1:A>
+Now in O S two point O when I run Excel
+
+<ICE-SIN:S2A-057#103:1:A>
+I probably would have to run it in the full screen mode
+
+<ICE-SIN:S2A-057#104:1:A>
+That means uhm I have to go into the uh Windows Win dot com and
+you'll see whole whole page of Window
+
+<ICE-SIN:S2A-057#105:1:A>
+But this application now is running what I call seamlessly on the
+O S two desk top okay
+
+<ICE-SIN:S2A-057#106:1:A>
+This within this box that you see here is all the Windows kind of
+uh interface the minimise icon into this manner okay
+
+<ICE-SIN:S2A-057#107:1:A>
+Now let's look at an O S two spreadsheet which is the Lotus one
+two three
+
+<ICE-SIN:S2A-057#108:1:A>
+By the way the Lotus one two three release two that this one I'm
+running is the thirty-two bit application
+
+<ICE-SIN:S2A-057#109:1:A>
+And I'll touch on the benefits of using thrity-two bit
+applications
+
+<ICE-SIN:S2A-057#110:1:A>
+Where recently there was an article in the Business Times
+
+<ICE-SIN:S2A-057#111:1:A>
+I wonder if anyone read uh
+
+<ICE-SIN:S2A-057#112:1:A>
+In thirty-two bit we trust or something like that written by Lim
+Sin Sin
+
+<ICE-SIN:S2A-057#113:1:A>
+Now this this two spreadsheet is running side by side let me enter
+some figure onto this uh Excel side
+
+<ICE-SIN:S2A-057#114:1:A>
+Just some simple number
+
+<ICE-SIN:S2A-057#115:1:A>
+Let me block it up and say copy then I edit and I paste link over
+this side
+
+<ICE-SIN:S2A-057#116:1:A>
+What I'm trying to do here is uh is D D E link okay
+
+<ICE-SIN:S2A-057#117:1:A>
+Uhm does anybody know what's D Ding D D E link
+
+<ICE-SIN:S2A-057#118:1:A>
+In the Windows environment there is this called this link called
+Dynamic Data Exchange link okay
+
+<ICE-SIN:S2A-057#119:1:A>
+You're able to share data dynamically uhm between two applications
+and if you change one the other one should change okay
+
+<ICE-SIN:S2A-057#120:1:A>
+Normally what you see happens is between two Windows applications
+
+<ICE-SIN:S2A-057#121:1:A>
+Now I'm showing you is one on Windows the other one is on O S two
+applications and D D E does work okay
+
+<ICE-SIN:S2A-057#122:1:A>
+Now I want to change uhm for example this okay and you see that
+side is eight
+
+<ICE-SIN:S2A-057#123:1:A>
+Perhaps the numbers you can't see properly
+
+<ICE-SIN:S2A-057#124:1:A>
+Maybe I put it into a chart
+
+<ICE-SIN:S2A-057#125:1:A>
+Okay this is uh O S two Lotus one two three's chart then I choose
+this one
+
+<ICE-SIN:S2A-057#126:1:A>
+Uh do I have a three D one
+
+<ICE-SIN:S2A-057#127:1:A>
+Here is a three-D one and can see much better okay
+
+<ICE-SIN:S2A-057#128:1:A>
+So you can see that the D D E link data is almost instanteous
+update okay
+
+<ICE-SIN:S2A-057#129:1:A>
+I'll just like to explain a bit how this is being done so that you
+can appreciate that this is not actually as simple as what you see although
+you can see that the update is quite fast
+
+<ICE-SIN:S2A-057#130:1:A>
+First when you do the D D E okay the data has to go into a
+clipboard and that went into the Win O S two clipboard first okay
+
+<ICE-SIN:S2A-057#131:1:A>
+That's the Windows clipboard maintained by O S two <X>
+
+<ICE-SIN:S2A-057#X132:1:A>
+Now from there when I do a paste paste link over to a a O S twos
+application there's another clipboard is being call up and it's active in the
+background and we can't see That is the O S two clipboard And information is
+passed from uhm the Excel into the clipboard in O S via <unclear> word
+</unclear> O S two and passed transferably to O S two's clipboard and goes
+out to Lotus one two three's clipboard and all this passing around is
+transparent to the user and let alone when you save there's a change in value
+all these changes will be go through with this manner okay </X> </I>

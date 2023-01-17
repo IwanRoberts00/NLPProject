@@ -1,0 +1,1053 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1B-067#1:1:A>
+Your name is Grace Sng S N G
+
+<$B> 
+<ICE-SIN:S1B-067#2:1:B>
+That is right
+
+<$A> 
+<ICE-SIN:S1B-067#3:1:A>
+And you live at twenty-five Siglap Drive Singapore
+
+<ICE-SIN:S1B-067#4:1:A>
+You live at twenty five Siglap Drive Singapore one five four five
+
+<$B> 
+<ICE-SIN:S1B-067#5:1:B>
+That is correct
+
+<$A> 
+<ICE-SIN:S1B-067#6:1:A>
+You are now the manager of Information Systems Department in S
+I S I R
+
+<$B> 
+<ICE-SIN:S1B-067#7:1:B>
+Right
+
+<$A> 
+<ICE-SIN:S1B-067#8:1:A>
+I think perhaps it would be more approved really if you say yes
+or no instead of uh if you don't mind right
+
+<$B> 
+<ICE-SIN:S1B-067#9:1:B>
+Uhm
+
+<$A> 
+<ICE-SIN:S1B-067#10:1:A>
+In nineteen eighty you held the position of senior officer in
+S I S I R in charge of computer unit
+
+<$B> 
+<ICE-SIN:S1B-067#11:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#12:1:A>
+And as such you were involved in all aspects of
+computerization of business systems in S I S I R
+
+<$B> 
+<ICE-SIN:S1B-067#13:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#14:1:A>
+What did this involve
+
+<ICE-SIN:S1B-067#15:1:A>
+Could you kindly tell us in your own words Miss Sng
+
+<$B> 
+<ICE-SIN:S1B-067#16:1:B>
+I was
+
+<$A> 
+<ICE-SIN:S1B-067#17:1:A>
+Evaluation and so on
+
+<$B> 
+<ICE-SIN:S1B-067#18:1:B>
+Yes
+
+<ICE-SIN:S1B-067#19:1:B>
+I was actually in charge in all aspects of the department
+
+<ICE-SIN:S1B-067#20:1:B>
+This included evaluation and recommendation for purchase of
+hardware
+
+<$A> 
+<ICE-SIN:S1B-067#21:1:A>
+Just just a moment
+
+<ICE-SIN:S1B-067#22:1:A>
+His Lordship is taking it down
+
+<ICE-SIN:S1B-067#23:1:A>
+This involved the evaluation and recommendation for the purchase of
+hardware
+
+<$B> 
+<ICE-SIN:S1B-067#24:1:B>
+Purchase of hardware
+
+<ICE-SIN:S1B-067#25:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#26:1:A>
+And
+
+<$B> 
+<ICE-SIN:S1B-067#27:1:B>
+And also for appointment of the contractor for software
+development
+
+<$A> 
+<ICE-SIN:S1B-067#28:1:A>
+And the for the appointment of contractors for the development
+of software
+
+<ICE-SIN:S1B-067#29:1:A>
+Is that correct
+
+<$B> 
+<ICE-SIN:S1B-067#30:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#31:1:A>
+In May ninety eighty did S I S I R place an order for computer
+hardware
+
+<$B> 
+<ICE-SIN:S1B-067#32:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#33:1:A>
+What was the hardware
+
+<ICE-SIN:S1B-067#34:1:A>
+Digital
+
+<$B> 
+<ICE-SIN:S1B-067#35:1:B>
+Digital P D P eleven System
+
+<$A> 
+<ICE-SIN:S1B-067#36:1:A>
+Digital P D P eleven System
+
+<$B> 
+<ICE-SIN:S1B-067#37:1:B>
+That's right
+
+<ICE-SIN:S1B-067#38:1:B>
+From Automated
+
+<$A> 
+<ICE-SIN:S1B-067#39:1:A>
+Can you elaborate on that with Automatic
+
+<$B> 
+<ICE-SIN:S1B-067#40:1:B>
+With Automated Systems Private
+
+<$A> 
+<ICE-SIN:S1B-067#41:1:A>
+You placed the order with Automated Systems Private Limited
+
+<$B> 
+<ICE-SIN:S1B-067#42:1:B>
+Yes
+
+<ICE-SIN:S1B-067#43:1:B>
+Systems Private Limited
+
+<$A> 
+<ICE-SIN:S1B-067#44:1:A>
+And that company belonged to which Group
+
+<$B> 
+<ICE-SIN:S1B-067#45:1:B>
+The Computer Systems Advisors Group
+
+<$A> 
+<ICE-SIN:S1B-067#46:1:A>
+What intention did S I S I R have to develop the application
+of software to run the P D P
+
+<$B> 
+<ICE-SIN:S1B-067#47:1:B>
+Yes
+
+<ICE-SIN:S1B-067#48:1:B>
+We had seven applications to develop
+
+<$A> 
+<ICE-SIN:S1B-067#49:1:A>
+And how did you come to know Mister Shaw Hui Jeong
+
+<$B> 
+<ICE-SIN:S1B-067#50:1:B>
+Automated Systems the company that sold us the hardware
+recommended Mister Shaw to us because he had experience in developing
+software for the P D P Platform
+
+<ICE-SIN:S1B-067#51:1:B>
+Software for that type of computers
+
+<$A> 
+<ICE-SIN:S1B-067#52:1:A>
+Yes
+
+<ICE-SIN:S1B-067#53:1:A>
+So in view of the recommendation and Mister Shaw's experience in
+software development you say the PDP
+
+<$B> 
+<ICE-SIN:S1B-067#54:1:B>
+P D P
+
+<$A> 
+<ICE-SIN:S1B-067#55:1:A>
+What did S I S I R do
+
+<$B> 
+<ICE-SIN:S1B-067#56:1:B>
+We invited him to submit a quotation
+
+<ICE-SIN:S1B-067#57:1:B>
+We invited him to submit a quotation for development of the
+software we had in mind there seven applications
+
+<$A> 
+<ICE-SIN:S1B-067#58:1:A>
+And the quotation you required was also for apart from
+development also for design and implementation
+
+<$B> 
+<ICE-SIN:S1B-067#59:1:B>
+That's all the activities involved in development
+
+<$A> 
+<ICE-SIN:S1B-067#60:1:A>
+All the functions
+
+<$B> 
+<ICE-SIN:S1B-067#61:1:B>
+Right
+
+<ICE-SIN:S1B-067#62:1:B>
+That's the scope of the project
+
+<$A> 
+<ICE-SIN:S1B-067#63:1:A>
+The systems were for how many applications
+
+<ICE-SIN:S1B-067#64:1:A>
+What you said
+
+<$B> 
+<ICE-SIN:S1B-067#65:1:B>
+Seven applications
+
+<$A> 
+<ICE-SIN:S1B-067#66:1:A>
+Yes
+
+<ICE-SIN:S1B-067#67:1:A>
+I am afraid it Is not in the agreed bundle my Lord
+
+<ICE-SIN:S1B-067#68:1:A>
+I have got a quotation
+
+<$B> 
+<ICE-SIN:S1B-067#69:1:B>
+Sixth of June nineteen eighty
+
+<$A> 
+<ICE-SIN:S1B-067#70:1:A>
+Sixth of June nineteen
+
+<ICE-SIN:S1B-067#71:1:A>
+Was this is this a copy of the quotations
+
+<$B> 
+<ICE-SIN:S1B-067#72:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#73:1:A>
+Page
+
+<ICE-SIN:S1B-067#74:1:A>
+And the quotation was accepted
+
+<ICE-SIN:S1B-067#75:1:A>
+And you wrote to Mister Shaw on the twelfth of July nineteen eighty
+
+<ICE-SIN:S1B-067#76:1:A>
+Is that a copy of the letter of acceptance
+
+<ICE-SIN:S1B-067#77:1:A>
+We are pleased to inform you that our finance committee has
+accepted your preliminary quotation for the development and implementation of
+the T I S and accounting systems on our P D P one one three four as per your
+letter dated sixth June eighty
+
+<$B> 
+<ICE-SIN:S1B-067#78:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#79:1:A>
+That's correct
+
+<ICE-SIN:S1B-067#80:1:A>
+Now that project with S I S I R's finance company approved
+
+<ICE-SIN:S1B-067#81:1:A>
+Would you describe that as a major project
+
+<$B> 
+<ICE-SIN:S1B-067#82:1:B>
+Yes it took ultimately about two years to complete
+
+<$A> 
+<ICE-SIN:S1B-067#83:1:A>
+It took two years to complete
+
+<$B> 
+<ICE-SIN:S1B-067#84:1:B>
+Yes
+
+<ICE-SIN:S1B-067#85:1:B>
+Ultimately
+
+<$A> 
+<ICE-SIN:S1B-067#86:1:A>
+Sorry
+
+<$B> 
+<ICE-SIN:S1B-067#87:1:B>
+Two years to complete
+
+<$A> 
+<ICE-SIN:S1B-067#88:1:A>
+Two years to complete
+
+<$B> 
+<ICE-SIN:S1B-067#89:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#90:1:A>
+And it involved according to that letter a computerisation of
+Technical Information Service
+
+<ICE-SIN:S1B-067#91:1:A>
+That's T I S is it
+
+<$B> 
+<ICE-SIN:S1B-067#92:1:B>
+T I S yes
+
+<$A> 
+<ICE-SIN:S1B-067#93:1:A>
+Computerisation of T I S and how many accounting applications
+
+<$B> 
+<ICE-SIN:S1B-067#94:1:B>
+Six applications
+
+<$A> 
+<ICE-SIN:S1B-067#95:1:A>
+Six accounting applications
+
+<ICE-SIN:S1B-067#96:1:A>
+And what was the cost of that system
+
+<$B> 
+<ICE-SIN:S1B-067#97:1:B>
+Fifty eight thousand
+
+<$A> 
+<ICE-SIN:S1B-067#98:1:A>
+Sorry
+
+<$B> 
+<ICE-SIN:S1B-067#99:1:B>
+Fifty eight thousand
+
+<$A> 
+<ICE-SIN:S1B-067#100:1:A>
+Fifty eight thousand
+
+<ICE-SIN:S1B-067#101:1:A>
+And what did Datatronics agree to provide
+
+<$B> 
+<ICE-SIN:S1B-067#102:1:B>
+They were supposed to provide a systems designer and a
+programmer and S I S I R
+
+<$A> 
+<ICE-SIN:S1B-067#103:1:A>
+Systems designer and programmer
+
+<ICE-SIN:S1B-067#104:1:A>
+Can you remember the different aspects which the project covered
+
+<$B> 
+<ICE-SIN:S1B-067#105:1:B>
+Yes you have to start it off with a systems study and then
+this
+
+<$A> 
+<ICE-SIN:S1B-067#106:1:A>
+Investigation
+
+<$B> 
+<ICE-SIN:S1B-067#107:1:B>
+Investigation followed by the systems specifying specifying
+the system and the design of the system
+
+<ICE-SIN:S1B-067#108:1:B>
+Then you went on to the actual programming testing and integration
+of all the
+
+<ICE-SIN:S1B-067#109:1:B>
+Sorry
+
+<ICE-SIN:S1B-067#110:1:B>
+Testing and
+
+<ICE-SIN:S1B-067#111:1:B>
+Design
+
+<$A> 
+<ICE-SIN:S1B-067#112:1:A>
+Designing programming testing and integration
+
+<$A> 
+<ICE-SIN:S1B-067#113:1:A>
+File conversion from existing systems
+
+<$B> 
+<ICE-SIN:S1B-067#114:1:B>
+From existing manual system and writing the user
+documentation and the system documentation
+
+<$A> 
+<ICE-SIN:S1B-067#115:1:A>
+Including manuals
+
+<$B> 
+<ICE-SIN:S1B-067#116:1:B>
+Yes manuals
+
+<ICE-SIN:S1B-067#117:1:B>
+User manuals
+
+<ICE-SIN:S1B-067#118:1:B>
+Manuals
+
+<$A> 
+<ICE-SIN:S1B-067#119:1:A>
+And documentation
+
+<$B> 
+<ICE-SIN:S1B-067#120:1:B>
+And documentation
+
+<ICE-SIN:S1B-067#121:1:B>
+Training of the users and also monitoring the first three months
+of live operations
+
+<ICE-SIN:S1B-067#122:1:B>
+Live
+
+<ICE-SIN:S1B-067#123:1:B>
+Live L I V E
+
+<$A> 
+<ICE-SIN:S1B-067#124:1:A>
+Does it include parallel run of the existing systems
+
+<$B> 
+<ICE-SIN:S1B-067#125:1:B>
+Parallel run
+
+<ICE-SIN:S1B-067#126:1:B>
+Yes parallel run
+
+<$A> 
+<ICE-SIN:S1B-067#127:1:A>
+That's all included in
+
+<$B> 
+<ICE-SIN:S1B-067#128:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#129:1:A>
+All included in the project
+
+<$B> 
+<ICE-SIN:S1B-067#130:1:B>
+Yes
+
+<ICE-SIN:S1B-067#131:1:B>
+Manual and the yes together
+
+<ICE-SIN:S1B-067#132:1:B>
+To make sure that everything is okay
+
+<ICE-SIN:S1B-067#133:1:B>
+That the outputs you know tally with what you have manual records
+
+<$A> 
+<ICE-SIN:S1B-067#134:1:A>
+Now throughout the whole project
+
+<ICE-SIN:S1B-067#135:1:A>
+Whom did you deal with in Datatronics
+
+<$B> 
+<ICE-SIN:S1B-067#136:1:B>
+Mister Shaw
+
+<$A> 
+<ICE-SIN:S1B-067#137:1:A>
+Who was in charge of that project
+
+<$B> 
+<ICE-SIN:S1B-067#138:1:B>
+He was the project manager
+
+<$A> 
+<ICE-SIN:S1B-067#139:1:A>
+He was the project manager
+
+<$B> 
+<ICE-SIN:S1B-067#140:1:B>
+Mm and also the systems designer
+
+<$A> 
+<ICE-SIN:S1B-067#141:1:A>
+Systems designer
+
+<$B> 
+<ICE-SIN:S1B-067#142:1:B>
+Right
+
+<$A> 
+<ICE-SIN:S1B-067#143:1:A>
+And all discussions and negotiations for the purchase of the
+system were with whom in Datatronics
+
+<$B> 
+<ICE-SIN:S1B-067#144:1:B>
+With Mister Shaw
+
+<$A> 
+<ICE-SIN:S1B-067#145:1:A>
+With Mr Shaw
+
+<$B> 
+<ICE-SIN:S1B-067#146:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#147:1:A>
+All discussions negotiations with him alone
+
+<$B> 
+<ICE-SIN:S1B-067#148:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#149:1:A>
+How often did he attend the office of S I S I R
+
+<$B> 
+<ICE-SIN:S1B-067#150:1:B>
+When we first started off the project
+
+<ICE-SIN:S1B-067#151:1:B>
+When we were doing specification and design and a lot of the
+technical work initially it was almost every day
+
+<ICE-SIN:S1B-067#152:1:B>
+Then as the project progressed and it was more programming you
+know and programming and testing
+
+<ICE-SIN:S1B-067#153:1:B>
+Then he comes in when we have technical problems that need solving
+
+<$A> 
+<ICE-SIN:S1B-067#154:1:A>
+I see
+
+<$B> 
+<ICE-SIN:S1B-067#155:1:B>
+And also to oversee you know
+
+<ICE-SIN:S1B-067#156:1:B>
+Oversee as a project manager to oversee it
+
+<ICE-SIN:S1B-067#157:1:B>
+So he came in maybe two or three times a week
+
+<$A> 
+<ICE-SIN:S1B-067#158:1:A>
+Two or three times a week
+
+<$B> 
+<ICE-SIN:S1B-067#159:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#160:1:A>
+When he attended your office
+
+<ICE-SIN:S1B-067#161:1:A>
+What were the office hours or what were the hours he kept
+
+<$B> 
+<ICE-SIN:S1B-067#162:1:B>
+Nine to five
+
+<ICE-SIN:S1B-067#163:1:B>
+But if there are problems and we had to solve them
+
+<ICE-SIN:S1B-067#164:1:B>
+Then we would stay on till nine or ten until you know
+
+<$A> 
+<ICE-SIN:S1B-067#165:1:A>
+Nine or ten at night
+
+<$B> 
+<ICE-SIN:S1B-067#166:1:B>
+Until we get the problem solved or we are too tired
+
+<$A> 
+<ICE-SIN:S1B-067#167:1:A>
+I see
+
+<ICE-SIN:S1B-067#168:1:A>
+Can you remember roughly what his responsibilities were his
+functions
+
+<$B> 
+<ICE-SIN:S1B-067#169:1:B>
+Yes
+
+<ICE-SIN:S1B-067#170:1:B>
+Mainly he was the project manager the systems designer
+
+<ICE-SIN:S1B-067#171:1:B>
+He would you know oversee all the programming testing and
+integration
+
+<ICE-SIN:S1B-067#172:1:B>
+He wrote the first drafts of all the functional specifications
+
+<ICE-SIN:S1B-067#173:1:B>
+First drafts of all the functional specifications
+
+<ICE-SIN:S1B-067#174:1:B>
+Yes
+
+<ICE-SIN:S1B-067#175:1:B>
+Then later on as you know
+
+<ICE-SIN:S1B-067#176:1:B>
+As the specifications developed
+
+<ICE-SIN:S1B-067#177:1:B>
+Then he vetted you know all the enhancements of the specifications
+
+<ICE-SIN:S1B-067#178:1:B>
+And he also came in to solve technical problems related to you
+know
+
+<ICE-SIN:S1B-067#179:1:B>
+All these aspects programming and testing
+
+<$A> 
+<ICE-SIN:S1B-067#180:1:A>
+Now Miss Sng
+
+<$B> 
+<ICE-SIN:S1B-067#181:1:B>
+and
+
+<$A> 
+<ICE-SIN:S1B-067#182:1:A>
+I'm sorry
+
+<ICE-SIN:S1B-067#183:1:A>
+I beg your pardon
+
+<$B> 
+<ICE-SIN:S1B-067#184:1:B>
+I think initial training of the users and he was also
+involved in that
+
+<$A> 
+<ICE-SIN:S1B-067#185:1:A>
+Training of users of the system
+
+<$B> 
+<ICE-SIN:S1B-067#186:1:B>
+Training of users of the computerized system
+
+<$A> 
+<ICE-SIN:S1B-067#187:1:A>
+Yes
+
+<ICE-SIN:S1B-067#188:1:A>
+Now you knew that Mister Shaw left Datatronics in May eighty two
+
+<$B> 
+<ICE-SIN:S1B-067#189:1:B>
+Eighty two yes
+
+<$A> 
+<ICE-SIN:S1B-067#190:1:A>
+What was the state of the what was the progress then
+
+<$B> 
+<ICE-SIN:S1B-067#191:1:B>
+We had one more application you know to develop
+
+<$A> 
+<ICE-SIN:S1B-067#192:1:A>
+One more application
+
+<$B> 
+<ICE-SIN:S1B-067#193:1:B>
+One more application
+
+<$A> 
+<ICE-SIN:S1B-067#194:1:A>
+To develop
+
+<$B> 
+<ICE-SIN:S1B-067#195:1:B>
+To develop
+
+<ICE-SIN:S1B-067#196:1:B>
+The last one
+
+<ICE-SIN:S1B-067#197:1:B>
+It was
+
+<ICE-SIN:S1B-067#198:1:B>
+Yes job costing
+
+<ICE-SIN:S1B-067#199:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#200:1:A>
+Did Datatronics after he left
+
+<ICE-SIN:S1B-067#201:1:A>
+Did Datatronics complete
+
+<$B> 
+<ICE-SIN:S1B-067#202:1:B>
+No
+
+<ICE-SIN:S1B-067#203:1:B>
+We did not have anyone to replace him as a system designer and
+project manager
+
+<ICE-SIN:S1B-067#204:1:B>
+And the assigned programmer was also away from the job
+
+<ICE-SIN:S1B-067#205:1:B>
+Did not show up five
+
+<ICE-SIN:S1B-067#206:1:B>
+And project manager to replace Mister Shaw
+
+<ICE-SIN:S1B-067#207:1:B>
+And the assigned programmer was away from the job
+
+<ICE-SIN:S1B-067#208:1:B>
+I think the last five out of the last six weeks
+
+<ICE-SIN:S1B-067#209:1:B>
+So at that point and time we decided to terminate you know the
+contract
+
+<$A> 
+<ICE-SIN:S1B-067#210:1:A>
+You terminated the contract
+
+<$B> 
+<ICE-SIN:S1B-067#211:1:B>
+Yes
+
+<ICE-SIN:S1B-067#212:1:B>
+And because it was not satisfactorily completed
+
+<ICE-SIN:S1B-067#213:1:B>
+Ten thousand I think was withheld as penalty for non-completion
+
+<$A> 
+<ICE-SIN:S1B-067#214:1:A>
+Ten thousand
+
+<$B> 
+<ICE-SIN:S1B-067#215:1:B>
+Ten thousand
+
+<$A> 
+<ICE-SIN:S1B-067#216:1:A>
+So you are saying that Datatronics failed to assign a proper
+
+<$B> 
+<ICE-SIN:S1B-067#217:1:B>
+Replacement for Mister Shaw
+
+<$A> 
+<ICE-SIN:S1B-067#218:1:A>
+Replacement for Mister Shaw
+
+<ICE-SIN:S1B-067#219:1:A>
+And after he left Datatronics did S I S I R have any further
+business with Mister Shaw
+
+<$B> 
+<ICE-SIN:S1B-067#220:1:B>
+Yes he
+
+<ICE-SIN:S1B-067#221:1:B>
+When I had problems I still you know contacted him and he advised
+us on an informal basis
+
+<ICE-SIN:S1B-067#222:1:B>
+Then when he started his own company we contracted with him to do
+further enhancements on the applications
+
+<$A> 
+<ICE-SIN:S1B-067#223:1:A>
+Further enhancements on
+
+<$B> 
+<ICE-SIN:S1B-067#224:1:B>
+On the applications
+
+<$A> 
+<ICE-SIN:S1B-067#225:1:A>
+On the applications
+
+<$B> 
+<ICE-SIN:S1B-067#226:1:B>
+Yes
+
+<ICE-SIN:S1B-067#227:1:B>
+The seven applications that was
+
+<$A> 
+<ICE-SIN:S1B-067#228:1:A>
+Computerised applications
+
+<$B> 
+<ICE-SIN:S1B-067#229:1:B>
+Yes that was nineteen eighty three to eighty five period yes
+
+<$A> 
+<ICE-SIN:S1B-067#230:1:A>
+And are those computerised applications still in operation
+today
+
+<$B> 
+<ICE-SIN:S1B-067#231:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-067#232:1:A>
+No further questions my Lord
+
+<$C> 
+<ICE-SIN:S1B-067#233:1:C>
+Now Miss Sng
+
+<ICE-SIN:S1B-067#234:1:C>
+You said that you knew the Plaintiff as Mister Shaw as the project
+manager and system designer
+
+<ICE-SIN:S1B-067#235:1:C>
+Did you know whether he was a director or partner or employee of
+the company Datatronics
+
+<$B> 
+<ICE-SIN:S1B-067#236:1:B>
+We considered him as you know in charge of the whole company
+because he was the person we dealt with
+
+<$A> 
+<ICE-SIN:S1B-067#237:1:A>
+I didn't quite get the last bit
+
+<$B> 
+<ICE-SIN:S1B-067#238:1:B>
+We considered him as the person in charge of
+
+<$A> 
+<ICE-SIN:S1B-067#239:1:A>
+Of Datatronics
+
+<ICE-SIN:S1B-067#240:1:A>
+I'm sorry
+
+<ICE-SIN:S1B-067#241:1:A>
+Because
+
+<ICE-SIN:S1B-067#242:1:A>
+Oh thank you my Lord
+
+<$C> 
+<ICE-SIN:S1B-067#243:1:C>
+So he could have been the owner of the company
+
+<ICE-SIN:S1B-067#244:1:C>
+He could have been the owner of the company as far as they were
+concerned
+
+<ICE-SIN:S1B-067#245:1:C>
+Yes my Lord
+
+<ICE-SIN:S1B-067#246:1:C>
+When you appointed Datatronics first
+
+<ICE-SIN:S1B-067#247:1:C>
+Yes
+
+<$B> 
+<ICE-SIN:S1B-067#248:1:B>
+I will assume he was
+
+<ICE-SIN:S1B-067#249:1:B>
+He did not specify his designation in any letters
+
+<$B> 
+<ICE-SIN:S1B-067#250:1:B>
+But we did not know
+
+<ICE-SIN:S1B-067#251:1:B>
+Okay
+
+<$C> 
+<ICE-SIN:S1B-067#252:1:C>
+When you appointed Datatronics
+
+<ICE-SIN:S1B-067#253:1:C>
+Did you call for various quotations first
+
+<$B> 
+<ICE-SIN:S1B-067#254:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-067#255:1:C>
+Did Datatronics give the best price
+
+<$B> 
+<ICE-SIN:S1B-067#256:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-067#257:1:C>
+Was there a vast difference between the Datatronics'
+quotation and the other quotations
+
+<$B> 
+<ICE-SIN:S1B-067#258:1:B>
+Not a big difference
+
+<ICE-SIN:S1B-067#259:1:B>
+The only company that we invited to provide a quotation was C S A
+Computer Systems Advisers
+
+<$C> 
+<ICE-SIN:S1B-067#260:1:C>
+But the difference was still enough for you to appoint
+Datatronics
+
+<ICE-SIN:S1B-067#261:1:C>
+Yes my Lord
+
+<ICE-SIN:S1B-067#262:1:C>
+Much obliged
+
+<ICE-SIN:S1B-067#263:1:C>
+Yes my Lord
+
+<ICE-SIN:S1B-067#264:1:C>
+Not as much as that but that they had to be competitive initially
+so that very little profits were made when they gave quotations
+
+<ICE-SIN:S1B-067#265:1:C>
+When Mister Shaw had left the company in nineteen eighty-two you
+only consulted him informally
+
+<$B> 
+<ICE-SIN:S1B-067#266:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-067#267:1:C>
+And did not appoint his company until nineteen eighty-three
+
+<$B> 
+<ICE-SIN:S1B-067#268:1:B>
+That was a different project
+
+<$C> 
+<ICE-SIN:S1B-067#269:1:C>
+But for nineteen eighty-two there was no formal contact
+between you and his company
+
+<$B> 
+<ICE-SIN:S1B-067#270:1:B>
+Formal contact as in appointment no
+
+<$C> 
+<ICE-SIN:S1B-067#271:1:C>
+And you were the one who approached him
+
+<ICE-SIN:S1B-067#272:1:C>
+He did not approach you
+
+<$B> 
+<ICE-SIN:S1B-067#273:1:B>
+As far as the project was concerned it was not completed so I
+think he has an interest in you know the project
+
+<ICE-SIN:S1B-067#274:1:B>
+So we were in communication quite a lot as far as technical
+problems
+
+<ICE-SIN:S1B-067#275:1:B>
+And as far as technical problems were concerned when we were faced
+with a technical problem then I would call him up you see
+
+<ICE-SIN:S1B-067#276:1:B>
+Tell me what to do next
+
+<ICE-SIN:S1B-067#277:1:B>
+That kind of thing </I>

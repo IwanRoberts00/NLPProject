@@ -1,0 +1,410 @@
+<I>
+<$A>
+
+<ICE-SIN:S2A-052#1:1>
+Good afternoon
+
+<ICE-SIN:S2A-052#2:1>
+Ah my name is Iris Ching and and I'm the Software Consultants
+
+<ICE-SIN:S2A-052#3:1>
+Welcome you to our this Easy Asset II and Easy Cash seminar
+
+<ICE-SIN:S2A-052#4:1>
+So uh before I explain into our package of uh computerising the Fixed
+Asset which is the first session of the seminar and the second session will
+be on Easy Cash which is the general ledger package plus the cash management
+system session I will like to briefly explain ah what actually how you can
+successfully use our package to computerise your system
+
+<ICE-SIN:S2A-052#5:1>
+Okay uh our system runs mainly all on PC-base and uh you could use a
+IBM compatible PC or running on an MS-DOS system which can be running on
+version five or below and uh it goes on an unlimited databased system okay
+
+<ICE-SIN:S2A-052#6:1>
+Now if you are looking into uh how many of you are actually looking
+into a G/L package over here
+
+<ICE-SIN:S2A-052#7:1>
+Yourself is it
+
+<ICE-SIN:S2A-052#8:1>
+And uh what kind of G/L package you are looking into
+
+<ICE-SIN:S2A-052#9:1>
+A multiuser or a single-user
+
+<ICE-SIN:S2A-052#10:1>
+Single-user
+
+<ICE-SIN:S2A-052#11:1>
+So it's no problem because our system runs on a 
+single-user basis and it has this ah multi passwords whereby you will give you 
+this security purposes and uh what about yourself
+
+<ICE-SIN:S2A-052#12:1>
+Eileen
+
+<ICE-SIN:S2A-052#13:1>
+Not at the moment
+
+<ICE-SIN:S2A-052#14:1>
+Ya I have seen ah in <unclear> word </unclear> and you are also
+looking into Fixed Asset system
+
+<ICE-SIN:S2A-052#15:1>
+You are looking into that
+
+<ICE-SIN:S2A-052#16:1>
+Ah okay this Easy Asset II is a new upgrade or we call it a new
+release version for this year
+
+<ICE-SIN:S2A-052#17:1>
+Previously we know it's known as Easy Asset and the package for this
+one compared to the old version there's a difference is this one goes
+unlimited database
+
+<ICE-SIN:S2A-052#18:1>
+The other version is limit up to a thousand five of records it can
+enter
+
+<ICE-SIN:S2A-052#19:1>
+Now this one goes unlimited so you don't have to worry about the Easy
+Asset II
+
+<ICE-SIN:S2A-052#20:1>
+If you have number on or you call the volume of assets increasing per
+year then you will not have this problem of you know up to a certain limit
+you cannot carry on your system
+
+<ICE-SIN:S2A-052#21:1>
+So okay let me run down this system for you so that you could
+understand better of the features and also the operations of it
+
+<ICE-SIN:S2A-052#22:1>
+Now as you can see this is the introduction whereby it tells you that
+this package is developed by our own company and it's developed in Singapore
+okay specially for the Singapore office but we also cater for oversea office
+because Fixed Asset system is more or less quite uh I should say it's quite
+consistent throughout internationally
+
+<ICE-SIN:S2A-052#23:1>
+The laws of uh supposing like the functions like depreciation by how
+many straight line methods and all that or balancing on reducing balance or
+double declining balance
+
+<ICE-SIN:S2A-052#24:1>
+So it's more or less quite standard in the sense
+
+<ICE-SIN:S2A-052#25:1>
+Okay the first thing you can see that over over your left side if I'm
+going to sit this way it's going to be over my left side the database window
+is goes unlimited database so you can have number of databases there
+
+<ICE-SIN:S2A-052#26:1>
+Does not matter
+
+<ICE-SIN:S2A-052#27:1>
+It can scroll on and on
+
+<ICE-SIN:S2A-052#28:1>
+You have number of companies if you are using just one package to
+control number of companies' assets
+
+<ICE-SIN:S2A-052#29:1>
+So you can just use a macro key and zoom into any one of these
+database that you already built in the system
+
+<ICE-SIN:S2A-052#30:1>
+Okay let's say this is the database that you have put in the system
+call the EA2SAM and you are going into the period
+
+<ICE-SIN:S2A-052#31:1>
+Okay the fiscal period depends on how you identify your fiscal period
+
+<ICE-SIN:S2A-052#32:1>
+Let's say you go into a fiscal period of twelve which is you classify
+that now your fiscal period is December
+
+<ICE-SIN:S2A-052#33:1>
+Okay and you proceed on enter your password
+
+<ICE-SIN:S2A-052#34:1>
+Now your password here allows you you can see it allows you more than
+enough okay
+
+<ICE-SIN:S2A-052#35:1>
+And right over here once you enter into this password you will come
+to the actual main menu and you can start having your computerisation
+
+<ICE-SIN:S2A-052#36:1>
+First of all building the parameter set
+
+<ICE-SIN:S2A-052#37:1>
+Okay under this parameter set you have what you call miscellaneous
+parameters where this is where you set up
+
+<ICE-SIN:S2A-052#38:1>
+Okay you're start off computerisation fiscal period
+
+<ICE-SIN:S2A-052#39:1>
+Is it you're starting as a fiscal period six
+
+<ICE-SIN:S2A-052#40:1>
+Okay let's say it's six is your fiscal period
+
+<ICE-SIN:S2A-052#41:1>
+Now you can see the change automatically over there
+
+<ICE-SIN:S2A-052#42:1>
+The period end date which means your first fiscal period accounting
+month is on June
+
+<ICE-SIN:S2A-052#43:1>
+Thirtieth of June nineteen-ninety-one ending and your last fiscal
+period twelve will be ending thirty-first May nineteen-ninety-two
+
+<ICE-SIN:S2A-052#44:1>
+You do not have to go into that particular parameters to set the date
+
+<ICE-SIN:S2A-052#45:1>
+There is an auto-control
+
+<ICE-SIN:S2A-052#46:1>
+Okay
+
+<ICE-SIN:S2A-052#47:1>
+Now if you set your this first accounting period first fiscal
+accounting period month as one which is January
+
+<ICE-SIN:S2A-052#48:1>
+Now you go and change go right into a company's name you can see that
+it overrides your first fiscal period becomes thirty-first January ninety-one
+and your ending fiscal period twelve is thirty-first December ninety-one
+
+<ICE-SIN:S2A-052#49:1>
+So this is how our system controls over the parameters now if you are
+going into the subsequent years of ninety-two
+
+<ICE-SIN:S2A-052#50:1>
+Okay all you require is you put in the current accounting year which
+is ninety-two
+
+<ICE-SIN:S2A-052#51:1>
+Now you can see over there on the period end-date it has
+automatically change for you to nineteen-ninety-two
+
+<ICE-SIN:S2A-052#52:1>
+Okay
+
+<ICE-SIN:S2A-052#53:1>
+So this is how the computerisation helps you to speed up in certain
+ways of control
+
+<ICE-SIN:S2A-052#54:1>
+And right over here you put in the company's profile which is your
+company's name the address and the other information
+
+<ICE-SIN:S2A-052#55:1>
+Okay
+
+<ICE-SIN:S2A-052#56:1>
+Over here you can see that you will have to enter the standard
+currency
+
+<ICE-SIN:S2A-052#57:1>
+Okay your standard currency can be you can controlled as US dollar as
+your standard company's currency or you use Singapore dollar as a standard
+currency control
+
+<ICE-SIN:S2A-052#58:1>
+So you can enter over here and this means that how many decimal place
+are you giving two decimal or four decimal place
+
+<ICE-SIN:S2A-052#59:1>
+So you can use it over here and all currency name now this one will
+be in US dollar or maybe you want it to be an alternate currency in Malaysian
+dollar or whichever other cur country currencies you want it to be an
+alternate currency
+
+<ICE-SIN:S2A-052#60:1>
+Now the decimal place is up to you to identify and the exchange rate
+is also up to your company's standard company's exchange rate
+
+<ICE-SIN:S2A-052#61:1>
+And over here the you will also have this what you call the capital
+allowances whether you are allowing the capital allowance less initial amount
+or full amount
+
+<ICE-SIN:S2A-052#62:1>
+So it's up to you to set the parameters over here
+
+<ICE-SIN:S2A-052#63:1>
+Now your full-year depreciation or prorated when we talk about
+full-year depreciation means you're taking a full-year depreciation to equal
+so that you will divide by twelve month
+
+<ICE-SIN:S2A-052#64:1>
+Your depreciation will be spread out equally okay for the twelve
+months
+
+<ICE-SIN:S2A-052#65:1>
+Let's said if one asset is twelve thousand so you use full-year
+you're spread out twelve thousand divide by twelve equals to one thousand per
+month
+
+<ICE-SIN:S2A-052#66:1>
+That will be the depreciation amount
+
+<ICE-SIN:S2A-052#67:1>
+Now if you are taking a pro-rate it means it will pro-rate
+accordingly by the month so you will pro-rate for example by the date that
+you acquire starts
+
+<ICE-SIN:S2A-052#68:1>
+Okay you depreciate according to that date and you pro-rate
+accordingly by rounding up the amount that is to certain months
+
+<ICE-SIN:S2A-052#69:1>
+So this is the method that you could identify over here in the
+parameters
+
+<ICE-SIN:S2A-052#70:1>
+Now spaces between labels is up to you to identify what type of
+labels you are actually using to print numeric the asset labels for your
+company and you also have the audit <unclear> word </unclear> and right over
+here you have the location of DOS location of document custom
+
+<ICE-SIN:S2A-052#71:1>
+Now this location means a lot of people ask what is this location
+means Now this location means you can actually default okay in the C drive or
+D drive accordingly or you can have it set a default into the A drive by
+putting this function in this odd manner and under this directory okay and
+the file name or whatever will be default in the A drive or C drive or D
+drive
+
+<ICE-SIN:S2A-052#72:1>
+Okay if you set it you set it this way and right over here let me
+take this out for you okay
+
+<ICE-SIN:S2A-052#73:1>
+Now right over here you can see that there are a number of colours
+for you to select
+
+<ICE-SIN:S2A-052#74:1>
+Two hundred and fifty-five colours
+
+<ICE-SIN:S2A-052#75:1>
+So you can if you feel tired of any of the colours you want to play
+around with other colours you can just switch over with the help of this box
+colour here
+
+<ICE-SIN:S2A-052#76:1>
+Now right over here will be your set-up of the column paper width
+
+<ICE-SIN:S2A-052#77:1>
+Okay now if you are using a printer which is eighty column width then
+you identify as eighty okay
+
+<ICE-SIN:S2A-052#78:1>
+If you are using a printer that is for printing of hundred and
+thirty-two column width paper you can override this eighty column to hundred
+and thirty-two column width
+
+<ICE-SIN:S2A-052#79:1>
+So this will enables you to set accordingly to your company's printer
+configurations and it has this special condensed intelligence of the reports
+
+<ICE-SIN:S2A-052#80:1>
+Uh the modes for you for example if the reports exceed hundred and
+thirty-two which is for the eighty column width it come to hundred and
+thirty-two maximum
+
+<ICE-SIN:S2A-052#81:1>
+Now the system will condense the reports automatically for you
+without having you to set the kind of condense mode
+
+<ICE-SIN:S2A-052#82:1>
+Okay now if you save this parameter and you only do it once you don't
+want to come back and change and change again you only change it every
+beginning of the year and okay the next step you go is the update of codes
+
+<ICE-SIN:S2A-052#83:1>
+Now you may a codes for category the supplier code country subgroup
+location G\L account number and you may have cost centre number and let's go
+into one of this
+
+<ICE-SIN:S2A-052#84:1>
+Okay let me go into the category I'll show it to you
+
+<ICE-SIN:S2A-052#85:1>
+Now under this category code you may want to identify you may want to
+identify a certain code
+
+<ICE-SIN:S2A-052#86:1>
+Now this code is four limit to four alphanumeric code
+
+<ICE-SIN:S2A-052#87:1>
+You can have E001 or something else that you like to call or EA01 or
+you can even identify this way all in alpha but it's four alphanumeric
+
+<ICE-SIN:S2A-052#88:1>
+Okay now from here the description is up to you to identify what you
+want to call Fixed Asset okay equipment you may call an equipment
+
+<ICE-SIN:S2A-052#89:1>
+Now the next one you may want to call something like FF which is
+Fixtures and Fitting okay and you may want to fix up this one as this
+description
+
+<ICE-SIN:S2A-052#90:1>
+So let's save this one into the window so you will have what you call
+uh FF code and it's the description is considered as Fixtures and Fittings
+okay
+
+<ICE-SIN:S2A-052#91:1>
+After this you may want to continue okay updating or creating the
+other codes
+
+<ICE-SIN:S2A-052#92:1>
+Now you don't have to get out of this windows
+
+<ICE-SIN:S2A-052#93:1>
+All you need is just press and F five key which is the macro key to
+help you to select into the others build a supplier code and or go into a
+country okay to establish at the other codes for you
+
+<ICE-SIN:S2A-052#94:1>
+Okay let's say you want to build another country codes like uh
+Malaysia
+
+<ICE-SIN:S2A-052#95:1>
+So you just key in M one it can be alphanumeric also and you put
+Malaysia okay
+
+<ICE-SIN:S2A-052#96:1>
+So this one will enable you to carry on okay building doing all the
+other codes without having to to be out of this function
+
+<ICE-SIN:S2A-052#97:1>
+Now you can also go into cost centre and then start building your
+cost centre codes and descriptions
+
+<ICE-SIN:S2A-052#98:1>
+So if you have completely okay set up the parameters for all this you
+can just come out of this function and go into the printing modes
+
+<ICE-SIN:S2A-052#99:1>
+Now you can print all this that you already actually set up the table
+codes okay and right here system passwords
+
+<ICE-SIN:S2A-052#100:1>
+After having all this set up you can go into what you call a system
+password where you can just build a system password for a certain level of
+people <X>
+
+<ICE-SIN:S2A-052#X101:1>
+You can have master you can have the other stock levels so that
+only certain level of people can get assess to certain functions only </X>
+</I>

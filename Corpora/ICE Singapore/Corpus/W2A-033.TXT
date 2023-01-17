@@ -1,0 +1,577 @@
+<I>
+
+<ICE-SIN:W2A-033#1:1>
+<h> UNDESIRABLE PERORMANCE OF CONCRETE STRUCTURES </h>
+
+<ICE-SIN:W2A-033#2:1>
+Dr Leong Tuck Wah
+
+<ICE-SIN:W2A-033#3:1>
+School of Building & Estate Management
+
+<ICE-SIN:W2A-033#4:1>
+National University of Singapore
+
+<ICE-SIN:W2A-033#5:1>
+Singapore 0511
+
+<ICE-SIN:W2A-033#6:1>
+Keywords: structures, concrete, performance, strength, serviceability,
+durability, defects, maintenance
+
+<ICE-SIN:W2A-033#7:1>
+<h> Abstract </h>
+
+<ICE-SIN:W2A-033#8:1>
+The unsatisfactory performance of reinforced and prestressed concrete
+structures is emphasized in this article.
+
+<ICE-SIN:W2A-033#9:1>
+The causes and symptoms of defects in buildings in association with
+these undesirable performance are identified and appropriated remedial action
+are prescribed to allow or to prevent the occurrence of such defects.
+
+<ICE-SIN:W2A-033#10:1>
+<h> Introduction </h>
+
+<ICE-SIN:W2A-033#11:1>
+Structure is the part of a building responsible for the bearing and
+transmission of loads.
+
+<ICE-SIN:W2A-033#12:1>
+It is generally analogous to the skeleton which carries a human body.
+
+<ICE-SIN:W2A-033#13:1>
+Considering the numbers of buildings which had been successfully
+designed, constructed and remained functionable until to-date, there were
+relatively few known cases of failures.
+
+<ICE-SIN:W2A-033#14:1>
+Indeed, any failure, particularly accompanied with losses of lives
+and properties, frequently caused intensive public outcry irrespective of
+whether it was an act of nature or due to human negligence.
+
+<ICE-SIN:W2A-033#15:1>
+Although structural concrete is a relatively durable form of
+construction, the material in its constituent forms ie concrete and steel,
+are, by all means, not entirely maintenance free.
+
+<ICE-SIN:W2A-033#16:1>
+Comparing to steel structures, there have been relatively more cases
+of unsatisfactory performance of concrete structures during and after the
+completions of the construction works.
+
+<ICE-SIN:W2A-033#17:1>
+In some newly completed structures, strengthening and stiffening
+works are required to eliminate defects caused by errors of design and
+constructions.
+
+<ICE-SIN:W2A-033#18:1>
+Whilst in some other cases, major and minor repairing works have to
+be undertaken to counteract the effects of normal deterioration.
+
+<ICE-SIN:W2A-033#19:1>
+It is also not uncommon that specialised techniques of strengthening,
+stiffening and repair are used to restore damages produced by unforeseeable
+events, such as those caused by accidents, eg fires, floods, impact and earth
+movements.
+
+<ICE-SIN:W2A-033#20:1>
+The diagnosis and prescription of corrective works for a concrete
+structure requires that its defects and unsatisfactory performance to be
+detected early so that such work can be well planned and designed.
+
+<ICE-SIN:W2A-033#21:1>
+It would be better if such undesirable qualities of the structure can
+be foreseen and predicted even before the construction.
+
+<ICE-SIN:W2A-033#22:1>
+Nevertheless, the knowledge gained from the pathology of failures and
+from those unsatisfactory performance of concrete structures will serve as
+feedback and lessons for all personnel working in the building industry.
+
+<ICE-SIN:W2A-033#23:1>
+It is ultimately expected that with such feedback and hard earned
+lessons, disasters of the same natures will not be repeated in the future.
+
+<ICE-SIN:W2A-033#24:1>
+Types and causes of unsatisfactory performance of concrete structures
+Basically a well planned, design and constructed structure shall be capable
+to carry loads without causing excessive deformations, deflections whilst
+maintaining its overall stability over a certain defined time period.
+
+<ICE-SIN:W2A-033#25:1>
+In addition, it must also be capable to maintain, throughout its
+defined period of service, a track record of durability so that the
+architectural appearance and functions shall not be adversely affected.
+
+<ICE-SIN:W2A-033#26:1>
+From these above requirements the undesirable performance of concrete
+structures can be classified according to the respective causes, ie
+
+<ICE-SIN:W2A-033#27:1>
+( 1) Inadequate load carrying capacity,
+
+<ICE-SIN:W2A-033#28:1>
+( 2) Unreliable serviceability and
+
+<ICE-SIN:W2A-033#29:1>
+( 3) Reduction in durability.
+
+<ICE-SIN:W2A-033#30:1>
+However, the various exhibited symptoms of defects, generally need
+further specific classifications.
+
+<ICE-SIN:W2A-033#31:1>
+On the building structures, it is only the exhibited symptoms of
+defects which provide the clues for the diagnosis.
+
+<ICE-SIN:W2A-033#32:1>
+the various defects commonly occur in concrete structures (
+reinforced and prestressed) are listed as follows:
+
+<ICE-SIN:W2A-033#33:1>
+( 1) Cracks in concrete
+
+<ICE-SIN:W2A-033#34:1>
+( 2) Spalling of concrete
+
+<ICE-SIN:W2A-033#35:1>
+( 3) Swelling and discolouration ( 4) Erosion of concrete surface
+
+<ICE-SIN:W2A-033#36:1>
+( 5) Corrosion of steel
+
+<ICE-SIN:W2A-033#37:1>
+( 6) Yielding and snapping of steel
+
+<ICE-SIN:W2A-033#38:1>
+( 7) Excessive deflection of members
+
+<ICE-SIN:W2A-033#39:1>
+( 8) Debonding between concrete and steel
+
+<ICE-SIN:W2A-033#40:1>
+Sometimes the defects shown on a structure may not be due to just one
+cause.
+
+<ICE-SIN:W2A-033#41:1>
+Instead, it can be the result of a combination of causes.
+
+<ICE-SIN:W2A-033#42:1>
+On the other hand, it is also possible that a similar symptom of
+defect eg cracking can be the only exhibited clue shown in one or all the
+three categories of undesirable performance of several reinforced or
+prestressed concrete structures.
+
+<ICE-SIN:W2A-033#43:1>
+Because of the above complexities, it makes the diagnosis and
+retrospective analysis ( or the pathology) of the unsatisfactory performance
+of concrete structures more difficult.
+
+<ICE-SIN:W2A-033#44:1>
+Undesirable Performance Due to Inadequate Load Carrying Capacities of
+Structures Design and detailing errors including,
+
+<ICE-SIN:W2A-033#45:1>
+( 1) the under estimations of loads
+
+<ICE-SIN:W2A-033#46:1>
+( 2) the over estimation in strengths and stiffness
+
+<ICE-SIN:W2A-033#47:1>
+( 3) the use of inaccurate or inappropriate methods of structural
+analyses and designs
+
+<ICE-SIN:W2A-033#48:1>
+( 4) the incorrect transmission of information to the drawings
+erroneous detailings can result in inadequate load carrying capacities of the
+structures.
+
+<ICE-SIN:W2A-033#49:1>
+Similar situations can also arise when,
+
+<ICE-SIN:W2A-033#50:1>
+( 6) there are abused usages of the buildings and structures (
+including cases of overloading during constructions)
+
+<ICE-SIN:W2A-033#51:1>
+( 7) the structures are being subjected to unexpected loads, or
+
+<ICE-SIN:W2A-033#52:1>
+( 8) there are unexpected circumstances where a severe loss occur in
+the structural strength.
+
+<ICE-SIN:W2A-033#53:1>
+An under-designed or overloaded concrete structure will continue to
+carry load until collapse in approximately the following orders:
+
+<ICE-SIN:W2A-033#54:1>
+( a) redistribution of loads ( three dimensional) over its entire
+structure whilst showing off distressing symptoms of inadequacies
+
+<ICE-SIN:W2A-033#55:1>
+( b) changes in structural actions eg from beam action to catenary
+action or arch action ( depending on the designing details and the
+developments of defects)
+
+<ICE-SIN:W2A-033#56:1>
+( c) severe yielding of steel or spalling of concrete occur leading
+to the formations of plastic hinges ( d) a mechanism is developed which can
+cause imminent collapse.
+
+<ICE-SIN:W2A-033#57:1>
+It is important to note that before its collapse the resistance of
+the structure must gain equilibrium with the effects of the imposed loads.
+
+<ICE-SIN:W2A-033#58:1>
+If the increase in loads has exceeded the strength of the structure,
+it will be a miracle that it is not going to collapse.
+
+<ICE-SIN:W2A-033#59:1>
+It is well known to engineers that the strength of concrete has been
+frequently referred to that at its age of 28 days ( ie the graded strength).
+
+<ICE-SIN:W2A-033#60:1>
+Hence under normal time gain and through further hydration, the long
+term strength of concrete shall be higher than such graded strength.
+
+<ICE-SIN:W2A-033#61:1>
+Whilst such concept is true for concrete cured under control
+environment, such gain in strength is unreliable in the case of structural
+concrete.
+
+<ICE-SIN:W2A-033#62:1>
+Under sustained dead and imposed loads, creep of concrete causes an
+approximately similar ( if not more) margin of reduction to the long term
+strength for structural concrete.
+
+<ICE-SIN:W2A-033#63:1>
+Evidence of such reductions can be seen in reference ( 1).
+
+<ICE-SIN:W2A-033#64:1>
+Although there had been many cases of total collapses in concrete
+structures there were even more cases where the collapses involved only a
+relatively large area or volume of the respective building ie a wide spread
+collapse.
+
+<ICE-SIN:W2A-033#65:1>
+More often, such wide spread collapses were tickled off by local
+failures from an under-designed or severely defected key member.
+
+<ICE-SIN:W2A-033#66:1>
+It is also possible that the sudden loss of one key structural member
+can, in turn, cause a chain reaction or a house of cards or domino collapse
+of a large portion of a structure.
+
+<ICE-SIN:W2A-033#67:1>
+Such collapse usually follows the successive losses of all load
+bearing members along a certain load path as well as members adjacent to such
+areas.
+
+<ICE-SIN:W2A-033#68:1>
+Under such circumstances, the collapse of one floor comes immediately
+after another.
+
+<ICE-SIN:W2A-033#69:1>
+This type of failure is known as progressive collapse.
+
+<ICE-SIN:W2A-033#70:1>
+Cases of total collapses, wide spread collapse, local collapse and
+progressive collapse can be seen in reference ( 2,3,4).
+
+<ICE-SIN:W2A-033#71:1>
+Unreliable Serviceability Excessive cracking, spalling and
+deflections or buckling which adversely affect the appearance or efficiency
+of structures are generally regarded as undesirable qualities.
+
+<ICE-SIN:W2A-033#72:1>
+In a concrete building these qualities do not confine within the
+construction period and the period immediately after completion of the
+construction works.
+
+<ICE-SIN:W2A-033#73:1>
+The short term ( elastic) deformations or deflections usually proceed
+onto the time-dependent phase of developments.
+
+<ICE-SIN:W2A-033#74:1>
+Deformations can be caused by compressive or tensile loads or by
+changes in the environment ( ie temperature and shrinkage).
+
+<ICE-SIN:W2A-033#75:1>
+If the deformations occurring in the critical sections of a member
+are approximately uniform, there is not much deflection.
+
+<ICE-SIN:W2A-033#76:1>
+Instead, if the corresponding stresses built up in the section have
+exceeded the compressive strength of concrete ( after load redistributions)
+the concrete starts to spall.
+
+<ICE-SIN:W2A-033#77:1>
+If, however, there is great differential deformations ( in particular
+of different sign notations) and occurring over the total depths of the
+member sections, deflections cause unwanted cracking in concrete.
+
+<ICE-SIN:W2A-033#78:1>
+Thus in structural mechanics, deformations and spalling or
+deformations, deflections and cracking are generally considered as phenomena
+of consequential orders.
+
+<ICE-SIN:W2A-033#79:1>
+Concrete cracks when the stresses it carries or in transmission have
+exceeded its tensile strength.
+
+<ICE-SIN:W2A-033#80:1>
+The following can be the contributory causes toward tensile cracking
+in a concrete structures:
+
+<ICE-SIN:W2A-033#81:1>
+( 1) differential foundation settlement
+
+<ICE-SIN:W2A-033#82:1>
+( 2) lateral ground movement and heaving
+
+<ICE-SIN:W2A-033#83:1>
+( 3) severe changes in temperature and shrinkage
+
+<ICE-SIN:W2A-033#84:1>
+( 4) overloading and underdesign of the structure
+
+<ICE-SIN:W2A-033#85:1>
+( 5) errors in construction and poor workmanship ( while casting
+concrete)
+
+<ICE-SIN:W2A-033#86:1>
+( 6) Erroneous designing-details
+
+<ICE-SIN:W2A-033#87:1>
+( 7) abused usage or change in use of the building
+
+<ICE-SIN:W2A-033#88:1>
+( 8) unexpected loading
+
+<ICE-SIN:W2A-033#89:1>
+( 9) insufficient provision or omission of control joints
+
+<ICE-SIN:W2A-033#90:1>
+( 10) aging and deterioration in concrete causing reduction in its
+strength.
+
+<ICE-SIN:W2A-033#91:1>
+Deformations resulting in the spalling of concrete ( particularly
+those occurring) in columns or load bearing walls shall be investigated with
+utmost care.
+
+<ICE-SIN:W2A-033#92:1>
+Such symptoms of defects are similar to those undesirable structural
+performance due to severe overloading conditions.
+
+<ICE-SIN:W2A-033#93:1>
+Deflections and cracks are generally unavoidable in concrete
+structures.
+
+<ICE-SIN:W2A-033#94:1>
+However, these defects normally occur in one or more critical section
+in the structure or structural members.
+
+<ICE-SIN:W2A-033#95:1>
+Although as a whole, cracking normally does not result in structural
+failures, undoubtedly, it can cause a definite loss of performance.
+
+<ICE-SIN:W2A-033#96:1>
+A redistribution of the loading can occur in a structure due to the
+reduction in stiffness in the partially cracked members.
+
+<ICE-SIN:W2A-033#97:1>
+Severe redistribution of loads can in turn cause overloading together
+with reductions in the factors of safety in basically underloaded members.
+
+<ICE-SIN:W2A-033#98:1>
+Cracking also accelerates deterioration from moisture penetration
+thereby rendering a building structure unserviceable for its original purpose
+and consequently reducing its service life.
+
+<ICE-SIN:W2A-033#99:1>
+Excessive deflections or bucklings are usually the main concern on
+the instability of a building structure.
+
+<ICE-SIN:W2A-033#100:1>
+Local instability can result in global instability and failure
+can-occur.
+
+<ICE-SIN:W2A-033#101:1>
+Examples of such failure ( or close to failure) can be seen in
+references 2 and 3.
+
+<ICE-SIN:W2A-033#102:1>
+<h> Reduction in Durability </h>
+
+<ICE-SIN:W2A-033#103:1>
+There are many circumstances whereby a concrete structure gradually
+loses its required strength, impermeability and other similar types of
+important properties.
+
+<ICE-SIN:W2A-033#104:1>
+These result in reductions of the structures' service lives.
+
+<ICE-SIN:W2A-033#105:1>
+The main reasons can be,
+
+<ICE-SIN:W2A-033#106:1>
+( 1) inappropriate concrete mixes used in the construction
+
+<ICE-SIN:W2A-033#107:1>
+( 2) poor workmanship
+
+<ICE-SIN:W2A-033#108:1>
+( 3) concrete cast from contaminated constituent materials (
+including contaminated water and inappropriate types of admixtures)
+<&dollar;> ( 4) weathering and aging
+
+<ICE-SIN:W2A-033#109:1>
+ ( 5) carbonations and corrosions
+
+<ICE-SIN:W2A-033#110:1>
+ ( 6) aggressions by chemical or/and biological agents
+
+<ICE-SIN:W2A-033#111:1>
+ ( 7) abrasion and surface erosion
+
+<ICE-SIN:W2A-033#112:1>
+ ( 8) lack of considerations in drainage, wearing surface and
+structural-cladding interaction etc.
+
+<ICE-SIN:W2A-033#113:1>
+ The symptoms of defects exhibited on the concrete structures are
+viz., swelling, discolourations, cracking, spalling in the concrete, rusts in
+the steel bars and disintegration between concrete and steel.
+
+<ICE-SIN:W2A-033#114:1>
+ Durability problem does not surface immediately after the
+completions of the construction works.
+
+<ICE-SIN:W2A-033#115:1>
+ It appears gradually over a certain time period.
+
+<ICE-SIN:W2A-033#116:1>
+ Its rate of development depends primarily on:
+
+<ICE-SIN:W2A-033#117:1>
+ ( 1) the original strength, porosity and related properties
+
+<ICE-SIN:W2A-033#118:1>
+ ( 2) the chance of concrete exposes to certain environmental
+influence ( such as water or pollutants) or comes in contact with some
+chemical or biological agents or being subjected to natural or physical wear
+and tear actions.
+
+<ICE-SIN:W2A-033#119:1>
+ Inadequate provisions of drainage gradients, wearing surfaces or
+the inappropriate choices on architectural and M and E cladding, fitting,
+fixing materials ( with incompatible properties) only accelerate the early
+deterioration and decaying processes.
+
+<ICE-SIN:W2A-033#120:1>
+ In a majority of cases chemical or biological aggressions commence
+from the surfaces of the concrete structures.
+
+<ICE-SIN:W2A-033#121:1>
+ These can be identified early by experienced investigators or
+maintenance personnel.
+
+<ICE-SIN:W2A-033#122:1>
+ Samples of defected concrete in the damaged areas can be collected
+and forwarded for tests in order to gain confirmations of such chemical
+or/and biological attacks.
+
+<ICE-SIN:W2A-033#123:1>
+ The worst cases consist of concrete cast with contaminated
+aggregates or chemical salts ( in particular, alkali reactive aggregates).
+
+<ICE-SIN:W2A-033#124:1>
+ The latent defects may not show off until the disintegrations in
+concrete have reached the surfaces of the structures.
+
+<ICE-SIN:W2A-033#125:1>
+ By then, large areas of the concrete structures could have already
+been affected.
+
+<ICE-SIN:W2A-033#126:1>
+ Since the disintegration of concrete occurs within the concrete
+and much depending on the chances in which the chemical salts turn into
+solutions and in turn react with the concrete, such damages formed at early
+stages may not be easily detected. <X>
+
+<ICE-SIN:W2A-033#X127:1>
+ This type of undesirable behaviour of concrete is, to a large
+extent, analogous to the development of cancer in human being.
+
+<ICE-SIN:W2A-033#X128:1>
+ Thus it is popularity known as concrete cancer.
+
+<ICE-SIN:W2A-033#X129:1>
+ If concrete cancer is discovered in a rather late stage the cost
+efficiency of repair and replacement of large area and volume of concrete may
+made in uneconomical compare to demolishing the structure and rebuild.
+
+<ICE-SIN:W2A-033#X130:1>
+ <h> Remedial Actions </h>
+
+<ICE-SIN:W2A-033#X131:1>
+ Prevention is always better than cure.
+
+<ICE-SIN:W2A-033#X132:1>
+ The effective means of prevention is to be able to foresee or
+predict the occurrence of such undesirable performance of the structure.
+
+<ICE-SIN:W2A-033#X133:1>
+ Design errors and detailing errors may be able to be eliminated
+or minimized by the accredited checker's scheme implement by the Building
+Control Division since 1st of May 1989.
+
+<ICE-SIN:W2A-033#X134:1>
+ As to the maintenance of concrete buildings for the long term
+serviceability and durability it must emphasize herewith that preventive
+maintenance cannot wait to commence work until cases of unsatisfactory
+performance of a structure occur.
+
+<ICE-SIN:W2A-033#X135:1>
+ Rather, such a scheme shall be incorporated at a stage as early
+as possible, preferable at the planning and design stages of the project.
+
+<ICE-SIN:W2A-033#X136:1>
+ The proper choices of materials together with the implementation
+of an efficient system of quality control and assurance throughout the
+construction period may help to reduce future maintenance work to a minimum.
+
+<ICE-SIN:W2A-033#X137:1>
+ However, no material is inert to physical wear and tear whilst
+immune to deterioration and chemical attacks.
+
+<ICE-SIN:W2A-033#X138:1>
+ Periodical inspections and repairs on defected parts of
+structures are still required for its constant restoration.
+
+<ICE-SIN:W2A-033#X139:1>
+ These will ensure the continuous serviceability and durability of
+such structure throughout its designed life span.
+
+<ICE-SIN:W2A-033#X140:1>
+ A maintenance scheme emphasizing such an Integrated approach for
+the maintenance of concrete structure can be seen in ( 5).
+
+<ICE-SIN:W2A-033#X141:1>
+ <h> Conclusions </h>
+
+<ICE-SIN:W2A-033#X142:1>
+ Undesirable performance of concrete structures can occur if the
+structures have processed inadequate load carrying capacities, unreliable
+serviceability and reduction in durabilities.
+
+<ICE-SIN:W2A-033#X143:1>
+ Design and detailing errors, erroneous constructions, abused
+usages or change in usages, unexpected loading conditions, aging and
+weathering decays of the materials, chemical and biological aggressions, the
+lack of considerations of the compatibilities of combining architectural, M
+and E and structural materials as well as the act of nature can each or all
+contribute one way or the other towards such unwelcome results. </X> </I>

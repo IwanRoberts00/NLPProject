@@ -1,0 +1,519 @@
+<I>
+
+<ICE-SIN:W2A-025#1:1>
+<h> THE CONCISE FLORA OF SINGAPORE - GYMNOSPERMS AND DICOTYLEDONS </h>
+
+<ICE-SIN:W2A-025#2:1>
+<h> INTRODUCTION </h>
+
+<ICE-SIN:W2A-025#3:1>
+Singapore consists of a transversely rhomboid main island of slightly
+over 570 sq km and more than 50 smaller adjacent islands and islets of
+various sizes.
+
+<ICE-SIN:W2A-025#4:1>
+Three largest adjacent islands are: Pulau Tekong Besar ( 17.5 sq km),
+Pulau Ubin ( 10.1 sq km) and Pulau Sentosa ( 3.5 sq km).
+
+<ICE-SIN:W2A-025#5:1>
+Some of these islands and islets have been enlarged by reclamation in
+recent years, as has the main island ( Tan 1987).
+
+<ICE-SIN:W2A-025#6:1>
+Singapore is located between latitude 1&degree;09' N and 1&degree;29' N.
+
+<ICE-SIN:W2A-025#7:1>
+The climate, as expected, is equatorial and is characterized by high
+temperatures, a large amount of rainfall and high humidity.
+
+<ICE-SIN:W2A-025#8:1>
+The average daily maximum temperature is 30.7&degree;C which occurs in the
+afternoon, and minimum of 23&degree;C shortly before dawn.
+
+<ICE-SIN:W2A-025#9:1>
+The average annual rainfall is 2,370 mm, distributed throughout the
+year.
+
+<ICE-SIN:W2A-025#10:1>
+Relative humidity often exceeds 90 per cent at night and in the early
+morning, and is between 65-70 per cent in the dry afternoon.
+
+<ICE-SIN:W2A-025#11:1>
+The presence of the southeast Asian monsoon winds breaks the somewhat
+seasonal uniformity ( Nieuwolt 1973).
+
+<ICE-SIN:W2A-025#12:1>
+November to January, during the northwest monsoon is slightly cooler
+and with higher rainfall.
+
+<ICE-SIN:W2A-025#13:1>
+While May to August, during the southeast monsoon, on the other hand,
+usually is hotter and with lower rainfall.
+
+<ICE-SIN:W2A-025#14:1>
+Geologically, the island of Singapore is composed of two basic types
+of rocks, namely sedimentary and igneous.
+
+<ICE-SIN:W2A-025#15:1>
+The ancient sedimentary rocks of the Triassic Jurassic period in the
+forms of shale, sandstone and conglomerate, occur in the western and southern
+parts of the island.
+
+<ICE-SIN:W2A-025#16:1>
+Granite and associated igneous rocks of post-Jurassic period are
+found in the central and northern, and also in the northeastern parts of the
+island.
+
+<ICE-SIN:W2A-025#17:1>
+Semi-hardened 'Old alluvium' of early Pleistocene age, which consists
+of coarse sands with clay and well-rounded pebbles and boulders, covers much
+of eastern Singapore.
+
+<ICE-SIN:W2A-025#18:1>
+Recent sediments form a thin layer in isolated patches spreading over
+much of the coastal area and in river valleys and lowlands ( Hill 1973).
+
+<ICE-SIN:W2A-025#19:1>
+The highest point is at the peak of Bukit Timah ( 165 m) which is
+near the centre of the main island, and like its surrounding hills, is formed
+by granite.
+
+<ICE-SIN:W2A-025#20:1>
+It is generally conceived that the island of Singapore was originally
+covered with dense lowland rain forests except along its muddy estuaries and
+sandy stretches in the coastal areas ( Ridley 1900).
+
+<ICE-SIN:W2A-025#21:1>
+Shortly after the arrival of Sir Stamford Raffles in 1819, J
+Crawfurd, in 1829, witnessed that the island had the unvarying aspect of one
+continuous forest with no marked elevation from a distance ( Burkill 1959).
+
+<ICE-SIN:W2A-025#22:1>
+Barely 70 years later, Ridley ( 1900) reported that a great deal of
+the forest was felled, partly for the value of the timber and partly for
+cultivation of several introduced crops of economic importance.
+
+<ICE-SIN:W2A-025#23:1>
+These included nutmeg, cloves, cocoa, coffee, pepper, gambier (
+Uncaria gambir), etc.
+
+<ICE-SIN:W2A-025#24:1>
+Owing either to serious plant diseases ( eg nutmeg blight and coffee
+leaf rust), or to the exhaustion of soils ( eg the result of gambier
+cultivation) or other reasons, a large portion of this cleared ground was
+later abandoned and became covered with lalang ( Imperata cvlindrica) and
+other grasses and sedges.
+
+<ICE-SIN:W2A-025#25:1>
+Every year some primary forests disappeared and more wastelands were
+created.
+
+<ICE-SIN:W2A-025#26:1>
+The indigenous flora was extensively and severely damaged during the
+second half of the nineteenth and the beginning of this century.
+
+<ICE-SIN:W2A-025#27:1>
+With the gradual process of improvement of the physical and chemical
+properties of the depleted soil, a succession of plants - first herbs and
+shrubs and then trees - were slowly established.
+
+<ICE-SIN:W2A-025#28:1>
+A common type of secondary forest, locally called Adinandra belukar (
+Holttum 1954), with Adinandra dumosa of the Theaceae as the dominant tree
+species, developed.
+
+<ICE-SIN:W2A-025#29:1>
+As populations keep expanding, land utilisation becomes more
+intensive.
+
+<ICE-SIN:W2A-025#30:1>
+Rapid progress has been made during the last two decades (
+1960s-80s), especially, in urbanisation and industrialisation.
+
+<ICE-SIN:W2A-025#31:1>
+Many of the new towns and factories were built upon the land once
+covered with lallang or by secondary forests.
+
+<ICE-SIN:W2A-025#32:1>
+Mangrove forests at Kranji and Ulu Pandan were partly or totally
+cleared respectively.
+
+<ICE-SIN:W2A-025#33:1>
+Only a few areas in Singapore have never been cleared for cultivation
+and thus more or less retain the original primary forest.
+
+<ICE-SIN:W2A-025#34:1>
+The most notable one is the Bukit Timah forest.
+
+<ICE-SIN:W2A-025#35:1>
+It was on the recommendation of NC Cantley in 1882, then
+Superintendent of the Singapore Botanic Gardens, that several forest reserves
+were demarcated on the island over the next few years.
+
+<ICE-SIN:W2A-025#36:1>
+Bukit Timah was the first forest reserve that was established as
+early as 1883 ( Burkid, 1959).
+
+<ICE-SIN:W2A-025#37:1>
+The Nature Reserves Ordinance was passed in 1951, and in 1971, the
+Nature Reserves Act came into being.
+
+<ICE-SIN:W2A-025#38:1>
+The Nature Reserves Board is charged with the responsibility of
+preserving the natural fauna and flora within the reserves.
+
+<ICE-SIN:W2A-025#39:1>
+The total area of the reserves at present according to the Annual
+Report, Ministry of National Development, 1984, is estimated at about 2000
+ha.
+
+<ICE-SIN:W2A-025#40:1>
+The maintenance and upkeep of the Bukit Timah Nature Reserve and
+Labrador Park comes under the administration of the Parks and Recreations
+Department.
+
+<ICE-SIN:W2A-025#41:1>
+The central Water Catchment Area, which is the largest nature
+reserve, is maintained by the Public Utilities Board.
+
+<ICE-SIN:W2A-025#42:1>
+Since the island of Singapore is separated from the Malay Peninsula
+merely by the narrow Straits of Johor, the flora of Singapore naturally is an
+extension of that of the southern part of the Peninsula.
+
+<ICE-SIN:W2A-025#43:1>
+The first list of the seed plants of Singapore and adjacent islands,
+entitled 'The Flora of Singapore', was compiled by Ridley ( 1900).
+
+<ICE-SIN:W2A-025#44:1>
+Supplementary notes appeared one year later ( Ridley 1901).
+
+<ICE-SIN:W2A-025#45:1>
+Subsequently, two separate lists entitled 'List of Dicotyledons in
+Syonan' and 'List of Monocotyledons in Syonan' were compiled by the staff of
+the Botanical Gardens, Singapore, during the Japanese Occupation ( 1942-45).
+
+<ICE-SIN:W2A-025#46:1>
+These two latter lists were never published, but the typed
+manuscripts were preserved in the Gardens.
+
+<ICE-SIN:W2A-025#47:1>
+'An Annotated List of Seed Plants of Singapore' has been compiled by
+the present author and published in instalments in the Gardens' Bulletin,
+Singapore.
+
+<ICE-SIN:W2A-025#48:1>
+The first ten parts ( Keng 1973-86) cover the Gymnosperms and
+Dicotyledons native to and commonly found in Singapore.
+
+<ICE-SIN:W2A-025#49:1>
+It forms the nucleus of the present book, although numerous additions
+and corrections are incorporated, brief family descriptions are added, and
+several parts have been rewritten.
+
+<ICE-SIN:W2A-025#50:1>
+Manuscript for the companion volume on Monocotyledons is planned to
+be ready in few years' time.
+
+<ICE-SIN:W2A-025#51:1>
+A computation of the plants listed in this volume yields the
+following preliminary results.
+
+<ICE-SIN:W2A-025#52:1>
+Apart from the commonly cultivated and naturalised plants, there are
+3 families, 3 genera and 8 species of Gymnosperms, and 125 families, 574
+genera and 1,285 species of Dicotyledons native to Singapore.
+
+<ICE-SIN:W2A-025#53:1>
+A fuller picture will emerge when the enumeration of Monocotyledons
+is completed.
+
+<ICE-SIN:W2A-025#54:1>
+Nevertheless, in view of the small size of the island, the flora must
+be considered as among the richest in the world.
+
+<ICE-SIN:W2A-025#55:1>
+The 10 largest dicotyledonous families in Singapore in the order of
+their sizes ( that is, the number of species) are as follows. <X>
+
+<ICE-SIN:W2A-025#X56:1>
+Families No.of Genera No.of Species Rubiaceae 41 125 Euphorbiaceae
+37 109 Leguminosae 30 66 Moraceae 5 59 Annonaceae 20 55 Lauraceae 12 42
+Myrtaceae 6 41 Melastomataceae 12 32 Apocynaceae 17 31 Verbenaceae 11 26 </X>
+
+<ICE-SIN:W2A-025#57:1>
+Some of the largest genera are: Ficus ( Moraceae), 43 species;
+Eugenia ( Myrtaceae), 35 species; Calophyllum ( Guttiferae), 17 species;
+Baccaurea ( Euphorbiaceae), 14 species; Elaeocarpus ( Tiliaceae), 14 species;
+Lasianthus ( Rubiaceae), 13 species; and Piper ( Piperaceae), 13 species.
+
+<ICE-SIN:W2A-025#58:1>
+Ridley ( 1900) in his enumeration Singapore plants marked 12 species
+of dicotyledons with asterisks as endemic to Singapore.
+
+<ICE-SIN:W2A-025#59:1>
+He, however, clearly pointed out that some of these species are
+either dubious ( eg Embelia lucida Wall., and Salacia lobbii Laws.) or
+probably erroneously recorded in Singapore ( eg Uvaria subrependa wall).
+
+<ICE-SIN:W2A-025#60:1>
+In going through the recent literature, it becomes clear that some of
+these 'endemic' species are synonyms of species of much wider distribution (
+eg Lophopetalum fuscescens Kun = L javanicum Turcz), others are also found
+elsewhere ( eg Xylopia ridleyi King = Cyathocalyx ridleyi Sinclair).
+
+<ICE-SIN:W2A-025#61:1>
+In our present knowledge, only Polyosma kingiana Schltr.
+
+<ICE-SIN:W2A-025#62:1>
+( Saxifragaceae), Sabia erratica PM vd Water ( Sabiaceae) and a few
+other species, are probably endemic.
+
+<ICE-SIN:W2A-025#63:1>
+There is no endemic genus.
+
+<ICE-SIN:W2A-025#64:1>
+Several explanatory notes should be made here.
+
+<ICE-SIN:W2A-025#65:1>
+Firstly, it is intended to bring the nomenclature of the plant names
+given in this volume up to date as far as possible.
+
+<ICE-SIN:W2A-025#66:1>
+Several regional floras ( eg Backer and Bakhuizen f, 1963, 65 and 68;
+Whitmore 1972 and 73 and Ng 1978 and 89) and numerous monographs and
+revisions were consulted.
+
+<ICE-SIN:W2A-025#67:1>
+Admittedly, a number of the new names may have been overlooked.
+
+<ICE-SIN:W2A-025#68:1>
+Some of them, however, are cited as alternative names, others are not
+accepted.
+
+<ICE-SIN:W2A-025#69:1>
+Secondly, native and introduced plants are differentiated in such a
+way that native ones are printed in bold face, and introduced one, in
+italics.
+
+<ICE-SIN:W2A-025#70:1>
+Native plants are those presumably indigenous to Singapore and they
+have existed here since before the arrival of Sir Stamford Raffles or much
+earlier.
+
+<ICE-SIN:W2A-025#71:1>
+Introduced ones were brought into the island by artificial means,
+either intentionally or unintentionally.
+
+<ICE-SIN:W2A-025#72:1>
+However, their difference is not always clear, especially in case of
+some weedy species.
+
+<ICE-SIN:W2A-025#73:1>
+In general, Ridley's discretion in his Floras of Singapore ( 1900)
+and of the Malay Peninsula ( 1922-25) is largely followed.
+
+<ICE-SIN:W2A-025#74:1>
+Native species usually bear a collection number of the herbanum
+specimen, which is in the collection of the Botanic Gardens, Singapore.
+
+<ICE-SIN:W2A-025#75:1>
+Many of these specimens are of historical value.
+
+<ICE-SIN:W2A-025#76:1>
+Thirdly, it is not possible, nor necessary to record all cultivated
+plants.
+
+<ICE-SIN:W2A-025#77:1>
+For example, in the beginning of this century, a large number of
+Gymnosperms were cultivated in Singapore ( Anderson 1912).
+
+<ICE-SIN:W2A-025#78:1>
+Some of them survived to this day, others ( eg Bowenia, Ceratozamia,
+Stangeria of Cycadales, and Cephalotaxus, Sciadopitys, Thujopsis of the
+Conifer disappeared a long time ago.
+
+<ICE-SIN:W2A-025#79:1>
+Exotic plants, if they cannot reproduce vegetatively or by producing
+seeds, naturally will become extinct in a matter of time.
+
+<ICE-SIN:W2A-025#80:1>
+Fourthly, new plants are still making their way to Singapore.
+
+<ICE-SIN:W2A-025#81:1>
+A fine example is following the recent reclamation work, a host of
+weedy species found their w the island.
+
+<ICE-SIN:W2A-025#82:1>
+Some of them, eg Neptunia plena ( L.) Benth and Mimosa pigra L are so
+flourishing that they are likely to make Singapore their permanent home.
+
+<ICE-SIN:W2A-025#83:1>
+Fifthly, the arrangement of the families follows the sequence given
+in 'Orders Families of Malayan Seed Plants' ( Keng 1983).
+
+<ICE-SIN:W2A-025#84:1>
+Finally a note concerning the keys to families, genera and species
+follows.
+
+<ICE-SIN:W2A-025#85:1>
+Separate keys to the families of Gymnosperms and Dicotyledons which
+adapted from 'Orders and Families of Malayan Seed Plants' ( Keng 1983), with
+modifications, are included.
+
+<ICE-SIN:W2A-025#86:1>
+For the families comprising two or more genera, keys to the genera
+are added.
+
+<ICE-SIN:W2A-025#87:1>
+In the very large families ( eg Legumino Euphorbiaceae, Compositae,
+etc.), only synoptic keys are provided.
+
+<ICE-SIN:W2A-025#88:1>
+Keys to species, regretfully are left out.
+
+<ICE-SIN:W2A-025#89:1>
+One of the main concerns is the very considerable length involved.
+
+<ICE-SIN:W2A-025#90:1>
+Besides, many useful keys to species are available in regic
+literature.
+
+<ICE-SIN:W2A-025#91:1>
+For instance, keys to the species of most woody genera, including
+very large ones such as Ficus ( with about 43 species in Singapore), Eugenia
+( ab 35 species), Calophyllum ( about 17 species), etc., can be found in sepa
+volumes of 'Tree Flora of Malaya' ( Whitmore 1972, 1973, and Ng 1978, 1989).
+
+<ICE-SIN:W2A-025#92:1>
+Revisions or monographs of various families such as Annonaceae (
+Sinclair 1955) Myristicaceae ( Sinclair 195 8), etc.
+
+<ICE-SIN:W2A-025#93:1>
+also contain keys to species of different genera.
+
+<ICE-SIN:W2A-025#94:1>
+In addition, keys to species of common herbaceous and woody plants
+can found in the following two immensely popular books respectively: 'Malaya
+Wild Flowers' ( Henderson 1954) and 'Wayside Trees of Malaya' ( Corner 1988).
+
+<ICE-SIN:W2A-025#95:1>
+In latter book, excellent keys to the commonly cultivated genera ( eg
+Cassia, Ixora etc.) are also included.
+
+<ICE-SIN:W2A-025#96:1>
+For the smaller genera of two or three species, brief notes on some
+of the diagnostic characters are, nevertheless, mentioned under the species
+in this concise flora.
+
+<ICE-SIN:W2A-025#97:1>
+<h> DICOTYLEDONS </h>
+
+<ICE-SIN:W2A-025#98:1>
+The dicotyledonous plants usually have their flower parts in fours or
+fives, or multiple of these numbers.
+
+<ICE-SIN:W2A-025#99:1>
+Their leaves are usually net-veined.
+
+<ICE-SIN:W2A-025#100:1>
+Their stems are always with cylindrical vascular tissues and a
+prominent cambium which produces the secondary tissues.
+
+<ICE-SIN:W2A-025#101:1>
+Traditionally they are classified under a class or subclass,
+Dicotyledoneae, which together with Monocotyledoneae, constitutes the
+flowering plants or Angiospermae.
+
+<ICE-SIN:W2A-025#102:1>
+<h> MAGNOLIACEAE </h>
+
+<ICE-SIN:W2A-025#103:1>
+Aromatic trees or shrubs, evergreen.
+
+<ICE-SIN:W2A-025#104:1>
+Leaves simple, alternate, stipulate.
+
+<ICE-SIN:W2A-025#105:1>
+Flowers usually bisexual, solitary and regular; floral parts
+generally free and spirally arranged.
+
+<ICE-SIN:W2A-025#106:1>
+Perianth-lobes usually petaloid.
+
+<ICE-SIN:W2A-025#107:1>
+Stamens numerous.
+
+<ICE-SIN:W2A-025#108:1>
+Gynoecium mostly of many to numerous free carpels.
+
+<ICE-SIN:W2A-025#109:1>
+Seeds endospermous. <X>
+
+<ICE-SIN:W2A-025#X110:1>
+About 10 ( or less) genera, occur in temperate and tropical parts
+of E Asia, S E North America and N E South America.
+
+<ICE-SIN:W2A-025#X111:1>
+The following 4 ( or 2*) are found in Singapore.
+
+<ICE-SIN:W2A-025#X112:1>
+<h> Key to the genera </h>
+
+<ICE-SIN:W2A-025#X113:1>
+A) Flowers terminal.
+
+<ICE-SIN:W2A-025#X114:1>
+B) Aggregate fruit of a mass of fleshy and fused carpels;
+perianth-segments 24 or more, narrow ( less than l cm wide).
+
+<ICE-SIN:W2A-025#X115:1>
+<h> Aromadendron </h>
+
+<ICE-SIN:W2A-025#X116:1>
+B) Aggregate fruit of dry, dehiscent and + free carpels-
+perianth-segments 15 or less relatively broader.
+
+<ICE-SIN:W2A-025#X117:1>
+C) Mature carpels dehiscing along the dorsal ( or outer) side -
+Magnolia.
+
+<ICE-SIN:W2A-025#X118:1>
+C) Mature carpels dehiscing along the ventral ( or inner) side, and
+separating from the floral axis,......Talauma.
+
+<ICE-SIN:W2A-025#X119:1>
+A) Flowers axillary; mature carpels free, dehiscent along the
+dorsal side .......Michelia
+
+<ICE-SIN:W2A-025#X120:1>
+<h> AROMADENDRON elegans B 1 </h>
+
+<ICE-SIN:W2A-025#X121:1>
+( alternative name: Magnolia elegans ( Bl.) H Keng).
+
+<ICE-SIN:W2A-025#X122:1>
+Large tree with grey bark; leaves elliptic; 8-16 cm long; flowers
+white, sweet-scented; perianth-lobes 24-32, linear-lanceolate; fruit an ovoid
+mess;found on Bukit Timah ( Ngadiman 243), very rare.
+
+<ICE-SIN:W2A-025#X123:1>
+Vern. Champaka hutan.
+
+<ICE-SIN:W2A-025#X124:1>
+<h> MAGNOLIA coco ( Lour.) DC </h>
+
+<ICE-SIN:W2A-025#X125:1>
+Shrub, flowers white, nodding, scented; the petals falling off
+shortly after blooming.
+
+<ICE-SIN:W2A-025#X126:1>
+Native of China.
+
+<ICE-SIN:W2A-025#X127:1>
+<h> Magnolia maingayi King </h>
+
+<ICE-SIN:W2A-025#X128:1>
+Shrub or small tree; leaves oblong-obovate, 19-25 cm long; flowers
+scented, white; perianth-lobes 9, in 3 series, formerly found in Garden
+jungle, now only on Bukit Timah ( Ngadiman 36547), very rare. </X> </I>

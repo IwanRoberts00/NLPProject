@@ -1,0 +1,468 @@
+<I>
+
+<ICE-SIN:W2A-028#1:1>
+<h> A Glimpse at the Human Immunodeficiency Virus Type I ( HIV-I) </h>
+
+<ICE-SIN:W2A-028#2:1>
+Hong Saw See
+
+<ICE-SIN:W2A-028#3:1>
+Department of Biochemistry
+
+<ICE-SIN:W2A-028#4:1>
+National University of Singapore
+
+<ICE-SIN:W2A-028#5:1>
+The human immunodeficiency virus type I ( HIV) has been etiologically
+identified as the primary cause of the acquired immunodeficiency syndrome (
+AIDS) [ 1,2].
+
+<ICE-SIN:W2A-028#6:1>
+HIV-I is the prototypical member of the Lentivirinae subfamily of
+retroviruses affecting humans.
+
+<ICE-SIN:W2A-028#7:1>
+The lentiviruses characteristically cause indolent infections in their
+animal hosts and these infections commonly involve the nervous system,
+producing long periods of clinical latency, and weak humoral immune
+responses.
+
+<ICE-SIN:W2A-028#8:1>
+Globally, the World Health Organization estimates that 6 to 8 million
+people are currently infected with HIV-I and it is predicted that 15 to 20
+million people will be seropositive for the virus by the year 2000 [ 3].
+
+<ICE-SIN:W2A-028#9:1>
+HIV-I is spread by sexual contact, exposure to infected blood or blood
+products, and perinatal transmission from mother to child.
+
+<ICE-SIN:W2A-028#10:1>
+Clearly, AIDS represents an international health crisis, and the
+development of drug therapies and effective vaccines depends substantially on
+a more complete understanding of this pathogenic retrovirus.
+
+<ICE-SIN:W2A-028#11:1>
+<h> The HIV-I Genomic Structure and Virion </h>
+
+<ICE-SIN:W2A-028#12:1>
+Most retroviruses that are capable of replication contain only three
+genes - namely, gag, pol and env [ 4].
+
+<ICE-SIN:W2A-028#13:1>
+The gag and env genes encode the core nucleocapsid polypeptides and
+surface-coat proteins of the virus, respectively, while the pol gene gives
+rise to the viral reverse transcriptase and other enzymes.
+
+<ICE-SIN:W2A-028#14:1>
+HIV-I, however, contains in its 9 kilobase RNA genome, not only these
+three essential genes but at least six additional regulatory genes ( vif,
+vpu, vpr, tat, rev and nef) [ Figure 1].
+
+<ICE-SIN:W2A-028#15:1>
+It is the concerted action of these additional genes that probably
+underlie the profound pathogenicity of HIV-I.
+
+<ICE-SIN:W2A-028#16:1>
+High resolution electron microscopy has revealed the HIV-I virion as
+an icosahedral structure containing 72 external spikes.
+
+<ICE-SIN:W2A-028#17:1>
+These spikes are formed by the two major envelope proteins, gp 120
+and gp4 1 [ Figure 2].
+
+<ICE-SIN:W2A-028#18:1>
+The core of HIV-I contains four nucleocapsid proteins,p17,p24,p9 and
+p7.
+
+<ICE-SIN:W2A-028#19:1>
+The p24 protein forms the chief component of the inner leaflet of the
+nucleocapsid, whereas the myristylated pl7 protein is associated with the
+inner surface of the lipid bilayer.
+
+<ICE-SIN:W2A-028#20:1>
+The p7 protein binds directly to the genomic RNA through a
+zinc-finger structural motif and together with p9 forms the nucleoid core.
+
+<ICE-SIN:W2A-028#21:1>
+<h> Life cycle of HIV-I </h>
+
+<ICE-SIN:W2A-028#22:1>
+The first step in the infectious cycle of HIV-I involves the
+attachment of the virion to a target cell.
+
+<ICE-SIN:W2A-028#23:1>
+The human CD4+ T lymphocytes and monocytes are the major cellular
+targets [ 5].
+
+<ICE-SIN:W2A-028#24:1>
+HIV-I specifically infects these cells because the CD4 membrane
+antigen represents the principal, if not sole high-affinity cellular receptor
+for this retrovirus.
+
+<ICE-SIN:W2A-028#25:1>
+The HIV-I gp l20 envelope protein is found to bind to CD4 with
+strikingly high affinity.
+
+<ICE-SIN:W2A-028#26:1>
+The role of CD4 as the viral receptor has prompted considerable
+interest in the therapeutic use of soluble CD4 protein as " receptor decoys"
+to block HIV-I infection [ 6].
+
+<ICE-SIN:W2A-028#27:1>
+Recent studies, however, show that primary viral isolates are
+resistant to such soluble CD4 analogues.
+
+<ICE-SIN:W2A-028#28:1>
+Other problems encountered with short biological half-life and poor
+tissue penetration limit the usefulness of soluble CD4 as an antiviral agent.
+
+<ICE-SIN:W2A-028#29:1>
+Besides T-cells and monocytes, HIV-I may also infect other types of
+cells, including glial cells, gut epithelium and bone marrow progenitors.
+
+<ICE-SIN:W2A-028#30:1>
+Whether HIV-I infection of these diverse cell types is mediated
+exclusively through CD4 or involves another cellular receptor remains an area
+of active investigation.
+
+<ICE-SIN:W2A-028#31:1>
+<h> Internalization and reverse transcription </h>
+
+<ICE-SIN:W2A-028#32:1>
+The HIV-I virion is brought inside the cell via virus-mediated
+membranefusion [ 7], a process involving the viral gp4 1 envelope protein.
+
+<ICE-SIN:W2A-028#33:1>
+After internalization, the HIV-I virion is rapidly uncoated and
+enters the replicative phase of its life cycle.
+
+<ICE-SIN:W2A-028#34:1>
+Viral replication begins with the generation of first-strand DNA copy
+of the viral RNA by the viral reverse transcriptase.
+
+<ICE-SIN:W2A-028#35:1>
+Second-strand DNA synthesis then proceeds after the viral
+ribonuclease H digests the original RNA template yielding a The most
+successful therapeutic drugs used in the treatment of HIV-I infection are
+dideoxynucleosides, agents which specifically inhibit the action of the viral
+reverse transcriptase [ 8].
+
+<ICE-SIN:W2A-028#36:1>
+These compounds include 3'azido-2', 3'-dideoxythymidine ( zidovudine,
+AZT), 2'3'dideoxycytidine ( ddC) and 2'3'dideoxyinosine ( ddI).
+
+<ICE-SIN:W2A-028#37:1>
+Each of these compounds is phosphorylated to an active triphosphate
+form after entry into the cell and acts either as a chain terminator of the
+first strand DNA or as a simple competitor to the normal deoxynucleoside - 5 '
+- triphosphate.
+
+<ICE-SIN:W2A-028#38:1>
+The viral reverse transcriptase appears to incorporate these
+dideoxynucleoside analogues preferentially, thus explaining their therapeutic
+effectiveness.
+
+<ICE-SIN:W2A-028#39:1>
+Zidovudine has been shown to prolong survival and reduce the
+frequency and severity of opportunistic infections in patients with AIDS.
+
+<ICE-SIN:W2A-028#40:1>
+<h> Viral Latency </h>
+
+<ICE-SIN:W2A-028#41:1>
+Upon entry into a susceptible cell, HIV-I may establish a latent or
+persistent form of infection.
+
+<ICE-SIN:W2A-028#42:1>
+It has been estimated that for every T-cell actively producing the
+virus, nine other T-cells contain the latent virus.
+
+<ICE-SIN:W2A-028#43:1>
+The biochemical basis of this apparent viral latency is poorly
+understood but may be determined by the overall state of cellular activation.
+
+<ICE-SIN:W2A-028#44:1>
+Many viruses, including HIV-I, do not replicate in resting T-cells,
+presumably because critical host factors are absent.
+
+<ICE-SIN:W2A-028#45:1>
+However, the activation of these T-cells by antigens, mitogens,
+cytokines ( tumor necrosis factor-alpha or interleukin-l) or gene products of
+other viruses ( human T-cell leukemia virus type l, herpes simplex virus,
+human herpes virus type 6) creates a permissive environment for HIV-I
+replication 191.
+
+<ICE-SIN:W2A-028#46:1>
+These activating agents are known to induce the expression of host
+transcription factors, initiatung cell growth and thus, HIV-I replication.
+
+<ICE-SIN:W2A-028#47:1>
+<h> Morphogenesis of the HIV-I Virion </h>
+
+<ICE-SIN:W2A-028#48:1>
+Assembly of the HIV virion proceeds via a stepwise manner, involving
+aggregation of the nbonucleoprotein core in the cytoplasm.
+
+<ICE-SIN:W2A-028#49:1>
+The gene products of the gag and pol genes, together with the vital
+RNA form the core of the mature virion.
+
+<ICE-SIN:W2A-028#50:1>
+Once assembled, these cores move to the cell surface and bud through
+the plasma membrane, where they acquire their envelope proteins, gene
+products of the env gene.
+
+<ICE-SIN:W2A-028#51:1>
+During the budding process, a series of cleavage events occur,
+mediated by the HIV-I protease.
+
+<ICE-SIN:W2A-028#52:1>
+The Gag polyprotein is cleaved to yield the pl7, p24, p9 and p7
+proteins, and the pol gene precursor cleaved to produce the viral enzymes,
+the reverse transcriptase, integrase, ribonuclease and protease.
+
+<ICE-SIN:W2A-028#53:1>
+The HIV-I protease has long been the target of investigators working
+on antiviral therapeutic agents.
+
+<ICE-SIN:W2A-028#54:1>
+The protease protein has been purified and crystallised [ l0], and
+its intrinsic three dimensional structural information has been used in the
+rational development of specific inhibitors.
+
+<ICE-SIN:W2A-028#55:1>
+<h> Development of an HIV-I vaccine </h>
+
+<ICE-SIN:W2A-028#56:1>
+Early studies in the field of vaccine development for HIV-I have
+shown that the successful design of a vaccine would be complicated by the
+sequence variation of the Env protein.
+
+<ICE-SIN:W2A-028#57:1>
+The hyperimmunization of chimpanzees with HIV-I Env protein was
+insufficient to protect the animals from challenge with even small quantities
+of the same strain of HIV-I [ ll].
+
+<ICE-SIN:W2A-028#58:1>
+Although these initial results seemed discouraging,later studies in
+the SIV-I ( Simian Immunodeficiency Virus Type 1) system suggest that an
+effective HIV-I vaccine may be an achievable goal.
+
+<ICE-SIN:W2A-028#59:1>
+Inactivated whole-virus-based SIV-I vaccines can confer protective
+immunity on Rhesus monkeys challenged with low doses of live SIV-I [ l2].
+
+<ICE-SIN:W2A-028#60:1>
+However, concerns about insufficient inactivation and inadequate
+animal models for safety testing restrict the use of whole inactivated HIV in
+seronegative humans.
+
+<ICE-SIN:W2A-028#61:1>
+Most efforts to date, have therefore been focussed on subunit
+vaccines.
+
+<ICE-SIN:W2A-028#62:1>
+Recently, protective immunity was observed in macaques immunised with
+recombinant vaccinia virus expressing SIV-env protein, boosted with Env
+protein produced in baculovirus-infected cells [ 13].
+
+<ICE-SIN:W2A-028#63:1>
+A similar combination immunization approach is now under evaluation
+in humans as a candidate AIDS vaccine [ 14].
+
+<ICE-SIN:W2A-028#64:1>
+It remains to be shown, however, whether recombinant subunit vaccines
+can protect against heterologous virus challenge. </I>
+
+<I>
+
+<ICE-SIN:W2A-028#65:2>
+<h> Advances in Malarial Research </h>
+
+<ICE-SIN:W2A-028#66:2>
+Teo Tian Seng and Catherine Ng
+
+<ICE-SIN:W2A-028#67:2>
+Department of Biochemistry National University of Singapore
+
+<ICE-SIN:W2A-028#68:2>
+The Plasmodium parasite, the causative agent of malaria, is a major
+scourge of mankind.
+
+<ICE-SIN:W2A-028#69:2>
+Some 270 million people have been infected with malaria during the
+past 20 years and more than a million people die of it every year.
+
+<ICE-SIN:W2A-028#70:2>
+As early as the seventeenth century, extracts from the bark of the
+cinchona tree were known to be effective in the treatment of the disease.
+
+<ICE-SIN:W2A-028#71:2>
+In the 19th century, quinine, a quinoline alkaloid, was identified as
+the active antimalarial compound in the cinchona bark.
+
+<ICE-SIN:W2A-028#72:2>
+Quinine was widely used until it was superseded by chloroquine which
+was first synthesized by Resochin in Germany in 1934.
+
+<ICE-SIN:W2A-028#73:2>
+Chloroquine is the single most successful anti-malarial drug ever
+developed and has been credited with saving the lives of countless millions
+of people.
+
+<ICE-SIN:W2A-028#74:2>
+Despite the enormous benefits derived from its use over the past half
+century, its mechanism of action had been a mystery.
+
+<ICE-SIN:W2A-028#75:2>
+A significant breakthrough in the war against malaria was the
+publication of a recent report by Slater and Cerami ( Nature 355; 167-169,
+1992) which revealed the mechanism of action of the drug.
+
+<ICE-SIN:W2A-028#76:2>
+This discovery may revolutionize the way in which future
+anti-malarial drugs will be developed.
+
+<ICE-SIN:W2A-028#77:2>
+The life cycle of the Plasmodium parasite consists of a sexual phase
+in the intestine of the mosquito and an asexual multiplication phase within
+the liver parenchyma cells and the erythrocytes ofthe human host.
+
+<ICE-SIN:W2A-028#78:2>
+Chloroquine and related quinoline-containing anti-malarials are
+effective only against the intra-erythrocytic stages of the Plasmodium life
+cycle.
+
+<ICE-SIN:W2A-028#79:2>
+Rapid multiplication ofthe parasite within the erythrocytes results
+in a high demand for nutrients which are partly haemoglobin in acid food
+vacuoles of the parasites.
+
+<ICE-SIN:W2A-028#80:2>
+However, the digestion of the abundant haemoglobin is not without its
+drawbacks.
+
+<ICE-SIN:W2A-028#81:2>
+Breakdown of haemoglobin releases large amounts of haem which is
+toxic because it can damage biological membranes and inhibit a variety of
+enzymes.
+
+<ICE-SIN:W2A-028#82:2>
+The human host has an elaborate system in the reticuloendothelial
+cells of the liver, spleen and bone marrow for the degradation and excretion
+of haem.
+
+<ICE-SIN:W2A-028#83:2>
+Unlike the human host, the parasite is unable to degrade and excrete
+haem.
+
+<ICE-SIN:W2A-028#84:2>
+It can only sequester haem in its food vacuoles by incorporating it
+into an insoluble crystalline material called haemozoin.
+
+<ICE-SIN:W2A-028#85:2>
+Haemozoin is a polymer of haem formed by covalently linking the
+central ferric ion of one haem to a side-chain carboxylate oxygen of another.
+
+<ICE-SIN:W2A-028#86:2>
+This polymeric form of haem is harmless to the parasite.
+
+<ICE-SIN:W2A-028#87:2>
+However, haem molecules do not spontaneously polymerise into
+haemozoin under physiological conditions.
+
+<ICE-SIN:W2A-028#88:2>
+The polymerisation of haem into haemozoin requires an enzyme which
+Slater and Cerami identified in extracts of Plasmodium falciparum
+trophozoites.
+
+<ICE-SIN:W2A-028#89:2>
+The pH optimum of the haem polymerase is between pH 5.0 and 6.0,
+which covers the estimated pH of the parasite's food vacuoles.
+
+<ICE-SIN:W2A-028#90:2>
+They observed that chloroquine and its analogs potently inhibited the
+activity of the polymerase.
+
+<ICE-SIN:W2A-028#91:2>
+Inhibition of the polymerase occurred at a drug concentration and pH
+similar to that estimated in the parasite's food vacuoles.
+
+<ICE-SIN:W2A-028#92:2>
+The rank order of potencies by which different analogs of chloroquine
+inhibited the polymerase is also the same as the rank order of their
+anti-malarial activity.
+
+<ICE-SIN:W2A-028#93:2>
+With the discovery of the physiological target of the quinoline -
+containing anti-malarial drugs, the development of new drugs will now be
+greatly facilitated.
+
+<ICE-SIN:W2A-028#94:2>
+Research can now be focused on the structural requirements for the
+inhibition of the haem polymerase.
+
+<ICE-SIN:W2A-028#95:2>
+This discovery is timely as there is now a resurgence in the
+world-wide incidence of malaria.
+
+<ICE-SIN:W2A-028#96:2>
+New strains of mosquito vector resistant to insecticides and mutant
+forms of the malarial parasite resistant to drugs have contributed to the
+current increase in malarial infection. </I>
+
+<I>
+
+<ICE-SIN:W2A-028#97:3>
+<h> Ferritin: Stucture, Function and Gene Regulation </h>
+
+<ICE-SIN:W2A-028#98:3>
+Chew Li Jin
+
+<ICE-SIN:W2A-028#99:3>
+Institute of Molecular and Cell Biology
+
+<ICE-SIN:W2A-028#100:3>
+National University of Singapore
+
+<ICE-SIN:W2A-028#101:3>
+Iron under physiological conditions tends to hydrolyse and
+polymerise, forming essentially insoluble ferric hydroxides and
+oxyhydroxides.
+
+<ICE-SIN:W2A-028#102:3>
+To maintain iron in a soluble form, biological systems possess
+special proteins which bind Fe ions with high affinity, leaving very little
+free iron in solution.
+
+<ICE-SIN:W2A-028#103:3>
+An important example of such iron-binding proteins is ferritin, the
+iron - storage protein found in both animals and plants.
+
+<ICE-SIN:W2A-028#104:3>
+It serves the dual function of maintaining iron in a biologically
+available form and protecting the organism against the toxic effects of
+excess iron.
+
+<ICE-SIN:W2A-028#105:3>
+For example, in mammalian systems, when iron is absorbed from the
+small intestine, it immediately combines with a b-globulin, apotransferrin,
+to form transferrin, which is circulated in the blood plasma.
+
+<ICE-SIN:W2A-028#106:3>
+The iron bound by transfenrin is in turn taken up by a wide range of
+cells, particularly in the liver, spleen and the intestinal mucosae, and is
+eventually stored as ferritin within the cytoplasm. <X>
+
+<ICE-SIN:W2A-028#X107:3>
+<h> Ferritin Structure and Function </h>
+
+<ICE-SIN:W2A-028#X108:3>
+Ferritin is formed from an iron core of ferric oxyhydroxide
+crystals and a 24-subunit coat of non-heme proteins called apoferritin.
+
+<ICE-SIN:W2A-028#X109:3>
+The apoferritin subunits may vary in amino acid sequence and
+polypeptide chain length ( 174 to 183 residues), thus contributing to the
+complexity and heterogeniety in the structure and composition of the
+apoferritin macromolecule. </X> </I>

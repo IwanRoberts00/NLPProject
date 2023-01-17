@@ -1,0 +1,1161 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1A-100#1:1:A>
+Hello
+
+<$B> 
+<ICE-SIN:S1A-100#2:1:B>
+Hi
+
+<$A> 
+<ICE-SIN:S1A-100#3:1:A>
+Ya
+
+<$B> 
+<ICE-SIN:S1A-100#4:1:B>
+Oh hi
+
+<ICE-SIN:S1A-100#5:1:B>
+How are you
+
+<$A> 
+<ICE-SIN:S1A-100#6:1:A>
+Fine
+
+<$B> 
+<ICE-SIN:S1A-100#7:1:B>
+Oh so what are you doing
+
+<$A> 
+<ICE-SIN:S1A-100#8:1:A>
+I was marking my papers
+
+<$B> 
+<ICE-SIN:S1A-100#9:1:B>
+Oh
+
+<$A> 
+<ICE-SIN:S1A-100#10:1:A>
+My Literature papers
+
+<$B> 
+<ICE-SIN:S1A-100#11:1:B>
+Ah hah
+
+<$A> 
+<ICE-SIN:S1A-100#12:1:A>
+Ya
+
+<$B> 
+<ICE-SIN:S1A-100#13:1:B>
+Oh
+
+<$A> 
+<ICE-SIN:S1A-100#14:1:A>
+Just took a break lah
+
+<ICE-SIN:S1A-100#15:1:A>
+Just now so have to go back to my work
+
+<$B> 
+<ICE-SIN:S1A-100#16:1:B>
+How many classes do you have to mark
+
+<$A> 
+<ICE-SIN:S1A-100#17:1:A>
+Three
+
+<$B> 
+<ICE-SIN:S1A-100#18:1:B>
+Aw
+
+<ICE-SIN:S1A-100#19:1:B>
+This is not so bad
+
+<$A> 
+<ICE-SIN:S1A-100#20:1:A>
+Ya
+
+<$B> 
+<ICE-SIN:S1A-100#21:1:B>
+<unclear> word </unclear>
+
+<$A> 
+<ICE-SIN:S1A-100#22:1:A>
+Next week Monday
+
+<$B> 
+<ICE-SIN:S1A-100#23:1:B>
+Oh next week
+
+<$A> 
+<ICE-SIN:S1A-100#24:1:A>
+Ya
+
+<ICE-SIN:S1A-100#25:1:A>
+So uhm Monday is okay because I I don't have any papers
+
+<ICE-SIN:S1A-100#26:1:A>
+Tuesday my paper start coming in
+
+<$B> 
+<ICE-SIN:S1A-100#27:1:B>
+Ah hah
+
+<$A> 
+<ICE-SIN:S1A-100#28:1:A>
+Then I don't get any till next Monday
+
+<ICE-SIN:S1A-100#29:1:A>
+You know so stupid the way they planned it
+
+<ICE-SIN:S1A-100#30:1:A>
+So I have all my papers next Mon the following Monday and it is
+like five sets of Literature and two sets of Moral Education
+
+<$B> 
+<ICE-SIN:S1A-100#31:1:B>
+Ah hah
+
+<$A> 
+<ICE-SIN:S1A-100#32:1:A>
+So I I have so much to mark on that you know during that week
+
+<ICE-SIN:S1A-100#33:1:A>
+Terrible
+
+<$B> 
+<ICE-SIN:S1A-100#34:1:B>
+Oh
+
+<$A> 
+<ICE-SIN:S1A-100#35:1:A>
+Ya I am not looking forward to it
+
+<ICE-SIN:S1A-100#36:1:A>
+Sorry
+
+<ICE-SIN:S1A-100#37:1:A>
+Anyway this whole week you know I will be so free
+
+<$B> 
+<ICE-SIN:S1A-100#38:1:B>
+Oh
+
+<$A> 
+<ICE-SIN:S1A-100#39:1:A>
+You know what I mean because I would have marked because the
+paper I am going to get on Tuesday is not too difficult to mark
+
+<$B> 
+<ICE-SIN:S1A-100#40:1:B>
+Who does the scheduling
+
+<$A> 
+<ICE-SIN:S1A-100#41:1:A>
+The head of department HOD lah
+
+<$B> 
+<ICE-SIN:S1A-100#42:1:B>
+Ah okay
+
+<$A> 
+<ICE-SIN:S1A-100#43:1:A>
+Ya but I I don't know I see if I can't cope might <unclear>
+word </unclear> tell her and then maybe second next term they can uhm do
+something about it lah
+
+<ICE-SIN:S1A-100#44:1:A>
+Ya
+
+<$B> 
+<ICE-SIN:S1A-100#45:1:B>
+Well guess what I am looking at at the moment
+
+<$A> 
+<ICE-SIN:S1A-100#46:1:A>
+Uh Ashley
+
+<$B> 
+<ICE-SIN:S1A-100#47:1:B>
+Yes he fell down on a couch
+
+<$A> 
+<ICE-SIN:S1A-100#48:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1A-100#49:1:B>
+Bas Bask in the uh in the warmth of the house
+
+<$A> 
+<ICE-SIN:S1A-100#50:1:A>
+Uh hah
+
+<$B> 
+<ICE-SIN:S1A-100#51:1:B>
+Tell you this chap is something else
+
+<ICE-SIN:S1A-100#52:1:B>
+He is so naughty
+
+<$A> 
+<ICE-SIN:S1A-100#53:1:A>
+Uhm uhm
+
+<ICE-SIN:S1A-100#54:1:A>
+Why
+
+<$B> 
+<ICE-SIN:S1A-100#55:1:B>
+He refuses to take his medicine
+
+<ICE-SIN:S1A-100#56:1:B>
+He is having fever
+
+<$A> 
+<ICE-SIN:S1A-100#57:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1A-100#58:1:B>
+We brought him to Dr Lim on Monday
+
+<$A> 
+<ICE-SIN:S1A-100#59:1:A>
+Uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#60:1:B>
+That well because of two reasons
+
+<ICE-SIN:S1A-100#61:1:B>
+He slept the whole day on my mother's bed
+
+<ICE-SIN:S1A-100#62:1:B>
+Oh well he found a new place to sleep and then not only that in the
+evening when Sandy was eating don't know what he did he went near Sandy
+
+<ICE-SIN:S1A-100#63:1:B>
+Of course you know it irritated Sandy and Sandy snapped at him and
+he had a deep gnash-like thing in the nose
+
+<$A> 
+<ICE-SIN:S1A-100#64:1:A>
+Oh
+
+<$B> 
+<ICE-SIN:S1A-100#65:1:B>
+So my parents had to bring him to Dr Lim
+
+<$A> 
+<ICE-SIN:S1A-100#66:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1A-100#67:1:B>
+I find him better now when
+
+<$A> 
+<ICE-SIN:S1A-100#68:1:A>
+Was there blood or anything
+
+<$B> 
+<ICE-SIN:S1A-100#69:1:B>
+Ya there was
+
+<$A> 
+<ICE-SIN:S1A-100#70:1:A>
+Oh
+
+<$B> 
+<ICE-SIN:S1A-100#71:1:B>
+He has recovered from his fever
+
+<ICE-SIN:S1A-100#72:1:B>
+He's not eating as well though
+
+<$A> 
+<ICE-SIN:S1A-100#73:1:A>
+Uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#74:1:B>
+We are just hoping that he is going to become better because
+the doctor has also given him tablets which you know increases appetite
+
+<$A> 
+<ICE-SIN:S1A-100#75:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1A-100#76:1:B>
+So when hopefully he is going to eat more and become and
+strong cat
+
+<$A> 
+<ICE-SIN:S1A-100#77:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1A-100#78:1:B>
+He is sneezing at the moment and it's so funny
+
+<ICE-SIN:S1A-100#79:1:B>
+You know he behaves just like a human being the way he looks at you
+
+<$A> 
+<ICE-SIN:S1A-100#80:1:A>
+Really
+
+<$B> 
+<ICE-SIN:S1A-100#81:1:B>
+The way he jumps off the table and and you know he walks
+upstairs
+
+<$A> 
+<ICE-SIN:S1A-100#82:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1A-100#83:1:B>
+And he sleeps on the bed
+
+<$A> 
+<ICE-SIN:S1A-100#84:1:A>
+Uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#85:1:B>
+I mean it is uh the and the people at SPCA came
+
+<ICE-SIN:S1A-100#86:1:B>
+It seems they came yesterday and they wanted to see it uh Ashley
+
+<$A> 
+<ICE-SIN:S1A-100#87:1:A>
+Oh
+
+<$B> 
+<ICE-SIN:S1A-100#88:1:B>
+And my father said oh he is he's not feeling well and he is
+upstairs sleeping on the bed
+
+<ICE-SIN:S1A-100#89:1:B>
+So the the officers said Oh very lucky cat sleeping on the bed
+<unclear> word </unclear>
+
+<ICE-SIN:S1A-100#90:1:B>
+He is jolly good
+
+<ICE-SIN:S1A-100#91:1:B>
+That is all he want to check
+
+<$A> 
+<ICE-SIN:S1A-100#92:1:A>
+Oh they want to see whether you are taking care of it
+
+<$B> 
+<ICE-SIN:S1A-100#93:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1A-100#94:1:A>
+Oh
+
+<$B> 
+<ICE-SIN:S1A-100#95:1:B>
+And it is funny because they didn't check on on uhm Sandy
+
+<$A> 
+<ICE-SIN:S1A-100#96:1:A>
+Because pariah <unclear> word </unclear> cat what
+
+<$B> 
+<ICE-SIN:S1A-100#97:1:B>
+Uh
+
+<$A> 
+<ICE-SIN:S1A-100#98:1:A>
+Sandy
+
+<$B> 
+<ICE-SIN:S1A-100#99:1:B>
+Sandy
+
+<$A> 
+<ICE-SIN:S1A-100#100:1:A>
+Which one is Sandy
+
+<$B> 
+<ICE-SIN:S1A-100#101:1:B>
+Uh Pat and Daryl's dog
+
+<$A> 
+<ICE-SIN:S1A-100#102:1:A>
+Oh I see
+
+<$B> 
+<ICE-SIN:S1A-100#103:1:B>
+They didn't check on him
+
+<$A> 
+<ICE-SIN:S1A-100#104:1:A>
+Uh really
+
+<ICE-SIN:S1A-100#105:1:A>
+They also got it from SPCA
+
+<$B> 
+<ICE-SIN:S1A-100#106:1:B>
+Yes and they are checking on Ashley
+
+<$A> 
+<ICE-SIN:S1A-100#107:1:A>
+Oh because it is pedi pedigree is it
+
+<ICE-SIN:S1A-100#108:1:A>
+Patrich <unclear> word </unclear> Pedigree cat
+
+<$B> 
+<ICE-SIN:S1A-100#109:1:B>
+Yes and no I don't think they make uh you know I don't think
+they make a differentiation but I think it was I think it's something which
+they just like they take a hand
+
+<$A> 
+<ICE-SIN:S1A-100#110:1:A>
+Random lah
+
+<$B> 
+<ICE-SIN:S1A-100#111:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1A-100#112:1:A>
+Random check
+
+<$B> 
+<ICE-SIN:S1A-100#113:1:B>
+<unclear> word </unclear> pick on you know uh they just want
+to check on on the new you know adopted
+
+<$A> 
+<ICE-SIN:S1A-100#114:1:A>
+Uhm perhaps uh
+
+<$B> 
+<ICE-SIN:S1A-100#115:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1A-100#116:1:A>
+Jolly good sleeping on the bed
+
+<$B> 
+<ICE-SIN:S1A-100#117:1:B>
+<unclear> word </unclear> sleeping <unclear> word </unclear>
+upstairs
+
+<ICE-SIN:S1A-100#118:1:B>
+Would you like to <unclear> word </unclear> on my wife's bed
+
+<ICE-SIN:S1A-100#119:1:B>
+Oh sleeping on bed
+
+<ICE-SIN:S1A-100#120:1:B>
+Oh very lucky cat
+
+<ICE-SIN:S1A-100#121:1:B>
+Oh not to worry we want to go <unclear> word </unclear>
+
+<$A> 
+<ICE-SIN:S1A-100#122:1:A>
+Aiyoh
+
+<ICE-SIN:S1A-100#123:1:A>
+Ya lah your cats are so lucky lah
+
+<$B> 
+<ICE-SIN:S1A-100#124:1:B>
+Hah
+
+<$A> 
+<ICE-SIN:S1A-100#125:1:A>
+The animals who live in your house are just just so lucky
+
+<ICE-SIN:S1A-100#126:1:A>
+They must have been
+
+<$B> 
+<ICE-SIN:S1A-100#127:1:B>
+They must have had very good lives
+
+<ICE-SIN:S1A-100#128:1:B>
+That is all
+
+<$A> 
+<ICE-SIN:S1A-100#129:1:A>
+Ya I was going to say they must have been good human
+
+<ICE-SIN:S1A-100#130:1:A>
+No they couldn't have been good human beings cause then they
+wouldn't have been animals right
+
+<$B> 
+<ICE-SIN:S1A-100#131:1:B>
+No there is another theory that you cannot sort of uh you
+cannot sort of uh dig <unclear> word </unclear> what
+
+<ICE-SIN:S1A-100#132:1:B>
+Is there such a word as degress re regress
+
+<$A> 
+<ICE-SIN:S1A-100#133:1:A>
+Uh ah
+
+<$B> 
+<ICE-SIN:S1A-100#134:1:B>
+Regress from a human being to a animal
+
+<$A> 
+<ICE-SIN:S1A-100#135:1:A>
+You cannot uh
+
+<$B> 
+<ICE-SIN:S1A-100#136:1:B>
+No
+
+<$A> 
+<ICE-SIN:S1A-100#137:1:A>
+Oh means you can come back as another human being
+
+<$B> 
+<ICE-SIN:S1A-100#138:1:B>
+Ya but you will have a more difficult life to
+
+<$A> 
+<ICE-SIN:S1A-100#139:1:A>
+I see you cannot come back as an animal
+
+<$B> 
+<ICE-SIN:S1A-100#140:1:B>
+No you can't
+
+<$A> 
+<ICE-SIN:S1A-100#141:1:A>
+I have been telling my students cause we are doing religions
+right
+
+<ICE-SIN:S1A-100#142:1:A>
+So I mean my understanding is if you you if you are mean in this
+lifetime you come back as a cockroach or something like that
+
+<ICE-SIN:S1A-100#143:1:A>
+So I was telling them
+
+<$B> 
+<ICE-SIN:S1A-100#144:1:B>
+No no
+
+<$A> 
+<ICE-SIN:S1A-100#145:1:A>
+Ya
+
+<ICE-SIN:S1A-100#146:1:A>
+See I am telling them wrong things
+
+<$B> 
+<ICE-SIN:S1A-100#147:1:B>
+<unclear> word </unclear> coming back as a cockroach but have
+a harder time as a cockroach
+
+<$A> 
+<ICE-SIN:S1A-100#148:1:A>
+Oh aiyah
+
+<ICE-SIN:S1A-100#149:1:A>
+That is so silly
+
+<ICE-SIN:S1A-100#150:1:A>
+I mean I mean which cockroach has a good time
+
+<ICE-SIN:S1A-100#151:1:A>
+Which cockroach sleeps on a bed
+
+<ICE-SIN:S1A-100#152:1:A>
+Know what I mean
+
+<$B> 
+<ICE-SIN:S1A-100#153:1:B>
+Oh ya I have heard there are some
+
+<$A> 
+<ICE-SIN:S1A-100#154:1:A>
+But not in that sense
+
+<$B> 
+<ICE-SIN:S1A-100#155:1:B>
+You <unclear> word </unclear> talk about it
+
+<ICE-SIN:S1A-100#156:1:B>
+It is like why like everyone has like a set of like seven cards in
+life
+
+<ICE-SIN:S1A-100#157:1:B>
+How is that your set of cards are different from the set of cards
+that someone in Calcutta has who sleeps on the road
+
+<$A> 
+<ICE-SIN:S1A-100#158:1:A>
+Uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#159:1:B>
+You know what I mean
+
+<ICE-SIN:S1A-100#160:1:B>
+It is like
+
+<$A> 
+<ICE-SIN:S1A-100#161:1:A>
+I think some things cannot be explained
+
+<ICE-SIN:S1A-100#162:1:A>
+I mean I wouldn't want to try to explain it
+
+<$B> 
+<ICE-SIN:S1A-100#163:1:B>
+I mean
+
+<$A> 
+<ICE-SIN:S1A-100#164:1:A>
+I I don't think that
+
+<$B> 
+<ICE-SIN:S1A-100#165:1:B>
+In other words I mean if there is a life before it is
+possible it may not be possible but I think <unclear> word </unclear> it's
+just a theory
+
+<ICE-SIN:S1A-100#166:1:B>
+But it is quite likely you know that there should be cleared
+<unclear> word </unclear> live <unclear> word </unclear> before if that
+explains why you know our Lord now
+
+<$A> 
+<ICE-SIN:S1A-100#167:1:A>
+No I don't think so lah
+
+<$B> 
+<ICE-SIN:S1A-100#168:1:B>
+Ya there it it explains what they cannot change Like for
+example you know our family
+
+<ICE-SIN:S1A-100#169:1:B>
+Why are we born into certain family
+
+<ICE-SIN:S1A-100#170:1:B>
+Things like that
+
+<ICE-SIN:S1A-100#171:1:B>
+Ya
+
+<ICE-SIN:S1A-100#172:1:B>
+Uhm social economic sort of you know conditions
+
+<ICE-SIN:S1A-100#173:1:B>
+But of course that you can come out of it too
+
+<$A> 
+<ICE-SIN:S1A-100#174:1:A>
+Uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#175:1:B>
+You know and there have been cases of like you know like Tan
+Tock Seng was a hawker
+
+<$A> 
+<ICE-SIN:S1A-100#176:1:A>
+Uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#177:1:B>
+<unclear> word </unclear> vegetable seller
+
+<ICE-SIN:S1A-100#178:1:B>
+Well this is a hawker I guess same
+
+<ICE-SIN:S1A-100#179:1:B>
+And uh you know and then he went rich <unclear> word </unclear>
+
+<$A> 
+<ICE-SIN:S1A-100#180:1:A>
+There are lots people like that
+
+<ICE-SIN:S1A-100#181:1:A>
+From rags to riches kind of story
+
+<$B> 
+<ICE-SIN:S1A-100#182:1:B>
+Not lots lah Carol
+
+<$A> 
+<ICE-SIN:S1A-100#183:1:A>
+Quite a lot right I mean
+
+<$B> 
+<ICE-SIN:S1A-100#184:1:B>
+I mean there are
+
+<$A> 
+<ICE-SIN:S1A-100#185:1:A>
+Just that we don't know like especially those back those from
+China and all that
+
+<$B> 
+<ICE-SIN:S1A-100#186:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1A-100#187:1:A>
+When they in to first work Now they they have they own land
+and
+
+<$B> 
+<ICE-SIN:S1A-100#188:1:B>
+<unclear> word </unclear> Carol no
+
+<$A> 
+<ICE-SIN:S1A-100#189:1:A>
+Buildings and stuff
+
+<$B> 
+<ICE-SIN:S1A-100#190:1:B>
+Historical evidence shows uh shows that uhm historical
+evidence uh points to the fact that very few actually have made to to the
+upper echelon
+
+<ICE-SIN:S1A-100#191:1:B>
+Most most of the collies that came here well maybe they became
+middle class over
+
+<$A> 
+<ICE-SIN:S1A-100#192:1:A>
+uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#193:1:B>
+Generations but they didn't like become rich overnight
+
+<$A> 
+<ICE-SIN:S1A-100#194:1:A>
+Not overnight lah of course not overnight
+
+<ICE-SIN:S1A-100#195:1:A>
+They worked very hard
+
+<$B> 
+<ICE-SIN:S1A-100#196:1:B>
+They as <unclear> word </unclear> individuals did did not
+
+<$A> 
+<ICE-SIN:S1A-100#197:1:A>
+Uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#198:1:B>
+But their their the generation that follow after them
+
+<$A> 
+<ICE-SIN:S1A-100#199:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1A-100#200:1:B>
+Ya so you have got very few cases like people like Lok Yoon
+uh Tan Tok Seng
+
+<ICE-SIN:S1A-100#201:1:B>
+They came from China
+
+<ICE-SIN:S1A-100#202:1:B>
+Now very few of those who like come out make it to the top
+
+<$A> 
+<ICE-SIN:S1A-100#203:1:A>
+Uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#204:1:B>
+Very few
+
+<ICE-SIN:S1A-100#205:1:B>
+It is more likely that their descendants
+
+<$A> 
+<ICE-SIN:S1A-100#206:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1A-100#207:1:B>
+Hopefully do something about it
+
+<$A> 
+<ICE-SIN:S1A-100#208:1:A>
+Uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#209:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1A-100#210:1:A>
+I suppose
+
+<$B> 
+<ICE-SIN:S1A-100#211:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1A-100#212:1:A>
+Well our pastor don't believe in reincarnation
+
+<$B> 
+<ICE-SIN:S1A-100#213:1:B>
+Uhm
+
+<$A> 
+<ICE-SIN:S1A-100#214:1:A>
+Ya
+
+<$B> 
+<ICE-SIN:S1A-100#215:1:B>
+Ya I think it is possible
+
+<$A> 
+<ICE-SIN:S1A-100#216:1:A>
+I don't think so
+
+<$B> 
+<ICE-SIN:S1A-100#217:1:B>
+<unclear> word </unclear> not possible either
+
+<ICE-SIN:S1A-100#218:1:B>
+Whichever
+
+<$A> 
+<ICE-SIN:S1A-100#219:1:A>
+Ya
+
+<ICE-SIN:S1A-100#220:1:A>
+I suppose you mean you can hold to your own beliefs lah
+
+<$B> 
+<ICE-SIN:S1A-100#221:1:B>
+But it is just like God I mean sometimes you man I mean Oh
+did you read the latest Readers' Digest
+
+<$A> 
+<ICE-SIN:S1A-100#222:1:A>
+Oh on what
+
+<$B> 
+<ICE-SIN:S1A-100#223:1:B>
+Steven Hawkins
+
+<$A> 
+<ICE-SIN:S1A-100#224:1:A>
+No
+
+<$B> 
+<ICE-SIN:S1A-100#225:1:B>
+His his uhm his book The History of Time
+
+<$A> 
+<ICE-SIN:S1A-100#226:1:A>
+No
+
+<$B> 
+<ICE-SIN:S1A-100#227:1:B>
+That became <unclear> word </unclear>
+
+<$A> 
+<ICE-SIN:S1A-100#228:1:A>
+That is the latest one is it
+
+<ICE-SIN:S1A-100#229:1:A>
+I haven't read the latest
+
+<$B> 
+<ICE-SIN:S1A-100#230:1:B>
+Uh hah
+
+<$A> 
+<ICE-SIN:S1A-100#231:1:A>
+No
+
+<$B> 
+<ICE-SIN:S1A-100#232:1:B>
+It is very interesting
+
+<ICE-SIN:S1A-100#233:1:B>
+Go and read it
+
+<ICE-SIN:S1A-100#234:1:B>
+In fact one thing that led to the divorce of him and his wife was
+religion cause he never believed in a god
+
+<ICE-SIN:S1A-100#235:1:B>
+Apparently he is the greatest synthesis after uhm Einstein
+
+<$A> 
+<ICE-SIN:S1A-100#236:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1A-100#237:1:B>
+And uh
+
+<$A> 
+<ICE-SIN:S1A-100#238:1:A>
+Oh is it the is he the one who is presen pra paraplegic
+
+<$B> 
+<ICE-SIN:S1A-100#239:1:B>
+Yes he is
+
+<$A> 
+<ICE-SIN:S1A-100#240:1:A>
+Ah okay
+
+<$B> 
+<ICE-SIN:S1A-100#241:1:B>
+He is very famous
+
+<$A> 
+<ICE-SIN:S1A-100#242:1:A>
+Ya ya ya
+
+<ICE-SIN:S1A-100#243:1:A>
+I remember the name
+
+<$B> 
+<ICE-SIN:S1A-100#244:1:B>
+Ya Steven Hawkins
+
+<$A> 
+<ICE-SIN:S1A-100#245:1:A>
+Ya
+
+<$B> 
+<ICE-SIN:S1A-100#246:1:B>
+If you read like the second part of Straits Times I think
+many a time he's been featured already
+
+<$A> 
+<ICE-SIN:S1A-100#247:1:A>
+Uhm uhm ya
+
+<$B> 
+<ICE-SIN:S1A-100#248:1:B>
+So any way they made one of his books into a movie and oh did
+you go to for the film festival
+
+<$A> 
+<ICE-SIN:S1A-100#249:1:A>
+No did you
+
+<$B> 
+<ICE-SIN:S1A-100#250:1:B>
+Uhm no but Adeline went for one of the opening uhm uhm one of
+the opening
+
+<$A> 
+<ICE-SIN:S1A-100#251:1:A>
+opening shows ah
+
+<$B> 
+<ICE-SIN:S1A-100#252:1:B>
+shows The Crying Game
+
+<$A> 
+<ICE-SIN:S1A-100#253:1:A>
+Oh ya it is suppose to be you you saw it right
+
+<$B> 
+<ICE-SIN:S1A-100#254:1:B>
+I saw it
+
+<$A> 
+<ICE-SIN:S1A-100#255:1:A>
+Ya it is it's one it's one it's in the you cannot tell me the
+ending right
+
+<ICE-SIN:S1A-100#256:1:A>
+You are not supposed to tell me
+
+<ICE-SIN:S1A-100#257:1:A>
+Ya it will be kind to me
+
+<ICE-SIN:S1A-100#258:1:A>
+I got to see it eventually lah
+
+<$B> 
+<ICE-SIN:S1A-100#259:1:B>
+You have to see it <unclear> word </unclear>
+
+<$A> 
+<ICE-SIN:S1A-100#260:1:A>
+Ya the thing is that I don't which theatres though
+
+<ICE-SIN:S1A-100#261:1:A>
+It's kind of obscure places
+
+<$B> 
+<ICE-SIN:S1A-100#262:1:B>
+No lah
+
+<ICE-SIN:S1A-100#263:1:B>
+There are all sorts of interesting twists to it
+
+<$A> 
+<ICE-SIN:S1A-100#264:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1A-100#265:1:B>
+You know it is like it is very British <unclear> word
+</unclear>
+
+<ICE-SIN:S1A-100#266:1:B>
+You can imagine uh uh you know the British coming out with
+something like that
+
+<$A> 
+<ICE-SIN:S1A-100#267:1:A>
+I is a British film you mean
+
+<$B> 
+<ICE-SIN:S1A-100#268:1:B>
+It is a British film
+
+<$A> 
+<ICE-SIN:S1A-100#269:1:A>
+Oh Ai yoh my friend went to see it and she said it was very
+good also
+
+<ICE-SIN:S1A-100#270:1:A>
+They have you know you said it was very good so
+
+<$B> 
+<ICE-SIN:S1A-100#271:1:B>
+Uh ah
+
+<$A> 
+<ICE-SIN:S1A-100#272:1:A>
+Ya must go see it lah
+
+<$B> 
+<ICE-SIN:S1A-100#273:1:B>
+I figured that we get movies like after two months uh after
+America has it
+
+<$A> 
+<ICE-SIN:S1A-100#274:1:A>
+Ya
+
+<$B> 
+<ICE-SIN:S1A-100#275:1:B>
+Uhm
+
+<$A> 
+<ICE-SIN:S1A-100#276:1:A>
+Well it is better than those days when you used to get them
+about one year or two years later
+
+<$B> 
+<ICE-SIN:S1A-100#277:1:B>
+Really
+
+<$A> 
+<ICE-SIN:S1A-100#278:1:A>
+Remember those days it was like we get it so late
+
+<$B> 
+<ICE-SIN:S1A-100#279:1:B>
+Ah right
+
+<$A> 
+<ICE-SIN:S1A-100#280:1:A>
+Six seven about a year later we get the film
+
+<$B> 
+<ICE-SIN:S1A-100#281:1:B>
+Oh
+
+<$A> 
+<ICE-SIN:S1A-100#282:1:A>
+Ya but now it is almost quite quite close
+
+<$B> 
+<ICE-SIN:S1A-100#283:1:B>
+<unclear> word </unclear> Little Mermaid Little Mermaid
+
+<$A> 
+<ICE-SIN:S1A-100#284:1:A>
+Uh hah
+
+<$B> 
+<ICE-SIN:S1A-100#285:1:B>
+We have it in just after because when I saw it in the States
+I mean then I came back my goodness after several months they showed it
+
+<ICE-SIN:S1A-100#286:1:B>
+I thought this is dingish <unclear> word </unclear>
+
+<ICE-SIN:S1A-100#287:1:B>
+In the States they already have it on video tapes
+
+<$A> 
+<ICE-SIN:S1A-100#288:1:A>
+Oh
+
+<$B> 
+<ICE-SIN:S1A-100#289:1:B>
+And the people here are watching it in the movies
+
+<$A> 
+<ICE-SIN:S1A-100#290:1:A>
+Uhm uhm
+
+<$B> 
+<ICE-SIN:S1A-100#291:1:B>
+Crazy
+
+<$A> 
+<ICE-SIN:S1A-100#292:1:A>
+I guess there is a backlog of movies to be shown you see
+
+<ICE-SIN:S1A-100#293:1:A>
+So
+
+<$B> 
+<ICE-SIN:S1A-100#294:1:B>
+Backlog
+
+<$A> 
+<ICE-SIN:S1A-100#295:1:A>
+I mean uhm because we've always been behind time right
+
+<$B> 
+<ICE-SIN:S1A-100#296:1:B>
+No
+
+<ICE-SIN:S1A-100#297:1:B>
+You know what
+
+<ICE-SIN:S1A-100#298:1:B>
+It is like there are so few movie theatres </I>

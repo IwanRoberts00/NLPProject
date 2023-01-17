@@ -1,0 +1,356 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1B-007#1:1:A>
+Okay now in the previous many lectures and we concern ourselves with the the 
+movement of solute in a single phase only
+
+<ICE-SIN:S1B-007#2:1:A>
+We say how would the solute be transported from the bulk solution or
+bulk <unclear> word </unclear> to the interface or to the place where it ends
+
+<ICE-SIN:S1B-007#3:1:A>
+We never said anything about what happen after that so we only
+concentrate ourselves with one single phase but mass transfer processes
+always involve some you know significant changes to the solute that you have
+so actually we have normally in in chemical <unclear> word </unclear> system
+multiphases and we can only consider a cup a two phases at a time how the
+solute move from one place to the other
+
+<ICE-SIN:S1B-007#4:1:A>
+Now for each phase involved there is what we have assumed the film
+theory and this film theory imply that the transport of molecule from the
+bulk into the uh to the interface or to the place where the two phases
+separate and we assume by the film theory that the major draught
+concentration draught or the major change in the concentration within the
+phase is confined to a single film and that's why we call it the film theory
+right
+
+<ICE-SIN:S1B-007#5:1:A>
+And uh we relate this to our diffusivility and from there we relate
+to what we call a term call mass transfer coefficient
+
+<ICE-SIN:S1B-007#6:1:A>
+Now today we are going to continue with this and say how when this
+solute is then is brought to the interface separating the two phases what
+happen after that
+
+<ICE-SIN:S1B-007#7:1:A>
+Will the solute go into the second phase and if it goes into a
+second phase what happen
+
+<ICE-SIN:S1B-007#8:1:A>
+That's one thing second thing is what happen at the interface okay
+
+<ICE-SIN:S1B-007#9:1:A>
+Now for this interface mass transfer it relates to as I said to many
+many different chemical engineering processes
+
+<ICE-SIN:S1B-007#10:1:A>
+Let's take for example the gas liquid system now here we are
+concerned with a particular solute in this gas and in the liquid mixture
+
+<ICE-SIN:S1B-007#11:1:A>
+Now we have a gas containing a solute which we want to remove using
+a solution in other words we want to the solute from the gas to go into the
+solution
+
+<ICE-SIN:S1B-007#12:1:A>
+We have what we call absorption A-P okay A-B
+
+<ICE-SIN:S1B-007#13:1:A>
+Now here the ab and ad are two different thing and this actually is
+is subscripts of not subscript what the word called pre prefix of a English
+word stemmed from Latin roots uh
+
+<ICE-SIN:S1B-007#14:1:A>
+Ab means by ad means two so here ab absorption is the solute from
+the gas is absorbed by the liquid by the liquid whereas in the third case
+where liquid-solid we have adsorption gas-solid too I forgot to put the one
+
+<ICE-SIN:S1B-007#15:1:A>
+I should not put the liquid there I should put a uh fluid fluid
+solid system will be an adsorption
+
+<ICE-SIN:S1B-007#16:1:A>
+Adsorption means the solute is being taken onto the surface of the
+solids okay
+
+<ICE-SIN:S1B-007#17:1:A>
+Now this gas liquid if we have a liquid and we boil it up or even
+not boiling we if the uh if the gas phase that is in contact with the content
+less solute at equilibrium with the liquid then the solute in the liquid will
+then come out we transfer from the bulk uh liquid into the to the interphase
+and from interphase out into the gas phase
+
+<ICE-SIN:S1B-007#18:1:A>
+Now liquid liquid liquid liquid here we if we have to have a
+interface we must have immissible liquid in other words the liquid cannot mix
+each other so they become two phases and they are both in liquid state
+
+<ICE-SIN:S1B-007#19:1:A>
+Now here we have what we call in motion invisible liquid solid a
+movement
+
+<ICE-SIN:S1B-007#20:1:A>
+Now here we have relate to our processes call the extractive
+processes solvent extraction which I think I don't think you have done any
+experiment in that that will be in third year so solvent extraction
+
+<ICE-SIN:S1B-007#21:1:A>
+So liquid solid we have absorption dissolution in other word the
+solid the solute in the solid will then dissolve in a liquid okay
+
+<ICE-SIN:S1B-007#22:1:A>
+Now very important concept here is mass transfer will only occur if
+that is a departure from equilibrium whether it is in a singlephase or
+cross-phases okay
+
+<ICE-SIN:S1B-007#23:1:A>
+Now in a gas phase or in a vapour phase we can describe our
+composition in terms of Y-A which is the the uh ratio of the partial pressure
+of A divided by the total pressure that is given by Dalton Dalton's Law and
+he says summation of this partial pressure is equal to total pressure that's
+what we can find the composition in that way and this will be molar
+composition
+
+<ICE-SIN:S1B-007#24:1:A>
+And Dalton Russ which Rasult says that it is a simple relationship
+to the solute concentration in the other <unclear> word </unclear> in a
+liquid phase
+
+<ICE-SIN:S1B-007#25:1:A>
+So in P-A partial pressure is equal to Y-A-P over X-A
+
+<ICE-SIN:S1B-007#26:1:A>
+Now this is ideal system
+
+<ICE-SIN:S1B-007#27:1:A>
+Now non-ideal system of course we have I think in term of dynamics
+you already study about this activities
+
+<ICE-SIN:S1B-007#28:1:A>
+You cannot use X-A you must use activities and activities of course
+related to the activity coefficient and so on
+
+<ICE-SIN:S1B-007#29:1:A>
+Now Henry's Law Henry's Law is strictly is a very special case is
+strictly apply to only dilute solution or to solution which contains very
+sparingly soluble solute so so that the partial pressure is directly
+proportional to the concentration of the solute
+
+<ICE-SIN:S1B-007#30:1:A>
+Now this the second two relationship with Dalton Raoult's and
+Henry's Law describes the equilibrium relationship between the solute in a
+liquid and a solid in a gas phase okay
+
+<ICE-SIN:S1B-007#31:1:A>
+Now this is for the gas liquid
+
+<ICE-SIN:S1B-007#32:1:A>
+Now for the liquid liquid I just put the example for the gas liquid
+here for the liquid liquid same thing happens except that X-A and Y-A are now
+referring to the two liquid phases okay and this is what we call liquid
+liquid equilibrium relationship but they are not governed by the same law
+
+<ICE-SIN:S1B-007#33:1:A>
+Now the solid liquid the solid fluid now you have heard about
+adsorption you have heard about adsorption isotherm
+
+<ICE-SIN:S1B-007#34:1:A>
+The adsorption isotherm is a equilibrium relating the solute in a
+fluid and a solute absorbed onto the solid okay so that is the Demure
+
+<ICE-SIN:S1B-007#35:1:A>
+You have done that haven't you in your thermodynamics
+
+<ICE-SIN:S1B-007#36:1:A>
+No
+
+<ICE-SIN:S1B-007#37:1:A>
+Demure fixed law
+
+<ICE-SIN:S1B-007#38:1:A>
+So those are the fluid solid equilibrium
+
+<ICE-SIN:S1B-007#39:1:A>
+Don't be so stern
+
+<ICE-SIN:S1B-007#40:1:A>
+Don't worry about <unclear> word </unclear>
+
+<ICE-SIN:S1B-007#41:1:A>
+Now that part when you translate you have to remove this
+
+<ICE-SIN:S1B-007#42:1:A>
+They look they look so tense normally they are not like that your
+influence
+
+<ICE-SIN:S1B-007#43:1:A>
+Normally they were laughing and smiling okay anyway
+
+<ICE-SIN:S1B-007#44:1:A>
+So now we've come back to this the relationship now you must have
+wonder why did I talk about equilibrium
+
+<ICE-SIN:S1B-007#45:1:A>
+Now if you have a transfer from one place to another definitely
+there must be some relationship between the two phases and since you have a
+interface that equilibrium relationship most probably I say first most
+probably occur at the interface
+
+<ICE-SIN:S1B-007#46:1:A>
+Now through research and all it has establish that no matter what
+happen at interface at interface the composition of one phase is invariably
+in equilibrium with the second phase at the interface
+
+<ICE-SIN:S1B-007#47:1:A>
+Now there's some work long time ago regarding this phenomena and
+there's one research worker claim that there's certain departure
+
+<ICE-SIN:S1B-007#48:1:A>
+He call it the kinetic molecular departure but then the departure
+is so small that for all purpose and intention we say that it is at
+equilibrium and this make life very easy for design engineers okay
+
+<ICE-SIN:S1B-007#49:1:A>
+Now with that let's look at the composition diagram for the
+different model
+
+<ICE-SIN:S1B-007#50:1:A>
+Now we join the liquid the the film theory for one single phase and
+since now we have two phases
+
+<ICE-SIN:S1B-007#51:1:A>
+We have two film so we call this as two film model and this is
+first proposed by Lewis and Whitman
+
+<ICE-SIN:S1B-007#52:1:A>
+Each film is describe by the film theory regarding the transport of
+the solute from the bulk to the interface
+
+<ICE-SIN:S1B-007#53:1:A>
+This is the <unclear> word </unclear> separating the two phases and
+the other one the phase two is sort of described by similar ways and this is
+our concentration profile
+
+<ICE-SIN:S1B-007#54:1:A>
+Now here we find that the diagram there depicts the movement of A
+from the gas phase to the liquid phase and C-A-I P-A-I are the composition
+relating to the two phases at the interface and <unclear> word </unclear>
+that they are related through the equilibrium relationship no matter whether
+it's liquid liquid system solid fluid system or gas liquid system okay each
+one has its own type of equilibrium relationship
+
+<ICE-SIN:S1B-007#55:1:A>
+Now this conceptually P-A-I is not exactly sitting on the interface
+okay it's a little bit removed from interface it is the partial pressure of A
+at the interface just floating above the interface and the concentration
+C-A-I is just immediately in the liquid phase at the boundary condition at
+the boundary itself and together they maintain that relationship
+
+<ICE-SIN:S1B-007#56:1:A>
+So the the uh rate of transfer from the bulk of the of phase one to
+the interface is then described by this concentration jug within the film
+itself and it moves into the liquid phase after it has gone into the liquid
+phase or into the phase two
+
+<ICE-SIN:S1B-007#57:1:A>
+Now if phase two is liquid A when get from the gas into the liquid
+phase has to become a liquid state <unclear> word </unclear>
+
+<ICE-SIN:S1B-007#58:1:A>
+Now that becomes that join into the A in the liquid phase or in the
+phase two and then you move into the bulk solution
+
+<ICE-SIN:S1B-007#59:1:A>
+Now if the gas phase and the liquid phase are in motion and in
+constant motion and if P-A-G and C-A-L are constant in other word it is a
+dynamic system if they are constant then there will be a steady state whereby
+the rate of movement in the gas phase will then be equal to the rate of
+movement in the liquid phase
+
+<ICE-SIN:S1B-007#60:1:A>
+Now which is not a dynamic system
+
+<ICE-SIN:S1B-007#61:1:A>
+If it is just a batch system let's say you bubble gas into a liquid
+station and uh liquid which is stirred but then the liquid is not moving nor
+out of the system itself then the bulk concentration of the gas will decrease
+because more and more being absorbed into the liquid and then the liquid
+concentration through this absorption will then increases and there will come
+a time when the bulk solution will then appear together at the equilibrium
+concentration and the gas phase we were saying decrease to a concentration
+and this will then be at equilibrium in other words the whole system is at
+equilibrium there is no net transfer that is only for a batch system
+
+<ICE-SIN:S1B-007#62:1:A>
+So a batch system that movement is transient state
+
+<ICE-SIN:S1B-007#63:1:A>
+At steady state it is at equilibrium okay the gas concentration the
+solid concentration the gas phase because now there's no movement the bulk
+and interface and the film will be the same so that concentration will then
+be at equilibrium with the liquid concentration
+
+<ICE-SIN:S1B-007#64:1:A>
+Now in chemical engineering processes we are dealing mostly with
+steady state phenomena so this particular case illustrated here is of imp of
+importance
+
+<ICE-SIN:S1B-007#65:1:A>
+So here now we say N-A-Z that's the amount of A transfer in phase
+one is related to K-G times P-A-G minus P-A-I
+
+<ICE-SIN:S1B-007#66:1:A>
+Now this K-G as we said it is a mass transfer coefficient
+
+<ICE-SIN:S1B-007#67:1:A>
+Now the unit N-A will depends on how you define K-G alright
+
+<ICE-SIN:S1B-007#68:1:A>
+If you define K-G based on the unit per square area then N-A will
+be <unclear> word </unclear> per second per metre square in S-I unit
+
+<ICE-SIN:S1B-007#69:1:A>
+Okay P-A of course it is impartial pressure so your K-A must
+convert that partial pressure into the <unclear> word </unclear> of places
+right
+
+<ICE-SIN:S1B-007#70:1:A>
+So here your units are very important
+
+<ICE-SIN:S1B-007#71:1:A>
+Now for phase two similarly we have K-L C-A-I minus C-A-L
+
+<ICE-SIN:S1B-007#72:1:A>
+Now K-L is the mass transfer coefficient in the liquid phase
+
+<ICE-SIN:S1B-007#73:1:A>
+Now sometime we use the word film on top of it partly to identify
+that this relates to a special phase itself to phase one to phase two so
+usually we says film mass transfer coefficient
+
+<ICE-SIN:S1B-007#74:1:A>
+Later on you know why we have to use the word film to differentiate
+from what we call the overall mass transfer coefficient <X>
+
+<ICE-SIN:S1B-007#X75:1:A>
+Now this is no different from your heat transfer lecture given by
+Dr Neo right We have our individual film transfer coefficient and later on we
+have our overall film transfer coefficent Now this diagram here illustrate
+the equilibrium relationship between the two phases relating to this
+particular solute A and this eq the equilibrium curve this arbitrary it can
+be described by a given equilibrium relationship If it is described by
+Henry's Law then that is not a <unclear> word </unclear> relationship it is a
+linear relationship okay Now here we can see that at the interface the
+composition is represented on the equilibrium curve and if you look at this
+the slope of this line joining the P-A-G and C-A-L that particular point in
+other word it describe the bulk concentration to the interface composition
+That slope is given by minus K-L over K-G It's a ratio of the two mass
+transfer coefficient Now this are not dimensionless ah The slope is not
+dimensionless because K-L and K-G has different dimension depending on how
+you what is the concentration uh composition you are using Here we are using
+partial pressure and molar concentration Now if you change both of this
+relationship to molar composition then it is dimensionless otherwise it is
+not okay </X> </I>

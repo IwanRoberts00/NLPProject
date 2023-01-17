@@ -1,0 +1,474 @@
+<I>
+
+<ICE-SIN:W2A-027#1:1>
+<h> DEFECT-INDUCED DESORPTION PHENOMENA IN NON-METALLIC SOLIDS </h>
+
+<ICE-SIN:W2A-027#2:1>
+C K Ong
+
+<ICE-SIN:W2A-027#3:1>
+Department of Physics
+
+<ICE-SIN:W2A-027#4:1>
+National University of Singapore
+
+<ICE-SIN:W2A-027#5:1>
+Kent Ridge
+
+<ICE-SIN:W2A-027#6:1>
+Singapore 0511
+
+<ICE-SIN:W2A-027#7:1>
+The mechanisms of desorption phenomena of solids under laser
+irradiation exploit defects and defect processes.
+
+<ICE-SIN:W2A-027#8:1>
+This paper surveys the optical damages of ionic crystals and
+electronically - stimulated desorption both in ionic crystals and GaP.
+
+<ICE-SIN:W2A-027#9:1>
+Their properties in relation to such mechanisms are summarized.
+
+<ICE-SIN:W2A-027#10:1>
+<h> INTRODUCTION </h>
+
+<ICE-SIN:W2A-027#11:1>
+In the study of desorption phenomena of solids under optical or
+particle irradiation, defects and defect processes are important components.
+
+<ICE-SIN:W2A-027#12:1>
+Firstly, there may be intrinsic defects already present before the
+irradiation or some transient defects created by the incident beam.
+
+<ICE-SIN:W2A-027#13:1>
+Once the particle energies have been converted to thermal or
+electronic energy, there are several defect processes which may lead to
+defect annihilation or aggregation, or to processes like two-hole
+localization.
+
+<ICE-SIN:W2A-027#14:1>
+In the present paper, we discuss some of the main defects and defect
+processes in the context of the optical damages of alkali halides and GaP.
+
+<ICE-SIN:W2A-027#15:1>
+In this case, experimental work alone is not sufficient for a full
+understanding of the processes involved.
+
+<ICE-SIN:W2A-027#16:1>
+It is because the actual situation may be very complex and non-ideal
+that experiment cannot separate the many components involved.
+
+<ICE-SIN:W2A-027#17:1>
+The role of theory is to give quantitative predictions of the
+physical variables that make a system behave in one way rather than another,
+and ultimately with the use of such theory, to control or modify processes in
+desirable ways.
+
+<ICE-SIN:W2A-027#18:1>
+<h> RADIATION EFFECTS IN NON-METALLIC SOLIDS </h>
+
+<ICE-SIN:W2A-027#19:1>
+In interactions of radiation with non-metallic solids, the energy
+possessed by incident particles is transformed into the electronic excitation
+energy and lattice energy 1.
+
+<ICE-SIN:W2A-027#20:1>
+The lattice energy causes displacements of atoms from perfect sites
+and enhances thermal vibrations.
+
+<ICE-SIN:W2A-027#21:1>
+The electronic excitation energy can ( i) excite an electron from the
+core ( generate a core-hole) to the conduction band ( ii) generate a hole in
+the valence band and electrons in conduction bands.
+
+<ICE-SIN:W2A-027#22:1>
+The density of valence - electron excitation can be quite high.
+
+<ICE-SIN:W2A-027#23:1>
+The de-excitation from electronically excited states can produce
+vacancies and interstitials and even removal of the surface atoms in alkali
+halides.
+
+<ICE-SIN:W2A-027#24:1>
+However, in ordinary valence-electron excitation, no atomic processes
+are induced in most of the semiconductors.
+
+<ICE-SIN:W2A-027#25:1>
+<h> SELF-TRAPPED EXCITONS IN ALKALI HALIDES </h>
+
+<ICE-SIN:W2A-027#26:1>
+In the perfect crystal, the halide ions are in closed-shell
+configurations and so if they are brought together there is no net bonding.
+
+<ICE-SIN:W2A-027#27:1>
+If a hole is trapped on a pair of halide ions, an antibonding orbital
+is left only partially occupied, and net bonding occurs.
+
+<ICE-SIN:W2A-027#28:1>
+The result is that the self-trapping distortion involves the approach
+of two halide X-ions to form an effective ( X2)-molecule within the crystal
+and is strongly favoured energetically.
+
+<ICE-SIN:W2A-027#29:1>
+The field of the self-trapped hole or VK centre is sufficient to bind
+an electron in a more diffuse S-like state and is termed self-trapped exciton
+2.
+
+<ICE-SIN:W2A-027#30:1>
+In its ground state the hole is effectively immobilized, self-trapped
+by the formation of a molecular ion.
+
+<ICE-SIN:W2A-027#31:1>
+Self-trapped excitons are typically formed in a state where either
+the electron or the hole or both are excited.
+
+<ICE-SIN:W2A-027#32:1>
+These states are often denoted by the symbols [ e*h], [ eh*] and [
+e*h*] respectively.
+
+<ICE-SIN:W2A-027#33:1>
+The self-trapped exciton can recombine by the following mechanisms 3:
+
+<ICE-SIN:W2A-027#34:1>
+( 1) non-radiative with lifetime of lO-l2 s, giving damage / defects;
+
+<ICE-SIN:W2A-027#35:1>
+( 2) spin-allowed radiative ( a-luminesence) with radiative lifetime
+of 10_8 s;
+
+<ICE-SIN:W2A-027#36:1>
+( 3) spin-forbidden radiative ( ++-luminesence) with radiative
+lifetime of 10-3 s; as well as a variety of non-radiative channels with a
+range of lifetimes.
+
+<ICE-SIN:W2A-027#37:1>
+In the situation of high carrier densities, where the interaction
+between the single excitation events cannot be neglected, the recombination
+energy may be transferred to the electronic degrees of freedom and hence the
+defect is excited electronically.
+
+<ICE-SIN:W2A-027#38:1>
+The activation energy in an excited state is lower than the ground
+state.
+
+<ICE-SIN:W2A-027#39:1>
+Examples include the motion of self-trapped holes2 and vacancies in
+ionic crystals 4.
+
+<ICE-SIN:W2A-027#40:1>
+As mentioned earlier, nonradiative recombination gives rise to defect
+production ( Fig 1) eg [ eh*] -F +H where the self-trapped excition is in
+its excited state.
+
+<ICE-SIN:W2A-027#41:1>
+No defect formation is possible from the ground-state self-trapped
+exciton.
+
+<ICE-SIN:W2A-027#42:1>
+Such a nonradiative recombination process may be a significant factor
+in the desorption of halogen atoms from alkali halide surfaces.
+
+<ICE-SIN:W2A-027#43:1>
+This is elaborated upon in the next section.
+
+<ICE-SIN:W2A-027#44:1>
+<h> DESORPTION INDUCED BY ELECTRONIC TRANSITIONS IN ALKALI HALIDES
+</h>
+
+<ICE-SIN:W2A-027#45:1>
+Basically, two types of models have been suggested to explain
+desorption induced by two different types of excitation: the
+Menzel-Gomer-Redhead ( MGR) model for excitation of valence electrons and the
+Knotek-Feibelman ( KF) mechanism for excitation of core electrons.
+
+<ICE-SIN:W2A-027#46:1>
+In the MGR model, a Frank-Condon transition of valence electrona
+takes a bonding state into an antibonding state.
+
+<ICE-SIN:W2A-027#47:1>
+The creation of this antibonding state leads to a competition between
+electronic de-excitation and desorption.
+
+<ICE-SIN:W2A-027#48:1>
+The KF mechanism explains the desorption processes induced by
+core-electron excitation and assumes that localised two holes produced in the
+valence band due to Auger transition to a core hole lead to emission of ions
+resulting from Coulomb repulsion.
+
+<ICE-SIN:W2A-027#49:1>
+Here desorption predominates if the lifetime of the repulsive
+localised two holes is sufficiently long.
+
+<ICE-SIN:W2A-027#50:1>
+It has been suggested that this condition is satisfied if the
+hole-hole correlation energy ( U) is larger than the valence bandwidth ( W).
+
+<ICE-SIN:W2A-027#51:1>
+The localisation, however, is not a sufficient condition for
+desorption to occur.
+
+<ICE-SIN:W2A-027#52:1>
+The desorption process is also affected by the coordination number as
+well as the type of bonding.
+
+<ICE-SIN:W2A-027#53:1>
+For alkali halides and alkali-earth fluorides electron-lattice
+coupling is strong and therefore excitons and holes may be localised.
+
+<ICE-SIN:W2A-027#54:1>
+Thus self-trapping of excitons provides a site for the localisation
+of the energy possessed by an exciton.
+
+<ICE-SIN:W2A-027#55:1>
+However, a self-trapped exciton is structurally unstable and would
+decay to a vacancy and interstitial atom.
+
+<ICE-SIN:W2A-027#56:1>
+Therefore a self-trapped exciton near the surface may eventually
+become a halogen ion vacancy and an emitted halogen atom.
+
+<ICE-SIN:W2A-027#57:1>
+The energy possessed by localised excitons is converted partly to the
+kinetic energy of atoms being emitted.
+
+<ICE-SIN:W2A-027#58:1>
+The mechanism of desorption of halogen atom induced by
+valence-electron excitation is therefore an example of MGR mechanism.
+
+<ICE-SIN:W2A-027#59:1>
+In MGR mechanism, the yield of the desorption is proportional to the
+number of excitations of the valence electrons.
+
+<ICE-SIN:W2A-027#60:1>
+<h> LASER SPUTTERING FROM GaP </h>
+
+<ICE-SIN:W2A-027#61:1>
+<h> 1) Experimental results </h>
+
+<ICE-SIN:W2A-027#62:1>
+Experimental results from Itoh's group6 on laser induced sputtering
+of GaP can be summarized as follows ( Fig 2):
+
+<ICE-SIN:W2A-027#63:1>
+( 1) There is a threshold fluence for desorption and sputtering yield
+varies as a power law with laser fluence.
+
+<ICE-SIN:W2A-027#64:1>
+The threshold fluence is wavelength dependent.
+
+<ICE-SIN:W2A-027#65:1>
+The power law relation indicates that single excitation of surfaces
+does not lead to desorption but the interaction between excitation is needed
+for desorption, unlike that for alkali halides.
+
+<ICE-SIN:W2A-027#66:1>
+( 2) The change of the sputtering yield of Ga induced by repeated
+laser irradiation on the same spot is as follows: For low fluence, the LEED
+pattern does not change and the sputtering yield decreases rapidly at the
+beginning of the irradiation and becomes a constant.
+
+<ICE-SIN:W2A-027#67:1>
+For high fluence, the LEED spot is fading and the sputtering yield
+increases as pulsed irradiation is repeated.
+
+<ICE-SIN:W2A-027#68:1>
+<h> 2) Defect-initiated particle emission from GaP ( 110) surfaces
+</h>
+
+<ICE-SIN:W2A-027#69:1>
+In order to understand the experimental results, we perform a
+semi-empirical quantum mechanical calculation of the energy needed to eject a
+Ga or P atom7 from several types of defect sites on the GaP ( 110) surface.
+
+<ICE-SIN:W2A-027#70:1>
+The results are summarized in Table 1.
+
+<ICE-SIN:W2A-027#71:1>
+Energy ( eV) needed to remove a Ga atom or P atom from various defect
+sites on surfaces. <X>
+
+<ICE-SIN:W2A-027#X72:1>
+Defect type Ga@ perfect site vacancies Ga vacancy P vacancy Ga-P
+divacancy step site adatoms 2.67 2.82 2.98 2.40 1.46 2.59 1.32 2 2.31 3 Ga
+adatom P adatom anti-sites Ga(P) 2.58 P(Ga) .15 .61 2.06 4.20 </X>
+
+<ICE-SIN:W2A-027#73:1>
+Our results show that desorption of Ga or P atoms from the perfect
+sites generally require higher energies compared with those from defect
+sites.
+
+<ICE-SIN:W2A-027#74:1>
+The results confirm that defect-initiated particle desorption
+dominates over the desorption from the perfect sites.
+
+<ICE-SIN:W2A-027#75:1>
+It is shown that the energy for desorption of a Ga atom from an
+adatom is smaller than that from a step.
+
+<ICE-SIN:W2A-027#76:1>
+Experimental observation shows that the sputtering yield decreases as
+the number of laser shots on the same spot increases when the fluence is
+below a damage threshold.
+
+<ICE-SIN:W2A-027#77:1>
+It can be attributed to Ga atom desorbing from the adatom site.
+
+<ICE-SIN:W2A-027#78:1>
+The adatom will be eliminated by laser irradiation.
+
+<ICE-SIN:W2A-027#79:1>
+When the number of step sites is infinite on the surface, the
+sputtering yield will remain constant as the number of laser shots increases.
+
+<ICE-SIN:W2A-027#80:1>
+We now examine the results for vacancies.
+
+<ICE-SIN:W2A-027#81:1>
+If a P vacancy exists on the surface, a Ga atom is desorbed with a
+less energy than a P atom from its nearest neighbour, forming a Ga-P
+divacancy.
+
+<ICE-SIN:W2A-027#82:1>
+Since desorption of both Ga and P atoms near the divacancy involves
+relatively low binding energies, emission of another atom will occur
+subsequently.
+
+<ICE-SIN:W2A-027#83:1>
+We may expect that desorption of a P atom from a Ga-P-Ga trivacancy
+and of a Ga atom from P-Ga-P vacancy to proceed with less energy.
+
+<ICE-SIN:W2A-027#84:1>
+Similarly if a Ga vacancy exists on the surface, a vacancy cluster
+will evolve after a P atom is emitted.
+
+<ICE-SIN:W2A-027#85:1>
+The calculations illustrate that the laser ablation could be
+initiated by vacancies on surfaces.
+
+<ICE-SIN:W2A-027#86:1>
+The evolution of the vacancy cluster can also penetrate deep into the
+surface layers.
+
+<ICE-SIN:W2A-027#87:1>
+Based on the above results, we suggest a mechanism to generate "
+defect-free" perfect surfaces based on repetition of the following 2
+procedures: deposition of constituent atoms to eliminate vacancies on the
+surface and laser-irradiation to eliminate steps and adatoms.
+
+<ICE-SIN:W2A-027#88:1>
+<h> 3) Mechanism for desorption: multi-hole excitation </h>
+
+<ICE-SIN:W2A-027#89:1>
+Relaxation of a lattice, induced by formation of a hole and multi -
+holes on defects on a surface of GaP, has been investigated by Khoo et al.
+
+<ICE-SIN:W2A-027#90:1>
+It is shown that hole localisation on a surface atoms constituting
+the defect induces catastrophic behaviour.
+
+<ICE-SIN:W2A-027#91:1>
+The lack of symmetry for atoms on the surface exhibits a variety of
+features of coupling of the lattice with electronic excitations.
+
+<ICE-SIN:W2A-027#92:1>
+For the case of an adatom ( Fig 3), a single ionization induces a
+metastable state and the second excitation breaks the bond.
+
+<ICE-SIN:W2A-027#93:1>
+For the case of Ga antisite ( Fig 4) where a defect with trapped
+holes is located near the surface, an excitation causes the transfer of the
+hole to the surface atom inducing an intermediate state in which the surface
+atom is bonded weakly.* This weakly bonded intermediate state can be
+re-excited further and the bond for the surface atom is finally broken,
+leading to desorption.
+
+<ICE-SIN:W2A-027#94:1>
+The initial state ( Sl) of the Ga antisite defect located just below
+the surface is a negative -u state.
+
+<ICE-SIN:W2A-027#95:1>
+In the bulk, excitation would lead to the production of a metastable
+state higher in energy.
+
+<ICE-SIN:W2A-027#96:1>
+However, our results suggest that at the surface, because of lack of
+symmetry, excitation may lead to the production of a stable intermediate
+state lower in energy ( S2).
+
+<ICE-SIN:W2A-027#97:1>
+The appearance of this non-negative u state is therefore only for
+cases where there is a symmetry. </I>
+
+<I>
+
+<ICE-SIN:W2A-027#98:2>
+<h> D SEROEPIDEMIOLOGY OF CYTOMEGALOVIRUS INFECTION </h>
+
+<ICE-SIN:W2A-027#99:2>
+<h> INTRODUCTION </h>
+
+<ICE-SIN:W2A-027#100:2>
+Cytomegalovirus ( CMV) infection is usually asymptomatic.
+
+<ICE-SIN:W2A-027#101:2>
+However, it can present with a wide spectrum of disease
+manifestations including severe congenital malformation, a mononucleosis
+syndrome in adolescents and young adults, and fatal disseminated infection in
+immunocompromised persons.
+
+<ICE-SIN:W2A-027#102:2>
+Following primary infection, the virus becomes latent and may
+reactivate to cause recurrent infection, especially in bone marrow and kidney
+transplant recipients.
+
+<ICE-SIN:W2A-027#103:2>
+The virus is excreted in urine, saliva, breast milk, cervical
+secretions and faeces.
+
+<ICE-SIN:W2A-027#104:2>
+Transmission occurs vertically from mother to child and horizontally
+by intimate contact with an infectious person.
+
+<ICE-SIN:W2A-027#105:2>
+As viraemia may also be present in asymptomatic persons, primary
+infection can follow blood transfusion.
+
+<ICE-SIN:W2A-027#106:2>
+A seroepidemiological survey was conducted in 1990 to determine the
+prevalence of CMV infection in Singapore.
+
+<ICE-SIN:W2A-027#107:2>
+Blood samples were collected from apparently healthy infants and
+children who were being followed up for routine health assessment at a
+postnatal clinic, women attending government antenatal clinics, and blood
+donors.
+
+<ICE-SIN:W2A-027#108:2>
+Sera were analysed for IgG antibodies to CMV by enzyme immunoassay
+at the Virus Laboratory, Department of Pathology, Singapore General Hospital.
+
+<ICE-SIN:W2A-027#109:2>
+<h> RESULTS </h>
+
+<ICE-SIN:W2A-027#110:2>
+A total of 500 persons comprising 288 males and 212 females between
+6 months and 45+ years of age were tested.
+
+<ICE-SIN:W2A-027#111:2>
+Of these, 327 ( 65.4%) possessed antibodies to CMV.
+
+<ICE-SIN:W2A-027#112:2>
+The seroprevalence increased wih age from 32% in young children
+below 5 years of age to 53%-66% in older children and teenagers 5-19 years
+of age, and to 86%-94% in adults above 20 years of age ( Fig 6.10). <X>
+
+<ICE-SIN:W2A-027#X113:2>
+Females had a higher prevalence than males ( 73.6% and 59.4%,
+respectively) ( Table 6.1), with the greatest difference in adolescents and
+young adults between 15 and 24 years of age ( females 94%, males 58%, odds
+ratio 11.3; 95% confidence interval 2.8-37.5).
+
+<ICE-SIN:W2A-027#X114:2>
+The ethnic-specific prevalence rate of Indians ( 82.8%) was higher
+than that of Chinese ( 63.4%), Malays ( 71.2%) and others ( 66.7%), but the
+differences were not statistically significant Table 6.2). </X> </I>

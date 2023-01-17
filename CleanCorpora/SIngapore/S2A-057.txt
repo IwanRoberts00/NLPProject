@@ -1,0 +1,348 @@
+""
+""
+now what you see here is the workplace shelf okay
+""
+uhm these are icons okay
+""
+what you see here are icon
+""
+you can move them around using your mouse buttons okay
+""
+you can uhm drag them and reposition them and things like the a
+shape like this meant uh folders
+""
+this is quite the same as windows three dot x kind of uhm uh
+interface where you click and it open uh it's a folder or mackintosh okay
+""
+now i show you what are the differences okay
+""
+let me find a scratch disk
+""
+okay now for example i want to access uh my drive a the diskette
+that i've just stuck in okay
+""
+what normally i can do is i go to the command prompt and say a and
+let maybe fall back
+""
+but in in this kind of an object oriented workplace shelf what i
+can do is i open the drive folder and you can see that these are all the
+drive i have
+""
+i have a drive b drive is my uh tape  word  i
+have in my hard disk c d e f partition and i have a c r rom attached on this
+this system
+""
+so for exmaple like i want to okay this shows what i have in the a
+drive disk
+""
+it's blank now
+""
+for example like i want to format the disk i can just click on the
+icon and i got the pop up menu
+""
+okay i can just press and clicks and say format
+""
+okay and it give me what are the various uh capacity i i'll like to
+format
+""
+okay then i just click format
+""
+it'll go formatting
+""
+now let's look at the other uhm stuff we have on the desk top okay
+""
+we have things like a shredder here
+""
+okay which you can creates uh objects i mean you you can delete an
+object
+""
+for example uhm i want trash away this file called tic-tak-toe
+""
+i can just drag and drop on the shredder and guess what delete
+right
+""
+this is quite similar to mackintosh
+""
+anyone is a mackintosh user over there
+""
+ya it looks like mackintosh right
+""
+you drag it to the i think mackintosh is trash trash can okay
+""
+so this is delete and let let's look at the dos uhm folder here
+which i have all this dull dos icon here
+""
+what do i do if let's say if i want to change an icon okay
+""
+it's also object oriented right i just have to click the setting
+notebook for this icon and if this is lotus and i want to use this icon for
+it i can just drag this and i drop on the current icon box here and guess
+what
+""
+this icon is changed okay so it's this kind of thing
+""
+you don't have to issue command say change icon or you don't have
+to go to the top bar there and pull down your selection ah select icon change
+this kind of thing
+""
+so it's object oriented in this aspects and for example like uhm
+changing the colour of your uh system object
+""
+for example like i want to go to the background okay
+""
+uh i go to the system setup
+""
+what i need to do is i just open the colour palate the colours are
+ word  also object
+""
+what i have to do is just drag the colour and drop onto the place
+where i want to change
+""
+you can see that the colours change pretty nicely okay
+""
+and to activate programme is just by double clicking of the of the
+icon
+""
+and you'll see that while i was doing all those the formatting is
+done in the background
+""
+this is what i meant by multitasking and it's done
+""
+and for example i want to save a file onto drive b what do i do
+""
+i can just drag and drop on it
+""
+for example this file type a i'll drag and can see that i think the
+a drive should be blinking right
+""
+it's not
+""
+sorry
+""
+or i'll choose another file anyway
+""
+uhm how about  word 
+""
+ya if if in case for any reason why i can't move this file
+""
+you'll see that the no entry sign is there okay
+""
+not to worry let me copy something from my e drive uhm let me
+ word  save file does not use the text file
+""
+that means i can copy
+""
+can drag over drag you know hopefully
+""
+i think it's there
+""
+it's there right
+""
+i think so
+""
+so to show that it's there
+""
+okay the convix save file is there so but anyway if for any doser
+ word  common command prompt user would like to use
+command prompt die-hard
+""
+those of you without without seeing the command prompt 
+word  there's also o s two command prompt you can use okay
+""
+and from this command prompt you can always uh set
+""
+for this is the o s two command prompt and you can open up a dos
+file by just saying well then you can go to a dos environment okay
+""
+i'll show more of this later
+""
+okay uhm like for example like the drive folders i open up
+""
+you can also see that it's in a tree form and this the
+sub-directories are all organise in folders also okay
+""
+so it is object oriented in this ex aspect
+""
+now what i want to show you next is uhm compatiblity of uhm dos and
+window
+""
+i'l i'll have you got a very clear
+""
+i mean at least a clear idea of what workplace shelf
+""
+it's this shell this moving of icon this creating of icon deleting
+by dragging pulling  word  dropping this is what i meant
+easy to use or the or the workplace shell
+""
+okay the next topic that i want to go through is the compatibility
+of uhm dos okay
+""
+for i can run things like word perfect for dos okay and i can put
+them into the background
+""
+alright this is dos word perfect running in one window and i can
+run lotus one two three and i can put this also in the window form put them
+side by side okay
+""
+now by a by being able to run my dos applications side by side onto
+on on the desk on the o s two desk top what does it buy me as a user okay
+""
+in the dos environment or in the simple dos dos environment single
+tasking even uhm what you can do let's say you want to copy all this sales
+uhm figures all this figures onto a word processor file what you can do is
+you can only convert them to a file and then export them in word perfect
+""
+you have to read those text file in right
+""
+but let's say if you run can run them on the desk top side by side
+you can do simple things like cut and paste right and it hand  word
+ enhance the capability of your dos applications
+""
+it's not only the dos application you can do cut and paste
+""
+uhm in our office i'm using the comms manager two okay uhm i'm able
+to
+""
+you see now in the in the host environment let's say if i want to
+reply to a mail somebody send me a mail okay it's in fax form
+""
+i want to reply to the mail and i i like to do some quoting so
+normaly if if i don't don't have o s two cut and paste facility what i have
+to do is i have to copy that mail into a file
+""
+then i open up the file i use the text editor to add those arrow by
+the side
+""
+then i close that file
+""
+i have to evoke that mail and call that file in and then i send
+that file okay
+""
+now in in the host i mean if running on o s two what i can do is i
+just lift  word  up that portion of text mark it up in my
+incoming mail okay
+""
+it'll click and go into my o s two clip board
+""
+then i just have to key into i mean uh respond
+""
+then you have have another fresh uhm mailer screen to come up
+""
+then i say paste paste onto the same box okay
+""
+in that in that case i can do a lot of manipulation and that would
+add to my capability of my using my prompt my i b m prompt
+""
+i don't know whether this will give you a good idea or not because
+i think in n u s you just use prompt right
+""
+bitnet yah
+""
+for today's set up here you can see the two machine
+""
+actually we're trying to do some networking in this room but it was
+not really successful so we can't do that uh
+""
+therefore i just mention this okay
+""
+okay cut and paste
+""
+uh well this is just between the dos applications
+""
+now what i'm going to show is uhm sharing of datas uhm between o s
+two and windows applications
+""
+with this i would like to show that o s two can run windows and of
+course it can also share the windows application data with whatever
+application that it is running on windows platform okay
+""
+so i'll like to run excel here
+""
+this is microsoft excel
+""
+now in o s two point o when i run excel
+""
+i probably would have to run it in the full screen mode
+""
+that means uhm i have to go into the uh windows win dot com and
+you'll see whole whole page of window
+""
+but this application now is running what i call seamlessly on the
+o s two desk top okay
+""
+this within this box that you see here is all the windows kind of
+uh interface the minimise icon into this manner okay
+""
+now let's look at an o s two spreadsheet which is the lotus one
+two three
+""
+by the way the lotus one two three release two that this one i'm
+running is the thirty-two bit application
+""
+and i'll touch on the benefits of using thrity-two bit
+applications
+""
+where recently there was an article in the business times
+""
+i wonder if anyone read uh
+""
+in thirty-two bit we trust or something like that written by lim
+sin sin
+""
+now this this two spreadsheet is running side by side let me enter
+some figure onto this uh excel side
+""
+just some simple number
+""
+let me block it up and say copy then i edit and i paste link over
+this side
+""
+what i'm trying to do here is uh is d d e link okay
+""
+uhm does anybody know what's d ding d d e link
+""
+in the windows environment there is this called this link called
+dynamic data exchange link okay
+""
+you're able to share data dynamically uhm between two applications
+and if you change one the other one should change okay
+""
+normally what you see happens is between two windows applications
+""
+now i'm showing you is one on windows the other one is on o s two
+applications and d d e does work okay
+""
+now i want to change uhm for example this okay and you see that
+side is eight
+""
+perhaps the numbers you can't see properly
+""
+maybe i put it into a chart
+""
+okay this is uh o s two lotus one two three's chart then i choose
+this one
+""
+uh do i have a three d one
+""
+here is a three-d one and can see much better okay
+""
+so you can see that the d d e link data is almost instanteous
+update okay
+""
+i'll just like to explain a bit how this is being done so that you
+can appreciate that this is not actually as simple as what you see although
+you can see that the update is quite fast
+""
+first when you do the d d e okay the data has to go into a
+clipboard and that went into the win o s two clipboard first okay
+""
+that's the windows clipboard maintained by o s two 
+""
+now from there when i do a paste paste link over to a a o s twos
+application there's another clipboard is being call up and it's active in the
+background and we can't see that is the o s two clipboard and information is
+passed from uhm the excel into the clipboard in o s via  word
+ o s two and passed transferably to o s two's clipboard and goes
+out to lotus one two three's clipboard and all this passing around is
+transparent to the user and let alone when you save there's a change in value
+all these changes will be go through with this manner okay  

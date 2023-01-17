@@ -1,0 +1,556 @@
+<I>
+
+<ICE-SIN:W2A-034#1:1>
+<h> Manufacturing Document Management System </h>
+
+<ICE-SIN:W2A-034#2:1>
+V Narayanan
+
+<ICE-SIN:W2A-034#3:1>
+Information Technology Institute
+
+<ICE-SIN:W2A-034#4:1>
+National Computer Board
+
+<ICE-SIN:W2A-034#5:1>
+71 Science Park Drive, Singapore 0511
+
+<ICE-SIN:W2A-034#6:1>
+<h> Introduction </h>
+
+<ICE-SIN:W2A-034#7:1>
+In the past, much attention has been paid to factory and process
+automation to improve the productivity of the blue collar workers.
+
+<ICE-SIN:W2A-034#8:1>
+It is essential at this moment, to focus our attention on the
+information-intensive manufacturing office activities.
+
+<ICE-SIN:W2A-034#9:1>
+Though investments in word processing software have improved the
+efficiency of white collar workers, they have also accelerated the paper
+creation trend.
+
+<ICE-SIN:W2A-034#10:1>
+Nearly 95% of manufacturing engineers use paper, pencil, copiers,
+scissors, etc.
+
+<ICE-SIN:W2A-034#11:1>
+to create and revise their documents.
+
+<ICE-SIN:W2A-034#12:1>
+The communication channel between departments are often clogged with
+process sheets, tool lists, drawings and gaging and machining
+instructions[l].
+
+<ICE-SIN:W2A-034#13:1>
+Creating, revising, and improving manufacturing documents are costly
+and time consuming.
+
+<ICE-SIN:W2A-034#14:1>
+In addition, lost and misfiled documents are very common.
+
+<ICE-SIN:W2A-034#15:1>
+The mundane task of storing documents has become problematical and
+space is at a premium.
+
+<ICE-SIN:W2A-034#16:1>
+So, there is a need to develop shop documentation programs to solve
+the above problem.
+
+<ICE-SIN:W2A-034#17:1>
+It will save 50% of the time to create and 90% of the time to revise
+the manufacturing documents [ l].
+
+<ICE-SIN:W2A-034#18:1>
+It will also bring down the cost of document storage and retrieval to
+25%.
+
+<ICE-SIN:W2A-034#19:1>
+The integration of the enterprise-wise documentation, will help in
+achieving the concept of Computer Integrated Manufacturing ( CIM).
+
+<ICE-SIN:W2A-034#20:1>
+Kuniko Inoue, in her article in Look Japan[2], brought out the need
+for managing information from market surveys, production processes and
+delivery.
+
+<ICE-SIN:W2A-034#21:1>
+She adds, " It is imperative that the connection between sales and
+manufacturing activities are consolidated.
+
+<ICE-SIN:W2A-034#22:1>
+A major issue is how to accumulate and maintain a production
+knowledge system".
+
+<ICE-SIN:W2A-034#23:1>
+A network-based Manufacturing Document Management System ( MDMS) is
+thus proposed for the manufacturing sector.
+
+<ICE-SIN:W2A-034#24:1>
+This system will integrate functions such as design, production,
+sales and procurement.
+
+<ICE-SIN:W2A-034#25:1>
+For example, today individual engineers generate drawings on CAD, but
+circulate them by hand/mail.
+
+<ICE-SIN:W2A-034#26:1>
+This process can be made more efficient using MDMS.
+
+<ICE-SIN:W2A-034#27:1>
+CIM can be defined as a system to integrate manufacturing
+technologies by means of Information Technology ( IT).
+
+<ICE-SIN:W2A-034#28:1>
+So, CIM will be the plant's communication capacity.
+
+<ICE-SIN:W2A-034#29:1>
+This product is designed with this philosophy to strive for a CIM
+environment.
+
+<ICE-SIN:W2A-034#30:1>
+<h> 2 What is EDM? </h>
+
+<ICE-SIN:W2A-034#31:1>
+Electronic Document Management ( EDM) is a giant step in the
+automation of information processing.
+
+<ICE-SIN:W2A-034#32:1>
+EDM can be defined as, " The application of information technology to
+manage the flow of paper-based information.
+
+<ICE-SIN:W2A-034#33:1>
+EDM provides facilities for storing, accessing and retrieving
+documents in the electronic form." It is a synergy of a number of information
+technologies such as, Document Image Processing ( DIP), workflow, data
+processing, office automation, document understanding and intelligent
+retrieval.
+
+<ICE-SIN:W2A-034#34:1>
+The key is DIP, the technology to convert the paper-based
+information into the electronic counterpart.
+
+<ICE-SIN:W2A-034#35:1>
+The result is an environment whereby information from a variety of
+sources is completely automated and integrated.
+
+<ICE-SIN:W2A-034#36:1>
+To address the diversified of requirements, the EDM system spans a
+wide variety of sizes, complexity and cost ranging from standalone PCs to
+large ( mini or main frame based) systems [ 3,4].
+
+<ICE-SIN:W2A-034#37:1>
+Manufacturing Document Management System Computer-Aided Acquisition
+and Logistics Support ( CALS), a major US Department of Defence and Industry
+programme is attempting to automate and manage the large volume of technical
+information required to support a weapon system throughout its life cycle.
+
+<ICE-SIN:W2A-034#38:1>
+The standards being developed for CALS are based on existing and
+emerging national and international standards for interchange of text and
+graphics, and for database definition and access [ 5].
+
+<ICE-SIN:W2A-034#39:1>
+The CALS initiative will provide a good frame work for the proposed
+MDMS.
+
+<ICE-SIN:W2A-034#40:1>
+Manufacturing document Management system ( MDMS) will be an EDM,
+tailored to meet the needs of the manufacturing sector.
+
+<ICE-SIN:W2A-034#41:1>
+The proposed architecture is presented in figure 1.
+
+<ICE-SIN:W2A-034#42:1>
+The system captures different information types ( data, text, image,
+graphic, video and voice) and distributes to the users.
+
+<ICE-SIN:W2A-034#43:1>
+There will be a provision to modify/edit the document before the
+distribution.
+
+<ICE-SIN:W2A-034#44:1>
+Figure 2 is a typical MDMS, running on LANs or WANs.
+
+<ICE-SIN:W2A-034#45:1>
+Networking strategy will allow for the easy and staged incorporation
+of this advanced technology into an existing base of information systems.
+
+<ICE-SIN:W2A-034#46:1>
+It will be an open environment where industrial standards and non
+proprietary technologies are utilised.
+
+<ICE-SIN:W2A-034#47:1>
+UNIX will be the primary operating system, with the support for DOS
+and MS-Windows.
+
+<ICE-SIN:W2A-034#48:1>
+MDMS will be designed to manage multimedia information which
+includes, text, drawings, images and spread sheets.
+
+<ICE-SIN:W2A-034#49:1>
+MDMS will provide a unified environment for the management and
+routing of these diverse forms of information.
+
+<ICE-SIN:W2A-034#50:1>
+In addition, the system will support existing software such as
+graphic and text editors to process graphics and text.
+
+<ICE-SIN:W2A-034#51:1>
+<h> 3.1 Distributed System </h>
+
+<ICE-SIN:W2A-034#52:1>
+One of the most significant trends in computing today is the move
+towards distributed processing via what is known as the client-server model.
+
+<ICE-SIN:W2A-034#53:1>
+This architecture is proposed for MDMS, as presently most of the
+factories have standalone PCs or workstations.
+
+<ICE-SIN:W2A-034#54:1>
+These individual resources could be linked up using LAN for
+communication and sharing of resources.
+
+<ICE-SIN:W2A-034#55:1>
+Client-server computing will extend the value of distributed
+processing to the desktop by splitting an application into a front-end client
+application that resides on the end user's workstation and a 'back-end'
+server component that runs on computing resources anywhere in the corporate
+network.
+
+<ICE-SIN:W2A-034#56:1>
+The client presents and manipulates data while server stores,
+retrieves and protects data.
+
+<ICE-SIN:W2A-034#57:1>
+So in future, networked PCs accessing powerful server based
+applications in a distributed processing environment will allow the user to
+gain access to databases, mails, communication and document management
+services from the desktop.
+
+<ICE-SIN:W2A-034#58:1>
+The emergence of fax and ISDN will enhance the acceptance of MDMS.
+
+<ICE-SIN:W2A-034#59:1>
+3.2 Creation Scanning ( or digitizing) the information, in the form
+of photographs, drawings and pictures, using optical scanners is the first
+step to create the electronic documents from paper documents.
+
+<ICE-SIN:W2A-034#60:1>
+Available products with bi-level digitization capabilities at
+resolutions of 200-400 dots per inch and speeds of 3-10 pages per minute,
+will be sufficient for this application.
+
+<ICE-SIN:W2A-034#61:1>
+The system will be able to scan different types and varying sizes of
+documents.
+
+<ICE-SIN:W2A-034#62:1>
+It will have facilities for creating new forms like, a work-order
+form, a process routing form, a fixture form, and a quality inspection form.
+
+<ICE-SIN:W2A-034#63:1>
+It can be interfaced with other systems such as bills of materials
+systems, popular word-processing, text editing, desktop-publishing, and
+graphics CAD/CAM/CAE software packages.
+
+<ICE-SIN:W2A-034#64:1>
+It will be integrated with the terminal products, and other systems
+containing the source information.
+
+<ICE-SIN:W2A-034#65:1>
+3.3 Image Processing An image editor, developed at Information
+Technology Institute ( ITI) for Document Image Processing can be adapted for
+MDMS [ 6].
+
+<ICE-SIN:W2A-034#66:1>
+An A4 sheet scanned at 300 dots per inch(dpi) black and white
+requires 1.2 MBytes for storage.
+
+<ICE-SIN:W2A-034#67:1>
+So the images captured have to be converted or compressed to another
+form for efficient storage.
+
+<ICE-SIN:W2A-034#68:1>
+The two methods for conversion are, 1.
+
+<ICE-SIN:W2A-034#69:1>
+Convert raster to ASCII by Optical Character Readers ( OCR).
+
+<ICE-SIN:W2A-034#70:1>
+This is a very efficient method as an ASCII file consumes only about
+3 to 5% of the disk space used by an image.
+
+<ICE-SIN:W2A-034#71:1>
+With omnifont OCR systems, a vast majority of typed information on
+several fonts can be converted.
+
+<ICE-SIN:W2A-034#72:1>
+However, error rates are still high and they are useful for
+conversion only to a limited extent.
+
+<ICE-SIN:W2A-034#73:1>
+2.
+
+<ICE-SIN:W2A-034#74:1>
+Vectorisation: Vector data treats an image as a series of points and
+geometric figures such as lines, circles or arcs.
+
+<ICE-SIN:W2A-034#75:1>
+This process of converting raster data into vector data is suitable
+for images containing line drawings, flow diagrams and circuit diagrams.
+
+<ICE-SIN:W2A-034#76:1>
+Most of the documents that are not suitable for conversion by the
+above methods are compressed as per a two dimensional coding scheme,
+complying with international standards like CCITT G4 for interchangeability.
+
+<ICE-SIN:W2A-034#77:1>
+The document file format used in the image editor was Tag Image File
+Format ( l l), which is a de facto standard.
+
+<ICE-SIN:W2A-034#78:1>
+This is useful when transmitting the images through fax gateways.
+
+<ICE-SIN:W2A-034#79:1>
+Editing functions provided include cut, paste, copy, move, crop,
+delete, scale and rotate ( refer figure 3).
+
+<ICE-SIN:W2A-034#80:1>
+<h> 3.4 Database </h>
+
+<ICE-SIN:W2A-034#81:1>
+The electronic documents can be efficiently indexed and retrieved by
+relational DBMS's and SQL queries.
+
+<ICE-SIN:W2A-034#82:1>
+Network-based client-server DBMSs will be sufficient for this.
+
+<ICE-SIN:W2A-034#83:1>
+The manufacturing documents can be identified with a part or drawing
+number as the main index or combined with other indices like work order
+number.
+
+<ICE-SIN:W2A-034#84:1>
+It will also allow remote users to copy a document or make changes
+without corrupting the originals.
+
+<ICE-SIN:W2A-034#85:1>
+3.5 Storage The multimedia information will be stored in optical
+disks on juke boxes.
+
+<ICE-SIN:W2A-034#86:1>
+A single 12 inches optical disk can store as much as 50000 A4 images
+using suitable compression algorithms.
+
+<ICE-SIN:W2A-034#87:1>
+A juke box uses robotic technology for mounting and dismounting
+optical disks allowing quick online access to several million images.
+
+<ICE-SIN:W2A-034#88:1>
+3.6 User Interface User interface will consist of icons and pull down
+menus.
+
+<ICE-SIN:W2A-034#89:1>
+It will use windows as a consistent interface across desktop
+technologies, applications, and operating environments.
+
+<ICE-SIN:W2A-034#90:1>
+The documents will be displayed using relatively inexpensive high
+resolution monitors ( 1000 x 1000 pixels).
+
+<ICE-SIN:W2A-034#91:1>
+The output can also be printed using the laser printer or fax.
+
+<ICE-SIN:W2A-034#92:1>
+3.7 Workflow Workflow is an important unifying factor for the
+enterprise-wise imaging and will allow for more accurate decision making.
+
+<ICE-SIN:W2A-034#93:1>
+It will automate the flow of documents according to a predesigned
+route for action, approval and review.
+
+<ICE-SIN:W2A-034#94:1>
+This opens doors for parallel processing of documents.
+
+<ICE-SIN:W2A-034#95:1>
+It is also expected to provide an environment to integrate all the
+functions such as creation, revision, review, approval, control, archiving,
+tracing and displaying documents[7].
+
+<ICE-SIN:W2A-034#96:1>
+<h> Fi 3 Image Editor developed by mf6l </h>
+
+<ICE-SIN:W2A-034#97:1>
+A prototype has been built for a workflow mailing or mail sequencing
+system [ 8].
+
+<ICE-SIN:W2A-034#98:1>
+The initiator creates a workflow mail, specifies the sequence and
+passes it to the first person in the sequence.
+
+<ICE-SIN:W2A-034#99:1>
+The initiator can add his comments in the attachment.
+
+<ICE-SIN:W2A-034#100:1>
+The attachment is used for appending annotations made by each person
+in the sequence.
+
+<ICE-SIN:W2A-034#101:1>
+A provision is available for any person in the sequence to query the
+initiator or people who have already processed the workflow mail.
+
+<ICE-SIN:W2A-034#102:1>
+Query messages and clarifications are also treated as annotations.
+
+<ICE-SIN:W2A-034#103:1>
+When a mail moves from one person to another, a status mail is
+generated and sent to the initiator.
+
+<ICE-SIN:W2A-034#104:1>
+Processing workflow mail involves adding annotation and pass it to
+the next person ( see figure 4).
+
+<ICE-SIN:W2A-034#105:1>
+Workflow system for MDMS can be developed based on this concept.
+
+<ICE-SIN:W2A-034#106:1>
+The workflow architecture of MDMS, will facilitate the engineering
+change release procedure for engineering documents including drawings within
+a distributed manufacturing environment.
+
+<ICE-SIN:W2A-034#107:1>
+<h> 3.8 Intelligent Documentation </h>
+
+<ICE-SIN:W2A-034#108:1>
+The system can be enhanced to automatically identify the input
+document format of scanned images for classification and indexing purposes.
+
+<ICE-SIN:W2A-034#109:1>
+It will have limited capabilities to understand image contents (
+referred as image understanding) as human operators do, in order to direct
+archival, retrieval and workflow activities within a business.
+
+<ICE-SIN:W2A-034#110:1>
+It will be able to search for documents even with incomplete or
+erroneous information.
+
+<ICE-SIN:W2A-034#111:1>
+3.9 Networking More companies are moving towards globalizing their
+businesses and there is a major shift towards decentralized production.
+
+<ICE-SIN:W2A-034#112:1>
+This creates a need for the various manufacturing units of an
+enterprise to access information and exchange documents among themselves.
+
+<ICE-SIN:W2A-034#113:1>
+There will be a need even for cooperative processing in the near
+future.
+
+<ICE-SIN:W2A-034#114:1>
+The MDMS architecture has been designed to address the need for
+multi-enterprise networking.
+
+<ICE-SIN:W2A-034#115:1>
+4 Document Standard Document standards are required for document
+exchange among a variety of systems.
+
+<ICE-SIN:W2A-034#116:1>
+The most significant international standards are the Office Document
+Architecture ( ODA-ISO 8613) and the standard Generalized Markup Language (
+SGML - IS 8879).
+
+<ICE-SIN:W2A-034#117:1>
+<h> Process Workflow </h>
+
+<ICE-SIN:W2A-034#118:1>
+Originator: SHAN
+
+<ICE-SIN:W2A-034#119:1>
+Workflow sequence: HARIN SHAN NARA ROLAND
+
+<ICE-SIN:W2A-034#120:1>
+Subject: Demo workflow
+
+<ICE-SIN:W2A-034#121:1>
+Deadline: 5
+
+<ICE-SIN:W2A-034#122:1>
+Return completed Mail: Y
+
+<ICE-SIN:W2A-034#123:1>
+<h> Annotation </h>
+
+<ICE-SIN:W2A-034#124:1>
+Equipment required for demo:
+
+<ICE-SIN:W2A-034#125:1>
+1. Z PCS
+
+<ICE-SIN:W2A-034#126:1>
+Z. hppet scanner
+
+<ICE-SIN:W2A-034#127:1>
+3. overhead projector
+
+<ICE-SIN:W2A-034#128:1>
+<h> Fi 4 Workflow Mailing System </h>
+
+<ICE-SIN:W2A-034#129:1>
+ODA facilitates the interchange of office documents, such as
+reports, invoices, letters, memoranda, etc.
+
+<ICE-SIN:W2A-034#130:1>
+ODA treats documents as collections of elements, known as objects.
+
+<ICE-SIN:W2A-034#131:1>
+Each object is defined by attributes, which describe its type and
+structure.
+
+<ICE-SIN:W2A-034#132:1>
+Through its attributes, each object is self-defined and independent
+of other objects.
+
+<ICE-SIN:W2A-034#133:1>
+Users themselves set and modify the attributes of the objects.
+
+<ICE-SIN:W2A-034#134:1>
+For example, a paragraph object has type described as text, and has
+attributes such as line length, word spacing, font type, and size that define
+its appearance.
+
+<ICE-SIN:W2A-034#135:1>
+ODA defines two structures, logical and layout structures that may
+be applied to a document. <X>
+
+<ICE-SIN:W2A-034#X136:1>
+The logical structure is based on the meaning of various divisions
+of the document.
+
+<ICE-SIN:W2A-034#X137:1>
+It is primarily hierarchical and sequential.
+
+<ICE-SIN:W2A-034#X138:1>
+For example, the logical structure of a document may consist of
+chapters, sections and paragraphs, headers, footnotes, illustrations,
+sentences, figures, tables, charts, and lists.
+
+<ICE-SIN:W2A-034#X139:1>
+The layout structure is structured on the basis of the presentation
+of the document when being printed or viewed.
+
+<ICE-SIN:W2A-034#X140:1>
+For example, the layout structure of a document may consist of page
+set, composite page, basic page and, within the pages, frames and blocks.
+
+<ICE-SIN:W2A-034#X141:1>
+The structure of ODA gives its flexibility and reusability.
+
+<ICE-SIN:W2A-034#X142:1>
+When creating a document, some parts of it will be in a very
+standard form which will be used over and over again.
+
+<ICE-SIN:W2A-034#X143:1>
+The best example of this is a style sheet in a desktop publishing.
+</X> </I>

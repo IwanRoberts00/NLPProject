@@ -1,0 +1,842 @@
+<I> <X>
+
+<ICE-SIN:S1B-080#X1:1> Date 29 March 1999 Place: Shop </X>
+
+<$A> 
+<ICE-SIN:S1B-080#2:1:A>
+Hi
+
+<$B> 
+<ICE-SIN:S1B-080#3:1:B>
+Hello
+
+<$A> 
+<ICE-SIN:S1B-080#4:1:A>
+Hello uhm what can I help you
+
+<$B> 
+<ICE-SIN:S1B-080#5:1:B>
+Uhm I am actually browsing lah because I am uhm looking for
+some some toys to start my own collection
+
+<$A> 
+<ICE-SIN:S1B-080#6:1:A>
+Oh
+
+<ICE-SIN:S1B-080#7:1:A>
+Okay we have many toys here
+
+<ICE-SIN:S1B-080#8:1:A>
+Okay so you got to decide what you are really interested in
+
+<$B> 
+<ICE-SIN:S1B-080#9:1:B>
+Uhm I am more interested into Star Wars
+
+<$A> 
+<ICE-SIN:S1B-080#10:1:A>
+Star Wars all right ah
+
+<ICE-SIN:S1B-080#11:1:A>
+You have picked a very very difficult collection to start with
+
+<$B> 
+<ICE-SIN:S1B-080#12:1:B>
+Yes I know
+
+<$A> 
+<ICE-SIN:S1B-080#13:1:A>
+But let me introduce myself first
+
+<ICE-SIN:S1B-080#14:1:A>
+My name is Tow Yi
+
+<$B> 
+<ICE-SIN:S1B-080#15:1:B>
+Hello I am Christine
+
+<$A> 
+<ICE-SIN:S1B-080#16:1:A>
+Christine all right okay
+
+<ICE-SIN:S1B-080#17:1:A>
+So what why are you interested in Star Wars
+
+<$B> 
+<ICE-SIN:S1B-080#18:1:B>
+Star Wars probably I am because probably because of the uhm
+movies
+
+<$A> 
+<ICE-SIN:S1B-080#19:1:A>
+Uhm
+
+<$B> 
+<ICE-SIN:S1B-080#20:1:B>
+I am quite fascinated by the you know the costumes and stuff
+like that
+
+<$A> 
+<ICE-SIN:S1B-080#21:1:A>
+Ah ya
+
+<ICE-SIN:S1B-080#22:1:A>
+I agree with you too
+
+<$B> 
+<ICE-SIN:S1B-080#23:1:B>
+And the story line
+
+<ICE-SIN:S1B-080#24:1:B>
+Too bad it is quite ya very exciting
+
+<$A> 
+<ICE-SIN:S1B-080#25:1:A>
+The things about good versus evil light versus dark
+
+<$B> 
+<ICE-SIN:S1B-080#26:1:B>
+Ya ya ya ya
+
+<$A> 
+<ICE-SIN:S1B-080#27:1:A>
+Ya it is fantastic
+
+<ICE-SIN:S1B-080#28:1:A>
+It is just very very good
+
+<ICE-SIN:S1B-080#29:1:A>
+Aren't you excited about the new movie coming out
+
+<$B> 
+<ICE-SIN:S1B-080#30:1:B>
+Ya ya ya
+
+<$A> 
+<ICE-SIN:S1B-080#31:1:A>
+Ya I heard that the date that it will be shown in Singapore is
+June the third
+
+<$B> 
+<ICE-SIN:S1B-080#32:1:B>
+Ya I heard about it before
+
+<$A> 
+<ICE-SIN:S1B-080#33:1:A>
+And the trailers are already running in some of the cinemas
+
+<ICE-SIN:S1B-080#34:1:A>
+And it is very very good
+
+<$B> 
+<ICE-SIN:S1B-080#35:1:B>
+I have not seen it yet
+
+<$A> 
+<ICE-SIN:S1B-080#36:1:A>
+Haven't seen it yet
+
+<ICE-SIN:S1B-080#37:1:A>
+You better you must check it out
+
+<ICE-SIN:S1B-080#38:1:A>
+It is very very good
+
+<$B> 
+<ICE-SIN:S1B-080#39:1:B>
+I just heard it from my friends
+
+<ICE-SIN:S1B-080#40:1:B>
+And it is good you know
+
+<$A> 
+<ICE-SIN:S1B-080#41:1:A>
+Ya ya you know what is the story about this this
+
+<ICE-SIN:S1B-080#42:1:A>
+A lot of people has been asking what is the story about
+
+<$B> 
+<ICE-SIN:S1B-080#43:1:B>
+Uh not very sure
+
+<$A> 
+<ICE-SIN:S1B-080#44:1:A>
+Actually you know about Star Wars right
+
+<$B> 
+<ICE-SIN:S1B-080#45:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1B-080#46:1:A>
+Star Wars the trilogy is actually the forth part of the story
+that George Lucas thought of
+
+<ICE-SIN:S1B-080#47:1:A>
+So Empire Strikes Back is the fifth and Return of the Jedi is
+actually the sixth
+
+<ICE-SIN:S1B-080#48:1:A>
+Now he is going back to explain the story of how uhm uhm the dark
+the evil forces came about rebellion came about and how how a small little
+boy called Anakin Skywalker becomes Darth Vader
+
+<$B> 
+<ICE-SIN:S1B-080#49:1:B>
+I see
+
+<ICE-SIN:S1B-080#50:1:B>
+Should be interesting
+
+<$A> 
+<ICE-SIN:S1B-080#51:1:A>
+Ya very grand
+
+<ICE-SIN:S1B-080#52:1:A>
+Ya very grand
+
+<ICE-SIN:S1B-080#53:1:A>
+A lot of there is a lot a lot being written about it and uhm can't
+wait just can't wait
+
+<ICE-SIN:S1B-080#54:1:A>
+Now let us go into the toys
+
+<ICE-SIN:S1B-080#55:1:A>
+So so it is such a big collection to start with and Star Wars toys
+have been around for so many years vehicles figurines play sets and things
+like that
+
+<ICE-SIN:S1B-080#56:1:A>
+So uhm you have decide where to start with
+
+<ICE-SIN:S1B-080#57:1:A>
+You cannot start I don't think you want to buy everything because
+it would be a fortune
+
+<$B> 
+<ICE-SIN:S1B-080#58:1:B>
+No I cannot afford so probably I would start uhm with the
+newer ones ha
+
+<$A> 
+<ICE-SIN:S1B-080#59:1:A>
+The newer ones ha
+
+<$B> 
+<ICE-SIN:S1B-080#60:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-080#61:1:A>
+But the newer ones uhm uhm actually it has been around for
+some time also
+
+<$B> 
+<ICE-SIN:S1B-080#62:1:B>
+Yes I know
+
+<$A> 
+<ICE-SIN:S1B-080#63:1:A>
+Ya it also cost quite a lot and because you started so late
+and a lot of the figures that you may want would be very very difficult to
+find
+
+<$B> 
+<ICE-SIN:S1B-080#64:1:B>
+I will just get those by which you can find first and the rest
+I will think later
+
+<ICE-SIN:S1B-080#65:1:B>
+And depending on the price also
+
+<$A> 
+<ICE-SIN:S1B-080#66:1:A>
+Oh yes
+
+<$B> 
+<ICE-SIN:S1B-080#67:1:B>
+So how much are you selling yours
+
+<$A> 
+<ICE-SIN:S1B-080#68:1:A>
+Uhm I always like new collectors to start their new collection
+and I always wish them to carry on because it is such uh uh to me it is a
+very nice hobby
+
+<ICE-SIN:S1B-080#69:1:A>
+I have been doing this for so many years
+
+<ICE-SIN:S1B-080#70:1:A>
+So I will give you a very reasonable price
+
+<ICE-SIN:S1B-080#71:1:A>
+Very reasonable believe me
+
+<ICE-SIN:S1B-080#72:1:A>
+You will Okay we will talk about the price later but let us not
+talk about that
+
+<ICE-SIN:S1B-080#73:1:A>
+Maybe we talk about the figures and things like that
+
+<ICE-SIN:S1B-080#74:1:A>
+So the thing about the figures is it is very small but somebody
+like to start with the dolls the twelve inch dolls
+
+<ICE-SIN:S1B-080#75:1:A>
+I have a few here I can show you like this is Princess Leia all
+white and things like that
+
+<$B> 
+<ICE-SIN:S1B-080#76:1:B>
+No I think I prefer the smaller ones
+
+<$A> 
+<ICE-SIN:S1B-080#77:1:A>
+The smaller ones ha
+
+<$B> 
+<ICE-SIN:S1B-080#78:1:B>
+Yes which is more expensive
+
+<$A> 
+<ICE-SIN:S1B-080#79:1:A>
+Ya
+
+<ICE-SIN:S1B-080#80:1:A>
+But maybe I suggest this
+
+<ICE-SIN:S1B-080#81:1:A>
+The thing to start with maybe a theme
+
+<$B> 
+<ICE-SIN:S1B-080#82:1:B>
+A what
+
+<$A> 
+<ICE-SIN:S1B-080#83:1:A>
+Start with a theme
+
+<ICE-SIN:S1B-080#84:1:A>
+Okay for some people it would be too much for them to start with
+
+<ICE-SIN:S1B-080#85:1:A>
+They like to start with a certain scenario like uhm uhm certain
+guys I know they like the bounty hunters a lot
+
+<ICE-SIN:S1B-080#86:1:A>
+They appear in you know in the Empire Strikes Back
+
+<$B> 
+<ICE-SIN:S1B-080#87:1:B>
+If I am not wrong I think is Boba Fett
+
+<$A> 
+<ICE-SIN:S1B-080#88:1:A>
+Boba Fett and uh a lot of other characters also Bousk and
+things like that
+
+<ICE-SIN:S1B-080#89:1:A>
+So what I suggest one way you can do is go about doing this is uhm
+you can actually get the bounty hunters first
+
+<ICE-SIN:S1B-080#90:1:A>
+Set that scene you know set your scene because that is your
+favourite scene
+
+<$B> 
+<ICE-SIN:S1B-080#91:1:B>
+Ya ya
+
+<ICE-SIN:S1B-080#92:1:B>
+In fact I like them
+
+<$A> 
+<ICE-SIN:S1B-080#93:1:A>
+Ya what else
+
+<ICE-SIN:S1B-080#94:1:A>
+I know some of the girls believe me girls also come to my shop to
+buy toys and things
+
+<ICE-SIN:S1B-080#95:1:A>
+Not for their husbands or their boy friends but for themselves
+
+<ICE-SIN:S1B-080#96:1:A>
+So when you come in I am not surprised
+
+<$B> 
+<ICE-SIN:S1B-080#97:1:B>
+Ya some of my friends do that too
+
+<$A> 
+<ICE-SIN:S1B-080#98:1:A>
+Ya ya it is nice
+
+<ICE-SIN:S1B-080#99:1:A>
+Uhm uhm some of the girls they like Return of the Jedi
+
+<ICE-SIN:S1B-080#100:1:A>
+Especially the cute little guys the Ewoks
+
+<$B> 
+<ICE-SIN:S1B-080#101:1:B>
+Ya ya
+
+<$A> 
+<ICE-SIN:S1B-080#102:1:A>
+You know about that right
+
+<$B> 
+<ICE-SIN:S1B-080#103:1:B>
+I saw the cartoons
+
+<$A> 
+<ICE-SIN:S1B-080#104:1:A>
+So what these what they do is that buy all the ewoks and they
+create a scene all from there and I have a special special play set over here
+called the Ewok Village that I import from the States
+
+<ICE-SIN:S1B-080#105:1:A>
+And it is not it will not be made
+
+<ICE-SIN:S1B-080#106:1:A>
+It has not been made it has stopped manufacturing Ewok Village for
+a long long time but I get in through them quite quite all right about fifty
+dollars
+
+<$B> 
+<ICE-SIN:S1B-080#107:1:B>
+For how many
+
+<$A> 
+<ICE-SIN:S1B-080#108:1:A>
+It just that Ewok Village with all the play sets
+
+<ICE-SIN:S1B-080#109:1:A>
+Let me show you let me show you
+
+<$B> 
+<ICE-SIN:S1B-080#110:1:B>
+Okay it should be interesting
+
+<$A> 
+<ICE-SIN:S1B-080#111:1:A>
+Ya like you see the net here the fireplace you know all the
+place they stay in
+
+<ICE-SIN:S1B-080#112:1:A>
+And you got traps here and things like that
+
+<ICE-SIN:S1B-080#113:1:A>
+Catapults you know the place where they place the catapults the
+tree trunks and things like that
+
+<ICE-SIN:S1B-080#114:1:A>
+So you can get all the Ewoks and put on it and you can get your
+own little scenario is nice
+
+<$B> 
+<ICE-SIN:S1B-080#115:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1B-080#116:1:A>
+And they and they Kenner has made things that are very
+unusual lah you know
+
+<ICE-SIN:S1B-080#117:1:A>
+There is that like this is a combat glider
+
+<ICE-SIN:S1B-080#118:1:A>
+You know the part that you see in Return of the Jedi where Ewok
+was on a glider and he threw stones on the Chicken Walkers and there are so
+many other things
+
+<ICE-SIN:S1B-080#119:1:A>
+So that is one way you can start with
+
+<$B> 
+<ICE-SIN:S1B-080#120:1:B>
+I see
+
+<$A> 
+<ICE-SIN:S1B-080#121:1:A>
+Ya ya or another way is that you go with your favourite
+characters
+
+<ICE-SIN:S1B-080#122:1:A>
+What are the characters in Star Wars movies that you really like
+
+<ICE-SIN:S1B-080#123:1:A>
+I have a friend a lady friend who likes Princess Leia a lot
+
+<$B> 
+<ICE-SIN:S1B-080#124:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1B-080#125:1:A>
+Ya and she comes in different uhm different uniforms and
+clothes and dresses and things like that
+
+<ICE-SIN:S1B-080#126:1:A>
+So what she does is that she only buys the Princess Leias
+
+<ICE-SIN:S1B-080#127:1:A>
+All different things or she buys the twelve dolls she buys all the
+figures with Princess Leia
+
+<ICE-SIN:S1B-080#128:1:A>
+So she sticks with this
+
+<$B> 
+<ICE-SIN:S1B-080#129:1:B>
+I think it cost quite a lot right if I am not wrong
+
+<$A> 
+<ICE-SIN:S1B-080#130:1:A>
+No if you go by theme in this way if you go by a certain
+scenario in this way it cost much less
+
+<$B> 
+<ICE-SIN:S1B-080#131:1:B>
+I see
+
+<$A> 
+<ICE-SIN:S1B-080#132:1:A>
+Rather than to start from scratch and you buy everything
+there is and you can't even find some of the things and I tell you some of
+the things uhm they don't make now and they are very very expensive
+
+<ICE-SIN:S1B-080#133:1:A>
+Like I have here maybe this particular Luke Skywalker with the
+long sabre
+
+<$B> 
+<ICE-SIN:S1B-080#134:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1B-080#135:1:A>
+When they first made it they made the long sabre and it is
+not proportional with the with the size of the figures
+
+<$B> 
+<ICE-SIN:S1B-080#136:1:B>
+Ya I heard about it
+
+<$A> 
+<ICE-SIN:S1B-080#137:1:A>
+Ya ya so if you want to get back all these collectors' item
+they are very difficult to find
+
+<ICE-SIN:S1B-080#138:1:A>
+But in another way if you are not particular about this
+
+<ICE-SIN:S1B-080#139:1:A>
+They're made this using short light sabre
+
+<ICE-SIN:S1B-080#140:1:A>
+And uhm they don't cost a bomb
+
+<ICE-SIN:S1B-080#141:1:A>
+They cost about ten bucks each
+
+<$B> 
+<ICE-SIN:S1B-080#142:1:B>
+I see
+
+<$A> 
+<ICE-SIN:S1B-080#143:1:A>
+Easily manageable so you have to decide where where you want
+to start with
+
+<$B> 
+<ICE-SIN:S1B-080#144:1:B>
+I see okay
+
+<ICE-SIN:S1B-080#145:1:B>
+What about Aliens uh
+
+<$A> 
+<ICE-SIN:S1B-080#146:1:A>
+Oh Aliens okay
+
+<ICE-SIN:S1B-080#147:1:A>
+I know about Aliens a lot because uh believe it or not I didn't
+start with Star Wars when I started collection
+
+<ICE-SIN:S1B-080#148:1:A>
+I actually started with Aliens
+
+<$B> 
+<ICE-SIN:S1B-080#149:1:B>
+I see
+
+<ICE-SIN:S1B-080#150:1:B>
+I like the shows a lot you know
+
+<$A> 
+<ICE-SIN:S1B-080#151:1:A>
+Ya the movies are great right
+
+<$B> 
+<ICE-SIN:S1B-080#152:1:B>
+Ya but I know the toys are very rare now
+
+<ICE-SIN:S1B-080#153:1:B>
+You cannot get it anywhere
+
+<$A> 
+<ICE-SIN:S1B-080#154:1:A>
+Oh ya very difficult to get
+
+<$B> 
+<ICE-SIN:S1B-080#155:1:B>
+Do you sell them by the way
+
+<$A> 
+<ICE-SIN:S1B-080#156:1:A>
+I do I do
+
+<ICE-SIN:S1B-080#157:1:A>
+I do sell them and sometimes on and off I try to locate them from
+overseas and I try to bring them in to Singapore
+
+<ICE-SIN:S1B-080#158:1:A>
+Because there's still a lot of collectors are there who are very
+keen on Aliens stuff
+
+<$B> 
+<ICE-SIN:S1B-080#159:1:B>
+Ya ya ya
+
+<ICE-SIN:S1B-080#160:1:B>
+I like the show very much
+
+<$A> 
+<ICE-SIN:S1B-080#161:1:A>
+Ya I love it too
+
+<ICE-SIN:S1B-080#162:1:A>
+And incidentally that's how I started toy collection
+
+<$B> 
+<ICE-SIN:S1B-080#163:1:B>
+From Aliens
+
+<$A> 
+<ICE-SIN:S1B-080#164:1:A>
+From Aliens ya
+
+<ICE-SIN:S1B-080#165:1:A>
+So so we have talked a lot so are you going to get today or do you
+want to wait another day to get
+
+<$B> 
+<ICE-SIN:S1B-080#166:1:B>
+Uhm probably another day lah
+
+<$A> 
+<ICE-SIN:S1B-080#167:1:A>
+Another day
+
+<$B> 
+<ICE-SIN:S1B-080#168:1:B>
+I have to think about what I really want
+
+<$A> 
+<ICE-SIN:S1B-080#169:1:A>
+Correct
+
+<ICE-SIN:S1B-080#170:1:A>
+So thing remember to me toys you know always bring people together
+
+<ICE-SIN:S1B-080#171:1:A>
+That to me is the important thing about toys so
+
+<$B> 
+<ICE-SIN:S1B-080#172:1:B>
+That is nice
+
+<$A> 
+<ICE-SIN:S1B-080#173:1:A>
+Ya don't be too interested in the values uhm the you know the
+market price of the toy and things like that
+
+<ICE-SIN:S1B-080#174:1:A>
+It take away the joy out of it
+
+<ICE-SIN:S1B-080#175:1:A>
+Get it get something that you really like
+
+<ICE-SIN:S1B-080#176:1:A>
+Something that reminds you of the good old days bring back
+memories or something that you really like in a movie like Star Wars scenes
+and things like that
+
+<ICE-SIN:S1B-080#177:1:A>
+Get those
+
+<ICE-SIN:S1B-080#178:1:A>
+Get things that are closer to your heart
+
+<$B> 
+<ICE-SIN:S1B-080#179:1:B>
+Okay
+
+<$A> 
+<ICE-SIN:S1B-080#180:1:A>
+Instead of getting things that people tell you to get because
+they are very good price because next time would fetch a good price
+
+<ICE-SIN:S1B-080#181:1:A>
+Next time would fetch a higher price
+
+<$B> 
+<ICE-SIN:S1B-080#182:1:B>
+No it is not that reason I like toys
+
+<$A> 
+<ICE-SIN:S1B-080#183:1:A>
+Ya it's not fun at all
+
+<$B> 
+<ICE-SIN:S1B-080#184:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1B-080#185:1:A>
+Don't do that like for me when I was young how I get into
+toys was this
+
+<ICE-SIN:S1B-080#186:1:A>
+I don't have much money so my parents only very occasionally buy
+me one or two Star Wars toys and I play them and play them over and over
+again and I still have them and I keep them as memories and things like that
+
+<ICE-SIN:S1B-080#187:1:A>
+And when I grew up I told myself that when I start to earn money
+again I would go back to collect the things the toys that I really really
+like
+
+<ICE-SIN:S1B-080#188:1:A>
+So that's what toys mean are to me
+
+<$B> 
+<ICE-SIN:S1B-080#189:1:B>
+I see
+
+<$A> 
+<ICE-SIN:S1B-080#190:1:A>
+Memories the good old days and things that I really like and
+it brings people together
+
+<ICE-SIN:S1B-080#191:1:A>
+So remember this when you think about the toys
+
+<$B> 
+<ICE-SIN:S1B-080#192:1:B>
+Okay
+
+<$A> 
+<ICE-SIN:S1B-080#193:1:A>
+Ya
+
+<$B> 
+<ICE-SIN:S1B-080#194:1:B>
+Thanks a lot
+
+<$A> 
+<ICE-SIN:S1B-080#195:1:A>
+Nice talking to you is been very very fun
+
+<$B> 
+<ICE-SIN:S1B-080#196:1:B>
+Ya
+
+<$A> 
+<ICE-SIN:S1B-080#197:1:A>
+It has been very fun talking about toys
+
+<ICE-SIN:S1B-080#198:1:A>
+I don't normally get customers to come in here and I can talk
+about toys so much
+
+<ICE-SIN:S1B-080#199:1:A>
+So so it is been very very fun
+
+<ICE-SIN:S1B-080#200:1:A>
+Here is my name card
+
+<ICE-SIN:S1B-080#201:1:A>
+Uhm call me anytime so we are open from nine eh no from twelve to
+about seven o'clock each day except Monday because that is the day we rest
+and uhm uhm we try to hunt around for toys
+
+<$B> 
+<ICE-SIN:S1B-080#202:1:B>
+I see <X>
+
+<$A> 
+<ICE-SIN:S1B-080#X203:1:A>
+So uhm if you need anything just call us we can reserve
+things for you or we can bring them from overseas
+
+<ICE-SIN:S1B-080#X204:1:A>
+Remember I told you before also ah I also charge you a reasonable
+price
+
+<$B> 
+<ICE-SIN:S1B-080#X205:1:B>
+Okay so I will bring down my friend
+
+<ICE-SIN:S1B-080#X206:1:B>
+Uhm uhm can I bring my friend along
+
+<$A> 
+<ICE-SIN:S1B-080#X207:1:A>
+Oh sure
+
+<$B> 
+<ICE-SIN:S1B-080#X208:1:B>
+Ya so probably a Sunday lah
+
+<$A> 
+<ICE-SIN:S1B-080#X209:1:A>
+Okay that will be good
+
+<$B> 
+<ICE-SIN:S1B-080#X210:1:B>
+Are you open that day
+
+<$A> 
+<ICE-SIN:S1B-080#X211:1:A>
+Yes definitely
+
+<$B> 
+<ICE-SIN:S1B-080#X212:1:B>
+Okay
+
+<$A> 
+<ICE-SIN:S1B-080#X213:1:A>
+Ya I look forward to seeing you on that day again
+
+<$B> 
+<ICE-SIN:S1B-080#X214:1:B>
+Okay see you then
+
+<$A> 
+<ICE-SIN:S1B-080#X215:1:A>
+Bye
+
+<$B> 
+<ICE-SIN:S1B-080#X216:1:B>
+Thank you bye
+
+<$A> 
+<ICE-SIN:S1B-080#X217:1:A>
+Bye </X> </I>

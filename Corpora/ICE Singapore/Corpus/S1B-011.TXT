@@ -1,0 +1,430 @@
+<I>
+
+<ICE-SIN:S1B-011#1:1>
+Although I'm inclined to lock the door
+
+<ICE-SIN:S1B-011#2:1>
+Alright I don't need that many handouts since there's only less than
+half a class here
+
+<ICE-SIN:S1B-011#3:1>
+Let's start on this side
+
+<ICE-SIN:S1B-011#4:1>
+Six pages
+
+<ICE-SIN:S1B-011#5:1>
+Okay
+
+<ICE-SIN:S1B-011#6:1>
+I think we should begin
+
+<ICE-SIN:S1B-011#7:1>
+We've wasted enough time
+
+<ICE-SIN:S1B-011#8:1>
+People coming late
+
+<ICE-SIN:S1B-011#9:1>
+Let's pick up where we stop
+
+<ICE-SIN:S1B-011#10:1>
+The last thing the last lecture we look at the application of
+kinetics in the biological treatment
+
+<ICE-SIN:S1B-011#11:1>
+We left off looking at a simple case simplest case that is a CSTR and
+we also look at the CSTR that is without recycle
+
+<ICE-SIN:S1B-011#12:1>
+Uh do you recall your adapt uh your connection activator's sludge and
+all the other arrangements there would almost invariably would have they
+would have a recycled <unclear> word </unclear> right
+
+<ICE-SIN:S1B-011#13:1>
+So let us look at this case now where there is a recycled <unclear>
+word </unclear>
+
+<ICE-SIN:S1B-011#14:1>
+Okay before we have our reactor our CSTR your inflow coming in this
+uh mix well CSTR
+
+<ICE-SIN:S1B-011#15:1>
+I suppose to the previous uh arrangement you saw
+
+<ICE-SIN:S1B-011#16:1>
+Now we've got a settling unit and part of it is recycled
+
+<ICE-SIN:S1B-011#17:1>
+Now in this case our we have sludge wasted from the reactor that is a
+certain stream is taken off from the reactor
+
+<ICE-SIN:S1B-011#18:1>
+I think the previous scheme I showed you uh sludge is wasted from the
+settling tank right
+
+<ICE-SIN:S1B-011#19:1>
+So these are two possible arrangements you can have either sludge
+wasted from the settling tank i-e here or from the reactor and of course part
+of it is recycled back to the reactor
+
+<ICE-SIN:S1B-011#>
+And do you recall the there has to be a balance between the part of the
+sludge that is wasted to the sludge that is recycled and I'm sure you know
+why there has to be this balance right
+
+<ICE-SIN:S1B-011#20:1>
+Okay let us let us now look at the analysis of this arrangement
+
+<ICE-SIN:S1B-011#21:1>
+Okay the usual assump usual assumptions made are before two things
+
+<ICE-SIN:S1B-011#22:1>
+Number one x-y is zero that is your inflow comes in where's no
+micro-organisms
+
+<ICE-SIN:S1B-011#23:1>
+Okay this second assumption made well actually it's not this one but 'cos
+your x by the z is zero alright and and in this case actually we <unclear>
+word </unclear> have another assumption
+
+<ICE-SIN:S1B-011#24:1>
+X-e is zero i-e your effluent leaving your settling tank is X X-e
+zero
+
+<ICE-SIN:S1B-011#25:1>
+Okay now because of the presence of the settling unit you made two
+additional assumptions
+
+<ICE-SIN:S1B-011#26:1>
+First of all waste stabilisation occurs only in the reactor that is
+here
+
+<ICE-SIN:S1B-011#27:1>
+That means you're saying there is no waste stabilisation occurring in
+the settling tank
+
+<ICE-SIN:S1B-011#28:1>
+Now this of course will be conservative since there will be some
+degree of waste stabilisation by the micro-organisms in the settling unit as
+well right
+
+<ICE-SIN:S1B-011#29:1>
+But for analysis we make this assumption that any B-O-D ah with
+<unclear> word </unclear> taking place only in this unit Secondly volume use
+in calculating the mean cell residence time all the system includes only the
+volume of the reactor unit okay
+
+<ICE-SIN:S1B-011#30:1>
+So since this follows up from here right since there's no B-O-D
+<unclear> word </unclear> in this unit alright you may consider the mean cell
+residence time you only take into account the volume of your reactor
+
+<ICE-SIN:S1B-011#31:1>
+Okay so by definition the mean hydraulic retention time all the
+reactor that teta will be d over q v will be your volume of your reactor that
+your fluid b ah b is constant
+
+<ICE-SIN:S1B-011#32:1>
+This time if you consider hydraulic retention time for the systemthen for the system b will be reactor volume plus <unclear> word </unclear>tank volume alright
+
+<ICE-SIN:S1B-011#33:1>
+So your mean cell residence time teta c we call that definition teta
+c will be mass of cells in the reactor over mass of cells wasted per day
+
+<ICE-SIN:S1B-011#34:1>
+Mass of cells in the reactor that's v-x in the reactor
+
+<ICE-SIN:S1B-011#35:1>
+Mass of cells wasted per day that will depend on your scheme alright
+
+<ICE-SIN:S1B-011#36:1>
+If you look at your flow sheet up here
+
+<ICE-SIN:S1B-011#37:1>
+If you look at your reactor mass of cells wasted per day
+
+<ICE-SIN:S1B-011#38:1>
+If you draw an overall uh boundary surface here or control surface
+
+<ICE-SIN:S1B-011#39:1>
+Okay cells leaving the boundary would be this one q-w-x plus anycells leaving from the settling tank
+
+<ICE-SIN:S1B-011#40:1>
+Okay which is q minus q-w X-e alright
+
+<ICE-SIN:S1B-011#41:1>
+Q-w would be <unclear> word </unclear> liquid containing biological
+cells to be wasted from the system
+
+<ICE-SIN:S1B-011#42:1>
+Okay in this case from the reactor X-e concentration of your micro-organisms in effluent from the settling unit and
+if you recall we also made the assumptions that X-e is close to zero alright
+
+<ICE-SIN:S1B-011#43:1>
+Now this is the case for simple manure proper settling
+
+<ICE-SIN:S1B-011#44:1>
+So the quantity of micro-organisms leaving there don't it's very small
+
+<ICE-SIN:S1B-011#45:1>
+X-e approximates to zero
+
+<ICE-SIN:S1B-011#46:1>
+Then your mean cells residence time simplifies to q teta c is c over
+q-w alright
+
+<ICE-SIN:S1B-011#47:1>
+And if you do the mass balance for micro-organisms in the entire
+system your accumulation inflow outflow and your net growth accumulation term
+
+<ICE-SIN:S1B-011#48:1>
+The outgrowth this is the amount leaving the reactor the amount
+leaving the settling unit and that will be your net growth
+
+<ICE-SIN:S1B-011#49:1>
+So now we come back to the assumptions we say we usually make
+
+<ICE-SIN:S1B-011#50:1>
+Assuming cell concentration and inflow is zero i-e x-y is zero
+
+<ICE-SIN:S1B-011#51:1>
+Steady state the x vility is zero then this means this is zero this
+is zero and simplifies to you just bring over this side you get this
+expression here equals to v multiplied by r-g prime r-g prime being your next
+specific uh your net growth your net ah bacterial growth rate alright
+
+<ICE-SIN:S1B-011#52:1>
+And of course your r-g prime is equals to this expression here
+without the x term
+
+<ICE-SIN:S1B-011#53:1>
+So if you divide by d-x and if you look at this term here and what we
+define as one over teta c in the previous transparency this actually would be
+one over teta c alright
+
+<ICE-SIN:S1B-011#54:1>
+In the previous transparency this term here the left hand side term
+is one over teta c
+
+<ICE-SIN:S1B-011#55:1>
+For substituting of teta c the one over teta c is equals to this
+expression or teta c is y-u minus k-d and if you recall the previous
+treatment teta c one over teta c is ec of exactly the same expression
+
+<ICE-SIN:S1B-011#56:1>
+For the case of a CSTR without recycle
+
+<ICE-SIN:S1B-011#57:1>
+Again the expression is exactly the same whether or not here is
+recycle
+
+<ICE-SIN:S1B-011#58:1>
+Of course the difference now is how you calculate teta c because now
+one over teta c is not for teta c is not the same as teta
+
+<ICE-SIN:S1B-011#59:1>
+In a case where there is no recycle right
+
+<ICE-SIN:S1B-011#60:1>
+So that's <unclear> word </unclear>
+
+<ICE-SIN:S1B-011#61:1>
+Otherwise expression is really the same and substituting your
+substrate utilisation your your utilisa your substrate utilisation rate to
+this expression
+
+<ICE-SIN:S1B-011#62:1>
+You can get your effluent concentration so your your concentration
+within the reactor x and of course in the case where there is no recycle
+
+<ICE-SIN:S1B-011#63:1>
+These two terms are the same you cancel out and that will be the term
+that will be the expression you have seen earlier okay
+
+<ICE-SIN:S1B-011#64:1>
+I repeat if there is no recycle teta c equals to teta you cancel out
+so you you see the expression earlier as well
+
+<ICE-SIN:S1B-011#65:1>
+Any any question as far Okay now this expression actually would
+suggest that uh this expression it would suggest that if you reduce the
+hydraulic retention time then your m-l-v-x-s or your x value here would
+increase in the reactor right
+
+<ICE-SIN:S1B-011#66:1>
+Does it not suggest that
+
+<ICE-SIN:S1B-011#67:1>
+If you increase your hydraulic retention time teta which is v over q
+then x will increase assuming everything else remains constant alright
+
+<ICE-SIN:S1B-011#68:1>
+But of course there's a limit to to this because if you were to
+decrease your hydraulic so if you were to increase your hydraulic retention
+time rather if you de if you decrease your hydraulic retention time x will
+increase
+
+<ICE-SIN:S1B-011#69:1>
+But if you decrease your hydraulic retention time it also means your
+cells are to be more liable to be washed out alright
+
+<ICE-SIN:S1B-011#70:1>
+Hydraulic retention time decreases such that it approximates your
+cell regeneration time then your cells will be liable to be washed off right
+
+<ICE-SIN:S1B-011#71:1>
+Once your cells are washed out then your s is going to approximate s
+nought which means you're going to have virtually very little treatment right
+
+<ICE-SIN:S1B-011#72:1>
+But of course I said if you in if you decrease teta c teta rather and
+everything el everything else is held constant but of course you know that
+cannot be true because if you were to decrease if you were to decrease teta c
+teta rather teta c will also be affected right
+
+<ICE-SIN:S1B-011#73:1>
+Do you recall the definition of teta teta being v over q v is
+constant so to decrease this that means you must increase your flow rate q
+right
+
+<ICE-SIN:S1B-011#74:1>
+If you increase your flow rate q teta c would also change in fact
+teta c would decrease as well alright
+
+<ICE-SIN:S1B-011#75:1>
+So we we look at this case where the cells are wasted from the
+reactor as I said the other arrangement which is actually more typical would
+be like your cells or your sludge wasted from the settling tank
+
+<ICE-SIN:S1B-011#76:1>
+So this second arrangement is actually the more common arrangement
+alright
+
+<ICE-SIN:S1B-011#77:1>
+Now instead of a cells being wasted from your reactor now it's taken
+out from your settling unit
+
+<ICE-SIN:S1B-011#78:1>
+So redefining the terms slightly we've got this prime here we can
+then applying the same definition <unclear> word </unclear> just see for this
+case
+
+<ICE-SIN:S1B-011#79:1>
+This is the mass of cells in the reactor
+
+<ICE-SIN:S1B-011#80:1>
+Of course that's the same mass of cells wasted per day
+
+<ICE-SIN:S1B-011#81:1>
+This time this would be the mass of cells that is wasted from your
+settling unit that will be the amount leaving your settling unit alright
+
+<ICE-SIN:S1B-011#82:1>
+So distance here will be changed slightly
+
+<ICE-SIN:S1B-011#83:1>
+Again assuming x-e is very small then it simplifies the this
+expression
+
+<ICE-SIN:S1B-011#84:1>
+So to calculate x which is your concentration of your ah cells within
+the reactor
+
+<ICE-SIN:S1B-011#85:1>
+It's the same expression as you've seen before same expression except
+that now teta c takes a different expression alright
+
+<ICE-SIN:S1B-011#86:1>
+I have discussed only about x so far
+
+<ICE-SIN:S1B-011#87:1>
+What about your substrate concentration or your B-O-D which is s
+
+<ICE-SIN:S1B-011#88:1>
+We can do likewise
+
+<ICE-SIN:S1B-011#89:1>
+Do a substrate balance okay
+
+<ICE-SIN:S1B-011#90:1>
+Do a mass balance for the substrate now for your <unclear> word
+</unclear> system
+
+<ICE-SIN:S1B-011#91:1>
+Then you have the x vitity or divide by v q-s nought which is the
+substrate coming into the system
+
+<ICE-SIN:S1B-011#92:1>
+The same thing whatever substrate leaves the system and whatever is
+consumed here you can do the same thing and try to get an expression for s
+alright
+
+<ICE-SIN:S1B-011#93:1>
+Any question so far
+
+<ICE-SIN:S1B-011#94:1>
+Okay if not with that I'd like to cover our secondary treatment and I
+want to move on next to discuss about tertiary treatment systems or what is
+commonly termed also advanced waste water treatment
+
+<ICE-SIN:S1B-011#95:1>
+Okay now treat water treatment
+
+<ICE-SIN:S1B-011#96:1>
+Now although secondary treatment purposes may reduce more than
+eighty-five percent of B-O-D or suspended solids or possibly even more than
+eighty-five percent and also nearly all pathogens are removed
+
+<ICE-SIN:S1B-011#97:1>
+If you recall we introduce disinfectants disinfectants
+
+<ICE-SIN:S1B-011#98:1>
+However only a mi only minor removal of some pollutants is achieved
+
+<ICE-SIN:S1B-011#99:1>
+Okay examples of some pollutants of concern because there's only
+minor removal will be things like your nutrients <unclear> word </unclear>
+nitrogen phospherous colloidal particles refractory organics dissolved
+inorganic solids
+
+<ICE-SIN:S1B-011#100:1>
+So these are some of the pollutants that are of concern because
+after secondary treatment you may have only removed uh a very small
+percentage
+
+<ICE-SIN:S1B-011#101:1>
+Now addition treatment used to remove these pollutants are termed
+advanced waste water treatment or AW-T or tertiary treatment and in order to
+in relation to solving these tough pollution problems i-e taking care of
+these alright the processes the processes will will be effluent quality to
+the point that it may be adequate for many reuse purposes alright
+
+<ICE-SIN:S1B-011#102:1>
+So it will convert what will otherwise be a waste water to a
+valuable resource
+
+<ICE-SIN:S1B-011#103:1>
+I think in the case of Singapore this is particularly relevant
+alright because we are relying on water from our neighbours
+
+<ICE-SIN:S1B-011#104:1>
+So this is something of uh relevance in effect it's not only of
+relevance but importance as well
+
+<ICE-SIN:S1B-011#105:1>
+Actually recently there was an MOU signed between NUS and ENV
+
+<ICE-SIN:S1B-011#106:1>
+That's Ministry of Environment and amongst the projects we're
+looking into would be one which we call uh technology development for water
+renovation <X>
+
+<ICE-SIN:S1B-011#X107:1>
+Well in a nutshell it's A-W-T
+
+<ICE-SIN:S1B-011#X108:1>
+All we're trying to do is to recover or reuse our waste water so
+that they can be recycled back to the industry and be reused alright </X>
+</I>
+

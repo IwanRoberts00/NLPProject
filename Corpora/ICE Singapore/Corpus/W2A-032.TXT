@@ -1,0 +1,437 @@
+<I>
+
+<ICE-SIN:W2A-032#1:1>
+<h> Product Data Exchange Trends and Evolution </h>
+
+<ICE-SIN:W2A-032#2:1>
+Jenny Ang,
+
+<ICE-SIN:W2A-032#3:1>
+<h> Introduction </h>
+
+<ICE-SIN:W2A-032#4:1>
+A CIM system typically consists of a series of functional areas such
+as design, process planning, manufacturing, testing, inspection etc.
+
+<ICE-SIN:W2A-032#5:1>
+The computer aided tools in each module are different in nature and
+are difficult to integrate with each other.
+
+<ICE-SIN:W2A-032#6:1>
+To develop an efficient and robust CIM system, an effective
+information link must be established between each module so as to provide
+data exchange and information sharing.
+
+<ICE-SIN:W2A-032#7:1>
+History of PDES After the first release of IGES Initial Graphics
+Exchange Specification) in 1980, numerous attempts at providing flexible, yet
+stable method of CAD data transfer have resulted in a number of
+specifications.
+
+<ICE-SIN:W2A-032#8:1>
+Some of these have become national standards.
+
+<ICE-SIN:W2A-032#9:1>
+IGES as an initial graphics specification has suffered from some of
+the drawbacks such as file size too large, poor design format, limited scope
+for expansion etc.
+
+<ICE-SIN:W2A-032#10:1>
+Nevertheless, IGES is a widely accepted standard and is supported by
+most of the CAD vendors and has established itself as the international de
+facto standard during the past ten years.
+
+<ICE-SIN:W2A-032#11:1>
+Some other standards that were derived from IGES, but have been
+modified to overcome some of it's shortcomings and to accommodate particular
+application areas, such as VDA-FS for the car manufacturing industry in
+Germany and SET for the aerospace industry in Europe, are also widely
+adopted.
+
+<ICE-SIN:W2A-032#12:1>
+The existence of too many standards resulted in a call for a unified
+approach capable of accommodating all types of product information.
+
+<ICE-SIN:W2A-032#13:1>
+A few main efforts were initiated almost simultaneously, namely the
+Product Data Exchange Specification ( POES) by US National Bureau of
+Standards, which has changed it's name to National Institute of Science and
+Technology ( NIST); the CAD interface project ( CAD*I) in Europe; the Product
+Definition Data Interface ( PDDI) by the US Air Force and the Standard for
+the Exchange of Product Data ( STEP) by the International Standard
+Organisation ( ISO).
+
+<ICE-SIN:W2A-032#14:1>
+In late 1988, the ISO committee responsible for the STEP agreed to
+adopt the first version of PDES as a draft of STEP, resulting in a single,
+international standard - PDES/SEP.In late 1989, the committee responsible had
+agreed to change the acronym for PDES: PDES no longer stands for " Product
+Data Exchange Specification" but rather stands for " Product Data Exchange
+us;ng STEP".
+
+<ICE-SIN:W2A-032#15:1>
+<h> What is PDES </h>
+
+<ICE-SIN:W2A-032#16:1>
+PDES can be viewed from several different viewpoints and is actually
+a compilation of many different activities.
+
+<ICE-SIN:W2A-032#17:1>
+PDES is a standards development process.
+
+<ICE-SIN:W2A-032#18:1>
+PDES is also a combination of different technologies.
+
+<ICE-SIN:W2A-032#19:1>
+PDES is also an activity contributed by several different people from
+many companies and organisations ( 1).
+
+<ICE-SIN:W2A-032#20:1>
+The change of the PDES acronym has made PDES more of an activity
+rather than a US-specified standard.
+
+<ICE-SIN:W2A-032#21:1>
+As a enterprise product standard, PDES has as its objective the
+ability to define all the information needed throughout the life cycle of a
+product, such as to exchange geometry data between different CAD/CAM systems,
+to provide translation of information from CAD systems down to other
+functional areas such as process planning, manufacturing, testing etc.
+
+<ICE-SIN:W2A-032#22:1>
+The fundamental mission of PDES is to provide a specification that is
+able to integrate information from all different CIM modules, so as to
+develop a fully automated CIM system.
+
+<ICE-SIN:W2A-032#23:1>
+<h> Introduction to IGES </h>
+
+<ICE-SIN:W2A-032#24:1>
+IGES is the current de facto international standard for product data
+exchange and is partially supported by many CAD systems.
+
+<ICE-SIN:W2A-032#25:1>
+Since the release in 1980 of the first version of IGES, the PDES/STEP
+Organisation has added increasingly sophisticated data construct to the IGES
+specification.
+
+<ICE-SIN:W2A-032#26:1>
+As the capabilities of IGES have been expanded to accommodate more
+applications, the specification has become more pliable.
+
+<ICE-SIN:W2A-032#27:1>
+Some of these change have added to the complexity and ambiguity of
+the specification, and this has increased the difficulty of using IGES
+effectively.
+
+<ICE-SIN:W2A-032#28:1>
+Since IGES is a widely supported standard format for CAD graphics and
+text information, most vendors of CAD systems supply pre and post-processors
+to translate their native system files into and out of IGES, respectively.
+
+<ICE-SIN:W2A-032#29:1>
+The IGES pre-processor will translate CAD data from the system native
+data-base into the IGES neutral file format and vice versa for the IGES
+postprocessor.
+
+<ICE-SIN:W2A-032#30:1>
+During the translation, some errors may occur, party due to the IGES
+processors supported by the CAD vendors and party due to the poor design
+format of IGES.
+
+<ICE-SIN:W2A-032#31:1>
+Since the first release in 1980, the IGES committee had added
+complicated entity constructs into IGES so as to accommodate more application
+areas.
+
+<ICE-SIN:W2A-032#32:1>
+There is a long list of entities available for the CAD vendors to
+choose from.
+
+<ICE-SIN:W2A-032#33:1>
+No CAD vendors will support the entire IGES specification.
+
+<ICE-SIN:W2A-032#34:1>
+As a result, each CAD vendor will implement a different subset of
+specification, and this have increased the difficulty in the entity mapping
+during the translation.
+
+<ICE-SIN:W2A-032#35:1>
+<h> IGES File Structure </h>
+
+<ICE-SIN:W2A-032#36:1>
+IGES divides its physical file into five sections; namely, the START
+section, the GLOBAL section, the DIECTORY ENTRY section, the PARAMETER DATA
+section and the TERMINATE section.
+
+<ICE-SIN:W2A-032#37:1>
+The START Section contains user readable information.
+
+<ICE-SIN:W2A-032#38:1>
+The GLOBAL section contains information describing sending system and
+data required by the receiving system etc.
+
+<ICE-SIN:W2A-032#39:1>
+DIRECTORY ENTRY and PARAMETER DATA section will handle entity
+information and the TERMINATE section records the number of cards of each
+section.
+
+<ICE-SIN:W2A-032#40:1>
+From the file structure described above, we can see that, for each
+entity to be contained in the IGES file, at least three cards are needed.
+
+<ICE-SIN:W2A-032#41:1>
+Two in the Directory section and one in the Parameter section, and
+this will take up at least 240 bytes.
+
+<ICE-SIN:W2A-032#42:1>
+As a result, the entire file size can be as large as ten times the
+drawing file it translated.
+
+<ICE-SIN:W2A-032#43:1>
+Another drawback for entity stored in this way is that, for any
+program to read or write to the IGES file it must look for the information
+about each entity in two places.
+
+<ICE-SIN:W2A-032#44:1>
+<h> IGES Drawbacks </h>
+
+<ICE-SIN:W2A-032#45:1>
+As we have mentioned, every CAD vendors support different subsets of
+entity and represent their system data using different IGES entities.
+
+<ICE-SIN:W2A-032#46:1>
+As a result, the same information may be data encoded in different
+ways.
+
+<ICE-SIN:W2A-032#47:1>
+The net result is, information is lost during the translation between
+dissimilar entity sets.
+
+<ICE-SIN:W2A-032#48:1>
+In addition to the existing pre- and post-processor, there must
+therefore have another program that has the ability to recognize the data
+encoded in both the CAD systems.
+
+<ICE-SIN:W2A-032#49:1>
+This program is known as the flavouring program.
+
+<ICE-SIN:W2A-032#50:1>
+The main purpose of the flavouring program is to maintain the data
+integrity translated between different CAD systems.
+
+<ICE-SIN:W2A-032#51:1>
+The problem is, we can have as many flavouring program as the number
+of CAD systems that are exchanging data.
+
+<ICE-SIN:W2A-032#52:1>
+The fundamental idea of introducing neutral file formats is to
+eliminate the number of translators required in a CAD systems exchange
+network.
+
+<ICE-SIN:W2A-032#53:1>
+Using direct translation method, for N CAD systems exchange network,
+we require N*(N-1) translators, whereas for neutral file method the number of
+translator required is only 2N.
+
+<ICE-SIN:W2A-032#54:1>
+The requirement of flavouring has reintroduced the problems of
+developing additional N*(N-l) flavouring program.
+
+<ICE-SIN:W2A-032#55:1>
+Although some of the errors can be overcome by the flavouring
+programs, there are always errors that cannot be solved, there are always
+entities that you can express in one format but which has no representation
+in another format.
+
+<ICE-SIN:W2A-032#56:1>
+When translating such data across the CAD systems, one can only try
+to maintain its visuality but not the functionality.
+
+<ICE-SIN:W2A-032#57:1>
+All this sum up the major drawback of-IGES, it is designed to carry
+geometry data but not product information.
+
+<ICE-SIN:W2A-032#58:1>
+Same data may represent different information, although in the
+converse, the same information may be data encoded differently, but that
+doesn't matter.
+
+<ICE-SIN:W2A-032#59:1>
+So, if we have a specification that is capable of carrying the
+product information rather than just the geometry data, most of the problems
+encounted above can be solved.
+
+<ICE-SIN:W2A-032#60:1>
+The ideal product data exchange standard must not only describe
+geometry data but also information such as product material, product
+features, tolerances, configuration management and other information that are
+required for producing this product in a CIM environment.
+
+<ICE-SIN:W2A-032#61:1>
+With all this in mind, and to overcome the error associated with
+IGES, in 1984, the IGES committee set up a research project called PDES with
+a long-range objective of developing and using a rigorous methodology for the
+creation of product exchange specification.
+
+<ICE-SIN:W2A-032#62:1>
+The methodology was to be used in developing a new product exchange
+standard that would avoid the identified weaknesses of IGES [ 3] - - and this
+newly introduced standard is known as PDES.
+
+<ICE-SIN:W2A-032#63:1>
+The Product Data Exchange Specification ( PDES) is a data description
+and format standard under development for the exchange and sharing all data
+needed to fully describe a product and its manufacturing processes.
+
+<ICE-SIN:W2A-032#64:1>
+[ 1] The difficulties associated with the transfer of data rather
+than information between each CIM module are that the meaning of data might
+be misunderstood by other functional modules and human interpretation is
+needed at every stage to help in editing of data.
+
+<ICE-SIN:W2A-032#65:1>
+PDES has eliminated this problem by first defining all information to
+be carried in each application area.
+
+<ICE-SIN:W2A-032#66:1>
+<h> The Three Layer Architecture of PDES </h>
+
+<ICE-SIN:W2A-032#67:1>
+PDES adopts a three layer schema architecture which is similar to the
+database structure.
+
+<ICE-SIN:W2A-032#68:1>
+The external , or the very top layer of the structure is known as the
+application layer, which define - the information that is expected to be
+encountered in each application area and model by using the PDES specified
+modeling language EXPRESS .
+
+<ICE-SIN:W2A-032#69:1>
+The fundamental idea of PDES is that there is a common set of data
+that describes all kinds of products, and this product definition is
+independent of specific computer environment and implementation.
+
+<ICE-SIN:W2A-032#70:1>
+Thee common set of product definition data model, such as geometry,
+topology, tolerances, form feature, layered electrical product, finite
+element modeling, material, presentation etc.
+
+<ICE-SIN:W2A-032#71:1>
+form the second layer of PDES.
+
+<ICE-SIN:W2A-032#72:1>
+This middle layer, or in PDES term, the logical layer is the focus
+point for integrating all information model defined in the top layer.
+
+<ICE-SIN:W2A-032#73:1>
+The bottom layer, or the internal layer is the physical layer.
+
+<ICE-SIN:W2A-032#74:1>
+The physical layer has the PDES data represented in the Physical file
+format, or in a database format.
+
+<ICE-SIN:W2A-032#75:1>
+This layer also defines a set of rules for the mapping of the logical
+layer product definition data model into the physical file format.
+
+<ICE-SIN:W2A-032#76:1>
+The separation of PDES standard is very important as it allows the
+user to concentrate on the information, or the " meaning" of their data
+without worrying the physical representation of the data in the neutral file.
+
+<ICE-SIN:W2A-032#77:1>
+Implementation Level of PDES For any standard to be practical, it
+must be implementable.
+
+<ICE-SIN:W2A-032#78:1>
+For PDES, there are four different levels of implementation.
+
+<ICE-SIN:W2A-032#79:1>
+The top two levels are for exchange of product data and the lower two
+levels are for product information sharing.
+
+<ICE-SIN:W2A-032#80:1>
+The first level of implementation is the passive file exchange.
+
+<ICE-SIN:W2A-032#81:1>
+This layer is similar to - IGES, which defines the conversion of CAD
+system's native database into the PDES neutral physical file and vice versa.
+
+<ICE-SIN:W2A-032#82:1>
+The second level is known as the active file exchange.
+
+<ICE-SIN:W2A-032#83:1>
+This is characterized by the concept of a working form of data which
+is used by access software to translate to and from a neutral sequential file
+format and to provide DBMS-like data structure navigational capabilities.
+
+<ICE-SIN:W2A-032#84:1>
+The third implementation level of PDES is the shared database layer.
+
+<ICE-SIN:W2A-032#85:1>
+This level has a logical description of all the product data and a
+physical implementation of this information in a database format.
+
+<ICE-SIN:W2A-032#86:1>
+Application can then reach into that database and pull out the
+information they need to drive their specific application [ 1].
+
+<ICE-SIN:W2A-032#87:1>
+Level 4 is the Integrated Product knowledge base.
+
+<ICE-SIN:W2A-032#88:1>
+A knowledge base implementation of PDES is represented by using an
+object oriented approach to the storage of product definition data where the
+product data and methods to operate on that product data are stored together
+as an object in an object-oriented database.[l] The first attempt to draft
+the PDES application protocols is being made by PDES Inc.
+
+<ICE-SIN:W2A-032#89:1>
+program and U.S.
+
+<ICE-SIN:W2A-032#90:1>
+Navy's RAMP project.
+
+<ICE-SIN:W2A-032#91:1>
+PDES Inc.
+
+<ICE-SIN:W2A-032#92:1>
+Program The PDES Inc.
+
+<ICE-SIN:W2A-032#93:1>
+program is an industry funded cooperative project to accelerate the
+development and implementation of PDES within industry.
+
+<ICE-SIN:W2A-032#94:1>
+The program is using a combination of industry provided personnel
+knowledgeable in PDES technologies and hired contractors working together
+focusing on the development of the PDES specification. <X>
+
+<ICE-SIN:W2A-032#X95:1>
+[ 1] The PDES Inc.
+
+<ICE-SIN:W2A-032#X96:1>
+program has divided their program into two phases and each phase
+last for 18 months.
+
+<ICE-SIN:W2A-032#X97:1>
+The objective of phase 1 is to develop a Level 1 and Level 2
+implementation of PDES and phase 2i to develop a Level 3 implementation of
+PDES.
+
+<ICE-SIN:W2A-032#X98:1>
+The program was officially started in late 1988, and by now, it
+should have completed its first phase of program.
+
+<ICE-SIN:W2A-032#X99:1>
+RAMP Project The Rapid Acquisition of Manufacturing Parts ( RAMP)
+project is designed to accelerate the acquisition process for critical spare
+parts.
+
+<ICE-SIN:W2A-032#X100:1>
+It is the U.S.
+
+<ICE-SIN:W2A-032#X101:1>
+Naval Supply Command ( NAVSUP) contract with South Carolina
+Research Authority/ American Manufacturing Research Consortium ( SCRA/AMRC)
+to design and integrate an automated manufacturing facility. </X> </I>

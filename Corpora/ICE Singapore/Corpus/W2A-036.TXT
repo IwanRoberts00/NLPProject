@@ -1,0 +1,447 @@
+<I>
+
+<ICE-SIN:W2A-036#1:1>
+<h> USE OF FERROCEMENT IN COMPOSITE CONSTRUCTION </h>
+
+<ICE-SIN:W2A-036#2:1>
+International Conference on Steel and Aluminium Structure
+
+<ICE-SIN:W2A-036#3:1>
+ICSAS 91, Singapore, 22-2 May 1991
+
+<ICE-SIN:W2A-036#4:1>
+K H Tan K C G Ong
+
+<ICE-SIN:W2A-036#5:1>
+<h> Introduction </h>
+
+<ICE-SIN:W2A-036#6:1>
+Ferrocement is a form of reinforced concrete using closely spaced
+multiple layers of mesh and/or small-diameter rods completely infiltrated
+with, or encapsulated, in mortar ( 1).
+
+<ICE-SIN:W2A-036#7:1>
+It has a high tensile strength to weight ratio and possesses improved
+cracking characteristics over ordinary reinforced concrete.
+
+<ICE-SIN:W2A-036#8:1>
+Moreover, it offers advantages in terms of fabrication as it can be
+cast thin and to almost any shape.
+
+<ICE-SIN:W2A-036#9:1>
+Ferrocement has therefore found many applications in housing units,
+water-tanks, roofing elements and others [ 2, 3, 4].
+
+<ICE-SIN:W2A-036#10:1>
+The use of ferrocement in composite construction, however, has not
+been explored.
+
+<ICE-SIN:W2A-036#11:1>
+In this study, the behaviour of ferrocement-steel ( FS) and
+ferrocement-ferrocement ( FF) composite beams under bending is investigated.
+
+<ICE-SIN:W2A-036#12:1>
+Eight composite beams were prepared and were each simply supported
+subjected to a symmetrical two-point load.
+
+<ICE-SIN:W2A-036#13:1>
+The test results are reported and discussed herein.
+
+<ICE-SIN:W2A-036#14:1>
+<h> TEST PROGRAMME </h>
+
+<ICE-SIN:W2A-036#15:1>
+Test specimen
+
+<ICE-SIN:W2A-036#16:1>
+The eight test specimens were equally divided into two series, A an
+B.
+
+<ICE-SIN:W2A-036#17:1>
+Series A specimens ( A1 to A4) were half-scale models of the
+prototype composite construction ln buildings [ 5] while series B specimens (
+B1 to B4) were one-third scale models of a footway bridge [ 6], as shown in
+F1.
+
+<ICE-SIN:W2A-036#18:1>
+They were designed to have ultimate moments of resistance of
+approximately 168 kNm and 600 kNm respectively under positive bending ( that
+is, with the slab component ln compression).
+
+<ICE-SIN:W2A-036#19:1>
+All series A specimens composed of a ferrocement slab connected to an
+I-shaped beam by through bolts.
+
+<ICE-SIN:W2A-036#20:1>
+The ferrocement slab measured 35 c in thickness and 500 mm in width.
+
+<ICE-SIN:W2A-036#21:1>
+The reinforcement for the slab consisted of layers of skeletal steel
+having a grid size of 100mm, 5.4 mm and an average yield stress of 560 MPa
+and 3 layers of fine wiremesh with a grid size of 12.5 mm, wire diameter of
+1.22 mm and average yield stress of 360 MPa.
+
+<ICE-SIN:W2A-036#22:1>
+These reinforcements were placed centrally with respect to the
+mid-depth of the slab.
+
+<ICE-SIN:W2A-036#23:1>
+For specimens A1 and A2, the beam component was a 178 mm x 102 mm x
+21.54 kg/m Grade 43 steel joist.
+
+<ICE-SIN:W2A-036#24:1>
+For A3 and A4, it was a ferrocement section [ Fig.
+
+<ICE-SIN:W2A-036#25:1>
+2(a)] reinforced with 4 layers ( 2 on each face) of the first
+wiremesh described earlier, and nine longitudinal steel bars with diameter of
+12 mm and average yield stress of 480 MPa.
+
+<ICE-SIN:W2A-036#26:1>
+Shear connectors ( 16 mm diameter Grade 8.8 high strength steel
+bolts) were provided in two rows at 100 mm spacing in A1 and A2 and at 150 mm
+spacing in A3 and A4 effect the horizontal shear transfer between the slab
+and beam components.
+
+<ICE-SIN:W2A-036#27:1>
+Series B specimens composed of a 20 mm thick ferrocement connected to
+a U-shaped beam.
+
+<ICE-SIN:W2A-036#28:1>
+The slab was 700 mm wide and reinforced with 1 layer of the skeletal
+steel and 2 layers of the fine wiremesh.
+
+<ICE-SIN:W2A-036#29:1>
+For specimens B1 a and B2, the beam was fabricated from Grade 43
+steel plates while for B3 and B4 it was a ferrcocement section reinforced
+with 2 layers ( 1 on each face) of fine wiremesh, supported by flatten
+longitudinal steel bars with a diameter of 16 mm and average yield stress of
+530 MPa [ Fig.
+
+<ICE-SIN:W2A-036#30:1>
+2(b)].
+
+<ICE-SIN:W2A-036#31:1>
+The shear connectors were provided in fours at a spacing of 50 mm for
+B1 and B2 a and in twos at a spacing of 130 mm for B3 and B4.
+
+<ICE-SIN:W2A-036#32:1>
+For all specimens, the mortar mix for the ferrocement components had
+a cement:sand:water ratio of 1:1.5:0.4.
+
+<ICE-SIN:W2A-036#33:1>
+A mixtures were added according to the manufacturers' recommendations
+so as to improve the workability and to achieve early high strength.
+
+<ICE-SIN:W2A-036#34:1>
+Preparation of test specimens The slab and beam components were cast
+separately.
+
+<ICE-SIN:W2A-036#35:1>
+For the ferrocement slabs, the positions of the shear connectors were
+first marked on wooden mould.
+
+<ICE-SIN:W2A-036#36:1>
+Recesses 16 mm in diameter and 5 mm deep were then drilled into the
+mould at these positions.
+
+<ICE-SIN:W2A-036#37:1>
+The steel reinforcement was placed in the mould.
+
+<ICE-SIN:W2A-036#38:1>
+Steel rods 16 mm in diameter were then hammered vertically into the
+recesses and where they were obstructed, the wiremesh were cut away.
+
+<ICE-SIN:W2A-036#39:1>
+The rods were subsequently wrapped around with cloth tapes to
+increase their diameters above the face of the mould to 18 mm.
+
+<ICE-SIN:W2A-036#40:1>
+Mortar was then placed into the mould on a vibrating table which
+ensured proper compaction of the mix.
+
+<ICE-SIN:W2A-036#41:1>
+The casting of ferrocement beam components proceeded in three stages.
+
+<ICE-SIN:W2A-036#42:1>
+For the I-beam, the base flange was cat first.
+
+<ICE-SIN:W2A-036#43:1>
+This was followed by the casting of the top flange and finally of the
+web.
+
+<ICE-SIN:W2A-036#44:1>
+For the U-beam, the base flange was cast first, the webs next and
+finally the top flanges.
+
+<ICE-SIN:W2A-036#45:1>
+Holes of 18 mm diameter were provided in the top flange of the beam
+components in the same manner as for the slab components.
+
+<ICE-SIN:W2A-036#46:1>
+The steel rods were removed about four hours after casting, when
+mortar began to set.
+
+<ICE-SIN:W2A-036#47:1>
+The ferrocement components were cured under wet hessian for one day
+and then air cured ln the laboratory for another three to four days before
+demoulding.
+
+<ICE-SIN:W2A-036#48:1>
+The components were connected by passing bolts through the holes in
+the slab and flanges of the beam components.
+
+<ICE-SIN:W2A-036#49:1>
+The composite beams thus prepared were subjected to tests about one
+week after casting.
+
+<ICE-SIN:W2A-036#50:1>
+Test set-up and instrumentation Prior to casting, electrical
+resistance strain gauges were mounted on to the skeletal steel in the slab
+components at the midspan section.
+
+<ICE-SIN:W2A-036#51:1>
+Strain gauges were also mounted on the surface of the composite beams
+across the depth as well as across the width at the midspan section and at
+the section adjacent to the loading point within the flexural zone.
+
+<ICE-SIN:W2A-036#52:1>
+Each beam was simply supported over a span of 2.7 m and subjected to
+a symmetrical two-point load as shown in Fig.
+
+<ICE-SIN:W2A-036#53:1>
+3.
+
+<ICE-SIN:W2A-036#54:1>
+The beams were tested in positive bending ( that is, slab component
+in compression) for specimens Al, A3, Bl and B3 and in negative bending (
+that is, slab component in tension) for the other specimens.
+
+<ICE-SIN:W2A-036#55:1>
+A linear variable displacement transducer ( LDVT) was placed below
+the test specimen at the midspan to monitor the maximum deflection.
+
+<ICE-SIN:W2A-036#56:1>
+Additional transducers were placed at the two ends of the specimen to
+measure the relative slip, if any, at the interface between the slab and beam
+components.
+
+<ICE-SIN:W2A-036#57:1>
+All the specimens were tested to failure except B2 for which the
+supports yielded prior to attainment of ultimate load.
+
+<ICE-SIN:W2A-036#58:1>
+<h> TEST RESULTS AND DISCUSSION </h>
+
+<ICE-SIN:W2A-036#59:1>
+<h> Load-deflection characteristics </h>
+
+<ICE-SIN:W2A-036#60:1>
+The load vs.
+
+<ICE-SIN:W2A-036#61:1>
+midspan deflection curves for Series A and Series B specimens are
+shown ln Fig.
+
+<ICE-SIN:W2A-036#62:1>
+4(a) and ( b) respectively.
+
+<ICE-SIN:W2A-036#63:1>
+It is seen that for FS beams ( that is, specimens Al, A2, Bl and B2),
+the load-deflection curves generally consist of three regimes: a regime with
+a linear load-deflection relation up to the yield load, a translation regime
+where yielding of steel proceeds towards the neutral axis of the critical (
+midspan ) section and a regime where full plastic deformation occurs at the
+section of failure.
+
+<ICE-SIN:W2A-036#64:1>
+On the other hand, FF beams ( A3, A4, B3 and B4) exhibited linear
+load-deflection relation up to the cracking load.
+
+<ICE-SIN:W2A-036#65:1>
+A transition period follows during which cracks continue to develop
+and the stiffness of the beam decreases.
+
+<ICE-SIN:W2A-036#66:1>
+Another linear relation is seen after the cracks have stabilized.
+
+<ICE-SIN:W2A-036#67:1>
+The stiffness of the composite beam decreases near the ultimate load.
+
+<ICE-SIN:W2A-036#68:1>
+<h> Cracking load and crack pattern </h>
+
+<ICE-SIN:W2A-036#69:1>
+For FS specimens under positive bending, that is, A1 and B1, the
+first cracks were observed in the flexural span of the slab component at
+about 30% to 40% of the ultimate load ( see Table 1).
+
+<ICE-SIN:W2A-036#70:1>
+Several longitudinal cracks appeared on the top face of the slab
+component above the edges of the top flanges of the beam component and these
+were probably due to the effects of transverse moments.
+
+<ICE-SIN:W2A-036#71:1>
+Due to stress concentration, random cracks were also observed to
+initiate from the holes which accommodated the shear connectors.
+
+<ICE-SIN:W2A-036#72:1>
+The FS specimens ( A2 and B2), when subjected to negative bending
+registered cracking loads of about 10 to 20% of the ultimate loads.
+
+<ICE-SIN:W2A-036#73:1>
+The cracks were found to concentrate within and near the flexural
+span of the specimens.
+
+<ICE-SIN:W2A-036#74:1>
+These cracks traversed through the depth of the slab components as
+the load is increased.
+
+<ICE-SIN:W2A-036#75:1>
+stabilized.
+
+<ICE-SIN:W2A-036#76:1>
+The stiffness of the composite beam decreases near ultimate load.
+
+<ICE-SIN:W2A-036#77:1>
+Specimens A3 and B3 ( F7 8peclolens) had lower cracking loads
+compared to the equivalent FS specimens under positive bending.
+
+<ICE-SIN:W2A-036#78:1>
+The is obvious as cracks initiated in the beam components and only
+appeared in the slab components at a later stage.
+
+<ICE-SIN:W2A-036#79:1>
+On the beam components, the crack first appeared as a flexural crack
+from the lower flange near the middle of the shear span.
+
+<ICE-SIN:W2A-036#80:1>
+As the load was increased, more cracks appeared and these propagated
+into the webs, inclining generally at approximately 45 to the longitudinal
+axis.
+
+<ICE-SIN:W2A-036#81:1>
+Cracks were also observed in the flexural span, but these did not
+propagate very far towards the slab components.
+
+<ICE-SIN:W2A-036#82:1>
+For specimen B3, spalling was observed along the locations of
+skeletal steel at the web near the ultimate load.
+
+<ICE-SIN:W2A-036#83:1>
+The slab components for both specimens were relatively uncracked,
+except for some inclined cracks within the shear spans and a few random ones
+at the top face due to transverse moments and stress concentration at the
+holes.
+
+<ICE-SIN:W2A-036#84:1>
+For FF specimens ( A4 and B4) under negative bending, the observed
+crackling loads were about 20 to Z5% of the ultimate loads.
+
+<ICE-SIN:W2A-036#85:1>
+The cracks initiated from the bottom face of the slab components and
+traversed through the slab thickness into the beam components.
+
+<ICE-SIN:W2A-036#86:1>
+As in the case of FF specimens under positive bending, more cracks
+were seen in the shear span than in the flexural span and these were also
+inclined at about 45 to the longitudinal axis.
+
+<ICE-SIN:W2A-036#87:1>
+Near the ultimate load, spalling of cement mortar along the location
+of longitudinal skeletal steel at the webs of specimen B4 were observed.
+
+<ICE-SIN:W2A-036#88:1>
+In all the specimens, the spacing of cracks was relatively small and
+the crack widths were of a magnitude less than 0.2 mm under an assumed
+service load equal to 1/1.6 of the ultimate load.
+
+<ICE-SIN:W2A-036#89:1>
+This Ls probably due to the restraining effects of the reinforcement
+of the ferrocement.
+
+<ICE-SIN:W2A-036#90:1>
+Strain profile and local slip Strain measurements across the depth of
+the composite beams indicated that, in general, a continuity of longitudinal
+strain exists across the interface between the slab and the beam components.
+
+<ICE-SIN:W2A-036#91:1>
+Thus, the shear connectors provided were adequate in ensuring
+composite action in the specimens at ultimate load conditions.
+
+<ICE-SIN:W2A-036#92:1>
+This was further confirmed by the measurements of the transducers
+placed at the two ends of the specimens, which registered local slip between
+the components of less than 0.2 mm under the assumed service load, and less
+than 1 mm near the ultimate load.
+
+<ICE-SIN:W2A-036#93:1>
+Deflection under assumed service loads The mid-span deflection of
+each specimen under the assumed service load is indicated in Table 1.
+
+<ICE-SIN:W2A-036#94:1>
+In general, the maximum deflection under the assumed service load is
+less than 9.5 mm, or 1/280 of the span of the specimen.
+
+<ICE-SIN:W2A-036#95:1>
+Mode of failure and ultimate strength The FS composite specimens
+failed in flexure and showed considerable ductility near the ultimate load (
+see Flg 4(a) and ( b)).
+
+<ICE-SIN:W2A-036#96:1>
+The ductile behavior was terminated by shear failure of the slab
+components in specimens Al and Bl.
+
+<ICE-SIN:W2A-036#97:1>
+This happened when a diagonal crack propagated through the slab
+towards the loading point, accompanied by delamination of the cement mortar
+from the bottom face of the slab.
+
+<ICE-SIN:W2A-036#98:1>
+The experimental ultimate loads agreed very well with the predicted
+values based on the method of strain compatibility and equilibrium ( see
+Table 1).
+
+<ICE-SIN:W2A-036#99:1>
+The FF specimens were found to fall abruptly in shear.
+
+<ICE-SIN:W2A-036#100:1>
+This occurred when inclined cracks widened excessively and crushing
+of the cement mortar at the tips of the cracks near the loading point was
+observed.
+
+<ICE-SIN:W2A-036#101:1>
+The observed ultimate shear strength ranged between 35 to 77X of the
+predicted ultimate flexural strength.
+
+<ICE-SIN:W2A-036#102:1>
+Fig 5 shows some of the test specimens at failure.
+
+<ICE-SIN:W2A-036#103:1>
+<h> CONCLUSIONS </h>
+
+<ICE-SIN:W2A-036#104:1>
+The study reported in this paper explored the use of ferrocement in
+composite construction.
+
+<ICE-SIN:W2A-036#105:1>
+Eight composite beams were tested, either in positive or in negative
+bending. <X>
+
+<ICE-SIN:W2A-036#X106:1>
+The specimens registered crack widths of less than O.2 mm and
+maximum deflection of less than 1/280 of the span under an assumed service
+load of 1/1.6 times the ultimate load.
+
+<ICE-SIN:W2A-036#X107:1>
+A11 the specimens exhibited composite action at ultimate load
+condition.
+
+<ICE-SIN:W2A-036#X108:1>
+The FS beams were found to fall in flexure and possessed
+considerable ductility at failure, thus indicating their suitability in
+construction.
+
+<ICE-SIN:W2A-036#X109:1>
+However, the FF beams were found to fall abruptly in shear and
+further works in this area are necessary. </X> </I>

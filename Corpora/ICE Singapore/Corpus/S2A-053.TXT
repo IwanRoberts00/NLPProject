@@ -1,0 +1,489 @@
+<I>
+
+<$A> 
+<ICE-SIN:S2A-053#1:1:A>
+Can you hear me <X>
+
+<$B> 
+<ICE-SIN:S2A-053#X2:1:B>
+Yes </X>
+
+<$A> 
+<ICE-SIN:S2A-053#3:1:A>
+Alright I think we've lost some people here but no problem
+
+<ICE-SIN:S2A-053#4:1:A>
+It's their loss
+
+<ICE-SIN:S2A-053#5:1:A>
+Uhm today really I would like to spend the next couple of minutes
+introducing to you Ami Pro the visual wordprocessor from Lotus
+
+<ICE-SIN:S2A-053#6:1:A>
+And I hope that after this you would be able to be challenged enough
+to come aboard with package and really be able to create impacting visually
+impacting docuhments to be able to communicate effectively maybe in your
+organization here
+
+<ICE-SIN:S2A-053#7:1:A>
+Uhm in the event that if my voice starts to change or you know
+things happen to my voice please excuse me because I've got a very bad cold
+at the moment so please bear with me
+
+<ICE-SIN:S2A-053#8:1:A>
+Uhm I wanna assure you that the package is exciting so it's not so
+trauhmatic to stay till you go for lunch alright
+
+<ICE-SIN:S2A-053#9:1:A>
+Okay so basically if I'll just sit here and I'll do the demo and
+talk at the same time
+
+<ICE-SIN:S2A-053#10:1:A>
+You have seen 123 for Windows
+
+<ICE-SIN:S2A-053#11:1:A>
+Windows applications
+
+<ICE-SIN:S2A-053#12:1:A>
+Before we start how many of you are using just DOS wordprocessor as
+opposed to Windows wordprocessor
+
+<ICE-SIN:S2A-053#13:1:A>
+Okay quite a nuhmber
+
+<ICE-SIN:S2A-053#14:1:A>
+So what I'll do is that uhm because Ami Pro is really power-packed
+with features I can only I'll just show you some of these power-packed
+features
+
+<ICE-SIN:S2A-053#15:1:A>
+But at the same time I will like to show you how easy it despite
+its power how easy it is to use
+
+<ICE-SIN:S2A-053#16:1:A>
+Just like uhm just mentioned earlier that it's rated its
+credibility is there as some of you who've updated to major industry
+
+<ICE-SIN:S2A-053#17:1:A>
+Journals
+
+<ICE-SIN:S2A-053#18:1:A>
+It's been consistently rated as very easy to use and yet powerful
+wordprocessor
+
+<ICE-SIN:S2A-053#19:1:A>
+But it runs on Windows so basically I'll just show you a little bit
+
+<ICE-SIN:S2A-053#20:1:A>
+As you know the menus over here are typical of every Windows
+applications
+
+<ICE-SIN:S2A-053#21:1:A>
+Pull-down menus you call it
+
+<ICE-SIN:S2A-053#22:1:A>
+But for this case you have under text
+
+<ICE-SIN:S2A-053#23:1:A>
+You have bold and maybe a keyboard command if you're not used to
+the mouse which I'm using right now
+
+<ICE-SIN:S2A-053#24:1:A>
+So this is quite typical of Windows applications with its scroll
+bar at the side here and also it's dynamic dated
+
+<ICE-SIN:S2A-053#25:1:A>
+Right at the bottom here where you get information path or even if
+you don't have the time or watch has the time here
+
+<ICE-SIN:S2A-053#26:1:A>
+Now that's quite typical of wordprocessors
+
+<ICE-SIN:S2A-053#27:1:A>
+The difference here you see is this Smart icon which Dave brought
+out earlier
+
+<ICE-SIN:S2A-053#28:1:A>
+Smart icons
+
+<ICE-SIN:S2A-053#29:1:A>
+Some people call it templates
+
+<ICE-SIN:S2A-053#30:1:A>
+I call it short-cut keyboard uh or short-cut commands
+
+<ICE-SIN:S2A-053#31:1:A>
+And over here it's typical of all Lotus applications in that you
+see whatever you see here like printer or even right at the bottom here bold
+italic it's the same picture that you see in 123 for Windows and Freelance
+for Windows and that is a plus point because the benefit's obvious
+
+<ICE-SIN:S2A-053#32:1:A>
+You'll be so familiar with these icons when you go into 123 or
+Freelance
+
+<ICE-SIN:S2A-053#33:1:A>
+It's just a touch of your it's a click of your mouse alright
+
+<ICE-SIN:S2A-053#34:1:A>
+I I wanna emphasize also like for here this icon over here where I
+would like to customize my
+
+<ICE-SIN:S2A-053#35:1:A>
+I can move into tools customer micro user's setup for Smart icons
+
+<ICE-SIN:S2A-053#36:1:A>
+Well I'll just click here for customization
+
+<ICE-SIN:S2A-053#37:1:A>
+Over here as you know I have a standard icons that depicts you can
+see the description
+
+<ICE-SIN:S2A-053#38:1:A>
+Here I use this to show the power-packed features of Ami Pro
+capitalized ruler thesaurus spell checker bookmarks etcetera etcetera
+
+<ICE-SIN:S2A-053#39:1:A>
+I'll demonstrate some of these features later on
+
+<ICE-SIN:S2A-053#40:1:A>
+There are altogether one hundred short cut keyboards for you to use
+
+<ICE-SIN:S2A-053#41:1:A>
+So it depends
+
+<ICE-SIN:S2A-053#42:1:A>
+It allows for flexibility
+
+<ICE-SIN:S2A-053#43:1:A>
+If you are familiar with let's say you use spell checker all the
+time you wanna carry just pick it up and drag and put it into your current
+palate
+
+<ICE-SIN:S2A-053#44:1:A>
+You don't want it pick it up and drag it back alright
+
+<ICE-SIN:S2A-053#45:1:A>
+And if this is not sufficient if these hundred icons are not
+sufficient you can actually customize your icons by using the <unclear> word
+</unclear> drawing package that Ami Pro supplies with or other packages
+
+<ICE-SIN:S2A-053#46:1:A>
+So it's fine and I'll say I'll just move into it and like what uhm
+we've mentioned I won't touch on it top left bottom or floating
+
+<ICE-SIN:S2A-053#47:1:A>
+I'll keep it as top
+
+<ICE-SIN:S2A-053#48:1:A>
+Okay so the screen here that now I'm going straight into the screen
+or your workspace you call it the views that we have for Ami Pro
+
+<ICE-SIN:S2A-053#49:1:A>
+Right now we're at the working view
+
+<ICE-SIN:S2A-053#50:1:A>
+Just click here
+
+<ICE-SIN:S2A-053#51:1:A>
+We have full page standard enlarged and facing page
+
+<ICE-SIN:S2A-053#52:1:A>
+When I mention just now about visual wordprocessor I will explain
+the benefits where we could actually when we go into full page mode here you
+can actually do complete editing here if you required
+
+<ICE-SIN:S2A-053#53:1:A>
+As you can see unlike some Windows applications that you know that
+they just go into preview and you can't touch it and you need to print
+
+<ICE-SIN:S2A-053#54:1:A>
+Over here you can actually format it as it looks on a full page
+
+<ICE-SIN:S2A-053#55:1:A>
+That's the advantage and that's true wysiwig or true visual
+wordprocessor
+
+<ICE-SIN:S2A-053#56:1:A>
+So that's why we position Ami Pro as a visual wordprocessor because
+what you see here is exactly what you print with no catch involved
+
+<ICE-SIN:S2A-053#57:1:A>
+So if you are familiar with let's go back here
+
+<ICE-SIN:S2A-053#58:1:A>
+Uhm one of the key difference you notice here also is that if you
+are doing the traditional DOS wordprocessor everything is just blank and a
+lot of guesswork involved
+
+<ICE-SIN:S2A-053#59:1:A>
+So over here you actually see whatever it is including the whole
+page here
+
+<ICE-SIN:S2A-053#60:1:A>
+The green sign here is actually the header and at the bottom over
+here it's right at the bottom will be the footer which you can also key in
+directly alright
+
+<ICE-SIN:S2A-053#61:1:A>
+Let me go through the process of showing how it is easy is to
+create let's say a new docuhment
+
+<ICE-SIN:S2A-053#62:1:A>
+So you go File New
+
+<ICE-SIN:S2A-053#63:1:A>
+Ami Pro actually has predesigned fifty five templates or style
+sheets we call it
+
+<ICE-SIN:S2A-053#64:1:A>
+Style sheets are actually templates that allows you it
+automatically formats for you your text and your docuhment
+
+<ICE-SIN:S2A-053#65:1:A>
+So you might wanna choose maybe uh facts style sheet your contents
+or invoice or letter style sheet or memos
+
+<ICE-SIN:S2A-053#66:1:A>
+The different memos here and even newsletters
+
+<ICE-SIN:S2A-053#67:1:A>
+Later on I'll show you some of the style sheets which are used for
+different docuhments
+
+<ICE-SIN:S2A-053#68:1:A>
+So it's definitely quick and easy for you to get on board File New
+and choose the style sheet you're familiar with and just go on
+
+<ICE-SIN:S2A-053#69:1:A>
+So for example here maybe I'll choose a fact style sheet
+
+<ICE-SIN:S2A-053#70:1:A>
+I'll replace current file
+
+<ICE-SIN:S2A-053#71:1:A>
+I don't know want I don't wanna save
+
+<ICE-SIN:S2A-053#72:1:A>
+This dialog box here in the user's setup
+
+<ICE-SIN:S2A-053#73:1:A>
+I've set it each time for to prompt me whether I wanna save or not
+
+<ICE-SIN:S2A-053#74:1:A>
+Well you can go into the user's setup and actually have an auto
+save so that you will not lose your file in case of any power uh you know off
+or things like that
+
+<ICE-SIN:S2A-053#75:1:A>
+So what it does is now it load up a template and I've picked with
+contents
+
+<ICE-SIN:S2A-053#76:1:A>
+So what it does is it actually gives you the templates that is
+within a frame and all you need to do is go in there and then start typing in
+alright
+
+<ICE-SIN:S2A-053#77:1:A>
+This is just an example of a template or a a style sheet
+
+<ICE-SIN:S2A-053#78:1:A>
+I don't want that
+
+<ICE-SIN:S2A-053#79:1:A>
+I prefer something which I've customized just for this demo and
+I've named it lynn memo style which means if you don't want a pre-designed
+style sheet you can just use your own style sheet that are customized earlier
+and I say okay
+
+<ICE-SIN:S2A-053#80:1:A>
+What it does now is that it've brought out a style sheet here and
+I've actually created a macro
+
+<ICE-SIN:S2A-053#81:1:A>
+If some of you are familiar with macros and like to play around
+with it Ami Pro has a very powerful set and it's easy to use macro
+
+<ICE-SIN:S2A-053#82:1:A>
+I've actually put in a macro so that straightaway in a power field
+it brings up the dialog box that asks me who do I want to type this to
+
+<ICE-SIN:S2A-053#83:1:A>
+This is a my memo and I'll like to type it to let's say my boss
+which is uh Casey Leman
+
+<ICE-SIN:S2A-053#84:1:A>
+Sorry I've spelt wrongly alright and I say okay
+
+<ICE-SIN:S2A-053#85:1:A>
+And it's straightaway the macro goes into next power field bit
+<unclear> word </unclear> ask me sub subject then right now I'm talking about
+the Annual report
+
+<ICE-SIN:S2A-053#86:1:A>
+Something and let's go down a little bit here so you notice over
+here this style sheet happens to have macros that enhances me
+
+<ICE-SIN:S2A-053#87:1:A>
+I don't have to click here to type but if you don't have a macro
+you can easily just click here and type Casey Leman
+
+<ICE-SIN:S2A-053#88:1:A>
+Click here and type whatever
+
+<ICE-SIN:S2A-053#89:1:A>
+If you notice over here at the bottom here there is this style
+sheet paragraph styles you call it
+
+<ICE-SIN:S2A-053#90:1:A>
+Each style sheet or each docuhment style you see will be
+accompanied with an assortment of paragraph styles which you can choose from
+
+<ICE-SIN:S2A-053#91:1:A>
+Body text or title header footer and this is predesigned with
+together the style sheets
+
+<ICE-SIN:S2A-053#92:1:A>
+Great <unclear> word </unclear>
+
+<ICE-SIN:S2A-053#93:1:A>
+I'll show you later you can actually add in your own paragraph
+styles and it's very easy
+
+<ICE-SIN:S2A-053#94:1:A>
+So right now when I click over here you notice that it changed to
+regarding if I click over here it's to from <unclear> word </unclear>
+
+<ICE-SIN:S2A-053#95:1:A>
+So the cursor movement okay I move this one <unclear> word
+</unclear>
+
+<ICE-SIN:S2A-053#96:1:A>
+Cursor's missing
+
+<ICE-SIN:S2A-053#97:1:A>
+Uhm I'll like to apologize here because I've loaded a new mouse
+driver and it seems to be missing at this point of time
+
+<ICE-SIN:S2A-053#98:1:A>
+So must have been loaded up here
+
+<ICE-SIN:S2A-053#99:1:A>
+Okay no problem <unclear> word </unclear>
+
+<ICE-SIN:S2A-053#100:1:A>
+Okay
+
+<ICE-SIN:S2A-053#101:1:A>
+No the cursor the mouse is there
+
+<ICE-SIN:S2A-053#102:1:A>
+Okay no problem
+
+<ICE-SIN:S2A-053#103:1:A>
+I'm loading up Ami Pro again
+
+<ICE-SIN:S2A-053#104:1:A>
+Guess I was a bit enthusiastic
+
+<ICE-SIN:S2A-053#105:1:A>
+I took it a new mouse driver
+
+<ICE-SIN:S2A-053#106:1:A>
+You notice when it moves around it changes its size and uh I could
+have installed it wrongly
+
+<ICE-SIN:S2A-053#107:1:A>
+Okay it's loading up right now
+
+<ICE-SIN:S2A-053#108:1:A>
+I'm using a 386 <unclear> word </unclear> machine right now on a
+lap laptop thirty-three megahertz and okay the cursors go here but File New
+let me go into it
+
+<ICE-SIN:S2A-053#109:1:A>
+Bear with me for a while and I'll go in again to my lynn okay
+
+<ICE-SIN:S2A-053#110:1:A>
+This style sheet that's calling up like I mentioned its has macros
+
+<ICE-SIN:S2A-053#111:1:A>
+So you go in again to Casey Leman so I'll just <unclear> word
+</unclear>
+
+<ICE-SIN:S2A-053#112:1:A>
+Alright
+
+<ICE-SIN:S2A-053#113:1:A>
+And over here <unclear> word </unclear>
+
+<ICE-SIN:S2A-053#114:1:A>
+Alright my cursor is now there
+
+<ICE-SIN:S2A-053#115:1:A>
+Okay this I've just touched this Ami Pro switch kit here
+
+<ICE-SIN:S2A-053#116:1:A>
+I'll talk about it a little later on
+
+<ICE-SIN:S2A-053#117:1:A>
+Something which a little enhancements which I've loaded up
+
+<ICE-SIN:S2A-053#118:1:A>
+Okay so basically you notice when I click my cursor here it's
+under Regarding
+
+<ICE-SIN:S2A-053#119:1:A>
+If I click here automatically it tells you at the bottom here what
+it what paragraph style it is
+
+<ICE-SIN:S2A-053#120:1:A>
+So if I enter here automatically you remember this paragraph
+setting but I can easily change it by clicking here to body text alright
+
+<ICE-SIN:S2A-053#121:1:A>
+And as my typing is really slow what I'll do is I'm bringing some
+text under the paragraph format of body text and I put a macro here and it
+types in for me so that you guys won't fall asleep
+
+<ICE-SIN:S2A-053#122:1:A>
+So body text changed now I will like to have bullet and instead of
+typing again I'm really slow so I do a macro here which invokes typing which
+I've done earlier before this memo
+
+<ICE-SIN:S2A-053#123:1:A>
+And what I'll do is that uh bullet I'll go back to my text and
+draw a <unclear> word </unclear>
+
+<ICE-SIN:S2A-053#124:1:A>
+So basically you can see that my docuhment is complete but I'll
+like to maybe make some changes to formatting
+
+<ICE-SIN:S2A-053#125:1:A>
+So what I'll do is that I can easily click into this maybe I need
+an indent here I'll click over here
+
+<ICE-SIN:S2A-053#126:1:A>
+You can see there's a ruler here and once I click on it the tab
+ruler comes out
+
+<ICE-SIN:S2A-053#127:1:A>
+So maybe I wanna hang in indent <unclear> word </unclear>
+
+<ICE-SIN:S2A-053#128:1:A>
+Right now and I push it
+
+<ICE-SIN:S2A-053#129:1:A>
+Here you notice that you just fall through
+
+<ICE-SIN:S2A-053#130:1:A>
+Or if the tab ruler here over here I didn't make use of any tab
+but you can adjust and pull across the tab and you can see how easily or
+maybe you just throw it away <X>
+
+<ICE-SIN:S2A-053#X131:1:A>
+Or if you wanna to do it you can put it back on again So this is
+what you call direct screen formatting or page formatting which is one of the
+enhancements of visual wordprocessor So the ruler here if you could on and
+off For me I'll like it on because I like to make use of it So again let's
+take a look how it looks in full page </X> </I>

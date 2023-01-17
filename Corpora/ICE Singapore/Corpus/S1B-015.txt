@@ -1,0 +1,703 @@
+<I>
+
+<ICE-SIN:S1B-015#1:1>
+Can see or not
+
+<ICE-SIN:S1B-015#2:1>
+Clear or not
+
+<ICE-SIN:S1B-015#3:1>
+I'm nervous you know <O> laughter </O>
+
+<ICE-SIN:S1B-015#4:1>
+Okay
+
+<ICE-SIN:S1B-015#5:1>
+Ah let me introduce you to this pretty lady here
+
+<ICE-SIN:S1B-015#6:1>
+Alright she's a good friend of mine
+
+<ICE-SIN:S1B-015#7:1>
+Her name is Brenda Koh
+
+<ICE-SIN:S1B-015#8:1>
+She's doing a some kind of a research on the kind of English I use
+
+<ICE-SIN:S1B-015#9:1>
+Right she's from NUS okay
+
+<ICE-SIN:S1B-015#10:1>
+What I say you no say
+
+<ICE-SIN:S1B-015#11:1>
+Okay look at the diagram on the board
+
+<ICE-SIN:S1B-015#12:1>
+Alright
+
+<ICE-SIN:S1B-015#13:1>
+Now I'm trying to make it easier for you hopefully
+
+<ICE-SIN:S1B-015#14:1>
+Ya
+
+<ICE-SIN:S1B-015#15:1>
+From what I lecture on Wednesday you may not understand
+
+<ICE-SIN:S1B-015#16:1>
+Let's look at it
+
+<ICE-SIN:S1B-015#17:1>
+If I put a battery and I connect it directly to a n-type material
+what happens
+
+<ICE-SIN:S1B-015#18:1>
+Is there a current
+
+<ICE-SIN:S1B-015#19:1>
+Who say there's a current
+
+<ICE-SIN:S1B-015#20:1>
+Put up your hand
+
+<ICE-SIN:S1B-015#21:1>
+One two three four five
+
+<ICE-SIN:S1B-015#22:1>
+Who said there's a current
+
+<ICE-SIN:S1B-015#23:1>
+You all don't know
+
+<ICE-SIN:S1B-015#24:1>
+I put up my hand means have lah
+
+<ICE-SIN:S1B-015#25:1>
+You all never put up your hands alright
+
+<ICE-SIN:S1B-015#26:1>
+There is a current
+
+<ICE-SIN:S1B-015#27:1>
+What is the nature of the current
+
+<ICE-SIN:S1B-015#28:1>
+Infinity
+
+<ICE-SIN:S1B-015#29:1>
+What is the measure of the current
+
+<ICE-SIN:S1B-015#30:1>
+Micro m
+
+<ICE-SIN:S1B-015#31:1>
+How do you know micro m
+
+<ICE-SIN:S1B-015#32:1>
+Current equals to voltage divide by resistance alright
+
+<ICE-SIN:S1B-015#33:1>
+The value of the current depends on the voltage and the resistance of
+this material alright
+
+<ICE-SIN:S1B-015#34:1>
+What is the resistance of the material
+
+<ICE-SIN:S1B-015#35:1>
+Zero
+
+<ICE-SIN:S1B-015#36:1>
+What's the resistance of material
+
+<ICE-SIN:S1B-015#37:1>
+N-type material
+
+<ICE-SIN:S1B-015#38:1>
+Don't know
+
+<ICE-SIN:S1B-015#39:1>
+Don't know ah
+
+<ICE-SIN:S1B-015#40:1>
+Know or not
+
+<ICE-SIN:S1B-015#41:1>
+Know or not
+
+<ICE-SIN:S1B-015#42:1>
+Any material right
+
+<ICE-SIN:S1B-015#43:1>
+Resistance equals to rho l over A alright
+
+<ICE-SIN:S1B-015#44:1>
+So sectional area is proportional inversely proportional to the
+resistance alright
+
+<ICE-SIN:S1B-015#45:1>
+Now so what happens
+
+<ICE-SIN:S1B-015#46:1>
+If I increase the voltage what happen to my current
+
+<ICE-SIN:S1B-015#47:1>
+Increase or decrease
+
+<ICE-SIN:S1B-015#48:1>
+Increase okay
+
+<ICE-SIN:S1B-015#49:1>
+Voltage increase current will increase
+
+<ICE-SIN:S1B-015#50:1>
+Now what happen if I change this guy
+
+<ICE-SIN:S1B-015#51:1>
+Alright I said I want to use the n-type material but I want a
+narrower strip
+
+<ICE-SIN:S1B-015#52:1>
+What happen to the current
+
+<ICE-SIN:S1B-015#53:1>
+Increase or decrease
+
+<ICE-SIN:S1B-015#54:1>
+Current decrease right
+
+<ICE-SIN:S1B-015#55:1>
+Alright area is smaller resistance is bigger current will drop okay
+
+<ICE-SIN:S1B-015#56:1>
+So far so good
+
+<ICE-SIN:S1B-015#57:1>
+So far so good
+
+<ICE-SIN:S1B-015#58:1>
+Okay good
+
+<ICE-SIN:S1B-015#59:1>
+Now your JFET has got one n-type material and two p-type material
+there correct
+
+<ICE-SIN:S1B-015#60:1>
+Okay let's say I put a voltage what happen
+
+<ICE-SIN:S1B-015#61:1>
+This junction here what kind of biasing
+
+<ICE-SIN:S1B-015#62:1>
+Reverse bias
+
+<ICE-SIN:S1B-015#63:1>
+This junction
+
+<ICE-SIN:S1B-015#64:1>
+Reverse bias right
+
+<ICE-SIN:S1B-015#65:1>
+Reverse bias alright
+
+<ICE-SIN:S1B-015#66:1>
+Now if it's reverse bias what happen to the depletion region
+
+<ICE-SIN:S1B-015#67:1>
+Increase or decrease
+
+<ICE-SIN:S1B-015#68:1>
+Depletion region widens alright so depletion region increase what
+happen to my channel
+
+<ICE-SIN:S1B-015#69:1>
+My area here
+
+<ICE-SIN:S1B-015#70:1>
+How much
+
+<ICE-SIN:S1B-015#71:1>
+Smaller area right
+
+<ICE-SIN:S1B-015#72:1>
+Smaller area
+
+<ICE-SIN:S1B-015#73:1>
+If I increase my voltage what happen
+
+<ICE-SIN:S1B-015#74:1>
+The current bigger but my channel is smaller
+
+<ICE-SIN:S1B-015#75:1>
+Current smaller right
+
+<ICE-SIN:S1B-015#76:1>
+So my current will go bigger but it will not go as much as if there
+is no p-type material there alright
+
+<ICE-SIN:S1B-015#77:1>
+So if you draw a graph alright or if I take the junction here uh VDS
+and I draw a graph if this the diagram then as my voltage increases my
+current will increase <unclear> word </unclear> alright
+
+<ICE-SIN:S1B-015#78:1>
+But if I put in this p material in between what happen is instead of
+going all the way there'll come a point where it will change in the rate of
+increase alright
+
+<ICE-SIN:S1B-015#79:1>
+So it will start <unclear> word </unclear>
+
+<ICE-SIN:S1B-015#80:1>
+Alright the increase will become smaller and smaller and smaller
+until a point where the depletion region touches one another it will stop
+
+<ICE-SIN:S1B-015#81:1>
+Once there's the this depletion region is <unclear> word </unclear>
+formed there is no current alright
+
+<ICE-SIN:S1B-015#82:1>
+So the current will remain constant
+
+<ICE-SIN:S1B-015#83:1>
+This the case where we say it's equal to IDSS remember
+
+<ICE-SIN:S1B-015#84:1>
+Alright now when the depletion region is formed the current becomes
+constant
+
+<ICE-SIN:S1B-015#85:1>
+Why why
+
+<ICE-SIN:S1B-015#86:1>
+It's supposed depletion region means no current what how come current
+is constant
+
+<ICE-SIN:S1B-015#87:1>
+What
+
+<ICE-SIN:S1B-015#88:1>
+Saturated saturated alright
+
+<ICE-SIN:S1B-015#89:1>
+Now in your logical mind once it's reverse bias no current can go
+through isn't it
+
+<ICE-SIN:S1B-015#90:1>
+Alright no current can go through which is true
+
+<ICE-SIN:S1B-015#91:1>
+Alright just that the current can only go through the channel
+
+<ICE-SIN:S1B-015#92:1>
+So once the channel is closed no current can go through alright but
+we say that this one stays at the saturation level because what happens is
+the depletion region no current go through and no current go through the
+depletion region will shrink
+
+<ICE-SIN:S1B-015#93:1>
+Once it shrink the channel is opened current will go again alright
+
+<ICE-SIN:S1B-015#94:1>
+When current flow again the depletion grow again
+
+<ICE-SIN:S1B-015#95:1>
+So it's a continuous process alright and as it goes on the current
+stays at that point
+
+<ICE-SIN:S1B-015#96:1>
+Alright we call this the saturation current for the JFET
+
+<ICE-SIN:S1B-015#97:1>
+Can or not
+
+<ICE-SIN:S1B-015#98:1>
+Okay now next thing
+
+<ICE-SIN:S1B-015#99:1>
+I'm going to make it more complicated ah
+
+<ICE-SIN:S1B-015#100:1>
+Can I let's say I don't consider this voltage
+
+<ICE-SIN:S1B-015#101:1>
+Put in a voltage here alright
+
+<ICE-SIN:S1B-015#102:1>
+Put in available voltage here what happen
+
+<ICE-SIN:S1B-015#103:1>
+Alright in our diagram we call this VGG what happen to the junction
+
+<ICE-SIN:S1B-015#104:1>
+Forward or reverse bias
+
+<ICE-SIN:S1B-015#105:1>
+Who said forward bias
+
+<ICE-SIN:S1B-015#106:1>
+Nobody said forward bias
+
+<ICE-SIN:S1B-015#107:1>
+Kok Fai
+
+<ICE-SIN:S1B-015#108:1>
+Okay reverse bias right
+
+<ICE-SIN:S1B-015#109:1>
+Both junctions are reverse bias okay
+
+<ICE-SIN:S1B-015#110:1>
+Now both under reverse bias what happen
+
+<ICE-SIN:S1B-015#111:1>
+Same thing
+
+<ICE-SIN:S1B-015#112:1>
+Depletion region will grow right Depending on how big this voltage
+is that it will correspond to the growth of your depletion region okay
+
+<ICE-SIN:S1B-015#113:1>
+So it can grow a little bit here and a little bit here
+
+<ICE-SIN:S1B-015#114:1>
+If it grows like that you'll still have a channel you can pass your
+current through alright until a point where if you increase this very high
+these two will meet and these two meet there's no more channel
+
+<ICE-SIN:S1B-015#115:1>
+No channel no current alright
+
+<ICE-SIN:S1B-015#116:1>
+So these are the various conditions that we have in the JFET
+
+<ICE-SIN:S1B-015#117:1>
+We have a case where VGS equals zero alright when we disconnect this
+guy and put this to ground
+
+<ICE-SIN:S1B-015#118:1>
+Alright that's the first case where we get this from this diagram
+
+<ICE-SIN:S1B-015#119:1>
+Then as we increase VGG you get a smaller channel and as you
+increase your VDD on this side the channel becomes smaller and smaller again
+
+<ICE-SIN:S1B-015#120:1>
+Alright but just now the time taken before it reaches saturation is
+faster because the channel is already smaller when we first started alright
+
+<ICE-SIN:S1B-015#121:1>
+So you'll you will get a value that is smaller alright ID will
+saturate at a value lower than IDSS alright
+
+<ICE-SIN:S1B-015#122:1>
+And then at the point where VGG equals to your pinch down voltagea
+then it will join together and your ID equals to zero all the time alright
+then you get a case where you call this the pinch down phase ID equals to
+zero
+
+<ICE-SIN:S1B-015#123:1>
+Understand
+
+<ICE-SIN:S1B-015#124:1>
+Yes
+
+<ICE-SIN:S1B-015#125:1>
+Understood understood ah
+
+<ICE-SIN:S1B-015#126:1>
+Yes Mr Eddy
+
+<ICE-SIN:S1B-015#127:1>
+Do you know what you are asking or not
+
+<ICE-SIN:S1B-015#128:1>
+Come come come come ask ask
+
+<ICE-SIN:S1B-015#129:1>
+Can you all hear or not
+
+<ICE-SIN:S1B-015#130:1>
+Louder lah come on
+
+<ICE-SIN:S1B-015#131:1>
+The mike cannot hear hurry up louder
+
+<ICE-SIN:S1B-015#132:1>
+Okay how come there's a reverse bias to the p and the n
+
+<ICE-SIN:S1B-015#133:1>
+Let's say I don't have this uh okay
+
+<ICE-SIN:S1B-015#134:1>
+That's what you mean right
+
+<ICE-SIN:S1B-015#135:1>
+That's what Eddy
+
+<ICE-SIN:S1B-015#136:1>
+This one is to ground is it
+
+<ICE-SIN:S1B-015#137:1>
+Have to connect to ground what
+
+<ICE-SIN:S1B-015#138:1>
+Don't connect to ground how
+
+<ICE-SIN:S1B-015#139:1>
+Must have got return path what
+
+<ICE-SIN:S1B-015#140:1>
+Alright just now I draw I don't put the ground because put the
+ground confuse people what
+
+<ICE-SIN:S1B-015#141:1>
+Supposed to have the ground An question answered right
+
+<ICE-SIN:S1B-015#142:1>
+Okay any more or not
+
+<ICE-SIN:S1B-015#143:1>
+Can understand
+
+<ICE-SIN:S1B-015#144:1>
+Okay once you understand we can go on
+
+<ICE-SIN:S1B-015#145:1>
+Common-Source
+
+<ICE-SIN:S1B-015#146:1>
+Forward Transconductance very chim term but actually don't worry
+about the definition alright
+
+<ICE-SIN:S1B-015#147:1>
+It sounds very long doesn't matter all you need to remember is this
+formula okay
+
+<ICE-SIN:S1B-015#148:1>
+This guy equals to this
+
+<ICE-SIN:S1B-015#149:1>
+That's what it means alright
+
+<ICE-SIN:S1B-015#150:1>
+Ah I told you before engineers define things by equations so here we
+define Gm as a common-source forward transconductance as change in ID over
+change in VDS for constant value or for a value of VDS equals to zero that
+means to shock the you shock the drain source voltage alright
+
+<ICE-SIN:S1B-015#151:1>
+This is current divide by voltage which is a conductance
+
+<ICE-SIN:S1B-015#152:1>
+Alright conductance is measured in <unclear> word </unclear>
+
+<ICE-SIN:S1B-015#153:1>
+Alright typical values from one to ten <unclear> word </unclear>
+
+<ICE-SIN:S1B-015#154:1>
+Now this this parameter can be found in your datasheets as per all
+the other alright same as all the rest
+
+<ICE-SIN:S1B-015#155:1>
+Okay this one is Mathematics alright
+
+<ICE-SIN:S1B-015#156:1>
+This equation we know uh ID equals to IDSS into one minus VGS over
+VP square
+
+<ICE-SIN:S1B-015#157:1>
+Gm equals to this alright
+
+<ICE-SIN:S1B-015#158:1>
+Differentiate okay
+
+<ICE-SIN:S1B-015#159:1>
+You all Mathematicians differentiate this ID with respect to VGS
+alright
+
+<ICE-SIN:S1B-015#160:1>
+So VGS is your variable that you differentiate with respect to
+alright the differentiation
+
+<ICE-SIN:S1B-015#161:1>
+Take down the two so you get two IDSS equal VP alright
+
+<ICE-SIN:S1B-015#162:1>
+Put down the whatever inside here alright
+
+<ICE-SIN:S1B-015#163:1>
+Differentiate here <unclear> word </unclear>
+
+<ICE-SIN:S1B-015#164:1>
+Outside alright
+
+<ICE-SIN:S1B-015#165:1>
+I hope I integrated or differentiated properly alright
+
+<ICE-SIN:S1B-015#166:1>
+Then I don't want a negative sign so I put it inside here okay
+
+<ICE-SIN:S1B-015#167:1>
+Mathematics is sound nuh
+
+<ICE-SIN:S1B-015#168:1>
+My Maths okay uh
+
+<ICE-SIN:S1B-015#169:1>
+Now this value two IDSS divide by VP we give it another parameter
+name we call this Gm0 alright
+
+<ICE-SIN:S1B-015#170:1>
+Gm nought
+
+<ICE-SIN:S1B-015#171:1>
+Gm nought equals to this so that Gm equals to this one
+
+<ICE-SIN:S1B-015#172:1>
+It's easy to remember easier to remember
+
+<ICE-SIN:S1B-015#173:1>
+Now this Gm nought is defined as the maximum ac gain parameter of
+serving an a bias of VGS equals to zero
+
+<ICE-SIN:S1B-015#174:1>
+Well that's a definition of Gm zero
+
+<ICE-SIN:S1B-015#175:1>
+Now what you need to know is alright what you need to know is these
+formulas alright these two
+
+<ICE-SIN:S1B-015#176:1>
+That's all you need to know alright
+
+<ICE-SIN:S1B-015#177:1>
+Now the other characteristics that you can find in a JFET is found
+in your datasheet is this drain source on resistance
+
+<ICE-SIN:S1B-015#178:1>
+When when the drain source is on alright when you use as a switch
+you have it on off alright
+
+<ICE-SIN:S1B-015#179:1>
+So on resistance is when the switch is on okay
+
+<ICE-SIN:S1B-015#180:1>
+What is the value of the resistance at the drain to the source that
+is what you measure alright and it ranges from ten to few hundred ohm
+
+<ICE-SIN:S1B-015#181:1>
+This is another parameter that you can you need to know how to
+define okay
+
+<ICE-SIN:S1B-015#182:1>
+What's the time now
+
+<ICE-SIN:S1B-015#183:1>
+Okay the time is thirty
+
+<ICE-SIN:S1B-015#184:1>
+I can go on
+
+<ICE-SIN:S1B-015#185:1>
+Have I finished two thousand words
+
+<ICE-SIN:S1B-015#186:1>
+Not yet ah
+
+<ICE-SIN:S1B-015#187:1>
+I no voice already
+
+<ICE-SIN:S1B-015#188:1>
+Actually I plan to stop here one you know but I haven't reached two
+thousand words so I must carry on alright
+
+<ICE-SIN:S1B-015#189:1>
+Okay never mind it's very fast alright
+
+<ICE-SIN:S1B-015#190:1>
+The next topic is another kind of STP we call this the metal oxide
+semiconductor FET alright in short we call this MOSFET M-O-S VP MOSFET
+alright
+
+<ICE-SIN:S1B-015#191:1>
+Now MOSFET is the way it functions is something like JFET with a
+little bit of difference alright and it's constructed with a gate terminal
+insulated from the channel that means instead of well my gate is these two
+
+<ICE-SIN:S1B-015#192:1>
+Instead of the two gates connected directly to the channel I use an
+insulator to insulate it alright
+
+<ICE-SIN:S1B-015#193:1>
+That's what it does right and the insulating material is called
+silicon dioxide that's the materials
+
+<ICE-SIN:S1B-015#194:1>
+Alright and there are two types of MOSFET one is called the
+depletion MOSFET and it works very much like the JFET and then the other one
+is called the enlargement MOSFET which works almost entirely differently
+alright
+
+<ICE-SIN:S1B-015#195:1>
+Depletion MOSFET now this diagram can be found in your book uh
+
+<ICE-SIN:S1B-015#196:1>
+The transparency not clear you can book
+
+<ICE-SIN:S1B-015#197:1>
+Okay I have again the drain and the source alright
+
+<ICE-SIN:S1B-015#198:1>
+The these are the n-type regions okay
+
+<ICE-SIN:S1B-015#199:1>
+The drain and the source is connected to the n-type the n channel
+alright the gate is connected to the p-substrate <unclear> word </unclear>
+the p-type
+
+<ICE-SIN:S1B-015#200:1>
+So it forms something like this the same thing alright
+
+<ICE-SIN:S1B-015#201:1>
+So you find that here there's a channel on this side p alright the n
+is this one p surrounding all over the all over
+
+<ICE-SIN:S1B-015#202:1>
+But this is just a sectional view
+
+<ICE-SIN:S1B-015#203:1>
+It's not the it's not it's a piece <unclear> word </unclear> imagine
+a piece of block alright it's inside with the p-sucstrate all over alright
+surrounding it not just what you see alright the p-substrate is surrounding
+it
+
+<ICE-SIN:S1B-015#204:1>
+So the same thing applies alright p-type substrate n-type channel
+okay
+
+<ICE-SIN:S1B-015#205:1>
+Now the symbol is this one alright
+
+<ICE-SIN:S1B-015#206:1>
+This a symbol for the depletion MOSFET source drain A alright and
+the arrow pointing inwards is what you call the p-substrate alright <X>
+
+<ICE-SIN:S1B-015#X207:1>
+If the substrate is n then the arrow pointing outwards Alright I'll
+show you the graph afterwards okay n channel is physically constructed and
+embedded in the struc in the in the substance alright Basically what I what I
+do okay I make a piece of n n-type and then I have the p-type I'll just
+squeeze it in something like that That's what it means okay How to do it so
+if when go for a <unclear> word </unclear> factory visit uh go and find out
+The current will flow between the drain and the source of the voltage
+connected across drain and source same thing as uh that one alright I connect
+it here from here to here I'll get a current going like that alright So this
+my my <unclear> word </unclear> connect to the n channel it will flow like
+that alright go across the channel okay How come not the other way
+Conventional current flow is like that electron flow is like that okay It's
+how I it's how you put in your voltage source alright Now you put in the the
+same thing applies there right the same kind of uh phenomenon that means if I
+if I put in the voltage the current will flow As the current flow the
+depletion region form and so on alright Then the current saturate The same
+the same thing happens okay </X> </I>

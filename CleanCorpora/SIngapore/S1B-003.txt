@@ -1,0 +1,443 @@
+""
+""
+where's your class
+""
+alright let's get the attendance first
+""
+ang kiat hin ang kiat hin
+""
+ang kian peng ang kian peng
+""
+malee
+""
+yes you're here
+""
+""
+yes
+""
+""
+raymond goh
+""
+alan chang
+""
+tan fook cheong
+""
+""
+not here
+""
+""
+chan heng lim
+""
+""
+not here
+""
+""
+chan heng leong
+""
+chan chee leong chan chee leong
+""
+uh charles chan
+""
+tan heng chee
+""
+""
+yes
+""
+""
+okay
+""
+chee kia keong not here
+""
+cheng soo huat
+""
+cheong chee hoo
+""
+should be here by this time
+""
+alright uh chew kian hock
+""
+chiang kit teong
+""
+""
+yes
+""
+""
+okay chew chiang seng
+""
+chew seng kit
+""
+chou eng hwee
+""
+chou han yuan and chou yong meng
+""
+okay the rest came this morning right
+""
+take the nine o'clock one is it 'cos normally it should be the
+other way round
+""
+you got two classes nine and ten usually it's the ten that's full
+and nine is empty
+""
+these people can't wake up in time
+""
+yes just now the nine o'clock class is more than full about
+seventeen
+""
+okay right now questions one and two any problems with those
+""
+okay any problem with those
+""
+question one we have the application and s matrix to  word
+""
+""
+okay for question two question two we've to find the unitary
+condition
+""
+any problem with that
+""
+no right so let's move on to questions three four and five
+""
+the basic uh emphasis here is to make s matrix together with all
+other known matrices
+""
+okay for example you have t z you have other matrices like in y
+your h your hybrid okay
+""
+now we haven't got time to cover everything so for this particular
+tutorial we'll just look at this t matrix and the z matrix right
+""
+i want you all to feel comfortable with s matrix
+""
+i know it's a very new matrix that uh forcing on you all but i hope
+that after this tutorial you'll be able to see that the s matrix is but one
+out of many matrices that you can use okay
+""
+and even if you start out with your s matrix and let's say you need
+to transform it to another matrix there is no problem
+""
+let's say for question uh three or question four rather for
+question four you find that the t matrix actually is more suitable for
+practical application
+""
+there's no problem as a conversion formula between the two so you
+can always switch from one to the other okay
+""
+right so come in come in
+""
+right first of all we try to establish the relationship between the
+s and the t and that's our question three
+""
+okay now this is your two port network
+""
+now two port network you find that to assume that your symbols are
+of these four okay
+""
+with that you find that your sketching representation is just
+simply this okay
+""
+now this way of writing things assumes that your a1 and a2 are
+independent parameters and your b1 and b2 are dependent parameters
+""
+this is not unreasonable okay
+""
+a network like this you ought to know what you are feeding your
+system with and you're interested in knowing how that system responds okay so
+for the s matrix that is our presumption
+""
+we know what we have as input and we want to know the response of
+the system to the input
+""
+now what if your emphasis changes
+""
+what if you change your set of independent parameters
+""
+okay so for this question we are going to look at the possibility
+that a2 and b2 are known right a2 and b2 are known and you're supposed to
+find a1 and b1
+""
+so in other words this becomes your independent set and this
+becomes your dependent set okay
+""
+so let's get that from this particular set
+""
+alright uh it's awkward to have your left hand side comprising b1
+is your dependent but this b2 is independent so let's shift b2 over to the
+other side and uh shift the a1 which is supposed to be dependent over to the
+left okay
+""
+so you will have right so let's re-write the familiar set of
+sketching equations in this form
+""
+now once i write it in this form i can then assume that this is a
+pair of pair of simultaneous equations in two nodes
+""
+if my nodes are b1 a1 this whole lot on the right hand side is
+assumed to be known okay so in that case how to get hold of my unknowns
+""
+well simultaneous equations there are lots of ways of solving it
+""
+let's use your kramer's rule okay  word  uh
+""
+you all have heard of kramer's rule is it
+""
+okay so this you can solve by kramer's rule
+""
+now let's i won't go through the mechanical assume that we can
+solve it there you find that when you end up with this set of equations
+""
+okay so you'll end up with this set of equations
+""
+right what's so important about this set of equations 
+word 
+""
+first thing let's change the symbols okay
+""
+while you're sketching parameters we chose this set of symbols
+because they represent certain things
+""
+now since i want to look at the same system but from a different
+perspective i have to change the symbols
+""
+i let you change it to this big a1 big b1 and on this side i have
+big a2 big b2 okay usually written in this order
+""
+now here let me fit this arrows
+""
+for  word  matrix we normally draw in this
+ word 
+""
+let me fit the arrows so that they correspond
+""
+okay now what do we have here
+""
+right we  word  it with a if there's a
+one-for-one correspondence so what you want you can change to big a1 small b1
+you can change to big b1 okay
+""
+small b2 this red arrow here i can change to the green arrow here
+""
+physically it's the same wave all i'm doing is just giving it a
+different name okay giving it a different symbol
+""
+so that means just a small b2 can can can be replaced by a big b2
+and this small a1 here can be represent oh this should be 2 sorry this one
+can be represented by b2 okay
+""
+alright uh this whole lot here can be reformatted in another form
+as another matrix
+""
+okay and we find that if we call the new matrix t then i have okay
+then i have this new matrix which is your transmission matrix in that form
+and uh i find that uh there's a one-for-one correspondence
+""
+okay if i'm given my s matrix and i got one more t matrix this one
+is given by this this is given by that and so on okay
+""
+so here we have uh s matrix is given you want to transform it to
+the t matrix quite simple your t matrix is just simply given by one over s21
+it's all over there
+""
+right any questions
+""
+any questions
+""
+by the way this tutorial session is being recorded and if it turns
+out that engineering class students do not ask questions it's going to
+reflect badly okay
+""
+so any questions
+""
+come on she's taking a survey of all the faculties and uh the
+result will just confirm what everybody knows engineer students okay no
+""
+now let's move on
+""
+""
+sir the the part three application
+""
+""
+application
+""
+""
+application ya
+""
+""
+okay  word  part three let's go part three
+there
+""
+right now let's have a look at this particular matrix here uh this
+particular statement here
+""
+this one here is a input a1 b1 is an input a2 b2 is output okay
+""
+the relationship between them is a simple t
+""
+now what if i have a whole string of boxes let's just draw more
+boxes
+""
+okay now this one let's say i have a t1 matrix this one has a t2
+matrix
+""
+right the input here is related to this output via a t1 matrix but
+this output cannot be an input to the second system okay
+""
+so this one will be related to another output a3 b3 via a t2 okay
+""
+so the application of this is if i have a loads cascade of
+networks i find that this is a very powerful way of handling things
+""
+right if there is a total of said n such boxes then all i need to
+do is take the product of all n of them and i can straightaway get hold of my
+input for whatever output regardless of the number of stages i need to
+ word 
+""
+okay and for filter design you know those that uh you sometimes
+need a whole string of stages  word 
+""
+filter design not amplifier design okay
+""
+""
+so in fact this uh is uh kind of a there's a correspondence
+to the abc matrix in the
+""
+""
+because of abc matrix because of abc matrix  word
+ something like abc matrix you  word  follow the
+transmission matrix right
+""
+i know  word  is what textbooks like to use but
+uh it's a very clumsy of calling  word 
+""
+right different matrices will have different features that is what
+is remember that for question our sub-question b okay so let's look at part b
+""
+now part b asks us to look at the system when it's reciprocal okay
+""
+when does the system cease to be reciprocal
+""
+come on i've already taught i've already asked you all during
+lecture uh plus plus any others
+""
+""
+active elements
+""
+""
+active elements
+""
+some more
+""
+""
+byrex
+""
+""
+byrex okay
+""
+most the majority of the systems will be reciprocal the only
+exceptions are onyl plus plus byrex active elements okay
+""
+if you don't have these three the likelihood of it being
+reciprocal is very strong
+""
+now for the s matrix it's very easy to spot whether the system is
+reciprocal or not just look for the off diagonal elements okay
+""
+if the off diagonal elements are equal that's it the system is
+reciprocal t matrix however more work but t matrix you find that if you're to
+check whether your system is reciprocal you have to get hold of the
+determinant okay
+""
+now why
+""
+well here just go to the analysis to see why
+""
+right that is your determinant
+""
+you have all the elements already
+""
+you are off here so that's perfect then
+""
+right uh this okay
+""
+right this is your thing that's question correct uh things that we
+cancel out so it becomes easier
+""
+this one cancels with this so what we're left with is this
+""
+it's s21 here it's s21 squared here so we'll get rid of s21 uh
+we're left with that okay
+""
+now we're told that the system is reciprocal which means that the
+s12 will be equal to s1 so that means this will be one okay so this is your
+check
+""
+if you have a s matrix it's simple just the check is just a visual
+check okay but if you're working on t matrix there's a little bit more work
+you have to form the determinant
+""
+see if the determinant is one if it's given t then you can
+conclude that your system is reciprocal okay if it's not that means you have
+one of those three elements in there byrex active elements or plus plus okay
+""
+any question no let's move on to question four
+""
+this question three sets the background and answers for it
+""
+now let's actually apply it to a circuit given in question four
+""
+right question four you have this system
+""
+the first matrix is sigma 'a'
+""
+sorry second matrix is sigma
+""
+what about sketching matrices
+""
+we're told that uh this your first cascade second cascade and then
+finally you have to load okay
+""
+these are all boxes but your load could be in this box here could
+be in the antenna right your antenna is radiating away
+""
+this one this box here could be uh a filter network you want to
+make sure that only certain signals get sent all the other frequencies are
+filtered out
+""
+this one here could be amplifier network okay
+""
+you want to make sure you pump enough signal uh pump enough power
+for the antenna to radiate out right 
+""
+so all these boxes are typical things that you need to put in for
+particular system to work right question is if here you have a load just put
+in the arrows if here you have a load such that your a just a minute a3 b3 if
+here you have a load such that b3  word  three 
+word  gamma l you'll be very interested to know what is my gamma in
+here the gamma in is uh b1 over a1 okay a typical situation will be like this
+this is your load you go through a series of cas uuh network over here you
+want to hook it up to a source you want to check that your load is not going
+to heavily affect the source operation okay so this is a typical problem i
+want to work out what gamma in is for gamma l after it has gone through a
+series of boxes right  word  in this case you find that uh
+your transmission matrix is not powerful than your sketching matrix okay
+alright uh your a1 b1 which you're interested in because that is where your
+source is you want to know what is happening to it let's say this can be
+transformed to t' this can be transformed t'' you want to know what is
+happening to  word  at the other port okay so that will
+give you this this one can then be related to your other port okay so that is
+what we have now let's give this a composite name this is a product here
+let's give it a composite symbol of t so that means what i have is a1 is
+equals to t11 a3 plus t2 b3 b1 okay that's what i'm going to have the right
+hand side here there are two symbols two parameters a3 and b3 however we
+learn that the load is somewhere else so the two of them are related in that
+case b3 is just straightforwardly this okay so if i want gam gamma a simple
+take this row divide by that row and straightaway i have the answer okay
+right now that's your answer in terms of the composite matrix t however we
+still got to get hold of t' and t'' okay so that's our next step get hold of
+t' and t'' right t will be t' times uh t'' what is t' from question two uh
+sorry question three from question three we've already established that uh
+okay t' ought to be that t'' simple it's exactly the same uh except for a
+change of symbols right now you can take the product of it uh
+straightforwardly by that but uh let's start making use of the approximations
+okay return the product you find that you are uh you have quite a whole long
+of unwieldy string of uh terms but instead of doing that let's look at the
+situation where skk here is small okay where sigma kk here is small  

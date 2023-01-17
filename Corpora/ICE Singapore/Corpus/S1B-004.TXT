@@ -1,0 +1,400 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1B-004#1:1:A>
+Alright so last year what when we talk about hazards and you
+know there are two types of hazards right
+
+<ICE-SIN:S1B-004#2:1:A>
+Latent dependency hazards which is what you try to take care of by
+your data tagging internal body and the other type of hazards are job
+scheduling hazards and that's where we talk about collisions in the use of
+reservant table to prevent them
+
+<ICE-SIN:S1B-004#3:1:A>
+Just one point the ladies brought up to my attention when we talk
+about order table co-ording mechanisms to be very strict about it if you want
+to say that this after all the ording mechanism that you use produces an end
+state that is identical to the original sequence of instructions then we
+really need to have this as well
+
+<ICE-SIN:S1B-004#4:1:A>
+In another word or rather make he make it uh comes up like that
+alright to be strict about it
+
+<ICE-SIN:S1B-004#5:1:A>
+Okay because the state of a system the state of a machine is
+determined by the contents of the internal registers alright at the end of
+this original set of instructions when mister RO would contain the result of
+that multiplication alright and that same result is <unclear> word </unclear>
+into memory but it still contain in RO after that copy of registers alright
+
+<ICE-SIN:S1B-004#6:1:A>
+For that year at the end of it RO will also should also contain the
+result of that multiplication alright
+
+<ICE-SIN:S1B-004#7:1:A>
+So that's latent depend dependency has okay then we started on job
+scheduling hazards and we define a <unclear> word </unclear> alright
+
+<ICE-SIN:S1B-004#8:1:A>
+To simplify matters we talk about a unifunction pipeline okay you
+can do likewise or multifunction pipelines too but it's more complicated
+
+<ICE-SIN:S1B-004#9:1:A>
+You know initiation is just referring to the starting of a job in
+the pipeline and the job scheduling hazard essentially refers to a collision
+when more than one job try to use a particular stage of the pipeline and we
+need to use the reservation table to help us prevent collisions between jobs
+alright
+
+<ICE-SIN:S1B-004#10:1:A>
+The latency in time interval between successive initiations that
+means between successive jobs a latency sequence is just a sequence of just
+the interval between jobs right
+
+<ICE-SIN:S1B-004#11:1:A>
+And in if that sequence happen of intervals se uhm sequence repeats
+itself we call it a latency cycle okay alright
+
+<ICE-SIN:S1B-004#12:1:A>
+And I showed you this example of a reservating table and we know
+that if you try to start a second job one time unit later you will get a
+collision right here at square two two right
+
+<ICE-SIN:S1B-004#13:1:A>
+Because job one is trying to use this stage job two is also trying
+to use the same stage okay job two is the blue mark job one is a red mark
+right
+
+<ICE-SIN:S1B-004#14:1:A>
+So we know we need to obtain a set of forbidden latencies that
+means those tine intervals that we cannot start new jobs alright
+
+<ICE-SIN:S1B-004#15:1:A>
+Okay we start new jobs during those intervals at those intervals
+you will lead to collisions okay
+
+<ICE-SIN:S1B-004#16:1:A>
+And it turns out that forbidden latencies can be easily obtained
+from the reservation table by taking the distance between marks in any row
+
+<ICE-SIN:S1B-004#17:1:A>
+For this particular case the mark in the rows give us this set
+forbidden latencies alright
+
+<ICE-SIN:S1B-004#18:1:A>
+One five six and eight
+
+<ICE-SIN:S1B-004#19:1:A>
+Okay you have marked it up one square apart here to there is five
+squares apart from here to here is six squares apart alright
+
+<ICE-SIN:S1B-004#20:1:A>
+And from that to that there are eight squares apart okay so those
+are the forbidden latencies okay if you start a job at an interval equal to
+the spacing between any of those two marks then the utilisation of say stage
+two by the earlier job at the later time and by the later job at the earlier
+time you will clash
+
+<ICE-SIN:S1B-004#21:1:A>
+What I'm trying to say is this supposing okay here is one two three
+four five so you start the first job and then you start the second job five
+times units later alright and at the time when the first job means stage two
+here that corresponds to a time when the second job meets stage two at this
+point alright because if you start your second job five times units later it
+may clash right
+
+<ICE-SIN:S1B-004#22:1:A>
+Okay this mark here corresponding to a second job is collision at
+this point actually isn't it you know you know in its reservation table okay
+
+<ICE-SIN:S1B-004#23:1:A>
+So we know we can get the forbidden latencies right and to make
+control of the pipeline easier all these collision uhm time intervals the
+forbidden latencies can be put into what is called a collision vector
+
+<ICE-SIN:S1B-004#24:1:A>
+And a collision vector is simply is single bit positions alright
+where the bit position equal to a one bit position k equals to a one if k is
+an element of your forbidden set okay
+
+<ICE-SIN:S1B-004#25:1:A>
+That's a collision vector
+
+<ICE-SIN:S1B-004#26:1:A>
+All other bit position will be a zero
+
+<ICE-SIN:S1B-004#27:1:A>
+So for this specific example then what we are going to have for the
+collision vector is position one two three four five six seven eight
+
+<ICE-SIN:S1B-004#28:1:A>
+That's the collision vector for this example alright
+
+<ICE-SIN:S1B-004#29:1:A>
+Position counting from right hand side starting at one okay
+
+<ICE-SIN:S1B-004#30:1:A>
+So bit k is a one in k itself is in your forbidden latency and we
+make use of the shift register to decide when we can start a new job and you
+make use of it this way
+
+<ICE-SIN:S1B-004#31:1:A>
+When we start a job in the pipeline you would load this vector into
+a shift register okay this collision vector goes into a shift register I mean
+start the job alright
+
+<ICE-SIN:S1B-004#32:1:A>
+And then we start shifting one bit at a time for each clock cycle
+if you shift a one out then if that at that instant you cannot start a new
+job alright if you shift a zero out then you can start a new job okay
+
+<ICE-SIN:S1B-004#33:1:A>
+Now we said over here forbidden latencies are one five six eight
+
+<ICE-SIN:S1B-004#34:1:A>
+So your first after you have started a new job you loaded this in
+the next clock cycle you will shift a one out
+
+<ICE-SIN:S1B-004#35:1:A>
+That way you cannot start at the next clock cycle alright
+
+<ICE-SIN:S1B-004#36:1:A>
+Second clock cycle later you're shifting the zero out you can start
+a new job at the second clock cycle alright
+
+<ICE-SIN:S1B-004#37:1:A>
+And that will not lead to a collision right because if you start
+one clock cycle later you see that collision at square two two if you start
+two cycles later there's no problem okay
+
+<ICE-SIN:S1B-004#38:1:A>
+No clashes between the red and blue marks right
+
+<ICE-SIN:S1B-004#39:1:A>
+So load this into a shift register and if you shift a one out then
+you cannot start a new job okay
+
+<ICE-SIN:S1B-004#40:1:A>
+At that time instance right
+
+<ICE-SIN:S1B-004#41:1:A>
+Each cycle you shift one bit right
+
+<ICE-SIN:S1B-004#42:1:A>
+Okay now think of how the state of the pipeline will proceed from
+here
+
+<ICE-SIN:S1B-004#43:1:A>
+Right we've started one job without this okay so we loaded this
+collision vector one clock cycle later we shifted a one out we cannot start a
+new job
+
+<ICE-SIN:S1B-004#44:1:A>
+Second clock cycle after that you're shifting a zero you know you
+can start a new job fine and go ahead and start a new job alright
+
+<ICE-SIN:S1B-004#45:1:A>
+If you do that then the new job is going to fit in it's going to
+start right here right
+
+<ICE-SIN:S1B-004#46:1:A>
+Two cycles later and the usage pattern will follow the same as the
+first one so it will go this way this way
+
+<ICE-SIN:S1B-004#47:1:A>
+That's the second job
+
+<ICE-SIN:S1B-004#48:1:A>
+Now we need to know when can we start the third job okay
+
+<ICE-SIN:S1B-004#49:1:A>
+When can we start the third job
+
+<ICE-SIN:S1B-004#50:1:A>
+And so now we have job one and job two in the pipe
+
+<ICE-SIN:S1B-004#51:1:A>
+Job one job two okay
+
+<ICE-SIN:S1B-004#52:1:A>
+This initial collision vector was used to prevent collision between
+this alright
+
+<ICE-SIN:S1B-004#53:1:A>
+Supposing after this case if you imagine you have another register
+okay we have more than one register for this collision vector
+
+<ICE-SIN:S1B-004#54:1:A>
+After the new job we can load this same collision vector into the
+new register and then we start shifting out from the second register to
+decide when we start the third job right
+
+<ICE-SIN:S1B-004#55:1:A>
+The situation is exactly the same as between job two and job one
+right
+
+<ICE-SIN:S1B-004#56:1:A>
+Okay between now we're talking about between job three and job two
+okay
+
+<ICE-SIN:S1B-004#57:1:A>
+So by looking at the second register checking for what is shifted
+out we can prevent collisions between job three and two but but that's not
+all that we have to worry about isn't it
+
+<ICE-SIN:S1B-004#58:1:A>
+We need to worry about clashes between job three and one as well
+alright
+
+<ICE-SIN:S1B-004#59:1:A>
+If you like we can think of it this way we started one job then one
+time unit passes two time unit passes we started job two right
+
+<ICE-SIN:S1B-004#60:1:A>
+So job two is the one that this collision vector can protect from
+colliding with job three okay
+
+<ICE-SIN:S1B-004#61:1:A>
+So looking at the second copy of this vector we can prevent
+collisions between this third job now and the second job that means the blue
+and the green mark we can prevent clashes using this vector okay
+
+<ICE-SIN:S1B-004#62:1:A>
+We still need to take care of clashes between the third job and
+whatever is left of the earlier jobs between job three and job one we still
+need to take care of that between the blue mark and the red mark
+
+<ICE-SIN:S1B-004#63:1:A>
+Right now we have not taken care of that yet alright
+
+<ICE-SIN:S1B-004#64:1:A>
+Sound complicated but we can just use one register to take care of
+everything okay because turns out that the convenient technique for handling
+all of these is to fine we know this which is this same collision vector will
+protect us from collision between this and this okay
+
+<ICE-SIN:S1B-004#65:1:A>
+Now we've started job two two time units later so we've shifted
+this out and we've shifted that one out
+
+<ICE-SIN:S1B-004#66:1:A>
+So what is left for the first job is this pattern alright
+
+<ICE-SIN:S1B-004#67:1:A>
+We need to OR them OR this one to this pattern okay
+
+<ICE-SIN:S1B-004#68:1:A>
+So we'll OR this and we'll end up with this
+
+<ICE-SIN:S1B-004#69:1:A>
+This becomes the new collision vector and it will protect you
+against all collisions alright between your new job and all the previous jobs
+okay
+
+<ICE-SIN:S1B-004#70:1:A>
+Because this one prevents collision between three and two that one
+which is shifted from there prevents collision between the new job and the
+earlier jobs alright
+
+<ICE-SIN:S1B-004#71:1:A>
+So this becomes the new collision vector for the whole pipeline for
+the whole system alright
+
+<ICE-SIN:S1B-004#72:1:A>
+And you can proceed to do this for every single interval where you
+can start new jobs okay
+
+<ICE-SIN:S1B-004#73:1:A>
+We say that this this collision vector represents the state of the
+pipeline alright and therefore we can obtain what is called a state diagram
+for the entire pipeline right that tells you exactly at any point in time
+when you can start another job okay no matter how many other jobs are still
+in the pipe
+
+<ICE-SIN:S1B-004#74:1:A>
+So we need to get the state diagram alright
+
+<ICE-SIN:S1B-004#75:1:A>
+Don't this any more so the initial collision vector is this one two
+three four five six seven eight
+
+<ICE-SIN:S1B-004#76:1:A>
+I do the working on another sheet alright then this one will give
+the proper state diagram
+
+<ICE-SIN:S1B-004#77:1:A>
+We cannot start one time unit later we can start a new job two time
+units later
+
+<ICE-SIN:S1B-004#78:1:A>
+So what is left from here is after two time units later you'll have
+zero zero one one zero one alright
+
+<ICE-SIN:S1B-004#79:1:A>
+That is what is left from the earlier job
+
+<ICE-SIN:S1B-004#80:1:A>
+For the new job for the second job which is started two time units
+later we we get this same pattern we OR them we end up with this
+
+<ICE-SIN:S1B-004#81:1:A>
+So this becomes the new state of the pipeline alright
+
+<ICE-SIN:S1B-004#82:1:A>
+So we say this is initial alright your first one that comes in and
+then two time units later we started a new job the new state of the <unclear>
+word </unclear> of the system becomes characterised by this collision vector
+alright
+
+<ICE-SIN:S1B-004#83:1:A>
+We can also start a job three time units later right after the
+first job okay so that will give us a different table
+
+<ICE-SIN:S1B-004#84:1:A>
+Okay so that one will give us if you started three time units
+instead this is what is left again we have to OR it <X>
+
+<ICE-SIN:S1B-004#X85:1:A>
+Okay what is called the initial collision vector you get another
+new state okay So this one characterises this system if we started the second
+job three time units later instead of two So we have this after three time
+units right And you can proceed on okay second third fourth time interval
+then we end up with right you again you OR them okay to give you the new
+state You proceed on like that you will end up with this one four units later
+alright So two three four five six you can start around seven units later If
+you start one seven units later and you OR them you find that you get back
+this thing itself okay So seven units later you'd get back itself alright
+because after seven units all you have is a one in the least significant
+position okay so initial vector all with a one there give you exactly the
+same thing alright After seven you cannot start one eight units later you can
+start after nine units ten units eleven units and so on right Okay So this
+also applies for nine and above right after the first clock So right now all
+we've taken care of is all possibilities after having started one job alright
+Then we go to each of the other and do the same thing okay to find out what
+other new states So having done all cases with this we come to this So
+supposing it has first job two time units later it started second job when
+can we do the third job Okay you can't do it one time unit later because you
+shift a one out you can do it two units later because they're shifting a zero
+out Then you do the same thing right So in that case if you do that you're
+going to After two units from this state with their two jobs in the system
+then you start your third job alright We get this okay so that's the new
+state here where you start another job two units after this state alright
+Again you can go two three four five six you can start one seven units later
+That will bring you back to this state right So after seven units again
+you're just left with one at the end okay You OR that you have the initial
+collision vector you get back the same thing okay Again you cannot start
+after eight you can start after nine and above nine and above there's nothing
+left all you have will be just this So again you have this and nine and above
+alright So you just proceed the same way for each state that you have not
+taken care of to fill up to complete this state diagram okay this is called a
+state diagram So let me just finish this up and one two three four units
+later you can start one more job right from this state We've taken care of
+this we've taken care of that Okay so four units later and you OR the results
+you're going to end up with this okay So after you you've done this OR
+operation and get the new collision vector you have to check that whatever
+you have so far to see whether this new vector is in there or not okay
+whether you need to introduce it as a new state or it's a matter of going
+back to one of the existing states okay Don't repeat the state you're going
+to confuse yourself alright </X> </I>

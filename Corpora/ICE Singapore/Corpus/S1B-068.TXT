@@ -1,0 +1,887 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1B-068#1:1:A>
+Doctor Pua who brought the patient Bachu Miah to you
+
+<$B> 
+<ICE-SIN:S1B-068#2:1:B>
+The police officers
+
+<$A> 
+<ICE-SIN:S1B-068#3:1:A>
+How many police officers
+
+<$B> 
+<ICE-SIN:S1B-068#4:1:B>
+I do not remember
+
+<$A> 
+<ICE-SIN:S1B-068#5:1:A>
+You spoke with the police officers
+
+<$B> 
+<ICE-SIN:S1B-068#6:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-068#7:1:A>
+And what was your conversation with the police officers
+
+<$B> 
+<ICE-SIN:S1B-068#8:1:B>
+Well
+
+<ICE-SIN:S1B-068#9:1:B>
+The conversation with the police officers
+
+<$A> 
+<ICE-SIN:S1B-068#10:1:A>
+Yes
+
+<ICE-SIN:S1B-068#11:1:A>
+What did the police officers tell you
+
+<$B> 
+<ICE-SIN:S1B-068#12:1:B>
+They just brought the patients to us for examination before
+interrogation
+
+<ICE-SIN:S1B-068#13:1:B>
+It is a pre statement examination
+
+<$A> 
+<ICE-SIN:S1B-068#14:1:A>
+Did the officers discuss with you the injuries before you
+examined the patient
+
+<$B> 
+<ICE-SIN:S1B-068#15:1:B>
+No
+
+<$A> 
+<ICE-SIN:S1B-068#16:1:A>
+In what language did you speak to the patient Mohamed Bachu
+Miah
+
+<ICE-SIN:S1B-068#17:1:A>
+In what language did you speak to him
+
+<$B> 
+<ICE-SIN:S1B-068#18:1:B>
+I don't remember but I assume it to be English because I do
+not speak Bangladeshi
+
+<$A> 
+<ICE-SIN:S1B-068#19:1:A>
+You don't speak Bangladeshi
+
+<ICE-SIN:S1B-068#20:1:A>
+Did you record on your treatment card
+
+<ICE-SIN:S1B-068#21:1:A>
+What language you spoke to the accused
+
+<$B> 
+<ICE-SIN:S1B-068#22:1:B>
+No I don't
+
+<$A> 
+<ICE-SIN:S1B-068#23:1:A>
+What questions did you ask the patient
+
+<$B> 
+<ICE-SIN:S1B-068#24:1:B>
+I don't exactly remember the conversation
+
+<ICE-SIN:S1B-068#25:1:B>
+But the usual consultation we have with our patients is to ask them
+what injuries they have how did they sustain those injuries and whether they
+have any other problems medical problems
+
+<ICE-SIN:S1B-068#26:1:B>
+But I don't remember the exact conversation I had with the patients
+
+<$A> 
+<ICE-SIN:S1B-068#27:1:A>
+Now
+
+<ICE-SIN:S1B-068#28:1:A>
+Did you have any problems in communicating with the patient
+
+<ICE-SIN:S1B-068#29:1:A>
+He is a Bangladeshi
+
+<ICE-SIN:S1B-068#30:1:A>
+You don't speak Bangladeshi
+
+<ICE-SIN:S1B-068#31:1:A>
+Did you have any problems communicating with the patient
+
+<$B> 
+<ICE-SIN:S1B-068#32:1:B>
+I don't recall again whether I had any problems
+
+<ICE-SIN:S1B-068#33:1:B>
+But I did manage to get the history
+
+<$A> 
+<ICE-SIN:S1B-068#34:1:A>
+Now
+
+<ICE-SIN:S1B-068#35:1:A>
+When you were examining the patient who else was in the examination
+room other than yourself and the patient
+
+<$B> 
+<ICE-SIN:S1B-068#36:1:B>
+My nurse
+
+<ICE-SIN:S1B-068#37:1:B>
+My nurse
+
+<$A> 
+<ICE-SIN:S1B-068#38:1:A>
+Anybody else
+
+<$B> 
+<ICE-SIN:S1B-068#39:1:B>
+I don't recall
+
+<$A> 
+<ICE-SIN:S1B-068#40:1:A>
+What about the police officer or police officers who brought
+the patient to you
+
+<ICE-SIN:S1B-068#41:1:A>
+Were they also in the room
+
+<$B> 
+<ICE-SIN:S1B-068#42:1:B>
+I don't remember
+
+<$A> 
+<ICE-SIN:S1B-068#43:1:A>
+Please refer to your notes
+
+<ICE-SIN:S1B-068#44:1:A>
+You may have something there
+
+<$B> 
+<ICE-SIN:S1B-068#45:1:B>
+We don't write whether the police officers are present during
+the examination of the injuries
+
+<ICE-SIN:S1B-068#46:1:B>
+Not in our notes
+
+<$A> 
+<ICE-SIN:S1B-068#47:1:A>
+What about the presence of the nurse
+
+<ICE-SIN:S1B-068#48:1:A>
+Is it written in the notes
+
+<$B> 
+<ICE-SIN:S1B-068#49:1:B>
+No
+
+<ICE-SIN:S1B-068#50:1:B>
+That is the normal routine
+
+<ICE-SIN:S1B-068#51:1:B>
+All consultation room has a nurse who will help us to fill in forms
+
+<$A> 
+<ICE-SIN:S1B-068#52:1:A>
+And how did you do your examination of the patient
+
+<ICE-SIN:S1B-068#53:1:A>
+He came with his clothes on
+
+<ICE-SIN:S1B-068#54:1:A>
+How did you do this examination
+
+<$B> 
+<ICE-SIN:S1B-068#55:1:B>
+Well we examined them from head to toe
+
+<ICE-SIN:S1B-068#56:1:B>
+Complete examination and pay particular attention to injuries that
+they pointed it out to us during the history
+
+<$A> 
+<ICE-SIN:S1B-068#57:1:A>
+Are you saying that he was asked to take off his clothes
+
+<ICE-SIN:S1B-068#58:1:A>
+You examined his body his naked body
+
+<$B> 
+<ICE-SIN:S1B-068#59:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-068#60:1:A>
+Doctor
+
+<ICE-SIN:S1B-068#61:1:A>
+I am instructed and I put it to you that the patient never spoke to
+you because he could not speak English
+
+<ICE-SIN:S1B-068#62:1:A>
+Do you understand the question
+
+<$B> 
+<ICE-SIN:S1B-068#63:1:B>
+No
+
+<ICE-SIN:S1B-068#64:1:B>
+I don't recall whether he spoke English or in any other language
+
+<ICE-SIN:S1B-068#65:1:B>
+He might have some knowledge of may be Malay or a little bit of
+English
+
+<ICE-SIN:S1B-068#66:1:B>
+I don't remember
+
+<ICE-SIN:S1B-068#67:1:B>
+But usually for any other patients if I can't communicate it's
+through
+
+<ICE-SIN:S1B-068#68:1:B>
+If they can speak in Malay then we get a nurse who can speak Malay
+to translate or through sign language
+
+<$A> 
+<ICE-SIN:S1B-068#69:1:A>
+Yes
+
+<ICE-SIN:S1B-068#70:1:A>
+Witness please confine your answer to this case
+
+<$B> 
+<ICE-SIN:S1B-068#71:1:B>
+I don't remember
+
+<$A> 
+<ICE-SIN:S1B-068#72:1:A>
+You don't remember whether you could communicate with him
+
+<$B> 
+<ICE-SIN:S1B-068#73:1:B>
+I don't remember
+
+<$A> 
+<ICE-SIN:S1B-068#74:1:A>
+You did not get any interpreters to communicate with the
+patient in this case
+
+<$B> 
+<ICE-SIN:S1B-068#75:1:B>
+Interpreter from
+
+<$A> 
+<ICE-SIN:S1B-068#76:1:A>
+Any person to interpret to you so that you could communicate
+with the patient
+
+<$B> 
+<ICE-SIN:S1B-068#77:1:B>
+If as you say they only speak Bangladeshi then no
+
+<ICE-SIN:S1B-068#78:1:B>
+Because I don't think any nurses in the Department can speak
+Bangladeshi
+
+<$A> 
+<ICE-SIN:S1B-068#79:1:A>
+All right
+
+<ICE-SIN:S1B-068#80:1:A>
+Doctor can you look at your medical report paragraph two A
+
+<ICE-SIN:S1B-068#81:1:A>
+Healing linear abrasions over right cheek and left cheek
+
+<ICE-SIN:S1B-068#82:1:A>
+Both consistent with the history given
+
+<ICE-SIN:S1B-068#83:1:A>
+Can you please tell the Court how old in your opinion were these
+injuries
+
+<$B> 
+<ICE-SIN:S1B-068#84:1:B>
+How old were the injuries
+
+<$A> 
+<ICE-SIN:S1B-068#85:1:A>
+Yes
+
+<$B> 
+<ICE-SIN:S1B-068#86:1:B>
+It should be about a week
+
+<ICE-SIN:S1B-068#87:1:B>
+At least a week old
+
+<$A> 
+<ICE-SIN:S1B-068#88:1:A>
+Witness if I suggest to you that these injuries were inflicted
+on twenty-second January nineteen eighty-eight between three A M to five A M
+
+<ICE-SIN:S1B-068#89:1:A>
+Would you agree with that
+
+<$A> 
+<ICE-SIN:S1B-068#90:1:A>
+This would be eight days
+
+<$A> 
+<ICE-SIN:S1B-068#91:1:A>
+About eight days before you examined the patient
+
+<$B> 
+<ICE-SIN:S1B-068#92:1:B>
+It is possible
+
+<$A> 
+<ICE-SIN:S1B-068#93:1:A>
+And would you confirm in this Court that these injuries two A
+were consistent with having been caused by scratching on the patient's face
+with the fingernails of another person
+
+<$B> 
+<ICE-SIN:S1B-068#94:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-068#95:1:A>
+Doctor
+
+<ICE-SIN:S1B-068#96:1:A>
+What about the injuries listed as two B in your report
+
+<ICE-SIN:S1B-068#97:1:A>
+Abrasions over the epigastric region of the abdomen and left
+forearm consistent with blunt injuries
+
+<$A> 
+<ICE-SIN:S1B-068#98:1:A>
+Yes
+
+<ICE-SIN:S1B-068#99:1:A>
+You told this Court they were consistent with injuries sustained by
+climbing coconut trees
+
+<ICE-SIN:S1B-068#100:1:A>
+Now would you agree with me these injuries in the region of the
+abdomen would be consistent with fisting on the patient's abdomen by a person
+
+<$B> 
+<ICE-SIN:S1B-068#101:1:B>
+No
+
+<ICE-SIN:S1B-068#102:1:B>
+These are superficial abrasions on the skin injuries that you
+would sustain when you scrape your skin against a rough surface and not a
+fist
+
+<$A> 
+<ICE-SIN:S1B-068#103:1:A>
+Doctor I am referring to two B abrasions over the epigastric
+region
+
+<$B> 
+<ICE-SIN:S1B-068#104:1:B>
+Right yes
+
+<$A> 
+<ICE-SIN:S1B-068#105:1:A>
+Now
+
+<ICE-SIN:S1B-068#106:1:A>
+Did you pay attention to the appearance of this patient
+
+<ICE-SIN:S1B-068#107:1:A>
+When he was brought to you how did he appear to you
+
+<ICE-SIN:S1B-068#108:1:A>
+In other words what was his state
+
+<$A> 
+<ICE-SIN:S1B-068#109:1:A>
+Your Honour I am trying to ask the doctor whether she
+observed this patient
+
+<ICE-SIN:S1B-068#110:1:A>
+Was he looking normal or was he excited
+
+<$A> 
+<ICE-SIN:S1B-068#111:1:A>
+He was brought to you and what was your observation of this
+patient when he was brought to you
+
+<$B> 
+<ICE-SIN:S1B-068#112:1:B>
+I don't recall very clearly but I don't remember he was
+agitated
+
+<$A> 
+<ICE-SIN:S1B-068#113:1:A>
+You don't recall but you don't remember
+
+<ICE-SIN:S1B-068#114:1:A>
+Can you see your treatment card
+
+<ICE-SIN:S1B-068#115:1:A>
+Is there any note made of this observation
+
+<$B> 
+<ICE-SIN:S1B-068#116:1:B>
+That he was agitated or not
+
+<$A> 
+<ICE-SIN:S1B-068#117:1:A>
+Whatever your observations were
+
+<$B> 
+<ICE-SIN:S1B-068#118:1:B>
+His general condition was good
+
+<$A> 
+<ICE-SIN:S1B-068#119:1:A>
+Doctor did you take his blood pressure
+
+<$B> 
+<ICE-SIN:S1B-068#120:1:B>
+Blood pressure yes
+
+<ICE-SIN:S1B-068#121:1:B>
+It was one hundred and nine over sixty-three millimetres mercury
+
+<$A> 
+<ICE-SIN:S1B-068#122:1:A>
+One hundred and nine over
+
+<$B> 
+<ICE-SIN:S1B-068#123:1:B>
+Sixty-three
+
+<$A> 
+<ICE-SIN:S1B-068#124:1:A>
+Is that normal
+
+<$B> 
+<ICE-SIN:S1B-068#125:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-068#126:1:A>
+And what was his pulse rate like
+
+<ICE-SIN:S1B-068#127:1:A>
+Did you take it
+
+<$B> 
+<ICE-SIN:S1B-068#128:1:B>
+Fifty-three per minute
+
+<$A> 
+<ICE-SIN:S1B-068#129:1:A>
+And would you describe that as normal
+
+<$B> 
+<ICE-SIN:S1B-068#130:1:B>
+Yes
+
+<$A> 
+<ICE-SIN:S1B-068#131:1:A>
+Doctor
+
+<ICE-SIN:S1B-068#132:1:A>
+The average pulse rate is around seventy seventy two isn't it
+
+<$B> 
+<ICE-SIN:S1B-068#133:1:B>
+That is just an average heart rate but it is a wide range
+from fifty to about one hundred depending on your emotional state on your
+physical fitness
+
+<ICE-SIN:S1B-068#134:1:B>
+For somebody who has been doing manual work I would assume his
+physical status to be pretty healthy and fit
+
+<ICE-SIN:S1B-068#135:1:B>
+Sportsmen have been known to have pulse rate of thirty to forty
+beats per minute
+
+<ICE-SIN:S1B-068#136:1:B>
+So fifty three beats per minute to me is normal
+
+<$A> 
+<ICE-SIN:S1B-068#137:1:A>
+I have no further questions
+
+<$C> 
+<ICE-SIN:S1B-068#138:1:C>
+Sir I have watched the cross-examination of my learned friend
+
+<ICE-SIN:S1B-068#139:1:C>
+And to the extent of the dialogue they had as to the difficulties
+in communication
+
+<ICE-SIN:S1B-068#140:1:C>
+I would wish to adopt that part of it
+
+<$C> 
+<ICE-SIN:S1B-068#141:1:C>
+I would just like to put in a few more questions of my own
+
+<$C> 
+<ICE-SIN:S1B-068#142:1:C>
+Doctor Pua my clients says he doesn't speak English
+
+<ICE-SIN:S1B-068#143:1:C>
+He has difficulty in communicating in English
+
+<$B> 
+<ICE-SIN:S1B-068#144:1:B>
+Does he speak not even a word of English
+
+<$B> 
+<ICE-SIN:S1B-068#145:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#146:1:C>
+Doctor Pua
+
+<ICE-SIN:S1B-068#147:1:C>
+Looking at this report
+
+<ICE-SIN:S1B-068#148:1:C>
+I would put it to you that you did not obtain history from my
+client
+
+<$B> 
+<ICE-SIN:S1B-068#149:1:B>
+What do you mean
+
+<$C> 
+<ICE-SIN:S1B-068#150:1:C>
+On the record that you have in page forty six
+
+<$C> 
+<ICE-SIN:S1B-068#151:1:C>
+Can you have a look at page twenty
+
+<ICE-SIN:S1B-068#152:1:C>
+Sorry you are looking at a different report
+
+<$B> 
+<ICE-SIN:S1B-068#153:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#154:1:C>
+That is the one who is my client
+
+<$B> 
+<ICE-SIN:S1B-068#155:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#156:1:C>
+Now you examined him on the first of February eighty eight at
+eleven fifty seven hours
+
+<ICE-SIN:S1B-068#157:1:C>
+You put down there he claimed that his right index and middle
+fingers were bitten by the deceased on twenty first February eighty eight
+
+<$B> 
+<ICE-SIN:S1B-068#158:1:B>
+Where did I get the history that his right index and middle
+fingers
+
+<$C> 
+<ICE-SIN:S1B-068#159:1:C>
+That's right
+
+<$B> 
+<ICE-SIN:S1B-068#160:1:B>
+It's from him
+
+<$C> 
+<ICE-SIN:S1B-068#161:1:C>
+So whatever barriers you may have had in communication you
+managed to overcome and come to this conclusion
+
+<$B> 
+<ICE-SIN:S1B-068#162:1:B>
+Yes
+
+<ICE-SIN:S1B-068#163:1:B>
+I can't remember how I got the history including that of the road
+traffic accident
+
+<$C> 
+<ICE-SIN:S1B-068#164:1:C>
+Doctor Pua
+
+<ICE-SIN:S1B-068#165:1:C>
+You mentioned here that the fingers were bitten by the deceased
+
+<ICE-SIN:S1B-068#166:1:C>
+How did you know that the deceased was involved
+
+<$B> 
+<ICE-SIN:S1B-068#167:1:B>
+The patient came with an accompanied form where he had to
+fill in
+
+<ICE-SIN:S1B-068#168:1:B>
+And there is a short little history there
+
+<$C> 
+<ICE-SIN:S1B-068#169:1:C>
+Can you come to that please
+
+<ICE-SIN:S1B-068#170:1:C>
+Can you read out that short little history
+
+<ICE-SIN:S1B-068#171:1:C>
+Read out the whole thing
+
+<$B> 
+<ICE-SIN:S1B-068#172:1:B>
+On the thirty first of January nineteen eighty-eight at about
+nine P M subject was arrested at number twenty-six Mandai Lake Road for an
+offence of murder which was committed on the twenty second of January
+nineteen eighty eight at Jalan Kampong Chantek
+
+<ICE-SIN:S1B-068#173:1:B>
+Please examine subject for old scars injuries and also any fresh
+injuries as he is about to give a statement to the police under the
+provisions of section one hundred and twenty two point six C P C
+
+<ICE-SIN:S1B-068#174:1:B>
+He claimed that his fingers were bitten by the deceased and also
+had a fall in injuring his knees
+
+<$C> 
+<ICE-SIN:S1B-068#175:1:C>
+So in fact you were given a preview preliminary instructions
+
+<$B> 
+<ICE-SIN:S1B-068#176:1:B>
+Brief details
+
+<ICE-SIN:S1B-068#177:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#178:1:C>
+And basically this was what you have there
+
+<$B> 
+<ICE-SIN:S1B-068#179:1:B>
+Just this section
+
+<ICE-SIN:S1B-068#180:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#181:1:C>
+Doctor Pua Phua you were in the company of a person who was
+apparently a murderer and you were only with a nurse a lady nurse
+
+<ICE-SIN:S1B-068#182:1:C>
+You were conducting an examination on a person who was suspected
+of being a murderer and you were only in the company of a lady nurse
+
+<$B> 
+<ICE-SIN:S1B-068#183:1:B>
+I only remember that there was a nurse because that is
+routine
+
+<ICE-SIN:S1B-068#184:1:B>
+I don't remember whether there were other people in the room
+
+<$B> 
+<ICE-SIN:S1B-068#185:1:B>
+Whether it was a lady nurse
+
+<ICE-SIN:S1B-068#186:1:B>
+Oh I can't remember whether the nurse was a lady or a male
+
+<$C> 
+<ICE-SIN:S1B-068#187:1:C>
+So sorry it was a presumption on my part
+
+<ICE-SIN:S1B-068#188:1:C>
+When I heard the word nurse I presumed a lady
+
+<ICE-SIN:S1B-068#189:1:C>
+In the examination that you made
+
+<ICE-SIN:S1B-068#190:1:C>
+If understand you correctly when you do the examination
+
+<ICE-SIN:S1B-068#191:1:C>
+You examine your patient from head to toe and he is naked
+
+<$B> 
+<ICE-SIN:S1B-068#192:1:B>
+Correct
+
+<$C> 
+<ICE-SIN:S1B-068#193:1:C>
+Would the exact procedure be adopted in my client's case
+
+<$B> 
+<ICE-SIN:S1B-068#194:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#195:1:C>
+Coming to the injuries marked as two A and two B
+
+<ICE-SIN:S1B-068#196:1:C>
+These were consistent with being bitten about eight or ten days
+prior to your examination
+
+<$B> 
+<ICE-SIN:S1B-068#197:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#198:1:C>
+And the injury two F
+
+<ICE-SIN:S1B-068#199:1:C>
+These are consistent with a traffic accident in Bangladesh in
+nineteen seventy-six
+
+<$B> 
+<ICE-SIN:S1B-068#200:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#201:1:C>
+That would put them about twelve years old because you
+examined him in nineteen eighty-eight
+
+<$B> 
+<ICE-SIN:S1B-068#202:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#203:1:C>
+Doctor Pua did you also observe whether your patient had any
+mobility in his right arm
+
+<ICE-SIN:S1B-068#204:1:C>
+Anything in your card or observation notes
+
+<$B> 
+<ICE-SIN:S1B-068#205:1:B>
+Yes
+
+<ICE-SIN:S1B-068#206:1:B>
+I did note that his right deltoid muscle
+
+<ICE-SIN:S1B-068#207:1:B>
+This muscle over here is wasted
+
+<$C> 
+<ICE-SIN:S1B-068#208:1:C>
+It is wasted
+
+<$B> 
+<ICE-SIN:S1B-068#209:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#210:1:C>
+So there would be an absence of some strength in that arm
+
+<$B> 
+<ICE-SIN:S1B-068#211:1:B>
+There would be some absence
+
+<ICE-SIN:S1B-068#212:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#213:1:C>
+Is dexterity also affected
+
+<$B> 
+<ICE-SIN:S1B-068#214:1:B>
+Not fully because
+
+<ICE-SIN:S1B-068#215:1:B>
+Are you talking about
+
+<$C> 
+<ICE-SIN:S1B-068#216:1:C>
+Like swinging for example
+
+<ICE-SIN:S1B-068#217:1:C>
+Like going bowling or climbing coconut trees or anything else
+
+<$B> 
+<ICE-SIN:S1B-068#218:1:B>
+Yes yes
+
+<ICE-SIN:S1B-068#219:1:B>
+It would be partially affected
+
+<$C> 
+<ICE-SIN:S1B-068#220:1:C>
+Doctor I would like to take you now to the report where you
+have put up on Bachu Miah
+
+<ICE-SIN:S1B-068#221:1:C>
+You have mentioned under two
+
+<ICE-SIN:S1B-068#222:1:C>
+The following injuries were noted
+
+<ICE-SIN:S1B-068#223:1:C>
+A healing linear abrasions over right cheek and left cheek
+
+<ICE-SIN:S1B-068#224:1:C>
+Doctor Pua from your experience as a medical practitioner a scar I
+mean if it is a superficial scar
+
+<ICE-SIN:S1B-068#225:1:C>
+How long would it take to heal
+
+<$B> 
+<ICE-SIN:S1B-068#226:1:B>
+About a week or so
+
+<$C> 
+<ICE-SIN:S1B-068#227:1:C>
+Were these scars deep
+
+<$B> 
+<ICE-SIN:S1B-068#228:1:B>
+No
+
+<$C> 
+<ICE-SIN:S1B-068#229:1:C>
+Consistent with a fight
+
+<$B> 
+<ICE-SIN:S1B-068#230:1:B>
+Yes
+
+<$C> 
+<ICE-SIN:S1B-068#231:1:C>
+Thank you doctor </I>

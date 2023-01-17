@@ -1,0 +1,491 @@
+<I>
+
+<$A> 
+<ICE-SIN:S2A-056#1:1:A>
+Okay
+
+<ICE-SIN:S2A-056#2:1:A>
+Welcome to all of you
+
+<ICE-SIN:S2A-056#3:1:A>
+Ah today I will exaggerate more on the PC side because now PC ah
+become more and more popular
+
+<ICE-SIN:S2A-056#4:1:A>
+So of course <unclear> word </unclear> and we hope in Singapore ah
+have a PC right so we will consider more of this
+
+<ICE-SIN:S2A-056#5:1:A>
+So introduction to the computer
+
+<ICE-SIN:S2A-056#6:1:A>
+Okay now to a computer I can see here
+
+<ICE-SIN:S2A-056#7:1:A>
+This is computer right
+
+<ICE-SIN:S2A-056#8:1:A>
+So this is not black box is a white box
+
+<ICE-SIN:S2A-056#9:1:A>
+Now for all those laymen not technical incline actually it's just a
+magic black box
+
+<ICE-SIN:S2A-056#10:1:A>
+You put something in and something will come out right
+
+<ICE-SIN:S2A-056#11:1:A>
+You you press one key the picture will come out see
+
+<ICE-SIN:S2A-056#12:1:A>
+I I press a key here then another picture will come out right
+
+<ICE-SIN:S2A-056#13:1:A>
+It look very impressive <unclear> word </unclear> just like
+magicians okay
+
+<ICE-SIN:S2A-056#14:1:A>
+So actually computer ah break down convert round the CPU
+
+<ICE-SIN:S2A-056#15:1:A>
+That's the most important thing
+
+<ICE-SIN:S2A-056#16:1:A>
+That is comparable to our brain
+
+<ICE-SIN:S2A-056#17:1:A>
+So so that is computer brain
+
+<ICE-SIN:S2A-056#18:1:A>
+It's a CPU and maybe consist of what you call ALU is Arithmetic and
+Logic Unit
+
+<ICE-SIN:S2A-056#19:1:A>
+That means it can do Arithmetics and it can do some low level
+logically <unclear> word </unclear> logical decision-making okay
+
+<ICE-SIN:S2A-056#20:1:A>
+Then <unclear> word </unclear> controller
+
+<ICE-SIN:S2A-056#21:1:A>
+Controller just like a traffic-controller
+
+<ICE-SIN:S2A-056#22:1:A>
+So if you want to read something from somewhere the controller will
+advise the computer what to do so
+
+<ICE-SIN:S2A-056#23:1:A>
+If you want to read from floppy-disk it will read from floppy-disk
+
+<ICE-SIN:S2A-056#24:1:A>
+If you want to write to something some device it will write to some
+other device
+
+<ICE-SIN:S2A-056#25:1:A>
+Whenever to show onto the screen it will show on the screen
+
+<ICE-SIN:S2A-056#26:1:A>
+So controller will do all the controlling
+
+<ICE-SIN:S2A-056#27:1:A>
+Now then the computer need what you call memory So when you go and
+buy a computer for example if you ask how much memory you have right
+
+<ICE-SIN:S2A-056#28:1:A>
+So the basic configuration for example for eighty and 386 machine
+
+<ICE-SIN:S2A-056#29:1:A>
+For example the basic one will come up with about six hundred forty
+K but some will come with one meg or even two meg or four meg
+
+<ICE-SIN:S2A-056#30:1:A>
+But whatever increase in the memory you'll have to pay for it
+
+<ICE-SIN:S2A-056#31:1:A>
+It's not free right
+
+<ICE-SIN:S2A-056#32:1:A>
+Now so we've the internal memory
+
+<ICE-SIN:S2A-056#33:1:A>
+The function of the controller is to retrive and store data
+<unclear> word </unclear> from the storing devise
+
+<ICE-SIN:S2A-056#34:1:A>
+By storage devise for example here this one we have quite a number
+of storage devises inside here We got hard disk in here we have a floppy-disk
+in here
+
+<ICE-SIN:S2A-056#35:1:A>
+So this is a storage devise
+
+<ICE-SIN:S2A-056#36:1:A>
+So the controller will control all these things and it will
+communicate between input and output devise
+
+<ICE-SIN:S2A-056#37:1:A>
+So this one is output devise
+
+<ICE-SIN:S2A-056#38:1:A>
+These two the keyboard and the mouse is input device okay so it
+will control all the these function and it will communicate between the ALU
+and memory
+
+<ICE-SIN:S2A-056#39:1:A>
+For example computer need to do some calculations they need
+information
+
+<ICE-SIN:S2A-056#40:1:A>
+The information is stored in the memory
+
+<ICE-SIN:S2A-056#41:1:A>
+So the job of coordinating all these effort is done by ALU and
+controller okay
+
+<ICE-SIN:S2A-056#42:1:A>
+Then you can execute instructions written in a programme so
+computer will do a very fantastic job but one at a time
+
+<ICE-SIN:S2A-056#43:1:A>
+Now computer unlike human being <unclear> word </unclear>
+
+<ICE-SIN:S2A-056#44:1:A>
+My personal opinion computer can never replace human being because
+no doubt we talk about computer intelligent artificial intelligent but
+actually all those intelligent are human intelligent
+
+<ICE-SIN:S2A-056#45:1:A>
+Human put into the programmes so they become process of certain
+degree of intelligent but it's all from human
+
+<ICE-SIN:S2A-056#46:1:A>
+So without man the computer cannot work right
+
+<ICE-SIN:S2A-056#47:1:A>
+Then the control of operation of ALU do all the arithmetic function
+do logi logical decision-making So the function of ALE occurs as the name
+imply it do arithmetic operations it perform logical operation for example by
+logical operation means what
+
+<ICE-SIN:S2A-056#48:1:A>
+Suppose you are calculating say sales commission for example so if
+you make monthly sales below five thousand no sales commission so it's zero
+right so your commission will be zero
+
+<ICE-SIN:S2A-056#49:1:A>
+But if you make monthly sales between five thousand to ten thousand
+commission will be 2% of the total sales for example
+
+<ICE-SIN:S2A-056#50:1:A>
+Then if your sales is for ten thousand to twenty commission will be
+4% and so on
+
+<ICE-SIN:S2A-056#51:1:A>
+So the computer can make some logical decision-making So suppose it
+make the sales for certain sales executive now it will know how to calculate
+the sales commission If the sales' below five thousand the commission for
+that month will be zero okay
+
+<ICE-SIN:S2A-056#52:1:A>
+If the sales is between five thousand and ten thousand computer are
+smart enough they will take the total number of sales times 2% and then add
+this one to your commission and so on
+
+<ICE-SIN:S2A-056#53:1:A>
+So that is what you call logic operations
+
+<ICE-SIN:S2A-056#54:1:A>
+Then the memory sometime you call this memory right
+
+<ICE-SIN:S2A-056#55:1:A>
+So you if there is time the computer programmes and then now
+<unclear> word </unclear> it store Now computer actually is just a tool
+
+<ICE-SIN:S2A-056#56:1:A>
+Of course it's more uh what you call attractive and also more what
+should be more flexible than just a knife for example
+
+<ICE-SIN:S2A-056#57:1:A>
+But in terms of utility it's just like a tool okay
+
+<ICE-SIN:S2A-056#58:1:A>
+Computer is a tool to help us to carry out our job more efficiently
+in a more productive way so computer is a tool
+
+<ICE-SIN:S2A-056#59:1:A>
+Now how can a computer work without cannot work suppose computer
+you buy a computer and you pay for say for example two thousand for a
+computer you take it home you turn it on you'll <unclear> word </unclear> not
+going to work because like if you don't pay for the software it doesn't work
+
+<ICE-SIN:S2A-056#60:1:A>
+It's just mere piece of hardware sit there and computer have a lot
+of patience
+
+<ICE-SIN:S2A-056#61:1:A>
+If you don't tell the computer to do the cursor just hang on on the
+screen that's all and it keep waiting to receive your instruction before you
+make the first move
+
+<ICE-SIN:S2A-056#62:1:A>
+So all the computer do it so fantastic right is because of software
+
+<ICE-SIN:S2A-056#63:1:A>
+Now you watch for what you call Science fictions programme lah
+
+<ICE-SIN:S2A-056#64:1:A>
+I mean in TV right
+
+<ICE-SIN:S2A-056#65:1:A>
+So certain agent want to know other agent's information press one
+button all biodatas everything come out right
+
+<ICE-SIN:S2A-056#66:1:A>
+Now the computer cannot do that all that is done by software and
+also done by human being
+
+<ICE-SIN:S2A-056#67:1:A>
+That means in order to get all those information you must have the
+information first so you may send twenty agents to get all the information
+
+<ICE-SIN:S2A-056#68:1:A>
+Then you need another number of peoples okay to key in all those
+information and you need to have a software to retrieve all information and
+show it on the screen to you right
+
+<ICE-SIN:S2A-056#69:1:A>
+So all these software programmes are stored in the memory
+
+<ICE-SIN:S2A-056#70:1:A>
+Now computer need to communicate with outside peripherals
+
+<ICE-SIN:S2A-056#71:1:A>
+For example you have input device for example the standard input
+device is what you call keyboard okay and we have a mouse like that and
+nowadays you have a new one call N system
+
+<ICE-SIN:S2A-056#72:1:A>
+Now if you don't want to key in you can just write you'll <unclear>
+word </unclear> understand what you write okay
+
+<ICE-SIN:S2A-056#73:1:A>
+So that is input device
+
+<ICE-SIN:S2A-056#74:1:A>
+Then you have some output devices
+
+<ICE-SIN:S2A-056#75:1:A>
+This one is output device it's a standard one <unclear> word
+</unclear>
+
+<ICE-SIN:S2A-056#76:1:A>
+So whatever you want to read come to here
+
+<ICE-SIN:S2A-056#77:1:A>
+Another device for example printer you can print it out
+
+<ICE-SIN:S2A-056#78:1:A>
+We'll cover the devices
+
+<ICE-SIN:S2A-056#79:1:A>
+So all these function will go through the CPU
+
+<ICE-SIN:S2A-056#80:1:A>
+CPU will do all the job right print something you want okay just
+like your mother wants to cook certain dishes go to the market to buy all the
+ingredients so ingredient is the input side and ingredient put in the input
+device
+
+<ICE-SIN:S2A-056#81:1:A>
+Then the CPU that means already get the instruction how to cook say
+for example sweet and sour pork for example
+
+<ICE-SIN:S2A-056#82:1:A>
+So with all our ingredient prepare then every single step will work
+to carry out to cook sweet and sour pork <unclear> word </unclear> right
+
+<ICE-SIN:S2A-056#83:1:A>
+So output device will store your what dish We have some auxillary
+storage for example you may have some other thick <unclear> word </unclear>
+drive you may have
+
+<ICE-SIN:S2A-056#84:1:A>
+For example okay multi-media you may have CD-Rom everything you can
+<unclear> word </unclear> to have all these
+
+<ICE-SIN:S2A-056#85:1:A>
+All went through the CPU
+
+<ICE-SIN:S2A-056#86:1:A>
+Now computer is a tool so what are the major characteristic of the
+computer high-speed for example
+
+<ICE-SIN:S2A-056#87:1:A>
+Take for example you want to look for some information which
+<unclear> word </unclear> on file then you see manually you go to the cabinet
+look for the file keep flipping you still could find the information right
+
+<ICE-SIN:S2A-056#88:1:A>
+Right for computer system if you have a good database all I need to
+do is key in the key words press a button you will immediately give off the
+information from the devise okay
+
+<ICE-SIN:S2A-056#89:1:A>
+So for example nowaday you have an encyclopedia all on CD-Rom so
+you can check all the reference ah articles by keying some of the key-words
+
+<ICE-SIN:S2A-056#90:1:A>
+You can immediately get the information out
+
+<ICE-SIN:S2A-056#91:1:A>
+Whereas for manual system you have all volumes of encyclopedia that
+now you must know which volume to take out
+
+<ICE-SIN:S2A-056#92:1:A>
+Then you have to go to the index to check which page to look
+<unclear> word </unclear> from
+
+<ICE-SIN:S2A-056#93:1:A>
+Now computer can do this in much much higher speed okay
+
+<ICE-SIN:S2A-056#94:1:A>
+Then it can systematically store and retrieve vast volume of datas
+for example the bank auto-teller right you just if you put your card into the
+ah auto-teller machine right
+
+<ICE-SIN:S2A-056#95:1:A>
+Then you just key in your what pin-number and then you key in what
+you want to get out
+
+<ICE-SIN:S2A-056#96:1:A>
+All these in a few seconds' time you can get your money from the
+bank already right
+
+<ICE-SIN:S2A-056#97:1:A>
+Why
+
+<ICE-SIN:S2A-056#98:1:A>
+Because the bank already systematically store the information in
+there now
+
+<ICE-SIN:S2A-056#99:1:A>
+How much you've balance in there
+
+<ICE-SIN:S2A-056#100:1:A>
+So suppose you have only five hundred inside you key in eight
+hundred it just simply say you have you have insufficient fund right please
+take back your card suppose <unclear> word </unclear>
+
+<ICE-SIN:S2A-056#101:1:A>
+All the information is there so you can systematically store and
+retrieve randomly all the information
+
+<ICE-SIN:S2A-056#102:1:A>
+You can automatically execute instruction
+
+<ICE-SIN:S2A-056#103:1:A>
+Now the first generation of computer is very terrible
+
+<ICE-SIN:S2A-056#104:1:A>
+It's all hard wire so they have to wire up wire up right to do one
+operation they have to re-wire Change another operation
+
+<ICE-SIN:S2A-056#105:1:A>
+They have to re-wire all over again
+
+<ICE-SIN:S2A-056#106:1:A>
+So make that make the computer very unfriendly very hard to use
+only those very few technical people know how to operate computers okay
+
+<ICE-SIN:S2A-056#107:1:A>
+But now the computer today is totally different
+
+<ICE-SIN:S2A-056#108:1:A>
+It's very friendly
+
+<ICE-SIN:S2A-056#109:1:A>
+All you need to do is just to the programme in store on any device
+
+<ICE-SIN:S2A-056#110:1:A>
+Then it can read from the device go into the memory and it just
+carry out the instruction from the main menu
+
+<ICE-SIN:S2A-056#111:1:A>
+So it automatically carry out
+
+<ICE-SIN:S2A-056#112:1:A>
+Then it'll process logical capability
+
+<ICE-SIN:S2A-056#113:1:A>
+I already explain to you and it is accurate
+
+<ICE-SIN:S2A-056#114:1:A>
+Computer unless a computer go haywire okay it is more accurate
+than you can expect
+
+<ICE-SIN:S2A-056#115:1:A>
+For example the computer will store up to fourteen decimals in
+there okay
+
+<ICE-SIN:S2A-056#116:1:A>
+Right
+
+<ICE-SIN:S2A-056#117:1:A>
+As you've seen calculators sometime you have to do some rounding
+and so if you have so many intermediate step the end result maybe <unclear>
+word </unclear> rounding will cause you the first digit right
+
+<ICE-SIN:S2A-056#118:1:A>
+Difference okay
+
+<ICE-SIN:S2A-056#119:1:A>
+But computer is maintain full accuracy up to fourteen digit inside
+and is reliable reliability
+
+<ICE-SIN:S2A-056#120:1:A>
+If the programme of course if the programme is wrong then of
+course you couldn't rely on the computer to give you the result
+
+<ICE-SIN:S2A-056#121:1:A>
+But if the programme is correct the logic is correct then you key
+in the information it can always reproduce it can reproduce the same result
+over and over again
+
+<ICE-SIN:S2A-056#122:1:A>
+So ten persons key in the same thing running the same programme
+will get the same result
+
+<ICE-SIN:S2A-056#123:1:A>
+You won't get different result okay
+
+<ICE-SIN:S2A-056#124:1:A>
+So that is reliable
+
+<ICE-SIN:S2A-056#125:1:A>
+So how does computer solve the problem as we mentioned in software
+right
+
+<ICE-SIN:S2A-056#126:1:A>
+So for the computer software mainly is in two area one is system
+software the other one is what you call application software
+
+<ICE-SIN:S2A-056#127:1:A>
+Now system software consist of control programme and service
+programme
+
+<ICE-SIN:S2A-056#128:1:A>
+Now control programme will do all the necessary complication
+between all the devices and between the memory
+
+<ICE-SIN:S2A-056#129:1:A>
+So if you want to open a data file say my grandparents they will
+go to the appropriate device read the file out okay
+
+<ICE-SIN:S2A-056#130:1:A>
+So all these is done by control programme <X>
+
+<ICE-SIN:S2A-056#X131:1:A>
+All the input output side Then you have some call service
+programme Now every now and then you need to copy file you need to backup
+file for example you need to do purge purge all the file all these is come uh
+under what you call service programme right </X> </I>

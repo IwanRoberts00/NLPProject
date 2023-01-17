@@ -1,0 +1,512 @@
+<I>
+
+<ICE-SIN:W2A-037#1:2>
+<h> CASE: The Vehicle for Effective Data Utilization </h>
+
+<ICE-SIN:W2A-037#2:2>
+Hock Chuan Chan
+
+<ICE-SIN:W2A-037#3:2>
+Department of Information Systems and Computer Science
+
+<ICE-SIN:W2A-037#4:2>
+National University of Singapore, Singapore
+
+<ICE-SIN:W2A-037#5:2>
+<h> Abstract </h>
+
+<ICE-SIN:W2A-037#6:2>
+Though examination of the processes involved in designing and using
+information systems that are heavily dependent on databases, it is shown that
+while the design of database models has been greatly assisted by CASE tools,
+the usage has been largely left out.
+
+<ICE-SIN:W2A-037#7:2>
+Developers can design the database model to the conceptual level while
+CASE tools transform that into a model at the logical level for
+implementation.
+
+<ICE-SIN:W2A-037#8:2>
+However, usage of the database demands that queries be written based
+on the logical level model.
+
+<ICE-SIN:W2A-037#9:2>
+This paper calls for CASE tool developers and researchers to provide
+tools for people to effectively utilize data and information systems at the
+conceptual level.
+
+<ICE-SIN:W2A-037#10:2>
+<h> 1. Introduction </h>
+
+<ICE-SIN:W2A-037#11:2>
+There are two opposing views on the use of computers.
+
+<ICE-SIN:W2A-037#12:2>
+One maintains that computers should not change existing procedures.
+
+<ICE-SIN:W2A-037#13:2>
+There are valid reasons, mostly social.
+
+<ICE-SIN:W2A-037#14:2>
+For example, if computers redefine a person's job, or redraw a
+department's territory, people adversely affected will be reluctant to accept
+the new computer system.
+
+<ICE-SIN:W2A-037#15:2>
+Even when there are no obvious disadvantages, changes of systems and
+procedures are psychologically threatening to many people.
+
+<ICE-SIN:W2A-037#16:2>
+An example of a system in accord with this view is a virtual reality
+system that gives users a virtual room with tables, in/out trays, cabinets
+and shelves to simulate a real office.
+
+<ICE-SIN:W2A-037#17:2>
+The other view is that computers should actively change existing
+procedures, instead of merely computerizing them.
+
+<ICE-SIN:W2A-037#18:2>
+This appears to be the case for most system development.
+
+<ICE-SIN:W2A-037#19:2>
+For example, ATM machines change the way that banking services are
+provided.
+
+<ICE-SIN:W2A-037#20:2>
+With the second view in mind, it is argued that CASE tools has an
+important role that needs to be more actively pursued.
+
+<ICE-SIN:W2A-037#21:2>
+This is especially so for CASE tools that support database
+development.
+
+<ICE-SIN:W2A-037#22:2>
+While there are many tools to help software developers in modeling
+databases, there are very few to help actual database usage.
+
+<ICE-SIN:W2A-037#23:2>
+It is timely for CASE tools to incorporate modules to assist, change
+and upgrade the usage of data, since data utilization is considered by IS
+managers to be an important and critical MIS issue [ 11,12].
+
+<ICE-SIN:W2A-037#24:2>
+Section 2 describes in detail the discrepancy in CASE support for
+data modeling and data usage.
+
+<ICE-SIN:W2A-037#25:2>
+Section 3 discusses the additional functions needed for CASE tools.
+
+<ICE-SIN:W2A-037#26:2>
+Section 4 is the conclusion of the paper.
+
+<ICE-SIN:W2A-037#27:2>
+<h> 2. Data modeling and use </h>
+
+<ICE-SIN:W2A-037#28:2>
+In data modeling, there are two main levels of abstraction: the
+conceptual level and the logical level [ 3, 6, 7, 13, 18].
+
+<ICE-SIN:W2A-037#29:2>
+Most database design with end-user involvement is at the conceptual
+level.
+
+<ICE-SIN:W2A-037#30:2>
+The most common model used for conceptual design in the entity
+relationship model [ 3, 18, 19].
+
+<ICE-SIN:W2A-037#31:2>
+This stage is actively supported by many CASE systems [ 2,
+8,10,14,15, 16, 17, 20].
+
+<ICE-SIN:W2A-037#32:2>
+Many CASE systems will automatically generate a set of relations to
+support the conceptual model.
+
+<ICE-SIN:W2A-037#33:2>
+Some will even generate the specific codes to define the database for
+a particular database management system, such as in SQL codes.
+
+<ICE-SIN:W2A-037#34:2>
+Transformation from the conceptual model to the logical model has
+little input from the database designer and even less from the end-users.
+
+<ICE-SIN:W2A-037#35:2>
+So far, we see that design is well supported.
+
+<ICE-SIN:W2A-037#36:2>
+When we consider the usage of data, a different picture appears.
+
+<ICE-SIN:W2A-037#37:2>
+When the developers want to write programs that access the database,
+do they write the queries based on the conceptual model?
+
+<ICE-SIN:W2A-037#38:2>
+No.
+
+<ICE-SIN:W2A-037#39:2>
+They write based on the logical model.
+
+<ICE-SIN:W2A-037#40:2>
+When end-users want to retrieve data, they also have to formulate the
+queries based on the logical model which they know little about.
+
+<ICE-SIN:W2A-037#41:2>
+Experiments have shown that the conceptual models are much easier to
+design and use than the logical models [ 4, 5, 9].
+
+<ICE-SIN:W2A-037#42:2>
+Hence, it is clear that the important area of data utilization is not
+supported by current CASE tools.
+
+<ICE-SIN:W2A-037#43:2>
+This is illustrated in Figure 1, which shows that design is done in
+three clear stages with CASE support.
+
+<ICE-SIN:W2A-037#44:2>
+In contrast, data usage is done with absolutely no CASE support, and
+without any clear stages.
+
+<ICE-SIN:W2A-037#45:2>
+The unsupported users include end-users doing ah hoc queries as well
+as developers writing application programs.
+
+<ICE-SIN:W2A-037#46:2>
+It is important to raise the level of query writing and data access
+from the logical to the conceptual level [ 1, 5].
+
+<ICE-SIN:W2A-037#47:2>
+<h> 3. Proposed CASE modules </h>
+
+<ICE-SIN:W2A-037#48:2>
+At least two additional modules are needed for CASE tools in order to
+redress the imbalance in support.
+
+<ICE-SIN:W2A-037#49:2>
+These are conceptual level query module and implementation query code
+generator.
+
+<ICE-SIN:W2A-037#50:2>
+The conceptual level query module is to allow queries to be
+formulated based on the conceptual model.
+
+<ICE-SIN:W2A-037#51:2>
+This module may be textual, menu, or even graphical.
+
+<ICE-SIN:W2A-037#52:2>
+The advantage is that usage will be based on the more familiar human
+designed conceptual model rather than the computer generated logical model.
+
+<ICE-SIN:W2A-037#53:2>
+There is also less transformation from the application world to the
+conceptual model than to the logical model.
+
+<ICE-SIN:W2A-037#54:2>
+Thereby, the query formulation process will be easier [ 5].
+
+<ICE-SIN:W2A-037#55:2>
+The query code generator will accept the conceptual model query
+specification, and generate the query code needed for the implementation
+system.
+
+<ICE-SIN:W2A-037#56:2>
+The generator will need to know the following:
+
+<ICE-SIN:W2A-037#57:2>
+1. structural transformation between the conceptual model and the
+logical model.
+
+<ICE-SIN:W2A-037#58:2>
+For example, in the case of ER and relational models, it needs to
+know how a relationship and its attributes are stored in the relations.
+
+<ICE-SIN:W2A-037#59:2>
+2. operational transformation between the conceptual model and the
+logical model.
+
+<ICE-SIN:W2A-037#60:2>
+For example, it needs to know how inheritance in the ER model is to
+be done with the relational operators.
+
+<ICE-SIN:W2A-037#61:2>
+It also needs to know how a relationship can be reconstructed by join
+operations on relevant relations and fields.
+
+<ICE-SIN:W2A-037#62:2>
+3. the syntax of the query system for the implementation system.
+
+<ICE-SIN:W2A-037#63:2>
+This can be SQL, QUEL or any of the languages for the many commercial
+DBMSs.
+
+<ICE-SIN:W2A-037#64:2>
+Research prototypes of parts of these modules have been developed.
+
+<ICE-SIN:W2A-037#65:2>
+These need to be extended and incorporated into commercial CASE
+systems.
+
+<ICE-SIN:W2A-037#66:2>
+For example, the translations of entity relationship retrieval
+queries into SQL is given in [ 7, 15].
+
+<ICE-SIN:W2A-037#67:2>
+But so far, no translation of update queries have been done.
+
+<ICE-SIN:W2A-037#68:2>
+The present retrieval translations are dependent on a certain fixed
+method of transforming entity relationship models to relations.
+
+<ICE-SIN:W2A-037#69:2>
+This transformation may not be true in actual practice where
+efficiency considerations may result in physical level designs.
+
+<ICE-SIN:W2A-037#70:2>
+Where the conceptual model is re-engineered from a set of existing
+relations, the transformation is almost certain to be different from that
+assumed by the translation algorithms.
+
+<ICE-SIN:W2A-037#71:2>
+It is unrealistic to demand a total redesign of existing relations.
+
+<ICE-SIN:W2A-037#72:2>
+Hence the translation algorithm must be redesigned to cater to
+various transformation.
+
+<ICE-SIN:W2A-037#73:2>
+We can expect the advantages of reverse engineering to be increased
+with the query modules.
+
+<ICE-SIN:W2A-037#74:2>
+From an existing implementation, reverse engineering can generate the
+high level conceptual model.
+
+<ICE-SIN:W2A-037#75:2>
+Without the proposed modules, this conceptual model will be nearly
+useless for data access, since the formulation and coding will still be based
+on the old logical model.
+
+<ICE-SIN:W2A-037#76:2>
+The query modules will allow the coexistence of new and old
+applications based on different models.
+
+<ICE-SIN:W2A-037#77:2>
+While existing applications can continue to run on the existing
+logical model, new application can be written using conceptual query based on
+the new conceptual model.
+
+<ICE-SIN:W2A-037#78:2>
+This facilitates a smooth transition from logical level programming
+to conceptual level programming.
+
+<ICE-SIN:W2A-037#79:2>
+This architecture is illustrated in Figure 2.
+
+<ICE-SIN:W2A-037#80:2>
+Integration of these modules with other CASE tools is very important.
+
+<ICE-SIN:W2A-037#81:2>
+Research on entity relationship queries have concentrated on stand
+alone interactive ad hoc queries, similar to interactive SQL.
+
+<ICE-SIN:W2A-037#82:2>
+While this will be very helpful for end-users to satisfy their ad hoc
+needs for data access, it will be quite useless for developers writing
+programs that access the data.
+
+<ICE-SIN:W2A-037#83:2>
+Embedded version of conceptual queries must be made available,
+similar to the embedding of SQL in conventional programming languages.
+
+<ICE-SIN:W2A-037#84:2>
+Then special treatment will have to be designed.
+
+<ICE-SIN:W2A-037#85:2>
+One way is to have a pre-compiler to translate conceptual query to
+implementation query ( e.g.
+
+<ICE-SIN:W2A-037#86:2>
+SQL), and then using the pre-compiler for SQL This way is not
+satisfactory, as error messages and debugging may ultimately have to be based
+on the logical model and the implementation language again, thus defeating
+the aim of having programming and data access at the conceptual level.
+
+<ICE-SIN:W2A-037#87:2>
+The ideal will be to develop a compiler that can handle the
+programming language and the conceptual query together.
+
+<ICE-SIN:W2A-037#88:2>
+The interface is another area for integration.
+
+<ICE-SIN:W2A-037#89:2>
+With various facilities to access data, such as form-filling systems,
+menu systems and command line systems, these should be fully integrated to be
+based on the conceptual model and query.
+
+<ICE-SIN:W2A-037#90:2>
+Users should not have to switch models when they switch interfaces.
+
+<ICE-SIN:W2A-037#91:2>
+Integration with current systems and languages should also be done.
+
+<ICE-SIN:W2A-037#92:2>
+The common target language presently appears to be SQL.
+
+<ICE-SIN:W2A-037#93:2>
+since SQL is now the standard query language for relational systems.
+
+<ICE-SIN:W2A-037#94:2>
+However, with the diverse CASE tools running on various platforms and
+environments, linkages to non-relational systems and other implementation
+languages will be necessary.
+
+<ICE-SIN:W2A-037#95:2>
+<h> 4. Conclusion </h>
+
+<ICE-SIN:W2A-037#96:2>
+<The paper has highlighted an imbalance i n CASE support given to
+data modeling and data usage.
+
+<ICE-SIN:W2A-037#97:2>
+Two modules to redress the imbalance are proposed for integration
+with the list of CASE tools.
+
+<ICE-SIN:W2A-037#98:2>
+These will support the usage of data at the conceptual model level.
+
+<ICE-SIN:W2A-037#99:2>
+The research issues for development and integration of these modules
+into CASE tools are highlighted.
+
+<ICE-SIN:W2A-037#100:2>
+The advantages of incorporating these into commercial CASE tools
+include raising the level of programming for developers and better end-user
+ad hoc queries.
+
+<ICE-SIN:W2A-037#101:2>
+Productivity gains can be expected.
+
+<ICE-SIN:W2A-037#102:2>
+In addition, it is demonstrated how these modules can ease the
+transition of existing systems to new systems when reverse engineering is
+done.
+
+<ICE-SIN:W2A-037#103:2>
+They allow existing systems to operate side by side with new
+systems. </I>
+
+<I>
+
+<ICE-SIN:W2A-037#104:3>
+<h> Ergonomic Design of Seat to Reduce Postural Stress </h>
+
+<ICE-SIN:W2A-037#105:3>
+John C K Wong & Samuel Y E Lim
+
+<ICE-SIN:W2A-037#106:3>
+School of Mechanical & Production Engineering, Nanyang Technological
+University
+
+<ICE-SIN:W2A-037#107:3>
+Nanyang Avenue, Singapore 2263
+
+<ICE-SIN:W2A-037#108:3>
+Backaches are frequent complaints of those required to work in a
+seated position for prolonged periods of time.
+
+<ICE-SIN:W2A-037#109:3>
+A method of reducing the postural stress is to provide the workers
+with the highest possible level of comfort in their sitting position.
+
+<ICE-SIN:W2A-037#110:3>
+The aim of this project is to design a prototype seating system
+based on the concept of variable profile backrest type of support for the
+vertebral column.
+
+<ICE-SIN:W2A-037#111:3>
+The objective is to allow the worker to sit comfortable in his/her
+preferred posture, while at the same time support the vertebral column as
+close to its natural curvatures as possible.
+
+<ICE-SIN:W2A-037#112:3>
+The prototypes will be used in the study of the preferred seating
+arrangement for the local population.
+
+<ICE-SIN:W2A-037#113:3>
+A possible lateral application of the prototype is the design and
+development of custom-made seats for those with unusual back profiles or for
+those suffering from severe postural &orders.
+
+<ICE-SIN:W2A-037#114:3>
+A prototype of the variable profile backrest seating system has been
+designed and constructed ( Fig 1).
+
+<ICE-SIN:W2A-037#115:3>
+The backrest mechanism is comprised of 22 segments, spanning
+approximately from the occiput to the lumbar region.
+
+<ICE-SIN:W2A-037#116:3>
+Each segment allows up to 300 mm of horizontal displacement at that
+particular spinal level.
+
+<ICE-SIN:W2A-037#117:3>
+Movements of each individual segment is independent of all the other
+supporting segments.
+
+<ICE-SIN:W2A-037#118:3>
+Each segment is also spring-loaded to allow it to return to its
+neutral position once the locking mechanism is released.
+
+<ICE-SIN:W2A-037#119:3>
+The complete assembly of the variable profile backrest mechanism can
+be adjusted from the vertical position to an inclination of about 120@ with
+respect to the seat pan.
+
+<ICE-SIN:W2A-037#120:3>
+Thus providing additional flexibility for maximum seating comfort.
+
+<ICE-SIN:W2A-037#121:3>
+Other factors such seat height, seat depth, and seat-pan angle are
+also adjustable.
+
+<ICE-SIN:W2A-037#122:3>
+A simple lever mechanism activates the variable profile backrest
+mechanism.
+
+<ICE-SIN:W2A-037#123:3>
+It releases the normally locked backrest segments to enable them to
+conform to the desirable anterio-posterior curves of the spine.
+
+<ICE-SIN:W2A-037#124:3>
+When the most comfortable sitting posture has been achieved, a
+single lever action secures all segments of the backrest in their preferred
+positions.
+
+<ICE-SIN:W2A-037#125:3>
+A study on the effectiveness and acceptance of the prototype has
+been carried out on a group of student subjects.
+
+<ICE-SIN:W2A-037#126:3>
+The results have indicated that the variable profile backrest
+concept is well accepted by the subjects, with a large majority being very
+satisfied with the new seating system. <X>
+
+<ICE-SIN:W2A-037#X127:3>
+Comfort and good lumbar support were singled out as the most
+significant improvements of the new seating system.
+
+<ICE-SIN:W2A-037#X128:3>
+However, a drawback of the prototype is its rather large and
+imposing backrest mechanism.
+
+<ICE-SIN:W2A-037#X129:3>
+Currently, a more compact prototype of the variable profile
+backrest system is being built.
+
+<ICE-SIN:W2A-037#X130:3>
+The prototypes will be used in the study of the preferred seating
+arrangement for the local population.
+
+<ICE-SIN:W2A-037#X131:3>
+A possible lateral application of the prototype is the design and
+development of custom-made seats for those with unusual back profiles or
+those suffering from severe disorders. </X> </I>

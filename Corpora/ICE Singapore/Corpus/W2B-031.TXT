@@ -1,0 +1,484 @@
+<I>
+
+<ICE-SIN:W2B-031#1:1>
+NUS Computing News Issue No 11 March 1992
+
+<ICE-SIN:W2B-031#2:1>
+Microcomputer ( pp 22)
+
+<ICE-SIN:W2B-031#3:1>
+<h> Windows 3.1: Is it Worth Waiting for? </h>
+
+<ICE-SIN:W2B-031#4:1>
+Vicki Ching
+
+<ICE-SIN:W2B-031#5:1>
+Microsoft made a whirlwind in the world of personal computers when
+they launched Windows 3.0.
+
+<ICE-SIN:W2B-031#6:1>
+It creates such an ingenious interface platform for advanced users, it
+has spurred their imaginations wild in working towards that " perfect" system
+environment of high efficiency and great power; with no crashing, no hanging,
+and no UAE ( Unrecoverable Application Error).
+
+<ICE-SIN:W2B-031#7:1>
+Word Perfect for Windows, Harvard Graphics for Windows, Pagemaker for
+Windows, Superbase 4 for Windows...nobody dares to doubt Microsoft Windows is
+going to be the most recognised and widely used Graphical User Interface (
+GUI) for the PC.
+
+<ICE-SIN:W2B-031#8:1>
+Though news of Windows 3.1's release may bring plenty of Windows
+enthusiasts together for some hearty discussion, but your ranking of this
+product over version 3.0 is really very much dependent upon the individual's
+requirements, needs and computing environment.
+
+<ICE-SIN:W2B-031#9:1>
+I shall hereby provide a brief discussion on some of Windows 3.1's new
+and enhanced features, as well as how far it stands with respect to its
+predecessors.
+
+<ICE-SIN:W2B-031#10:1>
+Well then, let's just start right from the beginning with a simple
+question: Have you scratched your head enough trying to verify the many
+questions when you installed Windows 3.0; then Express setup is for you.
+
+<ICE-SIN:W2B-031#11:1>
+There is automatic detection of your hardware and configuration is
+done to optimise performance.
+
+<ICE-SIN:W2B-031#12:1>
+Microsoft claims this to be one of the most dramatic additions: the
+use of TrueType fonts.
+
+<ICE-SIN:W2B-031#13:1>
+TrueType fonts are scalable to any point size, and what you see on
+the screen is what you will get when you print with any Windows-
+applications.
+
+<ICE-SIN:W2B-031#14:1>
+If you are tired of Cut and Paste between different Windows
+applications; this new powerful feature: OLE, Object Linking and Embedding,
+can be an enough and sufficient reason for upgrading.
+
+<ICE-SIN:W2B-031#15:1>
+Create an object with an application, and embed or dump it in the
+destination document which can be in a different application.
+
+<ICE-SIN:W2B-031#16:1>
+And when you need to make any changes to this embedded object, just
+call up the application which created it, within the destination document!
+
+<ICE-SIN:W2B-031#17:1>
+You can link several documents to a source document; and change the
+object from within any one of them.
+
+<ICE-SIN:W2B-031#18:1>
+The updated version is reflected in all the documents that have a
+link to that object!
+
+<ICE-SIN:W2B-031#19:1>
+The only limitation: Not all Windows applications support OLE!
+
+<ICE-SIN:W2B-031#20:1>
+File Manager in Windows 3.0 wasn't a hit with DOS-command experts.
+
+<ICE-SIN:W2B-031#21:1>
+Version 3.1 retains its basic features, but a new look with added
+powerful features may change some DOS buffs' minds.
+
+<ICE-SIN:W2B-031#22:1>
+This time, the directory window is split, with the left hand portion
+showing the directory tree, and the right hand side displaying the current
+directory contents.
+
+<ICE-SIN:W2B-031#23:1>
+You can choose to display the names of files and directories with
+your favourite font; or print a file by dragging its file icon to the
+minimised Print Manager window or icon, but this does not work with all types
+of files.
+
+<ICE-SIN:W2B-031#24:1>
+Forget about Windows 3.1 if you have only 640K memory; since Windows
+3.1 does not run on anything less than 1 MB.
+
+<ICE-SIN:W2B-031#25:1>
+So upgrade your memory board and be prepared for smoother and faster
+switching between Windows and non-Windows applications; faster printing; new
+multimedia features; enhanced serial-port support; context-sensitive help
+system; screensavers that can be password-protected and many many more.
+
+<ICE-SIN:W2B-031#26:1>
+Just look at the number of forums that have been set up all over the
+world on Windows and that of magazines' editorial comments on the same
+subject; there is no question on the level of interest and enthusiasm among
+Windows gurus; but it also proves one thing: that Windows can be a difficult
+and frustrating thing to deal with.
+
+<ICE-SIN:W2B-031#27:1>
+So whether the young Windows 3.1 can solve the seemingly unsolvable
+and intractable problems Windows 3.0 regrettably offers; or whether it will
+stop Windows users and programmers from crossing their fingers hoping that
+their systems won't hang again; or whether it will meet up to the
+expectations of not just those who wish for a more trustworthy interface, but
+those who have been panting for those " extra things" that Windows 3.0
+lacks...well, only time and the individual can tell.
+
+<ICE-SIN:W2B-031#28:1>
+Microcomputer ( pp 18)
+
+<ICE-SIN:W2B-031#29:1>
+<h> Why PostScript Printers? </h>
+
+<ICE-SIN:W2B-031#30:1>
+Chong Chiang Seng
+
+<ICE-SIN:W2B-031#31:1>
+In the market today, there are mainly two kinds of printers: HP
+LaserJet compatibles, and Postscript printers.
+
+<ICE-SIN:W2B-031#32:1>
+In this article, I will examine the reasons why PostScript printers
+are preferred.
+
+<ICE-SIN:W2B-031#33:1>
+<h> PostScript compared with PCL </h>
+
+<ICE-SIN:W2B-031#34:1>
+There are various reasons for using the PostScript printers:
+
+<ICE-SIN:W2B-031#35:1>
+- one printer driver for all variety of PostScript printers.
+
+<ICE-SIN:W2B-031#36:1>
+- all software that are used in the departments are able to print to
+the PostScript printers.
+
+<ICE-SIN:W2B-031#37:1>
+This makes installation of software easy and simplifies the
+complexity of choosing fonts and cartridges for the users.
+
+<ICE-SIN:W2B-031#38:1>
+- PostScript printer is more economical as compared to the HP
+LaserJet III.
+
+<ICE-SIN:W2B-031#39:1>
+The cartridges and replaceable items are cheaper.
+
+<ICE-SIN:W2B-031#40:1>
+Under the university's tender, the PostScript printers cost slightly
+more but also offer more.
+
+<ICE-SIN:W2B-031#41:1>
+You have 35 built-in fonts as compared to 8 built-in fonts for the
+LaserJet III.
+
+<ICE-SIN:W2B-031#42:1>
+You have a 16 page-per-minute engine for the PostScript printer
+compared to an 8 page-per-minute engine.
+
+<ICE-SIN:W2B-031#43:1>
+Printing speed will be discussed later.
+
+<ICE-SIN:W2B-031#44:1>
+Suffice to mention that speed is a factor of more than just the
+engine speed.
+
+<ICE-SIN:W2B-031#45:1>
+But an engine that is built for higher speed would last longer than a
+lower speed given the same load.
+
+<ICE-SIN:W2B-031#46:1>
+- PostScript offers greater flexibility and ease of use.
+
+<ICE-SIN:W2B-031#47:1>
+- PostScript provides more features.
+
+<ICE-SIN:W2B-031#48:1>
+- PostScript for compatibility and connectivity.
+
+<ICE-SIN:W2B-031#49:1>
+<h> Greater Flexibility and Ease of Use </h>
+
+<ICE-SIN:W2B-031#50:1>
+PostScript is a device and resolution independent printer language,
+unlike the PCL5.
+
+<ICE-SIN:W2B-031#51:1>
+PCL5 ( Hewlett Packard Printer Control Language 5) like its
+predecessors, was designed for a 300 dot-per-inch laser printer.
+
+<ICE-SIN:W2B-031#52:1>
+PostScript documents can be printed at any resolution on any printing
+technology.
+
+<ICE-SIN:W2B-031#53:1>
+PostScript printers range in resolution from 300 to 4000
+dots-per-inch, and PostScript is available in laser, color, thermal, inkjet,
+typesetter, and film recorder technologies.
+
+<ICE-SIN:W2B-031#54:1>
+PCL is available only with a single marking technology at a single
+resolution.
+
+<ICE-SIN:W2B-031#55:1>
+- Most applications provide a generic PostScript driver that will
+drive most PostScript printers.
+
+<ICE-SIN:W2B-031#56:1>
+With PostScript printers, there is no need to go in search of the
+latest driver to support a new printer.
+
+<ICE-SIN:W2B-031#57:1>
+HP requires different drivers for each class in its family.
+
+<ICE-SIN:W2B-031#58:1>
+For example, there are at least four different types: LaserJet,
+LaserJet Plus, LaserJet II, LaserJet III.
+
+<ICE-SIN:W2B-031#59:1>
+- PostScript is supported on many computer systems.
+
+<ICE-SIN:W2B-031#60:1>
+PostScript printers easily connect to Macintoshes, PC's, UNIX
+workstations and IBM mainframes and provide a broad range of print
+technologies for cross-platform support.
+
+<ICE-SIN:W2B-031#61:1>
+In fact, the PostScript printer driver comes standard on every
+Macintosh.
+
+<ICE-SIN:W2B-031#62:1>
+PostScript delivers professional output.
+
+<ICE-SIN:W2B-031#63:1>
+For users who need sophisticated requirements and special effects,
+PostScript is a necessity.
+
+<ICE-SIN:W2B-031#64:1>
+<h> More Features with PostScript </h>
+
+<ICE-SIN:W2B-031#65:1>
+- PostScript provides color and greyscale support.
+
+<ICE-SIN:W2B-031#66:1>
+PostScript printers are available with support for color and up to
+256 shades of grey.
+
+<ICE-SIN:W2B-031#67:1>
+PCL5 does not support color and has very limited greyscale support.
+
+<ICE-SIN:W2B-031#68:1>
+- There is more internal font support for PostScript.
+
+<ICE-SIN:W2B-031#69:1>
+PostScript printers come standard with at least 35 built-in scalable
+outline fonts.
+
+<ICE-SIN:W2B-031#70:1>
+The LaserJet III comes with only 8 scalable typefaces.
+
+<ICE-SIN:W2B-031#71:1>
+- There is an extensive selection of additional PostScript fonts.
+
+<ICE-SIN:W2B-031#72:1>
+The Adobe Type Library has over 550 PostScript typefaces in 120
+packages, with more shipping every day.
+
+<ICE-SIN:W2B-031#73:1>
+At present, there are more typefaces available for the PostScript
+printers than for LaserJet III.
+
+<ICE-SIN:W2B-031#74:1>
+<h> PostScript for Compatibility and Connectivity </h>
+
+<ICE-SIN:W2B-031#75:1>
+- One file fits all - file format is portable to any PostScript
+device.
+
+<ICE-SIN:W2B-031#76:1>
+This means you can print the same files on a laser printer, color
+printer, typesetter or film recorder and not have to spend time and effort
+recreating, reformatting or modifying a document in order to print on another
+device.
+
+<ICE-SIN:W2B-031#77:1>
+- One font fits all - font format portability to any PostScript
+device.
+
+<ICE-SIN:W2B-031#78:1>
+PostScript can generate high quality fonts on any device from a
+single representation.
+
+<ICE-SIN:W2B-031#79:1>
+Purchase a type package ( eg Helvetica, Times, etc) only once and use
+it with any PostScript printer regardless of vendor, resolution, or printing
+technology.
+
+<ICE-SIN:W2B-031#80:1>
+- Easy connectivity for increased printer sharing.
+
+<ICE-SIN:W2B-031#81:1>
+PostScript printers are easy to network.
+
+<ICE-SIN:W2B-031#82:1>
+They can be shared among many users thereby greatly reducing the cost
+per use.
+
+<ICE-SIN:W2B-031#83:1>
+Most PostScript printers come with networking capabilities built-in
+or as an option.
+
+<ICE-SIN:W2B-031#84:1>
+Therefore, you can easily share one printer among many users.
+
+<ICE-SIN:W2B-031#85:1>
+<h> How fast are PostScript printers? </h>
+
+<ICE-SIN:W2B-031#86:1>
+- It is fast enough for any printing and publishing application you
+may have.
+
+<ICE-SIN:W2B-031#87:1>
+PostScript printers are available today at rated speeds ranging from
+four to 40 pages per minute.
+
+<ICE-SIN:W2B-031#88:1>
+How fast a specific document prints depends on the design of the
+printer, how efficiently the application you're using communicates with the
+printer, and how complex the document is.
+
+<ICE-SIN:W2B-031#89:1>
+- For 300 dot-per-inch resolution, a text-only document will print
+out faster using a LaserJet III than a PostScript printer.
+
+<ICE-SIN:W2B-031#90:1>
+As more processing is involved in printing a PostScript document, a
+PostScript printer's speed is generally slower than a LaserJet III.
+
+<ICE-SIN:W2B-031#91:1>
+However, recent development of RISC processors specifically designed
+for graphics processing and PostScript has helped to overcome this problem.
+
+<ICE-SIN:W2B-031#92:1>
+And Adobe is developing new controllers based on these latest RISC
+technology.
+
+<ICE-SIN:W2B-031#93:1>
+In fact, these new controllers are already appearing in the market
+now.
+
+<ICE-SIN:W2B-031#94:1>
+<h> Conclusion </h>
+
+<ICE-SIN:W2B-031#95:1>
+- In an environment where you have to support Macintosh and PCs, or
+where you want to standardize on one printer type, it is good to purchase a
+PostScript printer.
+
+<ICE-SIN:W2B-031#96:1>
+This will eliminate the fact of managing so many printer drivers for
+your applications.
+
+<ICE-SIN:W2B-031#97:1>
+And at the same time, you are assured of future support from the
+applications you are using.
+
+<ICE-SIN:W2B-031#98:1>
+<h> Microsoft's Disk Operating System Version 5.0 </h>
+
+<ICE-SIN:W2B-031#99:1>
+by Ravi Chandran and Tommy Hor
+
+<ICE-SIN:W2B-031#100:1>
+Microsoft's Disk Operating System Version 5.0 ( DOS 5.0) was
+introduced in late 1991.
+
+<ICE-SIN:W2B-031#101:1>
+Though most of the major magazines have already summarized the major
+features of DOS 5.0, I was requested by my editor to highlight the more
+interesting features and to address the compatibility of this new version
+with our current hardware and network environment.
+
+<ICE-SIN:W2B-031#102:1>
+<h> DOS 5.0 uses less memory than DOS 4.0 </h>
+
+<ICE-SIN:W2B-031#103:1>
+On a 80286-class ( or higher) systems with at least 1 mega-byte of
+memory, DOS 5.0 can load itself in the first 64 kilo-byte of extended memory
+( High Memory Area - HMA), leaving more conventional memory available for DOS
+applications.
+
+<ICE-SIN:W2B-031#104:1>
+To load DOS into the HMA area, you will need these two statements in
+your CONFIG.SYS file:
+
+<ICE-SIN:W2B-031#105:1>
+DEVICE = HIMEM.SYS
+
+<ICE-SIN:W2B-031#106:1>
+DOS = HIGH
+
+<ICE-SIN:W2B-031#107:1>
+On a 80386-class ( or higher) systems certain device drivers and
+memoryresident programs ( TSRs) can now be loaded to the upper memory blocks
+( UMBs) without the need for third party memory managers.
+
+<ICE-SIN:W2B-031#108:1>
+This again might free up more conventional memory depending on
+whether the device drivers and TSRs work when loaded in the UMBs.
+
+<ICE-SIN:W2B-031#109:1>
+Say you wanted to load the ANSI.SYS device driver into the UMBs,
+these lines are required: DEVICE = HIMEM.SYS DEVICE = EMM386.EXE DOS = HIGH,
+UMB DEVICEHIGH = ANSI.SYS If you wish to load a TSR into UMBs through your
+AUTOEXEC.BAT file, simply add " LOADHIGH MOUSE.COM" in your AUTOEXEC.BAT file
+
+<ICE-SIN:W2B-031#110:1>
+<h> DOS 5.0 Shell. </h>
+
+<ICE-SIN:W2B-031#111:1>
+With the DOS 5.0 Shell program you can now switch from running one
+DOS application program to another without exiting the first program.
+
+<ICE-SIN:W2B-031#112:1>
+You can thus switch from the current program to the one you were
+working on previously and continue from where you left off.
+
+<ICE-SIN:W2B-031#113:1>
+Only one single program can be used at any one time.
+
+<ICE-SIN:W2B-031#114:1>
+<h> New and Improved Utilities </h>
+
+<ICE-SIN:W2B-031#115:1>
+DOS 5.0 has added new commands, as well as improvements to existing
+commands.
+
+<ICE-SIN:W2B-031#116:1>
+New and useful commands include the DOSKEY command which can recall,
+edit, and carry out commands that you have already used.
+
+<ICE-SIN:W2B-031#117:1>
+UNFORMAT and UNDELETE allow you to undo a format or delete
+operation, restoring your disk or file to its original state.
+
+<ICE-SIN:W2B-031#118:1>
+<h> On-line Help </h>
+
+<ICE-SIN:W2B-031#119:1>
+On-line help is now available for all MS-DOS 5.0 commands by typing
+the command name followed by / ? , or by typing help followed by the command
+name.
+
+<ICE-SIN:W2B-031#120:1>
+<h> Full Screen Editor </h>
+
+<ICE-SIN:W2B-031#121:1>
+A new full-screen editor to create and modify text files has now
+being included with DOS 5.0. <X>
+
+<ICE-SIN:W2B-031#X122:1>
+The full-screen editor which can be invoked by the EDIT command
+requires QBASIC which comes with DOS 5.0. </X> </I>

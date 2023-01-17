@@ -1,0 +1,524 @@
+<I>
+
+<ICE-SIN:W2A-040#1:1>
+<h> Shear bond strength of nickellalumina interfaces diffusion bonded
+by HIP </h>
+
+<ICE-SIN:W2A-040#2:1>
+N.L.
+
+<ICE-SIN:W2A-040#3:1>
+Loh, Y.L.
+
+<ICE-SIN:W2A-040#4:1>
+Wu and K.A.
+
+<ICE-SIN:W2A-040#5:1>
+Khor
+
+<ICE-SIN:W2A-040#6:1>
+<h> 1 Introduction </h>
+
+<ICE-SIN:W2A-040#7:1>
+Hot isostatic pressing, commonly known as Hipping, can be regarded as
+a thermomechanical technique employing, simultaneously, both elevated
+temperature and isostatic pressure to process parts that are otherwise
+difficult, if not impossible, to fabricate by conventional routes [ 1].
+
+<ICE-SIN:W2A-040#8:1>
+First invented in the mid-fifties for the diffusion-bonding of fuel
+elements in the nuclear industry, the technique soon found many other areas
+of application, such as in casting [ 2], powder metallurgy [ 3] and ceramics
+[ 4].
+
+<ICE-SIN:W2A-040#9:1>
+Perhaps it is fair to add that the major obstacles to the wider
+industrial application of HIP are the tremendously high capital and
+operational costs.
+
+<ICE-SIN:W2A-040#10:1>
+Preparation of parts by encapsulation poses yet another problem in
+terms of productivity and cost.
+
+<ICE-SIN:W2A-040#11:1>
+Some improvements and adaptation of the process and equipment have
+been suggested and tried experimentally.
+
+<ICE-SIN:W2A-040#12:1>
+With ingenious innovation such as combining processes in a single
+piece of equipment, it is expected that these obstacles to commercial
+viability will slowly be removed.
+
+<ICE-SIN:W2A-040#13:1>
+Further, as equipment capabilities extent to higher operational
+temperatures and pressures, more research into the Hipping of advanced
+materials and composites is expected.
+
+<ICE-SIN:W2A-040#14:1>
+In particular, much research effort has been focused in the areas of
+metal matrix composites [ 5,6], diffusion bonding [ 7] and Hipping as a
+rejuvenation process for creep damage [ 8].
+
+<ICE-SIN:W2A-040#15:1>
+As compared to uniaxial hot pressing, HIP offers several advantages.
+
+<ICE-SIN:W2A-040#16:1>
+In the first instance, the isostatic nature of the pressure permits
+processing of parts with geometrical complexities.
+
+<ICE-SIN:W2A-040#17:1>
+Further, the applied pressure may exceed that of the yield strengths
+of metals at elevated temperatures, which renders the process more versatile.
+
+<ICE-SIN:W2A-040#18:1>
+Its chief advantage from the manufacturing perspective , however,
+must surely lie in that HIP can fabricate parts to near-net-shape.
+
+<ICE-SIN:W2A-040#19:1>
+The use of advanced ceramics is very much felt in the aerospace,
+chemical and electronic industries.
+
+<ICE-SIN:W2A-040#20:1>
+Their rigidity, chemical inertness and thermal stability render the
+materials most suitable for high technologies.
+
+<ICE-SIN:W2A-040#21:1>
+Owing to their inherent brittleness, however, advanced ceramics are
+typically joined to metals in engineering applications.
+
+<ICE-SIN:W2A-040#22:1>
+Such ceramic / metal bond couples can be found in electron tubes,
+multi-layer substrates and capacitors, metal matrix composites, etc.
+
+<ICE-SIN:W2A-040#23:1>
+Whatever the service environment, be it physical, chemical,
+mechanical load, thermal or electrical, the adhesion integrity of the ceramic
+/ metal couple will be a basic technical pre-requisite.
+
+<ICE-SIN:W2A-040#24:1>
+<h> 2. Diffusion bonding </h>
+
+<ICE-SIN:W2A-040#25:1>
+I) Diffusion bonding is essentially a micro-deformation process which
+joins two solid surfaces using applied load at elevated temperature in vacuum
+or protective atmosphere.
+
+<ICE-SIN:W2A-040#26:1>
+The load applied must be sufficiently low to avoid macro deformation
+of the parent materials, whilst the temperatures employed are usually 0.5-
+0.8Tm, where Tm is the absolute melting temperature of the lesser refractory
+material.
+
+<ICE-SIN:W2A-040#27:1>
+Processing time at temperature depends very much on the bond strength
+required and on the materials involved.
+
+<ICE-SIN:W2A-040#28:1>
+Typically, this ranges from several hours at about 0.6Tm to only
+minutes at 0.8Tm.
+
+<ICE-SIN:W2A-040#29:1>
+Cline [ 9] proposed a two-stage mechanism for the diffusion bonding
+process.
+
+<ICE-SIN:W2A-040#30:1>
+Firstly, the applied load causes plastic deformation of surface
+asperities, particularly on the softer of the two mating surfaces, which
+reduces the interfacial voids.
+
+<ICE-SIN:W2A-040#31:1>
+Subsequently, the bond develops by diffusion controlled mechanisms
+such as grain-boundary diffusion and power-law creep.
+
+<ICE-SIN:W2A-040#32:1>
+Today, there are many theoretical models designed to predict the
+dominant mechanism at the various stages of diffusion bonding [ 10].
+
+<ICE-SIN:W2A-040#33:1>
+Hot isostatic pressing diagrams are also provided to relate the
+respective mechanisms to the processing parameters [ 1].
+
+<ICE-SIN:W2A-040#34:1>
+Figure 1 shows, schematically, the sequential mechanism of diffusion
+bonding between ceramic and metal as proposed by Derby [ 12].
+
+<ICE-SIN:W2A-040#35:1>
+To form an effective bond, the mating surfaces must come into close
+atomic contact.
+
+<ICE-SIN:W2A-040#36:1>
+Hence, the original surface finishes must be good and free from
+contaminants.
+
+<ICE-SIN:W2A-040#37:1>
+With the relatively higher HIP pressures of 100-200 MPa, however,
+surface finishes become less critical and finishes of 0.8 um Ra have been
+successfully HIP-bonded [ 13].
+
+<ICE-SIN:W2A-040#38:1>
+Systematic studies into the characteristics of ceramic/ metal
+interfaces started in the early sixties.
+
+<ICE-SIN:W2A-040#39:1>
+Broadly speaking, interaction at a ceramic / metal interface can be
+classified as physical and chemical.
+
+<ICE-SIN:W2A-040#40:1>
+The former involves understanding the thermodynamic and physical
+aspects of a non-reactive non-oxide ceramic / metal interface, where no
+charge or mass transfer can take place.
+
+<ICE-SIN:W2A-040#41:1>
+Chemical interaction, however, can occur between metal and ceramic by
+a redox-dissolution reaction or a solution reaction in a reducing gas
+atmosphere [ 14].
+
+<ICE-SIN:W2A-040#42:1>
+This creates an interfacial phase at the ceramic / metal junction
+which differs structurally and physically from the parent materials.
+
+<ICE-SIN:W2A-040#43:1>
+Such a layer of reaction product can either enhance adhesivity or
+lower the bond strength of the ceramic / metal couple.
+
+<ICE-SIN:W2A-040#44:1>
+This paper provides some laboratory results on the effects of HIP
+parameters on the diffusion shear bond strength of nickel onto alumina.
+
+<ICE-SIN:W2A-040#45:1>
+The shear tests were simply carried out by the conventional method [
+15] to evaluate the effects of treatment pressure, temperature and time.
+
+<ICE-SIN:W2A-040#46:1>
+The shear strength was calculated by dividing the maximum fracture
+load by the area of the interface.
+
+<ICE-SIN:W2A-040#47:1>
+Owing to the configuration of the specimens and the differential CTEs
+of the alumina-nickel couple ( which is likely to induce residual stresses
+during the cooling phase of the HIP cycle), the values are therefore not to
+be regarded as pure shear stresses.
+
+<ICE-SIN:W2A-040#48:1>
+<h> 3 Experimental procedure </h>
+
+<ICE-SIN:W2A-040#49:1>
+Pure and spherical nickel powder of sizes no larger than 45 um ( 325
+mesh) were used in this project, their chemical composition being shown in
+Table l.
+
+<ICE-SIN:W2A-040#50:1>
+Chemical composition of the nickel powder used in the present study
+<X>
+
+<ICE-SIN:W2A-040#X51:1>
+Co Fe C Cu S Ni 0.089 0.009 0.017 0.002 0.036 99.847 </X>
+
+<ICE-SIN:W2A-040#52:1>
+These were encapsulated together with alumina tubing of 12 mm ID,
+17.3 mm OD and 20 mm length.
+
+<ICE-SIN:W2A-040#53:1>
+The surfaces of the alumina tubing were cleansed ultrasonically
+before encapsulation.
+
+<ICE-SIN:W2A-040#54:1>
+For encapsulation, mild steel cans of 34 mm diameter, 60 mm height
+and 0.7 mm wall thickness were used.
+
+<ICE-SIN:W2A-040#55:1>
+Filled capsules were capped by TIG welding and evacuated at 300@C to
+remove all traces of vapour and gases.
+
+<ICE-SIN:W2A-040#56:1>
+The evacuated capsules were then crimped and sealed at the evacuating
+tube; the whole process being carried out using a 'Dr Capsule' work-station
+as shown in Fig. 2.
+
+<ICE-SIN:W2A-040#57:1>
+Hipping was carried out using the 02-5X system as supplied by Kobe
+Steel Pte.
+
+<ICE-SIN:W2A-040#58:1>
+Ltd.
+
+<ICE-SIN:W2A-040#59:1>
+( Fig.
+
+<ICE-SIN:W2A-040#60:1>
+3).
+
+<ICE-SIN:W2A-040#61:1>
+A molybdenum-element furnace was used and temperatures of 1150, 1200
+and 1250C were employed for this study.
+
+<ICE-SIN:W2A-040#62:1>
+Pressures of 120, 160 and 200 MPa by pure argon were used with
+treatment times varying from 64 to 256 min.
+
+<ICE-SIN:W2A-040#63:1>
+In all instances, the HIP cycles employed were of type 4 [ 1] which
+increases temperature and pressure simultaneously.
+
+<ICE-SIN:W2A-040#64:1>
+After HIP, the capsules were de-canned by machining and cut into
+three specimens using a diamond cutting machine.
+
+<ICE-SIN:W2A-040#65:1>
+Two specimens were used to determine the shear strength of the
+nickel-alumina bond whilst the third specimen was used for microstructural
+analysis.
+
+<ICE-SIN:W2A-040#66:1>
+X-ray diffractometry was employed also to analyse the compound formed
+at the interface.
+
+<ICE-SIN:W2A-040#67:1>
+Figure 4 shows two Hipped specimens; the left one being de-canned in
+preparation for shear tests.
+
+<ICE-SIN:W2A-040#68:1>
+The shear strength tests were carried out using a Shimndzu
+Servopulser ED-20 tensile testing machine with a push-through fixture
+designed and fabricated to ensure failure at the nickel-alumina interface.
+
+<ICE-SIN:W2A-040#69:1>
+<h> 4. Results and discussion </h  <>
+
+<ICE-SIN:W2A-040#70:1>
+<h> 4.1. Effect of pressure </h>
+
+<ICE-SIN:W2A-040#71:1>
+Isostatic pressures of 120, 160 and 200 MPa were employed to HIP the
+specimens at 1200@C for 144 min.
+
+<ICE-SIN:W2A-040#72:1>
+Figure 5 shows the effect of these pressures on the shear bond
+strength.
+
+<ICE-SIN:W2A-040#73:1>
+There was only marginal improvement when the pressure was increased
+from 120 to 160 MPa.
+
+<ICE-SIN:W2A-040#74:1>
+At 200 MPa pressure, however, the shear bond strength was measured at
+38.2 MPa, which is 2.3 times the bond strength of 16.6 MPa which was achieved
+with the lower HIP pressures.
+
+<ICE-SIN:W2A-040#75:1>
+It can be envisaged that higher HIP pressure will bring about a
+higher level of plastic micro-deformation at the ceramic/metal interface.
+
+<ICE-SIN:W2A-040#76:1>
+This implies a lower density of interfacial voids, thereby increasing
+the contact areas between the two parent materials for chemical reaction and
+inter-diffusion take place.
+
+<ICE-SIN:W2A-040#77:1>
+The effect of HIP pressure on the interphase layer was not
+discernible latter measuring an average thicknesses of 4 um.
+
+<ICE-SIN:W2A-040#78:1>
+4.2.
+
+<ICE-SIN:W2A-040#79:1>
+Effect of temperature Specimens were Hipped at 1150, 1200 and 1250@C
+for 100 min using 200 MPA pressure.
+
+<ICE-SIN:W2A-040#80:1>
+Figure 6 shows the effect of temperature on the interphase
+thicknesses and the respective shear bond strength.
+
+<ICE-SIN:W2A-040#81:1>
+The interphase layer increased with increasing temperature.
+
+<ICE-SIN:W2A-040#82:1>
+For 1150@C, this measured only 1.4 um increasing to 6.0 um with the
+1250@C treatment, which is in agreement with the Arrhenius equation of
+reaction.
+
+<ICE-SIN:W2A-040#83:1>
+The shear bond strength, however, reached a maximum of 38.2 MPa with
+the 1200@C treatment, the interphase layer measuring an average of 2.7 um.
+
+<ICE-SIN:W2A-040#84:1>
+Hence, it would appear that the optimum bond strength is a function
+of the thickness of the interphase layer.
+
+<ICE-SIN:W2A-040#85:1>
+A thin interphase layer may signify incomplete or weak chemical bond
+at the interface, thereby lowering the bond strength.
+
+<ICE-SIN:W2A-040#86:1>
+On other hand, a thick interphase layer of a complex compound may
+embrittle the ceramic / metal junction.
+
+<ICE-SIN:W2A-040#87:1>
+<h> 4.3. Effect of time </h>
+
+<ICE-SIN:W2A-040#88:1>
+Hipping was carried out at 1200C, 200 MPa for 64, 100, 144 and 256
+min.
+
+<ICE-SIN:W2A-040#89:1>
+Figure 7 shows the effect of HIP treatment time on the interphase
+layer and shear bond strength.
+
+<ICE-SIN:W2A-040#90:1>
+With increasing treatment time, chemical reaction and diffusion were
+allowed to continue at the ceramic/metal interface.
+
+<ICE-SIN:W2A-040#91:1>
+Hence, it is to be expected that the reaction layer will increase
+with time.
+
+<ICE-SIN:W2A-040#92:1>
+The reaction rate time relationship, however, is yet to be
+established as three phenomenon are at play simultaneously: the sintering of
+nickel; the chemical reaction to form the interphase; and diffusion.
+
+<ICE-SIN:W2A-040#93:1>
+Of note, though, is the observation that the maximum shear bond
+strength was achieved with the 100-minute treatment.
+
+<ICE-SIN:W2A-040#94:1>
+Here again, a drop in the shear bond strength is encountered with
+interphase layers thinner or thicker than 2.7 um.
+
+<ICE-SIN:W2A-040#95:1>
+<h> 4.4. Nickel at aluminate spinel </h>
+
+<ICE-SIN:W2A-040#96:1>
+ln all instances of the shear tests, a product light blue in colour
+observed to be adhered onto the alumina tubing.
+
+<ICE-SIN:W2A-040#97:1>
+This was identified by diffractometry as the nickel aluminate spinel,
+NiAI204.
+
+<ICE-SIN:W2A-040#98:1>
+Figure 8 is NiO-Al2O phase diagram [ 16] which shows considerable
+solubility of Al203 in Ni/1204.
+
+<ICE-SIN:W2A-040#99:1>
+In general, therefore, the nickel aluminate is represented as NiO (
+l+x) Al203 with x varying from zero to a value, xn,, which defines a
+Al203-saturated composition.
+
+<ICE-SIN:W2A-040#100:1>
+NiAI204 is the stoichiometric composition with x=0.
+
+<ICE-SIN:W2A-040#101:1>
+Elrefaie et al.
+
+<ICE-SIN:W2A-040#102:1>
+[ 16] produced an xmax value of 0.38 for the Al20, - saturated
+composition at 1390'C.
+
+<ICE-SIN:W2A-040#103:1>
+Previous investigators had proposed that any spinel formation at the
+Ni/AI203 interface must proceed through a NiO intermediate.
+
+<ICE-SIN:W2A-040#104:1>
+By experiment and thermodynamic calculation, however, Trumble et al.
+
+<ICE-SIN:W2A-040#105:1>
+[ ] 7] showed otherwise.
+
+<ICE-SIN:W2A-040#106:1>
+Nickel aluminate spinel formation at the Ni/Al203 interface requires
+only that the threshold oxygen activity be exceeded.
+
+<ICE-SIN:W2A-040#107:1>
+Figure 9 shows their calculated threshold oxygen activity curve as a
+function of temperature [ 17].
+
+<ICE-SIN:W2A-040#108:1>
+The sources of oxygen in this project were believed to be oxygen
+initially dissolved in solution in the nickel powders and residual oxygen in
+the capsule before HIP, the capsule being pumped down only to 10-2 torr.
+
+<ICE-SIN:W2A-040#109:1>
+Close examination of the sheared specimens showed that the nickel
+aluminate was adhering to the Al203 tubing.
+
+<ICE-SIN:W2A-040#110:1>
+Hence, fracture paths had run along the spinel/nickel interface,
+which implies that the spinel/nickel interfaces were weaker than the
+spinel/Al2O3 interfaces.
+
+<ICE-SIN:W2A-040#111:1>
+The respective densities of nickel, spinel and Al203 in g/cm3 are
+8.9, 4.3 and 4.0.
+
+<ICE-SIN:W2A-040#112:1>
+Thus, the volumetric change accompanying the reaction at the spinel
+/ AI2O3 interface is comparatively smaller than that of the spinel/ Ni
+interface, rendering the latter interface weaker in terms of bond strength.
+
+<ICE-SIN:W2A-040#113:1>
+Researchers have been divided in opinion as to the spinel effect on
+the bond integrity of the nickel / AI20 interface.
+
+<ICE-SIN:W2A-040#114:1>
+Some like Bailey [ 18] claim that the spinel serves effectively to 'reaction
+bond' the ceramic/metal interface.
+
+<ICE-SIN:W2A-040#115:1>
+Others, however, feel that the spinel has a severe weakening effect.
+
+<ICE-SIN:W2A-040#116:1>
+Trumble et al.
+
+<ICE-SIN:W2A-040#117:1>
+[ 17] suggested avoiding spinel formation to ensure a strong bond
+between nickel and alumina.
+
+<ICE-SIN:W2A-040#118:1>
+Colin et al.
+
+<ICE-SIN:W2A-040#119:1>
+[ 7], on the other hand, noted that the shear bond strength of
+Inconel-600/alumina interface was much weaker without spinel formation.
+
+<ICE-SIN:W2A-040#120:1>
+They achieved a maximum shear bond strength of 70 MPa with 100 MPa
+of HIP pressure at 1300@C and 30 min of soaking time. <X>
+
+<ICE-SIN:W2A-040#X121:1>
+This study showed that a 2.7 um of interphase layer produced a
+maximum shear bond strength of 38.2 MPa.
+
+<ICE-SIN:W2A-040#X122:1>
+A thinner layer, and by extrapolation no layer, would lower the
+bond strength.
+
+<ICE-SIN:W2A-040#X123:1>
+Hence, it seems apparent that spinel formation is necessary to 'reaction
+bond' the ceramic / metal junction.
+
+<ICE-SIN:W2A-040#X124:1>
+Where the reaction is excessive, however, it will lead to a drop of
+the bond strength.
+
+<ICE-SIN:W2A-040#X125:1>
+It is believed that this is consequential of the thermal residual
+stresses induced by virtue of the differential CTEs at the interphase/metal
+junction during HTP cooling process.
+
+<ICE-SIN:W2A-040#X126:1>
+5.
+
+<ICE-SIN:W2A-040#X127:1>
+Conclusions All interfacial shear bond strength of 38.2 MPa was
+achieved by hipping nickel powders onto alumina tubing at 1200@C, 200MPa and
+100 min soaking time.
+
+<ICE-SIN:W2A-040#X128:1>
+This produced a reaction layer of the nickel aluminate spinel
+measuring 2.7 m.
+
+<ICE-SIN:W2A-040#X129:1>
+In all instances, NiAI204 nickel aluminate spinel was observed at
+Ni/AI203 interface, indicating that the oxygen level is higher than the
+threshold oxygen activity level. </X> </I>

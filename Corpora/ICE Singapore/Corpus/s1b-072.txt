@@ -1,0 +1,408 @@
+<I> <X>
+
+<ICE-SIN:s1b-072#X1:1>
+ 26 March 1992 How Progress helps you to downsize </X>
+
+<ICE-SIN:S1B-072#2:1>
+ Uh so come to uh this session
+
+<ICE-SIN:S1B-072#3:1>
+ Uh I'm Joseph Liew
+
+<ICE-SIN:S1B-072#4:1>
+ I'm from Base Management System
+
+<ICE-SIN:S1B-072#5:1>
+ We are the distributor for Progress in Singapore
+
+<ICE-SIN:S1B-072#6:1>
+ Uh graph sizing computing application from mainframe and
+microcomputers to PC LAN is one of the hottest trend in uh corporate
+computing today
+
+<ICE-SIN:S1B-072#7:1>
+ Okay MIS challenged by uh increasing cost pressure uh accelerating
+business changes and competition
+
+<ICE-SIN:S1B-072#8:1>
+ Uh we are also faced with technological change and complexity uh also
+shifting management structure
+
+<ICE-SIN:S1B-072#9:1>
+ All these business uh pressures have actually forced MIS to rely on
+either out outside what you call Outsourcing or Downsizing
+
+<ICE-SIN:S1B-072#10:1>
+ And according to the recent survey sixty to seventy percent of
+Fortune thousand companies are in the actively in downsizing project or plan
+to get started within the next twelve months
+
+<ICE-SIN:S1B-072#11:1>
+ Many companies are searching for low cost computing options and a
+desire to improve the flexibility of computing application
+
+<ICE-SIN:S1B-072#12:1>
+ Instead of running all uhm corporate application on mainframe or
+micro MIS director now find that uhm there are many application that can run
+perfectly well on small computer connected in a network environment
+
+<ICE-SIN:S1B-072#13:1>
+ A well-constructed uh network can house plenty of computing power
+today
+
+<ICE-SIN:S1B-072#14:1>
+ Uh the components of all these uh network configuration uh people are
+using things like personal computers workstation pass server database server
+
+<ICE-SIN:S1B-072#15:1>
+ And it can be if you can uh appropriate size and then uh plug in or
+plug up uhm the environment you can make your application uh run very uh
+successfully according to the needs uhm it takes
+
+<ICE-SIN:S1B-072#16:1>
+ Okay you can plug in or out from the environment
+
+<ICE-SIN:S1B-072#17:1>
+ Moving uh application to smaller computer if you have done it
+correctly you can achieve the following:
+
+<ICE-SIN:S1B-072#18:1>
+ One substantially uh lower the operation cost while improving
+flexibility
+
+<ICE-SIN:S1B-072#19:1>
+ Second enjoy the same computing power and benefit of a mainframe or
+microcomputer at only a fraction of cost
+
+<ICE-SIN:S1B-072#20:1>
+ You can also realize greater flexibility when it comes to development
+support and ongoing maintenance
+
+<ICE-SIN:S1B-072#21:1>
+ You have at your disposal more flexible tool for development and
+support and also more scaleable platform for ongoing maintenance
+
+<ICE-SIN:S1B-072#22:1>
+ Move away you can also move away from uh this what call <unclear>
+word </unclear> computing boxes towards more open or at least uh reusable
+hardware
+
+<ICE-SIN:S1B-072#23:1>
+ In some cases the server of today uh can be downsized to the
+workstation end-user workstation of tomorrow
+
+<ICE-SIN:S1B-072#24:1>
+ Another key to im uh improving flexibility of system is the movement
+away from the third generation development languages like COBOL or C
+
+<ICE-SIN:S1B-072#25:1>
+ Okay so uh you are I I believe uh all of you come to this show uh you
+have more or less decided to adopt downsizing as a company strategy to
+improve your practical advantages and better leverage your information
+investment
+
+<ICE-SIN:S1B-072#26:1>
+ Now the challenge is uh you is on you as to how you should take
+application that were mainframe or microcomputer and uh orientated uh and
+bring it down to a uh low-end uh PC LAN environment
+
+<ICE-SIN:S1B-072#27:1>
+ Downsizing doesn't uh equate to a reducing software development time
+and cost uh at least not automatically
+
+<ICE-SIN:S1B-072#28:1>
+ Uh creating software for a downsized system can entail significantly
+higher cost than for a mainframe environment especially if it's done with a
+third generation language traditionally used to develop large mainframe
+software like COBOL or C
+
+<ICE-SIN:S1B-072#29:1>
+ Because such languages assume that an application will run on a
+single computer
+
+<ICE-SIN:S1B-072#30:1>
+ They do not directly support distribution or processing and data over
+her heterogeneous network of geographically dispersed computers
+
+<ICE-SIN:S1B-072#31:1>
+ The principal requirement for most application running in a downsized
+environment
+
+<ICE-SIN:S1B-072#32:1>
+ Consequently using a third generation language to downsize
+application entail designing and coding support for network computing into
+the application software itself which is a also a major ah undertaking
+
+<ICE-SIN:S1B-072#33:1>
+ So IS manager under pressure to downsize need a more powerful breed
+of uh application development tool
+
+<ICE-SIN:S1B-072#34:1>
+ You need an effective downsizing environment that meets the combined
+requirements of integrity and reliability security and straightforward setup
+and maintenance
+
+<ICE-SIN:S1B-072#35:1>
+ You need support from two for planning and design
+
+<ICE-SIN:S1B-072#36:1>
+ That's why uhm we are trying to uh introduce you Progress how
+Progress can actually help you to solve the increasing business pressure in
+terms of lower the cost adapting to change business change and uh supporting
+machine uh of management structures
+
+<ICE-SIN:S1B-072#37:1>
+ Okay let me bring you uh to Progress uh product itself
+
+<ICE-SIN:S1B-072#38:1>
+ Progress actually offer the complete uh application development
+system
+
+<ICE-SIN:S1B-072#39:1>
+ Progress has got its own fourth <&>  4 </&> GL with SQL we also have a fast
+track what you call is a application user can actually paint screen uhm
+create menu and adhoc reports using this uh fast track
+
+<ICE-SIN:S1B-072#40:1>
+ Progress also had its own data dictionary and its own relational
+database
+
+<ICE-SIN:S1B-072#41:1>
+ This uh Progress fourth <&>  4 </&> GL actually is a very elegant procedural
+and now you can create procedural and non-procedural statements uh if you are
+uh using the default or the uh Progress command uh you can actually uh cut
+short a lot of development time uh
+
+<ICE-SIN:S1B-072#42:1>
+ Inside this uh there is a enter where it will do the normal syntax
+checking for you uh while you are phototyping your application
+
+<ICE-SIN:S1B-072#43:1>
+ You also have a on-line help facility within the enter
+
+<ICE-SIN:S1B-072#44:1>
+ You can do what are like key-stroke level programming control
+
+<ICE-SIN:S1B-072#45:1>
+ Uh Progress also support old uh SQL and you are writing any uh things
+to communicate with your hardware uh <unclear> word </unclear> peripheral if
+you require to use C to do the communication or whatever
+
+<ICE-SIN:S1B-072#46:1>
+ Progress do support uh C interface for this special purpose
+
+<ICE-SIN:S1B-072#47:1>
+ Progress actually give you a high level support for many tasks common
+to transaction processing and information access such as database
+manipulation and screen and report processing enables creation of downsized
+application in a fraction of a time required inverted G
+
+<ICE-SIN:S1B-072#48:1>
+ If you are a this uh fast track is actually a menu-driven application
+user which is very ideal for uh rapid phototyping you can paste screens
+design menu and reports
+
+<ICE-SIN:S1B-072#49:1>
+ It can also perform uh ad-hoc database query and the fast track
+itself is actually written uh on Progress
+
+<ICE-SIN:S1B-072#50:1>
+ So uh whatever things you you are making use to do it will generate
+the reusable fourth <&>  4 </&> GL code for you
+
+<ICE-SIN:S1B-072#51:1>
+ So you can actually make use of this fourth <&>  4 </&> GL code and uh bring
+it in and cut and paste into your application procedure and you can save this
+uh course in the library and as and when you can uh bring this out to uh cut
+and paste or do some modification to suit your application requirement
+
+<ICE-SIN:S1B-072#52:1>
+ Progress also support development of uh application distributed
+across heterogeneous computer networks
+
+<ICE-SIN:S1B-072#53:1>
+ Uh it automatically handle uh the distributed processing such as uh
+communication re re remote processes and accessing the ah store in uh other
+computer and Progress actually support hundreds of uh hard hardware
+
+<ICE-SIN:S1B-072#54:1>
+ Uh we also support the operating system like DOS OS/2 uh in respaced
+kind of system running Unix or OS/2
+
+<ICE-SIN:S1B-072#55:1>
+ You have also uhm workstation running Unix or BMS
+
+<ICE-SIN:S1B-072#56:1>
+ All those uh application that is developed using Progress fourth <&>  4)
+GL you can actually port it over to any of these supported platform without
+having to change any the user interface and so on
+
+<ICE-SIN:S1B-072#57:1>
+ Uh actually are identical across all the platforms
+
+<ICE-SIN:S1B-072#58:1>
+ In this occasion uh you can easily uh plug on or unplug the uh system
+from this network as and when uh you know information needs to <unclear> word
+</unclear>
+
+<ICE-SIN:S1B-072#59:1>
+ Progress has got its own interactive data dictionary which allow you
+to uh control things like file and field validation
+
+<ICE-SIN:S1B-072#60:1>
+ This is very good for you to uh make use to uh checking input
+validation rules
+
+<ICE-SIN:S1B-072#61:1>
+ It also support uh password only
+
+<ICE-SIN:S1B-072#62:1>
+ Authorized uh user can then access to these uh field level and it
+also provide database uh trigger to ensure specific processing on key events
+
+<ICE-SIN:S1B-072#63:1>
+ Other than that uh in the dictionary itself you also can store the
+gateway information to alternate database
+
+<ICE-SIN:S1B-072#64:1>
+ For instance you may have uh other databases uh not uh third party
+one not support uh it will be sup it's uh supported by program like Oracle
+RDD IMS CI etceteras
+
+<ICE-SIN:S1B-072#65:1>
+ Okay uh you also can store the what you call network protocol
+information within the data dictionary itself
+
+<ICE-SIN:S1B-072#66:1>
+ The data dictionary will then dynamically connect or disconnect uhm
+to all databases required by your application
+
+<ICE-SIN:S1B-072#67:1>
+ If you do not <unclear> word </unclear> to uh have any uh transaction
+over the other databases uh Progress will disconnect it for you so that you
+will enhance the power and other things like uh it will host the <unclear>
+word </unclear> import and also the export facility within this uh data
+dictionary
+
+<ICE-SIN:S1B-072#68:1>
+ Progress has a uh its own relational database
+
+<ICE-SIN:S1B-072#69:1>
+ This actually eliminates the need to acquire or develop sep separate
+RDDMS interface routine and assure that application written in Progress
+fourth <&>  4 </&> GL are able to use all of the features of the RDDM MS
+
+<ICE-SIN:S1B-072#70:1>
+ You can uh access from the environment menu alone with the source
+code editor compiler debugger and other tools
+
+<ICE-SIN:S1B-072#71:1>
+ This will speed compiler development our database and the program
+that will use those databases
+
+<ICE-SIN:S1B-072#72:1>
+ Uh second it can it also provide capability to safeguard uh against
+system as well as human failure
+
+<ICE-SIN:S1B-072#73:1>
+ One uh to prevent corruption of the database as a result of system
+failure data roll back is provided automatic uh purging from the database of
+all transaction left incomplete by a system failure
+
+<ICE-SIN:S1B-072#74:1>
+ The next function is to uh guard against non-recoverable disk failure
+
+<ICE-SIN:S1B-072#75:1>
+ You have things like roll forward can be uh you can enable locking or
+transaction to a second disk in the event of main disk uh fail the system can
+recreate the database by merging the transaction uh with the last archive uh
+copy of the database
+
+<ICE-SIN:S1B-072#76:1>
+ In this relational database we also support things like uh flexible
+uh record locking control
+
+<ICE-SIN:S1B-072#77:1>
+ We have uh we support multi <unclear> word </unclear> server for high
+performances You can connect say uh up to two hundred and forty databases and
+uh you have you can have transaction like two thousand four hundred and
+seventy eight records update simultaneously within the database
+
+<ICE-SIN:S1B-072#78:1>
+ You can have uh things like on-line data backup
+
+<ICE-SIN:S1B-072#79:1>
+ Uh Progress also support two face <unclear> word </unclear> this is
+for distributed database <unclear> word </unclear> and there are tool
+provided to you for performance monitoring and <unclear> word </unclear>
+
+<ICE-SIN:S1B-072#80:1>
+ Progress also uh support client server uh architecture
+
+<ICE-SIN:S1B-072#81:1>
+ Progress soft fourth <&>  4 </&> GL signif signifying the uh simplify the
+development of dispersed application possible by implementing a client server
+distributed computer model utilizing built-in protocol for co-ordination
+
+<ICE-SIN:S1B-072#82:1>
+ A client server model actually divide an application into two types
+of uh co-operating tasks: one those specific to the application and those
+common to a group of application
+
+<ICE-SIN:S1B-072#83:1>
+ A server perform the common task at the request of a client task and
+a client server model actually has uh several advantages:
+
+<ICE-SIN:S1B-072#84:1>
+ one it allow client to be developed uh independently of servers and
+reduce development time by eliminating
+
+<ICE-SIN:S1B-072#85:1>
+ One needs to write codes for those tasks handled by the server second
+client server model also support distributed processing by dividing an
+application into segments that can run on different processor or computers as
+long as communication can be established between them
+
+<ICE-SIN:S1B-072#86:1>
+ A server for a database used by multiple application can run on a
+time-shared central computer with a client running on workstation connected
+to time-shared system via a local area network
+
+<ICE-SIN:S1B-072#87:1>
+ Such as uh such a configuration preserve the central control
+advantages of mainframe environment while offering uh loading application
+specific processing onto low-cost workstations
+
+<ICE-SIN:S1B-072#88:1>
+ These are all the uh operating systems supported by Progress
+
+<ICE-SIN:S1B-072#89:1>
+ Uh you can address DMS MS-DOS Unix Xenix Altrix AIS AUS <unclear>
+word </unclear>
+
+<ICE-SIN:S1B-072#90:1>
+ Right now Progress also uh support uh AS four hundred the OS four
+hundred uh okay
+
+<ICE-SIN:S1B-072#91:1>
+ The application regardless where you develop the source from whether
+is it uh DOS single-user or <unclear> word </unclear> system the source code
+where you are plotting to the next operating system or platform you do not
+have to rewrite any single code
+
+<ICE-SIN:S1B-072#92:1>
+ Progress also provide uh connectivity across all the standard uh
+network protocol such as NETBIO PCPIP <unclear> word </unclear> NET SPX IBX
+or OS5 <X>
+
+<ICE-SIN:S1B-072#X93:1>
+ You can actually uh distribute your database across uh all other
+platforms when you are running the application Progress the will <unclear>
+word </unclear> will uh automatically point to you where the data is and you
+go and retrieve and access the data on the database regardless where it is
+stored Progress databases uh can be can also be independent I mean those
+fourth <&>  4 </&> GL uh application developed using Progress can access to ei
+either Progress or to other databases like ORACLE RDD or IMS Progress also uh
+give you uh robust gateway Uh besides the Progress ORACLE IMS RDD uh right
+now we can also support the CI <unclear> word </unclear> and uh <unclear>
+word </unclear> will be uh releasing very soon </X> </I>

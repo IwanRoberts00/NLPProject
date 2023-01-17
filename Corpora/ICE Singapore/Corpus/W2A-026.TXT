@@ -1,0 +1,514 @@
+<I>
+
+<ICE-SIN:W2A-026#1:1>
+<h> IS SEQUENTIAL ARGON-YAG LASER IDEAL FOR IRIDOTOMY IN DARK BROWN
+IRIDES? </h>
+
+<ICE-SIN:W2A-026#2:1>
+Tony Ho
+
+<ICE-SIN:W2A-026#3:1>
+Richard Fan
+
+<ICE-SIN:W2A-026#4:1>
+Laser iridotomy in patients with brown irides is more difficult.
+
+<ICE-SIN:W2A-026#5:1>
+Two or more treatment sessions are often needed to create a patent
+iridotomy.
+
+<ICE-SIN:W2A-026#6:1>
+Failure and complication rates are higher.
+
+<ICE-SIN:W2A-026#7:1>
+We conducted a short term prospective clinical study to evaluate the
+use of the argon and Nd:YAG laser in sequential combination at the same
+sitting to create iridotomies in 16 eyes from 10 patients.
+
+<ICE-SIN:W2A-026#8:1>
+All the eyes had dark brown irides.
+
+<ICE-SIN:W2A-026#9:1>
+These eyes had chronic angle closure glaucoma ( 7 eyes), acute angle
+closure ( 3 eyes and 6 were fellow eyes.
+
+<ICE-SIN:W2A-026#10:1>
+Patent iridotomies were achieved in single treatment sessions for all
+the eyes.
+
+<ICE-SIN:W2A-026#11:1>
+Complications were minor and included microhyphaema ( 1 eye), focal
+lens opacity ( 1 eye) and focal corneal opacity ( 2 eyes).
+
+<ICE-SIN:W2A-026#12:1>
+No iridotomy closure was noted to date.
+
+<ICE-SIN:W2A-026#13:1>
+The mean total energy delivered per eye by the argon and Nd:YAG
+lasers respectively was about a third of values reported by most studies on
+pure argon or Nd:YAG iridotomy.
+
+<ICE-SIN:W2A-026#14:1>
+Sequential combination use of the argon and YAG lasers is a safe and
+effective iridotomy tool in dark brown irides and combines the advantages of
+both laser procedures whilst avoiding most of their disadvantages.
+
+<ICE-SIN:W2A-026#15:1>
+<h> Introduction </h>
+
+<ICE-SIN:W2A-026#16:1>
+Various types of lasers have been used to penetrate the iris.
+
+<ICE-SIN:W2A-026#17:1>
+Many ophthalmologists consider the Nd:YAG laser the ideal iridotomy
+tool especially in the blue irides.
+
+<ICE-SIN:W2A-026#18:1>
+However, in patients with brown irides, opinion is divided between
+the argon and the Nd:YAG lasers.
+
+<ICE-SIN:W2A-026#19:1>
+What about the patient with the dark brown iris?
+
+<ICE-SIN:W2A-026#20:1>
+These irides are thicker and have more pigment.
+
+<ICE-SIN:W2A-026#21:1>
+The higher complication and failure rates of laser iridotomy in such
+patients is well recognised.
+
+<ICE-SIN:W2A-026#22:1>
+Schwartz ( 1) using a pulsed argon laser reports 20% failure to
+penetrate in brown eyes.
+
+<ICE-SIN:W2A-026#23:1>
+Quigley ( 2) reports needing two or more sessions to achieve patent
+argon iridotomies in 58% of his patients with dark brown irides.
+
+<ICE-SIN:W2A-026#24:1>
+Tomey ( 3) states that the higher amount of YAG laser energy required
+by his patients was attributed to the high prevalence of thick, brown irides
+among his patient population.
+
+<ICE-SIN:W2A-026#25:1>
+The use of the Nd:YAG laser to successfully salvage an otherwise
+failed argon iridotomy has been documented by certain authors ( 4, 5).
+
+<ICE-SIN:W2A-026#26:1>
+However, to our knowledge no prospective clinical study has been
+carried out to evaluate the sequential combined use of the argon and YAG
+laser to penetrate the iris as a primary procedure at the same sitting.
+
+<ICE-SIN:W2A-026#27:1>
+<h> Materials and Methods </h>
+
+<ICE-SIN:W2A-026#28:1>
+We conducted a short term prospective study to evaluate this
+procedure in 16 eyes from 10 patients.
+
+<ICE-SIN:W2A-026#29:1>
+All the eyes had the dark brown iris type.
+
+<ICE-SIN:W2A-026#30:1>
+We use the Coherent Medical 920 Argon laser with a Zeiss slit-lamp
+delivery system for the first stage and the Cooper Vision 2300 Q-Switched
+Neodymium YAG laser for the second stage.
+
+<ICE-SIN:W2A-026#31:1>
+Topical pilocarpine 2% qid was instilled pre-operatively to
+constrict the pupil where possible.
+
+<ICE-SIN:W2A-026#32:1>
+After administration of topical anesthesia, an Abraham lens was
+placed onto the eye.
+
+<ICE-SIN:W2A-026#33:1>
+The argon laser was used to make the initial bore.
+
+<ICE-SIN:W2A-026#34:1>
+An iris crypt was selected in the mid-periphery in either the
+superior nasal or temporal quadrant.
+
+<ICE-SIN:W2A-026#35:1>
+A spot size of 50 microns was used in all the cases.
+
+<ICE-SIN:W2A-026#36:1>
+Power and duration of shots were adjusted to achieve penetration with
+minimal iris charring ( Table 1).
+
+<ICE-SIN:W2A-026#37:1>
+The initial bore is made to an estimated depth of about two-thirds
+iris thickness with an approximate diameter of 500 microns.
+
+<ICE-SIN:W2A-026#38:1>
+The Nd:YAG laser was used for the second perforation stage.
+
+<ICE-SIN:W2A-026#39:1>
+Energy levels were set between 2 to 5 mJ depending on the surgeon's
+estimate of the depth of penetration achieved at the end of the first stage.
+
+<ICE-SIN:W2A-026#40:1>
+All shots were delivered in single pulse mode.
+
+<ICE-SIN:W2A-026#41:1>
+All patients had their IOP measured at I hour post-op.
+
+<ICE-SIN:W2A-026#42:1>
+If not greater than 10 mm Hg above pre-op levels they are sent back
+with prophylactic diamox 250 mg tid for the next two days.
+
+<ICE-SIN:W2A-026#43:1>
+If the IOP rise was greater than 10 mm HG at I hour post-op the
+patient was given a stat dose of 500 mg diamox and monitored for up to three
+hours, as it is well-documented that most IOP rises occur within the first
+three hours post-op ( 7, 8).
+
+<ICE-SIN:W2A-026#44:1>
+Topical steroids was given to all patients after the procedure.
+
+<ICE-SIN:W2A-026#45:1>
+<h> Results and Discussion </h>
+
+<ICE-SIN:W2A-026#46:1>
+Ten patients ( 16 eyes) were treated between Jan 1989 and Nov 1989.
+
+<ICE-SIN:W2A-026#47:1>
+There were nine Chinese and one Indian patient.
+
+<ICE-SIN:W2A-026#48:1>
+Six eyes had creeping angle closure glaucoma, three had acute angle
+closure and seven were contralateral eyes.
+
+<ICE-SIN:W2A-026#49:1>
+Quigley ( 2) reviewing 140 argon iridotomies reports that 58% of his
+patients with the dark brown iris tvpe needed two or more treatment sessions
+to achieve patency.
+
+<ICE-SIN:W2A-026#50:1>
+Tomey ( 3) reviewing 373 Nd:YAG iridotomies done in Saudi Arabia with
+a " high prevalence of thick brown irides" reports 31 % of his patients
+needing two or more treatment sessions.
+
+<ICE-SIN:W2A-026#51:1>
+In our study, patent iridotomies were achieved in all sixteen eyes in
+single treatment sessions.
+
+<ICE-SIN:W2A-026#52:1>
+The iridotomies created are typically large and round with fairly
+sharp edges.
+
+<ICE-SIN:W2A-026#53:1>
+This is in contrast with the slit opening of YAG iridotomy and the
+argon iridotomy where the hole is smaller with charred edges.
+
+<ICE-SIN:W2A-026#54:1>
+Central endothelial cell loss due to the indirect thermal effects of
+the argon laser has been reported ( 6): In our study, the mean number of
+shots delivered in the first argon laser stage was 50 and in the second YAG
+laser stage was 3.
+
+<ICE-SIN:W2A-026#55:1>
+The mean energy delivered per eye by the argon and YAG respectively
+is about a third of most studies on pure argon and YAG iridotomies ( Tables 1
+and 2).
+
+<ICE-SIN:W2A-026#56:1>
+This should have a significant bearing on complications resulting
+from either direct or indirect thermal damage to the eye.
+
+<ICE-SIN:W2A-026#57:1>
+Complications seen were minor.
+
+<ICE-SIN:W2A-026#58:1>
+Microhyphaema was seen in 1 eye.
+
+<ICE-SIN:W2A-026#59:1>
+This is in contrast to pure YAG iridotomies where about 40% are
+complicated by bleeding.
+
+<ICE-SIN:W2A-026#60:1>
+This advantage is no doubt conferred by the use of the argon laser as
+the first stage laser.
+
+<ICE-SIN:W2A-026#61:1>
+One of the major advantages of YAG iridotomy is that it is rarely
+associated with focal lens opacification.
+
+<ICE-SIN:W2A-026#62:1>
+This is because the zone of optical breakdown and plasma formation
+following YAG laser shots extends not distally but proximally towards the
+laser source, a phenomenon termed the " plasma shield effect".
+
+<ICE-SIN:W2A-026#63:1>
+On the other hand, the incidence of focal lens damage in argon
+iridotomy has been reported from 35 to 53% ( 6, 7, 8).
+
+<ICE-SIN:W2A-026#64:1>
+The low incidence of focal lens damage in our study is most likely
+conferred by the use of the YAG laser at the second stage.
+
+<ICE-SIN:W2A-026#65:1>
+The one eye which had this complication incurred it from an
+inadvertent argon shot.
+
+<ICE-SIN:W2A-026#66:1>
+Focal corneal endothelial opacity was seen in 2 eyes ( 12%) and this
+rate is similar to that reported by most studies on pure argon and YAG
+iridotomies.
+
+<ICE-SIN:W2A-026#67:1>
+Immediately following the procedure, all the eyes had various degrees
+of pigment dispersion and free floating debris.
+
+<ICE-SIN:W2A-026#68:1>
+However, no clinically significant inflammation was present by the
+end of the first week.
+
+<ICE-SIN:W2A-026#69:1>
+Pure argon laser iridotomy have reported closure rates of 21% to 30%,
+whereas it is well established that YAG laser iridotomy appears to show no
+tendency to close in eyes uncomplicated by rubeosis or iritis although the
+exact mechanism behind this remains unclear ( 7, 8).
+
+<ICE-SIN:W2A-026#70:1>
+In our study, iridotomy closure was noted in only one eye to date.
+
+<ICE-SIN:W2A-026#71:1>
+Could the use of the YAG as the second stage laser be the reason for
+the low closure rates?
+
+<ICE-SIN:W2A-026#72:1>
+Five of the eyes treated had intraocular pressure rise of over 10 mm
+Hg within the first hour.
+
+<ICE-SIN:W2A-026#73:1>
+All these eyes responded well to diamox treatment.
+
+<ICE-SIN:W2A-026#74:1>
+We observed two further advantages from this procedure.
+
+<ICE-SIN:W2A-026#75:1>
+First, there is no need to worry about inadvertent retinal damage and
+one is therefore not restricted to using only the nasal side for the
+iridotomy site.
+
+<ICE-SIN:W2A-026#76:1>
+Secondly, the hazardous chipping and enlargement phase necessary in
+argon iridotomies is not necessary.
+
+<ICE-SIN:W2A-026#77:1>
+Our study suggests that sequential Argon-YAG iridotomy is a safe and
+effective procedure and combines the advantages of both laser procedures
+whilst avoiding most of their disadvantages.
+
+<ICE-SIN:W2A-026#78:1>
+It could well be the ideal iridotomy tool in the dark brown iris. <X>
+
+<ICE-SIN:W2A-026#X79:1>
+Table 1 Sequential Argon-YAG Iriodtomy - Laser Parameters Patient
+Glaucoma No.
+
+<ICE-SIN:W2A-026#X80:1>
+Argon Av Power Av Duration No.
+
+<ICE-SIN:W2A-026#X81:1>
+YAG Energy No Type Shots ( mW) ( Sec) Shots Setting ( mj) 1 CAG 50
+900 0.05 2 2 FE 50 1100 0.05 1 2.4 2 AAG 50 700 0.03 4 3 FE 50 600 0.02 1 2.4
+3 AAG 34 1100 0.1 4 4 FE 38 1100 0.1 2 4 4 CAG 50 700 0.1 2 5 5 FE 50 700 0.1
+3 2.5 6 FE 40 700 0.1 3 2.5 7 FE 15 1000 0.1 6 2.4 8 CAG 82 1000 0.01 3 2.5
+CAG 140 700 0.01 1 4 9 AAG 70 700 0.1 2 5 CAG 70 700 0.1 1 5 10 CAG 45 600
+0.1 1 5 CAG 50 7 0.1 1 5 Table 2 Mean Laser Parameters 1st Stage Mean Argon
+Parameters Power ( mW) 813 + 186 Range 600-1100 Wxposure ( sec) 0.07 + 0.04
+Range 0.01.-0.1 No of Shots 50+35 Range 15-140 Total Enery delivered 2.7 +
+1.4 per eye aoules) 2nd She Mean Nd:YAG Laser Parameters Energy Setting 3.3 +
+1.2 ( per shot) mJ Range 2.5 No.
+
+<ICE-SIN:W2A-026#X82:1>
+of Shots 3.3 + 1.2 ( Single mode) Range 1-10 Energy delivered 3.9 +
+5.8 per eye ( mJoules) </X>
+
+<ICE-SIN:W2A-026#83:1>
+<h> THE TRIPLE PROCEDURE IS THE BEST METHOD OF VISUAL REHABILITATION
+AND INTRAOCULAR PRESSURE CONTROL IN CASES OF GLAUCOMA WITH CATARACT </h>
+
+<ICE-SIN:W2A-026#84:1>
+Paul T K Chew, M Med ( Oph), FRCSE
+
+<ICE-SIN:W2A-026#85:1>
+Arthur S M Lim, FRCS, FRCSE, FRACS, FRACO
+
+<ICE-SIN:W2A-026#86:1>
+<h> Summary </h>
+
+<ICE-SIN:W2A-026#87:1>
+A combined trabeculectomy with extracapsular cataract extraction and
+posterior chamber implantation or triple procedure was performed on 35
+patients.
+
+<ICE-SIN:W2A-026#88:1>
+The types of glaucoma include primary open angle, primary chronic
+angle closure and acute angle closure glaucoma.
+
+<ICE-SIN:W2A-026#89:1>
+There was concurrent moderate to severe cataracts.
+
+<ICE-SIN:W2A-026#90:1>
+Results 6 months after surgery showed that 83% had 6/12 or better
+vision and 94% had intraocular pressure control of 20 mmHg or less.
+
+<ICE-SIN:W2A-026#91:1>
+Only 5% needed adjuvant topical beta blocker therapy.
+
+<ICE-SIN:W2A-026#92:1>
+<h> Introduction </h>
+
+<ICE-SIN:W2A-026#93:1>
+The presence of glaucoma, whether open angle or closed angle,
+combined with cataract poses a problem in management.
+
+<ICE-SIN:W2A-026#94:1>
+There is controversy as to whether it would be better to combine
+surgery in a one time procedure or to perform operations for the glaucoma and
+cataracts on separate occasions.
+
+<ICE-SIN:W2A-026#95:1>
+Recently, the Triple procedure, or extracapsular cataract extraction
+and posterior chamber implant combined with trabeculectomy became the
+procedure of choice for some surgeons.
+
+<ICE-SIN:W2A-026#96:1>
+Because of its good results this may be the ideal procedure for
+glaucoma patients who also have cataracts.
+
+<ICE-SIN:W2A-026#97:1>
+Papers by Stark, Maumenee and others have shown the efficacy of
+triples in open angle glaucoma.
+
+<ICE-SIN:W2A-026#98:1>
+We have found that triples are also effective in primary angle
+closure glaucoma as well.
+
+<ICE-SIN:W2A-026#99:1>
+The patients were reviewed approximately 6 months post surgery.
+
+<ICE-SIN:W2A-026#100:1>
+Technique 1) A fornix based conjunctival flap was used.
+
+<ICE-SIN:W2A-026#101:1>
+2) The superficial trabeculectomy scleral Qap was dissected and the
+partial thickness cataract incision was made.
+
+<ICE-SIN:W2A-026#102:1>
+3) A disposable 25 gauge was used to make the anterior capsulotomy.
+
+<ICE-SIN:W2A-026#103:1>
+4) The deep scleral tissue of the trabeculectomy was then dissected.
+
+<ICE-SIN:W2A-026#104:1>
+5) The wound was extended with corneal scissors.
+
+<ICE-SIN:W2A-026#105:1>
+6) The nucleus was then expressed.
+
+<ICE-SIN:W2A-026#106:1>
+7) The wound was closed with 6 to 8 interrupted 8/O vicryl sutures
+and the cortex was aspirated.
+
+<ICE-SIN:W2A-026#107:1>
+8) The implant was inserted in-the-bag with viscoelastic.
+
+<ICE-SIN:W2A-026#108:1>
+9) The wound was closed with either interrupted or continuous 10/0.
+
+<ICE-SIN:W2A-026#109:1>
+10) The conjunctival Qap was drawn inferiorly and sutured to cover
+the trabeculectomy.
+
+<ICE-SIN:W2A-026#110:1>
+<h> Results and Discussion </h>
+
+<ICE-SIN:W2A-026#111:1>
+In the majority of cases, ie 94%, there was cataract associated with
+uncontrolled glaucoma.
+
+<ICE-SIN:W2A-026#112:1>
+In 2 cases or 6%, the glaucoma was medically well-controlled but
+surgery for cataracts causing poor vision was imminent and it was felt that a
+trabeculectomy would benefit the patient.
+
+<ICE-SIN:W2A-026#113:1>
+Nineteen cases or 54% had pre-operative vision of 6/18 to 6/36 and
+14 cases or 40% had vision 6/60 or worse.
+
+<ICE-SIN:W2A-026#114:1>
+Post-operatively 29 patients or 83% achieved 6/12 or better vision.
+
+<ICE-SIN:W2A-026#115:1>
+Six patients or 17% did not achieve 6/12 or better vision.
+
+<ICE-SIN:W2A-026#116:1>
+These 6 cases were analysed.
+
+<ICE-SIN:W2A-026#117:1>
+Of these 6 cases, one case had a retinal detachment 2 months after
+surgery, I had pre-existing retinal branch vein occlusion with maculopathy
+and 3 had severe glaucomatous field defect affecting fixation.
+
+<ICE-SIN:W2A-026#118:1>
+One case with poor vision was lost to follow-up and we are uncertain
+whether the poor vision was due to pre-existing macular pathology was
+excluded.
+
+<ICE-SIN:W2A-026#119:1>
+29 cases or 83% obtained 6/12 or better vision after surgery.
+
+<ICE-SIN:W2A-026#120:1>
+Regarding the types of glaucoma undergoing triple procedure, 57% of
+cases had primary open angle glaucoma and 23Co had chronic primary angle
+closure glaucoma.
+
+<ICE-SIN:W2A-026#121:1>
+Fourteen percent had acute angle closure glaucoma and 6% had
+secondary glaucoma.
+
+<ICE-SIN:W2A-026#122:1>
+On comparing pre and post-operative intraocular pressure control, we
+find pre-operatively 2 cases or 20% had good control with IOP lower than 20
+mm Hg with medication.
+
+<ICE-SIN:W2A-026#123:1>
+Of those with poor control despite medication, 27 cases or 77% had
+IOP between 21 to 39 mm Hg.
+
+<ICE-SIN:W2A-026#124:1>
+Six cases or 18% had IOP higher than 40 mm Hg.
+
+<ICE-SIN:W2A-026#125:1>
+Postoperatively 33 cases or 94% had IOP lower than 20 mm Hg.
+
+<ICE-SIN:W2A-026#126:1>
+Of this group, 5 cases or 14% were on adjuvant topical beta blocker
+therapy.
+
+<ICE-SIN:W2A-026#127:1>
+Only 2 cases had IOP in the mid-twenties post-operatively and may
+require further surgery. <X>
+
+<ICE-SIN:W2A-026#X128:1>
+The open angle glaucoma cases had an average pre-operative IOP of
+30 mm Hg and an average post-operative pressure of 15 mm Hg.
+
+<ICE-SIN:W2A-026#X129:1>
+This is an average pressure decrease of 15 mm Hg after operation.
+
+<ICE-SIN:W2A-026#X130:1>
+The Primary Chronic angle closure group had an average pre
+operative IOP of 38 mm Hg and an average post-operative IOP of 13 mm Hg.
+
+<ICE-SIN:W2A-026#X131:1>
+This is an average IOP decrease of about 25 mm Hg.
+
+<ICE-SIN:W2A-026#X132:1>
+The acute angle closure group had an average IOP pre op of 32 mm Hg
+and a post op average of 11 mm Hg which is a 21 mm Hg average decrease. </X>
+</I>

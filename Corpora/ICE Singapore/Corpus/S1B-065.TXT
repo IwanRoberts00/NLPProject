@@ -1,0 +1,841 @@
+<I>
+
+<$A> 
+<ICE-SIN:S1B-065#1:1:A>
+You are Sergeant three zero two Saw Eng Hock
+
+<$B> 
+<ICE-SIN:S1B-065#2:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#3:1:A>
+SAW ENG HOCK
+
+<$B> 
+<ICE-SIN:S1B-065#4:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#5:1:A>
+You are attached to the Traffic Accidents Investigation Section
+
+<$B> 
+<ICE-SIN:S1B-065#6:1:B>
+Uhm
+
+<$A> 
+<ICE-SIN:S1B-065#7:1:A>
+All right
+
+<ICE-SIN:S1B-065#8:1:A>
+Where are you attached now
+
+<$B> 
+<ICE-SIN:S1B-065#9:1:B>
+I am now attached to Marine Police
+
+<$A> 
+<ICE-SIN:S1B-065#10:1:A>
+On twenty-eighth of July nineteen eighty-three were you
+attached to the Accident Investigation Section
+
+<$B> 
+<ICE-SIN:S1B-065#11:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#12:1:A>
+Were you informed of an accident involving a motor pick-up at
+Jalan Ahmad Ibrahim in front of Singapore Textile Industries Limited
+
+<$B> 
+<ICE-SIN:S1B-065#13:1:B>
+May I refer to my investigation paper my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#14:1:A>
+Yes
+
+<$B> 
+<ICE-SIN:S1B-065#15:1:B>
+That is true my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#16:1:A>
+What time did you receive the information
+
+<$B> 
+<ICE-SIN:S1B-065#17:1:B>
+Seven nineteen in the morning
+
+<$A> 
+<ICE-SIN:S1B-065#18:1:A>
+Did you go to the scene
+
+<$B> 
+<ICE-SIN:S1B-065#19:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#20:1:A>
+What time did you arrived at the scene
+
+<$B> 
+<ICE-SIN:S1B-065#21:1:B>
+I arrived at the scene eight twenty-five in the morning my
+Lord
+
+<$A> 
+<ICE-SIN:S1B-065#22:1:A>
+After inspecting the scene did you prepare a sketch plan
+
+<$B> 
+<ICE-SIN:S1B-065#23:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#24:1:A>
+Look at page five of this bundle
+
+<ICE-SIN:S1B-065#25:1:A>
+That is your sketch plan and the next page is the key to the plan
+
+<$B> 
+<ICE-SIN:S1B-065#26:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#27:1:A>
+Page four
+
+<ICE-SIN:S1B-065#28:1:A>
+Page four yes
+
+<ICE-SIN:S1B-065#29:1:A>
+I think they put it in my bundle they put it
+
+<ICE-SIN:S1B-065#30:1:A>
+I think your Honour is right
+
+<ICE-SIN:S1B-065#31:1:A>
+It's marked at page four
+
+<ICE-SIN:S1B-065#32:1:A>
+I think it's due to an oversight I think
+
+<ICE-SIN:S1B-065#33:1:A>
+In my bundle it comes to the next page
+
+<ICE-SIN:S1B-065#34:1:A>
+Opposite to that page is the key on the left-hand side
+
+<$B> 
+<ICE-SIN:S1B-065#35:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#36:1:A>
+And the damage to the vehicle involved is at page six
+
+<$B> 
+<ICE-SIN:S1B-065#37:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#38:1:A>
+Do you agree it is a straight stretch of road
+
+<$B> 
+<ICE-SIN:S1B-065#39:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#40:1:A>
+And there were no brake marks
+
+<$B> 
+<ICE-SIN:S1B-065#41:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#42:1:A>
+And you found only the scratch marks as will be seen from F
+one to C
+
+<$B> 
+<ICE-SIN:S1B-065#43:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#44:1:A>
+The two scratch marks
+
+<ICE-SIN:S1B-065#45:1:A>
+And did you find any evidence of this vehicle hitting the road
+divider or a tree on the road divider
+
+<$B> 
+<ICE-SIN:S1B-065#46:1:B>
+No my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#47:1:A>
+The Defendant Bee Hua Meng was the driver of the pick-up am I
+right
+
+<$B> 
+<ICE-SIN:S1B-065#48:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#49:1:A>
+And there was one passenger seated next to the driver
+
+<ICE-SIN:S1B-065#50:1:A>
+His name is Ching Thian Wah am I right
+
+<$B> 
+<ICE-SIN:S1B-065#51:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#52:1:A>
+The driver was the Defendant your Honour
+
+<ICE-SIN:S1B-065#53:1:A>
+Bee Hua Meng the Defendant
+
+<ICE-SIN:S1B-065#54:1:A>
+And the front seat passenger was the employer of the driver namely
+Ching C H I N G Thian T H I A N Wah W A H
+
+<ICE-SIN:S1B-065#55:1:A>
+And this Mr Ching was the employer of the driver as well as the
+other persons in the pick-up who had carried on at the time
+
+<$B> 
+<ICE-SIN:S1B-065#56:1:B>
+That is correct my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#57:1:A>
+How many of them were in the van at the time
+
+<$B> 
+<ICE-SIN:S1B-065#58:1:B>
+There were nine passengers
+
+<$A> 
+<ICE-SIN:S1B-065#59:1:A>
+Nine passengers at the back apart from the driver and Ching in
+the front right
+
+<$B> 
+<ICE-SIN:S1B-065#60:1:B>
+Wait I check up
+
+<ICE-SIN:S1B-065#61:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#62:1:A>
+And one of the passengers was Ooi Han Sun
+
+<ICE-SIN:S1B-065#63:1:A>
+That's the First Plaintiff
+
+<$B> 
+<ICE-SIN:S1B-065#64:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#65:1:A>
+Another passenger was Chua Peung Yang who was killed in the
+accident
+
+<$B> 
+<ICE-SIN:S1B-065#66:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#67:1:A>
+At the time of the accident what was the condition of the
+weather and visibility and the traffic condition
+
+<$B> 
+<ICE-SIN:S1B-065#68:1:B>
+The weather was fine road surface was dry visibility was clear
+
+<$A> 
+<ICE-SIN:S1B-065#69:1:A>
+And the traffic
+
+<$B> 
+<ICE-SIN:S1B-065#70:1:B>
+And the flow of traffic was moderate
+
+<ICE-SIN:S1B-065#71:1:B>
+Road surface was dry my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#72:1:A>
+And the traffic was moderate
+
+<$B> 
+<ICE-SIN:S1B-065#73:1:B>
+Moderate my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#74:1:A>
+Moderate yes my Lord
+
+<ICE-SIN:S1B-065#75:1:A>
+Did you appeal for eye witnesses
+
+<$B> 
+<ICE-SIN:S1B-065#76:1:B>
+Yes my Lord
+
+<ICE-SIN:S1B-065#77:1:B>
+No one responded
+
+<$A> 
+<ICE-SIN:S1B-065#78:1:A>
+Eye witnesses mean independent eye witnesses
+
+<ICE-SIN:S1B-065#79:1:A>
+No one responded
+
+<ICE-SIN:S1B-065#80:1:A>
+No further questions my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#81:1:C>
+Sergeant can we refer to A B five the sketch plan
+
+<ICE-SIN:S1B-065#82:1:C>
+You've drawn on the sketch plan the scratch mark at F one E one
+
+<ICE-SIN:S1B-065#83:1:C>
+Can you tell us what caused the scratch mark on the road
+
+<$B> 
+<ICE-SIN:S1B-065#84:1:B>
+It may be caused by the scratching the body of the pick-up
+
+<$C> 
+<ICE-SIN:S1B-065#85:1:C>
+Can you tell us where does the scratch mark lead to
+
+<ICE-SIN:S1B-065#86:1:C>
+Which part of the pick-up does the scratch mark lead to
+
+<$B> 
+<ICE-SIN:S1B-065#87:1:B>
+It lead to the pick-up the vehicle the
+
+<$C> 
+<ICE-SIN:S1B-065#88:1:C>
+Are you able to say which part of the pick-up
+
+<$B> 
+<ICE-SIN:S1B-065#89:1:B>
+The roof the roof of the pick-up
+
+<$C> 
+<ICE-SIN:S1B-065#90:1:C>
+Well I'm trying to lead him to that yes
+
+<ICE-SIN:S1B-065#91:1:C>
+If he's able to tell us that
+
+<ICE-SIN:S1B-065#92:1:C>
+Then is it the railings that were behind the pick-up
+
+<$B> 
+<ICE-SIN:S1B-065#93:1:B>
+I cannot recall
+
+<ICE-SIN:S1B-065#94:1:B>
+I cannot recall
+
+<$C> 
+<ICE-SIN:S1B-065#95:1:C>
+Or can you tell us the scratch mark that leads to the part of
+the pick-up
+
+<ICE-SIN:S1B-065#96:1:C>
+Is it behind the cabin the driver's cabin
+
+<$B> 
+<ICE-SIN:S1B-065#97:1:B>
+I cannot recall
+
+<$C> 
+<ICE-SIN:S1B-065#98:1:C>
+Okay
+
+<ICE-SIN:S1B-065#99:1:C>
+You said earlier that no evidence that there were any that the
+pick-up hit the curb
+
+<ICE-SIN:S1B-065#100:1:C>
+But Sergeant you only arrived at the scene about one hour after
+the accident and
+
+<$B> 
+<ICE-SIN:S1B-065#101:1:B>
+Yes my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#102:1:C>
+And the sketch plan reflects the position of the vehicle
+after the accident
+
+<$B> 
+<ICE-SIN:S1B-065#103:1:B>
+Yes my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#104:1:C>
+So am I correct to say that you will not be able to tell us
+what happened
+
+<ICE-SIN:S1B-065#105:1:C>
+How the accident took place
+
+<$B> 
+<ICE-SIN:S1B-065#106:1:B>
+Yes my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#107:1:C>
+So can I say that it is also likely that the pickup may have
+collided with the curb the divider the centre divider
+
+<$B> 
+<ICE-SIN:S1B-065#108:1:B>
+Yes my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#109:1:C>
+From your investigations did any of the passengers that were
+seated behind the pick-up tell you whether they were able to say what
+happened what caused the accident
+
+<$B> 
+<ICE-SIN:S1B-065#110:1:B>
+They were unable to tell my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#111:1:C>
+They were unable to tell
+
+<ICE-SIN:S1B-065#112:1:C>
+Was the passenger in front seated in front able to give you an
+account of what happened
+
+<$B> 
+<ICE-SIN:S1B-065#113:1:B>
+Yes my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#114:1:C>
+You inspected the pick-up after the accident
+
+<ICE-SIN:S1B-065#115:1:C>
+Are you able to say that from the damage to the pickup it is
+consistent with to the front of the pick-up
+
+<ICE-SIN:S1B-065#116:1:C>
+It is consistent with it colliding into something into a divider
+for example from the damage caused to the pick-up
+
+<$B> 
+<ICE-SIN:S1B-065#117:1:B>
+I'm unable to tell you my Lord
+
+<ICE-SIN:S1B-065#118:1:B>
+I'm unable to tell my Lord
+
+<$B> 
+<ICE-SIN:S1B-065#119:1:B>
+Unable to tell
+
+<$C> 
+<ICE-SIN:S1B-065#120:1:C>
+Could you have a look at the damage report at page A B six
+
+<ICE-SIN:S1B-065#121:1:C>
+In particular could you look at the damage to the front right
+portion of the pick-up
+
+<ICE-SIN:S1B-065#122:1:C>
+The front right signal light broken
+
+<ICE-SIN:S1B-065#123:1:C>
+Right front fender slightly dented
+
+<ICE-SIN:S1B-065#124:1:C>
+Right passenger's door windscreen glass broken
+
+<ICE-SIN:S1B-065#125:1:C>
+From the damage to the right side of the vehicle would you say
+that it's consistent with it colliding into the divider the centre divider
+
+<$B> 
+<ICE-SIN:S1B-065#126:1:B>
+I was unable to tell my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#127:1:C>
+Okay one more question
+
+<ICE-SIN:S1B-065#128:1:C>
+Now if I may just bring you back to the scratch marks
+
+<ICE-SIN:S1B-065#129:1:C>
+You see that it leads to the pick-up
+
+<ICE-SIN:S1B-065#130:1:C>
+Am I correct to say it only leads to the right to the right
+portion of the pick-up
+
+<ICE-SIN:S1B-065#131:1:C>
+It ends there the right side of the pick-up
+
+<ICE-SIN:S1B-065#132:1:C>
+The left side sorry the left side of the pick-up
+
+<ICE-SIN:S1B-065#133:1:C>
+My apologies
+
+<$B> 
+<ICE-SIN:S1B-065#134:1:B>
+I cannot confirm my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#135:1:C>
+Sorry
+
+<ICE-SIN:S1B-065#136:1:C>
+I was trying to ascertain from him whether the scratch marks which
+part of the pick-up
+
+<ICE-SIN:S1B-065#137:1:C>
+He said it led to the pick-up but in particular which part of the
+pick
+
+<ICE-SIN:S1B-065#138:1:C>
+Was it only to the right
+
+<ICE-SIN:S1B-065#139:1:C>
+It ends at the right side of the pick-up which is overturned on
+the plan
+
+<ICE-SIN:S1B-065#140:1:C>
+Sorry on the left side of the pick-up which is overturned
+
+<ICE-SIN:S1B-065#141:1:C>
+It ends I just want to ascertain from him whether it ends there
+
+<$A> 
+<ICE-SIN:S1B-065#142:1:A>
+If I may be of assistance to the court your Honour
+
+<ICE-SIN:S1B-065#143:1:A>
+I have the photographer with the photographs
+
+<ICE-SIN:S1B-065#144:1:A>
+That shows more clearly with the position of the vehicle
+
+<ICE-SIN:S1B-065#145:1:A>
+If it can be shown to the Sergeant because this happened many
+years ago
+
+<ICE-SIN:S1B-065#146:1:A>
+May I ask the photographer to come in and release the photographs
+my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#147:1:A>
+Hussein Mohammed Hussein P C seven eight three two
+
+<ICE-SIN:S1B-065#148:1:A>
+Subject to his Lordship's permission would we be able to produce
+the photographs to this Witness
+
+<ICE-SIN:S1B-065#149:1:A>
+Yes
+
+<ICE-SIN:S1B-065#150:1:A>
+May he be permitted to wait inside my Lord
+
+<ICE-SIN:S1B-065#151:1:A>
+If my learned friend has no objection subject to your Lordship's
+
+<ICE-SIN:S1B-065#152:1:A>
+Overturned yes
+
+<ICE-SIN:S1B-065#153:1:A>
+There are other pictures which are more clearer my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#154:1:C>
+Sergeant
+
+<ICE-SIN:S1B-065#155:1:C>
+Now that you've had a look at the photographs
+
+<ICE-SIN:S1B-065#156:1:C>
+Can you tell us whether the scratch mark ends on the left side of
+the vehicle
+
+<$B> 
+<ICE-SIN:S1B-065#157:1:B>
+My Lord the scratch part that is leading to the pick-up
+
+<ICE-SIN:S1B-065#158:1:B>
+I am not sure whether it's left or right side
+
+<$C> 
+<ICE-SIN:S1B-065#159:1:C>
+Well sergeant
+
+<ICE-SIN:S1B-065#160:1:C>
+Can you look at the sketch plan again
+
+<ICE-SIN:S1B-065#161:1:C>
+You have drawn the sketch mark as it appears to end on the left
+side of the pick-up
+
+<$B> 
+<ICE-SIN:S1B-065#162:1:B>
+There are two scratch mark there one lead to the more or less
+the centre of the centre part and the other one on the left side
+
+<$C> 
+<ICE-SIN:S1B-065#163:1:C>
+Could you tell us which one leads to where
+
+<$B> 
+<ICE-SIN:S1B-065#164:1:B>
+This one leads to the centre
+
+<$A> 
+<ICE-SIN:S1B-065#165:1:A>
+Which one
+
+<$B> 
+<ICE-SIN:S1B-065#166:1:B>
+This one centre C F
+
+<$A> 
+<ICE-SIN:S1B-065#167:1:A>
+No which one are you pointing to
+
+<$B> 
+<ICE-SIN:S1B-065#168:1:B>
+My Lord based on the photograph and the sketch plan that I
+draw I cannot recall anything
+
+<$C> 
+<ICE-SIN:S1B-065#169:1:C>
+Sorry what's your answer
+
+<ICE-SIN:S1B-065#170:1:C>
+Are you saying that one of them you are saying that one of them
+leads to the
+
+<$B> 
+<ICE-SIN:S1B-065#171:1:B>
+One the scratch mark leading to the left and one to the
+centre
+
+<$C> 
+<ICE-SIN:S1B-065#172:1:C>
+From the photographs
+
+<$B> 
+<ICE-SIN:S1B-065#173:1:B>
+From the photographs yes my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#174:1:C>
+From your investigations can you tell us with reference to
+the sketch plan
+
+<ICE-SIN:S1B-065#175:1:C>
+At which part of the road did the pick-up overturned
+
+<$B> 
+<ICE-SIN:S1B-065#176:1:B>
+The pick-up was lying on the centre lane my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#177:1:C>
+No
+
+<ICE-SIN:S1B-065#178:1:C>
+Actually what I wanted was
+
+<ICE-SIN:S1B-065#179:1:C>
+Sergeant can you indicate perhaps on the sketch plan where the
+pick-up started
+
+<ICE-SIN:S1B-065#180:1:C>
+Where did it start to overturn
+
+<$B> 
+<ICE-SIN:S1B-065#181:1:B>
+I am not able to tell my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#182:1:C>
+Yes I will sir
+
+<ICE-SIN:S1B-065#183:1:C>
+Okay finally you inspected the pick-up after the accident
+
+<$B> 
+<ICE-SIN:S1B-065#184:1:B>
+Yes my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#185:1:C>
+Was it in road worthy condition
+
+<ICE-SIN:S1B-065#186:1:C>
+Actually I am referring to the inspection of the because normally
+after the accident they inspect the vehicle to see if there is any defect
+
+<ICE-SIN:S1B-065#187:1:C>
+Blatant defect or anything that would whether the vehicle was in
+fact road worthy before the accident
+
+<ICE-SIN:S1B-065#188:1:C>
+I believe they have a report
+
+<ICE-SIN:S1B-065#189:1:C>
+I am not too sure he would be
+
+<ICE-SIN:S1B-065#190:1:C>
+It is the subsequent inspection that I am referring to
+
+<ICE-SIN:S1B-065#191:1:C>
+Yes I believe he has a report
+
+<$B> 
+<ICE-SIN:S1B-065#192:1:B>
+No no my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#193:1:C>
+Okay
+
+<ICE-SIN:S1B-065#194:1:C>
+Were any defects were you informed of any defects to the pick-up
+
+<$B> 
+<ICE-SIN:S1B-065#195:1:B>
+There is no defect my Lord
+
+<$C> 
+<ICE-SIN:S1B-065#196:1:C>
+I don't know whether my learned friend will agree
+
+<ICE-SIN:S1B-065#197:1:C>
+Unless my learned friend objects to the admission of that document
+
+<ICE-SIN:S1B-065#198:1:C>
+Perhaps we could have it
+
+<ICE-SIN:S1B-065#199:1:C>
+Of the inspection report
+
+<ICE-SIN:S1B-065#200:1:C>
+We could have it admitted and save the calling of the witness
+
+<$A> 
+<ICE-SIN:S1B-065#201:1:A>
+I have no objection your Honour
+
+<$C> 
+<ICE-SIN:S1B-065#202:1:C>
+Sorry
+
+<ICE-SIN:S1B-065#203:1:C>
+I think may be he has a copy
+
+<ICE-SIN:S1B-065#204:1:C>
+Could you show your honour the copy of the inspection report of
+the whatever report you have
+
+<ICE-SIN:S1B-065#205:1:C>
+We will make copies of it afterwards your Honour
+
+<ICE-SIN:S1B-065#206:1:C>
+Could that be admitted
+
+<ICE-SIN:S1B-065#207:1:C>
+I think that's all your Honour
+
+<$A> 
+<ICE-SIN:S1B-065#208:1:A>
+Sergeant even though you arrived at the scene about an hour
+after the accident the scene was preserved by the first police officer who
+arrived from Jurong Police Station
+
+<$B> 
+<ICE-SIN:S1B-065#209:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#210:1:A>
+Was there any damage to the tyres of the vehicle to indicate
+that it mounted the road divider or the curb before hitting the tree
+
+<$B> 
+<ICE-SIN:S1B-065#211:1:B>
+No my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#212:1:A>
+Was there any scratch mark or any damaged sign to the road
+curb around the vicinity
+
+<$B> 
+<ICE-SIN:S1B-065#213:1:B>
+No my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#214:1:A>
+I have only one last question
+
+<ICE-SIN:S1B-065#215:1:A>
+I will leave it to your Lordship to decide it if I am allowed to
+ask
+
+<ICE-SIN:S1B-065#216:1:A>
+I will ask because he may not be an expert
+
+<ICE-SIN:S1B-065#217:1:A>
+I will ask him if your Lordship would allow me
+
+<ICE-SIN:S1B-065#218:1:A>
+You have investigated many of these accidents
+
+<$B> 
+<ICE-SIN:S1B-065#219:1:B>
+Yes my Lord
+
+<$A> 
+<ICE-SIN:S1B-065#220:1:A>
+And if a vehicle travel at about forty kilometres even if
+there was some swerving action if he did turn right would he end up in that
+position with an overturned vehicle shown in the photographs
+
+<$B> 
+<ICE-SIN:S1B-065#221:1:B>
+I am unable to tell my Lord </I>

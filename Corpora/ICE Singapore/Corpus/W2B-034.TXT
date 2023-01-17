@@ -1,0 +1,494 @@
+<I>
+
+<ICE-SIN:W2B-034#1:1>
+<h> Making connections What to look for when buying a modem </h>
+
+<ICE-SIN:W2B-034#2:1>
+by CHENG CHEE SENG
+
+<ICE-SIN:W2B-034#3:1>
+When buying a modem, you need to consider features like the
+transmission speed, standards and reliability.
+
+<ICE-SIN:W2B-034#4:1>
+Speed or baud rate refers to the speed at which data in bits are
+transmitted per second.
+
+<ICE-SIN:W2B-034#5:1>
+The slowest is the 1200 bps modem and the fastest is 14,400 bps.
+
+<ICE-SIN:W2B-034#6:1>
+As a rough guide, at 1200 bps, transmitting an A4 page of text takes
+about 40 seconds; 20 seconds with a 2400 bps modem; five with a 9600 bps
+modem; and just two seconds flat at 14,400 bps.
+
+<ICE-SIN:W2B-034#7:1>
+Things could he speeded up if the document is compressed to a fraction
+of its size.
+
+<ICE-SIN:W2B-034#8:1>
+Or slowed down by the modem's error-correction facilities which
+detects transmission errors and automatically orders a re-transmission, which
+could double or treble the transmission time.
+
+<ICE-SIN:W2B-034#9:1>
+<h> Standards </h>
+
+<ICE-SIN:W2B-034#10:1>
+There are two worldwide standards for modems.
+
+<ICE-SIN:W2B-034#11:1>
+One is CCITT ( Comite Consultatif International Telephonique) and the
+other MNP ( Microcom Network Protocol).
+
+<ICE-SIN:W2B-034#12:1>
+For simple data transmission you will need a modem that is built to
+comply with CCITT V.21 ( 1200 bps) or CCITT V.22bis ( 2400 bps).
+
+<ICE-SIN:W2B-034#13:1>
+For faxmodems, CCITT V.27 means that it is a fax modem and faxes are
+sent at 4800 bps while data is at 2400 bps.
+
+<ICE-SIN:W2B-034#14:1>
+CCITT V.29 tells you that the modem will fax at 9600 bps and transmit
+data at 7200 bps.
+
+<ICE-SIN:W2B-034#15:1>
+The latest standard in error correction is MNP 5 that has a data
+compression rate of 2:1.
+
+<ICE-SIN:W2B-034#16:1>
+That means data are first compressed to half its original size before
+transmitting.
+
+<ICE-SIN:W2B-034#17:1>
+If the modem also complies with CCITT V.42bis, data compression is
+4:1.
+
+<ICE-SIN:W2B-034#18:1>
+But note that for all that to happen, both the sending and receiving
+modems must comply with the same standards.
+
+<ICE-SIN:W2B-034#19:1>
+<h> Internal or external? </h>
+
+<ICE-SIN:W2B-034#20:1>
+An external modem has a row of lights that keep the user informed of
+the status of transmission.
+
+<ICE-SIN:W2B-034#21:1>
+It is connected to the computer through a cable.
+
+<ICE-SIN:W2B-034#22:1>
+The external modem can also be switched from one computer to another.
+
+<ICE-SIN:W2B-034#23:1>
+Pocketable modems, about the size of a chocolate bar, are especially
+good for this as they have features as the desktop modems and are portable.
+
+<ICE-SIN:W2B-034#24:1>
+For example, a user can unplug one from the office computer for use
+on his home computer over the weekend.
+
+<ICE-SIN:W2B-034#25:1>
+An internal modem is a bare printed circuit board with all the
+components visible and is fitted inside the computer.
+
+<ICE-SIN:W2B-034#26:1>
+It is simple to install and does not add to cables and devices
+attached to the computer.
+
+<ICE-SIN:W2B-034#27:1>
+However, it takes up a valuable slot space that may be needed for
+other card-devices like a Windows Accelerator or Network card.
+
+<ICE-SIN:W2B-034#28:1>
+Also, it adds to the heat generated from the electronics inside.
+
+<ICE-SIN:W2B-034#29:1>
+<h> Fax modems </h>
+
+<ICE-SIN:W2B-034#30:1>
+These allow you to fax computer generated documents along with any
+graphics without having to print it out first, a boon when on the road.
+
+<ICE-SIN:W2B-034#31:1>
+Fax modems cost as little as
+&dollar;300, about half the price of most basic desktop fax machines.
+
+<ICE-SIN:W2B-034#32:1>
+They also come with background sending and receiving features.
+
+<ICE-SIN:W2B-034#33:1>
+That means faxes can be received and automatically stored or sent as
+soon as the fax line is free.
+
+<ICE-SIN:W2B-034#34:1>
+Imagine being able to read a proposal, add in some amendments and
+then send them simultaneously to the legal, advertising and managing
+director, all with a few keystrokes. </I>
+
+<I>
+
+<ICE-SIN:W2B-034#35:2>
+<h> Microsoft's Database for non-programmers No computer degree
+required for effective use </h>
+
+<ICE-SIN:W2B-034#36:2>
+By YEONG AH SENG
+
+<ICE-SIN:W2B-034#37:2>
+Microsoft's Access is the latest relational database program to enter
+an already crowded market.
+
+<ICE-SIN:W2B-034#38:2>
+Priced at an aggressive
+&dollar;199 ( introductory offer only), it is likely to give cause for worry to
+rivals like Borland.
+
+<ICE-SIN:W2B-034#39:2>
+Like all other Microsoft products, setting up Access is easy.
+
+<ICE-SIN:W2B-034#40:2>
+Just insert " Disk One" into the disk drive and activate " SETUP.EXE"
+from the program manager and follow the instructions after that.
+
+<ICE-SIN:W2B-034#41:2>
+A complete installation took up 15 megabytes of disk space, which is
+typical of most Windows programs.
+
+<ICE-SIN:W2B-034#42:2>
+Access, unlike other database programs, manages the separate files
+that makes up a database system into a group.
+
+<ICE-SIN:W2B-034#43:2>
+Instead of using cryptic names like " seta.idx" and " seta.dbf",
+Access allows you to use plain English to describe your database; files like
+" Students" and " Grades".
+
+<ICE-SIN:W2B-034#44:2>
+This is a very useful feature as it simplifies developing database
+systems.
+
+<ICE-SIN:W2B-034#45:2>
+Having set up the database, Access lets you enter information in a
+columnar format.
+
+<ICE-SIN:W2B-034#46:2>
+In this view, it is pretty much like a spreadsheet, allowing you to
+resize the columns to view more information.
+
+<ICE-SIN:W2B-034#47:2>
+What is missing, however, is the ability to resize columns to the
+optimum size.
+
+<ICE-SIN:W2B-034#48:2>
+Microsoft should have included this feature like they did in Excel
+4.0.
+
+<ICE-SIN:W2B-034#49:2>
+You can also create custom forms for data entry.
+
+<ICE-SIN:W2B-034#50:2>
+Microsoft has included a very nice built-in utility to let you create
+great looking forms quickly and easily.
+
+<ICE-SIN:W2B-034#51:2>
+Access also provides buttons for browsing records.
+
+<ICE-SIN:W2B-034#52:2>
+The buttons are, however, too small and too spaced apart to be
+conveniently used.
+
+<ICE-SIN:W2B-034#53:2>
+The query feature is good but rather awkward to use.
+
+<ICE-SIN:W2B-034#54:2>
+I had to save the query first in order to change it.
+
+<ICE-SIN:W2B-034#55:2>
+What Microsoft could have done is to implement a split window to
+allow the user to simultaneously view the query and the result together at
+the same time.
+
+<ICE-SIN:W2B-034#56:2>
+I usually make more than one query at a time, so it was rather
+inconvenient.
+
+<ICE-SIN:W2B-034#57:2>
+Access was somewhat sluggish on my 4 MB 386/25 with a Quantum 105 Mb
+IDE hard disk and frequently accesses the hard disk.
+
+<ICE-SIN:W2B-034#58:2>
+Access is a good database product with very neat features like Cue
+Cards to guide me in my database creation and usage.
+
+<ICE-SIN:W2B-034#59:2>
+Relating databases was just a matter of clicking and dragging the
+primary field of one table to another.
+
+<ICE-SIN:W2B-034#60:2>
+Forms can also be created to view information from related tables
+simultaneously.
+
+<ICE-SIN:W2B-034#61:2>
+The program also lets you create macros and programs to automate your
+databases.
+
+<ICE-SIN:W2B-034#62:2>
+Overall, I find that Access is useful and promising program, if
+Microsoft will trim it down a little to make it faster; make use of more "
+checkboxes" than " drop menus" to make it easier to change field types and
+give more thought to the user interface.
+
+<ICE-SIN:W2B-034#63:2>
+Or perhaps I just may need more powerful hardware. </I>
+
+<I>
+
+<ICE-SIN:W2B-034#64:3>
+<h> Compaq's colour Contura goes 486 </h>
+
+<ICE-SIN:W2B-034#65:3>
+By JANET TAN
+
+<ICE-SIN:W2B-034#66:3>
+Over the past few years, I have been using laptops and notebooks,
+upgrading every 9-12 months.
+
+<ICE-SIN:W2B-034#67:3>
+I using the Compaq 3/25 when offered the opportunity to use a Compaq
+Contura 4/25CX recently, and it is the most satisfying to date.
+
+<ICE-SIN:W2B-034#68:3>
+As it turned out, I found little difference between the Compaq LTE
+Lite 4/25C and the new Compaq Contura 4/25 CX, with the exception of the
+price, the looks and the former's option of a docking station to house
+additional peripherals.
+
+<ICE-SIN:W2B-034#69:3>
+With its 486 SL chip and 120MB hard disk, the CX can satisfy the
+appetite for today's powerful software requirements of the mobile executive.
+
+<ICE-SIN:W2B-034#70:3>
+Adding a new active matrix colour display to it certainly makes
+graphical software much easier to use.
+
+<ICE-SIN:W2B-034#71:3>
+I particularly like the built-in trackball - a near-mandatory
+requirement if you ever use Windows.
+
+<ICE-SIN:W2B-034#72:3>
+No more external mouse connected to the serial port - a real
+inconvenience if you are on the move.
+
+<ICE-SIN:W2B-034#73:3>
+Most other built-in track-ball configurations that I have seen tend
+to be situated in the centre or below the keyboard.
+
+<ICE-SIN:W2B-034#74:3>
+While these do not discriminate against left or right handers, it is
+probably neither convenient to both.
+
+<ICE-SIN:W2B-034#75:3>
+The keyboard is sufficiently silent without losing that touch and
+feel so necessary to know you have hit a key.
+
+<ICE-SIN:W2B-034#76:3>
+The " silent" clicking sound of the keyboard and alarm when you close
+the screen makes the machine less of an attention getter especially when you
+use it in a meeting.
+
+<ICE-SIN:W2B-034#77:3>
+The slimmer keyboard compared with the LTE Lite 4/25C, makes typing
+more comfortable and less strenuous.
+
+<ICE-SIN:W2B-034#78:3>
+The notebook's batteries are now slimmer, and the Hibernation feature
+and improved Nickel Metal ( NiMH) type is supposed to help with power
+management.
+
+<ICE-SIN:W2B-034#79:3>
+But each battery still lasts only slightly more than two hours,
+unfortunately.
+
+<ICE-SIN:W2B-034#80:3>
+For me, this means three battery packs to get any decent usage on
+those long plane journeys.
+
+<ICE-SIN:W2B-034#81:3>
+There are various power management/conservation utilities which I did
+not have the time to explore.
+
+<ICE-SIN:W2B-034#82:3>
+The Hibernation feature is neat in that you can place a mark to save
+your work and power off.
+
+<ICE-SIN:W2B-034#83:3>
+Hibernation comes on automatically when the power is low.
+
+<ICE-SIN:W2B-034#84:3>
+In addition, there is the new, slimmer AC dual-voltage pack to power
+up the system and to recharge the batteries at the same time.
+
+<ICE-SIN:W2B-034#85:3>
+Recharging also appears to be faster than previous machines.
+
+<ICE-SIN:W2B-034#86:3>
+The black-coloured design is sexier than the LTE Lite 4/25C.
+
+<ICE-SIN:W2B-034#87:3>
+The CX carries a three-year worldwide guarantee and pre-installed
+MS-DOS and MS Windows.
+
+<ICE-SIN:W2B-034#88:3>
+At a suggested retail price of S&dollar;6,152, the Contura does stand very
+competitively with other similar offerings. </I>
+
+<I>
+
+<ICE-SIN:W2B-034#89:4>
+<h> Unix six take on Windows NT power As the battle is joined between
+flexibility and power, who will emerge the winner? </h>
+
+<ICE-SIN:W2B-034#90:4>
+by Grace Chng
+
+<ICE-SIN:W2B-034#91:4>
+Computer vendors are gearing up to meet the challenge posed by the
+impending launch by Microsoft of its much publicised Windows NT operating
+system.
+
+<ICE-SIN:W2B-034#92:4>
+The six computer vendors - Hewlett-Packard, IBM, the Santa Cruz
+Operation, Sun Microsystems, Univel and Unix System Laboratories - have
+agreed to adopt a common set of technologies that will result in software
+being truly interchangeable on their machines.
+
+<ICE-SIN:W2B-034#93:4>
+Coincidentally, Microsoft held a sneak preview of Windows NT in
+Singapore just before the global announcement of the six.
+
+<ICE-SIN:W2B-034#94:4>
+Windows NT expects to deliver the power that is needed for
+large-scale complex computing functions that used to be carried out on large
+computers like mini computers.
+
+<ICE-SIN:W2B-034#95:4>
+Therein lies the threat to vendors like the six who have banded
+together.
+
+<ICE-SIN:W2B-034#96:4>
+They supply organisations with powerful computing systems that can
+replace bigger computers known as minicomputers and mainframes.
+
+<ICE-SIN:W2B-034#97:4>
+Applications on these big computers run Unix, an operating system
+which allows applications, like payroll and database, to be used on any - -
+almost any - - type of hardware supplied by them.
+
+<ICE-SIN:W2B-034#98:4>
+Windows NT promises to deliver these applications on PCs and
+workstations that are based on DOS and some Unix programs.
+
+<ICE-SIN:W2B-034#99:4>
+The cooperation of the six vendors mean that their hardware will use
+the same technologies based on the Unix environment.
+
+<ICE-SIN:W2B-034#100:4>
+To users, they can mix and match the hardware and software of their
+choice.
+
+<ICE-SIN:W2B-034#101:4>
+Software developers now know which technologies to use to write
+their applications programs.
+
+<ICE-SIN:W2B-034#102:4>
+Users will benefit from this as the cost of software will fall as
+developers need not write separate versions for different hardware platforms.
+
+<ICE-SIN:W2B-034#103:4>
+Previously, Unix applications were not truly interchangeable.
+
+<ICE-SIN:W2B-034#104:4>
+They had to be fine-tuned to ensure that they can run on different
+hardware platforms.
+
+<ICE-SIN:W2B-034#105:4>
+Currently, Microsoft, the world's largest software company, has a
+stranglehold over the PC software market.
+
+<ICE-SIN:W2B-034#106:4>
+With Widows NT, Microsoft seeks to extend its influence to the
+high-end computing arena.
+
+<ICE-SIN:W2B-034#107:4>
+The six vendors have received the endorsement of many other hardware
+and software companies.
+
+<ICE-SIN:W2B-034#108:4>
+They include Computer Associates, Convex Computer, Fujitsu, Hitachi,
+ICL, Ingres, Oki Eletric Industry, Oracle, Samsung, Siemens-Nixdorf, Stratus
+Computer, Unisys and Autodesk.
+
+<ICE-SIN:W2B-034#109:4>
+However, Hewlett-Packard, which initiated this move about a year, is
+not closing its doors on Windows NT.
+
+<ICE-SIN:W2B-034#110:4>
+Said Mr Paul Chan, managing director of HP Sales ( Singapore):Buyers
+vote with their money.
+
+<ICE-SIN:W2B-034#111:4>
+" If they prefer Windows NT, then we will ensure that our hardware
+can run Windows NT". </I>
+
+<I>
+
+<ICE-SIN:W2B-034#112:5>
+<h> Digital music Minidisc style </h> Originating from Japan, land
+of the coolest electronic gadgets, is the sharp MD-MS701.
+
+<ICE-SIN:W2B-034#113:5>
+It's tiny, square, and ultra-cool.
+
+<ICE-SIN:W2B-034#114:5>
+Retailing at
+&dollar;499, this is the ultimate cool accessory for the musically-inclined.
+
+<ICE-SIN:W2B-034#115:5>
+It plays and records, and comes with enough editing options to make
+a Sasha/Digweed/Warren/Fontaine wannabe happy ( moving, joining, splitting
+and deleting tracks).
+
+<ICE-SIN:W2B-034#116:5>
+What's more, the controls are well thought-out and easy to use.
+
+<ICE-SIN:W2B-034#117:5>
+The remote control's design is also something all portable MD
+players should emulate: it has got a head-phone jack so you can use any
+headphones you desire.
+
+<ICE-SIN:W2B-034#118:5>
+It's finally cool to be square. </I>
+
+<I>
+
+<ICE-SIN:W2B-034#119:6>
+<h> Motorola StarTac X </h>
+
+<ICE-SIN:W2B-034#120:6>
+Come June, the StarTac will get even smaller with the new and
+improved StarTac X.
+
+<ICE-SIN:W2B-034#121:6>
+Compared to the current StarTac 90, the " X" model is smaller and
+lighter by 15%, uses the small SIM card, has a new " silky texture" finish (
+including a gold bat wing logo), and has a longer talk and standby time.
+
+<ICE-SIN:W2B-034#122:6>
+The " X" model also retains the vibration mode for registering
+incoming calls, while offering enough features for anybody to be happy. <X>
+
+<ICE-SIN:W2B-034#X123:6>
+Can mobiles get any smaller? </X> </I>

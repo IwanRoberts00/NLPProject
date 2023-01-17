@@ -1,0 +1,437 @@
+<I>
+
+<ICE-SIN:W2A-039#1:1>
+<h> AN INTEGRATED TOOL FOR DISTRIBUTION SYSTEM OPERATIONAL PLANNING
+AND RESTORATION </h>
+
+<ICE-SIN:W2A-039#2:1>
+Teo Cheng Yu, FIEE
+
+<ICE-SIN:W2A-039#3:1>
+School of Electrical and Electronic Engineering
+
+<ICE-SIN:W2A-039#4:1>
+Nanyang Technological University
+
+<ICE-SIN:W2A-039#5:1>
+Nanyang Avenue, Singapore 2263
+
+<ICE-SIN:W2A-039#6:1>
+<h> 1 INTRODUCTION </h>
+
+<ICE-SIN:W2A-039#7:1>
+Load flow, short circuit calculation and protective relay
+co-ordination are separate tools most commonly used for power distribution
+system operational planning.
+
+<ICE-SIN:W2A-039#8:1>
+However, these programs are normally run one at a time repeatedly, and
+it is not convenient to simulate switching operation interactively.
+
+<ICE-SIN:W2A-039#9:1>
+For severe overloading that results in cascaded tripping across he
+network, normal load flow program may not be able to handle due to too many
+isolated nodes and split networks.
+
+<ICE-SIN:W2A-039#10:1>
+Furthermore, in an interconnected distribution network, it is very
+difficult to determine the appropriate setting of the overcurrent relays [ 1]
+to ensure that only the selected equipment should operate to isolate the
+fault in the system so as to affect minimum interruption to consumers.
+
+<ICE-SIN:W2A-039#11:1>
+This paper introduces a microcomputer-based interactive distribution
+system simulator which provides an integrated tool with full graphic features
+and SCADA type of operating environment for engineers to perform conveniently
+the complete task of operational planning in one single process.
+
+<ICE-SIN:W2A-039#12:1>
+In additional to the built-in automated L load flow, automated fault
+current calculation, it integrates the modelling of protective relay,
+calculation of tripping time and the tripping of breakers followed by post
+fault load flow calculation.
+
+<ICE-SIN:W2A-039#13:1>
+It also includes the interactive simulation of restoration of supply
+by the user.
+
+<ICE-SIN:W2A-039#14:1>
+Thus, this integrated tool not only can be used to assess the
+distribution system under various loading conditions but it can also be used
+to assess thc grading of overcurrent relays under various fault and
+overloading conditions.
+
+<ICE-SIN:W2A-039#15:1>
+<h> 2 MODELLING AND MANIPUIATION </h>
+
+<ICE-SIN:W2A-039#16:1>
+<h> 2.1 Distribution System Representation </h>
+
+<ICE-SIN:W2A-039#17:1>
+Each distribution system is defined and represented in the simulator
+by two files named NAMEID.DAT and NAMEID.DW where NAMEID is the name of a
+particular distribution system.
+
+<ICE-SIN:W2A-039#18:1>
+Thus, different distribution system can be represented by using
+different NAMEID.
+
+<ICE-SIN:W2A-039#19:1>
+The DAT file contains not only the basic network parameters such as
+number of busbars, number of lines, busbar loading, line and transformer
+impedance, line and transformer connection, source impedance, etc., but also
+the breaker open/close status, and the CT ratio, type of relay, relay setting
+of each breaker etc.
+
+<ICE-SIN:W2A-039#20:1>
+The DW file is a picture file which is used to generate the single
+line diagram of the distribution system.
+
+<ICE-SIN:W2A-039#21:1>
+With these two data files and the built-in fault current calculation,
+overcurrent relay modelling and load flow, plus the necessary facilities for
+man-machine interface, a distribution simulator can thus be constructed by
+software in a microcomputer.
+
+<ICE-SIN:W2A-039#22:1>
+During run-time, after a particular distribution system has been
+selected, the simulator reads the picture file NAMEID.DW and displays the
+single line diagram on the VDU.
+
+<ICE-SIN:W2A-039#23:1>
+Based on all the network parameters including breaker open/close
+status from the file NAMEID.DAT, the simulator calculates load flow and
+displays current flow for each line on the single line-diagram.
+
+<ICE-SIN:W2A-039#24:1>
+The simulator will then constantly monitor each breaker status,
+feeder loading and model the operation of all protective relays.
+
+<ICE-SIN:W2A-039#25:1>
+If a fault is applied by the user, the simulator calculates the fault
+current distribution and the operating time of all the relays.
+
+<ICE-SIN:W2A-039#26:1>
+The breaker connected to the relay which has the lowest operating
+time will trip.
+
+<ICE-SIN:W2A-039#27:1>
+Whenever any breaker trips and hence alters the network
+configuration, the simulator determines whether the fault has been totally
+isolated.
+
+<ICE-SIN:W2A-039#28:1>
+If the fault is not isolated, it re-calculates the fault current
+distribution and continues the modelling of all the relays repeatedly until
+some other breakers trip and the fault is totally isolated.
+
+<ICE-SIN:W2A-039#29:1>
+For example, for a busbar fault at busbar 6, the tripping time of
+seven breakers operated by the overcurrent relays to isolate the fault is
+shown in Figure 1.
+
+<ICE-SIN:W2A-039#30:1>
+If no fault is applied to the system or after the fault has been
+isolated, the simulator calculates load flow and displays the current flow on
+the single line diagram as show in fig 2.
+
+<ICE-SIN:W2A-039#31:1>
+At the same time, each line current is injected to the corresponding
+relay to test for overload.
+
+<ICE-SIN:W2A-039#32:1>
+If the overload exceeds the relay setting, the relay may then
+operates and the breaker will trip.
+
+<ICE-SIN:W2A-039#33:1>
+The stimulator hence re-calculates load flow, as the network
+configuration has altered, and continues the modelling of all the overcurrent
+relays until there is no overloaded tripping detected.
+
+<ICE-SIN:W2A-039#34:1>
+Facilities are also provided for the user to interrupt the process,
+and restore supply by switching on or off the appropriate breaker, reducing
+the substation load or adjusting the relay settings.
+
+<ICE-SIN:W2A-039#35:1>
+<h> 2.2 Interactive User Manipulation </h>
+
+<ICE-SIN:W2A-039#36:1>
+The user manipulation is interactive and made similar to that
+commonly used in a supervisory control and data acquisition ( SCADA) control
+centre.
+
+<ICE-SIN:W2A-039#37:1>
+Thc user can elect to operate ( ie open, close or block) a breaker
+and the simulator will generate a special cursor to guide the user to select
+the desired breaker.
+
+<ICE-SIN:W2A-039#38:1>
+Overloading or fault at any busbar or any line terminal can be
+activated conveniently on the single line diagram using menu driven function
+keys by the user, or generated randomly by the simulator.
+
+<ICE-SIN:W2A-039#39:1>
+Similarly, loading at each substation can be updated interactively
+through the pop-up window ( as shown in Figure 3) by the user with the option
+for random load to be increased up to a pre-specified limit.
+
+<ICE-SIN:W2A-039#40:1>
+During run-time, the current plug setting ( PS) and the time
+multiplier setting ( MS) of each overcurrent relay can be viewed or changed
+through the pop-up window ( as shown in Figure 4).
+
+<ICE-SIN:W2A-039#41:1>
+Each breaker can also be blocked to simulate the breaker or relay
+failure so that the breaker will not trip during any fault condition and the
+effect of the upstream relay operation can be assessed.
+
+<ICE-SIN:W2A-039#42:1>
+2.3 Overcurrent relay Modelling Three types of inverse definite
+minimum time ( IDMT) overcurrent relays based on BS]42 are modelled.
+
+<ICE-SIN:W2A-039#43:1>
+Additional compensation is made to take into account the fact that
+the fault current sensed by each relay may not be constant in an
+interconnected network.
+
+<ICE-SIN:W2A-039#44:1>
+The relay constant K expressed as a multiple of the relay's setting
+current can be defined as [ 2]: <X>
+
+<ICE-SIN:W2A-039#X45:1>
+K = If x 100 ( 1) CTP x PS where If = constant fault current in
+amperes, CTP = current transformer primary current rating in amperes and PS =
+relay plug setting in percentage.
+
+<ICE-SIN:W2A-039#X46:1>
+The time/ current characteristic of an IDMT overcurrent relay for a
+given fault current 1f can be expressed as:
+
+<ICE-SIN:W2A-039#X47:1>
+For Normal Inverse Overcurrent Relay 0.14 t = 0.14 K 0.02 - 1 x TMS
+
+<ICE-SIN:W2A-039#X48:1>
+For Very Inverse Overcurrent Relay t= 13.5 K - 1 x TMS
+
+<ICE-SIN:W2A-039#X49:1>
+For Extremely Inverse Overcurrent Relay t = 80 K2-1 x TMS where t is
+the operating time and TMS is the time multiplier sending of the IDMT
+overcurrent relay.
+
+<ICE-SIN:W2A-039#X50:1>
+The tripping time of an overcurrent relay under variable fault
+currents may be compensated as follows [ 2]: % t Comp = t ( If2) x % Comp (
+If1,S fast) ( 5) where If1 is the original fault current causing the tripping
+of the faster relay operated in Sfast second.
+
+<ICE-SIN:W2A-039#X51:1>
+It has altered the network configuration and hence it results in a
+new fault current If2 passing through this relay.
+
+<ICE-SIN:W2A-039#X52:1>
+The percentage compensation of a particular overcurrent relay is
+defined as: % Comp = 100% - Sfast x lOO% ( 6) t(If1) </X>
+
+<ICE-SIN:W2A-039#53:1>
+For example, consider a relay which has a CT ratio of 300/5, PS=150%
+and TMS = 0.9.
+
+<ICE-SIN:W2A-039#54:1>
+If the fault current passing through this relay is 8kA for 0.3
+second; and it the then reduces to 7kA due to the operation of some other
+faster relay which has operated in 0.3 second, the operating time of this
+relay can bc calculated as from equations ( 1) to ( 6). <X>
+
+<ICE-SIN:W2A-039#X55:1>
+K= 8000 x 100 = 17.78 300 x 150 t ( 8 kA) = 0.14 = 2.127 seconds
+17.78 0.02 - 1 % Comp = 100% - 0.3 x 100% = 85.89% 2.127
+
+<ICE-SIN:W2A-039#X56:1>
+Similarly, the operating time of the relay at 7 kA is t ( 7kA) =
+2.233 seconds tComp ( 8kA,7kA) = 2.233 x 85.89% = 1.918seconds </X>
+
+<ICE-SIN:W2A-039#57:1>
+<h> 3 APPLICATIONS </h>
+
+<ICE-SIN:W2A-039#58:1>
+<h> 3.1 Assessment of Overcurrent Relay Setting </h>
+
+<ICE-SIN:W2A-039#59:1>
+Distribution system is usually designed to cater for the
+interconnection of more than one source but may be operated radially through
+network cut.
+
+<ICE-SIN:W2A-039#60:1>
+However, there are cases that this network cut may have to be closed
+to form a ring temporarily or permanently to increase the reliability and to
+maintain a high level of continuity of supply.
+
+<ICE-SIN:W2A-039#61:1>
+Overcurrent relays, however, are usually graded according to the
+network operated radially feeding from one source only.
+
+<ICE-SIN:W2A-039#62:1>
+What will be the performance of these relays during fault and
+overloading conditions when this network is operated as ring with two sources
+or even interconnected with more than two sources?
+
+<ICE-SIN:W2A-039#63:1>
+Under various fault conditions, what will be the tripping sequence
+and how serious will be the loss of supply?
+
+<ICE-SIN:W2A-039#64:1>
+These operational problems can be verified or examined
+straightforwardly in one single run by using this simulator.
+
+<ICE-SIN:W2A-039#65:1>
+The engineer may even vary the setting scheme and observes the effect
+during the simulated fault or overloading conditions and works out the
+necessary adjustment in setting when the network configuration changed.
+
+<ICE-SIN:W2A-039#66:1>
+He may also block a particular break to simulate breaker failure or
+the malfunction of the relay and examine the operation of other relays.
+
+<ICE-SIN:W2A-039#67:1>
+<h> 3.2 System Security Assessment </h>
+
+<ICE-SIN:W2A-039#68:1>
+Due to load growth and many other reasons, the load at each
+substation is usually quite different from the load estimated during design
+stage.
+
+<ICE-SIN:W2A-039#69:1>
+Thus, in actual operation, some feeders may be heavily loaded but
+some other feeders may be no load at all.
+
+<ICE-SIN:W2A-039#70:1>
+In terms of security of supply, should the network be operated as
+radial, or ring, or mixed?
+
+<ICE-SIN:W2A-039#71:1>
+If it is operated as radial, how do we recommend the appropriate
+network cut?
+
+<ICE-SIN:W2A-039#72:1>
+Under various feeder conditions, can supply to the whole area be
+still maintained?
+
+<ICE-SIN:W2A-039#73:1>
+This integrated tool was designed to assist engineer to solve all the
+abovementioned operational problems through simulations.
+
+<ICE-SIN:W2A-039#74:1>
+Furthermore, it also provides options to increase the load at any
+substation and/or to apply a controlled random load increase to all
+substations.
+
+<ICE-SIN:W2A-039#75:1>
+These options can thus be used to activate various overloading
+conditions which will trip some breakers and if it is severely overloaded, it
+may result in cascaded tripping across the network.
+
+<ICE-SIN:W2A-039#76:1>
+The engineer can then practice on how to restore the supply, examine
+how to interconnect the split network and see if the total load can be
+supplied with only one or two feeders available.
+
+<ICE-SIN:W2A-039#77:1>
+The engineer can also locate the critical feeders which when removed
+generate the greatest number of network overloading and then re-distribute
+the load whenever possible.
+
+<ICE-SIN:W2A-039#78:1>
+<h> 3.3 Establish Rules for Restoration of Supply </h>
+
+<ICE-SIN:W2A-039#79:1>
+Supply interruption is always un-avoidable and the operational
+engineer has to depend on his experience and his knowledge on the
+distribution system to isolate the fault and to restore supply.
+
+<ICE-SIN:W2A-039#80:1>
+This integrated tool provides the platform for a engineer to generate
+standard rules for the restoration of supply well in advance.
+
+<ICE-SIN:W2A-039#81:1>
+Based on the actual loading condition and the network configuration,
+the engineer can generate various abnormal condition such as a line fault, a
+busbar fault, a major incoming failure, a minor overloading, a serious
+overloading, etc.
+
+<ICE-SIN:W2A-039#82:1>
+which will trip some breakers and result in loss of supply.
+
+<ICE-SIN:W2A-039#83:1>
+The engineer can then restore the supply on the simulator and then
+works out the standard procedure or rules for the restoration of supply for
+each abnormal case.
+
+<ICE-SIN:W2A-039#84:1>
+These rules can also be updated updated whenever major load increased
+or network configuration changed.
+
+<ICE-SIN:W2A-039#85:1>
+<h> 3.4 Evaluate and Test Distribution Network Proposals </h>
+
+<ICE-SIN:W2A-039#86:1>
+For new development, two or three different network proposals are
+usually suggested.
+
+<ICE-SIN:W2A-039#87:1>
+This integrated tool can be used to evaluate each network proposal
+under various fault and overloading conditions.
+
+<ICE-SIN:W2A-039#88:1>
+The level of reliability of each proposal and its operating
+constraints and limits can be compared easily through this simulation.
+
+<ICE-SIN:W2A-039#89:1>
+A better network proposal can then be recommended.
+
+<ICE-SIN:W2A-039#90:1>
+Furthermore, the setting of overcurrent relays can be verified and
+adjusted before installation.
+
+<ICE-SIN:W2A-039#91:1>
+<h> 3.5 Engineer Training </h>
+
+<ICE-SIN:W2A-039#92:1>
+This simulator can also be used to train new practising engineering
+to familiarize with the interconnected distribution system and the associated
+overcurrent protective scheme, the possible fault and overloading conditions.
+
+<ICE-SIN:W2A-039#93:1>
+It gives practising engineers the opportunity to witness first hand
+how a power system behaves under various fault or overloading conditions;
+their consequences; the proper diagnosis procedures; and the recovery
+actions.
+
+<ICE-SIN:W2A-039#94:1>
+It provides hands on exercise to practise logical thinking to
+identify the type of abnormal conditions, to isolate the fault and to carry
+out the appropriate actions to restore supply in a typical distribution
+system.
+
+<ICE-SIN:W2A-039#95:1>
+Based on the relay settings viewed from the network, the engineer can
+also select the random fault option with a hidden fault location and analyse
+the timing of the tripping sequence to identify the type of fault and its
+location.
+
+<ICE-SIN:W2A-039#96:1>
+An option to reveal the hidden location can then be activated to
+confirm the finding.
+
+<ICE-SIN:W2A-039#97:1>
+4.
+
+<ICE-SIN:W2A-039#98:1>
+Computing Techniques and Approximation The stimulator is implemented
+in an IBM PC - AT or compatible running at 8 MHz with EGA colour monitor and
+no printer or other hardware is required.
+
+<ICE-SIN:W2A-039#99:1>
+The operating system is DOS 3.3 and all the application programs
+including graphic handling, pull down menu and pop-up windows are all written
+in Turbo Pascal version 6. </I>

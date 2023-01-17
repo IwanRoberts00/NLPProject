@@ -1,0 +1,636 @@
+<I> 
+
+<ICE-SIN:W1A-014#1:1>
+Q7 
+
+<ICE-SIN:W1A-014#2:1>
+<h> Introduction </h>
+
+<ICE-SIN:W1A-014#3:1>
+With Kuhn, the denise of Foundationalism became
+evident. 
+
+<ICE-SIN:W1A-014#4:1>
+Kuhn's distinction between normal science &
+revolutionary science has brought the problem of incommensurability to the
+surface. 
+
+<ICE-SIN:W1A-014#5:1>
+Normal science is a paradigm-directed
+activity. 
+
+<ICE-SIN:W1A-014#6:1>
+And so, there is kind of foundation within
+the normal science constituted by the adherence to shared data, standards,
+meanings and even worlds. 
+
+<ICE-SIN:W1A-014#7:1>
+Hence, there is little
+ambiguity and problem in comparing different theories that attempt to
+articulate the paradigm in different directions. 
+
+<ICE-SIN:W1A-014#8:1>
+So, if all science were normal science, then the problem of
+incommensurability would not arise. 
+
+<ICE-SIN:W1A-014#9:1>
+However Kuhn also discovered another period
+of science which he calls revolutionary science. 
+
+<ICE-SIN:W1A-014#10:1>
+This period is characterised by proliferation of theories. 
+
+<ICE-SIN:W1A-014#11:1>
+And since theories bring their own data, standards, & facts, so there is no
+longer any common foundation. 
+
+<ICE-SIN:W1A-014#12:1>
+The foundation which we
+had during normal science is only a paradigm - relative one.
+
+<ICE-SIN:W1A-014#13:1>
+Besides, meaning holism also entails that theories
+cannot communicate. 
+
+<ICE-SIN:W1A-014#14:1>
+So confronted with this problem of
+incommensurability, Churchland proposes his semantic theory as a means of
+bridging the gap between theories so that they need not be regarded as
+absolutely incommensurable. 
+
+<ICE-SIN:W1A-014#15:1>
+<h> Churchland's semantic & systemic sentences </h> 
+
+<ICE-SIN:W1A-014#16:1>
+Churchland distinguishes
+between 2 kinds of sentences namely systemically and semantically important
+sentences in an individual's T-set. 
+
+<ICE-SIN:W1A-014#17:1>
+An individual's T-set is the set of all sentences containing the term, say T,
+that he accepts. 
+
+<ICE-SIN:W1A-014#18:1>
+Out of this T-set, there is likely to be a
+subset of sentences which are more theoretically important sentences.
+
+<ICE-SIN:W1A-014#19:1>
+These define the individual's understanding of the
+term, T. 
+
+<ICE-SIN:W1A-014#20:1>
+As such, any changes in the set of
+systemically important sentences would have tremendous impact on the belief
+system of the individual. 
+
+<ICE-SIN:W1A-014#21:1>
+Any variation in
+understanding would necessitate an extensive readjustment and revision of the
+belief system that he holds. 
+
+<ICE-SIN:W1A-014#22:1>
+The semantically
+important sentences are those which define the meaning of a term.
+
+<ICE-SIN:W1A-014#23:1>
+They are those on whose acceptance, the smoothness and
+efficiency of one's verbal commerce in a linguistic community is maximally
+dependent. 
+
+<ICE-SIN:W1A-014#24:1>
+This is because shared meaning depends on
+the sharing of these sentences more than it depends on others.
+
+<ICE-SIN:W1A-014#25:1>
+These sentences form the baseline of a linguistic
+community. 
+
+<ICE-SIN:W1A-014#26:1>
+They are the common framework that one
+speaker expects to find in another. 
+
+<ICE-SIN:W1A-014#27:1>
+Does Churchland's
+theory enable us to circumvent the problem of incommensurability?
+
+<ICE-SIN:W1A-014#28:1>
+Churchland accepts the thesis of holism.
+
+<ICE-SIN:W1A-014#29:1>
+However, his theory is able to overcome the problem of
+incommensurability because his theory allows for a kind of non-foundational
+epistemology. 
+
+<ICE-SIN:W1A-014#30:1>
+Since menaing is social and
+understanding is private, the commensurability between paradigms depend on
+the sharing of the semantically more important sentences.
+
+<ICE-SIN:W1A-014#31:1>
+According to Churchland, 2 paradigms, say the
+Newtonians and the Einsteinians can communicate with each other because the
+have the same meaning. 
+
+<ICE-SIN:W1A-014#32:1>
+A term has the same meaning for
+2 speakers if the set of their semantically important sentences containing
+this term has the same membership. 
+
+<ICE-SIN:W1A-014#33:1>
+However, there may
+be cases where there is no perfect match between their set of semantically
+important sentences. 
+
+<ICE-SIN:W1A-014#34:1>
+They may disagree about the
+semantic status of some sentences. 
+
+<ICE-SIN:W1A-014#35:1>
+In this case,
+Churchland would attest that communication need not be terminated.
+
+<ICE-SIN:W1A-014#36:1>
+The speakers can fall on the extensive substructure of
+meaning that remains shared between them and approach the problematic topic
+anew. 
+
+<ICE-SIN:W1A-014#37:1>
+If this discussion is successful, then the
+disputed sentences may get thrown out either by one speaker being is on over
+to the semantic status of the other or by the agreement on both parties to
+come to a compromise structure in the course of the debate.
+
+<ICE-SIN:W1A-014#38:1>
+Hence, this shows that perfect correspondence of set
+of semantically important sentences is not a necessary condition for
+commensurability. 
+
+<ICE-SIN:W1A-014#39:1>
+And its absence is of no practical
+sifnificance. 
+
+<ICE-SIN:W1A-014#40:1>
+The conflicting paradigms can still
+communicate with each other with untroubled fluency. 
+
+<ICE-SIN:W1A-014#41:1>
+This shows that on Churchland's theory, commensurability and meaning
+solipsism ( whereby terms lose its meaning once taken out of the context of
+the paradigm) is less dramatic. 
+
+<ICE-SIN:W1A-014#42:1>
+It becomes merely a
+matter of degree, ranging from negligible ( where their set of semantically
+impt sentences almost perfectly coincide) to unbridgeable ( where there is no
+shared semantically important sentences at all as in the case of violently
+conflicting paradigms.) 
+
+<ICE-SIN:W1A-014#43:1>
+Hence, this shows that
+although Churchland accepts the thesis of theory ladenness, his theory is
+able to avoid radical holism. 
+
+<ICE-SIN:W1A-014#44:1>
+Meaning depends on the
+sharing of the subset of semantically important sentences and not by the set
+of all accepted sentences. 
+
+<ICE-SIN:W1A-014#45:1>
+Hence, his theory is, so to
+speak, quasi holistic. 
+
+<ICE-SIN:W1A-014#46:1>
+However, Churchland's theory is
+unique because there could still be epistemology even in the absence of an
+absolute found. 
+
+<ICE-SIN:W1A-014#47:1>
+The semantically important sentences
+common in both paradigm's T-set could act as a " foundation", on the basis of
+which their differences can be approached and arbitrated.
+
+<ICE-SIN:W1A-014#48:1>
+However, it is not a permanent, natural foundation
+which is independent of both paradigms. 
+
+<ICE-SIN:W1A-014#49:1>
+Instead, it is
+only an artificially forged foundation from the 2 frameworks in conflict.
+
+<ICE-SIN:W1A-014#50:1>
+Hence, the above account of Churchland's theory shows
+that the problem of incommensurability is not so severe as to cut off any
+communication link between paradigms. 
+
+<ICE-SIN:W1A-014#51:1>
+Paradigms can
+still communicate and be compared. 
+
+<ICE-SIN:W1A-014#52:1>
+So the nature of
+scientific progress need not be rejected as irrational.
+
+<ICE-SIN:W1A-014#53:1>
+<h> Conclusion </h> 
+
+<ICE-SIN:W1A-014#54:1>
+However,
+despite its ability to circumvent the problem of incommensurability,
+Churchland's theory does not seem to give a realistic portrayal of the way we
+do science. 
+
+<ICE-SIN:W1A-014#55:1>
+The process of listing all relevant
+sentences and thereafter sorting them into semantically and systemically
+important ones seem like a tedious chore and is not very practical.
+
+<ICE-SIN:W1A-014#56:1>
+Besides, Chruchland's account is too simplistic.
+
+<ICE-SIN:W1A-014#57:1>
+Real life situations may be more complicated & hence
+more problematic. 
+
+<ICE-SIN:W1A-014#58:1>
+There may be cases where there is
+just simply no insolvable substructure genuinely shared between the paradigms
+that can act as a basis which allows for their commensurability.
+
+<ICE-SIN:W1A-014#59:1>
+Hence, although Churchland's theory can avoid the
+problem of incommensurability between similar paradigms, his theory becomes
+questionable in the face of violently conflicting paradigms. </I>
+<I> 
+
+<ICE-SIN:W1A-014#60:2>
+Q2 
+
+<ICE-SIN:W1A-014#61:2>
+<h> Introduction </h>
+
+<ICE-SIN:W1A-014#62:2>
+According to Kemery, there is one method through which
+all scientific theories go through in their development.
+
+<ICE-SIN:W1A-014#63:2>
+And He calls this method the methodological cycle.
+
+<ICE-SIN:W1A-014#64:2>
+The peculiarity of this cycle is that " science must
+start from facts and end with facts". 
+
+<ICE-SIN:W1A-014#65:2>
+Within this
+cycle, two processes can be distinguished. 
+
+<ICE-SIN:W1A-014#66:2>
+They are:-
+
+<ICE-SIN:W1A-014#67:2>
+( i)the formation of possible theories which comes
+under the context of discovery and 
+
+<ICE-SIN:W1A-014#68:2>
+( ii) the selection
+of one of these, falling under the context of justification.
+
+<ICE-SIN:W1A-014#69:2>
+In this essay, I shall deal with each of these in
+turn. 
+
+<ICE-SIN:W1A-014#70:2>
+Context of Discovery Kemery places a high degree
+of importance to the role of observation or induction the formation of
+theories. 
+
+<ICE-SIN:W1A-014#71:2>
+Induction is the process of forming theories
+on the basis of a set of facts. 
+
+<ICE-SIN:W1A-014#72:2>
+It involves going from
+particular statements to a general conclusion . 
+
+<ICE-SIN:W1A-014#73:2>
+For
+example, after watching the sun for several days, the scientist concludes:-
+
+<ICE-SIN:W1A-014#74:2>
+( i)The sun rises in the east for the past hundred
+days. 
+
+<ICE-SIN:W1A-014#75:2>
+( a collection of facts) 
+
+<ICE-SIN:W1A-014#76:2>
+( ii) ( therefore in mathematical symbol) the sun rises in the east everyday
+( a theory). 
+
+<ICE-SIN:W1A-014#77:2>
+So this is the process of induction which
+Kemery states that all scientific theories go through. 
+
+<ICE-SIN:W1A-014#78:2>
+This is the job of an empirical scientist. 
+
+<ICE-SIN:W1A-014#79:2>
+The
+empirical scientist performs experiments which allows him to make controlled
+and meticulous observation of nature. 
+
+<ICE-SIN:W1A-014#80:2>
+He then collects
+facts from his experiments and these facts constitute his observation
+reports. 
+
+<ICE-SIN:W1A-014#81:2>
+As more and more facts are collected, general
+features become discernible. 
+
+<ICE-SIN:W1A-014#82:2>
+However, a collection of
+facts does not constitute a science. 
+
+<ICE-SIN:W1A-014#83:2>
+From collection
+of facts, the scientist must make a conception of the world.
+
+<ICE-SIN:W1A-014#84:2>
+He then ( the theoretical scientist) formulate a
+theory and atttempt to fit the theory into the discernible features ( the
+known facts). 
+
+<ICE-SIN:W1A-014#85:2>
+Hence, the above describes the process
+of formation of theories. 
+
+<ICE-SIN:W1A-014#86:2>
+Kemery's account of the
+discovery of theories is a neat, safe and cautious account ( ie through the
+inductive method) unlike that proposed by Pepper ( ie through the method of
+putting forth bold hypothesis and daring conjectures unconstrained by data).
+
+<ICE-SIN:W1A-014#87:2>
+<h> Context of Justification </h>
+
+<ICE-SIN:W1A-014#88:2>
+However, after the forming of theories, the scientist
+must test his theory to see if they accord with facts. 
+
+<ICE-SIN:W1A-014#89:2>
+This step is necessary because given a set of facts, there are many theories
+which could equally well explain the same collection of data.
+
+<ICE-SIN:W1A-014#90:2>
+So how do we know which of these theories to accept?
+
+<ICE-SIN:W1A-014#91:2>
+Hence, the need to justify them.
+
+<ICE-SIN:W1A-014#92:2>
+Kemery proposes the criterion of credibility to test
+theories. 
+
+<ICE-SIN:W1A-014#93:2>
+But one cannot just test a theory against
+facts. 
+
+<ICE-SIN:W1A-014#94:2>
+Theoretical statements are general statements
+while factual statements are particular. 
+
+<ICE-SIN:W1A-014#95:2>
+One cannot
+test that the sun rises everyday. 
+
+<ICE-SIN:W1A-014#96:2>
+What one does test
+is that it rose yesterday, it rises today and will rise tomorrow.
+
+<ICE-SIN:W1A-014#97:2>
+Hence, the scientist must reduce his theory to
+particular statements and he does this through the process of deduction which
+is a purely logical process. 
+
+<ICE-SIN:W1A-014#98:2>
+For example, the
+scientist deduces:- 
+
+<ICE-SIN:W1A-014#99:2>
+( i)the sun rises in the east
+everyday " ( a theory) 
+
+<ICE-SIN:W1A-014#100:2>
+( ii) ( therefore in
+mathematical symbol) the sun will rise in the east tomorrow ( a prediction).
+
+<ICE-SIN:W1A-014#101:2>
+Hence, it is the logical consequence of the theory or
+its prediction that the scientist later goes on to test.
+
+<ICE-SIN:W1A-014#102:2>
+According to Kemery, one test a theory by again
+looking at facts. 
+
+<ICE-SIN:W1A-014#103:2>
+But now, one looks for more
+supportive evidence to confirm the theory. 
+
+<ICE-SIN:W1A-014#104:2>
+The more
+facts or evidence one can gather from nature to support the theory, the more
+verified the theory becomes and hence, the more credible it is.
+
+<ICE-SIN:W1A-014#105:2>
+This is the case if the prediction that the theory
+generates accord with facts. 
+
+<ICE-SIN:W1A-014#106:2>
+But what happens when
+the predictions do not agree with subsequent observations?
+
+<ICE-SIN:W1A-014#107:2>
+Kemery says that theories need not be rejected
+immediately if their predictions do not get verifies. 
+
+<ICE-SIN:W1A-014#108:2>
+This is because when one makes a prediction, one does not do it on the basis
+of this theory alone but together with other auxiliary theories.
+
+<ICE-SIN:W1A-014#109:2>
+hence, it is not clear which of these 2 theories (
+the theory under test or the auxiliary theories) are at fault.
+
+<ICE-SIN:W1A-014#110:2>
+Hence, what one should do is to try to modify one's
+auxiliary theories and not reject one's theory immediately.
+
+<ICE-SIN:W1A-014#111:2>
+However, even if one's theory gets verified all the
+time, this does not mean that the theory is proven certain.
+
+<ICE-SIN:W1A-014#112:2>
+This is because given a theory there are numerous
+predictions that can be made. 
+
+<ICE-SIN:W1A-014#113:2>
+So however many
+predictions one test, one has not tested all of them. 
+
+<ICE-SIN:W1A-014#114:2>
+So the implication is that one's theory only becomes more probable the more
+verifications it gets but never proven true. 
+
+<ICE-SIN:W1A-014#115:2>
+And, the
+more verifications it gets, the more probable it becomes and one has then
+discovered a new law. 
+
+<ICE-SIN:W1A-014#116:2>
+Some criticisms against
+Kemery's method. 
+
+<ICE-SIN:W1A-014#117:2>
+Like other theories, Kemery's
+methodological cycle is also not free from criticisms.
+
+<ICE-SIN:W1A-014#118:2>
+The most severe criticism of his methodology comes
+from Popper. 
+
+<ICE-SIN:W1A-014#119:2>
+Popper criticises both of Kemery's
+account of the formation and justification of theories.
+
+<ICE-SIN:W1A-014#120:2>
+With regards to the formation of theories, Popper
+asserts that if science should follow such an inductive method, it will
+become merely an irrational enterprise. 
+
+<ICE-SIN:W1A-014#121:2>
+Popper
+accepts Hume's criticism of the inductive method. 
+
+<ICE-SIN:W1A-014#122:2>
+Hume claims that one can never justify the inductive method.
+
+<ICE-SIN:W1A-014#123:2>
+Induction is an invalid process because it is based
+on an unjustified belief that nature is ordered and uniform.
+
+<ICE-SIN:W1A-014#124:2>
+However, according to Hume, there is no guarantee
+that just because nature has been uniformly functioning in the past, it will
+continue to do so always. 
+
+<ICE-SIN:W1A-014#125:2>
+Such a claim cannot be
+empirically justified. 
+
+<ICE-SIN:W1A-014#126:2>
+So Popper regards this method
+as a pseudo-empirical one. 
+
+<ICE-SIN:W1A-014#127:2>
+Popper even rejects Hume's
+argument that although we cannot give a logical account of induction, we can
+justify our employment of this method on the basis of habit and custom.
+
+<ICE-SIN:W1A-014#128:2>
+But Popper disagrees with this argument because of
+science is undercut, leading to a scepticism about scientific knowledge.
+
+<ICE-SIN:W1A-014#129:2>
+Hence Kemery's methodological cycle has a weak and
+illegitimate link ( ie induction). 
+
+<ICE-SIN:W1A-014#130:2>
+Besides, Popper
+also disagrees with Kemery's method of starting with the collection of facts.
+
+<ICE-SIN:W1A-014#131:2>
+This is because he asserts that there are infinity of
+facts that can be collected but surely not all of these are relevant in the
+formation of a particular theory. <X> 
+
+<ICE-SIN:W1A-014#X132:2>
+Popper thinks
+that there is no such thing as " pure" observation. 
+
+<ICE-SIN:W1A-014#X133:2>
+Observation is always theory-directed. 
+
+<ICE-SIN:W1A-014#X134:2>
+It is like a
+beam of light which searches. 
+
+<ICE-SIN:W1A-014#X135:2>
+It searches for
+relevant facts. 
+
+<ICE-SIN:W1A-014#X136:2>
+But to search for relevant facts we
+need the guidance of a theory itself. 
+
+<ICE-SIN:W1A-014#X137:2>
+hence Popper
+thinks that there is an inevitable vicious circle in Kemery's methodological
+cycle. 
+
+<ICE-SIN:W1A-014#X138:2>
+And if science were to go through this cycle,
+then science will never get off the ground at all. 
+
+<ICE-SIN:W1A-014#X139:2>
+
+As for Kemery's account of the method of justifying theories, Popper thinks
+that the verification criterion is not a good criterion.
+
+<ICE-SIN:W1A-014#X140:2>
+This is because he claims that if we use
+verification as the criterion of demarcating scientific from
+pseudo-scientific theories, then there would be no ground for denying
+Freudian psychoanalysis, Marxist theory and astrology from the status of a
+science. 
+
+<ICE-SIN:W1A-014#X141:2>
+These theories do get verifications all the
+time. 
+
+<ICE-SIN:W1A-014#X142:2>
+However, Popper argues that it is easy to find
+verifications if one looks for them. 
+
+<ICE-SIN:W1A-014#X143:2>
+The world is
+full of verifications for nearly every theory. 
+
+<ICE-SIN:W1A-014#X144:2>
+Hence, verification cannot be the criterion of science.
+
+<ICE-SIN:W1A-014#X145:2>
+The confirming instances that we find to support the
+theory proves nothing except that the observation report can be interpreted
+in the light of the theory. 
+
+<ICE-SIN:W1A-014#X146:2>
+Kemery's verification
+method does not give any condition under which the scientist is willing to
+give up the theory. 
+
+<ICE-SIN:W1A-014#X147:2>
+And this is characteristic of
+the other non-scientific theories. 
+
+<ICE-SIN:W1A-014#X148:2>
+A good scientific
+theory, according to Popper, must be a " prohibition." It must give a
+condition under which the theory must be refuted. 
+
+<ICE-SIN:W1A-014#X149:2>
+Hence, Popper rejects verificationism in favour of falsificationism.
+
+<ICE-SIN:W1A-014#X150:2>
+Thus, the above account shows that although Kemery's
+methodological account of science is a neat account and simple to follow, yet
+its credibility is doubtful. </X> </I>
