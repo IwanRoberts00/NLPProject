@@ -1,0 +1,405 @@
+<I>
+<ICE-USA:W2A-028#1:1>
+<ICE-USA:W2A-028#2:1> <h> <bold> INTRODUCTION </bold> </h>
+
+<p> <ICE-USA:W2A-028#3:1> There is a lack of information on the environmental fate of
+
+herbicides used for silvicultural purposes in the Lake states region.
+<ICE-USA:W2A-028#4:1> Water quality is an important issue, and pesticides are a major focal
+
+point of public concern.
+<ICE-USA:W2A-028#5:1> Pesticide persistence and mobility in the soil are key factors in
+
+water-quality issues.
+<ICE-USA:W2A-028#6:1> Knowledge of herbicide half-lives and leaching characteristics in
+
+forested environments is limited primarily to data from southern or western
+
+states; little research has been done in the Lake states or the Northeast [
+
+1].
+<ICE-USA:W2A-028#7:1> The objective of this study was to determine the environmental fate of
+
+three soil-active herbicides - - hexazinone, sulfometuron methyl, and
+
+tebuthiuron ( Velpar L?, Oust? ( E.I. du Pont de Nemours Inc., Wilmington,
+
+DE), and Spike? ( DowElanco Inc., Indianapolis, IN))-- in low base saturated
+
+sand soils that had been preconditioned by treatment with acidified rainwater
+
+for four years. </p>
+
+<p> <ICE-USA:W2A-028#8:1> The behavior of a chemical in the soil is determined by properties
+
+of both the chemical and the soil environment [ 2].
+<ICE-USA:W2A-028#9:1> Important properties of herbicides are water solubility, soil
+
+adsorption, chemical and photodegradation, microbial breakdown, and
+
+volatility [ 3].
+<ICE-USA:W2A-028#10:1> Primary environmental conditions include precipitation amount and
+
+distribution, temperature, soil type, organic matter content, and pH.
+<ICE-USA:W2A-028#11:1> Large areas of low base saturated sand soils in the Lake states
+
+region are subject to acidification by atmospheric deposition [ 4].
+<ICE-USA:W2A-028#12:1> Interactions among atmospheric deposition, soil acidity, organic
+
+matter content, the environmental fate of herbicides, and their potential
+
+effects on water quality have not been investigated.
+<ICE-USA:W2A-028#13:1> We hypothesized that the combination of coarse soil texture, low base
+
+saturation, low organic matter content, and preconditioning would represent
+
+worst-case conditions likely to be encountered in the upper Lake states
+
+region.
+<ICE-USA:W2A-028#14:1> This paper reports effects of litter-humus treatments, amount of
+
+applied precipitation, soil characteristics, and rainwater acidity on
+
+behavior of the three herbicides. </p>
+<ICE-USA:W2A-028#15:1> <h> METHODS </h>
+<ICE-USA:W2A-028#16:1> <h> <it> Materials </it> </h>
+
+<p> <ICE-USA:W2A-028#17:1> Lysimeters were used to determine the mobility and dissipation of
+
+the soil-active herbicides hexazinone [
+
+3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4(1<it> H </it> ,
+
+3<it> H </it> ) - dione]; sulfometuron methyl ( methyl 2- [ [ [ [ (
+
+4,6-dimethyl-2- pyrimidinyl)amino]-carbonyl]amino]sulfonyl]benzoate); and
+
+tebuthiuron ( <it> N </it> - [ 5- (
+
+1,1-dimethylethyl)-1,3,4-thiadiazol-2-yl]-<it> N </it> , <it> N </it> ' -
+
+dimethylurea) in acid sandy soils.
+<ICE-USA:W2A-028#18:1> 14C-labeled hexazinone, sulfometuron methyl, and tebuthiuron were
+
+used to spike the commercial formulation of each product.
+<ICE-USA:W2A-028#19:1> The specific activities of [ 14C]carbonyl hexazinone, [ 14C]phenyl
+
+sulfometuron methyl, and [ 14C]5- thiadiazole-ring tebuthiuron were 263.1,
+
+218.3, and 429.2 kBq/mg, respectively. </p> <it>
+<ICE-USA:W2A-028#20:1> <h> Lysimeters </h> </it>
+
+<p> <ICE-USA:W2A-028#21:1> Detailed soil and site characteristics and lysimeter methodology
+
+were reported previously [ 4].
+<ICE-USA:W2A-028#22:1> Briefly, intact soil columns were collected in 15- x 150-cm polyvinyl
+
+chloride ( PVC) pipes from six sites on national forest in northeastern
+
+Minnesota, northern Wisconsin, and Upper Michigan in October 1984.
+<ICE-USA:W2A-028#23:1> The sites were selected to provide soils with either 0 to 10 or 10 to
+
+20&percent; base saturation.
+<ICE-USA:W2A-028#24:1> The soil columns were transported to the Forestry Sciences Laboratory
+
+at Grand Rapids, Minnesota ( 47?20'N, 93?30'W).
+<ICE-USA:W2A-028#25:1> Lysimeters were constructed by sealing the base of each with a
+
+watertight PVC cap and instrumenting it with 70- <foreign> ? </foreign> m
+
+porous polyethylene filters to sample soil water at the 10-,20-,40-, and 150-
+
+cm levels.
+<ICE-USA:W2A-028#26:1> The completed columns were installed at the original soil depth to
+
+maintain normal soil temperatures and atmospheric conditions.
+<ICE-USA:W2A-028#27:1> They were covered with Fiberglass shelters at night and during
+
+rainstorms to exclude dust and ambient rainfall. </p>
+<ICE-USA:W2A-028#28:1> <h> <it> Preconditioning </it> </h>
+
+<p> <ICE-USA:W2A-028#29:1> To minimize variation in forest floor thickness among soil
+
+columns, the litter- humus layer was removed from each and replaced with a
+
+cap prepared from 400 g of coarsely ground litter-humus from a jack pine or
+
+mixed hardwood stand or with an equal weight of quartz sand.
+<ICE-USA:W2A-028#30:1> Kentucky-31 bluegrass ( <it> Poa pratensis </it> L.) was established
+
+on each to stabilize the cap and to provide an active root system.
+<ICE-USA:W2A-028#31:1> Rainwater was collected from a greenhouse roof, stored at 3 to 52C in
+
+a polyethylene tank, and acidified to pH 5.4 or 4.2 with a 1:1 solution of
+
+HNO3 + H2SO4.
+<ICE-USA:W2A-028#32:1> Half of the soil columns received rainwater acidified to pH 5.4, and
+
+the other half received rainwater at pH 4.2.
+<ICE-USA:W2A-028#33:1> Applications were made weekly throughout the growing season, and the
+
+leachate was collected periodically.
+<ICE-USA:W2A-028#34:1> During the four-year preconditioning period, a total of 4,600 mm of
+
+water was applied. </p>
+<ICE-USA:W2A-028#35:1> <h> <it> Design and treatment </it> </h>
+
+<p> <ICE-USA:W2A-028#36:1> The study was conducted using a randomized complete block design
+
+with four herbicide treatments, including an untreated control, applied to
+
+soils from each of the six sites, with six replications.
+<ICE-USA:W2A-028#37:1> Thus, each herbicide treatment was applied to 36 soil columns, for a
+
+total of 144 lysimeters.
+<ICE-USA:W2A-028#38:1> The herbicides were applied to the surface of the soils on July 28,
+
+1989; application rates of active ingredient ( a.i.) were 2.24kg/ha of
+
+hexazinone ( 47.9kBq 14C per lysimeter), 42.5 g/ha of sulfometuron methyl (
+
+47.0 kBq 14C per lysimeter), and 2.24 kg/ha of tebuthiuron ( 93.4 kBq 14C per
+
+lysimeter).
+<ICE-USA:W2A-028#39:1> On the following day, 10 ml of 1.0 M NaCl solution was applied to
+
+each column as a conservative ion tracer to indicate the Cl- breakthrough
+
+volume.
+<ICE-USA:W2A-028#40:1> Acidified rainwater was applied to the columns once weekly at rates
+
+to approximate the actual precipitation recorded at an adjacent official
+
+weather station.
+<ICE-USA:W2A-028#41:1> The amount of water applied substantially exceeded actual
+
+precipitation on three treatment dates, both to enable collection of
+
+sufficient sample volume at the upper soil levels and to simulate rainfall
+
+representative of worst-case conditions.
+<ICE-USA:W2A-028#42:1> Soil water was collected once at the 10-, 20-, and 40-cm levels and
+
+10 times at the 150-cm level over the 130 of post-treatment.
+<ICE-USA:W2A-028#43:1> At each sample date, all leachate was collected and weighed;
+
+subsamples were subsequently analyzed for herbicides and 24 chemical
+
+parameters.
+<ICE-USA:W2A-028#44:1> Samples were stored at 3 to 52C until all analyses were completed.
+
+</p> <it>
+<ICE-USA:W2A-028#45:1> <h> Analyses </h> </it>
+
+<p> <ICE-USA:W2A-028#46:1> Concentrations of Cl- in leachate were measured with an ion
+
+chromatograph ( Dionex Corporation, Sunnyvale, CA).
+<ICE-USA:W2A-028#47:1> 14C was determined in a 3.0-ml subsample by liquid scintillation
+
+counting techniques with correction for quenching and background.
+<ICE-USA:W2A-028#48:1> Count rates were converted to concentration of chemical in solution.
+<ICE-USA:W2A-028#49:1> The 14C was confirmed to be parent compound by HPLC analyses using a
+
+Hewlett Packard ( Avondale, PA) model HP 1090 with a Radiomatic flow detector
+
+( Radiomatic Instruments, Meriden, CT) with C8 and C18 columns and different
+
+solvent systems and comparing retention times of samples to standards.
+<ICE-USA:W2A-028#50:1> The 14C was predominantly parent compounds with trace amounts of
+
+unidentified metabolites.
+<ICE-USA:W2A-028#51:1> Losses due to plant uptake and degradation were not considered.
+<ICE-USA:W2A-028#52:1> The recovered 14C was analyzed by concentration ( micrograms per
+
+liter) and total amount ( percentage of a.i. applied).
+<ICE-USA:W2A-028#53:1> Data were evaluated by analysis of variance ( ANOVA) with leachate
+
+volume as a covariate.
+<ICE-USA:W2A-028#54:1> Treatment differences were tested with the least significant
+
+difference ( LSD) procedure [ 5]. </p>
+<ICE-USA:W2A-028#55:1> <h> <bold> RESULTS AND DISCUSSION </bold> </h>
+
+<p> <ICE-USA:W2A-028#56:1> Ambient precipitation for the 60-d post-treatment period was 254
+
+mm, 96 mm above the 50-year mean [ 6].
+<ICE-USA:W2A-028#57:1> Elevated Cl- concentrations appeared in leachate collected at the
+
+150-cm level 45 d post-treatment, after 154 mm of rainwater had been applied
+
+( Table 1), indicating displacement of the initial soil solution from the
+
+lysimeters.
+<ICE-USA:W2A-028#58:1> Thus, the 440 mm of water applied during the 130-d study period was
+
+approximately three times the mean pore volume of the soils and double the
+
+50-year average precipitation for this area. </p> <&> [ TABLE 1 OMITTED] </&>
+
+<p> <ICE-USA:W2A-028#59:1> Rainwater pH had no significant effect on herbicide movement,
+
+apparently due to high soil acidity.
+<ICE-USA:W2A-028#60:1> In 1984, before the acid rain treatments began, pH of the surface 40
+
+cm of soil ( in 0.02 M CaCl2) from four of the six sites averaged 4.3 [ 4];
+
+current acidity has not been determined. </p>
+
+<p> <ICE-USA:W2A-028#61:1> Leaching of the three herbicides differed significantly by
+
+litter-humus treatment, quantity of applied rainwater, and soil
+
+characteristics.
+<ICE-USA:W2A-028#62:1> The variation in mobility reflects differences in their physical and
+
+chemical properties.
+<ICE-USA:W2A-028#63:1> Sulfometuron methyl has a short half-life and is not readily soluble,
+
+particularly under acidic conditions [ 7,8].
+<ICE-USA:W2A-028#64:1> From 80 to 130 d post-treatment, no sulfometuron methyl was detected
+
+below the 20-cm level ( Table 2), and none was found in leachate at 150 cm at
+
+any sample date.
+<ICE-USA:W2A-028#65:1> By 80 d post-treatment, the 14C activity was near background level,
+
+suggesting that most of the compound had been degrade [ 8] or irreversibly
+
+sorbed into the upper soil layers. </p> <&> [ TABLE 2 OMITTED] </&>
+
+<p> <ICE-USA:W2A-028#66:1> Concentrations of hexazinone and tebuthiuron at 10 and 20 cm
+
+were, respectively, nearly two and fivefold greater than those at 150 cm,
+
+indicating that most of the products remain in the upper portion of the
+
+profiles after the first growing season.
+<ICE-USA:W2A-028#67:1> Tebuthiuron is about 10 times as soluble as sulfometuron, as
+
+reflected by the higher concentrations at the 10- and 20-cm levels and its
+
+presence lower in the profiles.
+<ICE-USA:W2A-028#68:1> It was detected in leachate at the 150-cm level from 12 of the 36
+
+treated soil columns.
+<ICE-USA:W2A-028#69:1> Hexazinone is highly soluble and is subject to both lateral and
+
+vertical movement under conditions conducive to leaching [ 9].
+<ICE-USA:W2A-028#70:1> Under the conditions of this study, hexazinone reached the 150- cm
+
+level in 31 of the 36 lysimeters.
+<ICE-USA:W2A-028#71:1> Measurable concentrations of hexazinone first appeared in leachate at
+
+150 cm from seven of the 36 columns 52 d post- treatment ( Table 3).
+<ICE-USA:W2A-028#72:1> Tebuthiuron was first detected in leachate from two lysimeters 66 d
+
+post-treatment after 286 mm of water had been applied.
+<ICE-USA:W2A-028#73:1> The highest concentrations of both hexazinone and tebuthiuron
+
+occurred 80 d post- treatment ( Table 3), following application of 44 mm of
+
+water over the previous two-week period, the smallest application since
+
+displacement of the pore volume ( Table 1).
+<ICE-USA:W2A-028#74:1> These results agree with both field plot and watershed studies.
+<ICE-USA:W2A-028#75:1> In a field study in Alberta, Canada, Feng et al. [ 10] found an
+
+inverse relation between hexazinone concentrations and leachate volume.
+<ICE-USA:W2A-028#76:1> In catchment-scale studies, very large storms generally do not result
+
+in high chemical concentrations due to dilution by large flow volumes; the
+
+intermediate storms frequently produce the higher concentrations [ 11]. </p>
+
+<&> [ TABLE 3 OMITTED] </&>
+
+<p> <ICE-USA:W2A-028#77:1> The amounts of both hexazinone and tebuthiouron reaching the
+
+150-cm level varied significantly by collection date, due to amount of
+
+applied rainwater.
+<ICE-USA:W2A-028#78:1> The above average ambient precipitation following herbicide
+
+application and consequent heavy rainwater applications undoubtedly
+
+contributed to the quantity of materials reaching the 150-cm level [ 12].
+<ICE-USA:W2A-028#79:1> Bowman [ 13] documented greater mobility and leaching of two triazine
+
+herbicides in soil cores that received supplemental watering, compared to
+
+those that received natural rainfall.
+<ICE-USA:W2A-028#80:1> The relation between leachate volume and the percentage of each
+
+product recovered at the 150-cm level was highly significant ( <it> p </it>
+
+<0.01, <it> r </it> =0.71 for hexazinone and <it> r </it> =0.44 for
+
+tebuthiuron).The higher coefficient for hexazinone reflects its greater
+
+solubility Beckie and McKercher [ 14] found a close relation between the
+
+position of the wetting front in soil columns and movement of two
+
+sulfonylurea herbicides, suggesting a high leaching potential in coarse
+
+textured soils.
+<ICE-USA:W2A-028#81:1> The greatest amount of both products at the 150-cm level occurred 101
+
+d post-treatment ( Table 3), following application of 88 mm of water, the
+
+largest treatment of the year ( Table 10).
+<ICE-USA:W2A-028#82:1> This treatment amount is nearly equivalent to a 25-h rainfall of 3.5
+
+in. ( 8.9 cm); the probability of a storm of this magnitude at this site is
+
+one in 10 years [ 15]. </p> <&> [ TABLE 4 OMITTED] </&>
+
+<p> <ICE-USA:W2A-028#83:1> Leaching of both hexazinone and tebuthiuron differed
+
+substantially by site ( Table 4).
+<ICE-USA:W2A-028#84:1> Movement of tebuthiuron is determined largely by soil properties.
+<ICE-USA:W2A-028#85:1> It is strongly adsorbed by organic matter and clay particles [
+
+16,17], resulting in large differences among sites in both concentration and
+
+amount of recovered chemical.
+<ICE-USA:W2A-028#86:1> No tebuthiuron reached 150-cm level in soils from sites 2 or 3, where
+
+pH of the surface 40 cm of soil was 4.7 and base saturation averaged 22&percent;.
+<ICE-USA:W2A-028#87:1> Small amounts were recovered from the four more acidic sites, where
+
+pH averaged 4.3 and mean base saturation was <6&percent;. 
+<ICE-USA:W2A-028#88:1> The soils of sites 2 and 3 were classified as Aquic Udipsamments; the
+
+other four sites were either Entic Haplorthods, Typic Udipsamments, or Spodic
+
+Udipsamments [ 4].
+<ICE-USA:W2A-028#89:1> These data suggest that soil pH and base saturation of the upper
+
+horizons, in conjunction with soil classification, may be of value in
+
+identifying sites where tebuthiuron is likely to leach below the rooting
+
+zone.
+<ICE-USA:W2A-028#90:1> On these same sites, soil properties had far less influence on
+
+movement of hexazinone.
+<ICE-USA:W2A-028#91:1> Despite the twofold difference in both concentration and percentage
+
+of hexazinone among the six sites, the differences were not significant (
+
+<it> p </it> >0.05). </p>
+
+<p> <ICE-USA:W2A-028#92:1> The litter-humus treatments had a most pronounced effect on
+
+leaching of both hexazinone and tebuthiuron ( Table 5).
+<ICE-USA:W2A-028#93:1> Humus type ( hardwood pine) did not significantly affect movement of
+
+hexazinone; however, hardwood humus was particularly effective in retaining
+
+tebuthiuron in the upper portion of the profiles.
+<ICE-USA:W2A-028#94:1> The lack of a litter-humus cover increased the amount of hexazinone
+
+reaching the 150-cm level by nearly threefold and that of tebuthiuron by
+
+nearly fivefold. </p> </I>

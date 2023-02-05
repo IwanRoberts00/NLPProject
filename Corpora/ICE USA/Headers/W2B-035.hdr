@@ -1,0 +1,50 @@
+<text.info>
+  <file.description>
+    <textcode>ICE-USA-W2B-035</textcode>
+    <number of subtexts>1</number of subtexts>
+    <category>written: printed: popular: technology </category>
+    <wordcount>2135</wordcount>
+    <version>coded, edited,  with essential markup</version>
+    <free.comments></free.comments>
+  </file.description>
+  <subtext.source=ICE-USA-W2B-035>
+    <source.type=collection>
+      <source.title>Dr. Dobb’s Journal</source.title>
+      <series></series>
+      <editor> </editor>
+    <publication statement>
+      <publisher> </publisher>
+      <address></address>
+      <place>  </place>
+      <date>March, 1990</date>
+    </publication statement>
+    <copyright.statement>Permission obtained.</copyright.statement>
+    <free.comments></free.comments>
+    </source.type>
+  </subtext.source>
+  <subtext.internals=ICE-USA-W2B-035>
+    <subtext.name> </subtext.name>
+      <main.title> Assembly Language Lives! More speed, less filling 
+</main.title>
+      <subtitle></subtitle>
+      <page.nos>16-26</page.nos>
+    <free.comments></free.comments>
+  </subtext.internals>
+  <biography=ICE-USA-W2B-035>
+    <speaker.id></speaker.id>
+      <communicative.role>author</communicative.role>
+      <surname> Abrash </surname>
+      <forenames>Michael</forenames>
+      <age> </age>
+      <gender>male </gender>
+      <nationality></nationality>
+      <birthplace></birthplace>
+      <education> </education>
+      <educational.level> </educational.level>
+      <occupation></occupation>
+      <affiliations></affiliations>
+      <mother.tongue></mother.tongue>
+      <other.languages></other.languages>
+      <free.comments></free.comments>
+  </biography>
+</text.info>

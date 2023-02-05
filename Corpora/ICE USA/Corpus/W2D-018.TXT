@@ -1,0 +1,390 @@
+<I>
+<ICE-USA:W2D-018#1:1> <h> How to Fix Anything</h>
+
+<p> <ICE-USA:W2D-018#2:1> PCs, printers, smartphones, cameras, networks--your stuff will
+
+inevitably stop working.
+<ICE-USA:W2D-018#3:1> Here 's how to troubleshoot and fix your most common tech issues.
+<ICE-USA:W2D-018#4:1> Your PC will crash, your camera will break, your network will fail,
+
+and your printer will chew up paper.
+<ICE-USA:W2D-018#5:1> Before you spend valuable time and money waiting for tech support or
+
+paying for a professional technician, read our handy guide to basic repairs
+
+for your PC, home network, printer, digital camera, and smartphone.</p>
+<ICE-USA:W2D-018#6:1> <h> How to Fix Your PC</h>
+
+<p> <ICE-USA:W2D-018#7:1> Considering how many different software and hardware components
+
+need to work correctly for a modern PC to turn on, it 's a small wonder that
+
+they work as well as they do.
+<ICE-USA:W2D-018#8:1> We can't give you a panacea for all of your computer ills, but we can
+
+provide a guide to getting out of the most common PC disasters.
+<ICE-USA:W2D-018#9:1> Here are some useful strategies. </p>
+
+<p> <ICE-USA:W2D-018#10:1> If your PC won't turn on: Try plugging it into a different outlet
+
+or power strip; if it 's a laptop, try a different battery and power adapter,
+
+if you have another one handy.
+<ICE-USA:W2D-018#11:1> For desktops, make sure that all your internal plugs and cards are
+
+properly seated--graphics card, RAM, everything. </p>
+
+<p> <ICE-USA:W2D-018#12:1> If none of this helps, it 's probably a problem with your
+
+motherboard or power supply, and unless you've got spare parts handy, you' 've
+
+probably best 'ref calling the manufacturer 's tech support line. </p>
+
+<p> <ICE-USA:W2D-018#13:1> If your PC turns on, but won't successfully boot into Windows:
+
+First, start booting up, and press F8 repeatedly during the boot process.
+<ICE-USA:W2D-018#14:1> This may allow you to access a menu that lets you select different
+
+boot options with your keyboard, one of which is " Safe Mode".</p>
+
+<p> <ICE-USA:W2D-018#15:1> Select Safe Mode, uninstall the last thing you installed, update
+
+all your drivers ( if you need to download new ones, you may need to select
+
+the " Safe Mode With Networking" option instead), and open up the System
+
+Restore app ( Start Menu, Accessories, System Tools, System Restore) to roll
+
+back to an earlier point when your PC could successfully start up. </p>
+
+<p> <ICE-USA:W2D-018#16:1> Safe Mode not working?
+<ICE-USA:W2D-018#17:1> Your hard drive might be failing.
+<ICE-USA:W2D-018#18:1> Get your rescue drive or manufacturer recovery discs, boot up from
+
+it, and save whatever data you haven't backed up. </p>
+
+<p> <ICE-USA:W2D-018#19:1> Then run your disk diagnostic app--you can always run Check Disk,
+
+which is built into Windows, by right-clicking your hard drive, selecting
+
+Properties, clicking the Tools tab and selecting Check now... under the "
+
+Error Checking" tab.
+<ICE-USA:W2D-018#20:1> There 's no cure for bad sectors--you'll have to re 'llce the drive.
+
+</p>
+
+<p> <ICE-USA:W2D-018#21:1> If you hear your PC emitting a set of beeps during the startup
+
+process, it 's most likely your BIOS trying to tell you that you have a
+
+motherboard-level problem with your PC--your processor fan might be
+
+unplugged, for example, or your power supply might not be working. </p>
+
+<p> <ICE-USA:W2D-018#22:1> The beep patterns aren't standard, so you'll have to g 'llon a
+
+different PC and check out your BIOS manufacturer 's Web site to figure out
+
+what 's wrong. </p>
+
+<p> <ICE-USA:W2D-018#23:1> If Windows successfully boots, then crashes soon afterwards:
+
+Start by updating all your drivers--first, the essential drivers provided by
+
+your PC manufacturer, then the drivers for your peripherals and extra
+
+devices.
+<ICE-USA:W2D-018#24:1> Don't forget to update your BIOS, too. </p>
+
+<p> <ICE-USA:W2D-018#25:1> If your PC is crashing soon after startup, try uninstalling
+
+anything you recently downloaded and checking your startup apps and
+
+background processes to see if something is going wrong. </p>
+
+<p> <ICE-USA:W2D-018#26:1> You can view the processes in the Task Manager by pressing
+
+Ctrl-Shift-Esc and clicking the Processes tab--and you can use
+
+ProcessLibrary.com as a reference for figuring out the obscure ones.
+<ICE-USA:W2D-018#27:1> For startup items, search for msconfig and click on the Startup tab
+
+to see what 's going on.
+<ICE-USA:W2D-018#28:1> If something you recently installed shows up in there, it might be
+
+your culprit. </p>
+
+<p> <ICE-USA:W2D-018#29:1> If your crashes aren't so easy to reproduce, try running a scan
+
+for viruses and malware with your preferred security suite. </p>
+
+<p> <ICE-USA:W2D-018#30:1> On the other hand, if you recently installed a new security suite
+
+and started seeing problems, try uninstalling it and then use a different
+
+one.
+<ICE-USA:W2D-018#31:1> Security apps typically get deeper into the guts of your system than
+
+other apps, meaning they're more pro 'reto incompatibilities. </p>
+
+<p> <ICE-USA:W2D-018#32:1> Still can't figure it out?
+<ICE-USA:W2D-018#33:1> Google can be your best friend when it comes to troubleshooting,
+
+especially if you have an error message handy--even if the official support
+
+sites haven't covered your specific problem, odds are that someone has posted
+
+on a tech forum about it. </p>
+
+<p> <ICE-USA:W2D-018#34:1> Search for the specific error message--in quotes--for best
+
+results, and if you can't find an immediately obvious error message, try
+
+looking in Control Panel, Problem Reports and Solutions ( Vista); or, for
+
+Windows 7, open Control Panel, Action Center, Maintenance, View reliability
+
+history, and click on View all problem reports at the bottom of the window.
+
+</p>
+
+<p> <ICE-USA:W2D-018#35:1> If you can't find any leads, you might have to do a clean Windows
+
+reinstall.
+<ICE-USA:W2D-018#36:1> Back up your data, reformat, and install from scratch.
+<ICE-USA:W2D-018#37:1> For more troubleshooting tips, check out our " Top Free
+
+Troubleshooting Tools for Windows." </p>
+<ICE-USA:W2D-018#38:1> <h> How To Fix Your Network</h> Troubleshooting networking and
+
+Internet-related problems can be tricky and time-consuming, especially if
+
+your ISP is prone to network outages.
+<ICE-USA:W2D-018#39:1> Read on for some quick networking fixes. </p>
+
+<p> <ICE-USA:W2D-018#40:1> If you can't find your shared PCs or devices on your local
+
+network: There are several reasons why you might not be able to see a certain
+
+PC on your network, but checking your firewall, your sharing, and your
+
+workgroup settings should be a good place to start.
+<ICE-USA:W2D-018#41:1> For more details, check out " How to Troubleshoot Your Home Network."
+
+</p>
+
+<p> <ICE-USA:W2D-018#42:1> Networks with Macs and PCs, or PCs running different versions of
+
+Windows ( or Linux builds), have their own difficulties--features such as
+
+Windows 7 's HomeGroups, for example, make networking much easier among
+
+Windows 7 PCs but are not quite as easy for other OSs to play along with.
+
+</p>
+
+<p> <ICE-USA:W2D-018#43:1> If you can't update all your PCs to run the same version of
+
+Windows, read " Set Up Your Home Network: Windows 7 Edition" to see how you
+
+can get Windows 7 to play nicely with your network. </p>
+
+<p> <ICE-USA:W2D-018#44:1> If none of your PCs can access the Internet: Turn off your modem
+
+and router, and then turn them back on.
+<ICE-USA:W2D-018#45:1> If that doesn't work, try plugging your PC directly into the modem
+
+via ethernet. </p>
+
+<p> <ICE-USA:W2D-018#46:1> If it doesn't work, either, you may have a router problem.
+<ICE-USA:W2D-018#47:1> If not, your connection is down, and you probably need to call your
+
+ISP 's tech support line. </p>
+
+<p> <ICE-USA:W2D-018#48:1> If only some of the computers on your network can access the
+
+Internet: You're dealin 'reith an issue on your network, and the connection to
+
+your ISP is working fine. </p>
+
+<p> <ICE-USA:W2D-018#49:1> First, open the command line ( Start Menu, Accessories, Run, then
+
+type in cmd); type in ipconfig / renew.
+<ICE-USA:W2D-018#50:1> This will tell your PC to get a new IP address, a step that can clear
+
+up several network issues. </p>
+
+<p> <ICE-USA:W2D-018#51:1> If that doesn't work, try checking the networking settings on
+
+each of your PCs by going to Control Panel, Network and Sharing Center,
+
+Change Adapter Settings and opening up the panel for the networking device (
+
+Local Area Connection for wired networks, or Wireless Network Connection for
+
+Wi-Fi, usually) that you're trying 're use, and click Details. </p>
+
+<p> <ICE-USA:W2D-018#52:1> From here, you should find clues to what might be going on.
+<ICE-USA:W2D-018#53:1> If it says " No" under " DHCP Enabled," then your PC is trying to use
+
+a preexisting IP address, subnet mask, and DNS server information to connect
+
+to your network.
+<ICE-USA:W2D-018#54:1> Normally, most home networks use DHCP ( Dynamic Host Configuration
+
+Protocol) to automatically assign addresses to new PCs on the network, so all
+
+you have to do is plug in ( or connect via Wi-Fi), and you're good t 'reo.
+<ICE-USA:W2D-018#55:1> Close the Details window and click Properties; click Internet
+
+Protocol Version 4 ( TCP/IPv4), then Properties.
+<ICE-USA:W2D-018#56:1> From here, just switch the radio buttons from " Use the following IP
+
+address" and " Use the following DNS server addresses" to " Obtain an IP
+
+address automatically" and " Obtain DNS server address automatically." </p>
+
+<p> <ICE-USA:W2D-018#57:1> If your IPv4 address starts with " 169.254.", your PC is trying
+
+to use DHCP to get an IP address and Domain Name Server information for that
+
+network automatically.
+<ICE-USA:W2D-018#58:1> However, an IP address starting with those two numbers means either
+
+that the DHCP server on the network ( typically the router, in small home
+
+networks) isn't working, or that it 's not enabled, and you'll nee 'llo
+
+manually enter the IP address, subnet mask, and DNS server information on
+
+your own. </p>
+
+<p> <ICE-USA:W2D-018#59:1> You can do this by going into the Network Connections window,
+
+right-clicking on the network interface you're tryi 'reto use, and selecting
+
+Properties. </p>
+
+<p> <ICE-USA:W2D-018#60:1> From here, you should select Internet Protocol Version 4 (
+
+TCP/IPv4); click Properties, and then both the Use the following IP address
+
+radio button and the Use the following DNS server addresses radio button to
+
+enter them in.
+<ICE-USA:W2D-018#61:1> However, you'll pro 'llly need to get that information from whoever
+
+set up your home network; most home networks use DHCP to cut down the hassle.
+
+</p>
+<ICE-USA:W2D-018#62:1> <h> How To Fix Your Printer</h>
+
+<p> <ICE-USA:W2D-018#63:1> Printers can break, jam, and drop print quality suddenly.
+<ICE-USA:W2D-018#64:1> Here 's what you can do about these common printing headaches.
+<ICE-USA:W2D-018#65:1> If your printer jams: You're go 're to need to get that paper out of
+
+your printer before you do anything else.
+<ICE-USA:W2D-018#66:1> It pays to check your printer 's documentation to make sure you
+
+extricate the paper in a way that does not damage your printer 's internal
+
+mechanics. </p>
+
+<p> <ICE-USA:W2D-018#67:1> Specifically, check the manual for advice on how to get to where
+
+the paper is stuck ( an access door or release lever), and how to remove the
+
+sheet--ideally, in one piece, as removing smaller bits can be a real pain.
+<ICE-USA:W2D-018#68:1> If you can't find your manual, the basic rule of thumb is to pull
+
+gently on the paper in the direction that it would be exiting--i.e., forward,
+
+not backward, in the paper path.
+<ICE-USA:W2D-018#69:1> If you can't get the whole piece of paper, look carefully for the
+
+stray scraps and extract them with tweezers, as they could cause another jam.
+
+</p>
+
+<p> <ICE-USA:W2D-018#70:1> When it comes to paper jams, they're 'reier to prevent than to
+
+fix.
+<ICE-USA:W2D-018#71:1> Start by taking good care of your paper--make sure it is stored
+
+smooth, dry, and flat.
+<ICE-USA:W2D-018#72:1> Do not feed folded, dogeared, torn, or otherwise less-than-perfect
+
+paper into your printer. </p>
+
+<p> <ICE-USA:W2D-018#73:1> Also, don't let paper sit for more than a day in vertical-feed
+
+trays, as the pages can bend slightly ( affecting their ability to feed
+
+smoothly) and the pressure of the paper on the rollers might affect the
+
+rollers' functionality. </p>
+
+<p> <ICE-USA:W2D-018#74:1> Finally, adjust your paper tray to fit the paper you're 'reng.
+<ICE-USA:W2D-018#75:1> A carelessly set width or length guide can affect how the paper feeds
+
+and possibly cause a jam.
+<ICE-USA:W2D-018#76:1> Also, most printers these days have their own maintenance functions
+
+that will realign and clean the printer heads.
+<ICE-USA:W2D-018#77:1> Run through those once or twice and see if that helps.
+<ICE-USA:W2D-018#78:1> If your printer is printing slowly: A handful of different factors
+
+could be slowing down your print speed.
+<ICE-USA:W2D-018#79:1> Here 's what to look for. </p>
+
+<p> <ICE-USA:W2D-018#80:1> First off, check to make sure you're 'ret printing in a
+
+high-quality or " best" mode, which will take longer than a default or draft
+
+mode.
+<ICE-USA:W2D-018#81:1> Depending on what you're 'reinting, your connection to your printer
+
+might be bottlenecking the print rate.
+<ICE-USA:W2D-018#82:1> Wireless connections can be affected by distance from the printer,
+
+airwave interference, and physical barriers, and USB connections have
+
+narrower bandwidth than ethernet connections. </p>
+
+<p> <ICE-USA:W2D-018#83:1> If you print run-of-the mill documents, largely text and some
+
+photos, than a wireless or USB connection should be adequate.
+<ICE-USA:W2D-018#84:1> If you print complex or high-res graphics or have a lot of people
+
+trying to use the printer, ethernet is better suited for bigger or busier
+
+traffic.
+<ICE-USA:W2D-018#85:1> Also, most consumer printers rely on your PC to process the print
+
+job, so if your PC 's memory and processor are already heavily taxed your jobs
+
+will take longer to process. </p>
+
+<p> <ICE-USA:W2D-018#86:1> If a printer does have its own memory ( usually one designed to
+
+work in an office), check to make sure there is enough memory to handle the
+
+complexity and quantity of jobs you are sending to it.
+<ICE-USA:W2D-018#87:1> Did problems begin after you started to print a lot more than usual?
+<ICE-USA:W2D-018#88:1> Check the printer 's monthly duty cycle to see how much it 's designed
+
+to push out. </p>
+
+<p> <ICE-USA:W2D-018#89:1> If you started off with a consumer-level printer designed to
+
+print perhaps up to a few dozen pages a day, but you are now printing a
+
+hundred or more pages a day, your old printer is probably struggling to keep
+
+up.
+<ICE-USA:W2D-018#90:1> If you are printing 25 percent or more of the monthly duty cycle
+
+spec, then you should probably get a printer with a higher monthly duty
+
+cycle.</p> </I>

@@ -1,0 +1,99 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2C-017</textcode>
+          <number of subtexts>3</number of subtexts>
+          <category>written: printed: reportage: press news</category>
+          <wordcount>2013</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ALL>
+          <source.type=newspaper>
+               <source.title>West Hawaii Today</source.title>
+          <publication statement>
+               <publisher>Copyright 2001 West Hawaii Today</publisher>
+               <address> </address>
+               <place> </place>
+               <date>4/25, 6/24/2001</date>
+          </publication statement>
+          <copyright.statement>used with permission of West Hawaii Today</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+</text.info>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-017>
+          <subtext.name></subtext.name>
+               <main.title>Navy seeks permits to deploy sonar system</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-018>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Command</surname>
+               <forenames>Bobby</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-017>
+          <subtext.name></subtext.name>
+               <main.title> Mixed feelings from teachers before vote</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-017>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Wedemeyer</surname>
+               <forenames>Starr</forenames>
+               <age> </age>
+               <gender> </gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-017>
+          <subtext.name></subtext.name>
+               <main.title>Hundreds turn out for relay for Life program</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-017>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Wedemeyer</surname>
+               <forenames>Starr</forenames>
+               <age> </age>
+               <gender> </gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

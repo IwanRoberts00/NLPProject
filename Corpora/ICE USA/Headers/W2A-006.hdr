@@ -1,0 +1,45 @@
+<text.info> 
+    <file.description>          
+<textcode>ICE-USA-W2A-006</textcode>
+
+          <number of subtexts>1</number of subtexts>          
+<category>written:printed:academic:humanities</category>          
+<wordcount>2130</wordcount>
+          <version>coded, edited, with Essential Markup</version>          
+<free.comments></free.comments>  
+   </file.description>     
+<subtext.source=ICE-USA-W2A-006>         
+ <source.type=collection>   
+            <source.title>Frontiers: A Journal of Women's Studies</source.title>              
+ <series></series>        
+       <editor> </editor>      
+    <publication statement>      
+         <publisher>Frontiers: A Journal of Women's Studies</publisher>               <address> </address>
+               <place> </place>               
+<date>1993</date>       
+   </publication statement>          
+<copyright.statement>used by permission of Frontiers: A Journal of Women's Studies </copyright.statement>          
+<free.comments></free.comments>  
+        </source.type>
+</subtext.source>   
+  <subtext.internals=ICE-USA-W2A-006>          
+<subtext.name> </subtext.name>      
+         <main.title> In Search of Nancy Drew, the Snow Queen, and Room Nineteen: Crusing for Femenine Discourses</main.title>               <subtitle></subtitle>    
+           <page.nos> </page.nos>          
+<free.comments></free.comments>     </subtext.internals>     
+<biography=ICE-USA-W2A-006>          <speaker.id></speaker.id> 
+              <communicative.role>author</communicative.role>        
+       <surname>Brown</surname>               
+<forenames>Ellen</forenames>
+               <age> </age>  
+             <gender> </gender>               
+<nationality></nationality>               
+<birthplace></birthplace>               
+<education></education>               
+<educational.level></educational.level>               
+<occupation></occupation>               
+<affiliations></affiliations>               
+<mother.tongue></mother.tongue>               
+<other.languages></other.languages>               
+<free.comments></free.comments>     </biography>
+</text.info>

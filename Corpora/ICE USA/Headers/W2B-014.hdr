@@ -1,0 +1,49 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2B-014</textcode>
+          <number of subtexts>2</number of subtexts>
+          <category><category>written: printed: popular: social science</category>
+          <wordcount>2200</wordcount>
+          <version>coded, edited, with essential tagging</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ICE-USA-W2B-014>
+          <source.type=collection>
+               <source.title>The American Legion</source.title>
+               <series></series>
+               <editor> </editor>
+          <publication statement>
+               <publisher>The American Legion</publisher>
+               <address>5561 W. <#>74th St.</address>
+               <place>Indianapolis, IN 46268</place>
+               <date>Feb 1992</date>
+          </publication statement>
+          <copyright.statement>used by permission of The American Legion </copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA-W2B-014>
+          <subtext.name> </subtext.name>
+               <main.title>America's Homeless Veterans; Children of the Nightmare</main.title>
+               <subtitle></subtitle>
+               <page.nos>19-21; 26-27</page.nos>
+          <free.comments>There are two different articles, same magazine, same date</free.comments>
+     </subtext.internals>
+     <biography=ICE-USA-W2B-014>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>McGarvey, Turbak</surname>
+               <forenames>Robert, Gary</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

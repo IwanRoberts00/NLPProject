@@ -1,0 +1,394 @@
+<I>
+<ICE-USA:W2B-031#1:1> <h> Clean Up, Flatten Out</h>
+<ICE-USA:W2B-031#2:1> <h> Molly E. Holzschlag</h>
+
+<p> <ICE-USA:W2B-031#3:1> In our rush to build the Web, we've fallen into some really
+
+limiting hab 've when it comes to both our visual designs and our technology
+
+presentations.</p>
+
+<p> <ICE-USA:W2B-031#4:1> When I first started in Web design, I grabbed at everything that
+
+came down the assembly line: graphics, animation, Flash.
+<ICE-USA:W2B-031#5:1> If I didn't use something, I read about it and tried out the code, the
+
+software, or the technique.
+<ICE-USA:W2B-031#6:1> I experimented, and I loved it all.
+<ICE-USA:W2B-031#7:1> In my frenzy, I made some offensive mistakes, and I still make them.
+<ICE-USA:W2B-031#8:1> But I'm learning a lot, and one thing I'm noticing is that 'my bad
+
+habits have sometimes g 'mten in the way of designing aesthetically great
+
+sites that embrace today 's recommended markup and related practices.
+<ICE-USA:W2B-031#9:1> It 's like being a self-taught guitar player.
+<ICE-USA:W2B-031#10:1> I'm innovative but encumbered. </p>
+
+<p> <ICE-USA: 'mB-031#11:1> In our rush to build the Web, we've fallen into some really
+
+limiting h 'vets when it comes to both our visual designs and our technology
+
+presentations.
+<ICE-USA:W2B-031#12:1> The more I study markupespecially in the context of XMLthe more I'm
+
+convinced that the solution to our design wo 'm lies in the essence of markup,
+
+and not in the fun frills. </p>
+
+<p> <ICE-USA:W2B-031#13:1> In my early days as a Web designer, I had friends who'd been in
+
+the compute 'dindustry for years, had been using the Internet for email,
+
+Telnet, FTP, and Usenet.
+<ICE-USA:W2B-031#14:1> They hated graphics, even hated the idea of GUI access to the Web.
+<ICE-USA:W2B-031#15:1> They made fun of me for anticipating the possibility of a visual Web,
+
+much less a media-rich Web. </p>
+
+<P> <ICE-USA:W2B-031#16:1> It 's odd for meespecially with my love of broadband and clever
+
+Flash designto come around to a purist point of view when it comes to visual
+
+Web design.
+<ICE-USA:W2B-031#17:1> Perhaps I'm not as radical as the friends who once teased 'me, and I
+
+don't regret my experimental frenzy one bit.
+<ICE-USA:W2B-031#18:1> But now it 's time for all of us to pay attention to what we're doing,
+
+why we're d 'reg it, and for who 're
+<ICE-USA:W2B-031#19:1> We're challenged to grow in 'rethe new wireless and alternative design
+
+options. </p>
+
+<p> <ICE-USA:W2B-031#20:1> To formulate a successful contemporary design, we must first
+
+study visual design mistakes, examine the alternatives, and find solutions in
+
+markup.
+<ICE-USA:W2B-031#21:1> When we integrate visual design concepts and today 's recommended
+
+markup options, we make a surprising find:
+<ICE-USA:W2B-031#22:1> A Web site can be aesthetically appropriate and completely
+
+cross-browser, cross-platform compliant. </p>
+<ICE-USA:W2B-031#23:1> <h> Where We Went Astray</h>
+
+<p> <ICE-USA:W2B-031#24:1> We tried to make the Web multimedia, but it isn't.
+<ICE-USA:W2B-031#25:1> Multimedia means multiple media forms operating in an integrated
+
+environment.
+<ICE-USA:W2B-031#26:1> However, the Web was never meant to be a platform for simultaneous
+
+delivery of multiple media forms.
+<ICE-USA:W2B-031#27:1> It was originally created for text.
+<ICE-USA:W2B-031#28:1> It can deliver multimedia, but the Web is at root a text environment
+
+with links as an added component.</p>
+
+<p> <ICE-USA:W2B-031#29:1> The ability to link from one document to many other supportive or
+
+referential documents meant that we could break free of the more linear
+
+constructs that defined books.
+<ICE-USA:W2B-031#30:1> When the Web became a graphical environment, it was no longer just
+
+text that was linked.
+<ICE-USA:W2B-031#31:1> Rather, graphics or other media became the objects of this
+
+hyper-environment.
+<ICE-USA:W2B-031#32:1> And so emerged hypermedia.
+<ICE-USA:W2B-031#33:1> This extension beyond the linear structure is what makes it " hyper,"
+
+or more than what we had previously experienced.
+<ICE-USA:W2B-031#34:1> Hypermedia is what makes the Web especially intriguing. </p>
+<ICE-USA:W2B-031#35:1> <h> Hypermedia Versus Multimedia</h>
+
+<p> There are very important differences between multimedia and hypermedia.
+<ICE-USA:W2B-031#36:1> Multimedia is dimensional, and while it 's almost always interactive,
+
+that interactivity is restricted by context.
+<ICE-USA:W2B-031#37:1> Hypermedia can also be described as dimensional, but in a less
+
+literal sense.
+<ICE-USA:W2B-031#38:1> Hypermedia adds dimension to a two-dimensional space by attracting a
+
+critical mass of people who keep it vibrant and constantly alive.
+<ICE-USA:W2B-031#39:1> This " dimension" has yet to be defined, but its impact is obvious.
+<ICE-USA:W2B-031#40:1> Context is less critical for hypermedia than for multimedia, and
+
+hypermedia is more organicit 's defined by interactivity, while multimedia
+
+more closely resembles a presentation. </p>
+
+<p> <ICE-USA:W2B-031#41:1> Consider more traditional delivery methods for multimedia, such
+
+as CD-ROM presentations or kiosks with touch screens.
+<ICE-USA:W2B-031#42:1> Access is pretty much limited to one personat most a fewat any
+
+given time.
+<ICE-USA:W2B-031#43:1> The Web can be extremely human in a way that these devices cannot.
+<ICE-USA:W2B-031#44:1> The fact that we're present in interac 'rens with one another on such
+
+a massive scale changes the scope of visual communicationor all
+
+communicationgreatly. </p>
+
+<p> <ICE-USA:W2B-031#45:1> However, the limitations and ungainliness of multimedia somehow
+
+found their way into the visual design of the Web, and it 's not a good fit.
+
+</p>
+
+<p> <ICE-USA:W2B-031#46:1> Because the Web emerged from a text environment, it 's unlikely
+
+that most people thought " TV" when they first saw pages in Mosaic.
+<ICE-USA:W2B-031#47:1> As far as I recall, a graphic looked ungainly against a mid-gray
+
+background.
+<ICE-USA:W2B-031#48:1> Everything was clunky, too big, too slow, or too heavy. </p>
+
+<p> <ICE-USA:W2B-031#49:1> We began creating dimensional objects for Web sites when 15-inch
+
+monitors were all the rage.
+<ICE-USA:W2B-031#50:1> Consider what a mistake it was to try to create dimension on a screen
+
+that small.
+<ICE-USA:W2B-031#51:1> We did it anyway, and we set a very poor precedent.
+<ICE-USA:W2B-031#52:1> ( After all, now that portable devices are all the rage, screens are
+
+only getting smaller.) </p>
+
+<p> <ICE-USA:W2B-031#53:1> Today 's average monitor has a 17-inch screen, only slightly
+
+bigger than a breadbox.
+<ICE-USA:W2B-031#54:1> Bear in mind that I'm purposely not talking about resolu 'mon here,
+
+I'm talking about physical size, mass. 'm<ICE-USA:W2B-031#55:1> It 's ridiculous to try to stuff so much onto a page.
+<ICE-USA:W2B-031#56:1> Whether it 's text, graphics, mediaI don't care.
+<ICE-USA:W2B-031#57:1> We don't need so many bells and whistles.
+<ICE-USA:W2B-031#58:1> Simplicity is almost always beautiful, and even at its worst it 's not
+
+offensive. </p>
+
+<p> <ICE-USA:W2B-031#59:1> So why do we continue to stuff our pages until the seams strain?
+
+It all started when we recognized the Web as a possible platform for
+
+multimedia, and then decided that multimedia was the best way to use the Web.
+<ICE-USA:W2B-031#60:1> Sadly, this marginalized hypermedia, as evident in the vast
+
+proliferation of debris left over from early days of designoverblown
+
+graphics, dancing GIFs, and pages that come complete with soundtracks.
+<ICE-USA:W2B-031#61:1> We tried to make the Web multimedia.
+<ICE-USA:W2B-031#62:1> And frighteningly enough, we're still doing 're
+<ICE-USA:W2B-031#63:1> It 's wrong, and it 's limiting. </p>
+
+<p> <ICE-USA:W2B-031#64:1> Let 's examine what we're doing wit 'reesign.
+<ICE-USA:W2B-031#65:1> Isn't it possible that we compromised our ability to explore a
+
+uniquely fresh hypermedia environment by imposing an existing notion of
+
+multimedia instead? </p>
+
+<p> <ICE-USA:W2B-031#66:1> Why do we want to create objects and place visual ideas in a Web
+
+environment that is so obviously visually flat? I think we're striving 're
+
+something that 's tactile.
+<ICE-USA:W2B-031#67:1> We've tried to make 've Web something we could happily touch instead
+
+of embracing its more abstract qualities: a nonlinear approach to the flow of
+
+thought and information, and an interactive dimension thatwhile not
+
+tactilepromises rich experiences for the user. </p>
+<ICE-USA:W2B-031#68:1> <h> Boxed In</h>
+
+<p> <ICE-USA:W2B-031#69:1> Unfortunately, our problems don't stop with multimedia clutter.
+<ICE-USA:W2B-031#70:1> Once we've swept away the 'vecess, we'll have t 'lleal with the rigid,
+
+angular pages left behind. </p>
+
+<p> <ICE-USA:W2B-031#71:1> Rectangles are completely limiting.
+<ICE-USA:W2B-031#72:1> We've allowed ourse 'ves to be bound by the de facto system of a Web
+
+page 's infrastructure, particularly in terms of content and shape.
+<ICE-USA:W2B-031#73:1> We're taking 'ree physical mass of a 17-inch monitor and essentially
+
+pasting more rectangles inside its rectangular frame.
+<ICE-USA:W2B-031#74:1> Borders within borders of content with more borders. </p>
+
+<p> <ICE-USA:W2B-031#75:1> What 's even more interesting is examining the markup we've been
+
+us 've to achieve our layouts, namely tables and sometimes frames.
+<ICE-USA:W2B-031#76:1> Again, we're worki 'reon very rigid, rectangular models.
+<ICE-USA:W2B-031#77:1> The same is true for those few angels who've found a w 'veto make CSS
+
+positioning work for them.
+<ICE-USA:W2B-031#78:1> A box-model still rules the day. </p>
+
+<p> <ICE-USA:W2B-031#79:1> Why do we try to box everything in? Global human expression is
+
+filled with curved shapes and structurescircles, spirals, and spheres.
+<ICE-USA:W2B-031#80:1> Yet those of us in the Western world favor lines, angles, and
+
+rectangles.
+<ICE-USA:W2B-031#81:1> We've revered a 'verespected the linear for so long that the phrase "
+
+thinking outside the box" has become synonymous with revolutionary
+
+innovation. </p>
+
+<p> <ICE-USA:W2B-031#82:1> Look at a wall in your home.
+<ICE-USA:W2B-031#83:1> If you have a nice painting or poster, it 's probably in a rectangular
+
+frame.
+<ICE-USA:W2B-031#84:1> Windows are rectangles; doors are rectangles.
+<ICE-USA:W2B-031#85:1> This shape makes up a lot of our world.
+<ICE-USA:W2B-031#86:1> And that 's fine, but we have sky out there too.
+<ICE-USA:W2B-031#87:1> A screen has no sky.
+
+<p> <ICE-USA:W2B-031#88:1> What it does have is more rectangles.
+<ICE-USA:W2B-031#89:1> You have a frame around the monitor, your browser frames your
+
+content, and some people put borders and frames into the visual design of
+
+their pages.
+<ICE-USA:W2B-031#90:1> For those of you who eschew borders and frames, you're sti 'rebuilding
+
+on a grid system, which frames the infrastructure.
+<ICE-USA:W2B-031#91:1> So how do we open things up, give our screens a little bit of sky?
+
+</p>
+
+<p> <ICE-USA:W2B-031#92:1> It 's a fascinating problem.
+<ICE-USA:W2B-031#93:1> While CSS2 offers all kinds of powerful border, spacing, and padding
+
+options, we've had a 'velution in CSS1 all along: the use of color and type to
+
+achieve shape within the inherent design.
+<ICE-USA:W2B-031#94:1> If you put all of that into a style sheet, and leave only your
+
+content in your markup document, the content will still be accessible by any
+
+other platform and device. </p>
+<ICE-USA:W2B-031#95:1> <h> Design the Future Today</h>
+
+<p> <ICE-USA:W2B-031#96:1> Several principles will help designers shift away from the
+
+legacies of our early mistakes.
+<ICE-USA:W2B-031#97:1> Let 's move into an integrated methodology of client-side development
+
+that marries markup and visual aesthetics. </p>
+<ICE-USA:W2B-031#98:1> <h> Flatten Your Design.</h>
+
+<p> <ICE-USA:W2B-031#99:1> If old belief systems suggest mimicking the tactile world, but
+
+adding dimension isn't working, then let go.
+<ICE-USA:W2B-031#100:1> Get flat. </p>
+
+<p> <ICE-USA:W2B-031#101:1> The Web, at least onscreen, is still a two-dimensional space.
+<ICE-USA:W2B-031#102:1> This is mechanically true because graphics are displayed in two
+
+dimensions.
+<ICE-USA:W2B-031#103:1> From a technical perspective, you can tap into extremely clean HTML
+
+or XHTML combined with CSS.
+<ICE-USA:W2B-031#104:1> Your site is then readable on every browser, platform, and
+
+appliance. </p>
+
+<p> <ICE-USA:W2B-031#105:1> You've sepa 'veed your formatting and presentation effectively,
+
+and you've flat 'veed everything.
+<ICE-USA:W2B-031#106:1> You have no bevels, no buttons, no shadows, no light sources.
+<ICE-USA:W2B-031#107:1> You have no tabs, no drop-down menus.
+<ICE-USA:W2B-031#108:1> You do have color, and you do have content.
+<ICE-USA:W2B-031#109:1> I'll 'lll you what to do with that in a minute. </p>
+<ICE-USA:W2B-031#110:1> <h> Stop Being Square. </h>
+
+<p> <ICE-USA:W2B-031#111:1> It 's nearly impossible to break out of the rectangular systems
+
+for visual Web design.
+<ICE-USA:W2B-031#112:1> But contemporary design should open up confined space or create new
+
+ways of looking at old space. </p>
+
+<p> <ICE-USA:W2B-031#113:1> Wherever you can, avoid creating lots of rectangles unless you
+
+have a specific reason for using them ( such as for expressing containment
+
+and security).
+<ICE-USA:W2B-031#114:1> Focus instead on the parts of shapes: lines, curves, and angles.
+<ICE-USA:W2B-031#115:1> If you do use rectangles, leave them flat against the
+
+backgrounddon't add bevels or drop shadows, or any dimension at all. </p>
+
+<p> <ICE-USA:W2B-031#116:1> Ironically, this reduces file size, too.
+<ICE-USA:W2B-031#117:1> The more effects there are in a graphic, the harder it becomes to
+
+compress. </p>
+<ICE-USA:W2B-031#118:1> <h> Use Very Few Graphics. </h>
+
+<p> <ICE-USA:W2B-031#119:1> I'm con 'mnced that the best designs use only graphics that are
+
+absolutely necessary.
+<ICE-USA:W2B-031#120:1> If you limit your use of graphics, the ones you do use will grab
+
+much more attention, especially if they're 'rell planned and well placed. </p>
+
+<p> <ICE-USA:W2B-031#121:1> Use text for links, rely on CSS for effects like removing
+
+underlines or creating rollovers.
+<ICE-USA:W2B-031#122:1> Rely on color for fonts, headers, and all link options.
+<ICE-USA:W2B-031#123:1> Again, use CSS wherever possible to separate the presentation from
+
+the markup, keeping the markup itself very clean. </p>
+<ICE-USA:W2B-031#124:1> <h> Keep Scripting and Multimedia to a Minimum. </h>
+
+<p> <ICE-USA:W2B-031#125:1> Hate me if you want to, but in most cases, scripting, Flash,
+
+Shockwave, and QuickTime elements aren't necessary.
+<ICE-USA:W2B-031#126:1> Sure, if you're 'reilding the next big alternative rock band 's Web
+
+site, go get happy.
+<ICE-USA:W2B-031#127:1> And independent Flash artistsyou keep doing what you'r 'reoing.
+<ICE-USA:W2B-031#128:1> But when it comes to most commercial site design situations, rely on
+
+clever CSS color schemes and keep your markup as uncluttered as possible.
+
+</p>
+<ICE-USA:W2B-031#129:1> <h> Flatten, Simplify, and Separate.</h>
+
+<p> <ICE-USA:W2B-031#130:1> Contemporary visual design should strive to be flat.
+<ICE-USA:W2B-031#131:1> It should denounce old belief systems about what kind of medium the
+
+Web really is and just visually embrace its simple dimension. </p>
+
+<p> <ICE-USA:W2B-031#132:1> Flat design is not only an aesthetic or reactionary choice; it 's
+
+also a choice that integrates perfectly with Web markup methodologies.
+<ICE-USA:W2B-031#133:1> This means successfully separating content and presentation, which
+
+positions your site for the Web, for wireless, for backward-compatible
+
+browsers, for anything. </p>
+
+<p> <ICE-USA:W2B-031#134:1> Today 's Web sites remain frighteningly poor in terms of visual
+
+design and markup practices.
+<ICE-USA:W2B-031#135:1> I 'm convinced that in their current state, Web standards and visual
+
+trends are perfectly matched to offer the best visual design and the
+
+cleanest, most platform-versatile offerings around.
+<ICE-USA:W2B-031#136:1> Learning to balance these issues is the best gift we can give to our
+
+audiences, and ourselves. </p>
+
+<p> <ICE-USA:W2B-031#137:1> Molly is the author of numerous books on visual design and Web
+
+markup.
+<ICE-USA:W2B-031#138:1> She holds an M.A. in media studies from New School University.
+<ICE-USA:W2B-031#139:1> Visit her at www.molly.com. </p> </I>

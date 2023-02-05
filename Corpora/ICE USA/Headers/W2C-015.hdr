@@ -1,0 +1,75 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2C-015</textcode/>
+          <number of subtexts>2</number of subtexts>
+          <category>written: printed: reportage: press news</category>
+          <wordcount>2160</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ALL>
+          <source.type=newspaper>
+               <source.title>The Arizona Republic</source.title>
+          <publication statement>
+               <publisher> Copyright 1993 Phoenix Newspapers, Inc.</publisher>
+               <address> </address>
+               <place> </place>
+               <date>1/30, 31/1993</date>
+          </publication statement>
+          <copyright.statement>used with permission of Phoenix Newspapers Inc.</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+</text.info>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-015>
+          <subtext.name></subtext.name>
+               <main.title>Communities Around Arizona Open Homes, Historic Buildings for Fascinating Insider's Peek</main.title>
+               <subtitle></subtitle>
+               <page.nos>p. <#>T1</page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-015>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Walker</surname>
+               <forenames>Judy</forenames>
+               <age> </age>
+               <gender>Female</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-015>
+          <subtext.name></subtext.name>
+               <main.title>NFL Films Founder's Super Streak in Jeopardy</main.title>
+               <subtitle></subtitle>
+               <page.nos>p. <#>E1</page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-015>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Sidener</surname>
+               <forenames>Jonathan</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+
+               <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,446 @@
+<I>
+
+<p> <ICE-USA:W2A-032#1:1> This paper is based on a review of the literature about controlled
+
+experiments in research on knowledge acquisition.
+<ICE-USA:W2A-032#2:1> The review was carried out to help the author make decisions about the
+
+design of his own experiment comparing two knowledge-acquisition methods.
+<ICE-USA:W2A-032#3:1> The paper looks critically at six experiments reported in the
+
+literature, and proposes a framework within which such empirical work can be
+
+viewed.
+<ICE-USA:W2A-032#4:1> It concludes that some of the apparent difficulties can be resolved,
+
+and that controlled experiments can be a useful way of discovering the
+
+relationships at work in a knowledge-acquisition project.</p>
+<ICE-USA:W2A-032#5:1> <h> <bold> Introduction</bold></h>
+
+<p> <ICE-USA:W2A-032#6:1> Case studies and benchmarks have been used widely in research on
+
+knowledge-based systems.
+<ICE-USA:W2A-032#7:1> For example, in a case study, Michalski and Chilausky [ 1]
+
+investigated the effect of the acquisition method in a single domain on the
+
+effort needed to acquire the knowledge and on the diagnostic accuracy of the
+
+resulting knowledge bases.
+<ICE-USA:W2A-032#8:1> In a benchmark, Quinlan [ 21 used several ease bases as input to
+
+different induction algorithms, and observed the effect of these variables on
+
+the diagnostic accuracy of the induced knowledge bases.</p>
+
+<p> <ICE-USA:W2A-032#9:1> But there is a growing awareness [ 3] that controlled experiments
+
+can help advance understanding of how the knowledge source, representation,
+
+acquisition method, domain, and engineer affect the effort needed to build a
+
+knowledge base and the quality of its performance.
+<ICE-USA:W2A-032#10:1> Burton and Shadbolt [ 4, p.11] argue strongly in favor of controlled
+
+experimentation:</p>
+
+<p> <ICE-USA:W2A-032#11:1> Although one can get useful practical information from case
+
+studies, there will always be many factors unique to any particular
+
+knowledge-elicitation session.
+<ICE-USA:W2A-032#12:1> Hence the need for a formal experimental analysis.</p>
+
+<p> <ICE-USA:W2A-032#13:1> Indeed, researchers such as Burton et al. [ 5], Lundell [ 6],
+
+Stevenson et al. [ 7], Deffner and Ahrens [ 8], Adelman [ 3], and Agarwal and
+
+Tanniru [ 9] have used methods from experimental psychology to explore
+
+research questions in knowledge acquisition.</p>
+
+<p> <ICE-USA:W2A-032#14:1> The author 's interest in the subject arose from his own need to
+
+compare two knowledge-acquisition methods 1 in terms of the effort they
+
+demand from a domain expert, and the accuracy of their outcomes.
+<ICE-USA:W2A-032#15:1> The controlled experiment seemed the ideal way to do the
+
+investigation, so a search was made of previous uses of this of knowledge
+
+acquisition.
+<ICE-USA:W2A-032#16:1> It is evident that not many researchers have used controlled
+
+experiments for this purpose.
+<ICE-USA:W2A-032#17:1> However, the few that appear in the literature do contain lessons
+
+from which the author 's own design was able to benefit.
+<ICE-USA:W2A-032#18:1> These lessons, and their influence on the author 's design, are
+
+discussed in this paper.</p>
+<ICE-USA:W2A-032#19:1> <h> <bold> Experiments </bold> </h>
+
+<p> <ICE-USA:W2A-032#20:1> This section discusses six experiments reported in the
+
+knowledge-acquisition literature.</p>
+<ICE-USA:W2A-032#21:1> <h> <it> Congruence of representation </it> </h>
+
+<p> <ICE-USA:W2A-032#22:1> Proposing hypotheses based on Anderson 's theory of skill
+
+acquisition [ 11], Lundell argues [ 6] that while novices store their
+
+expertise in declarative memory, or at the conscious level, experts do so in
+
+procedural memory, or at the tacit level.
+<ICE-USA:W2A-032#23:1> Lundell further argues that it ought to be easier to elicit rules
+
+from novices than from experts, and that it ought to be easier to obtain
+
+typical examples ( or what he calls <quote> ? prototypes") from experts than
+
+from novices.</p>
+
+<p> <ICE-USA:W2A-032#24:1> In addition, Lundell conjectures that an artificial neural
+
+network ( built using prototypes and exemplars obtained from an expert) ought
+
+to have greater diagnostic accuracy than a similar knowledge base derived
+
+from exemplars and prototypes that have been elicited from novices.
+<ICE-USA:W2A-032#25:1> Conversely, a set of rules elicited directly from a novice ought to
+
+have a higher diagnostic accuracy than a set elicited directly from an
+
+expert.</p>
+
+<p> <ICE-USA:W2A-032#26:1> Lundell 's <quote> ? representational congruence?</quote>
+
+hypothesis asserts that if, for example, a rule-elicitation method is used,
+
+it will elicit primarily knowledge stored as rules in the mind of the expert.
+<ICE-USA:W2A-032#27:1> Lundell 's representational and <quote> ? elicitational
+
+congruence?</quote> hypotheses involve the following independent
+
+variables:</p>
+
+<p> <ICE-USA:W2A-032#28:1> *Elicitation method.*Expert 's level of expertise.*Knowledge
+
+representation in the knowledge base./p>
+
+<p> <ICE-USA:W2A-032#29:1> These variables are all controllable in an experiment.
+<ICE-USA:W2A-032#30:1> The dependent variable, which, Lundell argues, is a function of the
+
+variables listed above, is diagnostic accuracy of the knowledge base built
+
+using the knowledge elicited from a subject.
+<ICE-USA:W2A-032#31:1> To test his hypotheses, Lundell had to vary the controllable
+
+variables in turn, and record the effects on diagnostic accuracy.
+<ICE-USA:W2A-032#32:1> Taking several observations for each setting of each controllable
+
+variable allowed him to increase the reliability of his results.
+<ICE-USA:W2A-032#33:1> Of course, the subjects themselves are also variable ( see, e.g., [
+
+3, 12]).</p>
+
+<p> <ICE-USA:W2A-032#34:1> Lundell 's experiment is essentially a two-group design, in which
+
+each subject fills in four different types of questionnaire.
+<ICE-USA:W2A-032#35:1> It used a random presentation order in an attempt at eliminating
+
+sequence effects.</p>
+
+<p> <ICE-USA:W2A-032#36:1> Two of Lundell 's questionnaires were aimed at eliciting rules
+
+directly.
+<ICE-USA:W2A-032#37:1> One he called the <quote> ? direct rule?</quote> questionnaire, and
+
+the other the <quote> ? decomposed rule?</quote> questionnaire.
+<ICE-USA:W2A-032#38:1> These two complemented each other in his subsequent creation of rule
+
+bases.</p>
+
+<p> <ICE-USA:W2A-032#39:1> The two other questionnaires were aimed at examples, from which
+
+knowledge could be derived by some kind of machine learning.
+<ICE-USA:W2A-032#40:1> One of these questionnaires elicited a set of typical example or
+
+cases; this one he called the <quote> ? prototype elicitation?</quote>
+
+questionnaire.
+<ICE-USA:W2A-032#41:1> The fourth questionnaire, which he called the <quote> ? exemplar
+
+questionnaire,?</quote> consisted of a randomly generated set of undiagnosed
+
+hypothetical cases for the subjects to diagnose.</p>
+
+<p> <ICE-USA:W2A-032#42:1> Using these questionnaires for knowledge acquisition appears to
+
+impair the external validity of Lundell 's experiment.
+<ICE-USA:W2A-032#43:1> The antecedents and the consequents are given, whereas in practice it
+
+seems more usual to have to be elicited from the knowledge source by various
+
+methods.
+<ICE-USA:W2A-032#44:1> The considerable amount of knowledge acquisition which clearly went
+
+into the preparation of these questionnaires deserves to be acknowledged
+
+openly.
+<ICE-USA:W2A-032#45:1> Moreover, questionnaires are rarely used to acquire knowledge for
+
+knowledge-based systems ( see, e.g., [ 13]).</p>
+
+<p> <ICE-USA:W2A-032#46:1> Lundell used the completed questionnaires to build a number of
+
+expert systems, but little is said in his dissertation about this process.
+<ICE-USA:W2A-032#47:1> And without any reassurance to the contrary, his readers are left
+
+wondering about the scope for introduction of errors at this stage.
+<ICE-USA:W2A-032#48:1> Still, perhaps this criticism is a bit unfair, because the graphic
+
+representation on his questionnaires seems capable of being easily
+
+transformed into production rules.
+<ICE-USA:W2A-032#49:1> In the case of his connectionist networks, it appears obvious that
+
+the exemplar and prototype data were simply coded as examples and used to
+
+train the networks in the task.</p>
+
+<p> <ICE-USA:W2A-032#50:1> Lundell 's subjects emerged from his training with a range of
+
+levels of expertise in the diagnostic task.
+<ICE-USA:W2A-032#51:1> Some had become good at it, and others had learned to a lesser
+
+extent.
+<ICE-USA:W2A-032#52:1> Lundell classified his newly trained subjects as either skilled or
+
+unskilled.
+<ICE-USA:W2A-032#53:1> He set his criterion at the median test score, so that half the
+
+subjects are <quote> ? unskilled?</quote> and the others <quote> ?
+
+skilled.?</quote> It appears to be an arbitrary distinction with little basis
+
+in theory and little rationale, save that of balancing the sizes of the two
+
+groups.</p>
+
+<p> <ICE-USA:W2A-032#54:1> After basing his initial arguments on the theory that experts'
+
+skills reside at a tacit level while novices' skills are represented
+
+consciously, Lundell appears to make little use of this representational
+
+differential that would be expected to exist between his skilled group and
+
+his unskilled one.</p>
+
+<p> <ICE-USA:W2A-032#55:1> Perhaps an improvement would have been to use an adaptive
+
+questionnaire to gather the same type of data.
+<ICE-USA:W2A-032#56:1> Under this approach, subjects would interact w computer program that
+
+asks questions based on answers already given.
+<ICE-USA:W2A-032#57:1> By doing this, he would have introduced some of the flexibility
+
+characteristic of real-world knowledge acquisition, while providing
+
+systematic and consistent recording of data.</p>
+
+<p> <ICE-USA:W2A-032#58:1> By creating his own experts in a domain of his own making,
+
+Lundell may have sacrificed external validity, but at the same time he gained
+
+a ready-made set of test cases against which both the experts themselves and
+
+the elicited knowledge bases could be evaluated.
+<ICE-USA:W2A-032#59:1> He also limited the scope of the task to a size amenable to analysis
+
+and experimental control.</p>
+<ICE-USA:W2A-032#60:1> <h> <it> Thinking aloud </it> </h>
+
+<p> <ICE-USA:W2A-032#61:1> Stevenson et al. [ 7] also did an experiment to test a hypothesis
+
+implied by Anderson 's ACT* ( adaptive control of thought) theory [ 11].
+<ICE-USA:W2A-032#62:1> Their hypothesis was that their own method of knowledge acquisition
+
+would be more effective than <quote> ? traditional?</quote> methods.
+<ICE-USA:W2A-032#63:1> They argue that it is wrong to assume that analysis of thinking-aloud
+
+protocols accurately unearths the knowledge contained in an expert 's
+
+automatic productions.
+<ICE-USA:W2A-032#64:1> What thinking aloud is more likely to do, they argue, is to slow down
+
+and even distort the expert 's actions.
+<ICE-USA:W2A-032#65:1> They argue that it is more effective to let the expert perform his
+
+task undisturbed except for the scrutiny of a videotape camera and recorder.
+<ICE-USA:W2A-032#66:1> At some later time, the expert can explain his actions while watching
+
+the videotape.
+<ICE-USA:W2A-032#67:1> These explanations can be used to generate production rules.
+<ICE-USA:W2A-032#68:1> Stevenson et al. call this method an <quote> ? evaluation
+
+technique."</p>
+
+<p> <ICE-USA:W2A-032#69:1> The experiment of Stevenson et al. tested their hypothesis by
+
+varying the acquisition-method treatments to which subjects were exposed.
+<ICE-USA:W2A-032#70:1> They used a two-group repeated-measures design, although one group (
+
+the experts) was very small ( two subjects) compared with the other group (
+
+eight subjects).
+<ICE-USA:W2A-032#71:1> All subjects received all treatments, but in the same order ( there
+
+was no attempt to correct for sequence effects by counterbalancing).
+<ICE-USA:W2A-032#72:1> But time ( more than a day) was allowed between treatments, perhaps
+
+to allow the attenuation of any carry-over effects.</p>
+
+<p> <ICE-USA:W2A-032#73:1> Stevenson et al. appear not to have taken the analysis of the
+
+data as far as Lundell did.
+<ICE-USA:W2A-032#74:1> They did not measure the diagnostic accuracy of derived knowledge
+
+bases.
+<ICE-USA:W2A-032#75:1> They did, however, employ a more qualitative approach than Lundell 's
+
+bald statistical one.
+<ICE-USA:W2A-032#76:1> They examined the differences between the kinds of constructs that
+
+the experts produced and those that the novices produced.</p>
+
+<p> <ICE-USA:W2A-032#77:1> But although Stevenson et al. assert that thinking aloud may be
+
+less effective than their evaluation technique, they fail to support this
+
+empirically.
+<ICE-USA:W2A-032#78:1> Or, more precisely, they appear not to have designed their experiment
+
+to test this.</p>
+<ICE-USA:W2A-032#79:1> <h> <it> Computer-assisted knowledge acquisition </it> </h>
+
+<p> <ICE-USA:W2A-032#80:1> Deffner and Ahrens [ 8] were not comparing knowledge-acquisition
+
+methods; they were simply evaluating the single method embodied in a tool of
+
+theirs.
+<ICE-USA:W2A-032#81:1> This method involves having a domain expert enter language and, as a
+
+second stage, refine any ill-defined quantifiers used in the rules.
+<ICE-USA:W2A-032#82:1> According to [ 8], deferring the refinement solves the problem of
+
+when they are interrupted and asked to be more precisse about
+
+quantifiers.</p>
+
+<p> <ICE-USA:W2A-032#83:1> Like Lundell, Deffoer and Ahrens used an artificial domain and
+
+created experts in it by training their twenty-two subjects.
+<ICE-USA:W2A-032#84:1> The domain is nutritional prediction in a simulation of a person to
+
+be fed from a menu.
+<ICE-USA:W2A-032#85:1> During training, the subjects are free to display their tendency to
+
+explore the domain.
+<ICE-USA:W2A-032#86:1> This tendency is observed by tracing each subject 's interactions with
+
+the training software.</p>
+
+<p> <ICE-USA:W2A-032#87:1> Although apparently not so by design, Ahrens' experiment is a
+
+two-group one.
+<ICE-USA:W2A-032#88:1> The groups were discovered by <it> post hoc </it> cluster analysis of
+
+some of the training interaction data.
+<ICE-USA:W2A-032#89:1> Both groups received the same treatment ( elicitation method), but
+
+they also had what Deffner and Ahrens assume to be two different levels of
+
+expertise.
+<ICE-USA:W2A-032#90:1> One dependent variable is the accuracy of the generated knowledge
+
+base, and this is measured by testing the rules on the simulation.
+<ICE-USA:W2A-032#91:1> Other dependent variables are the number of rules elicited and the
+
+average number of attributes per rule.</p>
+
+<p> <ICE-USA:W2A-032#92:1> Deffner and Ahrens do not say how many of their subjects fall
+
+into each group.
+<ICE-USA:W2A-032#93:1> Nor do they treat the two subjects who do not <quote> ? fall clearly
+
+into one of the two groups.?</quote> They concede that their tool <quote> ?
+
+may at first sight appear not to be very practical?</quote> [ 2, p.359], and
+
+try to remedy this lack of external validity by suggesting where the use of
+
+the tool might fit in a series of knowledge-acquisition stages.</p>
+<ICE-USA:W2A-032#94:1> <h> <it> Elicitation efficacy</it></h>
+
+<p> <ICE-USA:W2A-032#95:1> Whereas Lundell [ 6] and Stevenson et al. [ 7] were testing
+
+hypotheses, Burton et al. [ 5] wanted to determine the relative efficacies
+
+and efficiencies of different knowledge-elicitation techniques.
+<ICE-USA:W2A-032#96:1> They wanted to be able to predict which methods would be most
+
+appropriate for which circumstances, so that builders of knowledge-based
+
+systems would have some empirical basis for their choices.</p>
+
+<p> <ICE-USA:W2A-032#97:1> Burton et al. also stopped short of building knowledge bases, and
+
+therefore did not reach diagnostic accuracy.
+<ICE-USA:W2A-032#98:1> However, they did perform other kinds of evaluation on the elicited
+
+knowledge, which they coded as <quote> ? pseudo-English production
+
+rules.?</quote> In a subsequent experiment, these rules were each rated by
+
+the experts on a four-point scale ranging from true to false.
+<ICE-USA:W2A-032#99:1> Thus, they were able to compare ( at least for some of their data)
+
+the overall quality of rules resulting from each elicitation technique.</p>
+
+<p> <ICE-USA:W2A-032#100:1> In their experiment, Burton et al. had as independent variables
+
+the elicitation method and the expert 's personality.
+<ICE-USA:W2A-032#101:1> They tried to keep the knowledge representation constant.
+<ICE-USA:W2A-032#102:1> Their dependent variables were the amount of knowledge elicited per
+
+unit time, and the quality of elicited rules.</p>
+
+<p> <ICE-USA:W2A-032#103:1> They also made the distinction between procedural and
+
+declarative knowledge.
+<ICE-USA:W2A-032#104:1> Indeed, they assert that two of their methods ( protocol analysis
+
+and formal interview) are likely to elicit procedural knowledge, white the
+
+others ( card sort and laddered grid) are likely to elicit dectanttive
+
+knowledge.
+<ICE-USA:W2A-032#105:1> But they were forced to conclude that their results did not support
+
+this assertion.</p>
+
+<p> <ICE-USA:W2A-032#106:1> Although, like Lundell, they used students as subjects.
+<ICE-USA:W2A-032#107:1> Burton et at. did not create instant experts.
+<ICE-USA:W2A-032#108:1> 'l'hus, their claim of expertise is more credible, especially in the
+
+light of Anderson-s assertion [ It] that it takes a long period of practice
+
+to create an expert.
+<ICE-USA:W2A-032#109:1> On the other hand, Burton et at.
+<ICE-USA:W2A-032#110:1> offer little proof of the subjects' expertise.
+<ICE-USA:W2A-032#111:1> Burton 's subjects were not tested for skill level as Lundell 's
+
+subjects were.</p> </I>

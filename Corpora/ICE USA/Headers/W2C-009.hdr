@@ -1,0 +1,99 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2C-009</textcode>
+          <number of subtexts>3</number of subtexts>
+          <category>written: printed: reportage: press news</category>
+          <wordcount>2150</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ALL>
+          <source.type=newspaper>
+               <source.title>The Times & Free Press</source.title>
+          <publication statement>
+               <publisher> Copyright (c) 2000, Chattanooga Publishing Company</publisher>
+               <address> </address>
+               <place> </place>
+               <date>8/9, 16, 17/2000</date>
+          </publication statement>
+          <copyright.statement> Copyright (c) 2000, Chattanooga Publishing Company. <#> Used with permission</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+</text.info>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-009>
+          <subtext.name></subtext.name>
+               <main.title>Fulmer has to Coax Fierce Pad-Popping</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-009>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Gossett</surname>
+               <forenames>Ward</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-009>
+          <subtext.name></subtext.name>
+               <main.title>Growth Healthy for Local Insurers</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-009>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Flessner</surname>
+               <forenames>Dave</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-009>
+          <subtext.name></subtext.name>
+               <main.title>Crime Call Numbers Can Be Misleading, Police Say</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-009>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Cook/surname>
+               <forenames>Dick</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

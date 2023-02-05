@@ -1,0 +1,441 @@
+<I>
+
+<p> <ICE-USA:W2B-008#1:1> This paper is concerned with Aristotle 's account of primary
+
+substances ( ousiai) as presented in the Categories.
+<ICE-USA:W2B-008#2:1> It is argued that one of his criteria for primary substances--the
+
+existential criterion--impales Aristotle on the horns of a dilemma: either
+
+Aristotle must admit substantial kinds as primary substances or he must
+
+countenance the existence of bare particulars.
+<ICE-USA:W2B-008#3:1> However, the former alternative contradicts Aristotle 's remarks
+
+concerning the nature of primary substances.
+<ICE-USA:W2B-008#4:1> While, the latter alternative cannot be squared with the ontology
+
+found in the Categories.
+<ICE-USA:W2B-008#5:1> It is my belief that it was his awareness of these problems that lead
+
+Aristotle to drop the ontology of the Categories and develop the more complex
+
+ontology of the Metaphysics.</p>
+
+<p> <ICE-USA:W2B-008#6:1> In order to supply a perspicuous rendering of the dilemma, it is
+
+necessary to first outline the basics of Aristotle 's ontology in the
+
+Categories, and then to closely examine his criteria for primary substances.
+<ICE-USA:W2B-008#7:1> Only then can we proceed to a detailed examination of the dilemma.
+
+</p>
+<ICE-USA:W2B-008#8:1> <h> 1.
+<ICE-USA:W2B-008#9:1> Basic Ontology</h> </p>
+<ICE-USA:W2B-008#10:1> <h> 1.1 Properties and Particulars</h>
+
+<p> <ICE-USA:W2B-008#11:1> Two entities found in the ontology of the Categories are ( a)
+
+individuals or particulars and ( b) properties.
+<ICE-USA:W2B-008#12:1> Examples of particulars are " a man," " the individual man," " an
+
+animal," " the individual horse," " a picture," and " an ox.?
+<ICE-USA:W2B-008#13:1> Whereas examples of properties are " four-foot," " grammatical," "
+
+has armour on," " white," and the relational properties, " double," " half,"
+
+and " in" ( for example, in the market place and in the Lyceum). </p>
+
+<p> <ICE-USA:W2B-008#14:1> It appears to be a clear and uncontroversial point within
+
+Aristotelian scholarship, and one that I am in agreement with, that Aristotle
+
+holds some version of a substance-attribute theory of particulars ( as
+
+opposed to a bundle theory of particulars).
+<ICE-USA:W2B-008#15:1> It is also clear that so far as properties are concerned, Aristotle
+
+is a realist, as opposed to a nominalist.
+<ICE-USA:W2B-008#16:1> That is, he allows that there really are such things in the world as
+
+properties and relations.
+<ICE-USA:W2B-008#17:1> What is less clear is whether he holds properties to be universals or
+
+tropes ( understood as property instances).
+<ICE-USA:W2B-008#18:1> I side with the view that Aristotle takes properties to be
+
+universals.[1]
+<ICE-USA:W2B-008#19:1> However, this issue, while of intrinsic interest, is of minimal
+
+importance to my thesis, because the soundness of my argument that Aristotle
+
+is faced with a dilemma is independent of the question of whether or not
+
+Aristotle holds properties to be tropes or universals.
+<ICE-USA:W2B-008#20:1> Therefore, I will attempt to employ the neutral term " property"
+
+rather than " universal" or " trope." </p>
+
+<p> <ICE-USA:W2B-008#21:1> The next step is to determine whether properties are immanent or
+
+transcendent.
+<ICE-USA:W2B-008#22:1> To claim that properties are immanent is to assert that they exist
+
+wholly in space and time--that the world, which includes properties, isa
+
+single spatio-temporal manifold.
+<ICE-USA:W2B-008#23:1> ( Such a view is compatible with naturalism.) Immanent properties
+
+must be instantiated ( in a particular)--there can be no uninstantiated
+
+properties.
+<ICE-USA:W2B-008#24:1> It follows that the property x exists if and only if x is
+
+instantiated in a particular.
+<ICE-USA:W2B-008#25:1> This position may be contrasted with a transcendent theory of
+
+universals, as attributed to Plato 's middle dialogues.
+<ICE-USA:W2B-008#26:1> A transcendent theory of properties allows properties to exist
+
+independently of their instantiation in any particular.
+<ICE-USA:W2B-008#27:1> Thus the property x may exist even if there are no particulars that
+
+instantiate that property.
+<ICE-USA:W2B-008#28:1> That is, x may exist even when no particular is x. </p>
+
+<p> <ICE-USA:W2B-008#29:1> There is little doubt that Aristotle wished to contrast his
+
+theory of properties with that propounded by Plato.
+<ICE-USA:W2B-008#30:1> And it seems farily clear, while not absolutely certain, that, in the
+
+Categories this contrast leads us to conclude that Aristotle accepts an
+
+immanent theory of properties.[2] </p>
+<ICE-USA:W2B-008#31:1> <h> 1.2 Metaphysical Predication</h>
+
+<p> <ICE-USA:W2B-008#32:1> We now move deeper into Aristotle 's ontology and examine the
+
+nature of the relation between particulars and properties.
+<ICE-USA:W2B-008#33:1> That is, we examine his theory of predication.
+<ICE-USA:W2B-008#34:1> For Aristotle there are two forms of metaphysical predication: a.
+<ICE-USA:W2B-008#35:1> the said-of relation b.
+<ICE-USA:W2B-008#36:1> the present-in relation</p>
+
+<p> <ICE-USA:W2B-008#37:1> This amounts two metaphysically distinct manners in which
+
+properties are able to be predicated of subjects.
+<ICE-USA:W2B-008#38:1> For example, both the property of man and the property of pallor may
+
+be predicated of Socrates.
+<ICE-USA:W2B-008#39:1> Yet, each quality bears a distinct type of relation to the subject
+
+Socrates.
+<ICE-USA:W2B-008#40:1> Man is predicated of Socrates by the said-of relation while pallor is
+
+predicated of Socrates by the present-in relation.
+<ICE-USA:W2B-008#41:1> These two relations combine in four possible ways, yeilding four
+
+types of metaphysical entities.[3] </p>
+
+<p> <ICE-USA:W2B-008#42:1> a.
+<ICE-USA:W2B-008#43:1> Substantial individuals.
+<ICE-USA:W2B-008#44:1> Substantial individuals are neither present-in nor said-of anything.
+<ICE-USA:W2B-008#45:1> Examples are Socrates, the individual man, Phar Lap, and the
+
+individual horse.
+<ICE-USA:W2B-008#46:1> A substantial individual, such as Socrates, is not predicated, by
+
+either the present-in or the said-of relation, of any subject.
+<ICE-USA:W2B-008#47:1> As such, nothing is subject for a substantial individual. </p>
+
+<p> <ICE-USA:W2B-008#48:1> b.
+<ICE-USA:W2B-008#49:1> Substantial kinds.
+<ICE-USA:W2B-008#50:1> Substantial kinds are said-of something, but are not present-in
+
+anything.
+<ICE-USA:W2B-008#51:1> Examples are species and genera; such as man, horse, and animal.
+<ICE-USA:W2B-008#52:1> A substantial kind, such as horse, is predicated by the said-of
+
+relation of a subject, such as Phar Lap, but is not predicated by the
+
+present-in relation of any subject. </p>
+
+<p> <ICE-USA:W2B-008#53:1> c.
+<ICE-USA:W2B-008#54:1> Non-substantial individuals.
+<ICE-USA:W2B-008#55:1> Non-substantial individuals are present-in something, but not said-of
+
+anything.
+<ICE-USA:W2B-008#56:1> Examples are midnight black and pallor.
+<ICE-USA:W2B-008#57:1> A non-substantial individual, such as the shade of color midnight
+
+black, may be predicated by the present-in relation of a subject, such as
+
+Phar Lap, yet it is not predicated by the said-of relation of any subject.
+
+</p>
+
+<p> <ICE-USA:W2B-008#58:1> d.
+<ICE-USA:W2B-008#59:1> Non-substantial kinds.
+<ICE-USA:W2B-008#60:1> Non-substantial kinds are both present-in and said-of something.
+<ICE-USA:W2B-008#61:1> Examples are color.
+<ICE-USA:W2B-008#62:1> A non-substantial kind, such as color, is predicated by the said-of
+
+relation of midnight black, and is also predicated by the present-in relation
+
+of Phar Lap ( in virtue of the fact that Phar Lap is midnight black). </p>
+
+<p> <ICE-USA:W2B-008#63:1> It should be noted that the notions of substance and
+
+non-substance, and both the present-in and said-of relations are undefined in
+
+the Categories.
+<ICE-USA:W2B-008#64:1> Lewis points out that the notions of substance and non-substance are
+
+specified in terms of the notions of metaphysical predication--in terms of
+
+the said-of and present-in relations.[4]
+<ICE-USA:W2B-008#65:1> At the same time, the notions of metaphysical predication are
+
+specified in terms of the distinction between substances and non-substances.
+<ICE-USA:W2B-008#66:1> The result is that neither can be taken as providing a definition of
+
+the other.
+<ICE-USA:W2B-008#67:1> Rather, Lewis suggests that we take both notions to be primitive in
+
+Aristotle. </p>
+<ICE-USA:W2B-008#68:1> <h> 2.
+<ICE-USA:W2B-008#69:1> Criteria for Primary Substances</h>
+
+<p> <ICE-USA:W2B-008#70:1> Aristotle declares that of the four types of metaphysical
+
+entities identified above substantial individuals ( such as the individual
+
+man, say, Socrates and the individual horse, say, Phar Lap) are ontologically
+
+basic and play the role of primary substances.
+<ICE-USA:W2B-008#71:1> Two criteria are employed by Aristotle for delineating the general
+
+patterns of ontological priority and dependency in identifying substantial
+
+individuals as primary substances.
+<ICE-USA:W2B-008#72:1> One criterion is predicative, while the other is existential. </p>
+
+<p> <ICE-USA:W2B-008#73:1> a.
+<ICE-USA:W2B-008#74:1> Predicative: that which is neither said-of nor present-in a subject,
+
+and that which all other things are predicated of. </p>
+
+<p> <ICE-USA:W2B-008#75:1> b.
+<ICE-USA:W2B-008#76:1> Existential: that which is such that " if it were not to exist, it
+
+would be impossible for anything to exist." </p>
+
+<p> <ICE-USA:W2B-008#77:1> This section examines the arguments by which Aristotle attempts
+
+to use each of these criteria to establish the ontological primacy of primary
+
+substances. </p>
+<ICE-USA:W2B-008#78:1> <h> 2.1 Predicative Criterion</h>
+
+<p> <ICE-USA:W2B-008#79:1> The predicative criterion consists of two parts: ( a) that which
+
+is neither said-of nor present-in a subject, and ( b) that which all other
+
+things are predicated of.
+<ICE-USA:W2B-008#80:1> The first part unequivocally picks out substantial individuals as
+
+primary substances.
+<ICE-USA:W2B-008#81:1> Aristotle states that: </p>
+
+<p> <ICE-USA:W2B-008#82:1> A substance--that which is called a substance most strictly,
+
+primarily, and most of all--is that which is neither said of a subject nor in
+
+a subject, e.g.
+<ICE-USA:W2B-008#83:1> the individual man or the individual horse.[5] </p>
+
+<p> <ICE-USA:W2B-008#84:1> This clearly identifies substantial individuals as primary
+
+substances, for the criterion for substantial individuals is simply the first
+
+part of the criterion for primary substances.
+<ICE-USA:W2B-008#85:1> So Socrates and Phar Lap, as examples of substantial individuals, are
+
+primary substances. </p>
+
+<p> <ICE-USA:W2B-008#86:1> The second part of the predicative criterion states that a
+
+primary substance is also subject for everything else.
+<ICE-USA:W2B-008#87:1> Aristotle states: </p>
+
+<p> <ICE-USA:W2B-008#88:1> It is because the primary substances are subjects for all the
+
+other things and all the other things are predicated of them or are in them,
+
+that they are called substances most of all.[6] </p>
+
+<p> <ICE-USA:W2B-008#89:1> While elsewhere he declares: </p>
+
+<p> <ICE-USA:W2B-008#90:1> It is because primary substances are subjects for everything else
+
+that they are called substances most strictly.[7] </p>
+
+<p> <ICE-USA:W2B-008#91:1> This amounts to all the other three metaphysical entities
+
+identified above ( that is, substantial kinds, non-substantial individuals,
+
+and non-substantial kinds) being predicated, by either the said-of or the
+
+present-in relation, of substantial individuals as primary substances.
+<ICE-USA:W2B-008#92:1> A primary substance is therefore the subject in every instance of
+
+predication. This second part of the predicative criterion for primary
+
+substances does not alter the extension of primary substances as determined
+
+by the first part of the criterion.
+<ICE-USA:W2B-008#93:1> In other words, like the first part of the criterion, this second
+
+part also picks out all and only substantial individuals as primary
+
+substances.
+<ICE-USA:W2B-008#94:1> Despite the fact that this second part of the predicative criterion
+
+does not alter the extension of what are to count as primary substances it
+
+nonetheless has the virtue of identifying a further attribute possessed by
+
+primary substances. </p>
+
+<p> <ICE-USA:W2B-008#95:1> The fact that a primary substance is the subject in every
+
+instance of predication is accounted for by what Lewis terms the " monolithic
+
+theory of predication."[8] </p>
+
+<p> <ICE-USA:W2B-008#96:1> An item is predicated of something other than an individual
+
+substance only if, and only because, there is some individual substance of
+
+which both items together are predicated.[9] </p>
+
+<p> <ICE-USA:W2B-008#97:1> Aristotle provides a number of examples: Man is predicated of the
+
+individual man, and animal of man; so animal will be predicated of the
+
+individual man also--for the individual man is both a man and an animal.[10]
+
+</p>
+
+<p> <ICE-USA:W2B-008#98:1> And: Animal is predicated of man and therefore of the individual
+
+man; for were it predicated of none of the individual men it would not be
+
+predicated of man at all.[11] </p>
+
+<p> <ICE-USA:W2B-008#99:1> The predicative criterion succeeds in picking out a class of
+
+entities that are to be considered primary substances, namely substantial
+
+individuals.
+<ICE-USA:W2B-008#100:1> But does the criterion give us any reason to consider this class of
+
+entities to be ontologically primary?
+<ICE-USA:W2B-008#101:1> As noted, the predicative criterion identifies two attributes of
+
+primary substances: ( a) they are neither said-of nor present-in a subject,
+
+and ( b) all other things are predicated of them.
+<ICE-USA:W2B-008#102:1> It is hard to imagine how the first part of the criterion could be
+
+seen as providing a quality that gives substantial individuals ontological
+
+priority. In itself, the fact that an entity is not predicated of any other
+
+entity provides little clue as to its relations of ontological dependency on
+
+other entities.
+<ICE-USA:W2B-008#103:1> The second attribute appears more promising.
+<ICE-USA:W2B-008#104:1> This is because, with its assumption of the monolithic theory of
+
+predication, it is closely related to the existential criterion for primary
+
+substances ( discussed in the next section) and makes substantial claims
+
+concerning the relations of ontological priority. </p> </p>
+<ICE-USA:W2B-008#105:1> <h> 2.2 Existential Criterion
+
+<p> <ICE-USA:W2B-008#106:1> The existential criterion provides grounds for the ontological
+
+priority of primary substances.
+<ICE-USA:W2B-008#107:1> It states that a primary substance is such that: </p>
+
+<p> <ICE-USA:W2B-008#108:1> If the primary substances did not exist it would be impossible
+
+for any of the other things to exist.[12] </p>
+
+<p> <ICE-USA:W2B-008#109:1> This criterion picks out all substantial individuals as primary
+
+substances.
+<ICE-USA:W2B-008#110:1> Given the existential criterion, the monolithic theory of
+
+predication, and an immanent theory of predication, it follows that if
+
+substantial individuals were not to exist, then it would be impossible for
+
+anything else to exist. </p>
+
+<p> <ICE-USA:W2B-008#111:1> The monolithic theory of predication contends that all instances
+
+of predication must involve a substantial individual as subject.
+<ICE-USA:W2B-008#112:1> For example, animal can be predicated of man if and only if both
+
+animal and man are predicated of an individual man ( which is a substantial
+
+individual).
+<ICE-USA:W2B-008#113:1> In turn, an immanent theory of properties holds that a property
+
+cannot exist uninstantiated.
+<ICE-USA:W2B-008#114:1> That is, a property cannot exist if it is not predicated of a
+
+subject.
+<ICE-USA:W2B-008#115:1> And non-substantial individuals, substantial kinds, and
+
+non-substantial kinds are all properties.
+<ICE-USA:W2B-008#116:1> As a result, they can only exist on the condition that they are
+
+instantiated in, or predicated of, some subject.
+<ICE-USA:W2B-008#117:1> And, as the monolithic theory of predication points out, this
+
+subject must be a substantial individual.
+<ICE-USA:W2B-008#118:1> Therefore, it follows that if substantial individuals were not to
+
+exist, then neither would non-substantial individuals, substantial kinds, nor
+
+non-substantial kinds.
+<ICE-USA:W2B-008#119:1> In other words, if substantial individuals did not exist, then it
+
+would not be possible for anything else to exist.
+<ICE-USA:W2B-008#120:1> The ontological primacy of individual substances lies in the fact
+
+that everything else is existentially dependent upon them for existence. </p>
+
+</p>
+<ICE-USA:W2B-008#121:1> <h> 3.
+<ICE-USA:W2B-008#122:1> Problems--the Dilemma</h>
+
+<p> <ICE-USA:W2B-008#123:1> While the existential criterion manages to both pick out all
+
+substantial individuals as primary substances, and provides grounds for
+
+considering primary substances to be ontological prior, it also manages to
+
+confuse and muddy Aristotle 's ontology.
+<ICE-USA:W2B-008#124:1> This is because the existential criterion forces Aristotle to admit
+
+that not only substantial individuals, but also substantial kinds are primary
+
+substances.
+<ICE-USA:W2B-008#125:1> And this runs contrary to Aristotle 's intentions and explicitly
+
+stated remarks in the Categories.</p> </I>

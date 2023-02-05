@@ -1,0 +1,44 @@
+<text.info> 
+    <file.description>   
+       <textcode>ICE-USA-W2A-004</textcode>
+          <number of subtexts>1</number of subtexts>
+          <category>written:printed:academic:humanities</category>
+          <wordcount>2267</wordcount>
+          <version>coded, edited, with Essential Markup</version>
+          <free.comments></free.comments> 
+    </file.description>
+     <subtext.source=ICE-USA-W2A-004>    
+      <source.type=collection>
+               <source.title>Journal of the History of Ideas</source.title>
+               <series></series>    
+           <editor> </editor>
+          <publication statement>
+               <publisher>The Johns Hopkins University Press</publisher>
+               <address>2715 N. <#>Charles St.</address>
+               <place>Baltimore, MD 21218</place>
+               <date>1991</date>     
+     </publication statement>
+          <copyright.statement>used by permission of The Johns Hopkins University Press</copyright.statement>
+          <free.comments></free.comments>  
+        </source.type>
+     </subtext.source>  
+   <subtext.internals=ICE-USA-W2A-004>
+          <subtext.name> </subtext.name>
+               <main.title> Synderesis, the Spark of Conscience, in the English Renaissance</main.title>
+               <subtitle></subtitle>  
+             <page.nos>195-200</page.nos>
+          <free.comments></free.comments> 
+    </subtext.internals>
+     <biography=ICE-USA-W2A-004>    
+      <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Greene</surname>
+               <forenames>Robert A.</forenames>               <age>60</age>
+               <gender>Male</gender>               <nationality></nationality>
+               <birthplace></birthplace>               <education></education>
+               <educational.level>Doctorate</educational.level>
+               <occupation>Professor</occupation>
+               <affiliations></affiliations>
+               <mother.tongue>English</mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>     </biography></text.info>

@@ -1,0 +1,144 @@
+<text.info>
+   <file.description>
+     <textcode>ICE-USA-W2A-029</textcode>
+     <number of subtexts>3</number of subtexts>
+     <category> written:printed:academic:natural sciences </category>
+     <wordcount>2000</wordcount>
+     <version>coded, edited but untagged</version>
+     <free.comments></free.comments>
+   </file.description>
+   <subtext.source=ICE-USA-W2A-029>
+     <source.type=collection>
+        <source.title> Chemistry and Biology</source.title>
+        <series> Vol. 1 Issue 4, </series>
+        <editor> </editor>
+     <publication statement>
+        <publisher>Cell Press</publisher>
+        <address> </address>
+        <place> </place>
+        <date> December 1994</date>
+     </publication statement>
+     <copyright.statement>used by permission of the 
+author</copyright.statement>
+     <free.comments> </free.comments>
+     </source.type>
+   </subtext.source>
+   <subtext.internals=ICE-USA-W2A-029>
+     <subtext.name> </subtext.name>
+        <main.title> Chemical Synthesis of Proteins 
+</main.title>
+        <subtitle></subtitle>
+        <page.nos> </page.nos>
+     <free.comments></free.comments>
+   </subtext.internals>
+   <biography=ICE-USA-W2A-029>
+     <speaker.id></speaker.id>
+        <communicative.role>author</communicative.role>
+        <surname>Hilvert </surname>
+        <forenames>Donald.</forenames>
+        <age> </age>
+        <gender> </gender>
+        <nationality></nationality>
+        <birthplace></birthplace>
+        <education></education>
+        <educational.level></educational.level>
+        <occupation></occupation>
+        <affiliations></affiliations>
+        <mother.tongue></mother.tongue>
+        <other.languages></other.languages>
+        <free.comments></free.comments>
+   </biography>
+<subtext.source=ICE-USA-W2A-029>
+     <source.type=collection>
+        <source.title>Hazardous Waste & Hazardous 
+Materials</source.title>
+        <series></series>
+        <editor> </editor>
+     <publication statement>
+        <publisher>Mary Ann Liebert Inc.</publisher>
+        <address>1651 Third Ave</address>
+        <place>New York, NY 10128</place>
+        <date>1991</date>
+     </publication statement>
+     <copyright.statement>used by permission of Mary Ann Liebert 
+Inc.</copyright.statement>
+     <free.comments>I wasn't sure about the Publisher and the 
+copyright statement</free.comments>
+     </source.type>
+   </subtext.source>
+   <subtext.internals=ICE-USA-W2A-029>
+     <subtext.name> </subtext.name>
+        <main.title> Comparison of Organic Emissions from Laboratory 
+and Full-Scale Thermal
+Degradation of Sewage Sludge</main.title>
+        <subtitle></subtitle>
+        <page.nos> </page.nos>
+     <free.comments></free.comments>
+   </subtext.internals>
+   <biography=ICE-USA-W2A-029>
+     <speaker.id></speaker.id>
+        <communicative.role>author</communicative.role>
+        <surname>Tirey, Striebich, Dellinger, Bostian</surname>
+        <forenames>Debra A., Richard C., Barry, Harry E.</forenames>
+        <age> </age>
+
+        <gender> </gender>
+        <nationality></nationality>
+        <birthplace></birthplace>
+        <education></education>
+        <educational.level></educational.level>
+        <occupation></occupation>
+        <affiliations></affiliations>
+
+        <mother.tongue></mother.tongue>
+        <other.languages></other.languages>
+        <free.comments></free.comments>
+   </biography>
+<subtext.source=ICE-USA-W2A-029> 
+   <source.type=collection> 
+    <source.title>Transactions of American Fisheries 
+Societies</source.title> 
+    <series></series> 
+    <editor> </editor> 
+   <publication statement> 
+    <publisher>Transactions of American Fisheries 
+Societies</publisher> 
+    <address> </address> 
+    <place> </place> 
+    <date>July 1991</date> 
+   </publication statement> 
+   <copyright.statement>used by permission of Transactions of 
+American Fisheries Societies </copyright.statement> 
+   <free.comments></free.comments> 
+   </source.type> 
+  </subtext.source> 
+  <subtext.internals=ICE-USA-W2A-029> 
+   <subtext.name> </subtext.name> 
+    <main.title>Feeding of Predaceous Fishes on Out-Migrating 
+Juvenile 
+Salmonids in John Day Reservoir, Columbia River</main.title> 
+    <subtitle></subtitle> 
+    <page.nos>405-410</page.nos> 
+   <free.comments></free.comments> 
+  </subtext.internals> 
+  <biography=ICE-USA-W2A-029> 
+   <speaker.id></speaker.id> 
+    <communicative.role>author</communicative.role> 
+    <surname>Poe, Hansel, Vigg, Palmer, Prendergast</surname> 
+    <forenames>Thomas P., Hal C., Steven, Douglas E., Linda 
+A.</forenames> 
+    <age> </age> 
+    <gender> </gender> 
+    <nationality></nationality> 
+    <birthplace></birthplace> 
+    <education></education> 
+    <educational.level></educational.level> 
+
+    <occupation></occupation> 
+    <affiliations></affiliations> 
+    <mother.tongue></mother.tongue> 
+    <other.languages></other.languages> 
+    <free.comments></free.comments> 
+  </biography> 
+</text.info> 
+ 

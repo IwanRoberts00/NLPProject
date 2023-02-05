@@ -1,0 +1,432 @@
+<I>
+
+<p> <ICE-USA:W2A-024#1:1> There has been continuing concern about the neurologic
+
+manifestations of human immunodeficiency virus type 1 ( HIV-I) infection ever
+
+since early reports of neurologic complications associated with acquired
+
+immmunodeficiency syndrome ( AIDS) appeared in literature ( 1-3).
+<ICE-USA:W2A-024#2:1> Much of the concern has centered around a constellation of
+
+neuropsychiatric symptoms known as AIDS-associated dementia or AIDS dementia
+
+complex, originally described by Snider et al. as " subacute encephalitis" (
+
+3), because it may develop insidiously.
+<ICE-USA:W2A-024#3:1> It has been estimated that up to two thirds of AIDS patients who do
+
+not develop some other central nervous system disease may develop primary
+
+dementia ( 4).</p>
+
+<p> <ICE-USA:W2A-024#4:1> Navia et al. ( 4) and Price et al. ( 5), among others, have
+
+described the characteristic abnormalities associated with AIDS dementia.
+<ICE-USA:W2A-024#5:1> In general, they include difficulty in complex sequencing, impaired
+
+fine and rapid motor movement, reduced verbal fluency with retention of
+
+vocabulary and object naming, and complaints of forgetfulness despite good
+
+memory retention upon testing.
+<ICE-USA:W2A-024#6:1> These impairments have been found to be most prominent with testing
+
+formats involving time pressure, problem solving, visual scanning, visual
+
+motor integration and alternation between stimuli.</p>
+
+<p> <ICE-USA:W2A-024#7:1> Recently , there have been reports of neurologic manifestations in
+
+early HIV-I infection, before the full development of clinically apparent
+
+AIDS ( 6-8).
+<ICE-USA:W2A-024#8:1> While the point at which neurologic impairment first becomes
+
+clinically apparent in the course of HIV-l infection remains uncertain,
+
+hypotheses about the progression of HIV-I central nervous system involvement
+
+from initial infection to end-stage disease have led to increased speculation
+
+that cognitive dysfunction may exist in otherwise asymptomatic HlV-1-positive
+
+individuals.
+<ICE-USA:W2A-024#9:1> This study was undertaken to attempt to estimate the effect of
+
+seropositivity on Armed Services Vocational Aptitude Battery test scores in
+
+otherwise healthy individuals with early HIV-I infection.</p>
+<ICE-USA:W2A-024#10:1> <h> MATERIALS AND METHODS </h>
+
+<p> <ICE-USA:W2A-024#11:1> The Armed Services Vocational Aptitude Battery is a
+
+multiple-aptitude battery consisting of 10 individual tests that has been
+
+administered to all civilian applicants for military enlistment during the
+
+past 15 years.
+<ICE-USA:W2A-024#12:1> It is designed to predict what a person could accomplish with
+
+training or further education, and especially to measure potential for
+
+occupations that require formal courses of instruction or on-the-job
+
+training.
+<ICE-USA:W2A-024#13:1> It also provides a general measure of academic ability and some
+
+indication of future job performance.
+<ICE-USA:W2A-024#14:1> There is a large body of literature documenting the validity of the
+
+Armed Services Vocational Aptitude Battery and its components ( 9-13).
+<ICE-USA:W2A-024#15:1> The battery is administered prior to the preinduction medical
+
+examination, which since 1985 has included testing for antibody to HIV-I (
+
+14, 15).</p>
+
+<p> <ICE-USA:W2A-024#16:1> For the purpose of this study, the individual tests were
+
+considered in three groups.
+<ICE-USA:W2A-024#17:1> The first group consists of general academic tests which provide an
+
+overall measure of trainability.
+<ICE-USA:W2A-024#18:1> These tests are: General Science, which measures knowledge of
+
+physical and biologic sciences; Arithmetic Reasoning, which measures the
+
+ability to solve arithmetic word problems; Word Knowledge, which tests the
+
+ability to select correct meaning and synonyms for a word presented in
+
+context; and Paragraph Comprehension.
+<ICE-USA:W2A-024#19:1> which tests the ability to obtain information from written
+
+passages.</p>
+
+<p> <ICE-USA:W2A-024#20:1> The next two tests, Numerical Operations and Coding Speed, are
+
+perhaps the most important, because while all 10 tests are timed, these two
+
+are performed under the greatest time pressure.
+<ICE-USA:W2A-024#21:1> The former test requires the performance of 50 arithmetic
+
+computations in a speeded context of 3 minutes, and the latter measures the
+
+ability to use a key in assigning four-digit code numbers to 84 words in a
+
+speeded context of 7 minutes.</p>
+
+<p> <ICE-USA:W2A-024#22:1> The last four tests are specific vocational skills tests that
+
+measure knowledge in particular areas.
+<ICE-USA:W2A-024#23:1> Auto and Shop Information measures knowledge of automobiles, tools,
+
+and shop terminology and practices; Mathematics Knowledge tests knowledge of
+
+high school mathematics principles, including basic algebra and geometry;
+
+Mechanical Comprehension measures knowledge of mechanical and physical
+
+principles and the ability to visualize how illustrated objects work; and
+
+Electronics Information measures knowledge of electricity and
+
+electronics.</p>
+
+<p> <ICE-USA:W2A-024#24:1> Four individual tests are summed according to the following
+
+formula to derive the Armed Forces Qualifying Test composite: Arithmetic
+
+Reasoning Word Knowledge + Paragraph Comprehension + 1/2 Numerical
+
+Operations.
+<ICE-USA:W2A-024#25:1> The Armed Forces Qualifying Test composite is the most widely used
+
+combination of individual test scores.
+<ICE-USA:W2A-024#26:1> It is used to determine an applicant 's mental category, and it
+
+correlates with an individual 's mental aptitude on other intelligence tests (
+
+15, 16).
+<ICE-USA:W2A-024#27:1> Table I provides a summary of the Armed Services Vocational Aptitude
+
+Battery component tests.</p>
+
+<p> <ICE-USA:W2A-024#28:1> Test and demographic data were extracted from the Military
+
+Entrance Processing Stations induction testing data base for an 18-month
+
+period from October 1985 through March 1987.
+<ICE-USA:W2A-024#29:1> Records without HIV-l test results or Armed Services Vocational
+
+Aptitude Battery test scores were eliminated, leaving 975,489 observations;
+
+1,283 of these were HIV- 1 - positive cases.
+<ICE-USA:W2A-024#30:1> Five controls per case were chosen matching on US postal ZIP code
+
+alone.
+<ICE-USA:W2A-024#31:1> using a computer algorithm developed by one of the authors ( F. W.).
+<ICE-USA:W2A-024#32:1> This algorithm chose controls systematically with a pseudorandom
+
+start.
+<ICE-USA:W2A-024#33:1> Of the 1,283 cases. 1.275 matched on all five ZIP code digits for the
+
+full five controls.
+<ICE-USA:W2A-024#34:1> The rest matched on a combination of three-, four- or five-digit ZIP
+
+codes.</p>
+
+<p> <ICE-USA:W2A-024#35:1> After matching, the analysis file had 7,698 observations.
+<ICE-USA:W2A-024#36:1> Exploratory analysis of the data and univariate analysis of the test
+
+scores were performed.
+<ICE-USA:W2A-024#37:1> Table 2 shows the unadjusted mean raw aptitude test scores.
+<ICE-USA:W2A-024#38:1> For almost all of the tests, the HIV-l-positive group had a lower
+
+mean score.
+<ICE-USA:W2A-024#39:1> Because our sample sizes were so large, the standard errors were
+
+small. and all the differences except one were nominally statistically
+
+significant ( by <it> t </it> test, variance unequal) at the <foreign> @
+
+</foreign> = 0.01 level.
+<ICE-USA:W2A-024#40:1> The magnitudes of the differences were also small, though, especially
+
+with respect to the sample standard deviations, which were much larger than
+
+the actual differences for each of the scores.
+<ICE-USA:W2A-024#41:1> Therefore, we anticipated that after adjustment for age, race, sex,
+
+and other factors, the HIV-I effect would diminish.</p>
+
+<p> <ICE-USA:W2A-024#42:1> Further exploration was done prior to conducting the regression
+
+analysis.
+<ICE-USA:W2A-024#43:1> No non-gaussian distributions were noted among the <it> Y </it>
+
+variables ( test scores).
+<ICE-USA:W2A-024#44:1> We then plotted each predictor ( or <it> X </it> ) variable against
+
+the Armed Forces Qualifying Test composite to look for outliers and
+
+interactions.
+<ICE-USA:W2A-024#45:1> One extreme outlier was identified and eliminated; no interactions
+
+were found.
+<ICE-USA:W2A-024#46:1> All individuals who were failed on subsequent physical examination,
+
+due to abnormal skin/lymphatic conditions ( such as enlarged lymph nodes or
+
+benign or malignant tumors of the skin) were eliminated to preclude
+
+applicants from the final analysis who had clinical HIV-I disease.
+<ICE-USA:W2A-024#47:1> At this point, 7,505 observations remained.</p>
+
+<p> <ICE-USA:W2A-024#48:1> Table 3 illustrates some of the likely demographic confounders in
+
+the analysis data set.
+<ICE-USA:W2A-024#49:1> The HIV-I-positive applicants were more likely to be male, to be
+
+black, to be older, and to have a history of prior military service, all of
+
+which were considered likely determinants of scores.
+<ICE-USA:W2A-024#50:1> The regression analysis was used to adjust for these and other
+
+confounders and to identify any remaining HIV-l effect.
+<ICE-USA:W2A-024#51:1> The design fixes the ratio of HIV-1-positive to HIV-l-negative
+
+individuals at 1:5, and by matching on ZIP code, we have attempted to control
+
+for geographic variation.</p>
+
+<p> <ICE-USA:W2A-024#52:1> To make the regression coefficients comparable with one another,
+
+we adjusted all test scores to a mean of 0 and a standard deviation of 1.
+<ICE-USA:W2A-024#53:1> Since our outcome variable ( test score) was continuous, a multiple
+
+linear regression model was built.
+<ICE-USA:W2A-024#54:1> SAS analytical software was used to conduct the analysis ( 17).
+<ICE-USA:W2A-024#55:1> To choose the best model initially, we examined main effects and
+
+interaction terms for the Armed Forces Qualifying Test composite.
+<ICE-USA:W2A-024#56:1> The model derived was sensitive enough to detect an HIV-I effect of
+
+approximately 0.07 standard deviation for most of the aptitude tests at
+
+<foreign> @ </foreign> = 0.01.
+<ICE-USA:W2A-024#57:1> ( That was less than a l-point difference in raw score for each of
+
+the tests except the Armed Forces Qualifying Test composite, where it was
+
+just under 1.5 points.)</p>
+
+<p> <ICE-USA:W2A-024#58:1> Each of the 10 standardized individual test scores was then
+
+regressed on the same group of predictors that was used in the main effects
+
+model for the Armed Forces Qualifying Test.
+<ICE-USA:W2A-024#59:1> High leverage points with poor fits were identified and eliminated
+
+from each regression, and after the distribution of the residuals was
+
+checked, the regressions were repeated.
+<ICE-USA:W2A-024#60:1> This checking and correcting improved the fits only slightly,
+
+however.
+<ICE-USA:W2A-024#61:1> Finally, each individual 's Armed Forces Qualifying Test composite
+
+score was used as an independent predictor variable in a final set of
+
+regressions to control for individual variation in basic intellectual
+
+capacity.</p>
+<ICE-USA:W2A-024#62:1> <h> RESULTS </h>
+
+<p> <ICE-USA:W2A-024#63:1> The results of the initial regression analysis using the Armed
+
+Forces Qualifying Test composite as the outcome variable are shown in table
+
+4.
+<ICE-USA:W2A-024#64:1> The listed effects represent the number of standard deviations that
+
+an individual 's score was predicted to change per unit of change in the
+
+predictor variable.
+<ICE-USA:W2A-024#65:1> Ninety-nine percent confidence intervals are also shown.
+<ICE-USA:W2A-024#66:1> Years of education was a powerful and highly significant predictor,
+
+with each year adding nearly 0.16 standard deviation ( SD) to an applicant 's
+
+Armed Forces Qualifying Test composite score.
+<ICE-USA:W2A-024#67:1> The strongest categorical effects identified were racial/ethnic ones.
+<ICE-USA:W2A-024#68:1> Women tended to have slightly higher scores than men.
+<ICE-USA:W2A-024#69:1> HIV-I seropositivity lowered an applicant 's score by 0.09 SD, enough
+
+to be nominally statistically significant; however, the total regression <it>
+
+R </it> 2 for the model was only 0.21, so much of the variability was not
+
+being accounted for.</p>
+
+<p> <ICE-USA:W2A-024#70:1> As for the remaining predictors, prior military service was not
+
+significant in these data but was allowed to remain in the model because it
+
+did contribute in some of the later regressions, and we wanted to have a
+
+consistent model.
+<ICE-USA:W2A-024#71:1> The branch of service for which the individual was applying was also
+
+an independent predictor; applicants to all other armed services tended to
+
+have higher scores than Army applicants.
+<ICE-USA:W2A-024#72:1> No interactions between HIV-l status and any other predictor were
+
+identified.</p>
+
+<p> <ICE-USA:W2A-024#73:1> The results of the individual regression analyses for the effect
+
+of HIV- I positivity on each test score are shown in table 5.
+<ICE-USA:W2A-024#74:1> The same main effects model was used.
+<ICE-USA:W2A-024#75:1> In general, HIV-1-positive status tended to lower scores slightly,
+
+while most of the regression <it> R2 </it> values remained quite low,
+
+indicating that much of the variability in test scores w as independent of
+
+the factors in our model.
+<ICE-USA:W2A-024#76:1> This was expected, however, because if test scores were highly
+
+correlated with demographic factors, rather than individual variability,
+
+there would be no need to administer them as predictors of future
+
+performance.</p>
+
+<p> <ICE-USA:W2A-024#77:1> Among the general academic tests at the top of table 5, there
+
+appears to be no HIV-1 effect upon word knowledge or paragraph comprehension,
+
+which is consistent with a priori expectations, based on what is known about
+
+HIV-I dementia.
+<ICE-USA:W2A-024#78:1> We expected that Numerical Operations and Coding Speed would be the
+
+most sensitive indicators of an HIV-l effect, along with Arithmetic
+
+Reasoning.
+<ICE-USA:W2A-024#79:1> which involves solving arithmetic word problems.
+<ICE-USA:W2A-024#80:1> For Arithmetic Reasoning, there was a clearly significant decrement;
+
+for Numerical Operations, there was a marginal ( though statistically
+
+significant) HIV-I-positive decrement; and for Coding Speed, HIV-I-positive
+
+status appeared to marginally improve an applicant 's score.
+<ICE-USA:W2A-024#81:1> The largest negative effects occurred among the four vocational tests
+
+at the bottom.</p>
+
+<p> <ICE-USA:W2A-024#82:1> Because all of the Armed Services Vocational Aptitude Battery
+
+test 's components arc to some degree interrelated with each other and with
+
+measures of general intelligence, Pearson correlation coefficients between
+
+the individual tests were calculated.
+<ICE-USA:W2A-024#83:1> Most of the tests correlated fairly well with each of the other
+
+tests, with the exception of Numerical Operations and Coding Speed, which
+
+only correlated well with each other.
+<ICE-USA:W2A-024#84:1> The Armed Forces Qualifying Test composite, however, correlated well
+
+with all of the tests.
+<ICE-USA:W2A-024#85:1> Since the Armed Forces Qualifying Test composite represents a measure
+
+of an individual 's mental aptitude ( 15, 16), the Armed Forces Qualifying
+
+Test composite score was added as a predictor variable in another set of
+
+regressions to control for individual variation and further isolate the HIV-I
+
+effect on the remaining individual tests, apart from any effect on general
+
+intelligence.
+<ICE-USA:W2A-024#86:1> Those individual tests which are included in the Armed Forces
+
+Qualifying Test composite were excluded from this analysis, with the
+
+exception of Numerical Operations, in which case the composite was calculated
+
+without the Numerical Operations component when used as a predictor variable
+
+for that regression.</p>
+
+<p> <ICE-USA:W2A-024#87:1> The results of this final set of regressions using the Armed
+
+Forces Qualifying Test composite as a predictor ( table 6) were helpful.
+<ICE-USA:W2A-024#88:1> The <it> R2 </it> values roughly doubled for all of the test scores,
+
+and the magnitude of the HIV-I effect consistently diminished, with the
+
+exception of Coding Speed, which then showed a significant improvement with
+
+HIV-I-positive status.
+<ICE-USA:W2A-024#89:1> One must be cautious in interpreting these results, however.
+<ICE-USA:W2A-024#90:1> The approach used will automatically diminish the magnitude of the
+
+HIV-I effect on the individual tests, since part of the effect is already
+
+included in the Armed Forces Qualifying Test composite score as an effect on
+
+general intelligence.
+<ICE-USA:W2A-024#91:1> Only the improvement in Coding Speed for HIV-1-seropositives went
+
+against this expectation, as the magnitude increased, and if this test truly
+
+is a sensitive indicator, these results would tend to discount the
+
+significance of the HIV-I-positive effect on the other test scores.</p> </I>

@@ -1,0 +1,459 @@
+<I>
+
+<p> <ICE-USA:W2A-019#1:1> <it> A telephone survey was conducted to examine the television
+
+viewing patterns and motivations of 615 respondents.
+<ICE-USA:W2A-019#2:1> Channel repertoire was operationalized in two ways.
+<ICE-USA:W2A-019#3:1> Total channel repertoire was defined as the number of channels viewers
+
+watched, using aided recall.
+<ICE-USA:W2A-019#4:1> Mindful channel repertoire was further defined as those channels
+
+identified by viewers through unaided recall.
+<ICE-USA:W2A-019#5:1> The findings indicate that total channel repertoire is related to
+
+media and audience factors.
+<ICE-USA:W2A-019#6:1> Perceived effort, motives for changing channels with a remote control,
+
+and intentionality were significant positive predictors of mindful channel
+
+repertoire. </it> </p>
+
+<p> <ICE-USA:W2A-019#7:1> Channel repertoire is the number of available television channels
+
+that viewers choose to watch, typically fewer than a dozen.
+<ICE-USA:W2A-019#8:1> The operative word is choose, because choice of favored channels is
+
+active rather than passive, especially as the number of possible choices has
+
+increased in recent years.
+<ICE-USA:W2A-019#9:1> As a result, channel repertoire is one element of the " new media
+
+environment" ( Webster, 1986) that embodies the concept of selectivity. </p>
+
+<p> <ICE-USA:W2A-019#10:1> There are practical reasons to study channel repertoire.
+<ICE-USA:W2A-019#11:1> Competitive considerations demand that broadcast and cable channels
+
+have " top of the mind" awareness.
+<ICE-USA:W2A-019#12:1> As compression technologies promise 400-channel cable television
+
+systems, the need for channels to attract loyal viewers increases.
+<ICE-USA:W2A-019#13:1> Auletta ( 1991) outlined the revolutionary impact of channel
+
+fragmentation on the Big Three networks, noting that they could " never
+
+recapture their monopoly"(p. 571). </p>
+
+<p> <ICE-USA:W2A-019#14:1> The theoretical implications of channel repertoire are even more
+
+compelling.
+<ICE-USA:W2A-019#15:1> The portrayal of viewers as passive couch potatoes has been popular
+
+for many years because watching television involves some nonselective
+
+behavior.
+<ICE-USA:W2A-019#16:1> However, research has demonstrated that viewers have been quite
+
+active when there were only a few viewing choices ( Bechtel, Achelpohl, &
+
+Akers, 1971), and they are still very active in the more current multichannel
+
+environment ( Ferguson, 1990). </p>
+<ICE-USA:W2A-019#17:1> <h> <bold> Channel Repertoire </bold> </h>
+
+<p> <ICE-USA:W2A-019#18:1> The construct of channel repertoire can be operationalized in at
+
+least three different ways. </p>
+
+<p> <ICE-USA:W2A-019#19:1> <it> Channel familiarity </it> is the number of channels with
+
+which a viewer is familiar ( Heeter & Greenberg, 1988).
+<ICE-USA:W2A-019#20:1> Channel familiarity is assessed by asking respondents to freely
+
+indicate the channels they remember being able to receive ( Greenberg,
+
+Srigley, Baldwin, & Heeter, 1988; Heeter, 1985, 1988).
+<ICE-USA:W2A-019#21:1> Channel familiarity is not a measure of viewing behavior because
+
+familiarity is not the same as use.
+<ICE-USA:W2A-019#22:1> Although viewers should be more familiar with the channels they
+
+watch, some viewers may be aware of channels ( especially well publicized
+
+cable channels such as CNN, ESPN, Nickelodeon, and MTV) that they do not
+
+watch.
+<ICE-USA:W2A-019#23:1> Channel familiarity is most likely related to levels of promotion and
+
+publicity. </p>
+
+<p> <ICE-USA:W2A-019#24:1> <it> Aided channel repertoire </it> presents a roster of channels
+
+from which a viewing repertoire can be recalled.
+<ICE-USA:W2A-019#25:1> Aided channel repertoire is probably the most accurate measure of
+
+viewing behavior because it most closely reflects ratings data, although it
+
+may be affected by cable channel alignment stability.
+<ICE-USA:W2A-019#26:1> Thus, aided channel repertoire is useful to media industries and to
+
+researchers interested in accurate measures of audience size and demographic
+
+makeup. </p>
+
+<p> <ICE-USA:W2A-019#27:1> <it> Unaided channel repertoire </it> asks respondents to list,
+
+without any prompts, the channels they view regularly.
+<ICE-USA:W2A-019#28:1> The answers may provide the most valid data of channel repertoire,
+
+but they are susceptible to temporary memory lapse that may cause omission of
+
+salient channels.
+<ICE-USA:W2A-019#29:1> Greenberg, Heeter, and Lin ( 1988) noted that " unaided recall
+
+provides a smaller set of channels in the channel repertoire of the
+
+individual viewer" ( p. 197).
+<ICE-USA:W2A-019#30:1> Thus, unaided channel repertoire is the most conservative measure of
+
+viewing. </p>
+
+<p> <ICE-USA:W2A-019#31:1> It is important to distinguish channel familiarity, aided channel
+
+repertoire, and unaided channel repertoire because the different
+
+operationalizations have different theoretical implications.
+<ICE-USA:W2A-019#32:1> Channel familiarity is not a measure of viewing behavior but a
+
+measure of channel awareness.
+<ICE-USA:W2A-019#33:1> Although aided channel repertoire is the most accurate measure of
+
+viewing behavior, it does not distinguish between salient channels and less
+
+memorable channels.
+<ICE-USA:W2A-019#34:1> Aided channel repertoire may include channels that are used only
+
+rarely or as background and without full attention, because they are not top
+
+of mind.
+<ICE-USA:W2A-019#35:1> Unaided channel repertoire, on the other hand, suggests that exposure
+
+to those channels may be more mindful and frequent because those channels may
+
+be a regular part of television viewing. </p>
+
+<p> <ICE-USA:W2A-019#36:1> A primary distinction between aided and unaided channel
+
+repertoire can be traced to the level of audience behavior.
+<ICE-USA:W2A-019#37:1> Researchers interested in reflections of gross audience behavior
+
+typically find aided channel repertoire measures appropriate because they
+
+most closely reflect ratings data.
+<ICE-USA:W2A-019#38:1> Although aided channel repertoire is not a clear operationalization
+
+of gross audience behavior, it is useful to macro-level research interests
+
+that focus on media economics, target marketing, and communication policy and
+
+public interest ( Webster & Lichty, 1991). </p>
+
+<p> <ICE-USA:W2A-019#39:1> Some media researchers, however, are less interested in gross
+
+exposure to different channels and are more concerned with the audiences
+
+cognitive processing and psychological effects of specific media content.
+<ICE-USA:W2A-019#40:1> For those purposes, aided channel repertoire is less precise than
+
+unaided channel repertoire because it does not reflect psychological aspects
+
+of the audience, such as attention to, impressions of, or involvement with
+
+television content.
+<ICE-USA:W2A-019#41:1> This approach focuses more on individual selection of television
+
+content and the psychological processes that influence audience 's cognitive
+
+and emotional reactions to what they view ( Bryant & Zillmann, 1991). </p>
+
+<p> <ICE-USA:W2A-019#42:1> Webster and Lichty ( 1991 ) account for these two perspectives in
+
+their model of television viewing behavior.
+<ICE-USA:W2A-019#43:1> According to their model, there are two general influences on
+
+audience behavior.
+<ICE-USA:W2A-019#44:1> Structural determinants include media factors, such as the number of
+
+channel options, and audience availability ( i.e., the amount of time
+
+available to watch television).
+<ICE-USA:W2A-019#45:1> Individual determinants include the needs, tastes, and preferences of
+
+individual audience members.
+<ICE-USA:W2A-019#46:1> Macro- and micro-level perspectives place different emphases on
+
+different aspects of the model.
+<ICE-USA:W2A-019#47:1> When researchers are interested in macro- level issues and measures
+
+of overall audience behavior, structural determinants are more important.
+<ICE-USA:W2A-019#48:1> When researchers are interested in micro-level issues,
+
+individual-level factors become more useful. </p>
+
+<p> <ICE-USA:W2A-019#49:1> This article focuses on aided and unaided channel repertoire as
+
+reflections of audience behaviors and builds on past research about viewing
+
+behaviors and channel selection.
+<ICE-USA:W2A-019#50:1> We used the Webster-Lichty model of television viewing behavior to
+
+predict that media and audience factors would differentially explain aided
+
+and unaided channel repertoires. </p>
+<ICE-USA:W2A-019#51:1> <h> <bold> Total Channel Repertoire </bold> </p>
+
+<p> <ICE-USA:W2A-019#52:1> Total channel repertoire ( TCR) is the number of channels that
+
+viewers remember watching if aided recall is used.
+<ICE-USA:W2A-019#53:1> Webster and Lichty ( 1991 ) noted that TCR is related to the number
+
+of channels offered.
+<ICE-USA:W2A-019#54:1> As channel availability increases, so does channel repertoire.
+<ICE-USA:W2A-019#55:1> But, as the number of channels increases, the proportion of available
+
+channels used decreases.
+<ICE-USA:W2A-019#56:1> What factors should predict total channel repertoire?
+<ICE-USA:W2A-019#57:1> A foundation for such prediction was laid by Webster and Lichty 's (
+
+1991 ) model of audience television viewing behavior which points out two
+
+major influences on channel repertoire: media factors and audience
+
+availability. </p>
+
+<p> <ICE-USA:W2A-019#58:1> Within the category of media factors, there are two obvious
+
+variables of cable television subscription and remote control device ( RCD)
+
+ownership.
+<ICE-USA:W2A-019#59:1> Heeter ( 1985) found that TCR is predicted by cable television
+
+subscription.
+<ICE-USA:W2A-019#60:1> Ferguson ( 1992a) confirmed the influence of cable subscription and
+
+also noted the influence of RCD ownership.
+<ICE-USA:W2A-019#61:1> Remote control devices are an increasingly important element of the
+
+new media environment ( Ferguson, 1992a; Walker & Bellamy, 1991).
+<ICE-USA:W2A-019#62:1> In 1990, the penetration of remote control reached 77.0&percent; in U.S.
+
+television households ( Shagrin, 1990), compared to 70.2&percent; for the VCR ( " In
+
+Brief," 1991 ) and 61.2&percent; for cable ( Sheridan, 1991). </p>
+
+<p> <ICE-USA:W2A-019#63:1> Within the category of audience availability, there are two
+
+variables of television exposure and channel changing.
+<ICE-USA:W2A-019#64:1> Audience availability usually refers to the number of people
+
+available to watch television.<ICE-USA:W2A-019#> But, it can also refer to the accessibility
+
+of television content.
+<ICE-USA:W2A-019#65:1> So, higher levels of television viewing and channel changing may make
+
+more channels available to viewers. </p>
+
+<p> <ICE-USA:W2A-019#66:1> Ainslie ( 1988) reported on " grazing" ( flipping through
+
+channels with remote control devices) as a new way of watching television
+
+that makes more channels available to viewers.
+<ICE-USA:W2A-019#67:1> He found that viewers with remote control devices have significantly
+
+higher TCRs than viewers without RCDs. </p>
+
+<p> <ICE-USA:W2A-019#68:1> The first hypothesis of the study focuses on TCR: </p>
+
+<p> <ICE-USA:W2A-019#69:1> H1: Total channel repertoire will be predicted by ( a) media
+
+factors ( cable subscription and RCD ownership); and ( b) audience
+
+availability ( television exposure and channel changing). </p>
+<ICE-USA:W2A-019#70:1> <h> <bold> Mindful Channel Repertoire </bold> </h>
+
+<p> <ICE-USA:W2A-019#71:1> Mindful channel repertoire ( MCR) is the number of channels that
+
+viewers freely recall watching ( i.e., unaided).
+<ICE-USA:W2A-019#72:1> Mindful channel repertoire is generally smaller than total channel
+
+repertoire ( Greenberg, Heeter, & Lin, 19813).
+<ICE-USA:W2A-019#73:1> Based on models of free recall in cognitive psychology, MCR indicates
+
+that channels have been accessed frequently, recently, or committed to
+
+long-term memory ( Klatzky, 1980).
+<ICE-USA:W2A-019#74:1> Mindful channel repertoire also reflects a more active use of
+
+television, because channels are remembered without prompts and are at top of
+
+mind.
+<ICE-USA:W2A-019#75:1> Thus, viewers are more aware of channels whose programs are actively
+
+processed during exposure ( Bahrick, 1979). </p>
+
+<p> <ICE-USA:W2A-019#76:1> It is clear that MCR is influenced by media structure and
+
+audience availability variables.
+<ICE-USA:W2A-019#77:1> Cable subscription increases channel options, and greater television
+
+exposure increases opportunity to watch different channels.
+<ICE-USA:W2A-019#78:1> But, because MCR is a micro-level aspect of television viewing, MCR
+
+should also be explained by individual-level factors of the Webster and
+
+Lichty ( 1991) model.
+<ICE-USA:W2A-019#79:1> In this study, we focused on individual manifestations of audience
+
+activity in addition to media structure and audience availability. </p>
+
+<p> <ICE-USA:W2A-019#80:1> Audience activity describes how intentionally and purposely
+
+people select and use media technologies and content.
+<ICE-USA:W2A-019#81:1> Audience activity has been a central assumption of the uses and
+
+gratifications perspective ( Katz, Blumler, & Gurevitch, 1974).
+<ICE-USA:W2A-019#82:1> Audience members are seen as active because they select and use media
+
+content to satisfy specific communication needs.
+<ICE-USA:W2A-019#83:1> Scholars, however, have expanded understanding of audience activity
+
+by suggesting that audience members are variably active along several
+
+different dimensions ( Blumler,1979; Levy & Windahl, 1984, 1985).
+<ICE-USA:W2A-019#84:1> Scholars have investigated influences on audience activity ( Levy &
+
+Windahl,1984; Perse,1990a; Rubin & Perse,1987b), outcomes of audience
+
+activity ( Perse,1990b; Rubin & Perse,1987a), and audience activity in the
+
+newer media environment ( Ferguson, 1992a; Levy, 1987; Lin, 1990;
+
+Perse,1990a).
+<ICE-USA:W2A-019#85:1> From this literature, we selected five variables to examine in this
+
+study: television viewing motives, intentionality, affinity, effort, and
+
+motivations for changing channels. </p>
+
+<p> <ICE-USA:W2A-019#86:1> <it> Television viewing motives. </it> Rubin ( 1984) has argued
+
+that television viewing motives are a primary signal of audience activity.
+<ICE-USA:W2A-019#87:1> Ritualistic television use, which is marked by watching to pass time
+
+or out of habit, is a nonselective and less active use of television that
+
+focuses on using television as a medium, not specific content.
+<ICE-USA:W2A-019#88:1> Instrumental use, on the other hand, reflects selective and purposive
+
+exposure to specific content ( see also Rubin & Perse, 1987b).
+<ICE-USA:W2A-019#89:1> Instrumental viewing motives, such as viewing to seek information,
+
+entertainment, and excitement, are also related to higher levels of
+
+television exposure ( Rubin,1981, 1983) and exposure to several different
+
+program types, such as news, action-adventure, comedy, documentaries,
+
+magazine shows, drama, serials, sports, talk shows, and game shows (
+
+Rubin,1981,1983; Rubin & Rubin,19@2).1983) and exposure to several different
+
+program types, such as news, action-adventure, comedy, documentaries,
+
+magazine shows, drama, serials, sports, talk.
+<ICE-USA:W2A-019#90:1> Ritualistic and instrumental viewing motives should be linked
+
+differentially to TCR and MCR.
+<ICE-USA:W2A-019#91:1> Ritualistic viewing motives are related to higher levels of exposure
+
+to television and exposure to a wide variety of different program types (
+
+Rubin,1981,1983,1984).
+<ICE-USA:W2A-019#92:1> So, ritualistic motives might be positively related to TCR.
+<ICE-USA:W2A-019#93:1> But, ritualistic motives may not be related to awareness of the
+
+channels watched.
+<ICE-USA:W2A-019#94:1> Heeter ( 1985) reported that many people claimed that they did not
+
+know which channels they watched, " I don't know, I just watch TV" ( p.22).
+<ICE-USA:W2A-019#95:1> She observed that channel familiarity was negatively linked to
+
+viewing television for habitual reasons.
+<ICE-USA:W2A-019#96:1> Ritualistic viewing motives should be associated with lower MCR
+
+because ritualistic television use is inattentive to content and accompanied
+
+by distracting activities ( Perse,1990a; Rubin & Perse,1987b). </p>
+
+<p> <ICE-USA:W2A-019#97:1> Unlike ritualistic motives, instrumental motives should be linked
+
+to greater awareness of the channels that are watched, because instrumental
+
+use of television is more active and aware.
+<ICE-USA:W2A-019#98:1> In general, an instrumental use of television is reflected in more
+
+use of program guides to plan viewing, greater planning of time to watch
+
+specific programs, and more thought about program content ( Perse,1990a).
+<ICE-USA:W2A-019#99:1> The greater planning, effort, and awareness suggests that
+
+instrumental television use would be associated with higher MCR. </p>
+
+<p> <ICE-USA:W2A-019#100:1> <it> Intentionality </it> .
+<ICE-USA:W2A-019#101:1> Intentional media use is planned and purposive.
+<ICE-USA:W2A-019#102:1> Intentionality is reflected in program guide use ( Gantz & Eastman,
+
+1983) and " making appointments" to watch news ( Levy, 1978) and soap operas
+
+( Lemish, 1985).
+<ICE-USA:W2A-019#103:1> Intentionality is also associated with greater attention to programs
+
+during exposure ( Rubin, Perse, & Taylor, 1988).
+<ICE-USA:W2A-019#104:1> Because intentionality is linked to greater awareness of programming
+
+alternatives and to plans to watch specific programs, intentionality should
+
+be associated with greater awareness of the channels that are watched. </p>
+
+<p> <ICE-USA:W2A-019#105:1> <it> Affinity. </it> Affinity is another aspect of audience
+
+activity.
+<ICE-USA:W2A-019#106:1> Affinity reflects the importance that viewers place on television
+
+and its content.
+<ICE-USA:W2A-019#107:1> Affinity has been linked to higher levels of television exposure (
+
+Rubin, 1983), to higher levels of channel changing ( Wenner, 1990), and to a
+
+more active use of television news ( Rubin & Perse, 1987b).
+<ICE-USA:W2A-019#108:1> Because affinity is related to individual media factors and to
+
+greater television importance, affinity should be linked to higher mindful
+
+channel repertoires. </p>
+
+<p> <ICE-USA:W2A-019#109:1> <it> Effort. </it> Effort is a goal-directed cognitive activity.
+<ICE-USA:W2A-019#110:1> Cognitive effort directs selective attention to specific aspects of
+
+a situation ( Kahneman, 1973).
+<ICE-USA:W2A-019#111:1> Effort is reflected in conscious, controlled, and voluntary mental
+
+activity ( Shiffrin & Schneider, 1977).
+<ICE-USA:W2A-019#112:1> Effort also influences what children learn from print and television
+
+( Salomon & Leigh, 1984).
+<ICE-USA:W2A-019#113:1> Because effort marks greater attention and awareness, we expect
+
+cognitive effort to be associated with awareness of channels watched. </p>
+
+</I>

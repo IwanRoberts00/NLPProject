@@ -1,0 +1,333 @@
+<I>
+<ICE-USA:W2D-014#1:1> <h> HOW TO - Build a Scale Model </h>
+
+<p> <ICE-USA:W2D-014#2:1> I enjoy models - - even since I was a young boy, though in my
+
+younger years I lacked the patience, steady hands and delicate motions needed
+
+to properly complete a model.
+<ICE-USA:W2D-014#3:1> This HOW TO will be a series that carries us from start to finish of a
+
+model, starting with the most boring part - - understanding what you're
+
+getting into 're what you'll need 'll get into it.
+<ICE-USA:W2D-014#4:1> But, without this section, it is hard to really know what you're doing
+
+or why 're/p>
+
+<p> <ICE-USA:W2D-014#5:1> Scale modeling is time consuming, and as a result this HOW TO will
+
+be in several parts, the first being the most basic in that it will cover
+
+selecting a model, thinking about paint layers and understanding the concepts
+
+and challenges in scale modeling.
+<ICE-USA:W2D-014#6:1> Also, the length of this write up will significantly decrease the
+
+length of the articles to come when we go through the actual building,
+
+painting, and finishing processes over the next several weeks.
+<ICE-USA:W2D-014#7:1> Be forewarned, building a model may feel like it drags on, but rushing
+
+a job will result in a really low quality build.
+<ICE-USA:W2D-014#8:1> As I stated, this will likely be the longest of my HOW TO series, but
+
+it is also the most important and will hopefully lay a foundation on the
+
+things to come. </p>
+
+<p> <ICE-USA:W2D-014#9:1> The first thing to note is that with any scale model the idea is
+
+to be as close to perfect as possible.
+<ICE-USA:W2D-014#10:1> This adds to the amount of time it should take to build one.
+<ICE-USA:W2D-014#11:1> Things like how much detail a kit has, moving parts and the
+
+complexity of the kit itself make dissolve any static timeline in scale
+
+modeling. </p>
+
+<p> <ICE-USA:W2D-014#12:1> It really doesn't matter where your interests lie, be they
+
+aircraft, cars, armor ( tanks and military vehicles), or ships ( wooden or
+
+otherwise), each type of model has its own specific obstacles that surface on
+
+all models of that type.
+<ICE-USA:W2D-014#13:1> As an example, a huge challenge in aircraft is understanding that no
+
+aircraft will look 'factory fresh' unless the model is to look like a
+
+restored museum item and therefore a lot of time and reflection will be
+
+needed for weathering the paint job effectively.
+<ICE-USA:W2D-014#14:1> With that, determining where your interests lie is one step closer to
+
+knowing or figuring out what brand of model to assemble.
+<ICE-USA:W2D-014#15:1> For me, it is cars and bikes. </p>
+
+<p> <ICE-USA:W2D-014#16:1> So once, you've figured out what it 've you want to build, it 's
+
+good to know who makes what and to what quality they make them.
+<ICE-USA:W2D-014#17:1> I'll jus 'llo ahead and state for the record, that while I'm not
+
+directly adv 'mtising for Tamiya, they are in my honest opinion the BEST
+
+models that you can buy ( despite their very high price point).
+<ICE-USA:W2D-014#18:1> As a result I'll mai 'll talk about the Tamiya brand and later HOW TO
+
+articles will be on a Tamiya model ( of either the Yamaha YZR-M1 50th
+
+Anniversary or Tamiyas newest release ( end of January), the Lamborghini
+
+Countach LP500S - - I'll let 'llu decide which you'd li 'd me to go over) </p>
+
+<p> <ICE-USA:W2D-014#19:1> There are several reputable model manufacturers out there.
+<ICE-USA:W2D-014#20:1> Choosing a model largely depends on several factors, the first being
+
+in what scale you wish to build.
+<ICE-USA:W2D-014#21:1> I build in two scales: 1/24 and 1/12 ( which are usually cars and
+
+motorcycles).
+<ICE-USA:W2D-014#22:1> The second factor being to what level of detail do you wish to
+
+achieve.
+<ICE-USA:W2D-014#23:1> Some models are 'curbside' meaning they have no engine, just a closed
+
+hood.
+<ICE-USA:W2D-014#24:1> Some models don't have steerable wheels, but most have rolling
+
+wheels.
+<ICE-USA:W2D-014#25:1> Some models are molded in grey resin while others come with metal
+
+plated or dyed parts.
+<ICE-USA:W2D-014#26:1> It just depends on what you want to achieve.
+<ICE-USA:W2D-014#27:1> Some manufactures only make models in certain scales or only make
+
+them of certain materials . </p>
+
+<p> <ICE-USA:W2D-014#28:1> The last thing that should be taken into consideration when
+
+selecting a model is how well you know the item you are building.
+<ICE-USA:W2D-014#29:1> Some kits aren't as accurate as they'd ha 'd you believe.
+<ICE-USA:W2D-014#30:1> For instance I recently built my father a replica of his first car
+
+when he was a teenager - - a 1966 GTO with the 389 Tri Power and the ultra
+
+rare factory installed Ram Air, Hurst 4 on the floor shifter in Fontaine Blue
+
+with Aqua interior.
+<ICE-USA:W2D-014#31:1> Aside from what he would reminisce, I knew VERY little about the car
+
+and spent a month doing deep research on the car, saved 500 some odd pictures
+
+of the inside ( interior and engine bay) and outside ( even the
+
+undercarriage), what the extras for the car were, etc. prior to even starting
+
+to build the model. </p>
+
+<p> <ICE-USA:W2D-014#32:1> Some of that stuff has no bearing if you know that these parts
+
+won't be seen - - for instance you can glue a hood closed and forego the
+
+engine when you really don't feel like messing with it ( but kits with
+
+engines cost more so it 's like wasting money). </p>
+
+<p> <ICE-USA:W2D-014#33:1> The kit itself came with two side mirrors and Rally II wheels.
+<ICE-USA:W2D-014#34:1> The instructions called for the window trim to be flat black and the
+
+stock six-pack wasn't configured correctly.
+<ICE-USA:W2D-014#35:1> Without research I would have never known that the 'six pack' had the
+
+middle carb sitting higher than the outside carbs, the window trim was
+
+chrome, Rally I wheels were stock not Rally II wheels ( Rally II wheels
+
+weren't on the car until 1967) and the car only had a driver side mirror on
+
+the outside, not two.
+<ICE-USA:W2D-014#36:1> The kit would have me build an inaccurate model - - which is not
+
+acceptable to me. </p>
+
+<p> <ICE-USA:W2D-014#37:1> To fix large inaccuracies you've got to scra 've build them or
+
+find a company who makes accurate replacements / enhancements ( and there are
+
+many companies who do this, so don't fear too much if you find yourself in
+
+this spot) </p>
+
+<p> <ICE-USA:W2D-014#38:1> First and foremost, the paint is a primary concern.
+<ICE-USA:W2D-014#39:1> Everything rests on the paint - - a bad paint job will overshadow any
+
+other aspect of a model because it is the most visible feature.
+<ICE-USA:W2D-014#40:1> In order to ensure that the paint comes out well good preparation
+
+materials are needed as well as just good preparation. </p>
+
+<p> <ICE-USA:W2D-014#41:1> While at this point we do not need to apply paint it is important
+
+to have colors and vehicles in mind.
+<ICE-USA:W2D-014#42:1> If you're buildin 're kit and want to use factory colors then you'll 'll
+need to pick out those colors.
+<ICE-USA:W2D-014#43:1> If you're lookin 'reo do a custom paint job then you'll 'llso need to
+
+pick those out.
+<ICE-USA:W2D-014#44:1> Certain colors look better on certain cars while other can completely
+
+throw off the project.
+<ICE-USA:W2D-014#45:1> For instance you'll 'llobably not want to paint a 1989 Savanna RX-7
+
+FC3S in Wimbledon White because it looks funny and because Wimbledon White is
+
+a Ford color, not a Mazda color.
+<ICE-USA:W2D-014#46:1> You would however probably paint it Black, Red, Aluminum or White
+
+since those were the factory colors that the car came in.
+<ICE-USA:W2D-014#47:1> You may even want to go totally custom and paint it something like
+
+Mica Red fading to Mica Crimson with Metallic Black accents ( like lamp
+
+covers, door guards and spoiler).
+<ICE-USA:W2D-014#48:1> Anyway you want to paint a model is fine as far as color goes but it
+
+is important to be aware that not all paint is the same - - in short paint is
+
+not paint is not paint. </p>
+
+<p> <ICE-USA:W2D-014#49:1> Lacquer is thinner than acrylic and enamel but is subject to
+
+chipping, fading , and is typically 'flat'.
+<ICE-USA:W2D-014#50:1> Lacquer dries very fast compared to enamel because the vehicle in the
+
+paint evaporates.
+<ICE-USA:W2D-014#51:1> The vehicle in lacquer also softens paint below it and chemically
+
+bonds to any pre-existing layers of paint.
+<ICE-USA:W2D-014#52:1> For this reason is it never a great idea to put lacquer over top of
+
+an enamel or acrylic.
+<ICE-USA:W2D-014#53:1> Lacquer will cost you more money in the long run to use because it
+
+requires that you seal it to avoid chipping and fading, but sealing it
+
+deepens the color and gives a much better finish.
+<ICE-USA:W2D-014#54:1> Cleaning lacquer up is harder because it needs stronger chemicals
+
+that can attack the plastic of a model, so lacquers are good for masked spray
+
+work and base coats.
+<ICE-USA:W2D-014#55:1> Tamiya paints are never enamels... they're with 'reSpray lacquer or
+
+bottled acrylics but are formulated to not react with other brands of enamel,
+
+acrylic and lacquers. </p>
+
+<p> <ICE-USA:W2D-014#56:1> Enamel is fairly thick and unlike lacquer the drying process can
+
+take upwards of 2-3 days.
+<ICE-USA:W2D-014#57:1> Technically enamel doesn't dry so much as it simply hardens with an
+
+outer shell forming within about an hour.
+<ICE-USA:W2D-014#58:1> Enamel doesn't soften the layer of paint below it but can be softened
+
+by lacquer - - therefore again I stress that it is a bad idea to put lacquer
+
+over enamel.
+<ICE-USA:W2D-014#59:1> The exception to this is clear coats.
+<ICE-USA:W2D-014#60:1> Enamel is typically semi-gloss ( egg shell or satin as it is
+
+sometimes referred) or gloss.
+<ICE-USA:W2D-014#61:1> The thickness of enamel coupled with the time reduced amount of time
+
+it takes for a shell to form over it makes enamel prone to 'orange peel' and
+
+if not careful quite possible to fill in panel lines on accident.
+<ICE-USA:W2D-014#62:1> The clean up however is fairly simple as the chemicals used need time
+
+to attack plastic.
+<ICE-USA:W2D-014#63:1> It 's also the easiest paint to strip off of a model when you're not 're
+happy with the overall paint job.
+<ICE-USA:W2D-014#64:1> A couple of hours in degreaser and you'l 'llever know there was any
+
+paint on it at all!
+<ICE-USA:W2D-014#65:1> Testors makes all three varieties of paint and are really bad about
+
+reacting to certain brands of lacquer over their own brand of lacquer, though
+
+Tamiya and Mr. Color work well with Testors brands of paint. </p>
+
+<p> <ICE-USA:W2D-014#66:1> Acrylic paint is a double edged sword.
+<ICE-USA:W2D-014#67:1> It dries fast so it is best suited for detail work that isn't going
+
+to take long, but it is usually water soluble so the cleanup is simple while
+
+still wet.
+<ICE-USA:W2D-014#68:1> Once dry however, acrylics are like enamel and chemicals are needed
+
+to remove them.
+<ICE-USA:W2D-014#69:1> Also like enamel, acrylics do not soften the layer of paint below
+
+them.
+<ICE-USA:W2D-014#70:1> Acrylics are also very easy to dilute into 'inks', which in turn are
+
+used to detail panel lines with 'loaded brushes' so that the model has more
+
+dimension and realistic look.
+<ICE-USA:W2D-014#71:1> Acrylics are also almost always gloss and require a bit of stirring
+
+because they separate quickly.</p>
+
+<p> <ICE-USA:W2D-014#72:1> Tamiya metallic acrylics require being stirred every 7-10 minutes
+
+and all of them require stirring ( or vigorous shaking) at every use but they
+
+go down really well.
+<ICE-USA:W2D-014#73:1> Testors and Mr. Color acrylics don't need to be stirred as often as
+
+Tamiya, but go down pretty thick which can cause brush strokes to be clearly
+
+visible. TO summarize the concept of paint you should just simply remember
+
+the order in which you want to put down your paint layers. </p>
+
+<p> <ICE-USA:W2D-014#74:1> These are things to think about when you choose a model.
+<ICE-USA:W2D-014#75:1> Understanding in what order you'l 'lleed to apply colors saves a lot
+
+of work and frustration in the end.
+<ICE-USA:W2D-014#76:1> Above all, make sure that whatever brand of paint you use, that it is
+
+safe on polystyrene.
+<ICE-USA:W2D-014#77:1> Polystyrene is only one kind of model plastic but it is the most
+
+common.
+<ICE-USA:W2D-014#78:1> Another common plastic is Polycarbon which is primarily used for RC
+
+bodies and parts.
+<ICE-USA:W2D-014#79:1> Polycarbon paint will attack ( 'eat' is probably more accurate)
+
+polystyrene as polystyrene is pretty much super condensed Styrofoam.
+<ICE-USA:W2D-014#80:1> Also, since lacquer and enamel have some form of urethane in them...
+
+be smart about it and be in a well ventilated area ( like outside).
+<ICE-USA:W2D-014#81:1> I'l 'llxplain more on painting when it 's time to paint the model. </p>
+
+<p> <ICE-USA:W2D-014#82:1> Preparing to build a model is more than just clearing table space
+
+and a model.
+<ICE-USA:W2D-014#83:1> There are basic things you' 'llneed in order to ensure that your model
+
+gets off to a good start. </p>
+
+<p> <ICE-USA:W2D-014#84:1> Sandpaper is probably the most underrated material you' 'llneed.
+<ICE-USA:W2D-014#85:1> It 's used for removing 'pull lines' ( where the injector pills away
+
+from the mold), swirls, flashing, and sprue ( a sprue tree is what each piece
+
+is attached to prior to being cut away)connectors.
+<ICE-USA:W2D-014#86:1> Sandpaper is also used to finish paint jobs.
+<ICE-USA:W2D-014#87:1> Typically one would use 3600 to 12000 grit for removing and reducing 'orange
+
+peel' ( the tiny pits that appear in a spray paint job).</p> </I>

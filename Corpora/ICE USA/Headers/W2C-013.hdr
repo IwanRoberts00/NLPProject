@@ -1,0 +1,74 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2C-013</textcode>
+          <number of subtexts>2</number of subtexts>
+          <category>written: printed: reportage: press news</category>
+          <wordcount>2150</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ALL>
+          <source.type=newspaper>
+               <source.title>The Detroit News</source.title>
+          <publication statement>
+               <publisher>Copyright 1993 The Detroit News</publisher>
+               <address> </address>
+               <place> </place>
+               <date>9/7, 9/1993</date>
+          </publication statement>
+          <copyright.statement>used with permission of The Detroit News</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+</text.info>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-013>
+          <subtext.name></subtext.name>
+               <main.title>Neon May Light the Way for Perception of U.S. Small Cars</main.title>
+               <subtitle></subtitle>
+               <page.nos>Sec A, Pg. 1</page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-013>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Gruley</surname>
+               <forenames>Bryan</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-013>
+          <subtext.name></subtext.name>
+               <main.title>Ford, UAW consider 4-day week for Wayne</main.title>
+               <subtitle></subtitle>
+               <page.nos>Sec. E, pg. 1</page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-013>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Sedwick</surname>
+               <forenames>David</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

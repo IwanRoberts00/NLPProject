@@ -1,0 +1,393 @@
+<I>
+
+<p> <ICE-USA:W2A-029#1:1> Molecular biology has revolutionized the study of protein
+
+structure and function.
+<ICE-USA:W2A-029#2:1> Not only has the microbial production of enzymes and other proteins in
+
+useful amounts become routine in recent years, but systematic alteration of
+
+protein sequence by site-directed mutagenesis is now a standard tool for
+
+dissecting chemical mechanism.
+<ICE-USA:W2A-029#3:1> The recent development of new methods for ligating peptides, however,
+
+promises to make chemical synthesis of large proteins an attractive
+
+alternative to biosynthesis, particularly for the construction of novel
+
+molecules containing non-natural amino acids or other structural
+
+modifications.</p>
+
+<p> <ICE-USA:W2A-029#4:1> Attempts to synthesize proteins chemically have traditionally
+
+followed one of two basic strategies: stepwise assembly from their
+
+constituent amino acids on a solid support, or convergent coupling of peptide
+
+segments in solution.
+<ICE-USA:W2A-029#5:1> Although solid-phase peptide synthesis has been optimized to the
+
+extent that proteins over 100 amino acids in length can be prepared in
+
+favorable cases [ l], such syntheses still represent heroic undertakings and
+
+the number of side products that accumulate over the many coupling steps that
+
+are necessary often makes purification of the final product laborious.
+<ICE-USA:W2A-029#6:1> Convergent coupling has the considerable advantage that synthesis and
+
+purification of peptide segments up to 30 residues long is relatively
+
+straightforward; since a variety of unusual amino acids can be introduced
+
+into each segment, this approach is also highly adaptable to the preparation
+
+of multiple analogs of naturally-occurring proteins.
+<ICE-USA:W2A-029#7:1> But broad implementation of the fragment condensation strategy has
+
+been limited by the poor solubility of protected peptide segments and the
+
+tendency of a-carboxy-activated peptides to racemize.
+<ICE-USA:W2A-029#8:1> Many of these difficulties can be circumvented by enzymatic coupling
+
+procedures.
+<ICE-USA:W2A-029#9:1> Proteolytic enzymes, particularly serine proteases, have been used
+
+extensively in peptide synthesis because of their selectivity, ability to
+
+function under mild reaction conditions, and minimal requirements for
+
+protecting groups [ 2].
+<ICE-USA:W2A-029#10:1> Although it might seem counterintuitive to attempt to synthesize a
+
+protein using a protease, problems due to proteolytic degradation of the
+
+final peptide product by the catalyst can be minimized by manipulating the
+
+reaction conditions or through genetic engineering.
+<ICE-USA:W2A-029#11:1> For example, replacement of the active site serine in subtilisin with
+
+cysteine converts the protease into an acyl transferase: the modified enzyme
+
+is readily acylated by esters and subsequently deacylated by amines, but has
+
+greatly diminished amidase activity compared with wild-type subtilisin [ 3].
+<ICE-USA:W2A-029#12:1> However, substitution of sulfur for oxygen engenders steric crowding
+
+in the active site, limiting the activity of the enzyme.
+<ICE-USA:W2A-029#13:1> Wells and colleagues [ 4] have relieved this crowding by mutating a
+
+second residue in the active site.The resulting double mutant, dubbed
+
+0subtiligase,¡ eficiently couples unprotected peptides in water.</p>
+
+<p> <ICE-USA:W2A-029#14:1> The acyl donor in a typical subtiligase-catalyzed ligation ( Fig.
+
+1) is a peptide whose carboxyl terminus is esterified with a
+
+glycolate-phenylalanine amide group.
+<ICE-USA:W2A-029#15:1> This ester efficiently acylates subtiligase because of the enzyme¡s
+
+preference for glycine and phenylalanine in the two positions directly
+
+following the 0cleavage¡ site, Pl¡ and P2¡, respectively.
+<ICE-USA:W2A-029#16:1> Deacylation of the enzyme by a fully deprotected peptide ( or
+
+protein) corresponding to the desired acceptor fragment then yields the
+
+ligated product.
+<ICE-USA:W2A-029#17:1> Nearly quantitative yields have been obtained for reactions between
+
+model esters and dipeptide nucleophiles [ 4].
+<ICE-USA:W2A-029#18:1> Such an approach has also been successfully applied to the
+
+post-translational modification of natural and recombinant proteins.
+<ICE-USA:W2A-029#19:1> For instance, biotinylated and heavy- atom derivatives of N-methionyl
+
+human growth hormone were prepared by ligating peptides that contain biotin
+
+or mercury to the hormone¡s N-terminus [ 5].
+<ICE-USA:W2A-029#20:1> Wong et al. [ 6] have used analogous enzymatic methods to synthesize
+
+a variety of N- and Olinked glycopeptides.
+<ICE-USA:W2A-029#21:1> Blockwise assembly of large proteins by repeated couplings of long
+
+peptides is also possible.
+<ICE-USA:W2A-029#22:1> The enzyme RNase A ( 126 amino acids) was synthesized in good yield
+
+and high purity by subtiligase-catalyzed ligation of six peptide fragments
+
+ranging in length from 12 to 30 residues [ 7].
+<ICE-USA:W2A-029#23:1> RNase A mutants containing the unnatural amino acid 4-fluorohistidine
+
+in place of the histidines at positions 12 and 119 were also prepared to
+
+examine whether the basic nature of these residues is important in catalysis
+
+[ 7].
+<ICE-USA:W2A-029#24:1> Given that the incorporation of multiple unnatural amino acids into a
+
+protein backbone is not currently possible using recombinant technologies,
+
+this application of subtiligase illustrates the potential utility of chemical
+
+approaches to protein total synthesis.
+<ICE-USA:W2A-029#25:1> By expanding the set of possible changes that can be made, our
+
+ability to probe structure-function relationships in proteins with the
+
+precision of physical organic chemistry and to design new materials with
+
+novel properties will increase dramatically.
+<ICE-USA:W2A-029#26:1> Site-specific incorporation of NMR probes, structural constraints,
+
+and catalytic cofactors into proteins are only some of the exciting
+
+possibilities that spring to mind.</p>
+
+<p> <ICE-USA:W2A-029#27:1> The utility of subtiligase-catalyzed peptide coupling is a
+
+consequence, in part, of its high reaction rates and relatively broad
+
+specificity.The glycolate esters used as acyl donors are stable and easily
+
+prepared by solid-phase methods, so that side-reactions, especially
+
+racemization, which are often problematic in the chemical coupling of
+
+activated peptides are suppressed.
+<ICE-USA:W2A-029#28:1> The fact that the enzyme tolerates a wide range of Pl, Pl¡, P2 and
+
+P2¡ amino acids also provides great latitude in the choice of ligation site.
+<ICE-USA:W2A-029#29:1> Site-directed mutagenesis has been used to broaden this specificity
+
+further [ 4,6] and to increase the stability of the enzyme [ 5,6].
+<ICE-USA:W2A-029#30:1> The design of subtiligase variants capable of coupling peptides in 4
+
+M guanidine hydrochloride may be particularly important [ 5], as
+
+highly-structured peptides and proteins are otherwise poor substrates for the
+
+ligase.</p>
+
+<p> <ICE-USA:W2A-029#31:1> New non-enzymatic methods for coupling peptide fragments,
+
+including highly structured peptides, have the potential to complement and
+
+extend enzymatic ligation procedures considerably.
+<ICE-USA:W2A-029#32:1> Several research groups [ g-10] have reported powerful chemical
+
+ligation strategies that can be carried out under fully denaturing conditions
+
+with high efficiency.
+<ICE-USA:W2A-029#33:1> In these reactions, unprotected peptide fragments are specifically
+
+brought together in such a way as to juxtapose the acyl donor and amine
+
+acceptor.
+<ICE-USA:W2A-029#34:1> The high effective molarity of the reactive groups then ensures
+
+facile intramolecular formation of the desired peptide bond.
+<ICE-USA:W2A-029#35:1> This approach, which bypasses the need for highly activated acyl
+
+donors, is illustrated by the recent work of Kent and coworkers [ lo].</p>
+
+<p> <ICE-USA:W2A-029#36:1> As shown in Fig. 2, native chemical ligation can be achieved by
+
+chemoselectively reacting a peptide bearing a thioester at its carboxyl
+
+terminus with a second peptide capped at its amino end by a cysteine.
+<ICE-USA:W2A-029#37:1> The resulting thioester ligation product undergoes a rapid,
+
+geometrically favorable rearrangement involving acyl transfer from the thiol
+
+to the amine, yielding a final product that contains a native amide bond at
+
+the ligation site.
+<ICE-USA:W2A-029#38:1> Both peptide segments are conveniently prepared by conventional
+
+techniques, and coupling is rapid and selective in aqueous buffer, occurring
+
+without significant side reactions.
+<ICE-USA:W2A-029#39:1> In fact, solubilizing agents such as urea and guanidine hydrochloride
+
+appear to enhance the chemical efficiency of reaction by concentrating and
+
+denaturing the peptide segments.
+<ICE-USA:W2A-029#40:1> The synthesis of interleukin- 8, a 72-residue cytokine that contains
+
+multiple disulfide bonds, demonstrates the utility of this approach for the
+
+preparation of moderately-sized polypeptides [ lo]; the synthesis of larger
+
+proteins and protein analogs is limited only by the availability of larger,
+
+appropriately modified peptide segments.
+<ICE-USA:W2A-029#41:1> Although native chemical ligation strategies require a cysteine at
+
+the coupling site, this is not likely to be a significant limitation in the
+
+preparation of proteins with novel architectures.The thiol side chain is a
+
+useful catalytic group and/or metal ligand in many proteins.
+<ICE-USA:W2A-029#42:1> It is also readily converted through selective alkylation to a
+
+variety of anionic, cationic and neutral functionalities.
+<ICE-USA:W2A-029#43:1> Indeed, the high yields and comparatively easy implementation of the
+
+chemical approach are likely to render it an effective alternative to
+
+enzymatic coupling methods in many instances, and a successful marriage of
+
+the two techniques may dramatically increase the size range of polypeptides
+
+directly accessible by total chemical synthesis.</p>
+
+<p> <ICE-USA:W2A-029#44:1> Of course, chemists wishing to synthesize proteins need not be
+
+bound by nature¡s choices.
+<ICE-USA:W2A-029#45:1> In addition to expanding the repertoire of amino acid side chains
+
+that can be incorporated into proteins, chemical synthesis makes backbone
+
+engineering possible: peptide segments and protein domains can be joined by
+
+linkages other than the amide bond.
+<ICE-USA:W2A-029#46:1> This point is illustrated by variants of HIV- l protease containing
+
+novel thiol ester linkages [ 11,12], which were constructed by combining a
+
+peptide fragment possessing a C-terminal thioester with a second segment
+
+bearing a bromoacetyl group at its amino end.
+<ICE-USA:W2A-029#47:1> Alkylation of the thiol occurs rapidly and in high yield.
+<ICE-USA:W2A-029#48:1> When the thioester replaces the natural peptide bond between Gly51
+
+and Gly52, the alkylated product remains fully active [ l 11, but when it is
+
+used to replace the Gly49-Ile50 peptide bond, catalytic activity is reduced [
+
+12].
+<ICE-USA:W2A-029#49:1> This observation provided direct evidence for the notion that
+
+specific backbone hydrogen bonds from the enzyme active site flaps to the
+
+substrate are important for the catalytic function of the protease.
+<ICE-USA:W2A-029#50:1> Backbone engineering has also been exploited for the rapid assembly
+
+of a four-helix bundle on a ternplating peptide [ 13] and for semisynthesis
+
+of analogs of human granulocyte colony stimulating factor containing a single
+
+backbone acyl hydrazone bond [ 14]</p>
+
+<p> <ICE-USA:W2A-029#51:1> In sum, versatile new methods for coupling peptides provide the
+
+basis for a general and modular approach to the chemical synthesis of large
+
+proteins.
+<ICE-USA:W2A-029#52:1> Accordingly, the field of protein chemistry is likely to experience
+
+something of a renaissance.
+<ICE-USA:W2A-029#53:1> For decades to come, wide implementation of these technologies will
+
+provide exciting research opportunities for chemists and biologists
+
+interested in exploring protein structure and function.</p> </I>
+
+
+<I>
+
+<p> <ICE-USA:W2A-029#54:2> The chlorobenzene emissions detected in the stack effluent of
+
+this facility probably resulted from a combination of two processes.
+<ICE-USA:W2A-029#55:2> The first is the original contamination found in the sludge feed.
+<ICE-USA:W2A-029#56:2> Previous studies have shown chlorobenzene to be a very stable
+
+compound, even when decompoSed as part of a mixture ( 17,18)-.
+<ICE-USA:W2A-029#57:2> Thus, the appearance of chlorobenzene in the stack is probably due in
+
+part to its ability to undergo relatively harsh thermal exposures and escape
+
+unscathed.</p>
+
+<p> <ICE-USA:W2A-029#58:2> The second contribution to the emission of chlorobenzene at the
+
+full-scale facility is the possibility that this compound was formed as a
+
+PIC.
+<ICE-USA:W2A-029#59:2> We have conducted many studies involving the decomposition of benzene
+
+and/or toluene or related compounds in the presence of chlorinated species.
+<ICE-USA:W2A-029#60:2> The free chlorine radicals generated in such a reaction atmosphere
+
+have host of chlorine- containing compounds were detected in the sludge feed
+
+at the full- scale facility, it is logical that chlorobenzene was detected in
+
+the stack.</p> </I>
+
+
+<I>
+
+<p> <ICE-USA:W2A-029#61:3> Food items in stomachs were identified to the lowest practical
+
+taxon and counted under a dissecting microscope.
+<ICE-USA:W2A-029#62:3> The individual prey items were blotted dry and weighed to the nearest
+
+milligram.
+<ICE-USA:W2A-029#63:3> Typically, crustaceans were identified to genus or family and insects
+
+to family or order.
+<ICE-USA:W2A-029#64:3> Fish were identified to species or genus and measured ( fork length)
+
+to the nearest millimeter.
+<ICE-USA:W2A-029#65:3> Partly digested fishes often were identified by their bone
+
+morphology, as determined from a reference collection ( Hansel et al. 1988)
+
+when length could not be measured directly because of digestion, we estimated
+
+it from standard or nape-to-tail lengths or bone lengths ( Hansel et al.
+
+1988) with regression equations developed from whole specimens.
+<ICE-USA:W2A-029#66:3> Partly digested fish remains from more than one prey fish species
+
+were weighed together and apportioned to each species on the basis of the
+
+extrapolated sizes of whole fish.
+<ICE-USA:W2A-029#67:3> When we could not estimate the relative sizes of each prey fish, we
+
+divided the total weight of the parts equally among fish in the stomach.
+<ICE-USA:W2A-029#68:3> Parasites, non-food items, and unidentified materials were ignored in
+
+dietary calculations.</p> <&> [ TABLE 2 OMITTED]</&>
+
+<p> <ICE-USA:W2A-029#69:3> To determine if northern squawfish were feeding selectively on
+
+certain sizes of juvenile salmonids, we compared the length frequencies of
+
+juvenile salmonids in the digestive tracts of northern squawfish to length
+
+frequencies of those available in the environment during the same days
+
+predators were collected near the dam.
+<ICE-USA:W2A-029#70:3> Length data on salmonids from the environment were obtained from
+
+smolt samples at the McNary Dam collection facility ( Paul Wagner, Washington
+
+Department of Fisheries, unpublished data); these data were continuous but
+
+grouped, because smolts were sorted into groups by 10-mm increments and
+
+individual measurements were not available.
+<ICE-USA:W2A-029#71:3> The length-frequency distributions were tested for independence with
+
+the Kolmogorov-Smirnov goodness of fit test for continuous, group data ( Zar
+
+1984).
+<ICE-USA:W2A-029#72:3> Lengths of juvenile salmonids were pooled for all years by month
+
+because length distributions did not vary significantly among years.</p> </I>

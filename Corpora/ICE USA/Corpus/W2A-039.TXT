@@ -1,0 +1,312 @@
+<I>
+
+<p> <ICE-USA:W2A-039#1:1> My academic library is in the market for a new integrated library
+
+system.
+<ICE-USA:W2A-039#2:1> As part of this process we've done all t 'veusual things, including
+
+drawing up wish lists of desirable OPAC features and using them to evaluate
+
+numerous systems.</p>
+
+<p> <ICE-USA:W2A-039#3:1> We've also taken 'veo far more interesting steps.
+<ICE-USA:W2A-039#4:1> First, we actually asked the faculty what they thought were important
+
+features to have in an online catalog.
+<ICE-USA:W2A-039#5:1> ( This was suggested by a faculty member.)
+<ICE-USA:W2A-039#6:1> Second, on three separate occasions we set up " demonstration
+
+stations"--terminals in the library connected to two or more of the systems
+
+under consideration--for hands-on use by faculty and students.
+<ICE-USA:W2A-039#7:1> Some of the systems were graphical, some character based.
+<ICE-USA:W2A-039#8:1> In some cases, we showed two versions of the same system.
+<ICE-USA:W2A-039#9:1> We provided comment sheets for signed or anonymous remarks, and staff
+
+were available nearby to give help or take reactions.
+<ICE-USA:W2A-039#10:1> We got a lot of input.</p>
+
+<p> <ICE-USA:W2A-039#11:1> The results probably won't be turned into a major motion picture
+
+anytime soon, but they aren't without interest either.
+<ICE-USA:W2A-039#12:1> Here are several lessons I've drawn from 'veis experience.
+<ICE-USA:W2A-039#13:1> And no, I'm not naming 'mmes; if you think you can identify a sinning
+
+or virtuous system, keep it to yourself.</p>
+<ICE-USA:W2A-039#14:1> <h> Warp Speed, Mr. Sulu </h>
+
+<p> <ICE-USA:W2A-039#15:1> Vendors take note: if the academic community were in charge of
+
+selection, the race would go to the swiftest.
+<ICE-USA:W2A-039#16:1> The most frequently repeated positive comments recorded in six weeks
+
+of demonstration stations were in praise of fast response times.
+<ICE-USA:W2A-039#17:1> The most frequent negative remarks concerned slow response times.
+<ICE-USA:W2A-039#18:1> Forget the bells and whistles, just grease the wheels.</p>
+
+<p> <ICE-USA:W2A-039#19:1> " Prefer keyboard to mouse."
+<ICE-USA:W2A-039#20:1> " Personally, I hate using a mouse and find it far more trouble than
+
+it 's worth."
+<ICE-USA:W2A-039#21:1> There were numerous comments along these lines, including my
+
+favorite: " I worry about old profs using the mouse."</p>
+
+<p> <ICE-USA:W2A-039#22:1> This leads me to several thoughts.
+<ICE-USA:W2A-039#23:1> First, it 's a mistake to assume that everyone knows how to use the
+
+rodent or sees any virtue in becoming mouse-literate.
+<ICE-USA:W2A-039#24:1> We have DOS-based machines that won't be upgraded for years.
+<ICE-USA:W2A-039#25:1> We have hundreds of students doing everything from e-mail to serious
+
+computation via command-line prompts on central UNIX clusters.
+<ICE-USA:W2A-039#26:1> We have old profs.</p>
+
+<p> <ICE-USA:W2A-039#27:1> Second, mice are troublesome.
+<ICE-USA:W2A-039#28:1> They have a tendency to walk out the front door if not secured.
+<ICE-USA:W2A-039#29:1> They take up valuable counter space and work poorly on most surfaces.
+<ICE-USA:W2A-039#30:1> The obvious solution is to use keyboards with built-in trackballs for
+
+in-library OPAC stations.
+<ICE-USA:W2A-039#31:1> However, this aggravates the first problem: how many of us are handy
+
+with a trackball?</p>
+
+<p> <ICE-USA:W2A-039#32:1> Third, it is a great step backwards to force patrons to switch
+
+from keyboard to mouse with great regularity.
+<ICE-USA:W2A-039#33:1> A fact of life: you can't type a search string without the keyboard.
+<ICE-USA:W2A-039#34:1> Why should you be forced to also point-and-click to select an index,
+
+to position the cursor for data entry, or to perform any other adjunct to our
+
+most common of functions, the OPAC search?</p>
+
+<p> <ICE-USA:W2A-039#35:1> Here 's the moral of this story: a graphical interface should not
+
+require a mouse.
+<ICE-USA:W2A-039#36:1> It should allow a mouse, and it should be designed to capitalize on
+
+those areas where pointing, clicking, and dragging really are superior ways
+
+of communicating human intentions to a small square box.
+<ICE-USA:W2A-039#37:1> But mouse commands should have keyboard equivalents, and basic acts
+
+like entering a search should not require hand movement from the keyboard to
+
+the mouse pad.</p>
+<ICE-USA:W2A-039#38:1> <h> They Don't Do Windows </h>
+
+<p> <ICE-USA:W2A-039#39:1> One might expect that patrons would prefer any graphical user
+
+interface to a terminal-based or character interface, if for no other reason
+
+than a GUI seems so much more modern.
+<ICE-USA:W2A-039#40:1> Not so in our experience.
+<ICE-USA:W2A-039#41:1> Of all the OPACs we demonstrated, two systems from two different
+
+vendors received the largest number of positive responses; one was graphical
+
+and the other character-based.
+<ICE-USA:W2A-039#42:1> What they had in common was the general feeling that they were " easy
+
+to use."</p>
+
+<p> <ICE-USA:W2A-039#43:1> The general feeling about Microsoft Windows interfaces is that
+
+they can be particularly difficult to use.
+<ICE-USA:W2A-039#44:1> Developers need to remember that human beings are not born with an
+
+innate knowledge of Windows, and that Windows conventions are not intuitively
+
+obvious to the uninitiated.
+<ICE-USA:W2A-039#45:1> An interface that will go to great lengths to explain catalog-related
+
+functions ( " Author search: enter words from author 's name") may assume that
+
+patrons know how to use a scroll bar or close a window.
+<ICE-USA:W2A-039#46:1> Some GUIs let you move and minimize windows, not anticipating the
+
+unhappy scenario when one patron minimizes the search window and the next
+
+patron walks up to a totally unfamiliar screen.</p>
+
+<p> <ICE-USA:W2A-039#47:1> Developers should also remember that icons are memory aids for
+
+functions that people are already aware of.
+<ICE-USA:W2A-039#48:1> They don't substitute for help, mnemonics, or textual explanations of
+
+available functions.
+<ICE-USA:W2A-039#49:1> If words like " search" or " next" can fit on a button, they are
+
+likely to be more illuminating to the average patron than the picture of a
+
+magnifying glass or a left arrow.
+<ICE-USA:W2A-039#50:1> Until we have a common command language for icons, let 's give the
+
+user a break and assume that one word is worth a thousand pictures.</p>
+<ICE-USA:W2A-039#51:1> <h> Strength of Character </h>
+
+<p> <ICE-USA:W2A-039#52:1> As noted above, character-based interfaces were not universally
+
+scorned.
+<ICE-USA:W2A-039#53:1> Nonetheless, our users were quick to differentiate the good from the
+
+bad and the ugly.
+<ICE-USA:W2A-039#54:1> People liked not having to press the Enter key when selecting from
+
+limited choices on a menu ( a feature possible in UNIX systems that 3270-type
+
+transmission doesn't allow).
+<ICE-USA:W2A-039#55:1> They liked long, clear prompts at the bottom of the screen, such as "
+
+Show items with the same subject" and " Limit this search," even if it meant
+
+that an " Other options" prompt was needed for additional choices that didn't
+
+fit on one page.</p>
+
+<p> <ICE-USA:W2A-039#56:1> Users did not like having to move the cursor around the screen to
+
+highlight and select menu options.
+<ICE-USA:W2A-039#57:1> They did not like more than one way of doing something or when it was
+
+not clear how to do something ( e.g., type first letter of option or move
+
+cursor to option and press enter).
+<ICE-USA:W2A-039#58:1> They did like having all data entry on a single command line.</p>
+
+<p> <ICE-USA:W2A-039#59:1> Users did not like having to return to a search options menu by
+
+requesting " new search" or " another search" in order to type a new search.
+<ICE-USA:W2A-039#60:1> They didn't see why they couldn't have a command line on each screen
+
+from which they could enter searches.
+<ICE-USA:W2A-039#61:1> On the other hand, users didn't seem to mind having to go through
+
+several layers of menus to do something special, like limit a search result
+
+set, while library staff rebelled against those hierarchies.
+<ICE-USA:W2A-039#62:1> Patrons seemed more concerned that directions for out-of-the-ordinary
+
+actions be clear than that they be quick or streamlined.</p>
+<ICE-USA:W2A-039#63:1> <h> It 's All in a Name </h>
+
+<p> <ICE-USA:W2A-039#64:1> Almost every system we evaluated had a feature to allow a user to
+
+easily issue searches related to a given work.
+<ICE-USA:W2A-039#65:1> That is, once users found a relevant catalog record, the system let
+
+them search the added entries, tracings, and/or call numbers from that record
+
+without rekeying.</p>
+
+<p> <ICE-USA:W2A-039#66:1> In most systems, this option was called " related works" or
+
+something of that sort, and selecting it would take patrons to a screen
+
+listing authors, subjects, series, and call numbers.
+<ICE-USA:W2A-039#67:1> When the user chose a heading or call number, the system would
+
+automatically perform the search.
+<ICE-USA:W2A-039#68:1> Nobody commented on this capability, positively or negatively, for
+
+any of these systems.</p>
+
+<p> <ICE-USA:W2A-039#69:1> In one OPAC, an option was limited to call numbers and was called
+
+" show items nearby on shelf."
+<ICE-USA:W2A-039#70:1> More than a dozen people commented.
+<ICE-USA:W2A-039#71:1> " Browsing what 's nearby on the shelf is a very convenient feature."
+<ICE-USA:W2A-039#72:1> " 'Show items nearby on shelf' speeds research and makes this choice
+
+number 1."</p> <&> GRAPH, TABLE, FIGURE, ETC omitted from this section</&>
+<ICE-USA:W2A-039#73:1> <h> Take It to the Limit </h>
+
+<p> <ICE-USA:W2A-039#74:1> We sent a questionnaire to faculty and library staff asking them
+
+to rate the importance of various OPAC features and tabulated the responses
+
+of each group separately.
+<ICE-USA:W2A-039#75:1> The widest difference in opinion concerned the value of search limits
+
+by language, location, and material type, and the value of call number
+
+browsing.
+<ICE-USA:W2A-039#76:1> Library staff rated all these features as highly desirable, while the
+
+faculty weren't particularly interested.
+<ICE-USA:W2A-039#77:1> Search limits by material type ranked lowest of all the features we
+
+inquired about.
+<ICE-USA:W2A-039#78:1> ( The ability to limit retrievals by date, on the other hand, was
+
+widely desired.)</p>
+
+<p> <ICE-USA:W2A-039#79:1> As a general rule, library staff rated almost all features closer
+
+to the " very important" end of the scale than the faculty did.
+<ICE-USA:W2A-039#80:1> The single feature most important to faculty was network access,
+
+followed closely by modem access.
+<ICE-USA:W2A-039#81:1> We have to face it: the faculty 's main goal is to stay away from the
+
+library.
+<ICE-USA:W2A-039#82:1> One implication is that we won't be able to provide much personalized
+
+instruction and on-the-spot assistance.
+<ICE-USA:W2A-039#83:1> Perhaps it is no coincidence that the feature the faculty ranked
+
+second highest was " adequate online help, both contextual and explicitly
+
+requestable."</p>
+<ICE-USA:W2A-039#84:1> <h> Power to the Patron </h>
+
+<p> <ICE-USA:W2A-039#85:1> Patrons want empowerment--all sorts of empowerment.
+<ICE-USA:W2A-039#86:1> They want to be able to designate any record or set of records and
+
+download it, or print it, or e-mail it to themselves.
+<ICE-USA:W2A-039#87:1> They want to issue holds and recalls for material that 's charged out
+
+to others and renew materials charged out to themselves.
+<ICE-USA:W2A-039#88:1> They want to view their own patron records, fine records, and loan
+
+records.
+<ICE-USA:W2A-039#89:1> They want to be able to request that materials be delivered to them,
+
+ordered for them, and put on reserve for them.
+<ICE-USA:W2A-039#90:1> They want to be able to make comments and suggestions to the
+
+library.</p>
+
+<p> <ICE-USA:W2A-039#91:1> No negative comment was made about any patron empowerment
+
+function, except perhaps that it was not comprehensive enough, or didn't
+
+offer enough options.
+<ICE-USA:W2A-039#92:1> What do you mean I can't route this to my own network printer?</p>
+<ICE-USA:W2A-039#93:1> <h> That 's All Folks </h>
+
+<p> <ICE-USA:W2A-039#94:1> Of course, we got a lot of other comments, many very useful, many
+
+very specific to the OPACs under consideration.
+<ICE-USA:W2A-039#95:1> Often people expressed completely opposite opinions.
+<ICE-USA:W2A-039#96:1> " I love Windows."
+<ICE-USA:W2A-039#97:1> " I hate Windows."
+<ICE-USA:W2A-039#98:1> " This system is great."
+<ICE-USA:W2A-039#99:1> " This system is awful."
+<ICE-USA:W2A-039#100:1> But behind almost all of the rants and the raves was the concept of
+
+ease of use.
+<ICE-USA:W2A-039#101:1> " I love Windows because it 's easy."
+<ICE-USA:W2A-039#102:1> " This system is awful because it 's hard."
+<ICE-USA:W2A-039#103:1> And even though it 's true that to some extent ease of use is in the
+
+eye of the beholder, it was clear that all OPACs are not created equal.</p>
+
+<p> <ICE-USA:W2A-039#104:1> Since I assume nobody actually sits down to work and says, "
+
+Let 's make this catalog hard to use," maybe we should all spend more time
+
+watching students and faculty at demonstration stations.</p>
+<ICE-USA:W2A-039#105:1> <h> About the Author </h> </I>

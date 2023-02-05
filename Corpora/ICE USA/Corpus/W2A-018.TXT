@@ -1,0 +1,433 @@
+<I>
+<ICE-USA:W2A-018#1:1> <h> <bold> <it> Introduction </it> </bold> </h>
+
+<p> <ICE-USA:W2A-018#2:1> Educational efforts and innovative policies have reduced the
+
+prevalence of cigarette smoking among US adults from 41.7&percent; in 1965' to 28.8&percent;
+
+in 1987.2
+<ICE-USA:W2A-018#3:1> Despite this progress, 15.7&percent; of deaths in 1984 could still be
+
+attributed to smoking.3
+<ICE-USA:W2A-018#4:1> African Americans suffer from a particularly severe burden of
+
+smoking-related disease.
+<ICE-USA:W2A-018#5:1> The age-adjusted smoking-attributable mortality rate among African
+
+Americans in 1984 was 143.2 per 100 000 persons compared with 119.0 among
+
+Whites.3
+<ICE-USA:W2A-018#6:1> The 1987 National Health Interview Survey found that 32.9&percent; of
+
+African-American adults smoked compared with 28.5&percent; of White adults; the
+
+proportion of ever smokers who had quit was far lower among African Americans
+
+( 31.0&percent; vs 45.8&percent;).2 </p>
+
+<p> <ICE-USA:W2A-018#7:1> Much attention has therefore been directed to reducing the
+
+prevalence of smoking among African Americans.4,5
+<ICE-USA:W2A-018#8:1> Identification of factors that promote smoking in the African-American
+
+community is a prerequisite to developing effective interventions.
+<ICE-USA:W2A-018#9:1> Evidence from the 1987 General Social Survey suggests that stress may
+
+be such a factor.6 </p>
+<ICE-USA:W2A-018#10:1> <h> <it> Stress and Smoking </it> </h>
+
+<p> <ICE-USA:W2A-018#11:1> Psychological stress can be defined as an " internal subjective
+
+state involving the perception of threat to one 's well-being," while
+
+stressors are stimuli that provoke psychological stress in susceptible
+
+individuals.7
+<ICE-USA:W2A-018#12:1> Stressors have been shown to increase tobacco consumption among
+
+established smokers,8 promote adolescent cigarette use,9 predispose to
+
+smoking clinic failure,10 and precipitate relapses among successful
+
+quitters.",11,12
+<ICE-USA:W2A-018#13:1> Investigators have evaluated a variety of potential stressors,
+
+including anxiety-inducing tasks,8 family turmoil,9 job factors,13 and major
+
+life events ( e.g., unemployment, divorce).6,10 </p>
+
+<p> <ICE-USA:W2A-018#14:1> Lazarus and colleagues have recently argued that daily hassles
+
+may represent a better conceptualization of stress than traditional measures
+
+of major life events.14
+<ICE-USA:W2A-018#15:1> They define hassles as " the initiating, frustrating, distressing
+
+demands that to some degree characterize everyday transactions with the
+
+environment."15
+<ICE-USA:W2A-018#16:1> Hassles appear to predict many health outcomes, including
+
+psychological distress,15 somatic symptoms,16 respiratory illness episodes,17
+
+and arthritis-related disability.18 </p>
+
+<p> <ICE-USA:W2A-018#17:1> In a 12-month follow-up study of ex-smokers who had participated
+
+in a smoking cessation program, the frequency and severity of hassles were
+
+significant predictors of late relapse in men, but not in women.19
+<ICE-USA:W2A-018#18:1> A similar evaluation of a work-site smoking cessation program found
+
+that the mean severity of hassles, but not the count, predicted relapse by 12
+
+months.20
+<ICE-USA:W2A-018#19:1> Previous studies have not addressed the relationship between hassles
+
+and the prevalence of smoking in a community sample.
+<ICE-USA:W2A-018#20:1> Given the role of smoking as a psychological coping behavior,7 we
+
+hypothesized that persons reporting numerous hassles would be more likely to
+
+smoke than those experiencing fewer stressors. </p> <&> GRAPH, TABLE, FIGURE,
+
+ETC removed</&>
+<ICE-USA:W2A-018#21:1> <h> <it> Social Support and Smoking </it> </h>
+
+<p> <ICE-USA:W2A-018#22:1> There is extensive epidemiologic evidence of a relationship
+
+between social support and diverse health outcomes.21
+<ICE-USA:W2A-018#23:1> Persons with high levels of social support have lower mortality
+
+rates,22 have less coronary atherosclerosis, and use less health care24 than
+
+those with lower levels of support.
+<ICE-USA:W2A-018#24:1> Social support may exert these salutary effects partially by
+
+fostering changes in health-related behaviors, such as smoking.
+<ICE-USA:W2A-018#25:1> Indeed, successful quitters have higher levels of perceived support
+
+from their partners than smokers who never quit or relapse.25
+<ICE-USA:W2A-018#26:1> Having someone to talk to about one 's problems predicted cessation in
+
+another recent study.26
+<ICE-USA:W2A-018#27:1> The prevalence of smoking is higher among separated or divorced
+
+persons than among those currently married or widowed,2 even after
+
+controlling for other demographic characteristics.27
+<ICE-USA:W2A-018#28:1> We therefore hypothesized that persons with poor social support would
+
+be more likely to smoke than those with good support. </p>
+<ICE-USA:W2A-018#29:1> <h> <it> Buffering and the Stress-Support Interaction </it> </h>
+
+<p> <ICE-USA:W2A-018#30:1> The mechanism by which social support improves health outcomes
+
+has been a subject of intense debate.28
+<ICE-USA:W2A-018#31:1> Advocates of the buffering hypothesis argue that social support works
+
+by moderating the deleterious effect of stressful events and serving as "
+
+coping assistance."29
+<ICE-USA:W2A-018#32:1> Therefore, our final hypothesis was that any association between
+
+social support and smoking would be stronger among persons experiencing
+
+stressors than among those in low-stressor environments. </p>
+
+<p> <ICE-USA:W2A-018#33:1> The present study was undertaken to assess the cross-sectional
+
+relationship between these social factors and smoking behavior in a large
+
+population-based sample of African-American adults in the San Francisco Bay
+
+area. </p>
+<ICE-USA:W2A-018#34:1> <h> <bold> <it> Methods </it> </bold> </h>
+
+<p> <ICE-USA:W2A-018#35:1> As part of a prospective controlled community intervention trial
+
+to reduce cancer mortality, a survey of African-American households in San
+
+Francisco and Oakland, Calif., was conducted between November 1985 and July
+
+1986.
+<ICE-USA:W2A-018#36:1> Potential respondents were identified through two-stage probability
+
+sampling.
+<ICE-USA:W2A-018#37:1> In the first stage, 100 census blocks with at least 25&percent; African-
+
+American population according to the 1980 census) were randomly selected from
+
+each city.
+<ICE-USA:W2A-018#38:1> Specific households were then randomly selected from each block.
+<ICE-USA:W2A-018#39:1> Using the Kish procedure, interviewers randomly identified one
+
+respondent from each household with an African-American member aged 20 years
+
+or over.30
+<ICE-USA:W2A-018#40:1> A non-profit survey research organization hired, trained, and
+
+supervised field workers.
+<ICE-USA:W2A-018#41:1> Intensive efforts were made to interview persons who were not
+
+available during the initial visit.
+<ICE-USA:W2A-018#42:1> Follow-up telephone contacts with at least 10&percent; of all respondents
+
+confirmed that the interviews took place and that the information obtained
+
+was accurate. </p>
+
+<p> <ICE-USA:W2A-018#43:1> The survey instrument included questions about current health
+
+status, health behaviors, use of preventive services, sources of health
+
+information, knowledge and attitudes regarding cancer, social networks and
+
+stressors, and demographic characteristics.
+<ICE-USA:W2A-018#44:1> Smokers were defined in the usual manner2 as individuals who
+
+currently smoked and had smoked at least 100 cigarettes since birth.
+<ICE-USA:W2A-018#45:1> Average daily consumption of 20 or more cigarettes was used as the
+
+cutoff to separate heavy smokers from light smokers.
+<ICE-USA:W2A-018#46:1> Demographic variables included age, gender, years of formal
+
+education, household income ( recoded from an ordinal into a continuous
+
+variable), marital status, and employment.
+<ICE-USA:W2A-018#47:1> Respondents were asked to describe the impact of smoking on cancer
+
+risk ( 1 through 7 scale); those who indicated that it had no effect, a
+
+favorable effect, or an unknown effect were categorized as " unaware." </p>
+
+<p> <ICE-USA:W2A-018#48:1> A four-item, health-specific locus of control scale was adapted
+
+from the work of Wallston et al.31
+<ICE-USA:W2A-018#49:1> This scale represents the mean of standardized Likert-type responses
+
+( coded 1 through 6) to four statements concerning self- control over health.
+<ICE-USA:W2A-018#50:1> A high score represents a strong belief in one 's ability to avoid
+
+getting sick by taking care of oneself, to stay healthy by following " the
+
+advice of experts," and to control " the most important things that affect
+
+health." </p>
+
+<p> <ICE-USA:W2A-018#51:1> A 10-item hassles index was created by abbreviating the original
+
+Kanner et al. list of 117 hassles.l5
+<ICE-USA:W2A-018#52:1> Each item was chosen to represent a dimension that community
+
+residents involved in the project perceived to be especially relevant ( Table
+
+1).
+<ICE-USA:W2A-018#53:1> The second item ( " having a serious illness or accident")was deleted
+
+from the scale because of concern that such events might be consequences
+
+rather than causes of smoking.32
+<ICE-USA:W2A-018#54:1> Scoring from zero to nine was based upon how many of the remaining
+
+hassles happened to the respondent or a person " most important" to him or
+
+her during the preceding three months.
+<ICE-USA:W2A-018#55:1> We did not employ an intensity scale because the frequency of hassles
+
+has superior predictive power.l5-l7
+<ICE-USA:W2A-018#56:1> In accord with Dohrenwend 's recommendations,32 we inquired whether
+
+these events occurred but did not ask for any judgment as to their
+
+significance. </p>
+
+<p> <ICE-USA:W2A-018#57:1> The original Kanner et al. Instrument was reportedl7 to have a
+
+test- retest reliability of r = 0.79 with nine consecutive monthly
+
+administrations.
+<ICE-USA:W2A-018#58:1> Similar instruments developed by Weinberger et al.,18 Wolf et al.,33
+
+and DeLongis et al.34 have demonstrated 5- through 9-month median test-retest
+
+reliabilities of .72 to .77.
+<ICE-USA:W2A-018#59:1> Our abbreviated instrument had good internal consistency ( Cronbach 's
+
+( = .74) We validated the scale against demographic variables; the mean score
+
+was 2.S for employed and 4.1 for unemployed respondents.
+<ICE-USA:W2A-018#60:1> Hassle scores were inversely related to family income ( r = - .19, P
+
+= .0001). </p>
+
+<p> <ICE-USA:W2A-018#61:1> Measures of social network characteristics can be categorized as
+
+either structural or functional.
+<ICE-USA:W2A-018#62:1> Structural features were assessed using Berkman and Syme 's Social
+
+Network Index ( SNI),22 which measures four types of social ties: marital
+
+status, number of close friends, number of close relatives, and membership in
+
+formal groups.
+<ICE-USA:W2A-018#63:1> This index was modified slightly by adding two types of specified
+
+organizations ( neighborhood and senior groups) and dropping a question on
+
+the frequency of contact with close friends or relatives.
+<ICE-USA:W2A-018#64:1> Scores range from one to four, where one represents those with the
+
+fewest relatives or friends and no history of church or group involvement.
+<ICE-USA:W2A-018#65:1> Functional features were assessed using Seeman and Syme 's three-item
+
+Network Instrumental Support scale,23 which measures whether respondents
+
+would " most likely" turn to friends or family for assistance with rides,
+
+borrowing " a small sum of money," or household repairs.
+<ICE-USA:W2A-018#66:1> Their four-item Network Emotional Support scale23 was abbreviated to
+
+two items, only one of which had construct validity ( " Who would you turn to
+
+for information or advice about a personal problem?").
+<ICE-USA:W2A-018#67:1> This question, scored one for those who cited friends or family and
+
+zero for others, resembles the emotional support item used by Strogatz and
+
+James.35 </p>
+
+<p> <ICE-USA:W2A-018#68:1> The distribution of demographic characteristics was examined
+
+among smoking status categories: never smokers, ex-smokers, current light
+
+smokers, and current heavy smokers.
+<ICE-USA:W2A-018#69:1> Analysis of variance with two-tailed pairwise t tests and
+
+Bonferroni 's correction for multiple comparisons was used to contrast the
+
+means of continuous variables.
+<ICE-USA:W2A-018#70:1> Chi-square analysis, with Yates'continuity correction for 2 x 2
+
+tables, was performed on categorical variables.
+<ICE-USA:W2A-018#71:1> The Kruskal-Wallis procedure with two-tailed pairwise mean rank
+
+comparisons and Bonferroni 's correction was applied to ordinal variables.
+
+</p>
+
+<p> <ICE-USA:W2A-018#72:1> Multivariate logistic regression models were constructed to
+
+determine whether social support and hassles contributed to explaining
+
+smoking status after controlling for potential confounders.
+<ICE-USA:W2A-018#73:1> Heavy smokers and light smokers were aggregated because of their
+
+similar characteristics.
+<ICE-USA:W2A-018#74:1> In the absence of data about when or why respondents quit, both never
+
+smokers and ex-smokers were categorized as non-smokers in our primary
+
+analyses.
+<ICE-USA:W2A-018#75:1> Independent variables included age ( with a quadratic term),gender,
+
+educational status ( <12 years, 12 years, 13 through 15 years , and 216
+
+years), household income ( transformed to optimize fit), health-specific
+
+locus of control, and lack of awareness about the risk of smoking.
+<ICE-USA:W2A-018#76:1> These variables were selected on the basis of previous studies of
+
+smoking correlates.2~36 </p>
+
+<p> <ICE-USA:W2A-018#77:1> The abbreviated hassles index was then added to the basic model
+
+to determine the role of psychosocial stress, controlling for demographic and
+
+attitudinal characteristics.
+<ICE-USA:W2A-018#78:1> Social support variables were added next, with the reference group
+
+consisting of individuals with SNI = 4 ( optimal) and Network Instrumental
+
+Support and emotional support scales greater than zero.
+<ICE-USA:W2A-018#79:1> To test the hypothesis that social support buffers the deleterious
+
+effects of stress, interaction terms between the hassles index and the three
+
+support measures were tested.
+<ICE-USA:W2A-018#80:1> All two-factor interactions involving demographics and social support
+
+were evaluated by forward selection and backward elimination procedures.37
+
+The significance level for entry and exit was ( = .10, with adjustment to
+
+ensure that terms derived from a single variable entered together.
+<ICE-USA:W2A-018#81:1> Hierarchical models were compared with the likelihood ratio test.
+
+</p>
+
+<p> <ICE-USA:W2A-018#82:1> Finally, multivariate linear regression was used to determine
+
+factors associated with self-reported daily cigarette consumption among
+
+current smokers.
+<ICE-USA:W2A-018#83:1> Multicollinearities prohibited inclusion of interaction terms in this
+
+model.
+<ICE-USA:W2A-018#84:1> The PROC LOGIST and PROC REG programs in SAS were used for most
+
+analyses.38 Odds ratios ( ORB) and 95&percent; confidence intervals ( CIs) were
+
+calculated by exponentiating the logistic coefficient estimates.
+<ICE-USA:W2A-018#85:1> These Ors modestly overestimate the true risk ratios because the "
+
+rare disease" assumption underlying the OR is not satisfied. </p>
+<ICE-USA:W2A-018#86:1> <h> <bold> <it> Results </it> </bold> </h>
+
+<p> <ICE-USA:W2A-018#87:1> The total sample size was 1137, representing a response rate of
+
+67.6&percent; in Oakland and 69.1&percent; in San Francisco.
+<ICE-USA:W2A-018#88:1> The age, gender, and income distributions of our sample closely
+
+resembled 1980 census data from the same neighborhoods.
+<ICE-USA:W2A-018#89:1> The San Francisco and Oakland samples were almost equal in size ( 569
+
+and 568, respectively) and showed similar demographic characteristics.
+<ICE-USA:W2A-018#90:1> Therefore, they have been combined for all analyses. </p>
+
+<p> <ICE-USA:W2A-018#91:1> Of the 1134 respondents who described their smoking habits, 36.0&percent;
+
+never smoked, 22.1&percent; had quit smoking, 26.8&percent; were light smokers, and 15.1&percent;
+
+were heavy smokers.
+<ICE-USA:W2A-018#92:1> Current smoking was more prevalent among women than among men ( 43.1&percent;
+
+vs 40.1&percent;), but female smokers were less likely than male smokers to consume
+
+20 or more cigarettes daily. </p>
+<ICE-USA:W2A-018#93:1> <h> <it> Sociodemographic Characteristics by Smoking Status </it>
+
+</h>
+
+<p> <ICE-USA:W2A-018#94:1> Table 2 illustrates how the sociodemographic characteristics of
+
+current smokers differed from those of ex-smokers and never smokers.
+<ICE-USA:W2A-018#95:1> Ex- smokers were significantly older than current or never smokers.
+<ICE-USA:W2A-018#96:1> Ex-smokers were more than twice as likely to have graduated from
+
+college as heavy smokers ( 15.6&percent; vs 7.1&percent;).
+<ICE-USA:W2A-018#97:1> About 41&percent; of heavy smokers and 36&percent; of light smokers were separated or
+
+divorced, compared with only 20&percent; of never smokers and 24&percent; of ex- smokers.
+<ICE-USA:W2A-018#98:1> Current smokers reported lower household incomes than ex-smokers.
+<ICE-USA:W2A-018#99:1> Heavy smokers had a particularly high frequency of disability (
+
+15.4&percent;); both light and heavy smokers were more likely to be unemployed than
+
+ex-smokers or never smokers.
+<ICE-USA:W2A-018#100:1> Current smokers had higher hassle scores than either ex- smokers or
+
+never smokers, whereas the latter two groups had higher SNI scores.
+<ICE-USA:W2A-018#101:1> More than 15&percent; of heavy smokers denied a link between smoking and
+
+cancer, as compared with 4&percent; of nonsmokers. </p> </I>

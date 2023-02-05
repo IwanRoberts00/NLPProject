@@ -1,0 +1,49 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2B-013</textcode>
+          <number of subtexts>2</number of subtexts>
+          <category><category>written: printed: popular: social science</category>
+          <wordcount>2200</wordcount>
+          <version>coded, edited, with essential tagging
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ICE-USA-W2B-013>
+          <source.type=collection>
+               <source.title>Ms. <#>Magazine</source.title>
+               <series></series>
+               <editor>W. <#>Karen Stevens</editor>
+          <publication statement>
+               <publisher>Lang Communications</publisher>
+               <address>230 Park Ave</address>
+               <place>New York, NY</place>
+               <date>Jan-Feb 1992</date>
+          </publication statement>
+          <copyright.statement>used by permission of Lang Communications</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA-W2B-013>
+          <subtext.name> </subtext.name>
+               <main.title>Ain't Gonna Let Nobody Turn Me Around; Becoming the Third Wave </main.title>
+               <subtitle></subtitle>
+               <page.nos>37-41</page.nos>
+          <free.comments>There are two different articles. <#> The page numbers are for both articles, same magazine, same date</free.comments>
+     </subtext.internals>
+     <biography=ICE-USA-W2B-013>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Smith, Walker</surname>
+               <forenames>Barbara, Rebecca</forenames>
+               <age> </age>
+               <gender>Female</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

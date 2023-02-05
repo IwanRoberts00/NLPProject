@@ -1,0 +1,741 @@
+<I>
+
+<p> <ICE-USA:W2B-035#1:1> Assembly language isn't the be-all and end-all of PC programming,
+
+but as Michael states, it 's sometimes the only game in town when performance
+
+or program size are important.</p>
+
+<p> <ICE-USA:W2B-035#2:1> Michael works on high-performance graphics software at
+
+Metagraphics in Scotts Valley, Calif.<ICE-USA:W2B-035#> He is also the author of Zen of
+
+Assembly Language published by Scott, Foresman & Co.<ICE-USA:W2B-035#>, and Power Graphics
+
+Programming, from Que.</p>
+
+<p> <ICE-USA:W2B-035#3:1> There 's an old joke that goes something like this: Person
+#1: Help!
+<ICE-USA:W2B-035#4:1> My brother thinks he 's a chicken, and I don't know what I should
+
+do.<ICE-USA:W2B-035#> Person
+#2: Have you told him the truth?
+<ICE-USA:W2B-035#5:1> Person
+#1: I would, but I need the eggs.</p>
+
+<p> <ICE-USA:W2B-035#6:1> Updated for the modern age of structured languages and
+
+object-oriented programming, that joke would read: Manager
+#1: Help!
+<ICE-USA:W2B-035#7:1> My programmers think assembly language is a viable programming
+
+language, and I don't know what I should do.<ICE-USA:W2B-035#> Manager
+#2: Have you told them the truth?
+<ICE-USA:W2B-035#8:1> Manager
+#1: I would, but I need the speed.</p>
+
+<p> <ICE-USA:W2B-035#9:1> Assembly language beats everything else hands down when it comes
+
+to performance-- especially when programming for the 80x86, where assembly
+
+language is wild, woolly, and wondrous - - yet it gets no respect.<ICE-USA:W2B-035#> When
+
+you flat-out need performance, there simply are no substitutes for assembly
+
+language - - so why doesn't anyone seem to love it? </p>
+<ICE-USA:W2B-035#10:1> <h> Assembly Language Isn't Cheap</h>
+
+<p> <ICE-USA:W2B-035#11:1> Experts, pundits, and management types have been beating the
+
+drums for the demise of assembly language for years.<ICE-USA:W2B-035#> There are many good
+
+reasons for wishing it dead.<ICE-USA:W2B-035#> Compared to compiled code, good
+
+assembly-language code is harder to write, is more bug prone, takes more time
+
+to create, is harder to maintain, is harder to port to other platforms, and
+
+is more difficult to use for complex, multiprogrammer projects.<ICE-USA:W2B-035#> That makes
+
+assembly language an expensive, demanding, and time-consuming development
+
+language.<ICE-USA:W2B-035#> Given the realities of time to market, the relative costs of
+
+good assembly language and high-level language programmers, programmer
+
+turnover, and ever-increasing software complexity, it 's neither surprising
+
+nor unreasonable that most of the industry wishes assembly language would go
+
+away.</p>
+
+<p> <ICE-USA:W2B-035#12:1> Assembly language lives, though, for one simple reason: Properly
+
+applied, it produces the best code of any language.<ICE-USA:W2B-035#> By far.</p>
+<ICE-USA:W2B-035#13:1> <h> Assembly Language Lives</h>
+
+<p> <ICE-USA:W2B-035#14:1> Don't believe me?
+<ICE-USA:W2B-035#15:1> Consider this.<ICE-USA:W2B-035#> If the carbon-based computer between your ears were
+
+programmed with as good a compiler as Microsoft 's, then you'd generate much
+
+better code in assembly l 'dguage than does Microsoft C, because you know
+
+vastly more about what you want your program to do and are marvelously
+
+effective at integrating that knowledge into a working whole.<ICE-USA:W2B-035#> High-level
+
+languages are artificially constrained programming environments, able to pass
+
+relatively little of what you know along to the ultimate machine code.<ICE-USA:W2B-035#>
+
+There are good reasons for that: High-level languages have to be compilable
+
+and comprehensible by humans.<ICE-USA:W2B-035#> Nonetheless, there 's no way for a high-level
+
+language to know where to focus its efforts, or which way to bias code.</p>
+
+<p> <ICE-USA:W2B-035#16:1> For example, how can a Pascal compiler know that one loop repeats
+
+twice, on average, while another repeats 32,767 times?
+<ICE-USA:W2B-035#17:1> How can a C compiler know that one subroutine is time critical,
+
+deserving of all possible optimization, while another subroutine executes in
+
+the background while waiting for the next key to be pressed, so speed matters
+
+not at all?
+<ICE-USA:W2B-035#18:1> The answer is: No way.<ICE-USA:W2B-035#> ( Actually,
+#pragma can do a little of that, but it 's no more than a tiny step in the
+
+right direction.) </p>
+
+<p> <ICE-USA:W2B-035#19:1> Just as significantly, no compiler can globally organize your
+
+data structures and the code that manipulates those structures to maximum
+
+advantage, nor take advantage of the vast number of potential optimizations
+
+as flexibly as you can.<ICE-USA:W2B-035#> ( Space forbids even a partial listing of
+
+optimization techniques for the 80x86 family: The list is astonishingly long
+
+and varied.<ICE-USA:W2B-035#> See Tim Paterson 's article in this issue for a small but
+
+potent sample.) When it comes to integrating all the information about a
+
+particular aspect of a program and implementing the code as efficiently as
+
+possible given the capabilities of a particular processor, it 's not even
+
+close: Humans are much better optimizers than compilers are.</p>
+
+<p> <ICE-USA:W2B-035#20:1> Almost any processor can benefit from hand-tuned assembly
+
+language, but assembly language lives most vibrantly in the 80x86 family.<ICE-USA:W2B-035#>
+
+The 80x86 instruction set is irregular; the register set is small, with most
+
+registers dedicated to specific purposes; segments complicate everything; and
+
+the prefetching nature of the 80x86 renders actual execution time
+
+non-quantifiable - - and optimization at best an art and at worst black magic
+
+- - making the 80x86 family a nightmare for optimizing-compiler writers.<ICE-USA:W2B-035#>
+
+The quirky ( and highly assembly language amenable) instructions of the 8086
+
+live on in the latest 80x86-family processors, the 80386 and 80486, and will
+
+undoubtedly do the same for many generations to come.<ICE-USA:W2B-035#> Other processors may
+
+lend themselves better to compilers, but the 80x86 family is and always will
+
+be a wonderland for assembly language.</p>
+
+<p> <ICE-USA:W2B-035#21:1> Consider this: Well-written assembly language provides a 50 to
+
+300 percent boost in performance over compiled code ( more sometimes, less
+
+others, but that 's a conservative range).<ICE-USA:W2B-035#> An 8-MHz AT is about three times
+
+faster than a PC, a 16-MHz 80386 machine is about twice as fast as an AT, and
+
+a 25-MHz 80386 is about three times as fast as an AT.<ICE-USA:W2B-035#> There are a lot of
+
+PCs and ATs out there - - 20 to 30 million, I'd guess - - and there is a
+
+horde of 'ders contemplating the expenditure of thousands of dollars to
+
+upgrade.</p>
+
+<p> <ICE-USA:W2B-035#22:1> Now consider this.<ICE-USA:W2B-035#> Those users don't have to upgrade - - they
+
+just need to buy better-written software.<ICE-USA:W2B-035#> The performance boost good
+
+assembly language provides is about the same as stepping up to the next
+
+hardware platform, but the assembly language route is one heck of a lot
+
+cheaper.</p>
+
+<p> <ICE-USA:W2B-035#23:1> In other words, better software can eliminate the need for
+
+expensive hardware, giving the developer the opportunity to realize a healthy
+
+profit for his extra development efforts.<ICE-USA:W2B-035#> Just as important is the fact
+
+that good assembly language runs perfectly well on slower computers, making
+
+the market for such software considerably larger than the market for average
+
+software.<ICE-USA:W2B-035#> If you make your software snappy on an 8088, your potential
+
+market doubles instantly and the competition thins.</p>
+
+<p> <ICE-USA:W2B-035#24:1> Finally, it 's on the slower computers - - the PC and AT - - that
+
+assembly language optimization has the most effect ( see the example later in
+
+this article), and that 's precisely where improved performance is most
+
+needed.</p>
+<ICE-USA:W2B-035#25:1> <h> Enter the User</h>
+
+<p> <ICE-USA:W2B-035#26:1> So assembly language produces the best code.<ICE-USA:W2B-035#> What of it?
+<ICE-USA:W2B-035#27:1> If high-level languages make it easier and faster to create programs,
+
+who cares if those programs are slower? </p>
+
+<p> <ICE-USA:W2B-035#28:1> The user, that 's who.<ICE-USA:W2B-035#> Users care about perceived performance -
+
+- how well a program seems to run.<ICE-USA:W2B-035#> Perceived performance includes lack of
+
+bugs, ease of use, and, right at the top of the list, responsiveness.<ICE-USA:W2B-035#> Hand
+
+users a whizbang program that makes them wait at frequent intervals, and
+
+they'll leave it on the shelf after trying 'llonce.<ICE-USA:W2B-035#> Give users a program
+
+that never gets in their way, and they may love it without ever knowing quite
+
+why.<ICE-USA:W2B-035#> In these days of all-too-sluggish graphical interfaces, the
+
+performance issue is central to the usability of almost every program.</p>
+
+<p> <ICE-USA:W2B-035#29:1> What users don't care about is how a program was made.<ICE-USA:W2B-035#> Do you
+
+care how your car was designed?
+<ICE-USA:W2B-035#30:1> You care that it 's safe, that it 's reliable, and that it performs
+
+adequately, but you certainly don't care whether the manufacturer used
+
+just-in-time manufacturing, or whether mainframe or micro-computer CAD was
+
+used in the design process.<ICE-USA:W2B-035#> Likewise, users don't care whether a
+
+programmer used OOP or C or Pascal, or COBOL, for that matter; they care that
+
+a program does what they need and performs responsively.<ICE-USA:W2B-035#> That 's not purely
+
+a matter of speed, but without speed the user will never be fully
+
+satisfied.<ICE-USA:W2B-035#> And when it comes to speed, assembly language is king.</p>
+<ICE-USA:W2B-035#31:1> <h> Use Only as Directed</h>
+
+<p> <ICE-USA:W2B-035#32:1> When you need it, there 's no substitute for assembly language,
+
+but it can be a drag when you don't need it - - so know when to use it.<ICE-USA:W2B-035#>
+
+Humans are better large-scale designers and small-scale optimizers than
+
+compilers, but they're not very good at the grunt work 'recompiling, such as
+
+setting up stack frames, handling 32-bit values, allocating and accessing
+
+automatic variables, and the like.<ICE-USA:W2B-035#> Moreover, humans are much slower at
+
+generating code, so it 's a good idea to avoid being a " human compiler."
+<ICE-USA:W2B-035#33:1> Some people create complex macros and assembly language programming
+
+conventions and do all their programming in assembly language.<ICE-USA:W2B-035#> That works
+
+- - but what those macros and conventions do is make assembly language
+
+function much like a high-level language, so there 's no great benefit,
+
+especially given that you can drop into assembly language from a high-level
+
+language at any time just by calling an assembly language subroutine ( or,
+
+better yet, by using in-line assembly language in a compiler that offers that
+
+feature, such as Turbo C).<ICE-USA:W2B-035#> Unless you're a masochist, let your favorite 're
+compiler do what it 's best at - - compiling - - and save assembly language
+
+for those small, well-defined portions of your software where your efforts
+
+and unique skills pay off handsomely.</p>
+
+<p> <ICE-USA:W2B-035#34:1> A relevant point is that assembly language alone is not the path
+
+to performance.<ICE-USA:W2B-035#> If you have a program that takes as long as a second to
+
+update the screen, you have problems that assembly language alone won't
+
+solve: Proper overall design and algorithm selection are also essential.<ICE-USA:W2B-035#>
+
+However, most software designers consider the job done when the design and
+
+algorithm phases are complete, leaving the low-level optimization to the
+
+compiler.<ICE-USA:W2B-035#> I repeat: No compiler can match a good assembly language
+
+programmer at low-level optimization.<ICE-USA:W2B-035#> Given the irregular nature of the
+
+80x86 family and the huge PC software market, it 's well worth the time
+
+required to hand-optimize the few critical portions that control perceived
+
+performance.<ICE-USA:W2B-035#> Only in assembly language can you take full responsibility
+
+for the performance of your code.</p>
+<ICE-USA:W2B-035#35:1> <h> Don't Spit into the Wind</h>
+
+<p> <ICE-USA:W2B-035#36:1> While I can't offer a cut-and-dried dictum on when to use
+
+assembly language, the practice of using it when the user would notice if you
+
+didn't is a good rule of thumb.<ICE-USA:W2B-035#> While some programmers would take this
+
+rule too far and use assembly language too often, the vast majority of
+
+programmers will lean over backwards the other way, in the face of all
+
+evidence to the contrary.<ICE-USA:W2B-035#> Hal Hardenberg 's late, lamented DTACK Grounded
+
+reveled in the folly of the AT&T programmers who implemented the
+
+floating-point routines for a super-micro in C rather than assembly language
+
+- - with the result that the computer performed floating-point arithmetic not
+
+quite so fast as a Commodore VIC-20!
+<ICE-USA:W2B-035#37:1> </p>
+
+<p> <ICE-USA:W2B-035#38:1> Likewise, I once wrote an article in which I measured the
+
+performance of an assembly-language line-drawing implementation at four to
+
+five times that of an equivalent C implementation.<ICE-USA:W2B-035#> One reader rewrote the
+
+C code for greater efficiency, ran it through Microsoft C rather than Turbo
+
+C, and wrote to inform me that I had shortchanged C; assembly language was
+
+actually " only" 70 percent faster than C.<ICE-USA:W2B-035#> As it happens, the
+
+assembly-language code wasn't fully optimized, but that 's not the important
+
+point: What really matters is that when programmers go out of their way to
+
+produce code that 's nearly twice as slow ( and in an important user-interface
+
+component, no less) in order to use a high-level language rather than
+
+assembly language, it 's the user who 's getting shortchanged.<ICE-USA:W2B-035#> Commercial
+
+developers in particular can't afford to ignore this, and I suspect that most
+
+such developers are DDJ readers.<ICE-USA:W2B-035#> If you're aiming to sell hundreds 're
+
+thousands of copies of a program, you're guaranteed to have stif 're
+competition.<ICE-USA:W2B-035#> If you don't go the extra mile to provide snappy response,
+
+someone else will - - and you'll be left out in the col 'll/p>
+
+<p> <ICE-USA:W2B-035#39:1> On the other hand, assembly language code is harder and slower to
+
+write, and pays off only in the few most critical portions of any program.<ICE-USA:W2B-035#>
+
+There are limits to the levels of complexity humans can handle in assembly
+
+language, and limits to the development time that can be taken before a
+
+product must come to market.<ICE-USA:W2B-035#> Identify the parts of your programs that
+
+significantly affect the performance perceived by the user ( a code profiler
+
+can help greatly here), and focus your efforts on that code, with especially
+
+close attention to oft-repeated loops.</p>
+
+<p> <ICE-USA:W2B-035#40:1> The week the last Internet porn scandal broke, my phone didn't
+
+stop ringing: ?
+<ICE-USA:W2B-035#41:1> Are women comfortable on the Net??
+<ICE-USA:W2B-035#42:1> ? Should women use gender-neutral names on the Net??
+<ICE-USA:W2B-035#43:1> ? Are women harassed on the Net??
+<ICE-USA:W2B-035#44:1> Reporters called from all over the country with basically the same
+
+question.
+<ICE-USA:W2B-035#45:1> I told them all: your question is ill-formed.
+<ICE-USA:W2B-035#46:1> ? The Net?
+<ICE-USA:W2B-035#47:1> is not one thing.
+<ICE-USA:W2B-035#48:1> It 's like asking: ? Are women comfortable in bars??
+<ICE-USA:W2B-035#49:1> That 's a silly question.
+<ICE-USA:W2B-035#50:1> Which woman?
+<ICE-USA:W2B-035#51:1> Which bar? </p>
+
+<p> <ICE-USA:W2B-035#52:1> The summer I was 18, I was the computer counselor at a summer
+
+camp.
+<ICE-USA:W2B-035#53:1> After the campers were asleep, the counselors were allowed out, and
+
+would go bar hopping.
+<ICE-USA:W2B-035#54:1> First everyone would go to Maria 's, an Italian restaurant with
+
+red-and- white-checked table cloths.
+<ICE-USA:W2B-035#55:1> Maria welcomed everyone from behind the bar, greeting regular
+
+customers by name.
+<ICE-USA:W2B-035#56:1> She always brought us free garlic bread.
+<ICE-USA:W2B-035#57:1> Next we'd go to the Sandpipe 'd a disco with good dance music.
+<ICE-USA:W2B-035#58:1> The Sandpiper seemed excitingly adult--it was a little scary at
+
+first, but then I loved it.
+<ICE-USA:W2B-035#59:1> Next, we went to the Sportsman, a leather motorcycle bar that I found
+
+absolutely terrifying.
+<ICE-USA:W2B-035#60:1> Huge, bearded men bulging out of their leather vests and pants leered
+
+at me.
+<ICE-USA:W2B-035#61:1> I hid in the corner and tried not to make eye contact with anyone,
+
+hoping my friends would get tired soon and give me a ride back to camp. </p>
+
+<p> <ICE-USA:W2B-035#62:1> Each of these bars was a community, and some were more
+
+comfortable for me than others.
+<ICE-USA:W2B-035#63:1> The Net is made up of hundreds of thousands of separate communities,
+
+each with its own special character.
+<ICE-USA:W2B-035#64:1> Not only is the Net a diverse place, but ? women? are diverse as
+
+well--there were leather-clad women who loved the Sportsman, and plenty of
+
+women revel in the fiery rhetoric of Usenet 's alt.flame.
+<ICE-USA:W2B-035#65:1> When people complain about being harassed on the Net, they've usually
+
+stumbled in 'vethe wrong online community.
+<ICE-USA:W2B-035#66:1> The question is not whether ? women? are comfortable on ? the Net,?
+
+but rather what types of communities are possible? How can we create a range
+
+of communities so that everyone--men and women--can find a place that is
+
+comfortable for them? </p>
+
+<p> <ICE-USA:W2B-035#67:1> If you're looking for a res 'rerant or bar, you can often tell
+
+without even going in: Is the sign flashing neon or engraved wood?
+<ICE-USA:W2B-035#68:1> Are there lots of cars parked out front?
+<ICE-USA:W2B-035#69:1> What sort of cars? ( You can see all the Harleys in front of the
+
+Sportsman from a block away.)
+<ICE-USA:W2B-035#70:1> Look in the window: How are people dressed?
+<ICE-USA:W2B-035#71:1> We are accustomed to diversity in restaurants.
+<ICE-USA:W2B-035#72:1> People know that not all restaurants will please them, and employ a
+
+variety of techniques to choose the right one. </p>
+
+<p> <ICE-USA:W2B-035#73:1> It 's a lot harder to find a good virtual community than it is to
+
+find a good bar.
+<ICE-USA:W2B-035#74:1> The visual cues that let you spot the difference between Maria 's and
+
+the Sportsman from across the street are largely missing.
+<ICE-USA:W2B-035#75:1> Instead, you have to ? lurk?- enter the community and quietly explore
+
+for a while, getting the feel of whether it 's the kind of place you're
+
+looking for 're<ICE-USA:W2B-035#76:1> Although published guides exist, they're not always ver 'reseful--most
+
+contain encyclopedic lists with little commentary or critical evaluation, and
+
+by the time they're published they 're already out of 'rete.
+<ICE-USA:W2B-035#77:1> Magazines like NetGuide and Wired are more current and more
+
+selective, and therefore more useful, but their editorial bias may not fit
+
+with your personal tastes. </p>
+
+<p> <ICE-USA:W2B-035#78:1> Commonly available network-searching tools are also useful.
+<ICE-USA:W2B-035#79:1> The World Wide Web is filled with searching programs, indexes, and
+
+even indexes of indexes ( ? meta-indexes?).
+<ICE-USA:W2B-035#80:1> Although browsing with these tools can be a pleasant diversion, it is
+
+not very efficient, and searches for particular pieces of information often
+
+end in frustration.
+<ICE-USA:W2B-035#81:1> If you keep an open mind, however, you may come across something
+
+good. </p>
+<ICE-USA:W2B-035#82:1> <h> Shaping an Online Society</h>
+
+<p> <ICE-USA:W2B-035#83:1> But what happens if, after exploring and asking around, you still
+
+can't find an online environment that suits you?
+<ICE-USA:W2B-035#84:1> Don't give up: start your own!
+<ICE-USA:W2B-035#85:1> This doesn't have to be a difficult task.
+<ICE-USA:W2B-035#86:1> Anyone can create a new newsgroup in Usenet 's ? alt? hierarchy or
+
+open a new chat room on America Online.
+<ICE-USA:W2B-035#87:1> Users of Unix systems can easily start a mailing list.
+<ICE-USA:W2B-035#88:1> If you have a good idea but not enough technical skill or the right
+
+type of Net access, there are people around eager to help.
+<ICE-USA:W2B-035#89:1> The more interesting question is: How do you help a community to
+
+become what you hope for? Here, I can offer some hard-won advice. </p>
+
+<p> <ICE-USA:W2B-035#90:1> In my research at the MIT Media Lab ( working with Professor
+
+Mitchel Resnick), I design virtual communities.
+<ICE-USA:W2B-035#91:1> In October of 1992, I founded a professional community for media
+
+researchers on the Internet called MediaMOO.
+<ICE-USA:W2B-035#92:1> Over the past three years, as MediaMOO has grown to 1,000 members
+
+from 33 countries, I have grappled with many of the issues that face anyone
+
+attempting to establish a virtual community.
+<ICE-USA:W2B-035#93:1> MediaMOO is a ? multi-user dungeon? or MUD--a virtual world on the
+
+Internet with rooms, objects, and people from all around the world.
+<ICE-USA:W2B-035#94:1> Messages typed in by a user instantly appear on the screens of all
+
+other users who are currently in the same virtual ? room.?
+<ICE-USA:W2B-035#95:1> This real-time interaction distinguishes MUDs from Usenet newsgroups,
+
+where users can browse through messages created many hours or days before.
+<ICE-USA:W2B-035#96:1> The MUD 's virtual world is built in text descriptions.
+<ICE-USA:W2B-035#97:1> MOO stands for MUD object-oriented, a kind of MUD software ( created
+
+by Pavel Curtis of the Xerox Palo Alto Research Center and Stephen White, now
+
+at InContext Systems) that allows each user to write programs to define
+
+spaces and objects. </p>
+
+<p> <ICE-USA:W2B-035#98:1> The first MUDS, developed in the late 1970s, were multiplayer
+
+fantasy games of the dungeons-and-dragons variety.
+<ICE-USA:W2B-035#99:1> In 1989, a graduate student at Carnegie Mellon University named James
+
+Aspnes decided to see what would happen if you took away the monsters and the
+
+magic swords but instead let people extend the virtual world.
+<ICE-USA:W2B-035#100:1> People 's main activity went from trying to conquer the virtual world
+
+to trying to build it, collaboratively. </p>
+
+<p> <ICE-USA:W2B-035#101:1> Most MUDs are populated by undergraduates who should be doing
+
+their homework.
+<ICE-USA:W2B-035#102:1> I thought it would be interesting instead to bring together a group
+
+of people with a shared intellectual interest: the study of media.
+<ICE-USA:W2B-035#103:1> Ideally, MediaMOO should be like an endless reception for a
+
+conference on media studies.
+<ICE-USA:W2B-035#104:1> But given the origin of MUDs as violent games, giving one an
+
+intellectual and professional atmosphere was a tall order.
+<ICE-USA:W2B-035#105:1> How do you guide the evolution of who uses the space and what they
+
+do there? </p>
+
+<p> <ICE-USA:W2B-035#106:1> A founder/designer can't control what the community ultimately
+
+becomes--much of that is up to the users--but can help shape it.
+<ICE-USA:W2B-035#107:1> The personality of the community 's founder can have a great
+
+influence on what sort of place it becomes.
+<ICE-USA:W2B-035#108:1> Part of what made Maria 's so comfortable for me was Maria herself.
+<ICE-USA:W2B-035#109:1> She radiated a warmth that made me feel at home. </p>
+
+<p> <ICE-USA:W2B-035#110:1> Similarly, one of the most female-friendly electronic
+
+communities I've visited i 'veew York City 's ECHO ( East Coast Hang Out)
+
+bulletin board, run by Stacy Horn.
+<ICE-USA:W2B-035#111:1> Smart, stylish, and deliberately outrageous, Horn is role model and
+
+patron saint for the ECHO-ites.
+<ICE-USA:W2B-035#112:1> Her outspoken but sensitive personality infuses the community, and
+
+sends a message to women that it 's all right to speak up.
+<ICE-USA:W2B-035#113:1> She added a conference to ECHO called ?
+<ICE-USA:W2B-035#114:1> WIT?
+<ICE-USA:W2B-035#115:1> ( women in telecommunications), which one user describes as ?
+<ICE-USA:W2B-035#116:1> a warm, supportive, women-only, private conference where women 's
+
+thoughts, experiences, wisdom, joys, and despairs are shared.?
+<ICE-USA:W2B-035#117:1> But Horn also added a conference called ? BITCH,? which the ECHO-ite
+
+calls ? WIT in black leather jackets.
+<ICE-USA:W2B-035#118:1> All-women, riotous and raunchy.? </p>
+
+<p> <ICE-USA:W2B-035#119:1> Horn 's high-energy, very New York brand of intelligence
+
+establishes the kind of place ECHO is and influences how everyone there
+
+behaves.
+<ICE-USA:W2B-035#120:1> When ECHO was first established, Horn and a small group of her close
+
+friends were the most active people on the system.
+<ICE-USA:W2B-035#121:1> ? That set the emotional tone, the traditional style of posting, the
+
+unwritten rules about what it 's OK to say,?
+<ICE-USA:W2B-035#122:1> says Marisa Bowe, an ECHO administrator for many years.
+<ICE-USA:W2B-035#123:1> ? Even though Stacy is too busy these days to post very much, the
+
+tone established in the early days continues,? says Bowe, who is now editor
+
+of an online magazine called Word. </p>
+
+<p> <ICE-USA:W2B-035#124:1> Beyond the sheer force of a founder 's personality, a community
+
+establishes a particular character with a variety of choices on how to
+
+operate.
+<ICE-USA:W2B-035#125:1> One example is to set a policy on whether to allow participants to
+
+remain anonymous.
+<ICE-USA:W2B-035#126:1> Initially, I decided that members of MediaMOO should be allowed to
+
+choose: they could identify themselves with their real names and e-mail
+
+addresses, or remain anonymous.
+<ICE-USA:W2B-035#127:1> Others questioned whether there was a role for anonymity in a
+
+professional community. </p>
+
+<p> <ICE-USA:W2B-035#128:1> As time went on, I realized they were right.
+<ICE-USA:W2B-035#129:1> People on MediaMOO are supposed to be networking, hoping someone
+
+will look up who they really are and where they work.
+<ICE-USA:W2B-035#130:1> Members who are not wi11ng to share their personal and professional
+
+identities are less likely to engage in serious discussion about their work
+
+and consequently about media in general.
+<ICE-USA:W2B-035#131:1> Furthermore, comments from an anonymous entity are less valuable
+
+because they are unsituated-- ? I believe X? is less meaningful to a listener
+
+than ? I am a librarian with eight years of experience who lives in a small
+
+town in Georgia, and I believe X.?
+<ICE-USA:W2B-035#132:1> In theory, anonymous participants could describe their professional
+
+experiences and place their comments in that context; in practice it tends
+
+not to happen that way.
+<ICE-USA:W2B-035#133:1> After six months, I proposed that we change the policy to require
+
+that all new members be identified.
+<ICE-USA:W2B-035#134:1> Despite the protests of a few vocal opponents, most people thought
+
+that this was a good idea, and the change was made. </p>
+
+<p> <ICE-USA:W2B-035#135:1> Each community needs to have its own policy on anonymity.
+<ICE-USA:W2B-035#136:1> There 's room for diversity here too: some communities can be
+
+all-anonymous, some all-identified, and some can leave that decision up to
+
+each individual.
+<ICE-USA:W2B-035#137:1> An aside: right now on the Net no one is either really anonymous or
+
+really identified.
+<ICE-USA:W2B-035#138:1> It is easy to fake an identity; it is also possible to use either
+
+technical or legal tools to peer behind someone else 's veil of anonymity.
+<ICE-USA:W2B-035#139:1> This ambiguous state of affairs is not necessarily unfortunate: it 's
+
+nice to know that a fake identity that provides a modicum of privacy is easy
+
+to construct, but that in extreme cases such people can be tracked down. </p>
+<ICE-USA:W2B-035#140:1> <h> Finding Birds of a Feather</h>
+
+<p> <ICE-USA:W2B-035#141:1> Another important design decision is admissions policy.
+<ICE-USA:W2B-035#142:1> Most places on the Net have a strong pluralistic flavor, and the
+
+idea that some people might be excluded from a community ruffles a lot of
+
+feathers.
+<ICE-USA:W2B-035#143:1> But exclusivity is a fact of life.
+<ICE-USA:W2B-035#144:1> MIT wouldn't be MIT if everyone who wanted to come was admitted.
+<ICE-USA:W2B-035#145:1> Imagine if companies had to give jobs to everyone who applied!
+<ICE-USA:W2B-035#146:1> Virtual communities, social clubs, universities, and corporations
+
+are all groups of people brought together for a purpose.
+<ICE-USA:W2B-035#147:1> Achieving that purpose often requires that there be some way to
+
+determine who can join the community. </p>
+
+<p> <ICE-USA:W2B-035#148:1> A key decision I made for MediaMOO was to allow entry only to
+
+people doing some sort of ? media research.?
+<ICE-USA:W2B-035#149:1> I try to be loose on the definition of ? media?--writing teachers,
+
+computer network administrators, and librarians are all working with forms of
+
+media--but strict on the definition of ? research.?
+<ICE-USA:W2B-035#150:1> At first, this policy made me uncomfortable.
+<ICE-USA:W2B-035#151:1> I would nervously tell people, ? It 's mostly a self-selection
+
+process.
+<ICE-USA:W2B-035#152:1> We hardly reject anyone at all!?
+<ICE-USA:W2B-035#153:1> Over time, I've 'vecome more comfortable with this restriction, and
+
+have enforced the requirements more stringently.
+<ICE-USA:W2B-035#154:1> I now believe my initial unease was naive. </p>
+
+<p> <ICE-USA:W2B-035#155:1> Even if an online community decides to admit all comers, it does
+
+not have to let all contributors say anything they want.
+<ICE-USA:W2B-035#156:1> The existence of a moderator to filter postings often makes for more
+
+focused and civil discussion.
+<ICE-USA:W2B-035#157:1> Consider Usenet 's two principal newsgroups dealing with feminism-
+
+alt.feminism and soc.feminism.
+<ICE-USA:W2B-035#158:1> In alt.feminism, anyone can post whatever they want.
+<ICE-USA:W2B-035#159:1> Messages in this group are filled with the angry words of angry
+
+people; more insults than ideas are exchanged.
+<ICE-USA:W2B-035#160:1> ( Titles of messages found there on a randomly selected day included ?
+
+Women & the workplace ( it doesn't work)? and ? What is a feminazi??.)
+<ICE-USA:W2B-035#161:1> The topic may nominally be feminism, but the discussion itself is
+
+not feminist in nature. </p>
+
+<p> <ICE-USA:W2B-035#162:1> The huge volume of postings ( more than 200 per day, on average)
+
+shows that many people enjoy writing such tirades.
+<ICE-USA:W2B-035#163:1> But if I wanted to discuss some aspect of feminism, alt.feminism
+
+would be the last place I' 'dgo.
+<ICE-USA:W2B-035#164:1> Its sister group, soc.feminism, is moderated--volunteers read
+
+messages submitted to the group and post only those that pass muster.
+<ICE-USA:W2B-035#165:1> Moderators adhere to soc.feminism 's lengthy charter, which explains
+
+the criteria for acceptable postings--forbidding ad hominem attacks, for
+
+instance. </p> </I>

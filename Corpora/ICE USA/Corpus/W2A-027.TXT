@@ -1,0 +1,411 @@
+<I>
+
+<p> <ICE-USA:W2A-027#1:1>
+<ICE-USA:W2A-027#2:1> Selective optical excitation permits both the group index and the
+
+group delay of on-axis modes of multimode fibers to be determined with high
+
+precision.
+<ICE-USA:W2A-027#3:1> The group index of several types of fiber was measured at 1310 nm in a
+
+fiber Michelson interferometer and the values were tabulated.
+<ICE-USA:W2A-027#4:1> Group delays were obtained from the transit time of short-duration
+
+optical pulses.
+<ICE-USA:W2A-027#5:1> From these data the length of reference fibers ~2km long was
+
+calculated.
+<ICE-USA:W2A-027#6:1> Length-measurement accuracy was limited by group-index uncertainties
+
+to ~0.04&percent;.
+<ICE-USA:W2A-027#7:1> Also, a technique that uses these reference fibers to minimize
+
+uncertainties in distance measurements made with multimode
+
+optical-time-domain reflectometers is described.</p>
+
+<p> <ICE-USA:W2A-027#8:1> <it> Key words: </it> Length measurements, multimode fiber length,
+
+optical-fiber group index, optical-fiber group delay, optical-fiber length,
+
+optical-time-domain reflectometer calibration.</p>
+<ICE-USA:W2A-027#9:1> <h> <bold> I. Introduction </bold> </h>
+
+<p> <ICE-USA:W2A-027#10:1> In many ways the transmission properties of multi-mode optical
+
+fibers are more difficult to characterize precisely than are their
+
+single-mode counterparts.
+<ICE-USA:W2A-027#11:1> This is so because mode groups in the multimode fiber have slightly
+
+different propagation properties.
+<ICE-USA:W2A-027#12:1> Mode-dependent complications are particularly evident in attempts to
+
+measure fiber length accurately by optical means.
+<ICE-USA:W2A-027#13:1> In this paper we examine a multimode optical-fiber-length metrology
+
+that is based on selective mode excitation,1 a technique that has long been
+
+used to investigate differential mode properties, such as attenuation and
+
+delay.2,3 This procedure is implemented most conveniently by exciting the
+
+multimode test fiber with a single-mode launch fiber.
+<ICE-USA:W2A-027#14:1> As we will see, there are advantages to using this approach for both
+
+group-index and group-delay measurements.</p>
+
+<p> <ICE-USA:W2A-027#15:1> The length of optical fibers that are a few kilometers long is
+
+usually measured in one of two ways: optically with transit-time and
+
+group-index information and mechanically with devices such as winding
+
+machines.
+<ICE-USA:W2A-027#16:1> The optical approach, which is often the more accurate and certainly
+
+the more versatile, makes use of the equation <O> GRAPH, TABLE, FIGURE, ETC
+
+</O> , ( 1) where <it> c </it> is the velocity of light, <it> Tm </it> (
+
+<foreign> X </foreign> ) is the group delay of a given mode group at a
+
+specified wavelength, and <it> Nm </it> ( <foreign> X </foreign> ) is the
+
+corresponding group index.
+<ICE-USA:W2A-027#17:1> The notation indicates explicitly that each mode group <it> m </it>
+
+will, in general, possess its own group delay and group index and that the
+
+values of these quantities will vary with wavelength.
+<ICE-USA:W2A-027#18:1> The variation in modal-group index causes a spread in the group delay
+
+and produces inter-modal pulse broadening.
+<ICE-USA:W2A-027#19:1> Mode coupling complicates this simple picture and is discussed in
+
+Subsection II.C.</p>
+
+<p> <ICE-USA:W2A-027#20:1> Although fiber group index can be calculated from
+
+index-of-refraction data,4 the most-accurate results must be obtained
+
+experimentally.
+<ICE-USA:W2A-027#21:1> The most direct experimental method involves inverting Eq. ( 1).
+<ICE-USA:W2A-027#22:1> In this case a relatively short fiber ( a few tens of meters) of
+
+length <it> L </it> is measured with a precise steel tape or other mechanical
+
+means, the group delay is determined optically, and <it> N </it> is inferred
+
+from these data.5 The accuracy can be improved with shuttle-pulse methods.6
+
+Other single-mode techniques that are based on interferometry and have the
+
+desirable feature that they require only short samples, usually less than a
+
+meter in length, have been described.7,8 Ordinarily we expect that multimode
+
+fibers will not be suitable in interferometric systems because the differing
+
+modal transit times produce an output-speckle pattern and not the coherent
+
+phase front that is required for interference.
+<ICE-USA:W2A-027#23:1> However, this research demonstrates experimentally that an
+
+interferometric technique can be extended to multimode fibers under suitable
+
+launch conditions, particularly when the on-axis mode groups behave much as
+
+one would expect from a single-mode fiber.</p>
+
+<p> <ICE-USA:W2A-027#24:1> An effective or average group delay in a fiber can be measured
+
+directly by the transit time of a short-duration optical pulse4 or indirectly
+
+with rf phase techniques.9 Procedures that restrict optical power
+
+transmission to a few low-order modes in multimode fibers are more consistent
+
+with the pulse time-of-flight method.
+<ICE-USA:W2A-027#25:1> In this case the output-pulse duration and delay uncertainty can be
+
+substantially reduced below those obtained from overfilled launch
+
+conditions.</p>
+
+<p> <ICE-USA:W2A-027#26:1> In this paper procedures and results of on-axis group-index and
+
+group-delay measurements are discussed for several types of multimode fiber
+
+near the zero-dispersion wavelength ( nominally 1310 nm).
+<ICE-USA:W2A-027#27:1> This information is used to determine the length of reference fibers
+
+that can be used for improving distance-measuring accuracy in multimode
+
+optical-time-domain reflectometers(OTDR 's).</p>
+<ICE-USA:W2A-027#28:1> <h> II. Experiment </h>
+<ICE-USA:W2A-027#29:1> <h> A. Fiber Interferometer </h>
+
+<p> <ICE-USA:W2A-027#30:1> The experimental apparatus for making group-index measurements is
+
+illustrated in Fig. 1 and is similar to the one described elsewhere for
+
+single-mode use.8
+<ICE-USA:W2A-027#31:1> The multimode fiber samples, ~0.l m long, were inserted into the test
+
+arm of the interferometer.
+<ICE-USA:W2A-027#32:1> The scanning and test arms of the interferometer, as well as the 3-dB
+
+directional coupler, were constructed from single-mode fiber.
+<ICE-USA:W2A-027#33:1> The source consisted of a light-emitting diode with a FWHM spectral
+
+width of 180 nm centered at 1300 nm.
+<ICE-USA:W2A-027#34:1> The single-mode launch fiber was positioned by a micromanipulator to
+
+produce a maximum signal from the Fresnel reflection at the far end of the
+
+sample.
+<ICE-USA:W2A-027#35:1> This signal occurs when the launch and the test fibers are coaxial.
+<ICE-USA:W2A-027#36:1> The reference arm was translated by a stepping motor for coarse
+
+adjustments and a linearized piezoelectric transducer for the fine
+
+positioning between steps.
+<ICE-USA:W2A-027#37:1> The cat 's-eye arrangement in the reference arm was optically stable
+
+over the ~0.15-m travel required for coherence coincidence.
+<ICE-USA:W2A-027#38:1> The group index <it> N </it> is obtained from the equation <it> N
+
+</it> = <it> N </it> air<it> L </it> air/ <it> L </it> f.(2)</p>
+
+<p> <ICE-USA:W2A-027#39:1> Here <it> L </it> air is the distance that the scanning mirror is
+
+moved in air as determined by the separation of the interferogram envelope
+
+maxima that arises from the sample-end reflections.
+<ICE-USA:W2A-027#40:1> <it> L </it> f is the physical length of the fiber and is measured
+
+with a calibrated traveling microscope.
+<ICE-USA:W2A-027#41:1> The group index of air is, within 1.3 parts in 106, equal to the
+
+index of refraction.
+<ICE-USA:W2A-027#42:1> For dry air in standard conditions of temperature and pressure, <it>
+
+N </it> air is ~1.000273 at 1300 nm.10
+
+<p> <ICE-USA:W2A-027#43:1> Figure 2 shows the appearance of some of the interferograms
+
+corresponding to reflections from remote ends of the test fibers.
+<ICE-USA:W2A-027#44:1> The structure observed in some of the signatures is presumably due to
+
+modal effects, but in all cases an unequivocal maximum can be identified for
+
+use as a reference point.</p> <h> B. Group-Index Measurements </h>
+
+<p> <ICE-USA:W2A-027#45:1> The on-axis group indices were determined for a total of 12
+
+fibers from 2 manufacturers.
+<ICE-USA:W2A-027#46:1> All four types of multimode fiber recognized by the Electronic
+
+Industries Association11 are included.
+<ICE-USA:W2A-027#47:1> A sample from each end of the 12 reels was selected so some
+
+indication of the uniformity of the fiber could be obtained ( see Subsection
+
+II.C).
+<ICE-USA:W2A-027#48:1> Some average values for particular types are summarized in Table I.
+<ICE-USA:W2A-027#49:1> Also included are two single-mode values.
+<ICE-USA:W2A-027#50:1> The fibers labeled C were obtained from Corning Glass Works, and
+
+those labeled A were from AT&T.</p>
+<ICE-USA:W2A-027#51:1> <h> C. Transit-Time Measurements </h>
+
+<p> <ICE-USA:W2A-027#52:1> The group delay was measured with the time-of-flight apparatus
+
+illustrated in Fig. 3.
+<ICE-USA:W2A-027#53:1> A single-mode fiber was used to inject optical power from a
+
+pulsed-laser diode into the multimode test fiber.
+<ICE-USA:W2A-027#54:1> Alignment with a micromanipulator ensured approximate coincidence of
+
+the optical axes of the transmitting and receiving fibers.
+<ICE-USA:W2A-027#55:1> Fine tuning of the coupling was accomplished by maximizing the
+
+amplitude of the output optical pulse displayed on a sampling oscilloscope.
+<ICE-USA:W2A-027#56:1> The fiber lead-in to the photodetector was multimode, and under these
+
+conditions it was possible, through misalignment, to excite a number of mode
+
+groups.
+<ICE-USA:W2A-027#57:1> However, with the criterion of maximum-output pulse amplitude,
+
+coupling to the test fiber was unambiguous and always occurred with the
+
+single-mode launch fiber at a position near the central axis of the test
+
+fiber.</p>
+
+<p> <ICE-USA:W2A-027#58:1> Some of the restricted-launch pulse shapes are illustrated
+
+schematically in Fig. 4.
+<ICE-USA:W2A-027#59:1> It is of interest to compare these pulse durations with those
+
+expected from their nominal bandwidths.
+<ICE-USA:W2A-027#60:1> A great simplification can be made at this point by assuming Gaussian
+
+pulse shapes, a condition that is obviously not exactly fulfilled in some of
+
+the examples.
+<ICE-USA:W2A-027#61:1> With this approximation, however, the FWHM impulse response <it> T
+
+</it> F can be expressed as <it> T </it> F = 0.44/<it> B </it> , where <it> B
+
+</it> is the 3-dB optical bandwidth.12 These values are listed along with the
+
+observed single-mode launched-pulse durations <it> T </it> R in Table II.
+<ICE-USA:W2A-027#62:1> The values in column 5 have been corrected for the finite width of
+
+the input pulse <it> T </it> IN, according to the approximation <it> T </it>
+
+2OUT = <it> TR </it> 2+ <it> T </it> 2IN.
+<ICE-USA:W2A-027#63:1> When the single-mode launch conditions are used, output-pulse
+
+durations are shorter, from 3 to 33, than those expected from the nominal
+
+bandwidths.
+<ICE-USA:W2A-027#64:1> Further, <it> T </it> R is, within a factor of 2, the same for all
+
+types of fiber.
+<ICE-USA:W2A-027#65:1> Also, the larger cores are not always correlated with a larger
+
+bandwidth or with TR.</p>
+<ICE-USA:W2A-027#66:1> <h> D. Error Discussion </h>
+
+<p> <ICE-USA:W2A-027#67:1> Because only small test segments at either end of the test fiber
+
+can be sampled, it is necessary to assume that these values are
+
+representative of the entire length.
+<ICE-USA:W2A-027#68:1> These sampling errors constitute a significant portion of the total
+
+error budget for length measurements.
+<ICE-USA:W2A-027#69:1> Some results of studies of the uniformity of group index in
+
+single-mode fibers have been reported.5,7 Saunders andGardner7 showed that a
+
+certain class of production fiber exhibited group indices that were uniform
+
+within 0.02&percent; with fiber-to-fiber variations <0.03&percent; (1 <foreign> ( </foreign> ) .
+<ICE-USA:W2A-027#70:1> Carr <foreign> et al </foreign> .5 conducted a similar, though much
+
+less detailed, study of another class of single-mode fiber and found that
+
+fiber-to-fiber <it> N </it> limits were confined to 0.04&percent; for six fibers.
+<ICE-USA:W2A-027#71:1> To the author 's knowledge, no corresponding studies have been made of
+
+multimode fibers.
+<ICE-USA:W2A-027#72:1> In the present investigation there were insufficient data for a
+
+detailed statistical analysis of fiber uniformity, so only some brief
+
+observations will be noted.
+<ICE-USA:W2A-027#73:1> The differences in group-index values from either end of a given 2-km
+
+reel of fiber had a standard deviation of 0.012&percent;, whereas average values
+
+obtained from different reels ( of a similar type) had a standard deviation
+
+of 0.08&percent;.
+<ICE-USA:W2A-027#74:1> It appears, then, that there is somewhat greater variability in the
+
+properties of multimode fibers compared with their single-mode counterparts.
+<ICE-USA:W2A-027#75:1> In any event, for maximum-length accuracy, the group index of each
+
+fiber must be measured individually.</p>
+
+<p> <ICE-USA:W2A-027#76:1> Both temperature variations and stress have well-documented
+
+effects on length, group delay, and group index.5,13 For bulk silica the
+
+temperature coefficient of thermal expansion is ~6 x 10-7 K-1 at room
+
+temperature.
+<ICE-USA:W2A-027#77:1> Fractional optical-delay change is a combination of both index and
+
+length effects and is of the order of 8 x 10-6 K-1.
+<ICE-USA:W2A-027#78:1> A stress of 1 MN/m2 ( 140 psi) produces a strain of ~1.4 x 10-5 and a
+
+fractional delay of 1.0 x 10-5.
+<ICE-USA:W2A-027#79:1> The use of a collapsing fiber reel with subsequent potting in
+
+silicone rubber can largely eliminate winding stress for the group-delay
+
+measurements.</p>
+
+<p> <ICE-USA:W2A-027#80:1> The 1 <foreign> ( </foreign> precision, or repeatability, of
+
+group-index values <it> <foreign> ( </foreign> N/N </it> is estimated to be
+
+~6 x 10-5 and consists of traveling microscope errors, random errors, and
+
+temperature effects.
+<ICE-USA:W2A-027#81:1> The total estimated index uncertainty <it> <foreign> ( </foreign> N/N
+
+</it> is ~4 x 10-4 and includes sampling uncertainties and other effects,
+
+such as nonlinearity in the lead screw ( which can be much reduced with
+
+interferometric control).
+<ICE-USA:W2A-027#82:1> This figure was calculated by linearly adding worst-case systematic
+
+errors to the total 2- random error.</p>
+
+<p> <ICE-USA:W2A-027#83:1> The group-delay precision is much better, ~3 x 10-6 for a 2-km
+
+fiber.
+<ICE-USA:W2A-027#84:1> The overall accuracy of <it> <foreign> ( </foreign> t/T </it> , which
+
+includes random errors, line-center estimate variations, time-interval
+
+errors, and temperature effects, is ~2.3 x 10-5</p>
+
+<p> <ICE-USA:W2A-027#85:1> The total uncertainties in length measurements are dominated by
+
+the group-index errors, <it> <foreign> ( </foreign> L/L = N/N </it> or ~4 x
+
+10-4.</p>
+<ICE-USA:W2A-027#86:1> <h> E. OTDR Measurements </h>
+
+<p> <ICE-USA:W2A-027#87:1> For maximum accuracy in the delay values, the power launched into
+
+a particular mode group should continue to propagate in that same group as
+
+the radiation traverses the length of the light guide.
+<ICE-USA:W2A-027#88:1> Fore the fibers examined in this study the mode coupling seems to be
+
+small because the output-pulse shapes are not distorted greatly after 2 km.
+<ICE-USA:W2A-027#89:1> Even more convincing evidence of low-mode coupling may be obtained
+
+from OTDR scans, since OTDR can provide information on the evolution of the
+
+power distribution as the optical pulse progresses along the fiber.14</p>
+
+<p> <ICE-USA:W2A-027#90:1> The OTDR scans shown in Fig. 5 were obtained with a reflectometer
+
+designed for single-mode operation.
+<ICE-USA:W2A-027#91:1> The output port was connected to a 2-km single-mode fiber pigtail
+
+that was used to launch the probe pulse into the multimode fiber.
+<ICE-USA:W2A-027#92:1> The transmitting and receiving fibers were butt coupled with their
+
+axis collinear, a configuration that produced the maximum-backscatter signal
+
+response.
+<ICE-USA:W2A-027#93:1> The backscatter trace on the left of each scan represents the
+
+Rayleigh Scatter from the single-mode launch fiber, and the segment with the
+
+increased slope is due to the multimode fiber.
+<ICE-USA:W2A-027#94:1> The increased slope is due to the higher doping levels and,
+
+consequently, higher loss of the multimode fiber.</p> </I>

@@ -1,0 +1,460 @@
+<I>
+<ICE-USA:W2A-010#1:1> <h> MARCIA MUELDER EATON</#>
+<ICE-USA:W2A-010#2:1> <h> The Intrinsic, Non-Supervenient Nature of Aesthetic Properties</h>
+<ICE-USA:W2A-010#3:1> The Journal of Aesthetics and Art Criticism 52:4 Fall 1994<ICE-USA:W2A-010#>
+<ICE-USA:W2A-010#4:1> <h> III</h>
+
+<p> In the above discussion I have occasionally alluded to reasons why
+
+aestheticians find supervenience an appealing notion.
+<ICE-USA:W2A-010#5:1> Now I should like to show in more detail how it has figured in three
+
+papers specifically dealing with aesthetic supervenience.</p>
+
+<p> Philip Pettit titles his paper <quote>  The Possibility of Aesthetic
+
+Realism,"12 thereby making it clear that the <quote>  work </quote> he
+
+wants to do is to provide a basis for proving or rationally justifying
+
+aesthetic attributions.
+<ICE-USA:W2A-010#6:1> He begins by making three observations about aesthetic attributions, (
+
+he uses the term <quote> " aesthetic characterization"</quote>).
+<ICE-USA:W2A-010#7:1> First he claims that they are not the same as pictorial attributions,
+
+e.g., color descriptions.
+<ICE-USA:W2A-010#8:1> ( I have always been puzzled by the fact that many theorists assume
+
+that color statements are not aesthetic.
+<ICE-USA:W2A-010#9:1> I find it quite normal for people to report preferences for and
+
+appreciation of certain colors.
+<ICE-USA:W2A-010#10:1> " I like that shade of green that permeates the world the first few
+
+weeks of spring, </quote> seems perfectly aesthetic to me.
+<ICE-USA:W2A-010#11:1> So does, <quote>  It 's the red that is so dramatic.? </quote> But
+
+perhaps Pettit and others, would deny that these are, strictly speaking, <it>
+
+descriptions </it> .
+<ICE-USA:W2A-010#12:1> In any case, if this observation is not to be question-begging, it
+
+needs more discussion.
+<ICE-USA:W2A-010#13:1> ( I will have more to say on this later.)
+<ICE-USA:W2A-010#14:1> Secondly he asserts that aesthetic attributions are <quote>
+
+relatively primitive,</quote> that is, <quote> if a characterization
+
+applies to one work, then it applies to any which, subject to rectification
+
+for colours, is observationally indistinguishable from that work; there is no
+
+possibility of an unobservable difference affecting how the works are
+
+respectively characterised."13
+<ICE-USA:W2A-010#15:1> ( I am not sure what the phrase <quote> subject to rectification for
+
+colours</quote> implies here.
+<ICE-USA:W2A-010#16:1> Does Pettit believe that colors can vary without aesthetic properties
+
+changing<ICE-USA:W2A-010#>If so, I think he needs to provide some examples to show that
+
+this is so.
+<ICE-USA:W2A-010#17:1> On the face of it, one would think that color-alterations would
+
+affect enormous changes.
+<ICE-USA:W2A-010#18:1> Perhaps I just don't understand <quote> rectification."</quote>)
+<ICE-USA:W2A-010#19:1> Third, aesthetic attributions, according to Pettit, supervene on
+
+pictorial characteristics.
+<ICE-USA:W2A-010#20:1> <quote> " The indiscernibility of any two works with respect to their
+
+pictorial characterisations entails their aesthetic indiscernibility;
+
+equivalently, there cannot be an aesthetic difference between two works
+
+unless there is also a pictorial one."</quote>14
+<ICE-USA:W2A-010#21:1> I shall later argue that this last claim is false, or at best trivial
+
+or misleading.</p>
+
+<p> <ICE-USA:W2A-010#22:1> Pettit goes on to show that there is a version of aesthetic
+
+realism consistent with these three observations.
+<ICE-USA:W2A-010#23:1> As on Blackburn 's analysis, supervenience, coupled with
+
+non-entailment, creates a problem for the aesthetic realist.
+<ICE-USA:W2A-010#24:1> Pettit, assuming that aesthetic properties supervene on non-aesthetic
+
+ones, must fiddle around with <it> entailment </it> .
+<ICE-USA:W2A-010#25:1> His own strategy involves showing how the apparent <quote>
+
+quasi-assertive</quote> nature of aesthetic statements ( in Crispin
+
+Wright 's sense where evidence presented cannot fail to command agreement
+
+unless the statement is misunderstood) disappears when one fully understands
+
+the role of perception in aesthetic attributions.15
+<ICE-USA:W2A-010#26:1> But such tinkering would perhaps not be necessary if the machinery of
+
+supervenience were not considered a necessary tool for doing the work at
+
+hand.</p>
+
+<p> In <quote> Aesthetic Supervenience,</quote> Jerrold Levinson also
+
+assumes that aesthetic properties are supervenient.
+<ICE-USA:W2A-010#27:1> His goal is to explain the particular form that this supervenience
+
+takes, and he opts for this: <quote> (AS): Two objects ( e.g., art-works)
+
+that differ <it> aesthetically </it> necessarily differ <it>
+
+non-aesthetically </it> ."</quote>16
+<ICE-USA:W2A-010#28:1> That is, there could not be two objects that were aesthetically
+
+different yet non-aesthetically identical-fixing the non-aesthetic properties
+
+of an object fixes its aesthetic properties.
+<ICE-USA:W2A-010#29:1> Levinson then posits three kinds of non-aesthetic properties as the
+
+bases upon which aesthetic ones supervene: perceivable, non-perceivable, and
+
+contextual.
+<ICE-USA:W2A-010#30:1> He couples supervenience with emergence ( instead of reductionism or
+
+condition-governed-ness)
+<ICE-USA:W2A-010#31:1> In order to provide a foundation for proving or rationally justifying
+
+the attribution of the aesthetic properties that seem to him so ontologically
+
+different from the non-aesthetic ones that one refers to in these proofs and
+
+justifications.</p>
+
+<p> Justification - - getting from non-aesthetic to aesthetic properties in
+
+the absence of laws-- is John Bender 's main concern in <quote> Supervenience
+
+and the Justification of Aesthetic Judgments.</quote>
+<ICE-USA:W2A-010#32:1> He increases the number of observations from Pettit 's three to six--
+
+describing them as <quote> common fare for aestheticians."</quote>17
+<ICE-USA:W2A-010#33:1> They probably are common fare, and this is one reason that aesthetics
+
+is often so muddled, I think.</p>
+
+<p> The first <quote> commonplace</quote> is that <X> <quote> artworks and
+
+other aesthetic objects have both descriptive, structural, perceivable
+
+properties, such as certain lines, colors, notes, sentences, chemical
+
+properties, etc., and aesthetic properties, such as balance, unity,
+
+tranquillity, poise, charm, coherence, energy, grandness of design, etc.
+<ICE-USA:W2A-010#X34:1> Pretty clearly, when conceived as universals, aesthetic properties
+
+are not identical to non-aesthetic ones."</quote></X>18 I do not accept this
+
+a priori distinction.
+<ICE-USA:W2A-010#X35:1> As I suggested above, I think color, for instance, may be an
+
+aesthetic property.
+<ICE-USA:W2A-010#X36:1> The line between <quote> design</quote> and <quote> grandness of
+
+design</quote> is certainly fuzzy, I believe.
+<ICE-USA:W2A-010#X37:1> The <quote> etc.</quote> at the end of the lists of both aesthetic
+
+and non-aesthetic properties Bender provides is typical of aesthetic writing.
+<ICE-USA:W2A-010#X38:1> The assumption is that all readers know exactly how to go on-- but
+
+I, for one, do not.</p>
+
+<p> Bender 's next two claims do seem correct to me.
+<ICE-USA:W2A-010#X39:1>
+#2. Two objects with different non-aesthetic properties can be described by
+
+the same aesthetic term.
+<ICE-USA:W2A-010#X40:1> Both wine and music can be balanced, for example.
+<ICE-USA:W2A-010#X41:1>
+#3. <quote> " There are, at least in general, no logical equivalences between
+
+aesthetic and nonaesthetic predications.</quote>
+<ICE-USA:W2A-010#X42:1> I also grant
+#6.
+<ICE-USA:W2A-010#X43:1> <quote> " The most common and <it> apparently </it> most forceful
+
+strategy for justifying aesthetic judgments ...
+<ICE-USA:W2A-010#X44:1> is to cite those nonaesthetic properties of the thing which one
+
+believes are responsible for or result in the work 's having the property one
+
+has claimed for it." </quote> 19</p>
+
+<p> <ICE-USA:W2A-010#X45:1> I disagree strongly, however, with commonplaces
+#4-- <quote> Short of imagining vast and general alterations in human
+
+sensibilities, in order to change the aesthetic properties of any work it is
+
+necessary to change at least some of the nonaesthetic properties of that
+
+work</quote> - - and
+#5-- <quote> Necessarily, if two artworks were to have precisely the same
+
+physical and sensory properties, they would have the same aesthetic
+
+properties."</quote>20
+<ICE-USA:W2A-010#X46:1> It is because I deny both of these that I am dubious about
+
+supervenience 's doing much aesthetic work, for Bender, correctly, believes
+
+that together they provide an imprecise, but nevertheless close, statement of
+
+aesthetic supervenience.
+<ICE-USA:W2A-010#X47:1> I believe that aesthetic attributions are culture-bound.
+<ICE-USA:W2A-010#X48:1> Thus I do not have to believe that someone must differ <quote>
+
+sensibly"</quote> from me to grant that he or she may apply different, even
+
+contradictory aesthetic terms to the same object or event.
+<ICE-USA:W2A-010#X49:1> Even I myself may, staying sensibly the same, come to apply
+
+different or contradictory terms myself to an object whose non-aesthetic
+
+properties are stable.
+<ICE-USA:W2A-010#X50:1> ( I shall expand upon this point below.)</p>
+
+<p> <ICE-USA:W2A-010#X51:1> Using the notions of supervenience developed by Kim and
+
+Blackburn, Bender goes on to develop a more precise statement of aesthetic
+
+supervenience.
+<ICE-USA:W2A-010#X52:1> He includes in the set of base properties not only particular
+
+non-aesthetic properties, but also their complements, for it is not only the
+
+properties something actually possesses that matter For example, the elegance
+
+of Brancusi 's <it> The Bird </it> does not just depend upon polished surface,
+
+tapering curves, and seamlessness.
+<ICE-USA:W2A-010#X53:1> It also depends upon the fact that certain properties are missing,
+
+e.g., being splashed with blood.
+<ICE-USA:W2A-010#X54:1> Bender acknowledges that such an interpretation of supervenience
+
+goes well beyond the properties usually or actually cited in justification,
+
+that one must limit oneself to the <it> relevant </it> absent properties, and
+
+that it is difficult to specify how to do this.
+<ICE-USA:W2A-010#X55:1> Bender believes, however, that supervenience is necessary for the
+
+objectivity of aesthetic attribution, and so is willing to tinker with it
+
+until he has a version of it that seems to work.
+<ICE-USA:W2A-010#X56:1> I do <it> not </it> think that supervenience is required, and so
+
+believe this whole messy and difficult ( and ultimately, I suspect,
+
+impossible) task can be avoided.</p>
+<ICE-USA:W2A-010#X57:1> <h> IV</h>
+
+<p> <ICE-USA:W2A-010#X58:1> Many of the distinctions listed in my opening paragraph do not
+
+help one do the aesthetic work we want to do because they do not hold up or,
+
+even if they do, they fail ultimately to tell us anything special about
+
+aesthetic properties.
+<ICE-USA:W2A-010#X59:1> Supervenience, I shall now argue, does not help because the
+
+distinctions it depends upon do not hold up.21</p>
+
+<p> <ICE-USA:W2A-010#X60:1> Like reductionism or emergence, where one kind of property can
+
+he defined in terms of, or comes forth from, another kind of property,
+
+supervenience presupposes the existence of ( and usually ontological priority
+
+of) some <it> base set </it> of properties.
+<ICE-USA:W2A-010#X61:1> Blackburn, for example, defines supervenience in this way: <quote>
+
+Necessarily if x is F and G* ( a set of facts) underlies F then anything
+
+else in state G* is also F."</quote>22
+<ICE-USA:W2A-010#X62:1> Here a <quote> set of facts</quote> <quote> underlies.</quote>
+
+In other writers the base consists of a set of <quote> natural</quote> or
+
+<quote> structural</quote> or physical</quote> or " descriptive</quote>
+
+properties.
+<ICE-USA:W2A-010#X63:1> Aestheticians have used all of these terms, but usually simply think
+
+in terms of the base as <quote> non-aesthetic.</quote> So Blackburn 's
+
+version becomes, <quote> Necessarily if a is A and N underlies A, then
+
+anything else that is N is also A.</quote>
+<ICE-USA:W2A-010#X64:1> But even Blackburn acknowledges a general problem with
+
+supervenience. <X> <quote>
+<ICE-USA:W2A-010#X65:1> " Of course, G* can contain all kinds of relational truths about the
+
+subject, truth about other things, and so on.
+<ICE-USA:W2A-010#X66:1> In fact, one of the difficulties about thinking about all of this
+
+properly is that it rapidly becomes unclear just what can be allowed in our
+
+conception of the totality of 6* states." </quote> </X> 23
+<ICE-USA:W2A-010#67:1> Is the century in which an object is produced part of G* or N?
+<ICE-USA:W2A-010#68:1> If so, the apparent supervenience of properties like being realistic,
+
+exciting, graceful, or even beautiful begins to come into question.
+<ICE-USA:W2A-010#69:1> I shall say more about this shortly.</p>
+
+<p> <ICE-USA:W2A-010#70:1> Statements of supervenience that do not explicitly mention two
+
+ontologically different sets ( these tend to be early, non-formal
+
+articulations)nonetheless typically provide a <quote> test</quote> that
+
+supposedly enables one to make a distinction.
+<ICE-USA:W2A-010#71:1> The test can he stated as follows:</p>
+
+<p> <ICE-USA:W2A-010#72:1> TEST: If one can imagine two objects or events identical in all
+
+respects except that one has property P and the other does not have property
+
+P, then P is not supervenient; if one cannot imagine two objects or events
+
+identical in all respects except that one has property P and the other does
+
+not have property P, then P is supervenient.</p>
+
+<p> <ICE-USA:W2A-010#73:1> This test invites one to play a kind of <quote>
+
+Can-you-can't-you</quote> game.
+<ICE-USA:W2A-010#74:1> In the early days philosophers such as Hare believed that <quote> I
+
+can't</quote> marked off evaluative ( aesthetic and ethical) properties.
+<ICE-USA:W2A-010#75:1> Recently, as we have seen, they have been forced to admit that
+
+<quote> I can't</quote> does not provide an identifying mark of the
+
+evaluative, but accounts for a variety of <quote> " mysterious</quote>
+
+connections.</p>
+
+<p> <ICE-USA:W2A-010#76:1> Let us play a simple version of the game.
+<ICE-USA:W2A-010#77:1> Imagine two coffee mugs exactly alike in all respects except one.
+<ICE-USA:W2A-010#78:1> Which properties can one do this with, and which can't one do this
+
+with<ICE-USA:W2A-010#>Initially one might provide these lists of <quote> " <it> CANS </it>
+
+</quote> and <quote> <it> CAN'TS </it> </quote>:</p>
+
+<p> <ICE-USA:W2A-010#79:1> <it> CAN</it> owned by Queen Elizabeth II yellow holding coffee
+
+now</#>
+
+<p> <ICE-USA:W2A-010#80:1> <it> CAN'T </it> delicate holds twelve ounces shaped like a
+
+duck<ICE-USA:W2A-010#></p>
+
+<p> <ICE-USA:W2A-010#81:1> Writers who rely on supervenience to explain in the <quote>
+
+mysterious</quote> relation that seems to exist between some properties
+
+assume that everyone 's intuitions will match and that they will thus be able
+
+to play this game without hesitation or doubt.
+<ICE-USA:W2A-010#82:1> But I find myself very quickly in a quandary.
+<ICE-USA:W2A-010#83:1> Where would <quote> is cylindrical</quote> go<ICE-USA:W2A-010#>On the one hand it
+
+seems a <it> can </it> - - for one might at first think it possible to
+
+imagine two coffee mugs of the same capacity, color, material, height, one
+
+cylindrical, the other cubical.
+<ICE-USA:W2A-010#84:1> But wait: if the mugs have the same capacity then they must either
+
+have different heights or different base widths.
+<ICE-USA:W2A-010#85:1> So <quote> is cylindrical</quote> must be a <it> can't </it> .
+<ICE-USA:W2A-010#86:1> Or, in some ways, it 's a <it> can </it> , in some ways a <it> can't
+
+</it> .
+<ICE-USA:W2A-010#87:1> The <it> cans </it> on the above list ( owned by Elizabeth II, etc.)
+
+do seem right to me, but the <it> can'ts </it> begin to waver.
+<ICE-USA:W2A-010#88:1> If delicacy is a physical property, then it seems a <it> can't </it>
+
+, but if it is a visual property, I <it> can </it> easily imagine two mugs
+
+identical in all respects except that one is delicate according to Dick but
+
+not according to Jane.
+<ICE-USA:W2A-010#89:1> Suppose the mugs are lead-based ceramic.
+<ICE-USA:W2A-010#90:1> Given different constitutions and susceptibilities, as Dick and Jane
+
+drink out of the mugs identical in all respects, Dick might find his mug
+
+poisonous, Jane might find hers nonpoisonous.</p>
+
+<p> <ICE-USA:W2A-010#91:1> Being poisonous, of course, like being to the left of or shorter
+
+than, is a relative predicate ( not in the sense of being non-cognitive, but
+
+in the sense of requiring two names or descriptions to fill out the
+
+predicate).
+<ICE-USA:W2A-010#92:1> So are many aesthetic properties, and thus supervenience fails to
+
+help explain anything special about aesthetic proof or rational
+
+justification.
+<ICE-USA:W2A-010#93:1> Just as we saw that it is not clear what counts as F(A) and what
+
+counts as G*(N), it is not clear how one is to interpret <quote> in all
+
+respects</quote> in the test.
+<ICE-USA:W2A-010#94:1> Does it or does it not include what Blackburn calls <quote>
+
+relational truths"<ICE-USA:W2A-010#>The intuition behind supervenience is that when all
+
+base properties remain stable, the supervening properties must remain stable.
+<ICE-USA:W2A-010#95:1> All aesthetic attributions must remain stable if the underlying
+
+non-aesthetic attributions remain stable.
+<ICE-USA:W2A-010#96:1> But if relational truths ( " made in the sixteenth century,</quote>
+
+or <quote> seen by Jane,</quote> for instance) are included in the base,
+
+the test for supervenience breaks down-- and we are no longer in possession
+
+of a helpful tool.
+<ICE-USA:W2A-010#97:1> Two objects particle-for-particle identical with one another viewed
+
+by two persons particle-for-particle identical with one another viewed ( or
+
+one person particle-for-particle self-identical on different occasions) in
+
+two cultures particle-for-particle identical will be given the same aesthetic
+
+attribution.
+<ICE-USA:W2A-010#98:1> This tells us nothing special about <it> aesthetic </it>
+
+attributions.
+<ICE-USA:W2A-010#99:1> It certainly does not distinguish them from perceptual, mental,
+
+moral, scientific, religious, economic, or political attributions, nor tell
+
+us how proof or rational justification can be carried out in the esthetic
+
+realm if we thought there was a special problem there ( one that did not
+
+exist, for example, in the scientific realm).</p> </I>

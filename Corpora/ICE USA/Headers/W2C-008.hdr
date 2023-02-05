@@ -1,0 +1,125 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2C-008</textcode>
+          <number of subtexts>4</number of subtexts>
+          <category>written: printed: reportage: press news</category>
+          <wordcount>2110</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ALL>
+          <source.type=newspaper>
+               <source.title>Bozeman Daily Chronicle</source.title>
+          <publication statement>
+               <publisher>Copyright 2001 Bozeman Daily Chronicle</publisher>
+               <address> </address>
+               <place> </place>
+               <date>6/21/2001</date>
+          </publication statement>
+          <copyright.statement>used with permission of Bozeman Daily Chronicle</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+</text.info>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-008>
+          <subtext.name></subtext.name>
+               <main.title>Bucks Fall 5-1 to Scarlets/main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-008>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Castleberry</surname>
+               <forenames>Tony</forenames>
+               <age> </age>
+               <gender> </gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-008>
+          <subtext.name></subtext.name>
+               <main.title>School Vandal Sentenced to Day in Jail</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-008>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>O'Toole</surname>
+               <forenames>Kathleen</forenames>
+               <age> </age>
+               <gender>Female</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-008>
+          <subtext.name></subtext.name>
+               <main.title>RightNow expanding into Japan</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-008>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Mendenhall</surname>
+               <forenames>Kayley</forenames>
+               <age> </age>
+               <gender> </gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-008>
+          <subtext.name></subtext.name>
+               <main.title>Locomotive Power Plans Still on Track</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-008>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Lutey</surname>
+               <forenames>Tom</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,73 @@
+<text.info>
+
+<file.description>
+
+    <textcode>ICE-USA-W1B-001</textcode>
+
+    <number.of.subtexts>1</number.of.subtexts>
+
+    <category>Written: Non-Printed: Letters: Social Letters</category>
+
+    <wordcount>2000</wordcount>
+
+    <version>coded, edited, essential mark-up</version>
+
+    <free.comments></free.comments>
+
+</file.description>
+
+<subtext.source= ICE-USA-W1B-001>
+
+    <source.type=Social Letters>
+
+        <format>printed</format>
+
+        <date>Februrary, 1990</date>
+
+    <copyright.statement>With permission of the author</copyright.statement>
+
+    <free.comments> 
+
+</free.comments>
+
+    </source.type>
+
+</subtext.source>
+
+<biography= ICE-USA-W1B-001>
+
+    <speaker.id></speaker.id>
+
+    <communicative.role>Author </communicative.role>
+
+        <surname>Crouch</surname>
+
+        <forenames>Catherine</forenames>
+
+        <age>27</age>
+
+        <gender>female</gender>
+
+        <nationality>American</nationality>
+
+        <ethnicity></ethnicity>
+
+        <birthplace>NY, NY </birthplace>
+
+        <education></education>
+
+        <education.level>PhD in Physics </education.level>
+
+        <occupation></occupation>
+
+        <affiliations></affiliations>
+
+        <mother.tongue></mother.tongue>
+
+        <other.languages></other.languages>
+
+    <free.comments> </free.comments>
+
+</biography>
+
+</text.info> 

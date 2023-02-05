@@ -1,0 +1,398 @@
+<I>
+<ICE-USA:W2B-039#1:1> <h> The New Bionic Man Has Plastic Muscles And Silicon Senses</h>
+<ICE-USA:W2B-039#2:1> <h> Plastic muscles and silicon senses blur the line between man and
+
+machine.</h>
+
+<p> <ICE-USA:W2B-039#3:1> In a cluttered lab at the University of New Mexico, a replica of a
+
+human skeleton slowlyvery slowlypedals an exercise bicycle.
+<ICE-USA:W2B-039#4:1> This is no parlor trick. </p>
+
+<p> <ICE-USA:W2B-039#5:1> Myster Bony, as he 's called, is moving the pedals with artificial
+
+muscles powered by a battery. </p>
+
+<p> <ICE-USA:W2B-039#6:1> It 's been 40 years since Swedish engineer Arne Larsson received
+
+the first fully implanted cardiac pacemaker at the Karolinska Institute in
+
+Stockholm.
+<ICE-USA:W2B-039#7:1> Since then, researchers throughout the world have looked for ways to
+
+improve people 's lives with artificial, bionic devices.
+<ICE-USA:W2B-039#8:1>
+
+<p> <ICE-USA:W2B-039#9:1>
+
+<p> <ICE-USA:W2B-039#10:1> Their efforts have produced smaller and smaller pacemakers,
+
+devices that help deaf children hear and implantable pumps that carry the
+
+load for diseased hearts until suitable human transplants can be found. </p>
+
+<p> <ICE-USA:W2B-039#11:1> As for the future, it looks decidedly more natural than the
+
+cyborg technology envisioned at the dawn of the bionic age.
+<ICE-USA:W2B-039#12:1> Take Myster Bony.
+<ICE-USA:W2B-039#13:1> His muscles are made of materials called ionic polymer metal
+
+composites ( IPMCs) that respond to electricity with elasticity and
+
+responsiveness similar to those shown by human muscles.
+<ICE-USA:W2B-039#14:1> The materials were developed by a team led by Mohsen Shahinpoor,
+
+director of the Artificial Muscle Research Institute ( AMRI) at the
+
+University of New Mexico ( UNM). </p>
+
+<p> <ICE-USA:W2B-039#15:1> Strips of these composites can bend and flap dramatically when an
+
+electric current is applied.
+<ICE-USA:W2B-039#16:1> In this sense they are large-motion actuatorsthey can move and exert
+
+force.
+<ICE-USA:W2B-039#17:1> Conversely, when a strip is bent, voltage is produced across its
+
+thickness, allowing the strip to behave like a sensor that can determine a
+
+given level of force and motion.
+<ICE-USA:W2B-039#18:1> These two abilitiesto move and to provide feedback drive Myster
+
+Bony on his exercise bicycle.
+<ICE-USA:W2B-039#19:1> All it takes is a power supply. </p>
+
+<p> <ICE-USA:W2B-039#20:1> Another type of artificial muscle being developed at AMRI is made
+
+of a synthetic fiber that has been baked and boiled in a chemical solution.
+<ICE-USA:W2B-039#21:1> The treatment imparts strength and gives the fabric elasticity that
+
+varies in the presence of an electric current.
+<ICE-USA:W2B-039#22:1> The result: materials that can expand and contract just like living
+
+tissue. </p>
+
+<p> <ICE-USA:W2B-039#23:1> Researchers envision a synthetic muscle that could translate
+
+electrical impulses from the nervous system into motion.
+<ICE-USA:W2B-039#24:1> However, that goal is still a long way off.
+<ICE-USA:W2B-039#25:1> In the short term, Shahinpoor believes artificial muscles could be
+
+used to boost the strength of ailing hearts, eliminating some heart
+
+transplants.
+<ICE-USA:W2B-039#26:1> He also imagines exoskeletons for disabled patients or astronauts,
+
+artificial larynxes, and sensors for diagnosing spinal-cord injuries.
+<ICE-USA:W2B-039#27:1> Eventually, his synthetic muscles could be attached to artificial
+
+tendons, which recently have been approved by the Food and Drug
+
+Administration for use in human patients. </p>
+<ICE-USA:W2B-039#28:1> <h> <bold> A Real Bionic Arm</bold></h>
+
+<p> <ICE-USA:W2B-039#29:1> Artificial muscles aren't the only electromechanical tools being
+
+developed to facilitate human movement.
+<ICE-USA:W2B-039#30:1> This past summer, Campbell Aird, a hotel owner in Scotland, received
+
+a bionic arm that had been developed by the Prosthetics Research and
+
+Development Team at Princess Margaret Rose Orthopedic Hospital in Edinburgh.
+<ICE-USA:W2B-039#31:1> The arm uses electronics for control and power.
+<ICE-USA:W2B-039#32:1> Known as EMAS ( Edinburgh Modular Arm System), the arm is equipped
+
+with battery-powered motors and epicyclical gearboxes.
+<ICE-USA:W2B-039#33:1> It replaced the prosthetic limb Aird had worn since his own right arm
+
+was amputated 16 years ago as a result of cancer. </p>
+
+<p> <ICE-USA:W2B-039#34:1> The motors in Aird 's arm are mounted inside lightweight, rigid
+
+tubes of carbon fiber.
+<ICE-USA:W2B-039#35:1> The gearboxes are connected to a worm-and-wheel assembly that
+
+converts the mechanical power of the gearbox into rotary motion.
+<ICE-USA:W2B-039#36:1> The smallest motors and gearboxes power fingers and the thumb, while
+
+larger motors power the wrist, elbow and shoulder.
+<ICE-USA:W2B-039#37:1> The arm is covered with lifelike silicone rubber. </p>
+
+<p> <ICE-USA:W2B-039#38:1> David Gow, head of the team that developed the device, says EMAS
+
+was the first prosthesis to have a fully powered electrical shoulder.
+<ICE-USA:W2B-039#39:1> In previous artificial arms, power had been limited to wrists, elbows
+
+and hands.
+<ICE-USA:W2B-039#40:1> The arm is powered by rechargeable 12-volt batteries. </p>
+
+<p> <ICE-USA:W2B-039#41:1> Modern prostheses like Aird 's new arm have a wider range of
+
+motion than ever before and look more like the limbs they're replac 're.
+<ICE-USA:W2B-039#42:1> Take the case of 10-year-old Melissa Del Pozzo.
+<ICE-USA:W2B-039#43:1> Melissa was born without a left hand and lower forearm.
+<ICE-USA:W2B-039#44:1> Recently, in tests at Rutgers University in New Jersey, she was able
+
+to make electrical traces on a computer screen by moving either a tendon or a
+
+muscle that would have been used to flex her thumb, if she had one.
+<ICE-USA:W2B-039#45:1> A sensor attached to the skin just below Melissa 's elbow detected the
+
+slight movements and relayed them to the computer screen. </p>
+
+<p> <ICE-USA:W2B-039#46:1> Melissa will soon be outfitted with what just may be the first
+
+dexterous prosthesis.
+<ICE-USA:W2B-039#47:1> To fit her with a hand and control apparatus, researchers at Rutgers'
+
+department of biomedical engineering, in Piscataway, N. J., will fashion a
+
+silicone sleeve equipped with pressure sensors inside.
+<ICE-USA:W2B-039#48:1> On top of the sleeve will sit a hard plastic socket that serves as an
+
+exoskeleton on which to anchor the hand.
+<ICE-USA:W2B-039#49:1> The hand itself is a commercial wooden product used on other
+
+prostheses.
+<ICE-USA:W2B-039#50:1> It is fitted with electromagnets that move each of three fingers
+
+separately.
+<ICE-USA:W2B-039#51:1> When a tendon moves, the sensor, which consists of a small diaphragm,
+
+emits a puff of air that travels through a tube to a transducer.
+<ICE-USA:W2B-039#52:1> In turn, the transducer senses the pressure and transmits a precise
+
+electric signal to the artificial hand. </p>
+
+<p> <ICE-USA:W2B-039#53:1> William Craelius, the principal researcher and an associate
+
+professor of biomedical engineering at Rutgers, decided to focus on a
+
+tendon-actuated system because previous teams had found it difficult to
+
+isolate the muscle groups that can move individual fingers.
+<ICE-USA:W2B-039#54:1> Eventually, the dexterous prosthesis may allow amputees to do such
+
+previously impossible tasks as playing musical instruments and typing. </p>
+<ICE-USA:W2B-039#55:1> <h> Powering And Control</h>
+
+<p> <ICE-USA:W2B-039#56:1> Providing power to run bionic implants and making connections to
+
+the brain 's control system pose the two great challenges for biomedical
+
+engineering. </p>
+
+<p> <ICE-USA:W2B-039#57:1> In the mid-1970s, Medronics, a leading medical engineering firm,
+
+was trying to develop a nuclear-powered heart pacemaker.
+<ICE-USA:W2B-039#58:1> About the same time, engineers at Drexel University in Philadelphia
+
+maintained a dog 's heartbeat using pacemakers with a fuel cell that ran on
+
+the electricity generated by chemical reactions between the dog 's body and a
+
+block of aluminum.
+<ICE-USA:W2B-039#59:1> Neither alternative energy source proved practical.
+<ICE-USA:W2B-039#60:1> For now, and perhaps decades to come, batteries of all shapes and
+
+sizes will figure large in the future of bionics. </p>
+
+<p> <ICE-USA:W2B-039#61:1> As for controlling movement, the ultimate goal is to tap into the
+
+nervous system.
+<ICE-USA:W2B-039#62:1> Researchers at the University of Michigan ( UM) Center for Neural
+
+Communication Technology are attempting to do just that.
+<ICE-USA:W2B-039#63:1> Here, they've de 'veoped probes so precise they can stimulate or
+
+detect signals from individual nerve cells.
+<ICE-USA:W2B-039#64:1> The probes ( right) are only about the size of the date stamped on a
+
+penny. </p>
+
+<p> <ICE-USA:W2B-039#65:1> The probes are made of precisely etched silicon substrates
+
+covered with thin conductive films, and insulated above and below.
+<ICE-USA:W2B-039#66:1> The upper surface is patterned using a dry etching process.
+<ICE-USA:W2B-039#67:1> Tiny openings on the upper surface of the probe shank are inlaid with
+
+gold or iridium, which are compatible with nerve tissue.
+<ICE-USA:W2B-039#68:1> These are the spots where man melds with machine. </p>
+
+<p> <ICE-USA:W2B-039#69:1> With sponsorship from the National Institutes of Health 's Neural
+
+Prosthesis Program, the number of probe designs has grown and UM has provided
+
+more than 1000 devices to investigators. </p>
+<ICE-USA:W2B-039#70:1> <h> <bold> Bionic Eyes</bold></h>
+
+<p> <ICE-USA:W2B-039#71:1> One of the most dramatic applications of bionics is the creation
+
+of artificial eyes.
+<ICE-USA:W2B-039#72:1> Artificial retinas, in particular, are showing great promise.
+<ICE-USA:W2B-039#73:1> Researchers have long known that damaged photoreceptors in the eye
+
+could be bypassed ( see diagram on page 55).
+<ICE-USA:W2B-039#74:1> A device that stimulated the retinal ganglion cellsconnected to the
+
+optic nervecould transmit visual information to the brain.
+<ICE-USA:W2B-039#75:1> Now, a new technology promises to replace the retina, allowing the
+
+blind to see. </p>
+
+<p> <ICE-USA:W2B-039#76:1> Working jointly, researchers at North Carolina State University,
+
+the University of North Carolina and Johns Hopkins University have created
+
+the implantable Artificial Retina Component Chip ( ARCC).
+<ICE-USA:W2B-039#77:1> The ARCC consists of a silicon microchip embedded with photosensor
+
+cells and electrodes.
+<ICE-USA:W2B-039#78:1> It would be implanted near the vision center of the retina.
+<ICE-USA:W2B-039#79:1> Light and images entering the pupil would pass through the ARCC 's
+
+front surface and strike photosensors on the back of the chip.
+<ICE-USA:W2B-039#80:1> The photosensor array would convert the image pattern of light and
+
+dark into electric impulses, much as a healthy eye 's rods and cones do.
+<ICE-USA:W2B-039#81:1> The impulses would stimulate nerves behind the retina, sending the
+
+information to the brain. </p>
+
+<p> <ICE-USA:W2B-039#82:1> The device is not expected to produce full, clear vision.
+<ICE-USA:W2B-039#83:1> Instead, it would allow the patient to perceive basic shapes, the
+
+direction of movements, and the boundaries between contrasting objects. </p>
+<ICE-USA:W2B-039#84:1> <h> <bold> Bionic Sounds</bold></h>
+
+<p> <ICE-USA:W2B-039#85:1> Cochlear transplant research has been around since the 1950s.
+<ICE-USA:W2B-039#86:1> In essence, cochlear implants provide electrical stimulation of the
+
+auditory nerve.
+<ICE-USA:W2B-039#87:1> The implant sends sound waves into the auditory pathway after
+
+converting them into electrical energy.
+<ICE-USA:W2B-039#88:1> Today, in addition to numerous research institutions developing
+
+bionic hearing devices, several companies are already selling commercial
+
+products.
+<ICE-USA:W2B-039#89:1> Although there are differences in each product, they all work
+
+essentially the same way. </p>
+
+<p> <ICE-USA:W2B-039#90:1> Even in the profoundly deaf, at least one-third of the 30,000
+
+fibers that stimulate the auditory nerve survive and are responsive, capable
+
+of transmitting to the brain 's hearing center.
+<ICE-USA:W2B-039#91:1> Signals to this center are triggered by the cochlear implant. </p>
+
+<p> <ICE-USA:W2B-039#92:1> Unlike hearing aids, which amplify sound, the cochlear implantor
+
+bionic eartrades in electricity.
+<ICE-USA:W2B-039#93:1> Surgeons implant the device in the mastoid bone and inner ear through
+
+an incision behind the ear.
+<ICE-USA:W2B-039#94:1> A small speech processor converts sound, picked up by an external
+
+mike, into an electrical signal.
+<ICE-USA:W2B-039#95:1> The signal is fed through the transmitter coil to the implanted
+
+receiver.
+<ICE-USA:W2B-039#96:1> Electrodes in the inner ear bypass the damaged area of the ear and
+
+create a nerve impulse that stimulates the auditory cortex of the brain. </p>
+
+<p> <ICE-USA:W2B-039#97:1> Artificial cochleas will not benefit all deaf people.
+<ICE-USA:W2B-039#98:1> Adults who have never heard are not suitable candidates, doctors say,
+
+because the auditory part of their brains will not respond to the stimuli.
+
+</p>
+
+<p> <ICE-USA:W2B-039#99:1> In an entirely different approach, Jonathan Spindel, a biomedical
+
+engineer and assistant professor at the University of Virginia 's department
+
+of otolaryngology, is developing an implanted " invisible" magnetic hearing
+
+aid.
+<ICE-USA:W2B-039#100:1> " Our tests to date have shown that the signals produced with our
+
+magnetic hearing device are very nearly those of natural acoustic sound,"
+
+says Spindel. </p>
+
+<p> <ICE-USA:W2B-039#101:1> In this approach, the device captures sounds with a miniature
+
+microphone implanted in the ear.
+<ICE-USA:W2B-039#102:1> After passing through a small processing unit and an electromagnetic
+
+coil, both also implanted, amplified vibrations would be sent to the inner
+
+ear via a tiny magnet attached to the inner ear 's round window, a thin
+
+membrane at one end of the cochlea.
+<ICE-USA:W2B-039#103:1> The magnet, about as large as a pencil point, would send vibrations
+
+through the cochlea, stimulating the thousands of hair cells used in normal
+
+hearing. </p>
+
+<p> <ICE-USA:W2B-039#104:1> Spindel says an advantage of his approach is that the device
+
+doesn't obstruct the normal hearing process.
+<ICE-USA:W2B-039#105:1> " Establishing a second independent input pathway to the inner ear
+
+opens the possibility for using the normal acoustic pathway and round window
+
+electromagnet simultaneously to establish constructive and destructive sound
+
+patterns in the inner ear. " </p>
+
+<p> <ICE-USA:W2B-039#106:1> Also, since the new hearing device uses magnetic rather than
+
+acoustic vibrations, feedbacka common problem in conventional hearing
+
+aidsis eliminated. </p>
+<ICE-USA:W2B-039#107:1> <h> <bold> Senses And Sensibilities</bold></h>
+
+<p> <ICE-USA:W2B-039#108:1> Unlike sight and hearing, scientists know little about the human
+
+senses of smell and taste.
+<ICE-USA:W2B-039#109:1> Nevertheless, they have been able to re-create these abilities.
+<ICE-USA:W2B-039#110:1> They try to mimic human noses by using sensors that can detect a
+
+variety of volatile compounds. </p>
+
+<p> <ICE-USA:W2B-039#111:1> For example, at the Oak Ridge National Laboratories ( ORNL), in
+
+Oak Ridge, Tenn., a " nose on a chip" is proving able to sniff out mercury,
+
+carbon monoxide and other chemicals.
+<ICE-USA:W2B-039#112:1> It consists of an array of minuscule sensors on one integrated
+
+circuit, with the electronics on a separate one.
+<ICE-USA:W2B-039#113:1> By selectively coating the arrays with different chemicals,
+
+researchers can customize the chip to detect virtually any odor. </p>
+
+<p> <ICE-USA:W2B-039#114:1> At the University of Texas ( UT) in Austin, researchers have
+
+developed an electronic tongue that mimics the human ability to detect sweet,
+
+sour, salty and bitter tastes.
+<ICE-USA:W2B-039#115:1> To do this, the team attached four different chemical sensors to
+
+tiny beads made of polyethylene glycol and polystyrene.
+<ICE-USA:W2B-039#116:1> The beads were then positioned in micromachined wells on a silicon
+
+wafer.
+<ICE-USA:W2B-039#117:1> The sensors represent various combinations of the four different
+
+taste elements with combinations of the colors red, green and blue.
+<ICE-USA:W2B-039#118:1> For example, when exposed to an acidic " taste" one sensor turns
+
+yellow.
+<ICE-USA:W2B-039#119:1> It becomes purple when a basic mixture is sensed. </p> </I>

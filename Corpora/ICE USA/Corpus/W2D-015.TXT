@@ -1,0 +1,346 @@
+<I>
+<ICE-USA:W2D-015#1:1> <h> HOW TO FLY RC HELICOPTERS - -
+<ICE-USA:W2D-015#2:1> PRE FLIGHT INSTRUCTION</h>
+
+<p> General size rule here is to stick with a heli with a rotor diameter of
+
+no less than 600mm - anything smaller than that is very difficult to control
+
+and next to impossible to learn on.
+<ICE-USA:W2D-015#3:1> Don't try to learn on a hobby grade micro electric - - they are just
+
+too sensitive and fragile; especially ones with electric tail rotor motors (
+
+as you know by know, I despise electric tail rotors on hobby grade machines).
+<ICE-USA:W2D-015#4:1> A 400 size electric is pretty much the smallest you want to go
+
+with.</p>
+
+<p> <ICE-USA:W2D-015#5:1> Other than size, your helicopter should have collective pitch and
+
+not be fixed pitch.
+<ICE-USA:W2D-015#6:1> As you know by now, I believe strongly if you get into hobby grade RC
+
+helicopters, you should start out with a larger good quality kit that has
+
+collective pitch.
+<ICE-USA:W2D-015#7:1> After all, this hobby is expensive enough, and you don't want to have
+
+to go out and purchase a new helicopter in a few weeks or spend a few hundred
+
+dollars on upgrades after you learn how to hover. </p>
+
+<p> <ICE-USA:W2D-015#8:1> Spending a little more money now, will save you lots of money in
+
+the long run - - purchase a RC heli that you can grow with.
+<ICE-USA:W2D-015#9:1> This means your helicopter will have the potential to perform light to
+
+aggressive aerobatics when set up to do so.
+<ICE-USA:W2D-015#10:1> When you are learning to fly RC helicopters however, you want to set
+
+your heli up as a RC helicopter trainer. </p>
+
+<p> <ICE-USA:W2D-015#11:1> This is accomplished by reducing the collective, throttle range,
+
+and cyclic pitch settings so the helicopter is less sensitive and doesn't
+
+have the large control range that could get you into trouble very quickly.
+
+</p>
+
+<p> <ICE-USA:W2D-015#12:1> I have actually written an e-book that goes into great detail of
+
+what settings make this possible, how to do it, and why.
+<ICE-USA:W2D-015#13:1> The examples are given on a Blade 400 RC heli, but can be applied to
+
+larger and different machines as I explain in the e-book. </p>
+
+<p> <ICE-USA:W2D-015#14:1> How important is correct setup?
+<ICE-USA:W2D-015#15:1> It the single most important aspect of learning how to fly any
+
+collective pitch RC helicopter in my opinion.
+<ICE-USA:W2D-015#16:1> Here are some general values to get you started, my e-Book goes into
+
+much more detail... </p>
+
+<p> <ICE-USA:W2D-015#17:1> Set your low stick collective pitch in the plus 1 to 2 degree
+
+range - this will give softer landings, and minimize the chance of auguring
+
+your RC heli into the ground.
+<ICE-USA:W2D-015#18:1> Set half stick collective pitch to around + 4.5 to +5 degrees - - a
+
+nice mid range pitch to hover at for most RC helicopters.
+<ICE-USA:W2D-015#19:1> Set your high collective pitch to about +6 to +7 degrees - this will
+
+ensure you can't accidentally rocket 30 feet into the air in the blink of an
+
+eye.
+<ICE-USA:W2D-015#20:1> There are no pitch angles for this because the pitch angles keep
+
+changing depending on your collective angle.
+<ICE-USA:W2D-015#21:1> The easiest way is to set your cyclic commands to about half of their
+
+full movement range.
+<ICE-USA:W2D-015#22:1> Look at the swashplate when it is set at the normal range of
+
+movement.
+<ICE-USA:W2D-015#23:1> Set this movement to about half or 50&percent; of normal travel. </p>
+
+<p> <ICE-USA:W2D-015#24:1> Most people will use the dual rate function on their radio for
+
+this.
+<ICE-USA:W2D-015#25:1> You might find you even want to decrease the movement even more - -
+
+up to 75&percent; less cyclic movement depending on your specific helicopter.
+<ICE-USA:W2D-015#26:1> Start out with half and on day 3 or 4 of your lessons, you might want
+
+to reduce cyclic travel even more if you find your bird too sensitive. </p>
+
+<p> <ICE-USA:W2D-015#27:1> You should also have your flybar weights set quite far out on
+
+your fly bars to help make the cyclic control a little less responsive.
+<ICE-USA:W2D-015#28:1> Weights further out on the flybars will also help reduce the effects
+
+of wind gusts on your RC chopper. </p>
+
+<p> <ICE-USA:W2D-015#29:1> This is very dependent on the helicopter kit and the gyro used.
+<ICE-USA:W2D-015#30:1> Set tail rotor movement range as per the manufactures instructions.
+<ICE-USA:W2D-015#31:1> Your gyro gain setting will dictate how sensitive your tail rotor
+
+control is.
+<ICE-USA:W2D-015#32:1> More on this in the gyro setup below.
+<ICE-USA:W2D-015#33:1> If your radio has a dual rate switch for the tail rotor - a 50&percent;
+
+setting is usually a good starting point for most setups. </p>
+
+<p> <ICE-USA:W2D-015#34:1> Before computerized programmable radios, we had to do this with
+
+tricky servo and throttle arm geometry angles to produce a large amount of
+
+throttle movement in the first half of stick movement and a fairly small
+
+amount of throttle movement during the upper half of stick movement.
+<ICE-USA:W2D-015#35:1> Today things are much easier with programmable throttle/pitch curves.
+<ICE-USA:W2D-015#36:1> This holds true for electric RC helicopters as well, as you will have
+
+to program the pitch curve and throttle curve to give the correct amount of
+
+power during half stick hover.
+<ICE-USA:W2D-015#37:1> This is explained during day 2 dynamic engine adjustments. </p>
+
+<p> <ICE-USA:W2D-015#38:1> No matter what power option you use, make sure you set it up so
+
+you can turn the engine/motor completely off with your throttle trim in the
+
+low position.
+<ICE-USA:W2D-015#39:1> Most electric speed controllers simply won't arm ( power up) if the
+
+throttle trim is not set low enough when first turned on.
+<ICE-USA:W2D-015#40:1> If you are not 100&percent; familiar with your RC Radio, now is the time to
+
+re-read the instructions that came with it.
+<ICE-USA:W2D-015#41:1> Computerized radios are somewhat complicated and it can take some
+
+time to get everything programmed and sorted out correctly. </p>
+
+<p> <ICE-USA:W2D-015#42:1> Ensure all servos are moving in the correct direction and
+
+interacting correctly with your servo reversing switches or swashplate setup
+
+programming.
+<ICE-USA:W2D-015#43:1> For example, if you give a forward cyclic command; make sure your
+
+swash plate tilts forward and not backwards or side ways.
+<ICE-USA:W2D-015#44:1> Likewise for left and right cyclic when viewing the swash plate from
+
+behind the helicopter - - left stick movement makes the swash plate tilt left
+
+and a right command tilts it to the right.
+<ICE-USA:W2D-015#45:1> An increase in your throttle stick should show an increase in both
+
+your collective pitch and in your engine/motor speed. </p>
+
+<p> <ICE-USA:W2D-015#46:1> The instructions that come with the heli kit should indicate what
+
+direction your servo arm moves when given a left or right command.
+<ICE-USA:W2D-015#47:1> Seeing that tail rotor servo placement, main rotor and tail rotor
+
+rotational direction, and if the tail rotor is on the left or right side of
+
+the tail boom all play a roll in determining direction, there are many
+
+different set up possibilities.
+<ICE-USA:W2D-015#48:1> The easiest way to confirm if you have things set up correctly is to
+
+make sure if you give a right tail rotor command, you see the pitch of the
+
+tail rotor change so it blows or thrusts the tail boom to the left ( nose of
+
+the helicopter turns right) and vice-versa for a left command. </p>
+
+<p> <ICE-USA:W2D-015#49:1> There are two things you want to confirm with your gyro set up.
+<ICE-USA:W2D-015#50:1> First off, is it correcting the tail rotor in proper direction?
+<ICE-USA:W2D-015#51:1> If you hold your helicopter by the rotor head and swing the nose to
+
+the right ( rotating your helicopter clockwise), you should see the tail
+
+rotor servo move to give a left tail rotor command just as if you were giving
+
+a left stick command; vice versa for a sudden left ( counter clockwise)
+
+helicopter yaw movement.
+<ICE-USA:W2D-015#52:1> If the movements are opposite of what they should be, simply use the
+
+gyro reverse switch to change the direction of correction and re-test. </p>
+
+<p> <ICE-USA:W2D-015#53:1> The next gyro function you want to set is the amount of " Gain"
+
+or how sensitive the gyro is.
+<ICE-USA:W2D-015#54:1> Most RC helicopter kits and gyro instructions will have starting
+
+point recommendations and you should follow those.
+<ICE-USA:W2D-015#55:1> As a general rule, I usually set the gain to about 55-65&percent; as a good
+
+starting point ( but it depends on the gyro/heli combination).
+<ICE-USA:W2D-015#56:1> If you have a remote gain feature with your gyro ( the ability to
+
+change the sensitivity of the gyro from your radio) you could set one value
+
+at 55&percent; and the other at 65&percent; for example and see which preforms best by the
+
+simple flick of a toggle switch. </p>
+
+<p> <ICE-USA:W2D-015#57:1> You most likely have already done this if you followed your
+
+helicopter building instructions, but now is a good time to recheck the
+
+center of gravity or " CG" for short.
+<ICE-USA:W2D-015#58:1> The CG is simply the balance point of the helicopter.
+<ICE-USA:W2D-015#59:1> You will always want your CG at or a little forward of the main rotor
+
+mast.
+<ICE-USA:W2D-015#60:1> How do you check it?
+<ICE-USA:W2D-015#61:1> Simply hold your helicopter by the flybar so the helicopter can pivot
+
+forward and backwards.
+<ICE-USA:W2D-015#62:1> If your helicopter is level or tilts a bit forward that is perfect.
+<ICE-USA:W2D-015#63:1> If it tilts backwards, that is the last thing you want when learning.
+<ICE-USA:W2D-015#64:1> Move your receiver battery pack a bit closer to the nose of the
+
+helicopter and recheck. </p>
+
+<p> <ICE-USA:W2D-015#65:1> If you have an electric RC heli, you can move your main battery
+
+pack a little more forward or backward to get the CG in the sweet spot.
+<ICE-USA:W2D-015#66:1> It is generally common practice to check your CG if you have a fuel
+
+powered model with the fuel tank half full and adjust with the receiver
+
+battery pack as required. </p>
+
+<p> <ICE-USA:W2D-015#67:1> All RC helicopter rotor blades ( main and tail) are held onto the
+
+blade grips with a single bolt and lock nut.
+<ICE-USA:W2D-015#68:1> The tightness of this bolt and nut are very important and I have seen
+
+many people ( newbies and seasoned fliers alike) under or over tighten them -
+
+I was guilty of this for years myself. </p>
+
+<p> <ICE-USA:W2D-015#69:1> There are several methods to check if you have your rotor blades
+
+tightened the correct amount - this is the method I like the best.
+<ICE-USA:W2D-015#70:1> For your main rotor blades, simply hold your helicopter sideways to
+
+the ground with the main rotor blades out straight from the blade holders,
+
+horizontal to the ground.
+<ICE-USA:W2D-015#71:1> The bolts should be tight enough so the blades don't pivot in the
+
+blade holders downwards by the pull of gravity but they should be loose
+
+enough to move if you shake your heli up and down. </p>
+
+<p> <ICE-USA:W2D-015#72:1> Now, I should mention as the birds get larger, you have to
+
+tighten the blade bolts more as the blades have much more mass.
+<ICE-USA:W2D-015#73:1> Once over 700mm blade size ( not rotor diameter), blade bolt torque
+
+is so important and on big blades like these, you generally have to tighten
+
+the bolts so tight, the blades won't move when the heli is held sideways and
+
+shaken.
+<ICE-USA:W2D-015#74:1> If large blades like this are too loose, they will lag during spool
+
+up or down.
+<ICE-USA:W2D-015#75:1> Depending on both mass of the blade and the amount of lag, this lag
+
+could shake your bird apart due to the effects of ground resonance and an out
+
+of balance head caused by blade lead/lag. </p>
+
+<p> <ICE-USA:W2D-015#76:1> Here is a pretty good video I found of ground resonance on a full
+
+size Chinook helicopter.
+<ICE-USA:W2D-015#77:1> Our RC birds will shake faster during ground resonance since the
+
+rotor speeds are higher but they shake the exact same way ( don't ask how I
+
+learned this).
+<ICE-USA:W2D-015#78:1> Tail rotor blade bolt adjustment is very much the same.
+<ICE-USA:W2D-015#79:1> They should be tightened just enough to prevent the tail rotor blades
+
+from pivoting down in the blade holder due to the pull of gravity on them.
+<ICE-USA:W2D-015#80:1> Same on large or small birds since tail rotor mass is always very
+
+low. </p>
+
+<p> <ICE-USA:W2D-015#81:1> As I have indicated several times in this web site, RC
+
+helicopters are potentially the most dangerous of all RC vehicles.
+<ICE-USA:W2D-015#82:1> When you are first learning how to fly RC helicopters, specifically
+
+learning how to hover, the danger is not as great as it is be when you are
+
+starting to fly around.
+<ICE-USA:W2D-015#83:1> After all, the heli will ( hopefully) be staying in one fixed
+
+location close to the ground more or less.
+<ICE-USA:W2D-015#84:1> The reason you want to think a bit about safety right now on day 1 is
+
+to determine where you will be going for your first hover attempts during
+
+days 3 and 4.
+<ICE-USA:W2D-015#85:1> The last thing you want is a location with many people around.
+<ICE-USA:W2D-015#86:1> This is not only dangerous for them, but very distracting for you.
+<ICE-USA:W2D-015#87:1> You should go out alone or with one person maximum to assist you.
+<ICE-USA:W2D-015#88:1> If you learn at a RC helicopter club, they should have a practice
+
+area away from the main flight line.
+<ICE-USA:W2D-015#89:1> You will need maximum concentration - - distractions are the worst!
+
+</p>
+
+<p> <ICE-USA:W2D-015#90:1> This is not the time to have all your buds come out and watch
+
+your first baby steps.
+<ICE-USA:W2D-015#91:1> Also leave Fido at home - - man have I heard some pretty messy horror
+
+stories about dogs going after RC helicopters.
+<ICE-USA:W2D-015#92:1> Almost happened to me once with an off leash dog, but that is another
+
+story.
+<ICE-USA:W2D-015#93:1> You will need a nice large open area free of any obstacles.
+<ICE-USA:W2D-015#94:1> Clean dust free pavement or packed snow/ice are the best choices (
+
+more on this during Day 3).
+<ICE-USA:W2D-015#95:1> When learning to hover, you won't need as much room as when you start
+
+flying circuits, but you should have an area of at least 20m by 20m ( 60 feet
+
+by 60 feet) the bigger the better.
+<ICE-USA:W2D-015#96:1> Once you start flying circuits you will need much more room. </p>
+
+</I>

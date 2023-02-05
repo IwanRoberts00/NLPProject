@@ -1,0 +1,75 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2C-020</textcode/>
+          <number of subtexts>2</number of subtexts>
+          <category>written: printed: reportage: press news</category>
+          <wordcount>2150</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ALL>
+          <source.type=newspaper>
+               <source.title>The Boston Globe</source.title>
+          <publication statement>
+               <publisher> Copyright 1993 The Boston Globe</publisher>
+               <address> </address>
+               <place> </place>
+               <date>10/7/1993</date>
+          </publication statement>
+          <copyright.statement> Copyright 1993 Globe Newspaper Company. <#>Used with permission</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+</text.info>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-020>
+          <subtext.name></subtext.name>
+               <main.title>With a smile, Jordan walks away from Bulls; Michael Jordan retires</main.title>
+               <subtitle></subtitle>
+               <page.nos>Sports, pg 1</page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-020>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Fainaru</surname>
+               <forenames>Steve</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-020>
+          <subtext.name></subtext.name>
+               <main.title>Power given 8 to 12 years and warning </main.title>
+               <subtitle></subtitle>
+               <page.nos>Metro/region, pg 1</page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-020>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Nealon</surname>
+               <forenames>Patricia</forenames>
+               <age> </age>
+               <gender>Female</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,402 @@
+<I>
+<ICE-USA:W2A-031#1:1> <H> Introduction</h>
+
+<p> <ICE-USA:W2A-031#2:1> Musical intelligence may be defined as the <quote> " simulation of
+
+musical thinking."</quote>
+<ICE-USA:W2A-031#3:1> The algorithm presented in this article reflects the author 's approach
+
+to music composition and hence represents one <quote> " simulation of musical
+
+thinking."</quote>
+<ICE-USA:W2A-031#4:1> The code based on this algorithm creates new compositions by way of a
+
+reflexive pattern matcher combined with an augmented transition network (
+
+ATN).
+<ICE-USA:W2A-031#5:1> This sub-program of Experiments in Musical Intelligence ( EMI)
+
+requires only that it be loaded with music in a given style.
+<ICE-USA:W2A-031#6:1> While the entire code of the EMI program is not provided, the
+
+algorithm in Fig.1 and the respective code, as well as the ideas presented in
+
+the books and articles by the author listed in the bibliography, should serve
+
+as a useful introduction to the EMI program.</p>
+
+<p> <ICE-USA:W2A-031#7:1> While music naturally includes timbre, dynamics, performance
+
+practice ( Dannenberg 1989), and so on, research with EMI has thus far
+
+focused exclusively on pitch and duration.
+<ICE-USA:W2A-031#8:1> This is not meant to denigrate other areas of possible study.
+<ICE-USA:W2A-031#9:1> However, this limitation confines the research to a reasonable frame
+
+of reference.
+<ICE-USA:W2A-031#10:1> The program presented in this article further concentrates on pitch
+
+alone due to space constraints.</p>
+
+<p> <ICE-USA:W2A-031#11:1> The word <quote> " function"</quote> has different meanings in
+
+music and computer programming.
+<ICE-USA:W2A-031#12:1> It is important to make clear which meaning <quote> "
+
+function"</quote> has when it is referenced.
+<ICE-USA:W2A-031#13:1> However, repeating applicable reference words ( e.g.
+<ICE-USA:W2A-031#14:1> <quote> " musical function"</quote> or <quote> " computer programming
+
+code function") can create a redundant writing style.
+<ICE-USA:W2A-031#15:1> In this article, reference words regarding musical and programming
+
+code will accompany the initial appearance of the particular use of the word
+
+<quote> " function"</quote> with the understanding that these meanings do not
+
+change until another reference word is established.</p>
+<ICE-USA:W2A-031#16:1> <H> The Algorithm</h>
+
+<p> <ICE-USA:W2A-031#17:1> The algorithm of the program to be described in this article is
+
+shown in Fig. 1.
+<ICE-USA:W2A-031#18:1> The input works ( A) are stored in files as separate lists of phrases
+
+of MIDI note numbers ( 36 to 96).
+<ICE-USA:W2A-031#19:1> These works are statistically analyzed ( B) for eventual comparison
+
+to the program 's output to discover whether such output favorably matches the
+
+style of the program 's input.
+<ICE-USA:W2A-031#20:1> This analysis includes such parameters as repeated notes, the
+
+statistic used by the program discussed in this article.
+<ICE-USA:W2A-031#21:1> The statistical analysis also initially sets the program 's variables
+
+( I and J) by loading the variable source file ( K).</p>
+
+<p> <ICE-USA:W2A-031#22:1> The pattern-matching process ( C) serves as a way of identifying
+
+certain aspects of musical style ( Cope 1990; Fu 1982).
+<ICE-USA:W2A-031#23:1> Such pattern matching has proven especially useful when the process
+
+is controlled by variables which determine conditions as to how large
+
+gathered motives should be, how exactly a motive must match another, and so
+
+on.
+<ICE-USA:W2A-031#24:1> The pattern matcher locates <quote> " signatures,"</quote> or
+
+patterns found in more than one of the input works.
+<ICE-USA:W2A-031#25:1> Patterns found in two or more works are considered clues as to how
+
+different styles may be recognized.
+<ICE-USA:W2A-031#26:1> The pattern matcher stores the signatures it discovers in a
+
+dictionary ( D) which supplies these, along with the analysis of the works,
+
+for replication ( E).</p>
+
+<p> <ICE-USA:W2A-031#27:1> The arrangement of signatures in replicated works is accomplished
+
+through the use of an augmented transition network ( ATN - Cope 1987 and
+
+1991; Gazdar and Mellish 1989; Woods 1970) which maneuvers signatures of
+
+varying lengths to logical rather than random positions.
+<ICE-USA:W2A-031#28:1> This positioning depends on factors inherent in the signatures
+
+themselves and how well they satisfy certain criteria such as musical
+
+function, the focus used in the program described in this article.</p>
+
+<p> <ICE-USA:W2A-031#29:1> Once a new work is created ( F) it is analyzed statistically ( G)
+
+and that analysis is compared ( H) with the statistical analysis of the input
+
+works.
+<ICE-USA:W2A-031#30:1> If the comparison is successful ( i.e. comparable percentages of
+
+repeated notes in this case), then the work is saved in a destination file (
+
+M).
+<ICE-USA:W2A-031#31:1> If the comparison is not successful, then the program 's variables are
+
+altered ( I, J) and the program begins again.
+<ICE-USA:W2A-031#32:1> Successful variable settings are saved for future use ( L).
+<ICE-USA:W2A-031#33:1> The segmented arrows to the files L and M highlight the fact that
+
+compositions and settings are not saved to destination files unless
+
+successful comparisons of their statistical analyses have occurred.
+<ICE-USA:W2A-031#34:1> Either the source file ( K) or the destination file ( L) of the
+
+variables may be initially loaded depending on whether default or previous
+
+altered settings are desired.</p>
+<ICE-USA:W2A-031#35:1> <H> A Musical Overview</h>
+
+<p> <ICE-USA:W2A-031#36:1> The following overview should be helpful in cementing the
+
+reader 's understanding of how the program works as well as showing how the
+
+data appears at various stages.
+<ICE-USA:W2A-031#37:1> Space constraints prohibit giving non-trivial examples.
+<ICE-USA:W2A-031#38:1> However, it is less important for the reader to see complicated
+
+output than to understand the process that is involved.</p>
+
+<p> <ICE-USA:W2A-031#39:1> Fig. 2 shows parts of two works used as examples in this article.
+<ICE-USA:W2A-031#40:1> These are the melodies of the opening bars of two piano sonatas by
+
+Mozart.
+<ICE-USA:W2A-031#41:1> They are shown in both musical notation and MIDI note numbers.
+<ICE-USA:W2A-031#42:1> The full EMI implementation of this algorithm includes rhythm ( as
+
+durations) as well as harmony and their associated pattern-matching
+
+processes.</p>
+
+<p> <ICE-USA:W2A-031#43:1> The statistical analysis of this music ( see Fig.
+<ICE-USA:W2A-031#44:1> 1 B) consists of a mathematical sub-program which computes
+
+prevalences of ( in this case) repeated notes.
+<ICE-USA:W2A-031#45:1> Triad outlines, leaps followed by steps, and so on, can also be
+
+useful tests.
+<ICE-USA:W2A-031#46:1> In the Mozart examples of Fig. 2, 33 percent, or 6 of 18 notes, are
+
+repeated ( counting initial attacks as well as re-struck notes).
+<ICE-USA:W2A-031#47:1> The fact that all of them occur in one of the works is not important
+
+to the statistical analysis.
+<ICE-USA:W2A-031#48:1> This statistic will be used to ascertain if the new output is similar
+
+enough to the original works to allow it to be saved in a destination file.
+<ICE-USA:W2A-031#49:1> As will be seen, if the new work is not acceptable, then an
+
+appropriate variable is incremented.
+<ICE-USA:W2A-031#50:1> If this variable reaches a point where continued incrementing has
+
+little effect, the next variable increases and the former one remains
+
+fixed.</p>
+
+<p> <ICE-USA:W2A-031#51:1> The pattern-matching program used in the algorithm shown in Fig.
+
+1 matches intervals instead of pitches.
+<ICE-USA:W2A-031#52:1> The number 0 represents a repeated note, 1 is a minor second up, - 1
+
+is a minor second down, and so on.
+<ICE-USA:W2A-031#53:1> Hence, transposition of patterns are the same since intervals are
+
+devoid of explicit pitch information ( i.e. C E G will match D F# A, or any
+
+major triad).
+<ICE-USA:W2A-031#54:1> In the pattern-matching process demonstrated here, intervals are
+
+matched without reference to direction.
+<ICE-USA:W2A-031#55:1> This automatically matches inversions of patterns such as ( 1 2) as
+
+equivalent to ( - 1 - 2) which is especially useful when small works are used
+
+for input as is the case in the program to be described here.
+<ICE-USA:W2A-031#56:1> It is less useful ( especially in EMI) when using full-scale works as
+
+input to the program.</p>
+
+<p> <ICE-USA:W2A-031#57:1> Fig. 3a shows two signatures and their associated matches
+
+gathered by the function pattern-match shown in Fig.11a in the next section.
+<ICE-USA:W2A-031#58:1> The second of the paired versions of each signature appears somewhat
+
+different.
+<ICE-USA:W2A-031#59:1> However, they match according to the process applied here.
+<ICE-USA:W2A-031#60:1> In the first two signatures in Fig. 3a, <quote> " ( 1 2)"</quote>
+
+matches <quote> " ( 0 - 1)"</quote> since when the latter is devoid of
+
+negatives, as in <quote> " ( 0 1),"</quote> no element varies by more than
+
+one ( acceptable if the appropriate variable is set to allow such variance -
+
+see *variance* in the next section).
+<ICE-USA:W2A-031#61:1> In the second group of two signatures in Fig. 3a, <quote> " ( 4
+
+3)"</quote> matches <quote> " ( - 4 - 3)"</quote> since, as mentioned
+
+previously, negative and positive numbers ( inversions) are treated as equals
+
+in this program.</p>
+
+<p> <ICE-USA:W2A-031#62:1> Fig. 3b shows a first attempt at replicating a new example in the
+
+style of these signatures.
+<ICE-USA:W2A-031#63:1> In order to reflexively check this result against the analysis of the
+
+original music, the program analyzes this output exactly as it did the
+
+original input works ( B in Fig. 1).
+<ICE-USA:W2A-031#64:1> The comparison module of the algorithm ( H in Fig. 1) then receives
+
+both the original analysis and the analysis of the current new work ( G in
+
+Fig. 1) and compares them.
+<ICE-USA:W2A-031#65:1> If the comparison is unsuccessful, the variables are adjusted in the
+
+order specified by the function make-music ( see relevant discussion of Fig.
+
+9).
+<ICE-USA:W2A-031#66:1> If the comparison is successful, the program saves the new work.
+<ICE-USA:W2A-031#67:1> In this latter case, the program also saves the new settings of the
+
+variables to a destination file.</p>
+
+<p> <ICE-USA:W2A-031#68:1> The comparison of the amount of repeated notes found in the
+
+original ( 33 percent) and that found in Fig. 3b ( 0 percent) is a
+
+significant deviation and thus, in this instance, the work is not saved to a
+
+destination file.
+<ICE-USA:W2A-031#69:1> Instead, an appropriate variable is reset incrementally.
+<ICE-USA:W2A-031#70:1> The influence of variable re-setting on the pattern-matching process,
+
+however, is inversely proportional to that variable 's value: the higher the
+
+current setting the less its impact on the process.
+<ICE-USA:W2A-031#71:1> As mentioned previously, the setting of variables is accomplished by
+
+incrementing one variable at a time.
+<ICE-USA:W2A-031#72:1> These variables have a prioritized order which defaults to another
+
+variable after exhausting all reasonable attempts with the current variable (
+
+discussed further in the next section).</p>
+
+<p> <ICE-USA:W2A-031#73:1> With the variable controlling size set to 2, variation to 2, and
+
+allowable interpolated notes to 0 the signatures increase significantly from
+
+Fig. 3a as shown in Fig. 3c.
+<ICE-USA:W2A-031#74:1> In this case, however, the reverse problem of that shown in Fig. 3b
+
+occurs.
+<ICE-USA:W2A-031#75:1> Even without showing an example, one can readily observe that a
+
+successful comparison cannot easily be possible.
+<ICE-USA:W2A-031#76:1> Using only two signatures, as in Fig. 3b, would result in either 100
+
+percent, 50 percent or 0 percent repeated notes, none of which is even
+
+roughly close to to the 33 percent target.</p>
+
+<p> <ICE-USA:W2A-031#77:1> With the window size set to 2, variation set to 2 and allowed
+
+interpolated notes set to 1, the signatures increase still further as shown
+
+in Fig.
+<ICE-USA:W2A-031#78:1> 3d and more repeated-note choices become possible.
+<ICE-USA:W2A-031#79:1> Now, with more signatures to choose from, the example in Fig. 3e is
+
+produced.
+<ICE-USA:W2A-031#80:1> Obviously, with so little music here, one could not objectively say
+
+this version is much better an example of the replication of Mozart 's style
+
+than Fig. 3b.
+<ICE-USA:W2A-031#81:1> In fact, the rhythm of the example here is antagonistic to Mozart 's
+
+style.
+<ICE-USA:W2A-031#82:1> In larger examples, however, the statistical analyses, balanced with
+
+the flexible variables of the pattern matcher and the use of ATN, have
+
+produced stylistically viable results .
+<ICE-USA:W2A-031#83:1> In Fig. 3e, the 33 percent usage ( 2 out of 6) matches exactly that
+
+of the analysis of the input works.</p>
+
+<p> <ICE-USA:W2A-031#84:1> As can be seen ( and heard), Fig. 3e does not conform to the
+
+implied musical functions of either of the input works.
+<ICE-USA:W2A-031#85:1> This is as problematic as the poor rhythmic fit mentioned above.
+<ICE-USA:W2A-031#86:1> This is caused by the random placement of signatures.
+<ICE-USA:W2A-031#87:1> Choosing and rejoining signatures can be made more elegant and
+
+musical by following the principles inherent in augmented transition
+
+networks.
+<ICE-USA:W2A-031#88:1> ATN 's are used in natural language processing ( NLP) to generate new
+
+and logical sentences from parsed word representations ( Winograd 1983).
+<ICE-USA:W2A-031#89:1> They produce like-meaning output in different orders from the input.
+<ICE-USA:W2A-031#90:1> The following sentences provide examples of an ATN output: <quote> "
+
+Bill sees John."</quote> <quote> " Bill has seen John."</quote>
+<ICE-USA:W2A-031#91:1> <quote> " John is seen by Bill."</quote> These sentences are all
+
+related yet different.
+<ICE-USA:W2A-031#92:1> The second sentence varies the first by changing its tense.
+<ICE-USA:W2A-031#93:1> The third sentence resembles Chomsky 's transformational grammar in
+
+that sentence parts have been transposed ( Chomsky 1965).</p>
+
+<p> <ICE-USA:W2A-031#94:1> Fig. 4 provides one example of how ATN works.
+<ICE-USA:W2A-031#95:1> The first map is a complete sentence consisting of a noun phrase (
+
+subject - <quote> " nps"), verb phrase ( <quote> " vp1"</quote> or <quote> "
+
+vp2"), another noun phrase ( object - <quote> " npo"), prepositional phrase (
+
+<quote> " pp") or proper noun ( <quote> " pn").
+<ICE-USA:W2A-031#96:1> The two verb phrases represent optional versions of the same
+
+representations.
+<ICE-USA:W2A-031#97:1> The word <quote> " jump"</quote> refers to a skipping of the step
+
+shown.
+<ICE-USA:W2A-031#98:1> The two interchangeable noun phrases are described in more detail
+
+below the sentence structure.
+<ICE-USA:W2A-031#99:1> The representation <quote> " wh"</quote> stands for words such as
+
+<quote> " who,"</quote> <quote> " what"</quote> or " where"</quote> used for
+
+queries.
+<ICE-USA:W2A-031#100:1> Other representations mean as follows: <quote> " det"</quote> =
+
+determinator or article; <quote> " pn"</quote> = proper noun; <quote> "
+
+mp"</quote> = modifier phrase; <quote> " n0,"</quote> <quote> " n1"</quote> (
+
+and so on) = noun; and <quote> " p"</quote> = preposition.
+<ICE-USA:W2A-031#101:1> By applying certain viability tests ( here between nodes 0 and 2 of
+
+the top diagram in Fig.4 and shown in the code to be described) and inserting
+
+the various language parts which pass these recursive tests, a variety of
+
+interesting statements! and queries may be created from a dictionary of few
+
+actual words.</p>
+
+<p> <ICE-USA:W2A-031#102:1> ATN 's can be very useful tools for the re-positioning of
+
+signatures in music as well as other musical materials.
+<ICE-USA:W2A-031#103:1> ATNs allow for the generation of more convincing music in a style
+
+because the music thus re-positioned remains functionally ( in musical terms)
+
+specific.
+<ICE-USA:W2A-031#104:1> Since the original order of musical functions ( i.e. the original
+
+protocols) is maintained, connecting the re-positioned music helps to create
+
+results which sound more like the music used for analysis.
+<ICE-USA:W2A-031#105:1> Interestingly, music, unlike language, need not have the tense,
+
+singular/plural and other rules which make ATNs so complex.
+<ICE-USA:W2A-031#106:1> Details of ATNs in both natural language processing and music are
+
+given in the next section.</p> </I>

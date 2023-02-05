@@ -1,0 +1,49 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2B-017</textcode>
+          <number of subtexts>1</number of subtexts>
+          <category><category>written: printed: popular: social science</category>
+          <wordcount>2330</wordcount>
+          <version>coded, edited, with essential tagging</version>
+          <free.comments>Part One, along with ICE-USA-W2B-019</free.comments>
+     </file.description>
+     <subtext.source=ICE-USA-W2B-017>
+          <source.type=collection>
+               <source.title>Mademoiselle</source.title>
+               <series></series>
+               <editor> </editor>
+          <publication statement>
+               <publisher>The Conde Nast Publications, Inc.</publisher>
+               <address>350 Madison Ave.</address>
+               <place>New York, NY 10017</place>
+               <date>July 1992</date>
+          </publication statement>
+          <copyright.statement>used by permission of Ruth Mayer</copyright.statement>
+          <free.comments>No publisher permission, author owns the rights?</free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA-W2B-017>
+          <subtext.name> </subtext.name>
+               <main.title>Other People's Money</main.title>
+               <subtitle></subtitle>
+               <page.nos>158-161</page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+     <biography=ICE-USA-W2B-017>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Mayer</surname>
+               <forenames>Ruth</forenames>
+               <age> </age>
+               <gender>Female</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

@@ -1,0 +1,429 @@
+<I>
+<ICE-USA:W1B-021#1:1> <h> To our shareholders:</h>
+
+<p> <ICE-USA:W1B-021#2:1> Fiscal 2005 was a year of continued solid, balanced growth for
+
+Cisco from both a product- and market-leadership perspective.
+<ICE-USA:W1B-021#3:1> We achieved an outstanding financial performance with record profits
+
+and cash generation, year-over-year growth in our core routing and switching
+
+products, and very strong growth in our six advanced technologies.
+<ICE-USA:W1B-021#4:1> Our enterprise, service provider, and commercial customer market
+
+segments all experienced solid year-over-year growth.
+<ICE-USA:W1B-021#5:1> However, the highlight for the year was the balance that we achieved
+
+across our geographies, customer market segments, architectural evolutions,
+
+and product families.
+<ICE-USA:W1B-021#6:1> We believe our financial strength, product leadership, and global
+
+reach uniquely position Cisco as a company not only built to last, but built
+
+to lead. </p>
+<ICE-USA:W1B-021#7:1> <h> Innovation Strategy</h>
+
+<p> <ICE-USA:W1B-021#8:1> In our opinion, the key to long-term success in the
+
+high-technology industry is ongoing strategic investment and innovation, and
+
+we intend to continue to take good business risks.
+<ICE-USA:W1B-021#9:1> Our innovation strategy requires a unique combination of internal
+
+development, partnerships, and acquisitions.
+<ICE-USA:W1B-021#10:1> In our opinion, for companies to lead in the technology industry they
+
+must be able to do all three.
+<ICE-USA:W1B-021#11:1> We continue to believe that our industry will consolidate and that
+
+the consolidation will occur along both technology and business architecture
+
+lines.
+<ICE-USA:W1B-021#12:1> This technology architecture will probably evolve where the seven
+
+layers of the Open Systems Interconnection ( OSI) stack are first loosely,
+
+then tightly coupled.
+<ICE-USA:W1B-021#13:1> That is exactly where you see us taking the integration of our core
+
+and advanced technology product architectures.
+<ICE-USA:W1B-021#14:1> Equally important, companies also have to gain the confidence of
+
+their customers from a vision and strategy perspective, a product
+
+architecture leadership perspective, and a service and support perspective.
+<ICE-USA:W1B-021#15:1> We think we are very uniquely positioned to continue to win the
+
+hearts, minds, and capital investments of our customers. </p>
+
+<p> <ICE-USA:W1B-021#16:1> In fiscal 2005 we invested more than
+
+&dollar;3.3 billion in research and development ( R&D).
+<ICE-USA:W1B-021#17:1> This resulted in more than 50 product introductions and the
+
+number-one market share leadership position in most of our product
+
+categories, including our advanced technology markets, truly demonstrating
+
+that the investments we made three to five years ago are now paying off.
+<ICE-USA:W1B-021#18:1> We believe this product momentum will continue in fiscal 2006, and we
+
+will do our best to continue to meet and exceed the expectations of our
+
+customers and partners. </p>
+<ICE-USA:W1B-021#19:1> <h> Fiscal 2005 Performance</h>
+
+<p> <ICE-USA:W1B-021#20:1> In fiscal 2005 we achieved record performance across almost all
+
+of our financial and operational metrics.
+<ICE-USA:W1B-021#21:1> Fiscal 2005 revenue was
+
+&dollar;24.8 billion, compared to fiscal 2004 revenue of
+
+&dollar;22.0 billion.
+<ICE-USA:W1B-021#22:1> Net income on a generally accepted accounting principles ( GAAP)
+
+basis was
+
+&dollar;5.7 billion, compared to fiscal 2004 GAAP net income of
+
+&dollar;4.4 billion.
+<ICE-USA:W1B-021#23:1> GAAP earnings per share on a fully diluted basis for fiscal 2005 were
+
+&dollar;0.87, compared to
+
+&dollar;0.62 for fiscal 2004.
+<ICE-USA:W1B-021#24:1> In addition to net income, Cisco generated
+
+&dollar;7.6 billion in cash, highlighting the ongoing quality of our earnings. </p>
+
+<p> <ICE-USA:W1B-021#25:1> Cisco demonstrated solid execution on its three long-term
+
+financial priorities.
+<ICE-USA:W1B-021#26:1> First, we continued to focus on profitable growth with GAAP net
+
+income as a percentage of revenue exceeding 20 percent.
+<ICE-USA:W1B-021#27:1> During fiscal 2005, we increased revenue year over year by
+
+approximately 12.5 percent.
+<ICE-USA:W1B-021#28:1> Of total revenue, approximately
+
+&dollar;20.9 billion was related to product revenue and
+
+&dollar;3.9 billion was related to service revenue.
+<ICE-USA:W1B-021#29:1> Our revenue growth is the result of a continued recovery in the
+
+global IT economic environment, and we achieved significant market share
+
+gains in many product areas. </p>
+
+<p> <ICE-USA:W1B-021#30:1> Second, we increased our profitability.
+<ICE-USA:W1B-021#31:1> We increased GAAP net income by 30 percent and GAAP earnings per
+
+share by 40 percent during fiscal 2005, while operating expenses decreased by
+
+3 percent as a percentage of revenue. </p>
+
+<p> <ICE-USA:W1B-021#32:1> A key competitive advantage for Cisco is how we use our own
+
+technology to drive productivity.
+<ICE-USA:W1B-021#33:1> We achieved a key metric by reaching our productivity goal of
+
+approximately
+
+&dollar;700,000 in annualized revenue per employee, up from approximately
+
+&dollar;450,000 in fiscal 2001 when the goal was set.
+<ICE-USA:W1B-021#34:1> This is significant given that we also increased headcount in fiscal
+
+2005 by 12 percent, primarily in sales and R&D.
+<ICE-USA:W1B-021#35:1> Our profitability far exceeded our revenue growth rate and is
+
+evidence of our ability to drive productivity and operational efficiency.
+
+</p>
+
+<p> <ICE-USA:W1B-021#36:1> Third, we maintained our strong and conservative balance sheet,
+
+while aggressively reducing outstanding shares through our share repurchase
+
+program.
+<ICE-USA:W1B-021#37:1> At the end of fiscal 2005, cash and investments totaled
+
+&dollar;16.1 billion, days sales outstanding ( DSOs) were 31, and annualized
+
+inventory turns were 6.6.
+<ICE-USA:W1B-021#38:1> During fiscal 2005, we repurchased
+
+&dollar;10.2 billion, or 540 million shares of our stock.
+<ICE-USA:W1B-021#39:1> Cash used for these repurchases was generated primarily through
+
+operations.
+<ICE-USA:W1B-021#40:1> At the end of fiscal 2005, our cumulative purchases since the
+
+inception of the share repurchase program in September 2001 were
+
+approximately
+
+&dollar;27.2 billion, or 1.5 billion shares, at an average price of
+
+&dollar;18.15. <ICE-USA:W1B-021#41:1> This is a decrease of more than 13 percent in the weighted
+
+average diluted shares outstanding since the inception of the program.
+<ICE-USA:W1B-021#42:1> The program 's remaining approved repurchase amount is approximately
+
+&dollar;7.8 billion. </p>
+
+<p> <ICE-USA:W1B-021#43:1> Our strong cash position provides investment opportunities for
+
+Cisco. The Board of Directors routinely evaluates growth and technology
+
+leadership objectives with the goal of providing an attractive return on
+
+investment for our shareholders. Our technology investments are designed to
+
+extend our current product leadership through new offerings, as well as
+
+feature and functionality enhancements.
+<ICE-USA:W1B-021#44:1> We believe these investments will allow us to capitalize on new
+
+advanced technologies and emerging geographic markets.
+<ICE-USA:W1B-021#45:1> These investments include areas such as enterprise IP communications,
+
+network security, and wireless networking.
+<ICE-USA:W1B-021#46:1> We believe ongoing strategic investments, along with our share
+
+repurchase program and strong cash balance, are in the best interest of Cisco
+
+and our shareholders. </p>
+<ICE-USA:W1B-021#47:1> <h> Balanced Growth</h>
+
+<p> <ICE-USA:W1B-021#48:1> Cisco 's success in fiscal 2005 can be attributed to the balance
+
+achieved in almost all of our product families, customer market segments, and
+
+geographies.
+<ICE-USA:W1B-021#49:1> This, combined with our ability to continuously innovate and expand
+
+the industry and our markets, is a significant driver of our success. </p>
+
+<p> <ICE-USA:W1B-021#50:1> In fiscal 2005, Cisco 's six advanced technologies showed the
+
+highest revenue growth of our product groups.
+<ICE-USA:W1B-021#51:1> Revenue from advanced technologies increased 32 percent year over
+
+year to
+
+&dollar;4.4 billion.
+<ICE-USA:W1B-021#52:1> The six advanced technologies include: enterprise IP communications,
+
+home networking, optical networking, security, storage area networking, and
+
+wireless technology.
+<ICE-USA:W1B-021#53:1> During fiscal 2005, security and enterprise IP communications
+
+achieved our initial goal of an annual revenue run rate of approximately
+
+&dollar;1 billion.
+<ICE-USA:W1B-021#54:1> We shipped our 6-millionth IP phone.
+<ICE-USA:W1B-021#55:1> We continue to expand our advanced technologies and have set an
+
+aggressive goal of announcing several new advanced technologies in fiscal
+
+2006. </p>
+
+<p> <ICE-USA:W1B-021#56:1> This year we introduced the integrated services router, one of
+
+the industry 's most comprehensive enterprise solutions for branch offices.
+<ICE-USA:W1B-021#57:1> The integrated services router is designed to allow customers to
+
+customize solutions by adding security, voice, and wireless capabilities to a
+
+single routing platform.
+<ICE-USA:W1B-021#58:1> In our core switching families, we made five key product
+
+announcements in fiscal 2005, and Cisco 's switching products continue to
+
+maintain a number-one market share position. </p>
+
+<p> <ICE-USA:W1B-021#59:1> We also experienced balance across all key customer market
+
+segments, with solid growth in the service provider, enterprise, and
+
+commercial segments.
+<ICE-USA:W1B-021#60:1> Our consumer-oriented Linksys division had the highest annual growth
+
+by market segment of approximately 40 percent year over year.
+<ICE-USA:W1B-021#61:1> In terms of our balance among Cisco 's five geographic areas in fiscal
+
+2005, we experienced strong product revenue growth in almost all of our
+
+geographies, increasing total product revenue by 12 percent on an annual
+
+basis.</p>
+
+<p> <ICE-USA:W1B-021#62:1> We were also very pleased with our ability to enter new markets
+
+and gain leadership from both a market share and innovation perspective.
+<ICE-USA:W1B-021#63:1> As mentioned earlier, we believe innovation comes from a combination
+
+of internal development, partnerships, and acquisitions.
+<ICE-USA:W1B-021#64:1> In terms of key strategic alliances, we accelerated our growth
+
+opportunities with our strategic partners.
+<ICE-USA:W1B-021#65:1> In fiscal 2005, we continued our strategy of taking good, solid
+
+business risks by completing 17 acquisitions to further extend our talent and
+
+technology opportunities for both our core routing and switching products as
+
+well as our advanced technologies.
+<ICE-USA:W1B-021#66:1> We believe we are well-positioned to take advantage of future growth
+
+opportunities, and we are confident and optimistic about the areas of the
+
+business that we can control and influence.
+<ICE-USA:W1B-021#67:1> We intend to continue to add both engineering and sales resources as
+
+we focus on developing the next wave of advanced technologies, growing the
+
+commercial market segment, capitalizing on our emerging market opportunities,
+
+and increasing our market share gains. </p>
+<ICE-USA:W1B-021#68:1> <h> Corporate Citizenship and Social Responsibility</h>
+
+<p> <ICE-USA:W1B-021#69:1> An integral part of Cisco 's business strategy is corporate
+
+citizenship.
+<ICE-USA:W1B-021#70:1> We believe this is not only the right thing to do, but is also just
+
+plain " good business."
+<ICE-USA:W1B-021#71:1> We employ and advocate responsible business practices and programs,
+
+which builds a lasting trust with our key stakeholders' customers, partners,
+
+employees, and shareholders.
+<ICE-USA:W1B-021#72:1> In the fall of 2005, Cisco will release its first Corporate Social
+
+Responsibility Report, which will be available
+
+atwww.cisco.com/go/citizenship. </p>
+
+<p> <ICE-USA:W1B-021#73:1> We are dedicated to sustaining a diverse, inclusive workforce.
+<ICE-USA:W1B-021#74:1> We employ responsible operations, product stewardship, and
+
+environmentally friendly design policies, and we encourage our suppliers to
+
+adhere to these standards.
+<ICE-USA:W1B-021#75:1> Cisco is committed to sound and transparent corporate governance and
+
+financial disclosure practices.
+<ICE-USA:W1B-021#76:1> Our Website provides Cisco 's corporate governance policies and
+
+practices, corporate citizenship programs, and financial information. </p>
+
+<p> <ICE-USA:W1B-021#77:1> Cisco is also committed to education.
+<ICE-USA:W1B-021#78:1> We have Networking Academies in more than 160 countries, with
+
+approximately 10,000 academies and 420,000 students.
+<ICE-USA:W1B-021#79:1> Students in high schools, technical schools, colleges, and community
+
+organizations learn hands-on networking skills to prepare for the workforce
+
+of today and the future.
+<ICE-USA:W1B-021#80:1> The Jordan Education Initiative, spearheaded by Cisco in partnership
+
+with the World Economic Forum and several other organizations, has created a
+
+replicable model and is expanding its interactive e-curriculum-based
+
+education programs into other geographic areas. </p> I<p><ICE-USA:W1B-021#>n the area of
+
+giving back, employees celebrated Cisco 's 20th anniversary by donating more
+
+than 20 years' worth of community service hours, or 235,000 hours far
+
+exceeding the goal of 175,200.
+<ICE-USA:W1B-021#81:1> During a time of global need, Cisco and our employees donated more
+
+than
+
+&dollar;4 million in relief efforts for the South Asia tsunami victims.
+<ICE-USA:W1B-021#82:1> We are truly proud to be a part of a strong culture of giving back
+
+and social responsibility. </p>
+<ICE-USA:W1B-021#83:1> <h> Built to Last, Built to Lead</h>
+
+<p> <ICE-USA:W1B-021#84:1> In fiscal 2005, we made evolutionary changes that support our
+
+long-term strategy.
+<ICE-USA:W1B-021#85:1> We announced a reorganization of our geographic segments to better
+
+address our global approach and focus on key growth areas.
+<ICE-USA:W1B-021#86:1> We evolved our engineering and sales leadership, demonstrating our
+
+continued bench strength and investment in future opportunities.
+<ICE-USA:W1B-021#87:1> Our ability to implement these changes smoothly is one of our core
+
+competencies. </p>
+
+<p> <ICE-USA:W1B-021#88:1> Fiscal 2005 marked the end of our 20th anniversary, and on August
+
+10, 2005, more than 3,000 employees participated in the " Virtual Opening" of
+
+The NASDAQ Stock Market at Cisco 's headquarters.
+<ICE-USA:W1B-021#89:1> This historical virtual opening bell ceremony showcased the power of
+
+networking technology, demonstrated how a stock market can be opened anytime,
+
+anywhere, eliminating distance and time restrictions, and reiterated Cisco 's
+
+commitment to technology and innovation leadership. </p>
+
+<p> <ICE-USA:W1B-021#90:1> Looking ahead, we believe that Cisco 's unique balance of
+
+financial strength, product leadership, and global presence truly position us
+
+as a company that is not only built to last, but built to lead.
+<ICE-USA:W1B-021#91:1> We would like to recognize the contributions of Don Valentine and Jim
+
+Gibbons for their years of service to Cisco 's Board of Directors, and on
+
+behalf of the Board, we would like to thank our customers, partners,
+
+employees, and shareholders for their continued confidence and support.
+<ICE-USA:W1B-021#92:1> We hope to make the next 20 years equally successful. </p>
+<ICE-USA:W1B-021#93:1> <h> BUILT TO LAST</h>
+
+<p> <ICE-USA:W1B-021#94:1> We are pleased with our strong performance in fiscal 2004 and
+
+believe the investments we made 12 to 36 months ago are paying off in terms
+
+of our business and financial metrics.
+<ICE-USA:W1B-021#95:1> Going into fiscal 2005, we will continue to focus on our three major
+
+growth areas of core routing and switching, service provider, and Advanced
+
+Technologies, as well as network architecture evolution expectations and a
+
+continued focus on profit contribution. </p>
+
+<p> <ICE-USA:W1B-021#96:1> For 20 years, Cisco 's strategy has included an intense focus on
+
+results, catching market transitions, and listening to our customers.
+<ICE-USA:W1B-021#97:1> We helped build the foundation of the Internet by building the
+
+routers and switches that fueled it, and we believe that the best is yet to
+
+come in terms of increases in productivity and standard of living that can be
+
+created from technology innovation from companies such as Cisco. </p>
+
+<p> <ICE-USA:W1B-021#98:1> We are confident that Cisco is a company that is built to last,
+
+and on behalf of our Board of Directors, we would like to thank our
+
+customers, partners, employees, and shareholders for your continued
+
+confidence and support.</p>

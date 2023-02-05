@@ -1,0 +1,417 @@
+<I>
+
+<p> <ICE-USA:W2B-037#1:1> Melding modern computer technology with a time-proven optical
+
+system makes for an exciting way to explore the heavens.</p>
+
+<p> <ICE-USA:W2B-037#2:1> Computerized telescopes have been the hot ticket in recent years.
+<ICE-USA:W2B-037#3:1> Celestron International created the first commercial computerized
+
+Schmidt-Cassegrain in 1987.
+<ICE-USA:W2B-037#4:1> The Compustar 8 was a pioneering model that could automatically slew
+
+to thousands of objects but only after being precisely polar aligned.
+<ICE-USA:W2B-037#5:1> A new model from Celestron, capable of finding and tracking targets
+
+without needing to be polar aligned, has been a long time coming.
+<ICE-USA:W2B-037#6:1> But it is here now--the Ultima 2000 8-inch Schmidt-Cassegrain.
+<ICE-USA:W2B-037#7:1> I tested one of the first production models, which was purchased by
+
+mail order from a major national dealer.</p>
+
+<p> <ICE-USA:W2B-037#8:1> While flashy electronic features grab the initial attention of
+
+buyers, sharp images and a solid mounting make a telescope a pleasure to use
+
+year after year.
+<ICE-USA:W2B-037#9:1> In its advertising Celestron promises that the optics of its
+
+Schmidt-Cassegrains are " guaranteed to be diffraction limited."
+<ICE-USA:W2B-037#10:1> Anything less and stars will look soft and planets will never snap
+
+with sharp detail.</p>
+
+<p> <ICE-USA:W2B-037#11:1> At high power, 2nd- and 3rd-magnitude stars showed distinct Airy
+
+disks surrounded by a bright, well-defined first diffraction ring and fainter
+
+second and third rings.
+<ICE-USA:W2B-037#12:1> Diffraction patterns looked smooth and similar on either side of
+
+focus, revealing only a low level of spherical aberration from what appeared
+
+to be a mild zonal error.
+<ICE-USA:W2B-037#13:1> The optics showed little evidence of surface roughness and no sign of
+
+astigmatism.</p>
+
+<p> <ICE-USA:W2B-037#14:1> A crucial test was Mars.<ICE-USA:W2B-037#> Its surface reveals small,
+
+low-contrast details only when viewed with excellent optics.<ICE-USA:W2B-037#> On April
+
+evenings when the 13-arcsecond-diameter disk had the Elysium-Tharsis
+
+hemisphere turned toward Earth, the Ultima clearly showed tiny white spots,
+
+which were likely orographic clouds.
+<ICE-USA:W2B-037#15:1> The residual north polar cap appeared well-defined and surrounded by
+
+the dark belt of polar dune fields.</p>
+
+<p> <ICE-USA:W2B-037#16:1> For comparison I also viewed Mars at the same magnification (
+
+roughly 225x) with a 5-inch apochromatic refractor.
+<ICE-USA:W2B-037#17:1> I expected images through the 8-inch Ultima to be brighter, but, to
+
+my surprise, they also exhibited a shade more contrast and detail.
+<ICE-USA:W2B-037#18:1> Yes, the refractor was giving near-perfect image quality, but sheer
+
+aperture was winning out, despite the Ultima 's 34 percent ( by diameter)
+
+central obstruction, which degrades image contrast.</p>
+
+<p> <ICE-USA:W2B-037#19:1> My ultimate testament to this telescope 's optics is the fact that
+
+I actually used it apart from conducting tests!
+<ICE-USA:W2B-037#20:1> On more than one night I just watched Mars for several hours.<ICE-USA:W2B-037#> I
+
+feel these optics fulfill Celestron 's promise of diffraction-limited
+
+performance.</p>
+
+<p> <ICE-USA:W2B-037#21:1> The telescope arrived slightly out of collimation, possibly due
+
+to rough handling during shipment.
+<ICE-USA:W2B-037#22:1> Small tweaks to the secondary mirror 's three collimation screws made
+
+all the difference between an acceptable image and one full of sharp
+
+detail.</p>
+
+<p> <ICE-USA:W2B-037#23:1> As expected, on freezing nights the telescope optics took about
+
+45 minutes to settle down when brought outdoors.
+<ICE-USA:W2B-037#24:1> The corrector plate is coated with a single layer of magnesium
+
+fluoride on each surface, and the primary and secondary mirrors have
+
+well-designed baffles to eliminate stray light from the focal plane.
+<ICE-USA:W2B-037#25:1> I found no glare or internal reflections, even when observing near
+
+the Moon.</p>
+
+<p> <ICE-USA:W2B-037#26:1> The 7x50 finderscope is of excellent quality.
+<ICE-USA:W2B-037#27:1> Its polar-alignment reticles were accurate and extremely useful when
+
+I was setting up the telescope for astrophotography.
+<ICE-USA:W2B-037#28:1> My only complaint with the finder is its mounting bracket: it uses
+
+three screws at the front but only a rubber O-ring at the back.
+<ICE-USA:W2B-037#29:1> The O-ring allowed too much movement. I found it necessary to tweak
+
+the finder 's alignment almost every night, especially if the telescope had
+
+been pressed into its foam-lined trunk for storage.
+<ICE-USA:W2B-037#30:1> A quick-release, six-screw bracket would be a better choice on a
+
+telescope of this caliber.</p>
+
+<p> <ICE-USA:W2B-037#31:1> The internal focusing of the main mirror proved very smooth and
+
+precise.
+<ICE-USA:W2B-037#32:1> It exhibited none of the mushiness or backlash I've experienced with
+
+ 'vee older Schmidt- Cassegrains.
+<ICE-USA:W2B-037#33:1> The image shift was a slight 20 arcseconds, not enough to pose
+
+problems even when imaging with small CCD chips.</p>
+<ICE-USA:W2B-037#34:1> <h> <bold> Telescope Mechanics </bold> </h>
+
+<p> <ICE-USA:W2B-037#35:1> The Ultima 2000 was quick to set up, lightweight, yet solid.
+<ICE-USA:W2B-037#36:1> The telescope with its sturdy fork mount weighs only 31 pounds.
+<ICE-USA:W2B-037#37:1> The Ultima 's 18-pound tripod proved extremely rigid and sturdy.
+<ICE-USA:W2B-037#38:1> Its height can be varied by as much as 25 inches.
+<ICE-USA:W2B-037#39:1> With the legs fully retracted the eyepiece is about 42 inches above
+
+ground level, ideal for comfortable seated viewing.</p>
+
+<p> <ICE-USA:W2B-037#40:1> With the telescope set up for altazimuth operation and the tripod
+
+placed on a grassy surface, vibrations damped out remarkably quickly.
+<ICE-USA:W2B-037#41:1> There was only about one second of ringing after a sharp rap to the
+
+tube.
+<ICE-USA:W2B-037#42:1> Removing the rubber crutch tips from the tripod legs reduced this to
+
+1/2 second.
+<ICE-USA:W2B-037#43:1> Placing a set of Celestron 's Vibration Suppression Pads under the
+
+bare legs reduced the damping time to essentially zero--the telescope was
+
+dead solid, a good reason to use the telescope in altazimuth mode.
+<ICE-USA:W2B-037#44:1> Placing the telescope on its 12-pound equatorial wedge added about
+
+1/2 second of ringing to all setup combinations.
+<ICE-USA:W2B-037#45:1> These are figures as good as I've seen with any fork 'veunted
+
+Schmidt-Cassegrain.</p>
+
+<p> <ICE-USA:W2B-037#46:1> The Ultima has no analog setting circles or mechanical
+
+slow-motion controls since both functions are handled with the telescope 's
+
+electronics.
+<ICE-USA:W2B-037#47:1> Both axes have clutch adjustments that tighten but never fully
+
+lock.<ICE-USA:W2B-037#> Although it 's still possible to manually move the telescope when the
+
+clutches are fully engaged, I found the axes locked sufficiently tight to
+
+prevent slipping when cameras or heavy eyepieces were attached.</p>
+
+<p> <ICE-USA:W2B-037#48:1> Each axis has two DC motors.
+<ICE-USA:W2B-037#49:1> One is for fast slewing ( up to 1O° per second when operated with
+
+fresh batteries) and the slower " find" speed ( 2° per second).
+<ICE-USA:W2B-037#50:1> The other motor is for tracking as well as the " center," " guide,"
+
+and " fine guide" speeds, which are 6, 2, and 1/2 times the tracking rate,
+
+respectively.
+<ICE-USA:W2B-037#51:1> Selecting these rates as the telescope 's default speed is a somewhat
+
+involved process using the computerized menus, which are all accessed and
+
+displayed with the hand controller.
+<ICE-USA:W2B-037#52:1> There are, however, handy shortcuts.
+<ICE-USA:W2B-037#53:1> Pressing any of the telescope 's four direction buttons and either the "
+
+up" or " down" button on the controller allows quick access to the other
+
+speeds.
+<ICE-USA:W2B-037#54:1> You can also press and hold a direction button and then press its
+
+opposite button to momentarily slew the scope at a higher speed.</p>
+
+<p> <ICE-USA:W2B-037#55:1> In addition to the electronic slewing, the Ultima can be aimed
+
+manually without disrupting the computerized operation.
+<ICE-USA:W2B-037#56:1> The telescope 's encoders keep track of where the instrument is
+
+pointed even when it is manually swung around the sky.
+<ICE-USA:W2B-037#57:1> This is a nice feature, which saves battery power and keeps many of
+
+the telescope 's smart features functional even if the battery power drops too
+
+low to operate the power-hungry slew speeds.</p>
+
+<p> <ICE-USA:W2B-037#58:1> How long the internal AA batteries last depends on how much
+
+high-speed slewing you do. If their output drops below 81/2 volts, the "
+
+slew" and " find" speeds give out but the slow-speed motors and
+
+hand-controller display continue to operate.
+<ICE-USA:W2B-037#59:1> ( One of the hand controller 's displays is a useful voltmeter.)
+<ICE-USA:W2B-037#60:1> I found that high-speed slewing to a few dozen objects on a warm
+
+night drained the batteries below this threshold level after four or five
+
+nights.</p>
+
+<p> <ICE-USA:W2B-037#61:1> To save battery power the light-emitting-diode ( LED) display on
+
+the hand controller can be dimmed or even turned off while the telescope
+
+continues to track.
+<ICE-USA:W2B-037#62:1> There 's also a " sleep" mode that shuts off the tracking motors but
+
+allows the electronics to continue calculating where the instrument is
+
+pointed as the sky drifts by.
+<ICE-USA:W2B-037#63:1> Thus the Ultima could be left idling in a permanent observatory where
+
+the user doesn't want to initialize the scope every night or wants to use it
+
+for daytime sightings when reference stars aren't easily located.</p>
+
+<p> <ICE-USA:W2B-037#64:1> The Ultima can also be run from any external 12-volt source ( no
+
+AC adapter is supplied).
+<ICE-USA:W2B-037#65:1> The batteries proved wonderfully convenient for portable observing.
+<ICE-USA:W2B-037#66:1> They lasted for many weeks' worth of occasional viewing
+
+nights--better than the 24-hour lifetime specified in the manual, but only if
+
+high-speed slewing was kept to a minimum.</p>
+<ICE-USA:W2B-037#67:1> <h> <bold> Hand-Controller Functions </bold> </h>
+
+<p> <ICE-USA:W2B-037#68:1> The compact hand controller serves as a gateway to all of the
+
+telescope 's computerized functions.
+<ICE-USA:W2B-037#69:1> Its LED readout worked well even in subfreezing temperatures.
+<ICE-USA:W2B-037#70:1> The " menu" button takes you to the top level of each menu, while the "
+
+up" and " down" buttons page through the options.
+<ICE-USA:W2B-037#71:1> Here is a listing of the main menus and the features they access.</p>
+
+<p> <ICE-USA:W2B-037#72:1> <bold> ALIGN </bold> is for performing the initial two-star
+
+initialization, which is necessary for all the automatic slewing and
+
+altazimuth-tracking features to work.
+<ICE-USA:W2B-037#73:1> No polar alignment is required, nor any inputting of date or
+
+observing location.</p>
+
+<p> <ICE-USA:W2B-037#74:1> <bold> TOUR </bold> steps through a database of a dozen or more
+
+objects selected for each month.
+<ICE-USA:W2B-037#75:1> It 's a nice feature for beginners, though I thought the ordering of
+
+the lists was a little random around the sky.
+<ICE-USA:W2B-037#76:1> Sometimes selected objects were below the horizon, which might be
+
+confusing to those same beginners.
+<ICE-USA:W2B-037#77:1> The Ultima does not keep track of where the horizon is relative to
+
+the sky.
+<ICE-USA:W2B-037#78:1> The manual explains that the software was purposely designed to allow
+
+aiming at any object you want, whether or not it 's visible!</p>
+
+<p> <ICE-USA:W2B-037#79:1> <bold> SETUP </bold> is for adjusting various parameters such as
+
+slew speed, altazimuth or equatorial tracking modes ( in either the Northern
+
+or Southern Hemisphere), the speed that information scrolls across the LED
+
+display, backlash compensation, and drive rate ( from a choice of sidereal,
+
+King, lunar, and solar).
+<ICE-USA:W2B-037#80:1> All these functions worked well.</p>
+
+<p> <ICE-USA:W2B-037#81:1> <bold> TIMER </bold> initiates a single-event count-up
+
+stop-watch. There is no alarm feature.</p>
+
+<p> <ICE-USA:W2B-037#82:1> <bold> IDENTIFY </bold> displays the identity of any object
+
+currently in the telescope 's field, provided the object is in the computer 's
+
+database.
+<ICE-USA:W2B-037#83:1> It also allows locating nearby targets from the entire database or
+
+from a user-definable list such as just globular clusters brighter than
+
+magnitude 10.</p>
+
+<p> <ICE-USA:W2B-037#84:1> <bold> POSITION </bold> displays the telescope 's current right
+
+ascension and declination or azimuth and altitude.
+<ICE-USA:W2B-037#85:1> The latter was important when I was setting up the telescope in
+
+equatorial mode since slewing the test telescope to +89.9° put the optical
+
+tube essentially parallel to the fork arms, an important step for polar
+
+alignment.</p>
+
+<p> <ICE-USA:W2B-037#86:1> <bold> CATALOG </bold> is a powerful menu option. It allows
+
+selecting any object from the Messier, NGC, and Index Catalogs, as well as
+
+selected entries from the ESO and Uppsala galaxy catalogs--a total of
+
+thousands of objects.
+<ICE-USA:W2B-037#87:1> An intriguing bonus list unique to the Ultima is 661 nonstellar
+
+objects, such as obscure open clusters, starlike planetaries, Palomar
+
+globulars, dwarf galaxies, and Abell galaxy clusters.
+<ICE-USA:W2B-037#88:1> The otherwise very thorough and complete instruction manual
+
+incorrectly states that a full printout of this list is contained in the
+
+manual.
+<ICE-USA:W2B-037#89:1> This is too bad since it 's difficult to remember, for example, that
+
+the wonderful planetary nebula Abell is object 103 in this list.
+<ICE-USA:W2B-037#90:1> To call up Abell 12 you must enter nonstellar object 103.</p>
+
+<p> <ICE-USA:W2B-037#91:1> Users can also store the positions of up to 27 personal objects,
+
+either by entering the coordinates or by aiming the telescope at the desired
+
+object and automatically storing the current position.
+<ICE-USA:W2B-037#92:1> This is a powerful feature.
+<ICE-USA:W2B-037#93:1> It could even be used to slew back and forth between two fixed
+
+terrestrial objects--bird nests, for example.
+<ICE-USA:W2B-037#94:1> The Ultima 's computer knows the position of the Sun and planets, but
+
+stewing to them automatically requires inputting the current date each night,
+
+a simple procedure.</p>
+
+<p> <ICE-USA:W2B-037#95:1> You can display details for all objects in the database.
+<ICE-USA:W2B-037#96:1> These include an object 's right ascension and declination, magnitude,
+
+size, constellation, a short but useful description, and the number of the
+
+chart showing the object in <it> Uranometria 2000 </it> or <it> Star Atlas
+
+2000.0 </it> star atlases, a helpful bonus.
+<ICE-USA:W2B-037#97:1> Pressing the " enter" button while this information is scrolling
+
+across the LED display sends the Ultima slewing at high speed to the
+
+target.</p>
+
+<p> <ICE-USA:W2B-037#98:1> For objects far across the sky, I found motorized slewing never
+
+took more than 35 seconds to complete, counting the high-speed move, then the
+
+final slow-speed fine pointing.
+<ICE-USA:W2B-037#99:1> Nearby objects never took less than 15 seconds to find.
+<ICE-USA:W2B-037#100:1> These figures are nothing to complain about but perhaps are not as
+
+fast as the advertised slew rate of 10° per second would lead you to believe.
+<ICE-USA:W2B-037#101:1> With the Ultima 's " cord wrap" feature turned off, the telescope
+
+always takes the shortest route to the next object.
+<ICE-USA:W2B-037#102:1> I was never able to get the telescope tangled up, colliding with
+
+itself, or confused, even when tracking or slewing it through the zenith, or
+
+purposely aiming it at invisible objects below the horizon.</p>
+
+<p> <ICE-USA:W2B-037#103:1> A noteworthy feature is the Ultima 's quiet slewing.
+<ICE-USA:W2B-037#104:1> The high-speed motors emit a gentle whir.
+<ICE-USA:W2B-037#105:1> The noisiest function is actually the slower 6x " center" speed, but
+
+even it is hard to heat from more than a few feet away.
+<ICE-USA:W2B-037#106:1> It 's unlikely this telescope will wake up the neighbor 's dog or star
+
+party members sleeping in a nearby tent.
+<ICE-USA:W2B-037#107:1> The night can remain quiet and undisturbed. Nice.</p>
+
+<p> <ICE-USA:W2B-037#108:1> The Ultima I tested had a periodic tracking error of about 35 to
+
+40 arcseconds.
+<ICE-USA:W2B-037#109:1> The software includes periodic- error correction ( PEC), which
+
+allows you to " train" the drive and reduce the error when doing
+
+long-exposure imaging.
+<ICE-USA:W2B-037#110:1> The training is not retained when the power is turned off; it must
+
+be performed each night, a decided inconvenience. This was a moot point,
+
+however, since the PEC on the test unit did nor work correctly.
+<ICE-USA:W2B-037#111:1> When switched on it caused the drive to run intermittently slow and
+
+made it impossible to train the unit.
+<ICE-USA:W2B-037#112:1> With the PEC off, the drive 's sidereal rate was accurate and happily
+
+kept objects near the center of a high-power eyepiece all night.</p> </I>

@@ -1,0 +1,52 @@
+<text.info>
+  <file.description>
+   <textcode>ICE-USA-W2A-026</textcode>
+   <number of subtexts>1</number of subtexts>
+   <category> written:printed:academic:natural sciences </category>
+   <wordcount>2000</wordcount>
+   <version>coded, edited but untagged</version>
+   <free.comments></free.comments>
+  </file.description>
+  <subtext.source=ICE-USA-W2A-026>
+   <source.type=collection>
+    <source.title>The American Midland Naturalist</source.title>
+    <series></series>
+    <editor>Robert p. McIntosh</editor>
+   <publication statement>
+    <publisher>The University of Notre Dame</publisher>
+    <address> </address>
+    <place>Notre Dame, IN</place>
+    <date>January 1993</date>
+   </publication statement>
+   <copyright.statement>used by permission of The University of Notre Dame </copyright.statement>
+   <free.comments></free.comments>
+   </source.type>
+  </subtext.source>
+  <subtext.internals=ICE-USA-W2A-026>
+   <subtext.name> </subtext.name>
+    <main.title>Plant Competition and Nutrient Limitation during
+Early Succession in the Southern
+Appalachian Mountains</main.title>
+    <subtitle></subtitle>
+    <page.nos>1-7</page.nos>
+   <free.comments></free.comments>
+  </subtext.internals>
+  <biography=ICE-USA-W2A-026>
+   <speaker.id></speaker.id>
+    <communicative.role>author</communicative.role>
+    <surname>Wilson, Shure</surname>
+    <forenames>A. D., D. J.</forenames>
+    <age> </age>
+    <gender> </gender>
+    <nationality></nationality>
+    <birthplace></birthplace>
+    <education></education>
+    <educational.level></educational.level>
+    <occupation></occupation>
+    <affiliations></affiliations>
+    <mother.tongue></mother.tongue>
+    <other.languages></other.languages>
+    <free.comments></free.comments>
+  </biography>
+</text.info>
+ 

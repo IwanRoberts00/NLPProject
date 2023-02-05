@@ -1,0 +1,410 @@
+<I>
+
+<p> <ICE-USA:W2A-025#1:1> New stripe and multifrequency techniques for Fabry-Perot
+
+velocimetry are incorporated into an analytical model for the entire system.
+<ICE-USA:W2A-025#2:1> Properties of striped interferometers ( FP 's) are derived.
+<ICE-USA:W2A-025#3:1> An understanding of energy flow in both striped and unstriped FP 's is
+
+presented.
+<ICE-USA:W2A-025#4:1> Nine contributions to the velocity resolution are examined, and
+
+analytical approximations are provided for each of them.
+<ICE-USA:W2A-025#5:1> Formulas for the overall velocity and time resolution of each fringe
+
+are derived.
+<ICE-USA:W2A-025#6:1> Using brightness arguments to limit the maximum usable light
+
+acceptable by the system, we also derived analytical limits on the
+
+photographic writing speed of each fringe.</p>
+<ICE-USA:W2A-025#7:1> <h> I. Introduction </h>
+
+<p> <ICE-USA:W2A-025#8:1> Optical velocimetry based on Fabry-Perot interferometers ( FP 's)
+
+operating in the fringe mode is a widely used measuring technique in research
+
+with explosives, gas-propelled projectiles, and electrically accelerated
+
+objects.1 Since Ref.
+<ICE-USA:W2A-025#9:1> 1 was published, two recent new ideas providing more capability for
+
+this technique have emerged.
+<ICE-USA:W2A-025#10:1> Gidon and Behar2 have demonstrated an order of magnitude more laser
+
+power by using a pulsed dye laser followed by an FP filter set to the same
+
+spacing as the conventional analyzer FP.
+<ICE-USA:W2A-025#11:1> The interference patterns for each filtered frequency overlap almost
+
+perfectly at the slit of the streaking camera, effectively making all
+
+nonmonochromatic filtered power useful.
+<ICE-USA:W2A-025#12:1> In addition, McMillan et al.3 have applied a striped analyzer FP to
+
+use more efficiently the light reflected by a moving test object.
+<ICE-USA:W2A-025#13:1> In this technique, one removes a narrow stripe of the reflective
+
+coating on the upstream mirror to avoid the large losses ( of the order of
+
+90&percent;) that normally arise from reflection.</p>
+
+<p> <ICE-USA:W2A-025#14:1> These two ideas are not without drawbacks, however.
+<ICE-USA:W2A-025#15:1> The multifrequency technique involves a slight broadening of most of
+
+the interference fringes caused by the imperfect overlap, and the stripe
+
+technique involves the problem of inducing the reflected light to enter the
+
+stripe.
+<ICE-USA:W2A-025#16:1> The latter issue is a function of the size of the illumination on the
+
+target, averaged over the target travel distance, and the solid angle of the
+
+collection optics.</p>
+
+<p> <ICE-USA:W2A-025#17:1> Our purpose is to provide a set of fairly simple analytical
+
+formulas for users to compare the total velocity resolution, time resolution,
+
+and photographic writing speed of one striped velocimeter configuration with
+
+another.
+<ICE-USA:W2A-025#18:1> The major simplification in our approach is the treatment of the
+
+fraction of light reflected by the target that can enter the instrument.
+<ICE-USA:W2A-025#19:1> We have written a code ( STRIPE) that calculates in detail the amount
+
+of light at each instant of time from a moving Lambertian target that enters
+
+an array of real collection fibers and illuminates the strip on the FP
+
+mirrors.
+<ICE-USA:W2A-025#20:1> To present the results as analytical formulas, however, we do not use
+
+STRIPE here.</p>
+
+<p> <ICE-USA:W2A-025#21:1> Instead, we simply calculate the ratio of the emittance ( or
+
+brightness) acceptance of the instrument to the emittance reflected by the
+
+target.
+<ICE-USA:W2A-025#22:1> This helps to determine, for any optical transport system between the
+
+target and the instrument, an upper limit on the amount of useful light.
+<ICE-USA:W2A-025#23:1> Work with STRIPE has shown us that it is not difficult for real
+
+systems to collect 30&percent; of the amount of light represented by the
+
+emittance-argument limit.
+<ICE-USA:W2A-025#24:1> The present work is intended to be useful in comparing various
+
+reflectivities, mirror spacings, and streak-camera properties to see how they
+
+affect the net time and velocity resolutions and the upper limit on the
+
+photographic writing speed for each interference fringe.</p>
+
+<p> <ICE-USA:W2A-025#25:1> We derive a simple analytical result for the effect on fringe
+
+finesse of the angular divergence of light entering an FP filter.
+<ICE-USA:W2A-025#26:1> We also derive several properties of striped FP 's.
+<ICE-USA:W2A-025#27:1> For example, we present a good simple analytical approximation for
+
+the total finesse of a striped FP with finite-sized nonflat mirrors.
+<ICE-USA:W2A-025#28:1> An explanation of some of the properties of normal as well as striped
+
+FP 's with regard to energy flow is given.
+<ICE-USA:W2A-025#29:1> It is shown below that diffraction plays a key role in understanding
+
+energy transport in the striped FP, even for light beams several centimeters
+
+in diameter.
+<ICE-USA:W2A-025#30:1> Figure 1 shows the system being modeled.
+<ICE-USA:W2A-025#31:1> A dye-pumped laser oscillator beam2 is expanded by a telescope to
+
+reduce angular divergence.
+<ICE-USA:W2A-025#32:1> It then enters an FP filter and is transported to the target,
+
+reflected, and collected by a lens.
+<ICE-USA:W2A-025#33:1> This light is then converged in one dimension by a cylindrical lens
+
+and enters an analyzer FP with a stripe of its reflective coating removed.
+<ICE-USA:W2A-025#34:1> The exiting light is focused by a spherical lens onto the slit of an
+
+electronic streak camera.</p> <&> [ FIGURE 1 OMITTED]</&>
+<ICE-USA:W2A-025#35:1> <h> II. Properties of Normal and Striped Interferometers </h>
+<ICE-USA:W2A-025#36:1> <h> A. Striped Fabry-Perot interferometer </h>
+<ICE-USA:W2A-025#37:1> <H> Figure 2 shows the striped FP.</h>
+
+<p> <ICE-USA:W2A-025#38:1> The upstream mirror of intensity reflectivity <it> R </it> 1 has
+
+a stripe of half-width <it> R </it> st removed.
+<ICE-USA:W2A-025#39:1> The length of the stripe equals the mirror diameter.
+<ICE-USA:W2A-025#40:1> The entire downstream mirror is coated with reflectivity <it> R </it>
+
+2.
+<ICE-USA:W2A-025#41:1> We first consider only light incident at a large enough angle that
+
+multiple reflection occurs, as indicated in Fig. 2 [ OMITTED]</&>.
+<ICE-USA:W2A-025#42:1> It is straightforward, by using the standard formalism illustrated
+
+for normal FP 's in Ref. 4, to calculate the intensity at the focal plane of a
+
+spherical lens vs incident angle for perfectly flat mirrors.
+<ICE-USA:W2A-025#43:1> The sum of the transmitted beamlet amplitudes is [ equation] ( 1)
+
+where the phase <foreign> d </foreign> is given by [ equation] ( 2) <it> h
+
+</it> is the mirror separation, <it> v </it> is the frequency, and <it> c
+
+</it> is the speed of light. Here <it> r </it> 1 and <it> r </it> 2 are the
+
+amplitude reflectivities of the two dielectric coatings, and <it> t </it> 2
+
+is the amplitude transmission of the second coating.
+<ICE-USA:W2A-025#44:1> The ratio of transmitted to incident intensities is [ equation] where
+
+the reflectivity <it> R </it> is given by [ equation] [ equation]</p>
+
+<p> <ICE-USA:W2A-025#45:1> The coefficient <it> A </it> is typically ~0.002 and accounts for
+
+absorption and scattering Peaks in the transmission multiple of 2<foreign> p
+
+</foreign> .
+<ICE-USA:W2A-025#46:1> In this paper, this peaks are due to variations in either frequency
+
+or angle.
+<ICE-USA:W2A-025#47:1> If we set <it> R </it> 1= <it> R </it> 2 = <it> R </it> in Eqs.(4)
+
+and ( 5), Eq.(3) agrees with expression ( 5.3.1) given in the text by
+
+Hernandez for a side-illuminated FP.
+<ICE-USA:W2A-025#48:1> A striped FP allows one to see fringes on both sides of the center of
+
+the pattern, as opposed to the side-illuminated FP.
+<ICE-USA:W2A-025#49:1> As pointed out in Ref. 1, the analysis of the pattern is much easier
+
+if fringes on both sides of 0º are available.</p>
+
+<p> <ICE-USA:W2A-025#50:1> The resonant angles <foreign> O </foreign> j of Eq. ( 3) are [
+
+equation] where int means the integer part of, <foreign> X </foreign> is the
+
+wavelength, <it> k </it> is a positive integer ( usually less than 5), and
+
+<it> j </it> is given by [ equation]
+<ICE-USA:W2A-025#51:1> Here <it> e </it> is the fractional order of interference and has a
+
+value between 0 and 1.
+<ICE-USA:W2A-025#52:1> The index <it> j </it> is a real number.
+<ICE-USA:W2A-025#53:1> This notation is shown in Fig. 3.
+<ICE-USA:W2A-025#54:1> Our <it> k </it> - 1 is the <it> j </it> of Ref. 1.
+<ICE-USA:W2A-025#55:1> The second form of Eq.
+<ICE-USA:W2A-025#56:1> ( 6) is a good approximation to the resonant angles, since they are
+
+usually smaller than 0.01 rad.</p>
+
+<p> <ICE-USA:W2A-025#57:1> The ratio of the separation of the transmission peaks to their
+
+full width at half-maximum ( FWHM), when the phase, or the product <it> v
+
+</it> cos <foreign> O </foreign> , is varied, is called the finesse and is
+
+given by [ equation] the latter form being the limit for large <it> R </it> ,
+
+which is accurate to 0.1&percent; for <it> R </it> greater than 0.86.</p>
+
+<p> <ICE-USA:W2A-025#58:1> If <it> R </it> 1 =1, the transmission of the striped FP can be
+
+written as
+
+<p> <ICE-USA:W2A-025#59:1> [ equation]</p>
+
+<p> <ICE-USA:W2A-025#60:1> For a given finesse, and thus for a given value of <it> R </it> ,
+
+it will often be best to have <it> R </it> 1 = 1, since this produces about
+
+twice the peak intensity compared with <it> R </it> 1 <it> R </it> 2 = <it> R
+
+</it> .
+<ICE-USA:W2A-025#61:1> For example, Eqs. ( 3) and ( 9) show that a pair of 99.8 and 92.3&percent;
+
+reflectivity mirrors with <it> A </it> = 0.002 transmit ~1.95 times at much
+
+light as a pair of 96&percent; mirrors, but both have the same finesse or velocity
+
+resolution.
+<ICE-USA:W2A-025#62:1> The reason is that with <it> R </it> 1= 1, almost all the energy must
+
+exit to the right of the mirror pair.
+<ICE-USA:W2A-025#63:1> The advantage in doing this was not recognized in Ref. 3.</p>
+
+<p> <ICE-USA:W2A-025#64:1> An advantage of the stripe over the normal FP is shown by
+
+comparing Eq. ( 9) with the result for the normal FP: [ equation] where <it>
+
+R </it> is the reflectivity common to both mirrors.
+<ICE-USA:W2A-025#65:1> For incident light that enters the stripe, when <it> R </it> 1 =
+
+0.998, <it> R </it> 2 = 0.923, and <it> A </it> = 0.002, the peak intensity
+
+for the striped FP is 51 times as large as that for the normal FP with <it> R
+
+</it> = 0.96 and the same finesse.
+<ICE-USA:W2A-025#66:1> In most cases, part of this transmission advantage is canceled
+
+because only a fraction of the illumination can be made to enter the stripe.
+<ICE-USA:W2A-025#67:1> The stripe technique will be advantageous when the product of the
+
+illumination size on the target and the angular range of the collected light
+
+are small enough.
+<ICE-USA:W2A-025#68:1> Comparing Eqs. ( 9) and ( 10) shows that the absorption A decreases
+
+the peak transmission of the normal FP by a large percentage than it does for
+
+the striped FP with <it> R </it> 1 = 1.
+<ICE-USA:W2A-025#69:1> For <it> A </it> = 0.002 and <it> R </it> = 0.97, absorption
+
+decreases the normal FP peak transmission by 18&percent; but drops the striped FP
+
+transmission by less than 4&percent;.
+<ICE-USA:W2A-025#70:1> This can be understood qualitatively by considering just a single
+
+beam traversing the first mirror of the normal FP.
+<ICE-USA:W2A-025#71:1> Then absorption makes the first transmitted intensity equal to 0.028,
+
+rather than 0.030, for a 7&percent; loss in output.</p>
+
+<p> <ICE-USA:W2A-025#72:1> The averages over phase from 0 to 2p - that is, over one free
+
+spectral range- are important for the discussions below.
+<ICE-USA:W2A-025#73:1> They are [ equation] for the striped FP with <it> R </it> 1 = 1 and [
+
+equation] for the normal FP pattern.</p> <h> B. Equal Reflectivity Mirrors
+
+for the Striped Fabry-Perot Interferometer </h>
+
+<p> <ICE-USA:W2A-025#74:1> Another mode of operation for the striped FP is to use equal
+
+reflectivity mirrors.
+<ICE-USA:W2A-025#75:1> One can compensate for the factor of 2 in peak transmission mentioned
+
+just after Eq. ( 9) for the light that enters the stripe by using some of the
+
+light that cannot enter the stripe.
+<ICE-USA:W2A-025#76:1> We normally set the angular divergence approaching the stripe just to
+
+cover four transmission peaks.
+<ICE-USA:W2A-025#77:1> Suppose that under this constraint the illumination cannot be made
+
+smaller than 25 times as large as the stripe.
+<ICE-USA:W2A-025#78:1> Then, for the example above for <it> R </it> = 0.96, the transmitted
+
+intensity is about the same regardless of whether <it> R </it> 1 = 1.
+<ICE-USA:W2A-025#79:1> One problem with this mode of operation, however, is that, if any
+
+light missing the stripe is converging toward the optical axis, some of the
+
+multiply reflected beams may eventually exit back through the stripe.
+<ICE-USA:W2A-025#80:1> This creates a fringe broadening owing to the limited number of
+
+beamlets created.
+<ICE-USA:W2A-025#81:1> For example, if the full width of the stripe were 0.7 mm, and the
+
+illumination 18 mm wide ( so that the intensity would be equivalent), the
+
+mirrors would effectively be only 9 mm in radius for such rays.</p>
+
+<p> <ICE-USA:W2A-025#82:1> For 9-mm radius mirrors with <it> h </it> = 6.5 cm and <it> R
+
+</it> = 0.96, one finds that, using Subsection IV.E on walkoff broadening for
+
+these special rays, walkoff would degrade the finesse from 76 to 17.</p>
+
+<p> <ICE-USA:W2A-025#83:1> One might try to set up the illumination at the stripe so that
+
+the light diverges away from the optical axis, and reflection back through
+
+the stripe cannot occur.
+<ICE-USA:W2A-025#84:1> This could be ensured by using fiber-optic transport between the
+
+reflecting target and the optics just preceding the stripe.
+<ICE-USA:W2A-025#85:1> Thus, when the reflecting target moves, the light entering the stripe
+
+would not change from divergence to convergence, as it could for an
+
+air-transport system.</p>
+
+<p> <ICE-USA:W2A-025#86:1> To ensure divergence, one would set the waist of the illumination
+
+upstream of the stripe.
+<ICE-USA:W2A-025#87:1> The rays at the waist of spatially incoherent illumination usually
+
+have an angular distribution that is not significantly correlated with the
+
+radius of the ray.
+<ICE-USA:W2A-025#88:1> It is easy to show that the illumination at the stripe must be at
+
+least twice the diameter of the waist to eliminate convergence
+
+completely.</p>
+
+<p> <ICE-USA:W2A-025#89:1> Unfortunately, the angles of the rays entering the first mirror
+
+would then have a correlation with position with the large radii
+
+corresponding to large angles.
+<ICE-USA:W2A-025#90:1> If the illumination has a radius of 9 mm to match the transmitted
+
+power of an FP with <it> R </it> 1 = 1, the outer rays hitting a 25-mm radius
+
+mirror walk less distance before vignetting.
+<ICE-USA:W2A-025#91:1> These rays would have a larger walk-off broadening than would an FP
+
+with <it> R </it> 1 = 1.
+<ICE-USA:W2A-025#92:1> Thus, unless the mirrors are large enough, attempting to obtain more
+
+power transmission by using equal reflectivity mirrors necessitates broader
+
+fringes.</p>
+
+<p> <ICE-USA:W2A-025#93:1> There is one situation with an equal reflectivity FP that should
+
+be avoided experimentally.
+<ICE-USA:W2A-025#94:1> Suppose the position of the illumination waist near the stripe is
+
+allowed to move during the dynamic experiment, as would happen with an
+
+air-transport system.
+<ICE-USA:W2A-025#95:1> The system 's velocity resolution would be tested with a static target
+
+( static waist position) for which we assume that all the rays diverge into
+
+the FP.
+<ICE-USA:W2A-025#96:1> Then, if the waist size is only a few millimeters, the walkoff
+
+broadening is minimal and the fringe sharpness appears to be good.
+<ICE-USA:W2A-025#97:1> During the dynamic motion of the target, however, the position of the
+
+waist may move toward the striped FP and allow converging rays to enter the
+
+nonstriped region.
+<ICE-USA:W2A-025#98:1> Then reflections back through the stripe will occur and make the
+
+fringes significantly broader than they were compared with the initial
+
+test.</p> p><ICE-USA:W2A-025#>In summary, if the mirrors are large enough, there may be
+
+situations where more intensity at no loss of velocity resolution results
+
+from using equal reflectivities.
+<ICE-USA:W2A-025#99:1> But for our applications this is unlikely, because it is usually
+
+possible to make the waist radius only a few millimeters.
+<ICE-USA:W2A-025#100:1> Also, if the waist is this small, no significant broadening will
+
+occur with equal reflectivities if divergence of the rays is ensured, but
+
+more transmitted power would result from using <it> R </it> 1 = 1.</p> </I>

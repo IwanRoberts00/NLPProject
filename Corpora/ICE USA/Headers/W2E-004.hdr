@@ -1,0 +1,37 @@
+<text.info>
+<file.description>
+    <textcode>ICE-USA-W2E-004</textcode>
+    <number.of.subtexts>1</number.of.subtexts>
+    <category>Press Editorial</category>
+    <wordcount>2040</wordcount>
+    <version>coded, edited but untagged</version>
+    <free.comments></free.comments>
+</file.description>
+<subtext.source= ICE-USA-W2E-004>
+    <source.type=editorial>
+        <format>printed</format>
+        <date>Mar 2, 1992, March 16, 1992</date>
+    <copyright.statement>Reprinted with permission of The Nation and its representative, Syndications Director Peter Rothberg </copyright.statement>
+    <free.comments> 
+</free.comments>
+    </source.type>
+</subtext.source>
+<biography= ICE-USA-W2E-004>
+    <speaker.id></speaker.id>
+    <communicative.role> </communicative.role>
+        <surname></surname>
+        <forenames></forenames>
+        <age></age>
+        <gender>female</gender>
+        <nationality></nationality>
+        <ethnicity></ethnicity>
+        <birthplace> </birthplace>
+        <education></education>
+        <education.level> </education.level>
+        <occupation></occupation>
+        <affiliations></affiliations>
+        <mother.tongue></mother.tongue>
+        <other.languages></other.languages>
+    <free.comments> </free.comments>
+</biography>
+</text.info>

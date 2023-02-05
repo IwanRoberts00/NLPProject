@@ -1,0 +1,50 @@
+<text.info>
+ <file.description>
+ 	 <textcode>ICE-USA-W2B-004</textcode>
+  	<number of subtexts>1</number of subtexts>
+ 	<category>written: printed: popular: humanities </category>
+ 	<wordcount>2200</wordcount>
+ 	 <version>coded, edited, with essential mark-up</version>
+ 	<free.comments></free.comments>
+ </file.description>
+ <subtext.source=ICE-USA-W2B-004>
+  	<source.type=collection>
+<source.title>Ceramics Monthly</source.title>
+<series></series>
+ <editor> </editor>
+<publication statement>
+
+ <publisher>The American Ceramic Society</publisher>
+ <address> </address>
+ <place> </place>
+ 	<date>Oct 1994</date>
+ </publication statement>
+<copyright.statement>used by permission of The American Ceramic Society </copyright.statement>
+  <free.comments></free.comments>
+  </source.type>
+ </subtext.source>
+ <subtext.internals=ICE-USA-W2B-004>
+  <subtext.name> </subtext.name>
+ <main.title>They Call Him Lud</main.title>
+ <subtitle></subtitle>
+ <page.nos>29-35</page.nos>
+ 	 <free.comments></free.comments>
+ </subtext.internals>
+ <biography=ICE-USA-W2B-004>
+  <speaker.id></speaker.id>
+ <communicative.role>author</communicative.role>
+ <surname>Schammel</surname>
+ <forenames>Laurie</forenames>
+ 	<age>36</age>
+ 	<gender>Female</gender>
+ <nationality></nationality>
+ <birthplace></birthplace>
+ <education></education>
+ <educational.level>B.S.</educational.level>
+ <occupation>Writer, Photographer</occupation>
+ <affiliations></affiliations>
+ <mother.tongue>English</mother.tongue>
+ <other.languages></other.languages>
+ <free.comments></free.comments>
+ </biography>
+</text.info>

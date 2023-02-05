@@ -1,0 +1,457 @@
+<I>
+<ICE-USA:W2A-037#1:1> <H> Abstract</h>
+
+<P> <ICE-USA:W2A-037#2:1> This paper presents the findings of an empirical study into two
+
+organizations' experiences with the adoption and use of CASE tools over time.
+<ICE-USA:W2A-037#3:1>
+<ICE-USA:W2A-037#4:1> Using a grounded theory research approach, the study characterizes the
+
+organizations' experiences in terms of processes of incremental or radical
+
+organizational change.
+<ICE-USA:W2A-037#5:1> These findings are used to develop a theoretical framework for
+
+conceptualizing the organizational issues around the adoption and use of
+
+these tools--issues that have been largely missing from contemporary
+
+discussions of CASE tools.
+<ICE-USA:W2A-037#6:1> The paper thus has important implications for research and practice.
+<ICE-USA:W2A-037#7:1> Specifically, the framework and findings suggest that in order to
+
+account for the experiences and outcomes associated with CASE tools,
+
+researchers should consider the social context of systems development, the
+
+intentions and actions of key players, and the implementation process
+
+followed by the organization.
+<ICE-USA:W2A-037#8:1> Similarly, the paper suggests that practitioners will be better able
+
+to manage their organizations' experiences with CASE tools, if they
+
+understand that such implementations involve a process of organizational
+
+change over time, and not merely the installation of a new technology.</p>
+<ICE-USA:W2A-037#9:1> <H> Introduction</h>
+
+<P> <ICE-USA:W2A-037#10:1> CASE ( computer-aided software engineering) tools have generated
+
+much interest among researchers and practitioners as potential means for
+
+easing the software development and maintenance burden threatening to
+
+overwhelm information systems ( IS) departments.
+<ICE-USA:W2A-037#11:1> While interest and investment in CASE tools has been rising steadily,
+
+actual experiences with tools have exhibited more ambiguity.
+<ICE-USA:W2A-037#12:1> For example, while some studies report improvements in productivity
+
+from the use of CASE tools ( Banker and Kauffman, 1991; Necco, Tsai and
+
+Holgeson, 1989; Norman and Nunamaker, 1988; Swanson, McComb, Smith, and
+
+McCubbrey, 1991), others find that the expected productivity gains are
+
+elusive ( Card, McGarry, and Page, 1987; Yellen,1990) or eclipsed by lack of
+
+adequate training and experience, developer resistance, and increased design
+
+and testing time ( Norman, Corbitt, Butler, and McElroy, 1989; Orlikowski,
+
+1988b, 1989; Vessey, Jarvenpaa, and Tractinsky, 1992).</p>
+
+<P> <ICE-USA:W2A-037#13:1> While these contradictory experiences with CASE tools appear
+
+puzzling and difficult to interpret, the research presented here suggests
+
+that by shifting the focus from specific outcome expectations, we may be able
+
+to make some sense of the apparently inconsistent findings.
+<ICE-USA:W2A-037#14:1> This paper argues that the adoption and use of CASE tools should be
+
+conceptualized as a form of organizational change, and that such a
+
+perspective allows us to anticipate, explain, and evaluate different
+
+experiences and consequences following the introduction of CASE tools in
+
+organizations. To date, there has been no systematic examination or
+
+formulation of the organizational changes around CASE tools.
+<ICE-USA:W2A-037#15:1> Much of the literature on CASE tools has tended to focus on discrete
+
+outcomes, such as productivity, systems quality, and development costs, while
+
+neglecting the intentions and actions of key players, the process by which
+
+CASE tools are adopted and used, and the organizational context within which
+
+such events occur.
+<ICE-USA:W2A-037#16:1> Issues of intentions, actions, process, and context around
+
+information technology are not new to the IS field.
+<ICE-USA:W2A-037#17:1> For example, implementation research has looked at the process
+
+through which technology is introduced ( Ginzberg, 1981; Rogers, 1983), the
+
+interactionist ( Markus, 1983) and reinforcement politics ( George and King,
+
+1991) approaches have examined the role of social context in shaping the
+
+introduction and use of technology, and the structuration perspective (
+
+DeSanctis and Poole, forthcoming; Orlikowski and Robey, 1991) has emphasized
+
+the centrality of players' deliberate, knowledgeable, and reflective action
+
+in shaping and appropriating technology.
+<ICE-USA:W2A-037#18:1> Yet, contemporary discussions around CASE tools in research,
+
+education, and practice tend to gloss over these issues. In this paper, the
+
+implementation of CASE tools is understood as a specific case of
+
+technology-based organizational change.
+<ICE-USA:W2A-037#19:1> As such, the core research question is: What are the critical
+
+elements that shape the organizational changes associated with the adoption
+
+and use of CASE tools? In answering this question, I first describe the
+
+empirical findings that emerged from my grounded theory study of two
+
+organizations that implemented CASE tools in their systems development
+
+operations.
+<ICE-USA:W2A-037#20:1> I then develop a theoretical framework that conceptualizes the
+
+findings in terms of three central categories: strategic conduct,
+
+institutional context, and change process.</p>
+
+<P> <ICE-USA:W2A-037#21:1> The grounded theory approach was useful here because it allows a
+
+focus on contextual and processual elements as well as the action of key
+
+players associated with organizational change--elements that are often
+
+omitted in IS studies that rely on variance models and cross-sectional,
+
+quantitative data ( Markus and Robey, 1988; Orlikowski and Baroudi, 1991).
+<ICE-USA:W2A-037#22:1> While the findings of this grounded theory study are detailed and
+
+particularistic, a more general explanation can also be produced from the
+
+results ( Eisenhardt, 1989; Dutton and Dukerich, 1991; Leonard-Barton, 1990).
+<ICE-USA:W2A-037#23:1> Yin ( 1989a) refers to this technique as " analytic generalization"
+
+to distinguish it from the more typical statistical generalization that
+
+generalizes from a sample to a population.
+<ICE-USA:W2A-037#24:1> Here the generalization is of theoretical concepts and patterns.
+<ICE-USA:W2A-037#25:1> I further extend this generalization by combining the inductive
+
+concepts generated by the field study with insights from existing formal
+
+theory, in this case, from the innovation literature ( a strategy recommended
+
+by Glaser and Strauss, 1967).
+<ICE-USA:W2A-037#26:1> The outcome is a general conceptualization of the organizational
+
+changes associated with adopting and using CASE tools that both contributes
+
+to our research knowledge and informs IS practice.</p>
+
+<P> <ICE-USA:W2A-037#27:1> The paper makes three principal contributions.
+<ICE-USA:W2A-037#28:1> First, drawing on the rich data of two organizations' experiences,
+
+the paper generates a grounded understanding of the changes associated with
+
+implementing CASE tools in systems development.
+<ICE-USA:W2A-037#29:1> This grounded theory is valid empirically " because the
+
+theory-building process is so intimately tied with evidence that it is very
+
+likely that the resultant theory will be consistent with empirical
+
+observation" ( Eisenhardt, 1989, p.
+<ICE-USA:W2A-037#30:1> 547).
+<ICE-USA:W2A-037#31:1> While many believe that building theory from a limited number of
+
+cases is susceptible to researchers' preconceptions, Eisenhardt ( 1988)
+
+argues persuasively that the opposite is true.
+<ICE-USA:W2A-037#32:1> The iterative comparison across sites, methods, evidence, and
+
+literature that characterizes such research leads to a " constant
+
+juxtaposition of conflicting realities [ that] tends to " unfreeze" thinking,
+
+and so the process has the potential to generate theory with less researcher
+
+bias than theory built from incremental studies or armchair, axiomatic
+
+deduction" ( p.
+<ICE-USA:W2A-037#33:1> 546).
+<ICE-USA:W2A-037#34:1> Second, the grounded theory developed in this paper adds substantive
+
+content to our understanding of the central role played by individual actors,
+
+their institutional context, and the processes they enact in adopting and
+
+using CASE tools.
+<ICE-USA:W2A-037#35:1> Such an understanding has been absent from the research and practice
+
+discourses on CASE tools.
+<ICE-USA:W2A-037#36:1> The approach followed here focuses specifically on developing such an
+
+understanding, thus bringing a fresh set of issues to the already-researched
+
+topic of CASE tools ( Eisenhardt, 1989).
+<ICE-USA:W2A-037#37:1> Third, the paper integrates a specific grounded theory with the more
+
+formal insights available from the innovation literature, developing a more
+
+general framework that will allow researchers and practitioners to explain,
+
+anticipate, and evaluate various organizational changes associated with the
+
+adoption and use of CASE tools.</p>
+
+<P> <ICE-USA:W2A-037#38:1> The paper is structured as follows.
+<ICE-USA:W2A-037#39:1> The first section describes the research methodology and the two
+
+research sites.
+<ICE-USA:W2A-037#40:1> The next section presents the research findings, describing the
+
+experiences of each organization in turn.
+<ICE-USA:W2A-037#41:1> The discussion section follows, integrating the specific concepts and
+
+findings of the field research with insights from the innovation literature
+
+into an analytic framework for conceptualizing CASE tools adoption and use in
+
+organizations.
+<ICE-USA:W2A-037#42:1> The conclusion then assesses the contribution of the research
+
+framework and findings, both for future research and for the management of
+
+CASE tools in organizations.</p>
+<ICE-USA:W2A-037#43:1> <H> Research Methodology</h>
+
+<P> <ICE-USA:W2A-037#44:1> The research methodology followed was that of grounded theory (
+
+Glaser and Strauss, 1967; Martin and Turner, 1986; Turner, 1983), with an aim
+
+of generating a descriptive and explanatory theory of the organizational
+
+changes associated with CASE tools rooted in the experiences of specific
+
+systems development operations.
+<ICE-USA:W2A-037#45:1> This approach has been effectively used in organizational research (
+
+Ancona, 1990; Elsbach and Sutton, 1992; Isabella, 1990; Kahn, 1990;
+
+Pettigrew, 1990; Sutton, 1987), and was adopted here for three primary
+
+reasons.</p>
+
+<P> <ICE-USA:W2A-037#46:1> First, grounded theory " is an inductive, theory discovery
+
+methodology that allows the researcher to develop a theoretical account of
+
+the general features of a topic while simultaneously grounding the account in
+
+empirical observations or data" ( Martin and Turner, 1986, p.
+<ICE-USA:W2A-037#47:1> 141).
+<ICE-USA:W2A-037#48:1> This generative approach seemed particularly useful here given that
+
+no change theory of CASE tools adoption and use has been established to date.
+<ICE-USA:W2A-037#49:1> While models of information technology implementation do exist (
+
+Ginzberg, 1981; Lucas, 1978; Markus, 1983) these deal largely with the
+
+development stages of IS implementation and focus extensively on user
+
+involvement and user relations.
+<ICE-USA:W2A-037#50:1> As a result, they are less applicable to the issue of organizational
+
+change in general, and to the case of CASE tools adoption and use in
+
+particular.</p>
+
+<P> <ICE-USA:W2A-037#51:1> Second, a major premise of grounded theory is that to produce
+
+accurate and useful results, the complexities of the organizational context
+
+have to be incorporated into an understanding of the phenomenon, rather than
+
+be simplified or ignored ( Martin and Turner, 1986; Pettigrew, 1990).
+<ICE-USA:W2A-037#52:1> As indicated above, a number of theoretical approaches emphasize the
+
+criticality of organizational context in shaping technology use in
+
+organizations.
+<ICE-USA:W2A-037#53:1> Such a conviction also informs this research, and the use of a
+
+grounded theory methodology allowed the inclusion and investigation of this
+
+key organizational element.</p>
+
+<P> <ICE-USA:W2A-037#54:1> Third, grounded theory facilitates " the generation of theories
+
+of process, sequence, and change pertaining to organizations, positions, and
+
+social interaction" ( Glaser and Strauss, 1967, p.
+<ICE-USA:W2A-037#55:1> 114).
+<ICE-USA:W2A-037#56:1> As indicated above, the change an organization undergoes in adopting
+
+and assimilating CASE tools, and the processes of appropriation and use that
+
+system developers engage in to incorporate the tools in their work lives have
+
+tended to be neglected in the CASE tools literature.
+<ICE-USA:W2A-037#57:1> A research approach that specifically includes elements of process
+
+and change was thus particularly appropriate here.</p>
+
+<P> <ICE-USA:W2A-037#58:1> These three characteristics of grounded theory--inductive,
+
+contextual, and processual--fit with the interpretive rather than positivist
+
+orientation of this research.
+<ICE-USA:W2A-037#59:1> The focus here is on developing a context-based, process-oriented
+
+description and explanation of the phenomenon, rather than an objective,
+
+static description expressed strictly in terms of causality ( Boland, 1979,
+
+1985; Chua, 1986; Orlikowski and Baroudi, 1991).
+<ICE-USA:W2A-037#60:1> In the language of Markus and Robey ( 1988) and Mohr ( 1982), the
+
+paper develops a process not a variance theory.
+<ICE-USA:W2A-037#61:1> Such a theory describes and explains the process of adopting and
+
+using CASE tools in terms of an interaction of contextual conditions,
+
+actions, and consequences, rather than explaining variance using independent
+
+and dependent variables ( Elsbach and Sutton, 1992).
+<ICE-USA:W2A-037#62:1> This orientation " gives primacy to realism of context and
+
+theoretical and conceptual development as research goals" ( Pettigrew, 1990,
+
+p.
+<ICE-USA:W2A-037#63:1> 283).</p>
+
+<P> <ICE-USA:W2A-037#64:1> The methodology of grounded theory is iterative, requiring a
+
+steady movement between concept and data, as well as comparative, requiring a
+
+constant comparison across types of evidence to control the conceptual level
+
+and scope of the emerging theory.
+<ICE-USA:W2A-037#65:1> As Pettigrew ( 1989) notes, this " provides an opportunity to examine
+
+continuous processes in context in order to draw out the significance of
+
+various levels of analysis and thereby reveal the multiple sources of loops
+
+of causation and connectivity so crucial to identifying and explaining
+
+patterns in the process of change" ( p.
+<ICE-USA:W2A-037#66:1> 14).
+<ICE-USA:W2A-037#67:1> To facilitate this iteration and comparison, two field sites were
+
+studied and analyzed in turn, a strategy also adopted by Kahn ( 1990).
+<ICE-USA:W2A-037#68:1> The initial concepts thus emerged in one organizational context, and
+
+were then contrasted, elaborated, and qualified in the other.</p>
+<ICE-USA:W2A-037#69:1> <H> Site Selection</h>
+
+<P> <ICE-USA:W2A-037#70:1> Following Glaser and Strauss' ( 1967) technique of theoretical
+
+sampling, the two organizations were selected for their similarities as well
+
+as their differences.
+<ICE-USA:W2A-037#71:1> Theoretical sampling requires paying attention to theoretical
+
+relevance and purpose.
+<ICE-USA:W2A-037#72:1> With respect to relevance, this selection process ensures that the
+
+substantive area addressed--here, the adoption and use of CASE tools--is kept
+
+similar, or as Eisenhardt ( 1988) notes, " is likely to replicate or extend
+
+the emergent theory" ( p.
+<ICE-USA:W2A-037#73:1> 537).
+<ICE-USA:W2A-037#74:1> Thus, both organizations chosen for this study had within the past
+
+few years implemented CASE tools into their systems development operations,
+
+and mandated their use on all new systems development work.
+<ICE-USA:W2A-037#75:1> In addition, the CASE tools themselves, while not identical, were
+
+compatible across the two organizations in that both were life-cycle tools
+
+that integrate the phases of analysis, design, coding, and testing.1 Both
+
+sets of tools provide similar capabilities such as design aids ( e.g., data
+
+flow diagrams), data modeling facilities ( e.g., entity-relationship
+
+modeling), screen and report design utilities, data repositories, code
+
+generators, test data generation, and version control.
+<ICE-USA:W2A-037#76:1> While the one set of CASE tools are based on the Structured Systems
+
+Design approach ( Yourdon and Constantine, 1978), the other is based on
+
+Information Engineering ( Martin, 1990a, 1990b, 1990c).
+<ICE-USA:W2A-037#77:1> Thus, the two sets of CASE tools are philosophically similar, drawing
+
+on the same basic software engineering tenets of functional decomposition,
+
+separation of process and data, and sequential development phases.</p>
+
+<P> <ICE-USA:W2A-037#78:1> Because the purpose of the research was to generate theory
+
+applicable to various organizational contexts and distinguishing different
+
+change processes, differences were sought in organizational conditions such
+
+as the nature and scope of systems development activity and the method of
+
+CASE tools acquisition.
+<ICE-USA:W2A-037#79:1> As a result, the two companies selected also differ on other
+
+organizational dimensions such as industry, location, size, structure, and
+
+culture.
+<ICE-USA:W2A-037#80:1> The consulting firm ( SCC)3 is in the software business, developing
+
+information systems for external clients.
+<ICE-USA:W2A-037#81:1> In 1987, it employed 13,000 consultants and earned
+
+&dollar;600 million in revenues.
+<ICE-USA:W2A-037#82:1> SCC acquired its CASE tools by developing them in-house.
+<ICE-USA:W2A-037#83:1> The petro-chemical firm ( PCC) is in the petroleum products business,
+
+having earned
+
+&dollar;6.3 billion in revenues in 1987.
+<ICE-USA:W2A-037#84:1> It has an internal information systems division, which employs 320
+
+people and which develops and maintains information systems for internal
+
+business units.
+<ICE-USA:W2A-037#85:1> PCC acquired its CASE tools by purchasing them from an outside
+
+vendor.
+<ICE-USA:W2A-037#86:1> These differences in organizational conditions allowed useful
+
+contrasts to be made during data analysis, which challenged and elaborated
+
+the emerging concepts.</p></I>

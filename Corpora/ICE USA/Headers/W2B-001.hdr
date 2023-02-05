@@ -1,0 +1,32 @@
+ <text.info>  
+  <file.description>  
+    <textcode>ICE-USA-W2B-001</textcode>    
+  <number of subtexts>1</number of subtexts>      <category>written: printed: popular: humanities </category>      <wordcount>2200</wordcount>  
+    <version>coded, edited, tagged</version>      <free.comments></free.comments>    
+</file.description>   
+ <subtext.source=ICE-USA-W2B-001>      <source.type=collection>     
+    <source.title> New Orleans Magazine </source.title>         <series>Vol. 31 Issue 3</series>   
+      <editor></editor>   
+   <publication statement>   
+      <publisher> Renaissance Publishing, LLC </publisher>         <address>110 Veterans Boulevard, Suite 123</address>         <place> Metairie Louisiana 70005</place>   
+      <date> Dec96</date>   
+   </publication statement>      <copyright.statement></copyright.statement>      <free.comments>Permission request form is still missing.</free.comments>  
+    </source.type> 
+   </subtext.source> 
+   <subtext.internals=ICE-USA-W2B-001>     
+ <subtext.name> </subtext.name>
+         <main.title> Beauty in sacred spaces </main.title>         <subtitle></subtitle>    
+     <page.nos> p56, 6p, 9c </page.nos>   
+   <free.comments> Persistent link to this article: http://temp8.cc.umb.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=f5h&AN=9612161697&site=ehost-live </free.comments>  
+  </subtext.internals>
+    <biography=ICE-USA-W2B-001>  
+    <speaker.id></speaker.id>         <communicative.role>author</communicative.role>         <surname> Masciere</surname>
+         <forenames> Christina forenames>
+         <age> </age>       
+  <gender>Female</gender>      
+   <nationality></nationality>   
+      <birthplace></birthplace>  
+       <education></education>         <educational.level></educational.level>         <occupation></occupation>      
+   <affiliations></affiliations>         <mother.tongue></mother.tongue>         <other.languages></other.languages>         <free.comments></free.comments> 
+   </biography>
+ </text.info>

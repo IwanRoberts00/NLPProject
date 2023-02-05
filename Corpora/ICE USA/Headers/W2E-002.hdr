@@ -1,0 +1,37 @@
+<text.info>
+<file.description>
+    <textcode>ICE-USA-W2E-002</textcode>
+    <number.of.subtexts>1</number.of.subtexts>
+    <category>Press Editorial</category>
+    <wordcount>2020</wordcount>
+    <version>coded, edited but untagged</version>
+    <free.comments></free.comments>
+</file.description>
+<subtext.source= ICE-USA-W2E-002>
+    <source.type=editorial>
+        <format>printed</format>
+        <date>July 23,24,25,26, 1992</date>
+    <copyright.statement>used with permission of the Savannah News Press and its representative, Thomas S. Barton 
+</copyright.statement>
+    <free.comments></free.comments>
+    </source.type>
+</subtext.source>
+<biography= ICE-USA-W2E-002>
+    <speaker.id></speaker.id>
+    <communicative.role> </communicative.role>
+        <surname></surname>
+        <forenames></forenames>
+        <age></age>
+        <gender>female</gender>
+        <nationality></nationality>
+        <ethnicity></ethnicity>
+        <birthplace> </birthplace>
+        <education></education>
+        <education.level> </education.level>
+        <occupation></occupation>
+        <affiliations></affiliations>
+        <mother.tongue></mother.tongue>
+        <other.languages></other.languages>
+    <free.comments> </free.comments>
+</biography>
+</text.info> 

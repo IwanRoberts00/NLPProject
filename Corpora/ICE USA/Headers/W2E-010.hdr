@@ -1,0 +1,37 @@
+<text.info>
+<file.description>
+    <textcode>ICE-USA-W2E-010</textcode>
+    <number.of.subtexts>1</number.of.subtexts>
+    <category>Press Editorial</category>
+    <wordcount>2230</wordcount>
+    <version>coded, edited but untagged</version>
+    <free.comments></free.comments>
+</file.description>
+<subtext.source= ICE-USA-W2E-010>
+    <source.type=editorial>
+        <format>printed</format>
+        <date>August 25, 1995; October 9, 1995; October 11, 1995; October 27, 1995</date>
+    <copyright.statement>Reprinted with permission from the Sun-Sentinel and its representative, Editor and Vice President Earl Maucker</copyright.statement>
+    <free.comments> 
+</free.comments>
+    </source.type>
+</subtext.source>
+<biography= ICE-USA-W2E-010>
+    <speaker.id></speaker.id>
+    <communicative.role> </communicative.role>
+        <surname></surname>
+        <forenames></forenames>
+        <age></age>
+        <gender>female</gender>
+        <nationality></nationality>
+        <ethnicity></ethnicity>
+        <birthplace> </birthplace>
+        <education></education>
+        <education.level> </education.level>
+        <occupation></occupation>
+        <affiliations></affiliations>
+        <mother.tongue></mother.tongue>
+        <other.languages></other.languages>
+    <free.comments> </free.comments>
+</biography>
+</text.info> 

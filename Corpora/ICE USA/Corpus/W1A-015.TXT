@@ -1,0 +1,370 @@
+<I>
+<ICE-USA:W1A-015#1:1> <h> APPLIED LINGUISTICS C204: LANGUAGE ASSESSMENT TAKE-HOME EXAM
+#1</h>
+<ICE-USA:W1A-015#2:1> <h> QUESTION 1:</h>
+
+<p> In this question, students in an adult education program in a large U.S.
+
+city are given an exit test to provide evidence of their ability to
+
+participate in small talk.
+<ICE-USA:W1A-015#3:1> The limitations on measurement, including underspecification,
+
+indirectness, incompleteness, imprecision, subjectivity, and relativeness,
+
+all apply to the specific features of this testing situation.
+<ICE-USA:W1A-015#4:1> These limitations, in addition to some other factors, affect
+
+interpretations of test scores, reliability, and construct validity.
+<ICE-USA:W1A-015#5:1> However, these limitations can be minimized through the steps in
+
+assessment, defining the construct theoretically and operationally and
+
+describing observations of performance.</p>
+
+<p> Underspecification, the process of making " certain simplifying
+
+assumptions", applies to this testing situation ( Bachman, p. 31).
+<ICE-USA:W1A-015#6:1> Though the intention is to measure a construct that includes knowledge
+
+of vocabulary, knowledge of syntax, and textual knowledge, the examiners
+
+cannot assume that the different parts of the test only measure those
+
+components of language.
+<ICE-USA:W1A-015#7:1> For example, in the textual organization ability test, a student may
+
+not perform well because he does not have the vocabulary to express himself.
+<ICE-USA:W1A-015#8:1> This may affect his ability to organize his thoughts in a meaningful
+
+way and will in the end negatively affect his score on this portion of the
+
+test.
+<ICE-USA:W1A-015#9:1> This then would have an effect on validity of the score
+
+interpretation, as it would be difficult to know what the score is actually
+
+measuring.
+<ICE-USA:W1A-015#10:1> Even if there are other factors that affect a student 's performance,
+
+we must isolate the factors we wish to measure through underspecification.
+<ICE-USA:W1A-015#11:1> In the end, this may affect our ability to interpret scores in a
+
+valid way.</p>
+
+<p> This testing situation is designed to measure a student 's ability to
+
+engage in small talk.
+<ICE-USA:W1A-015#12:1> Since it is designed to be an oral interview, it may seem to be a "
+
+direct test" because it " involve(s) the use of the skills being tested" (
+
+Bachman, p. 33).
+<ICE-USA:W1A-015#13:1> However, this language test, like all language tests, is indirect
+
+because its score is not based on an actual " small talk" conversation that
+
+the student had with someone outside of the testing situation.
+<ICE-USA:W1A-015#14:1> Since the scores are " indirect indicators of ability", it is very
+
+important to specify the relationship between the test score and the ability
+
+it should indicate.
+<ICE-USA:W1A-015#15:1> If this is unclear, the interpretations and uses could be
+
+invalid.</p>
+
+<p> As with any language testing situation, the performance observed and
+
+measured in a language test is " a sample of an individual 's total
+
+performance in that language" ( Bachman, p. 33).
+<ICE-USA:W1A-015#16:1> This test is designed to sample a student 's performance in order to
+
+measure his competence in a broad TLU domain, which includes " a variety of
+
+types of tasks to meet occupational, day-to-day pragmatic, and social needs".
+<ICE-USA:W1A-015#17:1> However, since the student has the opportunity to choose a topic
+
+about which to speak during the entire test, the score will be based on an
+
+incomplete sample of performance.
+<ICE-USA:W1A-015#18:1> The score will only reflect the components of the construct as they
+
+relate to the student 's chosen area of expertise.
+<ICE-USA:W1A-015#19:1> This will affect the construct validity, as it will be difficult to
+
+assess whether the score interpretations are appropriate or meaningful in
+
+relation to the student 's ability to engage in small talk about a variety of
+
+different topics.
+<ICE-USA:W1A-015#20:1> This could also affect reliability, since if the student had happened
+
+to choose a different topic with which he is comfortable he may have received
+
+a different score.</p>
+
+<p> Imprecision poses two problems in this testing situation.
+<ICE-USA:W1A-015#21:1> As Bachman states, " the accuracy or precision of our measurements is
+
+a function of both the representativeness and the number of tasks or units
+
+with which we define our scales ( Bachman, p. 35).
+<ICE-USA:W1A-015#22:1> In order to increase precision of measurements, it is necessary to
+
+develop a rating scale that includes as many levels as possible.
+<ICE-USA:W1A-015#23:1> In this case, the scale that is being used is not described in any
+
+detail.
+<ICE-USA:W1A-015#24:1> In addition, comparability of the tasks on the test, " in terms of
+
+their difficulty relative to the ability of the test takers", is important.
+<ICE-USA:W1A-015#25:1> Because this test is designed for beginning to advanced students with
+
+expertise in different areas, it would be quite difficult to assure
+
+comparability for all the students taking the test.
+<ICE-USA:W1A-015#26:1> This imprecision will make it difficult to interpret scores
+
+appropriately, as the level of difficulty of the test questions would affect
+
+different students' performance in different ways.
+<ICE-USA:W1A-015#27:1> This would therefore affect construct validity.</p>
+
+<p> This language test, like all language tests, is subjective.
+<ICE-USA:W1A-015#28:1> The design of the test is subjective, for the choice of which
+
+questions to ask and which topics the test takers can choose from are
+
+subjective.
+<ICE-USA:W1A-015#29:1> In addition, the way that the two examiners score these tests is
+
+definitely subjective.
+<ICE-USA:W1A-015#30:1> Though they have a rating scale to guide their scoring, the examiners
+
+each have their own perspectives and ideas about the test taker 's abilities.
+<ICE-USA:W1A-015#31:1> Also, if the examiners disagree about scores, they " discuss the
+
+interview and their notes in order to arrive at a rating that they can agree
+
+upon".
+<ICE-USA:W1A-015#32:1> This process could result in scores that may or may not be reliable,
+
+since the scores depend to some extent upon the raters.
+<ICE-USA:W1A-015#33:1> Also, if the test were given to the same student more than once,
+
+final scoring decisions could change if different raters were placed together
+
+or if the same raters switched jobs; this would also affect the reliability
+
+of the scores.
+<ICE-USA:W1A-015#34:1> Lastly, the test taker is consistently making subjective decisions
+
+during the test about the types of answers that he wants to give.</p>
+
+<p> It is difficult to define the presence or absence of the components of
+
+the construct; in this way, this testing situation is relative.
+<ICE-USA:W1A-015#35:1> For example, though there is a section in this test which includes "
+
+Specialized Vocabulary Questions", it would be impossible to define a
+
+student 's ability based on a concept of " zero language ability" as related
+
+to vocabulary ( Bachman, p. 38).
+<ICE-USA:W1A-015#36:1> In addition, the construct includes knowledge of a range of syntactic
+
+structures.
+<ICE-USA:W1A-015#37:1> It would be difficult to say that a test taker has " perfect language
+
+ability" or a " native speaker 's ability" in syntax.
+<ICE-USA:W1A-015#38:1> This limits the examiners' ability to measure these components.
+<ICE-USA:W1A-015#39:1> In turn, this limitation affects their ability to interpret the
+
+scores in a clear, useful, and meaningful way.</p>
+
+<p> Many of these factors affect reliability.
+<ICE-USA:W1A-015#40:1> There are also other issues unique to this testing situation which
+
+affect reliability.
+<ICE-USA:W1A-015#41:1> For example, the results of this test will be used for two different
+
+purposes, one that is low-stakes and the other that is high-stakes.
+<ICE-USA:W1A-015#42:1> This makes it difficult to assess how reliable the scores need to be.
+<ICE-USA:W1A-015#43:1> In addition, the fact that there is scoring done during the test will
+
+affect the reliability of the scores.
+<ICE-USA:W1A-015#44:1> The test taker could be affected by being scored while the test is
+
+happening, which will affect his " affective schemata".
+<ICE-USA:W1A-015#45:1> The test taker 's " affective schemata" will therefore not be the same
+
+as that of the language user, as discussed in Bachman and Palmer ( Bachman
+
+and Palmer, p. 20).
+<ICE-USA:W1A-015#46:1> In this way, the testing situation itself is affecting the test
+
+taker 's performance, which can in turn affect the reliability of the
+
+scores.</p>
+
+<p> These six limitations in measurement greatly affect interpretations of
+
+test scores, reliability, and construct validity.
+<ICE-USA:W1A-015#47:1> Also, one other point is that we would want to make sure that the "
+
+areas of expertise" that the test takers can choose to talk about are
+
+actually topics within the TLU domain of " small talk".
+<ICE-USA:W1A-015#48:1> If not, the results of the entire test could be interpreted in an
+
+invalid way for the intended purpose.</p> <h>
+<ICE-USA:W1A-015#49:1> QUESTION 2:</h>
+
+<p> The situation that is described here has very specific qualities.
+<ICE-USA:W1A-015#50:1> These qualities would affect the choices I would make when developing
+
+the language test, interpreting the test scores, and determining the scores
+
+for making placements into the different levels.
+<ICE-USA:W1A-015#51:1> In this case, I would use a criterion-referenced achievement test to
+
+place the beginning to advanced individuals into different course levels for
+
+a variety of reasons.</p>
+
+<p> Criterion-referenced tests are intended to enable " the test user to
+
+interpret a test score with reference to a criterion level of ability or
+
+domain of content" ( Bachman, p. 74).
+<ICE-USA:W1A-015#52:1> The test tasks are, therefore, representative of such levels or
+
+domains.
+<ICE-USA:W1A-015#53:1> As Brown discusses, in an achievement test, the developer bases test
+
+items on " objectives of whole range of course levels" ( handout).
+<ICE-USA:W1A-015#54:1> In this situation, there are " fixed syllabi and textbooks for each
+
+level, and the teachers are expected to follow the textbooks closely".
+<ICE-USA:W1A-015#55:1> Therefore, it would be necessary for the placement test tasks to be
+
+based closely on the content of the different course syllabi and textbooks.
+<ICE-USA:W1A-015#56:1> For example, I would include questions that test different levels of
+
+competence regarding vocabulary, verb tenses, grammar points, and syntax as
+
+they are presented in the different levels' course syllabi and textbooks (
+
+through listening, speaking, and written exercises).
+<ICE-USA:W1A-015#57:1> In this way, a criterion-referenced achievement test would be
+
+appropriate.
+<ICE-USA:W1A-015#58:1> In this situation, there is " the potential for more appropriate
+
+placements, with respect to course content objectives" ( handout).</p>
+
+<p> A criterion-referenced achievement test is also appropriate in this case
+
+because the teachers have no formal training and little previous experience,
+
+in addition to the fact there is a large turn-over in teaching staff each
+
+term.
+<ICE-USA:W1A-015#59:1> Since the test tasks will be chosen with the syllabi and textbooks
+
+for each level in mind, it is possible for the teachers to gain diagnostic
+
+information about course objectives based on the results of the tests.
+<ICE-USA:W1A-015#60:1> Brown mentions another advantage of CR achievement tests, which is
+
+that one only needs to develop " a single test battery for placement,
+
+progress, and grading decisions" ( handout).
+<ICE-USA:W1A-015#61:1> This would also help the inexperienced teachers, since they could use
+
+the same tests before, during, and after the term to determine information
+
+about the students' progress.</p>
+
+<p> The two disadvantages generally associated with CR achievement tests do
+
+not apply in this testing situation.
+<ICE-USA:W1A-015#62:1> The first, which is that " if cohorts vary in proficiency or size
+
+from year to year, there will be shifts in the numbers of students in various
+
+course levels, but placements will still be appropriate" ( handout).
+<ICE-USA:W1A-015#63:1> In this situation, the numbers of incoming students are approximately
+
+the same each term.
+<ICE-USA:W1A-015#64:1> Therefore, one would not have to take any change in size of the
+
+cohorts into consideration.
+<ICE-USA:W1A-015#65:1> The second disadvantage is that " if course syllabi change, [ one
+
+needs] to change the test" ( handout).
+<ICE-USA:W1A-015#66:1> However, as has been already stated, there are fixed syllabi and
+
+textbooks for each level.
+<ICE-USA:W1A-015#67:1> Consequently, this disadvantage also would not apply in this testing
+
+situation.</p>
+
+<p> I would interpret the scores " with reference to specified levels of
+
+ability or content domain" ( handout).
+<ICE-USA:W1A-015#68:1> For example, I stated earlier that I would include test tasks that
+
+test different levels of competence regarding vocabulary, verb tenses,
+
+grammar points, and syntax as they are presented in the different levels'
+
+course syllabi and textbooks.
+<ICE-USA:W1A-015#69:1> If a student is able to respond correctly to questions which include
+
+all vocabulary, verb tenses, grammar points, and syntax from level 1 and a
+
+few from level 2, then I could interpret that score to mean that the student
+
+should be placed in level 2.
+<ICE-USA:W1A-015#70:1> It would make it quite easy to show a correlation between various
+
+test tasks and syllabi/textbook components, since I will have designed the
+
+test tasks to be representative of certain ability levels and competence in
+
+specific content domains.
+<ICE-USA:W1A-015#71:1> In addition, I will be using questions that are both objectively and
+
+subjectively scored.
+<ICE-USA:W1A-015#72:1> This enables the test takers to demonstrate knowledge in a variety of
+
+ways and allows the teachers to see the students' demonstrated ability levels
+
+through their performance.</p>
+
+<p> I would first need to determine selection points according to criteria
+
+for certain decisions in order to decide how to place individuals into the
+
+different levels ( handout).
+<ICE-USA:W1A-015#73:1> In this case, the teachers are not very experienced and have no
+
+formal training.
+<ICE-USA:W1A-015#74:1> In addition, they are assigned to teach specific levels.
+<ICE-USA:W1A-015#75:1> Therefore, I want to make sure that the students are being placed
+
+appropriately in each level, meaning that they need to demonstrate very well
+
+their abilities in the specific content domains for each level.
+<ICE-USA:W1A-015#76:1> Consequently, if there were four levels total, my placement would
+
+look like this: If a score is 85&percent; on test tasks from level one/level
+
+two/level three ( respectively) and below 85&percent; from level two/level
+
+three/level four ( respectively), place into level one/level two/level three
+
+( respectively). </I>

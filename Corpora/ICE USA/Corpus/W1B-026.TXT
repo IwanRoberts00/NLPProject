@@ -1,0 +1,449 @@
+<I>
+<ICE-USA:W1B-026#1:1> <h> MICROSOFT CORPORATION</h>
+<ICE-USA:W1B-026#2:1> <h> GENERAL</h>
+
+<p> <ICE-USA:W1B-026#3:1> Microsoft Corporation ( the " Company" or " Microsoft") was
+
+founded as a partnership in 1975 and was incorporated in 1981.
+<ICE-USA:W1B-026#4:1> The Company operates in one business segment - the development,
+
+manufacture, marketing, licensing, and support of a wide range of software
+
+products, including operating systems for personal computers ( PCs), office
+
+machines, and personal information devices; applications programs; and
+
+languages; as well as personal computer books, hardware, and multimedia
+
+products.
+<ICE-USA:W1B-026#5:1> Microsoft(R) products are available for most PCs, including Apple(R)
+
+computers and those running Intel(R) microprocessors. </p>
+
+<p> <ICE-USA:W1B-026#6:1> Microsoft 's business strategy emphasizes the development of a
+
+broad line of microcomputer software products for business and personal use,
+
+marketed through multiple channels of distribution.
+<ICE-USA:W1B-026#7:1> The Company is divided into three main groups: the Products Group; the
+
+Sales and Support Group; and the Operations Group. </p>
+
+<p> <ICE-USA:W1B-026#8:1> The Products Group is comprised of five main divisions, each
+
+responsible for a particular area of software development, technology
+
+development, and product marketing.
+<ICE-USA:W1B-026#9:1> The Personal Operating Systems Division designs and develops operating
+
+systems for desktop PCs.
+<ICE-USA:W1B-026#10:1> The Business Systems Division is responsible for enterprise-wide
+
+computing solutions, including client-server architectures, networking
+
+products, and workgroup applications.
+<ICE-USA:W1B-026#11:1> The Desktop Applications Division creates productivity applications.
+<ICE-USA:W1B-026#12:1> The Developer Division creates database products, as well as
+
+programming language products and software development tools.
+<ICE-USA:W1B-026#13:1> The Consumer Division develops products designed for the home,
+
+school, and small business market, including multimedia consumer products and
+
+computer input devices ( hardware). </p>
+
+<p> <ICE-USA:W1B-026#14:1> Microsoft also has an Advanced Technology Division, which is
+
+involved in research of new technologies for the evolution of personal
+
+computing and the development of innovative consumer software architectures.
+
+</p>
+
+<p> <ICE-USA:W1B-026#15:1> The Sales and Support Group is responsible for building long-term
+
+business relationships with customers.
+<ICE-USA:W1B-026#16:1> This group is aligned with one of three customer types: end users,
+
+organizations, and OEMs ( original equipment manufacturers).
+<ICE-USA:W1B-026#17:1> The Sales and Support group manages the channels that serve those
+
+customers.
+<ICE-USA:W1B-026#18:1> These channels include the U.S. and Canada, Europe, Other
+
+International, and OEM.
+<ICE-USA:W1B-026#19:1> The group also provides support for the Company 's products through
+
+Product Support Services, Consulting Services, and Solutions Providers. </p>
+
+<p> <ICE-USA:W1B-026#20:1> The Operations Group is responsible for managing business
+
+operations and overall business planning.
+<ICE-USA:W1B-026#21:1> This includes the process of manufacture and delivery of finished
+
+goods, licenses, subscriptions, and fulfillment orders; the publishing
+
+efforts of Microsoft Press; and other corporate functions. </p>
+<ICE-USA:W1B-026#22:1> <h> PRODUCTS</h>
+<ICE-USA:W1B-026#23:1> <h> PERSONAL OPERATING SYSTEMS</h>
+
+<p> <ICE-USA:W1B-026#24:1> The Personal Operating Systems Division develops desktop
+
+operating systems software, which controls PCs, allocates computer memory,
+
+schedules the execution of applications software, and manages the flow of
+
+information and communication among the various components of the PC.
+<ICE-USA:W1B-026#25:1> The Company 's primary proprietary operating systems for PCs are: the
+
+Microsoft MS-DOS(R) operating system, the Microsoft Windows(TM) operating
+
+system, and Microsoft Windows(TM) for Workgroups. </p>
+
+<p> <ICE-USA:W1B-026#26:1> MS-DOS: Microsoft MS-DOS is a single-user, single-tasking
+
+operating system designed for PCs that utilize Intel microprocessor chips.
+<ICE-USA:W1B-026#27:1> Since the introduction of MS-DOS on the IBM PC in 1981, the Company
+
+has enhanced MS-DOS as new technologies are developed and user needs have
+
+arisen.
+<ICE-USA:W1B-026#28:1> MS-DOS is preinstalled by OEMs on most PCs. </p>
+
+<p> <ICE-USA:W1B-026#29:1> WINDOWS: Microsoft Windows is a graphical operating system for
+
+MS-DOS-based PCs.
+<ICE-USA:W1B-026#30:1> Microsoft Windows supports high-performance Windows-based
+
+applications, and offers ease of use and aesthetic appeal, scalable
+
+TrueType(R) fonts, built-in multimedia functionality, and straightforward
+
+integration into corporate computing environments. </p>
+
+<p> <ICE-USA:W1B-026#31:1> WINDOWS FOR WORKGROUPS: Windows for Workgroups integrates network
+
+and workgroup functionality directly into the Windows operating system.
+<ICE-USA:W1B-026#32:1> With Windows for Workgroups, users can share files, data, and
+
+printers, with ease of access and security. </p>
+
+<p> <ICE-USA:W1B-026#33:1> WINDOWS 95: Microsoft is developing a new personal operating
+
+system, designed to replace MS-DOS, Windows, and Windows for Workgroups as
+
+the Company 's desktop operating system offering.
+<ICE-USA:W1B-026#34:1> Windows 95 will be a fully integrated 32-bit operating system,
+
+compatible with existing software applications and capable of performing as
+
+the platform for the next generation of applications, games, PCs, and
+
+peripherals. </p>
+<ICE-USA:W1B-026#35:1> <h> BUSINESS SYSTEMS</h>
+
+<p> <ICE-USA:W1B-026#36:1> The Business Systems division is focused on delivering a broad
+
+range of business solutions for organizations.
+<ICE-USA:W1B-026#37:1> The division develops and markets an integrated product line of
+
+software for creating business solutions, including operating systems for
+
+servers and workstations, as well as applications for business servers.
+<ICE-USA:W1B-026#38:1> Server applications development is divided into the areas of
+
+databases, connectivity, and workgroup applications. </p>
+<ICE-USA:W1B-026#39:1> <h> WINDOWS NT:</h>
+
+<P> <ICE-USA:W1B-026#40:1> Microsoft Windows NT Workstation is a 32-bit, multithreaded
+
+operating system for client-server computing.
+<ICE-USA:W1B-026#41:1> It is capable of running on Intel 386, 486, and Pentium(TM) systems
+
+and exploiting the next generation of microprocessor systems, including most
+
+RISC architectures and multiprocessor systems.
+<ICE-USA:W1B-026#42:1> Windows NT has the power to serve as a business workstation to
+
+integrate client-server business applications with existing Windows-based
+
+desktop applications or as a technical workstation to run high-end
+
+engineering or scientific applications.
+<ICE-USA:W1B-026#43:1> The operating system provides integrated mail and networking with
+
+remote access, pre-emptively scheduled multitasking, and support for
+
+background communication sessions.
+<ICE-USA:W1B-026#44:1> Windows NT also provides for the automatic migration of information
+
+from previously installed versions of Windows.
+<ICE-USA:W1B-026#45:1> The Windows NT(TM) Server, in addition to the features of Windows NT
+
+Workstation, provides extensive network management features, administration
+
+tools, support for Macintosh(R) clients, and fault tolerance.
+<ICE-USA:W1B-026#46:1> It is a platform for database, communications, and mail servers. </p>
+<ICE-USA:W1B-026#47:1> <h> SQL SERVER:</h>
+
+<p> <ICE-USA:W1B-026#48:1> The Company also offers Microsoft SQL Server.
+<ICE-USA:W1B-026#49:1> Originally developed cooperatively by Microsoft and Sybase, Inc., SQL
+
+Server is a high-performance relational database management system for
+
+client-server architectures and personal computer local area networks.
+<ICE-USA:W1B-026#50:1> SQL Server supports the Structured Query Language, which is a
+
+commonly used language through which application programs communicate with
+
+relational databases.
+<ICE-USA:W1B-026#51:1> The Company provides SQL Server for Windows NT and SQL Server for
+
+OS/2. </p>
+<ICE-USA:W1B-026#52:1> <h> LAN MANAGER:</h>
+
+<p> <ICE-USA:W1B-026#53:1> The Company also markets Microsoft LAN Manager, which is a
+
+network operating system offering the user the ability to run applications,
+
+share files and devices, and perform remote processing in a true
+
+client-server computing environment, from MS-DOS, Windows, or Microsoft
+
+Operating System/2 ( MS(R) OS/2) workstations.
+<ICE-USA:W1B-026#54:1> LAN Manager runs on MS OS/2, UNIX Systems, and VAX VMS systems.
+<ICE-USA:W1B-026#55:1> LAN Manager clients and servers can interoperate in a network with
+
+Windows NT, Windows NT Server, and Windows for Workgroup systems. </p>
+<ICE-USA:W1B-026#56:1> <h> MICROSOFT MAIL:</h>
+
+<p> <ICE-USA:W1B-026#57:1> The Company markets Microsoft Mail for PC networks.
+<ICE-USA:W1B-026#58:1> Microsoft Mail includes client software for the Microsoft Windows,
+
+MS-DOS, Macintosh, and OS/2 platforms.
+<ICE-USA:W1B-026#59:1> In addition, this workgroup application offers large, corporate users
+
+support for multiple network environments.
+<ICE-USA:W1B-026#60:1> A companion product, Microsoft Mail for AppleTalk(R) networks, is
+
+used by companies with Macintosh servers.
+<ICE-USA:W1B-026#61:1> Microsoft Mail Remote for Windows offers software for remote clients
+
+used by travelers or those working at home to stay in touch with the office
+
+mail system. </p>
+<ICE-USA:W1B-026#62:1> <h> SCHEDULE+:</h>
+
+<p> <ICE-USA:W1B-026#63:1> In 1992, the Company introduced the first of its workgroup
+
+applications to take advantage of the Microsoft Mail messaging system,
+
+Microsoft Schedule+.
+<ICE-USA:W1B-026#64:1> Schedule+ is a calendaring and scheduling program that helps
+
+individuals and groups manage their time and resources.
+<ICE-USA:W1B-026#65:1> The program searches other workgroup members' schedules to determine
+
+meeting availability times, provides invitees the means to accept, decline,
+
+or tentatively accept invitations to meetings, and automatically notifies
+
+attendees if a meeting is canceled or rescheduled. </p> <h>
+<ICE-USA:W1B-026#66:1> MICROSOFT AT WORK:</h>
+
+<p> <ICE-USA:W1B-026#67:1> The Company announced a new architecture which focuses on making
+
+digital office machines more functional and easier to use while creating
+
+digital connections between office machines to allow information to flow
+
+freely among many device types throughout the workplace.
+<ICE-USA:W1B-026#68:1> The Microsoft At Work(TM) software components are planned to be
+
+incorporated into office devices, making these products easier to use,
+
+compatible with one another and compatible with PCs running the Microsoft
+
+Windows operating system.
+<ICE-USA:W1B-026#69:1> Partners in the Microsoft At Work initiative include more than 70
+
+companies representing the office automation, communications, and computer
+
+industries. </p>
+<ICE-USA:W1B-026#70:1> <h> DESKTOP APPLICATIONS SOFTWARE</h>
+
+<p> <ICE-USA:W1B-026#71:1> The Desktop Applications Division develops applications software,
+
+which provides the microcomputer with instructions for the performance of end
+
+user tasks.
+<ICE-USA:W1B-026#72:1> The Company 's desktop applications software is designed for use by a
+
+broad class of end users, regardless of business, industry, or market
+
+segment.
+<ICE-USA:W1B-026#73:1> Primary examples of desktop applications software are word
+
+processing, spreadsheet, and presentation graphics programs.
+<ICE-USA:W1B-026#74:1> The Company 's desktop applications programs are developed principally
+
+for Windows and Macintosh operating systems. </p>
+<ICE-USA:W1B-026#75:1> <h> MICROSOFT OFFICE</h>
+
+<p> <ICE-USA:W1B-026#76:1> Microsoft Office is a suite of software products featuring
+
+seamless integration of the most commonly used desktop applications.
+<ICE-USA:W1B-026#77:1> The Company 's suite of products is based upon a document-centric
+
+concept, with common commands and extensive use of object linking and
+
+embedding ( OLE) cross-application capabilities.
+<ICE-USA:W1B-026#78:1> Microsoft Office comes in two editions, Standard and Professional.
+<ICE-USA:W1B-026#79:1> The Standard Edition includes Microsoft Word, Microsoft Excel, the
+
+Microsoft PowerPoint(R) presentation graphics program, and a workstation
+
+license for Microsoft Mail.
+<ICE-USA:W1B-026#80:1> The Standard Edition is available for Windows and Macintosh operating
+
+systems.
+<ICE-USA:W1B-026#81:1> The Microsoft Office Professional Edition for Windows adds the
+
+Microsoft Access(R) database. </p>
+<ICE-USA:W1B-026#82:1> <h> WORD PROCESSING</h>
+
+<p> <ICE-USA:W1B-026#83:1> The Company 's word processing program is Microsoft Word.
+<ICE-USA:W1B-026#84:1> Microsoft Word for the MS-DOS operating system was introduced in
+
+1983.
+<ICE-USA:W1B-026#85:1> Since its first release, Microsoft Word has been enhanced with
+
+innovations that make it easier for users to do everyday word processing
+
+tasks.
+<ICE-USA:W1B-026#86:1> Microsoft Word for Windows provides all the features that users of
+
+word processing products expect in the Windows graphical environment, plus
+
+the ability to handle graphics, tables, spreadsheet data, charts, and images
+
+imported from other Windows-based software programs.
+<ICE-USA:W1B-026#87:1> The Company also has a version for the Macintosh operating system.
+
+</p>
+<ICE-USA:W1B-026#88:1> <h> SPREADSHEETS</h>
+
+<p> <ICE-USA:W1B-026#89:1> The Company 's spreadsheet program is Microsoft Excel, which is
+
+available for the Windows and Macintosh operating systems.
+<ICE-USA:W1B-026#90:1> It is an integrated spreadsheet with database and business graphics
+
+capabilities.
+<ICE-USA:W1B-026#91:1> Microsoft Excel allows full linking and embedding of objects that
+
+permits users to view and edit graphics or charts from other Windows-based
+
+programs from the worksheet in which the object is stored.
+<ICE-USA:W1B-026#92:1> Microsoft Excel graphics capabilities can be linked to its
+
+spreadsheets to allow simultaneous changes to charts as changes are made to
+
+the spreadsheets.
+<ICE-USA:W1B-026#93:1> Microsoft Excel was first introduced in 1985 for the Apple Macintosh.
+<ICE-USA:W1B-026#94:1> Microsoft Excel for Windows was introduced in 1987. </p>
+<ICE-USA:W1B-026#95:1> <h> GRAPHICS</h>
+
+<p> <ICE-USA:W1B-026#96:1> Microsoft PowerPoint is a presentation graphics program for
+
+producing slides, transparencies, overheads, and prints.
+<ICE-USA:W1B-026#97:1> The Company markets versions of PowerPoint for Microsoft Windows and
+
+the Macintosh. </p>
+<ICE-USA:W1B-026#98:1> <h> PROJECT MANAGEMENT</h>
+
+<p> <ICE-USA:W1B-026#99:1> Microsoft Project is a critical path project scheduling and
+
+resource allocation program that runs on Windows and Macintosh operating
+
+systems.
+<ICE-USA:W1B-026#100:1> The product can perform as a budgeting, monitoring, and cost
+
+estimating tool for large business projects and as a critical path and
+
+schedule planning tool. </p>
+<ICE-USA:W1B-026#101:1> <h> DEVELOPER PRODUCTS</h>
+
+<p> <ICE-USA:W1B-026#102:1> The Developer Division provides software development tools,
+
+database products, and technical information to Windows developers worldwide.
+<ICE-USA:W1B-026#103:1> These products and services help independent software developers,
+
+corporate developers, solutions developers, and hobbyists create a wide
+
+variety of applications, primarily for Windows and Windows NT. </p>
+<ICE-USA:W1B-026#104:1> <h> DATABASE PRODUCTS</h>
+
+<p> <ICE-USA:W1B-026#105:1> Database products control the maintenance and utilization of
+
+structured data organized into a set of records or files.
+<ICE-USA:W1B-026#106:1> The Company offers database products which span the needs of
+
+individual users up to large corporations.
+<ICE-USA:W1B-026#107:1> These products include Microsoft Access, Microsoft FoxPro(R),
+
+Microsoft SQL Server, and a variety of database connectivity technologies.
+<ICE-USA:W1B-026#108:1> Microsoft Access is a relational database management application,
+
+also offered in conjunction with Microsoft Office, which provides access to
+
+structured business data.
+<ICE-USA:W1B-026#109:1> Microsoft FoxPro is a desktop database development tool which is
+
+compatible with the industry standard xBase development language.
+<ICE-USA:W1B-026#110:1> FoxPro supports xBase applications on MS-DOS, Windows, Windows NT,
+
+Macintosh, and UNIX.
+<ICE-USA:W1B-026#111:1> The Open Database Connectivity ( ODBC) product provides access and
+
+connectivity to read and write to various databases from other computer
+
+industry vendors from within Microsoft Windows applications. </p>
+<ICE-USA:W1B-026#112:1> <h> SOFTWARE DEVELOPMENT TOOLS AND COMPUTER LANGUAGES</h>
+
+<p> <ICE-USA:W1B-026#113:1> Software development tools and computer languages allow software
+
+developers to write programs in a particular computer language and translate
+
+programs into a binary machine-readable set of commands that activate and
+
+instruct the hardware.
+<ICE-USA:W1B-026#114:1> The Company develops and markets a number of software development
+
+environments, language compilers, and software testing tools.
+<ICE-USA:W1B-026#115:1> In 1994, the Company shipped Microsoft Visual C++(TM) development
+
+system for 16 and 32-bit application development on Windows and Windows NT.
+<ICE-USA:W1B-026#116:1> The Microsoft Visual Basic(TM) programming system for the Windows
+
+operating system provides easy access to a wide variety of data sources by
+
+integrating the Microsoft Access database engine and the ability to leverage
+
+investments in commercial applications through OLE 2.0.
+<ICE-USA:W1B-026#117:1> Additionally, the Company offers professional, highly-integrated
+
+development environments in the Assembly and FORTRAN languages for MS-DOS,
+
+Windows, and Windows NT. </p>
+<ICE-USA:W1B-026#118:1> <h> DEVELOPER INFORMATION PRODUCTS</h>
+
+<p> <ICE-USA:W1B-026#119:1> The Company supplies software developers with technical and
+
+support information which is critical for successful development on Windows
+
+and Windows NT.
+<ICE-USA:W1B-026#120:1> Developers subscribe to the Microsoft Developer Network ( MSDN)
+
+information service and receive quarterly updates on CD-ROMs, magazines, and
+
+electronically via several on-line information services.</p> </I>

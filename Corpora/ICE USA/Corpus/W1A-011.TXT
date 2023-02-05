@@ -1,0 +1,402 @@
+<I>
+<ICE-USA:W1A-011#1:1> <h> LINGUISTICS & CONTRASTIVE ANALYSIS BES 620, Spring Semester, 1994
+
+EXAM
+#2 by </h>
+<ICE-USA:W1A-011#2:1> <@> Dan Brown</@>
+<ICE-USA:W1A-011#3:1> <h> 1. Select a phoneme in English and discuss how the place of
+
+articulation explains the pronunciation or the phoneme. </h>
+
+<p> <ICE-USA:W1A-011#4:1> The phoneme [ s] in English is made by placing the tip of the
+
+tongue against the alveolar ridge just behind the upper teeth and forcing air
+
+through a narrow opening between the tongue and the alveolar ridge.
+<ICE-USA:W1A-011#5:1> This makes it a class that English uses part of a class of sounds
+
+called fricatives frequently.
+<ICE-USA:W1A-011#6:1> Fricatives are all made through some means of forcing air through an
+
+opening to make a sort of buzzing or hissing sound.
+<ICE-USA:W1A-011#7:1> This includes sounds such as [ f], [ v], and [ z], as well as [ s).
+<ICE-USA:W1A-011#8:1> The [ s] sound is distinguished not only through its place of
+
+articulation, which is the same as [ z], but also by virtue of being unvoiced
+
+( the vocal chords do not vibrate when It is sounded).</p>
+<ICE-USA:W1A-011#9:1> <h> 2. What 's the difference between the English alphabet and the
+
+phonetic alphabet?
+<ICE-USA:W1A-011#10:1> Explain.</h>
+
+<p> <ICE-USA:W1A-011#11:1> The difference between these two alphabets is the bane of writing
+
+students everywhere - - native and non-native speakers of English alike.
+<ICE-USA:W1A-011#12:1> English, although it has a wide range of phonemes, simply does not
+
+have a one-to-one correspondence between the sounds It uses and the letters
+
+it uses to form words.
+<ICE-USA:W1A-011#13:1> The phonetic alphabet, on the other hand, has this basic
+
+correspondence: [ I] will forever be [ I], for example, whether it is in the
+
+word cheat, beet, complete, or amigo.
+<ICE-USA:W1A-011#14:1> Although kindergarten teachers all across the country teach the
+
+sounds of the English alphabet as if they were regular and definable, this is
+
+a lesson that students generally have to unlearn later in life.
+<ICE-USA:W1A-011#15:1> Sometimes I think it would be better if we were to teach English as
+
+an ideographic system, like the system of Chinese characters, because it
+
+might help alleviate the sense of betrayal that students feel when they
+
+discover that the letter " a" can have multitude of sounds - - or no sound at
+
+all - - and the lessons that Mrs. McGillicuddy taught them when they were
+
+five or six about the long and the short sound of " a", or the rule that "
+
+when two vowels go walking, the first one does the talking", are frequently
+
+violated in practice.
+<ICE-USA:W1A-011#16:1> It is hard to find a phonological rule in English orthography that
+
+does not have exceptions, and this makes things difficult for both teachers
+
+and students, I think it is time, given the current ascendancy of English as
+
+a global lingua franca, to militate for spelling reform but that is probably
+
+just a pipe dream, given the conservative nature or a codified language With
+
+Such a large corpus of published work as Is available In English.
+<ICE-USA:W1A-011#17:1> However, even if English were to regularize Its spelling, there would
+
+still be a need for the phonetic alphabet.
+<ICE-USA:W1A-011#18:1> This is because the phonetic alphabet is primarily useful
+
+cross-linguistically, to talk about sounds that may have different
+
+orthographic representations in different languages.
+<ICE-USA:W1A-011#19:1> For example, the letter " x" in the pinyin system, which was used to
+
+alphabetize Chinese, is a very different sound from what the letter " x"
+
+represents in Greek.
+<ICE-USA:W1A-011#20:1> I could give many more examples ( compare " r" in Spanish and French,
+
+for instance), but the point is that the phonetic alphabet makes it possible
+
+to compare the sounds of different languages without confusing competing
+
+orthographies.</p>
+<ICE-USA:W1A-011#21:1> <h> 3. Supply an English word containing two derivational affixes and
+
+one inflectional affix.
+<ICE-USA:W1A-011#22:1> Explain why the two affixes are derivational and the one affix is
+
+inflectional,</H>
+
+<p> <ICE-USA:W1A-011#23:1> ( I am going to assume that its OK to talk about a word with more
+
+than two derivational affixes, since I am having trouble coming up the exact
+
+combination of derivational and inflectional affixes that you ask for here.)
+<ICE-USA:W1A-011#24:1> Here 's a word that not only illustrates the process of derivational
+
+and inflectional affixes, but also the process of how new words are created
+
+through such affixation.
+<ICE-USA:W1A-011#25:1> " Ungrammatical I ties" is made up of five morphemes, by my count,
+
+analyzed as follows.
+<ICE-USA:W1A-011#26:1> The root or head word here would be " grammar", the study of the
+
+form, structure, and sometimes meaning of language.
+<ICE-USA:W1A-011#27:1> This becomes " grammatical" by adding one of several suffixes that
+
+are used in English to make a noun Into an adjective.
+<ICE-USA:W1A-011#28:1> I then add another suffix ( - ity"), to turn It back into a noun, but
+
+with an altered meaning ( " grammar" is not the same as " grammaticality").
+<ICE-USA:W1A-011#29:1> Going one step further, I put on the prefix " un-" to reverse the
+
+meaning and turn " grammaticality" into its opposite.
+<ICE-USA:W1A-011#30:1> So far, all these affixations are derivational - - they alter the
+
+lexical class of the word and/or change its meaning.
+<ICE-USA:W1A-011#31:1> To create a word with an inflectional morpheme, I pluralize "
+
+ungrammaticality" to get " ungrammaticalities."
+<ICE-USA:W1A-011#32:1> The " - s" ending ( which, in this case, also involves a spelling
+
+change) is inflectional because it merely changes the function of the word
+
+from singular to plural and does not alter its class ( it remains a noun) or
+
+its basic meaning ( which remains as tortured as ever).
+<ICE-USA:W1A-011#33:1> Now the fact that there is no such word in English as ..
+
+ungrammaticalities" does not stop me from using it, nor does it change the
+
+process of its formation, nor does it prevent you from understanding its
+
+meaning 0 hope).
+<ICE-USA:W1A-011#34:1> You could argue that the idea could be expressed in some more elegant
+
+manner, but you would probably have to throw out ninety percent of the
+
+obfuscation of academics as well, and then where would we be?</p>
+<ICE-USA:W1A-011#35:1> <h> 4. Supply one example each of a compound and a lexical borrowing
+
+in English.
+<ICE-USA:W1A-011#36:1> Explain your choices.</h>
+
+<p> <ICE-USA:W1A-011#37:1> " Cakewalk" is a compound word with an amusing history, Composed
+
+of two familiar words, it was originally the name for a kind of promenade in
+
+which competitors vied to see who could perform the most complex steps, and
+
+the winners were awarded ( you guessed it) a cake.
+<ICE-USA:W1A-011#38:1> It became codified as a compound when a popular dance and a
+
+particular style of music came out of these competitions, It has since taken
+
+on an additional meaning of " an easy time," probably through a folk
+
+etymology that associated " cakewalk" with the phrase, " It was a piece of
+
+cake."</p>
+
+<p> <ICE-USA:W1A-011#39:1> Lexical borrowing is rampant in English, but I'll 'llnfine myself
+
+to two related words, " taco" and " burrito."
+<ICE-USA:W1A-011#40:1> These were both borrowed from Spanish because English had no
+
+corresponding words to talk about these staples of Latino cuisine.
+<ICE-USA:W1A-011#41:1> It would probably be hard to find a person in the States today who
+
+did not recognize these words as being food items - - although you could
+
+certainly find a fair number of monolingual Anglo-Americans who didn't know
+
+the difference between the two, A purist might argue that these are not
+
+English words, but once a word is understood and used frequently enough it
+
+simply becomes part of the language.
+<ICE-USA:W1A-011#42:1> It 's only after enough time ( and usage) goes by, when the origin has
+
+been generally forgotten, that such words are deemed acceptable by the
+
+purists.</p>
+
+<p> <ICE-USA:W1A-011#43:1> ( I can't really explain these choices except to say that these
+
+are the words that occurred to me.
+<ICE-USA:W1A-011#44:1> Did you expect more than that?</p>
+<ICE-USA:W1A-011#45:1> <h> 5. Why is the yes/no question Did the class meet early? formed by
+
+the insertion of the verb Did rather than by simple inversion of the subject
+
+and verb ( as in Is the class meeting early?
+<ICE-USA:W1A-011#46:1> Explain.</h>
+
+<p> <ICE-USA:W1A-011#47:1> One of the most befuddling things about English is this " Do"
+
+insertion, because it is not a universal way of forming questions - - even
+
+within English itself.
+<ICE-USA:W1A-011#48:1> " Met the class early?" has a vaguely archaic sound, and most people
+
+would be hard-put to say why it was incorrect, although it is clearly
+
+nonexistent in terms of current usage.
+<ICE-USA:W1A-011#49:1> Part of what 's confusing about this construction Is that the verb "
+
+do" takes on any necessary inflectional form ( " did" In this example), while
+
+the lexical verb ( " meet" in this case) reverts to its base form.
+<ICE-USA:W1A-011#50:1> I could say, " Is the class meeting early?" but this would change the
+
+tense, and hence the meaning, implying that the class was still going on.
+<ICE-USA:W1A-011#51:1> Even If I change it to " Was the class meeting early?" the use of the
+
+progressive form of the verb has different implications than the original
+
+question.
+<ICE-USA:W1A-011#52:1> If I were to say " Was the class early?" I would be closest to the
+
+original meaning, but even then there are different possibilities for each
+
+utterance.
+<ICE-USA:W1A-011#53:1> The use of " did" Implies ( although it does not guarantee) that the
+
+speaker Is talking about one particular Instance, " did" in this case carries
+
+the form and meaning of the preterit.
+<ICE-USA:W1A-011#54:1> On the other hand, " Was the class early?" would usually imply (
+
+although not always) that the speaker was talking about the regular meeting
+
+time of an ongoing class that had now finished.
+<ICE-USA:W1A-011#55:1> However, because English does not make a clear distinction between
+
+the Imperfect and preterit, the full meaning of these two questions would be
+
+determined by the context,.
+<ICE-USA:W1A-011#56:1> The way I explain this to my students is by asking them to look for
+
+the " main verb."
+<ICE-USA:W1A-011#57:1> If this verb is a form of " to be" ( as in " The class was early."),
+
+the question can be formed by simple Inversion.
+<ICE-USA:W1A-011#58:1> If the verb is anything else, " do" needs to be inserted, with the
+
+choice of the form dependent on the form or the original verb.
+<ICE-USA:W1A-011#59:1> Thus, " The class met early." becomes " Did the class meet early?"
+<ICE-USA:W1A-011#60:1> The explanation Is difficult to get into without using such
+
+complicated terms as " lexical verb" or " bare infinitive," but I think It is
+
+useful for some students, in order to conceptualize the process.
+<ICE-USA:W1A-011#61:1> For those who are hopelessly confused by such an explanation, one can
+
+only resort to practice - - which is how we native speakers of English
+
+learned this rule as children.</p>
+<ICE-USA:W1A-011#62:1> <h> 6. Why is might considered an auxiliary verb and walk a lexical
+
+verb?
+<ICE-USA:W1A-011#63:1> Explain.</p>
+
+<p> <ICE-USA:W1A-011#64:1> " Walk" is considered a lexical verb because it has some kind of
+
+referential meaning: it refers to an action which we distinguish from other
+
+actions by certain characteristics.
+<ICE-USA:W1A-011#65:1> There are also abstract lexical verbs, such as " think," or
+
+non-active verbs such as " lack," for which it would be harder to find a
+
+clear referent, but every lexical verb has a meaning independent of its
+
+grammatical context.
+<ICE-USA:W1A-011#66:1> An auxiliary verb, on the other hand, only has meaning when it is
+
+combined with a lexical verb.
+<ICE-USA:W1A-011#67:1> While it is possible to say " I might," it would have to be paired
+
+with another, Implied verb.
+<ICE-USA:W1A-011#68:1> Otherwise, the only appropriate response would be " You might what?"
+<ICE-USA:W1A-011#69:1> The word " might" is used to express the idea of possibility, but it
+
+is a grammatical idea that must be placed within the context of the sentence.
+<ICE-USA:W1A-011#70:1> An auxiliary verb such as " might" could be used with any other verb;
+
+at the same time, it must be used with some other verb,.
+<ICE-USA:W1A-011#71:1> There are auxiliaries such as " have" that also can be lexical verbs,
+
+but " might" does not have this possibility. </p>
+<ICE-USA:W1A-011#72:1> <h> 7. Supply two words in English related by the relation of
+
+hyponymy.
+<ICE-USA:W1A-011#73:1> Explain your choices. </h>
+
+<p> <ICE-USA:W1A-011#74:1> " Rice" and " wheat" are hyponyms because they are part of a
+
+class of words we call " grains."
+<ICE-USA:W1A-011#75:1> Hyponymy is the relationship between such groups of words, and as
+
+such it is a relationship of meaning that usually is unconnected to the form
+
+or origin of the words.
+<ICE-USA:W1A-011#76:1> " Rice" and " wheat" share the characteristics of being edible
+
+grasses that have been cultivated for centuries.
+<ICE-USA:W1A-011#77:1> We use them for many of the same purposes, for making flour, cereal,
+
+bread, etc.
+<ICE-USA:W1A-011#78:1> It is useful to conceptualize them as being related, and hyponymy is
+
+simply a linguist 's way of conceptualizing this conceptualization. </p>
+<ICE-USA:W1A-011#79:1> <h> 8. What semantic features distinguish the words hen and man.
+<ICE-USA:W1A-011#80:1> Explain your choice of the features you select to distinguish the
+
+words.</h>
+
+<p> <ICE-USA:W1A-011#81:1> Hen = - human, +female, +mature, +animal, +bird,
+
++domesticated</p>
+
+<p> <ICE-USA:W1A-011#82:1> Man = +human, +male, +mature</p>
+
+<p> <ICE-USA:W1A-011#83:1> In presenting these semantic features, I have tried to put them
+
+in an order f descending specificity, with the last feature being the most
+
+particular, one of the most basic semantic distinctions we make Is between
+
+human and non-human ( one could argue that this is also one of our most basic
+
+problems as well, but I 'll leave that as a moot point for the
+
+eco-philosophers).
+<ICE-USA:W1A-011#84:1> Another key distinction, almost as important in our thinking, is
+
+between male and female.
+<ICE-USA:W1A-011#85:1> Less important, but still basic to the conceptualization of the
+
+world, is the distinction between maturity and immaturity in living things.
+<ICE-USA:W1A-011#86:1> It is Interesting that this Is as far as I could get with the word "
+
+man."
+<ICE-USA:W1A-011#87:1> This is because " man" is itself a basic concept, specific and
+
+commonplace in one sense, broad and mystical in another.
+<ICE-USA:W1A-011#88:1> For " hen," I considered " +animal" to be a separate distinction from "
+
+- human," because there are several large categories of nonhuman things.
+<ICE-USA:W1A-011#89:1> " +bird" distinguishes the kind of animal a " hen" is, as does "
+
++domesticated," although the two are different kinds of distinctions, still
+
+broad enough to be considered semantic features.</p>
+<ICE-USA:W1A-011#90:1> <h> 9. All of the languages of the world contain words that could be
+
+analyzed as nouns and verbs.
+<ICE-USA:W1A-011#91:1> Would this be an absolute universal, a universal tendency, or an
+
+implicational universal?
+<ICE-USA:W1A-011#92:1> Explain.</h>
+
+<p> <ICE-USA:W1A-011#93:1> The fact that all the languages of the world have nouns and verbs
+
+is an absolute universal.
+<ICE-USA:W1A-011#94:1> An absolute universal, as its name implies, is a rule of language
+
+that has no exceptions.
+<ICE-USA:W1A-011#95:1> In a way, this is what makes the whole concept of language universals
+
+possible.
+<ICE-USA:W1A-011#96:1> If there were no absolute universals, if there were no identifiable
+
+features that cut across all languages, the theory that there is some kind of
+
+cognitive process or facility governing our acquisition and use of language
+
+would probably never have been formed.
+<ICE-USA:W1A-011#97:1> Until some other form of communication is discovered that breaks the
+
+mold of human language ( decoded dolphin songs? extraterrestrial
+
+communications?), it will be through the study of language universals that we
+
+learn about the structure of the cognitive process that makes language
+
+possible in the first place. </p> </I>

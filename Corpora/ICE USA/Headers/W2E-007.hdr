@@ -1,0 +1,37 @@
+<text.info>
+<file.description>
+    <textcode>ICE-USA-W2E-007</textcode>
+    <number.of.subtexts>1</number.of.subtexts>
+    <category>Press Editorial</category>
+    <wordcount>2114</wordcount>
+    <version>coded, edited but untagged</version>
+    <free.comments></free.comments>
+</file.description>
+<subtext.source= ICE-USA-W2E-007>
+    <source.type=editorial>
+        <format>printed</format>
+        <date>Sept. 24, 25, 26, 1995</date>
+    <copyright.statement>Reprinted with permission from the Boston Globe and its representative Managing Editor Alfred S. Larkin, Jr. </copyright.statement>
+    <free.comments> 
+</free.comments>
+    </source.type>
+</subtext.source>
+<biography= ICE-USA-W2E-007>
+    <speaker.id></speaker.id>
+    <communicative.role> </communicative.role>
+        <surname></surname>
+        <forenames></forenames>
+        <age></age>
+        <gender>female</gender>
+        <nationality></nationality>
+        <ethnicity></ethnicity>
+        <birthplace> </birthplace>
+        <education></education>
+        <education.level> </education.level>
+        <occupation></occupation>
+        <affiliations></affiliations>
+        <mother.tongue></mother.tongue>
+        <other.languages></other.languages>
+    <free.comments> </free.comments>
+</biography>
+</text.info> 

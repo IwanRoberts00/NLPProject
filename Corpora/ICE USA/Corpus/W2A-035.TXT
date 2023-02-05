@@ -1,0 +1,435 @@
+<I>
+<ICE-USA:W2A-035#1:1> <h> <bold> Introduction </bold> </h>
+
+<P> <ICE-USA:W2A-035#2:1> Clustering is often used for discovering structure in data.
+<ICE-USA:W2A-035#3:1> Clustering systems differ in the <it> objective function </it> used to
+
+evaluate clustering quality and the <it> control strategy </it> used to
+
+search the space of clusterings.
+<ICE-USA:W2A-035#4:1> Ideally, the search strategy should consistently construct clusterings
+
+of high quality, but be computationally inexpensive as well.
+<ICE-USA:W2A-035#5:1> Given the combinatorial complexity of the general clustering problem,
+
+a search strategy cannot be both computationally inexpensive and give any
+
+guarantee about the quality of discovered clusterings across a diverse set of
+
+domains and objective functions.
+<ICE-USA:W2A-035#6:1> However, we can partition the search so that an initial clustering is
+
+inexpensively constructed, followed by iterative optimization procedures that
+
+continue to search in background for improved clusterings.
+<ICE-USA:W2A-035#7:1> This allows an analyst to get an early indication of the possible
+
+presence and form of structure in data, but search can continue as long as it
+
+seems worthwhile.
+<ICE-USA:W2A-035#8:1> This seems to be a primary motivation behind the design of systems
+
+such as AUTOCLASS [ Cheeseman, Kelly, Self, Stutz, Taylor & Freeman, 1988]
+
+and SNOB [ Wallace & Dowe, 1994].</p>
+
+<P> <ICE-USA:W2A-035#9:1> This paper describes and evaluates three strategies for iterative
+
+optimization, one inspired by the iterative ` seed' selection strategy of
+
+CLUSTER/2 [ Michalski & Stepp, 1983a; 1983b], one is a common form of
+
+optimization that iteratively reclassifies single observations, and a third
+
+method appears novel in the clustering literature.
+<ICE-USA:W2A-035#10:1> This latter strategy was inspired, in part, by macro-learning
+
+strategies [ Iba, 1989] - - collections of observations are reclassified
+
+<foreign> en masse </foreign> , which appears to mitigate problems associated
+
+with local maxima as measured by the objective function.
+<ICE-USA:W2A-035#11:1> For evaluation purposes, we couple these strategies with a simple,
+
+inexpensive procedure used by COBWEB [ Fisher, 1987a; 1987b] and a system by
+
+Anderson and Matessa [ Anderson & Matessa, 1991], which constructs an initial
+
+hierarchical clustering.
+<ICE-USA:W2A-035#12:1> These iterative optimization strategies, however, can be paired with
+
+other methods for constructing initial clusterings.</p>
+
+<P> <ICE-USA:W2A-035#13:1> Once a clustering has been constructed it is judged by analysts -
+
+- often according to task-specific criteria.
+<ICE-USA:W2A-035#14:1> Several authors [ Fisher, 1987a; 1987b; Cheeseman et al., 1988;
+
+Anderson & Matessa, 1991] have abstracted these criteria into a generic
+
+performance task akin to pattern completion, where the error rate over
+
+completed patterns can be used to ` externally' judge the utility of a
+
+clustering.
+<ICE-USA:W2A-035#15:1> In each of these systems, the objective function has been selected
+
+with this performance task in mind.
+<ICE-USA:W2A-035#16:1> Given this performance task we adapt resampling-based pruning
+
+strategies used by supervised learning systems to the task of simplifying
+
+hierarchical clusterings, thus easying post-clustering analysis.
+<ICE-USA:W2A-035#17:1> Experimental evidence suggests that hierarchical clusterings can be
+
+greatly simplified with no increase in pattern-completion error rate.</p>
+
+<P> <ICE-USA:W2A-035#18:1> Our experiments with clustering simplification suggest `
+
+external' criteria of simplicity and classification cost, in addition to
+
+pattern-completion error rate, for judging the relative merits of differing
+
+objective functions in clustering.
+<ICE-USA:W2A-035#19:1> We suggest several objective functions that are adaptations of
+
+selection measures used in supervised, decision-tree induction, which may do
+
+well on the dimensions of simplicity and error rate.</p>
+
+<P> <ICE-USA:W2A-035#20:1> Clustering is a form of unsupervised learning that partitions
+
+observations into classes or clusters ( collectively, called a clustering).
+<ICE-USA:W2A-035#21:1> An objective function or quality measure guides this search, ideally
+
+for a clustering that is optimal as measured by the objective function.
+<ICE-USA:W2A-035#22:1> A hierarchical-clustering system creates a tree-structured
+
+clustering, where sibling clusters partition the observations covered by
+
+their common parent.
+<ICE-USA:W2A-035#23:1> This section briefly summarizes a simple strategy, called <it>
+
+hierarchical sorting </it> , for creating hierarchical clusterings.</p>
+<ICE-USA:W2A-035#24:1> <h> <bold> An Objective Function </bold> </h>
+
+<P> <ICE-USA:W2A-035#25:1> We assume that an observation is a vector of nominal values,
+
+along distinct variables, .
+<ICE-USA:W2A-035#26:1> A measure of <it> category utility </it> [ Gluck & Corter, 1985;
+
+Corter & Gluck, 1992], and/or variants have been used extensively by a system
+
+known as COBWEB [ Fisher, 1987a] and many related systems [ Gennari, Langley
+
+& Fisher, 1989; McKusick & Thompson, 1990; Iba & Gennari, 1991; McKusick &
+
+Langley, 1991; Reich & Fenves, 1991; Biswas, Weinberg & Li, 1994; De Alte Da
+
+Veiga, 1994; Kilander, 1994; Ketterlin, Gancarski & Korczak, 1995].
+<ICE-USA:W2A-035#27:1> This measure rewards clusters, , that increase the <it>
+
+predictability </it> of variable values within ( i.e., ) relative to their
+
+predictability in the population as a whole ( i.e., ) .
+<ICE-USA:W2A-035#28:1> By favoring clusters that increase predictability ( i.e., ) , we also
+
+necessarily favor clusters that increase variable value <it> predictiveness
+
+</it> ( i.e., ) .</p>
+
+<P> <ICE-USA:W2A-035#29:1> Clusters for which many variable values are predictable are <it>
+
+cohesive</it>.
+<ICE-USA:W2A-035#30:1> Increases in predictability stem from the shared variable values of
+
+observations within a cluster.
+<ICE-USA:W2A-035#31:1> A cluster is well-separated or <it> decoupled </it> from other
+
+clusters if many variable values are predictive of the cluster.
+<ICE-USA:W2A-035#32:1> High predictiveness stems from the differences in the variable values
+
+shared by members of one cluster from those shared by observations of another
+
+cluster.
+<ICE-USA:W2A-035#33:1> A general principle of clustering is to increase the similarity of
+
+observations within clusters ( i.e., cohesion) and to decrease the similarity
+
+of observations across clusters ( i.e., coupling).</p>
+
+<P> <ICE-USA:W2A-035#34:1> Category utility is similar in form to the <it> Gini Index </it>
+
+, which has been used in supervised systems that construct decision trees [
+
+Mingers, 1989b; Weiss & Kulikowski, 1991].
+<ICE-USA:W2A-035#35:1> The Gini Index is typically intended to address the issue of how well
+
+the values of a variable, , predict <foreign> a priori </foreign> known class
+
+labels in a supervised context.
+<ICE-USA:W2A-035#36:1> The summation over Gini Indices reflected in <it> CU </it> addresses
+
+the extent that a cluster predicts the values of all the variables.
+<ICE-USA:W2A-035#37:1> <it> CU </it> rewards clusters <&> some words possibly removed from
+
+this sentence </&> that most reduce a collective impurity over all
+
+variables.</p>
+
+<P> <ICE-USA:W2A-035#38:1> In Fisher 's [ 1987a] COBWEB system, <bold> CU </bold> is used to
+
+measure the quality of a partition of data, or the average category utility
+
+of clusters in the partition.
+<ICE-USA:W2A-035#39:1> Sections 3.5 and 5.2 note some nonoptimalities with this measure of
+
+partition quality, and suggest some alternatives.
+<ICE-USA:W2A-035#40:1> Nonetheless, this measure is commonly used, we will take this
+
+opportunity to note its problems, and none of the techniques that we describe
+
+is tied to this measure.</p>
+<ICE-USA:W2A-035#41:1> <h> The Structure of Clusters</h>
+
+<P> <ICE-USA:W2A-035#42:1> As in COBWEB, AUTOCLASS [ Cheeseman et al., 1988], and other
+
+systems [ Anderson & Matessa, 1991], we will assume that clusters, , are
+
+described probabilistically: each variable value has an associated
+
+conditional probability, , which reflects the proportion of observations in
+
+that exhibit the value, , along variable .
+<ICE-USA:W2A-035#43:1> In fact, each variable value is actually associated with the number
+
+of observations in the cluster having that value; probabilities are computed
+
+` on demand' for purposes of evaluation.</p>
+
+<P> <ICE-USA:W2A-035#44:1> Probabilistically-described clusters arranged in a tree form a
+
+hierarchical clustering known as a probabilistic categorization tree.
+<ICE-USA:W2A-035#45:1> Each set of sibling clusters partitions the observations covered by
+
+the common parent.
+<ICE-USA:W2A-035#46:1> There is a single <it> root </it> cluster, identical in structure to
+
+other clusters, but covering all observations and containing frequency
+
+information necessary to compute 's as required by category utility.
+<ICE-USA:W2A-035#47:1> Figure 1 gives an example of a probablistic categorization tree (
+
+i.e., a hierarchical clustering) in which each node is a cluster of
+
+observations summarized probabilistically.
+<ICE-USA:W2A-035#48:1> Observations are at leaves and are described by three variables:
+
+Size, Color, and Shape.</p>
+<ICE-USA:W2A-035#49:1> <h> <bold> Hierarchical Sorting </bold> </h>
+
+<P> <ICE-USA:W2A-035#50:1> Our strategy for initial clustering is <it> sorting </it> , which
+
+is a term adapted from a psychological task that requires subjects to perform
+
+roughly the same procedure that we describe here [ Ahn & Medin, 1989].
+<ICE-USA:W2A-035#51:1> Given an observation and a current partition, sorting evaluates the
+
+quality of new clusterings that result from placing the observation in each
+
+of the existing clusters, and the quality of the clustering that results from
+
+creating a new cluster that only covers the new observation; the option that
+
+yields the highest quality score ( e.g., using<bold> PU </bold> ) is
+
+selected.
+<ICE-USA:W2A-035#52:1> The clustering grows incrementally as new observations are added.</p>
+
+<P> <ICE-USA:W2A-035#53:1> This procedure is easily incorporated into a recursive loop that
+
+builds tree-structured clusterings: given an existing hierarchical
+
+clustering, an observation is sorted relative to the top-level partition (
+
+i.e., children of the root); if an existing child of the root is chosen to
+
+include the observation, then the observation is sorted relative to the
+
+children of this node, which now serves as the root in this recursive call.
+<ICE-USA:W2A-035#54:1> If a leaf is reached, the tree is extended downward.
+<ICE-USA:W2A-035#55:1> The maximum height of the tree can be bounded, thus limiting downward
+
+growth to fixed depth.
+<ICE-USA:W2A-035#56:1> Figure 2 shows the tree of Figure 1 after two new observations have
+
+been added to it: one observation extends the left subtree downward, while
+
+the second is made a new leaf at the deepest, existing level of the right
+
+subtree.</p>
+
+<P> <ICE-USA:W2A-035#57:1> This sorting strategy is identical to that used by Anderson and
+
+Matessa [ Anderson & Matessa, 1991].
+<ICE-USA:W2A-035#58:1> The children of each cluster partition the observations that are
+
+covered by their parent, though the measure, <bold> PU </bold> , used to
+
+guide sorting differs from that of Anderson and Matessa.
+<ICE-USA:W2A-035#59:1> The observations themselves are stored as singleton clusters at
+
+leaves of the tree.
+<ICE-USA:W2A-035#60:1> Other hierarchical-sort based strategies augment this basic procedure
+
+in a manner described in Section 3.3 [ Fisher1987a; Hadzikadic & Yun, 1989;
+
+Decaestecker1991].</p>
+
+<P> <ICE-USA:W2A-035#61:1> Hierarchical sorting quickly constructs a tree-structured
+
+clustering, but one which is typically nonoptimal.
+<ICE-USA:W2A-035#62:1> In particular, this control strategy suffers from <it> ordering </it>
+
+effects: different orderings of the observations may yield different
+
+clusterings [ Fisher, Xu & Zard, 1992].
+<ICE-USA:W2A-035#63:1> Thus, after an initial clustering phase, a ( possibly offline)
+
+process of iterative optimization seeks to uncover better clusterings.</p>
+<ICE-USA:W2A-035#64:1> <h> <bold> Seed Selection, Reordering, and Reclustering </bold> </h>
+
+<P> <ICE-USA:W2A-035#65:1> Michalski and Stepp 's [ Michalski & Stepp, 1983a] CLUSTER/2 seeks
+
+the optimal K-partitioning of data.
+<ICE-USA:W2A-035#66:1> The first step selects K random ` seed' observations from the data.
+<ICE-USA:W2A-035#67:1> These seeds are ` attractors' around which the K clusters are grown
+
+from the remaining data.
+<ICE-USA:W2A-035#68:1> Since seed selection can greatly impact clustering quality, CLUSTER/2
+
+selects K new seeds that are ` centroids' of the K initial clusters.
+<ICE-USA:W2A-035#69:1> Clustering is repeated with these new seeds.
+<ICE-USA:W2A-035#70:1> This process iterates until there is no further improvement in the
+
+quality of generated clusterings.</p>
+
+<P> <ICE-USA:W2A-035#71:1> Ordering effects in sorting are related to effects that arise due
+
+to differing fixed-K seed selections: the initial observations in an ordering
+
+establish initial clusters that ` attract' the remaining observations.
+<ICE-USA:W2A-035#72:1> In general, sorting performs better if the initial observations are
+
+from diverse areas of the observation-description space, since this
+
+facilitates the establishment of initial clusters that reflect these
+
+different areas.
+<ICE-USA:W2A-035#73:1> Fisher, Xu, and Zard [ 1992] showed that ordering data so that
+
+consecutive observations were dissimilar based on Euclidean distance led to
+
+good clusterings.
+<ICE-USA:W2A-035#74:1> Biswas <foreign> et al </foreign> .
+<ICE-USA:W2A-035#75:1> [ 1994] adapted this technique in their ITERATE system with similar
+
+results.
+<ICE-USA:W2A-035#76:1> In both cases, sorting used the <bold> PU </bold> score described
+
+previously.</p>
+
+<P> <ICE-USA:W2A-035#77:1> This procedure presumes that observations that appear dissimilar
+
+by Euclidean distance tend to be placed in different clusters using the
+
+objective function.
+<ICE-USA:W2A-035#78:1> Taking the lead from CLUSTER/2, a measure-independent idea first
+
+sorts using a random data ordering, then extracts a biased ` dissimilarity'
+
+ordering from the hierarchical clustering, and sorts again.
+<ICE-USA:W2A-035#79:1> The function of Table 1 outlines the reordering procedure.
+<ICE-USA:W2A-035#80:1> It recursively extracts a list of observations from the most probable
+
+( i.e., largest) cluster to the least probable, and then merges ( i.e.,
+
+interleaves) these lists, before exiting each recursive call - - at each
+
+step, an element from the most probable cluster is placed first, followed by
+
+an element of the second most probable, and so forth.
+<ICE-USA:W2A-035#81:1> Whatever measure guides clustering, observations in differing
+
+clusters have been judged dissimilar by the measure.
+<ICE-USA:W2A-035#82:1> Thus, this measure-independent procedure returns a measure-dependent
+
+dissimilarity ordering by placing observations from different clusters
+
+back-to-back.</p>
+<ICE-USA:W2A-035#83:1> <h> <bold> Iterative Redistribution of Single Observations </bold>
+
+</h> </p>
+
+<P> <ICE-USA:W2A-035#84:1> A common and long-known form of iterative optimization moves
+
+single observations from cluster to cluster in search of a better clustering
+
+[ Duda & Hart, 1973].
+<ICE-USA:W2A-035#85:1> The basic strategy has been used in one form or another by numerous
+
+sort-based algorithms as well [ Fisher et al., 1992].
+<ICE-USA:W2A-035#86:1> The idea behind iterative <it> redistribution </it> [ Biswas,
+
+Weinberg, Yang & Koller, 1991] is simple: observations in a single-level
+
+clustering are ` removed' from their original cluster and resorted relative
+
+to the clustering.
+<ICE-USA:W2A-035#87:1> If a cluster contains only one observation, then the cluster is `
+
+removed' and its single observation is resorted.
+<ICE-USA:W2A-035#88:1> This process continues until two consecutive iterations yield the
+
+same clustering.</p>
+
+<P> <ICE-USA:W2A-035#89:1> The ISODATA algorithm [ Duda & Hart, 1973] determines a target
+
+cluster for each observation, but does not actually change the clustering
+
+until targets for all observations have been determined; at this point, all
+
+observations are moved to their targets, thus altering the clustering.
+<ICE-USA:W2A-035#90:1> We limit ourselves to a sequential version, also described by Duda
+
+and Hart [ 1973], that moves each observation as its target is identified
+
+through sorting.</p>
+
+<P> <ICE-USA:W2A-035#91:1> This strategy is conceptually simple, but is limited in its
+
+ability to overcome local maxima - - the reclassification of a particular
+
+observation may be in the true direction of a better clustering, but it may
+
+not be perceived as such when the objective function is applied to the
+
+clustering that results from resorting the single observation.</p>
+
+<P> <ICE-USA:W2A-035#92:1> An iterative optimization strategy that appears novel in the
+
+clustering literature is iterative hierarchical redistribution.
+<ICE-USA:W2A-035#93:1> This strategy is rationalized relative to single-observation
+
+iterative redistribution: even though moving a set of observations from one
+
+cluster to another may lead to a better clustering, the movement of any
+
+single observation may initially reduce clustering quality, thus preventing
+
+the eventual discovery of the better clustering.
+<ICE-USA:W2A-035#94:1> In response, hierarchical redistribution considers the movement of
+
+observation sets, represented by existing clusters in a hierarchical
+
+clustering.</p> </I>

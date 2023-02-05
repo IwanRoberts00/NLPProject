@@ -1,0 +1,74 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2C-005</textcode>
+          <number of subtexts>2</number of subtexts>
+          <category>written: printed: reportage: press news</category>
+          <wordcount>2061</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ALL>
+          <source.type=newspaper>
+               <source.title>The Maui News</source.title>
+          <publication statement>
+               <publisher>Copyright 2001 The Maui News</publisher>
+               <address> </address>
+               <place> </place>
+               <date>6/21, 24/2001</date>
+          </publication statement>
+          <copyright.statement>used with permission of The Maui News</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+</text.info>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-005>
+          <subtext.name></subtext.name>
+               <main.title>Multi-Grade Classes, Teachers on Horseback Recalled</main.title>
+               <subtitle>Memories of Old Days at Keanae School Come to the Fore as Reunion Nears</subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-005>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Tanji</surname>
+               <forenames>Melissa</forenames>
+               <age> </age>
+               <gender>Female</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-005>
+          <subtext.name></subtext.name>
+               <main.title>Building Program</main.title>
+               <subtitle>Contractor Constructs Hands-On Class, Shelves, Office and Student Pride on Donations He Raises</subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-005>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>San Nicolas</surname>
+               <forenames>Claudine</forenames>
+               <age> </age>
+               <gender>Female</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

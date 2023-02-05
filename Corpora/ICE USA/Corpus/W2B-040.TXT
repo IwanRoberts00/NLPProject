@@ -1,0 +1,394 @@
+<I>
+<ICE-USA:W2B-040#1:1> <h> PARC is Back!</h>
+<ICE-USA:W2B-040#2:1> <h> by</h>
+<ICE-USA:W2B-040#3:1> <h> Howard Rheingold</h>
+
+<p> <ICE-USA:W2B-040#4:1> After fumbling the future,Xerox PARC is back with a visionary new
+
+director, bright researchers, and amazing new technology. </p>
+
+<p> <ICE-USA:W2B-040#5:1> In 1983, I read an article about mind-amplifying machines.
+<ICE-USA:W2B-040#6:1> These were as different from the computers of the time as television
+
+was from 15th century printing presses.
+<ICE-USA:W2B-040#7:1> The article 's author, Alan Kay, worked at Xerox Palo Alto Research
+
+Center ( PARC).
+<ICE-USA:W2B-040#8:1> I concluded that PARC amounted to a hive of zealots bent on changing
+
+the course of culture.
+<ICE-USA:W2B-040#9:1> I wanted in on it.
+<ICE-USA:W2B-040#10:1> Most of all, I wanted to test drive one of the devices they used to
+
+amplify their own minds. </p>
+
+<p> <ICE-USA:W2B-040#11:1> I managed to get a job at PARC writing articles for a Xerox
+
+in-house magazine.
+<ICE-USA:W2B-040#12:1> A year before the first Macintosh computer was sold, I commuted 45
+
+minutes to PARC 's rural campus to type on an Alto - the first true personal
+
+computer.
+<ICE-USA:W2B-040#13:1> My job was to interview PARC researchers about their work.
+<ICE-USA:W2B-040#14:1> They talked about bit-mapped screens, local-area networks,
+
+point-and-click interfaces, object-oriented languages.
+<ICE-USA:W2B-040#15:1> All those futuristic experiments they showed me have diffused so
+
+widely ( and profitably) during the past ten years that it is easy to forget
+
+they were once confined to that building on a oak-spotted hill above Silicon
+
+Valley. </p>
+
+<p> <ICE-USA:W2B-040#16:1> The players on the all-virtuoso team that convened then at PARC 's
+
+computer labs were eager to volunteer as guinea pigs for the technology they
+
+wanted to build.
+<ICE-USA:W2B-040#17:1> They were dedicated to designing their own personal, networked mind-
+
+amplifiers, then handing over their creations to non-programmers for
+
+intellectual work.
+<ICE-USA:W2B-040#18:1> One phrase became PARC 's hallmark: " The easiest way to predict the
+
+future is to invent it."
+<ICE-USA:W2B-040#19:1> They succeeded so well that nothing has been the same since,
+
+including PARC. </p>
+
+<p> <ICE-USA:W2B-040#20:1> The early days of PARC are the stuff of Silicon Valley folklore.
+<ICE-USA:W2B-040#21:1> Personal computers did not spring naturally from the computer
+
+industry.
+<ICE-USA:W2B-040#22:1> They were deliberately realized by a radical fringe, against all the
+
+force of the day 's accepted wisdom. </p>
+
+<p> <ICE-USA:W2B-040#23:1> These zealous wizards handed Xerox an astounding lead in
+
+information technology in the early 1980s, but by the end of the decade,
+
+Xerox watched as upstarts like Apple and Microsoft grew wealthy off Xerox 's
+
+discoveries.
+<ICE-USA:W2B-040#24:1> Neither Apple nor Microsoft even existed when the first Altos were
+
+designed in the early 1970s; by 1990 either company could have bought Xerox.
+<ICE-USA:W2B-040#25:1> The tragicomic Xerox saga is recorded in Douglas K. Smith and Robert
+
+C. Alexander 's Fumbling the Future.</p>
+
+<p> <ICE-USA:W2B-040#26:1> But Xerox hasn't always fumbled the future.
+<ICE-USA:W2B-040#27:1> The company persists because long ago it redefined itself and
+
+reinvented its business.
+<ICE-USA:W2B-040#28:1> Fifty years ago, Chester Carlson invented a scheme for printing dry
+
+photocopies of documents.
+<ICE-USA:W2B-040#29:1> Few corporations of the day were interested in an expensive, messy,
+
+unreliable way to do what carbon paper did cheaply and well.
+<ICE-USA:W2B-040#30:1> Nonetheless, Carlson 's company, Haloid, committed itself to a future
+
+in which people would use office copiers for purposes unimaginable in the
+
+carbon-paper era.
+<ICE-USA:W2B-040#31:1> Renaming itself Xerox, the company championed the copiers that soon
+
+rendered carbon-paper obsolete. </p>
+
+<p> <ICE-USA:W2B-040#32:1> Having already invented the future twice, then squandering its
+
+advantage, could Xerox still have stories to tell? In the fall of 1993, I
+
+returned to Xerox PARC for another chance to go back to the future.
+<ICE-USA:W2B-040#33:1> Where was Xerox? On the road to reinventing itself for the third
+
+time. </p>
+
+<p> <ICE-USA:W2B-040#34:1> New, young faces populate the halls today.
+<ICE-USA:W2B-040#35:1> Video windows and audio communications are built into workstations.
+<ICE-USA:W2B-040#36:1> Desktop screens have evolved into wall-sized screens, clipboard-size
+
+screens, and pocket-size " tabs." The place is still an intellectual
+
+wonderland.
+<ICE-USA:W2B-040#37:1> Again I feel like I've dropped in on 've outpost from the future.
+<ICE-USA:W2B-040#38:1> It 's not just the latest gadgetry.
+<ICE-USA:W2B-040#39:1> Something 's happening.
+<ICE-USA:W2B-040#40:1> The hardware and software shops are still cooking up new goodies, but
+
+now anthropologists and sociologists study the nature of knowledge work and
+
+the way organizations function.
+<ICE-USA:W2B-040#41:1> These scientists are as important at PARC today as are inventors of
+
+thin-film displays or engineers of RISC processors. </p>
+
+<p> <ICE-USA:W2B-040#42:1> In the 1970s and 1980s everybody at PARC shared a mental model of
+
+the future - they predicted that millions of people would soon use screens
+
+and windows and mice, linked to high-speed communication pipelines.
+<ICE-USA:W2B-040#43:1> But now in the 1990s, nothing seems as easy to forecast or design as
+
+personal computing and networking were.
+<ICE-USA:W2B-040#44:1> This time, the folks at PARC are taking their info-tools into
+
+relatively uncharted territory - what happens among people. </p>
+
+<p> <ICE-USA:W2B-040#45:1> Personal computers and local-area-networks are boxes of
+
+electronics, cables that transport bits.
+<ICE-USA:W2B-040#46:1> But once they are in place, the effects on organization are more
+
+powerful than number-crunching and file-transferring: People use those boxes
+
+and cables to think, communicate, and solve problems in new ways.
+<ICE-USA:W2B-040#47:1> Those new ways are not visible, but they represent the raison d'etre
+
+of innovative information processing and communicating tools.
+<ICE-USA:W2B-040#48:1> These tools, after all, don't generate electrical power or material
+
+goods.
+<ICE-USA:W2B-040#49:1> Through the interaction of minds, they effect changes in human
+
+relationships, and through those, changes in organizations.
+<ICE-USA:W2B-040#50:1> This territory - what happens to people 's minds and to organizations
+
+after personal computers and networks are installed - is the new terra
+
+incognita that PARC researchers are exploring.
+<ICE-USA:W2B-040#51:1> What they have discovered so far, in the earliest phases of the
+
+research, is both startling and inspiring. </p>
+<ICE-USA:W2B-040#52:1> <h> Postmodern Computing </h>
+
+<p> <ICE-USA:W2B-040#53:1> The first person at PARC I talked to this time around was Mark
+
+Weiser.
+<ICE-USA:W2B-040#54:1> I had never met this smiling, bearded fellow before, but I recognized
+
+the room he was standing in.
+<ICE-USA:W2B-040#55:1> </p>
+
+<p> <ICE-USA:W2B-040#56:1> I sat on the same couch in the same corner office with the same
+
+view of Palo Alto ten years earlier when Bob Taylor was director of PARC 's
+
+computer science lab.
+<ICE-USA:W2B-040#57:1> At that time, as now, PARC was a one-stop shop for everything from
+
+new microcircuits ( and new ways of making microcircuits) to new computer
+
+systems and new software.
+<ICE-USA:W2B-040#58:1> Taylor had been a young administrator who led a stellar,
+
+single-minded team for more than a decade, with legendary results.
+<ICE-USA:W2B-040#59:1> Taylor and his crew were the heirs to Douglas Engelbart 's crusade to
+
+" augment human intellect" at the Stanford Research Institute. </p>
+
+<p> <ICE-USA:W2B-040#60:1> As silly as it seems today, there was a time when almost
+
+everybody in the computer industry was convinced that computers were destined
+
+solely for calculation or data processing.
+<ICE-USA:W2B-040#61:1> Engelbart, a lonely visionary, pushed the radical idea that computers
+
+could be used to extend the power of human minds to think, communicate, and
+
+solve problems - this was " augmentation." There was a threshold out there,
+
+Taylor 's early PARC team believed, measured in processing power, where true
+
+intellectual augmentation would take place - the way 24-frames-a-second marks
+
+the boundary between still photography and cinema. </p>
+
+<p> <ICE-USA:W2B-040#62:1> Bob Taylor 's motto had been " Build what you use.
+<ICE-USA:W2B-040#63:1> Use what you build." One of the first things Mark Weiser shared was
+
+his own interpretation of this now hoary PARC wisdom: " You let what you
+
+build change you, and you move on." In Weiser 's view, PARC learns how to
+
+build better tools, and then everybody learns to use them.
+<ICE-USA:W2B-040#64:1> Then they do it all again, with the new tools.
+<ICE-USA:W2B-040#65:1> The people at PARC have a hunch that this organizational
+
+bootstrapping might be worth more to Xerox than the tangible artifacts the
+
+process produces. </p>
+
+<p> <ICE-USA:W2B-040#66:1> The early computer science lab crew stood on a mountain, and the
+
+destination was clear.
+<ICE-USA:W2B-040#67:1> The sights of Weiser and company are more arcane - they are mapping
+
+aspects of intellectual work that have yet to be explored. </p>
+
+<p> <ICE-USA:W2B-040#68:1> Weiser wants computers to disappear into the background.
+<ICE-USA:W2B-040#69:1> When computers become invisible to users, the most important side of
+
+human-computer symbiosis ( to humans) has a better chance to emerge.
+<ICE-USA:W2B-040#70:1> How to make them invisible? Make them ubiquitous. "
+<ICE-USA:W2B-040#71:1> Ubicomp" Weiser calls it.</p>
+
+<p> <ICE-USA:W2B-040#72:1> To Weiser, the intellectual origins of " Ubicomp" lie in the
+
+social rather than the technical side of PARC 's research: " The idea of
+
+ubiquitous computing first arose from contemplating the place of today 's
+
+computer in actual activities of everyday life," he writes in a recent paper. "
+<ICE-USA:W2B-040#73:1> In particular, anthropological studies of work life teach us that
+
+people primarily work in a world of shared situations and unexamined
+
+technological skills. However, the computer today is isolated from the
+
+overall situation and fails to get out of the way of the work." </p>
+
+<p> <ICE-USA:W2B-040#74:1> In Weiser 's cosmology, the original " desktop" graphical user
+
+interface does not go far enough to get out of the way of the user.
+<ICE-USA:W2B-040#75:1> Interfaces don't do the job.
+<ICE-USA:W2B-040#76:1> Neither do agents.
+<ICE-USA:W2B-040#77:1> And certainly not virtual reality ( VR).
+<ICE-USA:W2B-040#78:1> Weiser writes: " In its ultimate environment, VR causes the computer
+
+to become effectively invisible by taking over the human sensory and affector
+
+systems.
+<ICE-USA:W2B-040#79:1> VR is extremely useful in scientific visualization and entertainment,
+
+and will be very significant for those niches.
+<ICE-USA:W2B-040#80:1> But as a tool for productively changing everyone 's relationship to
+
+computation, it has two crucial flaws.
+<ICE-USA:W2B-040#81:1> First, at the present time [ 1992], and probably for decades, it
+
+cannot produce a simulation of significant verisimilitude at reasonable cost.
+<ICE-USA:W2B-040#82:1> That means that users will not be fooled and the computer will not be
+
+out of the way.
+<ICE-USA:W2B-040#83:1> Second, and most importantly, it has the goal of fooling the user -
+
+of leaving the everyday physical world behind.
+<ICE-USA:W2B-040#84:1> This is at odds with the goal of better integrating the computer into
+
+human activities, since humans are of and in the everyday world." </p>
+
+<p> <ICE-USA:W2B-040#85:1> Embedding intelligence in the environment is not possible with
+
+present-day technology, so Weiser 's group started with wall-sized interactive
+
+screens known as " boards," clipboard-sized terminals known as " pads," and
+
+tiny computers called " tabs."
+<ICE-USA:W2B-040#86:1> The first stages of Ubicomp bootstrapping incorporated another
+
+innovation, first created by Olivetti 's research center in Cambridge, England
+
+- an " active badge."
+<ICE-USA:W2B-040#87:1> With an active badge system, every computer you sit down at is your
+
+computer, with your custom interface and access to your files, because your
+
+active badge sends it information via infrared signals.
+<ICE-USA:W2B-040#88:1> It is possible to track the locations of other researchers at all
+
+times by central monitoring of active badges - a handy tool with Orwellian
+
+implications. </p>
+
+<p> <ICE-USA:W2B-040#89:1> In his office, Weiser drew a horizontal line.
+<ICE-USA:W2B-040#90:1> The far left side he labeled " atoms"; the far right side, "
+
+cultures."
+<ICE-USA:W2B-040#91:1> PARC, Weiser points out, directs research at every part of the
+
+spectrum defined by the line between atoms and cultures: toward the " atom"
+
+end of the line is PARC 's ongoing exploration of the nature of materials.
+<ICE-USA:W2B-040#92:1> Toward the center lies PARC 's work in turning materials into real
+
+hardware products.
+<ICE-USA:W2B-040#93:1> Smack in the middle is the task tackled by Taylor and his group,
+
+integrating hardware and software design into information systems.
+<ICE-USA:W2B-040#94:1> And toward the right, closer to " cultures," are systems and
+
+practices - the hunting grounds of social scientists. </p>
+
+<p> <ICE-USA:W2B-040#95:1> The lab 's new direction, Weiser says, " recognizes even more that
+
+people are social creatures."
+<ICE-USA:W2B-040#96:1> He referred to his ideas as a form of " postmodern computing," in
+
+that he wants to " return to letting things in the world be what they are,
+
+instead of reducing them" to data or virtualizing them into illusions.
+<ICE-USA:W2B-040#97:1> " Ubicomp honors the complexity of human relationships, the fact that
+
+we have bodies, are mobile," he said.
+<ICE-USA:W2B-040#98:1> Tabs, pads, boards, and badges are the first bootstrapping steps in
+
+that direction, not the long-term goal.
+<ICE-USA:W2B-040#99:1> Nevertheless, part of that environment has migrated into productland
+
+and is embodied in the " LiveBoard" ( see WIRED 1.4, page 36).</p>
+
+<p> <ICE-USA:W2B-040#100:1> PARC teams are way beyond " fumbling the future."
+<ICE-USA:W2B-040#101:1> They are inventing the future again.
+<ICE-USA:W2B-040#102:1> But this time they are reinventing their understanding of how to
+
+invent the future, as well.
+<ICE-USA:W2B-040#103:1> There is a sense that they are onto something new, that instead of
+
+extending the old computer revolution into new widgets and gadgets, they are
+
+at the dawn of a whole new - and potentially scary - revolution.
+<ICE-USA:W2B-040#104:1> </p>
+
+<p> <ICE-USA:W2B-040#105:1> PARC is an intellectual playground, full of free spirits.
+<ICE-USA:W2B-040#106:1> How do they feel about the possibility that Ubicomp might lead
+
+directly to a future of safe, efficient, soulless, and merciless universal
+
+surveillance? </p>
+
+<p> <ICE-USA:W2B-040#107:1> " Some people refuse to wear badges," Weiser says.
+<ICE-USA:W2B-040#108:1> " I support their right to dissent.
+<ICE-USA:W2B-040#109:1> And one principle we go by here is to maintain individual control
+
+over who else sees anything about us....The answer will have to be social as
+
+well as technical." </p>
+<ICE-USA:W2B-040#110:1> <h> Corporations as MUDs: The Virtual Water Cooler </h>
+
+<p> <ICE-USA:W2B-040#111:1> When computers disappear into the woodwork, people in
+
+organizations will do the same important thing people in organizations have
+
+always done: They will tell each other stories.
+<ICE-USA:W2B-040#112:1> While workstations can amplify the work people do in their physical
+
+cubicles and formal job roles, boxes on desks can't approach what happens at
+
+the water cooler.
+<ICE-USA:W2B-040#113:1> One PARC researcher, Pavel Curtis, is looking closely at MUDs, the
+
+water coolers of the Internet.
+<ICE-USA:W2B-040#114:1> He sees them as a way of bringing informal, even playful
+
+communication back into organizations.
+<ICE-USA:W2B-040#115:1> In MUDs, the " Multi-User Dungeons" of the Internet, thousands of
+
+enthusiasts create their own dramatic adventures, sometimes vying for points
+
+in fantasy games, sometimes just conversing. </p> </I>

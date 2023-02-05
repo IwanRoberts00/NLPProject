@@ -1,0 +1,409 @@
+<I>
+<ICE-USA:W2A-021#1:1> <h> INTRODUCTION </h>
+
+<p> <ICE-USA:W2A-021#2:1> While incineration has been used to dispose of sewage sludge since
+
+the 1930s, serious concern regarding environmental impact due to organic
+
+emissions has developed only recently ( 1).
+<ICE-USA:W2A-021#3:1> Results of field tests on systems in the United States have shown that
+
+a number of toxic products of incomplete combustion ( PICs) may be emitted
+
+from multiple-hearth and fluidized-bed units ( 2-10).
+<ICE-USA:W2A-021#4:1> Other studies have generated concern over the possible emissions of
+
+polychlorinated dibenzo-p-dioxins ( PCDDs) and polychlorinated dibenzofurans
+
+( PCDFs) ( 2,3).
+<ICE-USA:W2A-021#5:1> Studies on multiple-hearth units in Canada have shown that some
+
+materials may be rapidly vaporized on the upper hearths ( drying zone) and
+
+swept from the unit before combustion temperatures are realized ( 11).
+<ICE-USA:W2A-021#6:1> A recent laboratory study has shown that sludge can exert a
+
+stabilizing effect on some of the toxic industrial contaminants in sewage
+
+sludge, retarding their destruction ( 12).
+<ICE-USA:W2A-021#7:1> In addition, this same study has shown that a number of toxic PICs may
+
+be formed from degradation of the sludge biomass as well as the contaminants.
+<ICE-USA:W2A-021#8:1> This raises some concerns over the toxic organic emission from sewage
+
+sludge incineration and suggest that a better understanding of the nature of
+
+these emissions is necessary before adequate regulatory and control
+
+strategies can be developed.</p>
+
+<p> <ICE-USA:W2A-021#9:1> The University of Dayton participated in a study which compared
+
+the results of bench-scale thermal decomposition testing of four sewage
+
+sludge samples.
+<ICE-USA:W2A-021#10:1> These samples were also incinerated as part of a full-scale test
+
+program conducted by Radian Corporation under U.S. Environmental Protection
+
+Agency ( EPA) sponsorship ( 4-10).
+<ICE-USA:W2A-021#11:1> The primary goal of the study was to determine if laboratory test
+
+results could be used to predict full-scale results, and if laboratory and
+
+theoretical predictions could be used as part of a comprehensive organic
+
+emissions risk assessment.
+<ICE-USA:W2A-021#12:1> One fluidized-bed and three multiple-hearth facilities were examined.
+<ICE-USA:W2A-021#13:1> The key operating parameters for these facilities are summarized in
+
+Table 1.</p>
+<ICE-USA:W2A-021#14:1> <h> EXPERIMENTAL </h>
+<ICE-USA:W2A-021#15:1> <h> Instrumentation </h>
+
+<p> <ICE-USA:W2A-021#16:1> Thermal decomposition testing for all four sewage sludge samples
+
+was conducted using the System for Thermal Diagnostic Studies ( STDS) ( 13).
+<ICE-USA:W2A-021#17:1> This high-temperature. gas-phase, flow reactor assembly permits study
+
+of the thermal decomposition of gaseous, liquid, solid, or polymeric
+
+substances under very precise, well-controlled conditions.</p>
+
+<p> <ICE-USA:W2A-021#18:1> The STDS incorporates a bench-scale thermal decomposition unit
+
+with an in- line analytical unit for product analysis.
+<ICE-USA:W2A-021#19:1> The thermal unit includes a modular control console and a modified
+
+HP5890 GC which houses the sample insertion region, a high-temperature
+
+furnace, fused-silica reactor, and the associated transfer lines.
+<ICE-USA:W2A-021#20:1> The system is capable of temperatures up to 1200 C and gas- phase
+
+reactor times, tr of 0.1-10.0 sec.
+<ICE-USA:W2A-021#21:1> The analytical unit of the STDS is comprised of another HP 5890 GC
+
+which is coupled to a computer- controlled HP 5970B bench-top Mass Selective
+
+Detector ( MSD) for product analysis.</p>
+
+<p> <ICE-USA:W2A-021#22:1> A DB-5, 30m, 0.25 mm i.d., 0.25-micron film thickness capillary
+
+column ( J&W) was held at - 60 C to trap the reactor effluent.
+<ICE-USA:W2A-021#23:1> The effluent was separated by programming the GC oven from - 60 C to
+
+290 C using helium carrier gas.
+<ICE-USA:W2A-021#24:1> The MSD was operated in the full-scan ( 10-500 amu) or Selected Ion
+
+Monitoring ( SIM) mode using electron impact ionization at 70 eV.
+<ICE-USA:W2A-021#25:1> Calibration of the MSD response for specific " target list" compounds
+
+was accomplished using appropriate analytical standards.</p>
+
+<p> <ICE-USA:W2A-021#26:1> Upon receipt, the sludge samples from each site were frozen until
+
+24 hours prior to use.
+<ICE-USA:W2A-021#27:1> For each experiment, approximately 5 mg of sludge was placed in a
+
+quartz sample tube assembly located in the insertion region of the STDS.
+<ICE-USA:W2A-021#28:1> The sludge samples were used " as received" with no dewatering or
+
+treatment of any kind.
+<ICE-USA:W2A-021#29:1> A gas-phase reactor residence time of 1.5 sec was used for all
+
+experiments.
+<ICE-USA:W2A-021#30:1> Data were obtained under both oxidative and pyrolytic conditions.
+<ICE-USA:W2A-021#31:1> However, only the pyrolysis data are reported due to their better
+
+correlation with full-scale results.
+<ICE-USA:W2A-021#32:1> A more complete discussion of this observation will be presented in
+
+the Discussion section of this report.</p>
+<ICE-USA:W2A-021#33:1> <h> Incinerator Simulations </h>
+
+<p> <ICE-USA:W2A-021#34:1> The typical multiple-hearth incinerator consists of 6 to 12
+
+hearths on which the sludge progressively resides as it is dried and
+
+combusted, and the ash is finally cooled.
+<ICE-USA:W2A-021#35:1> The sludge enters the top of the incinerator and progressively drops
+
+through holes to lower hearths as it is raked and abraded by rabble arms (
+
+14).
+<ICE-USA:W2A-021#36:1> There are 3 thermal regimes along the sludge path.
+<ICE-USA:W2A-021#37:1> In the drying zone ( T(gas) ~ 425 C, T(Sludge) ~ 70 C), which exists
+
+on the upper hearths, water is gradually driven off the sludge so that the
+
+material may be combusted.
+<ICE-USA:W2A-021#38:1> The sludge is actually incinerated in the central combustion zone (
+
+T(gas) ~ 830 C), T(sludge) ~ 730 C, and the ash is cooled in the cooling zone
+
+( T(gas) ~ 175 C, T(sludge) ~ 200 C) ( 12).</p>
+
+<p> <ICE-USA:W2A-021#39:1> Simulation of the staged increases in bed and gas temperatures
+
+through the hearths of the multiple-hearth incinerator was achieved using a
+
+series of four stepped increases in the temperature of the CDS Model 120
+
+pyroprobe located in the insertion region of the STDS, accompanied by
+
+specific downstream reactor temperatures.
+<ICE-USA:W2A-021#40:1> After a sample was loaded into the CDS pyroprobe and positioned in
+
+the insertion region, the temperature was ramped from 50 C to 200 C @ 15
+
+C/min and then from 200 C to 300 C @ 15 C/min, with downstream reactor
+
+temperatures of 300 C and 450 C, respectively.
+<ICE-USA:W2A-021#41:1> These first two steps in the sludge exposure were designed to
+
+determine the relative contribution to emissions of volatilization of the
+
+sludge n the upper hearths of the multiple- hearth incinerator and the range
+
+of temperatures which may be experienced there.
+<ICE-USA:W2A-021#42:1> In the third and fourth steps of the exposure scenario, the sludge
+
+was rapidly taken to 550 C and then to 700 C using the heating coil of the
+
+CDS pyroprobe assembly; the downstream reactor temperatures were 600 C and
+
+800 C, respectively.
+<ICE-USA:W2A-021#43:1> These last two steps were designed to simulate the combustion zone of
+
+the multiple-hearth incinerator and the range of temperatures which may be
+
+experienced there.
+<ICE-USA:W2A-021#44:1> GC-MS analysis was performed at the end of each step in this process.
+<ICE-USA:W2A-021#45:1> The individual contributions were then directly summed to provide for
+
+the total emissions from laboratory- simulated " incineration" of the sludge
+
+sample.
+<ICE-USA:W2A-021#46:1> It was necessary to include data from all temperatures in the
+
+laboratory simulation because emissions in the stacks of full-scale units are
+
+a culmination of emissions from all of the hearths, not just the combustion
+
+hearths.
+<ICE-USA:W2A-021#47:1> These results were qualitatively compared to mass emission factors
+
+for each of the three full-scale facilities.</p>
+
+<p> <ICE-USA:W2A-021#48:1> In a fluidized-bed incinerator, the mass of the bed is quite
+
+large in relation to the injected sludge ( 14).
+<ICE-USA:W2A-021#49:1> This affords excellent abrasive action on the sludge and maintains
+
+temperature uniformity within the reactor.
+<ICE-USA:W2A-021#50:1> Temperatures, which are limited by the melting point of the bed
+
+material range from 750 C to 870 C and do not typically vary more than 5 C
+
+throughout the bed or freeboard of the incinerator.
+<ICE-USA:W2A-021#51:1> Thus, the problems of volatilization and incomplete combustion
+
+associated with the drying zone of the multiple-hearth incinerator are not
+
+expected to be as severe with the fluidized-bed incinerator.</p>
+
+<p> <ICE-USA:W2A-021#52:1> Simulation of the single fluidized-bed unit was performed by
+
+rapidly heating the sludge 700 C in the insertion region of the STDS,
+
+followed by a downstream reactor exposure of 700 C.
+<ICE-USA:W2A-021#53:1> GC-MS techniques were again employed to perform analysis of the
+
+reactor effluent.
+<ICE-USA:W2A-021#54:1> Laboratory data from this exposure was then compared with full-scale
+
+data from the single fluidized-bed facility.</p>
+<ICE-USA:W2A-021#55:1> <h> RESULTS </h>
+
+<p> <ICE-USA:W2A-021#56:1> Table 2 lists the major emissions detected in laboratory testing
+
+of the four sewage sludges.
+<ICE-USA:W2A-021#57:1> Experiments in which data acquisition was performed with the MSD in
+
+full-scan mode ( i.e. 10 - - > 500 amu mass range scanned) showed that the
+
+majority of mass emission from the thermal decomposition of all four sludges
+
+resulted from decomposition of the biomass of the sludge itself.
+<ICE-USA:W2A-021#58:1> Many long- chain carboxylic acids, ketones, aldehydes, amino acids,
+
+etc., were detected.
+<ICE-USA:W2A-021#59:1> Even the two most common and abundant emissions seen from all four
+
+sludges, benzene and toluene, were more a result of the thermal decomposition
+
+of biological material present in the sludge than from any initial
+
+contamination in the feed itself.
+<ICE-USA:W2A-021#60:1> This conclusion was based upon the observation that the mass emission
+
+rate of benzene and toluene always surpassed any initial feed rate in the
+
+sludge, if these two compounds were even detected in the sludge feed at all.
+<ICE-USA:W2A-021#61:1> The same phenomenon ( i.e. the majority of mass emissions resulting
+
+from the sludge biomass) was observed in previous laboratory studies in which
+
+relatively clean sludge and sludge spiked with known concentrations of
+
+contaminants were subjected to controlled thermal exposures ( 12).</p>
+
+<p> <ICE-USA:W2A-021#62:1> Sulfur-containing compounds were only observed in laboratory
+
+testing of samples from Sites 2 and 3.
+<ICE-USA:W2A-021#63:1> The sources of influent wastewater for both of these facilities were
+
+listed as industrial and municipal, respectively.
+<ICE-USA:W2A-021#64:1> Perhaps the industrial contribution to the influent waste stream in
+
+both cases was responsible for the sulfur-containing emissions.</p>
+
+<p> <ICE-USA:W2A-021#65:1> The reactor effluent from the laboratory fluidized-bed sample
+
+from Site 3 ( 700 C) was notably much cleaner in terms of number and relative
+
+yield of products than that observed for the three multiple-hearth samples.
+<ICE-USA:W2A-021#66:1> This is as one might expect, based upon the more uniform combustion
+
+provided for in the simulated fluidized-bed experiments.</p>
+
+<p> <ICE-USA:W2A-021#67:1> A comparison of laboratory and field test results is presented in
+
+Table 3.
+<ICE-USA:W2A-021#68:1> This comparison is complicated by the difficulty of conducting
+
+chemical analysis for specific toxic materials within an overwhelming organic
+
+matrix as background.
+<ICE-USA:W2A-021#69:1> Both laboratory and field studies were subject to this difficulty.
+<ICE-USA:W2A-021#70:1> As a result, the joint program concentrated upon detection of
+
+specific toxins contained in a generic " target list".
+<ICE-USA:W2A-021#71:1> These toxins are enumerated in Table 3.
+<ICE-USA:W2A-021#72:1> Compounds were selected based upon toxicity, suspected prevalence in
+
+sewage sludge, and representativeness of different classes of potential
+
+pollutants.
+<ICE-USA:W2A-021#73:1> Compounds were also added to the target list based upon their
+
+detection in a preliminary round of laboratory testing of sludges from the
+
+four test sites, which was completed before full-scale testing was begun.
+<ICE-USA:W2A-021#74:1> This initial testing allowed for the addition of major " site
+
+specific" emissions to the generic " target list".
+<ICE-USA:W2A-021#75:1> The following paragraphs compare laboratory and field results.</p>
+<ICE-USA:W2A-021#76:1> <h> Site 1: </h>
+
+<p> <ICE-USA:W2A-021#77:1> Our previous laboratory studies of the oxidative pyrolysis of
+
+pure tetrachloroethylene showed that carbon tetrachloride is formed as a PIC
+
+( 15).
+<ICE-USA:W2A-021#78:1> These experiments also showed that, given a hydrogen source,
+
+trichloroethylene was readily formed as a PIC from tetrachloroethylene.
+<ICE-USA:W2A-021#79:1> The radical pool generated during the incineration of municipal
+
+sludge would provide such a source of hydrogen.
+<ICE-USA:W2A-021#80:1> Thus, if tetrachloroethylene were present in a sludge stream to be
+
+incinerated, these two products would likely be compounds detected in the
+
+stack.
+<ICE-USA:W2A-021#81:1> Full-scale data generated at this site correlated with this
+
+laboratory finding; tetrachloroethylene was present in the sludge feed, and
+
+carbon tetrachloride and trichloroethylene were found in the stack effluent.
+<ICE-USA:W2A-021#82:1> However, tetrachloroethylene was not detected in the sludge feed
+
+sample furnished for laboratory testing, as evidenced by its absence in the
+
+300 C transport analysis of the sludge sample.
+<ICE-USA:W2A-021#83:1> Thus, an explanation for the absence in laboratory data of these two
+
+emissions is the absence of tetrachloroethylene in the sludge feed.
+<ICE-USA:W2A-021#84:1> This argument may be extended to explain the lack of observation of
+
+any other chlorinated products.
+<ICE-USA:W2A-021#85:1> Since no chlorine-containing compounds were identified in the sludge
+
+feed, there was no source of chlorine for the formation of chlorinated
+
+products.</p>
+
+<p> <ICE-USA:W2A-021#86:1> Finally, tetrachloroethylene and chloroform were reportedly
+
+contaminants of the scrubber water used at this facility.
+<ICE-USA:W2A-021#87:1> It is very likely that stripping of both these compounds from the
+
+water during the scrubbing process contributed to their emissions in the
+
+stack.
+<ICE-USA:W2A-021#88:1> Therefore, these two compounds would not be expected in the emissions
+
+from thermal testing performed in the laboratory.</p>
+<ICE-USA:W2A-021#89:1> <h> Site 2: </h>
+
+<p> <ICE-USA:W2A-021#90:1> In the feed samples collected during full-scale testing from Site
+
+2, two chlorinated compounds, methylene chloride and chlorobenzene were found
+
+which were not detected in the sample provided for laboratory testing In
+
+previous laboratory experiments, we have found that 1,1-dichloroethylene,
+
+1,2- dichloroethylene, and trichloroethylene were all formed as products from
+
+the pyrolytic decomposition of pure methylene chloride ( 16)- .
+<ICE-USA:W2A-021#91:1> Thus, it is not surprising that a facility incinerating sludge
+
+contaminated with methylene chloride had these compounds present in its
+
+emissions.
+<ICE-USA:W2A-021#92:1> Since no methylene chloride was present in the sludge feed sample
+
+received for laboratory testing, detection of these compounds could not be
+
+expected.</p>
+
+<p> <ICE-USA:W2A-021#93:1> The chlorobenzene emissions detected in the stack effluent of
+
+this facility probably resulted from a combination of two processes.
+<ICE-USA:W2A-021#94:1> The first is the original contamination found in the sludge feed.
+<ICE-USA:W2A-021#95:1> Previous studies have shown chlorobenzene to be a very stable
+
+compound, even when decompoSed as part of a mixture ( 17,18)-.
+<ICE-USA:W2A-021#96:1> Thus, the appearance of chlorobenzene in the stack is probably due in
+
+part to its ability to undergo relatively harsh thermal exposures and escape
+
+unscathed.</p>
+
+<p> <ICE-USA:W2A-021#97:1> The second contribution to the emission of chlorobenzene at the
+
+full- scale facility is the possibility that this compound was formed as a
+
+PIC.
+<ICE-USA:W2A-021#98:1> We have conducted many studies involving the decomposition of benzene
+
+and/or toluene or related compounds in the presence of chlorinated species.
+<ICE-USA:W2A-021#99:1> The free chlorine radicals generated in such a reaction atmosphere
+
+have host of chlorine- containing compounds were detected in the sludge feed
+
+at the full-scale facility, it is logical that chlorobenzene was detected in
+
+the stack.</p> </I>

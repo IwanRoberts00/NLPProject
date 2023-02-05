@@ -1,0 +1,49 @@
+<text.info>
+  <file.description>
+    <textcode>ICE-USA-W2B-031</textcode>
+    <number of subtexts>1</number of subtexts>
+    <category>written: printed: popular: technology </category>
+    <wordcount>2089</wordcount>
+    <version>coded, edited,  with essential markup</version>
+    <free.comments></free.comments>
+  </file.description>
+  <subtext.source=ICE-USA-W2B-031>
+    <source.type=collection>
+      <source.title>Dobb’s Journal</source.title>
+      <series></series>
+      <editor> </editor>
+    <publication statement>
+      <publisher> </publisher>
+      <address> </address>
+      <place> </place>
+      <date>Jan, 2002</date>
+    </publication statement>
+    <copyright.statement>Permission obtained.</copyright.statement>
+    <free.comments></free.comments>
+    </source.type>
+  </subtext.source>
+  <subtext.internals=ICE-USA-W2B-031>
+    <subtext.name> </subtext.name>
+      <main.title> Clean Up, Flatten Out </main.title>
+      <subtitle></subtitle>
+      <page.nos> </page.nos>
+    <free.comments></free.comments>
+  </subtext.internals>
+  <biography=ICE-USA-W2B-031>
+    <speaker.id></speaker.id>
+      <communicative.role>author</communicative.role>
+      <surname> Holzschlag </surname>
+      <forenames> Molly E. </forenames>
+      <age> </age>
+      <gender>female </gender>
+      <nationality></nationality>
+      <birthplace></birthplace>
+      <education>MA in Media Studies from New School Univerisity</education>
+      <educational.level>MA</educational.level>
+      <occupation></occupation>
+      <affiliations></affiliations>
+      <mother.tongue></mother.tongue>
+      <other.languages></other.languages>
+      <free.comments></free.comments>
+  </biography>
+</text.info>

@@ -1,0 +1,386 @@
+<I>
+<ICE-USA:W2A-036#1:1> <H> Introduction</h>
+
+<P> <ICE-USA:W2A-036#2:1> Two major forces have shaped the current drive to implement format
+
+integration.
+<ICE-USA:W2A-036#3:1> First, usage of USMARC as the basis of library catalogs has become
+
+common for all library types throughout the country; very few libraries rely
+
+solely on card access to their collections anymore.
+<ICE-USA:W2A-036#4:1> With the growth of automated systems, vendors and librarians alike
+
+have been interested in better standardization of these formats.
+<ICE-USA:W2A-036#5:1> Secondly, as our culture continues its evolution from a primarily
+
+paper-based environment to one where multimedia plays an increasing role, the
+
+nature of published materials has changed dramatically.
+<ICE-USA:W2A-036#6:1> Publishers market monographs with accompanying material ranging
+
+anywhere from computer diskettes to kazoos.
+<ICE-USA:W2A-036#7:1> Multimedia works often encompass several different material types such
+
+as CD-ROMs, printed guides and computer files.
+<ICE-USA:W2A-036#8:1> These changes have presented an ongoing challenge to catalogers and
+
+system librarians.
+<ICE-USA:W2A-036#9:1> How can we best describe these multi-faceted items and ensure their
+
+retrieval in automated systems?</p>
+
+<P> <ICE-USA:W2A-036#10:1> Discussion about unifying the seven separate USMARC bibliographic
+
+formats began in 1983.
+<ICE-USA:W2A-036#11:1> Format integration was envisioned as a means to simplify
+
+documentation, reduce redundancy across formats, enable catalogers to work
+
+more easily with multiple formats, and improve machine validation of MARC
+
+records.
+<ICE-USA:W2A-036#12:1> Although the need for format integration was identified over a decade
+
+ago, its implementation has been slow.
+<ICE-USA:W2A-036#13:1> The need for compatibility in sharing data among the Library of
+
+Congress, the bibliographic utilities and various local systems has been the
+
+biggest challenge with format integration and has contributed to the delays
+
+in its implementation.</p>
+
+<P> <ICE-USA:W2A-036#14:1> The phrase " format integration" applies to changes in the USMARC
+
+bibliographic formats only.
+<ICE-USA:W2A-036#15:1> Other MARC formats, such as authorities, holdings, classification and
+
+community information remain unaffected.
+<ICE-USA:W2A-036#16:1> It encompasses coordination across forms of material, removing the
+
+restriction on data elements that have previously made them valid only for
+
+specific forms of material.
+<ICE-USA:W2A-036#17:1> In spite of the efforts involved in the implementation of format
+
+integration, the bulk of the alterations in USMARC will affect just a small
+
+percentage of cataloging records.</p>
+<ICE-USA:W2A-036#18:1> <H> Implementation </h>
+
+<P> <ICE-USA:W2A-036#19:1> The first portion of format integration came in 1991, with USMARC
+
+Update No.
+<ICE-USA:W2A-036#20:1> 3.
+<ICE-USA:W2A-036#21:1> This update included a few changes that primarily involved the
+
+implementation of blank indicator values.
+<ICE-USA:W2A-036#22:1> The rest of format integration was originally planned to be
+
+implemented simultaneously.
+<ICE-USA:W2A-036#23:1> However, as the planning for implementation progressed, it became
+
+clear that the changes to the variable fields had a much smaller impact on
+
+systems which handle MARC records than the fixed field changes.
+<ICE-USA:W2A-036#24:1> Due to the difficulty of implementing the latter, MARBI accepted a
+
+proposal in 1993 to split the remainder of format integration into two
+
+phases, variable fields and fixed fields.
+<ICE-USA:W2A-036#25:1> This compromise allowed the variable field portion to be implemented
+
+sooner, instead of postponing the entire project until the fixed field
+
+portion could be ready.
+<ICE-USA:W2A-036#26:1> The variable field phase of format integration was implemented in
+
+late January of 1995.</p>
+
+<P> <ICE-USA:W2A-036#27:1> This phase essentially validated all variable fields across all
+
+formats, while eliminating some obsolete fields.
+<ICE-USA:W2A-036#28:1> This article focuses on the final phase of format integration, which
+
+affects the Leader and 001-008 fixed fields.
+<ICE-USA:W2A-036#29:1> The Library of Congress and the bibliographic utilities have
+
+scheduled the implementation of this phase for March 3, 1996.
+<ICE-USA:W2A-036#30:1> There are several changes that will impact catalogers and systems in
+
+the final phase.
+<ICE-USA:W2A-036#31:1> * Changes to the Leader/06 ( Type of record) Remove: b = archival and
+
+manuscripts control add: p = mixed material t = manuscript language material
+
+* Definition of Leader/08 ( Type of control) blank = no specified type of
+
+control a = archival control</p>
+
+<P> <ICE-USA:W2A-036#32:1> The changes to the Leader/06 ( Type of record) and the definition
+
+of Leader/08 ( Type of control) will have a significant impact on the coding
+
+of archival materials.
+<ICE-USA:W2A-036#33:1> These modifications recognize that archival control is not limited to
+
+a particular type of material.
+<ICE-USA:W2A-036#34:1> With the final phase of format integration, archivists will be able
+
+to better distinguish between various material types, such as monograph vs.
+<ICE-USA:W2A-036#35:1> serial, and also will not be limited to choosing archival control
+
+over the visual materials format when describing an archival film, for
+
+example.
+<ICE-USA:W2A-036#36:1> This structural change in the MARC record necessitates some
+
+alterations in how the bibliographic utilities will handle archival records.
+<ICE-USA:W2A-036#37:1> OCLC will eliminate the Archival and Manuscript Control format ( AMC)
+
+and will introduce a new format, Mixed Materials, to accommodate records for
+
+which no single other format predominates.
+<ICE-USA:W2A-036#38:1> In RLIN, the AMC file will remain, intended for use with archival
+
+collections of mixed materials or any individual material type.
+<ICE-USA:W2A-036#39:1> The RLIN-specific archival control segment ( ARC), previously valid
+
+only in the AMC and visual materials files, will be made available for use in
+
+all formats when the material represented by the bibliographic record is
+
+under archival control.</p>
+
+<P> <ICE-USA:W2A-036#40:1> * Validate values for 007 ( Physical Description Fixed Field)
+
+across all formats</p>
+
+<P> <ICE-USA:W2A-036#41:1> The extension of field 007 to all formats enables specific
+
+encoding of all the physical aspects present in the item in hand.
+<ICE-USA:W2A-036#42:1> The field may be repeated when different parts of the item have
+
+different characteristics, such as a positive and a negative polarity
+
+microfilm cataloged on the same record, or to represent the secondary nature
+
+with mixed material.</p>
+
+<P> <ICE-USA:W2A-036#43:1> * Changes to 008/byte 06 ( Date entered on file) Redefine
+
+detailed date from " d" to " e" in all formats Remove actual date and
+
+copyright date ( " c" in most formats) Define publication date and copyright
+
+date " t" for all formats Validate other values across all formats,
+
+including: " c" - serial item currently published " d" - serial item ceased
+
+publication</p>
+
+<P> <ICE-USA:W2A-036#44:1> * Changes to 008/bytes 07-14 ( Date 1/Date 2) " u" - Date element
+
+is totally or partially unknown " blank" - Date element is not applicable
+
+With the final phase of format integration, the first 17 bytes of field 008,
+
+plus the final five, will have consistent definitions across all formats,
+
+while bytes 18-34 will remain format specific.
+<ICE-USA:W2A-036#45:1> The changes inherent in this process will introduce non-serial
+
+catalogers to some serial date codes, just as variable field format
+
+integration introduced tag 246 across all formats.
+<ICE-USA:W2A-036#46:1> The biggest change in field 008 is the shift from using " c" to " t"
+
+to indicate copyright date.
+<ICE-USA:W2A-036#47:1> Another change which will arise with some frequency is the ability to
+
+code unknown dates with " u" instead of the current practice of using zeros
+
+to complete unknown dates.</p>
+
+<P> <ICE-USA:W2A-036#48:1> * Redefine 006 field ( Fixed-Length Data Element - Additional
+
+Material Characteristics)</p>
+
+<P> <ICE-USA:W2A-036#49:1> Full implementation of format integration will finally enable
+
+catalogers to describe material with characteristics which are representative
+
+of more than one MARC bibliographic format.
+<ICE-USA:W2A-036#50:1> In the current cataloging environment, once the decision is made
+
+about the primary nature of the material, certain aspects of the secondary
+
+nature are lost in the description.
+<ICE-USA:W2A-036#51:1> Examples of such mixed materials include: a book with an accompanying
+
+sound recording, or a serially issued score.
+<ICE-USA:W2A-036#52:1> Even though format integration of the variable fields addresses the
+
+specific description problems with these mixed materials, without the
+
+accompanying fixed fields, machine manipulation of all aspects of the
+
+cataloging record is limited to the primary material type described in field
+
+008.
+<ICE-USA:W2A-036#53:1> The redefinition of field 006 will change all that.
+<ICE-USA:W2A-036#54:1> The 006 parallels the material-specific bytes of field 008, allowing
+
+the representation of all aspects of an item for subsequent machine
+
+manipulation, even that pesky serially published map on CD-ROM.
+<ICE-USA:W2A-036#55:1> Field 006 will be used only for those materials which encompass more
+
+than one material type.
+<ICE-USA:W2A-036#56:1> It has a leading character which identifies the secondary nature of
+
+the material, that is book, serial, score, recording, etc.
+<ICE-USA:W2A-036#57:1> For a summary of the 006 field, see the chart below.
+<ICE-USA:W2A-036#58:1> The leading character in field 006 will determine what the valid
+
+codes are for the secondary nature.
+<ICE-USA:W2A-036#59:1> The remainder of the 006 bytes match those of the 008 for a
+
+particular material type, in the same fashion currently that the 007 leading
+
+byte defines the following values.
+<ICE-USA:W2A-036#60:1> The tables reproduced at the end of this article summarize the
+
+definitions of the 006 field for books, music, and serials, with the codes
+
+used by OCLC, RLIN and WLN in the equivalent 008 fields at this time.</p>
+
+<P> <ICE-USA:W2A-036#61:1> <&> It is unclear whether or not the following paragraph, which
+
+is encapsulated by quotation marks, is in fact a quote with a source of
+
+origin distinct from the author.
+<ICE-USA:W2A-036#62:1> It has been included here for lack of evidence against my assumption,
+
+which is that the quotation marks here are not being used to indicate a
+
+quote</&>"Field 006 will have no indicators or subfield codes.
+<ICE-USA:W2A-036#63:1> The field will have a generic-tree structure, whereby the category of
+
+material code given in 006/00 ( Type of 006 code) will determine the data
+
+elements defined for subsequent character positions.
+<ICE-USA:W2A-036#64:1> For each category of material, the codes defined for character
+
+positions 01-17 will be the same as those defined for that category in field
+
+008 ( Fixed-Length Data Elements), character positions 18-34." - USMARC</p>
+
+<P> <ICE-USA:W2A-036#65:1> When encountering material that exhibits multiple material type
+
+characteristics, a question remains about how to select the primary aspect.
+<ICE-USA:W2A-036#66:1> USMARC sets forth a model, reproduced below, to assist with the
+
+decision-making.
+<ICE-USA:W2A-036#67:1> In spite of this model, interpretation about whether or not an item
+
+is basically textual will still rest with cataloger judgment.
+<ICE-USA:W2A-036#68:1> Note that the selection of the primary characteristic determines the
+
+appropriate chapter of AACR2r to be used as the basis for the description.
+<ICE-USA:W2A-036#69:1> Thus, in shared databases, the description may vary somewhat
+
+depending on which characteristic is chosen as the primary one.</p>
+
+<P> <ICE-USA:W2A-036#70:1> <&> The material below has been maintained formatting seems to be
+
+intact.
+<ICE-USA:W2A-036#71:1> <H> Impact </h>
+
+<P> <ICE-USA:W2A-036#72:1> The impact that full format integration will have on our
+
+cataloging databases depends on several factors.
+<ICE-USA:W2A-036#73:1> As with variable field format integration, some changes to existing
+
+records will be able to be made by a simple machine substitution; however,
+
+other changes will have to be made manually.
+<ICE-USA:W2A-036#74:1> It seems unlikely that libraries will go back and recatalog items
+
+with multiple characteristics, or that the utilities will add field 006 to
+
+existing records in their databases.
+<ICE-USA:W2A-036#75:1> In fact, it is difficult to identify older records that might benefit
+
+from the addition of field 006.
+<ICE-USA:W2A-036#76:1> It is important to remember that these older records are not "
+
+incorrect." Instead they will not reflect the full content designation
+
+available with the format integrated version of USMARC.
+<ICE-USA:W2A-036#77:1> Additionally, field 006 is optional; thus usage of this field will
+
+vary among institutions according to their perceived needs, the national
+
+libraries' practices, and the nature of the material being cataloged.
+<ICE-USA:W2A-036#78:1> The five cataloging examples included at the end of this article
+
+demonstrate some of the changes with this phase of format integration.
+<ICE-USA:W2A-036#79:1> At this point, it is difficult to determine exactly how the various
+
+utilities and local systems will handle the upcoming changes with the final
+
+phase of format integration.
+<ICE-USA:W2A-036#80:1> Decision points include: indexing field 006 for retrieval;
+
+identifying cataloging records by material type when more than one type is
+
+represented; implementing new MARC screen designs which will not fill the
+
+first page of the cataloging record with fixed field options and modifying
+
+validation routines which take the new options into account.
+<ICE-USA:W2A-036#81:1> The bibliographic utilities and system vendors have started
+
+announcing some of their planned changes via their web sites ( see
+
+http://www-rlg.stanford.edu/welcome.html,
+
+http://www.oclc.org/oclc/menu/home1.htm, and the Library Vendors section at
+
+http://lcweb.loc.gov/global/library/library.html#vendors).
+<ICE-USA:W2A-036#82:1> How the systems and utilities choose to index field 006 for retrieval
+
+will be based on their pre-existing file structures.
+<ICE-USA:W2A-036#83:1> Depending on the programming, these decisions may have a significant
+
+impact on record retrieval when a user qualifies by material type.
+<ICE-USA:W2A-036#84:1> If the material-specific bytes of fields 008 and 006 cannot be
+
+searched concurrently, multiple searches of a given database may be needed to
+
+retrieve all relevant records.
+<ICE-USA:W2A-036#85:1> The display of search results may also be dependent on the coding of
+
+the primary material characteristic.
+<ICE-USA:W2A-036#86:1> As the March 1996 implementation date draws closer, the utilities and
+
+vendors will make more specific information available about how the final
+
+phase of format integration affects searching in their systems.</p>
+
+<P> <ICE-USA:W2A-036#87:1> The utilities' implementation of this phase of format integration
+
+will cause some changes in the familiar screen displays.
+<ICE-USA:W2A-036#88:1> In OCLC, look for new standardized labels and layout of the fixed
+
+fields across all formats.
+<ICE-USA:W2A-036#89:1> Field 006 will display as a variable field, although users will be
+
+able to enter and edit this tag either directly, or as a prompted display
+
+with mnemonics.
+<ICE-USA:W2A-036#90:1> RLIN will automatically generate templates for field 007 based on the
+
+file type.</p> </I>

@@ -1,0 +1,49 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2B-011</textcode>
+          <number of subtexts>1</number of subtexts>
+          <category><category>written: printed: popular: social science</category>
+          <wordcount>2200</wordcount>
+          <version>coded, edited, with essential tagging</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ICE-USA-W2B-011>
+          <source.type=collection>
+               <source.title> Bostonia/source.title>
+               <series></series>
+               <editor>Jerruld Hickley</editor>
+          <publication statement>
+               <publisher>Bostonia Magazine</publisher>
+               <address> </address>
+               <place> </place>
+               <date>Summer 1993</date>
+          </publication statement>
+          <copyright.statement>used by permission of Bostonia Magazine</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA-W2B-011>
+          <subtext.name> </subtext.name>
+               <main.title>In Search of the Middle Way</main.title>
+               <subtitle></subtitle>
+               <page.nos>26-30</page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+     <biography=ICE-USA-W2B-011>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Sickinger</surname>
+               <forenames>Ted</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

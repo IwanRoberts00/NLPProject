@@ -1,0 +1,37 @@
+<text.info>
+<file.description>
+    <textcode>ICE-USA-W2E-006</textcode>
+    <number.of.subtexts>1</number.of.subtexts>
+    <category>Press Editorial</category>
+    <wordcount>2300</wordcount>
+    <version>coded, edited but untagged</version>
+    <free.comments></free.comments>
+</file.description>
+<subtext.source= ICE-USA-W2E-006>
+    <source.type=editorial>
+        <format>printed</format>
+        <date>Dec. 22, 24, 27, 28, 1993,</date>
+    <copyright.statement>Reprinted with permission of The St. Petersburg Times and its representative, Senior Editor Thomas C. Rawlins</copyright.statement>
+    <free.comments> 
+</free.comments>
+    </source.type>
+</subtext.source>
+<biography= ICE-USA-W2E-006>
+    <speaker.id></speaker.id>
+    <communicative.role> </communicative.role>
+        <surname></surname>
+        <forenames></forenames>
+        <age></age>
+        <gender>female</gender>
+        <nationality></nationality>
+        <ethnicity></ethnicity>
+        <birthplace> </birthplace>
+        <education></education>
+        <education.level> </education.level>
+        <occupation></occupation>
+        <affiliations></affiliations>
+        <mother.tongue></mother.tongue>
+        <other.languages></other.languages>
+    <free.comments> </free.comments>
+</biography>
+</text.info> 

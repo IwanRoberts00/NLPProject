@@ -1,0 +1,49 @@
+<text.info>
+   <file.description>
+    <textcode>ICE-USA-W2B-029</textcode>
+    <number of subtexts>1</number of subtexts>
+    <category>written: printed: popular: Natural Sciences</category>
+    <wordcount>2200</wordcount>
+    <version>coded, edited but untagged</version>
+    <free.comments></free.comments>
+   </file.description>
+   <subtext.source=ICE-USA-W2B-029>
+    <source.type=collection>
+     <source.title>Discover Magazine</source.title>
+     <series></series>
+     <editor> </editor>
+    <publication statement>
+     <publisher>Disney Magazine Publishing, Inc.</publisher>
+     <address>114 Fifth Ave</address>
+     <place>New York, NY 10011</place>
+     <date>February 1994</date>
+    </publication statement>
+    <copyright.statement>used by permission of Disney Magazine Publishing, Inc.</copyright.statement>
+    <free.comments></free.comments>
+    </source.type>
+   </subtext.source>
+   <subtext.internals=ICE-USA-W2B-029>
+    <subtext.name> </subtext.name>
+     <main.title>Pterosaurs: Masters of an Ancient Sky</main.title>
+     <subtitle></subtitle>
+     <page.nos> </page.nos>
+    <free.comments></free.comments>
+   </subtext.internals>
+   <biography=ICE-USA-W2B-029>
+    <speaker.id></speaker.id>
+     <communicative.role>author</communicative.role>
+     <surname>Zimmer</surname>
+     <forenames>Carl</forenames>
+     <age> </age>
+     <gender> </gender>
+     <nationality></nationality>
+     <birthplace></birthplace>
+     <education></education>
+     <educational.level></educational.level>
+     <occupation></occupation>
+     <affiliations></affiliations>
+     <mother.tongue></mother.tongue>
+     <other.languages></other.languages>
+     <free.comments></free.comments>
+   </biography>
+</text.info>

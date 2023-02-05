@@ -1,0 +1,97 @@
+<text.info> 
+
+    <file.description>   
+
+       <textcode>ICE-USA-W2A-005</textcode>
+
+          <number of subtexts>1</number of subtexts>
+
+          <category>written:printed:academic:humanities</category>
+
+          <wordcount>2210</wordcount>
+
+          <version>coded, edited, with Essential Markup</version>
+
+          <free.comments></free.comments> 
+
+    </file.description>
+
+     <subtext.source=ICE-USA-W2A-005>    
+
+      <source.type=collection>
+
+               <source.title> </source.title>
+
+               <series></series>    
+
+           <editor> </editor>
+
+          <publication statement>
+
+               <publisher> </publisher>
+
+               <address></address>
+
+               <place> </place>
+
+               <date></date>     
+
+     </publication statement>
+
+          <copyright.statement> Used with full permission of the author </copyright.statement>
+
+          <free.comments></free.comments>  
+
+        </source.type>
+
+     </subtext.source>  
+
+   <subtext.internals=ICE-USA-W2A-005>
+
+          <subtext.name> </subtext.name>
+
+               <main.title> The Kant-Friesian Theory of Religion and Religious Value including Kant, Fries, 
+Schopenhauer, Nelson, Otto, Jung, & Eliade </main.title>
+
+               <subtitle></subtitle>  
+
+             <page.nos></page.nos>
+
+          <free.comments></free.comments> 
+
+    </subtext.internals>
+
+     <biography=ICE-USA-W2A-005>    
+
+      <speaker.id></speaker.id>
+
+               <communicative.role>author</communicative.role>
+
+               <surname> Ross</surname>
+
+               <forenames>Kelley </forenames>   
+            
+	<age>60</age>
+
+               <gender>Female</gender>            
+   
+              <nationality>American</nationality>
+
+               <birthplace>California</birthplace>             
+   
+	<education></education>
+
+               <educational.level> Doctorate</educational.level>
+
+               <occupation>Professor </occupation>
+
+               <affiliations>Department of Philosophy, Los Angeles Valley College, Van Nuys, California 
+</affiliations>
+
+               <mother.tongue>English</mother.tongue>
+
+               <other.languages></other.languages>
+
+               <free.comments></free.comments>    
+ </biography>
+</text.info>

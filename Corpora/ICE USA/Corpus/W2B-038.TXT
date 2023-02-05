@@ -1,0 +1,409 @@
+<I>
+<ICE-USA:W2B-038#1:1> <h> Introduction</h>
+
+<p> <ICE-USA:W2B-038#2:1> As the World Wide Web begins to outgrow its academic and
+
+scientific beginnings, the limitations of its standard language, HTML (
+
+HyperText Markup Language) become more evident.
+<ICE-USA:W2B-038#3:1> The Web has grown considerably and stands to become a powerful if not
+
+dominant medium of mass communication.
+<ICE-USA:W2B-038#4:1> If this is to happen, the Web must be able to effectively compete with
+
+its mass-media counterparts: television, radio, and print-media.
+<ICE-USA:W2B-038#5:1> To do this, the needs of creative people-- designers, artists,
+
+musicians, must be taken into account.
+<ICE-USA:W2B-038#6:1> We should ask " how do the tools of traditional media content creators
+
+differ from those of the Web designer?"
+<ICE-USA:W2B-038#7:1> One answer is that theirs are powerful and creativetools - - which
+
+allow the creative process to work unimpeded.
+<ICE-USA:W2B-038#8:1> Simply said, what they need is the flexibility to create what they
+
+imagine, and the ability to do that in the way they choose.
+<ICE-USA:W2B-038#9:1> All this with a reasonable assurance that their creations can
+
+experienced as intended by their public.
+<ICE-USA:W2B-038#10:1> Solutions will have to be radical, but not in the traditional sense.
+<ICE-USA:W2B-038#11:1> It is important to realize that, in terms of the end user, the best
+
+Web content these days is designed rather that 'programmed'.
+<ICE-USA:W2B-038#12:1> If one understands this difference, one can see how primitive current
+
+Web design tools actually are. </p>
+
+<p> <ICE-USA:W2B-038#13:1> However, designers and artists are not the only people creating
+
+content for the Web.
+<ICE-USA:W2B-038#14:1> It should be noted that the Web is a highly powerful tool in the
+
+scientific and academic community.
+<ICE-USA:W2B-038#15:1> There, the considerations of textual structure are the first
+
+priority.
+<ICE-USA:W2B-038#16:1> Furthermore, Web content creation should be accessable to those with
+
+minimal computer literacy.
+<ICE-USA:W2B-038#17:1> The popularity of the Web can be at least partly attributed to the
+
+easy in which the average person can learn and use HTML.
+<ICE-USA:W2B-038#18:1> Therefore, a language should be available that does not require
+
+extensive understanding of computers or the working of the Internet.</p>
+
+<p> <ICE-USA:W2B-038#19:1> In answering the demands of the these, often disparate camps of
+
+content creators, I have outlined some preliminary ideas for a new 'meta-lan 'mage'
+
+for the World Wide Web.
+<ICE-USA:W2B-038#20:1> This new language would in itself provide few additional functions,
+
+but rather offer an umbrella under which the present language tools could
+
+work cooperatively, establishing certain norms ( keywords) through which
+
+language components could interact.
+<ICE-USA:W2B-038#21:1> I wish only to suggest guidelines for constructing a meta-language -
+
+- principles which should guide any implementation.
+<ICE-USA:W2B-038#22:1> The details of a meta-language specification are beyond the scope of
+
+this initial proposal. </p>
+<ICE-USA:W2B-038#23:1> <h> The Present Situation: The Nature of HTML</h>
+
+<p> <ICE-USA:W2B-038#24:1> To understand the limitations of HTML, it is important to first
+
+understand its central principle: markup.
+<ICE-USA:W2B-038#25:1> Markup is a codified way of delineating the structure of a text
+
+document, in such a way that it can be displayed reasonably across a variety
+
+of platforms.
+<ICE-USA:W2B-038#26:1> Its first considerations are: " what information is important?"
+<ICE-USA:W2B-038#27:1> and " what are the structural relationships?".
+<ICE-USA:W2B-038#28:1> Once this is 'marked', 'mhe browser software is left to decide how
+
+best to display the document onscreen.
+<ICE-USA:W2B-038#29:1> The great majority of functions available in HTML are geared to these
+
+structural considerations.
+<ICE-USA:W2B-038#30:1> Because of this, HTML is inherently text-dependent.
+<ICE-USA:W2B-038#31:1> This means, from the designer 's point of view, he or she must first
+
+confront the text; its quantitative and structural qualities.
+<ICE-USA:W2B-038#32:1> Images, or other non-text material are almost always the second
+
+priority - - an afterthought.
+<ICE-USA:W2B-038#33:1> To add multimedia, the Web-designer must inevitably rely on various
+
+tricks and improvisations, only to be then unsure of how the final product
+
+will appear to the end user.
+<ICE-USA:W2B-038#34:1> If this is compared with television or print media, one sees that it
+
+is an unacceptable situation.
+<ICE-USA:W2B-038#35:1> Take the example of television news, which increasingly use Web-style
+
+informational presentation.
+<ICE-USA:W2B-038#36:1> The combination of multimedia with text based visuals is essential to
+
+their presentation - - images and text are, at least in design, on equal
+
+footing.
+<ICE-USA:W2B-038#37:1> And even though the variety of television receivers is wide, the
+
+producer can always be sure that his or her information will be reproduced in
+
+tact, barring physical defects in the receiver itself, and broadcast
+
+artifacts.
+<ICE-USA:W2B-038#38:1> This is because television has the advantage of uniformly adopted
+
+industry standards, on which designers can rely.
+<ICE-USA:W2B-038#39:1> One such standard is NTSC video, which despite its significant
+
+shortcomings, provides a fixed pixel area ( 645x486), guaranteeing proper
+
+image proportion on every set.
+<ICE-USA:W2B-038#40:1> While this may seem trivial, it does assure the content designer that
+
+his product can be similarly reproduced by a variety of receivers.
+<ICE-USA:W2B-038#41:1> This gives the television designer a kind of creative flexibility not
+
+available to the Web-designer ( yet).
+<ICE-USA:W2B-038#42:1> It 's also no secret that television exceeds the Web in popularity and
+
+social influence.
+<ICE-USA:W2B-038#43:1> The Web can do this and much more if those who create content have
+
+the tools that allow their creativity to flourish.
+<ICE-USA:W2B-038#44:1> While this will eventually be accomplished by software in which the
+
+underlying code is transparent to the user, the first step is to have the
+
+code resources in place which embody the principles necessary for the
+
+multimedia Web to gel. </p>
+<ICE-USA:W2B-038#45:1> <h> HTML and Multimedia</h>
+
+<p> <ICE-USA:W2B-038#46:1> Every successive HTML spec has included more multimedia
+
+functionality.
+<ICE-USA:W2B-038#47:1> This will no doubt continue.
+<ICE-USA:W2B-038#48:1> But, the problem of the media/text schism remains if multimedia is
+
+addressed through HTML alone.
+<ICE-USA:W2B-038#49:1> There, multimedia is treated as an extraneous 'element' - - a
+
+separate entity from the text.
+<ICE-USA:W2B-038#50:1> While in HTML thorough consideration has been given for textual
+
+structure, no 'markup 'msystems exist for multimedia.
+<ICE-USA:W2B-038#51:1> No language is available that considers text and non-text material as
+
+theoretically equal.
+<ICE-USA:W2B-038#52:1> For example, in HTML it is easy to describe the title and important
+
+subjects in a text passage:</p>
+
+<p> <ICE-USA:W2B-038#53:1> <title> This is the title</title></p>
+
+<p> <ICE-USA:W2B-038#54:1> <h1> This is important</h1></p>
+
+<p> <ICE-USA:W2B-038#55:1> <h2> This is kinda important</h2></p>
+
+<p> <ICE-USA:W2B-038#56:1> What I told you is pretty important, but please don't forget <b>
+
+this. </b> </p>
+
+<p> <ICE-USA:W2B-038#57:1> This is simple enough, but how would you describe to a HTML
+
+interpreter, " take the red parts of image A and mix them selectively with
+
+the white parts in image B only if the mouse is in the upper righthand corner
+
+of the screen"?
+<ICE-USA:W2B-038#58:1> It is of course possible, but extremely inconvenient and error prone.
+
+</p>
+
+<p> <ICE-USA:W2B-038#59:1> Part of the problem is that HTML instructions are given in a
+
+linear fashion.
+<ICE-USA:W2B-038#60:1> The interpreter receives a start tag <tag> and formats the text in
+
+the specified way until is receives an end tag </tag> .
+<ICE-USA:W2B-038#61:1> There are exceptions to this, but the core of HTML thinking remains
+
+based on linear code interpretation.
+<ICE-USA:W2B-038#62:1> However, multimedia often doesn't fit this linear model.
+<ICE-USA:W2B-038#63:1> It may seem that video and music are simple progressions from
+
+beginning to end - - in the old paradigm this is certainly the case.
+<ICE-USA:W2B-038#64:1> But the Web is, or should be, interactive.
+<ICE-USA:W2B-038#65:1> The Web allows for interactive multimedia on a scale never before
+
+thought of.
+<ICE-USA:W2B-038#66:1> It is the Web 's single most attractive feature.
+<ICE-USA:W2B-038#67:1> Just as hypertext changed the way a reader experiences text, Web
+
+multimedia will alter time-based notions such as plot and timing beyond
+
+recognition.
+<ICE-USA:W2B-038#68:1> A language which proceeds from a linear viewpoint will never allow
+
+multimedia to reach this goal.
+<ICE-USA:W2B-038#69:1> Without multimedia, the Web will remain largely the toy of a vertical
+
+market. </p>
+
+<p> <ICE-USA:W2B-038#70:1> Artistic creation rarely follows a clear line.
+<ICE-USA:W2B-038#71:1> For the artist/designer HTML with its linear nature is a considerable
+
+impediment.
+<ICE-USA:W2B-038#72:1> It forces the artist to create a visual object ( the page) in a
+
+linear manner : " ok, we have blue text until here, then a GIF 100x150
+
+pixels, then back to text, and that word should be in italics."
+<ICE-USA:W2B-038#73:1> Even though one might create parts of a page in a non-linear way, one
+
+sees from the example that the smallest building blocks are lines ,
+
+interpreted from left to right.
+<ICE-USA:W2B-038#74:1> A painter would think, " a house is in the foreground, the sun is
+
+above it to the left".
+<ICE-USA:W2B-038#75:1> Or better yet, " the moving clouds cause the color of the light on
+
+the house to change".
+<ICE-USA:W2B-038#76:1> For him it is mostly unimportant which part of the image is seen
+
+first by the viewer.
+<ICE-USA:W2B-038#77:1> In this way, the painting is non-linear.
+<ICE-USA:W2B-038#78:1> The painter can work this way not only because of his tools, but the
+
+idea behind the tools.
+<ICE-USA:W2B-038#79:1> The simple analogy of brush-paint-canvas is based on the principle
+
+that ideas are created and perceived non-linearly.
+<ICE-USA:W2B-038#80:1> That means that the painter is not constrained when choosing a color,
+
+and may freely choose any spot on the canvas on which to paint.
+<ICE-USA:W2B-038#81:1> Everything is 'random-access'.
+<ICE-USA:W2B-038#82:1> This a model that should emulated when constructing a language for
+
+the multimedia Web. </p>
+<ICE-USA:W2B-038#83:1> <h> The Present Situation: Content Creation</h>
+
+<p> <ICE-USA:W2B-038#84:1> So, we have seen that there are ( at least) two fundamental steps
+
+in current Web-design practice: 1) understand the nature of the text
+
+material, and then 2) 'attach' images and multimedia.
+<ICE-USA:W2B-038#85:1> This schism comes from text-oriented style of HTML, and is
+
+essentially harmful to the creative process.
+<ICE-USA:W2B-038#86:1> Creativity thrives under flexibility.
+<ICE-USA:W2B-038#87:1> Art is at its most effective when the artist proceeds from a 'total
+
+picture'.
+<ICE-USA:W2B-038#88:1> The Web-designer today finds it difficult to get a 'total picture'
+
+because they are busying themselves with understanding the textual structure
+
+of individual documents, when their time could be more fruitfully spent
+
+constructing the Web site as a unified whole.
+<ICE-USA:W2B-038#89:1> Understanding the content is the job of the content creator not the
+
+Web designer.
+<ICE-USA:W2B-038#90:1> Very often today these roles are played by the same person.
+<ICE-USA:W2B-038#91:1> Returning to television again, one finds there a very clear division
+
+between the creator of the content and those charged to give it form.
+<ICE-USA:W2B-038#92:1> This is perhaps due to television 's relative maturity as a medium.
+
+</p>
+
+<p> <ICE-USA:W2B-038#93:1> Concerns over content presentation are the subject of a ongoing
+
+and often bitter discussion on USENET groups.
+<ICE-USA:W2B-038#94:1> Discussion has usually degenerated into political sparring between
+
+two camps, the 'programmer' and the 'des 'dner'.
+<ICE-USA:W2B-038#95:1> Due to this, comprehensive solutions have not been forthcoming.
+<ICE-USA:W2B-038#96:1> We have fragmentary stopgap measures instead.
+<ICE-USA:W2B-038#97:1> A considerable impediment in this area has been the concern over
+
+interoperability.
+<ICE-USA:W2B-038#98:1> Often those in the 'programmer' camp have maintained that full
+
+control of multimedia and presentation would limit the available target
+
+platforms.
+<ICE-USA:W2B-038#99:1> Working with today 's tools, this is a almost certainly a true
+
+assertion.
+<ICE-USA:W2B-038#100:1> For example, I have often wanted to take advantage of Shockwave or
+
+QuickTime VR, but have always been held back by my doubts over the
+
+penetration of those technologies.
+<ICE-USA:W2B-038#101:1> Ideally, available tools should have near 100&percent; coverage.
+<ICE-USA:W2B-038#102:1> Today, the only possibilities are plug-ins and browser specific
+
+enhancements. </p>
+
+<p> <ICE-USA:W2B-038#103:1> Plug-ins are inherently unreliable.
+<ICE-USA:W2B-038#104:1> First, they depend on the user 's awareness of its existence.
+<ICE-USA:W2B-038#105:1> This situation has been partially addressed by some browsers, where
+
+one receives the message " this page contains media type xxx/xxx which can
+
+only be viewed with the appropriate plug-in. .. " , then one can choose to
+
+download the plug-in or view the page without it.
+<ICE-USA:W2B-038#106:1> This often involves a lengthy download, then time to install the
+
+plug-in, a process which can often include downloading still more components
+
+- - it is far from a direct process, so much so that one often forgets the
+
+page that needed the plug-in in the first place.
+<ICE-USA:W2B-038#107:1> And even once the plug-in is installed, the designer cannot be
+
+assured that the plug-in will be properly installed and configured ( VRML
+
+plug-ins leap to mind here).
+<ICE-USA:W2B-038#108:1> As an architecture, plug-ins are naturally attractive; they have
+
+been successful in a range of other software environments where
+
+interoperability is not mission-critical.
+<ICE-USA:W2B-038#109:1> But plug-ins do not meet the needs of creative Web-design, or
+
+dynamic content delivery, as their distribution model cannot provide a
+
+reasonable installed base guarantee.
+<ICE-USA:W2B-038#110:1> I do not mean to condemn plug-ins outright; in certain applications
+
+such as intranets, they provide an ideal solution.
+<ICE-USA:W2B-038#111:1> In this transition period, plug-in architecture has allowed a great
+
+deal of healthy experimentation.
+<ICE-USA:W2B-038#112:1> But if we think in terms of a Internet-wide solution scalable with
+
+increasing multimedia saturation, the weaknesses of plug-ins become evident.
+
+</p>
+
+<p> <ICE-USA:W2B-038#113:1> Also, while not exactly plug-ins, platform independent
+
+client-side scripting languages such as Java/JavaScript and Active X can be
+
+included here.
+<ICE-USA:W2B-038#114:1> The addition of client-side scripting has been a powerful addition
+
+to the designer/programmers toolset.
+<ICE-USA:W2B-038#115:1> However, client-side scripting shares the plug-in problem because it
+
+is dependent on class-libraries which often suffer from poor and inconsistent
+
+implementation.
+<ICE-USA:W2B-038#116:1> This situation could no doubt improve in time; until there were true 'standard
+
+libraries', such as we have with the conventional object oriented languages.
+<ICE-USA:W2B-038#117:1> But to do this would mean compromising platform portability, since
+
+the libraries are client-side, they make calls to functions of the user 's own
+
+machine.
+<ICE-USA:W2B-038#118:1> Of course, class-libraries are ported along with the browser for
+
+different platforms, but seen as a whole, the resulting libraries are so
+
+inconsistent that they cannot be really suitable for platform-independent
+
+applications.
+<ICE-USA:W2B-038#119:1> For simple functions this is not necessarily a problem.
+<ICE-USA:W2B-038#120:1> Simple data types, small data sets and calculations can all be
+
+expected to function with reasonable consistency across different client-side
+
+implementations.
+<ICE-USA:W2B-038#121:1> But the future of the Web is multimedia.
+<ICE-USA:W2B-038#122:1> The more diverse the mix of media is within the browser space, the
+
+more difficult it becomes to control within the framework of the current
+
+client-side scripting languages.
+<ICE-USA:W2B-038#123:1> Multimedia will be a vital concern when ( and if) push-media reaches
+
+critical mass.
+<ICE-USA:W2B-038#124:1> With that kind of diversity, the inherent limitations of
+
+class-library implementations will be unworkable. </p> </I>

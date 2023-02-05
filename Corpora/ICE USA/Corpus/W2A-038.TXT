@@ -1,0 +1,419 @@
+<I>
+<ICE-USA:W2A-038#1:1> <H> 1.0 Introduction</h>
+
+<p> <ICE-USA:W2A-038#2:1> The HyperText Markup Language ( HTML) used by the World-Wide Web
+
+has limited markup and structure recognition capabilities.
+<ICE-USA:W2A-038#3:1> Only a small set of text characteristics can be represented, and few
+
+of these have any functional value beyond display capabilities.
+<ICE-USA:W2A-038#4:1> The HTML ANCHOR element supports hypertext links; however, it cannot
+
+retrieve components of a linked document, such as a single glossary entry
+
+from a collection of several thousand entries, without resorting to programs
+
+external to HTML and the Web server.
+<ICE-USA:W2A-038#5:1> In spite of these limitations, HTML and the Web are key technologies
+
+for libraries.</p>
+
+<p> <ICE-USA:W2A-038#6:1> The Standard Generalized Markup Language ( SGML) is a full-
+
+featured, standard markup language.
+<ICE-USA:W2A-038#7:1> HTML is actually an SGML Document Type Definition.
+<ICE-USA:W2A-038#8:1> Ideally, it would be possible to retrieve text documents marked up
+
+with the richer SGML tag set via the World-Wide-Web.</p>
+
+<p> <ICE-USA:W2A-038#9:1> This technical paper discusses how the Web can be linked to the
+
+PAT system, Open Text 's search engine that supports access to SGML-encoded
+
+documents.
+<ICE-USA:W2A-038#10:1> This Web-to-PAT Gateway utilizes the Web 's Common Gateway Interface (
+
+CGI) capability and SGML-to-HTML filter programs.</p>
+
+<p> <ICE-USA:W2A-038#11:1> After briefly overviewing key technical concepts, the paper
+
+explains the operation of the Web-to-PAT Gateway, using several examples of
+
+how it is employed at the University of Virginia Libraries, including access
+
+to text files such as a Middle English collection, the Oxford English
+
+Dictionary, and the Text Encoding Initiative 's Guidelines for Electronic Text
+
+Encoding and Interchange.</p>
+
+<p> <ICE-USA:W2A-038#12:1> 2.0 Key Concepts</p>
+
+<p> <ICE-USA:W2A-038#13:1> This approach to using the Web to provide access to complex
+
+textual resources involves many tools and concepts that may be unfamiliar to
+
+the reader.
+<ICE-USA:W2A-038#14:1> This section provides a very brief overview of these complex topics
+
+and it describes their interrelationships.</p>
+<ICE-USA:W2A-038#15:1> <H> 2.1 SGML and HTML</h>
+
+<p> <ICE-USA:W2A-038#16:1> Standards and open systems must be an essential part of library
+
+efforts to provide large-scale, wide-area access to textual resources.
+<ICE-USA:W2A-038#17:1> Textual resources must be reusable.
+<ICE-USA:W2A-038#18:1> Because of the cost of creating texts, it must be possible to use the
+
+texts in a variety of settings with a variety of tools.
+<ICE-USA:W2A-038#19:1> To that end, a standards-based encoding scheme must be the foundation
+
+of text creation.</p>
+
+<p> <ICE-USA:W2A-038#20:1> The Standard Generalized Markup Language ( SGML), an
+
+international standard, is such an encoding scheme, and it has proven
+
+extremely valuable in effecting an open systems approach with text. [ 1]
+<ICE-USA:W2A-038#21:1> This paper is not the place to present a detailed argument for using
+
+SGML, especially when this has been done so effectively elsewhere. [ 2]
+<ICE-USA:W2A-038#22:1> However, in addition to its value as an internationally approved
+
+standard, SGML is ideally suited to supporting text retrieval because it is a
+
+descriptive rather than a procedural markup language.
+<ICE-USA:W2A-038#23:1> SGML is a language designed to reflect the structure or function of
+
+text, rather than simply its layout or typography.
+<ICE-USA:W2A-038#24:1> In a text retrieval system, portions of an SGML document can be
+
+searched and retrieved, and functionally different textual elements can be
+
+displayed in accordance with their function.</p>
+
+<p> <ICE-USA:W2A-038#25:1> The difficulty of designing an implementation of SGML to meet a
+
+broad range of text processing needs in the humanities has been met by the
+
+Text Encoding Initiative ( TEI) in its Guidelines for Electronic Text
+
+Encoding and Interchange. [ 3]
+<ICE-USA:W2A-038#26:1> The application of SGML using the TEI Guidelines will play a central
+
+role in ensuring that textual resources--particularly those important to
+
+textual studies--are produced in a way that make them flexible and of
+
+continuing value.
+<ICE-USA:W2A-038#27:1> The TEI itself is a collaborative project of the Association for
+
+Computers and the Humanities, the Association for Computational Linguistics,
+
+and the Association for Literary and Linguistic Computing.
+<ICE-USA:W2A-038#28:1> Its purpose is the promulgation of guidelines for the markup of
+
+electronic text for a variety of disciplines involved in the study of text.
+<ICE-USA:W2A-038#29:1> In mid-1994, a comprehensive and detailed two volume set of
+
+guidelines was published.
+<ICE-USA:W2A-038#30:1> The print version of the TEI Guidelines is an absolutely essential
+
+acquisition by libraries; an electronic version has been made available by
+
+the author. [ 4]</p>
+
+<p> <ICE-USA:W2A-038#31:1> A central feature of SGML is the DTD ( Document Type Definition).
+<ICE-USA:W2A-038#32:1> The DTD is a codification of the possible textual characteristics in
+
+a given document or set of documents.
+<ICE-USA:W2A-038#33:1> SGML expresses the organization of a document without necessarily
+
+using the file system paradigm ( i.e., discrete files representing the
+
+organizational components of a document).
+<ICE-USA:W2A-038#34:1> It expresses textual features ( e.g., footnotes, tables, and
+
+headings) and the building blocks of content ( e.g., paragraphs) using a
+
+descriptive language focusing on the role of the element, rather than some
+
+presumed display value.
+<ICE-USA:W2A-038#35:1> SGML is not a tag set, but a grammar, with the " vocabulary"--or
+
+tags--of an individual document being articulated in its DTD.
+<ICE-USA:W2A-038#36:1> Using this rigorous grammar, SGML can both declare information about
+
+the document in a way that can be transported with the document and can
+
+enforce rules in the application of markup by aiding in " parsing" the
+
+document.</p>
+
+<p> <ICE-USA:W2A-038#37:1> The HyperText Markup Language ( HTML), which is used with the
+
+Web, is a form of SGML expressed by its own unique DTD.
+<ICE-USA:W2A-038#38:1> The shape of the HTML DTD has changed significantly since first
+
+articulated by researchers at CERN, and it continues to change with the
+
+demands of the Web. [ 5]
+<ICE-USA:W2A-038#39:1> HTML was designed to facilitate making documents available on the
+
+Web, and it expresses a variety of features such as textual characteristics
+
+and hypertext links.
+<ICE-USA:W2A-038#40:1> These hypertext links are HTML 's most useful capability because they
+
+allow authors to link documents to other resources throughout the Internet,
+
+effectively making the Internet into a large hypertext document.</p>
+<ICE-USA:W2A-038#41:1> <H> 2.2 CGI and FORM Use</h>
+
+<p> <ICE-USA:W2A-038#42:1> The Web is far more than a server protocol for the transfer of
+
+HTML documents.
+<ICE-USA:W2A-038#43:1> Among the many resources it offers in facilitating sophisticated
+
+retrieval of information is the Common Gateway Interface ( CGI).
+<ICE-USA:W2A-038#44:1> Like HTML, CGI is in transition.
+<ICE-USA:W2A-038#45:1> However, in its current state, it offers capabilities that allow the
+
+Web to support much more complex documents and retrievals than HTML alone
+
+supports.
+<ICE-USA:W2A-038#46:1> The Common Gateway Interface is a set of specifications for external
+
+gateway programs to speak to the Web 's server protocol, HTTP.
+<ICE-USA:W2A-038#47:1> It allows the administrator to run external programs from the Web
+
+server in such a way that requests from the server return a desired document
+
+to the user or, more typically, generate a document on the fly.
+<ICE-USA:W2A-038#48:1> This capability makes it possible to provide uniform access to data
+
+structures or servers that are completely independent of the HTTP, including
+
+structures such as those represented in SGML documents or Z39.50 servers.
+<ICE-USA:W2A-038#49:1> The CGI specification is available on the NCSA documentation Web
+
+server. [ 6]</p>
+
+<p> <ICE-USA:W2A-038#50:1> Closely associated with the CGI is the FORM specification, which
+
+was first introduced with NCSA 's Mosaic Web client.
+<ICE-USA:W2A-038#51:1> This feature is a client-independent mechanism to submit complex
+
+queries, usually through a graphical user interface.
+<ICE-USA:W2A-038#52:1> FORM-compliant interfaces such as Mosaic, Lynx ( a UNIX VT100
+
+client), and OmniWeb ( a NeXTStep client) use fill-out forms, check boxes,
+
+and lists to mediate queries between the user and CGI resources.
+<ICE-USA:W2A-038#53:1> Users respond by making selections that qualify submissions to the
+
+server ( e.g., checking a box to indicate that a search is an author search)
+
+thereby making a complex command-line syntax unnecessary. [ 7]</p>
+
+<p> <ICE-USA:W2A-038#54:1> 2.3 Computer Languages and CGI</p>
+
+<p> <ICE-USA:W2A-038#55:1> CGI programs can be written in a variety of languages, including
+
+UNIX shell scripts, C programs, and Perl.
+<ICE-USA:W2A-038#56:1> In fact, there are few limitations on the type of language that can
+
+be used.
+<ICE-USA:W2A-038#57:1> Perl is foremost among the options available to most Web
+
+administrators.
+<ICE-USA:W2A-038#58:1> Largely the work of Larry Wall, Perl can be used to create extremely
+
+fast and flexible programs with no practical limits on the size of the
+
+material it can treat.
+<ICE-USA:W2A-038#59:1> Perl also has outstanding support for the UNIX " regular expression,"
+
+making it ideal for text systems where one form of markup must be translated
+
+to another. [ 8]</p>
+<ICE-USA:W2A-038#60:1> <H> 3.0 The Web-to-PAT Gateway</h>
+
+<p> <ICE-USA:W2A-038#61:1> The modular approach taken in the Web-to-PAT Gateway separates
+
+the operations of retrieval to allow one component ( e.g., an SGML-to-HTML
+
+filter) to be upgraded without affecting other components.
+<ICE-USA:W2A-038#62:1> It should be emphasized that this separation of operations grew out
+
+of local needs and that other approaches, including an approach that combines
+
+all operations in a single program, are possible.
+<ICE-USA:W2A-038#63:1> The four steps are:</p>
+<ICE-USA:W2A-038#64:1> <H> 1. FORM Handling</h>
+
+<p> <ICE-USA:W2A-038#65:1> Users, with the aid of the FORM, submit a query.</p>
+<ICE-USA:W2A-038#66:1> <H> 2. CGI Query Handling</h>
+
+<p> <ICE-USA:W2A-038#67:1> The query is received and translated to a PAT search.</p>
+<ICE-USA:W2A-038#68:1> <H> 3. PAT Result Handling</h>
+
+<p> <ICE-USA:W2A-038#69:1> Information returned from PAT is transformed into lists or
+
+entries that can be selected.</p>
+<ICE-USA:W2A-038#70:1> <H> 4. SGML-to-HTML Filtering</h>
+
+<p> <ICE-USA:W2A-038#71:1> The richer SGML is transformed into HTML.</p>
+
+<p> <ICE-USA:W2A-038#72:1> This multi-stage approach has many advantages.
+<ICE-USA:W2A-038#73:1> For example, it is possible to use different programming languages or
+
+other software tools for each processing stage, selecting them based on their
+
+utility for particular functions or their ability to comply with local
+
+requirements.
+<ICE-USA:W2A-038#74:1> In the approach documented here, HTML FORMs, shell programs, C
+
+programs, and Perl programs have been used for the four operations.
+<ICE-USA:W2A-038#75:1> Separating the functions also allows persons with different
+
+responsibilities, skills, or interests to manage the different processes.
+<ICE-USA:W2A-038#76:1> For example, a system administrator might manage the second and third
+
+stages, while someone responsible for more aesthetic issues in the delivery
+
+might manage parts of the first and the fourth stages.
+<ICE-USA:W2A-038#77:1> At the University of Virginia Library, SGML-to-HTML filters continue
+
+to be enhanced by staff from the Library 's Electronic Text Center in a
+
+process completely separate from the development of other parts of the
+
+interface.</p>
+<ICE-USA:W2A-038#78:1> <H> 3.1 HTML FORM for Query Submission</h>
+
+<p> <ICE-USA:W2A-038#79:1> The use of an HTML FORM to handle query submission may be simple
+
+or complex.
+<ICE-USA:W2A-038#80:1> The three examples given here demonstrate that range: the Middle
+
+English FORM supports word and phrase searches; the Oxford English Dictionary
+
+search provides a great deal of information about the areas to be searched
+
+and information to be retrieved; and the TEI Guidelines FORM allows users to
+
+browse the document in a variety of ways, such as by chapter or other
+
+section.
+<ICE-USA:W2A-038#81:1> ( The Middle English and TEI Guidelines resources are encoded in
+
+SGML.)</p>
+<ICE-USA:W2A-038#82:1> <H> 3.1.1 Middle English Query</h>
+
+<p> <ICE-USA:W2A-038#83:1> The FORM created for Middle English materials was deliberately
+
+made simple to allow users to retrieve keywords-in-context ( KWIC) without
+
+knowing commands such as those needed to view search results. [ 9]</p>
+
+<p> <ICE-USA:W2A-038#84:1> A search term is requested from the user and registered as the
+
+variable " query." So that neither the user or system is overwhelmed by large
+
+result sets, the size of result sets is limited to 100 items, and an
+
+additional FORM option ( registering the variable " size") is included to
+
+help the user subsequently move through the results 100 items at a time or to
+
+sample 100 items from the entire result set.</p>
+<ICE-USA:W2A-038#85:1> <H> 3.1.2 OED Query</h>
+
+<p> <ICE-USA:W2A-038#86:1> The richness of the Oxford English Dictionary ( OED) is often
+
+overwhelming even for sophisticated users.
+<ICE-USA:W2A-038#87:1> Most users do not want keyword-in-context results and would prefer
+
+simple look up capabilities.
+<ICE-USA:W2A-038#88:1> The OED is a complex product designed to facilitate a broad array of
+
+activities.
+<ICE-USA:W2A-038#89:1> Consequently, even simple searches require elaborate query
+
+structures.</p>
+
+<p> <ICE-USA:W2A-038#90:1> The OED FORM assists users in submitting many of the most
+
+commonly performed searches, including dictionary entry retrieval with simple
+
+look ups and truncated term look ups ( e.g., " photo" for all words beginning
+
+with this stem). [ 10]
+<ICE-USA:W2A-038#91:1> It is also possible to retrieve quotations by the quote 's author (
+
+e.g., retrieval of all quotations authored by Chaucer).
+<ICE-USA:W2A-038#92:1> This process includes the following:</p>
+
+<p> <ICE-USA:W2A-038#93:1> 1. In the FORM, the user submits a search term which is captured
+
+as the variable " query."</p>
+
+<p> <ICE-USA:W2A-038#94:1> 2. The user selects the type of search. Many types of searches
+
+are possible, including traditional look ups, alphabetic browses, full-text
+
+searches, and quotation retrieval.</p>
+
+<p> <ICE-USA:W2A-038#95:1> 3. Several other elements are used to limit the size of results.
+<ICE-USA:W2A-038#96:1> As in the Middle English search FORM, a default of no more than 100
+
+results at a time may be viewed from each search.</p>
+
+<p> <ICE-USA:W2A-038#97:1> 4. In addition, a variable called " period" is offered to allow
+
+users to limit quotation searches by century.</p>
+<ICE-USA:W2A-038#98:1> <H> 3.1.3 TEI Guidelines Query</h>
+
+<p> <ICE-USA:W2A-038#99:1> The structured browsing of the TEI Guidelines adds another
+
+important feature for mediating access to large or complex collections.
+<ICE-USA:W2A-038#100:1> Users of the TEI Guidelines are as likely to want to read a chapter
+
+or section as they are to want to search the contents.</p>
+
+<p> <ICE-USA:W2A-038#101:1> To facilitate this sort of browsing, an initial HTML page is
+
+created containing the titles of the major SGML hierarchical structures of
+
+the TEI Guidelines ( e.g., the DIV0 element), and each of these structures is
+
+linked to an HTML page containing the titles of subsidiary structures ( e.g.,
+
+the DIV1 through DIV4 elements). [ 11]</p>
+
+<p> <ICE-USA:W2A-038#102:1> For example, the top-level HTML page is linked to the secondary
+
+HTML page for Part I of the TEI Guidelines. [ 12]</p> <&> GRAPH, TABLE,
+
+FIGURE, ETC omitted from this section</&>
+<ICE-USA:W2A-038#103:1> <H> TEI Guidelines for Electronic Text Encoding and Interchange (
+
+P3)</h>
+
+<p> <ICE-USA:W2A-038#104:1> You may also browse the Guidelines.</p>
+<ICE-USA:W2A-038#105:1> <H> * Bibliographic header of the TEI Guidelines</h>
+<ICE-USA:W2A-038#106:1> <H> * Preface</h>
+<ICE-USA:W2A-038#107:1> <H> * Acknowledgments</h>
+<ICE-USA:W2A-038#108:1> <H> * Changes from TEI P1 to TEI P3</h>
+<ICE-USA:W2A-038#109:1> <H> * Part 1: Introduction</h>
+<ICE-USA:W2A-038#110:1> <H> * Part 2: Core Tags and General Rules</h>
+<ICE-USA:W2A-038#111:1> <H> * Part 3: Base Tag Sets</h>
+<ICE-USA:W2A-038#112:1> <H> * Part 4: Additional Tag Sets</h>
+<ICE-USA:W2A-038#113:1> <H> * Part 5: Auxiliary Document Types</h>
+<ICE-USA:W2A-038#114:1> <H> * Part 6: Technical Topics</h>
+<ICE-USA:W2A-038#115:1> <H> * Part 7: Alphabetical Reference List of Tags and Attributes</h>
+<ICE-USA:W2A-038#116:1> <H> * Part 8: Reference Material</h> <&> GRAPH, TABLE, FIGURE, ETC
+
+omitted from this section</&> </I>

@@ -1,0 +1,49 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2F-015</textcode>
+          <number of subtexts>1</number of subtexts>
+          <category>written: printed: creative: novels</category>
+          <wordcount>2219</wordcount>
+          <version>coded, edited, and with essential markup</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ICE-USA-W2F-015>
+          <source.type=collection>
+               <source.title> </source.title>
+               <series></series>
+               <editor> </editor>
+          <publication statement>
+               <publisher> </publisher>
+               <address> </address>
+               <place> </place>
+               <date>1996</date>
+          </publication statement>
+          <copyright.statement>used by permission of Deborah Bryan</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA-W2F-015>
+          <subtext.name> </subtext.name>
+               <main.title>Argyst</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+     <biography=ICE-USA-W2F-015>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Bryan</surname>
+               <forenames>Deborah</forenames>
+               <age>18</age>
+               <gender>Female</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level>University Sophomore</educational.level>
+               <occupation>student</occupation>
+               <affiliations></affiliations>
+               <mother.tongue>English</mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

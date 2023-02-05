@@ -1,0 +1,395 @@
+<I>
+<ICE-USA:W2A-033#1:1> <H> ABSTRACT</h>
+
+<P> <ICE-USA:W2A-033#2:1> Information aggregation is a pervasive issue in the field of
+
+decision making.
+<ICE-USA:W2A-033#3:1> In this paper we begin an attempt to develop a comprehensive theory of
+
+this process.
+<ICE-USA:W2A-033#4:1> We investigate the use of a penalty function to help guide in the
+
+aggregation process.
+<ICE-USA:W2A-033#5:1> Ii is suggested that an aggregated value which violates a given piece
+
+of data is charged a penalty.
+<ICE-USA:W2A-033#6:1> The problem of aggregation can be seen as finding the aggregated value
+
+with the least penalty.
+<ICE-USA:W2A-033#7:1> We show that logical inference systems are characterized by infinite
+
+penalty functions.
+<ICE-USA:W2A-033#8:1> This implies that deviation from the data are not easily accepted.
+<ICE-USA:W2A-033#9:1> Probability theory is characterized by equal finite penalty costs.
+<ICE-USA:W2A-033#10:1> Nonmonotonic logics appear to be characterized by a case in which we
+
+have at least two different levels of penalties of differing magnitudes.
+<ICE-USA:W2A-033#11:1> We discuss the relationship between the relevance or bearing a piece
+
+of data has on the problem and the penalty cost associated with it.
+<ICE-USA:W2A-033#12:1> We see the central role of the intersection operation.</p>
+<ICE-USA:W2A-033#13:1> <H> INTRODUCTION</h>
+
+<P> <ICE-USA:W2A-033#14:1> A problem that is pervasive in decision making is that of
+
+information aggregation.
+<ICE-USA:W2A-033#15:1> In this problem one is supplied with information and is required to
+
+combine this knowledge to some purpose.
+<ICE-USA:W2A-033#16:1> The derivation of probabilities from statistics, the process of
+
+logical deduction and inference and many types of inductive learning fall
+
+into this category.
+<ICE-USA:W2A-033#17:1> Pattern recognition, multicriteria decision making and medical
+
+diagnosis involve this process.
+<ICE-USA:W2A-033#18:1> Artificial neural networks are based upon the aggregation of incoming
+
+signals to a neuron to provide the strength of the outgoing signal.</p>
+
+<P> <ICE-USA:W2A-033#19:1> Central to this process is the methodology used to combine the
+
+data.
+<ICE-USA:W2A-033#20:1> In this paper we attempt to develop a format and a comprehensive
+
+theory for the problem of information aggregation.
+<ICE-USA:W2A-033#21:1> We look at the potentialities of using a penalty type function to
+
+help in this process.
+<ICE-USA:W2A-033#22:1> We investigate the case where the penalty is made up of two
+
+components.
+<ICE-USA:W2A-033#23:1> We show the central role played by the set intersection
+
+operation.</p>
+<ICE-USA:W2A-033#24:1> <H> 2.
+<ICE-USA:W2A-033#25:1> A PENALTY APPROACH TO AGGREGATION</h>
+
+<P> <ICE-USA:W2A-033#26:1> Assume that V is some variable whose value we are trying to
+
+establish.
+<ICE-USA:W2A-033#27:1> V can be a numeric value such as a person 's age.
+<ICE-USA:W2A-033#28:1> It can be a nonnumeric value such as the city of residence of a
+
+particular individual.
+<ICE-USA:W2A-033#29:1> It can also be a logical value such as the truth of a proposition.
+<ICE-USA:W2A-033#30:1> Whatever the denotation of V, we shall let X be the set of allowable
+
+values for the variable.
+<ICE-USA:W2A-033#31:1> We call X the domain or universe of discourse for V.</p>
+
+<P> <ICE-USA:W2A-033#32:1> The process of getting the value for V involves gathering
+
+information and knowledge which we feel is useful to this purpose.
+<ICE-USA:W2A-033#33:1> Assume D1, D2,....,Dq is a collection of information which we feel in
+
+some way convey knowledge about the value of this variable.
+<ICE-USA:W2A-033#34:1> We desire to use this knowledge to help in the process of determining
+
+the value of the variable V.</p>
+
+<P> <ICE-USA:W2A-033#35:1> A concept we would like to introduce is the degree to which a
+
+piece of data Di bears on the value of the variable V.
+<ICE-USA:W2A-033#36:1> In trying to establish a person 's age the information contained in
+
+that person 's birth certificate has a strong bearing to the process.
+<ICE-USA:W2A-033#37:1> If we are trying to determine tomorrow 's sales of our product we
+
+would say that yesterday 's sales have some degree of bearing but perhaps not
+
+as strong as the birth certificate does on the determination of age.
+<ICE-USA:W2A-033#38:1> In introducing the concept of bearing we do not mean to raise issues
+
+in regard to the correctness or validity of the data being discussed but
+
+simply how directly it bears on the problem at hand.
+<ICE-USA:W2A-033#39:1> In the independent ( random) tossing of a coin, previous tosses have
+
+some relevance.
+<ICE-USA:W2A-033#40:1> However, since the toss is independent, the previous throws in no way
+
+constrains the new toss, except in the fact that the previous throws
+
+contribute to our knowledge of the probability distribution associated with
+
+this new toss.
+<ICE-USA:W2A-033#41:1> Figuratively speaking one can envision a whole series of planes.
+<ICE-USA:W2A-033#42:1> The information, the variable V, lies in one of these planes.
+<ICE-USA:W2A-033#43:1> Each piece of data as well lies in one of these planes.
+<ICE-USA:W2A-033#44:1> Some of the data may lie in the same plane as V.
+<ICE-USA:W2A-033#45:1> The closer the plane is to the plane in which V lies, the more
+
+bearing the data in that plane has on the determination of V: of course those
+
+data lying in the same plane as V have the most bearing.</p>
+
+<P> <ICE-USA:W2A-033#46:1> One would expect that any reasonable process to determine the
+
+value of some variable would use all the information which is available and
+
+that has bearing on the problem at hand.
+<ICE-USA:W2A-033#47:1> This condition becomes somewhat onerous and difficult to satisfy in
+
+situations in which relevant information becomes conflicting.</p>
+
+<P> <ICE-USA:W2A-033#48:1> We are interested here in suggesting a structural framework for
+
+looking at the issue of aggregating relevant knowledge.
+<ICE-USA:W2A-033#49:1> What appears to be central to this process is some mechanism for
+
+introducing information with different degrees of bearing.
+<ICE-USA:W2A-033#50:1> Some information directly bears on the problem while some other
+
+information bears less directly.
+<ICE-USA:W2A-033#51:1> In an attempt to provide a structure to analyze this important issue
+
+of knowledge aggregation we shall allow the degree of bearing or relevance of
+
+a piece of information to the process at hand to manifest itself with the
+
+idea of a <it> penalty cost </it> .
+<ICE-USA:W2A-033#52:1> We shall associate with each piece of data Di some cost or penalty we
+
+must pay if we <it> disregard </it> it by concluding as a result of our
+
+aggregation process some value for V that <it> conflicts with </it> Di.
+<ICE-USA:W2A-033#53:1> In this spirit one way to view a piece of data Di is as a subset of X
+
+consisting of the values of V that are supported by the data.
+<ICE-USA:W2A-033#54:1> Thus the selection of the aggregated value for V is driven by a
+
+desire to incur the least overall penalty from the relevant pieces of
+
+data.</p>
+
+<P> <ICE-USA:W2A-033#55:1> We formalize this in the following manner.
+<ICE-USA:W2A-033#56:1> For a fact D and any x " X we let Ci(x.
+<ICE-USA:W2A-033#57:1> Di) indicate the amount of penalty we incur in saying that x is a
+
+good value for V.
+<ICE-USA:W2A-033#58:1> We shall discuss this function in more detail subsequently.
+<ICE-USA:W2A-033#59:1> The intuition here is that if x conflicts with the data Di we pay a
+
+penalty, because essentially we have disregarded what Di says.
+<ICE-USA:W2A-033#60:1> Furthermore, if we have q pieces of data, Di,...,Dq, then the total
+
+penalty incurred by indicating that x is the valid solution is</p> <&> [
+
+equation] has been removed from this section</&>
+
+<P> <ICE-USA:W2A-033#61:1> We define Ci to be non-negative and such that if x doesn't
+
+conflict with what Di advises, then Ci(x, Di) = 0.</p>
+
+<P> <ICE-USA:W2A-033#62:1> Given such a penalty function, a reasonable way to aggregate the
+
+information provided is to select as acceptable aggregate values of V those
+
+values in X which minimize the penalty C(x).
+<ICE-USA:W2A-033#63:1> Thus if we denote by G this set of reasonable values, then we
+
+have</p> <&> [ equation] has been removed from this section</&>
+
+<P> <ICE-USA:W2A-033#64:1> A first important observation is that if we have <it> no data
+
+</it> , then for any x X</p>
+
+<P> <ICE-USA:W2A-033#65:1> C(x) = 0.</p>
+
+<P> <ICE-USA:W2A-033#66:1> This implies that every element in X has the same penalty value
+
+associated with its support; thus</p>
+
+<P> <ICE-USA:W2A-033#67:1> G=X.</p>
+
+<P> <ICE-USA:W2A-033#68:1> Thus in the situation where there is no data, any x is an
+
+acceptable solution.</p>
+
+<P> <ICE-USA:W2A-033#69:1> In a given situation the acceptable set G is dependent upon the
+
+structure of Ci(x, Di) as well as the actual data Di.
+<ICE-USA:W2A-033#70:1> G is dependent upon what the piece of data says and how relevant it
+
+is to the problem at hand.
+<ICE-USA:W2A-033#71:1> In the following we shall look at the process of formulating the
+
+aggregation of data as a function of its relevance as manifested by the
+
+structure of the penalty incurred in disregarding the data.</p>
+<ICE-USA:W2A-033#72:1> <H> 3. BINARY DISTINCTION WITH INFINITE PENALTY</h>
+
+<P> <ICE-USA:W2A-033#73:1> As we indicated, in the process of determining V, the term Ci(x,
+
+Di) is the penalty we pay for supporting x in the face of the data Di.
+<ICE-USA:W2A-033#74:1> Thus Ci(x, Di) captures the relevance of Di to the process of
+
+determining the value of V.
+<ICE-USA:W2A-033#75:1> An important class of these kinds of penalty functions are those that
+
+can be viewed as composed of two components:</p>
+
+<P> <ICE-USA:W2A-033#76:1> Ci(x,Di) = KiTi(x,Di).</p>
+
+<P> <ICE-USA:W2A-033#77:1> In the above, Ki is some constant, and Ti(x,Di) is a function
+
+measuring the degree of conflict between the solution x and the data Di.
+<ICE-USA:W2A-033#78:1> Both terms are assumed to be non-negative.</p>
+
+<P> <ICE-USA:W2A-033#79:1> We now consider a form of the function Ti(x,Di) that takes its
+
+value in the binary set { 0, 1}.
+<ICE-USA:W2A-033#80:1> In this case we define Ti(x,Di) such that if x and Di are in
+
+agreement, then</p>
+
+<P> <ICE-USA:W2A-033#81:1> Ti(x,Di) = 0</p>
+
+<P> <ICE-USA:W2A-033#82:1> and if x and Di are not in agreement, then</p>
+
+<P> <ICE-USA:W2A-033#83:1> Ti(x,Di) =1.</p>
+
+<P> <ICE-USA:W2A-033#84:1> It is noted that here we make no distinction about how much
+
+disagreement there is; just any disagreement is enough to cause a penalty of
+
+1.
+
+<P> <ICE-USA:W2A-033#85:1> In this section we shall assume that all Ti are of this form.
+<ICE-USA:W2A-033#86:1> This allows us to suppress the subscript in Ti.
+<ICE-USA:W2A-033#87:1> Thus in the remainder we simply use T(x,Di).</p>
+
+<P> <ICE-USA:W2A-033#88:1> In regard to the Ki, we can see this as some measure of the
+
+bearing of the data Di on the determination of V.
+<ICE-USA:W2A-033#89:1> The larger the Ki, the more directly the piece of data Di relates to
+
+the problem at hand.
+<ICE-USA:W2A-033#90:1> One can view 1/Ki as the degree to which we can diverge from the
+
+observation Di.
+<ICE-USA:W2A-033#91:1> If 1/Ki = 0, then no disagreement is allowed and Di has an absolute
+
+bearing on the problem at hand.
+<ICE-USA:W2A-033#92:1> If we assume that all Ki are the same, we are essentially saying that
+
+all the data have the same hearing on the determination of V.
+<ICE-USA:W2A-033#93:1> We shall assume in the following that this is the case, i.e., Ki =
+
+K.</p>
+<ICE-USA:W2A-033#94:1> <H> 6.
+<ICE-USA:W2A-033#95:1> NON-BINARY DISTINCTION</h>
+
+<P> <ICE-USA:W2A-033#96:1> In this section we shall still assume that the penalty for saving
+
+that x is a good solution is</p> <&> [ equation] has been removed from this
+
+section</&>
+
+<P> <ICE-USA:W2A-033#97:1> where Ci(x, Di) is the penalty incurred by disagreeing with Di in
+
+regard to x.
+<ICE-USA:W2A-033#98:1> We shall still assume that Ci(x,Di) = KiTi(x,Di).
+<ICE-USA:W2A-033#99:1> In this section, however, rather than assuming for Ti(x,Di) the
+
+all-or-nothing format of the previous section, we shall allow some measure of
+
+<it> proximity </it> between x and Di.</p>
+
+<P> <ICE-USA:W2A-033#100:1> We assume that there exists on X a function M called <it> the
+
+measure of disagreement </it> </p> <&> [ equation] has been removed from this
+
+section</&>
+
+<P> <ICE-USA:W2A-033#101:1> such that</p>
+
+<P> <ICE-USA:W2A-033#102:1> In some cases we use [ 0,1] instead of [ 0, infinity].
+<ICE-USA:W2A-033#103:1> If X is the set of real numbers, a possible measure for M is (
+
+x-y)2.</p>
+
+<P> <ICE-USA:W2A-033#104:1> We need to extend M to measure the disagreement between an
+
+element x of X and a subset A of X.
+<ICE-USA:W2A-033#105:1> For our purposes, it is reasonable to use</p> <&> [ equation] has
+
+been removed from this section</&>
+
+<P> <ICE-USA:W2A-033#106:1> that is, the measure of divergence or disagreement of any value
+
+x from a set A is its measure of disagreement with the element closest to it.
+<ICE-USA:W2A-033#107:1> In the following we shall use Ti(x,Di)= M(x,Di).
+<ICE-USA:W2A-033#108:1> The T of the previous can be viewed as a special case of this
+
+situation.
+<ICE-USA:W2A-033#109:1> In that case</p>
+
+<P> <ICE-USA:W2A-033#110:1> We recall that we select the set G of acceptable solutions to be
+
+the subset of the X which have minimum C(x).
+<ICE-USA:W2A-033#111:1> The following theorem is of importance.</p>
+<ICE-USA:W2A-033#112:1> <H> THEOREM.</h> <it> If M is a measure of disagreement and if </it>
+
+<&> [ equation] has been removed from this section</&><it> then </it> G =
+
+S.</p>
+<ICE-USA:W2A-033#113:1> <H> <it> Proof.</it></h> If <&> [ equation] has been removed from
+
+this section</&>, then there exists at least one x such that T(x,Si) = 0 for
+
+all i and hence C(x) = 0.
+<ICE-USA:W2A-033#114:1> Therefore, the minimum occurrence penalty is 0 and only those
+
+elements incurring this penalty are allowed in G.
+<ICE-USA:W2A-033#115:1> The only ones having this zero penalty are those in S.</p>
+
+<P> <ICE-USA:W2A-033#116:1> Consider the special case where [ equation] and Ki = K = [
+
+infinity].
+<ICE-USA:W2A-033#117:1> In this case</p> <&> [ equation] has been removed from this
+
+section</&>
+
+<P> <ICE-USA:W2A-033#118:1> The problem becomes rather intricate because of the infinities
+
+involved.
+<ICE-USA:W2A-033#119:1> It is not at all clear how to do the arithmetic in this environment.
+<ICE-USA:W2A-033#120:1> What is at issue is the following.
+<ICE-USA:W2A-033#121:1> While it is clear that, [ equation] on the other hand it is not
+
+clear what this product is when a lies.
+<ICE-USA:W2A-033#122:1> For example [ equation] lies in the unit interval.
+<ICE-USA:W2A-033#123:1> Similarly [ equation] when either a or b is greater or equal to one.
+<ICE-USA:W2A-033#124:1> When both are less than one the situation becomes unclear.
+<ICE-USA:W2A-033#125:1> We can state some properties of this operation.
+<ICE-USA:W2A-033#126:1> The first condition is that of <it> commutativity </it> .
+<ICE-USA:W2A-033#127:1> The second condition is that of <it> associativity </it> .
+<ICE-USA:W2A-033#128:1> Thus the order of the data does not matter.
+<ICE-USA:W2A-033#129:1> The third condition is that of <it> monotonicity </it> ; if [
+
+equation] for all i, then [ equation].
+<ICE-USA:W2A-033#130:1> The fourth condition is our requirement that if [ equation] for at
+
+least one i, then C(x) = K.
+<ICE-USA:W2A-033#131:1> These properties are essentially those satisfied by the t-norm
+
+operator [ 3] which is used to implement the multivalued logic and operation.
+<ICE-USA:W2A-033#132:1> It appears that the fuzzy logic introduced by Zadeh [ 4.5] is based
+
+upon this penalty situation; infinite K and [ equation].
+<ICE-USA:W2A-033#133:1> In particular the Min/Max operator is based upon the following
+
+implementation of infinity arithmetic.
+<ICE-USA:W2A-033#134:1> Let and be contained in the unit interval and let K= [
+
+infinity],</p> <&> [ equation] has been removed from this section</&>
+
+<P> <ICE-USA:W2A-033#135:1> We feel that a particular choice of t-norm operator is a
+
+manifestation of the choice of a particular infinity arithmetic.
+<ICE-USA:W2A-033#136:1> The investigation of this conjecture, although interesting, will not
+
+be pursued here.</p> </I>

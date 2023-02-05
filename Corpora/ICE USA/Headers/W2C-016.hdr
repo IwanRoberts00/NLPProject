@@ -1,0 +1,75 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2C-016</textcode>
+          <number of subtexts>2</number of subtexts>
+          <category>written: printed: reportage: press news</category>
+          <wordcount>2200</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ALL>
+          <source.type=newspaper>
+               <source.title>USA TODAY</source.title>
+          <publication statement>
+               <publisher>Copyright 1993 Gannett Company</publisher>
+               <address>1000 Wilson Blvd.</address>
+               <place>Arlington, VA</place>
+               <date>10/12/1993</date>
+          </publication statement>
+          <copyright.statement>Copyright 1994, USA TODAY. <#> Reprinted with permission</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+</text.info>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-016>
+          <subtext.name></subtext.name>
+               <main.title>Speeding onto the information highway</main.title>
+               <subtitle>Phone firms plug into new video age</subtitle>
+               <page.nos>1B</page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-016>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Maney</surname>
+               <forenames>Kevin</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-016>
+          <subtext.name></subtext.name>
+               <main.title>For women,land of opportunity</main.title>
+               <subtitle>Many are lured by hopes of economic, personal equality</subtitle>
+               <page.nos>8A</page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-016>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Unsdansy</surname>
+               <forenames>Margaret</forenames>
+               <age> </age>
+               <gender>Female</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

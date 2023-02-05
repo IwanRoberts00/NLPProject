@@ -1,0 +1,49 @@
+<text.info>
+  <file.description>
+    <textcode>ICE-USA-W2B-034</textcode>
+    <number of subtexts>1</number of subtexts>
+    <category>written: printed: popular: technology </category>
+    <wordcount>2161</wordcount>
+    <version>coded, edited,  with essential markup</version>
+    <free.comments></free.comments>
+  </file.description>
+  <subtext.source=ICE-USA-W2B-034>
+    <source.type=collection>
+      <source.title>Technology Review</source.title>
+      <series></series>
+      <editor> </editor>
+    <publication statement>
+      <publisher>MIT </publisher>
+      <address> 1 Main St., 7th Fl., Cambridge, MA 02142</address>
+      <place> Cambridge, MA</place>
+      <date>1996</date>
+    </publication statement>
+    <copyright.statement>Permission obtained.</copyright.statement>
+    <free.comments></free.comments>
+    </source.type>
+  </subtext.source>
+  <subtext.internals=ICE-USA-W2B-034>
+    <subtext.name> </subtext.name>
+      <main.title> Finding One's Own Space in Cyberspace </main.title>
+      <subtitle></subtitle>
+      <page.nos>48-54 </page.nos>
+    <free.comments></free.comments>
+  </subtext.internals>
+  <biography=ICE-USA-W2B-034>
+    <speaker.id></speaker.id>
+      <communicative.role>author</communicative.role>
+      <surname> Bruckman </surname>
+      <forenames>Amy</forenames>
+      <age> </age>
+      <gender>female </gender>
+      <nationality></nationality>
+      <birthplace></birthplace>
+      <education> </education>
+      <educational.level> </educational.level>
+      <occupation></occupation>
+      <affiliations></affiliations>
+      <mother.tongue></mother.tongue>
+      <other.languages></other.languages>
+      <free.comments></free.comments>
+  </biography>
+</text.info>

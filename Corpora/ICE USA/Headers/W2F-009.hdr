@@ -1,0 +1,49 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2F-009<textcode/>
+          <number of subtexts>1</number of subtexts>
+          <category>written: printed: creative: novels</category>
+          <wordcount>2160</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ICE-USA-W2F-009>
+          <source.type=collection>
+               <source.title> </source.title>
+               <series></series>
+               <editor> </editor>
+          <publication statement>
+               <publisher> </publisher>
+               <address> </address>
+               <place> </place>
+               <date> </date>
+          </publication statement>
+          <copyright.statement>used by permission of Mark Smith</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA-W2F-009>
+          <subtext.name> </subtext.name>
+               <main.title>Sue and Frank</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+     <biography=ICE-USA-W2F-009>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Smith</surname>
+               <forenames>Mark</forenames>
+               <age>37</age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level>MA</educational.level>
+               <occupation>Librarian</occupation>
+               <affiliations></affiliations>
+               <mother.tongue>English</mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

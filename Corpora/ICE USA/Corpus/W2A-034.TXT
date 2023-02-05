@@ -1,0 +1,411 @@
+<I>
+<ICE-USA:W2A-034#1:1> <h> 1.5 Overview</h>
+
+<P> <ICE-USA:W2A-034#2:1> This report explains the way in which we structured the software
+
+to provide the required functionality.
+<ICE-USA:W2A-034#3:1> We focus first on Argus, the corpus search tool, and second on Ajax,
+
+the dictionary entry editor.
+<ICE-USA:W2A-034#4:1> We examine, in particular, how the design of Argus and Ajax was
+
+affected by the following requirements: changing specifications, good
+
+performance, and robustness.
+<ICE-USA:W2A-034#5:1> Section 2 describes how Argus searched the corpus for examples of a
+
+word.
+<ICE-USA:W2A-034#6:1> In section 3 we look at how this feature was extended to permit more
+
+sophisticated searches.
+<ICE-USA:W2A-034#7:1> Section 4 shows how we attached senses to words in the corpus, and
+
+finally section 5 describes the tools for exiting dictionary entries.
+<ICE-USA:W2A-034#8:1> </p>
+
+<P> <ICE-USA:W2A-034#9:1> In appendix A, we evaluate how well the system described in the
+
+body of the report enabled us to meet the goals set out in the Hector
+
+overview [ 1].
+<ICE-USA:W2A-034#10:1> We are not lexicographers, so we have not set our results in the
+
+context of related work by the lexicography research community.
+<ICE-USA:W2A-034#11:1> </p>
+
+<P> <ICE-USA:W2A-034#12:1> Appendix B describes the details of a wordclass tagger for raw
+
+corpus text.
+<ICE-USA:W2A-034#13:1> </p>
+<ICE-USA:W2A-034#14:1> <h> 2 Searching the Corpus</h>
+
+<P> <ICE-USA:W2A-034#15:1> The Oxford Hector Pilot Corpus contained 20 million words of
+
+running English text, with SGML[6] markings to indicate special characters
+
+and certain general classes of text, such as headings, signatures, and
+
+captions.
+<ICE-USA:W2A-034#16:1> </p>
+
+<P> <ICE-USA:W2A-034#17:1> For various practical reasons, we decided that, after some
+
+initial cleanup work such as removing large duplicate sections, we would not
+
+change the text of the corpus during the course of the project, nor would we
+
+allow the lexicographers to edit the existing text.
+<ICE-USA:W2A-034#18:1> </p>
+
+<P> <ICE-USA:W2A-034#19:1> As a consequence of this decision, we were able to simplify the
+
+design of the search tool.
+<ICE-USA:W2A-034#20:1> In order to search such a large corpus quickly for the patterns
+
+requested by the lexicographers, it was clear that we needed a full-text
+
+index.
+<ICE-USA:W2A-034#21:1> Since the corpus wasn't going to change, we simply used the index of
+
+each word in the corpus as a reliable way to identify it; word number
+
+3,467,122 would not change during the project.
+<ICE-USA:W2A-034#22:1> </p>
+
+<P> <ICE-USA:W2A-034#23:1> This decision also meant that we could afford to invest
+
+considerable time in precomputing lexical and syntactic information, which we
+
+added to as well.
+<ICE-USA:W2A-034#24:1> </p>
+
+<P> <ICE-USA:W2A-034#25:1> The tool that we built to search the text, and to view the
+
+corpus, was called Argus.
+<ICE-USA:W2A-034#26:1> In its simplest form, Argus resembled the Unix utility grep.
+<ICE-USA:W2A-034#27:1> However, we needed much better performance than grep provides.
+<ICE-USA:W2A-034#28:1> We also needed richer functionality, such as being able to search for
+
+more than one word at a time, and allowing various other constraints on the
+
+search.
+<ICE-USA:W2A-034#29:1> </p>
+
+<P> <ICE-USA:W2A-034#30:1> The lexicographers needed to search the corpus and quickly
+
+extract all instances of the target word they were studying.
+<ICE-USA:W2A-034#31:1> They also needed to see the target words in a KWIC concordance.
+<ICE-USA:W2A-034#32:1> For example, the concordance for the word " stock" might include
+
+these citations: at while Dai Ichi would change its stock portfolio this
+
+year, there wo ought 500 April 2,150 puts.
+<ICE-USA:W2A-034#33:1> In the stock options, BP was the busiest, future.?
+<ICE-USA:W2A-034#34:1> The 250,000 tonne buffer stock, which was bought in a vain a ack
+
+enough to put it in order, and stock and equip it.
+<ICE-USA:W2A-034#35:1> <hdl> Putting laborious, to carry water or move stock to it.
+<ICE-USA:W2A-034#36:1> When these top-priorit The lexicographers also needed to sort a
+
+concordance in different ways.
+<ICE-USA:W2A-034#37:1> For instance, they might want to sort it by the words to the right of
+
+the target word, to uncover patterns of use.
+<ICE-USA:W2A-034#38:1> The following subsections describe the parts of Argus and the
+
+supporting programs that locate and display concordances of a single word.
+<ICE-USA:W2A-034#39:1> </p>
+<ICE-USA:W2A-034#40:1> <h> 2.1 Parsing the Corpus</h>
+
+<P> <ICE-USA:W2A-034#41:1> In order to search for words in the corpus, we needed to identify
+
+them by determining their boundaries.
+<ICE-USA:W2A-034#42:1> For instance, when is punctuation part of a word?
+<ICE-USA:W2A-034#43:1> In the sentence " I 'd' 'vedrunk another pint", is " I 'd 've" one word
+
+or three?
+<ICE-USA:W2A-034#44:1> To perform this lexical analysis, we used a parser from Houghton
+
+Mifflin.
+<ICE-USA:W2A-034#45:1> We ran the parser over each document in the corpus and stored the
+
+results in disk files, one for each corpus file.
+<ICE-USA:W2A-034#46:1> ( We stored the corpus not as one large file, but as 276 separate
+
+files.
+<ICE-USA:W2A-034#47:1> This made the corpus slightly easier to manage early in the project
+
+when we were still modifying the text and the analysis tools.) We numbered
+
+all the words in the corpus sequentially from 1 to 20 million, across file
+
+boundaries, producing a unique index for each word.
+<ICE-USA:W2A-034#48:1> </p>
+
+<P> <ICE-USA:W2A-034#49:1> The parser also performed syntactic analysis.
+<ICE-USA:W2A-034#50:1> It produced a set of four binary files containing wordclass tags,
+
+sentence boundaries, clause boundaries, and prepositional phrases.
+<ICE-USA:W2A-034#51:1> Each file contained a set of records; for example, a wordclass file
+
+contained the starting position of the word, its length, its wordclass tag,
+
+and its baseform.
+<ICE-USA:W2A-034#52:1> The Adam wordclass tagger, a separate program, produced a fifth file
+
+for each document.
+<ICE-USA:W2A-034#53:1> We could not keep all 1,380 of these data files open all the time.
+<ICE-USA:W2A-034#54:1> Consequently, Argus spent a lot of time opening and closing files.
+<ICE-USA:W2A-034#55:1> Caching file handles and the static data from the files helped
+
+somewhat, but we believe that this disk activity reduced performance
+
+noticeably.
+<ICE-USA:W2A-034#56:1> </p>
+<ICE-USA:W2A-034#57:1> <h> 2.2 Indexing</h>
+
+<P> <ICE-USA:W2A-034#58:1> The basic operation of searching for a word needed to be very
+
+fast.
+<ICE-USA:W2A-034#59:1> We implemented it with a precomputed index that mapped words to their
+
+positions in the corpus.
+<ICE-USA:W2A-034#60:1> Most of the search operations were implemented most naturally in
+
+terms of word indexes.
+<ICE-USA:W2A-034#61:1> We found that it simplified the structure of the system to split the
+
+search code into two parts.
+<ICE-USA:W2A-034#62:1> One computed results in terms of word indexes; the other translated
+
+word indexes into a file name and the character position in that file.
+<ICE-USA:W2A-034#63:1> </p>
+
+<P> <ICE-USA:W2A-034#64:1> For performance reasons, we wanted only a single copy of the
+
+search code executing: the index was quite large.
+<ICE-USA:W2A-034#65:1> However, we needed to provide service to several users
+
+simultaneously.
+<ICE-USA:W2A-034#66:1> The index was therefore managed by a pair of servers, shared by all
+
+the users.
+<ICE-USA:W2A-034#67:1> One server, the Index Server, took search requests and returned a
+
+list of word indexes.
+<ICE-USA:W2A-034#68:1> The other server, the Corpus Position Server," took requests
+
+containing word indexes, and returned lists containing filenames and
+
+positions within those files.
+<ICE-USA:W2A-034#69:1> Each server had a front end that handled multiple TCP connections and
+
+controlled access to the database managers, which were single-threaded
+
+programs.
+<ICE-USA:W2A-034#70:1> Both servers were designed and implemented by our colleague Mike
+
+Burrows.
+<ICE-USA:W2A-034#71:1> </p>
+<ICE-USA:W2A-034#72:1> <h> 2.2.1 The Index Server</h>
+
+<P> <ICE-USA:W2A-034#73:1> The Index Server implemented the search facility, returning the
+
+list of words that satisfied a search request.
+<ICE-USA:W2A-034#74:1> We discuss two aspects of the Index Server: the scheme for compact
+
+data representation used for the index file, and the implementation of the
+
+search operations.
+<ICE-USA:W2A-034#75:1> The central index file was a sequence of alphabetically sorted
+
+records, each containing a word and the list of word indexes where the word
+
+occurred.
+<ICE-USA:W2A-034#76:1> To save space, both the words and the indexes were encoded.
+<ICE-USA:W2A-034#77:1> Each word was represented by the number of leading characters it
+
+shared with its predecessor in the file, and the text of the unshared suffix.
+<ICE-USA:W2A-034#78:1> For example, suppose a document contained only the four words "
+
+propel", " propeller", " propellers", and " propels".
+<ICE-USA:W2A-034#79:1> Instead of storing all 32 characters, the index would contain only 11
+
+characters plus 4 single-byte numbers, arranged like this: </p> <&> [ TABLE
+
+OMITTED]</&>
+
+<P> <ICE-USA:W2A-034#80:1> Since the list of word indexes was in increasing order, it was
+
+stored as a list of consecutive differences, so the list 100150, 100170,
+
+100185, 100202 would be stored as 100150, 20, 15, 17.
+<ICE-USA:W2A-034#81:1> Each individual number was stored as a sequence of 7-bit digits; the
+
+8th ( high-order) bit indicated the end of the sequence.
+<ICE-USA:W2A-034#82:1> We kept sub-indexes to help locate a word and its list of
+
+word-indexes quickly.
+<ICE-USA:W2A-034#83:1> A sub-index file contained one entry for every 4,000 bytes of data in
+
+the index file.
+<ICE-USA:W2A-034#84:1> Each entry in the sub-index consisted of a byte-offset in the central
+
+file and the word and word index at that offset.
+<ICE-USA:W2A-034#85:1> Binary search in the sub-index yielded a location close to a
+
+word/location pair, from which the index file was searched using the word and
+
+word-index information from the sub-index entry.
+<ICE-USA:W2A-034#86:1> This compression scheme saved us a factor of three in space; each
+
+index entry in the Hector databases ( words, wordclasses, and so on) took
+
+1.33 bytes on average.
+<ICE-USA:W2A-034#87:1> If the data had not been compressed, each pair would have taken more
+
+than 4 bytes per entry, since the position values didn't fit in 3 bytes.
+<ICE-USA:W2A-034#88:1> Accessing the disk file containing the index contributed
+
+substantially to the time needed to query the corpus, so the compression sped
+
+up queries in addition to saving disk space.
+<ICE-USA:W2A-034#89:1> Even with this compression scheme, the Hector index file required
+
+about 130 megabytes of storage.
+<ICE-USA:W2A-034#90:1> Although the index representation was compact, it still permitted the
+
+search operations to be executed quite quickly.
+<ICE-USA:W2A-034#91:1> To find all the examples of a word, the Index Server located the
+
+record for that word using binary search.
+<ICE-USA:W2A-034#92:1> Then it generated all the locations where the word occurred by
+
+unpacking the list of indexes stored with the word. We discuss the ways in
+
+which the Index Server implemented more complicated searches in section 3.
+<ICE-USA:W2A-034#93:1> </p>
+<ICE-USA:W2A-034#94:1> <h> 4.3 The Sense Server</h>
+
+<P> <ICE-USA:W2A-034#95:1> The Sense Server was a program that managed the sense-tag
+
+database.
+<ICE-USA:W2A-034#96:1> It performed two functions: it ensured that changes were applied to
+
+the database without any loss of data, and it captured the richness of the
+
+connections expressed by the sense-tag notation.
+<ICE-USA:W2A-034#97:1> Since several lexicographers could be simultaneously reading and
+
+writing files where the sense tags were stored, the Sense Server ensured that
+
+changes were synchronized, and that requests for sense tags always yielded
+
+the assignments.
+<ICE-USA:W2A-034#98:1> </p>
+
+<P> <ICE-USA:W2A-034#99:1> In order to represent the richness of the sense-tag notation
+
+while making it easy for the Index Server to use the sense assignments, the
+
+information about sense assignments was represented in two files.
+<ICE-USA:W2A-034#100:1> One was a binary file, suitable for use by the Index Server.
+<ICE-USA:W2A-034#101:1> The other was a text file that contained additional information
+
+about words that had been assigned complex tag expressions, rather than just
+
+a single, unmodified sense tag.
+<ICE-USA:W2A-034#102:1> The binary file contained the index of the word in the corpus, the
+
+UID of the sense, the ID of the lexicographer who made the assignment, and a
+
+flag that indicated whether there was an entry for this word in the text
+
+file.
+<ICE-USA:W2A-034#103:1> If the word was assigned a single, unmodified sense, then there was
+
+no information in the text file; the sense-tag expression was just the sense
+
+UID.
+<ICE-USA:W2A-034#104:1> If the sense assignment was a complex expression, then the Sense
+
+Server stored the full tag expression in the text file.
+<ICE-USA:W2A-034#105:1> ( This file was not encoded, since there was wide variation in the
+
+sense-tag expressions, and there were relatively few complex tag
+
+expressions.) We had originally attempted to manage the sense tags directly
+
+in Argus, without a separate Sense Server, but we finally concluded that we
+
+could not implement a consistent view of a shared, mutable file using NFS.
+<ICE-USA:W2A-034#106:1> When one copy of Argus rewrote the sense-tag file to record new
+
+assignments, there was no way to tell whether other instances were still
+
+using the old version, and hence whether it was safe to delete it.
+<ICE-USA:W2A-034#107:1> We found ourselves either referencing non-existent files or
+
+squandering huge quantities of disk space on obsolete versions of the
+
+sense-tag file that were of no interest to anyone.
+<ICE-USA:W2A-034#108:1> </p>
+<ICE-USA:W2A-034#109:1> <h> 4.4 Searching and Sorting on Senses</h>
+
+<P> <ICE-USA:W2A-034#110:1> Argus allowed the lexicographers to use the sense-tagging
+
+information to search the corpus.
+<ICE-USA:W2A-034#111:1> The search could either include or exclude all words with a given
+
+sense-tag; for example, the lexicographers might want to ignore all items
+
+that had already been tagged, or they might want to see only the words with a
+
+particular sense tag, or the words that had been assigned a tag unrelated to
+
+the current entry ( to see, say, multi-word tags or just wrong tags).
+<ICE-USA:W2A-034#112:1> Most sense-tag search conditions were implemented by the Index
+
+Server directly.
+<ICE-USA:W2A-034#113:1> The sense-tag assignments were just properties of words.
+<ICE-USA:W2A-034#114:1> When the sense-tag search condition was equivalent to checking
+
+whether a word had a specific sense assigned, the Index Server handled it.
+<ICE-USA:W2A-034#115:1> However, if the lexicographer wished to include other tagged words
+
+and exclude untagged words, or vice versa, the logic required was more than
+
+the Index Server was designed to handle.
+<ICE-USA:W2A-034#116:1> These search conditions were implemented by a downstream sense-tag
+
+filter in Argus.
+<ICE-USA:W2A-034#117:1> The presence of sense tags also provided new opportunities for
+
+sorting the concordance.
+<ICE-USA:W2A-034#118:1> Of the many possible ways of sorting, the lexicographers found these
+
+three to be useful: </p>
+
+<P> <ICE-USA:W2A-034#119:1> 1. Sort by UID.
+<ICE-USA:W2A-034#120:1> While the UIDs themselves were not meaningful to the lexicographers,
+
+this was the fastest way of seeing which lines had been given the same sense
+
+tag. </p>
+
+<P> <ICE-USA:W2A-034#121:1> 2. Sort in alphabetical order by mnemonic.
+<ICE-USA:W2A-034#122:1> See section 4.1 for the relations between UIDs and mnemonics. </p>
+
+<P> <ICE-USA:W2A-034#123:1> 3. Sort by dictionary order.
+<ICE-USA:W2A-034#124:1> The citations were sorted first by the headword, then by the
+
+homograph, and finally by the sense number. </p>
+
+<P> <ICE-USA:W2A-034#125:1> The lexicographers could constrain a search by sense tag only
+
+for the target word, not for a collocate.
+<ICE-USA:W2A-034#126:1> By the end of the project, there were enough sense-tagged words in
+
+the corpus that the lexicographers wished they also had had the ability to
+
+constrain a collocate by sense tag. </p> </I>

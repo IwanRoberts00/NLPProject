@@ -1,0 +1,49 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2E-006 </textcode>
+          <number of subtexts>1</number of subtexts>
+          <category> written: printed: creative: novels </category>
+          <wordcount>1939</wordcount>
+          <version> coded, edited , with essential markup </version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ICE-USA- W2E-006 >
+          <source.type=collection>
+               <source.title> </source.title>
+               <series></series>
+               <editor></editor>
+          <publication statement>
+               <publisher> </publisher>
+               <address></address>
+               <place> </place>
+               <date></date>
+          </publication statement>
+          <copyright.statement>Used by permission of Celeste Moure, March 10, 1997 </copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA- W2E-006>
+          <subtext.name> </subtext.name>
+               <main.title>Journey </main.title>
+               <subtitle></subtitle>
+               <page.nos></page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+     <biography=ICE-USA- W2E-006>
+          <speaker.id></speaker.id>
+               <communicative.role> </communicative.role>
+               <surname>Moure </surname>
+               <forenames> Celeste</forenames>
+               <age>23</age>
+               <gender>female </gender>
+               <nationality> </nationality>
+               <birthplace>Buenos Aries, Argentina</birthplace>
+               <education></education>
+               <educational.level>BA </educational.level>
+               <occupation> Online Producer</occupation>
+               <affiliations> </affiliations>
+               <mother.tongue>Spanish </mother.tongue>
+               <other.languages>English</other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

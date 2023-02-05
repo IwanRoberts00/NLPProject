@@ -1,0 +1,49 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2F-010</textcode>
+          <number of subtexts>1</number of subtexts>
+          <category>written: printed: creative: novels</category>
+          <wordcount>2160</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ICE-USA-W2F-010>
+          <source.type=collection>
+               <source.title>Amerasia Journal </source.title>
+               <series></series>
+               <editor> </editor>
+          <publication statement>
+               <publisher>University of California</publisher>
+               <address> </address>
+               <place> </place>
+               <date> </date>
+          </publication statement>
+          <copyright.statement>used by permission of Gary Pak</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA-W2F-010>
+          <subtext.name> </subtext.name>
+               <main.title>A Ricepaper Airplane</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+     <biography=ICE-USA-W2F-010>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Pak</surname>
+               <forenames>Gary</forenames>
+               <age>42</age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level>ABD</educational.level>
+               <occupation>Lecturer in English</occupation>
+               <affiliations></affiliations>
+               <mother.tongue>English</mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

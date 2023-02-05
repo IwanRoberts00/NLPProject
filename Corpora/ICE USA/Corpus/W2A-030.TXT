@@ -1,0 +1,420 @@
+<I>
+<ICE-USA:W2A-030#1:1> <h> Independence of Myogenesis from Chondrogenesis:</h>
+<ICE-USA:W2A-030#2:1> <h> retinoic acid induces extensive changes in skeletal development
+
+without conrurrently affecting the morphogenesis of the musculature in the
+
+regenerating limbs of Ambystoma larva1.</h>
+<ICE-USA:W2A-030#3:1> <h> Abstract</h>
+
+<p> <ICE-USA:W2A-030#4:1> After systemic treatment with retinoic acid ( RA), A. opacum and
+
+A. punctatum larvae regenerated forelimbs with a wide variety of skeletal and
+
+gross anatomical abnormalities.
+<ICE-USA:W2A-030#5:1> Yet the musculatures within the RA-treated limb regenerates were
+
+normal even in instances where the cartilages were deformed beyond
+
+recognition as components of the limb skeleton.
+<ICE-USA:W2A-030#6:1> RA is known to induce reduplication of limb structures, sometimes
+
+entire segments thereof.
+<ICE-USA:W2A-030#7:1> When the latter condition occurred in the present study, the
+
+corresponding replicates exhibited limb musculatures that were perfect down
+
+to minute details, yet of opposite bilateral symmetry.</p>
+
+<p> <ICE-USA:W2A-030#8:1> The data: *attest to the independence of myogenesis and
+
+chondrogenesis during limb regeneration. *unmasked an otherwise hidden
+
+potential within post-embryonic salamander limb tissue for manufacturing a
+
+musculature of the opposite side of the body. *generate, as corollary of the
+
+latter, the thesis that cells of the musculature of the limb regenerate are
+
+descendents of developmentally uncommitted cells.</p>
+<ICE-USA:W2A-030#9:1> <h> Introduction</h>
+
+<p> <ICE-USA:W2A-030#10:1> In limb regeneration among salamanders, retinoic acid ( RA) can:
+
+*distort skeletogenesis; *transmogrify the new part 's external form;
+
+*stimulate the development of supernumerary cartilages ( and bones in adult
+
+animals); and *promote the reduplication of entire segments - - fingers,
+
+hands, wrists, forearms, arms and shoulder elements ( or toes, feet, ankles,
+
+legs and thighs in the hind limb).
+<ICE-USA:W2A-030#11:1> ( See Maden et al 1985; Stocum and Thoms, 1984; Thoms and Stocum,
+
+1984; Ragsdale et al 1989).
+<ICE-USA:W2A-030#12:1> This property of RA permits the testing of an hypothesis advanced
+
+some years ago to the effect that myogenesis and chondrogenesis are mutually
+
+independent during limb regeneration ( Pietsch, 1962a).</p>
+
+<p> <ICE-USA:W2A-030#13:1> The evidence for the independence hypothesis came from
+
+experiments in which muscle differentiation was caused to vary while
+
+skeletogenesis was held constant.
+<ICE-USA:W2A-030#14:1> RA permited the experimental formulation of the logical converse:
+
+Given a changed skeletogenic outcome, would the RA-treated limb regenerates
+
+muscles concomitantly change or proceed to a normal morphogenic conclusion?
+<ICE-USA:W2A-030#15:1> The independence hypothesis predicted the latter alternative.
+<ICE-USA:W2A-030#16:1> While the opportunity presented itself, comparisons were made of the
+
+muscle patterns within reduplicated members with a view to their bilateral
+
+symmetry.
+<ICE-USA:W2A-030#17:1> The question motivating the latter was whether, among of the
+
+post-embryonic salamander tissues, cells exist with an ontogenic potentiality
+
+for manufacturing the opposite limb 's musculature.</p>
+<ICE-USA:W2A-030#18:1> <h> Materials and methods</h>
+
+<p> <ICE-USA:W2A-030#19:1> The principal experimental subjects were A. opacum and A.
+
+punctatum ( maculatum) larvae brought into the laboratory as gastrulae and
+
+monitored through the subsequent Harrison stages so as to insure ( by
+
+appropriate culling) the developmental homogeneity of the animal stock.
+<ICE-USA:W2A-030#20:1> Ancillary experiments ( described below) were conducted with 35-40 mm
+
+white ( non-albino) A. mexicanum ( axolotl) larvae spawned at the Indiana
+
+University Axolotl Colony. Ambystoma are highly cannibalistic, especially
+
+towards appendages.
+<ICE-USA:W2A-030#21:1> To avoid uncertainties about the stock ( whether prospective amputees
+
+bore natural or regenerated limbs) and to insure a uniform starting point
+
+with each experiment, prospective subjects were individually segregated, and
+
+thus maintained, at Harrison stage 43 ( see Rugh, 1962); i. e., prior to the
+
+onset of free feeding.
+<ICE-USA:W2A-030#22:1> The precautions in question were motivated by the fact that nerve
+
+patterns in regenerated limbs are not identical to those in the natural limb
+
+( see Piatt 1957).
+<ICE-USA:W2A-030#23:1> Nerves can influence regenerative myogenesis ( Pietsch, 1962b).
+<ICE-USA:W2A-030#24:1> All animals were kept in 5 percent Holtfreter 's solution, changed
+
+daily, and daily were fed newly hatched brine shrimp.</p>
+
+<p> <ICE-USA:W2A-030#25:1> With a view, ultimately, to minimizing photic degradation of RA
+
+in the test subjects, while at the same time maintaining a constant
+
+environment for control and experimentals, all animals, except a special
+
+control subgroup, were kept in capped amber bottles and were handled in low
+
+intensity illumination ( after considerable preliminary testing of the
+
+adequacy of the methods).
+<ICE-USA:W2A-030#26:1> The special control animals were kept individually in clear finger
+
+bowls; they showed no differences from the controls in amber bottles.
+<ICE-USA:W2A-030#27:1> Nociceptive procedures ( amputations and injections) were carried out
+
+after animals had been narcotized in 1:5000 MS 222.
+<ICE-USA:W2A-030#28:1> A. opacum and A. punctatum larvae were 30-32 mm in body length when
+
+subjected to bilateral amputation through the neck of the humerus, bilateral
+
+in part for economy and efficiency but also for independently assessing
+
+individual variations, as will be explained with results; the two limbs of a
+
+given animal were amputated seconds apart and, in a given run, all limbs were
+
+amputated within less than 15 minutes.
+<ICE-USA:W2A-030#29:1> The plane of amputation, coinciding with the juncture of the free
+
+limb and the body, was selected partly because it could be quickly and
+
+precisely duplicated in a large number of subjects but also to involve as
+
+much of the appendage in regeneration as possible. </p>
+
+<p> <ICE-USA:W2A-030#30:1> The principal subjects had a wet ( but blotted) body weight of
+
+0.35-0.50 g at the time of treatment.
+<ICE-USA:W2A-030#31:1> The amputated limbs were fixed and examined to confirm the plane of
+
+amputation as well as to analyze the natural ( vis-...-vis regenerated)
+
+musculature.
+<ICE-USA:W2A-030#32:1> Except for a group of untreated controls, the amputees received a
+
+single 1.0 ul intracoelomic injection of either dimethylsulfoxide ( DMSO) or
+
+DMSO-dissolved all-trans RA ( Sigma XX), using a microinfusion apparatus and
+
+operative procedures detailed elsewhere ( Pietsch, 1987).
+<ICE-USA:W2A-030#33:1> A single batch of DMSO, stored at room temperature, was used
+
+throughout.
+<ICE-USA:W2A-030#34:1> ( Refrigerated DMSO crystallizes and redissolves with some
+
+difficulty.3) Aliquots of one large lot of RA ( Sigma 104F-0135) were used in
+
+all experiments, each aliquot having been stored preweighed and dry in a
+
+sealed ampoule, in the dark at - 30 oC, until a few minutes before
+
+administration.
+<ICE-USA:W2A-030#35:1> ( DMSO solutions of RA show major spectral changes upon thawing.
+<ICE-USA:W2A-030#36:1> DMSO crystallization is sufficiently exergonic to drive redox
+
+reactions among the retinoids.) The dosage of RA was 125 ug/g body weight, a
+
+level estimated from prior data ( op. cit.) as the amount that, following
+
+intracoelomic injection, would create a " treatment interval" of at least 14
+
+days.</p>
+
+<p> <ICE-USA:W2A-030#37:1> Concerning the treatment interval, RA forms a bright yellow ppt
+
+in coelomic ( peritoneal) fluid.
+<ICE-USA:W2A-030#38:1> Spectrophotmetric comparisons of this ppt with freshly dissolved
+
+aliquots of its parent batch indicated that the ppt one observes in the body
+
+cavity is indeed RA ( op. cit.).
+<ICE-USA:W2A-030#39:1> Thus, visible through the body wall, the yellow ppt is a positive
+
+indicator of maximal intracoelomic RA treatment in progress at that moment.
+<ICE-USA:W2A-030#40:1> However, to avoid exposing the principal subjects to the bright light
+
+of the dissecting microscope during the putative treatment interval a
+
+parallel monitor series was run with the aforementioned white axolotl larvae
+
+( whose tissues are virtually transparent and whose green gall bladder
+
+provided a highly contrastable background for the brilliant yellow of the
+
+ppt); the right forelimb of each white axolotl was amputated through the
+
+humeral neck and the retardation of the growth of its blastema was used to
+
+guarantee efficacy ( op. cit. for rationale). </p>
+
+<p> <ICE-USA:W2A-030#41:1> Principal subjects were divided into groups with each animal
+
+receiving a single treatment of either RA or DMSO at one of the follows days,
+
+postamputation: 0, 10, 14 or 21 days.
+<ICE-USA:W2A-030#42:1> Two important sets of facts were taken into account in choosing the
+
+subsequent incubation period.
+<ICE-USA:W2A-030#43:1> First, RA invariably retarded the growth of the blastema ( op. cit.),
+
+often reversibly but sometimes permanently.
+<ICE-USA:W2A-030#44:1> Second, under the conditions of this laboratory, limb regeneration
+
+among larvae of the age and species employed is complete in approximately 30
+
+days.
+<ICE-USA:W2A-030#45:1> With these facts in mind, the principal subjects were kept alive
+
+until either day 108 or day 114, post- amputation; i. e., incubation periods
+
+of durations sufficient to allow for complete regeneration in the face of any
+
+transitory effects.
+<ICE-USA:W2A-030#46:1> For sacrifice, animals were anesthetized in MS 222 and, when
+
+unconscious, transferred to Bouin 's fixative. </p>
+
+<p> <ICE-USA:W2A-030#47:1> Specimens were first examined in toto under the stereoscopic
+
+microscope.
+<ICE-USA:W2A-030#48:1> Then the entire limb, including the girdle, was dissected and
+
+processed for paraffin embedding.
+<ICE-USA:W2A-030#49:1> The limb skeleton of Ambystoma larvae is cartilaginous, obviating the
+
+need to demineralize the tissue for sectioning.
+<ICE-USA:W2A-030#50:1> Most limbs were oriented ( under the stereoscopic microscope) for
+
+serial transverse sectioning though at least the wrist and forearm and, when
+
+possible ( in the face of reduplications and distortions) the hand.
+<ICE-USA:W2A-030#51:1> After bending the elbow 90o, the upper arm was serially sectioned,
+
+longitudinally in some instances, and transversely in others.
+<ICE-USA:W2A-030#52:1> Slides were stained with Mallory 's trichrome procedure ( after which
+
+collagen appears blue and muscle tissue red).
+<ICE-USA:W2A-030#53:1> No species differences were observed.
+<ICE-USA:W2A-030#54:1> Therefore, for the sake of simplicity the data from A. opacum and A.
+
+punctatum will be combined for presentation.</p>
+<ICE-USA:W2A-030#55:1> <h> Results</h>
+<ICE-USA:W2A-030#56:1> <h> 1. Minimal Dosage Interval</h>
+
+<p> <ICE-USA:W2A-030#57:1> In the white axolotls used to monitor dosage, the yellow RA ppt
+
+was visible for some 14-17 days, during which time regeneration of the right
+
+forelimb ( the bioassay) was severely retarded.
+<ICE-USA:W2A-030#58:1> Thus, considering the treatment schedule employed in the principal
+
+experiments, no phase of regeneration escaped the effects of RA, when the
+
+groups are considered collectively.</p>
+<ICE-USA:W2A-030#59:1> <h> 2. Skeleton and External Form</h>
+
+<p> <ICE-USA:W2A-030#60:1> The effects of RA on skeletogenesis were basically similar to
+
+those reported in the literature ( see especially Maden et al, 1985; Thoms
+
+and Stocum, 1984).
+<ICE-USA:W2A-030#61:1> Thus only an overall summary on the macroscopic findings will be
+
+presented here ( see Table 1).
+<ICE-USA:W2A-030#62:1> No regenerated limb of either the untreated or the DMSO-treated
+
+control animals showed any skeletal abnormalities or distortions of
+
+macroscopic form.
+<ICE-USA:W2A-030#63:1> Among the limbs of animals treated with RA on the day of amputation (
+
+day 0 in Table 1), 62.5 percent showed external abnormalities; those with no
+
+outwardly obvious malformations, upon subsequent histological examination,
+
+without exception, showed some form of skeletal deformity.
+<ICE-USA:W2A-030#64:1> With RA treatment at day 10, over 72 percent of the cases had an
+
+external abnormality.
+<ICE-USA:W2A-030#65:1> Again, microscopic examination revealed skeletal malformations in the
+
+balance of the cases.
+<ICE-USA:W2A-030#66:1> All subjects treated at either 14 or 21 days showed macroscopically
+
+visible malformations, and histological sections revealed additional
+
+anomalies among the cartilages.
+<ICE-USA:W2A-030#67:1> In sum, skeletogenesis failed to reach a completely normal outcome in
+
+a single RA- treated regenerate during the entire investigation.</p>
+
+<p> <ICE-USA:W2A-030#68:1> Now considerable individual variation attended the types of
+
+malformations, far more than had been anticipated a priori, the aberrations
+
+ranging from syndactyly to supernumerary digits to segmental reduplications (
+
+Figs. 1-8).
+<ICE-USA:W2A-030#69:1> Compound anomalies were not at all rare ( note Figs. 5 and 6).
+<ICE-USA:W2A-030#70:1> With one relatively minor exception ( see next paragraph), no obvious
+
+correlation existed between the type of abnormality and the day of treatment.
+<ICE-USA:W2A-030#71:1> That variability was not attributable to protocol was attested to by
+
+the lack of correlation between contralateral regenerates from the same
+
+animal ( with amputations within seconds apart and identical systemic RA
+
+treatment): the regenerate of one side might terminate in a conical structure
+
+while that of the other could exhibit two or even three forearms, wrists and
+
+hands with varying numbers of fingers.
+<ICE-USA:W2A-030#72:1> Or one side might show a two- or three-fingered hand ( the normal
+
+number is 4) while the other might have two or even three hands, the hands
+
+themselves with their own intrinsic abnormalities. ( See also Figures 4 and
+
+5.) </p>
+
+<p> <ICE-USA:W2A-030#73:1> The crucial point here is that the observed variability is a
+
+function of the system 's response to RA.
+<ICE-USA:W2A-030#74:1> The exceptional condition involved hyperplasia of the shoulder ( see
+
+Figs. 7, 8).
+<ICE-USA:W2A-030#75:1> All RA-treated specimen, irrespective of the day of treatment,
+
+exhibited enlarged shoulders and supernumerary girdle parts were evident upon
+
+microscopic examination ( Fig. 9).
+<ICE-USA:W2A-030#76:1> But with treatment at days 14 or 21 the proximal arms bulged
+
+conspicuously and were macroscopically obvious in each RA-treated
+
+specimen.</p>
+<ICE-USA:W2A-030#77:1> <h> 3. Control Muscle Patterns</h>
+
+<p> <ICE-USA:W2A-030#78:1> The criteria for the analysis of muscle patterns may be found in
+
+Blount ( 1935), and Piatt ( 1956, 1957); see also Grim and Carlson ( 1974).
+<ICE-USA:W2A-030#79:1> A brief summary description of the highlights of the natural limb
+
+musculatures is presented here for the reader 's convenience.
+<ICE-USA:W2A-030#80:1> Diagrammatic representations may be found in Figures 10-12.
+<ICE-USA:W2A-030#81:1> The girdle musculature was too complex for critical analysis in the
+
+2-dimensional array presented by microscopic sections.
+<ICE-USA:W2A-030#82:1> However, distal to the insertions of the scapular and pectoral
+
+muscles, sections of the arm, whether longitudinal or transverse, presented
+
+three easily identifiable muscles ( using Blount 's terminology): 1. anconeus
+
+( triceps), dorsally; 2. coracobrachialis, ventromedially; 3.
+
+humero-antibrachialis ( homologue of the human biceps brachii and
+
+brachialis), ventrolaterally.</p>
+
+<p> <ICE-USA:W2A-030#83:1> The small but constant and highly recognizable ulnocarpalis
+
+muscle has furnished an invaluable landmark in cross sections of the
+
+Ambystoma forearm and wrist for other investigations ( see Piatt, 1956; 1957;
+
+Pietsch, 1961a, b; 1962a, b), and the present experiments were no exception.
+<ICE-USA:W2A-030#84:1> The ulnocarpalis runs parallel and ventral to most of the ulna and,
+
+passing into the wrist, inserts into the deep fascia ( mesenchymal in the
+
+larva) on the volar aspect of the middle row of carpals.
+<ICE-USA:W2A-030#85:1> Having identified the ulnocarpalis, the observer can immediately
+
+distinguish the ulna from the radius ( otherwise impossible without serially
+
+tracing), quickly pick out the obliquely oriented pronator quadratis and
+
+confidently stipulate the flexor versus extensor surface of the forearm.
+<ICE-USA:W2A-030#86:1> The observer can then ascertain the extensor carpi ulnaris, extensor
+
+digitorum ( communis) and extensor carpi radialis, dorsally, and the flexor
+
+carpi ulnaris, palmaris longus and flexor carpi radialis, ventrally.
+<ICE-USA:W2A-030#87:1> Muscles were analyzed in the serial sections of 4 untreated and 27
+
+DMSO-treated control regenerates; each one exhibited the cross sectional
+
+anatomy described in the previous paragraph for the natural limbs ( Figs.
+
+13-16)</P> </I>

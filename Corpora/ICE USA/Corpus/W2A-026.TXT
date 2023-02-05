@@ -1,0 +1,460 @@
+<I>
+
+<p> <ICE-USA:W2A-026#1:1> ABSTRACT--An experimental approach was used to examine the
+
+potential importance of nutrient limitation and competition on early
+
+successional development in Southern Appalachian forests.
+<ICE-USA:W2A-026#2:1> Treatments included tree removal, herb-shrub removal or NPK
+
+fertilization on 12 x 12 m plots established within a 20-ha clear-cut.
+<ICE-USA:W2A-026#3:1> A reciprocal increase in primary productivity following tree or
+
+herb-shrub removal suggests competition between these vegetation components.
+<ICE-USA:W2A-026#4:1> Black locust ( <it> Robinia pseud-acacia </it> ) exhibited greater
+
+growth following herb- shrub removal.
+<ICE-USA:W2A-026#5:1> <it> Aster </it> and <it> Solidago </it> biomass increased
+
+significantly in the absence of trees.
+<ICE-USA:W2A-026#6:1> Herbaceous and tree productivity both increased following
+
+fertilization, indicating nutrient limitation during early succession.
+<ICE-USA:W2A-026#7:1> Tulip poplar ( <it> Liriodendron tuliptiera </it> ) and red maple (
+
+<it> Acer rubrum </it> ) had significantly greater productivity in fertilized
+
+areas than in control areas; other tree species were unaffected.
+<ICE-USA:W2A-026#8:1> In contrast, the occurrence of blackberry ( <it> Rubus </it> spp.) in
+
+the 2nd yr of succession was restricted to fertilized plots.
+<ICE-USA:W2A-026#9:1> The vigorous growth of <it> Rubus </it> in fertilized areas apparently
+
+limited <it> Robinia </it> production.
+<ICE-USA:W2A-026#10:1> Herbs such as fireweed ( <it> Erechtites hieracifolia </it> ) and
+
+pokeweed ( <it> Phytolacca americana </it> ) were important in woody removal
+
+plus fertilization treatments.
+<ICE-USA:W2A-026#11:1> These findings suggest that competition and nutrient limitation
+
+interact in controlling species composition.
+<ICE-USA:W2A-026#12:1> relative productivity and time of species occurrence during early
+
+succession in the Southern Appalachians.</p>
+<ICE-USA:W2A-026#13:1> <h> INTRODUCTION </h>
+
+<p> <ICE-USA:W2A-026#14:1> Early successional vegetation is often important in retaining
+
+nutrients following disturbances such as fire and clear-cutting ( Marks and
+
+Bormann, 1972; Vitousek and Reiners, 1975; Vitousek <foreign> et al
+
+</foreign> ., 1979; Gorham <foreign> et al </foreign> ., 1979; Shure and
+
+Phillips, 1987; Phillips and Shure, 1990).
+<ICE-USA:W2A-026#15:1> Nutrient cycling following disturbance in the southern Appalachian
+
+Mountains involves an initial rapid loss of nutrients and sediment ( Johnson
+
+and Swank, 1973), followed by a slow return to predisturbance levels.
+<ICE-USA:W2A-026#16:1> Much of this temporal decline in nutrient losses is attributed to the
+
+rapid regrowth of vegetation.
+<ICE-USA:W2A-026#17:1> Aboveground vegetation net primary productivity ( NPP) reaches Ca.
+
+20&percent; of precutting levels in the 1st yr of succession.
+<ICE-USA:W2A-026#18:1> In contrast, aboveground nutrient pools in biomass reach Ca. 30-40&percent;
+
+of precut levels ( Boring <foreign> et al </foreign> ., 1981).
+<ICE-USA:W2A-026#19:1> Factors which affect the rate of recovery to normal nutrient cycles
+
+include cutting method ( Vitousek and Matson, 1984, 1985), rate of vegetation
+
+regrowth ( Marks, 1974; Boring <foreign> et al </foreign> ., 1981) and the
+
+relative importance of nitrogen-fixing plants which replenish nutrients (
+
+Boring <foreign> et al </foreign> ., 1981; Boring and Swank, 1984a;
+
+Montagnini <foreign> et al </foreign> ., 1986).</p>
+
+<p> <ICE-USA:W2A-026#20:1> Stump sprouts and herb-shrub growth dominate early succession in
+
+Southern Appalachian forests ( Boring <foreign> et al </foreign> ., 1981;
+
+Phillips and Shure, 1990)- Herbaceous vegetation grows rapidly and sequesters
+
+nutrients which would otherwise be lost from the system.
+<ICE-USA:W2A-026#21:1> Sprouts remobilize underground nutrient reserves and quickly
+
+re-establish the aboveground vegetation structure ( Boring <foreign> et al
+
+</foreign> ., 1981).
+<ICE-USA:W2A-026#22:1> Early successional trees such as <it> Prunus pensylvanica </it> (
+
+Marks and Bormann, 1972; Marks, 1974) in the Northeast and <it> Robinia
+
+pseudo-acacia </it> sprouts in the Southern Appalachians ( Boring and Swank,
+
+1984a), retain nutrients through rapid growth or add nitrogen to the system
+
+via nitrifying bacteria.
+<ICE-USA:W2A-026#23:1> Changes in soil nutrient levels in the first years after disturbance
+
+may influence the order of occurrence and amount of plant biomass in
+
+particular systems ( Rice <foreign> et al </foreign> ., 1960; Parrish and
+
+Bazzaz, 1982; Tilman, 1986).</p>
+
+<p> <ICE-USA:W2A-026#24:1> The co-occurrence of early ( herb-shrub) and late ( tree)
+
+successional species in pioneer stages of recovery in the Southern
+
+Appalachians affords an opportunity to evaluate possible competitive
+
+interactions between these contrasting vegetation types.
+<ICE-USA:W2A-026#25:1> The present study was initiated to determine the interactions between
+
+herb-shrub and tree species during early succession and to examine the
+
+effects of nutrient levels on these interactions.</p>
+<ICE-USA:W2A-026#26:1> <h> METHODS </h>
+
+<p> <ICE-USA:W2A-026#27:1> We conducted the study in a 20-ha forest opening in the southern
+
+Appalachian Mountains near Highlands, N.C.
+<ICE-USA:W2A-026#28:1> The site is at an elevation of 930-1100 m with a 30-40&percent; slope and a
+
+NW-facing aspect.
+<ICE-USA:W2A-026#29:1> The study site was logged from autumn 1983 through spring, 1984.
+<ICE-USA:W2A-026#30:1> Precut vegetation consisted mainly of mixed oaks ( <it> Quercus </it> )
+
+and tulip poplar ( <it> Liriodendron tulipifera </it> ) .
+<ICE-USA:W2A-026#31:1> Rainfall in the vicinity averages 181 cm/yr.
+<ICE-USA:W2A-026#32:1> There is a mean annual temperature of 13 C ( Day and Monk, 1974).</p>
+
+<p> <ICE-USA:W2A-026#33:1> The experimental design included fertilization and vegetation (
+
+woody or herb) removal treatments.
+<ICE-USA:W2A-026#34:1> Twelve 12 x 12 m plots were established randomly within the clear-cut
+
+in June 1984.
+<ICE-USA:W2A-026#35:1> All plot sites had equivalent amounts of logging slash present.
+<ICE-USA:W2A-026#36:1> Four plots each had either woody vegetation ( trees) or herb-shrub (
+
+hereafter called herb) vegetation removed monthly throughout the 1984 and
+
+1985 growing seasons; four plots were left as controls ( reference plots).
+<ICE-USA:W2A-026#37:1> Two of the four plots in each set, including reference plots, were
+
+fertilized.
+<ICE-USA:W2A-026#38:1> Fertilizer ( 13:13:13 NPK, slow N release) was applied by hand at an
+
+amount equivalent to 500 kg/ha during July 1984 and in early June and
+
+mid-August 1985.</p>
+
+<p> <ICE-USA:W2A-026#39:1> Tree biomass estimates were made by identifying, tagging and
+
+measuring the basal diameters of all stems on the eight plots with trees.
+<ICE-USA:W2A-026#40:1> Measurements were obtained after the completion of the 1984 ( 1st yr
+
+of succession) and 1985(2nd yr) growing seasons.
+<ICE-USA:W2A-026#41:1> The sprout measurements were converted into biomass ( leaf, wood and
+
+total) using regression equations derived from a similar clear-cut in the
+
+nearby Coweeta Hydrologic Laboratory, N.C. ( Boring and Swank, 1984a).
+<ICE-USA:W2A-026#42:1> Net primary productivity for all tree species was determined as the
+
+total ( leaf + wood) biomass at the end of the second growing season minus
+
+the wood biomass present from the previous year.
+<ICE-USA:W2A-026#43:1> Five major sprouting species, red oak ( <it> Quercus rubra </it> ) ,
+
+red maple ( <it> Acer rubrum </it> ) , black locust ( <it> Robinia
+
+pseudo-acacia </it> ) , dogwood ( <it> Cornus fiorica </it> ) and tulip
+
+poplar ( <it> Liriodendron tulipifera </it> ) , were chosen for detailed
+
+examination.</p>
+
+<p> <ICE-USA:W2A-026#44:1> Herbaceous biomass samples were harvested from the central 10 x
+
+10 m area of the eight herb plots to minimize edge effects.
+<ICE-USA:W2A-026#45:1> Six randomly selected 0.5 m2 samples were collected from each plot on
+
+23-24 September 1984, and on 7-9 July, 12-15 August and 12-16 September 1985.
+<ICE-USA:W2A-026#46:1> Samples were sorted to genus or species, oven-dried at 80 C until
+
+reaching constant weight ( 24 h) and weighed.
+<ICE-USA:W2A-026#47:1> Community net primary productivity was calculated by summing woody
+
+species NPP and the peak biomass of each herb taxon.</p>
+
+<p> <ICE-USA:W2A-026#48:1> Statistical analysis used one-way, nested ANOVA ( n = 48) in
+
+testing for treatment effects ( Kirchner, 1977).
+<ICE-USA:W2A-026#49:1> For the tree analysis, each plot was subdivided into six equal
+
+subplots.
+<ICE-USA:W2A-026#50:1> <it> Quercus </it> was analyzed using the whole plot as replicates
+
+because of nonhomogeneous variances.
+<ICE-USA:W2A-026#51:1> Herb analysis used the six harvest samples per plot.
+<ICE-USA:W2A-026#52:1> Analysis of variance was perfomed on total biomass and leaf biomass
+
+for the tree species, and on total herb biomass, blackberry, <it> Aster </it>
+
+, <it> Solidago </it> and the remaining biomass ( after blackberry, <it>
+
+Aster </it> and <it> Solidago </it> had been removed).</p>
+<ICE-USA:W2A-026#53:1> <h> RESULTS </h> Aboveground biomass growth was minimal (
+
+approximately 5 g m-2) during the 1st yr following disturbance ( Fig. 1).
+<ICE-USA:W2A-026#54:1> Tree biomass increased 15-40 fold ( 115-190 gm-2) by the end of the
+
+2nd growing season.
+<ICE-USA:W2A-026#55:1> Less than 1&percent; of the sterns were advance regeneration seedlings or
+
+saplings that survived the cut.
+<ICE-USA:W2A-026#56:1> Leaf biomass was similar in all treatments ( F = 1.12, P = 0.35,
+
+1984; F = 1.77, P = 0.17, 1985) and averaged 61&percent; of total tree biomass during
+
+1984, and 36&percent; in 1985 ( Fig. 1).
+<ICE-USA:W2A-026#57:1> However, tree biomass was somewhat higher in the herb-removal,
+
+fertilized plots ( HR + F) by the end of the 2nd yr.</p>
+
+<p> <ICE-USA:W2A-026#58:1> Treatment effects were present for several tree species in 1985 (
+
+Fig. 2). <it> Robinia </it> , the most important sprouter, had significantly
+
+greater aboveground biomass ( F = 3.15, P
+
+< 0.05) in herb removal (HR and HR + F) t han reference plots Nutrient
+
+enrichment without herb removal ( F) had a negative effect on <it> Robinia
+
+</it> biomass.
+<ICE-USA:W2A-026#59:1> In contrast, <it> Liriodendron </it> growth was significantly
+
+increased ( F = 3.94, P < 0.05, 1984; F = 3.44) P 
+
+< 0.05, l985~ in fertilized areas both ye ars, whereas <it> Acer </it> had
+
+somewhat greater growth ( total-F = 1.14, P > 0.2; leaves-F = 2,80, 0.05 < F 
+
+< 0.1) in plots receiving fertilizer plus herb-removal treatments.
+<ICE-USA:W2A-026#60:1> <it> Cornus </it> growth was slightly depressed in all treatment
+
+plots.
+<ICE-USA:W2A-026#61:1> <it> Quercus </it> biomass was similar on treatment and reference
+
+plots.</p>
+
+<p> <ICE-USA:W2A-026#62:1> Tree sprout densities were relatively stable by the end of the
+
+1st growing season ( Table 1).
+<ICE-USA:W2A-026#63:1> Total stem densities increased slightly from 1984 to 1985 on all but
+
+the fertilized ( F) areas.
+<ICE-USA:W2A-026#64:1> Stem densities of four of the five major species actually decreased
+
+during the 2nd yr in fertilized plots.
+<ICE-USA:W2A-026#65:1> <it> Robinia </it> and <it> Cornus </it> exhibited opposite responses
+
+in treated vs.
+<ICE-USA:W2A-026#66:1> reference plots; <it> Robinia </it> generally had greater biomass per
+
+stem, whereas <it> Cornus </it> had higher densities of smaller sprouts on
+
+treated than control areas ( Table 1, Fig. 2).
+<ICE-USA:W2A-026#67:1> No other treatment effects were evident.</p>
+
+<p> <ICE-USA:W2A-026#68:1> The herbaceous community was well-established during the 1st
+
+growing season ( Fig. 3). <it> Aster </it> and <it> Solidago </it> were both
+
+important species though no major treatment effects were evident.
+<ICE-USA:W2A-026#69:1> Total herbaceous biomass was significantly higher ( July: F = 4.94, P
+
+= 0.005; August: F = 6.03, P = 0.002; September: F = 4.46, P = 0.008) in
+
+fertilized than reference plots throughout the 2nd yr.
+<ICE-USA:W2A-026#70:1> Blackberry ( <it> Rubus </it> spp.) was responsible for most of this
+
+enrichment effect. <it> Rubus </it> comprised 40-55&percent; of the herbaceous
+
+biomass in fertilized plots, but was nearly absent in reference and woody
+
+removal ( WR) plots.
+<ICE-USA:W2A-026#71:1> Herbaceous biomass was also somewhat elevated in woody removal plots
+
+by the end of the 2nd growing season.
+<ICE-USA:W2A-026#72:1> <it> Aster </it> accounted for much of this increase, particularly in
+
+September ( F = 2.63, F = 0~06).
+<ICE-USA:W2A-026#73:1> <it> Solidago </it> biomass was occasionally higher in woody removal
+
+areas.
+<ICE-USA:W2A-026#74:1> The remaining herbs had significantly higher biomass in the woody
+
+removal + fertilization ( WR + F) than reference plots in August ( F = 6.93,
+
+P = 0.0006) and September ( F = 3.66, P = 0.02) 1985.</p>
+
+<p> <ICE-USA:W2A-026#75:1> The experimental treatments promoted distinct changes in
+
+community net primary productivity by the end of the 2nd growing season (
+
+Fig. 4).
+<ICE-USA:W2A-026#76:1> NPP of fertilized plots ( F) increased 49.5&percent; over that of reference
+
+plots as a result of greater herb production.
+<ICE-USA:W2A-026#77:1> Woody vegetation production increased slightly above reference plots
+
+in the absence of herbaceous vegetation, particularly following
+
+fertilization.
+<ICE-USA:W2A-026#78:1> Herbaceous vegetation showed a similar compensatory response in the
+
+absence of woody vegetation.
+<ICE-USA:W2A-026#79:1> Fertilization increased herbaceous production even further, although
+
+the fertilizer effect was similar in the presence or absence of woody
+
+vegetation ( F vs. WR + F).</p>
+<ICE-USA:W2A-026#80:1> <h> DISCUSSION </h>
+
+<p> <ICE-USA:W2A-026#81:1> Forest openings in the southern Appalachian Mountains usually
+
+have high levels of available nutrients due to rapid decomposition of the
+
+debris remaining after logging ( Boring <foreign> et al </foreign> ., 1981;
+
+Seastedt and Crossley, 1981).
+<ICE-USA:W2A-026#82:1> The extent of this nutrient release may have a significant impact on
+
+revegetation processes.
+<ICE-USA:W2A-026#83:1> In the present study, <it> Liriodendron </it> and <it> Acer </it>
+
+showed a positive response to the addition of fertilizer; the biomass or
+
+several other tree species was unaffected.
+<ICE-USA:W2A-026#84:1> Thus, there is evidence for differential nutrient limitation among
+
+tree species present in the 1st 2 yr following disturbance.
+<ICE-USA:W2A-026#85:1> Tilman ( 1985, 1986, 1988) has demonstrated how differential nutrient
+
+usage by plants can lead either to dominance by a single species or to many
+
+coexisting species in the community.
+<ICE-USA:W2A-026#86:1> Three of our species, <it> Quercus </it> , <it> Rotinia </it> and
+
+<it> Cornus </it> , showed equal or less growth in fertilized ( F) than
+
+reference ( C) areas.
+<ICE-USA:W2A-026#87:1> <it> Liriodendron </it> or <it> Acer </it> may outcompete these
+
+species in highly enriched areas.</p>
+
+<p> <ICE-USA:W2A-026#88:1> Stump sprouts comprise most of the aboveground biomass in the
+
+early years of succession in the southern Appalachian Mountains ( Boring
+
+<foreign> et al </foreign> ., 1981; Phillips and Shure, 1990).
+<ICE-USA:W2A-026#89:1> Tree biomass exceeded herb biomass by the end of the 2nd yr after
+
+disturbance- Most of the 15-40 fold increase in tree biomass was from
+
+existing sprouts and not new recruitment, since stem density did not change
+
+appreciably over this 2-yr period.
+<ICE-USA:W2A-026#90:1> Stem densities in our areas ( 12,256 to 19,513 ha-1) were much higher
+
+than in a 7-yr-old clear-cut ( 9654 ha-') and uncut forest ( 3042 ha-') in
+
+nearby areas in North Carolina ( Johnson and Swank, 1973).
+<ICE-USA:W2A-026#91:1> Pronounced competition apparently occurs among the tree species
+
+during the successional process.</p>
+
+<p> <ICE-USA:W2A-026#92:1> Competition also exists to some degree between the co-occurring
+
+herb and tree vegetation.
+<ICE-USA:W2A-026#93:1> Total tree biomass was only slightly elevated in the absence of
+
+herbs.
+<ICE-USA:W2A-026#94:1> <it> Robinia </it> , a nitrogen-fixing legume ( Boring and Swank,
+
+1984a, b), was the only tree species which increased in biomass following
+
+herb removal.
+<ICE-USA:W2A-026#95:1> In contrast, herb biomass and productivity increased in the 2nd
+
+growing season following woody sprout removal.
+<ICE-USA:W2A-026#96:1> <it> Aster </it> and <it> Solidago </it> were the principal
+
+beneficiaries.
+<ICE-USA:W2A-026#97:1> The remaining herb species did not change much in species composition
+
+or biomass.
+<ICE-USA:W2A-026#98:1> However, fireweed ( <it> Erecheites hieracifolium </it> ) and
+
+pokeweed ( <it> Phytolacca americana </it> ) biomass increased threefold in
+
+the woody removal + fertilization ( WR + F) treatment during the 2nd growing
+
+season.</p>
+
+<p> <ICE-USA:W2A-026#99:1> <it> Rubus </it> begins to develop in the 2nd yr of succession in
+
+the Southern Appalachians and comprises most of the herb biomass present by
+
+the 4th yr ( Boring and Swank, I 984a).
+<ICE-USA:W2A-026#100:1> <it> Rubus </it> showed the most vigorous response to fertilization,
+
+and was the dominant herb in the fertilized plots during the 2nd yr.
+<ICE-USA:W2A-026#101:1> Tamm ( 1974) reported a similar increase of <it> Rubus </it>
+
+following fertilization in spruce plantations in Sweden.
+<ICE-USA:W2A-026#102:1> Interestingly, <it> Rubus </it> production was much higher in the
+
+fertilized ( F) than tree removal + fertilized ( WR + F) treatment.
+<ICE-USA:W2A-026#103:1> The rapid growth of <it> Erechijees </it> and <it> Phytotacca </it>
+
+probably accounted for the reduction in Rubus growth in WR + F areas.
+<ICE-USA:W2A-026#104:1> <it> Erechtites </it> and <it> Phytolacca </it> together amounted to
+
+almost 30&percent; of the herb biomass in WR + F plots vs. 9&percent; in the F treatment.
+<ICE-USA:W2A-026#105:1> <it> Rubus </it> was not apparently inhibited by tree species in the
+
+early stages of succession.</p>
+
+<p> <ICE-USA:W2A-026#106:1> The enhanced growth of <it> Robinia </it> in the absence of
+
+herbs is believed due to release from <it> Rubus </it> competition.
+<ICE-USA:W2A-026#107:1> <it> Robinia </it> biomass was inversely related to <it> Rubus </it>
+
+biomass in plots where both species co-occurred.
+<ICE-USA:W2A-026#108:1> This suppression of <it> Robinia </it> during early succession
+
+probably ceases as <it> Rubus </it> dies back with the initial development of
+
+a tree canopy- Nonetheless, <it> Rubus </it> plays an important functional
+
+role during early succession in the Southern Appalachians by sequestering
+
+released nutrients and inhibiting the initial growth of <it> Robinia </it> .
+<ICE-USA:W2A-026#109:1> The timing and extent of <it> Rubus </it> development can have a
+
+marked influence on <it> Robinia </it> growth and thus N-fixation and
+
+nutrient accretion in these forests following disturbance ( Boring and Swank,
+
+1984a, b). </I>

@@ -1,0 +1,101 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2C-011</textcode>
+          <number of subtexts>3</number of subtexts>
+          <category>written: printed: reportage: press news</category>
+          <wordcount>2120</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ALL>
+          <source.type=newspaper>
+               <source.title>The Cincinnati Enquirer</source.title>
+          <publication statement>
+               <publisher>Copyright 1993 The Cincinnati Enquirer</publisher>
+               <address>312 Elm Street</address>
+               <place>Cincinnati, Ohio</place>
+               <date>09/06, 09, 10/1993</date>
+          </publication statement>
+          <copyright.statement>used with permission of The Cincinnati Enquirer 1993</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+</text.info>
+<subtext.internals=ICE-USA-W2C-11>
+          <subtext.name> </subtext.name>
+               <main.title>Artzt's pay down -- to $2.06 million: But after
+subtracting special '91 bonus, P&G chief's compensation climbed 11%</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-011>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Braykovich</surname>
+               <forenames>Mark</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+     </subtext.internals>
+<subtext.internals=ICE-USA-W2C-11>
+          <subtext.name></subtext.name>
+               <main.title>F&C to sell Canadian business </main.title>
+               <subtitle></subtitle>
+               <page.nos>Sec D, p. <#>5</page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-011>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Boyer</surname>
+               <forenames>Mike</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+     </subtext.internals>
+<subtext.internals=ICE-USA-W2C-011>
+          <subtext.name> </subtext.name>
+               <main.title> Alternative banking: Local bankers scramble to offer
+new services and offset growth in non-banking options </main.title>
+               <subtitle></subtitle>
+               <page.nos>Sec. D, p. <#>1</page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+</subtext.internals>
+<biography=ICE-USA-W2C-011>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>McKinney</surname>
+               <forenames>Jeff</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

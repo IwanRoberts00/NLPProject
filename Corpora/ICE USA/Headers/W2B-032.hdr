@@ -1,0 +1,49 @@
+<text.info>
+  <file.description>
+    <textcode>ICE-USA-W2B-032</textcode>
+    <number of subtexts>1</number of subtexts>
+    <category>written: printed: popular: technology</category>
+    <wordcount>2233</wordcount>
+    <version>coded, edited, and with essential tagging</version>
+    <free.comments></free.comments>
+  </file.description>
+  <subtext.source=ICE-USA-W2B-032>
+    <source.type=collection>
+      <source.title>Audio Magazine</source.title>
+      <series></series>
+      <editor>Eugene Pitts</editor>
+    <publication statement>
+      <publisher>Hachette Magazines, Inc.</publisher>
+      <address>1633 Broadway</address>
+      <place>New York, NY 10019</place>
+      <date>January 1994</date>
+    </publication statement>
+    <copyright.statement>used by permission of Hachette Magazines, Inc.</copyright.statement>
+    <free.comments></free.comments>
+    </source.type>
+  </subtext.source>
+  <subtext.internals=ICE-USA-W2B-032>
+    <subtext.name> </subtext.name>
+      <main.title>Rotel RHB-10 Amp and RHA-10 Preamp</main.title>
+      <subtitle></subtitle>
+      <page.nos>94-100</page.nos>
+    <free.comments></free.comments>
+  </subtext.internals>
+  <biography=ICE-USA-W2B-032>
+    <speaker.id></speaker.id>
+      <communicative.role>author</communicative.role>
+      <surname>Cordesman</surname>
+      <forenames>Anthony H.</forenames>
+      <age> </age>
+      <gender> </gender>
+      <nationality></nationality>
+      <birthplace></birthplace>
+      <education></education>
+      <educational.level></educational.level>
+      <occupation></occupation>
+      <affiliations></affiliations>
+      <mother.tongue></mother.tongue>
+      <other.languages></other.languages>
+      <free.comments></free.comments>
+  </biography>
+</text.info>

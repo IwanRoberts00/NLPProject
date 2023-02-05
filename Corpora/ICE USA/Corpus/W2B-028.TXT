@@ -1,0 +1,409 @@
+<I>
+
+<p> <ICE-USA:W2B-028#1:1> Wherein a neutron star invades, destroys, and rebuilds its
+
+neighbor in slavish orbit, betraying itself only by a wisp of lithium.</p> <p
+<ICE-USA:W2B-028#2:1> ASTRONOMERS AREN'T easily surprised by things astronomical.
+<ICE-USA:W2B-028#3:1> They take black holes, curved space, quasars, and many other wonders
+
+in stride.
+<ICE-USA:W2B-028#4:1> Yet Philip Charles of Oxford University had occasion to be nonplussed
+
+during a recent astronomy meeting.
+<ICE-USA:W2B-028#5:1> He had just finished giving a talk on a fairly unspectacular
+
+subject--the lithium content of certain X-ray-emitting star pairs--when he
+
+was buttonholed by Philipp Podsiadlowski of Cambridge University.
+<ICE-USA:W2B-028#6:1> Podsiadlowski pointed out that Charles may inadvertently have found
+
+the first evidence that a superdense neutron star can plunge to the core of a
+
+giant neighbor, disrupting that star 's nuclear furnace and causing its vast
+
+atmosphere to drift off into space, where the gas would clump together again
+
+into a new and smaller star in orbit around the neutron-star invader.
+<ICE-USA:W2B-028#7:1> The lithium, said Podsiadlowski, was the smoking gun.</p>
+
+<p> <ICE-USA:W2B-028#8:1> As it turns out, he wasn't just daydreaming, and the weird
+
+scenario he described wasn't entirely his invention.
+<ICE-USA:W2B-028#9:1> Some 20 years ago astrophysicists Kip Thorne of Caltech and Anna
+
+Zytkow of Cambridge proposed that a neutron star that started out in orbit
+
+around a red giant might eventually sink to the giant 's core.
+<ICE-USA:W2B-028#10:1> Although a neutron star is only ten miles or so across, its
+
+gravitational pull is so strong that it could draw matter away from its huge
+
+but more diffuse companion.
+<ICE-USA:W2B-028#11:1> In the process, it would slow down, like a ship dragging an anchor.
+<ICE-USA:W2B-028#12:1> Eventually the neutron star, in an ever-shrinking orbit, would plow
+
+into the outer layers of its neighbor.
+<ICE-USA:W2B-028#13:1> After a few thousand years it would spiral down into the star 's
+
+center, demolishing the existing stellar core but leaving the rest of the
+
+star essentially intact.
+<ICE-USA:W2B-028#14:1> A red giant that has been violated in this way has come to be called
+
+a Thorne-Zytkow object--even though no one has ever seen one.</p>
+
+<p> <ICE-USA:W2B-028#15:1> Charles wasn't looking for one, either.
+<ICE-USA:W2B-028#16:1> Indeed, he was studying objects that are in some sense the opposite
+
+of Thorne-Zytkows: X-ray binaries.
+<ICE-USA:W2B-028#17:1> Instead of a neutron star orbiting a red giant, an X-ray binary is
+
+believed to consist of a small ( sun-size) star orbiting either a neutron
+
+star or that other species of massive invisible body, a black hole.
+<ICE-USA:W2B-028#18:1> As the massive object pulls material off its small companion, the
+
+material gets so hot that it emits bursts of X-rays.
+<ICE-USA:W2B-028#19:1> " I was studying these systems because they contain our best
+
+black-hole candidates," says Charles.</p>
+
+<p> <ICE-USA:W2B-028#20:1> While looking at the spectra of several X-ray binaries, Charles
+
+found that they all contained unusually high amounts of the element lithium.
+<ICE-USA:W2B-028#21:1> This was unexpected: lithium is usually destroyed in nuclear
+
+reactions deep within a star, and so the characteristic wavelength of light
+
+it emits doesn't show up in the star 's spectrum.
+<ICE-USA:W2B-028#22:1> " We would have expected to find none," says Charles.</p>
+
+<p> <ICE-USA:W2B-028#23:1> But the presence of lithium made immediate sense to
+
+Podsiadlowski, a theoretician who has thought a lot about Thorne-Zytkow
+
+objects.
+<ICE-USA:W2B-028#24:1> He thinks what Charles has been studying are not the T-Z objects
+
+themselves but star systems that are descended from them.
+<ICE-USA:W2B-028#25:1> In fact, he thinks all X-ray binaries may arise in that way.</p>
+
+<p> <ICE-USA:W2B-028#26:1> Once a neutron star sinks to the center of a red giant to form a
+
+Thorne-Zytkow object, says Podsiadlowski, the physics of the star changes
+
+dramatically.
+<ICE-USA:W2B-028#27:1> Most stars have a large, hot core where energy-producing fusion
+
+reactions occur.
+<ICE-USA:W2B-028#28:1> Above this burning zone is a convective layer where hot gases rise,
+
+cool, and then sink back toward the core.
+<ICE-USA:W2B-028#29:1> A Thorne-Zytkow object, however, has at its center a ten-mile-wide
+
+neutron star rather than a core thousands of miles across.
+<ICE-USA:W2B-028#30:1> Nuclear fusion still occurs in the hybrid--matter falling into the
+
+neutron star gets compressed and heated enough--but only in a thin shell
+
+around the neutron star, at the bottom of the convective layer.</p>
+
+<p> <ICE-USA:W2B-028#31:1> According to Podsiadlowski, the different locus of burning in a
+
+Thorne-Zytkow object explains why Charles saw his lithium.
+<ICE-USA:W2B-028#32:1> Although lithium is a normal by-product of fusion reactions in stars,
+
+in most stars high-speed protons in the core slam into the lithium atoms and
+
+transform them into beryllium ( which later breaks down into helium).
+<ICE-USA:W2B-028#33:1> But in a Thorne-Zytkow object, Podsiadlowski says, fusion actually
+
+takes place in the bottom layer of the convective zone, which allows some
+
+lithium to escape before it can be converted into beryllium.
+<ICE-USA:W2B-028#34:1> Rising gases carry it to the outer layers of the star, where it
+
+becomes visible.</p>
+
+<p> <ICE-USA:W2B-028#35:1> Eventually the feeble fusion reactor inside a Thorne-Zytkow
+
+object fails altogether, and the hybrid can no longer withstand its own
+
+gravity.
+<ICE-USA:W2B-028#36:1> The outer envelope of the star collapses like a pricked balloon, and
+
+part of it forms a lithium-enriched disk around the neutron star.
+<ICE-USA:W2B-028#37:1> Some of the matter in the disk, says Podsiadlowski, might coalesce
+
+into a second-generation star in orbit around the neutron star, much the way
+
+planets coalesced around our sun.
+<ICE-USA:W2B-028#38:1> The born-again star might then begin losing matter to its dense
+
+neighbor again--resulting in just the sort of X-ray-emitting, lithium-rich
+
+binary that Charles observed.</p>
+
+<p> <ICE-USA:W2B-028#39:1> One great virtue of Podsiadlowski 's theory, convoluted and
+
+outlandish as it sounds, is that it offers an explanation of where X-ray
+
+binaries come from.
+<ICE-USA:W2B-028#40:1> Astronomers have had a hard time explaining how the small companion
+
+in an X-ray binary could have survived while its larger neighbor exploded as
+
+a supernova, which is the only way to make a neutron star.
+<ICE-USA:W2B-028#41:1> ( A neutron star is the dense remnant of the exploded star 's core.)
+<ICE-USA:W2B-028#42:1> In Podsiadlowski 's scenario, the companion starts out as a red giant
+
+so large it can withstand a nearby supernova explosion.
+<ICE-USA:W2B-028#43:1> Only when it is later invaded by the neutron star does the giant die,
+
+to be reborn later in smaller form.</p>
+
+<p> <ICE-USA:W2B-028#44:1> Charles himself does not buy Podsiadlowski 's theory.
+<ICE-USA:W2B-028#45:1> He has a less colorful explanation for the excess lithium: some of
+
+the X-rays emitted by matter falling onto the neutron star, he says, strike
+
+incoming carbon and nitrogen atoms, splitting them into lighter elements,
+
+including lithium.
+<ICE-USA:W2B-028#46:1> But Charles admits that this explanation " ignores the question of
+
+how the damned things"--the X-ray binaries, that is--"formed in the first
+
+place.</p>
+
+<p> <ICE-USA:W2B-028#47:1> Thorne-Zytkow objects should forge a variety of strange elements
+
+besides lithium, and if Podsiadlowski is right, astronomers might be able to
+
+detect those other elements in X-ray binaries too.
+<ICE-USA:W2B-028#48:1> Until then Podsiadlowski may have trouble making a lot of converts to
+
+his theory.
+<ICE-USA:W2B-028#49:1> " It 's certainly speculative, and many astronomers may find it too
+
+speculative or exotic," he says.
+<ICE-USA:W2B-028#50:1> " However, what you see is often more exotic than anything you've
+
+ev 'vethought about."</p>
+<ICE-USA:W2B-028#51:1> <h> Buffaloed<ICE-USA:W2B-028#><h>
+<ICE-USA:W2B-028#52:1> <h>
+<ICE-USA:W2B-028#53:1> As federal and Montana state officials wrangle, the Park Service
+
+becomes an unwilling accomplice in the slaughter of Yellowstone 's bison.
+<ICE-USA:W2B-028#54:1> </h>
+<ICE-USA:W2B-028#55:1> <h> By Marvin Jensen </h>
+
+<p> <ICE-USA:W2B-028#56:1> While Old Faithful may be the icon of Yellowstone National Park
+
+and first on visitors' must-see list, wildlife--grizzly bears, elk, wolves,
+
+and bison--is a close second.
+<ICE-USA:W2B-028#57:1> Bison--cows grazing with their cinnamon colored calves on cool, green
+
+meadows, bulls bellowing during the fall rut in Hayden Valley or warming
+
+themselves on thermal-spring mounds in winter-- stir the soul.</p>
+
+<p> <ICE-USA:W2B-028#58:1> Not surprisingly, then, the shooting and slaughter of more than
+
+1,000 of these majestic animals last winter made national news.
+<ICE-USA:W2B-028#59:1> Media accounts, which blamed insufficient winter habitat, a disease
+
+called brucellosis, and competing human interests, did little to improve
+
+public understanding of the situation.</p>
+
+<p> <ICE-USA:W2B-028#60:1> Within any given year, bison populations, just like any wildlife
+
+population, increase each spring when young are born and decrease throughout
+
+the summer, fall, and winter, as a result of natural mortality.
+<ICE-USA:W2B-028#61:1> The bisons' numbers naturally fluctuate from one year to the next as
+
+well, regulated by weather, forage, and predation.</p>
+
+<p> <ICE-USA:W2B-028#62:1> Over the years, the Park Service 's policies have swung from
+
+intense population management to nearly none at all.
+<ICE-USA:W2B-028#63:1> Today, the policy has evolved toward " natural regulation"--allowing
+
+ecosystems to operate with as little human influence as possible.
+<ICE-USA:W2B-028#64:1> This philosophy recognizes that while Yellowstone ( and other parks)
+
+is not pristine, the ecosystem is as complete as is possible in today 's
+
+world.</p>
+
+<p> <ICE-USA:W2B-028#65:1> Unfortunately, even at 2.2 million acres of land, Yellowstone
+
+affords limited winter habitat for its wildlife.
+<ICE-USA:W2B-028#66:1> Bison and other large mammals, therefore, migrate outside the park
+
+onto adjoining Forest Service and private ranch lands, staying sometimes into
+
+the spring to calve.</p>
+
+<p> <ICE-USA:W2B-028#67:1> Last winter proved especially harsh in Yellowstone.
+<ICE-USA:W2B-028#68:1> Heavier-than-normal snowfall before Christmas was followed by several
+
+days of rain around New Year.
+<ICE-USA:W2B-028#69:1> The rain saturated the snow, and the subsequent normal subzero
+
+temperatures created a layer of ice as much as a foot-and-a-half thick over
+
+most of the park.
+<ICE-USA:W2B-028#70:1> Bison and other grazing animals could not penetrate the ice in their
+
+quest for forage.</p>
+
+<p> <ICE-USA:W2B-028#71:1> Exiting the park in unprecedented numbers to seek accessible
+
+winter forage, the bison fell prey to the grisly provisions of an Interim
+
+Management Plan, designed to protect cattle from the threat of
+
+brucellosis.</p>
+
+<p> <ICE-USA:W2B-028#72:1> Brucellosis is a disease affecting bison, elk, and cattle.
+<ICE-USA:W2B-028#73:1> It was first discovered in Yellowstone National Park in 1917; about
+
+40 percent of the park 's bison now test positive to exposure to the brucella
+
+organism, as does a lower percentage of elk.
+<ICE-USA:W2B-028#74:1> In cattle, the disease causes cows to abort their first calf, and
+
+ranchers, the Montana Department of Livestock ( DOL), and hence, the governor
+
+of Montana, are concerned that bison may transmit it to domestic
+
+livestock.</p>
+
+<p> <ICE-USA:W2B-028#75:1> While it has been documented in experimental confinement, such
+
+transmission has never been demonstrated in the wild.
+<ICE-USA:W2B-028#76:1> In the Jackson Hole, Wyoming area, cattle intermingle on summer
+
+ranges and national forest lands with elk, up to 70 percent of which carry
+
+the organism.
+<ICE-USA:W2B-028#77:1> Ranchers there have vaccinated their livestock against brucellosis
+
+for several decades, but the vaccines are just 65 percent effective.
+<ICE-USA:W2B-028#78:1> Nonetheless, there have been no reports of brucellosis being
+
+transmitted from elk to cattle.</p>
+
+<p> <ICE-USA:W2B-028#79:1> However, a small herd of bison in the area that had tested
+
+negative in two different years in the mid-1980s recently tested positive for
+
+brucellosis.
+<ICE-USA:W2B-028#80:1> The only reasonable explanation is that the disease was transmitted
+
+to bison from the infected elk.</p>
+
+<p> <ICE-USA:W2B-028#81:1> Given the uncertainty surrounding transmissibility, ranchers near
+
+Yellowstone 's northern and western borders do not want to risk infection.
+<ICE-USA:W2B-028#82:1> In response to their concerns, the Park Service for several years has
+
+been working toward a solution, through negotiations with the state of
+
+Montana.
+<ICE-USA:W2B-028#83:1> An environmental impact statement ( EIS) and a long-term plan have
+
+been in the works by the Park Service, the U.S.
+<ICE-USA:W2B-028#84:1> Forest Service, and the Montana departments of Livestock and Fish,
+
+Wildlife and Parks for a longtime- probably far too long.</p>
+
+<p> <ICE-USA:W2B-028#85:1> In 1995, while the review of the draft EIS was out for public
+
+comment, the state of Montana filed suit against the National Park Service
+
+and the USDA Animal and Plant Health Inspection Service ( APHIS).
+<ICE-USA:W2B-028#86:1> APHIS had threatened to revoke Montana 's brucellosis-free status
+
+while bison from a herd exposed to brucellosis were allowed to cross park
+
+boundaries into Montana.</p>
+
+<p> <ICE-USA:W2B-028#87:1> A court-approved settlement called for an interim plan and a
+
+long-term plan.
+<ICE-USA:W2B-028#88:1> The interim plan, now in effect, mandates: the sanction of bison on
+
+federal land where there is no livestock; bison that have left the park at
+
+West Yellowstone are to be captured and tested, with those testing positive
+
+for brucella antibodies sent to slaughter and negative-testing, non-pregnant
+
+bison released onto public land; and the Park Service capture of and delivery
+
+to the DOL for slaughter any bison near the park 's north entrance that cannot
+
+be prevented from straying onto adjoining private lands.</p>
+
+<p> <ICE-USA:W2B-028#89:1> Under the provisions of the interim plan, this winter and spring
+
+near the north entrance to the park, 464 bison were captured and sent to
+
+slaughter, 261 were shot by the Montana DOL, and 107 that tested negative
+
+were corralled by NPS and recently released back into the park.
+<ICE-USA:W2B-028#90:1> Near West Yellowstone, 48 bison were captured and sent to slaughter,
+
+while another 310 were shot by Montana DOL.</p>
+
+<p> <ICE-USA:W2B-028#91:1> The settlement, in essence, has made an unwilling partner of the
+
+National Park Service in a management program that runs counter to its
+
+mission, beliefs, and policies.
+<ICE-USA:W2B-028#92:1> The basis for the management program lacks scientific support, yet it
+
+appears to be the only course for working toward the Yellowstone bison 's
+
+long-term protection.</p>
+
+<p> <ICE-USA:W2B-028#93:1> Meanwhile, that long-term planning process and the EIS ( which
+
+will evaluate a range of alternatives) have been restarted, and according to
+
+the settlement agreement, the draft EIS is to be available for public review
+
+and comment by the end of July.</p>
+
+<p> <ICE-USA:W2B-028#94:1> The National Park Service believes that solutions exist.
+<ICE-USA:W2B-028#95:1> Some aspects of the problem can be resolved quickly, and some will
+
+take a number of years.</p>
+
+<p> <ICE-USA:W2B-028#96:1> For starters, given that the real risk of brucellosis
+
+transmission from bison to cattle is relatively low, there should be an
+
+increased level of tolerance for bison migrating to winter habitat on public
+
+lands outside the park.</p>
+
+<p> <ICE-USA:W2B-028#97:1> Because the Park Service does not want to increase any real risk
+
+of bison-to-cattle brucellosis transmission, it supports the establishment of
+
+a hunt for a portion of the bison that migrate outside of the park.
+<ICE-USA:W2B-028#98:1> Montana already has such hunts for elk, deer, antelope, moose,
+
+bighorn sheep, and other species.
+<ICE-USA:W2B-028#99:1> Wyoming 's bison program, instituted in 1996, is a successful model.
+<ICE-USA:W2B-028#100:1> The solution must also address elk that carry the disease and would
+
+most likely re-infect bison even if the disease were eliminated from their
+
+numbers. </p> </I>

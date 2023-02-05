@@ -1,0 +1,104 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2B-033</textcode>
+          <number of subtexts>2</number of subtexts>
+          <category>written: printed: popular: technology </category>
+          <wordcount>2390</wordcount>
+          <version>coded, edited,  with essential markup</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ICE-USA-W2B-033>
+          <source.type=collection>
+               <source.title>Parks and Recreation</source.title>
+               <series></series>
+               <editor> </editor>
+          <publication statement>
+               <publisher> </publisher>
+               <address> </address>
+               <place> </place>
+               <date>1992</date>
+          </publication statement>
+          <copyright.statement>Permission obtained.</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA-W2B-033>
+          <subtext.name> </subtext.name>
+               <main.title> Bridging the Computer Gap </main.title>
+               <subtitle></subtitle>
+               <page.nos> 56-58</page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+     <biography=ICE-USA-W2B-033>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Drenning </surname>
+               <forenames>Susan  </forenames>
+               <age> </age>
+               <gender>female </gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+<speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname> Getz</surname>
+               <forenames> Lou </forenames>
+               <age> </age>
+               <gender>male </gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>
+<subtext.source=ICE-USA-W2B-033>
+          <source.type=collection>
+               <source.title>Macworld</source.title>
+               <series></series>
+               <editor> </editor>
+          <publication statement>
+               <publisher>Macworld Communications </publisher>
+               <address>501 Second Street, San Francisco, CA 94107 </address>
+               <place>San Francisco, CA </place>
+               <date>1992</date>
+          </publication statement>
+          <copyright.statement>Article reprinted courtesy of Macworld Communications, 501 Second St., San Francisco, CA 94107</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA-W2B-033>
+          <subtext.name> </subtext.name>
+               <main.title> Saints and Sinner Revisited</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+     <biography=ICE-USA-W2B-033>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Branscom</surname>
+               <forenames>Deborah </forenames>
+               <age> </age>
+               <gender>female </gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+<speaker.id></speaker.id>
+</text.info>

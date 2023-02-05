@@ -1,0 +1,44 @@
+<text.info>     <file.description>          
+<textcode>ICE-USA-W2A-007</textcode> 
+         <number of 
+subtexts>1</number of subtexts>          
+<category>written:printed:academic:humanities</category>          
+<wordcount>2472</wordcount>       
+   <version>coded, edited but with Essential Markup</version>          
+<free.comments></free.comments>    
+ </file.description>     
+<subtext.source=ICE-USA-W2A-007>     
+     <source.type=collection>   
+            <source.title>Historical Journal Of Massachusetts</source.title>               <series></series>   
+            <editor> </editor>          <publication statement>               <publisher>Historical Journal Of Massachusetts</publisher>
+               <address>Westfield State College</address>  
+             <place>Westfield, MA 01086</place> 
+              <date>1994</date>          
+</publication statement>
+          <copyright.statement>used by permission of Historical Journal Of Massachusetts</copyright.statement>    
+      <free.comments></free.comments>  
+        </source.type>  
+   </subtext.source>     <subtext.internals=ICE-USA-W2A-007>         
+ <subtext.name> </subtext.name>               
+<main.title>Paradox of Opportunities: Lucy Stone, Alice Stone Blackwell, 
+and the Tragedy of Reform</main.title>               
+<subtitle></subtitle>               
+<page.nos>17-25</page.nos>          
+<free.comments></free.comments>     
+</subtext.internals>     
+<biography=ICE-USA-W2A-007>          <speaker.id></speaker.id> 
+              <communicative.role>author</communicative.role>        
+       <surname>Bogle</surname>               
+<forenames>Lori</forenames>            
+   <age> </age>   
+            <gender>Female</gender>               
+<nationality></nationality>               
+<birthplace></birthplace>               
+<education></education>               
+<educational.level></educational.level>               
+<occupation></occupation>               
+<affiliations></affiliations>               
+<mother.tongue></mother.tongue>               
+<other.languages></other.languages>               
+<free.comments></free.comments>     </biography>
+</text.info>

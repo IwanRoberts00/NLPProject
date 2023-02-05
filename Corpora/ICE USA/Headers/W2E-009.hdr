@@ -1,0 +1,82 @@
+<text.info>
+<file.description>
+    <textcode>ICE-USA-W2E-009</textcode>
+    <number.of.subtexts>1</number.of.subtexts>
+    <category>Press Editorial</category>
+    <wordcount>2072</wordcount>
+    <version>coded, edited but untagged</version>
+    <free.comments></free.comments>
+</file.description>
+<subtext.source= ICE-USA-W2E-009>
+    <source.type=editorial>
+        <format>printed</format>
+        <date>October 27, 1995, October 11, 1995, October 9, 1995, August 25, 1995 </date>
+    <copyright.statement>Reprinted with permission from the Sun-Sentinel and its representative, Editor and Vice President Earl Maucker</copyright.statement>
+    <free.comments> 
+</free.comments>
+    </source.type>
+</subtext.source>
+
+  <subtext.internals=ICE-USA-W2E-009>
+          <subtext.name> </subtext.name>
+               <main.title>AS FOR FLIP-FLOPPING, COLIN POWELL IS AS ADEPT AS
+ANYBODY</main.title>
+               <subtitle></subtitle>
+               <page.nos> 15A</page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+  <subtext.internals=ICE-USA-W2E-009>
+          <subtext.name> </subtext.name>
+               <main.title>SEARCH FOR TRUTH, EXTRA VIGILANCE ARE PROPER
+RESPONSE TO DERAILMENT</main.title>
+               <subtitle></subtitle>
+               <page.nos> 16A</page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+  <subtext.internals=ICE-USA-W2E-009>
+          <subtext.name> </subtext.name>
+               <main.title>  <subtext.internals=ICE-USA-W2E-009>
+          <subtext.name> </subtext.name>
+               <main.title>SEARCH FOR TRUTH, EXTRA VIGILANCE ARE PROPER
+RESPONSE TO DERAILMENT</main.title>
+               <subtitle></subtitle>
+               <page.nos> 16A</page.nos>
+          <free.comments></free.comments>
+     </subtext.internals></main.title>
+               <subtitle></subtitle>
+               <page.nos> 12A</page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+  <subtext.internals=ICE-USA-W2E-009>
+          <subtext.name> </subtext.name>
+               <main.title>  <subtext.internals=ICE-USA-W2E-009>
+          <subtext.name> </subtext.name>
+               <main.title>DURENBERGER, REYNOLDS FIND OUT HARD WAY THEY
+AREN'T ABOVE THE LAW</main.title>
+               <subtitle></subtitle>
+               <page.nos> 2A</page.nos>
+          <free.comments></free.comments>
+     </subtext.internals></main.title>
+               <subtitle></subtitle>
+               <page.nos> 12A</page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+<biography= ICE-USA-W2E-010>
+    <speaker.id></speaker.id>
+    <communicative.role> </communicative.role>
+        <surname></surname>
+        <forenames></forenames>
+        <age></age>
+        <gender>female</gender>
+        <nationality></nationality>
+        <ethnicity></ethnicity>
+        <birthplace> </birthplace>
+        <education></education>
+        <education.level> </education.level>
+        <occupation></occupation>
+        <affiliations></affiliations>
+        <mother.tongue></mother.tongue>
+        <other.languages></other.languages>
+    <free.comments> </free.comments>
+</biography>
+</text.info> 

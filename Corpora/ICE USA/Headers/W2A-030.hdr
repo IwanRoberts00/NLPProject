@@ -1,0 +1,54 @@
+<text.info>
+   <file.description>
+     <textcode>ICE-USA-W2A-030</textcode>
+       <number of subtexts>1</number of subtexts>
+          <category>written:printed:academic:natural sciences</category>
+          <wordcount>2200</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ICE-USA-W2A-030>
+          <source.type=collection>
+               <source.title> </source.title>
+               <series></series>
+
+               <editor> </editor>
+          <publication statement>
+               <publisher> </publisher>
+               <address> </address>
+               <place> </place>
+               <date> </date>
+          </publication statement>
+          <copyright.statement>used by permission of Paul 
+Pietsch</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+     <subtext.internals=ICE-USA-W2A-030>
+          <subtext.name> </subtext.name>
+               <main.title> Independence of Myogenesis from Chondrogenesis: 
+retinoic acid induces extensive changes in skeletal development without 
+conrurrently affecting the morphogenesis of the musculature in the regenerating 
+limbs of Ambystoma larva1.</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+     </subtext.internals>
+     <biography=ICE-USA-W2A-030>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Pietsch</surname>
+               <forenames>Paul</forenames>
+               <age>68</age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level>Doctorate</educational.level>
+               <occupation>Anatomist</occupation>
+               <affiliations>Indiana University</affiliations>
+               <mother.tongue>English</mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>

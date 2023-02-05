@@ -1,0 +1,372 @@
+<I>
+
+<p> <ICE-USA:W2A-023#1:1> Infectious diseases stimulated the early development of
+
+epidemiology.
+<ICE-USA:W2A-023#2:1> Early epidemiologic investigations of infectious diseases focused on
+
+environmental contamination rather than person-to-person transmission.
+<ICE-USA:W2A-023#3:1> More recently, however, chronic diseases have provided greater impetus
+
+for the development of new quantitative methodology in epidemiology.
+<ICE-USA:W2A-023#4:1> Now, with the emergence of human immunodeficiency virus infection,
+
+epidemiology is refocusing its efforts on infectious diseases.</p>
+
+<p> <ICE-USA:W2A-023#5:1> The risk assessment tools being applied to the acquired
+
+immunodeficiency syndrome ( AIDS) epidemic are those that were developed for
+
+chronic diseases.
+<ICE-USA:W2A-023#6:1> However, the usual formulation of risk assessment parameters, such as
+
+odds ratios, rate ratios, relative risks, and risk differences, which are so
+
+useful in chronic disease epidemiology, do not provide stable assessments of
+
+risk for factors that affect contagion.
+<ICE-USA:W2A-023#7:1> Because with contagious diseases the outcome in one study subject is
+
+related to changes in risk for other study subjects, risk assessment at the
+
+population level does not correspond to a summation of risks at the
+
+individual level as it does with chronic diseases.
+<ICE-USA:W2A-023#8:1> To relate risk assessments at the individual and population levels,
+
+knowledge of contact patterns is essential.
+<ICE-USA:W2A-023#9:1> The purposes of this paper are 1) to demonstrate the lack of stability
+
+of chronic disease risk measures with contagious diseases, 2) to demonstrate
+
+how risk assessment for contagious diseases depends upon assessment of
+
+contact patterns even when contact patterns do not cause appreciable
+
+differences in the overall epidemic pattern, and 3) to present a new
+
+formulation for the action of one important determinant of contact patterns
+
+in sexually transmitted diseases, namely biased selection of partners from
+
+the potential partners encountered.
+<ICE-USA:W2A-023#10:1> This new formulation supersedes our previous selective mixing
+
+formulation ( 1).</p>
+<ICE-USA:W2A-023#11:1> <h> RISK FACTORS FOR HUMAN IMMUNODEFICIENCY VIRUS TRANSMISSION </h>
+
+<p> <ICE-USA:W2A-023#12:1> Consider the following variables which might be collected in
+
+either prospective or cross-sectional studies of human immuno-deficiency
+
+virus infection in gay males: 1) usual number of episodes of sex acts of type
+
+S, in 1 week; 2) usual number of episodes of another type of sex act, which
+
+we will call S2, in I week; 3) usual proportion of all partners met at site
+
+A,; and 4) usual proportion of all partners met at site A2.
+<ICE-USA:W2A-023#13:1> All of these variables might be correlated.
+<ICE-USA:W2A-023#14:1> Thus, if the major focus of interest is the risk of the type of sex
+
+act S, its effects would probably be assessed using a multiple variable
+
+analysis.
+<ICE-USA:W2A-023#15:1> Given the dichotomous outcome of infection, the most likely choice
+
+for such an analysis would be a logistic regression analysis.
+<ICE-USA:W2A-023#16:1> The logistic regression parameters could be translated into odds
+
+ratios.
+<ICE-USA:W2A-023#17:1> From a cross-sectional study, these would be the prevalence odds
+
+ratios; from a prospective study, the incidence odds ratios would be
+
+estimated.
+<ICE-USA:W2A-023#18:1> In their interpretation of the relevance of these estimated odds
+
+ratios for risk assessment, epidemiologists would most likely use these
+
+parameters directly as approximations to risk ratios or rate ratios.
+<ICE-USA:W2A-023#19:1> Alternatively, with prospective data, they might attempt to assess
+
+rate ratios or rate differences more directly with a survival analysis.
+<ICE-USA:W2A-023#20:1> During the course of an epidemic, as the overall incidence rises, the
+
+absolute risk or rate of infection rises.
+<ICE-USA:W2A-023#21:1> As a consequence, epidemiologists would expect risk or rate
+
+difference measures to vary.
+<ICE-USA:W2A-023#22:1> However, they are likely to presume that ratio measures will remain
+
+more constant.</p>
+
+<p> <ICE-USA:W2A-023#23:1> There may be two problems with such risk assessment procedures.
+<ICE-USA:W2A-023#24:1> First, inconsistencies of the causal factors generating the data with
+
+the assumptions of the analytic model may mean that the " control" procedures
+
+distort relations instead of eliminating the effects of confounding.
+<ICE-USA:W2A-023#25:1> Second, even if ratio parameters of odds, risks, or rates are
+
+estimated validly, those measures might not remain constant over the course
+
+of the epidemic.
+<ICE-USA:W2A-023#26:1> Large odds ratios might be expected to shrink and small ones might be
+
+expected low grow.
+<ICE-USA:W2A-023#27:1> Thus, the odds ratios, even from prospective studies, would not form
+
+a good basis on which to predict future risk patterns.
+<ICE-USA:W2A-023#28:1> This paper seeks to illustrate the second problem of parameter
+
+instability without directly addressing the first problem of parameter
+
+estimation validity.</p>
+
+<p> <ICE-USA:W2A-023#29:1> Any risk measures that rose or fell dramatically over time would
+
+not be useful for assessing current or future risk.
+<ICE-USA:W2A-023#30:1> They would be even less useful if they rose or fell even though the
+
+basic causal factors remained constant.
+<ICE-USA:W2A-023#31:1> One way to assess the expected behavior of an epidemiologic parameter
+
+is to evaluate it in an idealized simulation of the underlying causal
+
+system.</p>
+<ICE-USA:W2A-023#32:1> <h> COMPUTER POPULATION AND CAUSAL SYSTEM CHARACTERISTICS </h>
+
+<p> <ICE-USA:W2A-023#33:1> We create here an idealized computer population and causal system
+
+for human immunodeficiency virus transmission.
+<ICE-USA:W2A-023#34:1> The point of this model is to abstract the essential phenomenon of
+
+person-to-person transmission in sexual relationships.
+<ICE-USA:W2A-023#35:1> To avoid confusion and unnecessary complications, we will make
+
+several simplifying assumptions.
+<ICE-USA:W2A-023#36:1> For example, we will assume that insertive and receptive sex acts
+
+have the same probabilities of transmission and therefore do not need to be
+
+distinguished in our model.
+<ICE-USA:W2A-023#37:1> Such equal transmission probabilities probably do not pertain to any
+
+type of sex act, and therefore we will stick with symbolic names for our sex
+
+acts.
+<ICE-USA:W2A-023#38:1> Our model will have the following characteristics:</p>
+
+<p> <ICE-USA:W2A-023#39:1> 1 ) There are only two types of sex acts.
+<ICE-USA:W2A-023#40:1> S, which is a relatively low-risk type of sex act, and S2, which
+
+carries four times the risk of transmission per act as S.
+<ICE-USA:W2A-023#41:1> We might think of S, as corresponding to oral sex and S2, as
+
+corresponding to anal sex. or S, as corresponding to sex with a condom and S2
+
+as corresponding to sex without a condom.</p>
+
+<p> <ICE-USA:W2A-023#42:1> 2) There are only two types of individuals: homosexual males who
+
+engage in only S, and homosexual males who engage equally in S, and S2.
+<ICE-USA:W2A-023#43:1> We will consider the first group, lacking the risk factor, unexposed
+
+and the second group, having the risk factor, exposed.</p>
+
+<p> <ICE-USA:W2A-023#44:1> 3) Two hundred unexposed persons and 100 exposed persons enter
+
+this population each month.
+<ICE-USA:W2A-023#45:1> No infected individuals enter this population.</p>
+
+<p> <ICE-USA:W2A-023#46:1> 4) People leave the population for reasons not connected with
+
+human immuno- deficiency virus infection at a rate of one per 600 per month,
+
+independent of when they entered the population.</p>
+
+<p> <ICE-USA:W2A-023#47:1> 5) Before human immunodeficiency virus arrives, our hypothetic
+
+population is at equilibrium with a steady 120,000 X1 individuals and 60,000
+
+X2 individuals.</p>
+
+<p> <ICE-USA:W2A-023#48:1> 6) Once human immunodeficiency virus arrives in this population,
+
+the only source of infection is through sexual transmission.</p>
+
+<p> <ICE-USA:W2A-023#49:1> 7) All individuals in the population have 20 sexual encounters
+
+per month, and each encounter is with a different person.</p>
+
+<p> <ICE-USA:W2A-023#50:1> 8) Only one type of sex act, either S, or S2, is engaged in at
+
+each encounter, so both partners have to do the same thing.</p>
+
+<p> <ICE-USA:W2A-023#51:1> 9) There are only two social settings ( or sexual partner
+
+marketplaces) where partners can be met: A, and A2.</p>
+
+<p> <ICE-USA:W2A-023#52:1> 10) Within each social setting, mixing is either random or
+
+determined by a selective mixing formulation to be presented below .</p>
+
+<p> <ICE-USA:W2A-023#53:1> 11) One out of 800 sex acts of type S, between an infected person
+
+and an uninfected person results in transmission, and one out of 200 sex acts
+
+of type S2 results in transmission.
+<ICE-USA:W2A-023#54:1> Since only half of the acts in the exposed group are at the higher
+
+rate, this fourfold difference in transmission probabilities would translate
+
+to a 2.5 rate ratio if the partners of the exposed group and the unexposed
+
+group had equal probabilities of being infected.</p>
+
+<p> <ICE-USA:W2A-023#55:1> 12) One out of every 120 infected persons develops AIDS every
+
+month, independent of the time that he became infected.
+<ICE-USA:W2A-023#56:1> This corresponds to a mean incubation period of 10 years.</p>
+
+<p> <ICE-USA:W2A-023#57:1> 13) Persons with AIDS stop having sex.</p>
+<ICE-USA:W2A-023#58:1> <h> A COMPUTER MODEL OF TRANSMISSION </h>
+
+<p> <ICE-USA:W2A-023#59:1> Using the formulation for structured mixing ( 2) and the
+
+symbolization shown in table 1, the differential equations describing
+
+transmission in our hypothetic population would be</p>
+
+<p> <ICE-USA:W2A-023#60:1> - formula here-
+
+<p> <ICE-USA:W2A-023#61:1> The three terms in the first equation are the inflow of new
+
+people into group I, the outflow of current people for reasons other than
+
+infection, and the rate at which uninfected persons become infected.
+<ICE-USA:W2A-023#62:1> This third term is the number of encounters of all persons in group I
+
+with all persons in group J in social setting K where sex act S takes place (
+
+Cu) times the proportion of I individuals in those encounters who are
+
+susceptible ( XJ/NJ) times the proportion of J individuals in those
+
+encounters who are infected ( YJ/NJ) times the probability of transmission
+
+given sex act S ( - formula-).
+<ICE-USA:W2A-023#63:1> In the second equation, the first term is the outflow of infected
+
+persons from the population due to their developing AIDS; the second term is
+
+the outflow for reasons not related to infection, and the third corresponds
+
+to the individuals from the first equation who are newly infected.
+<ICE-USA:W2A-023#64:1> The notation used is summarized in table 1.</p>
+
+<p> <ICE-USA:W2A-023#65:1> This model corresponds to random mixing when the following two
+
+conditions hold: 1 ) there is random or " proportional" partner choice in
+
+each social setting and 2) the fraction of group I 's contacts that are in any
+
+given social setting K is the same for all K.</p>
+
+<p> <ICE-USA:W2A-023#66:1> Condition I corresponds mathematically to the following equation
+
+( terms are defined in table 1):</p>
+
+<p> <ICE-USA:W2A-023#67:1> - insert formula here-</p>
+
+<p> <ICE-USA:W2A-023#68:1> In this formula,</p>
+
+<p> <ICE-USA:W2A-023#69:1> - insert formula here-</p>
+
+<p> <ICE-USA:W2A-023#70:1> represents the fraction of all sexual contacts of type s in
+
+setting K that are made by group J.
+<ICE-USA:W2A-023#71:1> Multiplying this fraction by - formula- represents the assumption
+
+that this same fraction gives the fraction of group l S type S, setting K
+
+contacts that are with members of group J.
+<ICE-USA:W2A-023#72:1> In the " random" mixing scenario we present here, - insert formulae
+
+here-.</p>
+
+<p> <ICE-USA:W2A-023#73:1> Mixing will be called " structured" when population subgroups
+
+have different functions for their contacts in different social settings, but
+
+within any social setting the mixing I5 consistent with equation 2.
+<ICE-USA:W2A-023#74:1> In the structured mixing scenarios considered in this paper, - insert
+
+formulae here-.</p>
+
+<p> <ICE-USA:W2A-023#75:1> Mixing will be called " selective" when each population subgroup
+
+has the same fraction of its contacts in each social setting, but within each
+
+social setting, mixing is determined by equation 3 below instead of equation
+
+2.
+<ICE-USA:W2A-023#76:1> Mixing will be called " combined structured and selective" when
+
+subgroups do not make equal proportions of their contacts in different social
+
+settings and within each social setting mixing is determined by equation
+
+3.</p>
+<ICE-USA:W2A-023#77:1> <h> SELECTIVE MIXING </h>
+
+<p> <ICE-USA:W2A-023#78:1> The following formulation of selective mixing is intended to
+
+supplant our previously published, less manageable formulation of selective
+
+mixing ( 1).
+<ICE-USA:W2A-023#79:1> The basic parameters of selectiveness in our model are the number of
+
+social encounters per unit of time that an individual in group I makes in
+
+social setting K that have the potential to become sexual partners of type -
+
+formula- and the probability that such encounters with specific types of
+
+partners J result in sex of type S ( Q,I,J,S,K).
+<ICE-USA:W2A-023#80:1> These Q parameters represent the selectiveness with which individuals
+
+act on the T parameters or their opportunities for sex.</p>
+
+<p> <ICE-USA:W2A-023#81:1> For simplification, let us consider the situation for one type of
+
+sex within one social setting, so that we can drop the S and K subscripts.
+<ICE-USA:W2A-023#82:1> Now let-insert formula-where the meaning of the terms is summarized
+
+in table 1.
+<ICE-USA:W2A-023#83:1> In equation 3,-insert formula-represents the proportion of potential
+
+sexual encounters that are due to group j.
+<ICE-USA:W2A-023#84:1> Multiplying this fraction by T, NI essentially assumes that the
+
+social mixing leading to sexual proposals is proportional ( or random).
+<ICE-USA:W2A-023#85:1> Finally, the QIJ factor represents biased rates of rejection of those
+
+potential sexual encounters.
+<ICE-USA:W2A-023#86:1> Note that the CJ calculated with equation 3 must meet the following
+
+constraint:</p>
+
+<p> <ICE-USA:W2A-023#87:1> - insert formula-</p>
+
+<p> <ICE-USA:W2A-023#88:1> By substituting from equation 3, we compute - insert
+
+formula-where-insert formula-represents the average proportion of all sexual
+
+opportunities which result in sex by an individual in group i.
+<ICE-USA:W2A-023#89:1> If the QIJ 's and CI 's are known, we have shown that the following
+
+iteration procedure for estimating values of TJ 's, based on equation 5, will
+
+always converge to a stationary set of TJ 's that satisfy equation 5:</p> </I>

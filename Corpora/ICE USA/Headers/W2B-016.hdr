@@ -1,0 +1,49 @@
+<text.info>
+   <file.description>
+     <textcode>ICE-USA-W2B-016</textcode>
+     <number of subtexts>2</number of subtexts>
+     <category><category>written: printed: popular: social science</category>
+     <wordcount>2200</wordcount>
+     <version>coded, edited, with essential tagging </version>
+     <free.comments></free.comments>
+   </file.description>
+   <subtext.source=ICE-USA-W2B-016>
+     <source.type=collection>
+        <source.title>The New Republic</source.title>
+        <series></series>
+        <editor>Andrew Sullivan</editor>
+     <publication statement>
+        <publisher>The New Republic, Inc.</publisher>
+        <address>1220 19th Street, NW</address>
+        <place>Washington DC 20036</place>
+        <date>July 5, 1993</date>
+     </publication statement>
+     <copyright.statement>used by permission of The New Republic, Inc.</copyright.statement>
+     <free.comments></free.comments>
+     </source.type>
+   </subtext.source>
+   <subtext.internals=ICE-USA-W2B-016>
+     <subtext.name> </subtext.name>
+        <main.title>Caught in the Act; Love and Haiti</main.title>
+        <subtitle></subtitle>
+        <page.nos>12-15; 18-19</page.nos>
+     <free.comments>There are two different articles, same magazine, same date</free.comments>
+   </subtext.internals>
+   <biography=ICE-USA-W2B-016>
+     <speaker.id></speaker.id>
+        <communicative.role>author</communicative.role>
+        <surname>Shalit, Wilentz</surname>
+        <forenames>Ruth, Amy</forenames>
+        <age> </age>
+        <gender>Female</gender>
+        <nationality></nationality>
+        <birthplace></birthplace>
+        <education></education>
+        <educational.level></educational.level>
+        <occupation></occupation>
+        <affiliations></affiliations>
+        <mother.tongue></mother.tongue>
+        <other.languages></other.languages>
+        <free.comments></free.comments>
+   </biography>
+</text.info>

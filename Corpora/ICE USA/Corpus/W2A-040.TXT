@@ -1,0 +1,415 @@
+<I>
+<ICE-USA:W2A-040#1:1> <h> Terrestrial cosmic ray intensites</h>
+
+<P> <ICE-USA:W2A-040#2:1> Cosmic rays may cause soft fails in electronic logic or memory.
+<ICE-USA:W2A-040#3:1> The IBM Journal of Research and Development, Volume 40, No.
+<ICE-USA:W2A-040#4:1> 1, discussed this complex event in detail.
+<ICE-USA:W2A-040#5:1> In order to predict electronic fail rates from cosmic particles, it is
+
+necessary to know the local cosmic ray flux.
+<ICE-USA:W2A-040#6:1> This paper reviews the penetration of cosmic rays through the earth 's
+
+atmosphere, and the parameters which affect the terrestrial flux.
+<ICE-USA:W2A-040#7:1> The final particle flux is shown to vary mainly with the site 's
+
+geomagnetic coordinates and its altitude.
+<ICE-USA:W2A-040#8:1> The paper describes in detail the quantitative cosmic flux at one
+
+datum ( New York City) and then tabulates in an appendix the relative level
+
+at other major cities of the world. </P>
+<ICE-USA:W2A-040#9:1> <h> Introduction </h>
+
+<p> <ICE-USA:W2A-040#10:1> Cosmic rays were first discovered because of the dogged curiosity
+
+of one man to explain a minor scientific irritation.
+<ICE-USA:W2A-040#11:1> The study of radioactive materials in the period from 1898 to 1912
+
+was of widespread interest because this field offered direct insight into the
+
+nature of the atom, whose structure was still unknown.
+<ICE-USA:W2A-040#12:1> Electrometers were often used to measure the very small flux of
+
+particles coming from radioactive materials.
+<ICE-USA:W2A-040#13:1> ( An electrometer consists of two thin ribbons of metal suspended in
+
+a vacuum bulb, which diverge when charge is present.)
+<ICE-USA:W2A-040#14:1> In use, electrometer readings had to be corrected for " leakage,"
+
+which was dependent on the electrometer size and proportional to time, but
+
+remarkably was not dependent on the amount of charge on the electrometer
+
+foils.
+<ICE-USA:W2A-040#15:1> This leakage led to speculation about possible undiscovered
+
+radioactive contamination, or a flux of new invisible ether particles.
+<ICE-USA:W2A-040#16:1> Victor Hess studied this phenomenon by taking electrometers onto
+
+lakes where there should have been less contamination ( no change in leakage)
+
+and into caves ( leakage disappeared).
+<ICE-USA:W2A-040#17:1> Finally, in 1912, he brilliantly solved the problem by lifting two
+
+ion chambers in balloons to altitudes of 6 km ( Figure 1) [ 1, 2].
+<ICE-USA:W2A-040#18:1> He showed that there was indeed a flux of particles, and that it came
+
+from the sky with an intensity which increased with altitude ( he was awarded
+
+the 1936 Nobel Prize for this work).
+<ICE-USA:W2A-040#19:1> His work was immediately followed by more detailed studies such as
+
+that of Kolhorster, who showed that the particle flux increased very rapidly
+
+with altitude, with a 10X increase at only 10 km.
+<ICE-USA:W2A-040#20:1> Cosmic rays became the source of wild speculation for the next twenty
+
+years because of their exponential increase in flux with height.
+<ICE-USA:W2A-040#21:1> Finally, Pfotzer showed in 1936 that the flux did not continue to
+
+increase but reached a peak at about 15 km, after which it diminished rapidly
+
+[ 3] [ Figure l(c)].
+<ICE-USA:W2A-040#22:1> All of this early work is directly related to the prediction of
+
+integrated circuit ( IC) soft fails at terrestrial altitudes and at airplane
+
+altitudes. </p>
+
+<p> <ICE-USA:W2A-040#23:1> Because of the wide speculation about the nature of cosmic rays (
+
+a name introduced by the popular press about 1914), there is no single
+
+scientific definition of the phrase, only the popular description: Things
+
+which rain down from the heaven and are not wet.
+<ICE-USA:W2A-040#24:1> The scientific literature has adopted three variations on the phrase:
+
+primary cosmic rays, the initial particle flux external to the earth 's
+
+atmosphere; cascade cosmic rays, the intermediate flux within the atmosphere;
+
+and sea-level cosmic rays, the final terrestrial flux of particles. </p>
+<ICE-USA:W2A-040#25:1> <h> Outline of methodology </H>
+
+<p> <ICE-USA:W2A-040#26:1> This paper evaluates the terrestrial cosmic ray flux at various
+
+cities to facilitate the prediction of cosmic-rayinduced electronic soft
+
+fails [ 4].
+<ICE-USA:W2A-040#27:1> The cosmic particles which cause soft fails fall into the class of
+
+particles called hadrons, which interact with the strong interaction ( also
+
+called the nuclear force), specifically neutrons, protons, and pions.
+<ICE-USA:W2A-040#28:1> Experimental values of the flux of all of these particles have never
+
+been measured for any single terrestrial site.
+<ICE-USA:W2A-040#29:1> Therefore, scattered measurements taken over 50 years must be
+
+combined with theoretical estimates of variability to obtain a single
+
+benchmark cosmic sealevel flux, the cosmic flux datum, which was arbitrarily
+
+chosen to be that at New York City.
+<ICE-USA:W2A-040#30:1> Other experiments and theoretical calculations will scale this datum
+
+flux to other terrestrial cities.
+<ICE-USA:W2A-040#31:1> The topics of this paper are presented in the following order:
+<ICE-USA:W2A-040#32:1> 1.External particle flux-A discussion of the external incident cosmic
+
+ray particle flux into the earth 's outer atmosphere, and how it changes with
+
+time. </p>
+
+<p> <ICE-USA:W2A-040#33:1> 2.Cascades in the atmosphere-None of these external incident
+
+particles survive to reach the earth 's surface because of the density of the
+
+atmosphere and the strength of the strong interaction.
+<ICE-USA:W2A-040#34:1> Each incident particle creates a cascade of secondary particles,
+
+which in turn creates further cascades.
+<ICE-USA:W2A-040#35:1> The details of the cascades are complicated because many high-energy
+
+particles decay spontaneously, with half-lives of less than a nanosecond.
+<ICE-USA:W2A-040#36:1> A cascade calculation is used which gives flux spectra for all
+
+significant particles ( including all hadrons) in the lower atmosphere.
+<ICE-USA:W2A-040#37:1> This calculation generates the shapes of the sea-level particle flux
+
+spectra ( differential flux versus particle energy).
+<ICE-USA:W2A-040#38:1> These shapes are then normalized using the available experimental
+
+data. </p>
+
+<p> <ICE-USA:W2A-040#39:1> 3. Altitude corrections-The results of the above particle cascade
+
+calculations are used to obtain snapshots of the cascades at various
+
+altitudes in order to establish scaling rules which correct experimental flux
+
+measurements taken at various terrestrial altitudes to a common sea-level
+
+datum. </p>
+
+<p> <ICE-USA:W2A-040#40:1> 4. Geomagnetic corrections The earth 's magnetic field deflects
+
+cosmic rays and significantly modifies the terrestrial flux.
+<ICE-USA:W2A-040#41:1> Calculations of these terrestrial variations are used to normalize
+
+cosmic flux measurements taken at various geographic locations to equivalent
+
+fluxes at New York City. </p>
+
+<p> <ICE-USA:W2A-040#42:1> 5.NYC sea-level flux datum- The above steps establish the New
+
+York City sea-level flux datum, with experimental measurements taken at
+
+different locations and at different altitudes being normalized to a common
+
+point.
+<ICE-USA:W2A-040#43:1> No correction for solar cycle is made because the scatter of data is
+
+much larger than the effects of the solar cycle. </p>
+
+<p> <ICE-USA:W2A-040#44:1> 6.Flux intensities for cities The cosmic ray flux at many other
+
+cities is evaluated on the basis of their latitude, longitude, and altitude.
+<ICE-USA:W2A-040#45:1> An appendix tabulates the results for many cities with populations
+
+above 500 000 or isolated sites with extensive electronic systems ( e.g.,
+
+Kinshasa, Zaire, or Leadville, Colorado). </p>
+<ICE-USA:W2A-040#46:1> <h> Primary cosmic ray flux </h>
+
+<p> <ICE-USA:W2A-040#47:1> There are two sources of primary cosmic ray particles: First,
+
+there is a flux of very energetic particles from distant sources in the
+
+galaxy.
+<ICE-USA:W2A-040#48:1> There is also the flood of low-energy particles called the solar
+
+wind, which disappears during the period of the quiet sun, and then builds
+
+into a torrential storm of particles during an active sun period.
+<ICE-USA:W2A-040#49:1> These two particle currents are initially considered separately. </p>
+<ICE-USA:W2A-040#50:1> <h> Galactic flux</h>
+
+<p> <ICE-USA:W2A-040#51:1> The galactic cosmic rays are of debatable origin, and there are
+
+no theoretical estimates of the primary flux.
+<ICE-USA:W2A-040#52:1> Some have energies beyond 10^sup 23^ eV, so exotic scenarios have
+
+been proposed for their origin, such as being accelerated by stellar flares,
+
+supernova explosions, pulsar spin-offs, or from the explosions of nascent
+
+galactic nuclei.
+<ICE-USA:W2A-040#53:1> The flux density of primary cosmic rays in the galaxy is very large,
+
+about 100 000/m^sup 2^-s.
+<ICE-USA:W2A-040#54:1> The energy density of cosmic rays is very high, more than I MeV/m^sup
+
+3^, so it is assumed that they must originate within our galaxy or else the
+
+mass/energy balance of cosmology would be inconsistent with current theory.
+<ICE-USA:W2A-040#55:1> Because our galaxy is spinning, it is saturated with a magnetic field
+
+of several microGauss.
+<ICE-USA:W2A-040#56:1> The cosmic rays interact with this field so that, typically, they
+
+continuously spiral during their lifetime with a spiral diameter of a
+
+fraction of the galactic diameter.
+<ICE-USA:W2A-040#57:1> It is because of this vast spiraling trajectory that a local observer
+
+within the galaxy would detect that the galactic cosmic rays are isotropic
+
+and do not come from particular sources. </p>
+
+<p> <ICE-USA:W2A-040#58:1> Particle detectors in satellites have determined that the primary
+
+low-energy cosmic ray particles consist of 92&percent; protons and 6&percent; alpha
+
+particles, with the remainder being heavy nuclei ( Figure 2).
+<ICE-USA:W2A-040#59:1> There are no free neutrons in the external galactic flux because
+
+neutrons are unstable unless bound in a nucleus and have an 11-minute half
+
+life as free particles.
+<ICE-USA:W2A-040#60:1> The flux of higher-energy particles shown in Figure 2 has been
+
+estimated from various kinds of experiments: ( a) the flux variation of
+
+particles through different strengths of the earth 's geomagnetic field; ( b)
+
+data from large-particle spectrometers flown in balloons to altitudes of 100
+
+km; ( c) measurements of the penetration of hadron cascades into the earth (
+
+marked Indirect in Figure 2); and ( d) the analysis of the very large
+
+individual showers with 10^sup 8^ particles which spread over a hundred
+
+kilometers at sea level ( all from a single incident particle!).
+<ICE-USA:W2A-040#61:1> Accurate spectrometers in satellites such as CREDE-II have identified
+
+the individual elements in the primary flux, and typical data are shown in
+
+Figure 2(b). </p>
+
+<p> <ICE-USA:W2A-040#62:1> These incident particles have such high energies that the
+
+particles have deBroglie wavelengths smaller than a proton diameter ( or,
+
+more explicitly, smaller than the interaction distance of the strong
+
+interaction).
+<ICE-USA:W2A-040#63:1> Further, their energy is far greater than that of nuclear binding
+
+energies.
+<ICE-USA:W2A-040#64:1> This means that when a cosmic ray alpha particle hits an atmospheric
+
+nucleus, the alpha particle need not be considered as a He nucleus, but can
+
+be treated as independent particles, two protons and two neutrons, with each
+
+one interacting independently with any atmospheric nucleus.
+<ICE-USA:W2A-040#65:1> Therefore, from the standpoint of its interaction with the
+
+atmosphere, we can simplify the primary particle flux distributions of Figure
+
+2 by assuming that the incident flux is just 71&percent; protons and 29&percent; neutrons.
+<ICE-USA:W2A-040#66:1> This assumption, along with corrected energy/flux curves for just two
+
+sets of particles, greatly simplifies the calculation of the atmospheric
+
+cascades.
+<ICE-USA:W2A-040#67:1> Calculations of cosmic ray particle trajectories in the earth 's
+
+magnetic field indicate that initial energies above 1 GeV are necessary for
+
+penetration to the earth 's surface ( see [ 7-16]).
+<ICE-USA:W2A-040#68:1> Precise satellite measurements show that the incident flux of cosmic
+
+rays with energies above 1 GeV is about 1600/m^sup 2^-s at the edge of the
+
+exosphere with isotropic trajectories [ 17]. </p>
+<ICE-USA:W2A-040#69:1> <h> Solar flux </h>
+
+<p> <ICE-USA:W2A-040#70:1> A second source of primary cosmic rays is the sun.
+<ICE-USA:W2A-040#71:1> During the quiet sun period there are essentially no energetic
+
+particles in the solar wind which can reach sea level on earth because of the
+
+low energies of the particles.
+<ICE-USA:W2A-040#72:1> In the active sun period, the solar wind increases by factors of the
+
+order of 10^sup 6^, making it far denser than the galactic particle flux.
+<ICE-USA:W2A-040#73:1> The sun has a variable cycle which ranges from 9 to 12 years; Table 1
+
+shows the years of the most recent cycle nodes.
+<ICE-USA:W2A-040#74:1> During the previous quiet sun period, 1985-1986, satellite detectors
+
+indicated that there were effectively no energetic particles in the solar
+
+wind which could penetrate to sea level on earth ( i.e., with energies
+
+greater than 1 GeV). </p>
+
+<p> <ICE-USA:W2A-040#75:1> The simplest evidence that solar particles do not induce
+
+sea-level cascades is that there is only a small diurnal change.
+<ICE-USA:W2A-040#76:1> The maximum diurnal effect is estimated at less than 1&percent;; see Figure
+
+3, which indeed shows minima occurring every day at local midnight.
+<ICE-USA:W2A-040#77:1> During periods of a large solar flare ( which might last a few days),
+
+there is a small chance that the earth might pass through the narrow beam of
+
+particles from the flare, and the total intensity of cosmic rays at the
+
+earth 's surface might double for a few hours.
+<ICE-USA:W2A-040#78:1> More than two dozen of these events occurred during 1990-1991. </p>
+
+<p> <ICE-USA:W2A-040#79:1> However, there is a more important aspect to the solar cycle than
+
+the increased particle flux.
+<ICE-USA:W2A-040#80:1> The active sun with its large solar wind creates a large distortion
+
+of the magnetic field about the earth ( the magnetosphere), which increases
+
+the earth 's shielding against intragalactic cosmic rays.
+<ICE-USA:W2A-040#81:1> This leads to a net reduction of the sea-level cosmic rays during the
+
+period of the active sun.
+<ICE-USA:W2A-040#82:1> In the active sun of 1989-1991, which was the most intense solar
+
+activity ever recorded, the sea-level intensity of cosmic rays actually
+
+decreased by about 30&percent;.
+<ICE-USA:W2A-040#83:1> Thus, the active sun greatly intensifies the solar wind, and the
+
+external particle flux increases, but the earth 's distant magnetic field also
+
+increases.
+<ICE-USA:W2A-040#84:1> The final result of this complex interaction is that the terrestrial
+
+sea-level flux of cosmic particles decreases during the active sun, except
+
+for the few hours during the most spectacular solar flares ( Figure 4). </p>
+
+<p> <ICE-USA:W2A-040#85:1> Figure 4 is also a good representation of how the terrestrial
+
+flux which causes soft fails changes with the solar cycle.
+<ICE-USA:W2A-040#86:1> It includes all hadrons, and also has a significant contribution from
+
+muon capture processes ( described later).
+<ICE-USA:W2A-040#87:1> It shows that the solar cycle is a perturbation of the general
+
+terrestrial flux, amounting to, at most, a 30&percent; reduction during the most
+
+active solar periods.
+<ICE-USA:W2A-040#88:1> The data in Figure 4 constitute the longest continuous record of
+
+cosmic rays [ 19-21].
+<ICE-USA:W2A-040#89:1> The figure shows the general inverse correlation between solar
+
+activity and terrestrial cosmic rays, but the details of the two phenomena
+
+have only partial relationships.
+<ICE-USA:W2A-040#90:1> This is because the sunspots, and their corresponding solar flares,
+
+usually distort the solar magnetosphere only in specific directions, and the
+
+effect on the earth depends on whether the earth is in that sector. </p>
+
+<p> <ICE-USA:W2A-040#91:1> Solar flares may also send a particularly intense stream of
+
+particles into the solar wind, but these particle streams are usually of such
+
+low energy that they are not detected at sea level.
+<ICE-USA:W2A-040#92:1> During the period from 1956 to 1972 ( 17 years) there were 61 solar
+
+events which caused particle bursts at satellite altitudes.
+<ICE-USA:W2A-040#93:1> Of these, only 18 were simultaneously detected at sea-level particle
+
+detector stations, with an average change of flux of about 10&percent; for a period
+
+of about a day ( [ 17], p. ( 6-20/21).
+<ICE-USA:W2A-040#94:1> More typical is a decrease in particle flux due to increased
+
+intensity of the magnetosphere caused by the solar event.
+<ICE-USA:W2A-040#95:1> Typical sea-level particle flux changes are shown in Figure 5, in
+
+which a narrow 20&percent; dip is due to a solar flare event.
+<ICE-USA:W2A-040#96:1> This type of decrease is called a Forbush decrease, after the
+
+scientist who first related the decrease to solar flares [ 22]. </p>
+
+<p> <ICE-USA:W2A-040#97:1> Details of the variation of the primary galactic particle flux
+
+with the solar cycle have been measured, and above I GeV there are almost no
+
+significant differences due to the solar cycle. </p> </I>

@@ -1,0 +1,45 @@
+<text.info>
+     <file.description>          
+		<textcode>ICE-USA-W2A-010</textcode>       
+   	<number of subtexts>1</number of subtexts>          
+	<category>written:printed:academic:humanities</category>          
+	<wordcount>2298</wordcount>
+      <version>coded, edited  but untagged</version>          
+	<free.comments></free.comments>  
+   </file.description>     
+<subtext.source=ICE-USA-W2A-010>
+          <source.type=collection>   
+            <source.title>The Journal of Aesthetics and art  Criticism</source.title>
+               <series></series>       
+        <editor>Philip Alperson</editor> 
+         <publication  statement>   
+            <publisher>Univesity of Wisconsin  Press</publisher>
+               <address>114 N. <#>Murray St.</address> 
+              <place>Madison, WI 53715</place>   
+            <date>1994</date>      
+    </publication statement>  
+        <copyright.statement>used by permission of University of Wisconsin Press</copyright.statement>          
+<free.comments></free.comments>          
+</source.type>     </subtext.source> 
+    <subtext.internals=ICE-USA-W2A-010>          
+<subtext.name> </subtext.name>
+               <main.title>The Intrinsic, Non-Supervenient Nature of Aesthetic Properties</main.title>    
+           <subtitle></subtitle>               
+<page.nos>386-389</page.nos>          
+<free.comments></free.comments>     </subtext.internals>     
+<biography=ICE-USA-W2A-010>          <speaker.id></speaker.id> 
+              <communicative.role>author</communicative.role>        
+       <surname>Eaton</surname>               
+<forenames>Marcia Muelder</forenames>               
+<age>58</age>    
+           <gender>Female</gender>      
+         <nationality></nationality>               
+<birthplace></birthplace>               
+<education></education>               
+<educational.level>Doctorate</educational.level>               
+<occupation>Professor of Philosophy</occupation>               
+<affiliations></affiliations>               
+<mother.tongue>English</mother.tongue>               
+<other.languages></other.languages>               
+<free.comments></free.comments>     </biography>
+</text.info>

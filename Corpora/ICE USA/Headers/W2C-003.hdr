@@ -1,0 +1,148 @@
+<text.info>
+     <file.description>
+          <textcode>ICE-USA-W2C-003</textcode>
+          <number of subtexts>5</number of subtexts>
+          <category>written: printed: reportage: press news</category>
+          <wordcount>2196</wordcount>
+          <version>coded, edited but untagged</version>
+          <free.comments></free.comments>
+     </file.description>
+     <subtext.source=ALL>
+          <source.type=newspaper>
+               <source.title>The Topeka Capital Journal</source.title>
+          <publication statement>
+               <publisher>Copyright 2000 The Topeka Capital Journal </publisher>
+               <address></address>
+               <place> </place>
+               <date>6/12/2000</date>
+          </publication statement>
+          <copyright.statement>used with permission of The Topeka Capital Journal</copyright.statement>
+          <free.comments></free.comments>
+          </source.type>
+     </subtext.source>
+</text.info>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-003>
+          <subtext.name></subtext.name>
+               <main.title>Good To Testify During Defense</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-003>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Fry</surname>
+               <forenames>Steve</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-003>
+          <subtext.name></subtext.name>
+               <main.title>Depth of River Causing Concern</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-003>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Hall</surname>
+               <forenames>Mike</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-003>
+          <subtext.name></subtext.name>
+               <main.title>Support Group Uses Alternative Approach</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-003>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Mendoza</surname>
+               <forenames>J. R.</forenames>
+               <age> </age>
+               <gender> </gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-003>
+          <subtext.name>Suspect Arrested in Minutes</subtext.name>
+               <main.title> </main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+</subtext.internals>
+<biography=ICE-USA-W2C-003>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Bates</surname>
+               <forenames>Kevin</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</subtext.internals>
+<subtext.internals=ICE-USA-W2C-003>
+          <subtext.name></subtext.name>
+               <main.title>Mental Intensity Helps Bottalico Regain Edge</main.title>
+               <subtitle></subtitle>
+               <page.nos> </page.nos>
+          <free.comments></free.comments>
+<biography=ICE-USA-W2C-003>
+          <speaker.id></speaker.id>
+               <communicative.role>author</communicative.role>
+               <surname>Corbitt</surname>
+               <forenames>Ken</forenames>
+               <age> </age>
+               <gender>Male</gender>
+               <nationality></nationality>
+               <birthplace></birthplace>
+               <education></education>
+               <educational.level></educational.level>
+               <occupation></occupation>
+               <affiliations></affiliations>
+               <mother.tongue></mother.tongue>
+               <other.languages></other.languages>
+               <free.comments></free.comments>
+     </biography>
+</text.info>
