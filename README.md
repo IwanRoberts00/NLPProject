@@ -1,2 +1,2 @@
 # NLPProject
-Automatic Identification of dialects
+Discerning the effectiveness of dialect-specific NLP models
